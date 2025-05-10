@@ -1,0 +1,937 @@
+[
+  {
+    "word": "a",
+    "pos": "art.",
+    "meaning": "累加器, 加法器"
+  },
+  {
+    "word": "aaah",
+    "pos": "abbr.",
+    "meaning": "美国人权促进会"
+  },
+  {
+    "word": "aah",
+    "pos": "abbr.",
+    "meaning": "装甲榴弹炮"
+  },
+  {
+    "word": "aback",
+    "pos": "adv.",
+    "meaning": "向后, 朝后"
+  },
+  {
+    "word": "abacus",
+    "pos": "n.",
+    "meaning": "算盘"
+  },
+  {
+    "word": "abandon",
+    "pos": "vt.",
+    "meaning": "放弃, 抛弃"
+  },
+  {
+    "word": "abandoned",
+    "pos": "a.",
+    "meaning": "被抛弃的"
+  },
+  {
+    "word": "abandonment",
+    "pos": "n.",
+    "meaning": "放弃, 抛弃"
+  },
+  {
+    "word": "abase",
+    "pos": "vt.",
+    "meaning": "降低...的地位"
+  },
+  {
+    "word": "abasement",
+    "pos": "n.",
+    "meaning": "贬抑, 屈辱"
+  },
+  {
+    "word": "abash",
+    "pos": "vt.",
+    "meaning": "使不安, 使羞愧"
+  },
+  {
+    "word": "abashed",
+    "pos": "a.",
+    "meaning": "不安的, 窘迫的"
+  },
+  {
+    "word": "abate",
+    "pos": "vt.",
+    "meaning": "减少, 减轻"
+  },
+  {
+    "word": "abatement",
+    "pos": "n.",
+    "meaning": "减少, 减轻"
+  },
+  {
+    "word": "abattoir",
+    "pos": "n.",
+    "meaning": "屠场"
+  },
+  {
+    "word": "abbess",
+    "pos": "n.",
+    "meaning": "女修道院院长"
+  },
+  {
+    "word": "abbey",
+    "pos": "n.",
+    "meaning": "大修道院"
+  },
+  {
+    "word": "abbot",
+    "pos": "n.",
+    "meaning": "男修道院院长"
+  },
+  {
+    "word": "abbreviate",
+    "pos": "vt.",
+    "meaning": "缩写, 使...简略"
+  },
+  {
+    "word": "abbreviated",
+    "pos": "[计]",
+    "meaning": "缩写的, 短缩的"
+  },
+  {
+    "word": "abbreviation",
+    "pos": "n.",
+    "meaning": "缩写词"
+  },
+  {
+    "word": "abdicate",
+    "pos": "vt.",
+    "meaning": "正式放弃"
+  },
+  {
+    "word": "abdication",
+    "pos": "n.",
+    "meaning": "逊位, 弃权"
+  },
+  {
+    "word": "abdomen",
+    "pos": "n.",
+    "meaning": "腹部"
+  },
+  {
+    "word": "abdominal",
+    "pos": "a.",
+    "meaning": "腹部的"
+  },
+  {
+    "word": "abduct",
+    "pos": "vt.",
+    "meaning": "诱拐, 绑架"
+  },
+  {
+    "word": "abducted",
+    "pos": "[法]",
+    "meaning": "诱拐"
+  },
+  {
+    "word": "abduction",
+    "pos": "n.",
+    "meaning": "诱拐, 绑架"
+  },
+  {
+    "word": "abductor",
+    "pos": "n.",
+    "meaning": "诱拐者, 绑架者"
+  },
+  {
+    "word": "abed",
+    "pos": "adv.",
+    "meaning": "在床上"
+  },
+  {
+    "word": "aberrant",
+    "pos": "a.",
+    "meaning": "偏离正路的"
+  },
+  {
+    "word": "aberration",
+    "pos": "n.",
+    "meaning": "离开正路, 偏离"
+  },
+  {
+    "word": "abet",
+    "pos": "vt.",
+    "meaning": "教唆, 煽动"
+  },
+  {
+    "word": "abeyance",
+    "pos": "n.",
+    "meaning": "中止, 暂搁"
+  },
+  {
+    "word": "abhor",
+    "pos": "vt.",
+    "meaning": "憎恶, 痛恨"
+  },
+  {
+    "word": "abhorrence",
+    "pos": "n.",
+    "meaning": "厌恶, 痛恨"
+  },
+  {
+    "word": "abhorrent",
+    "pos": "a.",
+    "meaning": "令人憎恨的"
+  },
+  {
+    "word": "abide",
+    "pos": "vi.",
+    "meaning": "停留, 遵守"
+  },
+  {
+    "word": "abiding",
+    "pos": "a.",
+    "meaning": "永久的, 持久的"
+  },
+  {
+    "word": "ability",
+    "pos": "n.",
+    "meaning": "能力, 才干"
+  },
+  {
+    "word": "abject",
+    "pos": "a.",
+    "meaning": "绝望无助的"
+  },
+  {
+    "word": "abjectly",
+    "pos": "adv.",
+    "meaning": "境况低贱"
+  },
+  {
+    "word": "abjure",
+    "pos": "vt.",
+    "meaning": "发誓断绝"
+  },
+  {
+    "word": "ablation",
+    "pos": "n.",
+    "meaning": "腐蚀, 切除"
+  },
+  {
+    "word": "ablaze",
+    "pos": "a.",
+    "meaning": "着火的"
+  },
+  {
+    "word": "able",
+    "pos": "a.",
+    "meaning": "能干的"
+  },
+  {
+    "word": "ablution",
+    "pos": "n.",
+    "meaning": "洗澡, 洗礼"
+  },
+  {
+    "word": "ably",
+    "pos": "adv.",
+    "meaning": "能干地"
+  },
+  {
+    "word": "abnegation",
+    "pos": "n.",
+    "meaning": "放弃, 舍弃"
+  },
+  {
+    "word": "abnormal",
+    "pos": "a.",
+    "meaning": "反常的"
+  },
+  {
+    "word": "abnormality",
+    "pos": "n.",
+    "meaning": "反常"
+  },
+  {
+    "word": "abnormally",
+    "pos": "adv.",
+    "meaning": "不正常"
+  },
+  {
+    "word": "about",
+    "pos": "prep.",
+    "meaning": "在...周围"
+  },
+  {
+    "word": "above",
+    "pos": "prep.",
+    "meaning": "在上方"
+  },
+  {
+    "word": "abrade",
+    "pos": "vt.",
+    "meaning": "擦伤, 磨损"
+  },
+  {
+    "word": "abrasion",
+    "pos": "n.",
+    "meaning": "磨擦, 磨损"
+  },
+  {
+    "word": "abrasive",
+    "pos": "n.",
+    "meaning": "研磨料"
+  },
+  {
+    "word": "abreast",
+    "pos": "adv.",
+    "meaning": "并肩地"
+  },
+  {
+    "word": "abridge",
+    "pos": "vt.",
+    "meaning": "缩短, 删节"
+  },
+  {
+    "word": "abridged",
+    "pos": "a.",
+    "meaning": "删节的"
+  },
+  {
+    "word": "abridgement",
+    "pos": "n.",
+    "meaning": "节本"
+  },
+  {
+    "word": "abroad",
+    "pos": "adv.",
+    "meaning": "往国外"
+  },
+  {
+    "word": "abrogate",
+    "pos": "vt.",
+    "meaning": "废除, 取消"
+  },
+  {
+    "word": "abrogation",
+    "pos": "n.",
+    "meaning": "废除, 取消"
+  },
+  {
+    "word": "abrupt",
+    "pos": "a.",
+    "meaning": "突然的"
+  },
+  {
+    "word": "abruptly",
+    "pos": "adv.",
+    "meaning": "突然地"
+  },
+  {
+    "word": "abruptness",
+    "pos": "n.",
+    "meaning": "突然"
+  },
+  {
+    "word": "ABS",
+    "pos": "[计]",
+    "meaning": "绝对"
+  },
+  {
+    "word": "abscess",
+    "pos": "n.",
+    "meaning": "脓肿"
+  },
+  {
+    "word": "abscond",
+    "pos": "vi.",
+    "meaning": "潜逃, 逃匿"
+  },
+  {
+    "word": "absence",
+    "pos": "n.",
+    "meaning": "缺席, 缺乏"
+  },
+  {
+    "word": "absent",
+    "pos": "a.",
+    "meaning": "缺席的"
+  },
+  {
+    "word": "absentee",
+    "pos": "n.",
+    "meaning": "缺席者"
+  },
+  {
+    "word": "absenteeism",
+    "pos": "n.",
+    "meaning": "旷职, 旷工"
+  },
+  {
+    "word": "absently",
+    "pos": "adv.",
+    "meaning": "心不在焉地"
+  },
+  {
+    "word": "absentmindedly",
+    "pos": "adv.",
+    "meaning": "茫然地"
+  },
+  {
+    "word": "absolute",
+    "pos": "a.",
+    "meaning": "绝对的"
+  },
+  {
+    "word": "absolutely",
+    "pos": "adv.",
+    "meaning": "完全地"
+  },
+  {
+    "word": "absolution",
+    "pos": "n.",
+    "meaning": "免罪, 赦免"
+  },
+  {
+    "word": "absolutism",
+    "pos": "n.",
+    "meaning": "专制主义"
+  },
+  {
+    "word": "absolutist",
+    "pos": "n.",
+    "meaning": "专制主义者"
+  },
+  {
+    "word": "absolve",
+    "pos": "vt.",
+    "meaning": "宣告...无罪"
+  },
+  {
+    "word": "absorb",
+    "pos": "vt.",
+    "meaning": "吸收, 使全神贯注"
+  },
+  {
+    "word": "absorbance",
+    "pos": "n.",
+    "meaning": "吸光率"
+  },
+  {
+    "word": "absorbed",
+    "pos": "a.",
+    "meaning": "全神贯注的"
+  },
+  {
+    "word": "absorbency",
+    "pos": "n.",
+    "meaning": "吸收能力"
+  },
+  {
+    "word": "absorbent",
+    "pos": "a.",
+    "meaning": "能吸收的"
+  },
+  {
+    "word": "absorber",
+    "pos": "n.",
+    "meaning": "吸收器"
+  },
+  {
+    "word": "absorbing",
+    "pos": "a.",
+    "meaning": "吸引人的"
+  },
+  {
+    "word": "absorption",
+    "pos": "n.",
+    "meaning": "吸收"
+  },
+  {
+    "word": "absorptive",
+    "pos": "a.",
+    "meaning": "吸收性的"
+  },
+  {
+    "word": "abstain",
+    "pos": "vi.",
+    "meaning": "戒绝"
+  },
+  {
+    "word": "abstainer",
+    "pos": "n.",
+    "meaning": "戒酒者"
+  },
+  {
+    "word": "abstemious",
+    "pos": "a.",
+    "meaning": "有节制的"
+  },
+  {
+    "word": "abstention",
+    "pos": "n.",
+    "meaning": "戒绝"
+  },
+  {
+    "word": "abstinence",
+    "pos": "n.",
+    "meaning": "节制"
+  },
+  {
+    "word": "abstract",
+    "pos": "a.",
+    "meaning": "抽象的"
+  },
+  {
+    "word": "abstracted",
+    "pos": "a.",
+    "meaning": "心不在焉的"
+  },
+  {
+    "word": "abstractedly",
+    "pos": "adv.",
+    "meaning": "心不在焉地"
+  },
+  {
+    "word": "abstraction",
+    "pos": "n.",
+    "meaning": "抽象化"
+  },
+  {
+    "word": "abstractly",
+    "pos": "adv.",
+    "meaning": "抽象地"
+  },
+  {
+    "word": "abstruse",
+    "pos": "a.",
+    "meaning": "深奥的"
+  },
+  {
+    "word": "absurd",
+    "pos": "a.",
+    "meaning": "荒谬的"
+  },
+  {
+    "word": "absurdity",
+    "pos": "n.",
+    "meaning": "荒谬"
+  },
+  {
+    "word": "absurdly",
+    "pos": "adv.",
+    "meaning": "荒谬地"
+  },
+  {
+    "word": "abundance",
+    "pos": "n.",
+    "meaning": "丰富"
+  },
+  {
+    "word": "abundant",
+    "pos": "a.",
+    "meaning": "丰富的"
+  },
+  {
+    "word": "abundantly",
+    "pos": "adv.",
+    "meaning": "丰富地"
+  },
+  {
+    "word": "abuse",
+    "pos": "n.",
+    "meaning": "滥用"
+  },
+  {
+    "word": "abused",
+    "pos": "n.",
+    "meaning": "受虐"
+  },
+  {
+    "word": "abuser",
+    "pos": "n.",
+    "meaning": "滥用者"
+  },
+  {
+    "word": "abusive",
+    "pos": "a.",
+    "meaning": "恶言的"
+  },
+  {
+    "word": "abut",
+    "pos": "v.",
+    "meaning": "邻接"
+  },
+  {
+    "word": "abutment",
+    "pos": "n.",
+    "meaning": "桥台"
+  },
+  {
+    "word": "abysmal",
+    "pos": "a.",
+    "meaning": "深不可测的"
+  },
+  {
+    "word": "abysmally",
+    "pos": "adv.",
+    "meaning": "极糟地"
+  },
+  {
+    "word": "abyss",
+    "pos": "n.",
+    "meaning": "深渊"
+  },
+  {
+    "word": "Abyssinian",
+    "pos": "a.",
+    "meaning": "阿比西尼亚的"
+  },
+  {
+    "word": "acacia",
+    "pos": "n.",
+    "meaning": "洋槐"
+  },
+  {
+    "word": "academe",
+    "pos": "n.",
+    "meaning": "研究院"
+  },
+  {
+    "word": "academia",
+    "pos": "n.",
+    "meaning": "学术界"
+  },
+  {
+    "word": "academic",
+    "pos": "a.",
+    "meaning": "学术的"
+  },
+  {
+    "word": "academically",
+    "pos": "adv.",
+    "meaning": "学术上"
+  },
+  {
+    "word": "academician",
+    "pos": "n.",
+    "meaning": "院士"
+  },
+  {
+    "word": "academy",
+    "pos": "n.",
+    "meaning": "学院"
+  },
+  {
+    "word": "accede",
+    "pos": "vi.",
+    "meaning": "同意"
+  },
+  {
+    "word": "accelerate",
+    "pos": "v.",
+    "meaning": "加速"
+  },
+  {
+    "word": "accelerated",
+    "pos": "a.",
+    "meaning": "加快的"
+  },
+  {
+    "word": "accelerating",
+    "pos": "[计]",
+    "meaning": "加速"
+  },
+  {
+    "word": "acceleration",
+    "pos": "n.",
+    "meaning": "加速"
+  },
+  {
+    "word": "accelerator",
+    "pos": "n.",
+    "meaning": "加速器"
+  },
+  {
+    "word": "accent",
+    "pos": "n.",
+    "meaning": "重音"
+  },
+  {
+    "word": "accented",
+    "pos": "a.",
+    "meaning": "带口音的"
+  },
+  {
+    "word": "accentuate",
+    "pos": "vt.",
+    "meaning": "强调"
+  },
+  {
+    "word": "accentuation",
+    "pos": "n.",
+    "meaning": "重读"
+  },
+  {
+    "word": "accept",
+    "pos": "vt.",
+    "meaning": "接受"
+  },
+  {
+    "word": "acceptability",
+    "pos": "n.",
+    "meaning": "可接受"
+  },
+  {
+    "word": "acceptable",
+    "pos": "a.",
+    "meaning": "可接受的"
+  },
+  {
+    "word": "acceptably",
+    "pos": "adv.",
+    "meaning": "可接受地"
+  },
+  {
+    "word": "acceptance",
+    "pos": "n.",
+    "meaning": "接受"
+  },
+  {
+    "word": "accepted",
+    "pos": "a.",
+    "meaning": "公认的"
+  },
+  {
+    "word": "acceptor",
+    "pos": "n.",
+    "meaning": "接受者"
+  },
+  {
+    "word": "access",
+    "pos": "n.",
+    "meaning": "通路"
+  },
+  {
+    "word": "accessibility",
+    "pos": "n.",
+    "meaning": "易接近"
+  },
+  {
+    "word": "accessible",
+    "pos": "a.",
+    "meaning": "易接近的"
+  },
+  {
+    "word": "accession",
+    "pos": "n.",
+    "meaning": "增加"
+  },
+  {
+    "word": "accessory",
+    "pos": "n.",
+    "meaning": "附件"
+  },
+  {
+    "word": "accident",
+    "pos": "n.",
+    "meaning": "意外"
+  },
+  {
+    "word": "accidental",
+    "pos": "a.",
+    "meaning": "意外的"
+  },
+  {
+    "word": "accidentally",
+    "pos": "adv.",
+    "meaning": "意外地"
+  },
+  {
+    "word": "acclaim",
+    "pos": "n.",
+    "meaning": "喝彩"
+  },
+  {
+    "word": "acclaimed",
+    "pos": "v.",
+    "meaning": "欢呼"
+  },
+  {
+    "word": "acclamation",
+    "pos": "n.",
+    "meaning": "欢呼"
+  },
+  {
+    "word": "acclimatization",
+    "pos": "n.",
+    "meaning": "适应"
+  },
+  {
+    "word": "acclimatize",
+    "pos": "vt.",
+    "meaning": "适应"
+  },
+  {
+    "word": "accolade",
+    "pos": "n.",
+    "meaning": "荣誉"
+  },
+  {
+    "word": "accommodate",
+    "pos": "vt.",
+    "meaning": "容纳"
+  },
+  {
+    "word": "accommodating",
+    "pos": "a.",
+    "meaning": "肯通融的"
+  },
+  {
+    "word": "accommodation",
+    "pos": "n.",
+    "meaning": "适应"
+  },
+  {
+    "word": "accompaniment",
+    "pos": "n.",
+    "meaning": "伴奏"
+  },
+  {
+    "word": "accompanist",
+    "pos": "n.",
+    "meaning": "伴奏者"
+  },
+  {
+    "word": "accompany",
+    "pos": "vt.",
+    "meaning": "陪伴"
+  },
+  {
+    "word": "accompanying",
+    "pos": "a.",
+    "meaning": "随同的"
+  },
+  {
+    "word": "accomplice",
+    "pos": "n.",
+    "meaning": "共犯"
+  },
+  {
+    "word": "accomplish",
+    "pos": "vt.",
+    "meaning": "完成"
+  },
+  {
+    "word": "accomplished",
+    "pos": "a.",
+    "meaning": "完成的"
+  },
+  {
+    "word": "accomplishment",
+    "pos": "n.",
+    "meaning": "成就"
+  },
+  {
+    "word": "accord",
+    "pos": "n.",
+    "meaning": "一致"
+  },
+  {
+    "word": "accordance",
+    "pos": "n.",
+    "meaning": "一致"
+  },
+  {
+    "word": "according",
+    "pos": "a.",
+    "meaning": "相符的"
+  },
+  {
+    "word": "accordingly",
+    "pos": "adv.",
+    "meaning": "因此"
+  },
+  {
+    "word": "accordion",
+    "pos": "n.",
+    "meaning": "手风琴"
+  },
+  {
+    "word": "accordionist",
+    "pos": "n.",
+    "meaning": "手风琴师"
+  },
+  {
+    "word": "accost",
+    "pos": "vt.",
+    "meaning": "招呼"
+  },
+  {
+    "word": "account",
+    "pos": "n.",
+    "meaning": "报告"
+  },
+  {
+    "word": "accountability",
+    "pos": "n.",
+    "meaning": "责任"
+  },
+  {
+    "word": "accountable",
+    "pos": "a.",
+    "meaning": "负有责任的"
+  },
+  {
+    "word": "accountancy",
+    "pos": "n.",
+    "meaning": "会计工作"
+  },
+  {
+    "word": "accountant",
+    "pos": "n.",
+    "meaning": "会计师"
+  },
+  {
+    "word": "accounting",
+    "pos": "n.",
+    "meaning": "会计学"
+  },
+  {
+    "word": "accoutrement",
+    "pos": "n.",
+    "meaning": "装备"
+  },
+  {
+    "word": "accredit",
+    "pos": "vt.",
+    "meaning": "委派"
+  },
+  {
+    "word": "accreditation",
+    "pos": "n.",
+    "meaning": "鉴定合格"
+  },
+  {
+    "word": "accredited",
+    "pos": "v.",
+    "meaning": "认可"
+  },
+  {
+    "word": "accrete",
+    "pos": "vi.",
+    "meaning": "连生"
+  },
+  {
+    "word": "accrete",
+    "pos": "vt.",
+    "meaning": "使连接"
+  },
+  {
+    "word": "accrete",
+    "pos": "a.",
+    "meaning": "合生的"
+  }
+]
