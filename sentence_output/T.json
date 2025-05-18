@@ -14833,5 +14833,367 @@
         "易混词：teapot（茶壶）是容器，teabag是内容物"
       ]
     }
+  },
+  {
+    "word": "teach",
+    "etymology": {
+      "breakdown": [
+        "tæ",
+        "can"
+      ],
+      "meaning_connection": "古英语tæcan=展示/指引，与德语zeigen同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "教（具体知识）",
+        "examples": [
+          {
+            "sentence": "My grandma teaches me how to fold dumplings like origami.",
+            "sentence_zh": "外婆教我像折纸一样包饺子。"
+          },
+          {
+            "sentence": "The AI robot teaches children coding through Minecraft.",
+            "sentence_zh": "这个AI机器人通过《我的世界》教孩子编程。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "讲授（课程）",
+        "examples": [
+          {
+            "sentence": "Professor Wang teaches Peking Opera at community college.",
+            "sentence_zh": "王教授在社区大学讲授京剧课。"
+          },
+          {
+            "sentence": "This app teaches 15-minute business English during subway rides.",
+            "sentence_zh": "这个应用在地铁通勤时讲授15分钟商务英语。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "教导（道理）",
+        "examples": [
+          {
+            "sentence": "Chinese proverbs teach that 'A book holds a house of gold'.",
+            "sentence_zh": "中国谚语教导我们'书中自有黄金屋'。"
+          },
+          {
+            "sentence": "The pandemic taught us the value of bubble tea delivery.",
+            "sentence_zh": "疫情教会了我们奶茶外卖的价值。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "教书（职业）",
+        "examples": [
+          {
+            "sentence": "She teaches at a panda conservation base in Sichuan.",
+            "sentence_zh": "她在四川熊猫基地教书。"
+          },
+          {
+            "sentence": "After retiring, he teaches part-time at a mahjong academy.",
+            "sentence_zh": "退休后他在麻将学院兼职教书。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "teach sb a lesson",
+        "meaning": "给某人教训",
+        "examples": [
+          {
+            "sentence": "The spicy hotpot taught me a lesson about Sichuan peppers.",
+            "sentence_zh": "这顿麻辣火锅让我对花椒有了深刻教训。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "teach school",
+        "meaning": "从事教学",
+        "examples": [
+          {
+            "sentence": "She teaches school while livestreaming calligraphy classes.",
+            "sentence_zh": "她边教书边直播书法课。"
+          }
+        ]
+      }
+    ],
+    "teach": "teach其实是'提启'📚：古代老师提着灯笼(te-)启发(-ach)学生。说'误人子弟'叫can't teach a fish to climb trees🐟🌳，'名师出高徒'就是a good teache如火锅师傅带出徒弟🌶️。记住：教煮饭要'teach'，教做人要'educate'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'题切'→老师边切题边教",
+        "易混词：teach（具体教学）vs. educate（系统教育）",
+        "联想：T形讲台+each每个学生"
+      ]
+    }
+  },
+  {
+    "word": "teacher",
+    "etymology": {
+      "breakdown": [
+        "teach",
+        "er"
+      ],
+      "meaning_connection": "teach表示'教'，-er表示'从事...的人'→教书的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "教师",
+        "examples": [
+          {
+            "sentence": "The math teacher solved the equation while eating spicy strips.",
+            "sentence_zh": "数学老师一边吃辣条一边解方程。"
+          },
+          {
+            "sentence": "AI teachers are grading homework in the metaverse.",
+            "sentence_zh": "虚拟世界的AI教师正在批改作业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "导师",
+        "examples": [
+          {
+            "sentence": "My graduate teacher always brings stinky tofu to lab meetings.",
+            "sentence_zh": "我的研究生导师总带臭豆腐来开组会。"
+          },
+          {
+            "sentence": "Confucius was the greatest teacher in Chinese history.",
+            "sentence_zh": "孔子是中国历史上最伟大的导师。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "head teacher",
+        "meaning": "班主任",
+        "examples": [
+          {
+            "sentence": "Our head teacher confiscated 10 smartphones this week.",
+            "sentence_zh": "班主任这周没收了10部手机。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "substitute teacher",
+        "meaning": "代课老师",
+        "examples": [
+          {
+            "sentence": "The substitute teacher got lost in the school's WeChat mini-program.",
+            "sentence_zh": "代课老师在学校的微信小程序里迷路了。"
+          }
+        ]
+      }
+    ],
+    "teach": "teacher其实是'提尺人'📏：古代老师用戒尺管教学生，现在改用PPT激光笔🔦。'严师'叫strict teacher就像火锅变态辣🌶️，'名师'用celebrity teacher像李子柒教学种菜🌱。记住：每个teacher都经历过'再讲两分钟就下课'的真香现场⏰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢车'→老师气得想踢车",
+        "易混词：tutor（私人教师）/professor（大学教授）",
+        "记忆tip：teach+er=教书的人"
+      ]
+    }
+  },
+  {
+    "word": "teaching",
+    "etymology": {
+      "breakdown": [
+        "teach",
+        "ing"
+      ],
+      "meaning_connection": "动词teach（教）+后缀-ing表行为或结果→原指教学行为，后延伸出被传授的知识体系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "教学（行为）",
+        "examples": [
+          {
+            "sentence": "Her interactive teaching turns math class into a game show.",
+            "sentence_zh": "她的互动式教学把数学课变成综艺节目。"
+          },
+          {
+            "sentence": "Panda keepers use bamboo rewards in operant conditioning teaching.",
+            "sentence_zh": "熊猫饲养员用竹子奖励进行操作性条件反射教学。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "学说（知识体系）",
+        "examples": [
+          {
+            "sentence": "Confucian teaching influenced East Asian exam cultures profoundly.",
+            "sentence_zh": "儒家学说深刻影响了东亚的考试文化。"
+          },
+          {
+            "sentence": "The tea ceremony embodies Zen Buddhist teachings about mindfulness.",
+            "sentence_zh": "茶道体现了禅宗关于正念的学说。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "教导（具体内容）",
+        "examples": [
+          {
+            "sentence": "My grandma's teaching 'never waste rice' comes from the 1960s famine.",
+            "sentence_zh": "奶奶'不浪费米饭'的教导源于60年代饥荒。"
+          },
+          {
+            "sentence": "Street vendors' survival teachings include 100 ways to avoid chengguan.",
+            "sentence_zh": "街头摊贩的生存教导包含100种躲避城管的方法。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "teaching assistant",
+        "meaning": "助教",
+        "examples": [
+          {
+            "sentence": "As a TA, I grade papers while eating hotpot.",
+            "sentence_zh": "当助教时我边改作业边吃火锅。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "teaching hospital",
+        "meaning": "教学医院",
+        "examples": [
+          {
+            "sentence": "Interns at teaching hospitals practice IVs on each other.",
+            "sentence_zh": "教学医院的实习生互相扎针练习输液。"
+          }
+        ]
+      }
+    ],
+    "teach": "teaching的千年变形记📜：从孔子杏坛讲学👨🏫（教学行为），到《论语》成书📚（学说），再到'学而时习之'金句💎（教导）。现代梗：当老师说'这是送分题'时，the teaching is fake但the pain is real😭。搭配：go rogue from teachings（离经叛道）/ parrot the teachings（鹦鹉学舌）。说'老掉牙的说教'用moth-eaten teachings🦋，记住：好teaching应该像奶茶——既有料又让人上瘾！🧋",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢醒'→教学就是要踢醒睡懒觉的学生",
+        "对比：teaching（教学行为）vs. education（教育体系）",
+        "记忆链：teach→teacher→teaching→taught"
+      ]
+    }
+  },
+  {
+    "word": "teacup",
+    "etymology": {
+      "breakdown": [
+        "tea",
+        "cup"
+      ],
+      "meaning_connection": "复合词，字面意思为'茶+杯'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "茶杯",
+        "examples": [
+          {
+            "sentence": "Her porcelain teacup has a delicate peony pattern.",
+            "sentence_zh": "她的瓷茶杯上有精致的牡丹花纹。"
+          },
+          {
+            "sentence": "The British detective sipped Earl Grey from his favorite teacup.",
+            "sentence_zh": "这位英国侦探用他心爱的茶杯啜饮伯爵茶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "满茶杯",
+        "examples": [
+          {
+            "sentence": "She drank three teacups of chrysanthemum tea to cool down.",
+            "sentence_zh": "她喝了三满杯菊花茶降火。"
+          },
+          {
+            "sentence": "Add a teacup of boiling water to brew the oolong properly.",
+            "sentence_zh": "加入一满杯沸水才能正确冲泡乌龙茶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "idiom",
+        "form": "storm in a teacup",
+        "meaning": "小题大做",
+        "examples": [
+          {
+            "sentence": "Their argument about milk-first or tea-first was just a storm in a teacup.",
+            "sentence_zh": "他们关于先加奶还是先加茶的争论纯属小题大做。"
+          }
+        ]
+      }
+    ],
+    "teach": "teacup其实是'茶界奥斯卡'🏆！英国有'茶杯政治'（teacup politics）指琐碎争论，就像广东人纠结早茶该先吃虾饺还是烧卖🍤。'满茶杯'单位源自英国下午茶标准计量☕️，而地道说法'not my cup of tea'(字面：不是我的那杯茶)表示'不合我胃口'。记住：人生如茶，杯小乾坤大！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢卡噗'→茶杯摔地上发出的声音",
+        "对比记忆：mug（马克杯）vs teacup（带茶托的精致茶杯）",
+        "文化梗：007电影《幽灵党》出现过的'teacup pig'茶杯猪"
+      ]
+    }
+  },
+  {
+    "word": "teak",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自葡萄牙语'teca'，经荷兰语传入英语，原指南亚特有的乔木"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "柚木",
+        "examples": [
+          {
+            "sentence": "The antique desk made of Burmese teak costs more than a Tesla.",
+            "sentence_zh": "这张缅甸柚木古董书桌比特斯拉汽车还贵。"
+          },
+          {
+            "sentence": "Teak patio furniture turns silver-gray under sunlight like VIP members getting older.",
+            "sentence_zh": "露天柚木家具在阳光下会变成银灰色，就像VIP会员变老一样。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "teak wood",
+        "meaning": "柚木材",
+        "examples": [
+          {
+            "sentence": "The billionaire's yacht has teak wood decks that never get hot.",
+            "sentence_zh": "那位亿万富翁的游艇配有永不发烫的柚木甲板。"
+          }
+        ]
+      }
+    ],
+    "teach": "teak是木头界的爱马仕🪵！16世纪葡萄牙人发现它的防水性比鸭子羽毛🦆还强，于是用它造大航海时代的船舰⛵。现代人说'高端定制'叫bespoke teak furniture，'土豪标配'是teak-floored mansion。记住：当别人炫耀红木时，你淡淡说'我家用缅甸teak'立刻完胜🎯！",
+    "recite": {
+      "tips": [
+        "视觉记忆：teak的't'像斧头，'eak'发音同'eek'（惊讶声）→砍柚木时发出的惊叹",
+        "易混词对比：oak（橡木）vs teak（柚木），就像普通SUV vs 劳斯莱斯"
+      ]
+    }
   }
 ]

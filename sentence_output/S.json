@@ -14479,5 +14479,365 @@
         "易混词：satrap vs. senator（前者是波斯总督，后者是罗马元老）"
       ]
     }
+  },
+  {
+    "word": "saturate",
+    "etymology": {
+      "breakdown": [
+        "sat",
+        "ur",
+        "ate"
+      ],
+      "meaning_connection": "词根sat=足够（同satisfy），-ur表状态，-ate表动词→使达到足够状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使渗透",
+        "examples": [
+          {
+            "sentence": "The rain saturated the rice fields within hours.",
+            "sentence_zh": "雨水几小时内就渗透了稻田。"
+          },
+          {
+            "sentence": "She saturated the sponge with lavender-scented water.",
+            "sentence_zh": "她用薰衣草香味的水浸透了海绵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使充满",
+        "examples": [
+          {
+            "sentence": "K-pop concerts saturate the air with screaming fans.",
+            "sentence_zh": "K-pop演唱会现场充满粉丝的尖叫声。"
+          },
+          {
+            "sentence": "Mid-autumn festival saturates the city with mooncake advertisements.",
+            "sentence_zh": "中秋节期间月饼广告充斥全城。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使饱和",
+        "examples": [
+          {
+            "sentence": "ByteDance's Douyin has saturated the short-video market.",
+            "sentence_zh": "字节跳动的抖音已使短视频市场饱和。"
+          },
+          {
+            "sentence": "The sugar water becomes saturated when no more sugar can dissolve.",
+            "sentence_zh": "当糖无法继续溶解时糖水达到饱和状态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "浸透的",
+        "examples": [
+          {
+            "sentence": "His saturate T-shirt clung to his body after the marathon.",
+            "sentence_zh": "马拉松赛后他浸透的T恤紧贴身体。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "深颜色的",
+        "examples": [
+          {
+            "sentence": "The artist used saturate red to paint the sunset.",
+            "sentence_zh": "画家用深红色描绘落日。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "饱和化合物",
+        "examples": [
+          {
+            "sentence": "Coconut oil contains healthy saturates.",
+            "sentence_zh": "椰子油含有健康的饱和化合物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "market saturation",
+        "meaning": "市场饱和",
+        "examples": [
+          {
+            "sentence": "Smartphone sales slowed down due to market saturation.",
+            "sentence_zh": "由于市场饱和，智能手机销售增速放缓。"
+          }
+        ]
+      }
+    ],
+    "teach": "saturate就像被奶茶泡发的珍珠🧋：化学里是糖水饱和⚗️，商业中是市场挤满竞品💼，美术课变成颜料打架🎨。说'信息过载'叫information overload就像被100条微信轰炸💥，'颜色太艳'说garish比saturate更毒舌。记住：海绵宝宝吸水时是saturate，你的手机内存满了也是！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒腿日'→晒到腿日(saturate)发红",
+        "对比：saturate（彻底浸透）vs. soak（普通浸泡）",
+        "联想：SAT考试做到饱和(ur)就会(ate)吐"
+      ]
+    }
+  },
+  {
+    "word": "saturated",
+    "etymology": {
+      "breakdown": [
+        "sat",
+        "ur",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根sat=充满，-ur-表液体状态，-ate动词后缀，-ed表形容词→被液体完全充满的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "饱和的",
+        "examples": [
+          {
+            "sentence": "The sponge can't absorb more water when it's saturated.",
+            "sentence_zh": "海绵饱和后就无法吸收更多水分了。"
+          },
+          {
+            "sentence": "The market is saturated with similar smartphone designs.",
+            "sentence_zh": "市场上相似的手机设计已经饱和。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "渗透的",
+        "examples": [
+          {
+            "sentence": "His shirt was saturated with sweat after the marathon.",
+            "sentence_zh": "跑完马拉松后他的衬衫被汗水渗透了。"
+          },
+          {
+            "sentence": "The bread was saturated with garlic butter flavor.",
+            "sentence_zh": "面包完全渗透了大蒜黄油的味道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "saturated fat",
+        "meaning": "饱和脂肪",
+        "examples": [
+          {
+            "sentence": "Hotpot lovers should watch their saturated fat intake.",
+            "sentence_zh": "火锅爱好者应注意饱和脂肪摄入量。"
+          }
+        ]
+      }
+    ],
+    "teach": "saturated就像泡发的木耳🍄！化学意义上是溶液'吃饱'糖（饱和溶液），生活中像被暴雨淋成落汤鸡🌧️（衣服湿透）。说'市场饱和'用market saturation，吐槽'信息过载'叫information overload🍜。记住：海绵吸水会saturated，你刷短视频也会brain-saturated！💥🧠📱",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒稠的'→晒得太稠就饱和了",
+        "易混词对比：saturated（完全浸透）vs. concentrated（高度浓缩）"
+      ]
+    }
+  },
+  {
+    "word": "saturation",
+    "etymology": {
+      "breakdown": [
+        "sat",
+        "ur",
+        "ation"
+      ],
+      "meaning_connection": "词根sat=充满（如satisfy满足），-ur-连接字母，-ation表名词→达到完全充满的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "饱和",
+        "examples": [
+          {
+            "sentence": "The smartphone market has reached saturation point in developed countries.",
+            "sentence_zh": "发达国家智能手机市场已到达饱和点。"
+          },
+          {
+            "sentence": "Carbonated drinks get their fizz from CO2 saturation.",
+            "sentence_zh": "碳酸饮料的气泡来自二氧化碳的饱和。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "浸透",
+        "examples": [
+          {
+            "sentence": "The sponge showed complete saturation after absorbing spilled milk.",
+            "sentence_zh": "海绵吸收洒出的牛奶后呈现完全浸透状态。"
+          },
+          {
+            "sentence": "Rainfall saturation caused landslides in the mountainous area.",
+            "sentence_zh": "雨水浸透导致山区发生滑坡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "色饱和度",
+        "examples": [
+          {
+            "sentence": "Influencers often increase color saturation for vibrant food photos.",
+            "sentence_zh": "网红常提高色饱和度使食物照片更鲜艳。"
+          },
+          {
+            "sentence": "The sunset's saturation made the clouds look like burning cotton candy.",
+            "sentence_zh": "晚霞的色饱和度让云朵像燃烧的棉花糖。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "market saturation",
+        "meaning": "市场饱和",
+        "examples": [
+          {
+            "sentence": "Bubble tea shops face market saturation with 3 stores per kilometer.",
+            "sentence_zh": "奶茶店面临每公里3家的市场饱和。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "oxygen saturation",
+        "meaning": "血氧饱和度",
+        "examples": [
+          {
+            "sentence": "Smartwatches now monitor oxygen saturation during mountain climbing.",
+            "sentence_zh": "智能手表现可监测登山时的血氧饱和度。"
+          }
+        ]
+      }
+    ],
+    "teach": "saturation是'吃饱了'状态🍔：化学里像珍珠奶茶加料加到吸不动🧋（saturation point），营销中像火锅店一条街竞争激烈♨️（market saturation），修图时像糖醋排骨滤镜浓到发光✨（color saturation）。说'塞不下了'用packed to saturation，形容过度用saturation bombing式宣传💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒出肾'→滤镜饱和度晒到伤肾",
+        "易混词：satisfaction（满足感）是精神吃饱，saturation是物理吃饱"
+      ]
+    }
+  },
+  {
+    "word": "saturnine",
+    "etymology": {
+      "breakdown": [
+        "Saturn",
+        "ine"
+      ],
+      "meaning_connection": "源自罗马农神Saturn（土星）☄️，中世纪占星认为受土星影响者忧郁阴沉；-ine表'具有...性质'。化学义因铅（Pb）的炼金术符号为♄（土星标志）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "沉默寡言的",
+        "examples": [
+          {
+            "sentence": "The saturnine librarian glared at chatty students through his round glasses.",
+            "sentence_zh": "那位阴郁的图书管理员透过圆眼镜瞪着喧哗的学生。"
+          },
+          {
+            "sentence": "Her saturnine demeanor made her the perfect villain in the school play.",
+            "sentence_zh": "她沉默寡言的气质让她成为校园剧反派的绝佳人选。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "阴沉的",
+        "examples": [
+          {
+            "sentence": "The saturnine sky warned of an approaching typhoon.",
+            "sentence_zh": "阴沉的天色预示着台风将至。"
+          },
+          {
+            "sentence": "His paintings always had a saturnine tone, like a perpetual winter afternoon.",
+            "sentence_zh": "他的画作总带着阴沉的色调，像永恒的冬日傍晚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "铅中毒的",
+        "examples": [
+          {
+            "sentence": "19th-century hat makers often developed saturnine symptoms from mercury exposure.",
+            "sentence_zh": "19世纪的制帽匠常因接触水银出现铅中毒症状。"
+          },
+          {
+            "sentence": "The archaeologist wore gloves to avoid saturnine contamination from ancient pipes.",
+            "sentence_zh": "考古学家戴着手套以防古铅管导致中毒。"
+          }
+        ]
+      }
+    ],
+    "teach": "saturnine是'社恐星人'的完美标签🧊！古罗马人觉得土星（Saturn）轨道最远最冷，连带着认为受土星影响的人会像《哈利波特》的斯内普教授一样阴沉🧙♂️。中世纪炼金术士更绝——他们把铅的符号画成土星标志♄，因为铅又重又毒。实用搭配：saturnine temper（阴郁脾气）/ saturnine complexion（铅中毒面色）。说'闷葫芦'可以用as cheerful as a Saturn's ring（像土星环一样'欢快'😑）。记住：这个词自带三倍负能量☔️☠️🌑",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞特难'→塞进特别难搞的性格",
+        "易混词：satirical（讽刺的）vs saturnine（阴沉的）",
+        "记忆法：把'saturn'想成'撒糖'的反义词——'撒铅'"
+      ]
+    }
+  },
+  {
+    "word": "satyr",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希腊语satyros，指森林中半人半羊的神灵，象征纵欲"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "萨梯（希腊神话中的森林之神）",
+        "examples": [
+          {
+            "sentence": "The satyr in the painting was playing panpipes with grapevines tangled in his horns.",
+            "sentence_zh": "画中的萨梯吹着排笛，葡萄藤缠绕在他的羊角上。"
+          },
+          {
+            "sentence": "In Dionysian festivals, performers dressed as satyrs chased nymphs through the woods.",
+            "sentence_zh": "酒神节庆典上，扮演萨梯的演员们在森林中追逐宁芙仙女。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "好色之徒",
+        "examples": [
+          {
+            "sentence": "The old poet was known as a satyr who composed verses for every pretty barmaid.",
+            "sentence_zh": "那位老诗人是有名的好色之徒，为每个漂亮女侍应都写过诗。"
+          },
+          {
+            "sentence": "Modern satyrs still exist, lurking in dating app shadows with pickup lines older than Dionysus.",
+            "sentence_zh": "现代好色之徒依然存在，他们在交友软件上用着比酒神还古老的搭讪话术。"
+          }
+        ]
+      }
+    ],
+    "teach": "satyr是希腊神话里的'山羊绅士'🐐！这些半人半羊的生物整天追着仙女跑，就像现代夜店的油腻搭讪男🍷。记住：说人'像萨梯'就是委婉骂色狼（He's a real satyr），但夸人'有酒神精神'则是赞美自由不羁🎭。PS：他们头上长的不是呆毛，是正经山羊角！",
+    "recite": {
+      "tips": [
+        "视觉记忆：把satyr拆成sat（坐）+yr（your）→坐在你旁边的羊角色狼",
+        "易混词对比：satyr（色狼） vs satire（讽刺文学）→后者多支笔✒️"
+      ]
+    }
   }
 ]

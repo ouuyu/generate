@@ -15047,5 +15047,333 @@
         "记忆tip：想象班级群投票接龙选班长"
       ]
     }
+  },
+  {
+    "word": "election",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "lect",
+        "ion"
+      ],
+      "meaning_connection": "前缀e-表示'出来'，词根lect表示'选择'，后缀-ion表名词→'选出来的过程'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "选举",
+        "examples": [
+          {
+            "sentence": "The spicy hotpot election in Chongqing lasted 3 months.",
+            "sentence_zh": "重庆的麻辣火锅选举持续了三个月。"
+          },
+          {
+            "sentence": "Villagers used colored beans for ancient elections.",
+            "sentence_zh": "村民们曾用彩色豆子进行古老选举。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "当选",
+        "examples": [
+          {
+            "sentence": "Her election as meme queen shocked the internet.",
+            "sentence_zh": "她当选表情包女王震惊全网。"
+          },
+          {
+            "sentence": "The panda's election to zoo ambassador caused bamboo shortage.",
+            "sentence_zh": "熊猫当选动物园大使导致竹子短缺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "选择权",
+        "examples": [
+          {
+            "sentence": "WeChat Pay gives users election between fingerprint and face ID.",
+            "sentence_zh": "微信支付让用户在指纹和面容ID间拥有选择权。"
+          },
+          {
+            "sentence": "The election to use disposable or reusable chopsticks is yours.",
+            "sentence_zh": "使用一次性或可重复使用筷子的选择权在你手中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "general election",
+        "meaning": "大选",
+        "examples": [
+          {
+            "sentence": "The bubble tea debate dominated the general election.",
+            "sentence_zh": "奶茶辩论主导了这次大选。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "by election",
+        "meaning": "补选",
+        "examples": [
+          {
+            "sentence": "The spicy hotpot chef by election drew 10,000 applicants.",
+            "sentence_zh": "麻辣火锅主厨补选吸引了一万名申请者。"
+          }
+        ]
+      }
+    ],
+    "teach": "election本质是'选豆游戏'🫘：古希腊用不同颜色豆子投票→现在用手机选爱豆📱。'落选'叫lose the election就像火锅局没抢到肉🍲，'操纵选举'叫rig an election如同在麻将桌下换牌🀄。记住：每个election都像在火锅里捞你最爱的菜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一乐醒'→选举结果让人一乐就醒",
+        "易混词：select（精选）vs elect（选举）→ 前者像挑香菜，后者像选班长"
+      ]
+    }
+  },
+  {
+    "word": "elective",
+    "etymology": {
+      "breakdown": [
+        "elect",
+        "ive"
+      ],
+      "meaning_connection": "词根elect=选择(同election选举)，-ive表属性→具有选择特性的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "选举的",
+        "examples": [
+          {
+            "sentence": "The elective monarchy system still exists in some countries today.",
+            "sentence_zh": "选举君主制至今仍在某些国家存在。"
+          },
+          {
+            "sentence": "Elective surgeries were postponed during the pandemic.",
+            "sentence_zh": "疫情期间非必要择期手术被推迟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "选修的",
+        "examples": [
+          {
+            "sentence": "Harry Potter magic theory is the most popular elective course at our school.",
+            "sentence_zh": "哈利波特魔法理论是我校最火爆的选修课。"
+          },
+          {
+            "sentence": "She took an elective class on emoji linguistics.",
+            "sentence_zh": "她选修了一门表情符号语言学课程。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "选修课程",
+        "examples": [
+          {
+            "sentence": "I failed my electives but aced all required courses.",
+            "sentence_zh": "我挂掉了选修课但必修课全优。"
+          },
+          {
+            "sentence": "The AI painting elective always has a waiting list.",
+            "sentence_zh": "AI绘画选修课永远爆满需要候补。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "elective subject",
+        "meaning": "选修科目",
+        "examples": [
+          {
+            "sentence": "Manga drawing became an official elective subject in Japanese high schools.",
+            "sentence_zh": "漫画绘制成为日本高中的正式选修科目。"
+          }
+        ]
+      }
+    ],
+    "teach": "elective是学霸的甜蜜烦恼🍭！当形容词时像班干部竞选👔（elective positions），作名词时像奶茶店自选加料🧋（college electives）。美国大学有'elective overload'说法指选太多课累成狗🐶，而'elective surgery'指可以挑时间的非紧急手术🩺。记住：选课和选总统共用同一个词根！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来课替吾'→选修课是来替代必修的",
+        "易混词：selective（精选的）vs elective（可选的）"
+      ]
+    }
+  },
+  {
+    "word": "elector",
+    "etymology": {
+      "breakdown": [
+        "elect",
+        "or"
+      ],
+      "meaning_connection": "词根elect=选择，后缀-or表示'人'→'做选择的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "有选举权的人",
+        "examples": [
+          {
+            "sentence": "Every elector in the village voted for the new panda caretaker.",
+            "sentence_zh": "村里每个有选举权的人都投票选了新任熊猫饲养员。"
+          },
+          {
+            "sentence": "As an elector, she takes her voting duty as seriously as choosing hotpot ingredients.",
+            "sentence_zh": "作为选民，她对待投票像选火锅食材一样认真。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "选举人",
+        "examples": [
+          {
+            "sentence": "The electors will cast their ballots in the Electoral College next week.",
+            "sentence_zh": "选举人团成员将在下周进行投票。"
+          },
+          {
+            "sentence": "In some countries, electors are treated like VIPs during election season.",
+            "sentence_zh": "在某些国家，选举人在选举季会像贵宾一样被对待。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "elector register",
+        "meaning": "选民登记册",
+        "examples": [
+          {
+            "sentence": "Check the elector register to confirm your voting location.",
+            "sentence_zh": "查看选民登记册确认你的投票地点。"
+          }
+        ]
+      }
+    ],
+    "teach": "elector其实是'选霸'👑！古罗马时期选举人用陶片投票🗳️，现代选举人可能决定谁当总统。'行使选举权'叫exercise electoral rights就像抢双十一优惠券🛒，'落选者'叫the defeated就像火锅局最后一块肉被别人夹走🥢。记住：你的选票可能比麻辣香锅还够味！",
+    "recite": {
+      "tips": [
+        "谐音梗：'易lecture'→选举人容易听竞选演讲",
+        "易混词：elector(选举人) vs. electorate(全体选民) 就像火锅食客vs火锅店"
+      ]
+    }
+  },
+  {
+    "word": "electoral",
+    "etymology": {
+      "breakdown": [
+        "elect",
+        "or",
+        "al"
+      ],
+      "meaning_connection": "词根elect=选择（源自拉丁语eligere），后缀-or表人，-al表性质→与选择人相关的事物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "选举人的",
+        "examples": [
+          {
+            "sentence": "The electoral college system puzzles many international observers.",
+            "sentence_zh": "选举人团制度让很多国际观察者感到困惑。"
+          },
+          {
+            "sentence": "Electoral votes decide the US presidency, not the popular vote.",
+            "sentence_zh": "选举人票而非普选票决定美国总统归属。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "选举的",
+        "examples": [
+          {
+            "sentence": "Electoral campaigns now heavily rely on TikTok influencers.",
+            "sentence_zh": "现代选举活动严重依赖抖音网红。"
+          },
+          {
+            "sentence": "The electoral district map looks like a jigsaw puzzle after gerrymandering.",
+            "sentence_zh": "选区重划后的选举地图像拼图游戏般支离破碎。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "electoral fraud",
+        "meaning": "选举舞弊",
+        "examples": [
+          {
+            "sentence": "The viral video alleging electoral fraud turned out to be a karaoke contest recording.",
+            "sentence_zh": "指控选举舞弊的爆款视频其实是场卡拉OK比赛录像。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "electoral register",
+        "meaning": "选民名册",
+        "examples": [
+          {
+            "sentence": "Checking the electoral register is like verifying your Douyin follower list.",
+            "sentence_zh": "核对选民名册就像检查抖音粉丝列表。"
+          }
+        ]
+      }
+    ],
+    "teach": "electoral本质是'选票经济学'🗳️：词根elect是古罗马'橄榄叶投票'的遗产（当时用olive branch计数），现代选举就像直播间刷火箭🚀（electoral campaigns）。说'黑幕操作'用ballot rigging比rigged election更地道，'摇摆州'叫battleground states就像吃鸡游戏毒圈⭕。记住：你的electoral power相当于给爱豆打榜的投票权！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一乐可投啦'→选举(electoral)很开心",
+        "易混词：election（选举活动）/ electoral（选举相关的）",
+        "联想：elector(选举人)+al→所有选举人相关的事"
+      ]
+    }
+  },
+  {
+    "word": "electorally",
+    "etymology": {
+      "breakdown": [
+        "elect",
+        "or",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根elect=选择（源自拉丁语eligere），-or表人，-al构成形容词，-ly构成副词→与选举人相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "从选举方面来讲",
+        "examples": [
+          {
+            "sentence": "Electorally speaking, this policy may lose middle-aged voters.",
+            "sentence_zh": "从选举角度来说，这项政策可能失去中年选民。"
+          },
+          {
+            "sentence": "The candidate is strong electorally but weak in debates.",
+            "sentence_zh": "这位候选人在选举方面很强，但辩论能力薄弱。"
+          }
+        ]
+      }
+    ],
+    "teach": "electorally就像政治版的淘宝评分📊！古罗马选举(elect)时用陶片投票🗳️，现在说'选举不利'叫electoral suicide（选举自杀），'关键选区'是electoral battleground🏟️。记住：你的每一票都在给政客们刷五星好评⭐！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来客脱了礼'→选举(electorally)时客人脱帽行礼",
+        "易混词对比：electoral（选举的）/ electric（电的）"
+      ]
+    }
   }
 ]

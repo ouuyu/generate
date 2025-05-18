@@ -14881,5 +14881,301 @@
         "对比记忆：partial（偏心的）vs impartial（公正的）像硬币的正反面"
       ]
     }
+  },
+  {
+    "word": "impassable",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pass",
+        "able"
+      ],
+      "meaning_connection": "前缀im-表示否定，pass表示通过，-able表示可能性→字面意为'不可能通过的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不能通行的",
+        "examples": [
+          {
+            "sentence": "The road became impassable after the Sichuan earthquake.",
+            "sentence_zh": "汶川地震后这条道路变得无法通行。"
+          },
+          {
+            "sentence": "Tourists found the mountain path impassable due to giant panda activities.",
+            "sentence_zh": "游客发现因大熊猫活动导致山路无法通行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不可逾越的",
+        "examples": [
+          {
+            "sentence": "The Great Wall was built to create an impassable barrier.",
+            "sentence_zh": "长城被建造为不可逾越的屏障。"
+          },
+          {
+            "sentence": "His score in Gaokao created an impassable record in his county.",
+            "sentence_zh": "他的高考成绩创造了县城里不可逾越的纪录。"
+          }
+        ]
+      }
+    ],
+    "teach": "impassable就像被200个快递箱堵住的宿舍门📦！古人用'蜀道难'形容impassable roads（李白直呼内行）🗻，现代版是早高峰地铁限流🚇。说'完全堵死'用stone wall（石墙般坚固），'水泄不通'叫jam-packed like dumplings（像饺子般挤）🥟。记住：遇到impassable就学山羊走山路🐐！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬怕塞爆'→路太硬塞爆所以不通",
+        "易混词对比：impassable（客观无法通过） vs impassive（主观无动于衷）"
+      ]
+    }
+  },
+  {
+    "word": "impasse",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "passe"
+      ],
+      "meaning_connection": "前缀im-表否定，法语词根passe意为'通过'→字面意思'无法通过'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "难局",
+        "examples": [
+          {
+            "sentence": "The negotiations reached an impasse when both sides refused to budge on the dumpling filling ratio.",
+            "sentence_zh": "当双方在饺子馅料比例上互不让步时，谈判陷入难局。"
+          },
+          {
+            "sentence": "We're at an impasse trying to decide whether to get spicy or original hotpot.",
+            "sentence_zh": "我们在选择麻辣锅还是清汤锅时陷入了两难。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "僵局",
+        "examples": [
+          {
+            "sentence": "The mahjong game came to an impasse when all four players declared 'ting' simultaneously.",
+            "sentence_zh": "当四位玩家同时宣布'听牌'时，麻将陷入僵局。"
+          },
+          {
+            "sentence": "The project hit an impasse because the designer wanted pink while the client insisted on fluorescent green.",
+            "sentence_zh": "由于设计师想要粉色而客户坚持荧光绿，项目陷入僵局。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "死胡同",
+        "examples": [
+          {
+            "sentence": "The delivery guy found himself in an impasse with his electric bike surrounded by stacked shared bicycles.",
+            "sentence_zh": "外卖小哥发现自己陷入了共享单车包围的死胡同。"
+          },
+          {
+            "sentence": "Their relationship reached an impasse when she kept forwarding pyramid scheme messages to the family group chat.",
+            "sentence_zh": "当她不断在家庭群转发传销信息时，他们的关系走进了死胡同。"
+          }
+        ]
+      }
+    ],
+    "teach": "impasse是法语来的'此路不通'🚧标志！想象早高峰被共享单车围住的小电驴🛵（physical impasse），或是相亲时对方突然问'你玩原神吗'的沉默💀（social impasse）。遇到僵局时可以说'We're at a stalemate'就像下棋♟️，想突破困局要用'break the deadlock'像开核桃器🗜️。记住：每个impasse都是转弯的提示牌🔄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派死'→硬派作风导致僵局",
+        "易混词对比：deadlock（完全锁死） vs impasse（暂时无法推进）",
+        "记忆tip：im(不)+pass(通过)+e→考试不通过就是人生impasse"
+      ]
+    }
+  },
+  {
+    "word": "impassioned",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "passion",
+        "ed"
+      ],
+      "meaning_connection": "前缀im-表'进入'，passion来自拉丁语pati（忍受）→原指承受强烈情感，-ed形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "充满激情的",
+        "examples": [
+          {
+            "sentence": "The teacher gave an impassioned speech about protecting giant pandas.",
+            "sentence_zh": "老师发表了关于保护大熊猫的激情演讲。"
+          },
+          {
+            "sentence": "Her impassioned live-streaming sold out all durians in 3 minutes.",
+            "sentence_zh": "她充满激情的直播3分钟卖光了所有榴莲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "狂热的",
+        "examples": [
+          {
+            "sentence": "Impassioned fans waited 12 hours for Jay Chou's autograph.",
+            "sentence_zh": "狂热的粉丝为等周杰伦签名苦候12小时。"
+          },
+          {
+            "sentence": "The stadium echoed with impassioned chants during the esports final.",
+            "sentence_zh": "电竞决赛时体育馆回荡着狂热的呐喊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "热烈的",
+        "examples": [
+          {
+            "sentence": "They shared an impassioned kiss under the neon lights of Chongqing.",
+            "sentence_zh": "他们在重庆的霓虹灯下热烈拥吻。"
+          },
+          {
+            "sentence": "The debate team received impassioned applause for their spicy hotpot metaphor.",
+            "sentence_zh": "辩论队用火锅打比方赢得热烈掌声。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impassioned plea",
+        "meaning": "恳切请求",
+        "examples": [
+          {
+            "sentence": "The farmer made an impassioned plea to save his lychee orchard.",
+            "sentence_zh": "果农为保住荔枝园发出恳切请求。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "impassioned debate",
+        "meaning": "激烈辩论",
+        "examples": [
+          {
+            "sentence": "The spicy vs. non-spicy hotpot debate became increasingly impassioned.",
+            "sentence_zh": "关于火锅该不该加辣的辩论逐渐白热化。"
+          }
+        ]
+      }
+    ],
+    "teach": "impassioned是'上头'的学术版💥！想象李佳琦喊'买它！'时的状态🎤（impassioned sales pitch），或是大爷为广场舞占地盘的架势🕺（impassioned argument）。搭配奶茶说'boba-fueled impassioned speech'（奶茶续命的激情发言），'上头'的地道说法是'have stars in one's eyes'✨。记住：从直播间到辩论赛，impassioned就是情绪拉满的状态！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派婶'→硬核阿姨的狂热追星",
+        "易混词：passionate（持续热情） vs. impassioned（瞬间爆发）"
+      ]
+    }
+  },
+  {
+    "word": "impassive",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pass",
+        "ive"
+      ],
+      "meaning_connection": "前缀im-=否定，词根pass=感觉/忍受，后缀ive=形容词→无法产生感觉的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无感情的",
+        "examples": [
+          {
+            "sentence": "The poker player remained impassive when winning the jackpot.",
+            "sentence_zh": "赢得头奖时，这位扑克玩家仍面无表情。"
+          },
+          {
+            "sentence": "Her impassive reaction to the proposal shocked everyone.",
+            "sentence_zh": "她对求婚的冷漠反应震惊了所有人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "冷淡的",
+        "examples": [
+          {
+            "sentence": "The customer service representative's impassive tone angered callers.",
+            "sentence_zh": "客服代表的冷淡语气激怒了来电者。"
+          },
+          {
+            "sentence": "He gave an impassive shrug when asked about his ex-girlfriend.",
+            "sentence_zh": "被问及前女友时，他只是冷淡地耸了耸肩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无感觉的",
+        "examples": [
+          {
+            "sentence": "The anesthetic made his limbs completely impassive.",
+            "sentence_zh": "麻醉剂使他的四肢完全失去知觉。"
+          },
+          {
+            "sentence": "Frostbite had rendered her fingertips impassive to pain.",
+            "sentence_zh": "冻伤使她的指尖对疼痛毫无感觉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不能伤害的",
+        "examples": [
+          {
+            "sentence": "The ancient armor was said to make warriors impassive to arrows.",
+            "sentence_zh": "据说这件古老铠甲能使战士免受箭伤。"
+          },
+          {
+            "sentence": "His tough attitude made him seemingly impassive to insults.",
+            "sentence_zh": "他强硬的态度使他似乎对辱骂无动于衷。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remain impassive",
+        "meaning": "保持面无表情",
+        "examples": [
+          {
+            "sentence": "The spy trained himself to remain impassive under interrogation.",
+            "sentence_zh": "这名间谍训练自己在审讯时保持面无表情。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "impassive facade",
+        "meaning": "冷漠的外表",
+        "examples": [
+          {
+            "sentence": "Behind her impassive facade was a passionate poet.",
+            "sentence_zh": "在她冷漠的外表下藏着一位激情澎湃的诗人。"
+          }
+        ]
+      }
+    ],
+    "teach": "impassive就像面部神经瘫痪的AI机器人🤖：词根pass本指'感受'（如passion激情），加上im-否定前缀就成了'没感觉'❄️。形容人用'扑克脸'（poker face），说'冷漠回应'用stone-cold response。记住：impassive的人就像被打了肉毒杆菌💉——肌肉根本不动！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派媳妇'→硬派媳妇(impassive)总板着脸",
+        "易混词对比：passive(被动) VS impassive(冷漠)"
+      ]
+    }
   }
 ]

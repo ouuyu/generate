@@ -14685,5 +14685,353 @@
         "易混词对比：bamboo(竹)硬而直，rattan(藤)软而韧"
       ]
     }
+  },
+  {
+    "word": "rattle",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词起源，模拟物体快速碰撞的声响"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使嘎嘎响",
+        "examples": [
+          {
+            "sentence": "The subway rattled the windows of my apartment.",
+            "sentence_zh": "地铁经过震得我家窗户嘎嘎响。"
+          },
+          {
+            "sentence": "She rattled the piggy bank to guess how much was inside.",
+            "sentence_zh": "她摇晃存钱罐，想听声音猜里面有多少钱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "喋喋不休地说",
+        "examples": [
+          {
+            "sentence": "The tour guide rattled off historical dates like a machine gun.",
+            "sentence_zh": "导游像机关枪一样噼里啪啦地报历史日期。"
+          },
+          {
+            "sentence": "My mom rattled the safety rules before my first solo trip.",
+            "sentence_zh": "妈妈在我第一次独自旅行前絮絮叨叨地说安全须知。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "格格响",
+        "examples": [
+          {
+            "sentence": "The old air conditioner rattles like a maraca band.",
+            "sentence_zh": "旧空调响起来像在演奏沙锤乐队。"
+          },
+          {
+            "sentence": "Bamboo wind chimes rattled in the summer breeze.",
+            "sentence_zh": "竹制风铃在夏风中叮当作响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "喋喋不休",
+        "examples": [
+          {
+            "sentence": "The kindergarten teacher rattled on about handwashing for 20 minutes.",
+            "sentence_zh": "幼儿园老师关于洗手这件事絮叨了20分钟。"
+          },
+          {
+            "sentence": "He kept rattling about his new gaming console during dinner.",
+            "sentence_zh": "吃晚饭时他一直在嘚瑟新买的游戏机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "格格声",
+        "examples": [
+          {
+            "sentence": "The rattle of mahjong tiles echoed through the alley.",
+            "sentence_zh": "麻将牌哗啦哗啦的声音在小巷里回荡。"
+          },
+          {
+            "sentence": "I heard the distinctive rattle of a snake and froze.",
+            "sentence_zh": "听到蛇特有的嘶嘶声时我整个人僵住了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拨浪鼓",
+        "examples": [
+          {
+            "sentence": "The baby laughed at the colorful traditional Chinese rattle.",
+            "sentence_zh": "宝宝被彩色的传统拨浪鼓逗笑了。"
+          },
+          {
+            "sentence": "This museum displays rattles from different dynasties.",
+            "sentence_zh": "这个博物馆陈列着各个朝代的拨浪鼓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "喋喋不休的话",
+        "examples": [
+          {
+            "sentence": "Ignore his morning rattle about cryptocurrency.",
+            "sentence_zh": "别理他早上那通关于加密货币的碎碎念。"
+          },
+          {
+            "sentence": "The meeting was just political rattle without substance.",
+            "sentence_zh": "这个会议全是些没有实质内容的政治空谈。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rattle off",
+        "meaning": "快速说出",
+        "examples": [
+          {
+            "sentence": "She can rattle off all 24 solar terms in 10 seconds.",
+            "sentence_zh": "她能在10秒内噼里啪啦背出二十四节气。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rattle through",
+        "meaning": "匆忙完成",
+        "examples": [
+          {
+            "sentence": "We rattled through the presentation to catch the last metro.",
+            "sentence_zh": "我们火急火燎讲完演示稿去赶末班地铁。"
+          }
+        ]
+      }
+    ],
+    "teach": "rattle是声音界的表情包🎭！作动词时像抖音网红机关枪语速🗣️（rattled off gossip），作名词时像春节庙会的拨浪鼓玩具🏮（baby's rattle）。说人'废话连篇'可以用hot air（热空气），搭配：1）nerve-rattling→让人神经紧绷的 2）saber-rattling→耀武扬威。记住：任何快速重复的噪音或唠叨都能用rattle形容，就像你妈催婚的碎碎念💍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热透'→玻璃杯加冰块的咯啦声",
+        "易混词：prattle（幼儿咿呀学语）",
+        "记忆tip：想象用拨浪鼓(rattle)打断别人啰嗦(rattle)"
+      ]
+    }
+  },
+  {
+    "word": "rattler",
+    "etymology": {
+      "breakdown": [
+        "rattle",
+        "er"
+      ],
+      "meaning_connection": "源自拟声词rattle（咔嗒声）+后缀-er表事物/人，模仿响尾蛇尾部发声或机械运转声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "响尾蛇",
+        "examples": [
+          {
+            "sentence": "The cowboy's boots stopped just inches from a sleeping rattler.",
+            "sentence_zh": "牛仔的靴子在距一条沉睡的响尾蛇仅几英寸处停下。"
+          },
+          {
+            "sentence": "Desert hikers often carry anti-venom for rattler bites.",
+            "sentence_zh": "沙漠徒步者常携带抗蛇毒血清应对响尾蛇咬伤。"
+          }
+        ]
+      },
+      {
+        "part_of_peech": "n.",
+        "meaning": "饶舌的人",
+        "examples": [
+          {
+            "sentence": "That podcast host is a real rattler who never lets guests speak.",
+            "sentence_zh": "那位播客主持人是个十足的碎嘴王，从不给嘉宾说话机会。"
+          },
+          {
+            "sentence": "Grandpa turns into a rattler after three shots of baijiu.",
+            "sentence_zh": "爷爷三杯白酒下肚就会变成话痨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "有轨电车（美式俚语）",
+        "examples": [
+          {
+            "sentence": "We took the rattler down to Chinatown for dumplings.",
+            "sentence_zh": "我们乘老式电车去唐人街吃饺子。"
+          },
+          {
+            "sentence": "The vintage rattler still operates as a tourist attraction in San Francisco.",
+            "sentence_zh": "这辆古董有轨电车仍在旧金山作为旅游景点运行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "磨砖机",
+        "examples": [
+          {
+            "sentence": "Construction workers nicknamed the concrete polisher 'the rattler'.",
+            "sentence_zh": "建筑工人给混凝土打磨机起了个绰号叫'震颤怪'。"
+          },
+          {
+            "sentence": "Turn off the rattler before changing the sanding discs.",
+            "sentence_zh": "更换砂盘前先关闭磨砖机。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "shake like a rattler",
+        "meaning": "抖如筛糠",
+        "examples": [
+          {
+            "sentence": "My knees were shaking like a rattler during the bungee jump.",
+            "sentence_zh": "蹦极时我的膝盖抖得像响尾蛇的尾巴。"
+          }
+        ]
+      }
+    ],
+    "teach": "rattler是个声音可视化单词🎵！当响尾蛇时是沙漠摇滚歌手🎸（tail rattling），当话痨时是人体机关枪🗣️（word rattling），当电车时是行走的打击乐器🚋（wheel rattling）。美国淘金热时期矿工说'catch the rattler'就是赶电车去挖矿⛏️。形容'吓得发抖'可以说shaking like a rattler's tail！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热他了'→沙漠里的响尾蛇热得直摇尾",
+        "易混词对比：rattle（声响） vs. prattle（幼稚唠叨）"
+      ]
+    }
+  },
+  {
+    "word": "rattlesnake",
+    "etymology": {
+      "breakdown": [
+        "rattle",
+        "snake"
+      ],
+      "meaning_connection": "rattle指'发出咯咯声'，snake即'蛇'→因尾部能发出响声的蛇"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "响尾蛇",
+        "examples": [
+          {
+            "sentence": "The rattlesnake shook its tail like a maraca in the Arizona desert.",
+            "sentence_zh": "响尾蛇在亚利桑那沙漠里把尾巴摇得像沙锤。"
+          },
+          {
+            "sentence": "Cowboys always watch out for rattlesnakes when herding cattle.",
+            "sentence_zh": "牛仔赶牛时总要提防响尾蛇。"
+          }
+        ]
+      }
+    ],
+    "teach": "rattlesnake是自带报警器的蛇🐍💥！它的尾巴像会响的晒干辣椒串🌶️（rattle本意就是拨浪鼓）。在西部片里，这声音比支付宝到账提示还让人紧张💰！记住：'被蛇咬'叫snakebite🍺（也是种啤酒名），'阴险的人'可以叫snake in the grass🕶️。",
+    "recite": {
+      "tips": [
+        "视觉记忆：把rattle+snake想成摇铃铛的贪吃蛇游戏🎮",
+        "易混词：cobra（眼镜蛇）是戴'墨镜'的😎，rattlesnake是玩摇铃的🔔"
+      ]
+    }
+  },
+  {
+    "word": "rattling",
+    "etymology": {
+      "breakdown": [
+        "rattle",
+        "ing"
+      ],
+      "meaning_connection": "rattle（发出咔嗒声）+ -ing（构成形容词/副词后缀）→ 原指物体碰撞声，引申为'轻快的'，进一步强化为'极好的'和程度副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "格格作响的",
+        "examples": [
+          {
+            "sentence": "The rattling windows scared the cat during the typhoon.",
+            "sentence_zh": "台风天格格作响的窗户吓坏了猫咪。"
+          },
+          {
+            "sentence": "His rattling keys announced his arrival long before he appeared.",
+            "sentence_zh": "他叮当作响的钥匙串老远就暴露了行踪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "轻快的",
+        "examples": [
+          {
+            "sentence": "She walked with a rattling pace in her new sneakers.",
+            "sentence_zh": "她穿着新球鞋轻快地走着。"
+          },
+          {
+            "sentence": "The rattling rhythm of the song makes people want to dance.",
+            "sentence_zh": "这首歌轻快的节奏让人想跳舞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "很好的",
+        "examples": [
+          {
+            "sentence": "We had a rattling time at the amusement park.",
+            "sentence_zh": "我们在游乐园玩得超级开心。"
+          },
+          {
+            "sentence": "His rattling performance earned a standing ovation.",
+            "sentence_zh": "他精彩的表演赢得满堂喝彩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "很，非常",
+        "examples": [
+          {
+            "sentence": "The Douyin livestream was rattling popular among teenagers.",
+            "sentence_zh": "这场抖音直播在青少年中火爆异常。"
+          },
+          {
+            "sentence": "It's rattling cold today—even my phone battery died faster!",
+            "sentence_zh": "今天冷得要命，连手机电池都冻关机了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rattling good",
+        "meaning": "极好的",
+        "examples": [
+          {
+            "sentence": "That hotpot restaurant does a rattling good spicy broth.",
+            "sentence_zh": "那家火锅店的麻辣锅底绝了。"
+          }
+        ]
+      }
+    ],
+    "teach": "rattling就像抖音里的特效音效🎵！当说'格格响'时像摇晃珍珠奶茶杯里的冰块🧊；形容'轻快'时像踩着平衡车刷街🛴；夸'极好'时像吃到爆浆芝士鸡排🧀；作副词时像李佳琦喊'OMG买它！'时的夸张语气🎭。记住：从物理声响到情绪强度，rattling承包你的花式表达！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热铁链'→热铁链(rattling)碰撞叮当响",
+        "对比记忆：rattle（原形动词） vs rattling（强化版形容词/副词）"
+      ]
+    }
   }
 ]

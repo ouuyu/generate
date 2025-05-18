@@ -14421,5 +14421,317 @@
         "易混词：gentlely(轻柔地) VS decently(得体地)"
       ]
     }
+  },
+  {
+    "word": "decentralization",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "central",
+        "ize",
+        "ation"
+      ],
+      "meaning_connection": "前缀de-表示'去除'，central指'中心'，-ize是动词后缀，-ation是名词后缀→字面意思是'去中心化'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "分散",
+        "examples": [
+          {
+            "sentence": "The decentralization of WeChat servers ensures smooth service during Spring Festival.",
+            "sentence_zh": "微信服务器的分时确保春节期间服务流畅。"
+          },
+          {
+            "sentence": "Decentralization of factories reduces pandemic risks.",
+            "sentence_zh": "工厂分散布局降低了疫情风险。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "权力下放",
+        "examples": [
+          {
+            "sentence": "Decentralization allows village committees to decide on local projects.",
+            "sentence_zh": "权力下放让村委会能自主决定本地项目。"
+          },
+          {
+            "sentence": "The company's decentralization policy gave branch managers more autonomy.",
+            "sentence_zh": "公司的分权政策给予分公司经理更多自主权。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fiscal decentralization",
+        "meaning": "财政分权",
+        "examples": [
+          {
+            "sentence": "Fiscal decentralization motivates local governments to boost tourism.",
+            "sentence_zh": "财政分权激励地方政府发展旅游业。"
+          }
+        ]
+      }
+    ],
+    "teach": "decentralization就像火锅改单人小锅🍲！从古代郡县制到区块链比特币💻，权力/数据'分锅'是趋势。淘宝村就是经济分权典范🛒，'集中力量办大事'说centralization，'各显神通'说decentralization。记住：分权就像分餐，既避免'大锅饭'又能'精准投喂'！",
+    "recite": {
+      "tips": [
+        "视觉化：'的森穿来热醒'→的(de)森林(central)里热醒(ization)的分散部落",
+        "易混词：centralization（集中化）是它的反义词"
+      ]
+    }
+  },
+  {
+    "word": "decentralize",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "centr",
+        "al",
+        "ize"
+      ],
+      "meaning_connection": "前缀de-表示'去除'，词根centr=中心，-al形容词后缀，-ize动词后缀→字面意思'去中心化'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使分散",
+        "examples": [
+          {
+            "sentence": "Alibaba decentralized its server farms across three provinces.",
+            "sentence_zh": "阿里巴巴将服务器群分散在三个省份。"
+          },
+          {
+            "sentence": "The factory decentralized production to avoid supply chain risks.",
+            "sentence_zh": "该工厂分散生产以规避供应链风险。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "下放权力",
+        "examples": [
+          {
+            "sentence": "The new policy decentralizes decision-making to branch managers.",
+            "sentence_zh": "新政策将决策权下放给分公司经理。"
+          },
+          {
+            "sentence": "WeChat mini-programs decentralized app development power to individual creators.",
+            "sentence_zh": "微信小程序将应用开发权力下放给个人创作者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "疏散人口",
+        "examples": [
+          {
+            "sentence": "Beijing's municipal government plans to decentralize population to neighboring cities.",
+            "sentence_zh": "北京市政府计划向周边城市疏散人口。"
+          },
+          {
+            "sentence": "The earthquake drill taught us how to decentralize crowds efficiently.",
+            "sentence_zh": "地震演练教会我们如何高效疏散人群。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "decentralized autonomous organization",
+        "meaning": "去中心化自治组织",
+        "examples": [
+          {
+            "sentence": "DAO (Decentralized Autonomous Organization) is revolutionizing traditional management.",
+            "sentence_zh": "去中心化自治组织正在颠覆传统管理模式。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "decentralize authority",
+        "meaning": "权力下放",
+        "examples": [
+          {
+            "sentence": "The company decentralized authority to frontline employees for faster responses.",
+            "sentence_zh": "该公司将权力下放给一线员工以实现快速响应。"
+          }
+        ]
+      }
+    ],
+    "teach": "decentralize就像把火锅改串串香🍢！中心化是九宫格火锅（所有料在一个锅），去中心化是把食材分散到各人签子上🔄。比特币就是金融界的'去中心化'代表💎，而'权力下放'就像班主任把纪律管理权交给课代表📚。记住：集权叫centralized，放权要说delegated authority。",
+    "recite": {
+      "tips": [
+        "视觉联想：'de'+'central'→把'中心'的'的'字拆掉",
+        "易混词对比：distribute（物理分布） vs decentralize（系统重构）"
+      ]
+    }
+  },
+  {
+    "word": "decentralized",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "central",
+        "ize",
+        "ed"
+      ],
+      "meaning_connection": "前缀de-表'去除'，central即'中心'，-ize动词后缀表'使...化'，-ed形容词后缀→去除中心化的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "分散化",
+        "examples": [
+          {
+            "sentence": "Bitcoin operates on a decentralized network without banks.",
+            "sentence_zh": "比特币在无需银行的分散化网络上运行。"
+          },
+          {
+            "sentence": "The company moved to a decentralized office structure during the pandemic.",
+            "sentence_zh": "疫情期间该公司转向分散化办公模式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "分散式",
+        "examples": [
+          {
+            "sentence": "Decentralized solar panels power this mountain village.",
+            "sentence_zh": "分散式太阳能板为这座山村供电。"
+          },
+          {
+            "sentence": "We use decentralized servers to prevent data loss.",
+            "sentence_zh": "我们采用分散式服务器防止数据丢失。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "分散管理的",
+        "examples": [
+          {
+            "sentence": "Decentralized decision-making allows each department to act quickly.",
+            "sentence_zh": "分散管理决策让各部门快速响应。"
+          },
+          {
+            "sentence": "The school adopts a decentralized grading system.",
+            "sentence_zh": "该学校采用分散管理的评分体系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "去中心化",
+        "examples": [
+          {
+            "sentence": "NFT transactions happen on decentralized platforms.",
+            "sentence_zh": "NFT交易在去中心化平台上进行。"
+          },
+          {
+            "sentence": "Decentralized autonomous organizations are changing business models.",
+            "sentence_zh": "去中心化自治组织正在改变商业模式。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "decentralized finance (DeFi)",
+        "meaning": "去中心化金融",
+        "examples": [
+          {
+            "sentence": "Many young investors are drawn to decentralized finance projects.",
+            "sentence_zh": "许多年轻投资者被去中心化金融项目吸引。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "decentralized storage",
+        "meaning": "分布式存储",
+        "examples": [
+          {
+            "sentence": "Decentralized storage systems are more resistant to hacking.",
+            "sentence_zh": "分布式存储系统更抗黑客攻击。"
+          }
+        ]
+      }
+    ],
+    "teach": "decentralized就像蚂蚁搬家🐜：比特币让金融权力从华尔街分散到每个钱包💼（decentralized finance），滴滴司机接单就像蜂群决策🍯（decentralized system）。'集权'说top-down control，'放权'叫delegate authority。记住：区块链时代，中心化机构正在变成恐龙🦕！",
+    "recite": {
+      "tips": [
+        "拆解记忆：de(去掉)+central(中心)+ized→去中心化",
+        "对比记忆：centralized（中心化的）像太阳系，decentralized像银河系"
+      ]
+    }
+  },
+  {
+    "word": "deception",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "cept",
+        "ion"
+      ],
+      "meaning_connection": "前缀de-表示'否定/离开'，词根cept表示'拿取'（来自拉丁capere），后缀-ion表行为→用不正当手段获取"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "欺骗",
+        "examples": [
+          {
+            "sentence": "The magician's deception made the rabbit disappear in a cloud of pink smoke.",
+            "sentence_zh": "魔术师的戏法让兔子在一团粉色烟雾中消失。"
+          },
+          {
+            "sentence": "Online shopping requires caution against product image deception.",
+            "sentence_zh": "网购需警惕商品图片的欺骗性展示。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "诡计",
+        "examples": [
+          {
+            "sentence": "The Trojan Horse remains history's most famous military deception.",
+            "sentence_zh": "特洛伊木马仍是史上最著名的军事诡计。"
+          },
+          {
+            "sentence": "Her 'sick leave' was actually a deception to attend a concert.",
+            "sentence_zh": "她的'病假'其实是参加演唱会的诡计。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "practice deception",
+        "meaning": "实施欺骗",
+        "examples": [
+          {
+            "sentence": "Some influencers practice deception by using fake review bots.",
+            "sentence_zh": "有些网红通过刷假评论实施欺骗。"
+          }
+        ]
+      }
+    ],
+    "teach": "deception是'盗梦空间'级的骗术🎭！词根cept就像小偷的手👋（capture），加上de-前缀就变成暗中顺走真相🕵️♂️。网络诈骗叫cyber deception就像电子钓鱼竿🎣，'骗保'叫insurance fraud就像用纸糊的车祸模型🚗💨。记住：任何'包治百病'的广告都是gross deception（赤裸裸的欺骗）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'敌塞ption'→敌人塞给你错误选项",
+        "易混词对比：deception（故意欺骗） vs. illusion（视觉错觉）",
+        "记忆tip：把decept-想成'地塞糖衣炮弹'"
+      ]
+    }
   }
 ]

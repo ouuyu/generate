@@ -14836,5 +14836,319 @@
         "易混词：vertical（垂直的）vs vertebral（脊椎的）"
       ]
     }
+  },
+  {
+    "word": "vertebrate",
+    "etymology": {
+      "breakdown": [
+        "vertebr",
+        "ate"
+      ],
+      "meaning_connection": "词根vertebr来自拉丁语'vertebra'（椎骨），后缀-ate表'具有...特性的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "脊椎动物",
+        "examples": [
+          {
+            "sentence": "Pandas are vertebrates that secretly wish they were fluffy pillows.",
+            "sentence_zh": "大熊猫是 secretly 希望自己是毛绒枕头的脊椎动物。"
+          },
+          {
+            "sentence": "The museum's vertebrate collection includes a dinosaur with TikTok dance posture.",
+            "sentence_zh": "博物馆脊椎动物馆藏包含一具跳抖音舞姿的恐龙化石。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有椎骨的",
+        "examples": [
+          {
+            "sentence": "This vertebrate fish fossil still shows its grumpy expression.",
+            "sentence_zh": "这块有椎骨的鱼化石仍保留着不爽的表情。"
+          },
+          {
+            "sentence": "Vertebrate creatures dominate hotpot ingredients: beef, lamb, fish...",
+            "sentence_zh": "有椎骨的生物统治着火锅食材界：肥牛、羔羊、鱼片..."
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vertebrate paleontology",
+        "meaning": "古脊椎动物学",
+        "examples": [
+          {
+            "sentence": "Studying vertebrate paleontology is like being a detective for dinosaur cold cases.",
+            "sentence_zh": "研究古脊椎动物学就像调查恐龙悬案的侦探。"
+          }
+        ]
+      }
+    ],
+    "teach": "vertebrate是'有骨气'的生物💀！从你家猫主子🐈到菜市场的鱼🐟，它们都靠脊椎（vertebra）撑起尊严。说'无骨鸡爪'是boneless chicken feet（非vertebrate），而'硬核人生'可以说live a vertebrate life🦴。记住：连奶茶里的珍珠都想成为vertebrate——Q弹有嚼劲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特不累的'→脊椎动物（vertebrate）有骨头撑着当然不累",
+        "易混词对比：invertebrate（无脊椎动物）像软塌塌的章鱼🐙"
+      ]
+    }
+  },
+  {
+    "word": "vertex",
+    "etymology": {
+      "breakdown": [
+        "vert",
+        "ex"
+      ],
+      "meaning_connection": "词根vert=旋转（如vertical），-ex表最高级→旋转到达的极点"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "顶点（几何）",
+        "examples": [
+          {
+            "sentence": "The vertex of the pyramid aligns with the North Star.",
+            "sentence_zh": "金字塔顶点与北极星对齐。"
+          },
+          {
+            "sentence": "Dragons in Chinese paintings often have whiskers pointing to the vertex.",
+            "sentence_zh": "国画中的龙须常指向画面顶点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "最高点（抽象）",
+        "examples": [
+          {
+            "sentence": "The Forbidden City represents the vertex of ancient Chinese architecture.",
+            "sentence_zh": "紫禁城代表着中国古代建筑的最高成就。"
+          },
+          {
+            "sentence": "At the vertex of his career, he suddenly retired to plant tea.",
+            "sentence_zh": "事业巅峰期时他突然退休去种茶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "头顶（解剖）",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine believes the vertex connects to heavenly energy.",
+            "sentence_zh": "中医认为头顶连接天地精气。"
+          },
+          {
+            "sentence": "The acupuncturist inserted a needle at my vertex to relieve stress.",
+            "sentence_zh": "针灸师在我头顶施针缓解压力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vertex of a triangle",
+        "meaning": "三角形顶点",
+        "examples": [
+          {
+            "sentence": "Measure the angle at each vertex of the dumpling-shaped triangle.",
+            "sentence_zh": "测量这个饺子状三角形的每个顶角。"
+          }
+        ]
+      }
+    ],
+    "teach": "vertex是'头顶上的旋转木马🎠'：既指几何图形最高点（如粽子尖角），也指人生巅峰（比如当上火锅店VIP👑）。有趣的是，古罗马人认为头顶(vertex)是灵魂出入口🧠。说'达到顶点'可以用hit the vertex，就像吃月饼一定要咬到蛋黄流心🥮！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特渴死'→爬山到顶点(vertex)渴死了",
+        "易混词：summit（山峰顶点）vs vertex（几何/抽象顶点）",
+        "记忆法：V字形手势✌️就是最简化的vertex图形"
+      ]
+    }
+  },
+  {
+    "word": "vertical",
+    "etymology": {
+      "breakdown": [
+        "vert",
+        "ical"
+      ],
+      "meaning_connection": "词根vert=转动（如convert转换），-ical表形容词→从头顶到脚底的转动轴线"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "垂直的",
+        "examples": [
+          {
+            "sentence": "The Leaning Tower of Pisa is 3.99 degrees off vertical.",
+            "sentence_zh": "比萨斜塔偏离垂直方向3.99度。"
+          },
+          {
+            "sentence": "Chinese calligraphy requires vertical brush strokes.",
+            "sentence_zh": "书法要求垂直运笔。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "直立的",
+        "examples": [
+          {
+            "sentence": "Pandas can achieve vertical posture when reaching for bamboo.",
+            "sentence_zh": "熊猫够竹子时能做出直立姿势。"
+          },
+          {
+            "sentence": "The vertical smartphone stand is shaped like a mini Great Wall.",
+            "sentence_zh": "这个直立手机支架做成了迷你长城造型。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vertical farming",
+        "meaning": "垂直农业",
+        "examples": [
+          {
+            "sentence": "Beijing's vertical farms grow bok choy in skyscrapers.",
+            "sentence_zh": "北京的垂直农场在摩天楼里种小白菜。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vertical line",
+        "meaning": "垂直线",
+        "examples": [
+          {
+            "sentence": "The teacher drew a perfect vertical line without a ruler.",
+            "sentence_zh": "老师不用尺子画出了完美垂直线。"
+          }
+        ]
+      }
+    ],
+    "teach": "vertical其实是'头顶到脚底'的几何学⏬！古代量身高叫'立竿测影'📏（vertical measurement），现代人刷短视频叫'垂直内容'📱（vertical videos）。要说'站得笔直'可以夸'straight as a vert'（vert梗来自极限运动），'上下级关系'叫vertical hierarchy就像火锅九宫格🥘。记住：vertical是重力方向，比男朋友还靠谱！⚡🧗♂️📐",
+    "recite": {
+      "tips": [
+        "谐音梗：'我踢球'→我踢球(veti-cal)时球是垂直飞起的",
+        "易混词：horizontal（水平的）就像地平线→horizon+tal"
+      ]
+    }
+  },
+  {
+    "word": "verticality",
+    "etymology": {
+      "breakdown": [
+        "vertic",
+        "al",
+        "ity"
+      ],
+      "meaning_connection": "词根vertic=顶点（来自vertex），-al形容词后缀，-ity名词后缀→从顶点向下的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "垂直性",
+        "examples": [
+          {
+            "sentence": "The verticality of Shanghai Tower makes it pierce through clouds like a silver needle.",
+            "sentence_zh": "上海中心的垂直性使其如银针般刺破云层。"
+          },
+          {
+            "sentence": "Ancient Chinese pagodas achieve perfect verticality without modern tools.",
+            "sentence_zh": "中国古代宝塔无需现代工具就能实现完美垂直性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "垂直状态",
+        "examples": [
+          {
+            "sentence": "The dancer's verticality during the spin defied gravity.",
+            "sentence_zh": "舞者旋转时的垂直状态仿佛对抗着重力。"
+          },
+          {
+            "sentence": "Check the verticality of the picture frame with a bubble level.",
+            "sentence_zh": "用水平仪检查画框的垂直状态。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "maintain verticality",
+        "meaning": "保持垂直",
+        "examples": [
+          {
+            "sentence": "Bamboo shoots maintain perfect verticality even in strong winds.",
+            "sentence_zh": "竹笋在强风中仍保持绝对垂直。"
+          }
+        ]
+      }
+    ],
+    "teach": "verticality是'强迫症福音'📏！想象比萨斜塔如果拥有verticality就不会成为景点🧱（maintain verticality）。中文说'笔直'可以叫straight as a die（像骰子般直）🎲，而'歪了'叫out of plumb就像没煮熟的饺子🥟。记住：你手机里的重力感应器天天在检测verticality！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我踢开了梯'→我踢开梯子保证垂直",
+        "易混词对比：horizontality（水平性）是它的死对头"
+      ]
+    }
+  },
+  {
+    "word": "vertically",
+    "etymology": {
+      "breakdown": [
+        "vert",
+        "ical",
+        "ly"
+      ],
+      "meaning_connection": "词根vert=旋转/转向（如convert转换），-ical表形容词后缀，-ly表副词→原指'转向的状态'，后特指'垂直方向'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "垂直地",
+        "examples": [
+          {
+            "sentence": "The rocket ascended vertically into the sky like a giant chopstick.",
+            "sentence_zh": "火箭像巨型筷子般垂直升入天空。"
+          },
+          {
+            "sentence": "Skyscrapers in Shanghai grow vertically due to limited land, just like bamboo shoots after rain.",
+            "sentence_zh": "上海摩天大楼因土地有限垂直生长，就像雨后春笋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vertically challenged",
+        "meaning": "身高不足的（幽默说法）",
+        "examples": [
+          {
+            "sentence": "Though vertically challenged, he became the champion of e-sports.",
+            "sentence_zh": "虽然身高不足，他成了电竞冠军。"
+          }
+        ]
+      }
+    ],
+    "teach": "vertically其实是'万物皆可竖'📏！从埃菲尔铁塔🗼到手机刷短视频👇，垂直思维无处不在。说人'矮'别用short，幽默说法是vertically challenged（垂直方向有挑战的）。搭配：vertical farming（立体农业）就像给蔬菜住高楼🏢，vertical video（竖屏视频）让你刷抖音不扭脖子💃",
+    "recite": {
+      "tips": [
+        "谐音梗：'我踢可乐'→我踢可乐瓶让它垂直立住",
+        "易混词对比：vertical（adj.垂直的） vs. horizontal（adj.水平的）→想象字母V是垂直裂缝，H是水平躺椅"
+      ]
+    }
   }
 ]

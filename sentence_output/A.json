@@ -14751,5 +14751,244 @@
         "记忆tip：把单词拆成AC（空调）+OUT（外）+MENT（们）→空调外机们也是建筑装备"
       ]
     }
+  },
+  {
+    "word": "accredit",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "credit"
+      ],
+      "meaning_connection": "前缀ac-表示'加强'，词根credit=信任→强调给予信任的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "信托",
+        "examples": [
+          {
+            "sentence": "The museum accredited the ancient vase to Ming Dynasty artisans.",
+            "sentence_zh": "博物馆将这件古花瓶信托为明代匠人作品。"
+          },
+          {
+            "sentence": "Parents accredit teachers with molding young minds.",
+            "sentence_zh": "家长将塑造年轻心智的责任信托给教师。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "确认",
+        "examples": [
+          {
+            "sentence": "The lab report accredited the tea samples as organic.",
+            "sentence_zh": "实验室报告确认这些茶叶样本为有机产品。"
+          },
+          {
+            "sentence": "Douyin accredited her account with a golden verification badge.",
+            "sentence_zh": "抖音用金色认证徽章确认了她的账号真实性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "归结于",
+        "examples": [
+          {
+            "sentence": "Historians accredit the invention of paper to Cai Lun.",
+            "sentence_zh": "历史学家将造纸术的发明归结于蔡伦。"
+          },
+          {
+            "sentence": "The success was accredited to teamwork rather than individual effort.",
+            "sentence_zh": "成功被归结于团队合作而非个人努力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "委派",
+        "examples": [
+          {
+            "sentence": "The UN accredited her as special envoy to the region.",
+            "sentence_zh": "联合国委派她作为该地区的特使。"
+          },
+          {
+            "sentence": "CCTV accredited two journalists to cover the Winter Olympics.",
+            "sentence_zh": "央视委派两名记者报道冬奥会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accredit to",
+        "meaning": "归功于",
+        "examples": [
+          {
+            "sentence": "The discovery was accredited to a Chinese research team.",
+            "sentence_zh": "这项发现被归功于中国研究团队。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accredit with",
+        "meaning": "授信",
+        "examples": [
+          {
+            "sentence": "The bank accredited him with 1 million yuan loan.",
+            "sentence_zh": "银行授信给他100万元贷款。"
+          }
+        ]
+      }
+    ],
+    "teach": "accredit就像古代皇帝的玉玺🏮！当它表示'信托'时，像博物馆认证文物真伪🏛️；'确认'时像微博大V的黄V认证✅；'归结于'像把火锅发明权给重庆人🍲；'委派'时像外交部发放外交护照🛂。记住：所有带'credit'的词都和'信任'有关，就像支付宝的芝麻信用分💳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱可睿的'→爱可睿智的人(accredit)值得信任",
+        "易混词对比：credit（信用） - accredit（授予信用）"
+      ]
+    }
+  },
+  {
+    "word": "accredited",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "credit",
+        "ed"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'，词根credit来自拉丁语'credere'(相信)，-ed表过去分词→被给予信任的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "官方认可的",
+        "examples": [
+          {
+            "sentence": "This accredited hospital accepts Alipay Health insurance.",
+            "sentence_zh": "这家认证医院接受支付宝好医保。"
+          },
+          {
+            "sentence": "Only accredited investors can buy this wealth management product.",
+            "sentence_zh": "仅合格投资者可购买此理财产品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accredited to",
+        "meaning": "归功于",
+        "examples": [
+          {
+            "sentence": "The discovery is accredited to a team from Tsinghua University.",
+            "sentence_zh": "该发现归功于清华大学的团队。"
+          },
+          {
+            "sentence": "The hotpot recipe is accredited to Chongqing grandma.",
+            "sentence_zh": "这个火锅配方被认定源自重庆老奶奶。"
+          }
+        ]
+      }
+    ],
+    "teach": "accredited是'官方盖戳认证'🛂：就像米其林餐厅认证🍜（accredited restaurant），或教育部认证大学🎓（accredited institution）。说'野鸡大学'叫diploma mill（文凭工厂），'含金量高'说gold-standard👑。记住：找工作要认准accredited employer，就像吃火锅认准老字号！",
+    "recite": {
+      "tips": [
+        "谐音梗：'A可贷的'→被银行认可(A可贷的)的客户",
+        "易混词对比：credential（证书）vs. accredited（被认证的）"
+      ]
+    }
+  },
+  {
+    "word": "accrete",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "crete"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根crete来自'crescere'意为'生长'→原指逐渐生长附着"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "连生",
+        "examples": [
+          {
+            "sentence": "The coral reefs accrete over centuries through tiny polyps.",
+            "sentence_zh": "珊瑚礁通过微小珊瑚虫数个世纪的连生形成。"
+          },
+          {
+            "sentence": "Like a snowball rolling downhill, the legend accretes new details.",
+            "sentence_zh": "如同滚下山坡的雪球，传说不断连生新的细节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "附依",
+        "examples": [
+          {
+            "sentence": "Dust particles accrete to the spacecraft's solar panels.",
+            "sentence_zh": "尘埃颗粒附依在航天器的太阳能板上。"
+          },
+          {
+            "sentence": "In Taoist philosophy, all things accrete to the Way.",
+            "sentence_zh": "在道家思想中，万物皆附依于道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使依附",
+        "examples": [
+          {
+            "sentence": "The blacksmith accreted the iron pieces with molten metal.",
+            "sentence_zh": "铁匠用熔融金属使铁片互相依附。"
+          },
+          {
+            "sentence": "The sculptor accreted clay to build the terracotta warrior.",
+            "sentence_zh": "雕塑家不断添加黏土以塑造兵马俑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "合生的",
+        "examples": [
+          {
+            "sentence": "The accrete petals form a unique cup shape in this flower.",
+            "sentence_zh": "这朵花中合生的花瓣形成独特的杯状。"
+          },
+          {
+            "sentence": "Pineapple is actually an accrete fruit formed by multiple berries.",
+            "sentence_zh": "菠萝其实是多个浆果合生形成的果实。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accrete to",
+        "meaning": "依附于",
+        "examples": [
+          {
+            "sentence": "Space debris may accrete to satellites like cosmic lint.",
+            "sentence_zh": "太空垃圾可能像宇宙棉絮般依附于卫星。"
+          }
+        ]
+      }
+    ],
+    "teach": "accrete就像宇宙级双面胶✨：当它作动词时，如同滚元宵时糯米粉层层包裹（accrete layers）🍡；作形容词时，像哪吒的三头六臂是合生形态👶🗡️。地质学家用'连生'描述钟乳石生长，程序员用它比喻代码迭代（code accretion）💻。记住：'雪球式增长'叫accretive growth，'文化沉淀'是cultural accretion🌏",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱可蕊特'→植物学家爱可蕊特(accrete)观察合生花蕊",
+        "对比记忆：accrete（自然附着） vs. adhere（主动粘附）",
+        "联想：A+Create→不断添加(A)创造(Create)的过程"
+      ]
+    }
   }
 ]

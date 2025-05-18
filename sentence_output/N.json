@@ -14917,5 +14917,290 @@
         "视觉联想：把大脑想象成CPU，心理活动是运行中的APP"
       ]
     }
+  },
+  {
+    "word": "neuroscience",
+    "etymology": {
+      "breakdown": [
+        "neuro",
+        "science"
+      ],
+      "meaning_connection": "neuro=神经（源自希腊语neuron），science=科学→研究神经系统的科学"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神经系统科学",
+        "examples": [
+          {
+            "sentence": "Neuroscience explains why TikTok is so addictive.",
+            "sentence_zh": "神经科学解释了为何抖音如此令人上瘾。"
+          },
+          {
+            "sentence": "Modern neuroscience combines AI with brain studies.",
+            "sentence_zh": "现代神经科学将人工智能与大脑研究相结合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cognitive neuroscience",
+        "meaning": "认知神经科学",
+        "examples": [
+          {
+            "sentence": "Cognitive neuroscience helps design better learning apps.",
+            "sentence_zh": "认知神经科学有助于设计更好的学习软件。"
+          },
+          {
+            "sentence": "Her research in cognitive neuroscience won the Nobel Prize.",
+            "sentence_zh": "她在认知神经科学的研究获得了诺贝尔奖。"
+          }
+        ]
+      }
+    ],
+    "teach": "neuroscience是'读心术'🔮的科学版！当你为爱豆打call时，多巴胺在跳舞💃（dopamine release）；背单词时海马体在加班🏗️（hippocampus activation）。搭配'brain mapping'就像给大脑做高德导航🗺️，'neural pathways'是刻在你脑子里的奶茶店VIP路线🧋。说'烧脑'不要说hurt brain，地道表达是mind-bending！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛若赛'→神经科学界最牛的比赛",
+        "易混词：neurology（神经病学） VS neuroscience（更广泛的神经科学）",
+        "记忆法：neuro（神经）+ science（科学）= 研究神经系统的科学"
+      ]
+    }
+  },
+  {
+    "word": "neuroscientist",
+    "etymology": {
+      "breakdown": [
+        "neuro",
+        "scient",
+        "ist"
+      ],
+      "meaning_connection": "neuro=神经（源自希腊语neuron），scient=知识（拉丁语scire），-ist=从事…的人→研究神经系统知识的专家"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神经科学家",
+        "examples": [
+          {
+            "sentence": "The neuroscientist explained why we crave spicy hotpot using fMRI scans.",
+            "sentence_zh": "神经科学家用核磁共振解释了我们为何渴望麻辣火锅。"
+          },
+          {
+            "sentence": "As a neuroscientist, she studies how Douyin affects dopamine levels.",
+            "sentence_zh": "作为神经科学家，她研究抖音如何影响多巴胺水平。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cognitive neuroscientist",
+        "meaning": "认知神经科学家",
+        "examples": [
+          {
+            "sentence": "The cognitive neuroscientist discovered how WeChat red envelopes trigger pleasure centers.",
+            "sentence_zh": "这位认知神经科学家发现了微信红包如何激活大脑愉悦中枢。"
+          }
+        ]
+      }
+    ],
+    "teach": "神经科学家=大脑特工🕵️‍♂️！neuro来自希腊神话的Neuros女神（掌管神经），就像用MRI扫描仪当照妖镜🔍看穿你的'剁手'冲动。说'研究大脑'叫pick someone's brain（字面是摘脑瓜，实际指讨教），'烧脑'叫brain-burning就像火锅涮脑花🧠！他们用科学解释你为什么戒不掉奶茶和短视频~",
+    "recite": {
+      "tips": [
+        "拆字记忆：neuro（神经）+ scientist（科学家）= 神经界的爱因斯坦",
+        "易混词：neurologist（神经科医生）治病的 vs neuroscientist 搞研究的"
+      ]
+    }
+  },
+  {
+    "word": "neurosis",
+    "etymology": {
+      "breakdown": [
+        "neur",
+        "osis"
+      ],
+      "meaning_connection": "词根neur=神经，后缀-osis表示异常状态→神经异常状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神经症",
+        "examples": [
+          {
+            "sentence": "His obsession with tidiness might be a mild neurosis.",
+            "sentence_zh": "他对整洁的执着可能是一种轻度神经症。"
+          },
+          {
+            "sentence": "The novelist portrayed urban neurosis through chaotic subway scenes.",
+            "sentence_zh": "小说家通过混乱的地铁场景描绘都市神经症。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "神经机能病",
+        "examples": [
+          {
+            "sentence": "Pavlov's dogs developed experimental neurosis during conditioning.",
+            "sentence_zh": "巴甫洛夫的狗在条件反射实验中出现了实验性神经机能病。"
+          },
+          {
+            "sentence": "Modern life-induced neurosis often manifests as insomnia.",
+            "sentence_zh": "现代生活诱发的神经机能病常表现为失眠。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "anxiety neurosis",
+        "meaning": "焦虑性神经症",
+        "examples": [
+          {
+            "sentence": "Her constant nail-biting is classic anxiety neurosis behavior.",
+            "sentence_zh": "她不停咬指甲是典型的焦虑性神经症表现。"
+          }
+        ]
+      }
+    ],
+    "teach": "neurosis是'脑内小剧场'🎭：词根neur=神经就像电线⚡，-osis=系统bug🐛。佛洛伊德说这是'心理战利品'（就像你抢到却不敢穿的汉服）。搭配说'combat neurosis'（对抗神经症）或'social media neurosis'（社交媒体焦虑）。记住：当代人的neurosis就像手机内存——总是莫名其妙就满了！🤯📱💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛若死'→牛魔王如果得神经症",
+        "易混词：neurosis（可治愈）vs psychosis（精神病）",
+        "记忆法：神经元(neur)打结(osis)了"
+      ]
+    }
+  },
+  {
+    "word": "neurosurgeon",
+    "etymology": {
+      "breakdown": [
+        "neuro",
+        "surgeon"
+      ],
+      "meaning_connection": "neuro=神经（来自希腊语neuron），surgeon=外科医生（来自希腊语kheirourgos=手+工作）→用手处理神经的医生"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神经外科医师",
+        "examples": [
+          {
+            "sentence": "The neurosurgeon removed a tumor smaller than a grape from the patient's brain.",
+            "sentence_zh": "神经外科医生从患者脑中摘除了比葡萄还小的肿瘤。"
+          },
+          {
+            "sentence": "As a neurosurgeon, she spends more time studying MRI scans than sleeping.",
+            "sentence_zh": "作为神经外科医生，她研究核磁共振影像的时间比睡觉还多。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pediatric neurosurgeon",
+        "meaning": "小儿神经外科医生",
+        "examples": [
+          {
+            "sentence": "The pediatric neurosurgeon used Lego models to explain the operation to children.",
+            "sentence_zh": "这位小儿神经外科医生用乐高模型向孩子们解释手术。"
+          }
+        ]
+      }
+    ],
+    "teach": "neurosurgeon是医学界的拆弹专家💣！他们像绣花一样处理神经🧵（nerve fibers），比程序员debug更小心。'手术成功'说nailed it就像钉钉子🔨，'高风险手术'叫high-wire act（走钢丝）。记住：他们的工资不是按刀算，是按毫米算的！💰",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛揉色金'→牛人(neuro)揉搓(surgeon)金色大脑",
+        "易混词对比：neurologist（神经内科医生） vs neurosurgeon（神经外科医生）"
+      ]
+    }
+  },
+  {
+    "word": "neurosurgery",
+    "etymology": {
+      "breakdown": [
+        "neuro",
+        "surgery"
+      ],
+      "meaning_connection": "neuro=神经（源自希腊语neuron），surgery=外科手术（源自希腊语cheirourgia，意为'手工操作'）→专门处理神经系统的手术"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神经外科",
+        "examples": [
+          {
+            "sentence": "The hospital just built Asia's largest neurosurgery robot lab.",
+            "sentence_zh": "该院刚建成亚洲最大的神经外科机器人实验室。"
+          },
+          {
+            "sentence": "Neurosurgery requires steadier hands than making micro sculptures.",
+            "sentence_zh": "神经外科手术需要比微雕更稳定的手法。"
+          }
+        ]
+      }
+    ],
+    "teach": "神经外科医生是大脑的珠宝匠💎！neuro来自希腊神话中掌管记忆的宁芙女神Mnemosyne🧠，而surgery本意是'手工活'✋。说'做开颅手术'叫perform craniotomy，'微创神经手术'叫keyhole neurosurgery就像用吸管喝奶茶🥤。记住：neurosurgeon的终极挑战——给神经元穿针引线！",
+    "recite": {
+      "tips": [
+        "拆解记忆：neuro（神经）+ surgery（手术）= 神经手术",
+        "易混词对比：neurology（神经内科） vs neurosurgery（神经外科）",
+        "联想：像修理超级计算机的硬件工程师🔧"
+      ]
+    }
+  },
+  {
+    "word": "neurosurgical",
+    "etymology": {
+      "breakdown": [
+        "neuro",
+        "surgical"
+      ],
+      "meaning_connection": "neuro=神经（源自希腊语neuron），surgical=外科的（源自拉丁语chirurgia）→组合意为'神经外科的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "神经外科的",
+        "examples": [
+          {
+            "sentence": "The neurosurgical team successfully removed the tumor with robotic assistance.",
+            "sentence_zh": "神经外科团队借助机器人成功切除了肿瘤。"
+          },
+          {
+            "sentence": "This neurosurgical instrument looks like a tiny lightsaber from Star Wars.",
+            "sentence_zh": "这件神经外科器械看起来像《星球大战》里的迷你光剑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "neurosurgical procedure",
+        "meaning": "神经外科手术",
+        "examples": [
+          {
+            "sentence": "Deep brain stimulation is a cutting-edge neurosurgical procedure.",
+            "sentence_zh": "脑深部电刺激是一项前沿的神经外科手术。"
+          }
+        ]
+      }
+    ],
+    "teach": "neuro+surgical=脑力工作者+手工耿🧠🛠️！神经外科医生就像大脑的珠宝匠💎，要在豆腐般的脑组织上做微雕（delicate neurosurgical operations）。说'高风险手术'用high-stakes surgery，'精密操作'叫microscale maneuvers。记住：他们每台手术都是《星际穿越》级的脑内航行🚀！",
+    "recite": {
+      "tips": [
+        "拆解记忆：neuro（神经）+surgical（外科的）=神经外科的",
+        "视觉联想：把大脑想象成核桃，外科医生正在用镊子取出果仁"
+      ]
+    }
   }
 ]

@@ -14380,5 +14380,335 @@
         "易混词：demonstration(示威)更常用，manifestation更正式"
       ]
     }
+  },
+  {
+    "word": "manifestly",
+    "etymology": {
+      "breakdown": [
+        "manifest",
+        "ly"
+      ],
+      "meaning_connection": "词根manifest=显然的（来自拉丁语'manus'手+'festus'触碰→能用手摸到的），后缀-ly构成副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "明白地",
+        "examples": [
+          {
+            "sentence": "The influencer's cosmetic surgery is manifestly obvious in 4K videos.",
+            "sentence_zh": "网红整容在4K视频里明白可见。"
+          },
+          {
+            "sentence": "The math teacher was manifestly disappointed by the cheating attempts.",
+            "sentence_zh": "数学老师对作弊企图表现出明显的失望。"
+          }
+        ]
+      }
+    ],
+    "teach": "manifestly就像秃头上的虱子🦲🐜——明摆着！词源是'能用手摸到(manifest)'+ly，比obvious更正式。搭配：manifestly clear（明明白白）/ manifestly unfair（明显不公）。说'显而易见'可以甩这句：It's manifest as daylight!（明白得像大白天）☀️👀💡",
+    "recite": {
+      "tips": [
+        "拆解记忆：mani（手）+fest（节日）+ly→用手能摸到的节日装饰当然'明显'",
+        "易混词：obviously（口语多用）/manifestly（正式文书常见）"
+      ]
+    }
+  },
+  {
+    "word": "manifesto",
+    "etymology": {
+      "breakdown": [
+        "manifest",
+        "o"
+      ],
+      "meaning_connection": "源自意大利语'manifesto'（公开声明），词根manifest表示'清楚展示'，后缀-o为意大利语名词结尾"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "宣言",
+        "examples": [
+          {
+            "sentence": "The Communist Manifesto changed the course of world history.",
+            "sentence_zh": "《共产党宣言》改变了世界历史进程。"
+          },
+          {
+            "sentence": "Tech CEOs love writing manifestos longer than iPhone user agreements.",
+            "sentence_zh": "科技公司CEO们热衷撰写比iPhone用户协议还长的宣言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "声明",
+        "examples": [
+          {
+            "sentence": "The artist's manifesto declared war on boring gallery exhibitions.",
+            "sentence_zh": "艺术家的声明向无聊的画廊展览宣战。"
+          },
+          {
+            "sentence": "This skincare brand's manifesto promises 'no more panda eyes'.",
+            "sentence_zh": "这个护肤品牌的声明承诺'告别熊猫眼'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "issue a manifesto",
+        "meaning": "发表宣言",
+        "examples": [
+          {
+            "sentence": "K-pop groups often issue fashion manifestos with their comeback albums.",
+            "sentence_zh": "韩国偶像团体经常随新专辑发布时尚宣言。"
+          }
+        ]
+      }
+    ],
+    "teach": "manifesto其实是'慢速发朋友圈'📜：古代要manifest（公示）重要声明得贴城墙🏰，现在发微博就行🐦。说'空洞宣言'叫hot air（热空气）💨，'核心主张'叫bullet points就像火锅必点清单🍲。记住：你的manifesto决定你能圈多少粉！🎤",
+    "recite": {
+      "tips": [
+        "谐音梗：'卖你肥肉多'→减肥宣言里全是诱惑",
+        "易混词对比：manifest（v.显示）/manifesto（n.宣言）",
+        "记忆tip：所有-manifesto结尾都像政治家的超长朋友圈"
+      ]
+    }
+  },
+  {
+    "word": "manifold",
+    "etymology": {
+      "breakdown": [
+        "mani",
+        "fold"
+      ],
+      "meaning_connection": "词根mani=手（同manual），fold=折叠→原指'用手折叠的多重副本'，引申出'多样'概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "复印本",
+        "examples": [
+          {
+            "sentence": "Ancient Buddhist scriptures were preserved as manifold copies in Dunhuang caves.",
+            "sentence_zh": "敦煌洞窟中保存着佛教典籍的多种复印本。"
+          },
+          {
+            "sentence": "The inventor kept a manifold of his blueprints in a fireproof safe.",
+            "sentence_zh": "发明家将设计图的复本存放在防火保险箱中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "多种",
+        "examples": [
+          {
+            "sentence": "The manifold of street food options in Chengdu will overwhelm you.",
+            "sentence_zh": "成都街头小吃的多样性会让你选择困难。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "多种的",
+        "examples": [
+          {
+            "sentence": "Lao Gan Ma chili sauce serves manifold purposes in Chinese cooking.",
+            "sentence_zh": "老干妈辣椒酱在中国烹饪中有多种用途。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有许多部分的",
+        "examples": [
+          {
+            "sentence": "The manifold pipes in the Forbidden City's heating system are engineering marvels.",
+            "sentence_zh": "紫禁城供暖系统中错综复杂的管道是工程奇迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "多方面的",
+        "examples": [
+          {
+            "sentence": "Jack Ma's influence on e-commerce is manifold.",
+            "sentence_zh": "马云对电子商务的影响是多方面的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "复写",
+        "examples": [
+          {
+            "sentence": "Scribes would manifold imperial edicts using brush and ink.",
+            "sentence_zh": "古代文官会用毛笔誊写圣旨副本。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使多样化",
+        "examples": [
+          {
+            "sentence": "Baidu is manifolding its AI applications beyond search engines.",
+            "sentence_zh": "百度正将其人工智能应用多样化，不再局限于搜索引擎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "增多",
+        "examples": [
+          {
+            "sentence": "Live streaming has manifolded income sources for rural farmers.",
+            "sentence_zh": "直播带货使农民的收入渠道增多了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in manifold ways",
+        "meaning": "以多种方式",
+        "examples": [
+          {
+            "sentence": "TikTok influencers promote products in manifold ways.",
+            "sentence_zh": "抖音网红用多种方式推广商品。"
+          }
+        ]
+      }
+    ],
+    "teach": "manifold就像乐高积木🧩：既可指'复写本'（古代文书三胞胎📜），又能形容'多样性'（像四川火锅的配料🌶️）。汽车引擎的manifold是分叉管道，而人生选择也是manifold！搭配：manifold wisdom（多重智慧）/ manifold opportunities（五花八门的机会）。吐槽选择困难症可以说'I'm manifolded!' 🤯",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛮烦的'→选择太多蛮烦的",
+        "易混词：multiple（纯数量多）vs manifold（有结构性的多样）",
+        "联想：MANy在FOLDed paper上"
+      ]
+    }
+  },
+  {
+    "word": "manikin",
+    "etymology": {
+      "breakdown": [
+        "man",
+        "ikin"
+      ],
+      "meaning_connection": "词根man=人，后缀-ikin表'小'→原指'小人'，后衍生出'缩小版人体'的模特含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "侏儒",
+        "examples": [
+          {
+            "sentence": "The circus featured a skilled manikin who could juggle flaming torches.",
+            "sentence_zh": "马戏团有位擅长耍火把的侏儒演员。"
+          },
+          {
+            "sentence": "In medieval courts, manikins often served as royal jesters.",
+            "sentence_zh": "中世纪宫廷中，侏儒常担任皇家弄臣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "人体模特",
+        "examples": [
+          {
+            "sentence": "Medical students practice sutures on plastic manikins.",
+            "sentence_zh": "医学生在塑料人体模特上练习缝合。"
+          },
+          {
+            "sentence": "The CPR training manikin's chest rises realistically during rescue breathing.",
+            "sentence_zh": "心肺复苏训练人体模特在做人工呼吸时胸部会真实起伏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "时装模特",
+        "examples": [
+          {
+            "sentence": "The boutique displayed cheongsams on slender manikins by the window.",
+            "sentence_zh": "精品店在橱窗的修长时装模特身上展示旗袍。"
+          },
+          {
+            "sentence": "These digital manikins can automatically adjust to showcase different outfit sizes.",
+            "sentence_zh": "这些电子时装模特能自动调节以展示不同尺码的服装。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "crash test manikin",
+        "meaning": "碰撞测试假人",
+        "examples": [
+          {
+            "sentence": "The new crash test manikin has 138 data sensors in its head alone.",
+            "sentence_zh": "新型碰撞测试假人仅头部就装有138个数据传感器。"
+          }
+        ]
+      }
+    ],
+    "teach": "manikin是'三面娇娃'💃：当它做'侏儒'时像《权力的游戏》的提利昂🍷，做'人体模特'时像医学院的'大体老师'👨⚕️，当时装模特又变身三里屯的街拍达人📸。搭配说'window manikin'（橱窗模特）和'dress the manikin'（给模特穿衣），形容人瘦可以说'like a manikin'（瘦得跟衣架似的）！记住：小(ikin)人(man)有三副面孔👥🧍🕴️",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂你肯'→骂你肯(manikin)当侏儒演员",
+        "易混词对比：mannequin（豪华橱窗模特） vs manikin（普通人体模型）",
+        "记忆tip：mini+kin=小家族→缩小版人体"
+      ]
+    }
+  },
+  {
+    "word": "Manila",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自他加禄语'Maynila'，意为'有靛蓝植物的地方'，殖民时期西班牙人音译为现名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "马尼拉（菲律宾首都）",
+        "examples": [
+          {
+            "sentence": "The sunset over Manila Bay turns the skyline into a watercolor painting.",
+            "sentence_zh": "马尼拉湾的日落将天际线染成水彩画。"
+          },
+          {
+            "sentence": "Jeepneys in Manila are more colorful than a unicorn's dream.",
+            "sentence_zh": "马尼拉的吉普尼比独角兽的梦还要绚丽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "马尼拉麻",
+        "examples": [
+          {
+            "sentence": "This eco-friendly bag is made of authentic Manila hemp.",
+            "sentence_zh": "这个环保袋由正宗马尼拉麻制成。"
+          },
+          {
+            "sentence": "Manila paper was originally produced from banana fibers.",
+            "sentence_zh": "马尼拉纸最初用香蕉纤维制作。"
+          }
+        ]
+      }
+    ],
+    "teach": "马尼拉其实是'麻你啦'🌴：这里曾是全球靛蓝染料贸易中心（历史梗：殖民者用1斤靛蓝换100斤黄金💎）。说'堵车'用地道表达traffic jam worse than durian smell（比榴莲味还散不去的堵）。搭配：Manila envelope（牛皮纸袋✉️）和Manila clams（花蛤🍽️）。记住：马尼拉=麻+霓虹+辣妹！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂你啦'→马尼拉大堵车时都在骂",
+        "易混词：Manila vs. vanilla（香草）"
+      ]
+    }
   }
 ]
