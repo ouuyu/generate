@@ -4148,5 +4148,308 @@
         "易混词对比：vague（模糊但非故意） vs obscure（可能含故意隐藏）"
       ]
     }
+  },
+  {
+    "word": "obscurely",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "scure",
+        "ly"
+      ],
+      "meaning_connection": "前缀ob-表'遮蔽'，词根scure来自拉丁语scurus'覆盖'，-ly构成副词→如雾霾遮蔽视线般模糊不清"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "费解地",
+        "examples": [
+          {
+            "sentence": "The professor wrote the equation obscurely on purpose, like a magician hiding tricks.",
+            "sentence_zh": "教授故意把公式写得晦涩难懂，就像魔术师藏手法。"
+          },
+          {
+            "sentence": "Terms and conditions are often worded obscurely to confuse consumers.",
+            "sentence_zh": "条款常被表述得云山雾罩以迷惑消费者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "隐匿地",
+        "examples": [
+          {
+            "sentence": "The artist signed his name obscurely under the table leg.",
+            "sentence_zh": "艺术家把签名藏在桌腿下方，像是玩捉迷藏。"
+          },
+          {
+            "sentence": "The spy's messages were obscurely embedded in TikTok dance videos.",
+            "sentence_zh": "间谍信息被隐匿地编入抖音舞蹈视频。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "refer to obscurely",
+        "meaning": "含糊提及",
+        "examples": [
+          {
+            "sentence": "The CEO only referred obscurely to 'workforce optimization' while eating hotpot.",
+            "sentence_zh": "CEO吃着火锅时只含糊提及'人才优化'。"
+          }
+        ]
+      }
+    ],
+    "teach": "obscurely就像雾里看花🌫️：既形容哲学家说话像摩斯密码🤯，又形容猫咪把小鱼干藏得比微商还隐蔽🐟。搭配'obscurely worded'说绕晕你的合同条款，'obscurely hidden'吐槽找不到的电视遥控器📺。地道说法：'clear as mud'（像泥浆一样'清晰'）就是obscurely的最佳嘲讽！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不say哩'→故意不说清楚",
+        "易混词对比：vaguely（模糊地）≠obscurely（故意晦涩）",
+        "记忆tip：ob+scure=挡住(scure)光线(ob)"
+      ]
+    }
+  },
+  {
+    "word": "obscurity",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "scur",
+        "ity"
+      ],
+      "meaning_connection": "前缀ob-表示'遮蔽'，词根scur来自拉丁语'scurus'（黑暗），-ity为名词后缀→字面意思为'被黑暗笼罩的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "阴暗",
+        "examples": [
+          {
+            "sentence": "The obscurity of the alley made her clutch her purse tighter.",
+            "sentence_zh": "小巷的阴暗让她把钱包攥得更紧了。"
+          },
+          {
+            "sentence": "Fireflies glowed faintly in the obscurity of the forest.",
+            "sentence_zh": "萤火虫在森林的幽暗中发出微光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "朦胧",
+        "examples": [
+          {
+            "sentence": "The obscurity of the morning mist blurred the Great Wall's outline.",
+            "sentence_zh": "晨雾的朦胧模糊了长城的轮廓。"
+          },
+          {
+            "sentence": "Memories of childhood exist in pleasant obscurity.",
+            "sentence_zh": "童年记忆存在于美好的朦胧中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "晦涩",
+        "examples": [
+          {
+            "sentence": "The professor's lecture plunged us into total obscurity.",
+            "sentence_zh": "教授的讲座让我们陷入完全的晦涩难懂。"
+          },
+          {
+            "sentence": "Ancient Chinese seal scripts often appear as beautiful obscurity.",
+            "sentence_zh": "古代篆书常常表现为优美的晦涩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "费解",
+        "examples": [
+          {
+            "sentence": "Quantum physics remains in obscurity to most people.",
+            "sentence_zh": "量子物理对大多数人来说仍然费解。"
+          },
+          {
+            "sentence": "The obscurity of this math problem stumped even the teacher.",
+            "sentence_zh": "这道数学题的费解甚至难倒了老师。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "身份低微",
+        "examples": [
+          {
+            "sentence": "Liu Bang rose from obscurity to become the Han Dynasty's founder.",
+            "sentence_zh": "刘邦从身份低微崛起成为汉朝开国皇帝。"
+          },
+          {
+            "sentence": "Many influencers emerged from total obscurity on Douyin.",
+            "sentence_zh": "许多网红从抖音的默默无闻中脱颖而出。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fade into obscurity",
+        "meaning": "逐渐被遗忘",
+        "examples": [
+          {
+            "sentence": "Many child stars eventually fade into obscurity.",
+            "sentence_zh": "许多童星最终逐渐被遗忘。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "obscurity of origin",
+        "meaning": "出身不明",
+        "examples": [
+          {
+            "sentence": "The antique's value was affected by its obscurity of origin.",
+            "sentence_zh": "这件古董因出身不明而影响价值。"
+          }
+        ]
+      }
+    ],
+    "teach": "obscurity是'暗黑系学霸'🌑！它既形容物理昏暗（如停电的电梯间💡），也描述抽象难懂（如男朋友的沉默😶）。历史上，'微服私访'就是皇帝体验obscurity的cosplay👑→平民装束叫obscure clothing。说'查无此人'地道表达是sank into obscurity（沉入黑暗），搭配：obscurity of the past（往事的朦胧）➕obscurity bonus（冷门知识加分项）",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不死curry'→黑暗料理(curry)不死传说",
+        "易混词：obscurity(整体状态) vs. obscure(adj.模糊的)",
+        "记忆tip：想象把手机亮度调到最低就是obscurity模式"
+      ]
+    }
+  },
+  {
+    "word": "obsequious",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "sequ",
+        "ious"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根sequ表示'跟随'，-ious为形容词后缀→原指'紧跟不放的'，后演变为'谄媚的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "谄媚的",
+        "examples": [
+          {
+            "sentence": "The obsequious waiter complimented my chopstick skills for the fifth time.",
+            "sentence_zh": "那个谄媚的服务员第五次称赞我的筷子使用技巧。"
+          },
+          {
+            "sentence": "His obsequious laughter at the boss's bad joke made everyone uncomfortable.",
+            "sentence_zh": "他对老板烂笑话的谄媚笑声让所有人都不自在。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "奉承的",
+        "examples": [
+          {
+            "sentence": "She wrote an obsequious letter flattering the professor's research.",
+            "sentence_zh": "她写了封奉承信吹捧教授的研究成果。"
+          },
+          {
+            "sentence": "The obsequious tweets from that influencer are basically digital brown-nosing.",
+            "sentence_zh": "那个网红的奉承推文简直就是数字版的拍马屁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "顺从的",
+        "examples": [
+          {
+            "sentence": "The obsequious employee never challenges any decisions.",
+            "sentence_zh": "那个顺从的员工从不质疑任何决定。"
+          },
+          {
+            "sentence": "Pandas look obsequious when they clumsily roll over for treats.",
+            "sentence_zh": "熊猫笨拙地翻滚讨要食物时看起来特别顺从。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obsequious to",
+        "meaning": "对...卑躬屈膝",
+        "examples": [
+          {
+            "sentence": "The intern was obsequious to everyone above the 10th floor.",
+            "sentence_zh": "那个实习生对10楼以上的所有人都卑躬屈膝。"
+          }
+        ]
+      }
+    ],
+    "teach": "obsequious是职场舔狗的标配表情包🐶！这个词源自拉丁语'像送葬队伍般紧跟'（ob+sequi），现在用来形容那种给领导朋友圈秒赞的殷勤👑。要说'马屁精'可以用ass-kisser（直译：亲屁股者），'溜须拍马'叫suck up to。记住：真正的obsequious连老板打喷嚏都会说'bless you'三次！🤧🤧🤧",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不say亏'→谄媚的人从不say亏本话",
+        "易混词对比：officious（爱管闲事的） vs obsequious（爱拍马屁的）",
+        "联想记忆：想象'OB'（董事长）后面跟着'sequel'（续集）般的马屁精"
+      ]
+    }
+  },
+  {
+    "word": "obsequiously",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "sequi",
+        "ous",
+        "ly"
+      ],
+      "meaning_connection": "前缀ob-表'朝向',词根sequi=跟随→像影子般跟随主人→引申出谄媚含义,-ous表形容词性,-ly变副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "谄媚地",
+        "examples": [
+          {
+            "sentence": "The waiter smiled obsequiously while serving the celebrity.",
+            "sentence_zh": "服务员为明星服务时露出谄媚的笑容。"
+          },
+          {
+            "sentence": "He nodded obsequiously like a pecking chicken during the meeting.",
+            "sentence_zh": "他在会议上像啄米的小鸡般谄媚地点头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "奉承地",
+        "examples": [
+          {
+            "sentence": "She laughed obsequiously at her boss's unfunny jokes.",
+            "sentence_zh": "她对老板并不好笑的笑话奉承地大笑。"
+          },
+          {
+            "sentence": "The staff greeted the inspector obsequiously with overdone compliments.",
+            "sentence_zh": "员工们用夸张的赞美之词奉承地迎接检查员。"
+          }
+        ]
+      }
+    ],
+    "teach": "obsequiously是'舔狗行为学'终极示范🐕！词根sequi=跟随，像古罗马奴隶主身后的跟班(obsequium)。视觉化联想：抖音主播'感谢大哥火箭'的浮夸表情🎭+'家人们点点赞'的语调🎤。搭配：obsequiously flatter（溜须拍马）/ behave obsequiously（卑躬屈膝）。地道说法：brown-nosing（字面'舔棕'，指拍马屁）🧎♂️💨",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不say亏'→谄媚者永远不说吃亏",
+        "易混词对比：obediently（顺从地）vs obsequiously（谄媚地）",
+        "记忆tip：把ob-sequi-ous-ly拆解成'全部(ob)跟随(sequi)你(ous)到天(ly)边'的舔狗精神"
+      ]
+    }
   }
 ]

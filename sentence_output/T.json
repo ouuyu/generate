@@ -4333,5 +4333,318 @@
         "易混词对比：Taiwanese(台湾的) vs. Thailandese(泰国的，实际常用Thai)"
       ]
     }
+  },
+  {
+    "word": "take",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'tacan'，与德语'tak'相关，原始含义为'抓住'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "拿",
+        "examples": [
+          {
+            "sentence": "Take the last mooncake before it disappears!",
+            "sentence_zh": "拿走最后一个月饼，趁它还没被抢光！"
+          },
+          {
+            "sentence": "She took my advice like taking a free sample.",
+            "sentence_zh": "她接受我的建议像拿免费试吃品一样干脆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "带领",
+        "examples": [
+          {
+            "sentence": "The tour guide took us to a secret hotpot spot.",
+            "sentence_zh": "导游带我们去了家隐秘的火锅店。"
+          },
+          {
+            "sentence": "This app takes you through Beijing's hutong history.",
+            "sentence_zh": "这个APP带你领略北京胡同的历史。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "需要",
+        "examples": [
+          {
+            "sentence": "It takes three swallows to finish a xiaolongbao properly.",
+            "sentence_zh": "正经吃完一个小笼包需要三口。"
+          },
+          {
+            "sentence": "Great Wall selfies take both courage and angles.",
+            "sentence_zh": "拍好长城自拍既需要勇气也需要找角度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "起作用",
+        "examples": [
+          {
+            "sentence": "The antivirus software finally took after three reboots.",
+            "sentence_zh": "杀毒软件重启三次后终于起作用了。"
+          },
+          {
+            "sentence": "His WeChat marketing strategy is taking like hotcakes.",
+            "sentence_zh": "他的微信营销策略像煎饼一样畅销见效。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "收成",
+        "examples": [
+          {
+            "sentence": "This year's tea take surpassed all expectations.",
+            "sentence_zh": "今年茶叶收成超出所有人预期。"
+          },
+          {
+            "sentence": "The fisherman's daily take determines his douyin content quality.",
+            "sentence_zh": "渔夫每日的收获决定他抖音内容的质量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take off",
+        "meaning": "起飞/突然成功",
+        "examples": [
+          {
+            "sentence": "Her douyin account took off after one viral dumpling video.",
+            "sentence_zh": "她的抖音账号因一个饺子视频爆红后突然起飞。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "take after",
+        "meaning": "相像",
+        "examples": [
+          {
+            "sentence": "He takes after his mom in loving stinky tofu.",
+            "sentence_zh": "他像妈妈一样爱吃臭豆腐。"
+          }
+        ]
+      }
+    ],
+    "teach": "take是英语界的'随便'🍜！既能指拿月饼（take mooncakes），也能指花时间（takes time），还能指带路（take you）。'拍照片'叫take photos，'起作用'是take effect，连'理解'都能用take...比如'I take it you like spicy?' 🌶️。记住万能搭配：take a rain check（改天约）和take five（休息五分钟）⏱️。",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒渴'→拿(take)水杯因为忒渴",
+        "易混词：bring是带来，take是带走"
+      ]
+    }
+  },
+  {
+    "word": "takeaway",
+    "etymology": {
+      "breakdown": [
+        "take",
+        "away"
+      ],
+      "meaning_connection": "字面意思为'带走'，最早指从餐馆带走食物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "外吃的",
+        "examples": [
+          {
+            "sentence": "The takeaway hotpot set includes a portable stove.",
+            "sentence_zh": "这款外带火锅套餐包含便携炉具。"
+          },
+          {
+            "sentence": "During lockdowns, takeaway bubble tea saved my sanity.",
+            "sentence_zh": "封控期间，外带奶茶拯救了我的精神健康。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "外卖餐馆",
+        "examples": [
+          {
+            "sentence": "That Sichuan takeaway near CCTV Tower is legendary.",
+            "sentence_zh": "央视大楼旁的那家川菜外卖店堪称传奇。"
+          },
+          {
+            "sentence": "I've marked all the halal takeaway on my food delivery app.",
+            "sentence_zh": "我已在外卖APP上收藏了所有清真外卖店。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "外卖食品",
+        "examples": [
+          {
+            "sentence": "Our family's Mid-Autumn Festival takeaway was Peking duck.",
+            "sentence_zh": "我家今年中秋的外卖是北京烤鸭。"
+          },
+          {
+            "sentence": "The spicy crawfish takeaway stained my new white shirt.",
+            "sentence_zh": "麻辣小龙虾外卖弄脏了我的新白衬衫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "takeaway coffee",
+        "meaning": "外带咖啡",
+        "examples": [
+          {
+            "sentence": "Beijing's takeaway coffee comes with cute pandas on the cup.",
+            "sentence_zh": "北京的外带咖啡杯上印着可爱熊猫。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "takeaway culture",
+        "meaning": "外卖文化",
+        "examples": [
+          {
+            "sentence": "China's takeaway culture has revolutionized dining habits.",
+            "sentence_zh": "中国的外卖文化彻底改变了用餐习惯。"
+          }
+        ]
+      }
+    ],
+    "teach": "takeaway是21世纪最伟大发明之一🍱！英国最早的外卖是1896年用自行车送的炸鱼薯条🚴♂️，如今美团骑手能给你送活螃蟹🦀。说'我靠外卖活着'用'I live on takeaway'，吐槽'外卖费比菜贵'说'The delivery fee bites me!' 💸。记住：没有一单外卖解决不了的emo，如果有，就点两单！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒渴位'→特别口渴时就点takeaway",
+        "易混词：delivery(配送过程) vs takeaway(食物本身)",
+        "记忆法：take+away=拿着走→外卖"
+      ]
+    }
+  },
+  {
+    "word": "taken",
+    "etymology": {
+      "breakdown": [
+        "take",
+        "en"
+      ],
+      "meaning_connection": "take的过去分词形式，-en为古英语过去分词后缀，原指'抓取'动作的完成状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "被带走（take的完成态）",
+        "examples": [
+          {
+            "sentence": "The last mooncake was taken by my grandma secretly.",
+            "sentence_zh": "最后一块月饼被奶奶偷偷拿走了。"
+          },
+          {
+            "sentence": "All the good usernames were already taken on Weibo.",
+            "sentence_zh": "微博上所有好听的昵称都被抢注了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "被占据的",
+        "examples": [
+          {
+            "sentence": "Every hotpot seat is taken during dinner time.",
+            "sentence_zh": "晚餐时段所有火锅位都被占了。"
+          },
+          {
+            "sentence": "Her heart is already taken by Wang Yibo.",
+            "sentence_zh": "她的心早已被王一博占据。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be taken aback",
+        "meaning": "大吃一惊",
+        "examples": [
+          {
+            "sentence": "I was taken aback when seeing the 999+ unread emails.",
+            "sentence_zh": "看到999+未读邮件时我大吃一惊。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "taken for granted",
+        "meaning": "视为理所当然",
+        "examples": [
+          {
+            "sentence": "Don't take your mom's cooking for granted!",
+            "sentence_zh": "别把妈妈的饭菜当作理所当然！"
+          }
+        ]
+      }
+    ],
+    "teach": "taken是'被拿下'的社死现场💀：当你说'This seat is taken'就像在火锅店抢座🪑，'be taken'表示名花有主时就像爱豆官宣恋爱💔。搭配take for granted像总蹭室友洗发水🧴，be taken aback像突然被领导@全员👻。记住：taken就是'被动版'take，自带委屈巴巴属性🥺！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒肯'→忒肯(taken)抢走我的炸鸡",
+        "易混词对比：taken（被拿走）vs taking（正在拿）"
+      ]
+    }
+  },
+  {
+    "word": "takeoff",
+    "etymology": {
+      "breakdown": [
+        "take",
+        "off"
+      ],
+      "meaning_connection": "动词短语take off的固化形式，字面意义为'拿掉/离开'，引申为飞机'离地起飞'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "起飞",
+        "examples": [
+          {
+            "sentence": "The C919's smooth takeoff made all Chinese people proud.",
+            "sentence_zh": "C919平稳的起飞让所有中国人自豪。"
+          },
+          {
+            "sentence": "During takeoff, flight attendants must secure their coffee carts.",
+            "sentence_zh": "起飞过程中，空乘必须固定好咖啡推车。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vertical takeoff",
+        "meaning": "垂直起飞",
+        "examples": [
+          {
+            "sentence": "The drone's vertical takeoff startled the pigeons.",
+            "sentence_zh": "无人机的垂直起飞惊飞了广场鸽。"
+          }
+        ]
+      }
+    ],
+    "teach": "takeoff是飞机版的'鲤鱼打挺'✈️！当你说'I’m off'表示要溜，飞机说'takeoff'就是真溜了💨。记住：经济舱叫cattle class（牲口舱），'延误'是flight delay，而最爽的是red-eye flight（红眼航班）能追着太阳跑🌞。你的梦想也该takeoff啦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒可奥夫'→忒(太)可奥(傲)夫(飞)→骄傲地起飞",
+        "易混词对比：takeoff(起飞) vs touchdown(降落)就像跷跷板的两端"
+      ]
+    }
   }
 ]

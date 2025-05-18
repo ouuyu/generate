@@ -4506,5 +4506,297 @@
         "易混词对比：wonder(疑惑) vs wander(闲逛)→'先疑惑(wonder)，后闲逛(wander)'"
       ]
     }
+  },
+  {
+    "word": "wanderer",
+    "etymology": {
+      "breakdown": [
+        "wander",
+        "er"
+      ],
+      "meaning_connection": "词根wander=漫游，后缀-er表示人→漫游的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "漫游者",
+        "examples": [
+          {
+            "sentence": "The old man is a lifelong wanderer who has visited every province in China.",
+            "sentence_zh": "这位老人是走遍中国所有省份的终身漫游者。"
+          },
+          {
+            "sentence": "Digital wanderers nowadays explore the world through Google Earth.",
+            "sentence_zh": "现在的数字漫游者通过谷歌地球探索世界。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "流浪者",
+        "examples": [
+          {
+            "sentence": "That stray cat is a lonely wanderer in our neighborhood.",
+            "sentence_zh": "那只流浪猫是我们小区的孤独流浪者。"
+          },
+          {
+            "sentence": "The kind-hearted couple often provides food for urban wanderers.",
+            "sentence_zh": "这对好心的夫妇经常为城市流浪者提供食物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "徘徊者",
+        "examples": [
+          {
+            "sentence": "Security guards keep an eye on suspicious wanderers near the ATM.",
+            "sentence_zh": "保安密切关注自动取款机附近的可疑徘徊者。"
+          },
+          {
+            "sentence": "Midnight wanderers under streetlights often inspire poets.",
+            "sentence_zh": "路灯下的午夜徘徊者常给诗人以灵感。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eternal wanderer",
+        "meaning": "永恒的流浪者",
+        "examples": [
+          {
+            "sentence": "In mythology, the Flying Dutchman is the eternal wanderer of the seas.",
+            "sentence_zh": "神话中的飞翔荷兰人号是海洋的永恒流浪者。"
+          }
+        ]
+      }
+    ],
+    "teach": "wanderer是'浪味仙'本仙🌊！这个词自带BGM《漂洋过海来看你》🎵。古代游吟诗人叫wandering minstrel（移动的QQ音乐🎶），现代版就是背着吉他的街头艺人。说'无家可归'可以用footloose and fancy-free（自由到没谱），重要搭配：global wanderer（环球浪客）vs. couch wanderer（沙发漫游者🛋️）。记住：真正的wanderer心里都装着GPS！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忘打卡'→整天忘打卡的职场流浪者",
+        "易混词：wanderer（主动漫游） vs. refugee（被迫流浪）",
+        "记忆法：wan-der-er→'弯的儿'→弯弯绕绕走路的人"
+      ]
+    }
+  },
+  {
+    "word": "wandering",
+    "etymology": {
+      "breakdown": [
+        "wand",
+        "er",
+        "ing"
+      ],
+      "meaning_connection": "词源wand来自古英语'windan'(弯曲)，-er表反复动作，-ing表状态→原指'曲折移动'，引申出'漫游'和'离题'两种意象"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "漫游的",
+        "examples": [
+          {
+            "sentence": "The wandering Tibetan antelopes cross the Qinghai-Tibet Highway every year.",
+            "sentence_zh": "漫游的藏羚羊每年穿越青藏公路。"
+          },
+          {
+            "sentence": "We followed a wandering path through the bamboo forest.",
+            "sentence_zh": "我们沿着一条蜿蜒的小径穿过竹林。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "徘徊的",
+        "examples": [
+          {
+            "sentence": "His wandering eyes betrayed his lack of focus.",
+            "sentence_zh": "他游移不定的眼神暴露了注意力不集中。"
+          },
+          {
+            "sentence": "The wandering cat meowed at every door in the hutong.",
+            "sentence_zh": "那只徘徊的猫在胡同里挨家挨户喵喵叫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "流浪的",
+        "examples": [
+          {
+            "sentence": "Wandering minstrels spread Peking opera tunes across provinces.",
+            "sentence_zh": "流浪艺人把京剧曲调传播到各省。"
+          },
+          {
+            "sentence": "The wandering clouds mirrored his rootless life.",
+            "sentence_zh": "流浪的云朵映射着他无根的生活。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "蜿蜒的",
+        "examples": [
+          {
+            "sentence": "The Yangtze River's wandering course shaped magnificent gorges.",
+            "sentence_zh": "长江蜿蜒的河道造就了壮丽的三峡。"
+          },
+          {
+            "sentence": "Her wandering calligraphy strokes resembled dancing cranes.",
+            "sentence_zh": "她书法中蜿蜒的笔画如仙鹤起舞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "闲逛",
+        "examples": [
+          {
+            "sentence": "A midnight wandering in Shanghai's French Concession reveals hidden jazz bars.",
+            "sentence_zh": "在上海法租界的午夜闲逛能发现隐秘的爵士酒吧。"
+          },
+          {
+            "sentence": "His weekend wanderings always end at a xiaolongbao stall.",
+            "sentence_zh": "他的周末闲逛总是以小笼包摊位收尾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "流浪",
+        "examples": [
+          {
+            "sentence": "The monk's 20-year wandering included meditating in Dunhuang caves.",
+            "sentence_zh": "那位僧侣20年的流浪包括在敦煌洞窟中冥想。"
+          },
+          {
+            "sentence": "Her poetic wandering inspired a collection of Silk Road poems.",
+            "sentence_zh": "她的诗意流浪激发了丝绸之路诗集创作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "离题",
+        "examples": [
+          {
+            "sentence": "The professor's wandering from AI to Tibetan Buddhism confused freshmen.",
+            "sentence_zh": "教授从人工智能跑题到藏传佛教让新生们很困惑。"
+          },
+          {
+            "sentence": "His essay's wandering between topics lost him marks.",
+            "sentence_zh": "他文章中的离题使他丢了分数。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "胡言乱语",
+        "examples": [
+          {
+            "sentence": "The fever caused her midnight wanderings about time travel.",
+            "sentence_zh": "高烧让她半夜胡言乱语说穿越时空。"
+          },
+          {
+            "sentence": "His drunken wanderings included claiming to be Genghis Khan.",
+            "sentence_zh": "他的醉酒胡话包括自称成吉思汗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wandering star",
+        "meaning": "游荡的星星（古代对行星的称呼）",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese astronomers recorded Venus as a golden wandering star.",
+            "sentence_zh": "中国古代天文学家将金星记录为金色游荡星。"
+          }
+        ]
+      }
+    ],
+    "teach": "wandering是思想界的驴友🧗！物理层面像唐僧取经走曲线（wandering journey），精神层面像你刷抖音时的注意力（wandering mind）。搭配'wandering hands'指咸猪手🤚，'wandering tooth'是小朋友松动的乳牙🦷。地道说法'go walkabout'源自澳洲原住民，指突然消失去流浪🌄。记住：身体wander是旅游，思维wander是摸鱼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弯的宁'→弯弯曲曲(wandering)的宁夏沙丘",
+        "易混词：wander(动词) vs wandering(形容词/名词)"
+      ]
+    }
+  },
+  {
+    "word": "wanderlust",
+    "etymology": {
+      "breakdown": [
+        "wander",
+        "lust"
+      ],
+      "meaning_connection": "德语借词，wander=漫游，lust=渴望→字面意思是'对漫游的强烈欲望'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "漫游癖",
+        "examples": [
+          {
+            "sentence": "Her wanderlust led her to backpack across 30 countries before turning 25.",
+            "sentence_zh": "她的漫游癖让她在25岁前就背包走过了30个国家。"
+          },
+          {
+            "sentence": "The pandemic temporarily cured my wanderlust with its travel restrictions.",
+            "sentence_zh": "疫情期间的旅行限制暂时治好了我的漫游癖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "流浪癖",
+        "examples": [
+          {
+            "sentence": "His wanderlust makes him quit stable jobs to hitchhike around the world.",
+            "sentence_zh": "他的流浪癖让他放弃稳定工作去周游世界。"
+          },
+          {
+            "sentence": "The novel describes a poet's wanderlust that drives him to live in monasteries.",
+            "sentence_zh": "这部小说描写了一位诗人驱使他住在修道院的流浪癖。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wanderlust spirit",
+        "meaning": "流浪精神",
+        "examples": [
+          {
+            "sentence": "The Gen Z's wanderlust spirit is reshaping the tourism industry.",
+            "sentence_zh": "Z世代的流浪精神正在重塑旅游业。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "satisfy one's wanderlust",
+        "meaning": "满足漫游欲",
+        "examples": [
+          {
+            "sentence": "She satisfies her wanderlust by watching travel vlogs during lunch breaks.",
+            "sentence_zh": "她通过在午休时看旅行视频来满足漫游欲。"
+          }
+        ]
+      }
+    ],
+    "teach": "wanderlust其实是'脚痒症'👣！德语词wander+lust直译是'行走的欲望'，就像二哈的拆家本能🐺。要说'想出去浪'可以吐槽自己have chronic wanderlust（慢性流浪癖），'解馋'叫scratch the travel itch（挠旅行痒）。记住：每个wanderlust患者手机里都装着十个旅行APP✈️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'万达乐死他'→万达广场乐死(wanderlust)购物狂",
+        "易混词对比：wonder（惊奇）vs wander（漫游）→'惊奇游'记忆法",
+        "拆解记忆：wander（游荡）+ lust（欲望）= 行走的荷尔蒙"
+      ]
+    }
   }
 ]

@@ -4565,5 +4565,311 @@
         "易混词：fairground（露天场所）vs. playground（儿童游乐场）"
       ]
     }
+  },
+  {
+    "word": "fairly",
+    "etymology": {
+      "breakdown": [
+        "fair",
+        "ly"
+      ],
+      "meaning_connection": "词根fair=美丽/公平，后缀-ly表副词性质→从'美丽地'引申出多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "美观地",
+        "examples": [
+          {
+            "sentence": "The porcelain was fairly displayed in the Forbidden City exhibition.",
+            "sentence_zh": "瓷器在故宫展览中被美观地陈列。"
+          },
+          {
+            "sentence": "She arranged the mooncakes fairly in the gift box like a flower.",
+            "sentence_zh": "她把月饼在礼盒中摆得像花朵般美观。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "公平地",
+        "examples": [
+          {
+            "sentence": "Alipay's credit system treats all users fairly.",
+            "sentence_zh": "支付宝的信用体系公平对待所有用户。"
+          },
+          {
+            "sentence": "The teacher graded the gaokao essays fairly with AI assistance.",
+            "sentence_zh": "老师借助AI公平地批改高考作文。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "相当地",
+        "examples": [
+          {
+            "sentence": "The AI chatbot's response was fairly accurate.",
+            "sentence_zh": "这个AI聊天机器人的回答相当准确。"
+          },
+          {
+            "sentence": "This hotpot restaurant is fairly popular on Dianping.",
+            "sentence_zh": "这家火锅店在大众点评上相当热门。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "清楚地",
+        "examples": [
+          {
+            "sentence": "The CCTV host spoke fairly in Putonghua.",
+            "sentence_zh": "央视主持人用普通话清楚地播报。"
+          },
+          {
+            "sentence": "The QR code instructions were printed fairly for elderly users.",
+            "sentence_zh": "二维码使用说明为老年用户清晰地印刷。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fairly and squarely",
+        "meaning": "光明正大地",
+        "examples": [
+          {
+            "sentence": "We won the e-sports championship fairly and squarely.",
+            "sentence_zh": "我们光明正大地赢得了电竞冠军。"
+          }
+        ]
+      }
+    ],
+    "teach": "fairly就像美颜相机📸！'美观地'是给照片加滤镜✨（fairly decorated），'公平地'是关掉美颜真实评分👩⚖️（judge fairly），'相当地'是60分P成80分📈（fairly good），'清楚地'是关掉所有特效原图直出🖼️（see fairly）。地道表达：'这很公平'说That's cricket（板球术语）🏏",
+    "recite": {
+      "tips": [
+        "谐音梗：'发儿利'→公平发(fairly)红包才有利",
+        "易混词：fairly（相当）vs. rather（过于）",
+        "记忆法：fair+ly=从'公平'衍生出四大分身"
+      ]
+    }
+  },
+  {
+    "word": "fairness",
+    "etymology": {
+      "breakdown": [
+        "fair",
+        "ness"
+      ],
+      "meaning_connection": "词根fair=美好/公正，后缀-ness表性质→从天气晴朗到人品正直都用同一个词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "晴朗",
+        "examples": [
+          {
+            "sentence": "The fairness of the sky promised perfect weather for the picnic.",
+            "sentence_zh": "晴朗的天空预示着野餐会有完美天气。"
+          },
+          {
+            "sentence": "Ancient sailors prayed for fairness of weather when setting sail.",
+            "sentence_zh": "古代水手出海时会祈求天气晴朗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "光明正大",
+        "examples": [
+          {
+            "sentence": "The judge's fairness earned respect from both prosecutors and defenders.",
+            "sentence_zh": "法官的光明正大赢得了控辩双方的尊重。"
+          },
+          {
+            "sentence": "In Chinese chess competitions, fairness is as crucial as the skills.",
+            "sentence_zh": "在中国象棋比赛中，光明正大和棋艺同样重要。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "美丽",
+        "examples": [
+          {
+            "sentence": "The fairness of the peacock's feathers amazed all visitors.",
+            "sentence_zh": "孔雀羽毛的美丽让所有游客惊叹。"
+          },
+          {
+            "sentence": "Ancient poets often described the fairness of lotus flowers in summer.",
+            "sentence_zh": "古代诗人常描写夏日荷花的美丽。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in all fairness",
+        "meaning": "公平地说",
+        "examples": [
+          {
+            "sentence": "In all fairness, the delivery guy deserves extra tip during typhoons.",
+            "sentence_zh": "公平地说，台风天外卖小哥该得到额外小费。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sense of fairness",
+        "meaning": "公平意识",
+        "examples": [
+          {
+            "sentence": "Elementary schools now teach children sense of fairness through group games.",
+            "sentence_zh": "现在小学通过团体游戏培养孩子的公平意识。"
+          }
+        ]
+      }
+    ],
+    "teach": "fairness就像阳光☀️三明治：既是天气晴朗（sky's fairness），也是裁判公正（referee's fairness），还能形容小姐姐颜值（lady's fairness）！英国法庭放着'公平女神'雕像⚖️，而中文说'公道自在人心'。要吐槽'双标'可以说selective fairness（选择性公平），夸人'一碗水端平'用impartial fairness。记住：fair+ness=晴天+良心+养眼三合一！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥鹅腻死'→肥鹅因不fairness被腻死",
+        "对比记忆：fairness（抽象公正） vs. justice（司法公正）",
+        "联想：fairness发音类似'发亮丝'→发光的正义丝带"
+      ]
+    }
+  },
+  {
+    "word": "fairway",
+    "etymology": {
+      "breakdown": [
+        "fair",
+        "way"
+      ],
+      "meaning_connection": "fair（通畅的）+ way（道路）→ 原指无障碍通道，后专指船只或飞机安全航行的路线"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "航路",
+        "examples": [
+          {
+            "sentence": "The cargo ship deviated from its fairway and got stuck near the Suez Canal.",
+            "sentence_zh": "货轮偏离航路后在苏伊士运河附近搁浅。"
+          },
+          {
+            "sentence": "Drones must follow designated fairways in urban areas.",
+            "sentence_zh": "无人机在城市区域需沿指定航路飞行。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "clear the fairway",
+        "meaning": "清理航道",
+        "examples": [
+          {
+            "sentence": "The coast guard is clearing the fairway of fishing nets after typhoon.",
+            "sentence_zh": "台风过后海警正在清理航道中的渔网。"
+          }
+        ]
+      }
+    ],
+    "teach": "fairway是交通界的斑马线🦓！飞机在天上的'空中走廊'✈️叫air fairway，轮船的'水上高速'🛳️叫shipping fairway。就像火锅店的传菜通道🍲，堵了就会引发大混乱（fairway congestion）。记住：'让出航道'叫yield the fairway，就像给救护车让道🚑一样重要！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥胃'→吃太饱的货轮卡住fairway",
+        "易混词对比：fairway（航路）vs. freeway（高速公路）"
+      ]
+    }
+  },
+  {
+    "word": "fairy",
+    "etymology": {
+      "breakdown": [
+        "fay",
+        "ery"
+      ],
+      "meaning_connection": "来自古法语faerie（仙境），词根fay=命运女神，-ery表场所/性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "仙女",
+        "examples": [
+          {
+            "sentence": "The fairy in Chinese mythology often rides on a magical lotus.",
+            "sentence_zh": "中国神话中的仙女常驾着神奇莲花。"
+          },
+          {
+            "sentence": "Children dressed as tooth fairies for Halloween.",
+            "sentence_zh": "孩子们万圣节扮成牙仙子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "精灵",
+        "examples": [
+          {
+            "sentence": "The garden fairy statue in my grandma's yard has broken wings.",
+            "sentence_zh": "奶奶院子里的小精灵雕像翅膀断了。"
+          },
+          {
+            "sentence": "Pixar's firefly fairy is actually a tiny drone.",
+            "sentence_zh": "皮克斯的萤火虫精灵其实是微型无人机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "仙女的",
+        "examples": [
+          {
+            "sentence": "Her fairy makeup went viral on Xiaohongshu.",
+            "sentence_zh": "她的仙女妆在小红书爆火。"
+          },
+          {
+            "sentence": "This fairy lights remind me of Chongqing night view.",
+            "sentence_zh": "这些仙女灯让我想起重庆夜景。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fairy tale",
+        "meaning": "童话",
+        "examples": [
+          {
+            "sentence": "Alibaba's success sounds like a modern fairy tale.",
+            "sentence_zh": "阿里巴巴的成功像现代童话。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fairy dust",
+        "meaning": "仙尘",
+        "examples": [
+          {
+            "sentence": "The influencer called highlighter 'fairy dust for your face'",
+            "sentence_zh": "美妆博主称高光是'脸上的仙尘'"
+          }
+        ]
+      }
+    ],
+    "teach": "fairy其实是'非人哉'🧚！西方仙女用魔法棒✨（fairy wand），中国仙女用飘带和祥云☁️。说人'仙气飘飘'叫fairy-like，'离谱操作'叫fairy tale logic（童话逻辑）。记住：所有fairy都逃不过三大件——翅膀、亮粉和自拍杆🤳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'飞锐'→会飞的锐舞派对精灵",
+        "易混词：fairy（善良精灵）vs. witch（女巫）"
+      ]
+    }
   }
 ]

@@ -4404,5 +4404,331 @@
         "易混词对比：nationalized(国家接管) vs privatized(私有化)"
       ]
     }
+  },
+  {
+    "word": "nationally",
+    "etymology": {
+      "breakdown": [
+        "nation",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根nation=民族/国家，-al表形容词后缀，-ly表副词后缀→从国家层面地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "作为整个民族",
+        "examples": [
+          {
+            "sentence": "The costume drama was celebrated nationally as cultural heritage.",
+            "sentence_zh": "这部古装剧作为文化遗产受到全民族的推崇。"
+          },
+          {
+            "sentence": "Dumplings are recognized nationally as a symbol of family reunion.",
+            "sentence_zh": "饺子被全民族视为家庭团聚的象征。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "举国一致地",
+        "examples": [
+          {
+            "sentence": "People mourned nationally for the earthquake victims.",
+            "sentence_zh": "全国人民一致为地震遇难者哀悼。"
+          },
+          {
+            "sentence": "The vaccine rollout was supported nationally without partisan dispute.",
+            "sentence_zh": "疫苗推广获得举国一致支持，没有党派争议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "全国性地",
+        "examples": [
+          {
+            "sentence": "The livestreaming shopping festival trend spread nationally within months.",
+            "sentence_zh": "直播购物节风潮在数月内全国性蔓延。"
+          },
+          {
+            "sentence": "This dairy brand is distributed nationally through 200,000 convenience stores.",
+            "sentence_zh": "该乳业品牌通过20万家便利店全国性铺货。"
+          }
+        ]
+      }
+    ],
+    "teach": "nationally就像春节联欢晚会📺——既要'全民族认同'（ culturally nationally），又要'全国统一行动'（春节抢红包🧧），还要'覆盖所有卫视'（ nationally broadcast）。搭配说'nationally recognized'像老干妈征服全国🌶️，'nationally synchronized'像双十一零点秒杀⏰。记住：当看到-ly结尾，就知道要放大到中国地图比例尺🗺️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪省哪里'→全国通用(nationally)不问省份",
+        "易混词：nationally vs. internationally（全国vs全球）",
+        "记忆钩：把-ly想象成卫星信号覆盖范围"
+      ]
+    }
+  },
+  {
+    "word": "nationwide",
+    "etymology": {
+      "breakdown": [
+        "nation",
+        "wide"
+      ],
+      "meaning_connection": "nation表示'国家'，wide表示'广泛的'→组合意为'全国范围的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "全国性的",
+        "examples": [
+          {
+            "sentence": "The nationwide delivery network covers even remote villages in Tibet.",
+            "sentence_zh": "这个全国性配送网络甚至覆盖西藏偏远村庄。"
+          },
+          {
+            "sentence": "A nationwide search for the panda-shaped balloon is happening.",
+            "sentence_zh": "正在全国范围寻找那个熊猫形状的气球。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go nationwide",
+        "meaning": "推广到全国",
+        "examples": [
+          {
+            "sentence": "Bubble tea chain plans to go nationwide by 2025.",
+            "sentence_zh": "该奶茶品牌计划2025年前推广到全国。"
+          }
+        ]
+      }
+    ],
+    "teach": "nationwide就像春节联欢晚会📺，从漠河到曾母暗沙都能看！想象把火锅店开成全国连锁🍲（nationwide chain），或者让健康码红遍960万平方公里🗺️（nationwide coverage）。说'全国皆知'可以用common knowledge nationwide，而'全国放假'就是nationwide holiday🏖️。记住：加上-wide就变超大号，比如worldwide→全球版！",
+    "recite": {
+      "tips": [
+        "视觉联想：把中国地图卷成WiFi信号📶→全国覆盖",
+        "对比记忆：nationwide vs. worldwide 就像国内漫游vs.国际漫游"
+      ]
+    }
+  },
+  {
+    "word": "native",
+    "etymology": {
+      "breakdown": [
+        "nat",
+        "ive"
+      ],
+      "meaning_connection": "词根nat=出生，-ive表属性→与出生地相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "本地人",
+        "examples": [
+          {
+            "sentence": "The Hutong native gave me secret tips for finding the best jianbing.",
+            "sentence_zh": "这位胡同本地人告诉我寻找最佳煎饼的秘诀。"
+          },
+          {
+            "sentence": "As a native of Chengdu, she can spot fake spicy hotpot from 10 meters away.",
+            "sentence_zh": "作为成都本地人，她能在十米外识别出假冒麻辣火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "土产",
+        "examples": [
+          {
+            "sentence": "This durian is a native of Southeast Asia, not those knockoffs from other regions.",
+            "sentence_zh": "这榴莲是东南亚土产，不是其他地区的山寨货。"
+          },
+          {
+            "sentence": "The tea shop specializes in natives of Fujian province.",
+            "sentence_zh": "这家茶庄专营福建省土产茶叶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "本国的",
+        "examples": [
+          {
+            "sentence": "Her native Mandarin has a charming Shandong accent.",
+            "sentence_zh": "她的母语普通话带着迷人的山东口音。"
+          },
+          {
+            "sentence": "WeChat Pay is now more popular than cash in its native market.",
+            "sentence_zh": "微信支付在其本国市场已比现金更流行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "与生俱来的",
+        "examples": [
+          {
+            "sentence": "The panda's native cuteness helps it survive even with poor survival skills.",
+            "sentence_zh": "熊猫与生俱来的可爱让它即使生存能力差也能活下来。"
+          },
+          {
+            "sentence": "His native talent for mahjong shocked all his relatives during Spring Festival.",
+            "sentence_zh": "他打麻将的天赋在春节时震惊了所有亲戚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "自然的",
+        "examples": [
+          {
+            "sentence": "The Great Wall blends perfectly with its native surroundings.",
+            "sentence_zh": "长城与周围的自然环境完美融合。"
+          },
+          {
+            "sentence": "This skincare product uses only native ingredients from the Himalayas.",
+            "sentence_zh": "这款护肤品仅使用来自喜马拉雅的自然成分。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "native to",
+        "meaning": "原产于",
+        "examples": [
+          {
+            "sentence": "Peking ducks are native to Beijing, just like their human neighbors.",
+            "sentence_zh": "北京鸭原产于北京，就像它们的人类邻居一样。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go native",
+        "meaning": "入乡随俗",
+        "examples": [
+          {
+            "sentence": "After 3 months in Sichuan, he went native and started eating chili for breakfast.",
+            "sentence_zh": "在四川待了三个月后，他入乡随俗开始早餐吃辣椒。"
+          }
+        ]
+      }
+    ],
+    "teach": "native就像胎记🌏：要么指出生地的（native place），要么指自带的（native ability）。英国人说'non-native speaker'时就像挑剔豆花甜咸党🍮，而'go native'入乡随俗就像老外爱上臭豆腐🤯。记住：说'本地美食'用native cuisine，'母语优势'叫native advantage，吐槽'外地人'可以说non-locals（比outsider礼貌哦）~",
+    "recite": {
+      "tips": [
+        "谐音梗：'内提吾'→内(部)提(及的)吾(乡人)",
+        "易混词对比：native vs local（前者强调出生属性，后者强调居住地）",
+        "记忆tip：na(那)+tive(踢我)→'那个人踢我因为我不是native'"
+      ]
+    }
+  },
+  {
+    "word": "nativity",
+    "etymology": {
+      "breakdown": [
+        "nat",
+        "ivity"
+      ],
+      "meaning_connection": "词根nat=出生（同nature），-ivity表性质→与出生相关的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "出生",
+        "examples": [
+          {
+            "sentence": "The panda's nativity was broadcast live to millions of viewers.",
+            "sentence_zh": "这只熊猫的出生过程向数百万观众直播。"
+          },
+          {
+            "sentence": "Ancient Greeks believed the nativity hour determined one's fate.",
+            "sentence_zh": "古希腊人认为出生时辰决定命运。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "出生的情况",
+        "examples": [
+          {
+            "sentence": "The novel describes the nativity of the protagonist in a typhoon.",
+            "sentence_zh": "小说描写了主人公在台风中出生的惊险情况。"
+          },
+          {
+            "sentence": "Her nativity certificate recorded an unusual double rainbow phenomenon.",
+            "sentence_zh": "她的出生证明上记载了罕见的双彩虹现象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "诞生",
+        "examples": [
+          {
+            "sentence": "The nativity of jazz music can be traced to New Orleans.",
+            "sentence_zh": "爵士乐的诞生可追溯至新奥尔良。"
+          },
+          {
+            "sentence": "We celebrate the nativity of the internet every October 29th.",
+            "sentence_zh": "我们每年10月29日庆祝互联网的诞生。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "出生地",
+        "examples": [
+          {
+            "sentence": "The museum displays soil samples from the nativity of famous poets.",
+            "sentence_zh": "博物馆陈列着著名诗人出生地的土壤样本。"
+          },
+          {
+            "sentence": "His accent betrayed his nativity in southern China.",
+            "sentence_zh": "他的口音暴露了他中国南方的出生地。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "耶稣诞生",
+        "examples": [
+          {
+            "sentence": "The church choir will perform a nativity play this Christmas.",
+            "sentence_zh": "教堂唱诗班将在今年圣诞节表演耶稣诞生剧。"
+          },
+          {
+            "sentence": "Nativity scenes often feature shepherds and the Three Wise Men.",
+            "sentence_zh": "耶稣诞生场景常有牧羊人和东方三博士出现。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nativity scene",
+        "meaning": "圣诞马槽模型",
+        "examples": [
+          {
+            "sentence": "Children love rearranging the figurines in the nativity scene.",
+            "sentence_zh": "孩子们喜欢重新摆放圣诞马槽模型里的小人偶。"
+          }
+        ]
+      }
+    ],
+    "teach": "nativity是自带BGM的单词🎵！说到耶稣诞生(nativity)就想到圣诞颂歌《小伯利恒》🎄，而普通人出生(nativity)可能伴随的是亲妈讲的'那天下着大雨'🌧️。搭配'nativity test'可不是考试，是出生证明📜；说'圣诞装饰'要用nativity decorations而非birth decorations。记住：重要的nativity都有纪念品——耶稣有马槽，你有满月照👶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那踢我踢'→耶稣诞生时驴子踢我（想象马槽场景）",
+        "对比记忆：birth（普通出生） vs nativity（神圣/重大出生）",
+        "场景联想：所有nativity都值得一个蛋糕🍰"
+      ]
+    }
   }
 ]

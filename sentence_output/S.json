@@ -4286,5 +4286,322 @@
         "易混词对比：sailboat（帆船） vs. submarine（潜艇）→一个在水面一个水下"
       ]
     }
+  },
+  {
+    "word": "sailing",
+    "etymology": {
+      "breakdown": [
+        "sail",
+        "ing"
+      ],
+      "meaning_connection": "词根sail=帆船，后缀-ing表行为/性质→原指'扬帆航行'的行为，后引申为相关技术或状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "航行",
+        "examples": [
+          {
+            "sentence": "The midnight sailing on West Lake was lit by neon lotus lanterns.",
+            "sentence_zh": "西湖的夜航被霓虹荷花灯照亮。"
+          },
+          {
+            "sentence": "TikTok videos of container ship sailings oddly satisfy viewers.",
+            "sentence_zh": "集装箱货轮航行的抖音视频莫名解压。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "航海术",
+        "examples": [
+          {
+            "sentence": "Zheng He's sailing techniques amazed the ancient world.",
+            "sentence_zh": "郑和的航海术震撼了古代世界。"
+          },
+          {
+            "sentence": "Modern sailing involves GPS and radar systems.",
+            "sentence_zh": "现代航海术包含GPS和雷达系统。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "启航",
+        "examples": [
+          {
+            "sentence": "The sailing of the icebreaker was delayed by thick fog.",
+            "sentence_zh": "破冰船的启航因浓雾延误。"
+          },
+          {
+            "sentence": "Live-streamed ship sailings attract thousands of online viewers.",
+            "sentence_zh": "船舶启航的直播能吸引数千网友观看。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "航行的",
+        "examples": [
+          {
+            "sentence": "The sailing route follows migratory birds' path.",
+            "sentence_zh": "这条航行路线追随着候鸟迁徙路径。"
+          },
+          {
+            "sentence": "Sailing season in the South China Sea peaks in winter.",
+            "sentence_zh": "南海的航行旺季在冬季。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "plain sailing",
+        "meaning": "一帆风顺",
+        "examples": [
+          {
+            "sentence": "Getting a hukou in Beijing is never plain sailing.",
+            "sentence_zh": "在北京落户从来不是一帆风顺的。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go sailing",
+        "meaning": "去航海",
+        "examples": [
+          {
+            "sentence": "Rich kids go sailing in Sanya while we ride shared bikes.",
+            "sentence_zh": "富二代在三亚航海时我们在骑共享单车。"
+          }
+        ]
+      }
+    ],
+    "teach": "sailing是古代996💼：郑和七下西洋的航海术🧭，现代打工人说的'启航'其实是挤地铁🚇。'一帆风顺'英文叫plain sailing（但你的项目进度可能是shipwreck）。要吐槽'顺风局'说smooth sailing，'翻车'叫hit the rocks⛵️💥。记住：人生就像sailing，有时顺风有时逆风！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛龙'→赛龙舟就是sailing",
+        "易混词：sailing vs. saleing（后者是瞎编的词）",
+        "记忆tip：把-ing想成船帆的形状"
+      ]
+    }
+  },
+  {
+    "word": "sailor",
+    "etymology": {
+      "breakdown": [
+        "sail",
+        "or"
+      ],
+      "meaning_connection": "词根sail=航行，后缀-or表示人→从事航行工作的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "水手",
+        "examples": [
+          {
+            "sentence": "The old sailor told stories about battling krakens with chopsticks.",
+            "sentence_zh": "老水手讲述着用筷子大战北海巨妖的故事。"
+          },
+          {
+            "sentence": "Every sailor in that port knows how to make origami boats.",
+            "sentence_zh": "那个港口的水手都会折纸船。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "船员",
+        "examples": [
+          {
+            "sentence": "The cruise ship employs 300 sailors who can all moonwalk.",
+            "sentence_zh": "这艘邮轮雇佣了300名会太空步的船员。"
+          },
+          {
+            "sentence": "All sailors must pass a test on making instant noodles during storms.",
+            "sentence_zh": "所有船员必须通过暴风雨中泡方便面的测试。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sailor's knot",
+        "meaning": "水手结",
+        "examples": [
+          {
+            "sentence": "He tied his shoelaces with a perfect sailor's knot that survived three marathons.",
+            "sentence_zh": "他用完美水手结系鞋带，跑完三场马拉松都没散。"
+          }
+        ]
+      }
+    ],
+    "teach": "sailor是'海的男人'🌊！古代水手的工资包含朗姆酒🍶（导致他们走路摇摇晃晃像在船上），现代说法'菜鸟水手'叫landlubber（陆地笨伯）。记住：好sailor必备三宝——会看罗盘🧭、会打绳结、会讲美人鱼段子🧜♀️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒了'→水手天天晒太阳",
+        "易混词对比：sailor（职业） vs. sailer（帆船）"
+      ]
+    }
+  },
+  {
+    "word": "saint",
+    "etymology": {
+      "breakdown": [
+        "sain",
+        "t"
+      ],
+      "meaning_connection": "源自古法语'saint'，源自拉丁语'sanctus'（意为神圣的），与'sancire'（使神圣）相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣徒",
+        "examples": [
+          {
+            "sentence": "The cathedral's stained glass depicts Saint George slaying the dragon.",
+            "sentence_zh": "大教堂的彩色玻璃描绘了圣乔治屠龙的故事。"
+          },
+          {
+            "sentence": "In the game, you can play as a saint who heals wounded soldiers.",
+            "sentence_zh": "在游戏中，你可以扮演治疗伤兵的圣徒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣人",
+        "examples": [
+          {
+            "sentence": "Confucius is considered a saint of education in Chinese culture.",
+            "sentence_zh": "孔子在中国文化中被视为教育圣人。"
+          },
+          {
+            "sentence": "She's such a saint for volunteering at the orphanage every weekend.",
+            "sentence_zh": "她每个周末都在孤儿院做志愿者，真是个圣人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "神圣的",
+        "examples": [
+          {
+            "sentence": "The saint relics are kept in a golden casket.",
+            "sentence_zh": "圣物被保存在一个金匣子中。"
+          },
+          {
+            "sentence": "This is considered a saint place where miracles happened.",
+            "sentence_zh": "这里被认为是发生过奇迹的神圣之地。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "patron saint",
+        "meaning": "守护圣徒",
+        "examples": [
+          {
+            "sentence": "Saint Christopher is the patron saint of travelers.",
+            "sentence_zh": "圣克里斯托弗是旅行者的守护圣徒。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "saint's day",
+        "meaning": "圣徒纪念日",
+        "examples": [
+          {
+            "sentence": "In Spain, people celebrate their saint's day like birthdays.",
+            "sentence_zh": "在西班牙，人们像庆祝生日一样庆祝圣徒纪念日。"
+          }
+        ]
+      }
+    ],
+    "teach": "saint这个词自带光环✨！它像宗教界的奥斯卡奖🏆（比如Saint Peter相当于终身成就奖），也用来形容现实中的活雷锋（如'你帮我带奶茶真是saint！'）。搭配'patron saint'就像专属守护天使👼，而'would sainthood you'是社交媒体对善举的最高赞美💖。记住：当你说'she's no saint'时，其实在说'她也不是什么白莲花'🌷！",
+    "recite": {
+      "tips": [
+        "谐音梗：'圣徒'→发音像'省途'，圣人指引的省心之路",
+        "易混词：saint（圣徒）vs. sain（古语'说'）",
+        "记忆tip：NBA的'新奥尔良圣徒队'英文就是New Orleans Saints"
+      ]
+    }
+  },
+  {
+    "word": "saint",
+    "etymology": {
+      "breakdown": [
+        "saint"
+      ],
+      "meaning_connection": "来自拉丁语sanctus，表示'神圣的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣人",
+        "examples": [
+          {
+            "sentence": "Saint Nicholas is the patron saint of children.",
+            "sentence_zh": "圣尼古拉斯是儿童的守护圣人。"
+          },
+          {
+            "sentence": "The local saint is honored with a festival every year.",
+            "sentence_zh": "当地人每年都会举办节日来纪念当地的圣人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "道德高尚的人",
+        "examples": [
+          {
+            "sentence": "My grandma is a real saint for putting up with my grandpa's snoring.",
+            "sentence_zh": "我奶奶能忍受爷爷的鼾声，真是个圣人。"
+          },
+          {
+            "sentence": "Anyone who volunteers at a dog shelter is a saint in my book.",
+            "sentence_zh": "在我看来，任何在狗狗收容所做志愿者的人都是圣人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "saint's day",
+        "meaning": "圣人纪念日",
+        "examples": [
+          {
+            "sentence": "In Spain, people often celebrate their saint's day more than their birthday.",
+            "sentence_zh": "在西班牙，人们庆祝圣人纪念日往往比庆祝生日更隆重。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "patron saint",
+        "meaning": "守护圣人",
+        "examples": [
+          {
+            "sentence": "Saint Christopher is the patron saint of travelers.",
+            "sentence_zh": "圣克里斯托弗是旅行者的守护圣人。"
+          }
+        ]
+      }
+    ],
+    "teach": "saint这个词就像天堂的VIP卡🎟️！中世纪时，成为saint需要'业绩考核'——至少要显两个神迹✨（比如让盲人复明）。现在说'She's a saint'可能只是夸她耐心超群👼。记住：patron saint是行业守护神（如程序员拜圣Isidore💻），而saint's day是西方版'神仙生日'🍰。表达'装圣人'可以用holier-than-thou！",
+    "recite": {
+      "tips": [
+        "谐音梗：'圣徒'→'省糖'的圣徒（因为中世纪圣徒常斋戒）",
+        "易混词：holy（神圣的）vs. saint（圣人）",
+        "记忆法：saint=sin(罪)+ant(蚂蚁)→从罪人中升华的小蚂蚁"
+      ]
+    }
   }
 ]

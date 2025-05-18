@@ -4524,5 +4524,270 @@
         "视觉联想：故宫红墙=giant painted artwork"
       ]
     }
+  },
+  {
+    "word": "painter",
+    "etymology": {
+      "breakdown": [
+        "paint",
+        "er"
+      ],
+      "meaning_connection": "词根paint=绘画/涂漆，后缀-er表从事者→从事绘画或涂漆工作的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "画家",
+        "examples": [
+          {
+            "sentence": "The painter captured the sunrise over the Great Wall with stunning detail.",
+            "sentence_zh": "这位画家以惊人细节描绘了长城上的日出。"
+          },
+          {
+            "sentence": "Digital painters now use iPads instead of traditional canvases.",
+            "sentence_zh": "数字画家如今用iPad代替传统画布。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "油漆匠",
+        "examples": [
+          {
+            "sentence": "The painter accidentally spilled red paint on my sneakers.",
+            "sentence_zh": "油漆匠不小心把红漆洒在我的球鞋上。"
+          },
+          {
+            "sentence": "We hired a painter to turn our wall into a panda mural.",
+            "sentence_zh": "我们雇了油漆匠把墙面变成熊猫壁画。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "house painter",
+        "meaning": "房屋粉刷工",
+        "examples": [
+          {
+            "sentence": "The house painter transformed our boring wall into a Van Gogh replica.",
+            "sentence_zh": "房屋粉刷工把单调的墙变成了梵高画作复制品。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "street painter",
+        "meaning": "街头画家",
+        "examples": [
+          {
+            "sentence": "The street painter created 3D illusions on the sidewalk.",
+            "sentence_zh": "街头画家在人行道上创作3D错觉画。"
+          }
+        ]
+      }
+    ],
+    "teach": "painter是艺术与搬砖的量子叠加态🎨⚒️！达芬奇和给你家刷墙的王师傅都叫painter。趣闻：米开朗琪罗画西斯廷教堂时是躺着刷颜料的，堪称史上最早的'躺平画家'😴。搭配说'油画画家'用oil painter，'喷漆师傅'叫spray painter。地道表达：'他画技很菜'说He paints like a drunken panda（像喝醉的熊猫）🐼🍺",
+    "recite": {
+      "tips": [
+        "谐音梗：'喷他'→油漆匠喷他(painter)一脸漆",
+        "易混词：painter（画家）vs printer（打印机）",
+        "记忆tip：想象画家(painter)的调色盘里装着油漆匠的刷子"
+      ]
+    }
+  },
+  {
+    "word": "painterly",
+    "etymology": {
+      "breakdown": [
+        "painter",
+        "ly"
+      ],
+      "meaning_connection": "painter（画家）+-ly（形容词后缀）→ 具有画家特质的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "画家的",
+        "examples": [
+          {
+            "sentence": "Her studio has a painterly chaos with brushes everywhere.",
+            "sentence_zh": "她的画室充满画家特有的混乱，画笔散落各处。"
+          },
+          {
+            "sentence": "Van Gogh's letters reveal his painterly observations of wheat fields.",
+            "sentence_zh": "梵高书信透露了他对麦田的画家式观察。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "绘画的",
+        "examples": [
+          {
+            "sentence": "The film uses painterly lighting to mimic Rembrandt's style.",
+            "sentence_zh": "这部电影用绘画般的灯光模仿伦勃朗风格。"
+          },
+          {
+            "sentence": "Her Instagram filters give photos a painterly quality.",
+            "sentence_zh": "她的Ins滤镜让照片呈现绘画质感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "强调色彩的",
+        "examples": [
+          {
+            "sentence": "The mural's painterly blues evoke the Mediterranean Sea.",
+            "sentence_zh": "壁画中强调色彩的蓝调唤起地中海意象。"
+          },
+          {
+            "sentence": "This makeup trend focuses on painterly color blending.",
+            "sentence_zh": "这个美妆潮流注重色彩层次的绘画式晕染。"
+          }
+        ]
+      }
+    ],
+    "teach": "painterly是颜料管里挤出的形容词🎨！当说'画家气质'时，想象达芬奇胡子沾满颜料还坚持调色👨‍🎨；'绘画感'就像《至爱梵高》里每一帧都是流动的油画🖼️；'强调色彩'则是把现实变成莫奈的睡莲配色🌈。实用搭配：painterly style（绘画风格）, painterly effect（画意效果）。说'色彩斑斓'可以讲a riot of colors像打翻调色盘！",
+    "recite": {
+      "tips": [
+        "视觉联想：词尾-ly像画笔拖出的痕迹",
+        "易混词对比：picturesque（如画的）侧重风景，painterly侧重创作过程"
+      ]
+    }
+  },
+  {
+    "word": "painting",
+    "etymology": {
+      "breakdown": [
+        "paint",
+        "ing"
+      ],
+      "meaning_connection": "词根paint=涂抹颜料，后缀-ing表行为结果→涂抹颜料的行为或产物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "画作",
+        "examples": [
+          {
+            "sentence": "The digital painting sold for 50 Bitcoins at auction.",
+            "sentence_zh": "这幅数字画作在拍卖会上以50个比特币成交。"
+          },
+          {
+            "sentence": "Her TikTok features a painting of Moutai floating in space.",
+            "sentence_zh": "她的抖音作品展示了漂浮在太空中的茅台酒画作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绘画行为",
+        "examples": [
+          {
+            "sentence": "Street painting during festivals is a Chinese tradition.",
+            "sentence_zh": "节日期间街头绘画是中国传统。"
+          },
+          {
+            "sentence": "VR painting lets you create in 3D space.",
+            "sentence_zh": "虚拟现实绘画让你在三维空间创作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "油漆工艺",
+        "examples": [
+          {
+            "sentence": "The Terracotta Warriors show ancient mineral painting techniques.",
+            "sentence_zh": "兵马俑展现了古代矿物颜料涂绘工艺。"
+          },
+          {
+            "sentence": "New painting on the Great Wall protects against weathering.",
+            "sentence_zh": "长城的新涂层可防止风化侵蚀。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "oil painting",
+        "meaning": "油画",
+        "examples": [
+          {
+            "sentence": "This oil painting of hot pot smells like chili oil.",
+            "sentence_zh": "这幅火锅油画闻起来像辣椒油。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "spray painting",
+        "meaning": "喷绘",
+        "examples": [
+          {
+            "sentence": "Spray painting the panda sculpture took 200 cans.",
+            "sentence_zh": "喷绘这座熊猫雕塑用了200罐颜料。"
+          }
+        ]
+      }
+    ],
+    "teach": "painting本质是'颜料搞事情'🎨！从敦煌壁画到手机贴膜，本质都是paint-ing（古人在洞窟里刷抖音墙绘📱）。说'画技烂'叫can't draw to save life（救命都画不好），'油漆未干'用wet paint就像共享单车座垫警告牌🚧。记住：无论数字绘画还是刷墙，都是paint在ing！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喷挺'→喷漆喷得挺匀称",
+        "易混词：drawing（线条画）vs painting（颜料画）",
+        "记忆口诀：一提painting，想三样→画作/行为/油漆匠"
+      ]
+    }
+  },
+  {
+    "word": "paintwork",
+    "etymology": {
+      "breakdown": [
+        "paint",
+        "work"
+      ],
+      "meaning_connection": "paint指油漆，work这里指加工处理后的成品→经过油漆处理的表面"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "油漆的表面",
+        "examples": [
+          {
+            "sentence": "The Ferrari's paintwork sparkled like liquid metal under the showroom lights.",
+            "sentence_zh": "法拉利的漆面在展厅灯光下如液态金属般闪耀。"
+          },
+          {
+            "sentence": "Don't touch the wet paintwork unless you want tiger-striped fingerprints.",
+            "sentence_zh": "除非想要虎纹指纹，否则别碰未干的漆面。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "original paintwork",
+        "meaning": "原厂漆面",
+        "examples": [
+          {
+            "sentence": "Collectors pay 50% more for classic cars with original paintwork.",
+            "sentence_zh": "收藏家愿意为保留原厂漆面的经典车多付50%价格。"
+          }
+        ]
+      }
+    ],
+    "teach": "paintwork其实是汽车的'美颜滤镜'💅！就像古代青铜器要上釉（最早的paintwork），现代车漆分三层就像千层蛋糕🍰。说'补漆'用touch up the paintwork，'全车喷漆'叫full respray。记住：好paintwork就像好皮肤，需要定期打蜡保养🧼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喷它我渴'→喷漆(paintwork)工人总想喝饮料",
+        "易混词对比：paintjob（非专业喷漆）vs paintwork（专业漆面）"
+      ]
+    }
   }
 ]

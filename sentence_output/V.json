@@ -4386,5 +4386,237 @@
         "记忆法：香草(Vanilla)=V(very)+A(aromatic)+N(natural)+ILLA(illa发音似'香')"
       ]
     }
+  },
+  {
+    "word": "vanish",
+    "etymology": {
+      "breakdown": [
+        "van",
+        "ish"
+      ],
+      "meaning_connection": "词根van=空（同vacant），-ish表动词→字面意思'变成空的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "突然消失",
+        "examples": [
+          {
+            "sentence": "The magician's assistant vanished in a puff of Douyin smoke.",
+            "sentence_zh": "魔术师助手在一阵抖音特效烟雾中突然消失。"
+          },
+          {
+            "sentence": "My motivation to exercise always vanishes when hotpot is involved.",
+            "sentence_zh": "每当有火锅局时，我的健身动力就会瞬间消失。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "不复存在",
+        "examples": [
+          {
+            "sentence": "Pay phones have vanished from Chinese streets faster than shared umbrellas.",
+            "sentence_zh": "公用电话比共享雨伞更快地从中国街头绝迹。"
+          },
+          {
+            "sentence": "In the era of digital payment, my wallet has virtually vanished.",
+            "sentence_zh": "在电子支付时代，我的钱包几乎不存在了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "归零",
+        "examples": [
+          {
+            "sentence": "My WeChat balance vanishes every 11.11 like it's on a shopping sprint.",
+            "sentence_zh": "我的微信余额每年双十一都像购物冲刺般归零。"
+          },
+          {
+            "sentence": "The battery percentage vanishes faster than snowflakes in Shenzhen.",
+            "sentence_zh": "电池百分比消失得比深圳的雪花还快。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vanish into thin air",
+        "meaning": "凭空消失",
+        "examples": [
+          {
+            "sentence": "My New Year's resolutions always vanish into thin air by January 2nd.",
+            "sentence_zh": "我的新年决心总是在1月2日就凭空消失。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vanish from sight",
+        "meaning": "从视野中消失",
+        "examples": [
+          {
+            "sentence": "The delivery robot vanished from sight after dropping off my bubble tea.",
+            "sentence_zh": "送货机器人放下我的奶茶后就从视野中消失了。"
+          }
+        ]
+      }
+    ],
+    "teach": "vanish是魔术师最爱的词🎩！它的词根van就是'空'（想想真空vacuum），就像变没兔子的魔术帽🎩。要说'人间蒸发'可以吐槽gone with the wifi（随WiFi一起消失），'突然消失'叫pull a Houdini（像胡迪尼一样逃脱）。记住：你的减肥计划最容易vanish在烧烤摊前🍖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'碗溺湿'→饭碗掉水里消失了",
+        "易混词对比：disappear（逐渐消失） vs vanish（突然消失）",
+        "记忆tip：微信红包未领取24小时后vanish"
+      ]
+    }
+  },
+  {
+    "word": "vanished",
+    "etymology": {
+      "breakdown": [
+        "vanish",
+        "ed"
+      ],
+      "meaning_connection": "vanish=消失（来自古法语'evanir'），-ed表过去分词→强调已消失的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "销声匿迹的",
+        "examples": [
+          {
+            "sentence": "The missing scientist became a vanished celebrity overnight.",
+            "sentence_zh": "那位失踪的科学家一夜之间成了销声匿迹的名人。"
+          },
+          {
+            "sentence": "Like vanished civilizations, some apps disappear without a trace.",
+            "sentence_zh": "如同消失的文明，某些APP也会无影无踪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "title",
+        "form": "Vanished",
+        "meaning": "美剧《销声匿迹》",
+        "examples": [
+          {
+            "sentence": "The drama 'Vanished' explores how social media influencers disappear mysteriously.",
+            "sentence_zh": "美剧《销声匿迹》探讨网红如何神秘失踪。"
+          },
+          {
+            "sentence": "In 'Vanished', every episode leaves audiences with unsolved puzzles.",
+            "sentence_zh": "《销声匿迹》每集都给观众留下未解之谜。"
+          }
+        ]
+      }
+    ],
+    "teach": "vanished这词自带BGM🎵——像《名侦探柯南》黑衣人闪过时那个'咻~'的音效👻！美国编剧用它当剧名时，绝对参考了'熊猫突然消失.gif'的魔性效果🐼。说'人间蒸发'可以用'pull a vanishing act'（字面：表演消失魔术），'完全消失'说'gone without a trace'就像被外星人抓走的奶牛🐄👽。记住：你的待办事项常vanished，但体重不会！",
+    "recite": {
+      "tips": [
+        "谐音梗：'碗你洗的'→碗你洗的(vanish)后消失不见",
+        "易混词对比：vanish（彻底消失） vs disappear（普通消失）",
+        "联想：哈利波特的隐形斗篷就是vanished状态🧙♂️"
+      ]
+    }
+  },
+  {
+    "word": "vanishing",
+    "etymology": {
+      "breakdown": [
+        "vanish",
+        "ing"
+      ],
+      "meaning_connection": "vanish源自拉丁语vanus（空的）+后缀-ish，-ing表示进行时态或形容词化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "消没的",
+        "examples": [
+          {
+            "sentence": "The vanishing fog revealed a panda eating bamboo on the hillside.",
+            "sentence_zh": "消散的雾气中露出山坡上吃竹子的熊猫。"
+          },
+          {
+            "sentence": "Her vanishing patience finally snapped when the delivery guy was late for the third time.",
+            "sentence_zh": "当外卖小哥第三次迟到时，她逐渐消失的耐心终于崩溃了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vanishing point",
+        "meaning": "消失点",
+        "examples": [
+          {
+            "sentence": "The Great Wall seems to reach the vanishing point in the misty distance.",
+            "sentence_zh": "长城在雾霭中似乎延伸到了远方的消失点。"
+          }
+        ]
+      }
+    ],
+    "teach": "vanishing就像魔术师的兔子🐇+融化的冰淇淋🍦+微信撤回消息💬三合一！达芬奇画《蒙娜丽莎》就用过vanishing point技巧。说'快消失的东西'用vanishing act（像魔术消失术），'濒危物种'叫vanishing species。记住：所有vanishing的东西最后都会变成奶茶里的珍珠——吸着吸着就没了🥤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'碗你洗'→碗你洗(vanishing)之后油渍就消退了",
+        "易混词对比：vanish（动词消失） vs. vanity（名词虚荣）",
+        "记忆tip：联想微信'闪照'功能"
+      ]
+    }
+  },
+  {
+    "word": "vanishingly",
+    "etymology": {
+      "breakdown": [
+        "vanish",
+        "ing",
+        "ly"
+      ],
+      "meaning_connection": "vanish(消失)+ing(现在分词)+ly(副词后缀)→像正在消失般地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "消遁似地",
+        "examples": [
+          {
+            "sentence": "The panda vanished vanishingly into the bamboo forest, leaving only shaken leaves as evidence.",
+            "sentence_zh": "熊猫如幻影般消遁进竹林，只留下晃动的竹叶作证。"
+          },
+          {
+            "sentence": "Her patience was vanishingly thin when dealing with the 100th 'Why?' from her toddler.",
+            "sentence_zh": "当应对幼童的第100个'为什么'时，她的耐心如烟消散。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "难以察觉地",
+        "examples": [
+          {
+            "sentence": "The difference between the two smartphone models is vanishingly small to ordinary users.",
+            "sentence_zh": "对普通用户而言，两款手机的差异微小到难以察觉。"
+          },
+          {
+            "sentence": "His accent has become vanishingly faint after 20 years in London.",
+            "sentence_zh": "在伦敦生活20年后，他的口音已淡到难以辨识。"
+          }
+        ]
+      }
+    ],
+    "teach": "vanishingly是'薛定谔存在感'🔮：就像微信红包没抢到时的'手慢无'提示🚀，或是春节后健身房消失的会员卡💸。说'微乎其微'用vanishingly small堪比蚂蚁举重🏋️，'几乎不存在'说vanishingly rare像中彩票的几率🎫。记住：所有带-ly的副词都能让你的英语优雅度+1✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晚你睡里'→深夜加班时存在感vanishingly低",
+        "易混词对比：vanish(消失)/perish(消亡)/extinct(灭绝)程度递进"
+      ]
+    }
   }
 ]
