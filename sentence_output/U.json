@@ -13315,5 +13315,254 @@
         "记忆tip：UN+considered→联合国没考虑的议题=被忽视的"
       ]
     }
+  },
+  {
+    "word": "unconsolidated",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "con",
+        "solid",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，con-表'共同'，词根solid=固体，-ate动词后缀，-ed形容词后缀→未被固结的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "松散的",
+        "examples": [
+          {
+            "sentence": "The unconsolidated sand slipped through my fingers like time.",
+            "sentence_zh": "松散的沙子如时光般从我指缝溜走。"
+          },
+          {
+            "sentence": "Unconsolidated snow causes more avalanches.",
+            "sentence_zh": "疏松的积雪更容易引发雪崩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "非层状的",
+        "examples": [
+          {
+            "sentence": "The geologist identified unconsolidated sediments in the cliff.",
+            "sentence_zh": "地质学家在悬崖上识别出非层状沉积物。"
+          },
+          {
+            "sentence": "This unconsolidated rock formation resembles a poorly made tiramisu.",
+            "sentence_zh": "这种非层状岩层像没做好的提拉米苏。"
+          }
+        ]
+      }
+    ],
+    "teach": "unconsolidated就像你减肥时的意志力💪→既不坚固(un-)也不团结(con-solid)。想象沙滩城堡🏰被海浪拍散的样子就是典型unconsolidated！地质学家说'松散沉积物'用这个词，程序员吐槽'屎山代码'可以说unconsolidated logic💻。搭配：unconsolidated debt（零散债务）/ unconsolidated data（碎片数据）",
+    "recite": {
+      "tips": [
+        "视觉化：un+consolidated=没(un)被麦当劳(con) solidified（固化）的薯条🍟",
+        "易混词：loose（主观松散）vs unconsolidated（客观未固结）"
+      ]
+    }
+  },
+  {
+    "word": "unconstitutional",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "constitution",
+        "al"
+      ],
+      "meaning_connection": "前缀un-表否定，词根constitution指宪法，-al是形容词后缀→与宪法相悖的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "违反宪法的",
+        "examples": [
+          {
+            "sentence": "The Supreme Court ruled the TikTok ban unconstitutional.",
+            "sentence_zh": "最高法院裁定禁用TikTok违反宪法。"
+          },
+          {
+            "sentence": "Forcing students to recite Confucius classics was deemed unconstitutional.",
+            "sentence_zh": "强制学生背诵儒家经典被认定违宪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不符合宪法的",
+        "examples": [
+          {
+            "sentence": "The new internet censorship law may be unconstitutional.",
+            "sentence_zh": "新网络审查法规可能不符合宪法。"
+          },
+          {
+            "sentence": "Removing presidential term limits was criticized as unconstitutional.",
+            "sentence_zh": "取消总统任期限制被批评为违宪。"
+          }
+        ]
+      }
+    ],
+    "teach": "unconstitutional就像宪法界的灭霸👊！美国开国元勋们写宪法时，绝对想不到后人会用emoji解释违宪行为📜💥。说'这操作太野了'可以用beyond the pale（原指中世纪爱尔兰的界桩），搭配'宪法保卫战'叫defend constitutionality，'钻法律空子'是find loopholes🕵️♂️。记住：任何unconstitutional行为都像在宪法上涂鸦🚫！",
+    "recite": {
+      "tips": [
+        "拆解记忆：un（不）+constitution（宪法）+al（的）",
+        "易混词：illegal（违法）不一定unconstitutional（违宪）",
+        "联想：宪法像国家OS系统，违宪=蓝屏死机💻"
+      ]
+    }
+  },
+  {
+    "word": "unconstrained",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "constrain",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，constrain（约束）+后缀-ed→字面意为'未被约束的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不受约束的",
+        "examples": [
+          {
+            "sentence": "The artist works in an unconstrained style like spilled ink on paper.",
+            "sentence_zh": "这位艺术家以不受约束的风格创作，犹如泼墨于纸。"
+          },
+          {
+            "sentence": "Children's curiosity should remain unconstrained by rigid rules.",
+            "sentence_zh": "孩子们的好奇心不应被死板规则所约束。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不勉强的",
+        "examples": [
+          {
+            "sentence": "His unconstrained laughter echoed through the hotpot restaurant.",
+            "sentence_zh": "他毫不勉强的笑声回荡在火锅店里。"
+          },
+          {
+            "sentence": "We had an unconstrained conversation over bubble tea.",
+            "sentence_zh": "我们捧着奶茶进行了一场毫不勉强的谈话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "自在的",
+        "examples": [
+          {
+            "sentence": "The panda looks completely unconstrained while rolling down the hill.",
+            "sentence_zh": "熊猫滚下山坡时显得无比自在。"
+          },
+          {
+            "sentence": "She dances with unconstrained joy at midnight square.",
+            "sentence_zh": "她在午夜广场上舞动着全然自在的欢愉。"
+          }
+        ]
+      }
+    ],
+    "teach": "unconstrained就像脱缰的野马🐎+没WiFi限制刷抖音📱+广场舞大妈的自由灵魂💃！历史趣闻：古罗马的toga（托加长袍）象征公民的unconstrained身份。搭配'unconstrained creativity'（天马行空的创意）和'unconstrained smile'（毫无保留的笑容）。地道表达：'无拘无束'说free as a bird🦅。记住：这个词是社恐人士的梦想状态！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看这男的'→俺看这男的(unconstrained)活得很自在",
+        "易混词对比：unrestrained（更强调放纵）vs unconstrained（侧重自然不刻意）",
+        "记忆tip：UN（联合国）+constrained（受限的）= 在联合国发言不受限"
+      ]
+    }
+  },
+  {
+    "word": "uncontainable",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "contain",
+        "able"
+      ],
+      "meaning_connection": "前缀un-表否定，词根contain=容纳/控制，后缀-able表能力→字面意思是'不能被控制住的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无法控制的",
+        "examples": [
+          {
+            "sentence": "The uncontainable laughter spread through the classroom when the teacher's toupee flew off.",
+            "sentence_zh": "当老师的假发飞走时，教室里爆发出无法控制的笑声。"
+          },
+          {
+            "sentence": "AI development is becoming an uncontainable force in our era.",
+            "sentence_zh": "人工智能发展正成为我们这个时代无法控制的力量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "压抑不住的",
+        "examples": [
+          {
+            "sentence": "Her uncontainable excitement bubbled up when she got Peking University acceptance letter.",
+            "sentence_zh": "收到北大录取通知书时，她压抑不住的兴奋喷涌而出。"
+          },
+          {
+            "sentence": "The fans' uncontainable screams shook the concert venue.",
+            "sentence_zh": "粉丝们压抑不住的尖叫震动整个演唱会现场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "难以克制的",
+        "examples": [
+          {
+            "sentence": "He felt an uncontainable urge to correct the grammar mistakes on the billboard.",
+            "sentence_zh": "他产生了一种难以克制的冲动想去修改广告牌上的语法错误。"
+          },
+          {
+            "sentence": "There's an uncontainable desire among youngsters to swipe short videos after midnight.",
+            "sentence_zh": "年轻人午夜后有种难以克制的刷短视频的欲望。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "uncontainable joy",
+        "meaning": "抑制不住的喜悦",
+        "examples": [
+          {
+            "sentence": "The grandma's uncontainable joy when her grandson visited brought tears to everyone's eyes.",
+            "sentence_zh": "孙子来访时奶奶抑制不住的喜悦让所有人热泪盈眶。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "uncontainable energy",
+        "meaning": "难以约束的能量",
+        "examples": [
+          {
+            "sentence": "Kindergarten teachers need special skills to channel children's uncontainable energy.",
+            "sentence_zh": "幼儿园老师需要特殊技巧来引导孩子们难以约束的能量。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncontainable就像高压锅爆炸💥！词根contain本指'容器'（比如奶茶杯🧋），加个un-就变成'奶茶杯盖弹飞'的失控状态。形容'笑到失控'可以叫cracking up（笑裂了），'能量爆棚'说bouncing off the walls（在墙上弹跳）🤸。记住：这个词专门用来描述那些让班主任头疼的熊孩子能量！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看停不了'→完全停不下来的状态",
+        "易混词对比：uncontrollable（更通用） vs uncontainable（强调从容器中溢出）",
+        "联想记忆：像摇晃后开盖的可乐罐🥤"
+      ]
+    }
   }
 ]

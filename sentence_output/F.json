@@ -14372,5 +14372,147 @@
         "易混词对比：fattening（过程） vs fatty（状态）"
       ]
     }
+  },
+  {
+    "word": "fatty",
+    "etymology": {
+      "breakdown": [
+        "fat",
+        "y"
+      ],
+      "meaning_connection": "词根fat=脂肪，后缀-y表形容词性质→像脂肪的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "肥胖的",
+        "examples": [
+          {
+            "sentence": "The fatty cat refuses to climb stairs after lunch.",
+            "sentence_zh": "这只胖猫午饭后拒绝爬楼梯。"
+          },
+          {
+            "sentence": "Fatty liver disease is common among overtime workers.",
+            "sentence_zh": "脂肪肝在加班人群中很常见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "含脂肪的",
+        "examples": [
+          {
+            "sentence": "Hotpot lovers always fight for the fatty beef slices.",
+            "sentence_zh": "火锅爱好者总会为肥牛卷打架。"
+          },
+          {
+            "sentence": "Mooncakes with fatty egg yolks are中秋节必备.",
+            "sentence_zh": "含油脂的咸蛋黄月饼是中秋节必备。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fatty acid",
+        "meaning": "脂肪酸",
+        "examples": [
+          {
+            "sentence": "Omega-3 fatty acids are called 'brain gold'.",
+            "sentence_zh": "Omega-3脂肪酸被称为'脑黄金'。"
+          }
+        ]
+      }
+    ],
+    "teach": "fatty是脂肪界的emoji🧈！古代北欧人认为fat是财富象征💵，现代健身族却闻fat色变🏋️。说人胖别用fatty（不礼貌），要说'cuddly'（萌胖）。记住：fatty food像黏人的前任，明知不该碰却总想吃第二口🍖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥体'→脂肪含量超标",
+        "易混词对比：fat（脂肪）- thick（厚实）",
+        "视觉记忆：把y想象成摇摆的啤酒肚"
+      ]
+    }
+  },
+  {
+    "word": "fatuous",
+    "etymology": {
+      "breakdown": [
+        "fatu",
+        "ous"
+      ],
+      "meaning_connection": "词根fatu来自拉丁语'fatuus'（愚蠢的），-ous为形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "发呆的",
+        "examples": [
+          {
+            "sentence": "He wore a fatuous smile while staring at the blank screen during the Zoom meeting.",
+            "sentence_zh": "Zoom会议时他对着空白屏幕露出呆滞笑容。"
+          },
+          {
+            "sentence": "The puppy's fatuous expression when seeing its own reflection went viral.",
+            "sentence_zh": "小狗看到自己倒影时呆萌表情在网上疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "愚笨的",
+        "examples": [
+          {
+            "sentence": "Making fatuous comments about women's football is a sure way to get roasted online.",
+            "sentence_zh": "对女足发表愚蠢评论绝对会被网友群嘲。"
+          },
+          {
+            "sentence": "His fatuous attempt to use blockchain for raising chickens became a business school case.",
+            "sentence_zh": "他用区块链养鸡的愚蠢尝试成了商学院教学案例。"
+          }
+        ]
+      }
+    ],
+    "teach": "fatuous其实是'发图ous'📸：想象朋友圈九宫格自拍配文'今天不知道吃什么'的呆滞表情🤪。要说'蠢得像AI生成的'可以说dumber than a chatbot response，'降智发言'叫fatuous remark就像直播翻车现场🎥。记住：当你的大脑进入省电模式⚡，你就是fatuous本s！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发兔耳死'→发呆到兔子耳朵都耷拉下来",
+        "对比记忆：vacant（空白无内容） vs fatuous（有内容但愚蠢）",
+        "联想：微信表情包里[呆]那个黄豆脸"
+      ]
+    }
+  },
+  {
+    "word": "fatwa",
+    "etymology": {
+      "breakdown": [
+        "fat",
+        "wa"
+      ],
+      "meaning_connection": "源自阿拉伯语فتوى (fatwā)，指伊斯兰学者的正式法律意见"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "伊斯兰教法裁决",
+        "examples": [
+          {
+            "sentence": "The grand mufti issued a fatwa against cryptocurrency trading.",
+            "sentence_zh": "大穆夫提发布了反对加密货币交易的教法裁决。"
+          },
+          {
+            "sentence": "This fatwa clarifies the halal status of artificial meat.",
+            "sentence_zh": "这项裁决明确了人造肉的清真认证问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "fatwa就像宗教界的'红头文件'📜！1989年鲁西迪《撒旦诗篇》事件让这个词全球闻名🌍。搭配'issue a fatwa'(发布裁决)和'obey a fatwa'(遵守裁决)，地道说法'haram police'(清真警察)指过度执法的宗教人士👳♂️。记住：这不是普通意见，而是盖了神圣印章的判决⚖️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发特哇'→发布特别哇塞的裁决",
+        "易混词对比：fatwa(宗教裁决) vs fatwah(错误拼写)"
+      ]
+    }
   }
 ]

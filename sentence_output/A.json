@@ -13813,5 +13813,336 @@
         "易混词：concord也表示和谐，但多指人际关系"
       ]
     }
+  },
+  {
+    "word": "accordance",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cord",
+        "ance"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cord=心（如core核心），-ance表状态→心意相合的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "一致",
+        "examples": [
+          {
+            "sentence": "The new policy is in full accordance with public opinion.",
+            "sentence_zh": "新政策与民意完全一致。"
+          },
+          {
+            "sentence": "Their wedding vows were written in perfect accordance.",
+            "sentence_zh": "他们的婚礼誓词完美契合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "和谐",
+        "examples": [
+          {
+            "sentence": "The symphony played in beautiful accordance with the sunset.",
+            "sentence_zh": "交响乐与落日余晖和谐共鸣。"
+          },
+          {
+            "sentence": "Pandas live in perfect accordance with bamboo forests.",
+            "sentence_zh": "大熊猫与竹林和谐共生。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in accordance with",
+        "meaning": "根据",
+        "examples": [
+          {
+            "sentence": "In accordance with Chinese tradition, we exchange red envelopes during Spring Festival.",
+            "sentence_zh": "根据中国传统，春节我们会互发红包。"
+          }
+        ]
+      }
+    ],
+    "teach": "accordance其实是'同心结'💞：词根cord=心脏（像core核心），两人心意相通就像火锅鸳鸯锅底🍲同时沸腾！说'完全一致'可用in perfect accordance像对上了摩斯密码🔣，'和谐共处'叫live in accordance就像广场舞大妈和篮球少年的地盘协定🏀。记住：你的灵魂伴侣就是your heart's accordance！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅可蹬死'→鹅群步伐一致（危险动作请勿模仿）",
+        "易混词：accord（自愿给予）≠ according（根据）",
+        "记忆锚点：想象合唱团张嘴的'啊(a)-口(c)-型(cord)'完全一致"
+      ]
+    }
+  },
+  {
+    "word": "according",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cord",
+        "ing"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'，词根cord=心（如concord和谐），字面义'齐心协力的'，引申为'相符的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "相符的",
+        "examples": [
+          {
+            "sentence": "The DNA test results were according with the historical records.",
+            "sentence_zh": "DNA检测结果与历史记载相符。"
+          },
+          {
+            "sentence": "Her cheerful mood is according to the sunny weather.",
+            "sentence_zh": "她愉快的心情与明媚的天气相呼应。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "根据...而定的",
+        "examples": [
+          {
+            "sentence": "Salary increases are according to performance evaluations.",
+            "sentence_zh": "加薪幅度根据绩效考核而定。"
+          },
+          {
+            "sentence": "The menu changes according to seasonal ingredients.",
+            "sentence_zh": "菜单根据时令食材调整。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "相应地",
+        "examples": [
+          {
+            "sentence": "Teachers adjust their teaching methods accordingly.",
+            "sentence_zh": "教师会相应地调整教学方法。"
+          },
+          {
+            "sentence": "The price fluctuates according to market demand.",
+            "sentence_zh": "价格根据市场需求相应浮动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "according to",
+        "meaning": "根据",
+        "examples": [
+          {
+            "sentence": "According to Douyin data, night market visits surged 300%.",
+            "sentence_zh": "根据抖音数据，夜市访问量暴涨300%。"
+          }
+        ]
+      }
+    ],
+    "teach": "according就像婚礼司仪💒：必须让所有流程'协调一致(cord)'🎶！说'根据天气预报'要像报幕员📢（according to the weather report），'薪资随业绩浮动'像合唱团声部调整🎵（varies according to performance）。记住：心脏(cord)跳动的节奏就是万物according的韵律！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我可订'→按照(according)我的可订标准",
+        "易混词：according（协调一致） vs. accordion（手风琴）"
+      ]
+    }
+  },
+  {
+    "word": "accordingly",
+    "etymology": {
+      "breakdown": [
+        "according",
+        "ly"
+      ],
+      "meaning_connection": "according（根据）+ -ly（副词后缀）→ 按照既定的情况做出反应"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "相应地",
+        "examples": [
+          {
+            "sentence": "The traffic light turned red, and the driver stopped accordingly.",
+            "sentence_zh": "交通灯变红，司机相应地停下了车。"
+          },
+          {
+            "sentence": "She adjusted her teaching method accordingly when she noticed students' confusion.",
+            "sentence_zh": "注意到学生的困惑后，她相应地调整了教学方法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "因此",
+        "examples": [
+          {
+            "sentence": "The flight was canceled due to the typhoon; accordingly, we booked a hotel.",
+            "sentence_zh": "航班因台风取消，因此我们预定了酒店。"
+          },
+          {
+            "sentence": "He failed to submit the assignment on time and was accordingly penalized.",
+            "sentence_zh": "他未能按时提交作业，因此受到了处罚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "于是",
+        "examples": [
+          {
+            "sentence": "The store ran out of milk, and accordingly, I bought soy milk instead.",
+            "sentence_zh": "商店牛奶售罄，于是我买了豆浆代替。"
+          },
+          {
+            "sentence": "She received the job offer and accordingly resigned from her current position.",
+            "sentence_zh": "她收到了工作邀请，于是辞去了现在的职位。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "act accordingly",
+        "meaning": "采取相应行动",
+        "examples": [
+          {
+            "sentence": "If you see a 'Wet Floor' sign, please act accordingly.",
+            "sentence_zh": "如果你看到'地面湿滑'的标志，请采取相应行动。"
+          }
+        ]
+      }
+    ],
+    "teach": "accordingly就像智能音箱的响应模式🎛️：当你说'关灯'（input），它'相应地'执行命令（output）；天气预报说暴雨⛈️，你'因此'带伞；发现奶茶店关门'于是'改喝咖啡☕。搭配'act accordingly'就像看到交通灯变红自然刹车🚦，地道说法'play it by ear'（见机行事）也是同理！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我可听你的'→按照指示accordingly",
+        "易混词对比：consequently（强调结果必然性） VS accordingly（强调合理反应）",
+        "记忆tip：想象AI助手回答'I will act accordingly'🤖"
+      ]
+    }
+  },
+  {
+    "word": "accordion",
+    "etymology": {
+      "breakdown": [
+        "accord",
+        "ion"
+      ],
+      "meaning_connection": "词根accord=和谐，-ion表名词→通过风箱和谐发声的乐器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "手风琴",
+        "examples": [
+          {
+            "sentence": "The street performer played Russian folk songs on his red accordion.",
+            "sentence_zh": "街头艺人用红色手风琴演奏俄罗斯民谣。"
+          },
+          {
+            "sentence": "Her accordion case was covered with stickers from European cities.",
+            "sentence_zh": "她的手风琴琴箱贴满了欧洲城市的贴纸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可折叠的",
+        "examples": [
+          {
+            "sentence": "The new accordion bus can expand during rush hours.",
+            "sentence_zh": "新型折叠式公交车能在高峰期延伸车厢。"
+          },
+          {
+            "sentence": "This accordion folder holds all my travel documents.",
+            "sentence_zh": "这个折叠文件夹装着我所有的旅行文件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accordion door",
+        "meaning": "折叠门",
+        "examples": [
+          {
+            "sentence": "The Japanese-style accordion door saves so much space.",
+            "sentence_zh": "日式折叠门节省了大量空间。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "play the accordion",
+        "meaning": "演奏手风琴",
+        "examples": [
+          {
+            "sentence": "He learned to play the accordion from his Belarusian grandmother.",
+            "sentence_zh": "他跟白俄罗斯祖母学会了演奏手风琴。"
+          }
+        ]
+      }
+    ],
+    "teach": "手风琴简直是乐器界的变形金刚🤖！它像会唱歌的折叠扇子🎶（play the accordion），又能变成公交车界的千层饼🚌（accordion bus）。记住：'可折叠的'意思来自风箱运动，就像你妈收拾羽绒服的绝活🧥。搭配'accordion file'比俄罗斯方块还能装📁，说'挤地铁'可以说packed like accordion bellows！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我可调音'→手风琴(accordion)可调音高",
+        "易混词：accord（协议）vs accordion（需要协议才能合奏的乐器）",
+        "记忆tip：想象把'according to'（根据）折叠起来变成手风琴"
+      ]
+    }
+  },
+  {
+    "word": "accordionist",
+    "etymology": {
+      "breakdown": [
+        "accordion",
+        "ist"
+      ],
+      "meaning_connection": "accordion（手风琴）+后缀-ist（表示人）→演奏手风琴的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "手风琴师",
+        "examples": [
+          {
+            "sentence": "The old accordionist played nostalgic tunes at the Parisian café.",
+            "sentence_zh": "老手风琴师在巴黎咖啡馆演奏怀旧曲调。"
+          },
+          {
+            "sentence": "As an accordionist, she can make the instrument sound like laughing or crying.",
+            "sentence_zh": "作为手风琴师，她能让琴声如泣如诉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "street accordionist",
+        "meaning": "街头手风琴艺人",
+        "examples": [
+          {
+            "sentence": "The street accordionist collected coins in his hat with a wink.",
+            "sentence_zh": "街头手风琴艺人眨着眼用帽子接硬币。"
+          }
+        ]
+      }
+    ],
+    "teach": "accordionist其实是'音乐折纸大师'🎹🤹♀️！手风琴(accordion)得名于它像折纸般的风箱（拉丁语cor=心，形容折叠动作）。要说'街头艺人'可叫busker，地道夸法是'your fingers dance on buttons'（你的手指在琴键上跳舞）。记住：每个accordionist都是携带整个乐团的行吟诗人！🎶🧳",
+    "recite": {
+      "tips": [
+        "谐音梗：'我可定你撕它'→手风琴师怒撕乐谱",
+        "易混词：accordionist（演奏者） vs. luthier（制琴师）",
+        "记忆tip：想象手风琴师像拉手风琴一样拉开外卖盒🍱"
+      ]
+    }
   }
 ]

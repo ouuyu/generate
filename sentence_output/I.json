@@ -13897,5 +13897,316 @@
         "联想：immu-开头像'疫苗immune'→打疫苗后获得'不变'的免疫力"
       ]
     }
+  },
+  {
+    "word": "immutable",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mut",
+        "able"
+      ],
+      "meaning_connection": "前缀im-表否定，词根mut=改变，-able表能力→'无法被改变的能力'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不可变的",
+        "examples": [
+          {
+            "sentence": "Bitcoin's total supply is immutable by design.",
+            "sentence_zh": "比特币的总量在设计上是不可变的。"
+          },
+          {
+            "sentence": "The laws of physics are considered immutable in classical mechanics.",
+            "sentence_zh": "在经典力学中，物理定律被认为是不可变的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不变的",
+        "examples": [
+          {
+            "sentence": "Her love for spicy hotpot remains immutable over decades.",
+            "sentence_zh": "她对麻辣火锅的热爱几十年不变。"
+          },
+          {
+            "sentence": "The North Star's position is nearly immutable in human time scales.",
+            "sentence_zh": "北极星的位置在人类时间尺度上几乎是不变的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不能变的",
+        "examples": [
+          {
+            "sentence": "The terms in this smart contract are immutable once deployed.",
+            "sentence_zh": "这份智能合约的条款一旦部署就不能变。"
+          },
+          {
+            "sentence": "DNA is not completely immutable despite being stable.",
+            "sentence_zh": "DNA虽然稳定但并非完全不能变。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immutable law",
+        "meaning": "永恒法则",
+        "examples": [
+          {
+            "sentence": "The immutable law of supply and demand governs all markets.",
+            "sentence_zh": "供需的永恒法则支配着所有市场。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "immutable truth",
+        "meaning": "永恒真理",
+        "examples": [
+          {
+            "sentence": "'Hotpot must have dipping sauce' is an immutable truth in Chongqing.",
+            "sentence_zh": "‘火锅必须配蘸料’是重庆的永恒真理。"
+          }
+        ]
+      }
+    ],
+    "teach": "immutable就像被502胶水粘死的乐高积木🧱！区块链用它形容不可篡改的数据（immutable records），程序员说它是final版的final🔒。搭配'immutable fact'相当于中文'铁打的事实'，说'无法改变'可以吐槽：It's as immutable as my mom's WiFi password🌐。记住：带im-的词常是'否定三连'→ impossible/impatient/immutable！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨母特别'→姨母特别(immutable)固执",
+        "易混词：mutable（可变的）就像橡皮泥，immutable就是冻硬的橡皮泥",
+        "记忆法：im（不）+mut（基因突变）+able→连突变都不能发生的"
+      ]
+    }
+  },
+  {
+    "word": "imp",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "p"
+      ],
+      "meaning_connection": "前缀im-表示'向内'，字母p拟声表'轻拍'→原指小恶魔拍打翅膀的动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "顽童",
+        "examples": [
+          {
+            "sentence": "The imp hid all the remote controls in the fridge.",
+            "sentence_zh": "那个小捣蛋鬼把遥控器都藏进了冰箱。"
+          },
+          {
+            "sentence": "Like a digital imp, he hacked the classroom screen to play memes.",
+            "sentence_zh": "像电子顽童般，他黑入教室屏幕播放表情包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "加强",
+        "examples": [
+          {
+            "sentence": "The coach imped the team's morale with hotpot rewards.",
+            "sentence_zh": "教练用火锅奖励给队伍士气加buff。"
+          },
+          {
+            "sentence": "Bubble tea imped her energy to finish the project.",
+            "sentence_zh": "奶茶给她肝项目的能量充了值。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给...装上翅膀",
+        "examples": [
+          {
+            "sentence": "The tech giant imped its new phone with foldable screens.",
+            "sentence_zh": "这家科技巨头给新手机装上了折叠屏翅膀。"
+          },
+          {
+            "sentence": "She imped her presentation with VR effects.",
+            "sentence_zh": "她用VR特效给汇报插上了翅膀。"
+          }
+        ]
+      }
+    ],
+    "teach": "imp是恶魔也是天使👿：从中世纪教堂滴水嘴兽(gargoyle)到王者荣耀小恶魔皮肤🎮。说'熊孩子'可叫little imp，'开外挂'叫imp up（原指给天使装翅膀🪽）。记住：当代imp都在给手机装翅膀（折叠屏）和给奶茶加料（boba imp）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派'→顽童装酷硬派作风",
+        "易混词：imp vs. elf（后者是善良精灵）",
+        "记忆链：imp→impact（都有'强力'义项）"
+      ]
+    }
+  },
+  {
+    "word": "impact",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pact"
+      ],
+      "meaning_connection": "前缀im-表示'向内'，词根pact表示'固定'→原指物理上的撞击行为，后引申为抽象影响"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "物理冲击",
+        "examples": [
+          {
+            "sentence": "The meteorite impact created a crater visible from space.",
+            "sentence_zh": "陨石冲击形成的坑洞在太空都清晰可见。"
+          },
+          {
+            "sentence": "Car airbags reduce the impact during collisions.",
+            "sentence_zh": "汽车安全气囊能减轻碰撞时的冲击力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抽象影响",
+        "examples": [
+          {
+            "sentence": "TikTok has a huge impact on global youth culture.",
+            "sentence_zh": "抖音对全球青年文化有着巨大影响。"
+          },
+          {
+            "sentence": "The new policy will make zero impact on housing prices.",
+            "sentence_zh": "新政对房价不会产生任何影响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "物理撞击",
+        "examples": [
+          {
+            "sentence": "A rogue golf ball impacted my watermelon at the picnic.",
+            "sentence_zh": "野餐时一颗高尔夫球击中了我的西瓜。"
+          },
+          {
+            "sentence": "Space debris may impact satellites orbiting Earth.",
+            "sentence_zh": "太空垃圾可能撞击绕地卫星。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "产生影响",
+        "examples": [
+          {
+            "sentence": "The CEO's decision will impact every employee's bonus.",
+            "sentence_zh": "CEO的决定将影响每位员工的奖金。"
+          },
+          {
+            "sentence": "Did the weather impact your travel plans?",
+            "sentence_zh": "天气影响了你的出行计划吗？"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impact on",
+        "meaning": "对...的影响",
+        "examples": [
+          {
+            "sentence": "Bubble tea shops have significant impact on commercial rents.",
+            "sentence_zh": "奶茶店对商铺租金有显著影响。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "make an impact",
+        "meaning": "造成影响",
+        "examples": [
+          {
+            "sentence": "Her viral video made an impact on social media trends.",
+            "sentence_zh": "她的爆款视频影响了社交媒体趋势。"
+          }
+        ]
+      }
+    ],
+    "teach": "impact就像宇宙大爆炸💥！物理冲击像奥特曼打小怪兽👊（meteor impact），抽象影响像《流浪地球》改变科幻产业🎬（cultural impact）。说'影响深远'用far-reaching impact就像涟漪效应🌊，'毫无影响'说like a fart in the wind💨（像风中屁）。记住：用impact要像打台球，要么直接撞，要么间接碰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬拍它'→硬物拍击产生impact",
+        "易混词：affect（通常作动词）/effect（通常作名词）",
+        "记忆锚点：IM（向内）+PACT（协议）= 打破协议就会产生impact"
+      ]
+    }
+  },
+  {
+    "word": "impacted",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pact",
+        "ed"
+      ],
+      "meaning_connection": "前缀im-表示'向内'，词根pact表示'压紧'，后缀-ed表示'已...的'→原指被压入内部的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "嵌入的",
+        "examples": [
+          {
+            "sentence": "The dinosaur fossil showed impacted teeth in the jawbone.",
+            "sentence_zh": "恐龙化石显示出颌骨中嵌入的牙齿。"
+          },
+          {
+            "sentence": "Archaeologists found impacted gemstones in the ancient crown.",
+            "sentence_zh": "考古学家在古代王冠中发现嵌入的宝石。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "嵌塞的",
+        "examples": [
+          {
+            "sentence": "The plumber fixed the impacted pipe with special tools.",
+            "sentence_zh": "水管工用特殊工具修好了嵌塞的管道。"
+          },
+          {
+            "sentence": "My printer jammed due to impacted paper rolls.",
+            "sentence_zh": "我的打印机因纸张嵌塞而卡住。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "阻生的",
+        "examples": [
+          {
+            "sentence": "Wisdom teeth often become impacted in modern humans.",
+            "sentence_zh": "智齿在现代人中经常发生阻生。"
+          },
+          {
+            "sentence": "The dentist showed me the X-ray of my impacted molar.",
+            "sentence_zh": "牙医给我看了阻生磨牙的X光片。"
+          }
+        ]
+      }
+    ],
+    "teach": "impacted就像地铁早高峰🚇！当牙齿阻生(impacted tooth)时就像乘客卡在闸机口，当管道嵌塞(impacted pipe)就像安检仪堵住行李箱🧳。记住：所有'卡住'状态都能用impacted，比如'我的灵感被卡住了'→My creativity got impacted! 💡🚧",
+    "recite": {
+      "tips": [
+        "视觉联想：想象被卡住的袋鼠育儿袋(im+pact+ed)→'硬拍打的'就会卡住",
+        "易混词对比：impactive(有冲击力的) vs impacted(被卡住的)"
+      ]
+    }
   }
 ]

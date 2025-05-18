@@ -13810,5 +13810,361 @@
         "易混词：rate（速率）vs ratio（比例）就像单车速度vs前后齿轮比"
       ]
     }
+  },
+  {
+    "word": "ration",
+    "etymology": {
+      "breakdown": [
+        "rat",
+        "ion"
+      ],
+      "meaning_connection": "词根rat=计算（同rate），-ion表名词→计算分配的份额"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "定额",
+        "examples": [
+          {
+            "sentence": "During WWII, the weekly sugar ration was just 200 grams.",
+            "sentence_zh": "二战期间每周的糖类定额仅有200克。"
+          },
+          {
+            "sentence": "My boss set a strict coffee ration of two cups per day.",
+            "sentence_zh": "老板设定了每天两杯咖啡的严格定额。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "定量配给",
+        "examples": [
+          {
+            "sentence": "The refugee camp provides rice rations in reusable cotton bags.",
+            "sentence_zh": "难民营用可重复使用的棉布袋发放大米配给。"
+          },
+          {
+            "sentence": "Military MREs (Meal Ready-to-Eat) are modern combat rations.",
+            "sentence_zh": "军用即食食品是现代作战口粮配给。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "定量供应",
+        "examples": [
+          {
+            "sentence": "To save water, the city rationed showers to 5 minutes.",
+            "sentence_zh": "为节约用水，该市将淋浴时间定量限制为5分钟。"
+          },
+          {
+            "sentence": "Parents often have to ration screen time for their kids.",
+            "sentence_zh": "家长经常需要给孩子限定屏幕使用时间。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ration out",
+        "meaning": "按份分配",
+        "examples": [
+          {
+            "sentence": "The teacher rationed out the limited lab equipment carefully.",
+            "sentence_zh": "老师谨慎地分配着有限的实验设备。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "emergency ration",
+        "meaning": "应急口粮",
+        "examples": [
+          {
+            "sentence": "Every earthquake kit should include 3-day emergency rations.",
+            "sentence_zh": "每个地震应急包都应包含3天的应急口粮。"
+          }
+        ]
+      }
+    ],
+    "teach": "ration就是现代版'画饼充饥'🖍️：从古罗马军团的粮食分配⚔️，到疫情期间的口罩限购😷，再到你妈控制你吃零食的量🍪（ration cookies）。说'物资短缺'可以用tight rations，'精打细算'叫careful rationing。记住：当生活给你ration，你就做成分子料理🍽️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累醒'→定量配给让人累醒",
+        "易混词：ratio是比率，ration是配给量",
+        "记忆法：把'tion'想成'份'的拼音"
+      ]
+    }
+  },
+  {
+    "word": "rational",
+    "etymology": {
+      "breakdown": [
+        "rat",
+        "ion",
+        "al"
+      ],
+      "meaning_connection": "词根rat=计算/思考（同ratio），-ion名词后缀，-al形容词后缀→与计算/推理有关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "理性的",
+        "examples": [
+          {
+            "sentence": "Even AI needs rational decision-making processes.",
+            "sentence_zh": "即便人工智能也需要理性决策流程。"
+          },
+          {
+            "sentence": "Her rational analysis of the hotpot ingredients saved us from food poisoning.",
+            "sentence_zh": "她对火锅食材的理性分析让我们免于食物中毒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "合理的",
+        "examples": [
+          {
+            "sentence": "Douyin's algorithm makes rational recommendations based on your preferences.",
+            "sentence_zh": "抖音的算法会根据你的偏好做出合理推荐。"
+          },
+          {
+            "sentence": "It's rational to check the weather app before cycling around Qinghai Lake.",
+            "sentence_zh": "环青海湖骑行前查看天气app是合理的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "有理数",
+        "examples": [
+          {
+            "sentence": "Pi is not a rational number, which frustrated ancient mathematicians.",
+            "sentence_zh": "圆周率不是有理数，这让古代数学家很挫败。"
+          },
+          {
+            "sentence": "Fractions and integers both belong to rational numbers.",
+            "sentence_zh": "分数和整数都属于有理数。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rational thinking",
+        "meaning": "理性思维",
+        "examples": [
+          {
+            "sentence": "Rational thinking prevents you from buying unnecessary livestreaming deals.",
+            "sentence_zh": "理性思维能避免你购买不必要的直播带货商品。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rational explanation",
+        "meaning": "合理解释",
+        "examples": [
+          {
+            "sentence": "There's no rational explanation for why bubble tea is so addictive.",
+            "sentence_zh": "奶茶为何令人上瘾尚无合理解释。"
+          }
+        ]
+      }
+    ],
+    "teach": "rational是'人间清醒'💡代言词！数学家们为有理数(rational number)吵架的样子可不怎么理性🤯。形容人理智可以说level-headed（头脑冷静的），'不讲理'叫throw rationality out the window（把理性扔出窗外）。记住：当你的消费欲战胜理性时，钱包就变成无理数了💰➗❌！",
+    "recite": {
+      "tips": [
+        "拆解记忆：rat（鼠）+ional→实验室小白鼠的理性实验",
+        "易混词：rational（理性） vs. rationale（理论依据）"
+      ]
+    }
+  },
+  {
+    "word": "rationale",
+    "etymology": {
+      "breakdown": [
+        "ratio",
+        "nale"
+      ],
+      "meaning_connection": "词根ratio=计算/推理，后缀-nale表性质→通过逻辑推理得出的核心依据"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "基本原理",
+        "examples": [
+          {
+            "sentence": "The rationale behind Tiktok's algorithm is maximizing user engagement.",
+            "sentence_zh": "抖音算法的基本原理是最大化用户粘性。"
+          },
+          {
+            "sentence": "She explained the rationale for using emojis in academic presentations.",
+            "sentence_zh": "她解释了在学术报告中用表情符号的基本原理。"
+          }
+        ]
+      }
+    ],
+    "teach": "rationale其实是'理性说'🧠：就像吃火锅要先调蘸料（ratio混合），再涮肉（nale执行）🍲。说'毫无道理'可以用no rationale like 老板的KPI📉，'核心逻辑'叫underlying rationale就像奶茶的配方密码🔑。记住：你的每个决定都需要delicious rationale！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热烧脑'→推导基本原理时头脑发热",
+        "易混词：rational（理性的） vs. rationale（原理）"
+      ]
+    }
+  },
+  {
+    "word": "rationalism",
+    "etymology": {
+      "breakdown": [
+        "ration",
+        "al",
+        "ism"
+      ],
+      "meaning_connection": "词根ration=理性/计算（拉丁语ratio），-al表形容词后缀，-ism表主义→强调理性计算的哲学体系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "合理主义",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese Mohism shares similarities with Western rationalism in logical reasoning.",
+            "sentence_zh": "中国古代墨家的逻辑推演与西方合理主义有相通之处。"
+          },
+          {
+            "sentence": "His rationalism collided with his wife's romantic view of marriage.",
+            "sentence_zh": "他的合理主义与妻子对婚姻的浪漫幻想激烈冲突。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "理性论",
+        "examples": [
+          {
+            "sentence": "Descartes' rationalism argues that reason is the chief source of knowledge.",
+            "sentence_zh": "笛卡尔的理性论主张理性才是知识的主要来源。"
+          },
+          {
+            "sentence": "The debate between rationalism and empiricism shaped modern science.",
+            "sentence_zh": "理性论与经验论的争论塑造了现代科学。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "纯理论",
+        "examples": [
+          {
+            "sentence": "Economic rationalism often overlooks human emotional factors.",
+            "sentence_zh": "经济学纯理论常常忽视人类情感因素。"
+          },
+          {
+            "sentence": "His architectural design combines rationalism with traditional Chinese aesthetics.",
+            "sentence_zh": "他的建筑设计将纯理论与传统中式美学相结合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mathematical rationalism",
+        "meaning": "数理理性主义",
+        "examples": [
+          {
+            "sentence": "The Great Wall's construction demonstrates astonishing mathematical rationalism.",
+            "sentence_zh": "长城的建造展现了惊人的数理理性主义。"
+          }
+        ]
+      }
+    ],
+    "teach": "rationalism是哲学界的计算器🧮！就像诸葛亮用算盘推演兵法⚔️，笛卡尔用'我思故我在'（cogito ergo sum）开启理性时代🌅。搭配：cold rationalism（冰冷理性主义）像AI下围棋🤖，scientific rationalism（科学理性主义）像张衡造地动仪🌍。地道吐槽'太教条'可说by the book（照本宣科）。记住：当别人说'这不科学'时，就是你的rationalism登场时刻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来设闹铃ism'→用理性(ration)设人生闹铃",
+        "易混词：rational（理性的）vs. rationale（理论依据）",
+        "记忆法：拆解为ratio（比例）+nalism，像用数学比例分析一切"
+      ]
+    }
+  },
+  {
+    "word": "rationalist",
+    "etymology": {
+      "breakdown": [
+        "ration",
+        "al",
+        "ist"
+      ],
+      "meaning_connection": "词根ration=理性/计算（同源词ratio），后缀-al表形容词性，-ist表'...主义者'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "理性论者",
+        "examples": [
+          {
+            "sentence": "As a rationalist, he analyzes even Valentine's gifts with cost-performance ratios.",
+            "sentence_zh": "作为理性论者，他连情人节礼物都要分析性价比。"
+          },
+          {
+            "sentence": "Ancient Greek rationalists used geometry to explain love, much like modern programmers debug relationships.",
+            "sentence_zh": "古希腊理性论者用几何学解释爱情，就像现代程序员用代码调试感情。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "纯理论者",
+        "examples": [
+          {
+            "sentence": "The debate between the rationalist and the chef was like a cookbook without pictures.",
+            "sentence_zh": "纯理论者和厨师的辩论就像没有配图的菜谱。"
+          },
+          {
+            "sentence": "She designs apps as a rationalist, forgetting users can't read binary code.",
+            "sentence_zh": "她以纯理论者方式设计APP，忘了用户看不懂二进制。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "理性主义者",
+        "examples": [
+          {
+            "sentence": "A rationalist would calculate the calories before eating hotpot, while others just enjoy the meat.",
+            "sentence_zh": "理性主义者吃火锅前先算卡路里，而其他人只管大快朵颐。"
+          },
+          {
+            "sentence": "Modern rationalists treat life like an Excel spreadsheet, with happiness in column C.",
+            "sentence_zh": "现代理性主义者把人生当Excel表，快乐值放在C列。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "enlightened rationalist",
+        "meaning": "开明理性主义者",
+        "examples": [
+          {
+            "sentence": "The enlightened rationalist uses AI to write love letters, but still checks for typos.",
+            "sentence_zh": "开明理性主义者用AI写情书，但仍会检查错别字。"
+          }
+        ]
+      }
+    ],
+    "teach": "rationalist是行走的计算器🧮！词源来自拉丁语ratio（计算），就像用数学证明'我爱你'=心形函数📈。搭配说cold-blooded rationalist（冷酷理性派），反义词是romanticist（浪漫主义者）。地道吐槽：'他理性得像Siri讲笑话'→He's such a USB stick without emotions. 💻❄️🤖",
+    "recite": {
+      "tips": [
+        "谐音梗：'来收利息的'→理性主义者(rationa-list)连感情都要算利息",
+        "易混对比：rational（理性的） vs. rationale（理论基础）"
+      ]
+    }
   }
 ]

@@ -13939,5 +13939,309 @@
         "记忆tip：联想奶茶里的黄糖浆(tau-ny→糖泥)"
       ]
     }
+  },
+  {
+    "word": "tax",
+    "etymology": {
+      "breakdown": [
+        "tax"
+      ],
+      "meaning_connection": "源自拉丁语'taxare'（评估/敲打），最初指官方对财产的评估"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "税",
+        "examples": [
+          {
+            "sentence": "The bubble tea tax in Chengdu caused heated online discussions.",
+            "sentence_zh": "成都的奶茶税引发网友热议。"
+          },
+          {
+            "sentence": "In ancient China, farmers paid taxes with rice and silk.",
+            "sentence_zh": "中国古代农民用稻米和丝绸纳税。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "税款",
+        "examples": [
+          {
+            "sentence": "My year-end bonus instantly shrank after tax deduction.",
+            "sentence_zh": "我的年终奖在扣除税款后瞬间缩水。"
+          },
+          {
+            "sentence": "The celebrity evaded taxes by using yin-yang contracts.",
+            "sentence_zh": "该明星通过阴阳合同逃避税款。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "重负",
+        "examples": [
+          {
+            "sentence": "996 work schedule is a tax on young people's health.",
+            "sentence_zh": "996工作制是对年轻人健康的沉重负担。"
+          },
+          {
+            "sentence": "Parenting twins became a sweet tax on their energy.",
+            "sentence_zh": "养育双胞胎成为他们精力的甜蜜负担。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "课以税",
+        "examples": [
+          {
+            "sentence": "The government taxes luxury goods at 30%.",
+            "sentence_zh": "政府对奢侈品课以30%的税。"
+          },
+          {
+            "sentence": "Online streamers are now being taxed for virtual gifts.",
+            "sentence_zh": "网红主播的虚拟礼物现在被课税了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使负重荷",
+        "examples": [
+          {
+            "sentence": "Endless meetings tax my patience like a leaky roof taxes a bucket.",
+            "sentence_zh": "无尽的会议消耗我的耐心，就像漏雨的屋顶消耗水桶。"
+          },
+          {
+            "sentence": "The 20-hour flight taxed even the most experienced traveler.",
+            "sentence_zh": "20小时的飞行让最资深的旅行者也精疲力尽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "斥责",
+        "examples": [
+          {
+            "sentence": "The teacher taxed the student for plagiarizing homework from Baidu.",
+            "sentence_zh": "老师严厉斥责了从百度抄袭作业的学生。"
+          },
+          {
+            "sentence": "Netizens taxed the influencer for promoting fake products.",
+            "sentence_zh": "网友严厉批评该网红推广假冒商品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tax return",
+        "meaning": "纳税申报",
+        "examples": [
+          {
+            "sentence": "Filing tax returns is as complex as solving Advanced Mathematics problems.",
+            "sentence_zh": "填写纳税申报表复杂得像解高数题。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tax one's brain",
+        "meaning": "绞尽脑汁",
+        "examples": [
+          {
+            "sentence": "The Gaokao math problems taxed every student's brain.",
+            "sentence_zh": "高考数学题让每个学生都绞尽脑汁。"
+          }
+        ]
+      }
+    ],
+    "teach": "tax就像人生必修课💸：古罗马用'taxare'（评估棍）测量财产就像老师用红笔改作业✏️。说'苛捐杂税'用heavy taxation就像火锅底料税🌶️，'逃税大户'叫tax dodger像躲猫猫的老鼠🐭。记住：tax your brain时，你的智商正在交税！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太渴死'→苛捐杂税让人太渴死",
+        "易混词：tax（税） vs task（任务）→老板把task当tax派发"
+      ]
+    }
+  },
+  {
+    "word": "taxable",
+    "etymology": {
+      "breakdown": [
+        "tax",
+        "able"
+      ],
+      "meaning_connection": "词根tax=征税，后缀-able表'可...的'→本义为'可被征税的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可征税的",
+        "examples": [
+          {
+            "sentence": "The mooncake gift box became taxable when its value exceeded 5,000 yuan.",
+            "sentence_zh": "当月饼礼盒价值超过5000元时就变成可征税物品了。"
+          },
+          {
+            "sentence": "Even memes can be taxable if they're sold as NFTs.",
+            "sentence_zh": "即便是表情包，如果作为NFT出售也可能被征税。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "应征税的",
+        "examples": [
+          {
+            "sentence": "That viral livestreamer finally declared her taxable income.",
+            "sentence_zh": "那位爆红的直播主终于申报了她的应税收入。"
+          },
+          {
+            "sentence": "Your red envelope money becomes taxable when it reaches 100,000 yuan.",
+            "sentence_zh": "当红包金额达到10万元时就成为应征税款项。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "taxable income",
+        "meaning": "应纳税所得额",
+        "examples": [
+          {
+            "sentence": "Douyin influencers now list 'taxable income' as their biggest anxiety.",
+            "sentence_zh": "抖音网红们现在把'应纳税所得额'列为最大焦虑源。"
+          }
+        ]
+      }
+    ],
+    "teach": "taxable就像税务局的触手🦑！古罗马用尿液税(urine tax)收公共厕所钱💦，现代连游戏皮肤都要交税🎮。'合理避税'叫tax avoidance（像玩扫雷💣），'逃税'则是tax evasion（直接踩地雷💥）。记住：只要税务局想，连你呼吸的空气都能变成taxable！💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'太克搜宝'→税务局觉得你太克(可)搜(税)的宝贝",
+        "易混词对比：taxable（该交税） vs taxed（已交税） vs tax-free（免税）"
+      ]
+    }
+  },
+  {
+    "word": "taxation",
+    "etymology": {
+      "breakdown": [
+        "tax",
+        "ation"
+      ],
+      "meaning_connection": "词根tax=计算/评估（源自拉丁语taxare），后缀-ation=行为/结果→计算应缴款项的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "课税",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese taxation often involved rice and silk instead of currency.",
+            "sentence_zh": "中国古代课税常以稻米和丝绸代替货币。"
+          },
+          {
+            "sentence": "The taxation of bubble tea shops became a hot topic during the pandemic.",
+            "sentence_zh": "疫情期间奶茶店的课税成为热议话题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "税款",
+        "examples": [
+          {
+            "sentence": "The celebrity paid his taxation with 20,000 live-streaming red packets.",
+            "sentence_zh": "该明星用2万份直播红包缴纳税款。"
+          },
+          {
+            "sentence": "Her annual taxation equals 500 hotpot meals at Haidilao.",
+            "sentence_zh": "她每年的税款相当于500顿海底捞火锅。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "double taxation",
+        "meaning": "双重征税",
+        "examples": [
+          {
+            "sentence": "Digital nomains often face double taxation issues.",
+            "sentence_zh": "数字游民常面临双重征税问题。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "taxation policy",
+        "meaning": "税收政策",
+        "examples": [
+          {
+            "sentence": "The new taxation policy on luxury goods boosted domestic sales.",
+            "sentence_zh": "针对奢侈品的新税收政策促进了国内消费。"
+          }
+        ]
+      }
+    ],
+    "teach": "taxation是古代'数豆子'📊的进化版：中国周朝就有'井田制'征税🌾，英国曾因窗户税出现'盲窗房'🚪。要说'交税'可用'feed the dragon'（喂龙）的诙谐说法，'合理避税'叫tax planning就像外卖凑满减🍱。记住：taxation=你的钱在给国家发红包🧧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太坑醒'→被taxation惊醒",
+        "易混词：tax（税种） vs taxation（征税行为）",
+        "联想：tax+station=税务所"
+      ]
+    }
+  },
+  {
+    "word": "taxed",
+    "etymology": {
+      "breakdown": [
+        "tax",
+        "ed"
+      ],
+      "meaning_connection": "tax源自拉丁语taxare（评估），-ed表过去式/分词→被评估后的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使负重担",
+        "examples": [
+          {
+            "sentence": "The new policy has taxed small business owners like a ton of steamed buns.",
+            "sentence_zh": "新政策让小吃店主们压力山大（像顶着吨位包子）"
+          },
+          {
+            "sentence": "Her patience was taxed by the 3-hour meeting about saving 5 minutes.",
+            "sentence_zh": "这场为省5分钟开的3小时会议耗尽了她的耐心"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "heavily taxed",
+        "meaning": "不堪重负的",
+        "examples": [
+          {
+            "sentence": "The heavily taxed delivery guy still remembered to say 'have a nice meal'.",
+            "sentence_zh": "这个不堪重负的外卖小哥仍记得说'祝您用餐愉快'"
+          }
+        ]
+      }
+    ],
+    "teach": "taxed其实是'太克死'💸：想象你的钱包像被税务吸血鬼🧛吸干（heavily taxed）。要说'压力山大'可用carrying the world on shoulders🌎，'996社畜'叫corporate donkey🐴。记住：被taxed时，你的表情就像看到年终奖是公司月饼券！",
+    "recite": {
+      "tips": [
+        "谐音梗：'钛克斯'→钛合金(taxed)般沉重的压力",
+        "易混对比：taxed（被动负重）vs taxing（令人疲惫的主动状态）"
+      ]
+    }
   }
 ]

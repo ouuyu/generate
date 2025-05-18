@@ -13509,5 +13509,288 @@
         "词根联想：gener=generate（产生）+ative→能生的"
       ]
     }
+  },
+  {
+    "word": "generator",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "ate",
+        "or"
+      ],
+      "meaning_connection": "词根gener=生产/种族（同generate），-ate表动词后缀，-or表执行者→能产生某物的事物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "产生器",
+        "examples": [
+          {
+            "sentence": "The meme generator created a viral image of pandas coding Python.",
+            "sentence_zh": "这个梗图生成器制作了大熊猫写Python代码的爆红图片。"
+          },
+          {
+            "sentence": "AI poem generators now write better lyrics than my ex.",
+            "sentence_zh": "AI写诗生成器现在写的歌词比我前任强多了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发电机",
+        "examples": [
+          {
+            "sentence": "The camping generator powered 10 phones and a mini fridge simultaneously.",
+            "sentence_zh": "露营发电机同时给10部手机和迷你冰箱供电。"
+          },
+          {
+            "sentence": "Wind turbines are essentially giant kinetic energy generators.",
+            "sentence_zh": "风力发电机本质上是巨型动能转换器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "生产者",
+        "examples": [
+          {
+            "sentence": "Jack Ma is a legendry generator of business catchphrases.",
+            "sentence_zh": "马云是商业金句的传奇生产者。"
+          },
+          {
+            "sentence": "The soil acts as a natural generator of nutrients.",
+            "sentence_zh": "土壤是营养物质的天然生产者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "random generator",
+        "meaning": "随机生成器",
+        "examples": [
+          {
+            "sentence": "We used a random generator to decide who buys bubble tea.",
+            "sentence_zh": "我们用随机生成器决定谁请客奶茶。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "power generator",
+        "meaning": "动力发电机",
+        "examples": [
+          {
+            "sentence": "The hospital's backup power generator runs on spicy hotpot oil.",
+            "sentence_zh": "这家医院的备用发电机靠麻辣火锅油驱动。"
+          }
+        ]
+      }
+    ],
+    "teach": "generator是当代炼金术士🧙！从古罗马的gener(生育神)到特斯拉线圈⚡，它把一切变成'生产力'：可生成表情包（meme generator）、可发电（power generator）、甚至产梗（content generator）。遇到停电说'The generator kicked the bucket'（发电机罢工了），夸人创意爆棚用'idea generator'💡。记住：能'生'万物者，必是generator！",
+    "recite": {
+      "tips": [
+        "谐音梗：'捐了你头'→发电机把能量捐给灯泡💡",
+        "易混词：generator（产生器）vs. alternator（交流发电机）",
+        "记忆法：gener(生产)+ator(人)→像钢铁侠的方舟反应堆"
+      ]
+    }
+  },
+  {
+    "word": "generic",
+    "etymology": {
+      "breakdown": [
+        "gen",
+        "eric"
+      ],
+      "meaning_connection": "词根gen=种类/出生（如gene基因）, -eric为形容词后缀→与种类相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "属类的",
+        "examples": [
+          {
+            "sentence": "Pandas belong to the generic category of bears but prefer bamboo to meat.",
+            "sentence_zh": "熊猫属于熊科动物，但比起吃肉更爱竹子。"
+          },
+          {
+            "sentence": "The generic term 'smartphone' covers devices from Apple to Xiaomi.",
+            "sentence_zh": "'智能手机'这个属类术语涵盖从苹果到小米的各种设备。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "一般的",
+        "examples": [
+          {
+            "sentence": "Her generic advice like 'work harder' wasn't helpful at all.",
+            "sentence_zh": "她'更努力'这样的一般性建议毫无帮助。"
+          },
+          {
+            "sentence": "The movie's plot is too generic — hero saves world from aliens again.",
+            "sentence_zh": "这部电影剧情太一般了——又是英雄拯救地球打外星人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "generic brand",
+        "meaning": "通用品牌",
+        "examples": [
+          {
+            "sentence": "IKEA's generic-brand meatballs taste as good as the fancy ones.",
+            "sentence_zh": "宜家的自有品牌肉丸和高端产品一样好吃。"
+          }
+        ]
+      }
+    ],
+    "teach": "generic就像超市里的'无印良品'🛒：词根gen告诉我们它和'基因''种类'有关（比如基因generic检测）。说'太普通'可以用as generic as instant noodles（像泡面一样普通）🍜，反义词是tailor-made（量身定制）✂️。记住：generic产品就像白T恤——没个性但百搭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'真呢瑞克'→真呢（generic）普通的瑞克（Rick and Morty梗）",
+        "易混词对比：generic vs genetic（前者指类别，后者指基因）",
+        "联想tip：generic=gene+ric（基因里带的普遍性）"
+      ]
+    }
+  },
+  {
+    "word": "generically",
+    "etymology": {
+      "breakdown": [
+        "gene",
+        "ic",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "gene=基因/种类（古希腊语genos），-ic表属性，-al构成形容词，-ly构成副词→从种类属性引申为'泛泛地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "关于属类",
+        "examples": [
+          {
+            "sentence": "The medicine is described generically as 'antibiotic' in the textbook.",
+            "sentence_zh": "教科书上将这种药物泛泛归类为'抗生素'。"
+          },
+          {
+            "sentence": "Dinosaur fossils are often labeled generically before detailed research.",
+            "sentence_zh": "恐龙化石在研究前常被笼统标注属类。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "属类地",
+        "examples": [
+          {
+            "sentence": "The AI chatbot answered generically without specific details.",
+            "sentence_zh": "这个AI聊天机器人给出的是泛泛的类别性回答。"
+          },
+          {
+            "sentence": "Stores generically categorize all spicy snacks as 'hot flavor'.",
+            "sentence_zh": "商店把所有辣味零食都笼统归类为'热辣口味'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "属类上",
+        "examples": [
+          {
+            "sentence": "Rhinoceros beetles are generically related to scarabs.",
+            "sentence_zh": "独角仙在属类上与金龟子相关。"
+          },
+          {
+            "sentence": "This algorithm can classify images generically before fine-tuning.",
+            "sentence_zh": "该算法能在精细分类前进行属类上的初步归类。"
+          }
+        ]
+      }
+    ],
+    "teach": "generically就像超市的'其他分类'货架📦——把不认识的零食都叫'膨化食品'🍟，把看不懂的调料统称'东方神秘粉末'🧂。中文说'笼统归类'就像把奶茶全叫'肥宅快乐水'🥤。搭配：generically speaking（泛泛而言）/ generically labeled（笼统标注）。记住：当你说'就那样吧'时，其实在generically概括人生🤷‍♂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'这呢瑞咖喱'→这呢(generically)所有咖喱都一个味",
+        "易混对比：generally（通常）vs generically（按属类）"
+      ]
+    }
+  },
+  {
+    "word": "generosity",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "os",
+        "ity"
+      ],
+      "meaning_connection": "词根gener=产生/种族（同源词generate），后缀-ity表性质→原指'贵族血统的宽厚品格'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "慷慨",
+        "examples": [
+          {
+            "sentence": "The billionaire's generosity built 100 Hope Primary Schools in rural areas.",
+            "sentence_zh": "这位亿万富翁的慷慨资助在乡村建了100所希望小学。"
+          },
+          {
+            "sentence": "Her generosity shines when she shares the last piece of Peking duck.",
+            "sentence_zh": "当她分享最后一片北京烤鸭时，她的慷慨熠熠生辉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "宽大",
+        "examples": [
+          {
+            "sentence": "The judge showed generosity by reducing the sentence for the repentant thief.",
+            "sentence_zh": "法官表现出宽大，为悔改的小偷减刑。"
+          },
+          {
+            "sentence": "Teachers should balance strictness with generosity in grading.",
+            "sentence_zh": "老师批改作业时应在严格和宽大之间取得平衡。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "act of generosity",
+        "meaning": "慷慨之举",
+        "examples": [
+          {
+            "sentence": "Donating blood is an act of generosity that costs nothing but means everything.",
+            "sentence_zh": "献血是零成本但意义重大的慷慨之举。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "generosity of spirit",
+        "meaning": "精神上的宽宏",
+        "examples": [
+          {
+            "sentence": "Her generosity of spirit made her forgive the online trolls.",
+            "sentence_zh": "她精神上的宽宏使她原谅了网络喷子。"
+          }
+        ]
+      }
+    ],
+    "teach": "generosity其实是'贵族病'👑！古罗马贵族(gener)认为展示大度才能证明血统高贵💎。说人'抠门'用tight-fisted（握紧拳头），'大方'叫open-handed（张开手掌）🤲。记住：真正的generosity就像发红包——抢到最少的人反而最开心🧧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'捐了若喜提'→慷慨捐赠后喜提锦旗",
+        "易混词：generous(adj.) vs generosity(n.)"
+      ]
+    }
   }
 ]
