@@ -11813,5 +11813,257 @@
         "牙医梗：约会前check牙齿tartar，否则可能单身到Tartar（地狱）"
       ]
     }
+  },
+  {
+    "word": "tartly",
+    "etymology": {
+      "breakdown": [
+        "tart",
+        "ly"
+      ],
+      "meaning_connection": "词根tart=尖锐的/酸的，后缀-ly表副词→像柠檬汁一样'酸溜刻薄'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "辛辣地",
+        "examples": [
+          {
+            "sentence": "The Sichuan hotpot broth tartly stung my tongue.",
+            "sentence_zh": "四川火锅汤底辛辣地刺激着我的舌头。"
+          },
+          {
+            "sentence": "She tartly added three spoons of wasabi to his sushi.",
+            "sentence_zh": "她辛辣地给他的寿司加了三大勺芥末。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "刻薄地",
+        "examples": [
+          {
+            "sentence": "\"Your coding skills are outdated,\" he remarked tartly during the meeting.",
+            "sentence_zh": "他在会议上刻薄地评论道：\"你的编程技术过时了\"。"
+          },
+          {
+            "sentence": "The judge tartly dismissed the lawyer's ridiculous argument.",
+            "sentence_zh": "法官刻薄地驳回了律师荒谬的论点。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "reply tartly",
+        "meaning": "尖刻地回答",
+        "examples": [
+          {
+            "sentence": "When asked about his failed startup, the CEO replied tartly: \"At least I tried\".",
+            "sentence_zh": "当被问及创业失败时，CEO尖刻地回答：\"至少我尝试过\"。"
+          }
+        ]
+      }
+    ],
+    "teach": "tartly是语言界的柠檬精🍋+朝天椒🌶️！想象金星老师翻白眼说'完美~'时的酸爽（speak tartly），或者重庆小面辣到流泪还嘴硬'不辣呀'的倔强（smile tartly）。说人'毒舌'可以说sharp-tongued，但'tartly'更带'酸'的意境——就像杨幂怼人时挑眉的微表情😏",
+    "recite": {
+      "tips": [
+        "谐音梗：'他踢哩'→被他刻薄话踢到心里",
+        "对比记忆：sourly（酸溜溜）单纯指酸，tartly带'扎心'感"
+      ]
+    }
+  },
+  {
+    "word": "task",
+    "etymology": {
+      "breakdown": [
+        "tas",
+        "k"
+      ],
+      "meaning_connection": "源自古法语'tasque'（赋税/劳役），最终可能源自拉丁语'taxa'（评估），后来演变为指派的工作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "任务",
+        "examples": [
+          {
+            "sentence": "Completing this programming task feels like climbing Mount Everest.",
+            "sentence_zh": "完成这个编程任务就像攀登珠穆朗玛峰。"
+          },
+          {
+            "sentence": "Her morning task is feeding 50 stray cats near the office.",
+            "sentence_zh": "她早上的任务是喂办公室附近的50只流浪猫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "困难的工作",
+        "examples": [
+          {
+            "sentence": "Teaching pandas to dance is truly an impossible task.",
+            "sentence_zh": "教熊猫跳舞真是项不可能完成的任务。"
+          },
+          {
+            "sentence": "Finding a parking spot in Beijing during rush hour is a Herculean task.",
+            "sentence_zh": "在北京高峰时段找停车位是项艰巨任务。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "派给...工作",
+        "examples": [
+          {
+            "sentence": "The boss tasked me with organizing the year-end hotpot party.",
+            "sentence_zh": "老板派我组织年终火锅聚餐。"
+          },
+          {
+            "sentence": "Mom tasked little Ming with walking the robot vacuum every day.",
+            "sentence_zh": "妈妈给小明派了每天遛扫地机器人的工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使辛劳",
+        "examples": [
+          {
+            "sentence": "The 996 work schedule has tasked many young programmers' health.",
+            "sentence_zh": "996工作制让许多年轻程序员的健康不堪重负。"
+          },
+          {
+            "sentence": "Preparing for gaokao tasks both students and parents.",
+            "sentence_zh": "高考备考让学生和家长都心力交瘁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take sb to task",
+        "meaning": "责备某人",
+        "examples": [
+          {
+            "sentence": "The teacher took Li Hua to task for doing homework with ChatGPT.",
+            "sentence_zh": "老师因李华用ChatGPT写作业而严厉批评他。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "task force",
+        "meaning": "特别工作组",
+        "examples": [
+          {
+            "sentence": "A task force was formed to investigate the mystery of missing milk tea.",
+            "sentence_zh": "成立了特别工作组调查奶茶失踪之谜。"
+          }
+        ]
+      }
+    ],
+    "teach": "task这个词就像接单系统📱！古罗马收税官tax collector是它的远亲🧾。中文说'接活儿'叫take on a task，'甩锅'是pass the task like a hot potato🥔。地道的'任务太重'可以说It's a tall order，搭配就像：task rabbit（跑腿代购）和task master（魔鬼甲方）💼。记住：每个task都是升级打怪的经验值！🎮",
+    "recite": {
+      "tips": [
+        "谐音梗：'他死磕'→完成任务需要死磕精神",
+        "易混词：mission（重大使命）vs task（具体任务）",
+        "记忆法：T-踢 A-开 S-事情 K-开头 → 踢开事情的开头就是task"
+      ]
+    }
+  },
+  {
+    "word": "taskmaster",
+    "etymology": {
+      "breakdown": [
+        "task",
+        "master"
+      ],
+      "meaning_connection": "task=任务，master=掌控者→掌控任务分配的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "工头",
+        "examples": [
+          {
+            "sentence": "The construction taskmaster yelled 'faster!' while workers carried bricks.",
+            "sentence_zh": "建筑工头在工人搬砖时大喊'快点！'"
+          },
+          {
+            "sentence": "Our AI taskmaster reminds me to drink water every 30 minutes.",
+            "sentence_zh": "我们的AI工头每30分钟提醒我喝水"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "strict taskmaster",
+        "meaning": "严厉的监工",
+        "examples": [
+          {
+            "sentence": "My fitness coach is a strict taskmaster who counts every squat.",
+            "sentence_zh": "我的健身教练是个连深蹲次数都要数的严厉监工"
+          }
+        ]
+      }
+    ],
+    "teach": "taskmaster是古代'周扒皮'👴的英文版！这个词诞生于英国工业革命时期🏭，当时工头(taskmaster)真的会用怀表⏱️卡工人上厕所时间。现在说'老板催活'可以用'the taskmaster is coming'，形容压榨员工叫'work like under a taskmaster'。记住：当你深夜改PPT时，电脑就是你的digital taskmaster💻！",
+    "recite": {
+      "tips": [
+        "拆解记忆：task+master=任务(task)大师(master)",
+        "易混词对比：boss（老板）侧重所有权，taskmaster侧重执行监督"
+      ]
+    }
+  },
+  {
+    "word": "Tasmanian",
+    "etymology": {
+      "breakdown": [
+        "Tasmania",
+        "n"
+      ],
+      "meaning_connection": "源自澳大利亚塔斯马尼亚岛名(Tasmania)，后缀-n表示'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "塔斯马尼亚的",
+        "examples": [
+          {
+            "sentence": "The Tasmanian devil is actually a marsupial, not a demon.",
+            "sentence_zh": "塔斯马尼亚恶魔其实是种有袋动物，不是真的恶魔。"
+          },
+          {
+            "sentence": "Tasmanian wines are gaining popularity in China's market.",
+            "sentence_zh": "塔斯马尼亚葡萄酒在中国市场越来越受欢迎。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Tasmanian devil",
+        "meaning": "袋獾（塔斯马尼亚特有动物）",
+        "examples": [
+          {
+            "sentence": "The cartoon character Taz is based on the real Tasmanian devil.",
+            "sentence_zh": "卡通角色泰兹的原型就是真实的袋獾。"
+          }
+        ]
+      }
+    ],
+    "teach": "Tasmanian其实是'獾式命名法'🦘！这个小岛以荷兰探险家塔斯曼命名，却因暴躁的袋獾(devil)出名⚡。说'澳洲特产'用down under delicacy，'偏远地区'叫middle of nowhere🌏。记住：塔斯马尼亚就像澳大利亚的'小拇指'👉，单独伸在南边！",
+    "recite": {
+      "tips": [
+        "谐音梗：'他这么腻'→塔斯马尼亚海鲜太腻了",
+        "联想：地图上形状像在'舔'澳大利亚的冰淇淋🍦"
+      ]
+    }
   }
 ]

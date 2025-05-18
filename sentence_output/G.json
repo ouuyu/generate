@@ -11249,5 +11249,311 @@
         "记忆法：gei-sha = 艺术者 = ART+Person"
       ]
     }
+  },
+  {
+    "word": "gel",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'gelare'(冻结)，通过法语'gelée'(果冻)进入英语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "胶化体",
+        "examples": [
+          {
+            "sentence": "The aloe vera gel soothes sunburn instantly.",
+            "sentence_zh": "芦荟胶能立即缓解晒伤疼痛。"
+          },
+          {
+            "sentence": "Her hair styling gel smells like bubblegum.",
+            "sentence_zh": "她的定型发胶闻起来像泡泡糖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "凝胶",
+        "examples": [
+          {
+            "sentence": "The scientist created a glow-in-the-dark gel for experiments.",
+            "sentence_zh": "科学家制造出用于实验的夜光凝胶。"
+          },
+          {
+            "sentence": "These colorful shower gels look like giant gummy bears.",
+            "sentence_zh": "这些彩色沐浴露看起来像巨型软糖熊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "胶化",
+        "examples": [
+          {
+            "sentence": "The mixture will gel within 30 minutes in the fridge.",
+            "sentence_zh": "混合物在冰箱里30分钟内会胶化。"
+          },
+          {
+            "sentence": "Her ideas finally gelled into a solid business plan.",
+            "sentence_zh": "她的想法最终胶结成完整的商业计划。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "成凝胶状",
+        "examples": [
+          {
+            "sentence": "The pudding gelled perfectly after cooling.",
+            "sentence_zh": "布丁冷却后完美凝结成凝胶状。"
+          },
+          {
+            "sentence": "When the temperature drops, the liquid gels like magic.",
+            "sentence_zh": "温度降低时，液体会魔术般变成凝胶状。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hair gel",
+        "meaning": "发胶",
+        "examples": [
+          {
+            "sentence": "He used so much hair gel that his head looked like a helmet.",
+            "sentence_zh": "他用了太多发胶，脑袋看起来像戴了头盔。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gel with",
+        "meaning": "与...合拍",
+        "examples": [
+          {
+            "sentence": "The new intern gelled with the team immediately.",
+            "sentence_zh": "新实习生立刻与团队打成一片。"
+          }
+        ]
+      }
+    ],
+    "teach": "gel就像会72变的孙悟空🐵！当名词是'果冻状物体'（想象摇摇冻🍮），当动词表示'凝固'就像珍珠奶茶里的珍珠Q弹过程🧋。说团队'配合好'叫gel well，就像奶茶和珍珠绝配！'发胶用太多'可以说used enough gel to stop a hurricane🌪️。记住：gel的本质就是从液体变固体的魔法✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姐呕'→姐姐看到胶状物呕吐",
+        "易混词对比：jelly(果冻)/gel(胶体)",
+        "联想记忆：GEL=Great Elastic Liquid"
+      ]
+    }
+  },
+  {
+    "word": "gelatin",
+    "etymology": {
+      "breakdown": [
+        "gel",
+        "atin"
+      ],
+      "meaning_connection": "词根gel=冻结/胶状（拉丁语gelare），后缀-atin表物质属性→从动物胶原中提取的凝固物质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "明胶",
+        "examples": [
+          {
+            "sentence": "The secret of bouncy mooncakes lies in edible gelatin.",
+            "sentence_zh": "月饼Q弹的秘诀在于食用明胶。"
+          },
+          {
+            "sentence": "Buddhist vegetarian gelatin is made from seaweed instead of pigskin.",
+            "sentence_zh": "佛家素明胶用海藻替代猪皮制作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "凝胶体",
+        "examples": [
+          {
+            "sentence": "The scientist observed cells growing in gelatin medium.",
+            "sentence_zh": "科学家观察在凝胶培养基中生长的细胞。"
+          },
+          {
+            "sentence": "This transparent gelatin can solidify liquids instantly.",
+            "sentence_zh": "这种透明凝胶能让液体瞬间固化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "动物胶",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese shadow puppets use gelatin as adhesive.",
+            "sentence_zh": "传统皮影戏用动物胶粘合皮革。"
+          },
+          {
+            "sentence": "Restorers use fish gelatin to repair ancient calligraphy.",
+            "sentence_zh": "修复师用鱼胶修补古代字画。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "果子冻",
+        "examples": [
+          {
+            "sentence": "Kids love rainbow gelatin with popping candy inside.",
+            "sentence_zh": "孩子们喜欢内含跳跳糖的彩虹果子冻。"
+          },
+          {
+            "sentence": "This mango gelatin melts instantly on your tongue.",
+            "sentence_zh": "这款芒果冻入口即化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "彩色透明滤光板",
+        "examples": [
+          {
+            "sentence": "The cinematographer used orange gelatin to create sunset effects.",
+            "sentence_zh": "摄影师用橙色滤光板制造日落效果。"
+          },
+          {
+            "sentence": "Stage lights with blue gelatin cast mysterious shadows.",
+            "sentence_zh": "配蓝色滤光板的舞台灯投射出神秘光影。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gelatin silver process",
+        "meaning": "明胶银盐工艺（摄影）",
+        "examples": [
+          {
+            "sentence": "Vintage photos were developed using gelatin silver process.",
+            "sentence_zh": "老照片采用明胶银盐工艺冲印。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gelatin dessert",
+        "meaning": "果冻甜点",
+        "examples": [
+          {
+            "sentence": "The gelatin dessert shaped like pandas sold out in minutes.",
+            "sentence_zh": "熊猫造型的果冻甜点几分钟售罄。"
+          }
+        ]
+      }
+    ],
+    "teach": "gelatin是食物界的变形金刚🤖！从猪皮熬制的明胶（pigskin gelatin）到摄影滤镜（lighting gelatin），从实验室培养皿（lab gelatin）到奶茶里的椰果（coconut gelatin），它像液态记忆金属💧→遇冷变固体，遇热变液体。说'QQ弹弹'用jiggly gelatin，'入口即化'叫melt-in-mouth gelatin。记住：所有胶质食物都在玩gelatin的七十二变！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姐拉紧'→姐姐拉紧(gelatin)果冻包装",
+        "易混词：jelly（果酱）/gel（啫喱）",
+        "记忆tip：所有带'胶/冻'字的东西基本都含gelatin"
+      ]
+    }
+  },
+  {
+    "word": "gelatinous",
+    "etymology": {
+      "breakdown": [
+        "gelat",
+        "in",
+        "ous"
+      ],
+      "meaning_connection": "词根gelat来自拉丁语'gelare'(冻结)，-in表物质，-ous表性质→像冻住的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "凝胶状的",
+        "examples": [
+          {
+            "sentence": "The mooncake filling had a gelatinous texture like molten jade.",
+            "sentence_zh": "月饼馅料有着翡翠般半透明的凝胶质地。"
+          },
+          {
+            "sentence": "Aloe vera gel turns gelatinous when refrigerated overnight.",
+            "sentence_zh": "芦荟胶冷藏后会变成啫喱状。"
+          }
+        ]
+      }
+    ],
+    "teach": "gelatinous是'果冻精'🧃！想象史莱姆粘液怪(slime)在跳广场舞💃，或奶茶里的珍珠卡在吸管时的倔强模样🧋。要说'黏糊糊'可以叫gooey（像融化的芝士），'duangduang的'布丁感叫jiggly。记住：所有Q弹食物都在cosplay gelatinous状态！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姐拉紧螺丝'→姐姐拉紧的螺丝胶(gelatinous adhesive)",
+        "易混词对比：viscous(粘稠的)侧重流动性，gelatinous侧重固体凝胶感"
+      ]
+    }
+  },
+  {
+    "word": "gelding",
+    "etymology": {
+      "breakdown": [
+        "geld",
+        "ing"
+      ],
+      "meaning_connection": "源自古北欧语'geldr'（无价值的），原指阉割后失去繁殖价值的动物，后缀-ing表状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "阉割的动物",
+        "examples": [
+          {
+            "sentence": "The farmer keeps geldings for plowing as they're more docile.",
+            "sentence_zh": "农夫饲养阉割的公牛耕地，因为它们更温顺。"
+          },
+          {
+            "sentence": "Geldings were preferred for long camel caravans on the Silk Road.",
+            "sentence_zh": "丝绸之路上的长途驼队更爱用阉割过的骆驼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "太监",
+        "examples": [
+          {
+            "sentence": "The Ming Dynasty gelding wielded surprising political power.",
+            "sentence_zh": "这位明朝太监掌握着惊人的政治权力。"
+          },
+          {
+            "sentence": "European travelers often misunderstood the role of geldings in the Forbidden City.",
+            "sentence_zh": "欧洲旅行者常误解太监在紫禁城中的角色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "去势的雄马",
+        "examples": [
+          {
+            "sentence": "Olympic equestrian teams predominantly use geldings for competitions.",
+            "sentence_zh": "奥运马术队主要使用去势公马参赛。"
+          },
+          {
+            "sentence": "The black Mongolian gelding won three horse racing championships.",
+            "sentence_zh": "这匹黑色蒙古去势马赢过三次赛马冠军。"
+          }
+        ]
+      }
+    ],
+    "teach": "gelding背后是'马生艰难'🐎：古代战争会故意留种马配种，其他公马统统变'马公公'✂️。想吐槽'被阉割'可以说nutted（字面意思是'去坚果'），'丧失斗志'叫emasculated🌰。记住：现代职场里，PPT把创意变gelding的情况也不少呢📉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'割蛋哥'→专业去势师傅",
+        "易混词：gilding（镀金）vs gelding（阉割）→前者是表面功夫，后者是深刻改造"
+      ]
+    }
   }
 ]

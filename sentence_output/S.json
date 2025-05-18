@@ -11446,5 +11446,362 @@
         "易混词对比：sanity（神智健全）vs. sanity（卫生设施→sanitation）"
       ]
     }
+  },
+  {
+    "word": "sap",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语sæp→植物汁液，后引申为生命能量"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "树液",
+        "examples": [
+          {
+            "sentence": "Maple syrup is made from boiled sap of sugar maples.",
+            "sentence_zh": "枫糖浆是用糖枫树的树液熬煮而成。"
+          },
+          {
+            "sentence": "The birch tree's sap tastes like faintly sweet water.",
+            "sentence_zh": "白桦树的树液喝起来像微甜的清水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "活力",
+        "examples": [
+          {
+            "sentence": "After the marathon, he felt all his sap was gone.",
+            "sentence_zh": "跑完马拉松后，他觉得元气尽失。"
+          },
+          {
+            "sentence": "This traditional tonic claims to restore your vital sap.",
+            "sentence_zh": "这种传统补药号称能恢复活力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使衰竭",
+        "examples": [
+          {
+            "sentence": "The tropical heat sapped our energy like a vampire.",
+            "sentence_zh": "热带高温像吸血鬼般耗尽我们的体力。"
+          },
+          {
+            "sentence": "Endless meetings sap my creativity.",
+            "sentence_zh": "无尽的会议耗尽了创造力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "挖坑道",
+        "examples": [
+          {
+            "sentence": "The miners sapped under the castle walls.",
+            "sentence_zh": "矿工们在城堡墙下挖掘坑道。"
+          },
+          {
+            "sentence": "Ancient armies often sapped to bypass fortifications.",
+            "sentence_zh": "古代军队常挖坑道绕过防御工事。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sap one's strength",
+        "meaning": "消耗体力",
+        "examples": [
+          {
+            "sentence": "Panda parenting saps my strength more than gym workouts.",
+            "sentence_zh": "带娃比健身房更耗体力。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sapping morale",
+        "meaning": "打击士气",
+        "examples": [
+          {
+            "sentence": "The CEO's speech is sapping employee morale.",
+            "sentence_zh": "CEO的讲话正在打击员工士气。"
+          }
+        ]
+      }
+    ],
+    "teach": "sap是植物界的血包🩸！想象树液像维他命饮料💪（maple sap），被抽干就变蔫白菜🥀（sap energy）。军事迷注意：'挖坑道'来自古代把树液（sap）涂在隧道支架防蛀的战术🕳️。抱怨'被工作榨干'可以说：'This job is sucking my sap!' 记住：你的sap值决定你是充电宝还是停电宝！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛跑'→马拉松赛跑(sap)耗尽体力",
+        "易混词：sap vs sip（小口喝）→吸管(sip)喝树液(sap)"
+      ]
+    }
+  },
+  {
+    "word": "sapling",
+    "etymology": {
+      "breakdown": [
+        "sap",
+        "ling"
+      ],
+      "meaning_connection": "词根sap=树液（生命之源），后缀-ling表'小事物'→像婴儿一样需要树液滋养的小树"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "树苗",
+        "examples": [
+          {
+            "sentence": "The panda cub was sleeping against a bamboo sapling.",
+            "sentence_zh": "熊猫幼崽正靠着一株竹苗睡觉。"
+          },
+          {
+            "sentence": "Each primary student adopted a sakura sapling in the school garden.",
+            "sentence_zh": "每个小学生在校园里认养了一株樱花树苗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小树",
+        "examples": [
+          {
+            "sentence": "The iPhone was charged under a pine sapling during the picnic.",
+            "sentence_zh": "野餐时手机放在一棵小松树下充电。"
+          },
+          {
+            "sentence": "These maple saplings will turn fiery red in autumn.",
+            "sentence_zh": "这些枫树小苗到秋天会变得火红。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sapling stage",
+        "meaning": "幼苗期",
+        "examples": [
+          {
+            "sentence": "Startup companies are like in sapling stage needing careful nurturing.",
+            "sentence_zh": "初创公司如同处于幼苗期需要精心培育。"
+          }
+        ]
+      }
+    ],
+    "teach": "sapling其实是'树界小学生'🌱！古英语里sap指树的生命汁液，就像我们喝奶茶续命🧋。要说'保护树苗'地道表达是baby the saplings（像呵护婴儿），'歪脖子小树'叫leaning sapling就像长歪的绿萝🦒。记住：每棵参天大树都曾是爱喝树汁的sapling！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒葡萄ling'→阳光下晒葡萄藤的小树苗",
+        "易混词对比：seedling（刚发芽的幼苗）vs sapling（已成形的小树）",
+        "记忆tip：把-ling想象成《阿凡达》里的精灵树宝宝"
+      ]
+    }
+  },
+  {
+    "word": "sapper",
+    "etymology": {
+      "breakdown": [
+        "sap",
+        "er"
+      ],
+      "meaning_connection": "词根sap=挖掘（来自古法语sappe），-er表示'执行动作的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "坑道工兵",
+        "examples": [
+          {
+            "sentence": "The sappers built underground tunnels like giant mole engineers.",
+            "sentence_zh": "坑道工兵像巨型鼹鼠工程师般挖掘地下通道。"
+          },
+          {
+            "sentence": "Napoleon's sappers could dig faster than rabbits.",
+            "sentence_zh": "拿破仑的坑道工兵挖得比兔子还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地雷工兵",
+        "examples": [
+          {
+            "sentence": "Modern sappers use robots to detect landmines.",
+            "sentence_zh": "现代地雷工兵用机器人探测地雷。"
+          },
+          {
+            "sentence": "The sapper's job is like playing real-life Minesweeper.",
+            "sentence_zh": "地雷工兵的工作就像玩真人版扫雷游戏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "扫雷工兵",
+        "examples": [
+          {
+            "sentence": "UN sappers cleared 20,000 mines in Cambodia last year.",
+            "sentence_zh": "联合国扫雷工兵去年在柬埔寨清除了2万枚地雷。"
+          },
+          {
+            "sentence": "Each sapper carries a metal detector like a treasure hunter.",
+            "sentence_zh": "每个扫雷工兵都像寻宝者般带着金属探测器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "挖掘器",
+        "examples": [
+          {
+            "sentence": "This antique sapper was used to dig trenches in WWI.",
+            "sentence_zh": "这台古董挖掘器曾用于一战时挖战壕。"
+          },
+          {
+            "sentence": "The museum displays a sapper shaped like a giant claw.",
+            "sentence_zh": "博物馆展出了形似巨型爪子的挖掘器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "暗中破坏者",
+        "examples": [
+          {
+            "sentence": "Corporate sappers leaked confidential data to competitors.",
+            "sentence_zh": "商业间谍将机密数据泄露给竞争对手。"
+          },
+          {
+            "sentence": "That sapper in our team is like a Trojan horse.",
+            "sentence_zh": "我们团队里的内鬼就像特洛伊木马。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "combat sapper",
+        "meaning": "战斗工兵",
+        "examples": [
+          {
+            "sentence": "The combat sapper blew up the bridge with perfect timing.",
+            "sentence_zh": "战斗工兵以完美时机炸毁了桥梁。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sapper unit",
+        "meaning": "工兵部队",
+        "examples": [
+          {
+            "sentence": "The sapper unit built a bamboo bridge in 3 hours.",
+            "sentence_zh": "工兵部队用3小时搭建了竹桥。"
+          }
+        ]
+      }
+    ],
+    "teach": "sapper是战场上的土拨鼠🦫+拆弹专家💣！这个词来自法语'sappe'（挖地道），拿破仑的工兵能一夜挖通城墙⚒️。现代sapper既要会拆炸弹（defuse bombs）又要会搭浮桥（build pontoon bridges），说人'搞破坏'可以用sapper就像公司里的'007间谍'🕵️♂️。记住：真正的sapper左手拿铲子右手拿排雷器！",
+    "recite": {
+      "tips": [
+        "谐音梗：'三破'→连续突破三道防线",
+        "易混词：sapper vs. sniper（狙击手）",
+        "记忆口诀：SAP=Special Army Pioneer"
+      ]
+    }
+  },
+  {
+    "word": "sapphire",
+    "etymology": {
+      "breakdown": [
+        "sapphir",
+        "e"
+      ],
+      "meaning_connection": "源自希腊语'sappheiros'（蓝色宝石），经拉丁语进入英语，词尾-e无实义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "天蓝色的",
+        "examples": [
+          {
+            "sentence": "Her sapphire dress matched perfectly with the Maldives sea.",
+            "sentence_zh": "她天蓝色的裙子与马尔代夫海水完美相称。"
+          },
+          {
+            "sentence": "The sapphire sky after typhoon made everyone reach for their phones.",
+            "sentence_zh": "台风后天蓝色的天空让所有人都不约而同掏出手机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蓝宝石",
+        "examples": [
+          {
+            "sentence": "The sapphire in her ring was mined from Sri Lanka.",
+            "sentence_zh": "她戒指上的蓝宝石产自斯里兰卡。"
+          },
+          {
+            "sentence": "iPhone cameras use synthetic sapphire for lens protection.",
+            "sentence_zh": "iPhone摄像头使用人造蓝宝石保护镜头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "天蓝色",
+        "examples": [
+          {
+            "sentence": "Pantone announced Sapphire as the color of 2023.",
+            "sentence_zh": "潘通宣布天蓝色为2023年度色。"
+          },
+          {
+            "sentence": "The sapphire of twilight reminds me of Van Gogh's Starry Night.",
+            "sentence_zh": "暮色的天蓝色让我想起梵高的《星月夜》。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sapphire anniversary",
+        "meaning": "蓝宝石婚（结婚45周年）",
+        "examples": [
+          {
+            "sentence": "They celebrated their sapphire anniversary by renewing vows.",
+            "sentence_zh": "他们通过重温誓言庆祝蓝宝石婚。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sapphire blue",
+        "meaning": "宝蓝色",
+        "examples": [
+          {
+            "sentence": "The limited edition sneakers come in dazzling sapphire blue.",
+            "sentence_zh": "限量版运动鞋采用炫目的宝蓝色。"
+          }
+        ]
+      }
+    ],
+    "teach": "sapphire其实是'蓝朋友'💙！古希腊人以为所有蓝宝石都来自爱琴海🏝️（其实是斯里兰卡）。说'湛蓝'可以叫sapphire blue就像海南玻璃海🌊，'蓝瘦'叫feeling blue🦋。记住：蓝宝石硬度9仅次于钻石💎，就像打工人韧性仅次于老板！",
+    "recite": {
+      "tips": [
+        "谐音梗：'撒泼儿'→撒泼儿(sapphire)打滚要买蓝宝石",
+        "易混词：crystal（水晶）/diamond（钻石）",
+        "记忆tip：S+app+hire→手机app里hire(租)蓝宝石滤镜"
+      ]
+    }
   }
 ]

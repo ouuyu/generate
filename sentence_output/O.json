@@ -11279,5 +11279,290 @@
         "对比记忆：vs 'off'→‘of’是连接，‘off’是分离"
       ]
     }
+  },
+  {
+    "word": "offal",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fal"
+      ],
+      "meaning_connection": "前缀of=离开，古英语fal=掉落→原指屠宰后掉落的废弃部分"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "动物内脏（可食用部分）",
+        "examples": [
+          {
+            "sentence": "The Cantonese offal hotpot with duck intestines is legendary.",
+            "sentence_zh": "广东的鸭肠下水火锅堪称传奇。"
+          },
+          {
+            "sentence": "Beijingers consider fried liver a gourmet offal dish.",
+            "sentence_zh": "北京人视炒肝为下水美食。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "废弃物（不可食用部分）",
+        "examples": [
+          {
+            "sentence": "Butchers separate premium meat from bloody offal.",
+            "sentence_zh": "屠夫将优质肉与血淋淋的废料分开。"
+          },
+          {
+            "sentence": "The fish market recycles seafood offal as fertilizer.",
+            "sentence_zh": "海鲜市场把下脚料回收做肥料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "社会渣滓（比喻义）",
+        "examples": [
+          {
+            "sentence": "The corrupt official was called political offal by netizens.",
+            "sentence_zh": "网民称该贪官是政治垃圾。"
+          },
+          {
+            "sentence": "Gangsters treat homeless people as human offal.",
+            "sentence_zh": "黑帮把流浪者当人渣对待。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "offal meat",
+        "meaning": "杂碎肉",
+        "examples": [
+          {
+            "sentence": "The offal meat stall sells pig brains and chicken gizzards.",
+            "sentence_zh": "杂碎肉摊售卖猪脑和鸡胗。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "offal of society",
+        "meaning": "社会败类",
+        "examples": [
+          {
+            "sentence": "The drug dealer belongs to the offal of society.",
+            "sentence_zh": "这个毒贩属于社会渣滓。"
+          }
+        ]
+      }
+    ],
+    "teach": "offal是吃货的盲盒🧆：在广东叫'下水'是美味（牛杂汤🍲），在环保局叫'废料'要焚烧🚛，在社会新闻里变成'人渣'👊。说'我不吃内脏'英文是I don't do offal，'处理废料'叫dispose of offal要像垃圾分类♻️。记住：高尚or低贱，全看语境！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬沸哦'→熬煮沸腾的下水锅",
+        "易混词对比：offal vs. awful（前者是下水，后者是糟糕）"
+      ]
+    }
+  },
+  {
+    "word": "offbeat",
+    "etymology": {
+      "breakdown": [
+        "off",
+        "beat"
+      ],
+      "meaning_connection": "字面意义'偏离节拍'→音乐中的弱拍，引申为'偏离常规'的形容词含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不平常的",
+        "examples": [
+          {
+            "sentence": "Her offbeat fashion sense always turns heads at Milan Fashion Week.",
+            "sentence_zh": "她特立独行的时尚品味总能在米兰时装周引发关注。"
+          },
+          {
+            "sentence": "The cafe's offbeat decor features upside-down umbrellas on the ceiling.",
+            "sentence_zh": "这家咖啡馆用倒挂的雨伞做装饰，风格十分另类。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "离奇的",
+        "examples": [
+          {
+            "sentence": "The director's offbeat humor involves talking vegetables in his movies.",
+            "sentence_zh": "这位导演的怪诞幽默风格让蔬菜在他的电影里开口说话。"
+          },
+          {
+            "sentence": "An offbeat news story about a dancing squirrel went viral last week.",
+            "sentence_zh": "上周一则关于会跳舞松鼠的离奇新闻疯传网络。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不落俗套的",
+        "examples": [
+          {
+            "sentence": "His offbeat proposal involved skywriting instead of a diamond ring.",
+            "sentence_zh": "他用空中写字代替钻戒的求婚方式别出心裁。"
+          },
+          {
+            "sentence": "The startup's offbeat recruitment ad featured memes and emoji riddles.",
+            "sentence_zh": "这家初创公司用表情包谜题制作的招聘广告新颖有趣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "弱拍",
+        "examples": [
+          {
+            "sentence": "Jazz drummers often emphasize the offbeat to create syncopation.",
+            "sentence_zh": "爵士鼓手常通过强调弱拍来制造切分音。"
+          },
+          {
+            "sentence": "The reggae rhythm guitar typically plays on the offbeats.",
+            "sentence_zh": "雷鬼乐中的节奏吉他通常演奏在弱拍上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "offbeat comedy",
+        "meaning": "另类喜剧",
+        "examples": [
+          {
+            "sentence": "The film's offbeat comedy style divides audiences sharply.",
+            "sentence_zh": "这部电影的另类喜剧风格让观众评价两极分化。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "on the offbeat",
+        "meaning": "在弱拍上",
+        "examples": [
+          {
+            "sentence": "Dancers should step on the offbeat in this cha-cha routine.",
+            "sentence_zh": "跳这支恰恰舞时应在弱拍上踏步。"
+          }
+        ]
+      }
+    ],
+    "teach": "offbeat就像音乐界的叛逆少年🎸！当它表示'非常规'时，就像在交响乐里突然加入唢呐🎺（offbeat style）；作为'弱拍'时，就像广场舞大妈永远踩不准的节奏👟（miss the offbeat）。搭配'offbeat humor'形容周星驰式无厘头，'offbeat genius'形容爱因斯坦式怪才🧠。记住：人生有时候就该故意踩错拍子！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥夫比特'→奥特曼(off)打节奏(beat)很另类",
+        "对比记忆：mainbeat主流 vs offbeat非主流",
+        "视觉联想：把'off'想成开关关闭→关闭常规模式"
+      ]
+    }
+  },
+  {
+    "word": "offence",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fence"
+      ],
+      "meaning_connection": "前缀of-表示'对抗'，词根fence源自拉丁语'defendere'（防御）→原指突破防御的行为，引申出'攻击'和'冒犯'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "犯罪",
+        "examples": [
+          {
+            "sentence": "Pirating dramas is considered a criminal offence in many countries.",
+            "sentence_zh": "盗播影视剧在多国属于刑事犯罪。"
+          },
+          {
+            "sentence": "The CEO resigned after committing tax offences.",
+            "sentence_zh": "该CEO因税务犯罪问题辞职。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "冒犯",
+        "examples": [
+          {
+            "sentence": "His comment about regional cuisine caused great offence.",
+            "sentence_zh": "他对地方菜系的评价引发了强烈不满。"
+          },
+          {
+            "sentence": "No offence, but your haircut resembles a startled hedgehog.",
+            "sentence_zh": "无意冒犯，但你的发型像只受惊的刺猬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "违反",
+        "examples": [
+          {
+            "sentence": "Parking in bicycle lanes is an offence against traffic rules.",
+            "sentence_zh": "占用自行车道停放车辆属于交通违规。"
+          },
+          {
+            "sentence": "The company received fines for environmental offences.",
+            "sentence_zh": "该公司因环保违规被罚款。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "攻击",
+        "examples": [
+          {
+            "sentence": "The football team's offence strategy focuses on quick counterattacks.",
+            "sentence_zh": "该足球队的进攻战术主打快速反击。"
+          },
+          {
+            "sentence": "Cyber offence has become a new battlefield between nations.",
+            "sentence_zh": "网络攻击已成为国家间的新战场。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take offence",
+        "meaning": "感到被冒犯",
+        "examples": [
+          {
+            "sentence": "She took offence when her colleague ate her last dumpling.",
+            "sentence_zh": "同事吃掉她最后一个饺子时，她感到被冒犯了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "first offence",
+        "meaning": "初犯",
+        "examples": [
+          {
+            "sentence": "For first offences, the punishment is usually lighter.",
+            "sentence_zh": "对于初犯者，处罚通常较轻。"
+          }
+        ]
+      }
+    ],
+    "teach": "offence这个词就像辣椒酱🌶️——既能当武器（刑事犯罪），又能呛死人（言语冒犯）！英国法律把'随地吐痰'都算进summary offence（简易犯罪）👮♀️，而美式足球的offense队员就像古代攻城车🏈。记住：说'microaggression offence'比说'玻璃心'专业，形容'小过错'用petty offence比small mistake地道。得罪人时记得说no offence保命🛡️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噢烦死'→冒犯行为让人烦死",
+        "易混词：offence（英式） vs offense（美式）",
+        "记忆口诀：突破防线(fence)是攻击，越过底线即冒犯"
+      ]
+    }
   }
 ]

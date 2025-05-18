@@ -11184,5 +11184,342 @@
         "易混词对比：uncollected(未收/不安) vs. collected(镇定/已收集)"
       ]
     }
+  },
+  {
+    "word": "uncombed",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "comb",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，comb为梳理，-ed表形容词→未经梳理的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "没有梳过的",
+        "examples": [
+          {
+            "sentence": "The panda's uncombed fur made it look like a walking cotton candy.",
+            "sentence_zh": "熊猫没梳过的毛发让它像行走的棉花糖。"
+          },
+          {
+            "sentence": "After the roller coaster ride, her hair was completely uncombed.",
+            "sentence_zh": "坐完过山车后，她的头发完全没梳过似的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "乱蓬蓬的",
+        "examples": [
+          {
+            "sentence": "His uncombed morning hair resembled a bird's nest with twigs sticking out.",
+            "sentence_zh": "他早晨乱蓬蓬的头发像支着树枝的鸟窝。"
+          },
+          {
+            "sentence": "The stray cat's uncombed fur told stories of its adventures.",
+            "sentence_zh": "流浪猫乱蓬蓬的毛发诉说着它的冒险故事。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncombed是'鸡窝头'的学术说法🐔！就像被二哈拆过的毛线团🧶，或是台风过境的蒲公英田🌪️。说'头发乱'可以戏称bed head（起床头），形容炸毛用像静电球⚡。搭配：uncombed mustache（潦草胡子）/uncombed wool（蓬松羊毛），地道说法叫'look like a tumbleweed（像风滚草）'",
+    "recite": {
+      "tips": [
+        "谐音梗：'安康杯的'→比赛太激烈头发都uncombed了",
+        "易混词：untouched（未触碰的）",
+        "记忆tip：un+comb+ed=没+梳+的→三字经记法"
+      ]
+    }
+  },
+  {
+    "word": "uncomfortable",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "comfort",
+        "able"
+      ],
+      "meaning_connection": "前缀un-表否定，comfort来自拉丁语'confortare'（加强力量），-able表能力→字面意思是'无法获得力量的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不舒服的",
+        "examples": [
+          {
+            "sentence": "The new shoes made his feet feel like stepping on Lego bricks - terribly uncomfortable.",
+            "sentence_zh": "新鞋让他脚底像踩乐高积木般难受。"
+          },
+          {
+            "sentence": "Airplane seats are designed to be just uncomfortable enough to sell upgrades.",
+            "sentence_zh": "飞机座位被设计成恰好不舒服到让你想升舱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不自在的",
+        "examples": [
+          {
+            "sentence": "He shifted uncomfortably when his WeChat pay failed at the checkout.",
+            "sentence_zh": "微信支付失败时他在收银台前局促不安。"
+          },
+          {
+            "sentence": "The silence after dad discovered his stolen cola was gold-medal uncomfortable.",
+            "sentence_zh": "爸爸发现可乐被偷喝后的沉默令人如坐针毡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不安的",
+        "examples": [
+          {
+            "sentence": "That uncomfortable moment when you realize you've been singing wrong lyrics for years.",
+            "sentence_zh": "当发现唱错歌词多年时那种不安感。"
+          },
+          {
+            "sentence": "The teacher gave me an uncomfortable smile after catching me napping in class.",
+            "sentence_zh": "老师抓到我在课堂上打盹后露出令人不安的微笑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "feel uncomfortable",
+        "meaning": "感到不适",
+        "examples": [
+          {
+            "sentence": "I feel uncomfortable when strangers ask how much my salary is.",
+            "sentence_zh": "当陌生人问我工资多少时会感到不适。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "uncomfortable truth",
+        "meaning": "令人不安的真相",
+        "examples": [
+          {
+            "sentence": "The uncomfortable truth is your cat probably loves the delivery guy more than you.",
+            "sentence_zh": "残酷真相是你家猫可能比起你更爱快递小哥。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncomfortable是个'社死三件套'单词😅：物理上像穿反毛衣👔（physically uncomfortable），心理上像被长辈催婚💍（socially uncomfortable），精神上像发现自拍忘了关美颜📸（mentally uncomfortable）。地道表达'脚麻'叫pins and needles🧷，'尴尬癌发作'说cringe-worthy。记住：当代年轻人三大uncomfortable时刻——相亲、团建、家族群被@！",
+    "recite": {
+      "tips": [
+        "谐音梗：'安康佛桌布'→摆在佛桌上的布让人坐不安康",
+        "易混词对比：comfortable（舒适的） vs uncomfortable（不适的）像空调遥控器的两个按钮❄️🔥"
+      ]
+    }
+  },
+  {
+    "word": "uncomfortably",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "comfort",
+        "ably"
+      ],
+      "meaning_connection": "前缀un-表否定，comfort源自拉丁语'confortare'（加强力量），-ably将形容词转为副词→字面义'无法被加强力量的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不舒适地",
+        "examples": [
+          {
+            "sentence": "The subway was so crowded that people stood uncomfortably like canned sardines.",
+            "sentence_zh": "地铁拥挤到人们像沙丁鱼罐头般不舒适地站立。"
+          },
+          {
+            "sentence": "He slept uncomfortably on the overnight train with his legs curled up.",
+            "sentence_zh": "他在过夜火车上蜷着腿不舒适地睡觉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不自在地",
+        "examples": [
+          {
+            "sentence": "The intern shifted uncomfortably when asked about the missing files.",
+            "sentence_zh": "实习生被问及丢失文件时不自在地换着姿势。"
+          },
+          {
+            "sentence": "She laughed uncomfortably at her boss's dad joke.",
+            "sentence_zh": "她对老板的冷笑话报以不自在的干笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "令人不快地",
+        "examples": [
+          {
+            "sentence": "The durian smell spread uncomfortably through the office elevator.",
+            "sentence_zh": "榴莲味令人不快地在办公电梯里蔓延。"
+          },
+          {
+            "sentence": "His comments landed uncomfortably in the middle of the celebration.",
+            "sentence_zh": "他的发言在庆祝活动中令人不快地出现。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "uncomfortably close",
+        "meaning": "近到尴尬的距离",
+        "examples": [
+          {
+            "sentence": "The celebrity's bodyguard stood uncomfortably close to the fans.",
+            "sentence_zh": "明星保镖站得离粉丝近到令人尴尬。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "uncomfortably silent",
+        "meaning": "令人不适的沉默",
+        "examples": [
+          {
+            "sentence": "The meeting room became uncomfortably silent after the CEO's question.",
+            "sentence_zh": "CEO提问后会议室陷入令人不适的沉默。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncomfortably就像穿反的毛衣👔！它描述三种'难受'：1)物理难受→如同坐在公园的石凳上看两小时广场舞💃；2)社交尴尬→好比相亲时对方突然开始背圆周率🧠；3)气氛凝重→像家族群突然转发'不转不是中国人'🇨🇳。搭配'awkwardly silent'比'安静得可怕'更地道，说'浑身不自在'可以用itchy all over🐛",
+    "recite": {
+      "tips": [
+        "谐音梗：'安康佛特波里'→去安康拜佛特不舒服(uncomfortably)",
+        "易混词对比：uneasy侧重心理不安，uncomfortable侧重身体不适",
+        "记忆tip：想象UN(联合国)+comfort(舒适)+ably→联合国开会时那些令人不适的瞬间"
+      ]
+    }
+  },
+  {
+    "word": "uncommitted",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "commit",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，commit源于拉丁语committere（委托），-ed表形容词→'未被托付/约束的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "未遂的",
+        "examples": [
+          {
+            "sentence": "The uncommitted crime was discovered through WeChat chat records.",
+            "sentence_zh": "通过微信聊天记录发现了这起未遂犯罪。"
+          },
+          {
+            "sentence": "His uncommitted joke about stealing mooncakes caused panic.",
+            "sentence_zh": "他关于偷月饼的未遂玩笑引发了恐慌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不受约束的",
+        "examples": [
+          {
+            "sentence": "Gen Z prefers uncommitted relationships like shared bike memberships.",
+            "sentence_zh": "Z世代更喜欢共享单车会员式的不受约束的关系。"
+          },
+          {
+            "sentence": "The influencer maintains an uncommitted stance on hotpot dipping sauces.",
+            "sentence_zh": "这位网红对火锅蘸料保持不受约束的立场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "独立的",
+        "examples": [
+          {
+            "sentence": "This uncommitted AI model refuses to endorse any milk tea brand.",
+            "sentence_zh": "这个独立运行的AI模型拒绝为任何奶茶品牌站台。"
+          },
+          {
+            "sentence": "Her uncommitted research on spicy hotpot won the Ig Nobel Prize.",
+            "sentence_zh": "她关于麻辣火锅的独立研究获得了搞笑诺贝尔奖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "自由的",
+        "examples": [
+          {
+            "sentence": "The uncommitted programmer quit to sell stinky tofu freely.",
+            "sentence_zh": "那个自由的程序员辞职去自由地卖臭豆腐了。"
+          },
+          {
+            "sentence": "Pandas live an uncommitted life except during bamboo shortage.",
+            "sentence_zh": "除了缺竹子时，熊猫都过着自由的生活。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未被监禁的",
+        "examples": [
+          {
+            "sentence": "The uncommitted hacker now teaches cybersecurity on Bilibili.",
+            "sentence_zh": "那个未被监禁的黑客现在在B站教网络安全。"
+          },
+          {
+            "sentence": "All suspects remain uncommitted due to lack of spicy hotpot evidence.",
+            "sentence_zh": "由于缺乏麻辣火锅证据，所有嫌疑人仍未被监禁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remain uncommitted",
+        "meaning": "保持中立",
+        "examples": [
+          {
+            "sentence": "The judge remained uncommitted in the debate over sweet vs salty tofu pudding.",
+            "sentence_zh": "法官在甜咸豆花之争中保持中立。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "politically uncommitted",
+        "meaning": "政治独立的",
+        "examples": [
+          {
+            "sentence": "This politically uncommitted vlogger only cares about fried chicken rankings.",
+            "sentence_zh": "这个政治独立的博主只关心炸鸡排行榜。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncommitted就像薛定谔的猫🐱！既可以是没干成的坏事（未遂犯罪），也可以是快乐的单身狗🐶（不受约束）。当你说'I'm uncommitted'时：老板觉得你自由散漫💼，对象觉得你要分手💔，程序员觉得代码没保存💻！记住：'不站队'叫sit on the fence，'自由职业'说gig economy🛵。",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看密的'→俺看密的(uncommitted)文件还没提交",
+        "易混词对比：uncommitted vs unattached（后者专指感情状态）",
+        "记忆tip：UN（联合国）+ committed→联合国不站队任何国家"
+      ]
+    }
   }
 ]

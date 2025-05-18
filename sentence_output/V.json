@@ -11770,5 +11770,332 @@
         "易混词：ventricle（室） vs vestibule（前厅）"
       ]
     }
+  },
+  {
+    "word": "ventricular",
+    "etymology": {
+      "breakdown": [
+        "ventric",
+        "ul",
+        "ar"
+      ],
+      "meaning_connection": "词根ventric=腹部/腔室（来自拉丁语venter），-ul指小，-ar表形容词→'小腔室的'，既指心脏心室也形容膨胀形态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "心室的",
+        "examples": [
+          {
+            "sentence": "The doctor detected ventricular fibrillation during the check-up.",
+            "sentence_zh": "体检时医生检测到心室颤动。"
+          },
+          {
+            "sentence": "Left ventricular hypertrophy is common among long-term spicy food lovers.",
+            "sentence_zh": "左心室肥厚在长期嗜辣人群中较为常见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "膨胀的",
+        "examples": [
+          {
+            "sentence": "The ventricular shape of this balloon resembles a beating heart.",
+            "sentence_zh": "气球膨胀的形状类似跳动的心脏。"
+          },
+          {
+            "sentence": "Artists often use ventricular glass bulbs to create organic lighting effects.",
+            "sentence_zh": "艺术家常用膨胀玻璃球营造有机光效。"
+          }
+        ]
+      }
+    ],
+    "teach": "ventricular是心脏科医生的口头禅❤️‍🩹：想象心室就像疯狂踩单车的仓鼠轮子🐹（ventricular tachycardia室速），而'膨胀'义项来自吹泡泡糖爆破瞬间💥。搭配说'ventricular septum（室间隔）'就像心脏的承重墙🧱，'ventricular dilation'则是气球吹太大要爆炸的医学说法🎈。记住：看到-tric就想到三维空间结构！",
+    "recite": {
+      "tips": [
+        "词根联想：ventric≈vent（通风口）+tric（三维）→有空间的",
+        "易混词对比：atrial（心房的）vs ventricular（心室的）如同楼上楼下邻居"
+      ]
+    }
+  },
+  {
+    "word": "ventriloquist",
+    "etymology": {
+      "breakdown": [
+        "ventr",
+        "loqu",
+        "ist"
+      ],
+      "meaning_connection": "词根ventr=腹部（古认为声音来自腹部），loqu=说话，-ist表人→'用肚子说话的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "口技艺人",
+        "examples": [
+          {
+            "sentence": "The ventriloquist made his dummy complain about Beijing traffic jams.",
+            "sentence_zh": "口技艺人让木偶吐槽北京堵车。"
+          },
+          {
+            "sentence": "During the Spring Festival Gala, the ventriloquist's panda puppet stole the show.",
+            "sentence_zh": "春晚舞台上，口技艺人的熊猫木偶成了焦点。"
+          }
+        ]
+      }
+    ],
+    "teach": "ventriloquist是腹语大师🎭！古代人以为声音是从肚子(ventr)发出的，就像武侠小说的传音入密🗣️。搭配：'throw voice'（抛声音）指腹语技巧，'dummy partner'（木偶搭档）。地道说法叫'belly speaker'（用肚子说话的人）🤥。记住：真正的ventriloquist从不会'露馅'（show stitches）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'吻腿快撕他'→腹语师吻木偶腿时被快撕（ventriloquist）",
+        "易混词：ventriloquist（腹语师） vs. vocalist（歌手）"
+      ]
+    }
+  },
+  {
+    "word": "venture",
+    "etymology": {
+      "breakdown": [
+        "vent",
+        "ure"
+      ],
+      "meaning_connection": "词根vent=来/去（拉丁语venire），-ure表行为→原指'到来的事物'，引申为'未知的风险'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "冒险",
+        "examples": [
+          {
+            "sentence": "Starting a hotpot restaurant during the pandemic was a bold venture.",
+            "sentence_zh": "疫情期间开火锅店是场大胆的冒险。"
+          },
+          {
+            "sentence": "Their jungle venture involved wrestling with coconuts.",
+            "sentence_zh": "他们的丛林冒险包括与椰子搏斗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "风险",
+        "examples": [
+          {
+            "sentence": "Investing in meme stocks is a financial venture not for the faint-hearted.",
+            "sentence_zh": "投资网红股是胆小者勿碰的财务风险。"
+          },
+          {
+            "sentence": "The venture of eating street food without checking the hygiene rating first.",
+            "sentence_zh": "不看卫生评级就吃街边摊是有风险的行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "敢于",
+        "examples": [
+          {
+            "sentence": "She ventured a question about the CEO's weird tie.",
+            "sentence_zh": "她鼓起勇气问了CEO关于他奇怪领带的问题。"
+          },
+          {
+            "sentence": "No one ventured to correct the professor's dinosaur facts.",
+            "sentence_zh": "没人敢纠正教授的恐龙知识错误。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "冒...的危险",
+        "examples": [
+          {
+            "sentence": "They ventured their savings on a bubble tea franchise.",
+            "sentence_zh": "他们冒着存款风险投资奶茶加盟店。"
+          },
+          {
+            "sentence": "Don't venture your health by pulling all-nighters for video games.",
+            "sentence_zh": "别为打游戏熬夜而冒健康风险。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "冒险",
+        "examples": [
+          {
+            "sentence": "We ventured into the haunted house armed only with a flashlight app.",
+            "sentence_zh": "我们仅凭手机手电筒APP就闯进了鬼屋。"
+          },
+          {
+            "sentence": "He ventured abroad with just three pairs of socks and a panda-shaped USB.",
+            "sentence_zh": "他只带了三双袜子和熊猫U盘就出国冒险了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "joint venture",
+        "meaning": "合资企业",
+        "examples": [
+          {
+            "sentence": "The TikTok-KFC joint venture created spicy chicken flavored dance challenges.",
+            "sentence_zh": "抖音与肯德基的合资企业推出了辣鸡风味舞蹈挑战。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "venture out",
+        "meaning": "冒险外出",
+        "examples": [
+          {
+            "sentence": "We ventured out during the typhoon to buy milk tea, and instantly regretted it.",
+            "sentence_zh": "我们台风天冒险出门买奶茶，立刻后悔了。"
+          }
+        ]
+      }
+    ],
+    "teach": "venture是商业版神庙逃亡🏃！词根vent-就像地铁'到站提醒'🚇（coming），-ure就像突然出现的障碍物💥。说'风险投资'用venture capital时，想象VC大佬们在玩真人版黄金矿工⚒️。搭配：1) venture an opinion像在雷区发言💣 2) venture into如同跳进未知的火锅汤底🌶️。地道表达：'作死'叫tempt fate，比如venturing out in pajamas（穿睡衣出门作死）",
+    "recite": {
+      "tips": [
+        "谐音梗：'闻车'→闻到危险还上车（venture）",
+        "易混词对比：adventure（娱乐性冒险）vs venture（风险性行为）",
+        "记忆tip：V字仇杀队面具→V字开头总在冒险"
+      ]
+    }
+  },
+  {
+    "word": "venturi",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自意大利物理学家Giovanni Venturi（1746-1822）姓氏命名，纪念其对流体力学研究的贡献"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "文氏管",
+        "examples": [
+          {
+            "sentence": "The venturi in your espresso machine creates the perfect pressure for creamy foam.",
+            "sentence_zh": "咖啡机里的文氏管能产生完美压力以制作绵密奶泡。"
+          },
+          {
+            "sentence": "Ancient Chinese incense burners used primitive venturi principles to circulate smoke.",
+            "sentence_zh": "中国古代香炉运用原始文氏管原理实现烟雾循环。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "文丘里管",
+        "examples": [
+          {
+            "sentence": "High-speed trains use venturi tubes to measure air flow resistance.",
+            "sentence_zh": "高铁采用文丘里管测量空气流动阻力。"
+          },
+          {
+            "sentence": "The venturitube in this prototype looks like a giant saxophone.",
+            "sentence_zh": "这个原型机里的文丘里管像个巨型萨克斯管。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "venturi effect",
+        "meaning": "文丘里效应",
+        "examples": [
+          {
+            "sentence": "Perfume atomizers work based on the venturi effect.",
+            "sentence_zh": "香水喷雾器的工作原理基于文丘里效应。"
+          }
+        ]
+      }
+    ],
+    "teach": "venturi其实是流体力学界的'吸管效应'🥤！就像你猛嘬珍珠奶茶时珍珠会冲上来，文氏管利用收缩段加速流体产生低压区🌪️。搭配说'venturi meter'（测流神器）或'venturi mask'（医用氧罩），吐槽'堵车'可以幽默说traffic venturi effect🚗💨。记住：所有让流体'憋屈'的管道都是venturi的好学生！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闻吐里'→闻到奇怪味道就往管子里吐(venturi)",
+        "易混词对比：venturi（管状结构）vs. ventricle（心脏心室）"
+      ]
+    }
+  },
+  {
+    "word": "venue",
+    "etymology": {
+      "breakdown": [
+        "ven",
+        "ue"
+      ],
+      "meaning_connection": "词根ven=来（同venue的'come'），-ue表地点→原指'聚集的场所'，后衍生出事件发生地含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "犯罪地点",
+        "examples": [
+          {
+            "sentence": "The detective arrived at the venue of the cybercrime within 20 minutes.",
+            "sentence_zh": "侦探20分钟内就赶到了网络犯罪的实施地点。"
+          },
+          {
+            "sentence": "Fingerprints found at the venue matched the suspect's WeChat payment records.",
+            "sentence_zh": "犯罪现场发现的指纹与嫌疑人的微信支付记录吻合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "审判地",
+        "examples": [
+          {
+            "sentence": "The high-profile case's venue was moved to avoid livestream interference.",
+            "sentence_zh": "这起备受关注的案件变更了审判地以避免直播干扰。"
+          },
+          {
+            "sentence": "Douyin bloggers crowded outside the venue during the trial.",
+            "sentence_zh": "庭审期间抖音博主们挤满了法庭外围。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发生地点",
+        "examples": [
+          {
+            "sentence": "The Beijing Winter Olympics venue became a hot check-in spot on Xiaohongshu.",
+            "sentence_zh": "北京冬奥会场馆成了小红书上的热门打卡地。"
+          },
+          {
+            "sentence": "This ancient theater is now the venue for viral Hanfu dance challenges.",
+            "sentence_zh": "这座古戏台如今成了汉服舞蹈挑战赛的举办地。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "change of venue",
+        "meaning": "更换场地",
+        "examples": [
+          {
+            "sentence": "The concert's change of venue caused 50,000 refund requests on Damai.cn.",
+            "sentence_zh": "演唱会场地变更导致大麦网收到5万份退票申请。"
+          }
+        ]
+      }
+    ],
+    "teach": "venue是'来去自如'的场所📍：从犯罪现场🕵️到演唱会舞台🎤，再到火锅店离婚谈判桌🍲（是的，成都真有过火锅店法庭！）。说'事发地'用scene of incident更正式，吐槽场地差可以说dump（垃圾堆）🚮。记住：人生三大venue——出生医院🏥、结婚民政局💒、火葬场🔥。",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂牛'→在案发现场喂牛(venue)",
+        "易混词对比：venue（事件发生地）vs. vase（花瓶）"
+      ]
+    }
   }
 ]

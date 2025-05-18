@@ -11560,5 +11560,297 @@
         "易混词对比：acceptor（接收者）vs. accessor（装饰配件）"
       ]
     }
+  },
+  {
+    "word": "access",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cess"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cess表示'行走'→原指接近的路径，引申出'入口'和'使用权'等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "通路",
+        "examples": [
+          {
+            "sentence": "The mountain access was blocked by a giant panda taking selfies.",
+            "sentence_zh": "登山通道被一只自拍的大熊猫挡住了。"
+          },
+          {
+            "sentence": "Fire escapes provide emergency access in buildings.",
+            "sentence_zh": "消防通道为建筑物提供紧急通路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "入口",
+        "examples": [
+          {
+            "sentence": "VIP access to the concert is through the golden tunnel.",
+            "sentence_zh": "演唱会VIP入口是穿过金色隧道。"
+          },
+          {
+            "sentence": "The subway access is hidden behind a bubble tea shop.",
+            "sentence_zh": "地铁入口藏在奶茶店后面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "接近",
+        "examples": [
+          {
+            "sentence": "Celebrities often limit fans' access during private time.",
+            "sentence_zh": "明星在私人时间常限制粉丝接近。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "使用权",
+        "examples": [
+          {
+            "sentence": "Employees have free access to the rooftop hotpot area.",
+            "sentence_zh": "员工可免费使用天台火锅区。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "访问",
+        "examples": [
+          {
+            "sentence": "Over 1 billion users access WeChat daily.",
+            "sentence_zh": "超10亿用户每天访问微信。"
+          },
+          {
+            "sentence": "She accessed the recipe while cooking hotpot.",
+            "sentence_zh": "她边煮火锅边查阅食谱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "接近",
+        "examples": [
+          {
+            "sentence": "The new highway accesses remote villages.",
+            "sentence_zh": "新高速公路可接近偏远村落。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "have access to",
+        "meaning": "有权使用",
+        "examples": [
+          {
+            "sentence": "Students have access to the library 24/7 during finals.",
+            "sentence_zh": "期末期间学生可24小时使用图书馆。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gain access",
+        "meaning": "获得权限",
+        "examples": [
+          {
+            "sentence": "Hackers gained access to the database through a loophole.",
+            "sentence_zh": "黑客通过漏洞获得数据库权限。"
+          }
+        ]
+      }
+    ],
+    "teach": "access就像万能钥匙🔑：当名词是'通道'（像火锅店VIP入口🚪），当动词是'进入'（像刷脸进支付宝📱）。'没权限'说no access就像被关在奶茶店外🥤，'后台权限'叫backstage access像明星化妆间💄。记住：物理通道用access，数字权限也用access！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞死'→爱塞车就找不到access",
+        "对比：approach强调接近动作，access侧重进入权利"
+      ]
+    }
+  },
+  {
+    "word": "accessibility",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cess",
+        "ibility"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cess表示'行走'，-ibility表'可能性'→能够走到某处的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "易接近",
+        "examples": [
+          {
+            "sentence": "The accessibility of this scenic spot makes it popular with elderly tourists.",
+            "sentence_zh": "这个景点的易接近性使其深受老年游客喜爱。"
+          },
+          {
+            "sentence": "The new subway line greatly improves the accessibility of the museum.",
+            "sentence_zh": "新地铁线极大提升了博物馆的易接近性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "可进入",
+        "examples": [
+          {
+            "sentence": "The accessibility of the building meets international standards for wheelchair users.",
+            "sentence_zh": "该建筑的可进入性符合国际轮椅使用标准。"
+          },
+          {
+            "sentence": "The 24-hour accessibility of convenience stores saves many night owls.",
+            "sentence_zh": "便利店24小时可进入的特性拯救了许多夜猫子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accessibility feature",
+        "meaning": "无障碍功能",
+        "examples": [
+          {
+            "sentence": "Smartphones now have voice-over accessibility features for the visually impaired.",
+            "sentence_zh": "智能手机现在为视障人士配备了语音播报无障碍功能。"
+          }
+        ]
+      }
+    ],
+    "teach": "accessibility就像城市盲道👨🦯：词根cess是'走'（process是向前走），-ibility是'可能性'，连起来就是'能走过去'的特质！北京故宫加装轮椅坡道♿️就是improve accessibility，而'操作简便'可以说user-friendly accessibility。记住：好的accessibility应该像火锅店一样——谁都能涮🥢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞塞'→爱塞塞(accessibility)的地方容易进",
+        "易混词对比：availability（可用性）强调存在，accessibility强调可达",
+        "联想记忆：AC（空调）+CESS（厕所）+IBILITY→有空调的厕所最容易找到"
+      ]
+    }
+  },
+  {
+    "word": "accessible",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cess",
+        "ible"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cess表示'行走'，-ible表'可...的'→字面意思是'可以走到的'，引申出各种可达性含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "易接近的",
+        "examples": [
+          {
+            "sentence": "The CEO keeps her office accessible to all employees.",
+            "sentence_zh": "这位CEO的办公室对所有员工都容易接近。"
+          },
+          {
+            "sentence": "Pandas in Chengdu Research Base are accessible within 2 meters.",
+            "sentence_zh": "成都基地的大熊猫可以在两米内近距离接触。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可进入的",
+        "examples": [
+          {
+            "sentence": "The newly built subway makes the airport accessible in 20 minutes.",
+            "sentence_zh": "新建的地铁使得机场20分钟即可到达。"
+          },
+          {
+            "sentence": "This ancient temple is only accessible by donkey in rainy seasons.",
+            "sentence_zh": "这座古庙雨季只能骑驴进入。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可使用的",
+        "examples": [
+          {
+            "sentence": "All public toilets in Beijing are now accessible with health codes.",
+            "sentence_zh": "北京所有公厕现在持健康码均可使用。"
+          },
+          {
+            "sentence": "The library's e-resources are accessible 24/7 with student ID.",
+            "sentence_zh": "图书馆电子资源凭学生证全天候可用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "易受影响的",
+        "examples": [
+          {
+            "sentence": "Teenagers are more accessible to peer pressure when choosing sneakers.",
+            "sentence_zh": "青少年选择运动鞋时更容易受同伴影响。"
+          },
+          {
+            "sentence": "The celebrity's reputation proved accessible to online rumors.",
+            "sentence_zh": "事实证明这位名人的声誉容易受网络谣言影响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可理解的",
+        "examples": [
+          {
+            "sentence": "This AI tutorial presents complex algorithms in accessible language.",
+            "sentence_zh": "这个AI教程用通俗语言讲解复杂算法。"
+          },
+          {
+            "sentence": "The professor made quantum physics accessible with WeChat meme examples.",
+            "sentence_zh": "教授用微信表情包例子让量子物理变得易懂。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accessible to",
+        "meaning": "对...开放/可用",
+        "examples": [
+          {
+            "sentence": "The Great Wall wheelchair-accessible routes are accessible to disabled visitors.",
+            "sentence_zh": "长城无障碍通道对残障游客开放。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "make accessible",
+        "meaning": "使可及",
+        "examples": [
+          {
+            "sentence": "Shared bikes have made last-mile transportation accessible in cities.",
+            "sentence_zh": "共享单车让城市最后一公里交通变得可及。"
+          }
+        ]
+      }
+    ],
+    "teach": "accessible就像万能钥匙🔑：物理上能打开故宫侧门（accessible entrance），数字上能解锁VIP课程（accessible content），心理上能被星座运势说服（accessible mind），最后还能把微积分讲得像奶茶配方🧋（accessible explanation）。要吐槽'太难了'就说'It's not beginner-accessible'，夸设计贴心可以说'user-accessible'📱。记住：-ible结尾都自带'可...性'光环✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞塞吧'→爱塞东西的人总想让储物间accessible",
+        "易混词对比：accessible（可达的） vs. acceptable（可接受的）",
+        "记忆tip：把-cess-想成'塞子'，拔掉塞子就能accessible"
+      ]
+    }
   }
 ]

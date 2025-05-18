@@ -11366,5 +11366,288 @@
         "对比记忆：knotty（多节的）vs naughty（淘气的）→淘气包把绳子弄knotty"
       ]
     }
+  },
+  {
+    "word": "know",
+    "etymology": {
+      "breakdown": [
+        "kn",
+        "ow"
+      ],
+      "meaning_connection": "源自古英语cnāwan，与德语kennen同源，原始印欧语词根*gno-表示'知道'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "知道",
+        "examples": [
+          {
+            "sentence": "Every Chinese kid knows how to use chopsticks before they know ABC.",
+            "sentence_zh": "每个中国小孩在认识字母前就知道用筷子。"
+          },
+          {
+            "sentence": "Do you know the WiFi password? My phone is dying to post WeChat moments.",
+            "sentence_zh": "你知道WiFi密码吗？我手机急着发朋友圈呢。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "了解",
+        "examples": [
+          {
+            "sentence": "Foreigners who know Chinese cuisine always ask for the real Mapo tofu.",
+            "sentence_zh": "了解中国菜的外国人都会点正宗的麻婆豆腐。"
+          },
+          {
+            "sentence": "She knows the subway system better than her own palm lines.",
+            "sentence_zh": "她对地铁线路的了解比掌纹还清楚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "认识",
+        "examples": [
+          {
+            "sentence": "I've known Uncle Wang since he was selling malt candy on our street.",
+            "sentence_zh": "从王叔在我们街边卖麦芽糖时我就认识他了。"
+          },
+          {
+            "sentence": "Do you know the girl who always wears hanfu to the wet market?",
+            "sentence_zh": "你认识那个总穿汉服去菜场的姑娘吗？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "确信",
+        "examples": [
+          {
+            "sentence": "We all know for sure that bubble tea is liquid happiness.",
+            "sentence_zh": "我们都确信奶茶是液态的快乐。"
+          },
+          {
+            "sentence": "He knew beyond doubt that the spicy hotpot would haunt him tomorrow.",
+            "sentence_zh": "他十分确信这顿麻辣火锅明天会来复仇。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "know by heart",
+        "meaning": "熟记",
+        "examples": [
+          {
+            "sentence": "Every Chinese student knows the multiplication table by heart.",
+            "sentence_zh": "每个中国学生都熟记乘法口诀表。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "know the ropes",
+        "meaning": "懂行",
+        "examples": [
+          {
+            "sentence": "It takes 3 months to know the ropes in a new company.",
+            "sentence_zh": "在新公司摸清门道要三个月。"
+          }
+        ]
+      }
+    ],
+    "teach": "know这个词就像包打听🧠！当古人说'I know'时，其实在说'我脑中有结绳记事📜'（词根gno-与knot同源）。'知道'就像存了1000个微信表情包💾，'认识'像扫码加了好友📱，'确信'则是收到红包时的确定按钮✅。地道说法：'门儿清'叫know inside out，'略懂'是know a thing or two。记住：真正的know是既能背《论语》又能讲段子🤹！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹'→知道(know)太多容易闹心",
+        "易混词：recognize（认出）vs. know（认识）",
+        "记忆法：K+NOW=Knowledge现在式"
+      ]
+    }
+  },
+  {
+    "word": "knowable",
+    "etymology": {
+      "breakdown": [
+        "know",
+        "able"
+      ],
+      "meaning_connection": "know=知道，-able=能够...的→能够被知道的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可知的",
+        "examples": [
+          {
+            "sentence": "The origin of universe is not entirely knowable by current science.",
+            "sentence_zh": "宇宙起源并非当前科学完全可知的。"
+          },
+          {
+            "sentence": "Her true feelings became knowable through her diary.",
+            "sentence_zh": "通过日记，她的真实情感变得可知。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "能认识的",
+        "examples": [
+          {
+            "sentence": "Basic math concepts are knowable to kindergarten children.",
+            "sentence_zh": "幼儿园孩子也能认识基础数学概念。"
+          },
+          {
+            "sentence": "The knowable world is limited by our senses.",
+            "sentence_zh": "我们能认识的世界受感官限制。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "易知的",
+        "examples": [
+          {
+            "sentence": "The rules of this game are simple and knowable in minutes.",
+            "sentence_zh": "这个游戏的规则简单，几分钟就能易知。"
+          },
+          {
+            "sentence": "Her phone password was too obvious and easily knowable.",
+            "sentence_zh": "她的手机密码太明显，很容易被知道。"
+          }
+        ]
+      }
+    ],
+    "teach": "knowable就像薛定谔的猫🐱：在被观察前既可知又不可知！哲学家康德说'物自体'不可知(noumenon)，但'现象'是knowable的👓。搭配'make sth knowable'像揭开火锅盖🥘，'remain unknowable'像未解密的手机📱。记住：连黑洞照片都变knowable了，还有啥不能'知'？",
+    "recite": {
+      "tips": [
+        "谐音梗：'弄A博'→弄明白A博士的理论(knowable)",
+        "对比记忆：knowable vs unknowable 就像 WiFi信号强弱📶"
+      ]
+    }
+  },
+  {
+    "word": "knower",
+    "etymology": {
+      "breakdown": [
+        "know",
+        "er"
+      ],
+      "meaning_connection": "know表示'知道'，后缀-er表示'...的人'→'知道的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "认识者",
+        "examples": [
+          {
+            "sentence": "The old fisherman is a true knower of sea currents.",
+            "sentence_zh": "这位老渔夫是真正的洋流认识者。"
+          },
+          {
+            "sentence": "As a knower of five dialects, she navigates China like a human GPS.",
+            "sentence_zh": "作为五种方言的认识者，她像人肉导航般穿梭中国。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "理解者",
+        "examples": [
+          {
+            "sentence": "Laozi described the sage as a knower of the Tao.",
+            "sentence_zh": "老子将圣人描述为道的理解者。"
+          },
+          {
+            "sentence": "Good teachers are knowers of students' unspoken worries.",
+            "sentence_zh": "优秀的教师是学生未言之忧的理解者。"
+          }
+        ]
+      }
+    ],
+    "teach": "knower其实是'知道侠'🦸！就像《天龙八部》里的王语嫣熟记天下武功📚（ultimate knower），或者你家楼下通晓所有八卦的保安大爷👴（neighborhood knower）。搭配'qualified knower'（合格知情者）和'self-knower'（有自知之明者），说'不懂装懂'可以用fake knower装懂侠🥸。记住：真正的knower都像百科全书成精！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弄明白儿'→东北knower把事情弄明白儿",
+        "对比：knower(深度理解者) vs. learner(初学者)"
+      ]
+    }
+  },
+  {
+    "word": "knowing",
+    "etymology": {
+      "breakdown": [
+        "know",
+        "ing"
+      ],
+      "meaning_connection": "know表示'知道'，-ing构成形容词→表示'知晓一切的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "博学的",
+        "examples": [
+          {
+            "sentence": "With a knowing smile, the librarian handed me the exact book I needed.",
+            "sentence_zh": "图书管理员带着博学的微笑，递给我恰好需要的书。"
+          },
+          {
+            "sentence": "The knowing professor could discuss both quantum physics and Tang poetry.",
+            "sentence_zh": "这位博学的教授既能谈量子物理又能聊唐诗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "聪颖的",
+        "examples": [
+          {
+            "sentence": "Her knowing eyes sparkled when solving the riddle in 3 seconds.",
+            "sentence_zh": "她解出谜题时，聪颖的双眼在3秒内就闪出光芒。"
+          },
+          {
+            "sentence": "The knowing child secretly fixed the router before adults noticed.",
+            "sentence_zh": "这个聪颖的孩子在大人们发现前就悄悄修好了路由器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "精明的",
+        "examples": [
+          {
+            "sentence": "The knowing investor sold all crypto before the market crashed.",
+            "sentence_zh": "这个精明的投资者在市场崩盘前抛售了所有加密货币。"
+          },
+          {
+            "sentence": "With a knowing nod, the merchant accepted the perfect bargaining price.",
+            "sentence_zh": "商人精明地点点头，接受了这个完美的砍价金额。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "knowing look",
+        "meaning": "心照不宣的眼神",
+        "examples": [
+          {
+            "sentence": "They exchanged knowing looks when the boss mentioned 'team building'.",
+            "sentence_zh": "当老板提到'团建'时，他们交换了心照不宣的眼神。"
+          }
+        ]
+      }
+    ],
+    "teach": "knowing是'移动的百科全书'📚+'福尔摩斯式洞察'🕵️♂️+'华尔街之狼'🐺的混合体！它源自'know'，就像《生活大爆炸》里的谢耳朵知道137是精细结构常数🔢。形容'精明'时可以说street-smart（街头智慧），'博学'叫walking dictionary（活字典）。记住：真正的knowing人士，连奶茶配料表都能倒背如流🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹鹰'→博学的猫头鹰闹钟⏰",
+        "对比：knowing（后天学识） vs wise（先天智慧）",
+        "记忆法：know+ing=正在知道→持续积累知识"
+      ]
+    }
   }
 ]

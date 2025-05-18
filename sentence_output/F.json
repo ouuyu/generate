@@ -12036,5 +12036,377 @@
         "易混词：fashionably（态度）/trendy（物品）"
       ]
     }
+  },
+  {
+    "word": "fast",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'fæst'，同时包含'牢固'和'迅速'双重含义，类似中文'快'字既表速度也表牢固（如'快马加鞭'与'把门关快'）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "快速的",
+        "examples": [
+          {
+            "sentence": "The fast train from Beijing to Shanghai only takes 4.5 hours.",
+            "sentence_zh": "京沪高铁最快仅需4.5小时。"
+          },
+          {
+            "sentence": "Her fast typing sounds like popcorn popping.",
+            "sentence_zh": "她飞速打字的声音像爆米花炸开。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "紧的",
+        "examples": [
+          {
+            "sentence": "The screw is so fast that even a robot can't loosen it.",
+            "sentence_zh": "螺丝拧得太紧，连机器人都拧不开。"
+          },
+          {
+            "sentence": "His fast grip saved the falling xiaolongbao.",
+            "sentence_zh": "他紧紧抓住快要掉落的小笼包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "很快地",
+        "examples": [
+          {
+            "sentence": "The influencer's粉丝数 grew fast after the viral video.",
+            "sentence_zh": "网红粉丝数在视频爆火后快速增长。"
+          },
+          {
+            "sentence": "E-sports players' fingers move faster than light.",
+            "sentence_zh": "电竞选手的手指动得比光还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "紧紧地",
+        "examples": [
+          {
+            "sentence": "Hold fast to the handrail when riding the subway.",
+            "sentence_zh": "乘地铁时要紧握扶手。"
+          },
+          {
+            "sentence": "The baby panda held fast to its keeper's leg.",
+            "sentence_zh": "熊猫幼崽紧紧抱住饲养员的腿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绝食",
+        "examples": [
+          {
+            "sentence": "Some influencers do 7-day fasts for clicks.",
+            "sentence_zh": "有些网红为流量进行7天绝食挑战。"
+          },
+          {
+            "sentence": "The religious fast lasts from dawn to sunset.",
+            "sentence_zh": "宗教斋戒从日出持续到日落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "绝食",
+        "examples": [
+          {
+            "sentence": "He's fasting but still posting food pics online.",
+            "sentence_zh": "他正在斋戒却仍在网上发美食照。"
+          },
+          {
+            "sentence": "During Ramadan, Muslims fast for spiritual purification.",
+            "sentence_zh": "斋月期间穆斯林通过禁食净化心灵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fast food",
+        "meaning": "快餐",
+        "examples": [
+          {
+            "sentence": "Chinese fast food beats burgers with yangrou chuan.",
+            "sentence_zh": "羊肉串让中式快餐完胜汉堡。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hold fast to",
+        "meaning": "坚持",
+        "examples": [
+          {
+            "sentence": "We should hold fast to our dumpling-making traditions.",
+            "sentence_zh": "我们应该坚持包饺子的传统。"
+          }
+        ]
+      }
+    ],
+    "teach": "fast是个'精分'单词💥！当它说'快'时像高铁🚄（fast train），说'紧'时像被老妈催婚👰（fast deadline）。更绝的是它还玩'辟谷'🍚（religious fast），堪称单词界的斜杠青年！记住：'饿得快'说hungry like a wolf🐺，'手速快'叫quick fingers✌️。",
+    "recite": {
+      "tips": [
+        "谐音梗：'发丝特'→头发丝特别快/紧",
+        "易混词对比：quick(敏捷的) vs fast(持续的快速)"
+      ]
+    }
+  },
+  {
+    "word": "fasten",
+    "etymology": {
+      "breakdown": [
+        "fast",
+        "en"
+      ],
+      "meaning_connection": "词根fast=牢固的，-en表使动→使牢固"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "拴紧",
+        "examples": [
+          {
+            "sentence": "Mountain climbers always fasten their ropes before scaling cliffs.",
+            "sentence_zh": "攀岩者在攀登悬崖前总会拴紧绳索。"
+          },
+          {
+            "sentence": "Grandma fastens her lucky red thread around my wrist every year.",
+            "sentence_zh": "奶奶每年都会在我手腕上拴紧她的幸运红绳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使固定",
+        "examples": [
+          {
+            "sentence": "Fasten your VR headset before the roller coaster starts.",
+            "sentence_zh": "过山车启动前请固定好VR眼镜。"
+          },
+          {
+            "sentence": "The carpenter fastened the shelf with invisible magnets.",
+            "sentence_zh": "木匠用隐形磁铁使书架固定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "系",
+        "examples": [
+          {
+            "sentence": "Japanese chefs fasten their aprons with intricate knots.",
+            "sentence_zh": "日本厨师用复杂绳结系紧围裙。"
+          },
+          {
+            "sentence": "She fastened her hair with a chopstick like ancient Chinese women.",
+            "sentence_zh": "她像古代中国女子那样用筷子系头发。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "集中于",
+        "examples": [
+          {
+            "sentence": "The teacher fastened her attention on the sleeping student.",
+            "sentence_zh": "老师把注意力集中于那个睡觉的学生。"
+          },
+          {
+            "sentence": "Pandas fasten their gaze on bamboo like it's their Tinder match.",
+            "sentence_zh": "熊猫盯住竹子就像在看交友软件配对。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "强加于",
+        "examples": [
+          {
+            "sentence": "Some parents fasten their unfulfilled dreams on children.",
+            "sentence_zh": "有些父母把自己的未竟梦想强加于孩子。"
+          },
+          {
+            "sentence": "The new policy fastens extra responsibilities on delivery drivers.",
+            "sentence_zh": "新政策给外卖骑手强加了额外责任。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "扣紧",
+        "examples": [
+          {
+            "sentence": "The astronaut's helmet fastens with a hissing sound.",
+            "sentence_zh": "宇航员的头盔会伴随嘶嘶声扣紧。"
+          },
+          {
+            "sentence": "This ancient armor fastens from the back like a corset.",
+            "sentence_zh": "这件古代铠甲像束腰一样从背后扣紧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fasten on",
+        "meaning": "抓住（抽象）",
+        "examples": [
+          {
+            "sentence": "Netizens quickly fastened on the celebrity's Weibo typo.",
+            "sentence_zh": "网友迅速抓住了明星的微博错别字。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fasten up",
+        "meaning": "完全系好",
+        "examples": [
+          {
+            "sentence": "Fasten up your qipao buttons before the photoshoot.",
+            "sentence_zh": "拍照前请系好旗袍盘扣。"
+          }
+        ]
+      }
+    ],
+    "teach": "fasten是万物皆可捆的超级动词🧶！从系鞋带（fasten shoelaces）到绑螃蟹（fasten crab claws）🦀，从固定假发（fasten wigs）到盯梢男友（fasten eyes on boyfriend）👀。最绝的是安全带英文叫'seatbelt fastener'，建议改叫'保命扣'💥。搭配：fasten your seatbelt（系安全带），fasten the blame on...（甩锅给...）。说'死缠烂打'可以叫'fasten like a barnacle'（像藤壶一样粘着）🚢",
+    "recite": {
+      "tips": [
+        "谐音梗：'罚撕疼'→不fasten好就会被罚撕疼",
+        "易混词：attach侧重连接，fasten强调固定"
+      ]
+    }
+  },
+  {
+    "word": "fastener",
+    "etymology": {
+      "breakdown": [
+        "fasten",
+        "er"
+      ],
+      "meaning_connection": "动词fasten表示'固定'，后缀-er表示'执行动作的人或物'→执行固定功能的物品或人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "结扎工",
+        "examples": [
+          {
+            "sentence": "The skilled fastener tied 500 bamboo rafts in a single day.",
+            "sentence_zh": "这位熟练的结扎工一天内捆扎了500个竹筏。"
+          },
+          {
+            "sentence": "Ancient Chinese fastener artisans could create unbreakable silk knots.",
+            "sentence_zh": "中国古代结扎工匠能编出解不开的丝绳结。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "使系牢之物",
+        "examples": [
+          {
+            "sentence": "The zipper on this hanfu is a traditional bamboo fastener.",
+            "sentence_zh": "这件汉服上的拉链其实是传统竹制扣件。"
+          },
+          {
+            "sentence": "Velcro fasteners are secretly upgrading astronaut gloves.",
+            "sentence_zh": "魔术贴紧固件正在悄然升级宇航员手套。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quick-release fastener",
+        "meaning": "快速释放扣",
+        "examples": [
+          {
+            "sentence": "The bicycle helmet uses military-grade quick-release fasteners.",
+            "sentence_zh": "这款自行车头盔采用军用级快拆扣件。"
+          }
+        ]
+      }
+    ],
+    "teach": "fastener是'万物の纽带'🧷！从秦始皇兵马俑的青铜带扣⚔️，到宇航服的24K金拉链✨，紧固件一直在改写历史。说'质量差'用cheap as paperclip（像回形针般脆弱），'牢固'叫rock-solid fastener🗿。记住：人类文明就是被各种fastener'扣'在一起的！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发丝特纳'→发丝特纳(fastener)用发丝当紧固件",
+        "易混词对比：fastener（扣件） vs fastener（禁食者）"
+      ]
+    }
+  },
+  {
+    "word": "fastening",
+    "etymology": {
+      "breakdown": [
+        "fasten",
+        "ing"
+      ],
+      "meaning_connection": "fasten表示'固定'，-ing构成名词→用于固定或连接物体的装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "紧固件",
+        "examples": [
+          {
+            "sentence": "The aircraft's fastenings were checked before takeoff.",
+            "sentence_zh": "起飞前检查了飞机的所有紧固件。"
+          },
+          {
+            "sentence": "3D-printed fastenings are revolutionizing furniture assembly.",
+            "sentence_zh": "3D打印紧固件正在革新家具组装方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "系结物",
+        "examples": [
+          {
+            "sentence": "Traditional hanfu uses silk fastenings instead of buttons.",
+            "sentence_zh": "传统汉服用丝质系结物而非纽扣。"
+          },
+          {
+            "sentence": "Her hair fastening with peony patterns went viral on Xiaohongshu.",
+            "sentence_zh": "她牡丹花纹的发饰在小红书上爆火。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quick-release fastening",
+        "meaning": "快拆装置",
+        "examples": [
+          {
+            "sentence": "Cycling shorts with quick-release fastenings are trending.",
+            "sentence_zh": "带快拆装置的骑行短裤正流行。"
+          }
+        ]
+      }
+    ],
+    "teach": "fastening是物品的'婚戒'💍！从秦始皇陵青铜器榫卯（最早的fastening）到乐高积木凸点，人类执着于'在一起'的智慧。说'松了'用coming loose，'卡死'叫jammed tight。记住：好的fastening就像爱情，既要牢固又要能打开🔓！搭配：magnetic fastening（磁吸扣）、self-locking fastening（自锁装置）",
+    "recite": {
+      "tips": [
+        "谐音梗：'发丝挺'→发髻用fastening挺住",
+        "易混词：fastener（单个扣件）vs fastening（统称）",
+        "记忆法：fasten+ing→正在固定的东西"
+      ]
+    }
   }
 ]

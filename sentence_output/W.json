@@ -11771,5 +11771,317 @@
         "易混词对比：waterfront（人造滨水区） vs. coastline（自然海岸线）"
       ]
     }
+  },
+  {
+    "word": "waterhole",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "hole"
+      ],
+      "meaning_connection": "复合词water（水）+hole（洞）→字面意思是'水的洞'，引申为自然界动物饮水处"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "水坑",
+        "examples": [
+          {
+            "sentence": "The panda cub slipped into a waterhole while learning to drink.",
+            "sentence_zh": "熊猫幼崽学喝水时滑进了水坑。"
+          },
+          {
+            "sentence": "After rain, waterholes become frogs' concert halls in the grassland.",
+            "sentence_zh": "雨后，草原上的水坑就成了青蛙的音乐厅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "水眼（沙漠绿洲）",
+        "examples": [
+          {
+            "sentence": "Camels can smell a waterhole 50 kilometers away in the desert.",
+            "sentence_zh": "骆驼能嗅到50公里外的沙漠水眼。"
+          },
+          {
+            "sentence": "The last waterhole before the Sahara crossing is guarded by armed nomads.",
+            "sentence_zh": "横穿撒哈拉前的最后一个水眼由武装游牧民族看守。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "waterhole diplomacy",
+        "meaning": "水坑外交（动物在饮水处的社交行为）",
+        "examples": [
+          {
+            "sentence": "Zoo keepers observe waterhole diplomacy between rival deer groups.",
+            "sentence_zh": "饲养员观察敌对鹿群在水坑旁的社交行为。"
+          }
+        ]
+      }
+    ],
+    "teach": "waterhole其实是动物界的星巴克☕！狮子在这里'谈生意'🦁（waterhole diplomacy），长颈鹿在这'吸珍珠奶茶'🦒（drink with knees bent）。澳洲土著叫它'地球的肚脐眼'🌀，而程序员说'代码水坑'是bug聚集地🐛。记住：所有生命都围着waterhole开茶话会！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特厚'→水坑底部我特厚",
+        "易混词对比：waterhole(天然) vs swimming pool(人工)"
+      ]
+    }
+  },
+  {
+    "word": "watering",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "ing"
+      ],
+      "meaning_connection": "词根water=水，后缀-ing表行为/结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "洒水",
+        "examples": [
+          {
+            "sentence": "The robot completes automatic watering of office plants at 3pm daily.",
+            "sentence_zh": "机器人每天下午3点自动完成办公室植物的洒水。"
+          },
+          {
+            "sentence": "Street watering trucks play Für Elise while working in summer.",
+            "sentence_zh": "洒水车夏季作业时会播放《致爱丽丝》。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "冲淡",
+        "examples": [
+          {
+            "sentence": "Watering of baijiu with green tea is popular among young drinkers.",
+            "sentence_zh": "用绿茶冲淡白酒在年轻饮酒者中很流行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "浇水",
+        "examples": [
+          {
+            "sentence": "Grandpa's morning ritual includes watering his chili plants.",
+            "sentence_zh": "爷爷的晨间仪式包括给辣椒苗浇水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "灌溉",
+        "examples": [
+          {
+            "sentence": "Dujiangyan's ancient watering system still functions after 2000 years.",
+            "sentence_zh": "都江堰的古灌溉系统两千年后仍在运作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "排水渠",
+        "examples": [
+          {
+            "sentence": "The museum displays Tang Dynasty ceramic watering pipes.",
+            "sentence_zh": "博物馆展出唐代陶制排水渠管。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "watering can",
+        "meaning": "洒水壶",
+        "examples": [
+          {
+            "sentence": "Her cactus died despite the Hello Kitty watering can.",
+            "sentence_zh": "尽管有凯蒂猫洒水壶，她的仙人掌还是死了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "watering hole",
+        "meaning": "动物饮水处/酒吧",
+        "examples": [
+          {
+            "sentence": "Pandas have secret watering holes in bamboo forests.",
+            "sentence_zh": "熊猫在竹林中设有秘密饮水处。"
+          }
+        ]
+      }
+    ],
+    "teach": "watering是水的变形记💦！古人用'掺水'指造假(watered stock注水股票)，现代人用智能浇水系统🌱（smart watering）。说'眼泪汪汪'是eyes watering like fountains，'深夜酒吧'叫last call at the watering hole🦉。记住：从都江堰到你家阳台，watering让万物生长！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特灵'→洒水车自称我特灵(watering)",
+        "易混词：waterproof（防水的）vs waterlogged（浸水的）"
+      ]
+    }
+  },
+  {
+    "word": "waterless",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "less"
+      ],
+      "meaning_connection": "water(水) + -less(无)→字面意义'无水的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无水的",
+        "examples": [
+          {
+            "sentence": "Scientists discovered waterless planets in the galaxy.",
+            "sentence_zh": "科学家在银河系发现了无水的行星。"
+          },
+          {
+            "sentence": "The waterless shampoo is popular among astronauts.",
+            "sentence_zh": "这种无水洗发水在宇航员中很受欢迎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "干的",
+        "examples": [
+          {
+            "sentence": "The waterless riverbed became a playground for children.",
+            "sentence_zh": "干涸的河床成了孩子们的游乐场。"
+          },
+          {
+            "sentence": "Her waterless lips cracked in the desert heat.",
+            "sentence_zh": "她干燥的嘴唇在沙漠高温中裂开了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不用水的",
+        "examples": [
+          {
+            "sentence": "This waterless urinal saves 150,000 liters annually.",
+            "sentence_zh": "这种无水小便池每年节约15万升水。"
+          },
+          {
+            "sentence": "Waterless car wash products are eco-friendly.",
+            "sentence_zh": "无水洗车产品很环保。"
+          }
+        ]
+      }
+    ],
+    "teach": "waterless是'干饭人'的终极形态🍚💧！想象撒哈拉沙漠🏜️遇上免冲洗洗发水🚿，就像'三体人'脱水存活的神操作👽！环保搭配：waterless toilet（无水马桶）比你的节水意识还干，地道说法叫'high and dry'（彻底干涸）💸。记住：当你的钱包waterless时，连眼泪都是奢侈！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特累死'→缺水(wat-er-less)累成狗",
+        "易混词对比：waterproof（防水） vs waterless（无水）",
+        "记忆tip：把-less想象成吸水管把water抽干"
+      ]
+    }
+  },
+  {
+    "word": "waterline",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "line"
+      ],
+      "meaning_connection": "water即'水'，line即'线'→船舶与水面的交界线"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "吃水线",
+        "examples": [
+          {
+            "sentence": "The cargo ship's waterline rose dangerously after overloading.",
+            "sentence_zh": "这艘货轮超载后吃水线危险上升。"
+          },
+          {
+            "sentence": "Divers checked the waterline where algae had accumulated.",
+            "sentence_zh": "潜水员检查了附着藻类的吃水线。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "above/below the waterline",
+        "meaning": "吃水线以上/以下",
+        "examples": [
+          {
+            "sentence": "The below-waterline hull needs special anti-rust treatment.",
+            "sentence_zh": "吃水线以下的船体需要特殊防锈处理。"
+          }
+        ]
+      }
+    ],
+    "teach": "waterline就是船舶的'小蛮腰'⚓！古罗马战船用铅皮标记吃水线防超载，就像现代货轮的'载重线警告'⚠️。搭配说'船吃水深'用draw much water，'轻载'叫light waterline。要吐槽'超载'可以说loaded like a sinking duck🦆🌊！",
+    "recite": {
+      "tips": [
+        "视觉联想：水面像切蛋糕一样把船分成上下两半🍰",
+        "易混词对比：watermark(水印)是纸张特征，waterline是船舶特征"
+      ]
+    }
+  },
+  {
+    "word": "waterlog",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "log"
+      ],
+      "meaning_connection": "water=水，log=原木→原指被水浸泡的木材，引申为物体浸水失控的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使浸满水",
+        "examples": [
+          {
+            "sentence": "The typhoon waterlogged dozens of fishing boats in the harbor.",
+            "sentence_zh": "台风使港口数十艘渔船浸满海水。"
+          },
+          {
+            "sentence": "Kids waterlogged the cardboard boat during the science fair.",
+            "sentence_zh": "科技节上学生们做的纸船被水泡烂了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使进水失控",
+        "examples": [
+          {
+            "sentence": "A cracked pipe waterlogged the entire basement overnight.",
+            "sentence_zh": "破裂的水管一夜之间让整个地下室成了水塘。"
+          },
+          {
+            "sentence": "The Titanic's compartments waterlogged after hitting the iceberg.",
+            "sentence_zh": "泰坦尼克号撞击冰山后多个舱室进水失控。"
+          }
+        ]
+      }
+    ],
+    "teach": "waterlog是'水逆'本逆💦！想象你手机掉进火锅里🍲（waterlogged phone），或者暴雨后共享单车座位变成水床🛏️（waterlogged saddle）。搭配waterlogged shoes形容湿透的鞋，waterlogged field指涝了的农田。遇到糟心事可以说'I'm totally waterlogged today!' 🌊记住：当log不是木头而是泡发木耳时就完蛋了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特涝'→特别涝（waterlog）的状态",
+        "对比记忆：waterproof（防水） VS waterlog（进水）"
+      ]
+    }
   }
 ]

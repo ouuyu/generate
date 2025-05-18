@@ -11222,5 +11222,379 @@
         "联想：游戏角色升级时全身闪光💥就是hardening特效"
       ]
     }
+  },
+  {
+    "word": "hardiness",
+    "etymology": {
+      "breakdown": [
+        "hard",
+        "i",
+        "ness"
+      ],
+      "meaning_connection": "词根hard表示'坚硬'，后缀-ness表性质→原指物理硬度，后引申为意志/体质的坚韧性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "强壮",
+        "examples": [
+          {
+            "sentence": "The hardiness of Siberian huskies allows them to pull sleds in -50°C.",
+            "sentence_zh": "西伯利亚哈士奇的强壮体格能让它们在零下50度拉雪橇。"
+          },
+          {
+            "sentence": "Shaolin monks demonstrate physical hardiness by breaking iron bars.",
+            "sentence_zh": "少林武僧通过断铁棍展示身体强健。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "胆子",
+        "examples": [
+          {
+            "sentence": "It takes hardiness to eat stinky tofu for the first time.",
+            "sentence_zh": "初次尝试臭豆腐需要点胆子。"
+          },
+          {
+            "sentence": "The hardiness of live-streamers eating durian surprises foreigners.",
+            "sentence_zh": "主播直播吃榴莲的胆量让老外震惊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "勇气",
+        "examples": [
+          {
+            "sentence": "The hardiness of frontline doctors during COVID moved the nation.",
+            "sentence_zh": "抗疫一线医生的勇气感动全国。"
+          },
+          {
+            "sentence": "It shows hardiness to start a business during economic downturn.",
+            "sentence_zh": "经济低迷时期创业需要勇气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "耐寒性",
+        "examples": [
+          {
+            "sentence": "The hardiness of winter jasmine allows it to bloom in snow.",
+            "sentence_zh": "迎春花的耐寒性使其能在雪中绽放。"
+          },
+          {
+            "sentence": "This coat tests the hardiness limit of humans at -40°C.",
+            "sentence_zh": "这款外套测试人类在零下40度的耐寒极限。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "耐劳性",
+        "examples": [
+          {
+            "sentence": "The hardiness of couriers working 14 hours daily deserves respect.",
+            "sentence_zh": "快递员每天工作14小时的耐劳性值得尊敬。"
+          },
+          {
+            "sentence": "Construction workers show incredible hardiness under the scorching sun.",
+            "sentence_zh": "建筑工人在烈日下展现出惊人耐力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cold hardiness",
+        "meaning": "抗寒能力",
+        "examples": [
+          {
+            "sentence": "Pandas' cold hardiness decreases when they eat too much.",
+            "sentence_zh": "熊猫吃太多会导致抗寒能力下降。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hardiness zone",
+        "meaning": "植物耐寒分区",
+        "examples": [
+          {
+            "sentence": "Beijing belongs to hardiness zone 6 where winters can reach -20°C.",
+            "sentence_zh": "北京属于冬季可达零下20度的6级耐寒区。"
+          }
+        ]
+      }
+    ],
+    "teach": "hardiness是'硬核力'💪！就像东北人冬天舔铁栏杆👅（cold hardiness），或成都嬢嬢边吃火锅边骂人🌶️（mental hardiness）。说'特别抗造'可用tough as nails（像钉子般硬），'吃苦耐劳'叫work like a horse🐴。记住：你的hardiness = 吃辣等级 + 加班时长 + 双十一手速！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈迪尼斯'→哈迪（hardy）尼斯（ness）就像健身教练名字",
+        "易混词：hardiness（耐力） vs hardness（硬度）→一个是坚持996的能力，一个是钻石的物理特性💎"
+      ]
+    }
+  },
+  {
+    "word": "hardly",
+    "etymology": {
+      "breakdown": [
+        "hard",
+        "ly"
+      ],
+      "meaning_connection": "由hard（硬的/困难的）+副词后缀-ly构成，原意'困难地', 后引申出否定意义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "几乎不",
+        "examples": [
+          {
+            "sentence": "I can hardly recognize my hometown after these skyscrapers were built.",
+            "sentence_zh": "这些摩天大楼建好后，我几乎认不出家乡了。"
+          },
+          {
+            "sentence": "There's hardly any bubble tea left in the fridge after the party.",
+            "sentence_zh": "派对结束后冰箱里几乎没剩奶茶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "刚刚",
+        "examples": [
+          {
+            "sentence": "The train had hardly left when he realized he forgot his suitcase.",
+            "sentence_zh": "火车刚开走他就发现忘了行李箱。"
+          },
+          {
+            "sentence": "We'd hardly finished hotpot when the delivery guy brought more meat.",
+            "sentence_zh": "我们刚吃完火锅配送员又送来了肉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "勉强是",
+        "examples": [
+          {
+            "sentence": "This room is hardly big enough for three panda cushions.",
+            "sentence_zh": "这房间勉强够放三个熊猫坐垫。"
+          },
+          {
+            "sentence": "His explanation could hardly be called reasonable.",
+            "sentence_zh": "他的解释勉强算是合理。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hardly ever",
+        "meaning": "几乎从不",
+        "examples": [
+          {
+            "sentence": "He hardly ever checks his mailbox since using WeChat.",
+            "sentence_zh": "自从用微信后他几乎从不查看邮箱。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hardly any",
+        "meaning": "几乎没有",
+        "examples": [
+          {
+            "sentence": "There's hardly any space left in my cloud storage.",
+            "sentence_zh": "我的云存储空间几乎没有剩余了。"
+          }
+        ]
+      }
+    ],
+    "teach": "hardly是个傲娇副词🙄！表面说'难'其实在否认，就像广东人说'猴赛雷'其实是夸你厉害👍。说'工资hardly够活'比直接说穷更高级（地道表达：living hand to mouth）。搭配'hardly believe'就像看到熊猫点外卖🐼，'hardly possible'好比中彩票还要求号码连号🎟️。记住：这个单词自带'否定光环'💫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈德利'→哈利波特的表哥达力（Dudley）哈德利(hardly)不靠谱",
+        "易混词对比：hard（努力地）vs hardly（几乎不）→ 努力学≠几乎不学",
+        "记忆tip：想象把'hard'用力折断(ly)→变成反义"
+      ]
+    }
+  },
+  {
+    "word": "hardness",
+    "etymology": {
+      "breakdown": [
+        "hard",
+        "ness"
+      ],
+      "meaning_connection": "形容词hard（坚硬的） + 名词后缀-ness → 表示'坚硬的性质'，后引申出抽象含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "坚硬",
+        "examples": [
+          {
+            "sentence": "The hardness of this jade proves its authenticity.",
+            "sentence_zh": "这块玉的坚硬程度证明了它的真伪。"
+          },
+          {
+            "sentence": "Diamond's hardness can scratch glass easily.",
+            "sentence_zh": "钻石的硬度可以轻松划伤玻璃。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "困难",
+        "examples": [
+          {
+            "sentence": "The hardness of this math problem made students sweat.",
+            "sentence_zh": "这道数学题的难度让学生们直冒汗。"
+          },
+          {
+            "sentence": "He underestimated the hardness of learning Peking opera.",
+            "sentence_zh": "他低估了学习京剧的难度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "严厉",
+        "examples": [
+          {
+            "sentence": "The hardness in her voice scared the naughty children.",
+            "sentence_zh": "她声音中的严厉吓住了淘气的孩子们。"
+          },
+          {
+            "sentence": "Ancient Chinese fathers often showed hardness to educate their sons.",
+            "sentence_zh": "中国古代父亲常以严厉教育儿子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "勇气",
+        "examples": [
+          {
+            "sentence": "The hardness of these firefighters saved hundreds of lives.",
+            "sentence_zh": "消防员们的勇气拯救了数百条生命。"
+          },
+          {
+            "sentence": "He faced the robber with unexpected hardness.",
+            "sentence_zh": "他以出人意料的勇气面对劫匪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hardness of heart",
+        "meaning": "铁石心肠",
+        "examples": [
+          {
+            "sentence": "The landlord showed hardness of heart by raising rent during the pandemic.",
+            "sentence_zh": "房东在疫情期间涨租，显得铁石心肠。"
+          }
+        ]
+      }
+    ],
+    "teach": "hardness就像一颗核桃🌰：外壳坚硬（物理硬度），打开费劲（困难程度），味道苦涩（严厉态度），但营养丰富（内在勇气）！形容'心肠硬'说hard-hearted就像铁核桃💔，而'生活艰难'叫hard-knock life像被核桃砸头🤕。记住：最坚硬的钻石💎和最柔软的心❤️‍🔥都来自同一个词根！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈得捏死'→哈得捏死(hardness)的核桃",
+        "对比记忆：hardness vs. toughness → 前者侧重物理特性，后者侧重韧性"
+      ]
+    }
+  },
+  {
+    "word": "hardship",
+    "etymology": {
+      "breakdown": [
+        "hard",
+        "ship"
+      ],
+      "meaning_connection": "hard表示'坚硬的、困难的'，后缀-ship表状态→处于困难的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "艰难",
+        "examples": [
+          {
+            "sentence": "Delivering packages during typhoons is a real hardship for couriers.",
+            "sentence_zh": "台风天送快递对快递员来说是真正的艰难。"
+          },
+          {
+            "sentence": "The Great Wall builders endured unimaginable hardships.",
+            "sentence_zh": "长城建造者承受了难以想象的艰难。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "辛苦",
+        "examples": [
+          {
+            "sentence": "Street vendors work with tremendous hardship from dawn to dusk.",
+            "sentence_zh": "街头小贩从早到晚工作得非常辛苦。"
+          },
+          {
+            "sentence": "She raised three children alone, facing daily hardships with a smile.",
+            "sentence_zh": "她独自抚养三个孩子，每天面带微笑面对辛苦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "苦难",
+        "examples": [
+          {
+            "sentence": "The memoir describes the hardships during wartime in vivid detail.",
+            "sentence_zh": "回忆录生动详实地描述了战时的苦难。"
+          },
+          {
+            "sentence": "Migrant workers often share stories of hardship over communal meals.",
+            "sentence_zh": "农民工常在集体用餐时分享苦难经历。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "economic hardship",
+        "meaning": "经济困难",
+        "examples": [
+          {
+            "sentence": "Many families faced economic hardship during the pandemic.",
+            "sentence_zh": "疫情期间许多家庭面临经济困难。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bear hardship",
+        "meaning": "承受苦难",
+        "examples": [
+          {
+            "sentence": "Chinese farmers are known for their ability to bear hardship.",
+            "sentence_zh": "中国农民以能承受苦难著称。"
+          }
+        ]
+      }
+    ],
+    "teach": "hardship=hard+ship🚢，像艘破船在人生苦海航行🌊！古人云'吃得苦中苦'，英语却说'no pain, no gain'💪。要说'生活不易'可以用daily grind（日常碾压），'艰苦岁月'叫hard times就像嚼老北京豆汁儿配焦圈🥛。记住：你的hardship终将成为下酒故事🍺！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈的ship'→哈着气推破船",
+        "易混词：hardship vs difficulty→前者更强调长期持续性的困苦",
+        "联想：hard（硬）+ ship（船）= 坚硬的船→象征难以摧毁的坚韧精神"
+      ]
+    }
   }
 ]

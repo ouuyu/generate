@@ -11761,5 +11761,305 @@
         "记忆口诀：前者former（F开头像旗手），后者latter（L开头像跟班）"
       ]
     }
+  },
+  {
+    "word": "lattice",
+    "etymology": {
+      "breakdown": [
+        "latt",
+        "ice"
+      ],
+      "meaning_connection": "古法语lattis（木板条）+后缀-ice→原指木条交叉结构，引申为各种网状格子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "格子",
+        "examples": [
+          {
+            "sentence": "The lattice window cast chessboard shadows on the floor.",
+            "sentence_zh": "格子窗在地板上投下棋盘状光影。"
+          },
+          {
+            "sentence": "Grandma's lattice pie crust is her secret recipe.",
+            "sentence_zh": "奶奶的格子状派皮是她的秘方。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "组合格子",
+        "examples": [
+          {
+            "sentence": "The steel lattice of the Eiffel Tower weighs 7,300 tons.",
+            "sentence_zh": "埃菲尔铁塔的钢制组合格子结构重达7300吨。"
+          },
+          {
+            "sentence": "Crystal lattice determines the gem's refractive index.",
+            "sentence_zh": "晶体组合格子决定宝石的折射率。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "制做格子",
+        "examples": [
+          {
+            "sentence": "The carpenter latticed the balcony railing with bamboo.",
+            "sentence_zh": "木匠用竹子将阳台栏杆制成格子状。"
+          },
+          {
+            "sentence": "She latticed the cookie dough with practiced precision.",
+            "sentence_zh": "她以熟练的精度将饼干面团做成格子纹路。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lattice work",
+        "meaning": "格子工艺品",
+        "examples": [
+          {
+            "sentence": "Suzhou lattice work windows are UNESCO cultural heritage.",
+            "sentence_zh": "苏州的格子窗工艺是联合国文化遗产。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "lattice frame",
+        "meaning": "网格框架",
+        "examples": [
+          {
+            "sentence": "The lattice frame of this umbrella withstands typhoons.",
+            "sentence_zh": "这把伞的网格框架能抵抗台风。"
+          }
+        ]
+      }
+    ],
+    "teach": "lattice是强迫症最爱的单词🌀！就像乐高积木的十字卡扣（lattice structure）、老式防盗窗（window lattice）、甚至奶茶里的珍珠排列🧋（bubble lattice）都算！搭配'lattice fence'指网红打卡点的藤蔓栅栏🌿，要说'密密麻麻'可以吐槽'a lattice of problems'。记住：所有规则排列的网状物，都可以祭出lattice这个词🕸️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来踢死'→踢格子(lattice)游戏",
+        "易混词：lattice vs. grille（前者强调立体网格，后者指平面格栅）",
+        "记忆法：把'late'想象成迟到被关在格子间"
+      ]
+    }
+  },
+  {
+    "word": "latticed",
+    "etymology": {
+      "breakdown": [
+        "lattice",
+        "ed"
+      ],
+      "meaning_connection": "词根lattice=格子，-ed表形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "制成格状的",
+        "examples": [
+          {
+            "sentence": "The latticed mooncakes showcase exquisite craftsmanship.",
+            "sentence_zh": "格纹月饼展现了精湛的制作工艺。"
+          },
+          {
+            "sentence": "Her latticed apple pie looks like a woven basket.",
+            "sentence_zh": "她做的格子苹果派看起来像编织篮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "装有格子的",
+        "examples": [
+          {
+            "sentence": "The latticed windows in Suzhou gardens create poetic shadows.",
+            "sentence_zh": "苏州园林的格子窗投下诗意的光影。"
+          },
+          {
+            "sentence": "We drank milk tea through latticed balcony railings.",
+            "sentence_zh": "我们透过格栅阳台栏杆喝着奶茶。"
+          }
+        ]
+      }
+    ],
+    "teach": "latticed是强迫症福音🔲！古代窗棂(lattice)像像素格子游戏🎮，西方哥特教堂的latticed windows像巨型二维码，中国冰裂纹格栅是破碎的巧克力🍫。说'密集格子'用honeycomb pattern（蜂巢结构），'简约格子'说grid design。记住：看到latticed就想到老婆饼的酥皮🥮！",
+    "recite": {
+      "tips": [
+        "视觉记忆：字母tt像十字格栅",
+        "易混词对比：ladder（梯子）vs lattice（格子）"
+      ]
+    }
+  },
+  {
+    "word": "latticework",
+    "etymology": {
+      "breakdown": [
+        "lattice",
+        "work"
+      ],
+      "meaning_connection": "lattice源自拉丁语'laticis'(格栅)，work表示工艺→组合指'格栅工艺'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "格子结构",
+        "examples": [
+          {
+            "sentence": "The latticework on Suzhou windows casts poetic shadows.",
+            "sentence_zh": "苏州窗棂的格子结构投射出诗意的光影。"
+          },
+          {
+            "sentence": "DNA's double helix resembles microscopic latticework.",
+            "sentence_zh": "DNA的双螺旋结构就像微观的格子框架。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wooden latticework",
+        "meaning": "木格栅",
+        "examples": [
+          {
+            "sentence": "The courtyard's wooden latticework filters the sunlight beautifully.",
+            "sentence_zh": "庭院的木格栅将阳光过滤得恰到好处。"
+          }
+        ]
+      }
+    ],
+    "teach": "latticework是强迫症的最爱🧮！古代中国叫'冰裂纹'❄️，欧洲叫'魔鬼结'👹（据说哥特建筑用它困住恶魔）。说'密密麻麻'可以叫a latticework of（如a latticework of streets 蛛网般的街道）。记住：看到格子饼/围棋盘/蜂窝煤，都是行走的latticework案例🍯！",
+    "recite": {
+      "tips": [
+        "视觉联想：'late踢work'→加班到很晚踢到格子隔断",
+        "易混词对比：lattice(材料) vs. grid(抽象网格)"
+      ]
+    }
+  },
+  {
+    "word": "Latvian",
+    "etymology": {
+      "breakdown": [
+        "Latvi",
+        "an"
+      ],
+      "meaning_connection": "源自Latvia（拉脱维亚国名），后缀-an表示'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "拉脱维亚的",
+        "examples": [
+          {
+            "sentence": "The Latvian basketball team defeated France in the last second.",
+            "sentence_zh": "拉脱维亚篮球队在最后一秒绝杀法国队。"
+          },
+          {
+            "sentence": "This Latvian amber necklace is a popular souvenir.",
+            "sentence_zh": "这条拉脱维亚琥珀项链是热门伴手礼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拉脱维亚人",
+        "examples": [
+          {
+            "sentence": "Latvians celebrate Jāņi by jumping over bonfires.",
+            "sentence_zh": "拉脱维亚人通过跳篝火庆祝仲夏节。"
+          },
+          {
+            "sentence": "Three Latvians won Nobel Prizes in chemistry.",
+            "sentence_zh": "三位拉脱维亚人获得过诺贝尔化学奖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拉脱维亚语",
+        "examples": [
+          {
+            "sentence": "Latvian uses the Latin alphabet with extra diacritics.",
+            "sentence_zh": "拉脱维亚语使用带有附加符号的拉丁字母。"
+          },
+          {
+            "sentence": "She streams Latvian lessons on Douyin twice a week.",
+            "sentence_zh": "她每周在抖音直播两次拉脱维亚语教学。"
+          }
+        ]
+      }
+    ],
+    "teach": "Latvian是波罗的海的'琥珀语'💎！这个人口不到200万的国家却出了世界级黑客💻和篮球明星🏀。说'波罗的海三姐妹'用Baltic trio🍸，形容'冷门语言'叫niche language like Latvian。记住：会拉脱维亚语等于掌握打开'欧洲绿肺'的钥匙🌲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来踢碗'→拉脱维亚人庆祝时踢彩碗",
+        "易混词：Lithuanian（立陶宛的）"
+      ]
+    }
+  },
+  {
+    "word": "laud",
+    "etymology": {
+      "breakdown": [
+        "laud"
+      ],
+      "meaning_connection": "源自拉丁语laudare'赞美'，与applaud（鼓掌）同源。想象古罗马剧院里观众为演出喝彩的场景"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "赞美",
+        "examples": [
+          {
+            "sentence": "The new AI model received universal laud from tech circles.",
+            "sentence_zh": "这款新AI模型获得科技界普遍赞美。"
+          },
+          {
+            "sentence": "His Weibo post unexpectedly won lauds from netizens.",
+            "sentence_zh": "他的微博意外获得网友称赞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "称赞",
+        "examples": [
+          {
+            "sentence": "The teacher lauded the student's creative use of memes in the presentation.",
+            "sentence_zh": "老师称赞学生在演示中创造性地使用表情包。"
+          },
+          {
+            "sentence": "Food critics lauded the chef's innovative Mapo tofu ice cream.",
+            "sentence_zh": "美食评论家称赞厨师创新的麻婆豆腐冰淇淋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sing the lauds",
+        "meaning": "唱赞美诗",
+        "examples": [
+          {
+            "sentence": "Monks sing the lauds at sunrise in Tibetan monasteries.",
+            "sentence_zh": "藏传寺院里僧侣们日出时唱诵赞美诗。"
+          }
+        ]
+      }
+    ],
+    "teach": "laud就像古代'点赞'👍！罗马人用laudare赞美角斗士，现代人用'绝绝子'夸奶茶🍵。'疯狂打call'可比拟为modern laud，而'彩虹屁'则是exaggerated laud🌈。记住：当有人说'yyds'时，他们就是在lauding！",
+    "recite": {
+      "tips": [
+        "谐音梗：'老的'→受到laud的人会变老的（笑）",
+        "易混词对比：praise更口语化，laud更正式文雅",
+        "记忆口诀：L-A-U-D，乐(lè)于夸人德(dé)"
+      ]
+    }
   }
 ]

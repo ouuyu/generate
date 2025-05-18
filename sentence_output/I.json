@@ -11880,5 +11880,314 @@
         "易混词对比：immerse(v.)/immersion(n.) 如同dive和diving的关系"
       ]
     }
+  },
+  {
+    "word": "immigrant",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "migr",
+        "ant"
+      ],
+      "meaning_connection": "前缀im-=进入，词根migr=迁移，-ant表人→'迁移进入某地的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "移民（移入者）",
+        "examples": [
+          {
+            "sentence": "The Statue of Liberty has welcomed immigrants to America since 1886.",
+            "sentence_zh": "自由女神像自1886年起迎接赴美移民。"
+          },
+          {
+            "sentence": "Many tech immigrants in Silicon Valley hold H-1B visas.",
+            "sentence_zh": "硅谷许多科技移民持有H-1B签证。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "移入的",
+        "examples": [
+          {
+            "sentence": "The immigrant population brings diverse food cultures.",
+            "sentence_zh": "移入人口带来了多元饮食文化。"
+          },
+          {
+            "sentence": "Immigrant workers often fill labor shortages.",
+            "sentence_zh": "移入劳工常填补劳动力缺口。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "移民的",
+        "examples": [
+          {
+            "sentence": "The immigrant community celebrates Lunar New Year with lion dances.",
+            "sentence_zh": "移民社区用舞狮庆祝农历新年。"
+          },
+          {
+            "sentence": "Immigrant entrepreneurs opened the first hot pot restaurant in this town.",
+            "sentence_zh": "移民企业家开设了本镇首家火锅店。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "illegal immigrant",
+        "meaning": "非法移民",
+        "examples": [
+          {
+            "sentence": "The debate over illegal immigrants divides public opinion.",
+            "sentence_zh": "关于非法移民的辩论使民意两极分化。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "first-generation immigrant",
+        "meaning": "第一代移民",
+        "examples": [
+          {
+            "sentence": "First-generation immigrants often maintain stronger cultural ties.",
+            "sentence_zh": "第一代移民通常保持着更强的文化纽带。"
+          }
+        ]
+      }
+    ],
+    "teach": "immigrant其实是'蚁民'的进化版🐜→像蚂蚁搬家(migr)跨越边界。你知道吗？美国'大熔炉'说法源自1908年戏剧，形容移民像金属熔合⚡。说'新移民'用fresh off the boat（刚下船），'文化适应'叫cultural assimilation就像火锅涮遍全球🌍。记住：没有移民就没有左宗棠鸡🀄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'移民哥rant'→移民哥在吐槽(rant)签证难办",
+        "易混词对比：emigrant（移出者）vs immigrant（移入者）→记'e出口/i进口'",
+        "形象记忆：想象护照上的移民章是蚂蚁搬家图案"
+      ]
+    }
+  },
+  {
+    "word": "immigration",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "migr",
+        "ation"
+      ],
+      "meaning_connection": "前缀im-=向内，词根migr=迁移，-ation表行为→向内迁移的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "移民（群体概念）",
+        "examples": [
+          {
+            "sentence": "The Statue of Liberty has welcomed generations of immigration to America.",
+            "sentence_zh": "自由女神像迎接了一代代赴美移民。"
+          },
+          {
+            "sentence": "Toronto's diversity comes from decades of immigration.",
+            "sentence_zh": "多伦多的多样性源于数十年的移民潮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "移居（个体行为）",
+        "examples": [
+          {
+            "sentence": "Her immigration to New Zealand was motivated by the kiwi birds.",
+            "sentence_zh": "她移居新西兰的动机是几维鸟。"
+          },
+          {
+            "sentence": "The paperwork for immigration takes longer than packing your suitcase.",
+            "sentence_zh": "办理移居手续比收拾行李箱耗时更久。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immigration policy",
+        "meaning": "移民政策",
+        "examples": [
+          {
+            "sentence": "Canada's immigration policy attracts tech talents like maple syrup attracts bears.",
+            "sentence_zh": "加拿大的移民政策吸引技术人才，就像枫糖浆吸引熊。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "immigration officer",
+        "meaning": "移民官",
+        "examples": [
+          {
+            "sentence": "The immigration officer stared at my passport photo like it was a modern art piece.",
+            "sentence_zh": "移民官盯着我的护照照片，仿佛在看现代艺术品。"
+          }
+        ]
+      }
+    ],
+    "teach": "immigration是'带着全部家当跳国服'🌍：词根migr造就了migrate（迁徙）、emigrant（移出者）等词。说'移民潮'用wave of immigration像冲浪🏄，'移民文件'叫paperwork厚过字典📚。记住：im-向内+migration=搬家到新服务器，延迟更低但要重练小号！",
+    "recite": {
+      "tips": [
+        "谐音梗：'移民哥神'→移民过程像通关打怪",
+        "易混词对比：emigration（移出）vs immigration（移入）像进出地铁闸机",
+        "记忆tip：想象候鸟(migr)飞进(im-)新领地"
+      ]
+    }
+  },
+  {
+    "word": "imminence",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "min",
+        "ence"
+      ],
+      "meaning_connection": "前缀im-表示'进入'，词根min表示'突出/威胁'，后缀-ence表状态→直译为'威胁进入的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "逼近",
+        "examples": [
+          {
+            "sentence": "The imminence of typhoon Doksuri made fishermen rush back to harbor.",
+            "sentence_zh": "杜苏芮台风的逼近让渔民们匆忙返港。"
+          },
+          {
+            "sentence": "You can feel the imminence of thunder when dark clouds gather.",
+            "sentence_zh": "乌云密布时就能感受到雷雨的临近。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "危急",
+        "examples": [
+          {
+            "sentence": "The doctor spoke calmly despite the imminence of the patient's condition.",
+            "sentence_zh": "尽管病人情况危急，医生仍平静地说话。"
+          },
+          {
+            "sentence": "Firefighters are trained to handle the imminence of life-and-death situations.",
+            "sentence_zh": "消防员受过训练应对生死攸关的危急状况。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "迫近的危险",
+        "examples": [
+          {
+            "sentence": "Sirens warned citizens of the imminence of air raids during WWII.",
+            "sentence_zh": "二战期间防空警报向市民警示空袭的迫近。"
+          },
+          {
+            "sentence": "Animals can sense the imminence of earthquakes before humans do.",
+            "sentence_zh": "动物能比人类更早感知地震的迫近危险。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sense of imminence",
+        "meaning": "紧迫感",
+        "examples": [
+          {
+            "sentence": "The ticking clock created a sense of imminence during the exam.",
+            "sentence_zh": "滴答作响的时钟在考试时制造出紧迫感。"
+          }
+        ]
+      }
+    ],
+    "teach": "imminence就像头顶的达摩克利斯之剑⚔️！它来自拉丁语'minere'(威胁)，想象你妈举着拖鞋说'我数到三！'时的压迫感👟。搭配'avert imminence'(化解危机)如同拆弹💣，'under the imminence of'就像DDL前狂赶论文的学生📚。地道说法：'It's hanging by a thread'(千钧一发)比'serious'更传神！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一命难死'→危急时刻保命要紧",
+        "易混词对比：imminent(adj.) vs. imminence(n.)",
+        "记忆tip：把min联想成'minute'(分钟)→危险进入倒计时⏳"
+      ]
+    }
+  },
+  {
+    "word": "imminent",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "min",
+        "ent"
+      ],
+      "meaning_connection": "前缀im-=进入，词根min=突出/威胁，-ent表形容词→即将'突入'的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "即将来临的",
+        "examples": [
+          {
+            "sentence": "The dark clouds signaled the imminent downpour during our picnic.",
+            "sentence_zh": "乌云预示着我们野餐时即将到来的倾盆大雨。"
+          },
+          {
+            "sentence": "With the Spring Festival imminent, train tickets become gold dust.",
+            "sentence_zh": "随着春节临近，火车票变得一票难求。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "逼近的",
+        "examples": [
+          {
+            "sentence": "The cat's imminent pounce made the sparrow freeze.",
+            "sentence_zh": "猫咪逼近的猛扑让麻雀僵在原地。"
+          },
+          {
+            "sentence": "We evacuated before the imminent typhoon hit the coast.",
+            "sentence_zh": "在台风逼近海岸前我们已撤离。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "imminent danger",
+        "meaning": "迫在眉睫的危险",
+        "examples": [
+          {
+            "sentence": "The lifeguard blew his whistle at the imminent danger of rip currents.",
+            "sentence_zh": "救生员对离岸流的迫近危险吹响哨子。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "imminent arrival",
+        "meaning": "即将到达",
+        "examples": [
+          {
+            "sentence": "Delivery apps notify customers of their food's imminent arrival.",
+            "sentence_zh": "外卖APP会通知顾客餐食即将送达。"
+          }
+        ]
+      }
+    ],
+    "teach": "imminent就像你手机剩1%电量时跳出的红色警告🔋！古罗马人用'minere'表示'威胁'，就像双十一零点逼近的倒计时⏰。说'大祸临头'可以用doom is imminent，'考试在即'说exams are imminent像看到老师抱着试卷走来📚。记住：比soon更紧迫，比emergency更有压迫感！",
+    "recite": {
+      "tips": [
+        "谐音梗：'移民难'→危机逼近导致移民难",
+        "易混词对比：imminent(即将发生) vs. eminent(杰出的)",
+        "联想：MINI汽车+ent→迷你危机逼近"
+      ]
+    }
   }
 ]
