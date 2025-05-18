@@ -2798,5 +2798,339 @@
         "易混词：capacity（容量）vs ability（能力）→ 杯子容量是capacity，能喝多少是ability"
       ]
     }
+  },
+  {
+    "word": "abject",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "ject"
+      ],
+      "meaning_connection": "前缀ab-表示'远离'，词根ject表示'投掷'→字面意思是'被抛弃的状态'，引申出极端负面的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "绝望无助的",
+        "examples": [
+          {
+            "sentence": "The earthquake survivors were in abject despair.",
+            "sentence_zh": "地震幸存者处于极度绝望中。"
+          },
+          {
+            "sentence": "Her abject sobbing moved all the rescuers.",
+            "sentence_zh": "她无助的啜泣打动了所有救援人员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可怜的",
+        "examples": [
+          {
+            "sentence": "The abject puppy with matted fur won their hearts.",
+            "sentence_zh": "那隻毛髮打結的可憐小狗贏得了他們的心。"
+          },
+          {
+            "sentence": "He lived in abject poverty before becoming a tech giant.",
+            "sentence_zh": "在成為科技巨頭前他過著赤貧的生活。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "糟透的",
+        "examples": [
+          {
+            "sentence": "The hotel service was abject despite its five-star rating.",
+            "sentence_zh": "這家五星級酒店的服務糟透了。"
+          },
+          {
+            "sentence": "His attempt at cooking mapo tofu was abject.",
+            "sentence_zh": "他做的麻婆豆腐簡直災難。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "卑鄙的",
+        "examples": [
+          {
+            "sentence": "The abject betrayal by his business partner shocked everyone.",
+            "sentence_zh": "商業夥伴的卑鄙背叛震驚了所有人。"
+          },
+          {
+            "sentence": "Stealing from the elderly is an abject act.",
+            "sentence_zh": "偷竊老人財物是卑劣行徑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "自卑的",
+        "examples": [
+          {
+            "sentence": "She spoke in an abject tone during the job interview.",
+            "sentence_zh": "求職面試時她說話帶著自卑的語氣。"
+          },
+          {
+            "sentence": "His abject apology made the situation even more awkward.",
+            "sentence_zh": "他自卑的道歉讓場面更加尷尬。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abject poverty",
+        "meaning": "赤貧",
+        "examples": [
+          {
+            "sentence": "The documentary exposed abject poverty in rural areas.",
+            "sentence_zh": "紀錄片揭露了農村的赤貧現狀。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "abject failure",
+        "meaning": "徹底失敗",
+        "examples": [
+          {
+            "sentence": "The product launch was an abject failure due to technical glitches.",
+            "sentence_zh": "由於技術故障，產品發布會徹底失敗。"
+          }
+        ]
+      }
+    ],
+    "teach": "abject就像被扔進垃圾桶的爛蘋果🍎！詞源是'被拋棄(ab-ject)'的狀態，可以形容：1)絕望如被房東趕出的北漂🏚️ 2)可憐像淋雨的流浪貓🐱 3)糟糕如穿漢服騎共享單車翻車🎎 4)卑鄙似偷吃同事外賣的人🍱 5)自卑好比相親時說'我媽覺得我該結婚了'😅。搭配'abject terror'(嚇尿級恐懼)和'abject surrender'(跪地求饒)，地道說法'混得慘'叫hit rock bottom🗿",
+    "recite": {
+      "tips": [
+        "諧音梗：'俺不結'→自卑到不敢結婚",
+        "易混詞：object(反對) vs abject(卑微)"
+      ]
+    }
+  },
+  {
+    "word": "abjectly",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "ject",
+        "ly"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根ject表示'投掷'→字面义'被抛弃的状态'，-ly副词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "低贱地",
+        "examples": [
+          {
+            "sentence": "The landlord made them live abjectly in the basement without windows.",
+            "sentence_zh": "房东让他们像老鼠般住在无窗的地下室。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "凄惨地",
+        "examples": [
+          {
+            "sentence": "Pandas abjectly clung to bamboo stalks during the earthquake.",
+            "sentence_zh": "地震时熊猫凄惨地抱着竹竿发抖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "可鄙地",
+        "examples": [
+          {
+            "sentence": "He abjectly plagiarized his roommate's thesis.",
+            "sentence_zh": "他可鄙地抄袭了室友的论文。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abjectly poor",
+        "meaning": "赤贫的",
+        "examples": [
+          {
+            "sentence": "The abjectly poor artist traded paintings for instant noodles.",
+            "sentence_zh": "那位赤贫的画家用画作换泡面。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "apologize abjectly",
+        "meaning": "卑躬屈膝地道歉",
+        "examples": [
+          {
+            "sentence": "The celebrity apologized abjectly after the scandal broke.",
+            "sentence_zh": "丑闻曝光后该明星卑躬屈膝地道歉。"
+          }
+        ]
+      }
+    ],
+    "teach": "abjectly是'惨'字成精⚡！想象被扔(ject)出罗马斗兽场的奴隶🚫，或考试挂科后跪求老师的样子🧎。搭配说'混得惨'用live abjectly，'怂成狗'是grovel abjectly🐕。记住：这词自带'loser滤镜'，慎用！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不结题'→论文被拒后很凄惨",
+        "对比记忆：object（反对）vs abject（卑微）→字母o像抗议的嘴，a像塌肩小人"
+      ]
+    }
+  },
+  {
+    "word": "abjure",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "jure"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根jure表示'发誓'→字面意思是'通过发誓远离'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "发誓断绝",
+        "examples": [
+          {
+            "sentence": "The knight abjured his allegiance to the tyrant with a solemn oath.",
+            "sentence_zh": "骑士庄严宣誓断绝与暴君的效忠关系。"
+          },
+          {
+            "sentence": "After the scandal, the celebrity abjured all ties with the controversial brand.",
+            "sentence_zh": "丑闻后，该明星发誓断绝与争议品牌的一切联系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "公开放弃",
+        "examples": [
+          {
+            "sentence": "The scientist abjured his former theory during the press conference.",
+            "sentence_zh": "科学家在记者会上公开放弃了他先前的理论。"
+          },
+          {
+            "sentence": "Protesters demanded the politician abjure his discriminatory statements.",
+            "sentence_zh": "抗议者要求该政客公开放弃歧视性言论。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abjure the realm",
+        "meaning": "宣誓离开国土（英国古法术语）",
+        "examples": [
+          {
+            "sentence": "In medieval England, heretics were forced to abjure the realm.",
+            "sentence_zh": "中世纪英格兰，异端分子被迫宣誓离开国土。"
+          }
+        ]
+      }
+    ],
+    "teach": "abjure是'绝交宣言'📜：就像武侠片里割袍断义✂️（abjure friendship），或者明星发声明'永久退出娱乐圈'🎤（abjure show business）。搭配'abjure violence'像超级英雄放下武器🦸♂️，'abjure smoking'像把打火机扔进长江🚭。记住：当你说'I abjure'，等于在众人面前把东西摔碎💥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿伯拒'→阿伯拒绝(abjure)吃榴莲",
+        "易混词对比：abjure（发誓放弃） vs. adjure（恳求）"
+      ]
+    }
+  },
+  {
+    "word": "ablation",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "lat",
+        "ion"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根lat表示'携带'，后缀-ion表示行为→原指'带走的行为'，引申为通过物理/化学手段移除物质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "腐蚀",
+        "examples": [
+          {
+            "sentence": "The ablation of the bronze statue by acid rain shocked conservationists.",
+            "sentence_zh": "酸雨对青铜雕像的腐蚀程度让文物保护者震惊。"
+          },
+          {
+            "sentence": "Coastal ablation creates those dramatic sea cliffs in Norway.",
+            "sentence_zh": "海水腐蚀造就了挪威那些壮观的海边悬崖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "切除",
+        "examples": [
+          {
+            "sentence": "Laser ablation surgery removed the tumor with micron-level precision.",
+            "sentence_zh": "激光切除手术以微米级精度移除了肿瘤。"
+          },
+          {
+            "sentence": "Ancient Maya practiced dental ablation as a ritual decoration.",
+            "sentence_zh": "古玛雅人将牙齿切除作为仪式装饰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "烧蚀",
+        "examples": [
+          {
+            "sentence": "The spacecraft's heat shield relies on controlled ablation during re-entry.",
+            "sentence_zh": "宇宙飞船的防热盾依赖再入大气层时的可控烧蚀。"
+          },
+          {
+            "sentence": "Ablation testing involves shooting materials with plasma torches.",
+            "sentence_zh": "烧蚀测试需要用等离子火炬灼烧材料。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ablation zone",
+        "meaning": "消融区",
+        "examples": [
+          {
+            "sentence": "Glacier ablation zones are expanding due to global warming.",
+            "sentence_zh": "由于全球变暖，冰川消融区正在扩大。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "radiofrequency ablation",
+        "meaning": "射频消融",
+        "examples": [
+          {
+            "sentence": "Doctors performed radiofrequency ablation to treat the arrhythmia.",
+            "sentence_zh": "医生实施射频消融术治疗心律不齐。"
+          }
+        ]
+      }
+    ],
+    "teach": "ablation是材料界的'瘦身教练'💪！冰川消融像在吃冰淇淋🍦（glacier ablation），心脏手术像用微波炉加热♨️（cardiac ablation），就连火箭返回时都在玩'脱衣舞'👗（thermal ablation）。记住：所有带走的动作，从冰山融化到肿瘤切除，都可以叫ablation！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿伯拉醒'→阿伯被激光切除(ablation)惊醒",
+        "易混词：erosion（自然侵蚀） vs ablation（人为移除）",
+        "记忆法：AB（离开）+LATION（谐音'来生'）→通过切除获得新生"
+      ]
+    }
   }
 ]

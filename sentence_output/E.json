@@ -2915,5 +2915,305 @@
         "对比记忆：easy（形容词）→ easily（副词），类似happy→happily"
       ]
     }
+  },
+  {
+    "word": "easiness",
+    "etymology": {
+      "breakdown": [
+        "easy",
+        "ness"
+      ],
+      "meaning_connection": "词根easy来自古法语aisie=舒适，后缀-ness表示状态→处于舒适的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "容易",
+        "examples": [
+          {
+            "sentence": "The easiness of online shopping makes wallets cry.",
+            "sentence_zh": "网购的容易程度让钱包哭泣。"
+          },
+          {
+            "sentence": "The easiness of making hotpot with ready-to-cook packages surprises foreigners.",
+            "sentence_zh": "用火锅底料包做火锅的容易程度让外国人大吃一惊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "轻松",
+        "examples": [
+          {
+            "sentence": "His easiness in handling live-streaming makes fans call him 'Natural-born Host'.",
+            "sentence_zh": "他直播时的轻松自如让粉丝称他为'天生主播'。"
+          },
+          {
+            "sentence": "The easiness of her dance moves hides years of practice.",
+            "sentence_zh": "她舞姿的轻松背后是多年的练习。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "安适",
+        "examples": [
+          {
+            "sentence": "The easiness of the teahouse atmosphere makes people forget time.",
+            "sentence_zh": "茶馆氛围的安适让人忘记时间。"
+          },
+          {
+            "sentence": "Grandpa's easiness in retirement comes from daily tai chi by the lake.",
+            "sentence_zh": "爷爷退休后的安适源于每天在湖边打太极。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with easiness",
+        "meaning": "轻松地",
+        "examples": [
+          {
+            "sentence": "She solves math problems with easiness as if playing games.",
+            "sentence_zh": "她解数学题轻松得像在玩游戏。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "air of easiness",
+        "meaning": "轻松的氛围",
+        "examples": [
+          {
+            "sentence": "The coworking space has an air of easiness with bean bags and free snacks.",
+            "sentence_zh": "这个共享办公空间有懒人沙发和免费零食，充满轻松氛围。"
+          }
+        ]
+      }
+    ],
+    "teach": "easiness是社畜最渴望的状态💤！它就像葛优瘫在沙发上🛋️（air of easiness），又像用预制菜做年夜饭🍲（with easiness）。记住：当你说'It's done with easiness'时，就像在朋友圈凡尔赛🎭。地道说法'轻松搞定'叫a piece of cake🍰，搭配'毫无压力'说zero pressure🌪️。真正的easiness是躺着把钱赚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'易事nest'→在舒适的鸟巢(easy nest)里做易事",
+        "对比记忆：easiness(状态) vs. ease(动作)",
+        "联想：easy+ness=容易到让你想说'嗯~'(ness)"
+      ]
+    }
+  },
+  {
+    "word": "easing",
+    "etymology": {
+      "breakdown": [
+        "ease",
+        "ing"
+      ],
+      "meaning_connection": "词根ease=轻松/舒适，-ing表动作结果→原指使某物放松的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "吃势（服装术语：布料收缩量）",
+        "examples": [
+          {
+            "sentence": "The tailor calculated 2cm easing for the silk cheongsam.",
+            "sentence_zh": "裁缝为这件真丝旗袍预留了2厘米吃势。"
+          },
+          {
+            "sentence": "Proper easing prevents fabric from puckering at the sleeves.",
+            "sentence_zh": "正确的吃势能防止袖口布料起皱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "容位（机械术语：配合间隙）",
+        "examples": [
+          {
+            "sentence": "The piston's easing allows thermal expansion during operation.",
+            "sentence_zh": "活塞的容位设计允许工作时的热胀冷缩。"
+          },
+          {
+            "sentence": "Insufficient easing caused the gearbox to jam.",
+            "sentence_zh": "容位不足导致变速箱卡死。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "松型（铸造术语：模具余量）",
+        "examples": [
+          {
+            "sentence": "Bronze lion statues require larger easing than steel parts.",
+            "sentence_zh": "青铜狮子雕像比钢件需要更大的松型。"
+          },
+          {
+            "sentence": "The artisan adjusted the easing to compensate for metal shrinkage.",
+            "sentence_zh": "工匠调整松型以补偿金属收缩。"
+          }
+        ]
+      }
+    ],
+    "teach": "easing是专业界的'留白艺术'🎨！在旗袍里像给布料'呼吸的空间'👗（fabric easing），在机械中像给零件'跳广场舞的场地'⚙️（tolerance easing），铸造时像给青铜鼎'减肥预留量'🍲（mold easing）。搭配说'add easing'像点奶茶要'少冰'🧊，'calculate easing'像算火锅食材收缩率🥘。记住：专业easing就像相亲时的安全距离——太紧会窒息，太松会掉链子！💫",
+    "recite": {
+      "tips": [
+        "谐音梗：'易行'→留了易行(easing)空间才能顺利",
+        "对比记忆：ease（轻松）→easing（专业术语中的'轻松量'）"
+      ]
+    }
+  },
+  {
+    "word": "east",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语ēast，与拉丁语aurora（黎明）同源，因太阳从东方升起"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "东方",
+        "examples": [
+          {
+            "sentence": "The Forbidden City faces east to greet the rising sun.",
+            "sentence_zh": "紫禁城面朝东方迎接朝阳。"
+          },
+          {
+            "sentence": "Shanghai blends tradition from the east and modernity from the west.",
+            "sentence_zh": "上海融合了东方的传统与西方的现代。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "东方的",
+        "examples": [
+          {
+            "sentence": "East Asian cuisine emphasizes balance of flavors.",
+            "sentence_zh": "东亚菜系讲究五味调和。"
+          },
+          {
+            "sentence": "The east wing of the museum displays Ming Dynasty porcelain.",
+            "sentence_zh": "博物馆东翼陈列着明代瓷器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "向东方",
+        "examples": [
+          {
+            "sentence": "The high-speed train speeds east toward Hangzhou.",
+            "sentence_zh": "高铁朝东飞驰向杭州。"
+          },
+          {
+            "sentence": "Pandas migrate east in search of bamboo shoots.",
+            "sentence_zh": "大熊猫向东迁徙寻找竹笋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the Far East",
+        "meaning": "远东地区",
+        "examples": [
+          {
+            "sentence": "Marco Polo's travels to the Far East fascinated Europeans.",
+            "sentence_zh": "马可波罗的远东之行令欧洲人神往。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "east by northeast",
+        "meaning": "东北偏东方向",
+        "examples": [
+          {
+            "sentence": "The typhoon is moving east by northeast at 20km/h.",
+            "sentence_zh": "台风正以20公里时速向东北偏东移动。"
+          }
+        ]
+      }
+    ],
+    "teach": "east这个词自带导航功能🧭！古代中国人用'青龙'代表东方🐉，而英语里'east'和'复活节(Easter)'同源（因为日出象征新生）。说'一路向东'地道表达是head due east（像唐僧取经👨‍🦲），'东风'叫easterly wind（诸葛亮借的就是它🌪️）。记住：太阳升起的地方永远充满希望！",
+    "recite": {
+      "tips": [
+        "谐音梗：'意思的'→东方(east)文化最有意思的",
+        "易混词对比：east vs eastern→前者指具体方位，后者指文化概念"
+      ]
+    }
+  },
+  {
+    "word": "eastbound",
+    "etymology": {
+      "breakdown": [
+        "east",
+        "bound"
+      ],
+      "meaning_connection": "east表示'东方'，bound表示'前往/朝向'，组合表示'向东前进的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "往东的",
+        "examples": [
+          {
+            "sentence": "The eastbound train to Shanghai departs from Platform 3.",
+            "sentence_zh": "开往上海的东行列车的3号站台发车。"
+          },
+          {
+            "sentence": "All eastbound lanes on the highway are closed due to heavy snow.",
+            "sentence_zh": "高速公路所有东行车道因大雪封闭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "向东旅行的",
+        "examples": [
+          {
+            "sentence": "We joined a group of eastbound backpackers in Lanzhou.",
+            "sentence_zh": "我们在兰州加入了一群向东旅行的背包客队伍。"
+          },
+          {
+            "sentence": "The eastbound flight follows the sunrise across time zones.",
+            "sentence_zh": "这趟东行航班追着日出跨越时区。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eastbound traffic",
+        "meaning": "东行交通",
+        "examples": [
+          {
+            "sentence": "Eastbound traffic on Chang'an Avenue peaks at 8am.",
+            "sentence_zh": "长安街东行交通在早8点达到高峰。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "eastbound journey",
+        "meaning": "东行旅程",
+        "examples": [
+          {
+            "sentence": "Marco Polo's eastbound journey along the Silk Road took 4 years.",
+            "sentence_zh": "马可·波罗沿丝绸之路的东行之旅历时四年。"
+          }
+        ]
+      }
+    ],
+    "teach": "eastbound就像指南针的红色指针🧭永远指向东方！古代商队称为'东向驼队'🐫，现在高铁G字头就是'eastbound bullet train'🚄。搭配'eastbound wind'（东风）对应诸葛亮借东风🌪️，说'一路向东'地道表达是'head eastbound like the rising sun'🌅。记住：bound系列还有westbound/southbound/northbound，凑齐就是麻将东西南北中🀄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'意思棒的'→往东(eastbound)旅行意思棒的",
+        "易混词对比：eastbound（向东的）vs eastward（向东方向）"
+      ]
+    }
   }
 ]

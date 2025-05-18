@@ -2837,5 +2837,301 @@
         "联想：safe的'e'像保险箱的钥匙孔"
       ]
     }
+  },
+  {
+    "word": "safeguard",
+    "etymology": {
+      "breakdown": [
+        "safe",
+        "guard"
+      ],
+      "meaning_connection": "复合词，safe=安全，guard=守卫→字面意思'安全守卫'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "保卫",
+        "examples": [
+          {
+            "sentence": "The Great Wall served as a historical safeguard against northern invasions.",
+            "sentence_zh": "长城曾是抵御北方入侵的历史性保卫。"
+          },
+          {
+            "sentence": "Online payment safeguards give users peace of mind.",
+            "sentence_zh": "在线支付保卫措施让用户安心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "保护措施",
+        "examples": [
+          {
+            "sentence": "Double authentication is a key safeguard for WeChat accounts.",
+            "sentence_zh": "双重验证是微信账号的关键保护措施。"
+          },
+          {
+            "sentence": "The new policy includes safeguards for gig workers' rights.",
+            "sentence_zh": "新政策包含对零工权益的保护措施。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "防护设施",
+        "examples": [
+          {
+            "sentence": "All construction sites must have safety safeguards installed.",
+            "sentence_zh": "所有建筑工地必须安装安全防护设施。"
+          },
+          {
+            "sentence": "The amusement park's safeguards prevented any accidents.",
+            "sentence_zh": "游乐园的防护设施避免了任何事故。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "保卫",
+        "examples": [
+          {
+            "sentence": "The Forbidden City was safeguarded by massive walls and a moat.",
+            "sentence_zh": "紫禁城曾通过高墙和护城河来保卫。"
+          },
+          {
+            "sentence": "AI technology safeguards our personal data from hackers.",
+            "sentence_zh": "人工智能技术保卫我们的个人数据免受黑客攻击。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "保护",
+        "examples": [
+          {
+            "sentence": "Panda reserves safeguard this endangered species.",
+            "sentence_zh": "熊猫保护区保护这一濒危物种。"
+          },
+          {
+            "sentence": "Cultural heritage laws safeguard traditional tea-making techniques.",
+            "sentence_zh": "文化遗产法保护传统制茶技艺。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "safeguard against",
+        "meaning": "防范",
+        "examples": [
+          {
+            "sentence": "Wearing masks safeguards against virus transmission.",
+            "sentence_zh": "戴口罩防范病毒传播。"
+          }
+        ]
+      }
+    ],
+    "teach": "safeguard就像手机钢化膜📱+防沉迷系统⏰组合！历史上长城是实体safeguard🧱，现在杀毒软件是数字safeguard🛡️。记住：说'保护传统文化'用safeguard比protect更正式，'防疫措施'叫epidemic safeguards。搭配：financial safeguards（金融防火墙）💵｜firewall safeguards（防火墙措施）🔥 地道表达：'过度保护'叫cotton-wool treatment（棉花包裹疗法）🧶",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛弗盖的'→比赛看谁盖的防护盖(safeguard)更好",
+        "易混词对比：protect(日常保护) vs safeguard(系统防护)",
+        "记忆法：拆解safe+guard=安全卫士360"
+      ]
+    }
+  },
+  {
+    "word": "safeguarding",
+    "etymology": {
+      "breakdown": [
+        "safe",
+        "guard",
+        "ing"
+      ],
+      "meaning_connection": "safe表示'安全的'，guard表示'守卫'，-ing表名词化→原指守卫安全的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "安全防护",
+        "examples": [
+          {
+            "sentence": "The safeguarding of the Terracotta Warriors involves humidity control systems.",
+            "sentence_zh": "兵马俑的安全防护包含湿度控制系统。"
+          },
+          {
+            "sentence": "Panda cubs need special safeguarding against clumsy tourists.",
+            "sentence_zh": "熊猫幼崽需要特别防护以防笨拙的游客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "安全措施",
+        "examples": [
+          {
+            "sentence": "Cyberspace safeguarding includes firewall and facial recognition.",
+            "sentence_zh": "网络空间安全措施包含防火墙和人脸识别。"
+          },
+          {
+            "sentence": "Hotpot restaurants have strict safeguarding for chili oil spills.",
+            "sentence_zh": "火锅店针对红油飞溅有严格安全措施。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "child safeguarding",
+        "meaning": "儿童保护",
+        "examples": [
+          {
+            "sentence": "Kindergarten teachers receive annual child safeguarding training.",
+            "sentence_zh": "幼儿园教师每年接受儿童保护培训。"
+          }
+        ]
+      }
+    ],
+    "teach": "safeguarding就像给手机贴钢化膜📱+戴卡通手机壳🐼：既要防摔（物理防护）又要防偷看（隐私保护）！古人用护城河当safeguarding🏰，现代人用双重验证🔒。说'过度保护'用地道表达cotton-wool kids（棉花包着的孩子），搭配用'加强防护'→enhance safeguarding，'漏洞防护'→loophole safeguarding。记住：好的safeguarding就像鸳鸯锅——清汤红汤互不干扰🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'腮帮鼓叮'→腮帮鼓起来叮咛要注意安全",
+        "易混词对比：safeguarding（系统性防护）vs. protection（泛指保护）"
+      ]
+    }
+  },
+  {
+    "word": "safekeeping",
+    "etymology": {
+      "breakdown": [
+        "safe",
+        "keep",
+        "ing"
+      ],
+      "meaning_connection": "'safe'表示安全，'keep'表示保持，组合后表示'安全地保管'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "保护",
+        "examples": [
+          {
+            "sentence": "The museum entrusts the ancient scrolls to the librarian's safekeeping.",
+            "sentence_zh": "博物馆委托图书管理员保护这些古代卷轴。"
+          },
+          {
+            "sentence": "During the war, families sent their children to the countryside for safekeeping.",
+            "sentence_zh": "战争期间，许多家庭把孩子送到乡下保护起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "保管",
+        "examples": [
+          {
+            "sentence": "The bank offers safekeeping services for valuable items.",
+            "sentence_zh": "银行为贵重物品提供保管服务。"
+          },
+          {
+            "sentence": "She left her engagement ring in her best friend's safekeeping while traveling.",
+            "sentence_zh": "旅行期间她把订婚戒指交给最好的朋友保管。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "for safekeeping",
+        "meaning": "为了安全保管",
+        "examples": [
+          {
+            "sentence": "Grandma gave me her pearl necklace for safekeeping.",
+            "sentence_zh": "奶奶把她的珍珠项链交给我保管。"
+          }
+        ]
+      }
+    ],
+    "teach": "safekeeping就像现代版'保险柜'💼！古埃及法老把财宝藏在金字塔里🕌（最早的safekeeping），现在支付宝把密码存在加密芯片里🔒（数字safekeeping）。要说'请保管好'可以道'Keep it under lock and key'🔐，记住：你的safekeeping能力决定了朋友敢不敢把宠物寄养在你家🐶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'safe+keep+ing'→'赛佛keep硬'→保安硬核保管",
+        "易混词对比：safekeeping(长期保管) vs. storage(短期存放)"
+      ]
+    }
+  },
+  {
+    "word": "safely",
+    "etymology": {
+      "breakdown": [
+        "safe",
+        "ly"
+      ],
+      "meaning_connection": "词根safe=安全，后缀-ly表副词形式→以安全的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "安全地",
+        "examples": [
+          {
+            "sentence": "The panda cub was safely transported to the new bamboo forest.",
+            "sentence_zh": "熊猫幼崽被安全运送到新的竹林。"
+          },
+          {
+            "sentence": "All passengers landed safely despite the turbulence.",
+            "sentence_zh": "尽管遇到气流颠簸，所有乘客都安全降落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "确实地",
+        "examples": [
+          {
+            "sentence": "We can safely say that hotpot is China's national dish.",
+            "sentence_zh": "我们可以确实地说火锅是中国的国民美食。"
+          },
+          {
+            "sentence": "The evidence safely proves his innocence.",
+            "sentence_zh": "证据确实地证明了他的清白。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "arrive safely",
+        "meaning": "安全到达",
+        "examples": [
+          {
+            "sentence": "Text me when you arrive safely at the dorm.",
+            "sentence_zh": "安全到宿舍后给我发消息。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "safely assume",
+        "meaning": "有把握地认为",
+        "examples": [
+          {
+            "sentence": "We can safely assume the meeting will be postponed.",
+            "sentence_zh": "我们可以有把握地认为会议将延期。"
+          }
+        ]
+      }
+    ],
+    "teach": "safely就像你的手机保护壳📱：物理上保护你不碎屏（walk home safely），逻辑上保证结论不翻车🚗（safely conclude）。搭配'平安到家'说arrive safely就像外卖小哥的终极使命🍔，而'safely say'比'我认为'更有说服力💪。记住：加-ly的safe就像泡面配火腿肠——双倍保险！🛡️🍜",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛飞离'→比赛飞离(safely)危险区",
+        "易混词对比：safe(adj.) vs safely(adv.) 就像'安全帽'和'安全地戴帽'"
+      ]
+    }
   }
 ]

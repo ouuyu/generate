@@ -3120,5 +3120,273 @@
         "易混词对比：Walkman vs. iPod（前者用磁带，后者数字存储）"
       ]
     }
+  },
+  {
+    "word": "walkout",
+    "etymology": {
+      "breakdown": [
+        "walk",
+        "out"
+      ],
+      "meaning_connection": "字面意思'走出去'→引申为通过离开表达抗议（罢工/退席），或关系中主动离开（分手）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "罢工",
+        "examples": [
+          {
+            "sentence": "The KFC staff staged a walkout when their overtime pay was canceled.",
+            "sentence_zh": "肯德基员工在加班费被取消后发起罢工。"
+          },
+          {
+            "sentence": "Tech company walkouts often involve silent protests with laptops.",
+            "sentence_zh": "科技公司罢工常伴随带着笔记本的静默抗议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "退席抗议",
+        "examples": [
+          {
+            "sentence": "The diplomat's walkout during the speech went viral on Douyin.",
+            "sentence_zh": "外交官在演讲期间退席的视频在抖音疯传。"
+          },
+          {
+            "sentence": "Audience walkouts are the harshest reviews for stand-up comedians.",
+            "sentence_zh": "观众退席是对脱口秀演员最严厉的差评。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "主动结束的恋爱关系",
+        "examples": [
+          {
+            "sentence": "Her walkout from the 5-year relationship shocked their friend circle.",
+            "sentence_zh": "她主动结束5年恋情的决定震惊了朋友圈。"
+          },
+          {
+            "sentence": "In Chinese dramas, walkouts always happen in heavy rain for dramatic effect.",
+            "sentence_zh": "国产剧中分手戏总安排在下大雨时以增强戏剧效果。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "stage a walkout",
+        "meaning": "组织罢工/退席",
+        "examples": [
+          {
+            "sentence": "Delivery riders staged a walkout during the Singles' Day shopping frenzy.",
+            "sentence_zh": "外卖骑手在双十一购物狂潮期间组织罢工。"
+          }
+        ]
+      }
+    ],
+    "teach": "walkout本质是'掀桌走人'拍桌动作💢：劳工版是举罢工牌子📢（factory walkout），外交版是摔门而去🚪（diplomatic walkout），恋爱版是摔情侣杯☕（relationship walkout）。搭配：'静默罢工'叫silent walkout，'霸气退场'用dramatic walkout。记住：但凡需要'用离开表达态度'的场景，都能用walkout！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我烤的'→我烤的(walkout)面包全糊了，员工罢工",
+        "易混词对比：walkout（有组织抗议）vs. resignation（个人辞职）"
+      ]
+    }
+  },
+  {
+    "word": "walkover",
+    "etymology": {
+      "breakdown": [
+        "walk",
+        "over"
+      ],
+      "meaning_connection": "字面意思是'走过去'→象征毫不费力就能获胜"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "轻易取得的胜利",
+        "examples": [
+          {
+            "sentence": "The chess match was a walkover when the grandmaster's opponent forgot the rules.",
+            "sentence_zh": "当国际象棋大师的对手忘记规则时，比赛成了轻松获胜的表演赛。"
+          },
+          {
+            "sentence": "Winning the lottery is no walkover - it's pure luck!",
+            "sentence_zh": "中彩票可不是轻易能赢的事——纯粹靠运气！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be a walkover",
+        "meaning": "易如反掌",
+        "examples": [
+          {
+            "sentence": "Don't assume the exam will be a walkover just because it's online.",
+            "sentence_zh": "别以为因为是线上考试就会轻而易举。"
+          }
+        ]
+      }
+    ],
+    "teach": "walkover其实是体育梗🤸：原指对手弃赛时，选手直接'走过去'(walk over)终点线就算赢🏁。现在形容像用脚走过豆腐渣工程那样轻松的胜利（但豆腐渣工程可不能真走！）。说'稳赢'可以用in the bag（像已装进袋子里），比如'夺冠稳了'→the championship is in the bag👜",
+    "recite": {
+      "tips": [
+        "视觉联想：像超级玛丽吃到无敌星⭐→大摇大摆走过去",
+        "易混词对比：landslide指压倒性胜利（如选举），walkover强调毫不费力"
+      ]
+    }
+  },
+  {
+    "word": "walkway",
+    "etymology": {
+      "breakdown": [
+        "walk",
+        "way"
+      ],
+      "meaning_connection": "walk表示'行走'，way表示'道路'→供人行走的通道"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "走道",
+        "examples": [
+          {
+            "sentence": "The glass walkway in Zhangjiajie lets you 'walk on air' 300 meters up.",
+            "sentence_zh": "张家界的玻璃走道让你在300米高空'凌空漫步'。"
+          },
+          {
+            "sentence": "Museum walkways are designed like flowing calligraphy strokes.",
+            "sentence_zh": "博物馆走道被设计成书法般的流畅线条。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "人行道",
+        "examples": [
+          {
+            "sentence": "The neon-lit walkway in Chongqing looks like a cyberpunk movie set.",
+            "sentence_zh": "重庆的霓虹人行道宛如赛博朋克电影场景。"
+          },
+          {
+            "sentence": "Ancient city walls were converted into elevated walkways for tourists.",
+            "sentence_zh": "古城墙被改造成供游客使用的高架人行道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "covered walkway",
+        "meaning": "风雨走廊",
+        "examples": [
+          {
+            "sentence": "Southern Chinese schools often have covered walkways against rainy seasons.",
+            "sentence_zh": "中国南方的学校常设有防雨季的风雨走廊。"
+          }
+        ]
+      }
+    ],
+    "teach": "walkway是城市的毛细血管🩸！古代有'复道行空'的廊桥（就像重庆洪崖洞的空中步道🌉），现代有上海外滩的观景平台🛳️。说'挤满人'用packed like dumplings（像饺子一样挤），'宽敞'说spacious as a runway。记住：所有walkway都通往奶茶店！🧋",
+    "recite": {
+      "tips": [
+        "谐音梗：'我渴喂'→走完walkway我渴喂",
+        "对比：sidewalk侧重路边，walkway可独立存在"
+      ]
+    }
+  },
+  {
+    "word": "wall",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'weall'，与拉丁语'vallum'(防御墙)同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "墙",
+        "examples": [
+          {
+            "sentence": "Workers are dismantling the Great Firewall to access Google.",
+            "sentence_zh": "工人们正在拆除防火长城以访问谷歌。"
+          },
+          {
+            "sentence": "Her WeChat moments are like a brick wall full of baby photos.",
+            "sentence_zh": "她的朋友圈像堵贴满宝宝照片的砖墙。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "屏障",
+        "examples": [
+          {
+            "sentence": "The language barrier became an invisible wall between them.",
+            "sentence_zh": "语言障碍成了他们之间无形的墙。"
+          },
+          {
+            "sentence": "The smog formed a grey wall over Beijing.",
+            "sentence_zh": "雾霾在北京上空形成灰色屏障。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "墙的",
+        "examples": [
+          {
+            "sentence": "The wall socket wouldn't accept my Australian charger.",
+            "sentence_zh": "墙上的插座不接受我的澳洲充电器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用墙围住",
+        "examples": [
+          {
+            "sentence": "The panda base walls off bamboo groves for each bear.",
+            "sentence_zh": "熊猫基地为每只熊用墙围出竹林。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hit the wall",
+        "meaning": "撞墙（指遇到瓶颈）",
+        "examples": [
+          {
+            "sentence": "After memorizing 5000 words, my brain hit the wall.",
+            "sentence_zh": "背完5000单词后我的大脑撞墙了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go wall climbing",
+        "meaning": "攀岩",
+        "examples": [
+          {
+            "sentence": "Beijing office workers go wall climbing to relieve stress.",
+            "sentence_zh": "北京上班族通过攀岩减压。"
+          }
+        ]
+      }
+    ],
+    "teach": "wall这东西从长城🧱到朋友圈屏蔽🚧都是戏！古人用wall防匈奴，现代人用wall防老板查岗💼。说'碰壁'叫hit the wall就像马拉松撞墙期🏃，'筑墙'叫build walls像川普的墨西哥墙计划🇺🇸。记住：wall不仅是砖块，更是文化符号！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喔'→看到墙惊呼'喔'",
+        "对比：wall(实体墙) vs. barrier(抽象障碍)"
+      ]
+    }
   }
 ]

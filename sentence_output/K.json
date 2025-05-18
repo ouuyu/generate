@@ -2872,5 +2872,323 @@
         "易混词：tomato sauce(意面酱) vs ketchup(调味番茄酱)"
       ]
     }
+  },
+  {
+    "word": "Kenyan",
+    "etymology": {
+      "breakdown": [
+        "Kenya",
+        "an"
+      ],
+      "meaning_connection": "国名Kenya（源自吉库尤语'Kirinyaga'意为'白色山脉'）+后缀-an表'属于...的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "肯尼亚人",
+        "examples": [
+          {
+            "sentence": "Kipchoge, the legendary marathoner, is a proud Kenyan.",
+            "sentence_zh": "传奇马拉松选手基普乔格是自豪的肯尼亚人。"
+          },
+          {
+            "sentence": "Kenyans celebrate Mashujaa Day with traditional dances.",
+            "sentence_zh": "肯尼亚人以传统舞蹈庆祝英雄日。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Kenyan coffee",
+        "meaning": "肯尼亚咖啡",
+        "examples": [
+          {
+            "sentence": "Starbucks sources Kenyan coffee beans for its premium blend.",
+            "sentence_zh": "星巴克采购肯尼亚咖啡豆用于其精品拼配。"
+          },
+          {
+            "sentence": "The fruity acidity makes Kenyan coffee stand out in espresso.",
+            "sentence_zh": "果香酸度使肯尼亚咖啡在浓缩咖啡中脱颖而出。"
+          }
+        ]
+      }
+    ],
+    "teach": "Kenyan这词自带奔跑基因🏃！全世界马拉松领奖台常被'Kenyan'包揽，就像火锅界的四川人🌶️。说'东非大裂谷'叫Great Rift Valley，而地道夸法说'fast as a Kenyan runner'（快如肯尼亚跑者）。搭配：Kenyan tea（肯尼亚红茶）比英式早餐茶更野性，Kenyan safari（肯尼亚野生动物观光）让你当现实版狮子王🦁！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肯养'→肯尼亚人养长跑冠军",
+        "易混词：Kenyan vs. Kenya（前者是人，后者是国）",
+        "记忆锚点：国旗颜色黑红绿=跑道/热血/草原"
+      ]
+    }
+  },
+  {
+    "word": "kettle",
+    "etymology": {
+      "breakdown": [
+        "ketel"
+      ],
+      "meaning_connection": "源自古诺尔斯语ketill（锅），与拉丁语catillus（小碗）同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "茶壶",
+        "examples": [
+          {
+            "sentence": "The grandma's enamel kettle whistled like a morning alarm clock.",
+            "sentence_zh": "奶奶的搪瓷茶壶鸣笛声像清晨闹钟。"
+          },
+          {
+            "sentence": "British police found 200 stolen kettles in a teahouse raid.",
+            "sentence_zh": "英国警方在一次茶馆突袭中查获200个被盗茶壶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "罐",
+        "examples": [
+          {
+            "sentence": "Archaeologists unearthed Bronze Age kettles used for ritual sacrifices.",
+            "sentence_zh": "考古学家发掘出青铜时代用于祭祀的罐器。"
+          },
+          {
+            "sentence": "The fishmonger's kettle emitted pungent odors of salted seafood.",
+            "sentence_zh": "鱼贩子的腌鱼罐散发着刺鼻的咸腥味。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kettle of fish",
+        "meaning": "棘手局面",
+        "examples": [
+          {
+            "sentence": "Forgetting the wedding rings was a fine kettle of fish!",
+            "sentence_zh": "忘记带婚戒可真是个大麻烦！"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "the pot calling the kettle black",
+        "meaning": "五十步笑百步",
+        "examples": [
+          {
+            "sentence": "When the procrastinator criticized his lazy colleague, it was the pot calling the kettle black.",
+            "sentence_zh": "当拖延症患者批评懒散的同事时，简直是乌鸦笑猪黑。"
+          }
+        ]
+      }
+    ],
+    "teach": "kettle的前世今生：维京海盗用它煮战利品🍖，英伦绅士用它泡下午茶☕️。'不同的kettle of fish'指'另一码事'（就像鸳鸯锅vs清汤锅🍲），吐槽别人时说'pot calling kettle black'比'五十步笑百步'更带劲！煮开水时记得：a watched kettle never boils（心急水不开）⏳",
+    "recite": {
+      "tips": [
+        "谐音梗：'开抖'→茶壶烧开时抖得厉害",
+        "易混词：kettle vs cattle（牛群）→茶壶没'茶'就剩'牛'了"
+      ]
+    }
+  },
+  {
+    "word": "Kevlar",
+    "etymology": {
+      "breakdown": [
+        "Kev",
+        "lar"
+      ],
+      "meaning_connection": "注册商标名，1965年杜邦公司研发，其中'Kev'可能来自化学家Stephanie Kwolek的昵称"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "凯夫拉纤维",
+        "examples": [
+          {
+            "sentence": "The bulletproof vest uses 18 layers of Kevlar fabric.",
+            "sentence_zh": "这件防弹衣使用了18层凯夫拉纤维织物。"
+          },
+          {
+            "sentence": "Her smartphone case has a Kevlar core for drop protection.",
+            "sentence_zh": "她的手机壳含有凯夫拉内芯以防摔落损坏。"
+          }
+        ]
+      }
+    ],
+    "teach": "Kevlar就像现代锁子甲🛡️！这个比钢强5倍的神奇纤维，最初差点被当废料倒掉——1965年发明它的化学家发现这'浑浊液体'能拉出超强丝线。现在从防弹背心到火星探测器都在用，说'tough as Kevlar'（坚韧如凯夫拉）比'硬核'更硬核💪。搭配：Kevlar gloves（防切割手套）/ Kevlar-reinforced（凯夫拉加固的）",
+    "recite": {
+      "tips": [
+        "视觉联想：字母K像防弹板，尾巴'ar'是纤维丝线",
+        "易混词：vs. carbon fiber（碳纤维更硬，凯夫拉更抗撕裂）"
+      ]
+    }
+  },
+  {
+    "word": "key",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语cǣg，原指开锁工具，后衍生多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "钥匙",
+        "examples": [
+          {
+            "sentence": "She left her car key inside a KFC takeout bag.",
+            "sentence_zh": "她把车钥匙忘在肯德基外卖袋里。"
+          },
+          {
+            "sentence": "The golden key to the city was shaped like a hotpot ladle.",
+            "sentence_zh": "城市金钥匙被做成火锅勺的形状。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "键",
+        "examples": [
+          {
+            "sentence": "The 'P' key on my keyboard is stuck from spicy crayfish juice.",
+            "sentence_zh": "我键盘的P键被麻辣小龙虾的汤汁卡住了。"
+          },
+          {
+            "sentence": "Pianists' muscle memory for black keys is like riding a bicycle.",
+            "sentence_zh": "钢琴家对黑键的肌肉记忆就像骑自行车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "关键",
+        "examples": [
+          {
+            "sentence": "The key to his success was selling socks with panda faces.",
+            "sentence_zh": "他成功的关键是卖带熊猫脸的袜子。"
+          },
+          {
+            "sentence": "Finding the key witness was like locating a specific grain in a rice field.",
+            "sentence_zh": "寻找关键证人就像在稻田里找特定的一粒米。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "锁上",
+        "examples": [
+          {
+            "sentence": "She keyed her diary with a finger print lock after her brother read it.",
+            "sentence_zh": "在她弟弟偷看日记后，她给日记加了指纹锁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "key in",
+        "meaning": "输入",
+        "examples": [
+          {
+            "sentence": "I keyed in the wrong WiFi password 18 times.",
+            "sentence_zh": "我输错了18次WiFi密码。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "key to success",
+        "meaning": "成功关键",
+        "examples": [
+          {
+            "sentence": "The key to viral videos is either cute cats or falling toddlers.",
+            "sentence_zh": "病毒视频的关键不是萌猫就是摔倒的娃。"
+          }
+        ]
+      }
+    ],
+    "teach": "key就像哆啦A梦的口袋🎒！当钥匙时能开任意门🚪（house key），当琴键时能演奏《月亮代表我的心》🎹（piano key），当关键时堪比考试重点📚（key point）。要说'掌握关键'就说hold the key，'输密码'叫key in就像往自动售货机塞硬币💰。记住：人生没有万能key，除非你有管理员权限🔑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'可以'→有key就可以开门",
+        "易混词：key vs kiss（键盘侠常把kiss打成key）"
+      ]
+    }
+  },
+  {
+    "word": "keyboard",
+    "etymology": {
+      "breakdown": [
+        "key",
+        "board"
+      ],
+      "meaning_connection": "key（按键）+ board（板）→ 最初指钢琴的键板，后延伸至打字机和电脑输入设备"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "键盘（乐器）",
+        "examples": [
+          {
+            "sentence": "Lang Lang's fingers danced across the piano keyboard like lightning.",
+            "sentence_zh": "郎朗的手指如闪电般在钢琴键盘上舞动。"
+          },
+          {
+            "sentence": "The antique harpsichord has an ivory keyboard yellowed with age.",
+            "sentence_zh": "这台古董羽管键琴的象牙键盘已因年代久远而泛黄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "键盘（电子设备）",
+        "examples": [
+          {
+            "sentence": "Her mechanical keyboard sounds like popping bubble wrap during Zoom meetings.",
+            "sentence_zh": "她的机械键盘在Zoom会议中发出像捏泡泡纸的声音。"
+          },
+          {
+            "sentence": "I spilled milk on my laptop keyboard and now the 'S' key sticks.",
+            "sentence_zh": "我把牛奶洒在笔记本键盘上，现在S键卡住了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keyboard shortcut",
+        "meaning": "键盘快捷键",
+        "examples": [
+          {
+            "sentence": "Ctrl+C is the most overworked keyboard shortcut in history.",
+            "sentence_zh": "Ctrl+C是历史上使用最频繁的键盘快捷键。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "virtual keyboard",
+        "meaning": "虚拟键盘",
+        "examples": [
+          {
+            "sentence": "The cashier tapped on a greasy virtual keyboard to process my order.",
+            "sentence_zh": "收银员在油腻的虚拟键盘上点击处理我的订单。"
+          }
+        ]
+      }
+    ],
+    "teach": "键盘的前世今生⌨️：从钢琴的黑白键到电脑的QWERTY布局，人类总在'键'盘上跳舞💃！程序员说'敲代码'用pound the keyboard（猛捶键盘），'乱打字'叫keyboard mashing（像捣年糕）。记住：无论弹钢琴还是写论文，你的finger功夫决定了keyboard的产值💰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'可以包的'→键盘是可以包的电子设备",
+        "对比记忆：keyboard warrior（键盘侠） vs. piano virtuoso（钢琴大师）",
+        "联想：电脑键盘就像微型钢琴，只不过演奏的是代码而非音乐"
+      ]
+    }
   }
 ]

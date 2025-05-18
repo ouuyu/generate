@@ -3078,5 +3078,285 @@
         "易混词对比：fad（短暂流行） vs trend（长期趋势）"
       ]
     }
+  },
+  {
+    "word": "fade",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语fader，与拉丁语fatidus（令人厌烦的）相关，原指颜色或光线逐渐减弱"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "褪色",
+        "examples": [
+          {
+            "sentence": "The red lanterns faded to pink after three monsoons.",
+            "sentence_zh": "这些红灯笼经历三次季风雨后褪成了粉色。"
+          },
+          {
+            "sentence": "My favorite jeans faded like TikTok trends.",
+            "sentence_zh": "我最爱的牛仔裤像抖音热门一样褪色了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "消失",
+        "examples": [
+          {
+            "sentence": "The Douyin notification sound faded into the night.",
+            "sentence_zh": "抖音提示音渐渐消失在夜色中。"
+          },
+          {
+            "sentence": "His enthusiasm for the game faded faster than a bubble tea.",
+            "sentence_zh": "他对游戏的热情消失得比一杯奶茶还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "凋谢",
+        "examples": [
+          {
+            "sentence": "The peonies in the Forbidden City are fading after the rain.",
+            "sentence_zh": "故宫的牡丹花在雨后开始凋谢。"
+          },
+          {
+            "sentence": "Her smile faded like cherry blossoms in April wind.",
+            "sentence_zh": "她的笑容如四月的樱花般凋零。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使褪色",
+        "examples": [
+          {
+            "sentence": "The strong Wuxi sunlight faded my mahjong set.",
+            "sentence_zh": "无锡的烈日晒淡了我的麻将牌。"
+          },
+          {
+            "sentence": "She accidentally faded her hanfu by using the wrong detergent.",
+            "sentence_zh": "她用错洗衣液导致汉服褪色了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "淡入",
+        "examples": [
+          {
+            "sentence": "The documentary starts with a fade of terracotta warriors.",
+            "sentence_zh": "纪录片以兵马俑的淡入开场。"
+          },
+          {
+            "sentence": "WeChat video calls use smooth fades between scenes.",
+            "sentence_zh": "微信视频通话采用流畅的场景淡入效果。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "淡出",
+        "examples": [
+          {
+            "sentence": "The MV ends with a fade of the Great Wall at sunset.",
+            "sentence_zh": "MV以长城日落的淡出作为结束。"
+          },
+          {
+            "sentence": "The live stream used fade effects between hosts.",
+            "sentence_zh": "直播用淡出效果切换主播画面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "平淡的",
+        "examples": [
+          {
+            "sentence": "The new drama has a fade plot despite big stars.",
+            "sentence_zh": "这部新剧尽管有大牌明星但剧情平淡。"
+          },
+          {
+            "sentence": "His WeChat moments became fade after getting married.",
+            "sentence_zh": "他结婚后朋友圈变得平淡无奇。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fade away",
+        "meaning": "逐渐消失",
+        "examples": [
+          {
+            "sentence": "The smell of stinky tofu faded away down the alley.",
+            "sentence_zh": "臭豆腐的味道在小巷中逐渐消散。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fade out",
+        "meaning": "淡出",
+        "examples": [
+          {
+            "sentence": "The CCTV Spring Festival Gala faded out with fireworks.",
+            "sentence_zh": "春晚以烟花效果的淡出结束。"
+          }
+        ]
+      }
+    ],
+    "teach": "fade就像被遗忘的微博热搜📉！当颜色fade时像晒褪色的春联🧧；记忆fade时像过期的健康码📱；影视fade out时像逐渐黑屏的手机📴。说'存在感低'可以用fade into the background（淡出背景板），'过气网红'叫has-been比fade更毒舌💔。记住：fade是温柔的消失，像奶茶里的冰块慢慢融化🧊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'废的'→颜色废的(fade)就褪色了",
+        "易混对比：vanish是突然消失，fade是慢慢消退",
+        "记忆法：F-A-D-E = Fading Always Demands Energy（褪色总需要能量）"
+      ]
+    }
+  },
+  {
+    "word": "faded",
+    "etymology": {
+      "breakdown": [
+        "fade",
+        "ed"
+      ],
+      "meaning_connection": "动词fade（褪色）+后缀-ed表已完成状态→形容已失去原有色彩或活力的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "已褪色的",
+        "examples": [
+          {
+            "sentence": "The once bright red door is now a faded pink after years of sunlight.",
+            "sentence_zh": "历经多年日晒，曾经鲜红的门现已褪成淡粉色。"
+          },
+          {
+            "sentence": "Her faded jeans tell stories of backpacking across Tibet.",
+            "sentence_zh": "她褪色的牛仔裤诉说着穿越西藏的背包故事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "已凋谢的",
+        "examples": [
+          {
+            "sentence": "The bride held faded roses from her grandmother's wedding bouquet.",
+            "sentence_zh": "新娘捧着祖母婚礼花束中已凋谢的玫瑰。"
+          },
+          {
+            "sentence": "Faded cherry blossoms covered the ancient temple steps like pink snow.",
+            "sentence_zh": "凋谢的樱花如粉雪般覆满古寺石阶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "faded glory",
+        "meaning": "逝去的荣光",
+        "examples": [
+          {
+            "sentence": "The faded glory of this cinema can still be seen in its Art Deco details.",
+            "sentence_zh": "从装饰艺术风格的细节中仍能窥见这家影院昔日的荣光。"
+          }
+        ]
+      }
+    ],
+    "teach": "faded是时光的指纹🕰️！就像被太阳吻过太多次的球衣👕（faded T-shirt），或是奶奶抽屉里泛黄的情书💌（faded letters）。在音乐圈，'faded'还特指那种迷幻颓废感🎵。说'过气网红'可以用has-been，而'褪色记忆'叫rosy retrospection（玫瑰色回忆）🌹。记住：所有faded都藏着故事！",
+    "recite": {
+      "tips": [
+        "谐音梗：'废的'→颜色废的(faded)就是褪色",
+        "易混词对比：faded（自然褪色） vs. bleached（人工漂白）",
+        "视觉联想：把字母d想象成褪色后垂下的布料"
+      ]
+    }
+  },
+  {
+    "word": "fading",
+    "etymology": {
+      "breakdown": [
+        "fade",
+        "ing"
+      ],
+      "meaning_connection": "动词fade（逐渐消失）+后缀-ing表持续状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "逐渐消失",
+        "examples": [
+          {
+            "sentence": "The fading of traditional paper lanterns reflects cultural changes.",
+            "sentence_zh": "传统纸灯笼的逐渐消失反映了文化变迁。"
+          },
+          {
+            "sentence": "We watched the fading of sunset over the Great Wall.",
+            "sentence_zh": "我们看着长城上夕阳逐渐消失。"
+          }
+        ]
+      }
+    ],
+    "teach": "fading就像你手机里的旧照片📱→时间久了会褪色（color fading），就像唐朝诗人说的'人面不知何处去'😢。说'褪色牛仔裤'用faded jeans，'信号衰弱'是signal fading📶。记住：所有fading的东西都值得拍张照留念！",
+    "recite": {
+      "tips": [
+        "谐音梗：'飞的鹰'→飞的鹰(fading)消失在云端",
+        "易混词对比：fading（自然消退） vs vanishing（突然消失）"
+      ]
+    }
+  },
+  {
+    "word": "faecal",
+    "etymology": {
+      "breakdown": [
+        "faec",
+        "al"
+      ],
+      "meaning_connection": "词根faec=渣滓/排泄物（拉丁语faex），-al为形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "排泄物的",
+        "examples": [
+          {
+            "sentence": "The hospital has strict protocols for faecal sample testing.",
+            "sentence_zh": "医院对粪便样本检测有严格流程。"
+          },
+          {
+            "sentence": "Panda's faecal matter surprisingly smells like green tea due to bamboo diet.",
+            "sentence_zh": "熊猫粪便因竹子饮食竟有绿茶清香。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "渣滓的",
+        "examples": [
+          {
+            "sentence": "The medieval alchemist searched for gold in faecal residues.",
+            "sentence_zh": "中世纪炼金术士在冶炼渣滓中寻找黄金。"
+          },
+          {
+            "sentence": "Coffee faecal matter is now recycled as fertilizer.",
+            "sentence_zh": "咖啡渣现在被回收用作肥料。"
+          }
+        ]
+      }
+    ],
+    "teach": "faecal其实是'粪青'💩的学术马甲！古罗马人用faex指酒糟，就像茅台酒窖的副产品🍶。要说'胡说八道'可以吐槽That's faecal matter（字面：那都是排泄物）。搭配：faecal transplant（粪便移植疗法）比益生菌猛💊，faecal occult blood（便潜血）体检必查项！记住：这个词虽重口，却是医学顶流🔬！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥口哦'→肥腻重口味",
+        "易混词：fecal（美式拼写）vs faecal（英式）"
+      ]
+    }
   }
 ]

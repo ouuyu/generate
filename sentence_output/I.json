@@ -2922,5 +2922,358 @@
         "易混词对比：identical（完全相同）是双胞胎👯，identified是带着名片夹🤵"
       ]
     }
+  },
+  {
+    "word": "identifier",
+    "etymology": {
+      "breakdown": [
+        "ident",
+        "ify",
+        "er"
+      ],
+      "meaning_connection": "词根ident=相同，-ify表'使...化'，-er表'执行者/工具'→使事物相同化的工具/人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "检验人",
+        "examples": [
+          {
+            "sentence": "The antique identifier spotted a fake Ming vase in 3 seconds.",
+            "sentence_zh": "古董检验人3秒内识别出赝品明代花瓶。"
+          },
+          {
+            "sentence": "Panda identifiers can distinguish twins by their paw prints.",
+            "sentence_zh": "熊猫检验人能通过掌纹区分双胞胎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "标识符",
+        "examples": [
+          {
+            "sentence": "Your WeChat identifier is like a digital ID card.",
+            "sentence_zh": "你的微信标识符就像电子身份证。"
+          },
+          {
+            "sentence": "Barcodes are the most common identifiers in supermarkets.",
+            "sentence_zh": "条形码是超市最常见的标识符。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "unique identifier",
+        "meaning": "唯一标识符",
+        "examples": [
+          {
+            "sentence": "Your fingerprint is nature's unique identifier.",
+            "sentence_zh": "指纹是大自然赐予的唯一标识符。"
+          }
+        ]
+      }
+    ],
+    "teach": "identifier是万物'身份证侠'🆔！古代验毒师用银针当identifier（检验人）👑，现代人用二维码当identifier（标识符）📱。说'验证身份'用verify identity就像火锅店扫码取号🔥，'冒充他人'叫spoof identifier就像Cosplay穿帮🎭。记住：没有identifier，网络世界就像没带学生证进校门🚫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱等踢飞呀'→爱登机的旅客等标识符踢飞行李标签",
+        "易混词对比：identity（身份） vs identifier（标识工具）"
+      ]
+    }
+  },
+  {
+    "word": "identify",
+    "etymology": {
+      "breakdown": [
+        "id",
+        "ent",
+        "ify"
+      ],
+      "meaning_connection": "前缀id-=same（相同），词根ent=being（存在），后缀-ify=make（使...）→使成为相同"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "识别",
+        "examples": [
+          {
+            "sentence": "The AI can identify Peking duck from 100 dishes in 0.3 seconds.",
+            "sentence_zh": "这个AI能在0.3秒内从100道菜中识别出北京烤鸭。"
+          },
+          {
+            "sentence": "WeChat Pay identifies users by their walking patterns.",
+            "sentence_zh": "微信支付通过走路姿势识别用户。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "认为...等同于",
+        "examples": [
+          {
+            "sentence": "Many netizens identify spicy hotpot with Chongqing culture.",
+            "sentence_zh": "许多网友将麻辣火锅等同于重庆文化。"
+          },
+          {
+            "sentence": "He identifies success with having 10,000 WeChat followers.",
+            "sentence_zh": "他把成功等同于拥有1万微信粉丝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "确定",
+        "examples": [
+          {
+            "sentence": "Archaeologists identified the artifact as a Han dynasty doufu mold.",
+            "sentence_zh": "考古学家确定该文物是汉代的豆腐模具。"
+          },
+          {
+            "sentence": "The app helps identify counterfeit designer bags.",
+            "sentence_zh": "这个app能帮助确定奢侈品包的真伪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使参与",
+        "examples": [
+          {
+            "sentence": "The teacher identified shy students through group mahjong activities.",
+            "sentence_zh": "老师通过小组麻将活动使害羞学生参与进来。"
+          },
+          {
+            "sentence": "Lucky draws identify customers with brand promotions.",
+            "sentence_zh": "抽奖活动使顾客参与品牌促销。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "一致",
+        "examples": [
+          {
+            "sentence": "The witness's account identifies with the surveillance video.",
+            "sentence_zh": "证人的陈述与监控录像一致。"
+          },
+          {
+            "sentence": "Our research results identify with ancient Chinese medical records.",
+            "sentence_zh": "我们的研究结果与中国古代医案记载一致。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "认同",
+        "examples": [
+          {
+            "sentence": "Gen Z identifies more with virtual idols than traditional stars.",
+            "sentence_zh": "Z世代对虚拟偶像的认同超过传统明星。"
+          },
+          {
+            "sentence": "Many young people identify with the 'lying flat' philosophy.",
+            "sentence_zh": "许多年轻人认同'躺平'哲学。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "identify with",
+        "meaning": "与...产生共鸣",
+        "examples": [
+          {
+            "sentence": "Viewers identify with the protagonist's struggle for hotpot freedom.",
+            "sentence_zh": "观众对主角争取火锅自由的过程产生共鸣。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "identify as",
+        "meaning": "自我认同为",
+        "examples": [
+          {
+            "sentence": "She identifies as a 'spicy food conqueror' on social media.",
+            "sentence_zh": "她在社交媒体上自我认同为'辣味征服者'。"
+          }
+        ]
+      }
+    ],
+    "teach": "identify就像人脸识别门禁👤→你的脸(id)被系统确认(identify)后才能进门🚪。历史上ID最早是奴隶身上的烙印🔥，现在变成微信二维码🐧。说'我懂你'可以用'I totally identify with you'，就像吃辣时眼泪鼻涕齐流的默契🌶️💦。搭配：identify theft（身份盗用）/ identify marker（识别标志）",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱等糖发'→爱(id)等着(ent)糖(ify)发识别结果",
+        "易混词：identity（身份）是名词，identify是动作",
+        "记忆法：ID卡+ent（Enter）+ify（化）=需要ID卡进入并验证身份"
+      ]
+    }
+  },
+  {
+    "word": "identify",
+    "etymology": {
+      "breakdown": [
+        "ident",
+        "ify"
+      ],
+      "meaning_connection": "词根ident=同一（来自拉丁语idem），-ify为动词后缀→使确认为同一事物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "识别",
+        "examples": [
+          {
+            "sentence": "The AI can identify Peking opera masks with 99% accuracy.",
+            "sentence_zh": "这个AI能99%准确识别京剧脸谱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "标识",
+        "examples": [
+          {
+            "sentence": "Archaeologists identified the relic as a Tang Dynasty teapot.",
+            "sentence_zh": "考古学家将该文物标识为唐代茶壶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "identify with",
+        "meaning": "与...产生共鸣",
+        "examples": [
+          {
+            "sentence": "Many netizens identify with the 'lying flat' philosophy.",
+            "sentence_zh": "许多网友对'躺平'哲学产生共鸣。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "identify as",
+        "meaning": "自我认同为",
+        "examples": [
+          {
+            "sentence": "She identifies as a 'Buddhist who loves hotpot'.",
+            "sentence_zh": "她自我认同为'爱吃火锅的佛教徒'。"
+          }
+        ]
+      }
+    ],
+    "teach": "identify就像地铁闸机刷脸进站👩💻：识别(identify)你的脸是本人→确认身份(identity)。古代官府用鱼符🐟当'身份证'，现在说'我懂你'就用identify with。要吐槽网红过度修图可以说：'这照片和本人根本对不上号(doesn't identify)'！记住三件套：身份证(ID)+人脸识别(identify)+健康码(identified)🆔📱✅",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱等提饭'→等外卖要核对(identify)手机尾号",
+        "易混词对比：identity(n.身份) / identify(v.识别)"
+      ]
+    }
+  },
+  {
+    "word": "identity",
+    "etymology": {
+      "breakdown": [
+        "id",
+        "ent",
+        "ity"
+      ],
+      "meaning_connection": "词根id=相同（拉丁语idem），-ent表状态，-ity表性质→本质相同的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "身份",
+        "examples": [
+          {
+            "sentence": "The Forbidden City preserves the cultural identity of ancient China.",
+            "sentence_zh": "故宫保存着古代中国的文化身份。"
+          },
+          {
+            "sentence": "His WeChat profile shows a chef identity with a duck avatar.",
+            "sentence_zh": "他的微信资料显示厨师身份并配了鸭子头像。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "相同",
+        "examples": [
+          {
+            "sentence": "The identity of the two handwriting samples shocked the police.",
+            "sentence_zh": "两份笔迹样本的相同性让警方震惊。"
+          },
+          {
+            "sentence": "Twins often dress in identity to confuse teachers.",
+            "sentence_zh": "双胞胎常穿得完全相同来迷惑老师。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "特性",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot embodies the culinary identity of Chongqing.",
+            "sentence_zh": "麻辣火锅体现了重庆的饮食特性。"
+          },
+          {
+            "sentence": "The identity of this traditional medicine lies in its bitter taste.",
+            "sentence_zh": "这种中药的特性在于其苦味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "恒等式",
+        "examples": [
+          {
+            "sentence": "Euler's identity is considered the most beautiful equation in mathematics.",
+            "sentence_zh": "欧拉恒等式被视为数学中最美的方程式。"
+          },
+          {
+            "sentence": "The Pythagorean identity connects sine and cosine functions.",
+            "sentence_zh": "毕达哥拉斯恒等式连接了正弦和余弦函数。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "identity card",
+        "meaning": "身份证",
+        "examples": [
+          {
+            "sentence": "The AI system can verify identity cards within 3 seconds.",
+            "sentence_zh": "该AI系统能在3秒内核验身份证。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sense of identity",
+        "meaning": "认同感",
+        "examples": [
+          {
+            "sentence": "Young people build sense of identity through Bilibili communities.",
+            "sentence_zh": "年轻人通过B站社群建立认同感。"
+          }
+        ]
+      }
+    ],
+    "teach": "identity就像你的微信账号📱！头像+昵称是身份(identity)，扫码登录时验证相同性(identity)，个人简介展示特性(identity)，而'ID+密码=账号'就是人生恒等式🧮。说'查户口'英文是verify identity，'人设崩塌'叫identity crisis。记住：你的identity决定了大数据给你推火锅视频还是数学课！🌶️➕➖",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱等他提'→等待身份认证",
+        "易混词：identical（完全相同的） vs identity（身份）"
+      ]
+    }
   }
 ]

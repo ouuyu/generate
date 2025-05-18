@@ -2828,5 +2828,340 @@
         "易混词对比：damning（主动诅咒） vs. doomed（被动注定厄运）"
       ]
     }
+  },
+  {
+    "word": "damp",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古低地德语'damp'（蒸汽），与潮湿环境相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "潮湿",
+        "examples": [
+          {
+            "sentence": "The dragon's cave was filled with mysterious damp that made the walls glisten.",
+            "sentence_zh": "龙穴里充满神秘湿气，让墙壁闪着微光。"
+          },
+          {
+            "sentence": "Morning damp in Chengdu makes the spicy hotpot smell even stronger.",
+            "sentence_zh": "成都晨间的湿气让麻辣火锅香味更浓烈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "潮湿的",
+        "examples": [
+          {
+            "sentence": "The damp bamboo scrolls in the museum needed special care.",
+            "sentence_zh": "博物馆里潮湿的竹简需要特殊养护。"
+          },
+          {
+            "sentence": "Her hair stayed damp for hours after swimming in the West Lake.",
+            "sentence_zh": "在西湖游泳后，她的头发湿漉漉地持续了好几小时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使潮湿",
+        "examples": [
+          {
+            "sentence": "The tea master dampens the leaves before roasting to preserve aroma.",
+            "sentence_zh": "茶师烘焙前会微微润湿茶叶以锁住香气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抑止",
+        "examples": [
+          {
+            "sentence": "The new policy damped enthusiasm for overseas study.",
+            "sentence_zh": "新政策抑制了海外留学的热情。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变潮湿",
+        "examples": [
+          {
+            "sentence": "The ink painting damped overnight in the humid studio.",
+            "sentence_zh": "水墨画在潮湿的画室里过夜后变得湿润。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "damp down",
+        "meaning": "抑制（情绪/火势）",
+        "examples": [
+          {
+            "sentence": "She damped down her excitement when receiving the offer letter.",
+            "sentence_zh": "收到录取通知书时她强压住兴奋。"
+          }
+        ]
+      }
+    ],
+    "teach": "damp是'湿'界变色龙🦎！作名词时像回南天的墙壁在'流泪'💦（the damp on walls），当形容词时像没甩干的汉服下摆👗（damp clothes），作动词时像用喷雾养绿植🌱（damp the soil）。记住：物理潮湿用形容词，抽象抑制用动词，搭配'damp down'表示压火/压情绪像用锅盖灭火锅火苗🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'带抹布'→潮湿需要带抹布",
+        "易混词对比：humid（气候潮湿） vs damp（物体表面潮湿）"
+      ]
+    }
+  },
+  {
+    "word": "dampen",
+    "etymology": {
+      "breakdown": [
+        "damp",
+        "en"
+      ],
+      "meaning_connection": "词根damp=潮湿，后缀-en表'使...'→字面义'使潮湿'，后引申出'使沮丧'的抽象含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "弄湿",
+        "examples": [
+          {
+            "sentence": "Morning dew dampened my new sneakers in the park.",
+            "sentence_zh": "晨露弄湿了我在公园穿的新球鞋。"
+          },
+          {
+            "sentence": "She dampened the cloth to wipe the dust off the terracotta warriors figurine.",
+            "sentence_zh": "她沾湿抹布擦拭兵马俑摆件上的灰尘。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使沮丧",
+        "examples": [
+          {
+            "sentence": "The bad news dampened our hot pot party atmosphere.",
+            "sentence_zh": "坏消息让我们火锅聚餐的气氛变得沮丧。"
+          },
+          {
+            "sentence": "Seeing his low gaokao score dampened his spirit like a deflated basketball.",
+            "sentence_zh": "看到高考低分让他像泄气的篮球般丧气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变湿",
+        "examples": [
+          {
+            "sentence": "The paper dampens quickly in Shanghai's humid summer.",
+            "sentence_zh": "纸张在上海潮湿的夏季会很快变湿。"
+          },
+          {
+            "sentence": "Her eyelashes dampened with tears when watching the sad movie.",
+            "sentence_zh": "看悲剧电影时她的睫毛被泪水沾湿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "丧气",
+        "examples": [
+          {
+            "sentence": "His enthusiasm dampened after three failed job interviews.",
+            "sentence_zh": "三次面试失败后他的热情消退了。"
+          },
+          {
+            "sentence": "The team's morale dampened when their star player got injured.",
+            "sentence_zh": "当家球星受伤后全队士气低落。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dampen down",
+        "meaning": "抑制（情绪/火势）",
+        "examples": [
+          {
+            "sentence": "The teacher tried to dampen down the students' over-excitement before the field trip.",
+            "sentence_zh": "老师试图在郊游前抑制学生们过度兴奋的情绪。"
+          }
+        ]
+      }
+    ],
+    "teach": "dampen是情绪湿度计💧！物理湿润像打翻奶茶弄湿文件📄（dampen the documents），心理湿润像被老板批评后蔫掉的绿萝🥀（dampen one's mood）。记住：'泼冷水'可以说dampen spirits，'潮湿天气'用dampening weather。emoji三连击：💦（湿）☔（雨）😔（丧）",
+    "recite": {
+      "tips": [
+        "谐音梗：'淡喷'→淡淡喷水=弄湿",
+        "易混词对比：dampen（渐进式变湿） vs soak（彻底浸泡）"
+      ]
+    }
+  },
+  {
+    "word": "dampened",
+    "etymology": {
+      "breakdown": [
+        "damp",
+        "en",
+        "ed"
+      ],
+      "meaning_connection": "damp(潮湿)+en(使动后缀)+ed(过去式)→原指'使潮湿'，引申为'抑制情绪'如同泼冷水"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使潮湿",
+        "examples": [
+          {
+            "sentence": "Morning dew had dampened the picnic blankets.",
+            "sentence_zh": "晨露打湿了野餐垫。"
+          },
+          {
+            "sentence": "Her tears dampened the resignation letter she was writing.",
+            "sentence_zh": "她的泪水打湿了正在写的辞职信。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抑制",
+        "examples": [
+          {
+            "sentence": "The bad news dampened our enthusiasm for the project.",
+            "sentence_zh": "坏消息抑制了我们对项目的热情。"
+          },
+          {
+            "sentence": "Strict regulations dampened the creativity of the designers.",
+            "sentence_zh": "严格的规章制度抑制了设计师们的创造力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "减弱",
+        "examples": [
+          {
+            "sentence": "Thick curtains dampened the street noise effectively.",
+            "sentence_zh": "厚窗帘有效减弱了街道噪音。"
+          },
+          {
+            "sentence": "The foam panels dampened the echo in the recording studio.",
+            "sentence_zh": "泡沫板减弱了录音棚里的回声。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dampened spirits",
+        "meaning": "沮丧的情绪",
+        "examples": [
+          {
+            "sentence": "The canceled concert left fans with dampened spirits.",
+            "sentence_zh": "取消的音乐会让粉丝们情绪低落。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dampened down",
+        "meaning": "压制住",
+        "examples": [
+          {
+            "sentence": "The manager dampened down the rising tensions in the office.",
+            "sentence_zh": "经理压制住了办公室里日益紧张的局势。"
+          }
+        ]
+      }
+    ],
+    "teach": "dampened是情绪的'烘干机'💦→物理上打湿毛巾🧽，抽象上浇灭热情🔥。说'泼冷水'用pour cold water on，'扫兴'叫rain on the parade🎉。记住：老板的批评像暴雨⛈️，总能dampen全组的士气！",
+    "recite": {
+      "tips": [
+        "谐音梗：'担怕嗯'→担心害怕时(dampened)情绪被抑制",
+        "易混词：dampened(抑制) vs. damped(减震)"
+      ]
+    }
+  },
+  {
+    "word": "damper",
+    "etymology": {
+      "breakdown": [
+        "damp",
+        "er"
+      ],
+      "meaning_connection": "词根damp=潮湿/抑制，-er表器物/执行者→原指调节湿度或抑制震动的装置，引申为'扫兴者'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "令人扫兴的人",
+        "examples": [
+          {
+            "sentence": "Don't be a damper at KTV by refusing to sing.",
+            "sentence_zh": "别在KTV当扫兴鬼拒绝唱歌。"
+          },
+          {
+            "sentence": "His complaint about calories was a real damper to our hotpot party.",
+            "sentence_zh": "他抱怨热量的话给火锅派对泼了冷水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "增湿器",
+        "examples": [
+          {
+            "sentence": "The piano damper keeps the wood from cracking in dry weather.",
+            "sentence_zh": "钢琴增湿器防止木材在干燥天气开裂。"
+          },
+          {
+            "sentence": "Museum displays often use invisible dampers to protect artifacts.",
+            "sentence_zh": "博物馆展柜常用隐形增湿器保护文物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "阻尼器",
+        "examples": [
+          {
+            "sentence": "Taipei 101's giant damper looks like a golden UFO.",
+            "sentence_zh": "台北101的巨型阻尼器像金色飞碟。"
+          },
+          {
+            "sentence": "The damper in your car absorbs pothole impacts.",
+            "sentence_zh": "你车里的阻尼器缓解坑洼路面的震动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "put a damper on",
+        "meaning": "抑制/使扫兴",
+        "examples": [
+          {
+            "sentence": "Rain put a damper on our picnic plans.",
+            "sentence_zh": "下雨让我们的野餐计划泡汤了。"
+          }
+        ]
+      }
+    ],
+    "teach": "damper是专业泼冷水选手🥶！作为'扫兴者'时像在生日会上提作业的学霸📚；当'增湿器'时像给敦煌壁画喷水雾的隐形卫士💦；做'阻尼器'时则是摩天楼里对抗台风的黄金钟摆🏗️。记住：put a damper on=搞砸某事，'情绪低落'叫feel dampened就像被雨淋湿的烟花🎆",
+    "recite": {
+      "tips": [
+        "谐音梗：'挡泼'→挡泼冷水的人",
+        "易混词：dampen(v.使潮湿/抑制) vs damper(n.)"
+      ]
+    }
   }
 ]

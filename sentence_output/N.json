@@ -2891,5 +2891,302 @@
         "易混词：shallow（浅的）vs narrow（窄的）→浅滩(shallow)可涉水，窄道(narrow)需侧身"
       ]
     }
+  },
+  {
+    "word": "narrowed",
+    "etymology": {
+      "breakdown": [
+        "narrow",
+        "ed"
+      ],
+      "meaning_connection": "narrow源自古英语nearu（压迫），-ed表过去分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "狭窄的",
+        "examples": [
+          {
+            "sentence": "The narrowed alley could barely fit two bicycles side by side.",
+            "sentence_zh": "这条变窄的巷子勉强能并行两辆自行车。"
+          },
+          {
+            "sentence": "After the renovation, the narrowed doorway became a safety hazard.",
+            "sentence_zh": "装修后变窄的门口成了安全隐患。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "(使)变窄",
+        "examples": [
+          {
+            "sentence": "The river narrowed to a stream after the drought.",
+            "sentence_zh": "干旱后这条河收缩成了一条小溪。"
+          },
+          {
+            "sentence": "She narrowed her eyes at the suspicious WeChat message.",
+            "sentence_zh": "她对着可疑的微信消息眯起眼睛。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "narrowed down",
+        "meaning": "缩小范围",
+        "examples": [
+          {
+            "sentence": "We've narrowed down the suspects to three delivery guys.",
+            "sentence_zh": "我们把嫌疑人范围缩小到了三个快递员。"
+          }
+        ]
+      }
+    ],
+    "teach": "narrowed就像被门夹过的核桃🌰！当它表示物理变窄时，像早高峰地铁通道🚇（narrowed passageway）；表示'眯眼'时，像看到前任朋友圈时的表情👀（narrowed eyes）。'缩小范围'说narrow down就像用美图秀秀抠图✂️。记住：眼睛一narrow，事情不simple！",
+    "recite": {
+      "tips": [
+        "谐音梗：'耐揉的'→被揉捏变窄的",
+        "易混词：narrow vs. shallow（浅的）"
+      ]
+    }
+  },
+  {
+    "word": "narrowing",
+    "etymology": {
+      "breakdown": [
+        "narrow",
+        "ing"
+      ],
+      "meaning_connection": "narrow（狭窄）+-ing（名词后缀）→ 逐渐变窄的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "缩小过程",
+        "examples": [
+          {
+            "sentence": "The narrowing of the river created dangerous currents.",
+            "sentence_zh": "河道的缩窄形成了危险的水流。"
+          },
+          {
+            "sentence": "Doctors observed the narrowing of his airways during the examination.",
+            "sentence_zh": "医生在检查时发现他的气道正在变窄。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "narrowing down",
+        "meaning": "逐步缩小范围",
+        "examples": [
+          {
+            "sentence": "Police are narrowing down the list of suspects.",
+            "sentence_zh": "警方正在逐步缩小嫌疑人名单。"
+          },
+          {
+            "sentence": "She's narrowing down her college choices to three options.",
+            "sentence_zh": "她将大学选择范围缩小到了三个选项。"
+          }
+        ]
+      }
+    ],
+    "teach": "narrowing就像玩'大家来找茬'🔍：从宽阔画面逐步聚焦到细节差异！在编程中叫'类型收窄'🤖，在生活中像用漏斗倒酱油🍶（narrowing the flow）。搭配'narrowing eyes'表示眯眼怀疑👀，'narrowing gap'形容贫富差距缩小💸。记住：任何从宽变窄的过程都是narrowing在发力！",
+    "recite": {
+      "tips": [
+        "视觉联想：想象沙漏⏳中间最窄的narrowing部分",
+        "易混词对比：narrowing（过程） vs. narrowness（狭窄状态）"
+      ]
+    }
+  },
+  {
+    "word": "narrowly",
+    "etymology": {
+      "breakdown": [
+        "narrow",
+        "ly"
+      ],
+      "meaning_connection": "narrow（狭窄的）+后缀-ly（表副词）→从空间狭窄引申出'严密''勉强'等抽象含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "狭窄地",
+        "examples": [
+          {
+            "sentence": "The alley was so narrow that pedestrians could only pass through narrowly.",
+            "sentence_zh": "巷子太窄，行人只能狭窄地通过。"
+          },
+          {
+            "sentence": "She narrowly arranged her collection of 100 lipsticks on the tiny shelf.",
+            "sentence_zh": "她在小架子上狭窄地排列着收藏的100支口红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "严密地",
+        "examples": [
+          {
+            "sentence": "The customs officer narrowly examined every jar of Lao Gan Ma chili sauce.",
+            "sentence_zh": "海关官员严密地检查每一罐老干妈辣酱。"
+          },
+          {
+            "sentence": "TikTok's algorithm narrowly monitors content that violates community guidelines.",
+            "sentence_zh": "抖音算法严密监控违反社区准则的内容。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "仔细地",
+        "examples": [
+          {
+            "sentence": "Grandma narrowly selected the freshest cabbage in the wet market.",
+            "sentence_zh": "奶奶在菜市场仔细地挑选最新鲜的大白菜。"
+          },
+          {
+            "sentence": "He narrowly checked every bubble tea order against the receipt.",
+            "sentence_zh": "他仔细地对照收据检查每一杯奶茶订单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "几乎不",
+        "examples": [
+          {
+            "sentence": "The delivery guy narrowly escaped being scolded when the bubble tea arrived 1 minute before deadline.",
+            "sentence_zh": "奶茶在截止时间前1分钟送达，外卖小哥几乎不被骂。"
+          },
+          {
+            "sentence": "We narrowly avoided missing the high-speed rail because of a shared bike.",
+            "sentence_zh": "我们因为一辆共享单车几乎没赶上高铁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "勉强地",
+        "examples": [
+          {
+            "sentence": "After eating 20 dumplings, I could narrowly zip up my jeans.",
+            "sentence_zh": "吃完20个饺子后，我勉强能拉上牛仔裤拉链。"
+          },
+          {
+            "sentence": "The elevator narrowly held 12 delivery workers with their takeout boxes.",
+            "sentence_zh": "电梯勉强塞下12个带着外卖箱的配送员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "仅仅",
+        "examples": [
+          {
+            "sentence": "The influencer's apology video narrowly got 10,000 'dislikes' in 5 minutes.",
+            "sentence_zh": "网红的道歉视频仅仅5分钟就获得1万差评。"
+          },
+          {
+            "sentence": "His salary increase was narrowly enough to buy 3 extra milk teas per month.",
+            "sentence_zh": "他的涨薪仅仅够每月多买3杯奶茶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "narrowly defined",
+        "meaning": "狭义定义的",
+        "examples": [
+          {
+            "sentence": "'Zongzi' is narrowly defined as pyramid-shaped rice dumplings.",
+            "sentence_zh": "'粽子'狭义上定义为金字塔形米糕。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "narrowly escape",
+        "meaning": "险逃",
+        "examples": [
+          {
+            "sentence": "The cat narrowly escaped being bathed by hiding in the delivery box.",
+            "sentence_zh": "猫咪躲在快递箱里险逃洗澡。"
+          }
+        ]
+      }
+    ],
+    "teach": "narrowly就像早高峰的地铁🚇——'狭窄地'挤成沙丁鱼罐头，'严密地'安检你的包包，'仔细地'查健康宝，'几乎不'能呼吸，'勉强地'塞进去，'仅仅'1站路却像长征🧗。说'死里逃生'用地道表达close shave（像刮胡子那么近），搭配'narrowly miss'（擦肩而过）和'narrowly focus'（精准聚焦）。记住：人生就像narrowly，要么卡得死死，要么溜得丝滑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那肉里'→那肉里(narrowly)塞得太勉强",
+        "对比记忆：nearly（几乎）=差一点成功，narrowly=差一点失败"
+      ]
+    }
+  },
+  {
+    "word": "narrowness",
+    "etymology": {
+      "breakdown": [
+        "narrow",
+        "ness"
+      ],
+      "meaning_connection": "形容词narrow（狭窄的）加名词后缀-ness表性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "狭小",
+        "examples": [
+          {
+            "sentence": "The narrowness of Tokyo apartments shocks first-time visitors.",
+            "sentence_zh": "东京公寓的狭小程度让初次到访者震惊。"
+          },
+          {
+            "sentence": "Engineers overcame the narrowness of the space by building vertically.",
+            "sentence_zh": "工程师通过纵向建造克服了空间的狭小。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小气",
+        "examples": [
+          {
+            "sentence": "His narrowness in splitting the bill exactly by cent shocked everyone.",
+            "sentence_zh": "他精确到分平摊账单的小气让所有人震惊。"
+          },
+          {
+            "sentence": "The narrowness of her worldview comes from never traveling abroad.",
+            "sentence_zh": "她世界观的小气源于从未出国旅行。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "spiritual narrowness",
+        "meaning": "精神狭隘",
+        "examples": [
+          {
+            "sentence": "The poet criticized the spiritual narrowness of his era.",
+            "sentence_zh": "诗人批判了他所处时代的精神狭隘。"
+          }
+        ]
+      }
+    ],
+    "teach": "narrowness是'物理+精神双料狭窄'🧠📦！物理上指你家猫转身都困难的快递柜空间📏，精神上像坚持'甜豆浆异端说'的固执老头👴。搭配'scope narrowness（视野狭隘）'和'cultural narrowness（文化狭隘）'，要吐槽某人小气可以说'as narrow as a soda straw（像吸管一样狭隘）'🥤➖",
+    "recite": {
+      "tips": [
+        "谐音梗：'耐揉捏死'→耐揉捏(narrowness)的橡皮筋体现狭小",
+        "易混词对比：narrowness（抽象性质） vs. width（具体宽度）"
+      ]
+    }
   }
 ]

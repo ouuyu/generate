@@ -2496,5 +2496,286 @@
         "易混词：caged（被动关） vs encaged（主动关押）"
       ]
     }
+  },
+  {
+    "word": "cage",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自古法语cage，源自拉丁语cavea（意为'围栏'或'空心处'），与cave（洞穴）同源，形象描绘封闭空间"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "笼子",
+        "examples": [
+          {
+            "sentence": "The panda rolled around happily in its bamboo cage at Chengdu Research Base.",
+            "sentence_zh": "这只熊猫在成都基地的竹笼里开心打滚。"
+          },
+          {
+            "sentence": "Her hamster escaped from the golden cage last night.",
+            "sentence_zh": "她的仓鼠昨晚从金色笼子里越狱了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "牢房",
+        "examples": [
+          {
+            "sentence": "The prisoner drew a sunflower on the wall of his cage.",
+            "sentence_zh": "囚犯在牢房墙上画了朵向日葵。"
+          },
+          {
+            "sentence": "Ancient Chinese jail cages were often made of wood and iron.",
+            "sentence_zh": "中国古代牢房常用木头与铁制成。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "战俘营",
+        "examples": [
+          {
+            "sentence": "The documentary revealed the brutal conditions in the POW cage.",
+            "sentence_zh": "纪录片揭露了战俘营的残酷环境。"
+          },
+          {
+            "sentence": "Letters from the cage became precious wartime relics.",
+            "sentence_zh": "来自战俘营的信件成为珍贵的战时文物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "关进笼内",
+        "examples": [
+          {
+            "sentence": "Zookeepers caged the angry peacock during the storm.",
+            "sentence_zh": "暴雨期间饲养员把发怒的孔雀关进笼子。"
+          },
+          {
+            "sentence": "Never cage wild birds rescued from the market.",
+            "sentence_zh": "别把从市场救出的野鸟关进笼子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cage in",
+        "meaning": "束缚",
+        "examples": [
+          {
+            "sentence": "Feeling caged in by the 996 work schedule, she quit to raise alpacas.",
+            "sentence_zh": "受够996束缚的她辞职去养羊驼了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cage fight",
+        "meaning": "铁笼格斗",
+        "examples": [
+          {
+            "sentence": "The MMA cage fight was interrupted by a flying flip-flop.",
+            "sentence_zh": "综合格斗赛被一只飞来的拖鞋打断。"
+          }
+        ]
+      }
+    ],
+    "teach": "cage是三维的'画地为牢'🧵！古罗马用cavea关狮子🦁（后来变成动物园），现代人用'金丝笼'比喻高压工作（golden cage job）。说'困住'可以用boxed in like a hamster🐹，搭配：cage free eggs（走地鸡蛋）和bird cage umbrella（鸟笼伞）。记住：人生不该是仓鼠跑轮！",
+    "recite": {
+      "tips": [
+        "谐音梗：'刻字'→古代牢笼刻满囚徒字迹",
+        "易混词：jail专指监狱，cage更强调物理围栏"
+      ]
+    }
+  },
+  {
+    "word": "cagey",
+    "etymology": {
+      "breakdown": [
+        "cage",
+        "y"
+      ],
+      "meaning_connection": "cage（笼子）+后缀-y→像关在笼子里的动物般警觉"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "狡猾的",
+        "examples": [
+          {
+            "sentence": "The cagey fox stole sausages without triggering the alarm.",
+            "sentence_zh": "狡猾的狐狸偷香肠时没触发警报。"
+          },
+          {
+            "sentence": "He gave a cagey smile when asked about the missing cookies.",
+            "sentence_zh": "被问及失踪的饼干时，他露出狡猾的微笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "机警的",
+        "examples": [
+          {
+            "sentence": "Cagey meerkats always have a sentinel watching for eagles.",
+            "sentence_zh": "机警的猫鼬总有哨兵警戒老鹰。"
+          },
+          {
+            "sentence": "She stayed cagey during the negotiation like a poker player.",
+            "sentence_zh": "谈判中她像扑克玩家般保持机警。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有戒心的",
+        "examples": [
+          {
+            "sentence": "The cagey old turtle retreats into its shell at sudden movements.",
+            "sentence_zh": "有戒心的老乌龟遇到突然动静就会缩回壳里。"
+          },
+          {
+            "sentence": "Tourists should stay cagey about street vendors in crowded areas.",
+            "sentence_zh": "游客在拥挤处要对街头小贩保持戒心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不敢表态的",
+        "examples": [
+          {
+            "sentence": "Politicians get cagey when asked about salary raises.",
+            "sentence_zh": "被问及加薪时政客们就不敢表态。"
+          },
+          {
+            "sentence": "He grew cagey when his mom mentioned the broken vase.",
+            "sentence_zh": "妈妈提到碎花瓶时他立刻不敢吱声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "小心谨慎的",
+        "examples": [
+          {
+            "sentence": "Cagey investors are avoiding cryptocurrency like expired milk.",
+            "sentence_zh": "谨慎的投资者像躲过期牛奶般避开加密货币。"
+          },
+          {
+            "sentence": "She's cagey about sharing wifi passwords even with relatives.",
+            "sentence_zh": "她连对亲戚分享WiFi密码都很谨慎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不甚友善的",
+        "examples": [
+          {
+            "sentence": "The cagey librarian shushed chatty students with icy glares.",
+            "sentence_zh": "不友善的图书管理员用冰冷眼神让聊天学生噤声。"
+          },
+          {
+            "sentence": "His cagey response made it clear he wouldn't lend his gaming console.",
+            "sentence_zh": "他冷淡的回应明显不愿出借游戏机。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "stay cagey about",
+        "meaning": "对...保持谨慎",
+        "examples": [
+          {
+            "sentence": "Celebrities stay cagey about their private jet usage.",
+            "sentence_zh": "明星们对私人飞机使用情况讳莫如深。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cagey as a fox",
+        "meaning": "狐狸般狡猾",
+        "examples": [
+          {
+            "sentence": "The pickpocket was cagey as a fox in the subway crowd.",
+            "sentence_zh": "地铁人群中的扒手狡猾如狐。"
+          }
+        ]
+      }
+    ],
+    "teach": "cagey是只戴着墨镜的狐狸🦊+笼中仓鼠🐹的合体！源自马戏团动物表演时代，那些不肯配合的动物就会被骂'cagey'（笼里养的臭脾气）。如今说政客cagey，就像看熊猫假装吃竹子回避问题🎋。要说'守口如瓶'可讲tight-lipped like a clam（蛤蜊般紧闭），而'老油条'则是street-smart。记住：当甲方问你进度时，就该露出cagey微笑😏",
+    "recite": {
+      "tips": [
+        "谐音梗：'客机'→坐客机时对陌生人保持cagey",
+        "易混词：cagey(谨慎) vs. savvy(精明)",
+        "联想记忆：cage+y→关在笼子里的动物最警觉"
+      ]
+    }
+  },
+  {
+    "word": "cairn",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自苏格兰盖尔语'càrn'，意为'石堆'，古时用于标记路径或埋葬地点"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "石堆纪念碑",
+        "examples": [
+          {
+            "sentence": "The ancient cairn on the hilltop marked a Viking king's burial site.",
+            "sentence_zh": "山顶的古石冢标记着一位维京国王的安葬地。"
+          },
+          {
+            "sentence": "Tourists add stones to the cairn as a tribute to the polar explorer.",
+            "sentence_zh": "游客们向石堆纪念碑添石以纪念那位极地探险家。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "堆石界标",
+        "examples": [
+          {
+            "sentence": "Hikers follow cairns through the foggy mountain trail like breadcrumbs.",
+            "sentence_zh": "徒步者循着堆石界标穿越雾中山路，如同追踪面包屑。"
+          },
+          {
+            "sentence": "Each cairn along the Silk Road served as a desert GPS for caravans.",
+            "sentence_zh": "丝绸之路上的每处堆石界标都是商队的沙漠导航。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "build a cairn",
+        "meaning": "堆砌石标",
+        "examples": [
+          {
+            "sentence": "We built a mini cairn with heart-shaped stones at the summit.",
+            "sentence_zh": "我们在山顶用心形石头垒了座迷你石堆。"
+          }
+        ]
+      }
+    ],
+    "teach": "cairn是石器时代的'朋友圈打卡'🗿！苏格兰人用石堆标记墓地💀，因纽特人用它当北极路标❄️。现代人堆cairn像叠罗汉游戏🪨，藏区叫'玛尼堆'要顺时针绕行🙏。记住：见到cairn别踢散，那是古人版的'高德地图'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啃石头'→堆cairn的人像在啃石头",
+        "易混词：urn（骨灰瓮）也是石头容器，但用于盛放骨灰"
+      ]
+    }
   }
 ]

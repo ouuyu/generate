@@ -2836,5 +2836,268 @@
         "记忆法：想象画廊(gallery)里挂满'嘎啦'(ga-la)响的风铃"
       ]
     }
+  },
+  {
+    "word": "galley",
+    "etymology": {
+      "breakdown": [
+        "galley"
+      ],
+      "meaning_connection": "直接源自希腊语'galea'（军舰），经拉丁语'galea'传入英语，原指古代桨帆战舰"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "古代桨帆战舰",
+        "examples": [
+          {
+            "sentence": "The Roman galleys clashed with Carthaginian ships in the Punic Wars.",
+            "sentence_zh": "布匿战争中罗马桨帆船与迦太基战舰交锋。"
+          },
+          {
+            "sentence": "Modern replicas of Greek galleys still race in Mediterranean festivals.",
+            "sentence_zh": "希腊桨帆船的现代复制品仍在地中海节日中比赛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "军舰",
+        "examples": [
+          {
+            "sentence": "The pirate captain stared at the royal galleys approaching with dread.",
+            "sentence_zh": "海盗船长惊恐地看着皇家军舰逼近。"
+          },
+          {
+            "sentence": "Naval museums often display scale models of historic galleys.",
+            "sentence_zh": "海军博物馆常陈列历史军舰的比例模型。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "galley slave",
+        "meaning": "划桨奴隶",
+        "examples": [
+          {
+            "sentence": "The movie depicted galley slaves rowing to the beat of a drum.",
+            "sentence_zh": "电影描绘了划桨奴隶跟着鼓点划船的场景。"
+          }
+        ]
+      }
+    ],
+    "teach": "galley是古代地中海的'水上特斯拉'⛵！划桨奴隶就像人体发动机💪，而现代'galley proof'（排版术语）源自船上印刷厂📜。要说'全军出击'可喊'All galleys deploy!'，遇到困难就说'like a galley in storm'（如暴风雨中的战舰）🌊⚔️🧑‍✈️",
+    "recite": {
+      "tips": [
+        "谐音梗：'该累'→划桨奴隶该累(galley)了",
+        "易混词：gallery（画廊）vs galley（战舰）"
+      ]
+    }
+  },
+  {
+    "word": "gallic",
+    "etymology": {
+      "breakdown": [
+        "gall",
+        "ic"
+      ],
+      "meaning_connection": "词根gall=胆汁/瘿瘤，-ic表形容词→原指与胆汁或植物瘿瘤相关的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "瘿的（植物病理学）",
+        "examples": [
+          {
+            "sentence": "The gallic growths on oak leaves look like tiny apples.",
+            "sentence_zh": "橡树叶上的瘿瘤看起来像迷你苹果。"
+          },
+          {
+            "sentence": "Tea plants with gallic deformities produce unique flavors.",
+            "sentence_zh": "带瘿瘤变异的茶树能产生特殊风味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "镓的（化学）",
+        "examples": [
+          {
+            "sentence": "Gallic compounds are used in advanced semiconductors.",
+            "sentence_zh": "镓化合物用于高端半导体制造。"
+          },
+          {
+            "sentence": "The gallic layer in this device prevents overheating.",
+            "sentence_zh": "该设备的镓镀层能防止过热。"
+          }
+        ]
+      }
+    ],
+    "teach": "gallic是个精分学霸🧪：在植物界当医生诊断瘿瘤🦠（gallic growth），在化学界变身科技宅玩镓元素💻（gallic compound）。想装专业？说'这棵树的gallic异常'比说'树上长包'高级十倍！搭配：gallic acid（没食子酸）、gallic nitride（氮化镓）。地道表达：'high-gallic content'形容科技含量爆表🚀",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬聊客'→和植物瘿瘤尬聊的科学家",
+        "易混词对比：gallant（英勇的）vs. gallic（瘿/镓的）",
+        "记忆tip：gall（胆汁）+ ic→像胆汁一样特别的"
+      ]
+    }
+  },
+  {
+    "word": "galling",
+    "etymology": {
+      "breakdown": [
+        "gall",
+        "ing"
+      ],
+      "meaning_connection": "词根gall源自古英语'gealla'（胆汁），引申为'使人恼怒如胆汁般苦涩'，-ing表形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "擦伤人的",
+        "examples": [
+          {
+            "sentence": "The galling straps of new hiking boots left red marks on his ankles.",
+            "sentence_zh": "新登山靴磨脚的绑带在他脚踝上留下红痕。"
+          },
+          {
+            "sentence": "Wearing wet jeans is a galling experience during monsoons.",
+            "sentence_zh": "雨季穿湿牛仔裤是种折磨人的体验。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "使烦恼的",
+        "examples": [
+          {
+            "sentence": "The galling noise of upstairs renovation starts precisely at 7am.",
+            "sentence_zh": "楼上装修的烦人噪音准点在早上7点开始。"
+          },
+          {
+            "sentence": "It's particularly galling when your WiFi dies during a video call with your boss.",
+            "sentence_zh": "和老板视频会议时断网尤其让人焦躁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "难堪的",
+        "examples": [
+          {
+            "sentence": "The most galling moment was when my toddler corrected my English in public.",
+            "sentence_zh": "最尴尬的是我两岁孩子当众纠正我的英语发音。"
+          },
+          {
+            "sentence": "Getting outbid by 1 yuan in a housing auction is galling beyond words.",
+            "sentence_zh": "买房拍卖时被人多加1块钱抢走，这种难堪难以言表。"
+          }
+        ]
+      }
+    ],
+    "teach": "galling就像鞋里进了石子👞→字面磨脚(galling straps)，抽象磨心(galling noise)。古罗马人用'像吞了胆汁'形容烦躁🤢，现代版就是打游戏460ms延迟的暴躁🎮。说'烦死了'可吐槽'What a galling day!'，遇到尴尬事用'cringe-worthy'比galling更潮💥。记住：物理摩擦+精神折磨=double galling！",
+    "recite": {
+      "tips": [
+        "谐音梗：'膈应'→中文'膈应'与galling神似",
+        "易混词：grating(刺耳声)/galling(综合不适感)",
+        "记忆tip：联想被Gal(loping)马拖行→磨伤+恼怒"
+      ]
+    }
+  },
+  {
+    "word": "gallium",
+    "etymology": {
+      "breakdown": [
+        "gall",
+        "ium"
+      ],
+      "meaning_connection": "源自拉丁语'Gallia'（高卢，法国古称），因由法国化学家发现，后缀-ium表示金属元素"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "镓（熔点仅29.76°C的稀有金属）",
+        "examples": [
+          {
+            "sentence": "Gallium melts in your hand like magic chocolate.",
+            "sentence_zh": "镓在你手心融化时像魔法巧克力。"
+          },
+          {
+            "sentence": "Scientists use gallium to make flexible circuits.",
+            "sentence_zh": "科学家用镓制作柔性电路。"
+          }
+        ]
+      }
+    ],
+    "teach": "镓是'金属界的冰淇淋'🍦！法国科学家Lecoq在1875年发现它时，就像发现会融化的金属硬币💰（命名梗：他姓氏Lecoq在法语是'公鸡'，而Gallia是高卢）。用它做实验时总说'Don't put gallium in aluminum!'（会像病毒一样腐蚀铝罐🥫）。记住：它比你的奶茶冰还容易化！",
+    "recite": {
+      "tips": [
+        "谐音梗：'咖喱啊'→咖喱里混入镓金属",
+        "易混词：gallium vs. calcium（钙）",
+        "视觉联想：握在手心的金属汤勺化成液体"
+      ]
+    }
+  },
+  {
+    "word": "gallivant",
+    "etymology": {
+      "breakdown": [
+        "gallant",
+        "ivant"
+      ],
+      "meaning_connection": "源自法语'galant'（调情的）与德语'wandern'（漫游）的混合，18世纪英国贵族社交文化产物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "与异性闲荡",
+        "examples": [
+          {
+            "sentence": "The duke's son was spotted gallivanting with opera singers at midnight.",
+            "sentence_zh": "有人撞见公爵之子午夜与歌剧演员们招摇过市。"
+          },
+          {
+            "sentence": "In Jane Austen's novels, wealthy men often gallivant between ballrooms.",
+            "sentence_zh": "简·奥斯汀小说里，富家公子常在舞会间周旋调情。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "闲逛",
+        "examples": [
+          {
+            "sentence": "Retirees gallivant around Europe with their pension money.",
+            "sentence_zh": "退休老人拿着养老金在欧洲到处闲逛。"
+          },
+          {
+            "sentence": "My cat gallivants through the neighborhood like a furry explorer.",
+            "sentence_zh": "我家猫像毛茸茸的探险家般在小区游荡。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gallivant about",
+        "meaning": "到处游荡",
+        "examples": [
+          {
+            "sentence": "Digital nomads gallivant about Bali with laptops.",
+            "sentence_zh": "数字游民们带着笔记本在巴厘岛到处晃悠。"
+          }
+        ]
+      }
+    ],
+    "teach": "gallivant是'浪到飞起'💃：源自18世纪贵族公子哥(gallant)带妹子骑马漫游(wander)的炫富行为🤑。现代版就是开超跑兜风，或大爷提鸟笼遛弯🦜。'瞎逛'说bum around，'撩妹高手'是lady-killer。记住：真正的gallivant要像孔雀开屏般招摇！",
+    "recite": {
+      "tips": [
+        "谐音梗：'该拎饭特'→该拎着饭盒特悠闲地逛",
+        "易混词：wander（单纯走动）vs gallivant（带炫耀性质）"
+      ]
+    }
   }
 ]

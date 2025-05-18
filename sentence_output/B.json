@@ -2751,5 +2751,380 @@
         "易混词对比：backswing（背向摆）vs follow-through（随球动作）"
       ]
     }
+  },
+  {
+    "word": "backtrack",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "track"
+      ],
+      "meaning_connection": "back表示'向后'，track表示'轨迹'→原指沿着原路返回"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "返回",
+        "examples": [
+          {
+            "sentence": "The delivery guy had to backtrack 3km when he forgot the spicy hotpot soup base.",
+            "sentence_zh": "快递员忘带麻辣火锅底料，不得不返回3公里。"
+          },
+          {
+            "sentence": "We backtracked to the tea house for the lost airpods.",
+            "sentence_zh": "我们折返茶馆寻找遗失的无线耳机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "退走",
+        "examples": [
+          {
+            "sentence": "The cat backtracked slowly when it saw the cucumber.",
+            "sentence_zh": "猫咪看到黄瓜时慢慢后退。"
+          },
+          {
+            "sentence": "The influencer backtracked from the controversial live stream.",
+            "sentence_zh": "网红从争议直播间悄悄退走。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "撤退",
+        "examples": [
+          {
+            "sentence": "Armies backtracked like melting ice cream under summer sun.",
+            "sentence_zh": "军队像烈日下的冰淇淋般快速撤退。"
+          },
+          {
+            "sentence": "The tech giant backtracked from the smartphone market.",
+            "sentence_zh": "该科技巨头从智能手机市场撤退。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "放弃",
+        "examples": [
+          {
+            "sentence": "He backtracked on his promise to treat everyone to hotpot.",
+            "sentence_zh": "他放弃了请所有人吃火锅的承诺。"
+          },
+          {
+            "sentence": "The company backtracked on its metaverse plans.",
+            "sentence_zh": "公司放弃了元宇宙计划。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backtrack on",
+        "meaning": "推翻（承诺）",
+        "examples": [
+          {
+            "sentence": "Politicians often backtrack on campaign promises like deleting old Weibo posts.",
+            "sentence_zh": "政客推翻竞选承诺就像删旧微博一样频繁。"
+          }
+        ]
+      }
+    ],
+    "teach": "backtrack是人生后悔药💊！原指猎人踩着来时的脚印撤回（像雪地摩托掉头🏍️），现在连淘宝卖家都爱用'亲我们backtrack了优惠'。搭配'backtrack on'比'打脸'更优雅，说'食言'可以用do a backtrack🤥。记住：人生不像Ctrl+Z，backtrack太多会被差评👎！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白脱壳'→乌龟白脱壳(backtrack)就撤退",
+        "易混词对比：backdown（屈服）vs backtrack（撤回行动）"
+      ]
+    }
+  },
+  {
+    "word": "backup",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "up"
+      ],
+      "meaning_connection": "back表示'后方'，up表示'向上'→原指军事后方支援，引申出多种支持性含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "倒车",
+        "examples": [
+          {
+            "sentence": "The truck's backup beep scared all the stray cats away.",
+            "sentence_zh": "卡车的倒车提示音吓跑了所有流浪猫。"
+          },
+          {
+            "sentence": "Learning backup skills is essential for getting a driver's license.",
+            "sentence_zh": "掌握倒车技巧是考驾照的基本要求。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "后援",
+        "examples": [
+          {
+            "sentence": "K-pop idols always have backup dancers who move like shadows.",
+            "sentence_zh": "韩流偶像总有如影随形的伴舞团队。"
+          },
+          {
+            "sentence": "The fire brigade called for backup when facing the giant durian fire.",
+            "sentence_zh": "消防队面对巨型榴莲火灾时请求了增援。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "做备份",
+        "examples": [
+          {
+            "sentence": "Remember to backup your WeChat chat history before changing phones.",
+            "sentence_zh": "换手机前记得备份微信聊天记录。"
+          },
+          {
+            "sentence": "The IT guy backs up the database every hour like clockwork.",
+            "sentence_zh": "IT小哥像闹钟般每小时备份一次数据库。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "候补的",
+        "examples": [
+          {
+            "sentence": "The backup singer became a superstar after going viral on Douyin.",
+            "sentence_zh": "这位候补歌手在抖音走红后成了巨星。"
+          },
+          {
+            "sentence": "Every hotpot restaurant needs a backup supply of frozen tofu.",
+            "sentence_zh": "每家火锅店都需要备用的冻豆腐库存。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backup plan",
+        "meaning": "备选方案",
+        "examples": [
+          {
+            "sentence": "My backup plan is selling stinky tofu if my startup fails.",
+            "sentence_zh": "如果创业失败，我的备选方案是卖臭豆腐。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "backup and forth",
+        "meaning": "来回折腾",
+        "examples": [
+          {
+            "sentence": "The courier kept backing up and forth between the 31st and 33rd floors.",
+            "sentence_zh": "快递员在31楼和33楼之间来回折腾。"
+          }
+        ]
+      }
+    ],
+    "teach": "backup就像打王者荣耀的复活甲🧥！当它表示'倒车'时像科目二考试倒库（请开始你的表演🎬）；表示'后援'时像奶茶店的备用珍珠🧋（always have backup boba）；'备份'功能堪比妈妈说的'多穿秋裤'👖；'候补'状态就像等海底捞座位时发的扑克牌🃏。地道说法：'没B计划'叫no plan B🚨",
+    "recite": {
+      "tips": [
+        "谐音梗：'背卡噗'→背着的卡片突然噗通掉下来要备份",
+        "易混词对比：backup（备份）vs. back up（短语动词，支持）"
+      ]
+    }
+  },
+  {
+    "word": "backward",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "ward"
+      ],
+      "meaning_connection": "back表示'背部/后方'，-ward表示'方向'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "向后地",
+        "examples": [
+          {
+            "sentence": "The moonwalk makes you look like walking backward magically.",
+            "sentence_zh": "月球漫步让你看起来像在神奇地倒退行走。"
+          },
+          {
+            "sentence": "He counted backward from 10 before the rocket launch.",
+            "sentence_zh": "火箭发射前他从10倒数。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "相反地",
+        "examples": [
+          {
+            "sentence": "Putting the cart before the horse means doing things backward.",
+            "sentence_zh": "本末倒置就是做事顺序相反。"
+          },
+          {
+            "sentence": "Her shirt was worn backward on April Fools' Day.",
+            "sentence_zh": "愚人节那天她反着穿衬衫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "向后的",
+        "examples": [
+          {
+            "sentence": "The backward glance revealed a forgotten suitcase.",
+            "sentence_zh": "回头一瞥发现了遗忘的行李箱。"
+          },
+          {
+            "sentence": "Crayfish have a powerful backward swimming technique.",
+            "sentence_zh": "小龙虾有强大的倒游本领。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "相反的",
+        "examples": [
+          {
+            "sentence": "His backward logic confused everyone in the meeting.",
+            "sentence_zh": "他相反的逻辑让与会者都很困惑。"
+          },
+          {
+            "sentence": "Writing Chinese characters backward is a special skill.",
+            "sentence_zh": "反写汉字是项特殊技能。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backward and forward",
+        "meaning": "来来回回",
+        "examples": [
+          {
+            "sentence": "The pendulum swings backward and forward like a metro shuttle.",
+            "sentence_zh": "钟摆像地铁摆渡车一样来回摆动。"
+          }
+        ]
+      }
+    ],
+    "teach": "backward是个'倒车请注意'的单词🚗💨！古人认为向左走是backward（不吉利），现代人用bend over backward表示'拼命努力'🤸。要说'落伍'可以叫behind the times，'开倒车'说go against the tide🌊。记住：倒着走可能是月球漫步，也可能是踩到香蕉皮🍌！",
+    "recite": {
+      "tips": [
+        "谐音梗：'贝壳外的'→贝壳外的(backward)世界是相反的",
+        "易混词对比：backward（方向性）vs. reverse（顺序性）"
+      ]
+    }
+  },
+  {
+    "word": "backwardness",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "ward",
+        "ness"
+      ],
+      "meaning_connection": "back=向后，ward=方向，ness=状态→指向后方的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "向后",
+        "examples": [
+          {
+            "sentence": "The backwardness of the moonwalk makes it a legendary dance move.",
+            "sentence_zh": "月球漫步的向后特性使其成为传奇舞步。"
+          },
+          {
+            "sentence": "The crab's backwardness in movement inspired robot design.",
+            "sentence_zh": "螃蟹的向后移动方式启发了机器人设计。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "相反",
+        "examples": [
+          {
+            "sentence": "The backwardness of his opinion shocked the committee.",
+            "sentence_zh": "他相反的观点震惊了委员会。"
+          },
+          {
+            "sentence": "The backwardness of the river's flow puzzled scientists.",
+            "sentence_zh": "河流的相反流向让科学家困惑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "落后",
+        "examples": [
+          {
+            "sentence": "The backwardness of rural education needs urgent attention.",
+            "sentence_zh": "农村教育的落后需要紧急关注。"
+          },
+          {
+            "sentence": "Technological backwardness once cost China dearly in wars.",
+            "sentence_zh": "技术落后曾让中国在战争中付出惨重代价。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "迟疑",
+        "examples": [
+          {
+            "sentence": "His backwardness in decision-making caused missed opportunities.",
+            "sentence_zh": "他决策时的迟疑导致错失良机。"
+          },
+          {
+            "sentence": "The team's backwardness in attacking led to their defeat.",
+            "sentence_zh": "队伍进攻时的迟疑导致了失败。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cultural backwardness",
+        "meaning": "文化落后",
+        "examples": [
+          {
+            "sentence": "Some mistook traditional costumes as cultural backwardness.",
+            "sentence_zh": "有人误将传统服饰当作文化落后。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "economic backwardness",
+        "meaning": "经济落后",
+        "examples": [
+          {
+            "sentence": "China has overcome economic backwardness in just decades.",
+            "sentence_zh": "中国仅用几十年就克服了经济落后。"
+          }
+        ]
+      }
+    ],
+    "teach": "backwardness就像倒着骑自行车🚲！既可以是物理的'向后'（如广场舞大妈的后退舞步💃），也可以是抽象的'落后'（像用诺基亚手机📱的怀旧党）。形容'迟疑不决'时说hem and haw（支支吾吾），说'思想落后'用stuck in the past（困在过去）。记住：偶尔backwardness是复古时尚，长期backwardness就是真out啦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'贝壳沃的尼斯'→贝壳(back)沃的(ward)尼斯(ness)湖怪兽是倒着游的",
+        "易混词对比：backwardness（状态） vs. backward（形容词）"
+      ]
+    }
   }
 ]

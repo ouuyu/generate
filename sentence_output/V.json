@@ -2848,5 +2848,272 @@
         "易混词：validated(已验证) vs valuable(有价值的)"
       ]
     }
+  },
+  {
+    "word": "validation",
+    "etymology": {
+      "breakdown": [
+        "valid",
+        "ation"
+      ],
+      "meaning_connection": "词根valid=有效的（来自拉丁语validus，表示强壮的），后缀-ation表行为/结果→使其有效的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "批准",
+        "examples": [
+          {
+            "sentence": "The boss's validation stamp turned my idea into reality.",
+            "sentence_zh": "老板的批准印章让我的想法变成现实。"
+          },
+          {
+            "sentence": "Getting validation from the board feels like winning an Oscar.",
+            "sentence_zh": "获得董事会的批准感觉像得了奥斯卡奖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "确认",
+        "examples": [
+          {
+            "sentence": "The app sends a validation code to verify your identity.",
+            "sentence_zh": "应用会发送确认码来验证身份。"
+          },
+          {
+            "sentence": "We need scientific validation before releasing the new vaccine.",
+            "sentence_zh": "发布新疫苗前需要科学确认。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "validation process",
+        "meaning": "验证流程",
+        "examples": [
+          {
+            "sentence": "The AI model goes through 7-layer validation like a Chinese cabbage.",
+            "sentence_zh": "这个AI模型的验证流程像白菜一样有7层。"
+          }
+        ]
+      }
+    ],
+    "teach": "validation其实是'伟哥定'💊（valid+ation）！古罗马战士要通过体能测试(valid)才算合格🎖️，现代人用二维码确认(validation)身份就像古代盖玉玺🖊️。'求认可'说seek validation像等老师批作业📝，'无效的'叫invalid就像过期健康码🚫。记住：validation让你从'野生'变'官方认证'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外里的神'→外来文件需要盖'神'(validation)章才有效",
+        "易混对比：validity（有效性）/valuation（估价）"
+      ]
+    }
+  },
+  {
+    "word": "validity",
+    "etymology": {
+      "breakdown": [
+        "valid",
+        "ity"
+      ],
+      "meaning_connection": "词根valid=强壮的/有效的，后缀-ity表性质→从'强壮'演变为'有效'的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "有效性",
+        "examples": [
+          {
+            "sentence": "The validity of your健康码 depends on timely nucleic acid tests.",
+            "sentence_zh": "健康码有效性取决于及时核酸检测。"
+          },
+          {
+            "sentence": "Scientists questioned the validity of the AI's conclusion about dumpling origins.",
+            "sentence_zh": "科学家质疑AI关于饺子起源结论的有效性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "正确性",
+        "examples": [
+          {
+            "sentence": "The validity of his math proof was confirmed by 10 peer reviewers.",
+            "sentence_zh": "十位同行评审确认了他数学证明的正确性。"
+          },
+          {
+            "sentence": "Douyin fact-checkers verified the validity of the viral cooking tutorial.",
+            "sentence_zh": "抖音审核员核对了爆红烹饪教程的正确性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "period of validity",
+        "meaning": "有效期",
+        "examples": [
+          {
+            "sentence": "The period of validity for subway cards in Beijing is 20 years.",
+            "sentence_zh": "北京公交卡的有效期是20年。"
+          }
+        ]
+      }
+    ],
+    "teach": "validity其实是'伟大力'💪！古罗马战士用valid形容强壮体格（现在健身教练还会说'这个动作valid'），后来变成'有效力'就像健康码绿码✅。说'过期失效'用lose validity就像奶茶放隔夜🥤，'临时有效'说temporary validity像共享单车月卡⏳。记住：你的validity决定了能进多少场所！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外卖来的'→外卖来的(validity)餐食要趁热吃才有效",
+        "易混词对比：validity（有效性） vs velocity（速度）→有效才能加速"
+      ]
+    }
+  },
+  {
+    "word": "validly",
+    "etymology": {
+      "breakdown": [
+        "valid",
+        "ly"
+      ],
+      "meaning_connection": "词根valid=强壮的/有效的（来自拉丁语validus），后缀-ly构成副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有根据地",
+        "examples": [
+          {
+            "sentence": "The scientist validly argued against the theory with 20 years of data.",
+            "sentence_zh": "这位科学家用20年的数据有理有据地反驳该理论。"
+          },
+          {
+            "sentence": "You can't validly blame your cat for eating homework without paw prints.",
+            "sentence_zh": "没有爪印作证就不能理直气壮怪猫吃了作业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "正当地",
+        "examples": [
+          {
+            "sentence": "The lawyer validly objected to the illegal evidence in court.",
+            "sentence_zh": "律师在法庭上正当地对非法证据提出反对。"
+          },
+          {
+            "sentence": "Netizens validly criticized the company for false advertising.",
+            "sentence_zh": "网友正当地批评了该公司的虚假宣传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有效验地",
+        "examples": [
+          {
+            "sentence": "This AI model validly predicts stock trends with 89% accuracy.",
+            "sentence_zh": "该AI模型以89%准确率有效预测股价走势。"
+          },
+          {
+            "sentence": "The vaccine has been validly proven to prevent severe cases.",
+            "sentence_zh": "该疫苗被有效验证可预防重症。"
+          }
+        ]
+      }
+    ],
+    "teach": "validly是'理直气壮三件套'💪：1) 古罗马法官用validus（强壮的）形容铁证→现在写论文要有valid references📜 2) 像健康码绿码✅（valid QR code）那样不容置疑 3) 搭配：validly executed contract（有效执行的合同）/ validly registered trademark（合法注册商标）4) 说'站得住脚'用hold water🌊 5) 正义感⚖️+数据📊+认证🏷️",
+    "recite": {
+      "tips": [
+        "谐音梗：'外力的'→有外力(validly)支撑才站得稳",
+        "对比记忆：validly（合理合法）vs illegally（非法）",
+        "后缀联想：-ly结尾的副词常表'以...方式'，如happily→快乐地"
+      ]
+    }
+  },
+  {
+    "word": "valley",
+    "etymology": {
+      "breakdown": [
+        "vall",
+        "ey"
+      ],
+      "meaning_connection": "词根vall=低洼（同拉丁语vallis），-ey为名词后缀→原指两山间的凹陷地带"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "山谷",
+        "examples": [
+          {
+            "sentence": "Huangshan's valleys look like ink paintings when foggy.",
+            "sentence_zh": "雾中的黄山山谷宛如水墨画。"
+          },
+          {
+            "sentence": "Farmers grow tea on the steep valley slopes.",
+            "sentence_zh": "农民们在陡峭的山谷斜坡上种植茶树。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "溪谷",
+        "examples": [
+          {
+            "sentence": "We found wild strawberries by the babbling valley stream.",
+            "sentence_zh": "我们在溪谷的潺潺流水边发现了野草莓。"
+          },
+          {
+            "sentence": "The valley turned into a raging river during typhoon season.",
+            "sentence_zh": "台风季节时这条溪谷会变成汹涌的河流。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "流域",
+        "examples": [
+          {
+            "sentence": "The Yangtze River valley produces over 40% of China's rice.",
+            "sentence_zh": "长江流域生产中国超40%的大米。"
+          },
+          {
+            "sentence": "Ancient civilizations often developed in fertile river valleys.",
+            "sentence_zh": "古文明常发源于肥沃的河流流域。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Silicon Valley",
+        "meaning": "硅谷",
+        "examples": [
+          {
+            "sentence": "Many Chinese tech giants have R&D centers in Silicon Valley.",
+            "sentence_zh": "许多中国科技巨头在硅谷设有研发中心。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "death valley",
+        "meaning": "死亡谷",
+        "examples": [
+          {
+            "sentence": "Tourists are warned not to hike Death Valley in summer.",
+            "sentence_zh": "游客被警告夏季不要在死亡谷徒步。"
+          }
+        ]
+      }
+    ],
+    "teach": "valley其实是地球的皱纹👵！最著名的硅谷(Silicon Valley)就像代码的摇篮床💻，而死亡谷(Death Valley)则是太阳的烧烤架☀️。古人在河谷流域种大米🌾发展文明，现代人在电子谷（硅谷）种代码。说'穷乡僻壤'用地道表达叫the back of beyond，搭配记忆：emerald valley翡翠谷/valley girl山谷女孩（美国流行文化梗）",
+    "recite": {
+      "tips": [
+        "谐音梗：'外卖里'→外卖小哥穿越山谷送餐",
+        "易混词对比：value（价值） vs valley（山谷）→'有value的valley是金矿'"
+      ]
+    }
   }
 ]
