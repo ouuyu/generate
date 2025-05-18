@@ -14469,5 +14469,287 @@
         "记忆tip：联想会计(accountant)被审计时的战战兢兢"
       ]
     }
+  },
+  {
+    "word": "accountancy",
+    "etymology": {
+      "breakdown": [
+        "account",
+        "ancy"
+      ],
+      "meaning_connection": "account源自拉丁语computare（计算），后缀-ancy表状态/性质→计算的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "会计工作",
+        "examples": [
+          {
+            "sentence": "Her accountancy at the teahouse involves tracking pu'er tea inventory with abacus.",
+            "sentence_zh": "她在茶楼的会计工作包括用算盘记录普洱茶库存。"
+          },
+          {
+            "sentence": "Digital accountancy now replaces paper ledgers in night market stalls.",
+            "sentence_zh": "夜市摊位现已用电子会计取代纸质账本。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "会计学",
+        "examples": [
+          {
+            "sentence": "He's studying accountancy to decode Alibaba's financial reports someday.",
+            "sentence_zh": "他学习会计学是为了有朝一日能解读阿里巴巴财报。"
+          },
+          {
+            "sentence": "The course blends traditional accountancy with blockchain technology.",
+            "sentence_zh": "这门课程将传统会计学与区块链技术相结合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chartered accountancy",
+        "meaning": "特许会计",
+        "examples": [
+          {
+            "sentence": "Getting a chartered accountancy license is harder than passing the civil service exam.",
+            "sentence_zh": "考取特许会计师执照比通过公务员考试还难。"
+          }
+        ]
+      }
+    ],
+    "teach": "accountancy是'数字炼金术'🔢：古代账房先生用算盘当CPU🧮，现代会计用Excel施展表格魔法📊。'做假账'叫cook the books（烹饪账本）🍳，'财务自由'是financial freedom💰。记住：好的accountant能让老板看到想看的数字，就像美颜相机滤镜📸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅看疼膝'→会计看账本看到膝盖疼",
+        "易混词：accounting（会计行为）vs. accountancy（会计职业）",
+        "记忆tip：拆解为account（账户）+ancy（状态）→管理账户的状态"
+      ]
+    }
+  },
+  {
+    "word": "accountant",
+    "etymology": {
+      "breakdown": [
+        "account",
+        "ant"
+      ],
+      "meaning_connection": "词根account=账目计算，后缀-ant表示'从事...的人'→'从事账目计算工作的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "会计人员",
+        "examples": [
+          {
+            "sentence": "The accountant found 3 missing yuan in the company's Year of the Dragon budget.",
+            "sentence_zh": "会计发现公司龙年预算少了3块钱。"
+          },
+          {
+            "sentence": "Every Mid-Autumn Festival our accountant turns mooncake receipts into Excel poetry.",
+            "sentence_zh": "每年中秋节我们的会计都会把月饼发票做成Excel诗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "会计师",
+        "examples": [
+          {
+            "sentence": "My CPA aunt can calculate mahjong scores faster than an abacus.",
+            "sentence_zh": "我注册会计师的阿姨算麻将分比算盘还快。"
+          },
+          {
+            "sentence": "The tax consultant dressed as Calculator-chan at ComicCon.",
+            "sentence_zh": "这位税务师在漫展上cos成计算器娘。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chartered accountant",
+        "meaning": "特许会计师",
+        "examples": [
+          {
+            "sentence": "He became a chartered accountant before he could legally drink baijiu.",
+            "sentence_zh": "他在法定饮酒年龄前就成了特许会计师。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "forensic accountant",
+        "meaning": "法务会计",
+        "examples": [
+          {
+            "sentence": "The forensic accountant traced the embezzled funds to a bubble tea franchise.",
+            "sentence_zh": "法务会计查出贪污资金流向某奶茶连锁店。"
+          }
+        ]
+      }
+    ],
+    "teach": "accountant其实是'数钱战士'💰！古代美索不达米亚的会计用泥板记账📜，现代会计用Excel斗地主的欢乐豆🧮。'做假账'叫cook the books（烹饪账本）🍳，'财务自由'说fat FIRE（财务独立提前退休）🔥。记住：好的accountant能让你的钱像火锅里的毛肚—七上八下都是赚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅啃账单'→会计的鹅在核对账目",
+        "易混词对比：accountant（会计）vs. accountability（责任制）",
+        "记忆tip：把ant（蚂蚁）想象成在账本上搬数字的工人"
+      ]
+    }
+  },
+  {
+    "word": "accounting",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "count",
+        "ing"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'，词根count=计算，-ing表行为→'计算的行为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "会计学",
+        "examples": [
+          {
+            "sentence": "Panda-shaped calculators are popular among accounting majors.",
+            "sentence_zh": "熊猫造型计算器在会计学专业学生中很受欢迎。"
+          },
+          {
+            "sentence": "She switched from ballet to accounting after discovering her talent for numbers.",
+            "sentence_zh": "发现自己数字天赋后，她从芭蕾舞转学会计学。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "帐单",
+        "examples": [
+          {
+            "sentence": "The hotpot restaurant's accounting surprised us with free bean curd.",
+            "sentence_zh": "火锅店的帐单让我们惊喜地发现免费送了豆腐。"
+          },
+          {
+            "sentence": "The delivery app's accounting clearly shows 2 yuan chopstick fees.",
+            "sentence_zh": "外卖APP的帐单明确显示2元筷子费。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "清帐",
+        "examples": [
+          {
+            "sentence": "The teahouse does daily accounting at midnight with abacus sounds.",
+            "sentence_zh": "茶馆每天半夜用算盘声做清帐。"
+          },
+          {
+            "sentence": "Lunar New Year's Eve is the ultimate accounting day for Chinese businesses.",
+            "sentence_zh": "除夕夜是中国商家最重要的清帐日。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "creative accounting",
+        "meaning": "做假账",
+        "examples": [
+          {
+            "sentence": "The CEO used creative accounting to hide his milk tea expenses.",
+            "sentence_zh": "CEO用做假账隐藏奶茶开销。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accounting period",
+        "meaning": "会计周期",
+        "examples": [
+          {
+            "sentence": "Our accounting period ends when the bubble tea sales peak.",
+            "sentence_zh": "我们的会计周期在奶茶销量高峰时结束。"
+          }
+        ]
+      }
+    ],
+    "teach": "accounting其实是'算总账'🧮！古代商人用绳结计数→现代会计用Excel📊。'假账'叫cooking the books（烹饪账本🍳），'月光族'说成live paycheck to paycheck（工资到工资💸）。记住：好的accounting能让你知道火锅钱花在肉还是锅底上！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅看听'→会计鹅边看账本边听算盘声",
+        "对比记忆：account（账户）+ing=持续记账的动作",
+        "联想：支付宝年度账单=全民accounting现场"
+      ]
+    }
+  },
+  {
+    "word": "accoutrement",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "coutre",
+        "ment"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，coutre来自古法语'cousture'（缝制），-ment是名词后缀→原指缝制衣物，后演变为'装备'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "装备（常指服饰配件）",
+        "examples": [
+          {
+            "sentence": "Her hiking accoutrements included a compass with panda stickers.",
+            "sentence_zh": "她的徒步装备包括贴有熊猫贴纸的指南针。"
+          },
+          {
+            "sentence": "The knight's accoutrements clanked like a kitchenware sale.",
+            "sentence_zh": "骑士的装备叮当作响宛如厨具大甩卖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "配备（专业设备）",
+        "examples": [
+          {
+            "sentence": "The photographer's accoutrements filled three suitcases.",
+            "sentence_zh": "摄影师的配备塞满了三个行李箱。"
+          },
+          {
+            "sentence": "Modern camping accoutrements can include portable espresso machines.",
+            "sentence_zh": "现代露营配备可能包含便携式咖啡机。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "military accoutrements",
+        "meaning": "军事装备",
+        "examples": [
+          {
+            "sentence": "The museum displayed Napoleon's personal military accoutrements.",
+            "sentence_zh": "博物馆展出了拿破仑的个人军事装备。"
+          }
+        ]
+      }
+    ],
+    "teach": "accoutrement是装备界的满汉全席🍱！源自法国裁缝术语✂️，现在指那些让直男困惑的女士包包配饰👜（fashion accoutrements），或是让宅男兴奋的电竞装备🎮（gaming accoutrements）。记住：'旅行装备'说travel accoutrements就像带了个移动杂货铺🏕️，'装备过多'叫over-accoutred好比圣诞树挂满装饰品🎄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊裤头们'→啊裤头们(accoutrements)也是服装装备",
+        "易混词对比：equipment（常规装备） vs accoutrement（特色配件）",
+        "记忆tip：把单词拆成AC（空调）+OUT（外）+MENT（们）→空调外机们也是建筑装备"
+      ]
+    }
   }
 ]

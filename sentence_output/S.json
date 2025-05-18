@@ -14212,5 +14212,272 @@
         "易混词：satisfactory（客观令人满意） vs satisfied（主观感到满意）"
       ]
     }
+  },
+  {
+    "word": "satisfy",
+    "etymology": {
+      "breakdown": [
+        "satis",
+        "fy"
+      ],
+      "meaning_connection": "词根satis=足够（拉丁语satis），后缀-fy=使...→'使足够'引申出满足/符合等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使满意",
+        "examples": [
+          {
+            "sentence": "The AI-generated poem satisfied even the strictest literature professor.",
+            "sentence_zh": "这首AI生成的诗连最严格的文学教授都感到满意。"
+          },
+          {
+            "sentence": "Hotpot with free refills will satisfy any hungry college student.",
+            "sentence_zh": "免费续锅的火锅能让任何饥饿的大学生满意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "满足（需求/条件）",
+        "examples": [
+          {
+            "sentence": "This app satisfies users' need for instant translation.",
+            "sentence_zh": "这款应用满足用户即时翻译的需求。"
+          },
+          {
+            "sentence": "The new dormitory satisfies all fire safety requirements.",
+            "sentence_zh": "新宿舍楼满足所有消防安全要求。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "符合（标准）",
+        "examples": [
+          {
+            "sentence": "Only 3% of the products satisfied the export quality standard.",
+            "sentence_zh": "只有3%的产品符合出口质量标准。"
+          },
+          {
+            "sentence": "This WeChat mini-program satisfies GDPR regulations.",
+            "sentence_zh": "这个微信小程序符合欧盟《通用数据保护条例》。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使确信",
+        "examples": [
+          {
+            "sentence": "The detective's explanation satisfied the police chief.",
+            "sentence_zh": "侦探的解释让警长确信无疑。"
+          },
+          {
+            "sentence": "Her perfect test score satisfied her parents about the tutoring effect.",
+            "sentence_zh": "她完美的考试成绩让父母确信补习效果。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "令人满意",
+        "examples": [
+          {
+            "sentence": "The ending of the drama didn't satisfy at all.",
+            "sentence_zh": "这部剧的结局完全不令人满意。"
+          },
+          {
+            "sentence": "Instant noodles may satisfy temporarily but aren't nutritious.",
+            "sentence_zh": "泡面或许能暂时满足，但缺乏营养。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "satisfy with",
+        "meaning": "用...满足",
+        "examples": [
+          {
+            "sentence": "The teacher satisfied the students' curiosity with VR experiments.",
+            "sentence_zh": "老师用VR实验满足了学生们的好奇心。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "satisfy the examiners",
+        "meaning": "通过考试",
+        "examples": [
+          {
+            "sentence": "After retaking the course three times, he finally satisfied the examiners.",
+            "sentence_zh": "重修三次后，他终于通过了考试。"
+          }
+        ]
+      }
+    ],
+    "teach": "satisfy就像精神食粮购物车🛒：词根satis是拉丁语'足够'（想象罗马人竖起大拇指👍），-fy是'使...'（如同外卖APP的'立即下单'按钮🔘）。说'勉强接受'用grudgingly satisfy（像收到不想要的礼物还要微笑），'完全满足'说fully satisfy就像火锅吃到扶墙出🍲。记住：satisfy的标准从'及格线'到'天花板'都能用！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛体脂'→减肥成功(satisfy)的标准",
+        "易混词：content（主观满足） vs satisfy（客观达标）"
+      ]
+    }
+  },
+  {
+    "word": "satisfying",
+    "etymology": {
+      "breakdown": [
+        "satis",
+        "fy",
+        "ing"
+      ],
+      "meaning_connection": "词根satis=足够（拉丁语satis），-fy=使...化（如purify），-ing构成形容词→'使足够的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "令人满意的",
+        "examples": [
+          {
+            "sentence": "The crunch sound of bubble wrap is scientifically proven to be satisfying.",
+            "sentence_zh": "科学证明捏泡泡纸的咔嗒声令人满足。"
+          },
+          {
+            "sentence": "Watching others fail at spicy hotpot challenges is weirdly satisfying.",
+            "sentence_zh": "看别人在麻辣火锅挑战中失败有种诡异的满足感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "充分的",
+        "examples": [
+          {
+            "sentence": "Two hours of satisfying sleep is better than eight hours of light sleep.",
+            "sentence_zh": "两小时深度睡眠胜过八小时浅眠。"
+          },
+          {
+            "sentence": "The detective finally got a satisfying amount of evidence.",
+            "sentence_zh": "侦探终于获得了充分的证据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可信的",
+        "examples": [
+          {
+            "sentence": "His alibi was satisfying enough for the police.",
+            "sentence_zh": "他的不在场证明对警方来说足够可信。"
+          },
+          {
+            "sentence": "The satisfying explanation resolved all doubts.",
+            "sentence_zh": "这个可信的解释消除了所有疑虑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deeply satisfying",
+        "meaning": "极度满足的",
+        "examples": [
+          {
+            "sentence": "Finishing a 10,000-piece Lego set is deeply satisfying.",
+            "sentence_zh": "完成万片乐高能带来极度满足感。"
+          }
+        ]
+      }
+    ],
+    "teach": "satisfying其实是'三体式'满足🚀：1) 生理满足感就像喝到秋天的第一杯奶茶🧋（deeply satisfying）2) 逻辑充分性像数学证明最后那个Q.E.D.📐（satisfying proof）3) 可信度堪比老妈说'压岁钱帮你存着'时的表情🎭。搭配：satisfying meal（爽餐）, satisfying answer（圆说）。地道表达：'够够的'叫satisfied to the brim🥣",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞体肺'→塞满身体和肺才satisfying",
+        "易混词：satisfactory（达标但未必愉悦） vs satisfying（愉悦满足）"
+      ]
+    }
+  },
+  {
+    "word": "satisfyingly",
+    "etymology": {
+      "breakdown": [
+        "satisfy",
+        "ing",
+        "ly"
+      ],
+      "meaning_connection": "词根satisfy（满足）+ 后缀-ing（构成形容词）+ 后缀-ly（构成副词）→ 以令人满足的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "使人满意地",
+        "examples": [
+          {
+            "sentence": "The hot pot was satisfyingly spicy, making us sweat and laugh at the same time.",
+            "sentence_zh": "火锅辣得让人酣畅淋漓，我们边流汗边大笑。"
+          },
+          {
+            "sentence": "He solved the math problem satisfyingly, with all steps neatly written.",
+            "sentence_zh": "他解题解得漂亮利落，步骤写得工整清晰。"
+          }
+        ]
+      }
+    ],
+    "teach": "satisfyingly就像吃完重庆火锅后那声'啊~'😌！古罗马人用'satis'（足够）和'facere'（做）造出'satisfy'🌶️，就像往碗里加料直到冒尖。说'超解压'可以用satisfyingly therapeutic，'完美收官'说satisfyingly concluded🍜。记住：这个词自带擦嘴满足感！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛提斯饭粒'→比赛提斯（satis）吃饭粒（-fy）吃到撑",
+        "对比记忆：satisfied（感到满足的） vs. satisfying（令人满足的）"
+      ]
+    }
+  },
+  {
+    "word": "satrap",
+    "etymology": {
+      "breakdown": [
+        "satrap"
+      ],
+      "meaning_connection": "源自古波斯语xšaθrapāvan（行省守护者），后经希腊语进入英语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "总督",
+        "examples": [
+          {
+            "sentence": "The satrap of Babylon lived in a palace with golden date trees.",
+            "sentence_zh": "巴比伦总督的宫殿里种着黄金椰枣树。"
+          },
+          {
+            "sentence": "Ancient satraps collected taxes in the form of spices and silk.",
+            "sentence_zh": "古代总督以香料和丝绸的形式征税。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "satrap's court",
+        "meaning": "总督府",
+        "examples": [
+          {
+            "sentence": "The satrap's court was filled with poets and astronomers.",
+            "sentence_zh": "总督府里满是诗人和天文学家。"
+          }
+        ]
+      }
+    ],
+    "teach": "satrap其实是'杀抓扑'三件套🗡️：波斯总督(satrap)既要镇压叛乱(杀)，又要管理税收(抓)，还得应付国王突击检查(扑)。现代版satrap就是区域经理💼，要说'土皇帝'可用local satrap，'官僚作风'叫satrapic red tape📜。记住：当satrap不如当抖音网红自由！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒桌布'→总督府天天晒华丽桌布",
+        "易混词：satrap vs. senator（前者是波斯总督，后者是罗马元老）"
+      ]
+    }
   }
 ]

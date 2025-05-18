@@ -14666,5 +14666,364 @@
         "联想记忆：maker像麦当劳的'麦'，法律(law)的麦当劳→制定法律快餐的人"
       ]
     }
+  },
+  {
+    "word": "lawn",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语'launde'（林间空地），与凯尔特语'lan'（空地）相关，后特指人工修整的草地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "草地",
+        "examples": [
+          {
+            "sentence": "The drone captured a heart-shaped lawn in the campus.",
+            "sentence_zh": "无人机拍到了校园里的心形草地。"
+          },
+          {
+            "sentence": "Kids are rolling on the lawn like little pandas.",
+            "sentence_zh": "孩子们像小熊猫一样在草地上打滚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "草坪",
+        "examples": [
+          {
+            "sentence": "His new robotic lawn mower tweets when it's stuck.",
+            "sentence_zh": "他的新智能草坪修剪机被困时会发推特。"
+          },
+          {
+            "sentence": "The golf course lawn is greener than my ex's new relationship.",
+            "sentence_zh": "高尔夫球场的草坪比我前任的新恋情还绿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "上等细麻布",
+        "examples": [
+          {
+            "sentence": "Victorian ladies' lawn dresses could cover a badminton court.",
+            "sentence_zh": "维多利亚时代的细麻布裙摆能铺满整个羽毛球场。"
+          },
+          {
+            "sentence": "This antique lawn handkerchief was once worth a worker's monthly wage.",
+            "sentence_zh": "这块古董细麻布手帕曾抵工人一月工资。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lawn tennis",
+        "meaning": "草地网球",
+        "examples": [
+          {
+            "sentence": "Wimbledon is famous for its pristine lawn tennis courts.",
+            "sentence_zh": "温网以 pristine 的草地网球场闻名。"
+          }
+        ]
+      }
+    ],
+    "teach": "lawn是'老翁'的优雅运动场🧓→英国贵族最早在修整的lawn上打网球🎾，'草坪婚礼'叫lawn wedding就像绿丝绒地毯💍。记住：当美国人说'Not on my lawn!'（别碰我院子！）时，就像守护自己领地的猫🐱。要说'杂草丛生'用overgrown，'完美草坪'是manicured lawn✂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'老温'→温网(lawn)草地",
+        "易混对比：meadow（天然草地）vs lawn（人工修剪）",
+        "记忆tip：lawn=low+awn→低(low)矮的(awn)草地"
+      ]
+    }
+  },
+  {
+    "word": "lawnmower",
+    "etymology": {
+      "breakdown": [
+        "lawn",
+        "mow",
+        "er"
+      ],
+      "meaning_connection": "lawn=草坪，mow=割草，-er表执行者/工具→专门割草的人或机器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "刈割者",
+        "examples": [
+          {
+            "sentence": "The village lawnmower was an old man with bamboo scissors.",
+            "sentence_zh": "村里的刈割者是位用竹剪刀的老伯。"
+          },
+          {
+            "sentence": "Before machines, lawnmowers were actually sheep.",
+            "sentence_zh": "在没有机器的年代，刈割者其实是羊群。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "草坪割草机",
+        "examples": [
+          {
+            "sentence": "The robotic lawnmower looks like a giant Roomba.",
+            "sentence_zh": "自动草坪割草机像个巨型扫地机器人。"
+          },
+          {
+            "sentence": "British people debate lawnmower patterns like art critics.",
+            "sentence_zh": "英国人讨论割草机花纹就像艺术评论家。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "push lawnmower",
+        "meaning": "手推式割草机",
+        "examples": [
+          {
+            "sentence": "Using a push lawnmower counts as cardio exercise.",
+            "sentence_zh": "用手推式割草机算有氧运动。"
+          }
+        ]
+      }
+    ],
+    "teach": "lawnmower是社畜の宿命⚡️：中世纪英国贵族用绵羊当'生物割草机'🐑，现代人却要冒着被邻居投诉的风险开电动款。说'除草'用mow the lawn（像理发💇），'草长得快'叫grow like weeds（野草般疯长）。记住：每个完美草坪背后，都有台想罢工的lawnmower！",
+    "recite": {
+      "tips": [
+        "视觉联想：把-mower想成'魔刃'，专治草坪不服",
+        "易混词对比：mower（割草机） vs mow（割草动作）"
+      ]
+    }
+  },
+  {
+    "word": "lawsuit",
+    "etymology": {
+      "breakdown": [
+        "law",
+        "suit"
+      ],
+      "meaning_connection": "law=法律，suit=正式请求→法律层面的正式请求"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "诉讼",
+        "examples": [
+          {
+            "sentence": "The hotpot chain filed a lawsuit over stolen recipe secrets.",
+            "sentence_zh": "这家火锅连锁店就配方泄密提起了诉讼。"
+          },
+          {
+            "sentence": "His viral douyin video led to an unexpected defamation lawsuit.",
+            "sentence_zh": "他爆火的抖音视频引发了一场意外的诽谤诉讼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "诉讼案件",
+        "examples": [
+          {
+            "sentence": "The patent lawsuit between tech giants lasted 3 years.",
+            "sentence_zh": "科技巨头之间的专利诉讼案持续了三年。"
+          },
+          {
+            "sentence": "This landmark lawsuit changed China's food safety regulations.",
+            "sentence_zh": "这起标志性诉讼案件改变了中国的食品安全法规。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "file a lawsuit",
+        "meaning": "提起诉讼",
+        "examples": [
+          {
+            "sentence": "The grandma filed a lawsuit after slipping on bubble tea spilled in a mall.",
+            "sentence_zh": "老奶奶因在商场踩到洒落的奶茶滑倒而提起诉讼。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "settle a lawsuit",
+        "meaning": "和解诉讼",
+        "examples": [
+          {
+            "sentence": "The celebrity settled the lawsuit out of court with 10000 yuan compensation.",
+            "sentence_zh": "该明星以1万元赔偿金庭外和解了诉讼。"
+          }
+        ]
+      }
+    ],
+    "teach": "lawsuit本质是'法律西装'👔：想象律师们穿着正装(law+suit)在法庭辩论⚖️。当你说'I'll see you in court'就是宣战布告💥，而'庭外和解'叫settle out of court就像火锅店老板免单息事宁人🍲。记住：疯狂星期四的炸鸡可能引发两种suit——诉讼(lawsuit)和食欲(appe-tite)！",
+    "recite": {
+      "tips": [
+        "谐音梗：'老输他'→老输(law-suit)官司的人",
+        "易混词：lawsuit(民事诉讼) vs. prosecution(刑事起诉)"
+      ]
+    }
+  },
+  {
+    "word": "lawyer",
+    "etymology": {
+      "breakdown": [
+        "law",
+        "yer"
+      ],
+      "meaning_connection": "law=法律，-yer=从事者（同-er变体）→玩转法律条文的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "律师",
+        "examples": [
+          {
+            "sentence": "The lawyer defended the client with memes from Douyin.",
+            "sentence_zh": "律师用抖音梗图替委托人辩护。"
+          },
+          {
+            "sentence": "Every divorce lawyer needs a stress-relief plush toy.",
+            "sentence_zh": "每个离婚律师都需要解压毛绒玩具。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lawyer up",
+        "meaning": "聘请律师",
+        "examples": [
+          {
+            "sentence": "Celebrities always lawyer up before scandals break.",
+            "sentence_zh": "明星总在丑闻爆发前火速聘请律师。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "street lawyer",
+        "meaning": "江湖律师",
+        "examples": [
+          {
+            "sentence": "That street lawyer knows all the xiaolongbao vendors' legal rights.",
+            "sentence_zh": "那位江湖律师清楚所有小笼包摊主的法律权益。"
+          }
+        ]
+      }
+    ],
+    "teach": "lawyer其实是'律爷'👨⚖️：中世纪英国用'law+yer'称呼法律专家（yer=er的方言变体）。吐槽律师费贵可以说'比茅台还费钱'🍶（costs more than Moutai），'胜诉'叫win the case就像游戏通关🎮。记住：好lawyer能让你从'刑不刑'变成'行不行'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'老爷'→古代衙门里的讼师",
+        "易混词：attorney（美式正式用语）vs. solicitor（英式非诉律师）"
+      ]
+    }
+  },
+  {
+    "word": "lax",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自古英语'leax'（松懈），与德语'lachs'（鲑鱼）同源→鲑鱼游动时肌肉松弛的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "松弛的",
+        "examples": [
+          {
+            "sentence": "The yoga teacher reminded us to keep lax fingers like cat paws.",
+            "sentence_zh": "瑜伽老师提醒我们保持手指松弛如猫爪。"
+          },
+          {
+            "sentence": "After the massage, my muscles became pleasantly lax.",
+            "sentence_zh": "按摩后我的肌肉变得舒适地松弛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不严格的",
+        "examples": [
+          {
+            "sentence": "The lax security at the concert allowed sneaking in milk tea.",
+            "sentence_zh": "演唱会松懈的安检让人能偷带奶茶进场。"
+          },
+          {
+            "sentence": "Grandma's lax parenting style results in spoiled grandchildren.",
+            "sentence_zh": "奶奶宽松的育儿方式造就了被宠坏的孙辈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "腹泻的",
+        "examples": [
+          {
+            "sentence": "Eating too much hot pot made his stomach uncomfortably lax.",
+            "sentence_zh": "火锅吃太多让他肠胃不适腹泻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "腹泻",
+        "examples": [
+          {
+            "sentence": "The doctor prescribed medicine for summer lax caused by iced watermelon.",
+            "sentence_zh": "医生开了治疗冰西瓜导致的夏季腹泻的药。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "松元音（语言学）",
+        "examples": [
+          {
+            "sentence": "The vowel in 'cup' is a typical lax vowel in English.",
+            "sentence_zh": "'cup'中的元音是典型的英语松元音。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lax about",
+        "meaning": "对...松懈",
+        "examples": [
+          {
+            "sentence": "Don't be lax about wearing masks during flu season.",
+            "sentence_zh": "流感季节别对戴口罩松懈。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "lax with",
+        "meaning": "对待...宽松",
+        "examples": [
+          {
+            "sentence": "Teachers shouldn't be lax with plagiarism.",
+            "sentence_zh": "教师不该对抄袭行为宽松处理。"
+          }
+        ]
+      }
+    ],
+    "teach": "lax这词像漏气的轮胎🚗💨！当表示'松懈'时，就像地铁安检员打瞌睡😴（lax security）；当'腹泻'用时，就像吃了变态辣火锅后的厕所紧急情况🚽🔥。记住：说'管理松散'用lax management，'拉肚子'委婉说法是have loose bowls（字面：碗漏了）🍜💦。松元音？就是发'啊'时像躺着说话的懒人音调🛋️~",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉稀'→lax腹泻",
+        "易混词：lax vs slack（前者侧重标准松弛，后者侧重行动懈怠）"
+      ]
+    }
   }
 ]

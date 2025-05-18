@@ -13868,5 +13868,255 @@
         "记忆tip：把un-看作松开的拉链，control是缰绳，-ed是已完成状态"
       ]
     }
+  },
+  {
+    "word": "uncontroversial",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "controvers",
+        "ial"
+      ],
+      "meaning_connection": "前缀un-表否定，词根controvers=争论（contro-相反+vers转），-ial形容词后缀→没有相反观点的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "非争论性的",
+        "examples": [
+          {
+            "sentence": "Panda conservation is an uncontroversial topic in China.",
+            "sentence_zh": "熊猫保护在中国是个非争论性话题。"
+          },
+          {
+            "sentence": "His choice of black suit was deliberately uncontroversial.",
+            "sentence_zh": "他选择黑色西装刻意保持非争论性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不会引起争论的",
+        "examples": [
+          {
+            "sentence": "The decision to cancel classes due to typhoon was uncontroversial.",
+            "sentence_zh": "因台风停课的决定不会引起争论。"
+          },
+          {
+            "sentence": "Using disposable chopsticks is no longer uncontroversial nowadays.",
+            "sentence_zh": "使用一次性筷子在当今已不再是不会引起争论的行为了。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncontroversial就像火锅里的白菜🥬——人畜无害！从词根看就是'不会(UN)被杠精(CONTROVERSIAL)盯上'的状态🤺。搭配'politically uncontroversial'（政治正确）、'morally uncontroversial'（道德无虞），说'这事很安全'可以讲It's a hill no one will die on⛰️。记住：当你说'这很uncontroversial'时，可能马上就会被打脸😏",
+    "recite": {
+      "tips": [
+        "拆解记忆：UN（联合国）+CONTROVERSIAL（有争议的）=联合国都吵不起来的事",
+        "易混词对比：controversial是'引战的'，indisputable是'无可辩驳的'，uncontroversial只是'没人想吵'"
+      ]
+    }
+  },
+  {
+    "word": "unconventional",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "con",
+        "vent",
+        "ion",
+        "al"
+      ],
+      "meaning_connection": "前缀un-表否定，con-表'共同'，词根vent来自'venir'(来)，-ion名词后缀，-al形容词后缀→本义'不随大流而来的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不依惯例的",
+        "examples": [
+          {
+            "sentence": "His unconventional teaching methods include using memes to explain quantum physics.",
+            "sentence_zh": "他不依惯例的教学方法包括用表情包讲解量子物理。"
+          },
+          {
+            "sentence": "The CEO's unconventional decision to implement a four-day workweek boosted productivity by 30%.",
+            "sentence_zh": "这位CEO不依惯例实行四天工作制的决定使效率提升30%。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "非传统的",
+        "examples": [
+          {
+            "sentence": "Their wedding featured unconventional elements like a drone-delivered ring.",
+            "sentence_zh": "他们的婚礼包含无人机送戒指等非传统环节。"
+          },
+          {
+            "sentence": "This unconventional recipe combines durian and stinky tofu in hotpot.",
+            "sentence_zh": "这道非传统食谱将榴莲和臭豆腐放入火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "非常规的",
+        "examples": [
+          {
+            "sentence": "Scientists are exploring unconventional energy sources like human body heat.",
+            "sentence_zh": "科学家正在探索人体热能等非常规能源。"
+          },
+          {
+            "sentence": "Her unconventional career path went from ballet dancer to AI engineer.",
+            "sentence_zh": "她从芭蕾舞者到AI工程师的非常规职业路径。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "unconventional wisdom",
+        "meaning": "反常识认知",
+        "examples": [
+          {
+            "sentence": "The book challenges readers with unconventional wisdom about success.",
+            "sentence_zh": "这本书用关于成功的反常识认知挑战读者。"
+          }
+        ]
+      }
+    ],
+    "teach": "unconventional就像火锅里煮月饼🥮！词根vent原指'来路'，加un-就成了'野路子'🛤️。说人'不按套路出牌'可以说play against type，'特立独行'叫march to a different drummer🥁。记住：当别人走阳关道时，unconventional人才在独木舟上自拍🤳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看纹身闹'→俺看纹身闹(unconventional)很非主流",
+        "对比记忆：conventional像地铁早高峰🚇，unconventional像骑独轮车上班🤹"
+      ]
+    }
+  },
+  {
+    "word": "unconverted",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "con",
+        "vert",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，con-表'共同'，词根vert=转变，-ed表形容词→字面意思'未被共同改变的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "未转变的",
+        "examples": [
+          {
+            "sentence": "The unconverted factory still uses coal power in 2023.",
+            "sentence_zh": "这家未转型的工厂在2023年仍使用燃煤动力。"
+          },
+          {
+            "sentence": "Her unconverted enthusiasm for disco surprises millennials.",
+            "sentence_zh": "她对迪斯科未减的热情让千禧世代惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不变化的",
+        "examples": [
+          {
+            "sentence": "The unconverted desert landscape stretched for miles.",
+            "sentence_zh": "这片亘古不变的沙漠景观绵延数英里。"
+          },
+          {
+            "sentence": "His unconverted morning routine includes rubbing tiger balm.",
+            "sentence_zh": "他雷打不动的晨间程序包含擦虎标万金油。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不改变信仰的",
+        "examples": [
+          {
+            "sentence": "The unconverted monk still chants in Pali language.",
+            "sentence_zh": "这位未改宗的高僧仍用巴利语诵经。"
+          },
+          {
+            "sentence": "Unconverted believers kept burning joss sticks secretly.",
+            "sentence_zh": "未改变信仰的信徒们仍在偷偷烧香。"
+          }
+        ]
+      }
+    ],
+    "teach": "unconverted像块顽固的臭豆腐🧈：字面是'没(un)被集体(con)翻转(vert)的东西'。视觉化联想：1) 未改造的老房子留着搪瓷痰盂🏚️ 2) 法意'未悔改'就像死不认错的熊孩子🙅。实用搭配：unconverted heathen（未开化的异教徒）/ remain unconverted（冥顽不灵）。地道表达'死脑筋'叫hardcore unconverted，就像用诺基亚砸核桃的老爸📞",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看我的'→死守着不肯改变(unconverted)",
+        "易混词：unconventional（不按常理的）vs unconverted（未改变的）",
+        "记忆口诀：un+convert+ed=三明治没翻面"
+      ]
+    }
+  },
+  {
+    "word": "unconvinced",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "con",
+        "vinced"
+      ],
+      "meaning_connection": "前缀un-表否定，con-表'完全'，词根vinc/vict表示'征服'→原指未被完全说服的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不相信的",
+        "examples": [
+          {
+            "sentence": "The jury remained unconvinced by the panda's alibi of eating bamboo all night.",
+            "sentence_zh": "陪审团不相信熊猫'整夜吃竹子'的不在场证明。"
+          },
+          {
+            "sentence": "She was unconvinced that pineapple belongs on pizza.",
+            "sentence_zh": "她坚决不相信菠萝应该出现在披萨上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "怀疑的",
+        "examples": [
+          {
+            "sentence": "Investors are unconvinced about the CEO's claim of 'metaverse dominance by next Tuesday'.",
+            "sentence_zh": "投资者对CEO'下周二前统治元宇宙'的说法持怀疑态度。"
+          },
+          {
+            "sentence": "My mom is unconvinced that 5G doesn't cause baldness.",
+            "sentence_zh": "我妈妈对'5G不会导致秃头'的说法将信将疑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remain unconvinced",
+        "meaning": "保持怀疑",
+        "examples": [
+          {
+            "sentence": "Netizens remain unconvinced by the explanation for the disappearing UFO video.",
+            "sentence_zh": "网友对UFO视频消失的解释仍存疑。"
+          }
+        ]
+      }
+    ],
+    "teach": "unconvinced是'我不听'表情包🤷的学术版！词根vinc来自古罗马胜利女神Victoria🏛️，加un-就变成'未被征服→未被说服'。怀疑同事的请假理由可以说\"I'm unconvinced by your 'my dog ate my laptop' story\"（搭配：express unconvinced 表达质疑 / appear unconvinced 显得怀疑）。地道说法用take with a grain of salt（持保留态度）🤨🧂🤔",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看纹身的'→面对纹身理由表示unconvinced",
+        "易混词对比：unsure（不确定） vs unconvinced（经论证仍不信）"
+      ]
+    }
   }
 ]

@@ -14056,5 +14056,193 @@
         "易混词：hurry(匆忙)是自动的，harry(骚扰)是被动的"
       ]
     }
+  },
+  {
+    "word": "harshly",
+    "etymology": {
+      "breakdown": [
+        "harsh",
+        "ly"
+      ],
+      "meaning_connection": "形容词harsh（粗糙的/严厉的）+副词后缀-ly"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "粗糙地",
+        "examples": [
+          {
+            "sentence": "The artisan sanded the wood harshly, leaving visible scratches.",
+            "sentence_zh": "工匠粗糙地打磨木材，留下明显划痕。"
+          },
+          {
+            "sentence": "Don't wipe the camera lens harshly with your sleeve!",
+            "sentence_zh": "别用袖子粗暴擦拭相机镜头！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "粗暴地",
+        "examples": [
+          {
+            "sentence": "The coach spoke harshly to the player who kept checking WeChat during training.",
+            "sentence_zh": "教练对训练期间不停刷微信的队员说话很粗暴。"
+          },
+          {
+            "sentence": "She yanked the charging cable harshly from the socket.",
+            "sentence_zh": "她粗暴地把充电线从插座拽下来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "刺耳地",
+        "examples": [
+          {
+            "sentence": "The microphone feedback rang out harshly through the auditorium.",
+            "sentence_zh": "麦克风啸叫声刺耳地响彻礼堂。"
+          },
+          {
+            "sentence": "Her laugh sounded harshly in the quiet library.",
+            "sentence_zh": "她的笑声在安静的图书馆里显得格外刺耳。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "treat harshly",
+        "meaning": "粗暴对待",
+        "examples": [
+          {
+            "sentence": "Delivery guys shouldn't be treated harshly for being 5 minutes late.",
+            "sentence_zh": "不该因外卖员迟到5分钟就粗暴对待。"
+          }
+        ]
+      }
+    ],
+    "teach": "harshly是'糙汉三连'👊🏻🤬👂：物理层面像砂纸磨脸（粗糙地），态度层面像军训教官吼人（粗暴地），声音层面像指甲刮黑板（刺耳地）。搭配'treated harshly'比说'遭遇不公'更生动，'批评太狠'可以说criticized too harshly。记住这个单词就像吃重庆火锅——太harshly会辣哭！🌶️😭🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈气里'→冬天哈气里带着harshly的寒意",
+        "易混对比：hardly（几乎不）vs harshly（粗暴地）"
+      ]
+    }
+  },
+  {
+    "word": "harvest",
+    "etymology": {
+      "breakdown": [
+        "harv",
+        "est"
+      ],
+      "meaning_connection": "古英语hærfest表'秋天收获季'，-est为名词后缀，原指用镰刀(harv)收割的季节"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "收获的农作物",
+        "examples": [
+          {
+            "sentence": "The rice harvest filled the barns with golden grains.",
+            "sentence_zh": "稻谷收获将粮仓堆满金黄的谷物。"
+          },
+          {
+            "sentence": "Mid-Autumn Festival coincides with the taro harvest in Guangdong.",
+            "sentence_zh": "中秋节正逢广东的芋头收获季。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "成果",
+        "examples": [
+          {
+            "sentence": "The tech startup finally reaped the harvest of its 10-year research.",
+            "sentence_zh": "这家科技初创公司终于收获了十年研究的成果。"
+          },
+          {
+            "sentence": "Her WeChat channel gained 1M followers - a rich harvest of creative content.",
+            "sentence_zh": "她的视频号收获百万关注，这是创意内容的丰硕成果。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "收获期",
+        "examples": [
+          {
+            "sentence": "During tea harvest in spring, the whole mountain smells like jasmine.",
+            "sentence_zh": "春茶收获期时，整座山都飘着茉莉花香。"
+          },
+          {
+            "sentence": "Crab harvest season turns Yangcheng Lake into a foodie paradise.",
+            "sentence_zh": "大闸蟹收获期的阳澄湖变成美食天堂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "收割",
+        "examples": [
+          {
+            "sentence": "Farmers harvest wheat with combines singing folk songs.",
+            "sentence_zh": "农民们边用联合收割机收麦子边唱山歌。"
+          },
+          {
+            "sentence": "Robots now harvest strawberries in smart greenhouses.",
+            "sentence_zh": "智能温室里机器人正在收割草莓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "获得成果",
+        "examples": [
+          {
+            "sentence": "The influencer harvested millions of likes with her cooking videos.",
+            "sentence_zh": "该网红用美食视频收获数百万点赞。"
+          },
+          {
+            "sentence": "China's space program has harvested breakthrough after breakthrough.",
+            "sentence_zh": "中国航天计划接连收获重大突破。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "harvest festival",
+        "meaning": "丰收节",
+        "examples": [
+          {
+            "sentence": "The Harvest Festival features giant durian-shaped lanterns in Malaysia.",
+            "sentence_zh": "马来西亚丰收节会出现巨型榴莲灯笼。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "harvest moon",
+        "meaning": "中秋满月",
+        "examples": [
+          {
+            "sentence": "Couples take selfies under the harvest moon with mooncakes.",
+            "sentence_zh": "情侣们拿着月饼在中秋满月下自拍。"
+          }
+        ]
+      }
+    ],
+    "teach": "harvest是自带BGM《在希望的田野上》🌾！古欧洲农民用镰刀(harv)割麦时会喊'嘿咻嘿咻'👨🌾，现代人'收割流量'叫harvest clicks。说'大丰收'用bumper harvest像看到堆成山的砂糖橘🍊，'颗粒无收'则像被蝗虫扫过的庄稼🐛（poor harvest）。记住：人生就像种田，努力耕种才能harvest幸福！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈维生素'→丰收季多吃维生素",
+        "易混词：harvest vs. result（前者强调过程，后者只看结果）",
+        "联想：字母H像镰刀，arvest发音似'啊丰收'"
+      ]
+    }
   }
 ]

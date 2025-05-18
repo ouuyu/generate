@@ -13848,5 +13848,337 @@
         "易混词对比：canyon（自然形成） vs. gorge（更狭窄陡峭）"
       ]
     }
+  },
+  {
+    "word": "cap",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自古法语'cape'，原指带兜帽的披风，后演变为各种覆盖物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "盖子",
+        "examples": [
+          {
+            "sentence": "The cat knocked over the bottle because I forgot to put the cap back on.",
+            "sentence_zh": "因为我忘记盖瓶盖，猫把瓶子打翻了。"
+          },
+          {
+            "sentence": "The pen cap with a dinosaur shape is every student's favorite.",
+            "sentence_zh": "恐龙形状的笔盖是每个学生的最爱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "帽子",
+        "examples": [
+          {
+            "sentence": "His graduation cap flew away when taking selfies on the Great Wall.",
+            "sentence_zh": "他在长城上自拍时，毕业帽被风吹跑了。"
+          },
+          {
+            "sentence": "The influencer wore a cap with 'delicious' written on it while eating spicy crayfish.",
+            "sentence_zh": "网红吃麻辣小龙虾时戴着一顶写着'好吃'的帽子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "戴帽子",
+        "examples": [
+          {
+            "sentence": "The emperor capped himself with a golden crown weighing 8 pounds.",
+            "sentence_zh": "皇帝给自己戴上了一顶8斤重的金冠。"
+          },
+          {
+            "sentence": "She capped the snowman with a colander as a hat.",
+            "sentence_zh": "她给雪人戴了个滤网当帽子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "覆盖",
+        "examples": [
+          {
+            "sentence": "The mountain is capped with snow even in summer.",
+            "sentence_zh": "这座山即使在夏天也覆盖着积雪。"
+          },
+          {
+            "sentence": "The dentist said my tooth needs to be capped with porcelain.",
+            "sentence_zh": "牙医说我的牙齿需要镶瓷冠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "胜过",
+        "examples": [
+          {
+            "sentence": "Her hotpot recipe capped all others at the cooking competition.",
+            "sentence_zh": "她的火锅配方在烹饪比赛中胜过所有对手。"
+          },
+          {
+            "sentence": "The new smartphone's camera quality caps everything on the market.",
+            "sentence_zh": "这款新手机的摄像质量胜过市面上所有产品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "脱帽致意",
+        "examples": [
+          {
+            "sentence": "The gentleman capped to the lady when they met in the teahouse.",
+            "sentence_zh": "当他们在茶馆相遇时，绅士向女士脱帽致意。"
+          },
+          {
+            "sentence": "In old movies, train conductors always cap when seeing passengers.",
+            "sentence_zh": "在老电影里，列车员见到乘客总会脱帽致意。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cap in hand",
+        "meaning": "谦恭地",
+        "examples": [
+          {
+            "sentence": "He went cap in hand to ask for a pay raise after losing the bet.",
+            "sentence_zh": "赌输后，他低声下气地去请求加薪。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "to cap it all",
+        "meaning": "更妙/糟的是",
+        "examples": [
+          {
+            "sentence": "It rained, my phone died, and to cap it all, I forgot my umbrella!",
+            "sentence_zh": "下雨了，手机没电，更糟的是我还忘了带伞！"
+          }
+        ]
+      }
+    ],
+    "teach": "cap是个'戏精'单词🎭！作名词时像火锅盖🍲（防止汤溅出），作动词时像给茶壶盖盖儿（capping the teapot）。'胜过'的释义来自'盖过一头'，比如你的年终奖盖过同事💸。'脱帽致意'现在多用于表情包👒。说'工资封顶'用salary cap，'极限操作'叫pushing the cap🚀。",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶'→开瓶(cap)盖",
+        "易混词：hat(无檐帽) vs cap(有檐帽)"
+      ]
+    }
+  },
+  {
+    "word": "capability",
+    "etymology": {
+      "breakdown": [
+        "cap",
+        "abil",
+        "ity"
+      ],
+      "meaning_connection": "词根cap=抓取/掌握（同capture），-abil=能够（同able），-ity表性质→能掌握事物的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "能力",
+        "examples": [
+          {
+            "sentence": "The panda's capability to eat 40kg bamboo daily shocks zoologists.",
+            "sentence_zh": "熊猫每天吃40公斤竹子的能力震惊了动物学家。"
+          },
+          {
+            "sentence": "Her multilingual capability makes her a star guide at the Terracotta Army museum.",
+            "sentence_zh": "她的多语言能力使她在兵马俑博物馆成为明星导游。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "性能",
+        "examples": [
+          {
+            "sentence": "Huawei's 5G capability outperforms competitors in mountainous areas.",
+            "sentence_zh": "华为5G在山区性能优于竞争对手。"
+          },
+          {
+            "sentence": "This electric scooter's climbing capability matches motorcycles.",
+            "sentence_zh": "这款电动滑板车的爬坡性能媲美摩托车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "约束力",
+        "examples": [
+          {
+            "sentence": "The legal capability of this clause prevents data misuse.",
+            "sentence_zh": "该条款的法律约束力防止数据滥用。"
+          },
+          {
+            "sentence": "The new policy's enforcement capability relies on blockchain tech.",
+            "sentence_zh": "新政策的执行约束力依赖区块链技术。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nuclear capability",
+        "meaning": "核能力",
+        "examples": [
+          {
+            "sentence": "The UN meeting focused on limiting nuclear capability development.",
+            "sentence_zh": "联合国会议聚焦限制核能力发展。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "capability building",
+        "meaning": "能力建设",
+        "examples": [
+          {
+            "sentence": "Alibaba's rural Taobao project emphasizes digital capability building.",
+            "sentence_zh": "阿里巴巴农村淘宝项目注重数字能力建设。"
+          }
+        ]
+      }
+    ],
+    "teach": "capability就像孙悟空的金箍棒🪄：'能力'是七十二变（combat capability），'性能'是筋斗云速度🚀（processing capability），'约束力'是紧箍咒（legal capability）。搭配'超出能力'说beyond one's capability，'证明能力'用prove capability。emoji三件套：💪🚀⚖️",
+    "recite": {
+      "tips": [
+        "谐音梗：'开拍玻璃'→有capability才能开拍玻璃",
+        "对比：capacity表容量 vs capability表能力"
+      ]
+    }
+  },
+  {
+    "word": "capable",
+    "etymology": {
+      "breakdown": [
+        "cap",
+        "able"
+      ],
+      "meaning_connection": "词根cap=抓取/掌握（来自拉丁语capere），后缀-able表'能够'→字面义'能够掌握的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有能力的",
+        "examples": [
+          {
+            "sentence": "The panda keeper is capable of distinguishing 30 bamboo species by smell.",
+            "sentence_zh": "这位熊猫饲养员能通过气味辨别30种竹子。"
+          },
+          {
+            "sentence": "Our grandma remains capable of knitting sweaters at 90.",
+            "sentence_zh": "我们奶奶90岁仍能编织毛衣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "能的",
+        "examples": [
+          {
+            "sentence": "This electric scooter is capable of climbing 15-degree slopes.",
+            "sentence_zh": "这款电动滑板车能爬15度斜坡。"
+          },
+          {
+            "sentence": "The new AI is capable of generating Peking opera lyrics.",
+            "sentence_zh": "新AI能生成京剧唱词。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "能干的",
+        "examples": [
+          {
+            "sentence": "The street vendor is a capable negotiator who speaks 5 dialects.",
+            "sentence_zh": "这位路边摊主是个能干的谈判者，会说5种方言。"
+          },
+          {
+            "sentence": "WeChat has proven to be a capable all-in-one app.",
+            "sentence_zh": "微信已被证明是个能干的全能应用。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "capable of",
+        "meaning": "有能力做...",
+        "examples": [
+          {
+            "sentence": "Hotpot robots are now capable of slicing meat thinner than paper.",
+            "sentence_zh": "火锅机器人现在能把肉切得比纸还薄。"
+          }
+        ]
+      }
+    ],
+    "teach": "capable其实是'抓得住'🦾！词根cap=抓（比如capture抓捕），后缀-able=能→像章鱼触手能同时抓八杯奶茶🥤！说'多面手'用versatile，'菜鸟'用greenhorn。记住：真正的capable是能边跳广场舞边用手机抢红包💃📱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开破包'→能干的快递员开破包(capable)也能完美配送",
+        "易混词对比：able（本身有能力） vs capable（经训练后有能力）→婴儿able to cry，医生capable of surgery"
+      ]
+    }
+  },
+  {
+    "word": "capably",
+    "etymology": {
+      "breakdown": [
+        "cap",
+        "able",
+        "ly"
+      ],
+      "meaning_connection": "词根cap=抓住/能力（来自拉丁语capere），-able表'能...的'，-ly副词后缀→能抓住机会地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "能干地",
+        "examples": [
+          {
+            "sentence": "She capably handled 10 customer complaints simultaneously while drinking bubble tea.",
+            "sentence_zh": "她一边喝奶茶一边能干地同时处理10个客诉。"
+          },
+          {
+            "sentence": "The AI assistant capably translates between 50 languages, including Klingon.",
+            "sentence_zh": "这个AI助手能熟练翻译50种语言，包括克林贡语。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "perform capably",
+        "meaning": "表现出色地完成",
+        "examples": [
+          {
+            "sentence": "The intern performed capably during the live-streaming sales event.",
+            "sentence_zh": "实习生在直播带货活动中表现出色。"
+          }
+        ]
+      }
+    ],
+    "teach": "capably其实是'可佩伯力'💪：想象漫威格鲁特(Groot)突然靠谱了，不仅能'I am Groot'还能'I work capably'🌱。说'办事利落'可用handle things capably，反义词是clumsily like a panda🐼。记住后缀-ly就像给你的能力加上涡轮增压器🚀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开破玻璃'→能干的特工破窗而入",
+        "对比记忆：capable（adj.）←→capably（adv.）就像'快'和'快地'",
+        "联想：CAP+ABLE→戴鸭舌帽(CAP)的人很能干(ABLE)"
+      ]
+    }
   }
 ]

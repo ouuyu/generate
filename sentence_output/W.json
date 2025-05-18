@@ -14668,5 +14668,324 @@
         "易混词对比：we(主语) vs us(宾语) → 就像'我们(we)喝奶茶'和'请给(us)我们'"
       ]
     }
+  },
+  {
+    "word": "weak",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语wāc，与古诺尔斯语veikr同源，原始印欧语词根*weik-表示'屈服'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不牢固的",
+        "examples": [
+          {
+            "sentence": "The weak bridge collapsed after the flood.",
+            "sentence_zh": "那座不牢固的桥梁在洪水后坍塌了。"
+          },
+          {
+            "sentence": "Don't hang your wet coat on that weak hook.",
+            "sentence_zh": "别把湿外套挂在那不牢固的钩子上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "弱的",
+        "examples": [
+          {
+            "sentence": "The wifi signal is too weak to stream videos.",
+            "sentence_zh": "无线信号太弱没法流畅看视频。"
+          },
+          {
+            "sentence": "Her weak voice couldn't reach the back of the classroom.",
+            "sentence_zh": "她微弱的声音传不到教室后排。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "虚弱的",
+        "examples": [
+          {
+            "sentence": "After three days of fever, he felt extremely weak.",
+            "sentence_zh": "发烧三天后他感到极度虚弱。"
+          },
+          {
+            "sentence": "The weak patient needs assistance to sit up.",
+            "sentence_zh": "这位虚弱的病人需要帮助才能坐起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "软弱的",
+        "examples": [
+          {
+            "sentence": "A weak leader can't make tough decisions.",
+            "sentence_zh": "软弱的领导者无法做出艰难决定。"
+          },
+          {
+            "sentence": "His weak character made him easily influenced.",
+            "sentence_zh": "他性格软弱容易受人影响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无力的",
+        "examples": [
+          {
+            "sentence": "The weak sunlight barely warmed the room.",
+            "sentence_zh": "无力的阳光几乎没能让房间暖和起来。"
+          },
+          {
+            "sentence": "She gave a weak smile after the surgery.",
+            "sentence_zh": "手术后她露出无力的微笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "(论据等)不充分的",
+        "examples": [
+          {
+            "sentence": "The lawyer pointed out the weak evidence in court.",
+            "sentence_zh": "律师当庭指出证据不充分之处。"
+          },
+          {
+            "sentence": "Your argument is weak without solid data support.",
+            "sentence_zh": "没有扎实数据支持，你的论点很不充分。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weak point",
+        "meaning": "弱点",
+        "examples": [
+          {
+            "sentence": "Math has always been my weak point.",
+            "sentence_zh": "数学一直是我的弱项。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "weak at the knees",
+        "meaning": "腿软（因紧张/兴奋）",
+        "examples": [
+          {
+            "sentence": "She went weak at the knees when meeting her idol.",
+            "sentence_zh": "见到偶像时她激动得腿都软了。"
+          }
+        ]
+      }
+    ],
+    "teach": "weak这个词弱爆了💔！它的祖先*weik-表示'屈服'（想象维京战士投降举白旗🏳️）。说'弱不禁风'可以用weak as a kitten（弱得像小猫🐱），'弱项'叫Achilles' heel（阿喀琉斯之踵👟）。搭配weak coffee像洗锅水☕，weak excuse堪比'作业被狗吃了'的借口🐶。记住：从物理到精神，从信号到论点，不strong的都是weak！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微咳'→虚弱得只能微微咳嗽",
+        "易混词：week（星期）vs weak（弱的）→ 'weak week'表示'虚弱的一周'"
+      ]
+    }
+  },
+  {
+    "word": "weaken",
+    "etymology": {
+      "breakdown": [
+        "weak",
+        "en"
+      ],
+      "meaning_connection": "词根weak=虚弱，后缀-en表'使成为'→使变得虚弱"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "削弱",
+        "examples": [
+          {
+            "sentence": "The typhoon weakened the foundation of the old bridge.",
+            "sentence_zh": "台风削弱了老桥的地基结构。"
+          },
+          {
+            "sentence": "Repeated scandals weakened the brand's influence.",
+            "sentence_zh": "连环丑闻削弱了该品牌的影响力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使虚弱",
+        "examples": [
+          {
+            "sentence": "The chemotherapy weakened his immune system.",
+            "sentence_zh": "化疗使他的免疫系统变得虚弱。"
+          },
+          {
+            "sentence": "Malnutrition weakened the stray cat's body.",
+            "sentence_zh": "营养不良使流浪猫的身体变得虚弱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变弱",
+        "examples": [
+          {
+            "sentence": "The signal weakens when entering subway tunnels.",
+            "sentence_zh": "进入地铁隧道时信号会变弱。"
+          },
+          {
+            "sentence": "Her voice weakened as she reached the climax of the speech.",
+            "sentence_zh": "她演讲到高潮部分时声音变弱了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weaken the effect",
+        "meaning": "减弱效果",
+        "examples": [
+          {
+            "sentence": "Adding sugar weakens the bitterness of matcha.",
+            "sentence_zh": "加糖会减弱抹茶的苦涩效果。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "weaken one's resolve",
+        "meaning": "动摇决心",
+        "examples": [
+          {
+            "sentence": "The delicious desserts almost weakened her diet resolve.",
+            "sentence_zh": "美味的甜品几乎动摇了她的减肥决心。"
+          }
+        ]
+      }
+    ],
+    "teach": "weaken就像漏气的轮胎🚗💨！当奶茶店冰块融化🧊→味道变淡(weakens the flavor)，像被996摧残的打工人💼→体力下降(weakens physically)。说'实力大减'用cripple（原指瘸腿），'虚弱得像面条'可以说weak as a kitten🐱。记住：weak+en=enough weak！",
+    "recite": {
+      "tips": [
+        "谐音梗：'胃疼'→胃疼(weaken)使人虚弱",
+        "易混对比：weak指状态，weaken强调变化过程",
+        "记忆tip：想象超级英雄被氪石弱化(weaken)的场面"
+      ]
+    }
+  },
+  {
+    "word": "weakened",
+    "etymology": {
+      "breakdown": [
+        "weak",
+        "en",
+        "ed"
+      ],
+      "meaning_connection": "词根weak=虚弱，后缀-en表示'使成为'，-ed表过去式/分词→使变得虚弱的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "虚弱的",
+        "examples": [
+          {
+            "sentence": "The weakened panda could barely chew bamboo after tooth surgery.",
+            "sentence_zh": "这只虚弱的熊猫做完牙齿手术后几乎啃不动竹子了。"
+          },
+          {
+            "sentence": "Her voice sounded weakened after 10 hours of KTV singing.",
+            "sentence_zh": "唱了10小时KTV后她的声音听起来很虚弱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "（使）削弱",
+        "examples": [
+          {
+            "sentence": "The leaked scandal weakened the company's reputation overnight.",
+            "sentence_zh": "泄密丑闻一夜之间削弱了公司声誉。"
+          },
+          {
+            "sentence": "Continuous rainfall has weakened the Great Wall's foundation.",
+            "sentence_zh": "持续降雨削弱了长城的地基。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "（使）变弱",
+        "examples": [
+          {
+            "sentence": "The WiFi signal weakened as I moved to the bathroom.",
+            "sentence_zh": "当我走进卫生间时WiFi信号变弱了。"
+          },
+          {
+            "sentence": "His eyesight weakened after binge-watching 3 seasons of a drama.",
+            "sentence_zh": "狂刷三季剧集后他的视力变弱了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weakened version",
+        "meaning": "削弱版",
+        "examples": [
+          {
+            "sentence": "This is just a weakened version of Sichuan hotpot for tourists.",
+            "sentence_zh": "这不过是给游客准备的削弱版四川火锅。"
+          }
+        ]
+      }
+    ],
+    "teach": "weakened就像被榨干的柠檬🍋！历史上拿破仑(Napoleon) weakened的军队在俄国冻成冰棍❄️。说'累成狗'用dog-tired，'弱爆了'说weak as kitten🐱。记住：熬夜weakens你的发际线，奶茶weakens你的马甲线！",
+    "recite": {
+      "tips": [
+        "谐音梗：'萎可嫩的'→萎靡的状态很嫩(易碎)",
+        "易混词对比：weakness(名词) vs weakened(形容词/动词)"
+      ]
+    }
+  },
+  {
+    "word": "weakening",
+    "etymology": {
+      "breakdown": [
+        "weak",
+        "en",
+        "ing"
+      ],
+      "meaning_connection": "词根weak表示'虚弱'，后缀-en表'使...化'，-ing表名词化→'使变弱的过程'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "疲软",
+        "examples": [
+          {
+            "sentence": "The weakening of smartphone demand shocked supply chains.",
+            "sentence_zh": "智能手机需求疲软震惊了供应链。"
+          },
+          {
+            "sentence": "Economists debate whether the yuan's weakening is temporary.",
+            "sentence_zh": "经济学家争论人民币疲软是否暂时现象。"
+          }
+        ]
+      }
+    ],
+    "teach": "weakening就像泄气的奶茶杯🥤：原本饱满的经济泡泡被扎破后(weak-en-ing)，连珍珠都沉底了💸。说'市场萎靡'可以用go soft like week-old boba，'暴跌'叫tank faster than spoiled milk🥛。记住：当weakening出现时，连韭菜都懒得生长了🌱！",
+    "recite": {
+      "tips": [
+        "视觉联想：weak+en=给虚弱打针(ing)，反而更虚了",
+        "易混词对比：weakness(静态虚弱) vs weakening(动态变弱过程)"
+      ]
+    }
   }
 ]

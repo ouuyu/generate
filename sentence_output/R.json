@@ -14410,5 +14410,280 @@
         "记忆法：想象给荒诞行为戴'合理'面具🎭"
       ]
     }
+  },
+  {
+    "word": "rationalized",
+    "etymology": {
+      "breakdown": [
+        "rat",
+        "ion",
+        "al",
+        "ize",
+        "ed"
+      ],
+      "meaning_connection": "词根rat=计算/推理（来自拉丁语ratio），-ion名词化，-al形容词化，-ize动词化，-ed表过去式→经过推理计算后的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使合理化",
+        "examples": [
+          {
+            "sentence": "The company rationalized layoffs as 'workforce optimization'.",
+            "sentence_zh": "公司将裁员合理化称为'人员结构优化'。"
+          },
+          {
+            "sentence": "She rationalized buying luxury bags by calling them 'investment pieces'.",
+            "sentence_zh": "她把买奢侈品包合理化说成是'投资单品'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "为错误行为找借口",
+        "examples": [
+          {
+            "sentence": "He rationalized cheating on the exam by saying 'everyone does it'.",
+            "sentence_zh": "他用'大家都作弊'为考试作弊找借口。"
+          },
+          {
+            "sentence": "The influencer rationalized false advertising as 'creative exaggeration'.",
+            "sentence_zh": "网红把虚假广告美其名曰'创意夸张'。"
+          }
+        ]
+      }
+    ],
+    "teach": "rationalized就像给黑暗料理加滤镜📸！中世纪教会用这个理论给卖赎罪券找借口⛪，现代人用它解释熬夜刷剧是'研究影视艺术'🎬。搭配：rationalize away（用借口搪塞）/cold rationalization（冰冷合理化）。说'自欺欺人'可用self-deceptive rationalization🃏。记住：所有rationalization都像方便面包装上的牛肉块🍜——仅供参考！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来怂啦ize'→开始找借口时就'来怂啦'",
+        "易混词：rational (合理) vs. rationale (理由)"
+      ]
+    }
+  },
+  {
+    "word": "rationally",
+    "etymology": {
+      "breakdown": [
+        "ratio",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "ratio=拉丁语'计算'，-al构成形容词，-ly构成副词→像数学计算一样精确地思考"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "理性地",
+        "examples": [
+          {
+            "sentence": "When choosing between hotpot and BBQ, think rationally about your stomach capacity.",
+            "sentence_zh": "在火锅和烧烤之间做选择时，请理性思考你的胃容量。"
+          },
+          {
+            "sentence": "She rationally calculated that 3 a.m. is not the best time for spicy crayfish.",
+            "sentence_zh": "她理性计算出凌晨三点不是吃麻辣小龙虾的最佳时机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "讲道理地",
+        "examples": [
+          {
+            "sentence": "The couple discussed toilet paper hoarding rationally during quarantine.",
+            "sentence_zh": "隔离期间这对夫妻理性地讨论了卫生纸囤积问题。"
+          },
+          {
+            "sentence": "He explained rationally why pineapple on pizza is actually acceptable.",
+            "sentence_zh": "他讲道理地解释了为什么披萨上加菠萝其实可以接受。"
+          }
+        ]
+      }
+    ],
+    "teach": "rationally就像你妈劝你别熬夜时的计算器🧮：词根ratio来自拉丁语'计算'，古人用算盘推演兵法叫rationale（原理）。说'别冲动'用Let's be rational就像劝退双十一剁手🛒，'讲理的人'叫rational being仿佛AI成精🤖。记住：当奶茶第二杯半价时，rationally思考你是否需要两杯！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来审了你'→理性地(rationally)审查",
+        "易混词对比：rationally（理性地）vs. emotionally（情绪化地）"
+      ]
+    }
+  },
+  {
+    "word": "rationed",
+    "etymology": {
+      "breakdown": [
+        "ration",
+        "ed"
+      ],
+      "meaning_connection": "ration来自拉丁语ratio（计算），-ed表过去式/分词→经过计算的分配"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "限量供应",
+        "examples": [
+          {
+            "sentence": "During WWII, sugar was strictly rationed in Britain.",
+            "sentence_zh": "二战期间英国严格限量供应糖。"
+          },
+          {
+            "sentence": "The museum rationed daily tickets to protect the terracotta warriors.",
+            "sentence_zh": "为保护兵马俑，博物馆每日限量售票。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "配给供应",
+        "examples": [
+          {
+            "sentence": "Villagers were rationed two buckets of water per household during the drought.",
+            "sentence_zh": "干旱期间每户村民配给两桶水。"
+          },
+          {
+            "sentence": "The military base rationed one chocolate bar per soldier per week.",
+            "sentence_zh": "军事基地按每周每人一块巧克力配给。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ration out",
+        "meaning": "定量分配",
+        "examples": [
+          {
+            "sentence": "The teacher rationed out colored pencils like a UN aid worker.",
+            "sentence_zh": "老师像联合国救援人员一样定量分配彩色铅笔。"
+          }
+        ]
+      }
+    ],
+    "teach": "rationed是'计划经济之星'⭐！二战时英国主妇们领配给券(ration coupons)像抢演唱会门票🎫，现代限量版球鞋发售就是sneakerhead的配给日👟。说'物资紧缺'用running low，'限量购买'叫purchase limit。记住：当你妈控制你玩手机时间时，你正被rationed！📱⏳",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷神的'→雷神的锤子也要定量使用",
+        "易混词对比：ration（配给） vs ratio（比例）"
+      ]
+    }
+  },
+  {
+    "word": "rationing",
+    "etymology": {
+      "breakdown": [
+        "ration",
+        "ing"
+      ],
+      "meaning_connection": "ration源自拉丁语ratio(计算/份额)，-ing表行为→计算分配的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "定量配给",
+        "examples": [
+          {
+            "sentence": "During WWII, sugar rationing made birthday cakes a luxury.",
+            "sentence_zh": "二战期间食糖定量配给，生日蛋糕成了奢侈品。"
+          },
+          {
+            "sentence": "The water rationing system forces us to shower with a timer.",
+            "sentence_zh": "供水配额制迫使我们用计时器控制洗澡时间。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "coupon rationing",
+        "meaning": "票证配给",
+        "examples": [
+          {
+            "sentence": "The 1980s cloth coupon rationing made new jackets precious gifts.",
+            "sentence_zh": "80年代的布票配给制让新外套成为珍贵礼物。"
+          }
+        ]
+      }
+    ],
+    "teach": "rationing是'爱的计算器'🧮：英国二战时连婚纱都要用服装券(coupon rationing)💍，现在奶茶店'限量购买'叫daily ration就像熊猫的竹子配额🎋。说'物资短缺'用in short supply，'精打细算'叫tight budgeting。记住：你的奶茶配额决定快乐指数！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来省ing'→正在进行时态地省钱",
+        "易混词：ratio是比例，ration是配额"
+      ]
+    }
+  },
+  {
+    "word": "rattan",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自马来语'rotan'，指热带攀援棕榈植物的茎"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "藤",
+        "examples": [
+          {
+            "sentence": "The rattan chair creaked like an old kung fu master's joints.",
+            "sentence_zh": "藤椅发出的吱呀声像功夫老师傅的关节响。"
+          },
+          {
+            "sentence": "We wove lanterns with glowing rattan strips for the Mid-Autumn Festival.",
+            "sentence_zh": "中秋节我们用发光的藤条编织灯笼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "白藤茎",
+        "examples": [
+          {
+            "sentence": "The herbalist tied medicinal packets with flexible rattan strands.",
+            "sentence_zh": "老中医用柔韧的白藤茎捆扎药包。"
+          },
+          {
+            "sentence": "Fresh rattan canes smell like tropical rainforest after rain.",
+            "sentence_zh": "新鲜的白藤茎散发着雨后热带雨林的气息。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "藤杖",
+        "examples": [
+          {
+            "sentence": "The village chief's rattan staff had carvings of ancestral tales.",
+            "sentence_zh": "村长的藤杖上刻着祖先的故事。"
+          },
+          {
+            "sentence": "In some cultures, rattan canes symbolize authority and wisdom.",
+            "sentence_zh": "在某些文化中，藤杖象征着权威与智慧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rattan furniture",
+        "meaning": "藤编家具",
+        "examples": [
+          {
+            "sentence": "The teahouse's rattan furniture gave it a nostalgic Jiangnan style.",
+            "sentence_zh": "茶馆的藤编家具透着江南怀旧风情。"
+          }
+        ]
+      }
+    ],
+    "teach": "rattan是植物界的钢铁侠🦸！在热带雨林里，它能像蜘蛛侠一样攀爬🌿（growing rattan），做成家具比宜家还耐用🪑（rattan chair），广东人拿它煲凉茶☕（herbal remedy），武侠片里还是师父打徒弟的专属道具🗡️。记住：看到藤制品，就说'This smells like grandma's balcony!' 👵",
+    "recite": {
+      "tips": [
+        "谐音梗：'来摊'→来摊开(rattan)晒藤席",
+        "易混词对比：bamboo(竹)硬而直，rattan(藤)软而韧"
+      ]
+    }
   }
 ]

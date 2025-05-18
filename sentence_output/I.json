@@ -14552,5 +14552,334 @@
         "联想：I'm+pal（朋友）+e→朋友拿刀捅你"
       ]
     }
+  },
+  {
+    "word": "impart",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "part"
+      ],
+      "meaning_connection": "前缀im-表示'向内'，词根part=部分→将某部分给予他人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给予（特质/影响）",
+        "examples": [
+          {
+            "sentence": "Pu'er tea imparts a unique earthy flavor that coffee can't match.",
+            "sentence_zh": "普洱茶能赋予咖啡无法企及的独特土腥味。"
+          },
+          {
+            "sentence": "The neon lights impart a cyberpunk vibe to Chongqing's alleys.",
+            "sentence_zh": "霓虹灯给重庆小巷增添了赛博朋克感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "传授（知识）",
+        "examples": [
+          {
+            "sentence": "Master Ma imparts mahjong skills while making hotpot.",
+            "sentence_zh": "马师傅边煮火锅边传授麻将技巧。"
+          },
+          {
+            "sentence": "The Douyin livestream imparts makeup tricks using spicy strips as brushes.",
+            "sentence_zh": "抖音直播用辣条当化妆刷传授美妆秘诀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "告知（信息）",
+        "examples": [
+          {
+            "sentence": "The AI assistant imparts subway routes with meme references.",
+            "sentence_zh": "这个AI助手会用梗图告知地铁线路。"
+          },
+          {
+            "sentence": "Grandma imparted the secret chili oil recipe moments before my blind date.",
+            "sentence_zh": "奶奶在我相亲前五分钟才告知辣椒油秘方。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impart wisdom",
+        "meaning": "传授智慧",
+        "examples": [
+          {
+            "sentence": "The street vendor imparts wisdom while flipping jianbing.",
+            "sentence_zh": "煎饼摊主边摊煎饼边传授人生经验。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "impart flavor",
+        "meaning": "赋予风味",
+        "examples": [
+          {
+            "sentence": "Sichuan peppercorns impart that signature mouth-numbing effect.",
+            "sentence_zh": "花椒能赋予标志性的嘴唇发麻感。"
+          }
+        ]
+      }
+    ],
+    "teach": "impart就像知识界的'老干妈'🌶️！当老师impart知识时，像往脑瓜里倒辣椒酱🧠（impart wisdom）；美食impart风味时，像火锅底料渗透毛肚🍲（impart flavor）；告知秘密时像大妈传递广场舞新曲目💃（impart news）。记住：'传授'用implant就像种菜，'告知'用inform像发短信，而impart是亲手递小炒！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派他'→硬核派发知识给他",
+        "易混词对比：impact(冲击) vs impart(传授)，一个像锤子🔨一个像接力棒🏃"
+      ]
+    }
+  },
+  {
+    "word": "impartial",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "partial"
+      ],
+      "meaning_connection": "前缀im-表否定，partial源自拉丁词pars（部分）→ 不偏向任何部分的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "公平的",
+        "examples": [
+          {
+            "sentence": "The AI judge made impartial decisions based purely on data.",
+            "sentence_zh": "这位AI法官纯粹依据数据做出公平判决。"
+          },
+          {
+            "sentence": "Her impartial review of the new iPhone convinced both Android and iOS fans.",
+            "sentence_zh": "她对新款iPhone的公正评测同时说服了安卓和苹果用户。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不偏不倚的",
+        "examples": [
+          {
+            "sentence": "The referee remained impartial even when his favorite team was losing.",
+            "sentence_zh": "裁判在自己支持的球队落后时仍保持不偏不倚。"
+          },
+          {
+            "sentence": "As an impartial observer, she documented the protest from multiple angles.",
+            "sentence_zh": "作为中立观察者，她从多角度记录了这次抗议活动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remain impartial",
+        "meaning": "保持公正",
+        "examples": [
+          {
+            "sentence": "Live-streaming sellers should remain impartial when comparing competitors' products.",
+            "sentence_zh": "主播对比竞品时应保持公正态度。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "impartial jury",
+        "meaning": "公正陪审团",
+        "examples": [
+          {
+            "sentence": "The defendant requested an impartial jury with no knowledge of the viral video.",
+            "sentence_zh": "被告要求组建不了解该热搜视频的公正陪审团。"
+          }
+        ]
+      }
+    ],
+    "teach": "impartial是'端水大师'⚖️：想象你在火锅局同时给四川人调油碟、给北京人配麻酱（但自己偷偷加香菜🌿）。法律界的经典梗是'法官的假发越蓬松，看起来越impartial'👨⚖️。说'拉偏架'叫take sides，'绝对公平'可以说level playing field。记住：真正的impartial就像用天平称辣条——红油不能洒！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨母怕羞'→姨母怕羞(impartial)所以端水要公平",
+        "对比记忆：partial（偏袒的）vs impartial（公正的）就像火锅清汤vs鸳鸯锅"
+      ]
+    }
+  },
+  {
+    "word": "impartiality",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "partial",
+        "ity"
+      ],
+      "meaning_connection": "前缀im-表示'否定'，词根partial表示'部分的/偏袒的'，后缀-ity表性质→'无偏向性的特质'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "公平",
+        "examples": [
+          {
+            "sentence": "The judge's impartiality was praised when he ruled against his own nephew.",
+            "sentence_zh": "当法官判决自己侄子败诉时，他的公平性受到赞誉。"
+          },
+          {
+            "sentence": "AI algorithms should demonstrate impartiality in job candidate screening.",
+            "sentence_zh": "AI算法在筛选求职者时应展现公平性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无私",
+        "examples": [
+          {
+            "sentence": "Her impartiality in donating the prize money to charity moved everyone.",
+            "sentence_zh": "她将奖金无私捐赠给慈善机构的行为感动了所有人。"
+          },
+          {
+            "sentence": "The teacher's impartiality shines when she stays late for every student.",
+            "sentence_zh": "这位老师为每个学生无偿加班的无私精神闪闪发光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不偏不倚",
+        "examples": [
+          {
+            "sentence": "The journalist maintained strict impartiality when covering the debate.",
+            "sentence_zh": "该记者报道辩论时保持严格的不偏不倚。"
+          },
+          {
+            "sentence": "Historical records should be written with complete impartiality.",
+            "sentence_zh": "历史记载应当以完全中立的态度撰写。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "judicial impartiality",
+        "meaning": "司法公正",
+        "examples": [
+          {
+            "sentence": "The symbol of Lady Justice's blindfold represents judicial impartiality.",
+            "sentence_zh": "正义女神蒙眼的形象象征着司法公正。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "with impartiality",
+        "meaning": "公正地",
+        "examples": [
+          {
+            "sentence": "The referee distributed red cards with perfect impartiality to both teams.",
+            "sentence_zh": "裁判给双方球队发红牌时表现得无比公正。"
+          }
+        ]
+      }
+    ],
+    "teach": "impartiality是'端水大师'💧的终极境界！古希腊正义女神忒弥斯蒙着眼睛⚖️（表示不看身份），就像现代法官不能刷抖音判案📱。说'拉偏架'叫take sides，'公平如秤'可以说fair as a scales。记住：真正的impartiality就像分月饼🥮——绝对不能给自己多切一刀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬怕瞎了踢'→硬核裁判怕瞎了乱踢（必须保持impartiality）",
+        "易混词对比：partiality（偏心） vs impartiality（公正）像硬币正反面",
+        "记忆tip：im+partial+ity=‘我不偏心’的三明治结构"
+      ]
+    }
+  },
+  {
+    "word": "impartially",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "partial",
+        "ly"
+      ],
+      "meaning_connection": "前缀im-表示'不'，词根partial表示'偏袒的'，-ly构成副词→'不偏袒地'引申为公平地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "公平地",
+        "examples": [
+          {
+            "sentence": "The AI judge analyzed the case impartially like a supercomputer.",
+            "sentence_zh": "AI法官像超级计算机般公平分析案件。"
+          },
+          {
+            "sentence": "She distributes snacks impartially among her three cats.",
+            "sentence_zh": "她给三只猫分零食时非常公平。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "无私地",
+        "examples": [
+          {
+            "sentence": "The doctor treated rich and poor patients impartially.",
+            "sentence_zh": "这位医生无私地对待贫富患者。"
+          },
+          {
+            "sentence": "He impartially shared his bonus with the whole team.",
+            "sentence_zh": "他无私地把奖金分给整个团队。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "秉公",
+        "examples": [
+          {
+            "sentence": "The referee must act impartially in World Cup matches.",
+            "sentence_zh": "世界杯比赛中裁判必须秉公执法。"
+          },
+          {
+            "sentence": "The teacher graded the exams impartially with a rubric.",
+            "sentence_zh": "老师按评分标准秉公批改试卷。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "judge impartially",
+        "meaning": "公正裁判",
+        "examples": [
+          {
+            "sentence": "The e-sports referee must judge impartially despite fan pressure.",
+            "sentence_zh": "电竞裁判必须顶住粉丝压力公正裁决。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "report impartially",
+        "meaning": "客观报道",
+        "examples": [
+          {
+            "sentence": "The journalist reported the protest impartially with 360° videos.",
+            "sentence_zh": "记者用360度视频客观报道抗议活动。"
+          }
+        ]
+      }
+    ],
+    "teach": "impartially就像火锅店的电子秤⚖️：不管你是穿LV还是拼多多，毛肚都按克数公平分配🍲。中文说'一碗水端平'，英文叫call a spade a spade（实话实说）♠️。搭配：impartial witness（公正证人）👁️，impartial advice（中立建议）🗣️。记住：partial是偏心，impartial就是'雨露均沾'💦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬怕瘦'→强硬(im)怕(par)瘦(tial)的人要公平分配食物",
+        "对比记忆：partial（偏心的）vs impartial（公正的）像硬币的正反面"
+      ]
+    }
   }
 ]

@@ -14528,5 +14528,310 @@
         "易混词：taxi driver是开出租的，taxman是开你钱包的"
       ]
     }
+  },
+  {
+    "word": "taxonomic",
+    "etymology": {
+      "breakdown": [
+        "taxis",
+        "nomos",
+        "ic"
+      ],
+      "meaning_connection": "词根taxis=排列，nomos=法则，-ic形容词后缀→按法则排列的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "分类学的",
+        "examples": [
+          {
+            "sentence": "The panda's taxonomic family tree reveals it's actually a carnivore.",
+            "sentence_zh": "大熊猫的分类学族谱显示它其实是食肉动物。"
+          },
+          {
+            "sentence": "Douban uses taxonomic systems to categorize obscure indie films.",
+            "sentence_zh": "豆瓣用分类学体系归类冷门独立电影。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "分类的",
+        "examples": [
+          {
+            "sentence": "Bilibili's video tags follow strict taxonomic principles.",
+            "sentence_zh": "哔哩哔哩的视频标签遵循严格的分类原则。"
+          },
+          {
+            "sentence": "The taxonomic hierarchy of spicy food ranges from 'mild' to 'nuclear' level.",
+            "sentence_zh": "辣味食物的分类层级从'微辣'到'核爆级'。"
+          }
+        ]
+      }
+    ],
+    "teach": "taxonomic是生物学家强迫症患者的快乐词🔬！古希腊人用taxis（排列）和nomos（法则）创造了这个分类狂魔词汇🧐。把'垃圾分类'说成domestic waste taxonomy瞬间高端，但记住：千万别在火锅店用taxonomic讨论毛肚该算器官还是肌肉组织🍲！搭配：taxonomic rank（分类等级）/ taxonomic confusion（分类混乱）",
+    "recite": {
+      "tips": [
+        "谐音梗：'太克闹米克'→科学家太克(严)格了就闹米(你)克(哭)",
+        "易混词：economic（经济的）vs taxonomic（分类的）"
+      ]
+    }
+  },
+  {
+    "word": "taxonomist",
+    "etymology": {
+      "breakdown": [
+        "taxis",
+        "nomos",
+        "ist"
+      ],
+      "meaning_connection": "希腊语taxis=排列，nomos=法则，-ist表示人→研究分类法则的专家"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "分类学家",
+        "examples": [
+          {
+            "sentence": "The taxonomist discovered that pandas are actually giant raccoons.",
+            "sentence_zh": "分类学家发现大熊猫其实是巨型浣熊。"
+          },
+          {
+            "sentence": "As a mushroom taxonomist, her job is to tell which ones can make you see unicorns.",
+            "sentence_zh": "作为蘑菇分类学家，她的工作是区分哪些能让你看见独角兽。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "plant taxonomist",
+        "meaning": "植物分类学家",
+        "examples": [
+          {
+            "sentence": "The plant taxonomist proved tomatoes are technically berries.",
+            "sentence_zh": "植物分类学家证明西红柿在植物学上属于浆果。"
+          }
+        ]
+      }
+    ],
+    "teach": "taxonomist是生物界的图书管理员📚！他们干着最较真的活：争论鸭嘴兽该算哺乳动物还是鸟类🐣（spoiler：它们会下蛋但喂奶）。视觉记忆：想象林奈在给榴莲分类时被臭晕🧪。搭配：'field taxonomist'（野外分类学家）和'modern taxonomy'（现代分类学）。说'乱分类'用地道表达like comparing apples to oranges🍎🍊。",
+    "recite": {
+      "tips": [
+        "谐音梗：'太克闹迷死他'→太爱较真(taxo)的迷弟(nomist)",
+        "易混词对比：taxidermist（动物标本师）vs taxonomist",
+        "分类学口诀：界门纲目科属种，就像快递分拣站📦"
+      ]
+    }
+  },
+  {
+    "word": "taxonomy",
+    "etymology": {
+      "breakdown": [
+        "taxis",
+        "nomos"
+      ],
+      "meaning_connection": "希腊语taxis=排列，nomos=法则→排列的法则，即分类系统"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "分类学",
+        "examples": [
+          {
+            "sentence": "Linnaeus revolutionized taxonomy by inventing binomial nomenclature.",
+            "sentence_zh": "林奈通过发明双名法彻底改变了分类学。"
+          },
+          {
+            "sentence": "Modern taxonomy uses DNA sequencing to classify organisms.",
+            "sentence_zh": "现代分类学用DNA测序技术对生物进行分类。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "分类系统",
+        "examples": [
+          {
+            "sentence": "The taxonomy of this e-commerce platform has 5 product tiers.",
+            "sentence_zh": "该电商平台的商品分类系统有5个层级。"
+          },
+          {
+            "sentence": "Bloom's taxonomy divides learning objectives into cognitive domains.",
+            "sentence_zh": "布鲁姆分类系统将学习目标划分为认知领域。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "biological taxonomy",
+        "meaning": "生物分类学",
+        "examples": [
+          {
+            "sentence": "Pandas' classification in biological taxonomy has been debated for years.",
+            "sentence_zh": "大熊猫在生物分类学中的归属争论了多年。"
+          }
+        ]
+      }
+    ],
+    "teach": "taxonomy是科学界的强迫症患者🏷️！就像整理微信收藏夹📁（file taxonomy），或是给火锅食材分级🌶️（spiciness taxonomy）。想吐槽'分类太复杂'？说It's taxonomy overload! 搭配：create a taxonomy（建分类体系）/ overhaul the taxonomy（重构分类）。记住：万物皆可分，奶茶配料也能做taxonomy！🧋🍡🍬",
+    "recite": {
+      "tips": [
+        "谐音梗：'太克色糯米'→用颜色给糯米分类",
+        "易混词：classification（普通分类） vs taxonomy（系统分类学）"
+      ]
+    }
+  },
+  {
+    "word": "taxpayer",
+    "etymology": {
+      "breakdown": [
+        "tax",
+        "pay",
+        "er"
+      ],
+      "meaning_connection": "tax=税，pay=支付，-er表人→为税收买单的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "纳税人",
+        "examples": [
+          {
+            "sentence": "Every taxpayer has the right to know how their money is spent.",
+            "sentence_zh": "每位纳税人都有权知晓税款去向。"
+          },
+          {
+            "sentence": "The new subway line was built with taxpayer dollars.",
+            "sentence_zh": "这条新地铁线是用纳税人的钱建造的。"
+          }
+        ]
+      }
+    ],
+    "teach": "taxpayer本质是'人形ATM机'💸！古罗马最早征税是数门框征税（door tax🚪），现在'割韭菜'叫taxpayer burden。搭配说heavy taxpayer（纳税大户）比说big更地道，吐槽税高可以说'I'm just funding the mayor's new yacht'🛥️。记住：我们和马斯克的区别只是tax后面少个i！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太克斯赔呀'→纳税人总在赔钱",
+        "易混词对比：taxidermy（动物标本制作）和taxpayer（标本师也要纳税哦）",
+        "联想：tax（税）+ player（玩家）= 被迫参加税收游戏的人"
+      ]
+    }
+  },
+  {
+    "word": "tea",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自汉语'茶'的闽南语发音te，经荷兰语thee传入欧洲"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "茶（饮品）",
+        "examples": [
+          {
+            "sentence": "Grandpa insists his morning tea must be brewed with spring water.",
+            "sentence_zh": "爷爷坚持晨茶必须用山泉水冲泡。"
+          },
+          {
+            "sentence": "British police actually have guidelines for tea-making during hostage situations.",
+            "sentence_zh": "英国警方真有劫持人质期间泡茶的操作指南。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "茶叶",
+        "examples": [
+          {
+            "sentence": "Pu'er tea cakes can appreciate in value like fine wine.",
+            "sentence_zh": "普洱茶饼能像红酒一样增值。"
+          },
+          {
+            "sentence": "The stolen Da Hong Pao tea leaves were worth more than gold.",
+            "sentence_zh": "被盗的大红袍茶叶比黄金还贵重。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "high tea",
+        "meaning": "傍晚茶餐",
+        "examples": [
+          {
+            "sentence": "We had scones with clotted cream at London's fanciest high tea.",
+            "sentence_zh": "我们在伦敦最高档的傍晚茶餐吃了凝脂奶油司康饼。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "spill the tea",
+        "meaning": "爆料八卦",
+        "examples": [
+          {
+            "sentence": "The pop star's assistant spilled the tea about the secret wedding.",
+            "sentence_zh": "那位明星的助理爆出了秘密婚礼的猛料。"
+          }
+        ]
+      }
+    ],
+    "teach": "tea是东方神秘力量🍃！英国人为茶发动波士顿倾茶事件⚓️，现代人说'spill the tea'(倒茶)其实是八卦爆料🗣️。想装英伦范要说'cuppa'(来杯茶)，吐槽难喝就用'this tastes like dishwater'(洗锅水味)。记住：人生如茶，先苦后甜才是上品！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢'→功夫茶要'踢'掉第一泡",
+        "易混词对比：tee(高尔夫球座) vs tea"
+      ]
+    }
+  },
+  {
+    "word": "teabag",
+    "etymology": {
+      "breakdown": [
+        "tea",
+        "bag"
+      ],
+      "meaning_connection": "复合词，字面意思为'茶叶袋子'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "袋装茶叶",
+        "examples": [
+          {
+            "sentence": "He dunked the teabag like it owed him money.",
+            "sentence_zh": "他使劲涮着茶包，像跟它有仇似的。"
+          },
+          {
+            "sentence": "The hotel provides free teabags with panda packaging.",
+            "sentence_zh": "酒店提供熊猫包装的免费茶包。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "herbal teabag",
+        "meaning": "花草茶包",
+        "examples": [
+          {
+            "sentence": "This chrysanthemum teabag helps reduce screen-time eye strain.",
+            "sentence_zh": "这款菊花茶包有助于缓解刷屏导致的眼疲劳。"
+          }
+        ]
+      }
+    ],
+    "teach": "teabag是英国殖民史的活化石☕️！当年东印度公司用茶叶+布袋子征服了世界🌍。现代打工人用茶包续命叫'teabagging your way through meetings'（靠茶包撑过会议）。'劣质茶包'叫dust tea（茶渣级），高端货叫pyramid bag（金字塔茶包）🔺。记住：人生就像茶包，不泡不知道深浅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢吧哥'→踢一脚茶包更快出味",
+        "易混词：teapot（茶壶）是容器，teabag是内容物"
+      ]
+    }
   }
 ]

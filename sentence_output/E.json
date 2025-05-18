@@ -14664,5 +14664,388 @@
         "记忆法：想象'elder scroll'上古卷轴→越古老越权威"
       ]
     }
+  },
+  {
+    "word": "elderberry",
+    "etymology": {
+      "breakdown": [
+        "elder",
+        "berry"
+      ],
+      "meaning_connection": "elder源自古英语'ellaern'（接骨木），berry指浆果→接骨木的果实"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "接骨木属植物",
+        "examples": [
+          {
+            "sentence": "Harry Potter's wand contained a core of elderberry wood.",
+            "sentence_zh": "哈利·波特的魔杖含有接骨木木材芯。"
+          },
+          {
+            "sentence": "The elderberry bushes behind my grandma's house attract flocks of birds every autumn.",
+            "sentence_zh": "外婆屋后的接骨木丛每年秋天都会吸引成群的鸟儿。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "elderberry wine",
+        "meaning": "接骨木果酒",
+        "examples": [
+          {
+            "sentence": "In Monty Python's famous sketch, the characters keep insisting 'your mother was a hamster and your father smelt of elderberries'.",
+            "sentence_zh": "在《蒙提·派森》的著名桥段中，角色不断强调'你妈是仓鼠，你爸身上有接骨木果酒味'。"
+          }
+        ]
+      }
+    ],
+    "teach": "elderberry是魔法界C位植物🧙♂️：既是老魔杖的原材料，又是《巨蟒剧团》经典骂人梗（'你爸散发着接骨木果酒味'🍷）。中世纪时人们认为它能驱魔⚡，现代人用它做抗感冒糖浆💊。记搭配：elderberry syrup（接骨木糖浆），elderflower cordial（接骨木花露）。说'天然保健品'可以用nature's medicine chest🌿",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱豆饱了'→爱豆吃了elderberry果酱就饱了",
+        "易混词对比：blueberry（蓝莓）vs elderberry（接骨木莓）",
+        "记忆tip：接骨木=elder(长辈)+berry(浆果)→长辈种的浆果"
+      ]
+    }
+  },
+  {
+    "word": "elderly",
+    "etymology": {
+      "breakdown": [
+        "elder",
+        "ly"
+      ],
+      "meaning_connection": "elder表示'年长的'，后缀-ly将形容词转为副词，但此处保留形容词用法"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "过了中年的",
+        "examples": [
+          {
+            "sentence": "The elderly professor still rides his bicycle to campus every day.",
+            "sentence_zh": "这位过了中年的教授仍每天骑车去校园。"
+          },
+          {
+            "sentence": "Elderly tourists love taking selfies with cherry blossoms.",
+            "sentence_zh": "过了中年的游客酷爱和樱花自拍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "稍老的",
+        "examples": [
+          {
+            "sentence": "She adopted an elderly golden retriever from the shelter.",
+            "sentence_zh": "她从收容所领养了一只稍老的金毛犬。"
+          },
+          {
+            "sentence": "The elderly maple tree in our yard still produces the sweetest sap.",
+            "sentence_zh": "我院子里那棵稍老的枫树仍能产出最甜的树液。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the elderly",
+        "meaning": "老年人群体",
+        "examples": [
+          {
+            "sentence": "Smartphone apps for the elderly must have larger fonts.",
+            "sentence_zh": "面向老年人群体的手机应用必须使用大号字体。"
+          }
+        ]
+      }
+    ],
+    "teach": "elderly就像陈年普洱茶🍵——越老越珍贵！西方养老院叫silver hair community（银发社区）💈，而中国广场舞是大爷大妈们的Olympics🏅。记住：说'老人'别用old直接说senior更礼貌，就像把'老干妈'叫'国民女神酱'🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱得累'→爱得太累就变elderly",
+        "易混词对比：elder（年长的）vs. older（更老的）"
+      ]
+    }
+  },
+  {
+    "word": "eldest",
+    "etymology": {
+      "breakdown": [
+        "eld",
+        "est"
+      ],
+      "meaning_connection": "词根eld=老/年龄（古英语），后缀-est表最高级→字面意思'最老的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "最年长的",
+        "examples": [
+          {
+            "sentence": "The eldest panda in the zoo gets VIP bamboo delivery.",
+            "sentence_zh": "动物园里最年长的熊猫享有专属竹子供货。"
+          },
+          {
+            "sentence": "As the eldest son, he inherited the antique tea set.",
+            "sentence_zh": "作为最年长的儿子，他继承了那套古董茶具。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "排行中第一的",
+        "examples": [
+          {
+            "sentence": "The eldest daughter always gets the biggest mooncake.",
+            "sentence_zh": "排行第一的女儿总能分到最大的月饼。"
+          },
+          {
+            "sentence": "In Peking Opera, the eldest role wears the most elaborate headdress.",
+            "sentence_zh": "在京剧中，排行第一的角色佩戴最华丽的头饰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "最年长者",
+        "examples": [
+          {
+            "sentence": "The eldest of the terracotta warriors has the most detailed armor.",
+            "sentence_zh": "兵马俑中最年长的那尊铠甲纹路最精细。"
+          },
+          {
+            "sentence": "At family gatherings, the eldest sits at the head of the table.",
+            "sentence_zh": "家庭聚会时，最年长者坐在上首位。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "排行中第一者",
+        "examples": [
+          {
+            "sentence": "The eldest in this batch of Shaolin apprentices leads the morning practice.",
+            "sentence_zh": "这批少林弟子中排行第一者负责带领晨练。"
+          },
+          {
+            "sentence": "According to tradition, the eldest inherits the ancestral shrine.",
+            "sentence_zh": "按传统，排行第一者继承祖宗牌位。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eldest child",
+        "meaning": "长子/长女",
+        "examples": [
+          {
+            "sentence": "The eldest child usually has the most childhood photos.",
+            "sentence_zh": "长子女通常拥有最多的童年照片。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "the eldest of",
+        "meaning": "...中最年长者",
+        "examples": [
+          {
+            "sentence": "The eldest of these ancient trees is over 3000 years old.",
+            "sentence_zh": "这些古树中最年长的一棵已逾三千岁。"
+          }
+        ]
+      }
+    ],
+    "teach": "eldest其实是'老字号认证'🏷️！就像全聚德烤鸭店总店(eldest branch)永远排队最长👴。要吐槽'年纪大'可以说over the hill（翻过山丘啦），但说自家老人得用respected elder🤵。记住：eldest=第一个出厂的原装货，youngest=最后压轴的限定款！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱戴似的'→最年长者总是被爱戴",
+        "易混词对比：older/oldest（通用） vs. elder/eldest（仅用于家庭成员）",
+        "记忆tip：想象'ELDEST'五个字母分别是家族五代人的头顶👴👵🧓👨🦳👩🦲"
+      ]
+    }
+  },
+  {
+    "word": "elect",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "lect"
+      ],
+      "meaning_connection": "前缀e-表示'向外'，词根lect表示'选择'→原指通过投票选出"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "当选人",
+        "examples": [
+          {
+            "sentence": "The elect will attend the inauguration ceremony tomorrow.",
+            "sentence_zh": "当选人将出席明天的就职典礼。"
+          },
+          {
+            "sentence": "All elects must submit their policy proposals within two weeks.",
+            "sentence_zh": "所有当选人须在两周内提交政策提案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "被选的",
+        "examples": [
+          {
+            "sentence": "The elect committee members come from diverse backgrounds.",
+            "sentence_zh": "被选的委员会成员具有多元背景。"
+          },
+          {
+            "sentence": "Only elect representatives have access to the confidential files.",
+            "sentence_zh": "只有被选出的代表能查阅机密文件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "选举",
+        "examples": [
+          {
+            "sentence": "Citizens will elect new mayors through mobile voting apps.",
+            "sentence_zh": "市民将通过手机投票应用选举新市长。"
+          },
+          {
+            "sentence": "We elected the class monitor by dropping beans into bowls.",
+            "sentence_zh": "我们用投豆子的方式选举了班长。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "选择",
+        "examples": [
+          {
+            "sentence": "She elected to study traditional Chinese medicine instead of western medicine.",
+            "sentence_zh": "她选择学习中医而非西医。"
+          },
+          {
+            "sentence": "Many young people now elect to work as digital nomads.",
+            "sentence_zh": "如今年轻人多选择成为数字游民。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "作选择",
+        "examples": [
+          {
+            "sentence": "After careful consideration, he elected for early retirement.",
+            "sentence_zh": "慎重考虑后，他选择提前退休。"
+          },
+          {
+            "sentence": "The committee will elect between the two proposals next week.",
+            "sentence_zh": "委员会将于下周在两个提案间作选择。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "elect to do",
+        "meaning": "决定做",
+        "examples": [
+          {
+            "sentence": "She elected to pursue her PhD in Dunhuang studies.",
+            "sentence_zh": "她决定攻读敦煌学博士学位。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "president-elect",
+        "meaning": "候任总统",
+        "examples": [
+          {
+            "sentence": "The president-elect visited the Great Wall before taking office.",
+            "sentence_zh": "候任总统就职前参观了长城。"
+          }
+        ]
+      }
+    ],
+    "teach": "elect就像政治版的'选秀大会'🎤！古罗马人用black beans(黑豆)和white beans(白豆)投票→这就是最早的'elect'🍚。说'内定人选'叫the chosen one(天选之子)，'全票通过'是unanimously elected🤝。记住：elect比choose更正式，就像人大代表选举vs选择奶茶口味🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'已lect'→已经选择(lect词根)",
+        "对比记忆：select是'精挑细选'，elect特指'投票选举'",
+        "视觉联想：选举箱→e(出)+lect(选)"
+      ]
+    }
+  },
+  {
+    "word": "elected",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "lect",
+        "ed"
+      ],
+      "meaning_connection": "前缀e-=向外，词根lect=选择，-ed表过去分词→'被选出来的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "选举",
+        "examples": [
+          {
+            "sentence": "Netizens elected the giant panda as China's most beloved ambassador.",
+            "sentence_zh": "网友选举大熊猫为中国最受欢迎的形象大使。"
+          },
+          {
+            "sentence": "The villagers elected their first female chief last month.",
+            "sentence_zh": "村民们上个月选举出了首位女村长。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "推选",
+        "examples": [
+          {
+            "sentence": "Class 3 elected Li Hua to negotiate with the canteen about spicy hotpot.",
+            "sentence_zh": "三班推选李华去和食堂协商麻辣火锅事宜。"
+          },
+          {
+            "sentence": "We elected the most experienced driver to lead the convoy.",
+            "sentence_zh": "我们推选最有经验的司机带队。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "get elected",
+        "meaning": "当选",
+        "examples": [
+          {
+            "sentence": "The meme 'I promise free milk tea if elected' went viral during school elections.",
+            "sentence_zh": "'当选就请奶茶'的梗在学生会选举期间疯传。"
+          }
+        ]
+      }
+    ],
+    "teach": "elect就像古代选驸马🎎！词根lect=选择（如select），加上e-=向外，就像《甄嬛传》里选秀女👑。'当选总统'说get elected就像抢到演唱会门票🎫，而'落选'叫lose the election像双十一没抢到优惠😭。记住：elect是正经投票，pick是随手选（比如pick奶茶口味）🧋",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来客他'→选举时一来客人就拉票",
+        "易混词对比：elect（正式选举） vs select（精选）",
+        "记忆tip：想象班级群投票接龙选班长"
+      ]
+    }
   }
 ]
