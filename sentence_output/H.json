@@ -7023,5 +7023,343 @@
         "记忆tip：拆解hand+i+work→我(i)用手(hand)干活(work)"
       ]
     }
+  },
+  {
+    "word": "handkerchief",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "kerchief"
+      ],
+      "meaning_connection": "hand=手，kerchief=覆盖物→原指手持的布片，后衍生出头巾/围巾用途"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "手帕",
+        "examples": [
+          {
+            "sentence": "He pulled out a monogrammed handkerchief to wipe his glasses.",
+            "sentence_zh": "他掏出一块绣有字母的手帕擦拭眼镜。"
+          },
+          {
+            "sentence": "In period dramas, handkerchiefs are often used as love tokens.",
+            "sentence_zh": "古装剧里手帕常被用作定情信物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "头巾",
+        "examples": [
+          {
+            "sentence": "The dancer's handkerchief kept flying off during the performance.",
+            "sentence_zh": "舞者的头巾在表演时不断飞扬。"
+          },
+          {
+            "sentence": "She tied the handkerchief around her head pirate-style.",
+            "sentence_zh": "她把头巾系成海盗风格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "围巾",
+        "examples": [
+          {
+            "sentence": "Cowboys often wear colorful handkerchiefs around their necks.",
+            "sentence_zh": "牛仔常在颈部系彩色围巾。"
+          },
+          {
+            "sentence": "This silk handkerchief can be worn as a summer scarf.",
+            "sentence_zh": "这条丝质手帕可当夏季围巾使用。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pocket handkerchief",
+        "meaning": "口袋方巾",
+        "examples": [
+          {
+            "sentence": "His pocket handkerchief matched his tie perfectly.",
+            "sentence_zh": "他的口袋方巾与领带完美相配。"
+          }
+        ]
+      }
+    ],
+    "teach": "handkerchief是'手'持的'布'🧣！中世纪欧洲人用手帕擦鼻涕（当时袖子太贵舍不得用😂），现代演变成：1)绅士西装口袋的装饰品🤵 2)陕北民歌里的定情信物🎶 3)西部牛仔的防风沙装备🤠。搭配：'哭湿手帕'叫drench a hanky，'时尚围巾'说style with a handkerchief。记住：这块布能擦泪能耍帅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喊个球服'→喊人递手帕像要球衣",
+        "易混词：napkin（餐巾纸）vs handkerchief（可重复使用）",
+        "记忆法：hand+kerchief=手+布=手持布料三件套"
+      ]
+    }
+  },
+  {
+    "word": "handle",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "le"
+      ],
+      "meaning_connection": "源自古英语'handlian'，与手(hand)相关，后缀-le表反复动作→最初指用手操作的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "把手",
+        "examples": [
+          {
+            "sentence": "The antique teapot has a dragon-shaped handle.",
+            "sentence_zh": "这个古董茶壶有个龙形把手。"
+          },
+          {
+            "sentence": "She broke the toilet handle while flushing angrily.",
+            "sentence_zh": "她生气冲水时把马桶把手掰断了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "把柄",
+        "examples": [
+          {
+            "sentence": "The journalist found a handle to attack the corrupt official.",
+            "sentence_zh": "记者找到了攻击贪官的把柄。"
+          },
+          {
+            "sentence": "Don't give others handles by oversharing on social media.",
+            "sentence_zh": "别在社交媒体过度分享给人留下把柄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "手感",
+        "examples": [
+          {
+            "sentence": "The silk pajamas have a buttery handle.",
+            "sentence_zh": "这套真丝睡衣有奶油般顺滑的手感。"
+          },
+          {
+            "sentence": "iPhone's matte finish provides premium handle.",
+            "sentence_zh": "iPhone的磨砂质感提供高级手感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "句柄",
+        "examples": [
+          {
+            "sentence": "Programmers often deal with memory handles.",
+            "sentence_zh": "程序员经常要处理内存句柄。"
+          },
+          {
+            "sentence": "The system returns a unique handle for each operation.",
+            "sentence_zh": "系统为每个操作返回唯一句柄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "处理",
+        "examples": [
+          {
+            "sentence": "Can you handle spicy hotpot?",
+            "sentence_zh": "你能hold住麻辣火锅吗？"
+          },
+          {
+            "sentence": "Taobao sellers must handle 100+ orders daily.",
+            "sentence_zh": "淘宝卖家每天要处理上百订单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "触摸",
+        "examples": [
+          {
+            "sentence": "Museum visitors are forbidden to handle the artifacts.",
+            "sentence_zh": "博物馆禁止游客触摸文物。"
+          },
+          {
+            "sentence": "The baby handles everything with mouth exploration.",
+            "sentence_zh": "婴儿用嘴探索触摸所有东西。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "易于操作",
+        "examples": [
+          {
+            "sentence": "This electric scooter handles like a dream.",
+            "sentence_zh": "这台电动滑板车操控如丝般顺滑。"
+          },
+          {
+            "sentence": "The new BMW handles better on mountain roads.",
+            "sentence_zh": "新宝马在山路更易操控。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fly off the handle",
+        "meaning": "突然发怒",
+        "examples": [
+          {
+            "sentence": "He flew off the handle when seeing his parking space taken.",
+            "sentence_zh": "看到车位被占他瞬间暴怒。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "get a handle on",
+        "meaning": "掌握",
+        "examples": [
+          {
+            "sentence": "It takes time to get a handle on Douyin algorithms.",
+            "sentence_zh": "掌握抖音算法需要时间。"
+          }
+        ]
+      }
+    ],
+    "teach": "handle是个万能抓手🖐️！当名词时像奶茶杯的防烫把手🧋（cup handle），当动词时像四川师傅炒火锅底料🌶️（handle spices）。说'控制情绪'叫keep a handle on your temper，'崩溃'是fly off the handle（把手飞了可不就失控嘛）。记住：物理把手→抽象处理→数字句柄，这词完美演绎了人类文明进化史！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊抖'→焊工颤抖握不住handle",
+        "易混词：handler（驯兽师/处理器） vs handle",
+        "记忆tip：'汉兜'→汉代陶俑的把手最结实"
+      ]
+    }
+  },
+  {
+    "word": "handlebar",
+    "etymology": {
+      "breakdown": [
+        "handle",
+        "bar"
+      ],
+      "meaning_connection": "组合词：handle（手柄）+ bar（杆）→ 自行车把手，后因形状相似引申指八字胡。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "手把",
+        "examples": [
+          {
+            "sentence": "The delivery guy's handlebar was covered in raindrops after riding through the storm.",
+            "sentence_zh": "外卖小哥在暴雨中骑行后，车把手上挂满雨滴。"
+          },
+          {
+            "sentence": "She tied a pink ribbon on her bicycle's handlebar for good luck.",
+            "sentence_zh": "她在自行车把手上系了粉丝带求好运。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "八字胡",
+        "examples": [
+          {
+            "sentence": "The old man twirled his handlebar mustache while telling stories about Marco Polo.",
+            "sentence_zh": "老人捻着八字胡讲述马可波罗的故事。"
+          },
+          {
+            "sentence": "His handlebar looks like two caterpillars dancing on his upper lip.",
+            "sentence_zh": "他的八字胡像两条在上唇跳舞的毛毛虫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "handlebar grip",
+        "meaning": "把手套",
+        "examples": [
+          {
+            "sentence": "The panda-shaped handlebar grips made her shared bike stand out.",
+            "sentence_zh": "熊猫造型的把手套让她的共享单车格外醒目。"
+          }
+        ]
+      }
+    ],
+    "teach": "handlebar是自行车和型男的共同装备🚴♂️！古人用'车把手'形状创造了'八字胡'这个词，就像用emoji复刻现实🍌（胡须像香蕉）。说'翘胡子'用curl one's handlebar，'修胡子'叫trim handlebars就像修剪灌木✂️。记住：真正的绅士既会握handlebar，也会梳handlebar！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊的吧'→车把手是焊的吧(handlebar)",
+        "易混词对比：handle（处理） vs handlebar（把手/胡须）"
+      ]
+    }
+  },
+  {
+    "word": "handler",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "ler"
+      ],
+      "meaning_connection": "词根hand=手，后缀-ler表示'执行者'→用手操作的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "处理者",
+        "examples": [
+          {
+            "sentence": "The panda handler feeds the cubs with milk bottles shaped like bamboo.",
+            "sentence_zh": "熊猫饲养员用竹子形状的奶瓶喂养幼崽。"
+          },
+          {
+            "sentence": "As a luggage handler at the airport, he once found a snake in a suitcase!",
+            "sentence_zh": "作为机场行李搬运工，他曾在行李箱里发现过一条蛇！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "操作者",
+        "examples": [
+          {
+            "sentence": "The drone handler made it draw a giant dumpling in the sky.",
+            "sentence_zh": "无人机操作者让它在空中画了个巨型饺子。"
+          },
+          {
+            "sentence": "Excavator handlers in China can peel grapes with their machines.",
+            "sentence_zh": "中国的挖掘机操作员能用机器给葡萄去皮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拳击教练",
+        "examples": [
+          {
+            "sentence": "The handler shouted 'Dodge like you're avoiding your ex!' during training.",
+            "sentence_zh": "拳击教练在训练中大喊'闪避要像躲前任一样灵活！'"
+          },
+          {
+            "sentence": "My handler always puts spicy hotpot as the reward for winning.",
+            "sentence_zh": "我的拳击教练总把麻辣火锅设为获胜奖励。"
+          }
+        ]
+      }
+    ],
+    "teach": "handler是'手艺人'✋：从撸熊猫的饲养员🐼，到开挖掘机画清明上河图的神操作手🚜，再到教你怎么'打脸'的拳击教练🥊。搭配'dog handler'(训犬师)和'crisis handler'(危机公关)，地道说'老手'叫seasoned handler就像火锅店二十年刀工师傅🔪！记住：能handle一切的人才配叫handler！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊的了'→焊工handler啥都能焊",
+        "易混词：handler vs. dealer（前者操作实物，后者多指交易）"
+      ]
+    }
   }
 ]

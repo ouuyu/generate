@@ -7248,5 +7248,322 @@
         "易混词：tampon(棉塞) vs. tamp(夯实)"
       ]
     }
+  },
+  {
+    "word": "tan",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'tannian'（鞣制皮革），与皮革处理工艺相关，后引申出颜色和晒黑含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "黄褐色",
+        "examples": [
+          {
+            "sentence": "The traditional Tibetan houses are painted in tan and white.",
+            "sentence_zh": "传统藏式房屋被粉刷成黄褐色和白色。"
+          },
+          {
+            "sentence": "Her leather bag perfectly matches her tan coat.",
+            "sentence_zh": "她的皮包与黄褐色大衣完美相配。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "鞣料",
+        "examples": [
+          {
+            "sentence": "Oak bark was historically used as tan for leather processing.",
+            "sentence_zh": "橡树皮历史上被用作皮革加工的鞣料。"
+          },
+          {
+            "sentence": "Modern tans often contain chromium salts.",
+            "sentence_zh": "现代鞣料常含铬盐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "马戏团",
+        "examples": [
+          {
+            "sentence": "The traveling tan set up its big tent in the square.",
+            "sentence_zh": "流动马戏团在广场搭起了大帐篷。"
+          },
+          {
+            "sentence": "Children were excited to see the tan's tiger performance.",
+            "sentence_zh": "孩子们兴奋地观看马戏团的老虎表演。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "黄褐色的",
+        "examples": [
+          {
+            "sentence": "He wore tan chinos to the summer party.",
+            "sentence_zh": "他穿着黄褐色休闲裤参加夏日派对。"
+          },
+          {
+            "sentence": "The desert stretched out in endless tan waves.",
+            "sentence_zh": "沙漠如无尽黄褐色波浪般延展。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "鞣皮的",
+        "examples": [
+          {
+            "sentence": "The tan gloves smelled of genuine leather.",
+            "sentence_zh": "鞣皮手套散发着真皮气味。"
+          },
+          {
+            "sentence": "This tan jacket will last for decades.",
+            "sentence_zh": "这件鞣皮夹克能穿几十年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "晒成棕褐色",
+        "examples": [
+          {
+            "sentence": "Tourists tan on Sanya's beaches like seals on rocks.",
+            "sentence_zh": "游客在三亚海滩晒得如同礁石上的海豹。"
+          },
+          {
+            "sentence": "Her skin tans easily without burning.",
+            "sentence_zh": "她的皮肤容易晒黑却不会晒伤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把...晒黑",
+        "examples": [
+          {
+            "sentence": "The summer sun tanned her shoulders golden brown.",
+            "sentence_zh": "夏日阳光把她的肩膀晒成金棕色。"
+          },
+          {
+            "sentence": "He deliberately tanned his pale skin before the photoshoot.",
+            "sentence_zh": "为拍摄他特意把苍白肤色晒黑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "鞣(革)",
+        "examples": [
+          {
+            "sentence": "This factory tans 500 cowhides daily.",
+            "sentence_zh": "该工厂每日鞣制500张牛皮。"
+          },
+          {
+            "sentence": "Traditional methods tan leather using plant extracts.",
+            "sentence_zh": "传统方法用植物提取物鞣革。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "狠狠鞭打",
+        "examples": [
+          {
+            "sentence": "The cruel master tanned the slave's back.",
+            "sentence_zh": "残忍的主人鞭打得奴隶后背皮开肉绽。"
+          },
+          {
+            "sentence": "In old novels, sailors were often tanned for disobedience.",
+            "sentence_zh": "在旧小说中，水手常因违命遭鞭打。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tan line",
+        "meaning": "晒痕",
+        "examples": [
+          {
+            "sentence": "Her sandal tan lines revealed summer's footprint.",
+            "sentence_zh": "她的凉鞋晒痕显露着夏天的足迹。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tan someone's hide",
+        "meaning": "痛打某人",
+        "examples": [
+          {
+            "sentence": "The grandma threatened to tan the kid's hide for stealing mangoes.",
+            "sentence_zh": "奶奶威胁要痛打偷芒果的孙子。"
+          }
+        ]
+      }
+    ],
+    "teach": "tan是皮革界变色龙🦎！当它作名词时，既是给LV包包染色的鞣料💼（vegetable tan），又是马戏团帐篷的颜色🎪（circus tan）；作动词时，既能让你在三亚变古铜色🏖️（tanning bed），又能让皮带抽得啪啪响👖（tan the hide）。记住：看到tan想三样——皮革厂、日光浴、皮鞭响！",
+    "recite": {
+      "tips": [
+        "谐音梗：'毯'→黄褐色毛毯/马戏团帐篷",
+        "易混词：tan vs. sunburn（晒黑vs晒伤）"
+      ]
+    }
+  },
+  {
+    "word": "tandem",
+    "etymology": {
+      "breakdown": [
+        "tandem"
+      ],
+      "meaning_connection": "源自拉丁语tandem（终于），原指时间上的延续，18世纪引申为空间上的前后排列"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "一前一后地",
+        "examples": [
+          {
+            "sentence": "The geese flew tandem across the autumn sky.",
+            "sentence_zh": "大雁成纵列飞过秋日的天空。"
+          },
+          {
+            "sentence": "They rode their bikes tandem through the narrow alley.",
+            "sentence_zh": "他们一前一后地骑车穿过狭窄的巷子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "纵排的",
+        "examples": [
+          {
+            "sentence": "The tandem seats in the theater caused many neck pains.",
+            "sentence_zh": "剧院里纵排的座位让很多人脖子疼。"
+          },
+          {
+            "sentence": "Tandem parking spaces are common in Tokyo.",
+            "sentence_zh": "纵排停车位在东京很常见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "纵列两匹马拉的马车",
+        "examples": [
+          {
+            "sentence": "The royal procession included six golden tandems.",
+            "sentence_zh": "皇家仪仗队包含六辆金色纵列马车。"
+          },
+          {
+            "sentence": "He collects 19th century tandem carriages.",
+            "sentence_zh": "他收藏19世纪的纵列马车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "串座双人自行车",
+        "examples": [
+          {
+            "sentence": "Their first date was riding a tandem along West Lake.",
+            "sentence_zh": "他们的第一次约会是在西湖骑双人自行车。"
+          },
+          {
+            "sentence": "The divorce couple argued over who gets the tandem bike.",
+            "sentence_zh": "那对离婚夫妻为谁得到双人自行车而争吵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in tandem",
+        "meaning": "协同合作",
+        "examples": [
+          {
+            "sentence": "Huawei and Porsche work in tandem on smart car systems.",
+            "sentence_zh": "华为与保时捷协同开发智能汽车系统。"
+          },
+          {
+            "sentence": "The two departments must operate in tandem.",
+            "sentence_zh": "两个部门必须协同运作。"
+          }
+        ]
+      }
+    ],
+    "teach": "tandem是'前后座爱情故事'🚴‍♀️🚴：从拉丁语'终于'变成马车/自行车前后座，现代指协同工作🤝。情侣骑tandem自行车考验感情（后座的人根本不用蹬腿！），说'合作'不用cooperate而用work in tandem更地道。记住：无论是马车、自行车还是团队，tandem的精髓就是——前面的人看路，后面的人偷懒😉",
+    "recite": {
+      "tips": [
+        "谐音梗：'坦荡荡'→前后座骑车心坦荡",
+        "易混词：parallel（平行）vs tandem（纵列）"
+      ]
+    }
+  },
+  {
+    "word": "tandoori",
+    "etymology": {
+      "breakdown": [
+        "tandoor",
+        "i"
+      ],
+      "meaning_connection": "源自印地语तंदूरी (tandūrī)，指用传统圆筒形泥炉(tandoor)烹饪的食物，后缀-i表形容词化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "唐杜里烹饪法",
+        "examples": [
+          {
+            "sentence": "The secret of authentic tandoori chicken lies in the clay oven's high heat.",
+            "sentence_zh": "正宗唐杜里鸡的秘诀在于泥炉的高温炙烤。"
+          },
+          {
+            "sentence": "Tandoori naan baked against the oven walls has magical charred spots.",
+            "sentence_zh": "贴炉壁烤制的唐杜里馕会有神奇的焦斑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "泥炉炭火烹饪法",
+        "examples": [
+          {
+            "sentence": "Marinating overnight is crucial for tandoori flavors to penetrate.",
+            "sentence_zh": "隔夜腌制对泥炉炭火烹饪的风味渗透至关重要。"
+          },
+          {
+            "sentence": "Modern restaurants use gas-fired tandoors but traditionalists insist on charcoal.",
+            "sentence_zh": "现代餐厅使用燃气泥炉，但传统派坚持用炭火。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tandoori masala",
+        "meaning": "唐杜里调味粉",
+        "examples": [
+          {
+            "sentence": "The bright red color of tandoori masala comes from Kashmiri chilies.",
+            "sentence_zh": "唐杜里调味粉的鲜红色来自克什米尔辣椒。"
+          }
+        ]
+      }
+    ],
+    "teach": "tandoori其实是'泥炉嘻哈'🔥：这种烹饪法像印度版淄博烧烤🍢，必须用酸奶腌肉（就像给鸡肉做spa💆），再用500℃泥炉快速锁汁。搭配冷知识：唐杜里烤鸡的红色来自辣椒粉+食用色素🎨。'太辣了'说It's fire!，'正宗风味'叫authentic tandoori。记住：没有泥炉的tandoori就像没有灵魂的emoji🤖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'炭嘟哩'→炭火嘟嘟响的烹饪法",
+        "易混词：curry(咖喱)是酱料，tandoori是制法"
+      ]
+    }
   }
 ]

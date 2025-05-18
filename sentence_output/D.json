@@ -6913,5 +6913,294 @@
         "记忆tip：想象日历📅变成泛黄报纸📰的过程"
       ]
     }
+  },
+  {
+    "word": "dateline",
+    "etymology": {
+      "breakdown": [
+        "date",
+        "line"
+      ],
+      "meaning_connection": "date=日期，line=线条→标记日期的分界线"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "日期线",
+        "examples": [
+          {
+            "sentence": "The dateline on the contract confused everyone with its YYYY-MM-DD format.",
+            "sentence_zh": "合同上的日期线用YYYY-MM-DD格式把所有人都搞糊涂了。"
+          },
+          {
+            "sentence": "Newspaper editors always check the dateline before publishing.",
+            "sentence_zh": "报纸编辑在出版前总要核对日期线。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "international dateline",
+        "meaning": "国际日期变更线",
+        "examples": [
+          {
+            "sentence": "Crossing the international dateline makes you gain or lose a day like time travel.",
+            "sentence_zh": "跨越国际日期变更线会像时空穿越般让你多一天或少一天。"
+          }
+        ]
+      }
+    ],
+    "teach": "dateline是时间管理者的生命线⏰！它就像《哈利波特》里的时间转换器⏳，国际日期变更线（international dateline）更是能让你'昨日重现'。搭配time zone食用效果更佳🌍，'截止日期'叫deadline可比dateline可怕多了💀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'等他来'→等他来(dateline)签日期",
+        "易混词：deadline(死线)比dateline(日期线)更吓人"
+      ]
+    }
+  },
+  {
+    "word": "dating",
+    "etymology": {
+      "breakdown": [
+        "date",
+        "ing"
+      ],
+      "meaning_connection": "date源自古法语'date'（椰枣），因中世纪用椰枣树叶标记日期，-ing表动作或过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "记日期",
+        "examples": [
+          {
+            "sentence": "The archaeologist found pottery with ancient dating symbols.",
+            "sentence_zh": "考古学家发现了带有古老日期标记的陶器。"
+          },
+          {
+            "sentence": "Carbon dating revealed the terracotta warriors' age.",
+            "sentence_zh": "碳同位素测年法揭示了兵马俑的年代。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "注明日期",
+        "examples": [
+          {
+            "sentence": "Dating official documents prevents contract disputes.",
+            "sentence_zh": "给正式文件注明日期能避免合同纠纷。"
+          },
+          {
+            "sentence": "The bank requires all checks to have clear dating.",
+            "sentence_zh": "银行要求所有支票必须明确标注日期。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dating back to",
+        "meaning": "追溯到",
+        "examples": [
+          {
+            "sentence": "The Great Wall has sections dating back to the Qin Dynasty.",
+            "sentence_zh": "长城有些段落的修建可追溯到秦朝。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dating from",
+        "meaning": "起始于",
+        "examples": [
+          {
+            "sentence": "This tradition is dating from the Han Dynasty.",
+            "sentence_zh": "该传统起始于汉代。"
+          }
+        ]
+      }
+    ],
+    "teach": "dating其实是'日期管理大师'🗓️！最早的日期记录是用椰枣树叶做的（所以叫date），后来演变成'时间戳'概念⏳。商务场景常说'as of dating'表示截止日期，'antique dating'则是鉴定古董年份🧐。记住：没有dating的文件就像没放盐的汤——容易馊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得订'→必须得订(dating)个日期",
+        "易混词对比：data（数据）vs dating（日期标注）"
+      ]
+    }
+  },
+  {
+    "word": "daub",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语'dauben'，与德语'tünchen'(粉刷)同源，拟声词模仿涂抹的黏腻声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "（笨拙地）涂抹",
+        "examples": [
+          {
+            "sentence": "The child daubed peanut butter all over the cat's fur.",
+            "sentence_zh": "孩子把花生酱糊了猫咪一身。"
+          },
+          {
+            "sentence": "Ancient people daubed clay on wicker frames to build houses.",
+            "sentence_zh": "古人把黏土抹在柳条架上建造房屋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "乱画",
+        "examples": [
+          {
+            "sentence": "He daubed graffiti resembling squashed frogs on the wall.",
+            "sentence_zh": "他在墙上乱涂像压扁青蛙的涂鸦。"
+          },
+          {
+            "sentence": "The suspect daubed symbols at every crime scene.",
+            "sentence_zh": "嫌疑人在每个犯罪现场都乱画符号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "弄脏",
+        "examples": [
+          {
+            "sentence": "Mud-daubed boots left trails in the museum.",
+            "sentence_zh": "沾满泥巴的靴子在博物馆留下痕迹。"
+          },
+          {
+            "sentence": "Oil daubed on the manuscript ruined half the pages.",
+            "sentence_zh": "沾在稿子上的油污毁了一半页面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "污迹",
+        "examples": [
+          {
+            "sentence": "A daub of ketchup on his tie betrayed his secret burger.",
+            "sentence_zh": "领带上的番茄酱污迹暴露了他偷吃汉堡。"
+          },
+          {
+            "sentence": "The archaeologist found ochre daubs in the cave.",
+            "sentence_zh": "考古学家在洞穴中发现赭石色污迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "劣质画作",
+        "examples": [
+          {
+            "sentence": "That so-called artwork looks like a chimpanzee's daub.",
+            "sentence_zh": "那幅所谓艺术品像黑猩猩的涂鸦。"
+          },
+          {
+            "sentence": "The gallery wall was covered with amateur daubs.",
+            "sentence_zh": "画廊墙上挂满业余画手的拙劣作品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "daub on",
+        "meaning": "胡乱涂抹",
+        "examples": [
+          {
+            "sentence": "She daubed sunscreen on like spreading butter on toast.",
+            "sentence_zh": "她涂防晒霜像抹黄油般胡乱一擦。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "daub with",
+        "meaning": "用...弄脏",
+        "examples": [
+          {
+            "sentence": "The puppy daubed the sofa with muddy paw prints.",
+            "sentence_zh": "小狗用泥爪印弄脏了沙发。"
+          }
+        ]
+      }
+    ],
+    "teach": "daub是'糊墙式涂法'🧱：想象原始人用泥巴(wattle and daub)建房子，或是幼儿园小朋友把颜料甩满墙🎨。说'画得丑'可以吐槽'Looks like a daub!'，'弄脏衣服'可以说'got daubed with sauce'像被番茄酱空袭🍅。记住：任何笨拙/粗暴的涂抹动作都能用daub！",
+    "recite": {
+      "tips": [
+        "谐音梗：'倒吧'→颜料倒吧倒吧就成了daub",
+        "易混词：paint（规范绘画） vs daub（胡乱涂抹）",
+        "联想：DAUB=杜邦(DuPont)+油漆桶(AUB)"
+      ]
+    }
+  },
+  {
+    "word": "daughter",
+    "etymology": {
+      "breakdown": [
+        "doh",
+        "ter"
+      ],
+      "meaning_connection": "源自原始印欧语词根*dʰugh₂tḗr（女儿），古英语演变为dohtor，中古英语简化为daughter。ter为亲属后缀。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "女儿",
+        "examples": [
+          {
+            "sentence": "The tech CEO brought his daughter to debug kindergarten homework.",
+            "sentence_zh": "那位科技公司CEO带着女儿调试幼儿园作业。"
+          },
+          {
+            "sentence": "My daughter collects rubber ducks wearing sunglasses.",
+            "sentence_zh": "我女儿收藏戴太阳镜的橡皮鸭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "女儿的",
+        "examples": [
+          {
+            "sentence": "Her daughter voice in WeChat is actually a panda meme.",
+            "sentence_zh": "她的女儿微信语音其实是熊猫表情包。"
+          },
+          {
+            "sentence": "The daughter room looks like a unicorn exploded.",
+            "sentence_zh": "女儿房像独角兽爆炸后的现场。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "daughter language",
+        "meaning": "派生语言",
+        "examples": [
+          {
+            "sentence": "French is a daughter language of Latin.",
+            "sentence_zh": "法语是拉丁语的派生语言。"
+          }
+        ]
+      }
+    ],
+    "teach": "daughter藏着远古彩蛋🔮：原始人爸爸们用*dʰugh₂tḖr称呼女儿（发音像打嗝🤭）。视觉记忆：daughter的gh像小姑娘的蝴蝶结🎀。搭配说'daddy's girl'(掌上明珠)或'like mother, like daughter'(有其母必有其女)。吐槽女儿房间乱可以说'looks like a typhoon hit'🌀",
+    "recite": {
+      "tips": [
+        "谐音梗：'多特'→多特蒙德队(dortmund)像老父亲的一群女儿",
+        "易混词：doctor(医生)少了'au'就变成职业",
+        "记忆法：d+aughter→'第1个aughter'(家里第一个女儿)"
+      ]
+    }
   }
 ]

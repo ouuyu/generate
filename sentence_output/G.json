@@ -6884,5 +6884,285 @@
         "记忆tip：gar+land=用土地(garden)上的花(gar)围成的领地(land)"
       ]
     }
+  },
+  {
+    "word": "garlic",
+    "etymology": {
+      "breakdown": [
+        "gar",
+        "lic"
+      ],
+      "meaning_connection": "古英语gar（矛）+leac（韭菜）→形如矛头的辛辣植物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大蒜",
+        "examples": [
+          {
+            "sentence": "The chef crushed garlic with the flat of his cleaver like a kung fu master.",
+            "sentence_zh": "厨师用刀面拍蒜的样子像武林高手。"
+          },
+          {
+            "sentence": "Vampire hunters always carry garlic necklaces - the original anti-virus program.",
+            "sentence_zh": "吸血鬼猎人都戴着大蒜项链——最原始的杀毒软件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "garlic breath",
+        "meaning": "蒜味口气",
+        "examples": [
+          {
+            "sentence": "After eating hot pot, my garlic breath could repel mosquitoes for 3 miles.",
+            "sentence_zh": "吃完火锅后我的蒜味口气能驱散三公里内的蚊子。"
+          }
+        ]
+      }
+    ],
+    "teach": "大蒜是古代的生化武器🧄！罗马工人曾用大蒜工资筑金字塔（真·蒜你狠），意大利人见面吻颊说'你吃了大蒜吧'（garlic breath）就像我们说'吃韭菜了吧'🌿。搭配推荐：garlic butter（蒜香黄油🧈）+stinky tofu（绝配！）。记住：吃蒜一时爽，一直吃蒜一直爽！💋☠️",
+    "recite": {
+      "tips": [
+        "谐音梗：'咖喱克'→咖喱遇到大蒜就投降",
+        "易混词：ginger（姜）vs garlic（蒜）→姜是地下茎，蒜是团结的瓣"
+      ]
+    }
+  },
+  {
+    "word": "garment",
+    "etymology": {
+      "breakdown": [
+        "gar",
+        "ment"
+      ],
+      "meaning_connection": "古法语garment=装备/装饰，词根gar=准备/装饰，-ment表名词后缀→原指装饰身体的物品"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "衣服（特指单件成品服装）",
+        "examples": [
+          {
+            "sentence": "The qipao garment in the museum still retains its vibrant colors after a century.",
+            "sentence_zh": "博物馆里的旗袍服装历经百年仍保持着鲜艳色彩。"
+          },
+          {
+            "sentence": "Her WeChat store specializes in bamboo fiber garments.",
+            "sentence_zh": "她的微店专营竹纤维服装。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "衣装（成套服饰的正式说法）",
+        "examples": [
+          {
+            "sentence": "The Peking opera performer's garment weighed over 15 kilograms.",
+            "sentence_zh": "京剧演员的全套衣装重达15公斤以上。"
+          },
+          {
+            "sentence": "Buddhist monks' garments are traditionally dyed with plant pigments.",
+            "sentence_zh": "佛教僧侣的衣装传统上用植物颜料染色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "外表（文学修辞用法）",
+        "examples": [
+          {
+            "sentence": "The mountain's garment of autumn foliage attracts countless photographers.",
+            "sentence_zh": "群山秋叶的外衣吸引无数摄影师。"
+          },
+          {
+            "sentence": "Night slowly removed its starry garment as dawn approached.",
+            "sentence_zh": "随着黎明临近，夜色渐渐脱去它星光点点的外衣。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "garment district",
+        "meaning": "服装批发区",
+        "examples": [
+          {
+            "sentence": "Shanghai's garment district near Nanjing Road is a paradise for bargain hunters.",
+            "sentence_zh": "南京路附近的上海服装批发区是淘货者的天堂。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "outer garment",
+        "meaning": "外衣",
+        "examples": [
+          {
+            "sentence": "Her AI-powered outer garment adjusts thickness according to temperature.",
+            "sentence_zh": "她的智能外衣能根据温度自动调节厚度。"
+          }
+        ]
+      }
+    ],
+    "teach": "garment是服装界的'老干部'👔！它来自中世纪法语，本意是'全副武装'，现在指'正经服装'（比如汉服属于garment，睡衣不算）。在服装厂里garment指'成衣'🧵，文学里还能比喻'自然的外衣'🍁。搭配说'服装业'用garment industry，'试衣间'叫garment fitting room。记住：当你把T恤叫garment时，就像用'用膳'代替'吃饭'一样正式！",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬闷的'→穿错衣服场面尬闷的",
+        "易混词对比：clothing(服装总称)/apparel(商业用语)/garment(单件成品)",
+        "记忆口诀：gar(尬)+ment(闷)→穿错garment真尴尬"
+      ]
+    }
+  },
+  {
+    "word": "garner",
+    "etymology": {
+      "breakdown": [
+        "garn",
+        "er"
+      ],
+      "meaning_connection": "词源garn=谷物，-er表场所/工具→最初指存放谷物的场所，后引申为收集行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "谷仓",
+        "examples": [
+          {
+            "sentence": "The farmer found a family of owls living in his garner.",
+            "sentence_zh": "农夫发现谷仓里住着一窝猫头鹰。"
+          },
+          {
+            "sentence": "Ancient garners in Xi'an were built with earthquake-resistant techniques.",
+            "sentence_zh": "西安的古粮仓运用了抗震建造技术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "积蓄",
+        "examples": [
+          {
+            "sentence": "Her years of teaching built up a rich garner of stories.",
+            "sentence_zh": "多年的教学生涯让她积蓄了大量故事素材。"
+          },
+          {
+            "sentence": "The library is a garner of human wisdom.",
+            "sentence_zh": "图书馆是人类智慧的积蓄之所。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "储存",
+        "examples": [
+          {
+            "sentence": "Squirrels garner nuts like college students hoard instant noodles.",
+            "sentence_zh": "松鼠储存坚果就像大学生囤积泡面。"
+          },
+          {
+            "sentence": "Librarians garner knowledge as diligently as bees collect pollen.",
+            "sentence_zh": "图书管理员储存知识的勤勉堪比蜜蜂采花粉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "贮藏",
+        "examples": [
+          {
+            "sentence": "The Great Wall garrison used to garner ice blocks in winter.",
+            "sentence_zh": "长城守军曾在冬季贮藏冰块。"
+          },
+          {
+            "sentence": "Chinese families traditionally garner pickled vegetables for winter.",
+            "sentence_zh": "中国家庭有贮藏腌菜过冬的传统。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "garner support",
+        "meaning": "争取支持",
+        "examples": [
+          {
+            "sentence": "The Douyin influencer garnered millions of likes with panda videos.",
+            "sentence_zh": "这位抖音网红用熊猫视频争取到数百万点赞。"
+          }
+        ]
+      }
+    ],
+    "teach": "garner是囤积控的快乐词🏚️！想象古罗马粮仓(garn)管理员🧑🌾边记账边偷吃葡萄干。要说'存钱'可用salt away（像腌肉般存钱🥓），'收集好评'叫garner praises就像捡麦穗🌾。记住：你的知识garner决定你能熬过几个寒冬❄️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬呢'→谷仓里尬舞呢",
+        "易混词：garnish（装饰）v.s. garner（储存）",
+        "记忆法：gar+ner→'嘎嘣脆'的粮食要存入ner"
+      ]
+    }
+  },
+  {
+    "word": "garnet",
+    "etymology": {
+      "breakdown": [
+        "granatum"
+      ],
+      "meaning_connection": "源自拉丁语'granatum'（石榴），因石榴石晶体酷似石榴籽的形状与颜色"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "石榴石",
+        "examples": [
+          {
+            "sentence": "The garnet necklace glowed like pomegranate seeds under moonlight.",
+            "sentence_zh": "月光下这条石榴石项链如石榴籽般莹润生辉。"
+          },
+          {
+            "sentence": "Medieval knights believed garnets could stop bleeding wounds.",
+            "sentence_zh": "中世纪骑士认为石榴石能止住伤口流血。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "深红色",
+        "examples": [
+          {
+            "sentence": "Her lipstick was the exact garnet of ripe persimmons.",
+            "sentence_zh": "她的口红是柿子熟透时的深红色。"
+          },
+          {
+            "sentence": "The Forbidden City's garnet walls symbolize imperial power.",
+            "sentence_zh": "故宫的深红色宫墙象征皇权。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "garnet red",
+        "meaning": "石榴红色",
+        "examples": [
+          {
+            "sentence": "The new iPhone comes in garnet red, selling out instantly.",
+            "sentence_zh": "新iPhone的石榴红色款瞬间售罄。"
+          }
+        ]
+      }
+    ],
+    "teach": "石榴石是自然界最戏精的宝石💎：假装是石榴籽骗过古人（所以叫granatum），中世纪医生用它'治疗'流血🩸，其实因为红得像血痂！要夸'深红色'别说dark red，说wine-red或garnet更高级🍷。搭配：garnet ring（招桃花首饰）、garnet sunset（绝美晚霞）。记住：真正的石榴石在紫外线下会变荧光绿，像会变脸的京剧演员🎭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬捏它'→尴尬地捏着假石榴籽",
+        "易混词：granite（花岗岩）是石头，garnet是宝石"
+      ]
+    }
   }
 ]

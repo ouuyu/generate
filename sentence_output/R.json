@@ -7107,5 +7107,359 @@
         "记忆法：想象吴亦凡戴歪鸭舌帽的造型"
       ]
     }
+  },
+  {
+    "word": "rally",
+    "etymology": {
+      "breakdown": [
+        "re",
+        "alier"
+      ],
+      "meaning_connection": "前缀re-表示'再次'，古法语alier意为'绑在一起'→原指军队重新集结，引申出多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "重振旗鼓",
+        "examples": [
+          {
+            "sentence": "After losing three games, the team staged a dramatic rally.",
+            "sentence_zh": "连输三局后，这支队伍上演了绝地反击。"
+          },
+          {
+            "sentence": "Her speech sparked a rally in company morale.",
+            "sentence_zh": "她的演讲引发了公司士气的重振。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "群众集会",
+        "examples": [
+          {
+            "sentence": "Protesters held a rally outside city hall with panda costumes.",
+            "sentence_zh": "抗议者穿着熊猫装在市政务厅外集会。"
+          },
+          {
+            "sentence": "The election rally featured free spicy crayfish.",
+            "sentence_zh": "竞选集会上提供免费麻辣小龙虾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "跌停回升",
+        "examples": [
+          {
+            "sentence": "Bitcoin made a sudden rally after the regulatory news.",
+            "sentence_zh": "监管消息公布后比特币突然触底反弹。"
+          },
+          {
+            "sentence": "The stock's afternoon rally saved my portfolio.",
+            "sentence_zh": "该股票下午的止跌回升拯救了我的投资组合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.t.",
+        "meaning": "挖苦",
+        "examples": [
+          {
+            "sentence": "She rallied him about his obsession with bubble tea.",
+            "sentence_zh": "她挖苦他对奶茶的痴迷。"
+          },
+          {
+            "sentence": "Colleagues rallied the manager for his viral dance video.",
+            "sentence_zh": "同事们拿经理的魔性跳舞视频开玩笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.i.",
+        "meaning": "恢复精神",
+        "examples": [
+          {
+            "sentence": "He rallied after drinking three cups of strong tea.",
+            "sentence_zh": "喝了三杯浓茶后他精神焕发。"
+          },
+          {
+            "sentence": "The patient rallied when hearing her favorite show was updating.",
+            "sentence_zh": "听到最爱剧集更新时病人突然有了精神。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rally round",
+        "meaning": "团结支持",
+        "examples": [
+          {
+            "sentence": "Fans rallied round the idol after the scandal.",
+            "sentence_zh": "丑闻发生后粉丝们团结支持偶像。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rallying cry",
+        "meaning": "战斗口号",
+        "examples": [
+          {
+            "sentence": "'No more overtime' became the office rallying cry.",
+            "sentence_zh": "'拒绝加班'成了办公室的战斗口号。"
+          }
+        ]
+      }
+    ],
+    "teach": "rally就像火锅里的毛肚🧆——既能'卷土重来'(股市反弹)，又能'七上八下'(集会抗议)，还能'涮着玩'(善意嘲笑)。法国大革命时群众rally是举着面包🍞抗议（真实历史），现在加密货币玩家最爱说'HODL through the rally'💹。要说'加油打气'可以喊'Rally the troops!'像电竞战队教练🍗",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐利'→士气锐利(rally)才能反攻",
+        "易混词：rally vs. ally（前者是集结，后者是结盟）",
+        "记忆法：把r看作旗帜，ally是盟友→举旗聚众"
+      ]
+    }
+  },
+  {
+    "word": "rallying",
+    "etymology": {
+      "breakdown": [
+        "rally",
+        "ing"
+      ],
+      "meaning_connection": "rally源自法语'ralier'（重新集结），ing表进行时/分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "恢复健康",
+        "examples": [
+          {
+            "sentence": "After drinking ginger tea, the patient is rallying surprisingly fast.",
+            "sentence_zh": "喝过姜茶后，病人恢复速度快得出奇。"
+          },
+          {
+            "sentence": "Pandas rallying from illness often binge on bamboo shoots.",
+            "sentence_zh": "病愈中的熊猫会疯狂啃食竹笋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "价格回升",
+        "examples": [
+          {
+            "sentence": "Bitcoin is rallying after Elon Musk's tweet about dogecoin.",
+            "sentence_zh": "在马斯克发布狗狗币推文后，比特币正在回升。"
+          },
+          {
+            "sentence": "The housing market is rallying like a awakened dragon.",
+            "sentence_zh": "楼市正像苏醒的巨龙般反弹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "集合人群",
+        "examples": [
+          {
+            "sentence": "Protesters are rallying at the square with lightstick bracelets.",
+            "sentence_zh": "抗议者戴着发光手环在广场集合。"
+          },
+          {
+            "sentence": "Fans are rallying to support their idol's new album sales.",
+            "sentence_zh": "粉丝们正集结起来为偶像的新专辑冲销量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "嘲弄",
+        "examples": [
+          {
+            "sentence": "Netizens are rallying the celebrity for his cucumber-eating livestream.",
+            "sentence_zh": "网友正在群嘲明星吃黄瓜的直播。"
+          },
+          {
+            "sentence": "The whole class was rallying the teacher about his new toupee.",
+            "sentence_zh": "全班都在调侃老师的新假发。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rallying cry",
+        "meaning": "战斗口号",
+        "examples": [
+          {
+            "sentence": "'May the force be with you' became Star Wars fans' rallying cry.",
+            "sentence_zh": "'愿原力与你同在'成为星战粉丝的战斗口号。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rallying point",
+        "meaning": "聚集点",
+        "examples": [
+          {
+            "sentence": "The fried chicken shop became the rallying point for night owls.",
+            "sentence_zh": "那家炸鸡店成了夜猫子们的聚集点。"
+          }
+        ]
+      }
+    ],
+    "teach": "rallying就像集体蹦迪💃：病人恢复是身体细胞在蹦迪（rallying health），股价回升是K线在蹦迪（rallying stocks），群众集结是广场舞式蹦迪（rallying crowd），而嘲讽简直像抖音热评区的集体蹦迪（rallying mockery）！说'东山再起'可以用stage a comeback🐉，'群嘲'叫roast更地道🌶️。",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷厉ing'→恢复雷厉风行状态",
+        "易混词：rally vs. ballet（后者是芭蕾舞）",
+        "记忆法：所有释义都含'从分散到集中'的核心概念"
+      ]
+    }
+  },
+  {
+    "word": "ram",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'ramm'，指公羊或攻城槌，后引申出'撞击'动作；计算机术语为Random Access Memory缩写"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "公羊",
+        "examples": [
+          {
+            "sentence": "The zodiac sign Aries is represented by a golden ram.",
+            "sentence_zh": "白羊座由一头金毛公羊象征。"
+          },
+          {
+            "sentence": "Farmers use rams with GPS collars to lead flocks.",
+            "sentence_zh": "牧民给带头公羊戴上GPS项圈引导羊群。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "撞锤",
+        "examples": [
+          {
+            "sentence": "Ancient soldiers shouted rhythmically while operating the ram.",
+            "sentence_zh": "古代士兵操作撞锤时有节奏地呼喊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "猛击",
+        "examples": [
+          {
+            "sentence": "During rush hour, bikes constantly ram into subway turnstiles.",
+            "sentence_zh": "早高峰时自行车不断撞击地铁闸机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "填塞",
+        "examples": [
+          {
+            "sentence": "She rammed all her plush toys into the suitcase.",
+            "sentence_zh": "她把所有毛绒玩具硬塞进行李箱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "随机存取存储器",
+        "examples": [
+          {
+            "sentence": "Minecraft players often complain 'my RAM is not enough!'",
+            "sentence_zh": "《我的世界》玩家常抱怨'内存又不够了！'"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ram down",
+        "meaning": "强行灌输",
+        "examples": [
+          {
+            "sentence": "Cram schools ram knowledge down students' throats.",
+            "sentence_zh": "补习班把知识硬塞进学生脑子。"
+          }
+        ]
+      }
+    ],
+    "teach": "ram是计算机宅和牧羊人的共同语言💻🐏！公羊撞人时像16GB内存超频运行🚀，'内存爆炸'说my RAM exploded比'卡死了'更极客。视觉记忆：公羊角=内存条金手指🔌，'填鸭式教育'就是ramming knowledge。搭配：RAM upgrade（内存升级）/ ram speed（冲击速度）",
+    "recite": {
+      "tips": [
+        "谐音梗：'软木'→公羊角撞上软木塞",
+        "易混词：ram(实体的撞) vs. slam(用力的摔)",
+        "记忆法：RAM三个字母对应'Random Access Memory'首字母"
+      ]
+    }
+  },
+  {
+    "word": "Ramadan",
+    "etymology": {
+      "breakdown": [
+        "Ramadan"
+      ],
+      "meaning_connection": "源自阿拉伯语رَمَضَان (ramaḍān)，原意'灼热'，因该月多在炎热季节"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "斋戒月",
+        "examples": [
+          {
+            "sentence": "During Ramadan, Muslims fast from dawn until sunset.",
+            "sentence_zh": "斋戒月期间，穆斯林从黎明到日落禁食。"
+          },
+          {
+            "sentence": "The streets come alive with festive lights throughout Ramadan.",
+            "sentence_zh": "斋戒月期间街道挂满节日彩灯。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "observe Ramadan",
+        "meaning": "守斋月",
+        "examples": [
+          {
+            "sentence": "Even athletes strictly observe Ramadan while training.",
+            "sentence_zh": "就连运动员也会在训练期间严格守斋月。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Ramadan Kareem",
+        "meaning": "斋月吉庆（祝福语）",
+        "examples": [
+          {
+            "sentence": "Shopkeepers greet customers with 'Ramadan Kareem' during this month.",
+            "sentence_zh": "斋月期间店主会用'斋月吉庆'问候顾客。"
+          }
+        ]
+      }
+    ],
+    "teach": "Ramadan其实是'热月'🔥！就像火锅越煮越香🥘，穆斯林在这灼热命名的月份通过禁食净化心灵🧘。现代梗：'数字斋戒'指戒抖音（digital Ramadan），开斋饭叫iftar就像春节年夜饭🍗。记住：说Ramadan Mubarak（吉庆斋月）比说Merry Christmas更有文化👍🌙✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'热嘛蛋'→炎热季节的斋月像热鸡蛋",
+        "易混词：与'Renaissance'（文艺复兴）区分"
+      ]
+    }
   }
 ]

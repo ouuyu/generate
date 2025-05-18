@@ -7242,5 +7242,246 @@
         "易混词：absorption（吸收过程）vs absorbance（吸收程度）"
       ]
     }
+  },
+  {
+    "word": "absorbed",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "sorb",
+        "ed"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根sorb表示'吸收'，-ed表被动→原指被吸走注意力"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "全神贯注的",
+        "examples": [
+          {
+            "sentence": "The chess player was so absorbed that he forgot to eat his hotpot.",
+            "sentence_zh": "棋手专注到忘记吃火锅。"
+          },
+          {
+            "sentence": "She's completely absorbed in douyin videos about cat yoga.",
+            "sentence_zh": "她完全沉迷于抖音上的猫咪瑜伽视频。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "一心一意的",
+        "examples": [
+          {
+            "sentence": "The calligrapher remained absorbed in writing despite the noisy mahjong game next door.",
+            "sentence_zh": "尽管隔壁麻将声喧哗，书法家仍专心致志地书写。"
+          },
+          {
+            "sentence": "He's absorbed in perfecting his kungfu tea brewing technique.",
+            "sentence_zh": "他一心一意地完善功夫茶冲泡技艺。"
+          }
+        ]
+      }
+    ],
+    "teach": "absorbed就像被黑洞吸走的注意力🕳️！古罗马人用sponge（海绵）吸收液体→现在你的注意力被短视频吸走就叫get absorbed。说'沉迷追剧'是be absorbed in dramas就像火锅涮毛肚停不下来🍲，'专注模式'叫in the zone就像少林和尚打坐🧘。记住：当你absorbed时，连老妈喊你吃饭都听不见！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿不饱的'→专注到忘记吃饭",
+        "易混词对比：absorbed（主观投入） vs. obsessive（强迫性沉迷）",
+        "联想法：海绵宝宝(SpongeBob)吸水时专注表情"
+      ]
+    }
+  },
+  {
+    "word": "absorbency",
+    "etymology": {
+      "breakdown": [
+        "absorb",
+        "ency"
+      ],
+      "meaning_connection": "词根absorb表示'吸收'，后缀-ency表示'性质或状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "吸收性",
+        "examples": [
+          {
+            "sentence": "The absorbency of this sponge puts Dracula to shame.",
+            "sentence_zh": "这块海绵的吸收性让吸血鬼德古拉都自愧不如"
+          },
+          {
+            "sentence": "We tested the absorbency by spilling milk tea on different fabrics.",
+            "sentence_zh": "我们通过泼洒奶茶测试了不同面料的吸水性"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "吸光度",
+        "examples": [
+          {
+            "sentence": "The lab technician measured the absorbency of the solution at 450nm.",
+            "sentence_zh": "实验员测量了溶液在450纳米波长的吸光度"
+          },
+          {
+            "sentence": "Higher absorbency indicates stronger UV protection in sunglasses.",
+            "sentence_zh": "更高的吸光度意味着太阳镜具有更强的紫外线防护能力"
+          }
+        ]
+      }
+    ],
+    "teach": "absorbency就像海绵宝宝的超能力🧽！科学版'海纳百川'🌊（water absorbency），实验室里的'吸星大法'🔬（light absorbency）。说'吸水力强'可以用soak up like a champ，'完全不吸水'叫as waterproof as a duck's back🦆。记住：好的absorbency就是材料界的'干饭王'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿不饱能吸'→饿着肚子(absorbency)也能吸收营养",
+        "易混词对比：absorption（吸收过程）vs absorbency（吸收能力）"
+      ]
+    }
+  },
+  {
+    "word": "absorbent",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "sorb",
+        "ent"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根sorb表示'吸收'，后缀-ent表'具有...性质的'→原指'把东西吸走的特性'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "能吸收的",
+        "examples": [
+          {
+            "sentence": "The bamboo flooring is highly absorbent of moisture.",
+            "sentence_zh": "竹地板具有极强的吸湿性。"
+          },
+          {
+            "sentence": "This new paper towel is 3 times more absorbent than cotton.",
+            "sentence_zh": "这种新型纸巾吸水性是棉布的3倍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "吸收剂",
+        "examples": [
+          {
+            "sentence": "Silica gel packets are common absorbents in snack packaging.",
+            "sentence_zh": "零食包装里常见的硅胶包就是吸收剂。"
+          },
+          {
+            "sentence": "Activated carbon is the most powerful odor absorbent.",
+            "sentence_zh": "活性炭是最强效的气味吸收剂。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "oil absorbent",
+        "meaning": "吸油材料",
+        "examples": [
+          {
+            "sentence": "Hair is a natural oil absorbent for fried food.",
+            "sentence_zh": "头发是油炸食品的天然吸油材料（大误）。"
+          }
+        ]
+      }
+    ],
+    "teach": "absorbent是海绵宝宝🧽的官方学名！从尿不湿到奶茶杯盖的吸水珠💦都在用这个原理。想说'超能吸'可以用thirsty like a vampire（像吸血鬼一样饥渴），搭配如kitchen absorbent mat（厨房吸水垫）🛒。记住：所有absorbent都在暗中进行'液体绑架'🚰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呃，纱布能吸'→吸收剂首选纱布",
+        "易混词对比：absorbent（吸外界物质）/adsorbent（吸附表面物质）",
+        "记忆tip：拆解ab+sorb→'离开+吸收'=把东西吸走"
+      ]
+    }
+  },
+  {
+    "word": "absorber",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "sorb",
+        "er"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根sorb表示'吸收'，后缀-er表'器具'→吸收物体的装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "吸收器",
+        "examples": [
+          {
+            "sentence": "The solar absorber on my roof looks like a giant waffle iron.",
+            "sentence_zh": "我家屋顶的太阳能吸收器像个巨型华夫饼机。"
+          },
+          {
+            "sentence": "This shock absorber makes bicycles as smooth as tofu.",
+            "sentence_zh": "这个减震器让自行车颠簸感变得如豆腐般柔滑。"
+          }
+        ]
+      }
+    ],
+    "teach": "absorber是海绵宝宝🧽的科技版！从太阳能板（sun absorber）到汽车减震（shock absorber），它们都在默默'吸吸乐'🍵。搭配'vibration absorber'（减震器）和'sound absorber'（隔音棉），就像给物理攻击加buff🛡️。说'吸水量大'可以戏称thirsty like a sponge!",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱嗦吧'→爱嗦(吸)的机器",
+        "对比记忆：absorber(器具) vs. absorbent(材料)"
+      ]
+    }
+  },
+  {
+    "word": "absorbing",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "sorb",
+        "ing"
+      ],
+      "meaning_connection": "前缀ab-表示'远离'，词根sorb表示'吸收'，-ing表形容词→'吸收注意力的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "吸引人的",
+        "examples": [
+          {
+            "sentence": "The live-streamer's tiktok dance moves were so absorbing that viewers forgot to click away.",
+            "sentence_zh": "主播的抖音舞蹈太吸引人，观众都忘了划走。"
+          },
+          {
+            "sentence": "This douban-top-rated novel is more absorbing than hotpot!",
+            "sentence_zh": "这部豆瓣高分小说比火锅还让人上头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "非常有趣的",
+        "examples": [
+          {
+            "sentence": "The AI-generated xiaohongshu travel notes made for an absorbing weekend read.",
+            "sentence_zh": "AI生成的小红书游记让周末阅读变得妙趣横生。"
+          },
+          {
+            "sentence": "Watching pandas roll downhill is absolutely absorbing content.",
+            "sentence_zh": "看熊猫滚下山坡简直是快乐源泉。"
+          }
+        ]
+      }
+    ],
+    "teach": "absorbing就像精神黑洞🕳️！它本是'吸收'的ing形式（如海绵吸水🧽），但形容事物时变成'吸走你所有注意力'。比如追剧到凌晨叫binge-watching absorbing shows，而'让人停不下来'可以说can't tear myself away。搭配：absorbing story（上头剧情）/absorbing game（有毒游戏）。记住：遇到absorbing的内容，你的时间就像被海绵吸干⏳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不释饼'→好吃到停不下来",
+        "对比记忆：absorbing（主动吸引）vs interesting（客观有趣）",
+        "场景联想：抖音无限刷=absorbing content漩涡"
+      ]
+    }
   }
 ]

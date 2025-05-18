@@ -7061,5 +7061,252 @@
         "对比：regal侧重王室血统，kingly强调气质"
       ]
     }
+  },
+  {
+    "word": "kingmaker",
+    "etymology": {
+      "breakdown": [
+        "king",
+        "maker"
+      ],
+      "meaning_connection": "复合词，字面意思是'制造国王的人'，源自中世纪权力斗争"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "拥立国王者",
+        "examples": [
+          {
+            "sentence": "The Duke of Warwick was known as the Kingmaker during the Wars of the Roses.",
+            "sentence_zh": "沃里克公爵在玫瑰战争期间被称为'拥立国王的人'。"
+          },
+          {
+            "sentence": "Modern political kingmakers often operate behind the scenes like puppet masters.",
+            "sentence_zh": "现代政治拥立者常常像幕后操纵者般运作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "有权支配要职的任命者",
+        "examples": [
+          {
+            "sentence": "Silicon Valley venture capitalists have become the new kingmakers of tech CEOs.",
+            "sentence_zh": "硅谷风险投资人已成为科技CEO的新任任命者。"
+          },
+          {
+            "sentence": "The party secretary acts as a kingmaker in provincial official appointments.",
+            "sentence_zh": "省委书记在省级官员任命中扮演着重要职位支配者的角色。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political kingmaker",
+        "meaning": "政治造王者",
+        "examples": [
+          {
+            "sentence": "Minor parties often play the role of political kingmaker in coalition governments.",
+            "sentence_zh": "小党派在联合政府中常扮演政治造王者的角色。"
+          }
+        ]
+      }
+    ],
+    "teach": "kingmaker其实是古代HR总监👑！就像《权力的游戏》里小指头操控铁王座🗡️，现代版可能是帮马云挑选CEO的蔡崇信🤵。要说'幕后操纵'可以叫pull the strings（像操纵木偶），'任人唯亲'叫old boys' network（老同学关系网）。记住：真正的kingmaker从不当国王，就像麻将高手从不自己胡牌🀄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'钦定客'→皇帝钦定的客人(kingmaker)",
+        "易混词：kingpin（首脑）vs kingmaker（幕后推手）",
+        "记忆法：把maker想成'美刻'→用'美丽时刻'制造国王"
+      ]
+    }
+  },
+  {
+    "word": "kingpin",
+    "etymology": {
+      "breakdown": [
+        "king",
+        "pin"
+      ],
+      "meaning_connection": "king=国王，pin=销钉→原指保龄球瓶的主轴，后比喻组织中的核心人物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "中心立轴",
+        "examples": [
+          {
+            "sentence": "The bicycle's kingpin connects the front wheel to the frame.",
+            "sentence_zh": "自行车的中心立轴将前轮连接到车架。"
+          },
+          {
+            "sentence": "Mechanics replaced the rusted kingpin in the truck's steering system.",
+            "sentence_zh": "机械师更换了卡车转向系统中生锈的中心立轴。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中心人物",
+        "examples": [
+          {
+            "sentence": "As the kingpin of the startup, she attracted 10 million venture capital.",
+            "sentence_zh": "作为创业公司的核心人物，她吸引了1000万风投。"
+          },
+          {
+            "sentence": "The noodle shop's kingpin chef comes from Lanzhou.",
+            "sentence_zh": "这家面馆的灵魂厨师来自兰州。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "首脑",
+        "examples": [
+          {
+            "sentence": "Interpol arrested the drug cartel's kingpin in Mexico.",
+            "sentence_zh": "国际刑警在墨西哥逮捕了贩毒集团的首脑。"
+          },
+          {
+            "sentence": "The cybercrime kingpin operated behind 20 VPNs.",
+            "sentence_zh": "这个网络犯罪首脑使用20层VPN掩护。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "主要成分",
+        "examples": [
+          {
+            "sentence": "Chili oil is the kingpin of Sichuan hotpot flavor.",
+            "sentence_zh": "红油是四川火锅风味的主要成分。"
+          },
+          {
+            "sentence": "The kingpin of this skincare product is snail secretion.",
+            "sentence_zh": "该护肤品的主要成分是蜗牛分泌物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the kingpin of",
+        "meaning": "...的关键人物",
+        "examples": [
+          {
+            "sentence": "He's the kingpin of China's livestream e-commerce.",
+            "sentence_zh": "他是中国直播电商的关键人物。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "kingpin role",
+        "meaning": "核心作用",
+        "examples": [
+          {
+            "sentence": "5G plays a kingpin role in smart cities.",
+            "sentence_zh": "5G在智慧城市中发挥核心作用。"
+          }
+        ]
+      }
+    ],
+    "teach": "kingpin就像火锅里的鸳鸯锅中间那个隔板🍲！既是机械转轴⚙️（物理核心），又是黑帮电影里戴大金链子的大佬💎（权力核心），还是奶茶里的珍珠🧋（成分核心）。说'幕后大佬'可以用the brains behind代替kingpin，搭配'科技大佬'叫tech kingpin。记住：没有kingpin的保龄球瓶会全倒！🎳",
+    "recite": {
+      "tips": [
+        "谐音梗：'金拼'→金色拼图(kingpin)的中心块",
+        "易混词：key person（中性） vs kingpin（常含贬义）",
+        "联想：保龄球瓶最前排那个标记为kingpin"
+      ]
+    }
+  },
+  {
+    "word": "kingship",
+    "etymology": {
+      "breakdown": [
+        "king",
+        "ship"
+      ],
+      "meaning_connection": "king=国王 + -ship=表示状态/关系的后缀→国王的身份或地位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "君主身份",
+        "examples": [
+          {
+            "sentence": "When Charles III assumed kingship, corgi fans rejoiced.",
+            "sentence_zh": "当查尔斯三世继承王位时，柯基犬爱好者们欢欣鼓舞。"
+          },
+          {
+            "sentence": "The documentary explores the loneliness of kingship.",
+            "sentence_zh": "这部纪录片探讨了君主身份的孤独。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "王位",
+        "examples": [
+          {
+            "sentence": "The crown symbolizes the sacredness of kingship.",
+            "sentence_zh": "王冠象征着王位的神圣性。"
+          },
+          {
+            "sentence": "Three princes competed for the kingship in Game of Thrones.",
+            "sentence_zh": "在《权力的游戏》中三位王子争夺王位。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "王权",
+        "examples": [
+          {
+            "sentence": "Magna Carta limited the absolute kingship in 1215.",
+            "sentence_zh": "1215年《大宪章》限制了绝对王权。"
+          },
+          {
+            "sentence": "The dragon represents invincible kingship in Chinese culture.",
+            "sentence_zh": "在中国文化中，龙象征不可战胜的王权。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "divine kingship",
+        "meaning": "神授王权",
+        "examples": [
+          {
+            "sentence": "Ancient Egyptian pharaohs believed in divine kingship.",
+            "sentence_zh": "古埃及法老信奉神授王权。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "assume kingship",
+        "meaning": "继承王位",
+        "examples": [
+          {
+            "sentence": "The young lion will assume kingship after the rainy season.",
+            "sentence_zh": "这头年轻狮子将在雨季结束后继承王位。"
+          }
+        ]
+      }
+    ],
+    "teach": "kingship就像限量版皮肤🎮！英国王冠上的宝石💎实际是'王权体验卡'（divine kingship），现代CEO们戏称自己的职位是corporate kingship👑。要说'篡位'叫usurp the kingship就像抢游戏BOSS掉落物🗡️，'禅让王位'abdicate kingship好比退游送装备🎁。记住：没有dragon的kingship就像没有辣椒的火锅🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'king+ship'→国王坐船（ship）去加冕",
+        "易混词对比：kingdom(王国) vs kingship(王权)",
+        "记忆法：把-ship后缀想象成王座形状"
+      ]
+    }
   }
 ]

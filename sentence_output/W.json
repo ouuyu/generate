@@ -7454,5 +7454,277 @@
         "易混词对比：heat（单纯热度） vs warmth（舒适温暖）"
       ]
     }
+  },
+  {
+    "word": "warmly",
+    "etymology": {
+      "breakdown": [
+        "warm",
+        "ly"
+      ],
+      "meaning_connection": "warm（温暖的）+ -ly（副词后缀）→ 像传递温度般的情感表达方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "亲切地",
+        "examples": [
+          {
+            "sentence": "The hostess welcomed visitors warmly with homemade mooncakes.",
+            "sentence_zh": "女主人用自制月饼亲切接待访客。"
+          },
+          {
+            "sentence": "Old neighbors still greet each other warmly in hutongs.",
+            "sentence_zh": "胡同里的老街坊仍会亲切打招呼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "温暖地",
+        "examples": [
+          {
+            "sentence": "The quilt was warmly dried under the winter sun.",
+            "sentence_zh": "棉被在冬日阳光下晒得温暖蓬松。"
+          },
+          {
+            "sentence": "Hotpot restaurants always smell warmly of spices.",
+            "sentence_zh": "火锅店总是飘着温暖的香料气息。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "热心地",
+        "examples": [
+          {
+            "sentence": "Volunteers warmly helped tourists scan health codes.",
+            "sentence_zh": "志愿者热心地帮游客扫描健康码。"
+          },
+          {
+            "sentence": "The auntie warmly recommended her favorite doujiang stall.",
+            "sentence_zh": "阿姨热心地推荐她最爱的豆浆摊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "warmly welcome",
+        "meaning": "热烈欢迎",
+        "examples": [
+          {
+            "sentence": "Chinese netizens warmly welcomed the giant panda back from abroad.",
+            "sentence_zh": "中国网友热烈欢迎大熊猫从海外归来。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "warmly recommend",
+        "meaning": "强力推荐",
+        "examples": [
+          {
+            "sentence": "I'd warmly recommend trying stinky tofu with chili sauce!",
+            "sentence_zh": "我强力推荐试试辣椒酱配臭豆腐！"
+          }
+        ]
+      }
+    ],
+    "teach": "warmly是社交温度计🌡️：当老北京说'您来啦~'时用亲切地（warmly greeted），电热毯广告说'暖暖的'用温暖地（warmly heated），居委会大妈催打疫苗用热心地（warmly reminded）💉。记住万能夸人句式：'You're so warmly + 动词'（你做事真暖心）☀️",
+    "recite": {
+      "tips": [
+        "谐音梗：'我魔力'→用我魔力(warmly)温暖你",
+        "易混词：warmly（情感）/hotly（激烈）",
+        "记忆法：想象微信'微笑'表情☺️+温度计🌡️= warmly"
+      ]
+    }
+  },
+  {
+    "word": "warn",
+    "etymology": {
+      "breakdown": [
+        "war",
+        "n"
+      ],
+      "meaning_connection": "古英语'warnian'源于原始日耳曼语'warnōną'（防御），与'ware'（警惕）同源，词尾-n表动作反复"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "警告（危险）",
+        "examples": [
+          {
+            "sentence": "The weather app warns of approaching typhoons with loud alarms.",
+            "sentence_zh": "天气应用会用响亮警报警告台风临近。"
+          },
+          {
+            "sentence": "Mothers always warn their children not to eat street food carelessly.",
+            "sentence_zh": "妈妈们总会警告孩子别乱吃路边摊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "提醒（潜在问题）",
+        "examples": [
+          {
+            "sentence": "The teacher warned us about the tricky questions in the final exam.",
+            "sentence_zh": "老师提醒我们期末考会有刁钻题目。"
+          },
+          {
+            "sentence": "The instruction manual warns against using the device in bathrooms.",
+            "sentence_zh": "说明书提醒切勿在浴室使用该设备。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "发出警告",
+        "examples": [
+          {
+            "sentence": "The antivirus software warns when detecting suspicious files.",
+            "sentence_zh": "杀毒软件检测到可疑文件时会发出警告。"
+          },
+          {
+            "sentence": "Sirens warned throughout the city before the air raid.",
+            "sentence_zh": "空袭前全市响起警报声。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "warn off",
+        "meaning": "警告离开",
+        "examples": [
+          {
+            "sentence": "The guard dog warned off the intruder with fierce barking.",
+            "sentence_zh": "护卫犬用凶猛吠叫警告入侵者离开。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "warn against",
+        "meaning": "告诫不要",
+        "examples": [
+          {
+            "sentence": "Doctors warn against eating hotpot right after tooth extraction.",
+            "sentence_zh": "医生告诫拔牙后不要立即吃火锅。"
+          }
+        ]
+      }
+    ],
+    "teach": "warn是语言界的消防警报🚨！它来自古代哨兵反复(warn↔war)喊'敌人来啦'的警惕动作🗣️。现代版就像你妈警告你别熬夜时的'再玩手机就没收！'📱。说'严正警告'用stern warning，'提前预警'叫early warning system（像地震预警⚡）。记住：当warn出现时，总有好戏(或悲剧)要上演🎭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忘嗯'→总忘事会被警告",
+        "易混词：warn（主动警告） vs alert（客观警报）",
+        "记忆桩：把warn想成war+n→战争前需要n次警告"
+      ]
+    }
+  },
+  {
+    "word": "warning",
+    "etymology": {
+      "breakdown": [
+        "warn",
+        "ing"
+      ],
+      "meaning_connection": "动词warn（警告）+后缀-ing构成名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "警告",
+        "examples": [
+          {
+            "sentence": "The traffic light's red flashing is a clear warning to pedestrians.",
+            "sentence_zh": "交通信号灯的红灯闪烁是对行人的明确警告。"
+          },
+          {
+            "sentence": "My phone gave me a low battery warning right before the video call.",
+            "sentence_zh": "我的手机在视频通话前发出了低电量警告。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "预告",
+        "examples": [
+          {
+            "sentence": "The weather app's storm warning saved our picnic plans.",
+            "sentence_zh": "天气应用的暴雨预告拯救了我们的野餐计划。"
+          },
+          {
+            "sentence": "Movie trailers are essentially 3-minute warnings of spoilers.",
+            "sentence_zh": "电影预告片本质上是3分钟的剧透预告。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "预兆",
+        "examples": [
+          {
+            "sentence": "The sudden silence of birds was a warning of the coming earthquake.",
+            "sentence_zh": "鸟类的突然静默是地震来临的预兆。"
+          },
+          {
+            "sentence": "His constant sneezing turned out to be a warning of allergy season.",
+            "sentence_zh": "他不停的打喷嚏原来是过敏季的预兆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "通知",
+        "examples": [
+          {
+            "sentence": "We received a warning about the maintenance shutdown of elevators.",
+            "sentence_zh": "我们收到了电梯维护停运的通知。"
+          },
+          {
+            "sentence": "The library sends automatic warning emails before due dates.",
+            "sentence_zh": "图书馆会在到期日前发送自动通知邮件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "warning sign",
+        "meaning": "警示标志",
+        "examples": [
+          {
+            "sentence": "The 'Beware of Dog' warning sign had a cute puppy picture underneath.",
+            "sentence_zh": "'小心恶犬'的警示标志下方却配了张可爱小狗照片。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "without warning",
+        "meaning": "突然地",
+        "examples": [
+          {
+            "sentence": "The rain came without warning during our rooftop barbecue.",
+            "sentence_zh": "我们在天台烧烤时突然下起了雨。"
+          }
+        ]
+      }
+    ],
+    "teach": "warning就像生活中的各种警报器🚨！古英语中warn本指'防御武器'，后来变成'提前防御的提醒'🛡️。说'这事我早提醒过你'可以用'I gave you fair warning'（像游戏里的'BOSS来了'提示🎮），而'狼来了'的故事就是cry wolf（虚假警告）🐺。记住：warning就是你大脑的杀毒软件提醒！💻",
+    "recite": {
+      "tips": [
+        "谐音梗：'我宁'→我宁可(warning)早点提醒你",
+        "易混词对比：warning（警告）vs. caution（谨慎）→ warning像消防警报，caution像'小心地滑'标识",
+        "记忆tip：把warning分解成war(战争)+ning(宁)→宁可打仗也要发出的警报"
+      ]
+    }
   }
 ]

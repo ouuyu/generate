@@ -7576,5 +7576,303 @@
         "记忆锚点：想象小区保安和住户打招呼的熟悉程度"
       ]
     }
+  },
+  {
+    "word": "familial",
+    "etymology": {
+      "breakdown": [
+        "famili",
+        "al"
+      ],
+      "meaning_connection": "词根famili=家庭（源自拉丁语familia），后缀-al表形容词属性→与家庭相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "家族的",
+        "examples": [
+          {
+            "sentence": "The Wang family's ancestral hall displays centuries-old familial traditions.",
+            "sentence_zh": "王氏宗祠展示着延续数百年的家族传统。"
+          },
+          {
+            "sentence": "Her familial ties to the Ming Dynasty make her a celebrity in the antique circle.",
+            "sentence_zh": "她与明朝的家族渊源使其在古玩界小有名气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "家庭的",
+        "examples": [
+          {
+            "sentence": "Hotpot represents the ultimate Chinese familial bonding activity.",
+            "sentence_zh": "火锅堪称中国家庭联络感情的终极活动。"
+          },
+          {
+            "sentence": "The documentary filmed familial dynamics during Spring Festival travel rush.",
+            "sentence_zh": "这部纪录片拍摄了春运期间的家庭互动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "familial bond",
+        "meaning": "亲情纽带",
+        "examples": [
+          {
+            "sentence": "Making dumplings together strengthens familial bonds across generations.",
+            "sentence_zh": "一起包饺子能增强跨代际的亲情纽带。"
+          }
+        ]
+      }
+    ],
+    "teach": "familial自带全家福相框🖼️基因！记住：family+ial就像'家'字上加个宝盖头→变成形容词'家庭的'。要说'家族遗传'是familial trait（比如单眼皮基因👀），'宅家氛围'说familial atmosphere就像春晚背景音🎋。记住谐音'发米哟'→古代家族以发米维系亲情🍚",
+    "recite": {
+      "tips": [
+        "形象记忆：family尾巴长ial→变成形容词的魔法尾巴",
+        "易混词对比：familiar（熟悉的）vs familial（家庭的）→少个i就少份亲密"
+      ]
+    }
+  },
+  {
+    "word": "familiarization",
+    "etymology": {
+      "breakdown": [
+        "famil",
+        "iar",
+        "ize",
+        "ation"
+      ],
+      "meaning_connection": "词根famil=家庭/亲近(源自拉丁语familia)，-iar/-ize表使动，-ation表名词化→从'家庭化'引申出'亲密'与'熟悉'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "亲密",
+        "examples": [
+          {
+            "sentence": "The familiarization between neighbors often starts with sharing homemade dumplings.",
+            "sentence_zh": "邻里间的亲密常从分享手工饺子开始。"
+          },
+          {
+            "sentence": "His familiarization with stray cats earned him the title 'Chief Cat Butler'.",
+            "sentence_zh": "他与流浪猫的亲密关系让他获得了'首席猫管家'的称号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "精通",
+        "examples": [
+          {
+            "sentence": "Her familiarization with 5G technology impressed Huawei recruiters.",
+            "sentence_zh": "她对5G技术的精通让华为招聘官印象深刻。"
+          },
+          {
+            "sentence": "The chef's familiarization with Sichuan peppercorns makes his mapo tofu legendary.",
+            "sentence_zh": "主厨对花椒的精通造就了传奇麻婆豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "熟悉",
+        "examples": [
+          {
+            "sentence": "Two-week familiarization is required before operating the hotpot robot.",
+            "sentence_zh": "操作火锅机器人前需两周熟悉期。"
+          },
+          {
+            "sentence": "Tourists' familiarization with local subway systems can be measured by their ability to find the nearest milk tea shop.",
+            "sentence_zh": "游客对地铁的熟悉程度可通过寻找最近奶茶店的能力判断。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "familiarization period",
+        "meaning": "适应期",
+        "examples": [
+          {
+            "sentence": "The panda keeper's familiarization period involves learning bamboo quality assessment.",
+            "sentence_zh": "熊猫饲养员的适应期包括学习竹子质量评估。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cultural familiarization",
+        "meaning": "文化适应",
+        "examples": [
+          {
+            "sentence": "Foreign students achieve cultural familiarization by mastering the art of haggling at night markets.",
+            "sentence_zh": "留学生通过掌握夜市砍价技巧实现文化适应。"
+          }
+        ]
+      }
+    ],
+    "teach": "familiarization本质是'家(famil)的感觉'🏠：就像把新手机变成'老婆机'需要亲密接触🤳，精通某项技能如同把它变成'老家本领'🎯，熟悉新环境就像把出租屋住成'快乐老窝'🛋️。记住：任何'家化'过程都分三步——从'这是啥？'到'我会了！'再到'我家的！'",
+    "recite": {
+      "tips": [
+        "谐音梗：'发霉离啊热症'→发霉(famil)物品让人想远离(iar)，熟悉(ize)了才能治疗(ation)",
+        "易混词对比：familiarity(熟悉感) vs. familiarization(熟悉过程)",
+        "记忆口诀：家(famil)里养只爱(iar)智(ize)慧(at)猫，亲密精通全做到"
+      ]
+    }
+  },
+  {
+    "word": "familiarize",
+    "etymology": {
+      "breakdown": [
+        "familiar",
+        "ize"
+      ],
+      "meaning_connection": "familiar（熟悉的）+ 后缀-ize（使...化）→ 字面意思是'使变得熟悉'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使熟悉",
+        "examples": [
+          {
+            "sentence": "The orientation program helps freshmen familiarize themselves with campus life.",
+            "sentence_zh": "迎新项目帮助新生熟悉校园生活。"
+          },
+          {
+            "sentence": "I need to familiarize my grandma with WeChat video calls.",
+            "sentence_zh": "我需要让奶奶熟悉微信视频通话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使熟知",
+        "examples": [
+          {
+            "sentence": "The training familiarized employees with new safety protocols.",
+            "sentence_zh": "这次培训让员工熟知新的安全规程。"
+          },
+          {
+            "sentence": "Travel shows familiarize viewers with exotic cultures.",
+            "sentence_zh": "旅游节目让观众熟知异域文化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使通俗化",
+        "examples": [
+          {
+            "sentence": "The professor familiarized complex theories using emoji examples.",
+            "sentence_zh": "教授用表情包例子把复杂理论通俗化。"
+          },
+          {
+            "sentence": "Popular science books familiarize cutting-edge research for the public.",
+            "sentence_zh": "科普书籍使前沿研究对大众通俗易懂。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "familiarize oneself with",
+        "meaning": "使自己熟悉",
+        "examples": [
+          {
+            "sentence": "She familiarized herself with subway routes using augmented reality.",
+            "sentence_zh": "她用AR技术让自己熟悉地铁线路。"
+          }
+        ]
+      }
+    ],
+    "teach": "familiarize就像文化导游🗺️：当它表示'使熟悉'时，像带外国友人逛北京胡同🏮（familiarize with local customs）；'使熟知'时像解说员讲解故宫历史📜（familiarized with dynasties）；'通俗化'时像把《论语》改编成漫画📚（familiarized through comics）。记住：任何高深知识经过familiarize都能变成'爷青回'内容！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发面来揉'→发面团要揉(familiarize)到熟悉手感",
+        "易混词对比：acquaint（认识）强调初步了解，familiarize强调深入熟悉"
+      ]
+    }
+  },
+  {
+    "word": "familiarly",
+    "etymology": {
+      "breakdown": [
+        "family",
+        "ar",
+        "ly"
+      ],
+      "meaning_connection": "词根family=家庭，-ar表形容词后缀，-ly表副词→像家人般"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不拘礼地",
+        "examples": [
+          {
+            "sentence": "He patted the CEO's shoulder familiarly during the meeting.",
+            "sentence_zh": "他在会议上不拘礼地拍了拍CEO的肩膀。"
+          },
+          {
+            "sentence": "The influencer speaks familiarly to her followers as if they were old friends.",
+            "sentence_zh": "这位网红不拘礼地和粉丝说话，就像老朋友一样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "亲密地",
+        "examples": [
+          {
+            "sentence": "The couple whispered familiarly in the corner of the hotpot restaurant.",
+            "sentence_zh": "那对情侣在火锅店角落亲密地耳语。"
+          },
+          {
+            "sentence": "Pandas interact familiarly with their caretakers at the Chengdu base.",
+            "sentence_zh": "在成都基地，熊猫们和饲养员亲密互动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "随意地",
+        "examples": [
+          {
+            "sentence": "She familiarly borrowed a charger from a stranger at the café.",
+            "sentence_zh": "她在咖啡馆随意地向陌生人借了充电器。"
+          },
+          {
+            "sentence": "The professor familiarly used memes in his PowerPoint slides.",
+            "sentence_zh": "教授在PPT里随意地使用网络梗图。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on familiar terms",
+        "meaning": "关系亲密",
+        "examples": [
+          {
+            "sentence": "The journalist is on familiar terms with many A-list celebrities.",
+            "sentence_zh": "这位记者与许多一线明星关系亲密。"
+          }
+        ]
+      }
+    ],
+    "teach": "familiarly是'社牛模式'🦸：像东北澡堂里光膀子唠嗑的大爷👴（不拘礼），像闺蜜分享最后一杯奶茶🥤（亲密），像程序员穿拖鞋见投资人👞（随意）。搭配：'get familiar with'（混熟）,'too familiar'（没大没小）。说'自来熟'可以用'fast friends'就像火锅局里抢着买单的人🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭米粒里'→饭米粒里(familiarly)夹菜显亲密",
+        "易混词对比：friendly（友好的）vs. familiarly（可能越界的亲密）",
+        "记忆tip：想象把formal（正式）反着拼就是famil(y)+ar+ly"
+      ]
+    }
   }
 ]

@@ -6977,5 +6977,260 @@
         "记忆tip：想象细菌举着'我姓Salmon'的应援牌"
       ]
     }
+  },
+  {
+    "word": "salon",
+    "etymology": {
+      "breakdown": [
+        "sal",
+        "on"
+      ],
+      "meaning_connection": "词根sal=大厅（源自意大利语salone），-on为名词后缀→原指贵族宅邸的会客厅"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大会客室",
+        "examples": [
+          {
+            "sentence": "The ambassadorial salon was decorated with Ming Dynasty vases.",
+            "sentence_zh": "大使会客厅陈设着明代花瓶。"
+          },
+          {
+            "sentence": "In Versailles, nobles gossiped in gold-leaf salons.",
+            "sentence_zh": "凡尔赛宫的贵族们在贴金的会客室闲聊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "沙龙（文艺聚会）",
+        "examples": [
+          {
+            "sentence": "Lu Xun hosted literary salons with jujube tea and heated debates.",
+            "sentence_zh": "鲁迅用红枣茶招待文友，在沙龙展开激烈辩论。"
+          },
+          {
+            "sentence": "Parisian salons in 1920s bred surrealism like petri dishes.",
+            "sentence_zh": "1920年代巴黎沙龙像培养皿般孕育超现实主义。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "美容院",
+        "examples": [
+          {
+            "sentence": "The salon offers panda-eye removal service for overtime workers.",
+            "sentence_zh": "这家美容院为加班族提供熊猫眼消除服务。"
+          },
+          {
+            "sentence": "Her salon uses erhu music during hair treatments.",
+            "sentence_zh": "她的美发店在做头发护理时播放二胡音乐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "beauty salon",
+        "meaning": "美容院",
+        "examples": [
+          {
+            "sentence": "The AI-powered beauty salon analyzes skin with 4K cameras.",
+            "sentence_zh": "这家智能美容院用4K摄像头分析肤质。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "literary salon",
+        "meaning": "文学沙龙",
+        "examples": [
+          {
+            "sentence": "Their WeChat group became a virtual literary salon during lockdown.",
+            "sentence_zh": "疫情期间他们的微信群变成了虚拟文学沙龙。"
+          }
+        ]
+      }
+    ],
+    "teach": "salon是空间变形金刚🏰→在凡尔赛宫是贵族八卦厅（像微信群聊💬），在左岸是文艺孵化器（像豆瓣小组📚），在街角又变成Tony老师阵地（像魔法屋💈）。记住：高端局叫salon，巷口叫barbershop。洗剪吹套餐地道说法是'blow-dry and set'，'做指甲'要说get a mani-pedi💅",
+    "recite": {
+      "tips": [
+        "谐音梗：'洒龙'→文艺沙龙洒墨如龙",
+        "易混词：saloon(西部酒馆)/salon(高雅场所)",
+        "记忆法：sal+on=在(sal)大厅(on)搞事情"
+      ]
+    }
+  },
+  {
+    "word": "saloon",
+    "etymology": {
+      "breakdown": [
+        "sal",
+        "oon"
+      ],
+      "meaning_connection": "词根sal=厅（源自意大利语sala），后缀-oon表大空间→原指贵族的大会客厅，后衍生出酒吧等社交场所含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大厅",
+        "examples": [
+          {
+            "sentence": "The wedding saloon was decorated with 10,000 origami cranes.",
+            "sentence_zh": "婚礼大厅用万只纸鹤装饰。"
+          },
+          {
+            "sentence": "The train's dining saloon serves authentic Peking duck.",
+            "sentence_zh": "列车餐车大厅供应地道北京烤鸭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "沙龙",
+        "examples": [
+          {
+            "sentence": "Lu Xun's literary saloon inspired generations of writers.",
+            "sentence_zh": "鲁迅的文学沙龙影响了几代作家。"
+          },
+          {
+            "sentence": "The beauty saloon offers panda-shaped manicures.",
+            "sentence_zh": "这个美容沙龙提供熊猫造型美甲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "酒吧",
+        "examples": [
+          {
+            "sentence": "Cowboys in Western movies always smash saloon windows.",
+            "sentence_zh": "西部片里的牛仔总爱砸酒吧窗户。"
+          },
+          {
+            "sentence": "This speakeasy-style saloon serves baijiu cocktails.",
+            "sentence_zh": "这家地下酒吧提供白酒调制的鸡尾酒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "会客室",
+        "examples": [
+          {
+            "sentence": "The embassy's saloon displays both Picasso and Qi Baishi.",
+            "sentence_zh": "大使馆会客室同时陈列毕加索和齐白石作品。"
+          },
+          {
+            "sentence": "Tea ceremony in the Japanese saloon requires precise movements.",
+            "sentence_zh": "日式会客室的茶道需要精确动作。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "saloon car",
+        "meaning": "轿车",
+        "examples": [
+          {
+            "sentence": "His first saloon car was a second-hand Santana.",
+            "sentence_zh": "他的第一辆轿车是二手桑塔纳。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "saloon keeper",
+        "meaning": "酒吧老板",
+        "examples": [
+          {
+            "sentence": "The saloon keeper invented a chili pepper flavored whiskey.",
+            "sentence_zh": "酒吧老板发明了辣椒风味威士忌。"
+          }
+        ]
+      }
+    ],
+    "teach": "saloon是社交宇宙的虫洞🕳️！16世纪贵妇在沙龙(salon)聊艺术时绝对想不到，这个词会变成西部片里牛仔打架的酒吧🍻（wild west saloon）。要说'高端局'叫literary saloon（文艺沙龙），'土嗨局'叫biker saloon（机车酒吧）。记住：从凡尔赛宫到龙门客栈，都是saloon的江湖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'撒龙'→撒钱（saloon）的龙哥在酒吧",
+        "易混词：salon（高端沙龙）vs saloon（大众场所）",
+        "记忆tip：sal+oon=撒龙币的大厅"
+      ]
+    }
+  },
+  {
+    "word": "salsa",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自西班牙语，原意即'酱汁'，后特指拉丁美洲辣酱及受其启发的舞蹈音乐"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "洋葱做的辣调味汁",
+        "examples": [
+          {
+            "sentence": "This authentic Mexican taco comes with fiery salsa made with 3 types of chili.",
+            "sentence_zh": "这份地道墨西哥卷饼配有用三种辣椒制作的劲爆莎莎酱。"
+          },
+          {
+            "sentence": "He accidentally added too much salsa and now his mouth feels like a volcano.",
+            "sentence_zh": "他不小心加了太多莎莎酱，现在嘴巴像火山喷发。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "萨尔萨舞曲",
+        "examples": [
+          {
+            "sentence": "The Cuban band's salsa music made everyone's hips swing automatically.",
+            "sentence_zh": "古巴乐队的萨尔萨音乐让所有人的臀部不由自主摇摆起来。"
+          },
+          {
+            "sentence": "Learning salsa is the best way to survive winter - you'll sweat buckets!",
+            "sentence_zh": "学跳萨尔萨是度过冬天的最佳方式——你会汗如雨下！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "salsa dancing",
+        "meaning": "萨尔萨舞",
+        "examples": [
+          {
+            "sentence": "Their salsa dancing at the wedding stole the show.",
+            "sentence_zh": "他们在婚礼上的萨尔萨舞抢尽风头。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "salsa verde",
+        "meaning": "绿莎莎酱（用绿番茄制成）",
+        "examples": [
+          {
+            "sentence": "This salsa verde tastes like a fresh garden in your mouth.",
+            "sentence_zh": "这绿莎莎酱尝起来像在嘴里爆开的清新菜园。"
+          }
+        ]
+      }
+    ],
+    "teach": "莎莎酱(salsa)是墨西哥的'老干妈'🌶️！最初是阿兹特克人用石头研钵捣碎辣椒和番茄的产物，后来随着西班牙征服者传到欧洲。跳萨尔萨舞💃就像在厨房打翻辣酱——开始很混乱，但越摇摆越有味道！说'辣得喷火'用mouth on fire，'节奏感强'叫hips don't lie。记住：没有salsa的玉米片就像没有BGM的广场舞！",
+    "recite": {
+      "tips": [
+        "谐音梗：'杀啦爽'→辣酱杀到味蕾超爽",
+        "易混词：sauce泛指酱料，salsa特指拉美辣酱",
+        "联想：红色salsa=辣椒血案，绿色salsa=蔬菜暴动"
+      ]
+    }
   }
 ]

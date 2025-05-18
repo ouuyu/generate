@@ -7088,5 +7088,256 @@
         "联想：UN联合国总部大楼是笔直的(unbent)造型🏢"
       ]
     }
+  },
+  {
+    "word": "unbiased",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "bias",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表示'否定'，词根bias=偏见，-ed表形容词→字面义'未被偏见影响的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "没有偏见的",
+        "examples": [
+          {
+            "sentence": "The AI journalist writes unbiased reports on political events.",
+            "sentence_zh": "这位AI记者对政治事件撰写无偏见的报道。"
+          },
+          {
+            "sentence": "She gave an unbiased review of the hotpot restaurant despite being friends with the owner.",
+            "sentence_zh": "尽管与老板是朋友，她仍对火锅店给出了公正评价。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "公平的",
+        "examples": [
+          {
+            "sentence": "The teacher's grading system is completely unbiased.",
+            "sentence_zh": "这位老师的评分系统绝对公平。"
+          },
+          {
+            "sentence": "We need unbiased algorithms to recommend douyin videos.",
+            "sentence_zh": "我们需要公平的算法来推荐抖音视频。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "unbiased opinion",
+        "meaning": "公正意见",
+        "examples": [
+          {
+            "sentence": "The consumer association provides unbiased opinions on new products.",
+            "sentence_zh": "消费者协会对新品提供公正意见。"
+          }
+        ]
+      }
+    ],
+    "teach": "unbiased其实是'歪果仁认证章'🗽！像小红书测评不带货（unbiased review）、像裁判看电竞比赛不粉战队🎮。说'绝对公平'用impartial，'一碗水端平'叫fair and square。记住：当你说unbiased时，要像熊猫吃竹子🎋——只认质量不认产地！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不碍事'→俺不碍事(unbiased)所以最公正",
+        "易混词对比：neutral中性 vs unbiased无偏见",
+        "记忆tip：想象法官(un)戴着(bi)太阳镜(ased)遮住主观视线"
+      ]
+    }
+  },
+  {
+    "word": "unbind",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "bind"
+      ],
+      "meaning_connection": "前缀un-表'否定/反向'，词根bind=捆绑→反向捆绑即为解开"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "解开（物理捆绑）",
+        "examples": [
+          {
+            "sentence": "He carefully unbound the silk ribbon from the antique scroll.",
+            "sentence_zh": "他小心地解开古董卷轴上的丝带。"
+          },
+          {
+            "sentence": "Unbinding these tangled earphones took me 15 minutes!",
+            "sentence_zh": "解开这团缠住的耳机花了我15分钟！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "解放（抽象束缚）",
+        "examples": [
+          {
+            "sentence": "The new law unbinds artists from censorship restrictions.",
+            "sentence_zh": "新法律使艺术家摆脱审查限制。"
+          },
+          {
+            "sentence": "Digital nomads unbind themselves from office routines.",
+            "sentence_zh": "数字游民将自己从办公室常规中解放出来。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "unbind from",
+        "meaning": "从...解开/脱离",
+        "examples": [
+          {
+            "sentence": "The kitten finally unbound itself from the yarn ball.",
+            "sentence_zh": "小猫终于从毛线团中解脱出来。"
+          },
+          {
+            "sentence": "She decided to unbind from toxic relationships.",
+            "sentence_zh": "她决定摆脱有毒的人际关系。"
+          }
+        ]
+      }
+    ],
+    "teach": "unbind就像拆快递的快乐✂️！古埃及人用unbind解开木乃伊绷带（结果召唤出法老诅咒💀），现代人用unbind从996解放（获得摸鱼自由🐟）。'解不开'说can't untie the knot，'甩锅'叫unbind responsibility就像解开的氢气球🎈。记住：物理解绑用绳子，精神解放用决心！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬掰的'→强行unbind",
+        "易混词对比：untie（解结）vs unbind（解束缚）",
+        "记忆法：UN+捆绑=联合国解除武装"
+      ]
+    }
+  },
+  {
+    "word": "unbleached",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "bleach",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，bleach意为漂白，-ed表形容词→未经漂白的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "原色的",
+        "examples": [
+          {
+            "sentence": "The unbleached cotton retains its natural yellowish hue.",
+            "sentence_zh": "未漂白棉花保持着天然的淡黄色泽。"
+          },
+          {
+            "sentence": "Her unbleached linen dress smells like sun-dried hay.",
+            "sentence_zh": "她那原色亚麻连衣裙闻起来像晒干的稻草。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未漂白的",
+        "examples": [
+          {
+            "sentence": "This unbleached flour is preferred by organic bakery shops.",
+            "sentence_zh": "有机面包店偏爱这种未漂白面粉。"
+          },
+          {
+            "sentence": "The museum displays unbleached ancient manuscripts.",
+            "sentence_zh": "博物馆展出了未经漂白的古代手稿。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "unbleached paper",
+        "meaning": "原浆纸",
+        "examples": [
+          {
+            "sentence": "Environmentalists recommend using unbleached paper for packaging.",
+            "sentence_zh": "环保人士推荐用原浆纸做包装材料。"
+          }
+        ]
+      }
+    ],
+    "teach": "unbleached就是'素颜战士'👩🏻‍🌾！就像拒绝滤镜的糙米🌾vs精米，未漂白(unbleached)产品保留着大自然的'原相机直出'📸。要说'纯天然'可称au naturel（法语借词），'工业漂白'叫chemical bleaching。记住：当你想买真·原生态产品，认准unbleached这个单词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'纹不理事'→有纹理的(unbleached)布料不用处理",
+        "易混对比：bleached（漂白的）vs unbleached（未漂白的）如同美颜前后的照片"
+      ]
+    }
+  },
+  {
+    "word": "unblemished",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "blemish",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表示'否定'，词根blemish意为'污点'，-ed构成形容词→字面意思是'没有被弄脏的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无瑕疵的",
+        "examples": [
+          {
+            "sentence": "The unblemished jade was sold for 5 million yuan at auction.",
+            "sentence_zh": "这块无瑕美玉在拍卖会上以500万元成交。"
+          },
+          {
+            "sentence": "Her unblemished skin made cosmetics advertisers line up to sign her.",
+            "sentence_zh": "她毫无瑕疵的肌肤让化妆品广告商排队签约。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无缺点的",
+        "examples": [
+          {
+            "sentence": "The professor has an unblemished academic record spanning 30 years.",
+            "sentence_zh": "这位教授三十年学术生涯毫无污点记录。"
+          },
+          {
+            "sentence": "This unblemished safety record makes the high-speed rail system world-famous.",
+            "sentence_zh": "高铁系统凭借毫无缺点的安全记录闻名世界。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "清白的",
+        "examples": [
+          {
+            "sentence": "After three investigations, his reputation remained unblemished.",
+            "sentence_zh": "经过三次调查，他的名声依然清白。"
+          },
+          {
+            "sentence": "The ancient scrolls were found in unblemished condition in the tomb.",
+            "sentence_zh": "这些古代卷轴在墓穴中被发现时保存完好无暇。"
+          }
+        ]
+      }
+    ],
+    "teach": "unblemished就像刚出窑的景德镇瓷器🍶！古人用'白璧无瑕'形容完美→英语直译就是unblemished jade。夸人'零黑历史'可以说spotless record📜，'完美无缺'叫flawless就像刚开封的新手机📱。记住：奶茶洒白衬衫上就不再unblemished了！🚫☕",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不烂眉石的'→俺的眉毛石头都不烂→完美无缺",
+        "易混词对比：unblemished（天生完美） vs. spotless（后天保持的洁净）",
+        "联想记忆：UN（联合国）+ blemish（污点）+ ed→联合国级无污点"
+      ]
+    }
   }
 ]

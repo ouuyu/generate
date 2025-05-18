@@ -6920,5 +6920,248 @@
         "对比：silent（人为安静）vs quiet（自然安静）"
       ]
     }
+  },
+  {
+    "word": "quieten",
+    "etymology": {
+      "breakdown": [
+        "quiet",
+        "en"
+      ],
+      "meaning_connection": "词根quiet=安静，后缀-en表'使...化'→使变得安静"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "安静下来",
+        "examples": [
+          {
+            "sentence": "The classroom quietened when the teacher took out a pop quiz.",
+            "sentence_zh": "当老师拿出随堂测验时，教室瞬间安静下来。"
+          },
+          {
+            "sentence": "The protest quietened after midnight like a switched-off karaoke machine.",
+            "sentence_zh": "午夜后抗议声平息了，像被关掉的卡拉OK机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使安静",
+        "examples": [
+          {
+            "sentence": "She quietened her barking dog with a pork bun.",
+            "sentence_zh": "她用肉包子让吠叫的狗安静下来。"
+          },
+          {
+            "sentence": "The librarian quietened the giggling students with a stern look.",
+            "sentence_zh": "图书管理员用严厉的眼神使发笑的学生们安静。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抚慰",
+        "examples": [
+          {
+            "sentence": "The mother quietened her toddler with a lullaby about dumplings.",
+            "sentence_zh": "妈妈用一首关于饺子的摇篮曲安抚幼儿。"
+          },
+          {
+            "sentence": "Drinking hot soy milk quietened his midnight anxiety.",
+            "sentence_zh": "喝热豆浆缓解了他深夜的焦虑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quieten down",
+        "meaning": "完全平静",
+        "examples": [
+          {
+            "sentence": "The stock market finally quietened down after the policy announcement.",
+            "sentence_zh": "政策公布后股市终于平息下来。"
+          }
+        ]
+      }
+    ],
+    "teach": "quieten是安静界的开关按钮🔘！想象给吵闹的群聊开'全员禁言'🤐（quieten the group），或像火锅沸腾时调小火候🔥（quieten the soup）。英国人说'pipe down'比'be quiet'更地道，但'quieten'自带优雅感，就像用茶🍵而不是凉白开来降火。记住：-en结尾的动词常带'使...化'魔法✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快疼'→快安静不然打PP会快疼",
+        "对比记忆：quiet(adj.)安静的 → quieten(v.)使安静，类似wide→widen"
+      ]
+    }
+  },
+  {
+    "word": "quietness",
+    "etymology": {
+      "breakdown": [
+        "quiet",
+        "ness"
+      ],
+      "meaning_connection": "词根quiet=安静，后缀-ness表示状态→安静的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "平静",
+        "examples": [
+          {
+            "sentence": "The quietness of the morning was broken only by the chirping of birds.",
+            "sentence_zh": "清晨的平静只被鸟儿的啁啾声打破。"
+          },
+          {
+            "sentence": "Her quietness in the face of chaos was admirable.",
+            "sentence_zh": "面对混乱时她的平静令人钦佩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "寂静",
+        "examples": [
+          {
+            "sentence": "The quietness of the library was perfect for studying.",
+            "sentence_zh": "图书馆的寂静非常适合学习。"
+          },
+          {
+            "sentence": "The sudden quietness after the storm was eerie.",
+            "sentence_zh": "暴风雨后的突然寂静令人毛骨悚然。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in the quietness of",
+        "meaning": "在...的寂静中",
+        "examples": [
+          {
+            "sentence": "In the quietness of the night, he finally found peace.",
+            "sentence_zh": "在夜的寂静中，他终于找到了平静。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "the quietness before the storm",
+        "meaning": "暴风雨前的宁静",
+        "examples": [
+          {
+            "sentence": "The office had the quietness before the storm before the big project deadline.",
+            "sentence_zh": "在大项目截止日期前，办公室有一种暴风雨前的宁静。"
+          }
+        ]
+      }
+    ],
+    "teach": "quietness就像被按了静音键的电视机📺！古人说'蝉噪林逾静'就是这种境界（用蝉鸣反衬寂静）。在英语里'死寂'说deafening silence（震耳欲聋的安静），'享受宁静'叫revel in quietness就像泡温泉时不许说话🛀。记住：真正的quietness是连针掉在榻榻米上都听得见🗝️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快饿死'→饿到没力气说话所以quietness",
+        "易混词对比：quietness（静态的安静）vs. silence（人为的沉默）",
+        "联想记忆：quiet+ness→'安静的-ness'状态"
+      ]
+    }
+  },
+  {
+    "word": "quill",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古低地德语quiele，原指'空心管'，后特指鸟类中空的羽毛轴"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "羽根",
+        "examples": [
+          {
+            "sentence": "The peacock dropped a glittering quill near the souvenir shop.",
+            "sentence_zh": "孔雀在纪念品店附近掉落了一根闪亮的羽根。"
+          },
+          {
+            "sentence": "Archaeologists found ancient arrowheads bound with eagle quills.",
+            "sentence_zh": "考古学家发现用鹰羽根绑缚的古代箭头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大翎毛",
+        "examples": [
+          {
+            "sentence": "Her hat was adorned with an ostrich quill swaying in the wind.",
+            "sentence_zh": "她的帽子上装饰着一根随风摇曳的鸵鸟大翎毛。"
+          },
+          {
+            "sentence": "The tribal chief's headdress contained 101 pheasant quills symbolizing wisdom.",
+            "sentence_zh": "部落首领的头饰上有101根象征智慧的雉鸡大翎毛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "羽毛笔",
+        "examples": [
+          {
+            "sentence": "Shakespeare likely drafted his plays using a goose quill dipped in iron gall ink.",
+            "sentence_zh": "莎士比亚可能用蘸着铁胆墨水的鹅毛笔起草剧本。"
+          },
+          {
+            "sentence": "The museum displayed Dickens' original quill next to his ink-stained spectacles.",
+            "sentence_zh": "博物馆将狄更斯用过的羽毛笔与他沾着墨水的眼镜并排展出。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "刺穿",
+        "examples": [
+          {
+            "sentence": "The porcupine quilled the curious dog's nose, sending it yelping away.",
+            "sentence_zh": "豪猪的刺扎穿了好奇狗狗的鼻子，疼得它嗷嗷直叫。"
+          },
+          {
+            "sentence": "Traditional acupuncturists sometimes quill specific meridians with swan feathers.",
+            "sentence_zh": "传统针灸师有时会用天鹅羽毛刺穿特定经络。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quill pen",
+        "meaning": "羽毛笔",
+        "examples": [
+          {
+            "sentence": "The calligrapher's quill pen scratched rhythmically across parchment.",
+            "sentence_zh": "书法家的羽毛笔在羊皮纸上发出有节奏的沙沙声。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quill driver",
+        "meaning": "文书工作者（古语）",
+        "examples": [
+          {
+            "sentence": "Victorian quill drivers often developed distinctive ink stains on their right pinky.",
+            "sentence_zh": "维多利亚时代的文书工作者右手小指常留有特殊的墨渍。"
+          }
+        ]
+      }
+    ],
+    "teach": "quill是古代文青的'触控笔'✍️！从大鹅翅膀拔下的quill羽毛笔，造就了《哈利波特》的魔法契约📜（dip the quill）。当动词时，秒变容嬷嬷的针🦔（quill through fabric）。搭配quill knife指修笔刀，说'文笔好'叫good quill work。记住：quill既是文豪的武器，也是刺猬的防身术！",
+    "recite": {
+      "tips": [
+        "谐音梗：'溃呦'→羽毛笔写太久手腕要溃呦",
+        "易混词：quill(硬质羽根) vs. down(绒毛)",
+        "记忆tip：Q像羽毛笔滴墨水的形状"
+      ]
+    }
   }
 ]

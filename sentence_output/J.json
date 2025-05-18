@@ -7212,5 +7212,265 @@
         "易混词：crusade（基督教圣战）"
       ]
     }
+  },
+  {
+    "word": "jiggle",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词，模拟轻微晃动时发出的声响"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使轻摇",
+        "examples": [
+          {
+            "sentence": "She jiggled the key in the lock like shaking a tambourine.",
+            "sentence_zh": "她像摇铃鼓一样轻晃钥匙开锁。"
+          },
+          {
+            "sentence": "The bartender jiggles the cocktail shaker with hip-hop rhythm.",
+            "sentence_zh": "调酒师用嘻哈节奏轻摇调酒器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "微动",
+        "examples": [
+          {
+            "sentence": "My phone jiggles on the desk when notifications come.",
+            "sentence_zh": "通知来时我的手机会在桌上微微震动。"
+          },
+          {
+            "sentence": "The jelly jiggles like TikTok dance challenges.",
+            "sentence_zh": "果冻的颤动像抖音舞蹈挑战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "轻摇",
+        "examples": [
+          {
+            "sentence": "Give the handle a playful jiggle to open this ancient cabinet.",
+            "sentence_zh": "给把手来个俏皮的轻摇就能打开这个古董柜。"
+          },
+          {
+            "sentence": "The bunny's nose has an adorable jiggle when it chews.",
+            "sentence_zh": "兔子咀嚼时鼻子会可爱地轻颤。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jiggle test",
+        "meaning": "抖动测试",
+        "examples": [
+          {
+            "sentence": "Engineers do the jiggle test for USB ports - if it falls out, redesign!",
+            "sentence_zh": "工程师对USB接口进行抖动测试——如果会松脱就重设计！"
+          }
+        ]
+      }
+    ],
+    "teach": "jiggle是'摇摆界的小碎步'💃：想象奶茶里的珍珠轻微晃动🧋，或是手机收到男神消息时的震动📱。要说'抖得厉害'可以说jiggle like jelly（像果冻般颤动），'轻微调整'叫give it a jiggle（轻轻摇下）。记住：jiggle的幅度就像微信'拍一拍'的震动强度！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡狗'→鸡狗打架时羽毛轻晃(jiggle)",
+        "易混词对比：wiggle(大幅摆动) vs jiggle(微幅颤动)",
+        "记忆tip：J形状像弹簧颤动轨迹"
+      ]
+    }
+  },
+  {
+    "word": "jilt",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "词源不明，可能源自方言，17世纪起表示'突然抛弃爱人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "抛弃情人者",
+        "examples": [
+          {
+            "sentence": "In the TV drama, the wealthy jilt left his fiancee at the altar.",
+            "sentence_zh": "电视剧里那个富有的负心汉在婚礼现场抛弃了未婚妻。"
+          },
+          {
+            "sentence": "The novel's protagonist is a notorious jilt who breaks hearts across Europe.",
+            "sentence_zh": "小说主角是个在欧洲到处留情又抛弃对方的臭名昭著之人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抛弃（情人）",
+        "examples": [
+          {
+            "sentence": "She jilted her boyfriend after finding his WeChat full of dating app notifications.",
+            "sentence_zh": "发现男友微信里全是交友软件通知后，她果断甩了他。"
+          },
+          {
+            "sentence": "The singer got jilted minutes before livestreaming their wedding.",
+            "sentence_zh": "这位歌手在直播婚礼前几分钟被放鸽子了。"
+          }
+        ]
+      }
+    ],
+    "teach": "jilt是爱情里的急刹车🚗💔！它专指'在认真关系中突然抛弃对方'，比ghost（玩失踪）更伤人。英国有'jilted lover's lane'地名，源自被抛弃者的夜半哭泣🌙😭。搭配'jilt at the altar'（婚礼现场抛弃）比'分手'更戏剧化，说'被甩'可以用dumped like yesterday's takeout（像隔夜外卖被扔掉）🍱🗑️",
+    "recite": {
+      "tips": [
+        "谐音梗：'揪疼'→被抛弃时心揪着疼",
+        "易混词对比：abandon（彻底放弃任何事物）vs jilt（特指情感抛弃）",
+        "记忆tip：字母J像钩子→把爱人钩来又甩掉"
+      ]
+    }
+  },
+  {
+    "word": "jilted",
+    "etymology": {
+      "breakdown": [
+        "jilt",
+        "ed"
+      ],
+      "meaning_connection": "jilt可能源自中古荷兰语'jillen'（戏弄）+过去分词后缀-ed→字面指'被戏弄的'，特指感情欺骗"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "抛弃（情人）",
+        "examples": [
+          {
+            "sentence": "The jilted groom livestreamed his breakup on Douyin.",
+            "sentence_zh": "被抛弃的新郎在抖音直播了自己的分手过程。"
+          },
+          {
+            "sentence": "She felt jilted when her boyfriend ghosted her after borrowing her Pinduoduo discount code.",
+            "sentence_zh": "当男友借走她的拼多多优惠券后玩消失，她感到被抛弃了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be jilted at the altar",
+        "meaning": "在婚礼现场被抛弃",
+        "examples": [
+          {
+            "sentence": "The viral video shows a bride jilting her groom at the altar with a mic drop.",
+            "sentence_zh": "热搜视频显示新娘在婚礼现场扔掉话筒抛弃新郎。"
+          }
+        ]
+      }
+    ],
+    "teach": "jilted是爱情修罗场💔的专属词！源自17世纪英国'jilt'（感情骗子），就像现代'海王'突然拉黑你📱。被分手可以说dumped（像垃圾被扔），但jilted特指'临门一脚被甩'🏹。搭配'left in the lurch'（被晾在尴尬境地），emo精准三连：🤡👋💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'急跳的'→急得跳脚的被甩者",
+        "易混词对比：abandon（彻底放弃） vs jilted（情感背叛）"
+      ]
+    }
+  },
+  {
+    "word": "jingle",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词起源，模拟金属碰撞的清脆声响"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "叮当声",
+        "examples": [
+          {
+            "sentence": "The jingle of wind chimes reminded her of childhood summers.",
+            "sentence_zh": "风铃的叮当声让她想起童年的夏天。"
+          },
+          {
+            "sentence": "Santa's sleigh is always associated with the jingle of bells.",
+            "sentence_zh": "圣诞老人的雪橇总伴随着铃铛的叮当声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "(使)作叮当声",
+        "examples": [
+          {
+            "sentence": "She jingled her keys to find them in the dark.",
+            "sentence_zh": "她在黑暗中晃动钥匙串发出叮当声来寻找它们。"
+          },
+          {
+            "sentence": "The camel caravan jingled its bells across the desert.",
+            "sentence_zh": "骆驼商队晃着铃铛穿越沙漠发出叮当声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "作叮当声",
+        "examples": [
+          {
+            "sentence": "The ice cubes jingled in the glass as he walked.",
+            "sentence_zh": "他走动时冰块在玻璃杯里叮当作响。"
+          },
+          {
+            "sentence": "Change jingled in his pocket with every step.",
+            "sentence_zh": "他每走一步口袋里的零钱就叮当作响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "(使)押韵",
+        "examples": [
+          {
+            "sentence": "The poet jingled words like musical notes.",
+            "sentence_zh": "诗人像编排音符般让文字押韵。"
+          },
+          {
+            "sentence": "Preschool teachers often jingle nursery rhymes with clapping.",
+            "sentence_zh": "幼儿园老师常用拍手让童谣押韵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jingle all the way",
+        "meaning": "一路叮当响（圣诞歌曲名）",
+        "examples": [
+          {
+            "sentence": "We sang Jingle Bells while the sleigh jingled all the way.",
+            "sentence_zh": "我们唱着《铃儿响叮当》，雪橇一路叮咚作响。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "advertising jingle",
+        "meaning": "广告歌",
+        "examples": [
+          {
+            "sentence": "The Oreo jingle gets stuck in people's heads easily.",
+            "sentence_zh": "奥利奥广告歌很容易让人上头。"
+          }
+        ]
+      }
+    ],
+    "teach": "jingle是声音界的表情包🎵！从驯鹿铃铛🔔到奶茶店门铃，从支付宝到账提示音💸到脑白金循环神曲，甚至你跺jiojio时口袋钥匙的响声🔑都算！广告歌叫catchy jingle（魔性广告歌），零钱叮当响可说chump change（小钱），记住：好的jingle能让脑细胞单曲循环三天三夜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'金钩'→圣诞袜上的金钩(jingle)叮当响",
+        "易混词：jangle刺耳金属声 vs jingle清脆声响",
+        "记忆tip：J开头的拟声词都轻快（jump, joy, jazz）"
+      ]
+    }
   }
 ]
