@@ -5492,5 +5492,319 @@
         "易混词对比：abridged(人为删减) vs. condensed(浓缩提纯)"
       ]
     }
+  },
+  {
+    "word": "abridgement",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bridge",
+        "ment"
+      ],
+      "meaning_connection": "前缀a-表示'加强', 词根bridge来自古英语'brycgian'(缩短), -ment表名词→原指'将内容缩短的行为', 后衍生出'删节本'和'权利缩减'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "节本",
+        "examples": [
+          {
+            "sentence": "The abridgement of Romance of the Three Kingdoms fits in my subway reading time.",
+            "sentence_zh": "《三国演义》节本刚好适合我的地铁阅读时间。"
+          },
+          {
+            "sentence": "This abridgement cuts all poems from the original novel.",
+            "sentence_zh": "这个节本删去了原著中所有诗词。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "节略",
+        "examples": [
+          {
+            "sentence": "The director's abridgement of the 4-hour documentary won an award.",
+            "sentence_zh": "导演对4小时纪录片的节略版获得了奖项。"
+          },
+          {
+            "sentence": "This is not plagiarism but reasonable abridgement of academic papers.",
+            "sentence_zh": "这不是抄袭而是对学术论文的合理节略。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "权利剥夺",
+        "examples": [
+          {
+            "sentence": "The abridgement of voting rights caused nationwide protests.",
+            "sentence_zh": "选举权被剥夺引发了全国性抗议。"
+          },
+          {
+            "sentence": "Any abridgement of freedom of speech must undergo strict scrutiny.",
+            "sentence_zh": "任何对言论自由的限制都必须经过严格审查。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make an abridgement of",
+        "meaning": "制作...的节略版",
+        "examples": [
+          {
+            "sentence": "The publisher made an abridgement of the dictionary for students.",
+            "sentence_zh": "出版社为学生制作了该词典的节略版。"
+          }
+        ]
+      }
+    ],
+    "teach": "abridgement是把《红楼梦》变成'贾宝玉爱情故事'📚的剪刀手✂️！中世纪抄写员为省羊皮纸会abridge文献（省下钱买奶茶🥤），而'权利abridgement'就像被妈妈没收手机📵（No TikTok!）。搭配：make abridgement of（做精简版）/ suffer abridgement of（遭受剥夺）。说'阉割版'可用butchered version🔪。记住：好书要读全本，炸鸡要吃整只！🍗",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅不理这馒头'→节略版故事连鹅都不理",
+        "易混词：abridgement（删减内容） vs. deprivation（剥夺必需品）",
+        "记忆tip：想象把长桥(bridge)截短(a-)就是节略"
+      ]
+    }
+  },
+  {
+    "word": "abroad",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "broad"
+      ],
+      "meaning_connection": "前缀a-表示'在...状态'，词根broad=宽广→原指'在广阔天地间'，后分化出空间和抽象两种含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "往国外",
+        "examples": [
+          {
+            "sentence": "Chinese students going abroad now prefer Finland over the US for aurora chasing.",
+            "sentence_zh": "如今中国留学生更倾向去芬兰而非美国追极光。"
+          },
+          {
+            "sentence": "She ships stinky tofu abroad via express delivery.",
+            "sentence_zh": "她用快递往国外寄臭豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "到室外",
+        "examples": [
+          {
+            "sentence": "Grandma shouted 'Don't go abroad without masks!' during sandstorms.",
+            "sentence_zh": "沙尘暴时奶奶喊'别不戴口罩到室外！'"
+          },
+          {
+            "sentence": "Cats refusing to go abroad in winter is universal.",
+            "sentence_zh": "猫咪冬天拒绝出门放之四海而皆准。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "到处",
+        "examples": [
+          {
+            "sentence": "News about spicy hotpot spreads abroad in the dormitory.",
+            "sentence_zh": "麻辣火锅的消息在宿舍里到处传。"
+          },
+          {
+            "sentence": "His douyin videos circulate abroad unexpectedly.",
+            "sentence_zh": "他的抖音视频意外到处传播。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "往国外的",
+        "examples": [
+          {
+            "sentence": "The abroad flight was full of durian lovers.",
+            "sentence_zh": "这趟国际航班满是榴莲爱好者。"
+          },
+          {
+            "sentence": "Her abroad package contained 20 packs of mala tang seasoning.",
+            "sentence_zh": "她的出国行李里有20包麻辣烫调料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "在室外的",
+        "examples": [
+          {
+            "sentence": "The abroad cats developed thicker fur in Siberia.",
+            "sentence_zh": "西伯利亚的户外猫毛变得更厚。"
+          },
+          {
+            "sentence": "Abroad activities require SPF50+ in Hainan.",
+            "sentence_zh": "在海南进行户外活动需要SPF50+防晒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "广泛四散的",
+        "examples": [
+          {
+            "sentence": "The abroad rumors turned out to be a marketing stunt.",
+            "sentence_zh": "那些广为流传的谣言原来是营销噱头。"
+          },
+          {
+            "sentence": "Abroad memes about 'Bing Dwen Dwen' flooded the internet.",
+            "sentence_zh": "冰墩墩的梗图在网络上广泛传播。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "at home and abroad",
+        "meaning": "国内外",
+        "examples": [
+          {
+            "sentence": "Huawei's foldable phones sell well at home and abroad.",
+            "sentence_zh": "华为折叠屏手机在国内外都卖得很好。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go abroad",
+        "meaning": "出国/到室外",
+        "examples": [
+          {
+            "sentence": "After lockdown, everyone couldn't wait to go abroad for hotpot.",
+            "sentence_zh": "解封后所有人都迫不及待出门吃火锅。"
+          }
+        ]
+      }
+    ],
+    "teach": "abroad是空间穿越大师🧙♂️！当它表示'国外'时像穿越海关🛃（study abroad），表示'室外'时像被妈妈赶出家门晒太阳🌞（go abroad），表示'传播'时像病毒式转发的锦鲤表情包🐟（circulate abroad）。搭配'国内外'要说at home and abroad像鸳鸯锅🍲，'工资低到想出国'说peanuts salary makes me wanna go abroad🥜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿不饿的'→出国饿不饿的(abroad)带老干妈",
+        "易混词对比：aboard（上车）vs abroad（出国）→多一个r(run)就要run出国"
+      ]
+    }
+  },
+  {
+    "word": "abrogate",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "rog",
+        "ate"
+      ],
+      "meaning_connection": "前缀ab-表示'远离'，词根rog源自拉丁语rogare（要求），-ate为动词后缀→通过权威要求使其远离"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "废除（法律/条约）",
+        "examples": [
+          {
+            "sentence": "The new government abrogated the colonial-era tax laws.",
+            "sentence_zh": "新政府废除了殖民时代的税法。"
+          },
+          {
+            "sentence": "When TikTok was nearly abrogated in the US, GenZ protested with memes.",
+            "sentence_zh": "当TikTok在美国险些被禁时，Z世代用表情包抗议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "取消（权力/责任）",
+        "examples": [
+          {
+            "sentence": "The CEO abrogated his right to veto in the dumpling-eating contest.",
+            "sentence_zh": "CEO在吃饺子大赛中放弃了他的否决权。"
+          },
+          {
+            "sentence": "The AI system abrogated human editors' control over content.",
+            "sentence_zh": "这个AI系统取消了人类编辑对内容的控制权。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abrogate responsibility",
+        "meaning": "推卸责任",
+        "examples": [
+          {
+            "sentence": "No politician should abrogate responsibility like deleting WeChat chats.",
+            "sentence_zh": "政客不该像删微信聊天记录般推卸责任。"
+          }
+        ]
+      }
+    ],
+    "teach": "abrogate是权力界的退货按钮🔙！古罗马官员用木棒（rog）敲地宣布法令无效→现代用来形容'王者荣耀'防沉迷新规取消学生游戏权🎮。搭配'abrogate treaty'（撕条约）像撕火锅优惠券🧾，说'规则作废'可用dead letter（死文字）。记住：abrogate总带着官方盖章的霸气！💼⚖️",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿伯肉盖'→阿伯用肉盖住(abrogate)废止的公告",
+        "对比：abolish侧重永久终止，abrogate强调权威废除",
+        "记忆锚点：想象特朗普撕文件.gif应用这个单词"
+      ]
+    }
+  },
+  {
+    "word": "abrogation",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "rog",
+        "ation"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根rog表示'询问/要求'（来自拉丁语rogare），-ation表名词→原指通过权威'要求离开'，引申为'废除'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "废除",
+        "examples": [
+          {
+            "sentence": "The abrogation of the alcohol ban led to midnight hotpot parties in Chicago.",
+            "sentence_zh": "禁酒令的废除让芝加哥深夜火锅派对兴起。"
+          },
+          {
+            "sentence": "Scholars debated the abrogation of outdated exam policies.",
+            "sentence_zh": "学者们就过时考试政策的废除展开辩论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "取消",
+        "examples": [
+          {
+            "sentence": "The sudden abrogation of the concert caused 10,000 milk tea refunds.",
+            "sentence_zh": "演唱会的突然取消引发上万杯奶茶退款。"
+          },
+          {
+            "sentence": "Diplomats protested the abrogation of visa agreements.",
+            "sentence_zh": "外交官们抗议签证协议的取消。"
+          }
+        ]
+      }
+    ],
+    "teach": "abrogation是'权力橡皮擦'✏️：古罗马元老院用'ab'(离开)+'rogare'(要求)组合表示'官方擦除'📜。要说'废除法律'可以戏称law-breakup（法律分手），'取消订单'叫order annihilation（订单歼灭）💥。记住：当abrogation出现时，总有人欢呼有人哭！🎭",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿伯哥雷神'→阿伯像雷神一样废除旧规⚡",
+        "易混词对比：abolition（奴隶制等重大制度的废除）vs abrogation（具体条款的废止）",
+        "记忆tip：想象用橡皮(ab)擦掉法律文件上的墨水(rog)"
+      ]
+    }
   }
 ]

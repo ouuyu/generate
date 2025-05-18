@@ -5714,5 +5714,362 @@
         "记忆法：医学+军事+建筑三栖单词"
       ]
     }
+  },
+  {
+    "word": "land",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语'land'指'地表面未淹没的部分'，与德语'Land'同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "陆地",
+        "examples": [
+          {
+            "sentence": "Pandas evolved to eat bamboo when their ancestors came down from trees to land.",
+            "sentence_zh": "当熊猫的祖先从树上来到陆地时，它们进化出了吃竹子的习性。"
+          },
+          {
+            "sentence": "The first astronauts to land on the Moon left footprints that will last millions of years.",
+            "sentence_zh": "首批登月宇航员留下的脚印将保存数百万年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地面",
+        "examples": [
+          {
+            "sentence": "The cat fell from the balcony but landed safely on soft land.",
+            "sentence_zh": "猫咪从阳台坠落，但安全降落在松软的地面上。"
+          },
+          {
+            "sentence": "Ancient Chinese farmers worshipped the land as the source of life.",
+            "sentence_zh": "中国古代农民将地面作为生命之源来崇拜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地界",
+        "examples": [
+          {
+            "sentence": "The Great Wall marked the northern land of ancient China.",
+            "sentence_zh": "长城标志着古代中国的北部地界。"
+          },
+          {
+            "sentence": "Villagers still use ancient stones to mark their farming land.",
+            "sentence_zh": "村民们仍用古老的石块标记农耕的地界。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地产",
+        "examples": [
+          {
+            "sentence": "He inherited 500 mu of tea land in Fujian province.",
+            "sentence_zh": "他继承了福建省500亩的茶叶地产。"
+          },
+          {
+            "sentence": "The land near subway stations is worth its weight in gold.",
+            "sentence_zh": "地铁站附近的地产堪比黄金。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "国土",
+        "examples": [
+          {
+            "sentence": "The panda has become a living symbol of Chinese land.",
+            "sentence_zh": "熊猫已成为中国国土的鲜活象征。"
+          },
+          {
+            "sentence": "Ancient poets often described the vastness of the land in their works.",
+            "sentence_zh": "古代诗人常在作品中描述国土的辽阔。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "登陆",
+        "examples": [
+          {
+            "sentence": "The typhoon made landfall after landing on the east coast.",
+            "sentence_zh": "台风在东部海岸登陆后继续向内陆推进。"
+          },
+          {
+            "sentence": "The Mars rover successfully landed in Utopia Planitia.",
+            "sentence_zh": "火星车成功登陆乌托邦平原。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "到达",
+        "examples": [
+          {
+            "sentence": "After 10 hours' flight, we finally landed in Sydney.",
+            "sentence_zh": "经过10小时飞行，我们终于到达悉尼。"
+          },
+          {
+            "sentence": "The package landed on my doorstep just before Christmas.",
+            "sentence_zh": "包裹恰好在圣诞节前到达我家门口。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使上岸",
+        "examples": [
+          {
+            "sentence": "Fishermen landed tons of yellow croaker at dawn.",
+            "sentence_zh": "渔民们在黎明时分使数吨大黄鱼上岸。"
+          },
+          {
+            "sentence": "The rescue team landed the stranded tourists safely.",
+            "sentence_zh": "救援队使受困游客安全上岸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使到达",
+        "examples": [
+          {
+            "sentence": "The helicopter landed the medical team in the disaster area.",
+            "sentence_zh": "直升机使医疗队到达灾区。"
+          },
+          {
+            "sentence": "Didi's carpool service landed me at the airport just in time.",
+            "sentence_zh": "滴滴拼车服务使我准时到达机场。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "land a job",
+        "meaning": "获得工作",
+        "examples": [
+          {
+            "sentence": "She landed a job at Tencent after sending out 50 resumes.",
+            "sentence_zh": "投出50份简历后，她获得了腾讯的工作。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "on land",
+        "meaning": "在陆地上",
+        "examples": [
+          {
+            "sentence": "Turtles spend most of their lives in water but lay eggs on land.",
+            "sentence_zh": "海龟一生大部分时间在水中度过，但会在陆地上产卵。"
+          }
+        ]
+      }
+    ],
+    "teach": "land是英语世界的'陆地巡洋舰'🗺️！古英语时期人们用land指'未被海水淹没的地方'🏝️。现代用法中，'获得工作'叫land a job（像抓住救命稻草🤹），'降落在'是land in（如飞机降落🛬）。记住：从鲸鱼搁浅(land on shore)到马斯克火箭着陆(land vertically)，都靠这个万能词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒的'→懒的(land)上岸的鱼",
+        "易混词对比：ground（具体地面） vs land（广义陆地）",
+        "记忆tip：L(ocation)+AND=有位置的地方"
+      ]
+    }
+  },
+  {
+    "word": "landau",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自德国巴伐利亚的Landau市，18世纪该地首创此种马车设计"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "双排座四轮马车",
+        "examples": [
+          {
+            "sentence": "The queen's landau was decorated with golden phoenix patterns during the coronation.",
+            "sentence_zh": "加冕典礼上女王的四轮马车装饰着金凤纹样。"
+          },
+          {
+            "sentence": "Sherlock Holmes would chase criminals in a speeding landau through London fog.",
+            "sentence_zh": "福尔摩斯常驾着四轮马车在伦敦雾中追击罪犯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "双排座敞篷轿车",
+        "examples": [
+          {
+            "sentence": "The 1960s landau with red leather seats is his most prized collection.",
+            "sentence_zh": "那辆60年代红皮座椅的敞篷轿车是他的镇宅之宝。"
+          },
+          {
+            "sentence": "Modern landaus are often used for wedding parades in European cities.",
+            "sentence_zh": "现代敞篷轿车常在欧洲城市的婚礼游行中使用。"
+          }
+        ]
+      }
+    ],
+    "teach": "landau是马车界的劳斯莱斯🐎！得名于德国Landau市，就像五菱宏光诞生于柳州🚗。'坐马车'说ride in a landau，'定制豪车'叫custom-built landau。记住：从马车到跑车，landau始终是土豪的移动名片💳，就像现在开特斯拉Cybertruck炸街一个道理！",
+    "recite": {
+      "tips": [
+        "视觉记忆：land+au→陆地(land)上的黄金(au化学符号)座驾",
+        "易混词对比：limousine(加长轿车) vs landau(敞篷轿车)"
+      ]
+    }
+  },
+  {
+    "word": "landed",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "ed"
+      ],
+      "meaning_connection": "词根land表示'土地'，后缀-ed表示'具有...特性的'→原指与土地所有权相关的属性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "拥有土地的",
+        "examples": [
+          {
+            "sentence": "The landed aristocracy lost power after the agricultural reform.",
+            "sentence_zh": "土地改革后，拥有土地的贵族失去了权力。"
+          },
+          {
+            "sentence": "Her landed status comes from inheriting tea plantations.",
+            "sentence_zh": "她拥有土地的地位来自继承的茶园。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不动产的",
+        "examples": [
+          {
+            "sentence": "Landed property transactions require notarization in China.",
+            "sentence_zh": "在中国，不动产交易需要公证。"
+          },
+          {
+            "sentence": "The listed company's main assets are landed estates in Shanghai.",
+            "sentence_zh": "该上市公司的主要资产是上海的不动产。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "landed gentry",
+        "meaning": "地主乡绅",
+        "examples": [
+          {
+            "sentence": "The Peking opera tells a story of the landed gentry in Qing Dynasty.",
+            "sentence_zh": "这出京剧讲述清朝地主乡绅的故事。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "landed cost",
+        "meaning": "到岸成本",
+        "examples": [
+          {
+            "sentence": "The landed cost of imported durians includes tariff and logistics.",
+            "sentence_zh": "进口榴莲的到岸成本包含关税和物流费。"
+          }
+        ]
+      }
+    ],
+    "teach": "landed贵族就像'地主游戏'🏰的真人版！18世纪英国landed gentry(土地绅士)靠收租就能喝下午茶☕，现代版是手握拆迁房的'包租公'🔑。记住：说'不动产投资'用landed property，'暴发户'叫new money不如old landed families🍃。你的微信步数能不能换块landed estate？",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得得'→地主懒得得(landed)亲自种地",
+        "易混词对比：landing（着陆）vs landed（已拥有土地）",
+        "记忆tip：-ed结尾表'已完成状态'，就像已到手的土地"
+      ]
+    }
+  },
+  {
+    "word": "lander",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "er"
+      ],
+      "meaning_connection": "词根land=土地/着陆，后缀-er表人或物→与'着陆'相关的设备或人员"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "出铁槽",
+        "examples": [
+          {
+            "sentence": "The molten iron flows through the lander like fiery lava.",
+            "sentence_zh": "铁水像炽热岩浆般流过出铁槽。"
+          },
+          {
+            "sentence": "Workers replaced the damaged lander before the next smelting.",
+            "sentence_zh": "工人们在下次冶炼前更换了损坏的出铁槽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "着陆器",
+        "examples": [
+          {
+            "sentence": "China's lunar lander planted a flag on the far side of the moon.",
+            "sentence_zh": "中国月球着陆器在月球背面插上了国旗。"
+          },
+          {
+            "sentence": "The Mars lander sent back photos of alien sunsets.",
+            "sentence_zh": "火星着陆器传回了外星日落的照片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "把钩工人",
+        "examples": [
+          {
+            "sentence": "The experienced lander secured the cargo within seconds.",
+            "sentence_zh": "经验丰富的把钩工人几秒内就固定好了货物。"
+          },
+          {
+            "sentence": "Every lander at the port wears anti-slip steel-toe boots.",
+            "sentence_zh": "港口每位把钩工都穿着防滑钢头靴。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lunar lander",
+        "meaning": "月球着陆器",
+        "examples": [
+          {
+            "sentence": "The lunar lander carried a capsule of earth soil to the moon.",
+            "sentence_zh": "月球着陆器携带了一囊地球土壤到月球。"
+          }
+        ]
+      }
+    ],
+    "teach": "lander是个三面间谍👨🚀：在钢厂是铁水流淌的'溜槽'（像巧克力熔岩瀑布🍫），在太空是高科技'着陆器'（比马斯克的火箭还酷🚀），在码头是'把钩工'（像人形起重机🏗️）。记住：天上地下都是land+er，区别在于接的是岩浆、月球还是集装箱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得'→把钩工人懒得(lander)系安全带（危险行为！）",
+        "易混词对比：lander着陆器 vs launch发射器"
+      ]
+    }
   }
 ]

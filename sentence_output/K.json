@@ -5526,5 +5526,253 @@
         "记忆tip：kilter开头字母k像天平两边的托盘"
       ]
     }
+  },
+  {
+    "word": "kimono",
+    "etymology": {
+      "breakdown": [
+        "ki",
+        "mono"
+      ],
+      "meaning_connection": "日语'着物'(ki=穿，mono=物)，字面意思是'穿着的东西'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "和服",
+        "examples": [
+          {
+            "sentence": "The geisha adjusted her kimono obi before the tea ceremony.",
+            "sentence_zh": "艺伎在茶道开始前整理和服腰带。"
+          },
+          {
+            "sentence": "Cherry blossom patterns on kimonos symbolize spring in Japan.",
+            "sentence_zh": "和服上的樱花图案象征着日本的春天。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "宽大晨衣",
+        "examples": [
+          {
+            "sentence": "She sipped coffee in her floral kimono robe.",
+            "sentence_zh": "她穿着花卉图案的晨袍啜饮咖啡。"
+          },
+          {
+            "sentence": "The hotel provides satin kimonos for spa guests.",
+            "sentence_zh": "酒店为水疗客人提供真丝晨衣。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wear a kimono",
+        "meaning": "穿和服",
+        "examples": [
+          {
+            "sentence": "Tourists love wearing kimonos for photos in Kyoto.",
+            "sentence_zh": "游客们喜欢在京都穿着和服拍照。"
+          }
+        ]
+      }
+    ],
+    "teach": "kimono是日本移动的画卷🎨！古代和服价值等同比特币💴——件精品和服=东京1套房！现代晨袍款叫'伪和服'，就像珍珠奶茶里的西米冒充珍珠🥤。搭配推荐：配木屐geta哒哒响👡，配折扇sensu摇出江户风🍃。地道说法：'和服美人'叫kimono beauty，比'穿和服好看'更霓虹味！",
+    "recite": {
+      "tips": [
+        "谐音梗：'抠抹布'→和服太贵只敢抠着洗",
+        "易混词：vs.yukata（浴衣）=夏季简易版和服",
+        "记忆点：ki-mono=key+物品→打开日本文化的钥匙"
+      ]
+    }
+  },
+  {
+    "word": "kin",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'cynn'，与德语'Kind'（孩子）同源，最初指'家族血统'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "亲戚",
+        "examples": [
+          {
+            "sentence": "Chinese New Year gatherings always reunite distant kin.",
+            "sentence_zh": "春节团聚总能让远方亲戚重聚。"
+          },
+          {
+            "sentence": "She traced her kin back to Ming Dynasty scholars.",
+            "sentence_zh": "她把亲戚关系追溯到了明朝学者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "同族",
+        "examples": [
+          {
+            "sentence": "The Yao kin preserves its unique embroidery techniques.",
+            "sentence_zh": "瑶族同族保存着独特的刺绣技艺。"
+          },
+          {
+            "sentence": "Lion dances unite our kin during festivals.",
+            "sentence_zh": "节日里的舞狮活动让同族凝聚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "血缘关系",
+        "examples": [
+          {
+            "sentence": "DNA tests revealed unexpected kin between the two families.",
+            "sentence_zh": "基因检测揭示了两家意外的血缘关系。"
+          },
+          {
+            "sentence": "They share no kin but have sibling-like bonds.",
+            "sentence_zh": "他们虽无血缘关系却情同手足。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "家族",
+        "examples": [
+          {
+            "sentence": "The Confucius kin tree spans 80 generations.",
+            "sentence_zh": "孔子家族树跨越80代人。"
+          },
+          {
+            "sentence": "Her kin runs the oldest tea shop in Fujian.",
+            "sentence_zh": "她的家族经营着福建最古老的茶铺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有亲属关系的",
+        "examples": [
+          {
+            "sentence": "Kin members enjoy priority in this ancestral ritual.",
+            "sentence_zh": "有亲属关系者在此祭祖仪式中享有优先权。"
+          },
+          {
+            "sentence": "The kin connection guaranteed his apprenticeship.",
+            "sentence_zh": "亲属关系保障了他的学徒资格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "性质类似的",
+        "examples": [
+          {
+            "sentence": "Jasmine tea and osmanthus cake are kin in floral fragrance.",
+            "sentence_zh": "茉莉花茶和桂花糕在花香上性质类似。"
+          },
+          {
+            "sentence": "These two dialects are kin but not mutually intelligible.",
+            "sentence_zh": "这两种方言性质类似却无法互通。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "同类的",
+        "examples": [
+          {
+            "sentence": "Pandas and raccoons are kin species in zoology.",
+            "sentence_zh": "熊猫和浣熊在动物学上是同类物种。"
+          },
+          {
+            "sentence": "Their kin mindsets made collaboration effortless.",
+            "sentence_zh": "他们同类的思维模式让合作毫不费力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "next of kin",
+        "meaning": "直系亲属",
+        "examples": [
+          {
+            "sentence": "Hospitals require next of kin signatures for major surgeries.",
+            "sentence_zh": "医院重大手术需直系亲属签字。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "kith and kin",
+        "meaning": "亲友",
+        "examples": [
+          {
+            "sentence": "Mid-Autumn Festival is for reuniting with kith and kin.",
+            "sentence_zh": "中秋节是与亲友团聚的时刻。"
+          }
+        ]
+      }
+    ],
+    "teach": "kin就像家族火锅宴🍲：血缘亲戚是锅里的肉片🥩（blood kin），同类事物像配菜拼盘🥗（kin flavors），'近亲不如远邻'英语说'Friends are the new kin'👨👩👧👦。要吐槽'亲戚真多'可以说'I need a kin-dar（亲戚雷达）'🔍，过年被催婚时尤其需要！",
+    "recite": {
+      "tips": [
+        "谐音梗：'钦'→古代皇帝的亲戚叫皇亲(kin)国戚",
+        "易混词：kin vs. kid（前者是亲戚，后者是小孩）",
+        "记忆法：把kin倒过来看像'nik'→'尼客'→家族里的客人"
+      ]
+    }
+  },
+  {
+    "word": "kinase",
+    "etymology": {
+      "breakdown": [
+        "kin",
+        "ase"
+      ],
+      "meaning_connection": "词根kin=运动/变化（同源词kinetic），后缀-ase=酶→促使生物化学反应的酶"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "激酶",
+        "examples": [
+          {
+            "sentence": "CRISPR gene editing uses kinase to 'cut and paste' DNA strands.",
+            "sentence_zh": "CRISPR基因编辑技术用激酶对DNA进行'剪切粘贴'。"
+          },
+          {
+            "sentence": "The kinase in chili peppers makes your tongue feel like a fire dragon.",
+            "sentence_zh": "辣椒中的激酶让你舌头像喷火龙。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "致活酶",
+        "examples": [
+          {
+            "sentence": "This kinase activates the sleepy protein like an alarm clock for cells.",
+            "sentence_zh": "这种致活酶像细胞闹钟般唤醒休眠蛋白质。"
+          },
+          {
+            "sentence": "Yogurt fermentation relies on kinase to transform milk into probiotics.",
+            "sentence_zh": "酸奶发酵依赖致活酶将牛奶转化为益生菌。"
+          }
+        ]
+      }
+    ],
+    "teach": "kinase是细胞里的快递小哥🚴！它像美团骑手般给蛋白质'磷酸化'加急单（kinase delivery），又像火锅店服务员往汤底加活性酶🍲（enzyme booster）。科学家说'磷酸化'就像蛋白质在跳广场舞💃，而kinase就是发广播体操音乐的大喇叭！搭配：kinase cascade（激酶瀑布反应）、kinase inhibitor（激酶抑制剂）。说'能量不足'用地道表达running on empty。",
+    "recite": {
+      "tips": [
+        "谐音梗：'开内塞'→激酶开启细胞内核塞子",
+        "易混词：kinesis（运动机能）vs kinase",
+        "联想：电影《超能陆战队》里大白用的活性酶凝胶"
+      ]
+    }
   }
 ]

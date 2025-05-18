@@ -5572,5 +5572,237 @@
         "易混词：sweater（毛衣）通常较厚，jersey更轻薄"
       ]
     }
+  },
+  {
+    "word": "jest",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自古法语'geste'（行为、功绩），经词义演变转为'玩笑行为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "笑柄",
+        "examples": [
+          {
+            "sentence": "His failed mooncake business became the jest of his family.",
+            "sentence_zh": "他失败的月饼生意成了全家人的笑柄。"
+          },
+          {
+            "sentence": "The politician's typo turned him into a national jest.",
+            "sentence_zh": "政治人物的笔误让他成了全国笑柄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "笑话",
+        "examples": [
+          {
+            "sentence": "He told a jest about two pandas ordering takeout.",
+            "sentence_zh": "他讲了个关于两只熊猫点外卖的笑话。"
+          },
+          {
+            "sentence": "Ancient Chinese jest books contain wisdom in humor.",
+            "sentence_zh": "古代中国笑话集蕴含幽默中的智慧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "讲笑话",
+        "examples": [
+          {
+            "sentence": "During tea breaks, colleagues jest about office life.",
+            "sentence_zh": "茶歇时同事们常讲职场生活的笑话。"
+          },
+          {
+            "sentence": "Comedians jest about social phenomena in crosstalk shows.",
+            "sentence_zh": "相声演员用社会现象编笑话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "嘲笑",
+        "examples": [
+          {
+            "sentence": "Netizens jest at the awkward translation signs.",
+            "sentence_zh": "网友嘲笑那些尴尬的翻译标识。"
+          },
+          {
+            "sentence": "They jested behind his back about his outdated hairstyle.",
+            "sentence_zh": "他们背后嘲笑他过时的发型。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "嘲笑",
+        "examples": [
+          {
+            "sentence": "She jested her brother for mistaking wasabi for avocado.",
+            "sentence_zh": "她嘲笑弟弟把芥末当成牛油果。"
+          },
+          {
+            "sentence": "Ancient poets often jested the corrupt officials.",
+            "sentence_zh": "古代诗人常嘲讽贪官。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in jest",
+        "meaning": "开玩笑地",
+        "examples": [
+          {
+            "sentence": "His complaint about working overtime was said in jest.",
+            "sentence_zh": "他抱怨加班只是开玩笑说的。"
+          }
+        ]
+      }
+    ],
+    "teach": "jest就像脱口秀演员的折扇🎭！当名词时可以是'郭德纲的包袱'(Chinese jest)，也可以是'年度迷惑行为大赏'(become a jest)；当动词时就像朋友互怼🤪（jest about）。搭配'in jest'相当于中文'说着玩的'，而'standing jest'就是'经典老梗'🎪。记住：善意玩笑是banter，恶意嘲笑是mock！",
+    "recite": {
+      "tips": [
+        "谐音梗：'接斯特'→接梗高手(st)特别会讲jest",
+        "对比记忆：jest（轻松玩笑）vs jeer（恶意嘲笑）",
+        "联想：JEST=Just Enjoy Story Telling"
+      ]
+    }
+  },
+  {
+    "word": "jester",
+    "etymology": {
+      "breakdown": [
+        "jest",
+        "er"
+      ],
+      "meaning_connection": "词根jest=玩笑，-er表执行者→制造笑料的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "讲笑话的人",
+        "examples": [
+          {
+            "sentence": "The CEO hired a jester to lighten the mood during stressful meetings.",
+            "sentence_zh": "CEO雇了个笑话大师在紧张会议时调节气氛。"
+          },
+          {
+            "sentence": "Ancient Chinese jesters used crosstalk to entertain emperors.",
+            "sentence_zh": "古代中国的笑话艺人用相声取悦皇帝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小丑",
+        "examples": [
+          {
+            "sentence": "The jester at the Renaissance fair juggled dumplings.",
+            "sentence_zh": "文艺复兴集市上的小丑用饺子玩杂耍。"
+          },
+          {
+            "sentence": "Like a court jester, he wears a hat with ringing bells.",
+            "sentence_zh": "他像宫廷小丑般戴着叮当响的铃铛帽。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "play the jester",
+        "meaning": "扮演丑角",
+        "examples": [
+          {
+            "sentence": "He plays the jester but secretly advises the king.",
+            "sentence_zh": "他表面扮演丑角，实则暗中给国王献策。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jester's privilege",
+        "meaning": "小丑特权（可冒犯权贵）",
+        "examples": [
+          {
+            "sentence": "Using jester's privilege, he mocked the emperor's new clothes.",
+            "sentence_zh": "他利用小丑特权嘲讽皇帝的新装。"
+          }
+        ]
+      }
+    ],
+    "teach": "jester是古代版脱口秀演员🎤！欧洲宫廷小丑戴着驴耳朵帽🎪（fool's cap），中国俳优说着'优孟衣冠'戏服👘。现代职场里'扮小丑'叫clown around，但别真成punching bag（出气包）！记住：好的jester要像周星驰，表面无厘头，内藏大智慧🤹♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'解压ster'→小丑是解压大师",
+        "易混词：joker（扑克王牌/爱开玩笑者）",
+        "记忆法：jest(玩笑)+er(人)=戴铃铛帽的人"
+      ]
+    }
+  },
+  {
+    "word": "jesuit",
+    "etymology": {
+      "breakdown": [
+        "Jesu",
+        "it"
+      ],
+      "meaning_connection": "Jesu即Jesus（耶稣），-it表人→字面指'耶稣的人'。16世纪耶稣会成立后，因会士常担任告解神父，被新教徒认为过于诡辩，衍生出'阴谋家'的贬义。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "耶稣会信徒",
+        "examples": [
+          {
+            "sentence": "The Jesuit priest taught calculus in the Forbidden City.",
+            "sentence_zh": "这位耶稣会神父曾在紫禁城内讲授微积分。"
+          },
+          {
+            "sentence": "Jesuit missionaries introduced Western astronomy to Ming Dynasty China.",
+            "sentence_zh": "耶稣会传教士将西方天文学引入明代中国。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "阴险的人",
+        "examples": [
+          {
+            "sentence": "He negotiated like a Jesuit, twisting every word to his advantage.",
+            "sentence_zh": "他谈判时像个阴谋家，把每句话都曲解成对自己有利。"
+          },
+          {
+            "sentence": "The villain in the drama was a perfect Jesuit with his honeyed words.",
+            "sentence_zh": "剧中反派是个满口甜言蜜语的阴险之徒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Jesuit's bark",
+        "meaning": "金鸡纳树皮（耶稣会引入欧洲的疟疾特效药）",
+        "examples": [
+          {
+            "sentence": "Jesuit's bark saved countless lives during the colonial era.",
+            "sentence_zh": "金鸡纳树皮在殖民时代拯救了无数生命。"
+          }
+        ]
+      }
+    ],
+    "teach": "这单词堪称宗教版川剧变脸🎭！本意是传播科学的耶稣会士🔭（如利玛窦），却因'太过聪明'被污名化为阴谋家🤫。就像火锅里的脑花🧠，爱的人觉得是智慧美味，怕的人觉得暗黑料理。搭配说'Jesuitical smile'（假笑）、'Jesuit oath'（严苛誓言），吐槽心机boy可以说'sly as a Jesuit'🍵。",
+    "recite": {
+      "tips": [
+        "谐音梗：'接水一体'→传教士接圣水仪式",
+        "易混词对比：Jew（犹太人）vs Jesuit（耶稣会士）"
+      ]
+    }
   }
 ]

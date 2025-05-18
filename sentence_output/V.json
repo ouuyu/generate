@@ -5497,5 +5497,290 @@
         "易混词：variety(多样性) vs variance(差异性)"
       ]
     }
+  },
+  {
+    "word": "variant",
+    "etymology": {
+      "breakdown": [
+        "vari",
+        "ant"
+      ],
+      "meaning_connection": "词根vari=变化，后缀-ant表'性质'→具有变化性质的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "变体",
+        "examples": [
+          {
+            "sentence": "The Delta variant spread faster than the original virus.",
+            "sentence_zh": "德尔塔变体比原始病毒传播更快。"
+          },
+          {
+            "sentence": "This limited edition sneaker has 5 color variants.",
+            "sentence_zh": "这款限量版球鞋有5种颜色变体。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "异体",
+        "examples": [
+          {
+            "sentence": "Calligraphers often create artistic variants of Chinese characters.",
+            "sentence_zh": "书法家常创作汉字的艺术异体。"
+          },
+          {
+            "sentence": "The rare variant of this ancient coin is worth millions.",
+            "sentence_zh": "这枚古钱的稀有异体价值连城。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不同的",
+        "examples": [
+          {
+            "sentence": "We tested variant approaches to solve the math problem.",
+            "sentence_zh": "我们尝试了不同的方法来解决这道数学题。"
+          },
+          {
+            "sentence": "The chef created variant flavors of the traditional dish.",
+            "sentence_zh": "主厨为传统菜品创造了不同风味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有差别的",
+        "examples": [
+          {
+            "sentence": "These twin phones have variant battery capacities.",
+            "sentence_zh": "这对孪生手机有着有差别的电池容量。"
+          },
+          {
+            "sentence": "The variant quality standards caused confusion.",
+            "sentence_zh": "有差别的质量标准引发了混乱。"
+          }
+        ]
+      }
+    ],
+    "teach": "variant就像火锅店的鸳鸯锅🍲：清汤红汤是汤底的variants，就像病毒变体(Delta variant)🧪。搭配'genetic variant'（基因变异）和'regional variant'（地域变种），吐槽'又出新版本'可以说'another variant?!'🙄。记住：这词自带'变变变'属性，像孙悟空七十二变🐒！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪脸特'→变体(variant)到脸都歪了",
+        "对比：vary（动词）vs variant（名词/形容词）",
+        "记忆口诀：V-A-R-I 四步变，ANT蚂蚁搬新家（比喻变化）"
+      ]
+    }
+  },
+  {
+    "word": "variation",
+    "etymology": {
+      "breakdown": [
+        "vari",
+        "ation"
+      ],
+      "meaning_connection": "词根vari=变化，-ation表名词→变化的结果或过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "变更",
+        "examples": [
+          {
+            "sentence": "The variation in flight schedules caused by fog is annoying.",
+            "sentence_zh": "大雾导致的航班时刻变更令人抓狂。"
+          },
+          {
+            "sentence": "We made slight variations to the original spicy hotpot recipe.",
+            "sentence_zh": "我们对原版麻辣火锅配方做了细微变更。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "变化",
+        "examples": [
+          {
+            "sentence": "The variation of facial expressions in emojis is fascinating.",
+            "sentence_zh": "表情包中面部表情的变化很有趣。"
+          },
+          {
+            "sentence": "Seasonal variation affects the price of durians significantly.",
+            "sentence_zh": "季节变化极大影响榴莲价格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "变种",
+        "examples": [
+          {
+            "sentence": "This panda meme is a variation of the original 'doge'.",
+            "sentence_zh": "这个熊猫表情包是原版'doge'的变种。"
+          },
+          {
+            "sentence": "Scientists discovered a new variation of the coronavirus.",
+            "sentence_zh": "科学家发现新冠病毒的新变种。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "变奏",
+        "examples": [
+          {
+            "sentence": "The jazz band played a cool variation of 'Jasmine Flower'.",
+            "sentence_zh": "爵士乐队演奏了《茉莉花》的炫酷变奏。"
+          },
+          {
+            "sentence": "This guzheng piece includes variations from Cantonese opera.",
+            "sentence_zh": "这首古筝曲包含粤剧风格的变奏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "genetic variation",
+        "meaning": "遗传变异",
+        "examples": [
+          {
+            "sentence": "Genetic variation explains why some people can handle spicy food better.",
+            "sentence_zh": "遗传变异解释了为何有些人更能吃辣。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "theme and variation",
+        "meaning": "主题与变奏",
+        "examples": [
+          {
+            "sentence": "The composer wrote 24 variations on a single folk theme.",
+            "sentence_zh": "作曲家就一个民间主题写了24段变奏。"
+          }
+        ]
+      }
+    ],
+    "teach": "variation就像川剧变脸🎭！当它表示'变化'时，就像奶茶店糖度选择从0%到200%📊；'变种'时像新冠病毒从Alpha到Omicron的进化🦠；'变奏'时像《野蜂飞舞》被改成琵琶版🎵。记住：基因变异叫genetic variation，音乐变奏叫musical variation！搭配'日常波动'说daily variations，'巨大变化'叫wide variations。地道表达'换汤不换药'可译为same stuff with different variations🍲",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪瑞醒'→歪着醒来姿势variation",
+        "易混词：variation(变化结果) vs. variability(变化能力)",
+        "记忆法：把variation拆解成vari(very)+ation→非常多的变化"
+      ]
+    }
+  },
+  {
+    "word": "varicose",
+    "etymology": {
+      "breakdown": [
+        "vari",
+        "cose"
+      ],
+      "meaning_connection": "词根vari=扩张，cose=状态→处于扩张状态的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "肿胀的",
+        "examples": [
+          {
+            "sentence": "The varicose veins look like tangled noodles under his skin.",
+            "sentence_zh": "肿胀的静脉在他皮下像打结的面条。"
+          },
+          {
+            "sentence": "After the long flight, her ankles became varicose as overfilled water balloons.",
+            "sentence_zh": "长途飞行后，她的脚踝肿胀得像灌满水的气球。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "静脉曲张的",
+        "examples": [
+          {
+            "sentence": "The doctor warned that standing for 12 hours daily may lead to varicose veins.",
+            "sentence_zh": "医生警告每天站立12小时可能导致静脉曲张。"
+          },
+          {
+            "sentence": "His varicose legs required special compression socks with panda patterns.",
+            "sentence_zh": "他静脉曲张的双腿需要穿熊猫图案的加压袜。"
+          }
+        ]
+      }
+    ],
+    "teach": "varicose是血管界的'堵车高架桥'🚗💨！古罗马医生发现这种血管像蚯蚓(vari)般扭曲，现代打工人久坐就会'养出'这种'地图纹路'🗺️。要说'腿肿了'可以幽默地说my legs are hosting a water park🎢，预防可以do ankle rotations like drawing circles with your toes🖍️。记住：多走动才能避免变成'3D血管地形图'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪日扣死'→血管歪曲扣死(close)了",
+        "易混词：varicose(静脉曲张) vs. viscous(粘稠的)",
+        "记忆术：想象静脉变成意大利面(vari)被煮过度(cose)"
+      ]
+    }
+  },
+  {
+    "word": "varied",
+    "etymology": {
+      "breakdown": [
+        "vari",
+        "ed"
+      ],
+      "meaning_connection": "词根vari=变化，-ed表形容词→'经过变化的'引申出多样含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不同的",
+        "examples": [
+          {
+            "sentence": "Chinese cuisine offers varied flavors from Sichuan's spiciness to Guangdong's mildness.",
+            "sentence_zh": "中国菜提供从川菜辛辣到粤菜清淡的不同风味。"
+          },
+          {
+            "sentence": "The museum displays varied interpretations of the same historical event.",
+            "sentence_zh": "博物馆展出了对同一历史事件的不同解读。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "杂色的",
+        "examples": [
+          {
+            "sentence": "The varied plumage of peacocks attracts tourists in Yunnan.",
+            "sentence_zh": "孔雀杂色的羽毛吸引着云南的游客。"
+          },
+          {
+            "sentence": "She collected varied autumn leaves for her art project.",
+            "sentence_zh": "她为艺术项目收集了色彩斑斓的秋叶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "各式各样的",
+        "examples": [
+          {
+            "sentence": "The night market offers varied snacks from stinky tofu to bubble tea.",
+            "sentence_zh": "夜市提供从臭豆腐到奶茶的各式各样小吃。"
+          },
+          {
+            "sentence": "His WeChat moments show varied hobbies from mahjong to skateboarding.",
+            "sentence_zh": "他的朋友圈展示了从麻将到滑板的各种爱好。"
+          }
+        ]
+      }
+    ],
+    "teach": "varied就像彩虹糖🌈：不同颜色=不同风味（varied colors），混搭包装=各式各样（varied types）。要说'花样多'可以说as varied as a hotpot menu（像火锅菜单一样丰富）🍲，反义词是monotonous（单调的）就像天天吃白馒头😴。记住：你的生活越varied，朋友圈点赞越多👍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪了的'→歪了的(varied)彩虹糖罐撒出各种颜色",
+        "易混词对比：variable（可变的） vs varied（多样的）"
+      ]
+    }
   }
 ]

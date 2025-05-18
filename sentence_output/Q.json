@@ -5438,5 +5438,163 @@
         "易混词：questioner(提问者) vs questionnaire(问卷)"
       ]
     }
+  },
+  {
+    "word": "questioningly",
+    "etymology": {
+      "breakdown": [
+        "question",
+        "ing",
+        "ly"
+      ],
+      "meaning_connection": "question（质问）+ -ing（构成现在分词）+ -ly（副词后缀）→ 以质问的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "质问地",
+        "examples": [
+          {
+            "sentence": "She raised her eyebrows questioningly when he claimed he'd finished all his homework in 5 minutes.",
+            "sentence_zh": "当他说自己5分钟就完成了所有作业时，她怀疑地挑起了眉毛。"
+          },
+          {
+            "sentence": "The teacher looked at the student questioningly after hearing his improbable excuse.",
+            "sentence_zh": "听完学生难以置信的借口后，老师用质问的眼神看着他。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "疑惑地",
+        "examples": [
+          {
+            "sentence": "The puppy tilted its head questioningly when it heard the strange noise.",
+            "sentence_zh": "小狗听到奇怪的声音时，疑惑地歪着头。"
+          },
+          {
+            "sentence": "He glanced at the map questioningly, wondering if he had taken the wrong turn.",
+            "sentence_zh": "他疑惑地看着地图，怀疑自己是否走错了路。"
+          }
+        ]
+      }
+    ],
+    "teach": "questioningly就像表情包里的'黑人问号'🤔！想象你老妈发现你偷吃零食时挑起的眉毛👩⚖️，或者你家猫主子看你倒猫粮时的歪头杀🐱。要说'满脸问号'可以用'look puzzled'，'质疑的眼神'叫'skeptical look'。记住：这个副词专治各种不服和迷惑行为🎭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快审挺累'→质问别人确实挺累",
+        "易混词对比：questionably（可疑地）vs questioningly（质问地）"
+      ]
+    }
+  },
+  {
+    "word": "queue",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'queue'（尾巴）→像尾巴一样排成长列，后引申为计算机数据结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "辫子",
+        "examples": [
+          {
+            "sentence": "Her waist-length queue swayed like a black silk ribbon.",
+            "sentence_zh": "她及腰的辫子像黑绸带般摆动。"
+          },
+          {
+            "sentence": "The Manchurian queue was a distinctive hairstyle in Qing Dynasty.",
+            "sentence_zh": "满洲辫子是清朝的标志性发型。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一队人",
+        "examples": [
+          {
+            "sentence": "A queue of fans stretched around the block for the new iPhone.",
+            "sentence_zh": "等待新iPhone的队伍绕过了整个街区。"
+          },
+          {
+            "sentence": "The queue at the hotpot restaurant moved slower than a sleepy snail.",
+            "sentence_zh": "火锅店前的队伍移动得比困倦的蜗牛还慢。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使排队",
+        "examples": [
+          {
+            "sentence": "The teacher queued the children by height for the photo.",
+            "sentence_zh": "老师让孩子们按身高排队拍照。"
+          },
+          {
+            "sentence": "WeChat queued users during system maintenance.",
+            "sentence_zh": "微信在系统维护时让用户排队等待。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "将...梳成辫子",
+        "examples": [
+          {
+            "sentence": "She queued her daughter's hair with rainbow-colored ribbons.",
+            "sentence_zh": "她用彩虹色丝带给女儿编了辫子。"
+          },
+          {
+            "sentence": "The barber queued the actor's hair for the historical drama.",
+            "sentence_zh": "理发师为演员梳了古装剧需要的辫子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "排队",
+        "examples": [
+          {
+            "sentence": "People queued for hours to buy limited-edition sneakers.",
+            "sentence_zh": "人们排队数小时购买限量版球鞋。"
+          },
+          {
+            "sentence": "We queued patiently like ducks in a row at the wet market.",
+            "sentence_zh": "我们在菜市场像小鸭子般排成一列耐心等待。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jump the queue",
+        "meaning": "插队",
+        "examples": [
+          {
+            "sentence": "That guy jumped the queue and got roasted by netizens.",
+            "sentence_zh": "那个插队的人被网友骂惨了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "queue up",
+        "meaning": "排队等候",
+        "examples": [
+          {
+            "sentence": "Fans queued up overnight for Jay Chou's concert tickets.",
+            "sentence_zh": "歌迷通宵排队等候购买周杰伦演唱会门票。"
+          }
+        ]
+      }
+    ],
+    "teach": "queue是'可优衣库'现象👕：英国人连排队都能发明单词（还坚持发法语音'kyoo'）！要说'插队'叫jump the queue像袋鼠🦘乱蹦，'虚拟排队'是digital queue就像等奶茶叫号📱。记住：queue这词本身就排着四个u字母，简直是字母界的排队示范！",
+    "recite": {
+      "tips": [
+        "谐音梗：'Q邮'→QQ邮箱收件人队列",
+        "易混词：cue（提示）vs queue（队列）→ 多出来的ue就像排队的人"
+      ]
+    }
   }
 ]

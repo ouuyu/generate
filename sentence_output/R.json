@@ -5504,5 +5504,238 @@
         "易混词：vs. sailing（航行）→栏杆(rail) vs. 帆船(sail)"
       ]
     }
+  },
+  {
+    "word": "railroad",
+    "etymology": {
+      "breakdown": [
+        "rail",
+        "road"
+      ],
+      "meaning_connection": "rail（钢轨） + road（道路）→ 最初指由铁轨铺设的货运道路"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "铁路",
+        "examples": [
+          {
+            "sentence": "The longest railroad bridge in China stretches across the Yangtze River like a steel dragon.",
+            "sentence_zh": "中国最长的铁路桥如钢铁巨龙般横跨长江。"
+          },
+          {
+            "sentence": "Eating hotpot while watching scenery pass by is the best part of Chengdu-Chongqing railroad trips.",
+            "sentence_zh": "边吃火锅边看风景是成渝铁路旅行的精髓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "铁路公司",
+        "examples": [
+          {
+            "sentence": "This railroad operates bullet trains shaped like giant dumpling steamers.",
+            "sentence_zh": "这家铁路公司运营形似巨型蒸笼的动车组。"
+          },
+          {
+            "sentence": "The railroad announced free baozi for passengers delayed over 4 hours.",
+            "sentence_zh": "该铁路公司宣布为延误超4小时乘客提供免费包子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "铺设铁路",
+        "examples": [
+          {
+            "sentence": "Builders railroaded through the Himalayas with explosives and instant noodles.",
+            "sentence_zh": "建设者们用炸药和泡面在喜马拉雅山脉中铺设铁路。"
+          },
+          {
+            "sentence": "They're railroading a new line that will pass under the Great Wall.",
+            "sentence_zh": "他们正在铺设一条将穿越长城地下的新线路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用铁路运输",
+        "examples": [
+          {
+            "sentence": "Each week they railroad enough chili peppers to make 10 million hotpot meals.",
+            "sentence_zh": "每周他们用铁路运输的辣椒可制作1000万份火锅。"
+          },
+          {
+            "sentence": "Pandas are carefully railroaded to their new zoos in climate-controlled cars.",
+            "sentence_zh": "大熊猫被用恒温车厢经铁路送往新动物园。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "在铁路工作",
+        "examples": [
+          {
+            "sentence": "Three generations of his family have railroaded on the Beijing-Shanghai line.",
+            "sentence_zh": "他家三代人都在京沪铁路上工作。"
+          },
+          {
+            "sentence": "She railroads by day and livestreams her train journeys by night.",
+            "sentence_zh": "她白天在铁路工作，晚上直播火车旅途见闻。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "railroad crossing",
+        "meaning": "铁路道口",
+        "examples": [
+          {
+            "sentence": "The smart railroad crossing plays Peking opera melodies when trains approach.",
+            "sentence_zh": "这个智能道口会在火车接近时播放京剧旋律。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "railroad into",
+        "meaning": "强迫接受",
+        "examples": [
+          {
+            "sentence": "They tried to railroad me into eating stinky tofu, but I escaped to a milk tea shop.",
+            "sentence_zh": "他们想强迫我吃臭豆腐，我逃进了奶茶店。"
+          }
+        ]
+      }
+    ],
+    "teach": "railroad是工业革命的钢铁蚯蚓🐛！19世纪美国华工用血汗铺就的'横贯大陆铁路'每根枕木下都葬着一名工人💀。说'赶进度'叫full steam ahead（蒸汽机车全速前进），'铁饭碗'叫iron rice bowl（像铁轨般稳固）🚂。记住：现代高铁再快，也跑不出rail+road这两个词根！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累咯 road'→修铁路累咯",
+        "易混词：railway（英式）vs railroad（美式）",
+        "记忆法：想象铁轨(rail)就是特殊的道路(road)"
+      ]
+    }
+  },
+  {
+    "word": "railway",
+    "etymology": {
+      "breakdown": [
+        "rail",
+        "way"
+      ],
+      "meaning_connection": "rail源自古法语'reille'（横杆），way表示'道路'→由横杆组成的道路"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "铁路",
+        "examples": [
+          {
+            "sentence": "The Qinghai-Tibet Railway is known as the 'Sky Road' for its high altitude.",
+            "sentence_zh": "青藏铁路因海拔极高被称为'天路'。"
+          },
+          {
+            "sentence": "Children love watching bullet trains zoom by on the elevated railway.",
+            "sentence_zh": "孩子们喜欢看高铁在高架铁路上飞驰而过。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "轨道",
+        "examples": [
+          {
+            "sentence": "The abandoned mining railway is now a popular hiking trail.",
+            "sentence_zh": "废弃的矿用轨道如今成了热门徒步路线。"
+          },
+          {
+            "sentence": "Model train enthusiasts spend hours perfecting miniature railways.",
+            "sentence_zh": "火车模型爱好者会花数小时完善微型轨道系统。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "railway station",
+        "meaning": "火车站",
+        "examples": [
+          {
+            "sentence": "The railway station in Wuhan serves as a major hub during Spring Festival travel.",
+            "sentence_zh": "武汉火车站在春运期间是重要交通枢纽。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "underground railway",
+        "meaning": "地下铁路",
+        "examples": [
+          {
+            "sentence": "London's underground railway is nicknamed 'the Tube' for its circular tunnels.",
+            "sentence_zh": "伦敦地铁因其圆形隧道被昵称为'管子'。"
+          }
+        ]
+      }
+    ],
+    "teach": "railway是维多利亚时代的'钢铁巨龙'🐉！最早的铁路是为了运煤⚡️（见利物浦-曼彻斯特铁路），而中国高铁CRH其实是'吃软饭'的谐音梗（China Railway High-speed）。说'铁路迷'要用railfan，'轻轨'叫light railway就像瘦身版钢铁巨龙🚄。记住：railway不止有铁(rail)，更是条路(way)！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累了喂'→修铁路(railway)的工人累了需要投喂",
+        "易混词对比：railroad（美式）vs railway（英式）",
+        "记忆tip：想象'铁轨(rail)'为你铺'路(way)'"
+      ]
+    }
+  },
+  {
+    "word": "raiment",
+    "etymology": {
+      "breakdown": [
+        "rai",
+        "ment"
+      ],
+      "meaning_connection": "源自古法语'raier'（排列）+后缀'-ment'（状态）→原指精心排列的服饰"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "衣服（文学用语）",
+        "examples": [
+          {
+            "sentence": "The emperor's golden raiment shimmered under the palace lights.",
+            "sentence_zh": "皇帝的华服在宫灯下金光流转。"
+          },
+          {
+            "sentence": "She discarded her modern raiment for traditional hanfu at the festival.",
+            "sentence_zh": "她在节日里脱下现代服装换上了汉服。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fine raiment",
+        "meaning": "华服",
+        "examples": [
+          {
+            "sentence": "Tang Dynasty poets often described court ladies' fine raiment.",
+            "sentence_zh": "唐诗常描写宫廷女子的华美衣饰。"
+          }
+        ]
+      }
+    ],
+    "teach": "raiment是'服装界文言文'👑！莎士比亚用它描写王室华服（像描述故宫刺绣龙袍🐉），现在多用于奇幻文学——比如《指环王》精灵的发光长袍✨。搭配'ancient raiment'说古装，'shabby raiment'表破衣。地道说法：'dressed to the nines'（穿得超讲究）比raiment更常用！记住：用这个词自带BGM《故宫的记忆》🎵",
+    "recite": {
+      "tips": [
+        "谐音梗：'蕊门特'→花蕊(rai)做的门帘(ment)变衣服",
+        "对比记忆：raiment（典雅）vs. clothes（日常）vs. garb（特定职业装）",
+        "视觉联想：字母R像衣架挂着-ment长袍"
+      ]
+    }
   }
 ]

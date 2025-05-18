@@ -5645,5 +5645,291 @@
         "记忆法：nature+al+ness=自然到让你'耐锤'（耐得住考验）"
       ]
     }
+  },
+  {
+    "word": "nature",
+    "etymology": {
+      "breakdown": [
+        "nat",
+        "ure"
+      ],
+      "meaning_connection": "词根nat=出生（如native），-ure表状态→与生俱来的特质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大自然（指物质世界）",
+        "examples": [
+          {
+            "sentence": "Zhangjiajie National Park showcases nature's most dramatic sculptures.",
+            "sentence_zh": "张家界国家公园展现了大自然最壮观的雕塑作品。"
+          },
+          {
+            "sentence": "City dwellers crave nature like pandas crave bamboo.",
+            "sentence_zh": "都市人渴望大自然就像熊猫渴望竹子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "本性（生物特性）",
+        "examples": [
+          {
+            "sentence": "The nature of cats is to knock things off tables.",
+            "sentence_zh": "把东西推下桌子是猫的天性。"
+          },
+          {
+            "sentence": "Human nature loves fried chicken more than salad.",
+            "sentence_zh": "人类本性更爱炸鸡而非沙拉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "性格（个人特质）",
+        "examples": [
+          {
+            "sentence": "Her sunny nature makes her the office mood booster.",
+            "sentence_zh": "她开朗的性格让她成为办公室的气氛担当。"
+          },
+          {
+            "sentence": "The grumpy nature of that old tea shop owner hides warm kindness.",
+            "sentence_zh": "那家老茶馆老板的暴躁性格下藏着温暖的善意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "性质（事物特征）",
+        "examples": [
+          {
+            "sentence": "The nature of WeChat is to connect everything.",
+            "sentence_zh": "微信的性质是连接一切。"
+          },
+          {
+            "sentence": "Hotpot has a social nature that brings people together.",
+            "sentence_zh": "火锅具有让人团聚的社交性质。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "by nature",
+        "meaning": "天生地",
+        "examples": [
+          {
+            "sentence": "Pandas are clumsy by nature but adorable by design.",
+            "sentence_zh": "熊猫天生笨拙但设计上可爱。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "second nature",
+        "meaning": "第二天性",
+        "examples": [
+          {
+            "sentence": "Scrolling Douyin has become second nature to subway commuters.",
+            "sentence_zh": "刷抖音已成为地铁通勤者的第二天性。"
+          }
+        ]
+      }
+    ],
+    "teach": "nature是个'千人千面'单词🎭：作'大自然'时像黄山云海☁️（nature view）；作'本性'时像熊猫的吃货基因🎋（animal nature）；作'性格'时像重庆火锅的麻辣程度🌶️（cheerful nature）；作'性质'时像扫码支付的便捷属性📲（digital nature）。地道说法：'本性难移'叫leopard can't change its spots🐆，'户外活动'说commune with nature就像去农家乐摘草莓🍓！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪吒扯'→哪吒扯(nature)混天绫是大自然的力量",
+        "易混词：nature（本质）vs nurture（培养）→先天使然vs后天养成"
+      ]
+    }
+  },
+  {
+    "word": "naught",
+    "etymology": {
+      "breakdown": [
+        "n",
+        "aught"
+      ],
+      "meaning_connection": "源自古英语nāwiht（nā=无，wiht=事物）→字面意思是'无物'，引申出数值'零'和'无价值'的双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "零",
+        "examples": [
+          {
+            "sentence": "The thermometer showed naught degrees at midnight in Harbin.",
+            "sentence_zh": "哈尔滨午夜的温度计显示零度。"
+          },
+          {
+            "sentence": "His bank account balance was reduced to naught after buying a PS5.",
+            "sentence_zh": "买了PS5后他的银行余额归零。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无",
+        "examples": [
+          {
+            "sentence": "All his efforts came to naught when the project was cancelled.",
+            "sentence_zh": "项目取消后，他所有的努力化为乌有。"
+          },
+          {
+            "sentence": "The ancient treasure map led to naught but an empty cave.",
+            "sentence_zh": "这张古老藏宝图只指向一个空荡荡的山洞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无价值的",
+        "examples": [
+          {
+            "sentence": "That naught crypto coin became famous meme material.",
+            "sentence_zh": "那个毫无价值的加密货币成了著名梗图素材。"
+          },
+          {
+            "sentence": "Her ex's promises proved naught in the end.",
+            "sentence_zh": "她前任的承诺最终证明毫无价值。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无用的",
+        "examples": [
+          {
+            "sentence": "This naught smartphone charger can't even power a toothbrush.",
+            "sentence_zh": "这个没用的手机充电器连电动牙刷都充不了。"
+          },
+          {
+            "sentence": "The manual is naught for beginners.",
+            "sentence_zh": "这本手册对初学者毫无用处。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "come to naught",
+        "meaning": "化为乌有",
+        "examples": [
+          {
+            "sentence": "His dream of being an influencer came to naught after the ban.",
+            "sentence_zh": "封号后他的网红梦化为泡影。"
+          }
+        ]
+      },
+      {
+        "type": "idiom",
+        "form": "set at naught",
+        "meaning": "藐视",
+        "examples": [
+          {
+            "sentence": "She set all warnings at naught and ate the whole durian.",
+            "sentence_zh": "她无视所有警告吃光了整个榴莲。"
+          }
+        ]
+      }
+    ],
+    "teach": "naught是'零蛋'🥚也是'空气'💨！中世纪数学家称零为'魔鬼数字'👹（因为0乘以任何数都会让结果归零）。说'毫无价值'可以叫dud（哑弹），'白忙一场'说all for nothing就像刮彩票全部谢谢惠顾🎫。记住：当你的努力go to naught时，至少收获了表情包素材🤡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹特'→闹特（naught）有用的东西",
+        "易混词：nought（同义）/naughty（淘气的）",
+        "记忆法：大写N像零的形状，aught发音类似'out'→归零出局"
+      ]
+    }
+  },
+  {
+    "word": "naughtiness",
+    "etymology": {
+      "breakdown": [
+        "naught",
+        "i",
+        "ness"
+      ],
+      "meaning_connection": "naught（古英语'无价值'）+ -i（连接字母）+ -ness（名词后缀）→ 原指'无价值的行为'，后特指儿童顽皮"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "顽皮",
+        "examples": [
+          {
+            "sentence": "The panda cub's naughtiness made it steal the keeper's bamboo hat.",
+            "sentence_zh": "熊猫幼崽的顽皮让它偷走了饲养员的竹帽。"
+          },
+          {
+            "sentence": "Her eyes sparkled with mischievous naughtiness when planning pranks.",
+            "sentence_zh": "她策划恶作剧时眼里闪着调皮的顽劣光芒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "淘气",
+        "examples": [
+          {
+            "sentence": "The kindergarten teacher sighed at the twins' creative naughtiness.",
+            "sentence_zh": "幼儿园老师对双胞胎富有创意的淘气行为叹了口气。"
+          },
+          {
+            "sentence": "His naughtiness peaked when he replaced sugar with salt in the cookie jar.",
+            "sentence_zh": "他把饼干罐里的糖换成盐时，淘气值达到了巅峰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无礼",
+        "examples": [
+          {
+            "sentence": "The ambassador couldn't tolerate the waiter's deliberate naughtiness.",
+            "sentence_zh": "大使无法忍受服务员蓄意的无礼行为。"
+          },
+          {
+            "sentence": "Her so-called humor was just veiled naughtiness toward elders.",
+            "sentence_zh": "她所谓的幽默不过是对长辈的变相无礼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "full of naughtiness",
+        "meaning": "淘气十足",
+        "examples": [
+          {
+            "sentence": "The viral video shows a corgi full of naughtiness stealing socks.",
+            "sentence_zh": "那个爆红视频里，一只淘气十足的柯基在偷袜子。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sheer naughtiness",
+        "meaning": "纯粹顽劣",
+        "examples": [
+          {
+            "sentence": "Drawing on walls was an act of sheer naughtiness, not artistic expression.",
+            "sentence_zh": "在墙上涂鸦纯粹是顽劣行为，并非艺术表达。"
+          }
+        ]
+      }
+    ],
+    "teach": "naughtiness其实是'闹腾值'🎭！中世纪时'naught'指'零价值'，熊孩子搞破坏就像把价值归零💥。说'皮得很'用地道表达full of beans（字面：豆子吃多了），'熊孩子'叫little rascal就像疯狂动物城的Nick🦊。记住：适度naughtiness是创意，过度就是灾难现场！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹挺事'→顽皮就是不停闹事",
+        "易混词对比：naive（天真）和naughty（顽皮）就像小白兔🐰vs小恶魔👿",
+        "记忆口诀：Naughty+ness=闹腾属性全开"
+      ]
+    }
   }
 ]
