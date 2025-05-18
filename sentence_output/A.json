@@ -10356,5 +10356,274 @@
         "联想：celer→Celebrity（明星）需要加速成名"
       ]
     }
+  },
+  {
+    "word": "accelerated",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "celer",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根celer表示'快速'，-ate是动词后缀，-ed构成过去分词→字面意思是'被加快的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "加快的",
+        "examples": [
+          {
+            "sentence": "The accelerated heartbeat when seeing your crush is called 'butterflies in stomach'.",
+            "sentence_zh": "见到暗恋对象时加快的心跳叫作'小鹿乱撞'。"
+          },
+          {
+            "sentence": "We offer accelerated Mandarin courses for CEOs with 72-hour survival packages.",
+            "sentence_zh": "我们为CEO们提供带72小时生存包的强化汉语课程。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accelerated learning",
+        "meaning": "加速学习",
+        "examples": [
+          {
+            "sentence": "TikTok-style accelerated learning makes memorizing idioms as addictive as scrolling shorts.",
+            "sentence_zh": "抖音式的加速学习让背成语变得和刷短视频一样上瘾。"
+          }
+        ]
+      }
+    ],
+    "teach": "accelerated其实是'踩油门状态'🚗💨！古罗马战车比赛时观众会喊'Ad celerem!'（再快点！）。现代人用'fast-track career'表示加速升职，'开倍速追剧'叫accelerated playback⏩。记住：当生活给你accelerated课程时，就像在火锅里涮毛肚——快准狠！🥢🔥🐄",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿克塞勒累的'→阿克塞勒（赛车手）累是因为加速太猛",
+        "易混词对比：rapid侧重过程快，accelerated强调人为加速"
+      ]
+    }
+  },
+  {
+    "word": "accelerating",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "celer",
+        "ate",
+        "ing"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根celer表示'速度'，-ate动词后缀，-ing现在分词→字面意为'正在使速度朝向某方向'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "加速的",
+        "examples": [
+          {
+            "sentence": "The accelerating train made my bubble tea spill.",
+            "sentence_zh": "加速的列车让我的奶茶洒了出来。"
+          },
+          {
+            "sentence": "We're seeing accelerating growth in electric bike sales.",
+            "sentence_zh": "我们看到电动车销量正在加速增长。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accelerating inflation",
+        "meaning": "加速的通货膨胀",
+        "examples": [
+          {
+            "sentence": "Accelerating inflation is making hotpot more expensive.",
+            "sentence_zh": "加速的通货膨胀让火锅越来越贵。"
+          }
+        ]
+      }
+    ],
+    "teach": "accelerating就像踩油门追高铁🚄！词根celer是拉丁语'快'，罗马战车比赛叫Celeres（闪电队）⚡。说'飞速发展'可用growth is accelerating like a rocket🚀，吐槽'物价飞涨'说prices are accelerating faster than my heartbeat when I see the bill💸。记住：-ating结尾的词都带着'正在...'的冲劲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'艾克赛了rating'→艾克赛(ac-cel)正在刷评分加速",
+        "对比记忆：accelerate（动词）是踩油门，decelerate就是踩刹车"
+      ]
+    }
+  },
+  {
+    "word": "acceleration",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "celer",
+        "ation"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根celer表示'快速'，后缀-ation表示'行为或状态'→指向快速的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "加速",
+        "examples": [
+          {
+            "sentence": "The acceleration of high-speed trains in China makes short trips more convenient.",
+            "sentence_zh": "中国高铁的加速使短途出行更加便捷。"
+          },
+          {
+            "sentence": "The sudden acceleration of the roller coaster made everyone scream.",
+            "sentence_zh": "过山车的突然加速让所有人都尖叫起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "促进",
+        "examples": [
+          {
+            "sentence": "The acceleration of digital transformation has changed the way we work.",
+            "sentence_zh": "数字化转型的促进改变了我们的工作方式。"
+          },
+          {
+            "sentence": "Government policies have led to the acceleration of renewable energy adoption.",
+            "sentence_zh": "政府政策促进了可再生能源的采用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "加速度",
+        "examples": [
+          {
+            "sentence": "Physics students often calculate the acceleration of falling objects.",
+            "sentence_zh": "物理学生经常计算下落物体的加速度。"
+          },
+          {
+            "sentence": "The car's acceleration from 0 to 100 km/h is impressive.",
+            "sentence_zh": "这辆车从0加速到100公里/小时的加速度令人印象深刻。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acceleration of gravity",
+        "meaning": "重力加速度",
+        "examples": [
+          {
+            "sentence": "The acceleration of gravity on Earth is approximately 9.8 m/s².",
+            "sentence_zh": "地球上的重力加速度约为9.8米/秒²。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "acceleration lane",
+        "meaning": "加速车道",
+        "examples": [
+          {
+            "sentence": "Merge onto the highway using the acceleration lane.",
+            "sentence_zh": "使用加速车道并入高速公路。"
+          }
+        ]
+      }
+    ],
+    "teach": "acceleration是物理界的'速度与激情'🚀！爱因斯坦说'物质告诉时空如何弯曲'，而acceleration告诉物体如何飙车🏎️。说'进展飞快'用地道表达full throttle（油门踩到底），搭配'acceleration of progress'（进展加速）和'acceleration phase'（加速阶段）。记住：你的学习曲线也需要positive acceleration哦！📈",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞了来神'→爱塞车的人最懂加速度",
+        "易混词对比：speed（速度）vs. acceleration（加速度）",
+        "记忆口诀：ac（朝向）+ celer（快）= 越来越快"
+      ]
+    }
+  },
+  {
+    "word": "accelerator",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "celer",
+        "ator"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根celer表示'快速'，后缀-ator表示'执行者'→制造速度的装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "加速剂",
+        "examples": [
+          {
+            "sentence": "The lab added a chemical accelerator to make the rubber solidify faster.",
+            "sentence_zh": "实验室添加化学加速剂让橡胶更快固化。"
+          },
+          {
+            "sentence": "Yogurt acts as a natural accelerator in bread fermentation.",
+            "sentence_zh": "酸奶在面包发酵中充当天然加速剂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "加速器",
+        "examples": [
+          {
+            "sentence": "CERN's particle accelerator can reach 99.99% the speed of light.",
+            "sentence_zh": "欧洲核子研究中心的粒子加速器可达光速的99.99%。"
+          },
+          {
+            "sentence": "My old laptop needs a GPU accelerator to run AI software.",
+            "sentence_zh": "我的旧笔记本需要GPU加速器才能运行AI软件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "油门",
+        "examples": [
+          {
+            "sentence": "The Tesla's accelerator responds faster than traditional cars.",
+            "sentence_zh": "特斯拉的油门响应比传统汽车更快。"
+          },
+          {
+            "sentence": "He mistook the accelerator for the brake and crashed into a milk tea shop.",
+            "sentence_zh": "他错把油门当刹车撞进了奶茶店。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "step on the accelerator",
+        "meaning": "踩油门",
+        "examples": [
+          {
+            "sentence": "When the traffic light turned green, he stepped on the accelerator like a Formula 1 driver.",
+            "sentence_zh": "绿灯亮起时，他像F1车手般猛踩油门。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "innovation accelerator",
+        "meaning": "创新加速器",
+        "examples": [
+          {
+            "sentence": "Alibaba's startup accelerator has nurtured many unicorn companies.",
+            "sentence_zh": "阿里的创业加速器培育出多家独角兽企业。"
+          }
+        ]
+      }
+    ],
+    "teach": "accelerator是速度三件套🚗⚡🧪：1) 化学版就像火锅底料加速煮熟食材🍲 2) 物理版像给自行车装火箭推进器🚀 3) 汽车版则是'油门一响，黄金万两'💰 搭配：'踩油门'说floor the accelerator，'经济加速'叫economic accelerator。记住：人生没有后退键，但有accelerator！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿克赛乐腿'→阿克塞尔(accelerator)用腿踩油门",
+        "易混词：accelerator(加速装置) vs. decelerator(减速装置)"
+      ]
+    }
   }
 ]

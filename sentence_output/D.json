@@ -9932,5 +9932,366 @@
         "易混词：steal偷窃 vs deal交易"
       ]
     }
+  },
+  {
+    "word": "dealer",
+    "etymology": {
+      "breakdown": [
+        "deal",
+        "er"
+      ],
+      "meaning_connection": "deal=交易，-er表示执行者→进行交易的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "经销商",
+        "examples": [
+          {
+            "sentence": "The car dealer offered free hotpot dinners with every Tesla purchase.",
+            "sentence_zh": "这位汽车经销商为每位特斯拉买家提供免费火锅晚餐。"
+          },
+          {
+            "sentence": "As a furniture dealer, he knows every mahogany supplier in Southeast Asia.",
+            "sentence_zh": "作为家具经销商，他认识东南亚所有的红木供应商。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "商人",
+        "examples": [
+          {
+            "sentence": "The antique dealer recognized the Ming vase immediately.",
+            "sentence_zh": "这位古董商人一眼就认出了那个明代花瓶。"
+          },
+          {
+            "sentence": "Tea dealers from Fujian dominate the global oolong market.",
+            "sentence_zh": "福建的茶叶商人主导了全球乌龙茶市场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "交易员",
+        "examples": [
+          {
+            "sentence": "The Wall Street dealer lost 3 pounds during the stock market crash.",
+            "sentence_zh": "这位华尔街交易员在股市崩盘期间瘦了3磅。"
+          },
+          {
+            "sentence": "Crypto dealers work 24/7 like convenience stores.",
+            "sentence_zh": "加密货币交易员像便利店一样全天候工作。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "drug dealer",
+        "meaning": "毒贩",
+        "examples": [
+          {
+            "sentence": "Undercover cops arrested the drug dealer dressed as a delivery man.",
+            "sentence_zh": "便衣警察逮捕了伪装成外卖员的毒贩。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "market maker dealer",
+        "meaning": "做市商",
+        "examples": [
+          {
+            "sentence": "Market maker dealers provide liquidity like ATMs dispensing cash.",
+            "sentence_zh": "做市商就像ATM机提供现金一样提供流动性。"
+          }
+        ]
+      }
+    ],
+    "teach": "dealer就是商业江湖的中间商🕶️！从4S店卖车到华尔街炒股，本质都是低买高卖💰。有趣的是'庄家'在扑克牌里叫dealer，因为负责发牌就像分发商品🃏。说'小商贩'可以用small-time dealer，'黑市交易'叫back-alley dealing。记住：没有中间商赚差价的世界就像火锅不放辣——不现实！🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'地雷'→地雷(dealer)般危险的投机商",
+        "易混词对比：trader(更侧重频繁交易者) vs dealer(有存货的经销商)"
+      ]
+    }
+  },
+  {
+    "word": "dealership",
+    "etymology": {
+      "breakdown": [
+        "dealer",
+        "ship"
+      ],
+      "meaning_connection": "dealer（经销商）源自deal（交易）+-er表人，后缀-ship表身份/权限"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "代理权",
+        "examples": [
+          {
+            "sentence": "The beverage company granted him exclusive dealership in Southeast Asia.",
+            "sentence_zh": "饮料公司授予他东南亚独家代理权。"
+          },
+          {
+            "sentence": "Losing the iPhone dealership nearly bankrupted his store.",
+            "sentence_zh": "失去iPhone代理权几乎让他的店铺破产。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "经销权",
+        "examples": [
+          {
+            "sentence": "Tesla's direct sales model eliminates traditional dealerships.",
+            "sentence_zh": "特斯拉直销模式省去了传统经销权环节。"
+          },
+          {
+            "sentence": "The luxury car dealership comes with a golden membership card.",
+            "sentence_zh": "豪车经销权附带黄金会员卡。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "car dealership",
+        "meaning": "汽车经销店",
+        "examples": [
+          {
+            "sentence": "He test drove 10 SUVs at the dealership before choosing one.",
+            "sentence_zh": "他在汽车经销店试驾了10辆SUV才做出选择。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "franchise dealership",
+        "meaning": "特许经销权",
+        "examples": [
+          {
+            "sentence": "KFC franchise dealerships require strict quality control.",
+            "sentence_zh": "肯德基特许经销权要求严格的质量控制。"
+          }
+        ]
+      }
+    ],
+    "teach": "dealership其实是'交易船'🚢！中世纪商人获得王室特许状就像拿到今天的区域代理权👑，'汽车经销店'叫car dealership就像4S店停车场🚗💨。要说'独家代理'用exclusive dealership就像火锅秘方授权🍲，'区域总代'叫regional dealership好比美团划分地盘🗺️。记住：-ship结尾的多半是身份/权力！",
+    "recite": {
+      "tips": [
+        "谐音梗：'地里船'→地里挖出(deal)的船(ship)是特许经销权",
+        "易混词对比：dealership（经销权）vs. franchise（特许经营权）"
+      ]
+    }
+  },
+  {
+    "word": "dean",
+    "etymology": {
+      "breakdown": [
+        "dean"
+      ],
+      "meaning_connection": "源自古法语'deien'，最终来自拉丁语'decanus'（十人长），原指管理十名僧侣的官员"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "院长",
+        "examples": [
+          {
+            "sentence": "The dean announced free dumplings for all students during Spring Festival.",
+            "sentence_zh": "院长宣布春节期间为所有学生提供免费饺子。"
+          },
+          {
+            "sentence": "Our Tsinghua dean rides a shared bike to work every day.",
+            "sentence_zh": "我们清华的院长每天骑共享单车上班。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "主持牧师",
+        "examples": [
+          {
+            "sentence": "The dean of the cathedral organizes midnight mass on Christmas Eve.",
+            "sentence_zh": "大教堂的主持牧师组织圣诞夜的子夜弥撒。"
+          },
+          {
+            "sentence": "People bring mooncakes to thank the dean during Mid-Autumn Festival.",
+            "sentence_zh": "人们在中秋节给主持牧师送月饼表示感谢。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dean's list",
+        "meaning": "优秀学生名单",
+        "examples": [
+          {
+            "sentence": "Her photo on the dean's list went viral for holding a stinky tofu.",
+            "sentence_zh": "她拿着臭豆腐登上优秀学生名单的照片在网上疯传。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "acting dean",
+        "meaning": "代理院长",
+        "examples": [
+          {
+            "sentence": "The acting dean temporarily replaced the one who went to sell livestreaming goods.",
+            "sentence_zh": "代理院长临时接替了去直播带货的院长。"
+          }
+        ]
+      }
+    ],
+    "teach": "dean其实是'地头蛇'👨🏫：最早管10个僧侣（拉丁语decanus），现在管整个学院！当学生说'见院长'就像孙悟空见如来🙇，但现代院长可能正忙着直播卖课🎤。记住：dean's list（优秀名单）比功德榜难上，'系主任'叫department chair可别搞混！",
+    "recite": {
+      "tips": [
+        "谐音梗：'顶'→学院里顶(ding)厉害的dean",
+        "易混词：dean vs. principal（中学校长）"
+      ]
+    }
+  },
+  {
+    "word": "dear",
+    "etymology": {
+      "breakdown": [
+        "deore"
+      ],
+      "meaning_connection": "源自古英语'deore'，原指'珍贵的'，后衍生出情感价值和价格昂贵的双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "亲爱的人",
+        "examples": [
+          {
+            "sentence": "The old lady called everyone 'my dear' like a walking grandma emoji.",
+            "sentence_zh": "老太太见谁都喊'亲爱的'，活像行走的奶奶表情包。"
+          },
+          {
+            "sentence": "Would you be my dear and pass the chili oil?",
+            "sentence_zh": "亲爱的能把辣椒油递给我吗？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "亲爱的",
+        "examples": [
+          {
+            "sentence": "Dear Customer: Your takeout will arrive in 3...2...1...",
+            "sentence_zh": "亲爱的顾客：您的外卖将在3...2...1分钟后到达。"
+          },
+          {
+            "sentence": "My dear dumplings are waiting in the steamer!",
+            "sentence_zh": "我亲爱的小笼包正在蒸笼里等着呢！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "昂贵的",
+        "examples": [
+          {
+            "sentence": "The 5-yuan scallion pancake now costs 15 - how dear!",
+            "sentence_zh": "5块钱的葱油饼现在卖15块——太贵了！"
+          },
+          {
+            "sentence": "That hairy crab is too dear for my wallet.",
+            "sentence_zh": "那只大闸蟹对我的钱包来说太昂贵了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "严重的",
+        "examples": [
+          {
+            "sentence": "It's a dear mistake to put chili in grandma's soup.",
+            "sentence_zh": "在奶奶的汤里放辣椒是个严重错误。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "急迫的",
+        "examples": [
+          {
+            "sentence": "There's a dear need for more hotpot restaurants here.",
+            "sentence_zh": "这里急需多开几家火锅店。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "interj.",
+        "meaning": "啊",
+        "examples": [
+          {
+            "sentence": "Dear me! I forgot to add the numbing pepper!",
+            "sentence_zh": "天啊！我忘记放花椒了！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "深爱地",
+        "examples": [
+          {
+            "sentence": "She held her pet bunny dear.",
+            "sentence_zh": "她深情地抱着她的宠物兔。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "高价地",
+        "examples": [
+          {
+            "sentence": "The antique was sold dear at the auction.",
+            "sentence_zh": "这件古董在拍卖会上高价售出。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hold dear",
+        "meaning": "珍视",
+        "examples": [
+          {
+            "sentence": "I hold dear my collection of spicy sauce.",
+            "sentence_zh": "我珍视我的辣酱收藏。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dear John letter",
+        "meaning": "分手信",
+        "examples": [
+          {
+            "sentence": "She sent a dear John letter via WeChat.",
+            "sentence_zh": "她通过微信发了分手信。"
+          }
+        ]
+      }
+    ],
+    "teach": "dear这个词像火锅鸳鸯锅🍲——清汤那边是'亲爱的'😘，红汤那边是'死贵的'💸！英国女王开头永远写'Dear...'，但账单上'dear'就笑不出来😂。说东西贵除了dear还能用pricey（像抢钱）或cost an arm and a leg（要你胳膊腿）。记住：叫对象'dear'甜蜜蜜，看到价格'dear'哭唧唧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'滴啊'→看到价格'滴啊'一声惊叫",
+        "易混词：deer（鹿）vs dear（贵）→鹿肉可不便宜",
+        "记忆法：把dear拆成D-EAR，像对耳朵说甜言蜜语"
+      ]
+    }
   }
 ]

@@ -10513,5 +10513,301 @@
         "易混词对比：negatively（态度消极）vs. passively（行为被动）"
       ]
     }
+  },
+  {
+    "word": "negativity",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "ative",
+        "ity"
+      ],
+      "meaning_connection": "词根neg=否定，-ative表形容词性，-ity表名词性→从否定到否定性的抽象概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "否定性",
+        "examples": [
+          {
+            "sentence": "The grammar test focused on the negativity in Mandarin denial patterns.",
+            "sentence_zh": "语法考试重点考察汉语否定句式的否定性特征。"
+          },
+          {
+            "sentence": "His paper analyzed the negativity of ancient Chinese philosophical texts.",
+            "sentence_zh": "他的论文分析了中国古代哲学典籍的否定性表达。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "消极性",
+        "examples": [
+          {
+            "sentence": "Social media algorithms may amplify the negativity in user comments.",
+            "sentence_zh": "社交媒体算法可能放大用户评论中的消极性。"
+          },
+          {
+            "sentence": "The team leader tried to eliminate negativity during the project crunch time.",
+            "sentence_zh": "项目冲刺阶段，组长努力消除团队中的消极情绪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "toxic negativity",
+        "meaning": "有害的消极情绪",
+        "examples": [
+          {
+            "sentence": "Workplace toxic negativity spreads faster than office gossip.",
+            "sentence_zh": "职场中的有害消极情绪比办公室八卦传播得更快。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "negativity bias",
+        "meaning": "消极偏好（心理学）",
+        "examples": [
+          {
+            "sentence": "Our negativity bias makes bad reviews more memorable than compliments.",
+            "sentence_zh": "消极偏好使得差评比赞美更令人记忆深刻。"
+          }
+        ]
+      }
+    ],
+    "teach": "negativity就像精神泡菜坛子🥬！词根neg来自拉丁语'说不'的手势✋，-ity后缀把它变成负面情绪收纳盒📦。中文说'负能量爆棚'英文叫drowning in negativity（淹没在消极中），'传播负能量'是spread negativity like wildfire🌪️。记住：你的大脑对negativity的吸收率是赞美的3倍哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个踢我腿'→被否定(neg)后踢腿发泄",
+        "易混词对比：negative（adj. 消极的） vs. negativity（n. 消极性）",
+        "联想记忆：neg+activity=没有活力的消极状态"
+      ]
+    }
+  },
+  {
+    "word": "neglect",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "lect"
+      ],
+      "meaning_connection": "词根neg=否定，lect=选择→'不选择'即忽略"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "疏忽",
+        "examples": [
+          {
+            "sentence": "The bridge collapse was due to decades of neglect.",
+            "sentence_zh": "这座桥的坍塌是数十年疏忽的结果。"
+          },
+          {
+            "sentence": "Her plant died from water neglect during vacation.",
+            "sentence_zh": "她的植物因度假期间浇水疏忽而枯死。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "忽略",
+        "examples": [
+          {
+            "sentence": "The neglect of cybersecurity led to data leaks.",
+            "sentence_zh": "对网络安全的忽略导致了数据泄露。"
+          },
+          {
+            "sentence": "Cultural relics suffer from public neglect.",
+            "sentence_zh": "文物遭受公众忽略的困境。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "疏忽",
+        "examples": [
+          {
+            "sentence": "Don't neglect to lock your shared bike.",
+            "sentence_zh": "别疏忽了锁共享单车。"
+          },
+          {
+            "sentence": "He neglected his health while chasing KPI.",
+            "sentence_zh": "他在追逐KPI时疏忽了健康。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "忽视",
+        "examples": [
+          {
+            "sentence": "The app neglected elderly users' needs.",
+            "sentence_zh": "这款应用忽视了老年用户的需求。"
+          },
+          {
+            "sentence": "Never neglect small kindness in life.",
+            "sentence_zh": "永远不要忽视生活中的小善意。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "neglect to do",
+        "meaning": "忘记做",
+        "examples": [
+          {
+            "sentence": "He neglected to renew his passport.",
+            "sentence_zh": "他忘记更新护照了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fall into neglect",
+        "meaning": "被荒废",
+        "examples": [
+          {
+            "sentence": "The historic building fell into neglect.",
+            "sentence_zh": "这座历史建筑逐渐荒废。"
+          }
+        ]
+      }
+    ],
+    "teach": "neglect就像选择性失明👀！词根neg（不）+lect（选）= 假装没看见。古代官员'neglect duties'（玩忽职守）要被罚俸禄💰，现代人neglect健身就会收获啤酒肚🍺。要说'彻底不管'可以用leave in the dust（扔进灰尘里），搭配'neglect appearance'（不修边幅）和'criminal neglect'（重大过失）要小心使用！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个lecture'→那个讲座被neglect了",
+        "易混词：ignore（故意忽视） vs neglect（无意疏忽）",
+        "记忆tip：想象把'lect'（选择）按钮按成'neg'（否定）模式"
+      ]
+    }
+  },
+  {
+    "word": "neglected",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "lect",
+        "ed"
+      ],
+      "meaning_connection": "neg=否定, lect=选择, -ed表被动→未被选择的→被忽视的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "被忽视的",
+        "examples": [
+          {
+            "sentence": "The neglected Great Wall section is now covered with wild grass.",
+            "sentence_zh": "这段被忽视的长城如今长满野草。"
+          },
+          {
+            "sentence": "The neglected subway exit smells like stinky tofu.",
+            "sentence_zh": "这个被忽视的地铁出口闻起来像臭豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未被好好照管的",
+        "examples": [
+          {
+            "sentence": "The neglected panda cub finally got a new caretaker.",
+            "sentence_zh": "这只未被好好照管的熊猫幼崽终于有了新饲养员。"
+          },
+          {
+            "sentence": "Her neglected bicycle had a bird's nest in the basket.",
+            "sentence_zh": "她那辆未被好好照管的自行车篮里有个鸟窝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "feel neglected",
+        "meaning": "感到被冷落",
+        "examples": [
+          {
+            "sentence": "The youngest child felt neglected when parents focused on gaokao sister.",
+            "sentence_zh": "当父母关注高考的姐姐时，最小的孩子感到被冷落。"
+          }
+        ]
+      }
+    ],
+    "teach": "neglected就像角落里的共享单车🚲，词根lect本意是'选择'，加个neg前缀就成了'不选'（像扫码时故意跳过生锈的那辆）。说'被当透明人'可以叫be treated like air💨，'被放养的小孩'叫latchkey kid🔑。记住：你的neglect成就了流浪猫的乐园🐾！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个lecture的'→被忽视的讲座",
+        "易混词对比：ignored（故意忽视） vs neglected（无意疏忽）",
+        "记忆tip：neg+lect→'那个课'没人选所以被忽视"
+      ]
+    }
+  },
+  {
+    "word": "neglectful",
+    "etymology": {
+      "breakdown": [
+        "neglect",
+        "ful"
+      ],
+      "meaning_connection": "核心词neglect=忽视，源自拉丁语neglegere（不采集），后缀-ful表'充满...的'→充满忽视的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不小心的",
+        "examples": [
+          {
+            "sentence": "The neglectful waiter served spicy hotpot to lactose-intolerant guests.",
+            "sentence_zh": "粗心的服务员给乳糖不耐的客人上了麻辣火锅。"
+          },
+          {
+            "sentence": "His neglectful packing resulted in broken souvenir tea sets.",
+            "sentence_zh": "他打包不小心导致纪念茶具碎了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "疏忽的",
+        "examples": [
+          {
+            "sentence": "Neglectful parents may forget their child's schoolbag at hotpot restaurants.",
+            "sentence_zh": "疏忽的父母会把孩子的书包忘在火锅店。"
+          },
+          {
+            "sentence": "The neglectful editor approved an article full of emoji typos.",
+            "sentence_zh": "马虎的编辑通过了一篇满是表情包错字的文章。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "neglectful of",
+        "meaning": "忽视...的",
+        "examples": [
+          {
+            "sentence": "Tourists neglectful of local customs may offend Tibetans.",
+            "sentence_zh": "忽视当地习俗的游客可能冒犯藏民。"
+          }
+        ]
+      }
+    ],
+    "teach": "neglectful是'马大哈'代名词🤦！它来自拉丁语neglegere（不采集），就像忘记采蘑菇🍄的粗心农夫🌾。说'健忘星人'可以用absent-minded（脑袋不在服务区📵），'心不在焉'叫have one's head in the clouds☁️。记住：ful结尾的形容词都像装满东西的包包👜——这里装满粗心！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个礼物'→那个礼物(neglectful)被忘在快递站",
+        "易混词对比：negligent（法律用语更正式） vs neglectful（日常粗心）",
+        "记忆tip：neglect+ful=装满忽视的容器"
+      ]
+    }
   }
 ]

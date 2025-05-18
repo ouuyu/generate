@@ -9818,5 +9818,319 @@
         "易混词：candelabrum（单数形式，罕见）"
       ]
     }
+  },
+  {
+    "word": "candid",
+    "etymology": {
+      "breakdown": [
+        "cand",
+        "id"
+      ],
+      "meaning_connection": "词根cand=白色/发光（如candle蜡烛），-id表性质→像白光一样纯净无遮掩"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "坦白的",
+        "examples": [
+          {
+            "sentence": "Her candid confession about stealing mooncakes shocked everyone.",
+            "sentence_zh": "她坦白承认偷月饼的供词震惊了所有人。"
+          },
+          {
+            "sentence": "The CEO gave a candid interview about company layoffs.",
+            "sentence_zh": "CEO就公司裁员进行了坦率的采访。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "率直的",
+        "examples": [
+          {
+            "sentence": "His candid comments on spicy hotpot split the internet.",
+            "sentence_zh": "他对麻辣火锅的直率评论让网友分裂。"
+          },
+          {
+            "sentence": "Children's candid questions often embarrass adults.",
+            "sentence_zh": "孩子们率真的提问常让大人尴尬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "公正的",
+        "examples": [
+          {
+            "sentence": "The judge maintained a candid attitude throughout the trial.",
+            "sentence_zh": "法官在整个审判过程中保持公正态度。"
+          },
+          {
+            "sentence": "We need candid evaluation without personal bias.",
+            "sentence_zh": "我们需要不带个人偏见的公正评价。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "candid camera",
+        "meaning": "偷拍镜头",
+        "examples": [
+          {
+            "sentence": "The viral video was shot with a candid camera in a night market.",
+            "sentence_zh": "这段爆红视频是用隐藏摄像机在夜市拍摄的。"
+          }
+        ]
+      }
+    ],
+    "teach": "candid本质是'白光族'💡！古罗马人用白色(cand)长袍象征纯洁，现在说'说真话'叫keep it candid就像扒开粽子看馅料🍙。'耿直boy'英文是candid guy，'官方套话'的反义词是candid opinion💬。记住：当别人问'我胖了吗'，candid的回答可能让你失去朋友！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看得的'→看得见的(candid)真诚",
+        "易混词对比：candidate（候选人）少了'e'就变成'耿直人'",
+        "记忆tip：联想微信'拍一拍'功能→最candid的社交瞬间"
+      ]
+    }
+  },
+  {
+    "word": "Candida",
+    "etymology": {
+      "breakdown": [
+        "cand",
+        "id",
+        "a"
+      ],
+      "meaning_connection": "词根cand=白色（如candle蜡烛），后缀-id表示特征，-a为生物分类后缀→白色菌群"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "念珠菌属",
+        "examples": [
+          {
+            "sentence": "Candida albicans is responsible for most yeast infections.",
+            "sentence_zh": "白色念珠菌是多数酵母菌感染的元凶。"
+          },
+          {
+            "sentence": "Doctors use special dyes to identify Candida under microscope.",
+            "sentence_zh": "医生用特殊染色剂在显微镜下识别念珠菌。"
+          }
+        ]
+      }
+    ],
+    "teach": "Candida其实是'白月光'🌕菌！词源来自蜡烛(candle)般的白色菌落。想象真菌穿着婚纱👰‍♀️（因其白色菌丝），却导致瘙痒难耐→地道说'霉菌感染'叫yeast infection，'抗菌药'是antifungal cream。记住：这不是浪漫的白色，是烦人的白色！😷",
+    "recite": {
+      "tips": [
+        "视觉联想：cand=蜡烛+ida=ID卡→带身份证的白色菌",
+        "易混词：candidate（候选人）和candida都源自'白色'，古罗马穿白袍参选"
+      ]
+    }
+  },
+  {
+    "word": "candidacy",
+    "etymology": {
+      "breakdown": [
+        "candid",
+        "acy"
+      ],
+      "meaning_connection": "词根candid=白色（古罗马候选人身穿白袍），后缀-acy表状态→穿白袍竞选的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "候选人的地位",
+        "examples": [
+          {
+            "sentence": "His candidacy for class president was announced with a meme campaign.",
+            "sentence_zh": "他的班长候选人身份通过表情包竞选宣布。"
+          },
+          {
+            "sentence": "The panda's candidacy as China's national mascot was never in doubt.",
+            "sentence_zh": "熊猫作为中国国家吉祥物的候选地位从未被质疑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "候选资格",
+        "examples": [
+          {
+            "sentence": "Losing 10kg qualifies her candidacy for the astronaut program.",
+            "sentence_zh": "减重10公斤让她获得了宇航员计划的候选资格。"
+          },
+          {
+            "sentence": "His candidacy was revoked after the spicy hotpot incident.",
+            "sentence_zh": "在麻辣火锅事件后他的候选资格被取消。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "announce one's candidacy",
+        "meaning": "宣布参选",
+        "examples": [
+          {
+            "sentence": "The CEO announced her candidacy for mayor with a viral douyin video.",
+            "sentence_zh": "那位CEO用爆款抖音视频宣布参选市长。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "withdraw candidacy",
+        "meaning": "退出竞选",
+        "examples": [
+          {
+            "sentence": "He withdrew his candidacy after discovering the job required 996 schedule.",
+            "sentence_zh": "发现工作需要996后他退出了竞选。"
+          }
+        ]
+      }
+    ],
+    "teach": "candidacy其实是'白袍加身'⚪：古罗马候选人(candidate)要穿白袍(candid)表纯洁，就像现代选秀穿训练服🎽。说'参选'用throw one's hat in the ring（把帽子扔进擂台），'陪跑候选人'叫also-ran🚴。记住：你的candidacy值等于白袍能吸多少票！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看得得C'→候选人要看得分",
+        "易混词：candidate（候选人）vs. candid（坦诚的）",
+        "联想：白袍→婚纱照→政治婚姻"
+      ]
+    }
+  },
+  {
+    "word": "candidate",
+    "etymology": {
+      "breakdown": [
+        "candid",
+        "ate"
+      ],
+      "meaning_connection": "词根candid=白色（古罗马穿白袍竞选），-ate表'人'→穿白袍的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "候选人",
+        "examples": [
+          {
+            "sentence": "The presidential candidate promised free spicy strips for all students.",
+            "sentence_zh": "这位总统候选人承诺给所有学生发免费辣条。"
+          },
+          {
+            "sentence": "She's the strongest candidate for the CEO position with her bubble tea business experience.",
+            "sentence_zh": "凭借奶茶创业经历，她是CEO职位最有竞争力的候选人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "投考者",
+        "examples": [
+          {
+            "sentence": "Gaokao candidates are reviewing ancient poems under mosquito nets.",
+            "sentence_zh": "高考考生正在蚊帐里复习古诗文。"
+          },
+          {
+            "sentence": "IELTS candidates in China often memorize model essays about the Great Wall.",
+            "sentence_zh": "中国的雅思考生常背诵关于长城的范文。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "presidential candidate",
+        "meaning": "总统候选人",
+        "examples": [
+          {
+            "sentence": "The presidential candidate swore on a copy of Xi Jinping's governance book.",
+            "sentence_zh": "总统候选人手按《习近平谈治国理政》宣誓。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "strong candidate",
+        "meaning": "强有力的竞争者",
+        "examples": [
+          {
+            "sentence": "Huawei is a strong candidate for 6G technology leadership.",
+            "sentence_zh": "华为是6G技术领先地位的有力竞争者。"
+          }
+        ]
+      }
+    ],
+    "teach": "candidate其实是'白袍选手'🏛️：古罗马参选者必须穿白袍（candid）示清廉，就像现代公务员考试穿白衬衫👔。'热门候选人'叫front runner（赛马术语），'陪跑选手'说成also-ran🐎。记住：每个candidate都在参加人生的吃鸡游戏，只有最后站着的人能舔包！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看底的'→考官看底的(candidate)试卷",
+        "易混词：applicant（申请者）/ nominee（被提名者）",
+        "记忆诀：白(candid) + 人(ate) = 穿白袍的候选人"
+      ]
+    }
+  },
+  {
+    "word": "candidly",
+    "etymology": {
+      "breakdown": [
+        "candid",
+        "ly"
+      ],
+      "meaning_connection": "词根candid源自拉丁语'candidus'（洁白无瑕的），后缀-ly构成副词→像白纸一样毫无掩饰地表达"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "率直地",
+        "examples": [
+          {
+            "sentence": "She candidly admitted eating the last mooncake during Zoom meeting.",
+            "sentence_zh": "她坦率承认在Zoom会议时偷吃了最后一个月饼。"
+          },
+          {
+            "sentence": "The CEO spoke candidly about the company's TikTok addiction problem.",
+            "sentence_zh": "CEO直言不讳地谈论了公司员工沉迷抖音的问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "坦白地",
+        "examples": [
+          {
+            "sentence": "Candidly speaking, your dumplings taste like angry pandas made them.",
+            "sentence_zh": "老实说，你的饺子吃起来像愤怒熊猫包的。"
+          },
+          {
+            "sentence": "He answered the salary question candidly: \"Not enough for hotpot every day\".",
+            "sentence_zh": "他坦白回答薪资问题：\"不够天天吃火锅\"。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "to put it candidly",
+        "meaning": "坦率地说",
+        "examples": [
+          {
+            "sentence": "To put it candidly, your karaoke sounds like a cat stepping on mahjong tiles.",
+            "sentence_zh": "坦白讲，你的卡拉OK像猫踩在麻将牌上。"
+          }
+        ]
+      }
+    ],
+    "teach": "candidly其实是'白到发光'⚪️！来自古罗马参选者穿白袍(candidus)表清廉传统🎭。说'大实话'可以学特朗普的\"Let me be candid\"🗽，吐槽朋友新发型用\"Candidly...\"配捂脸表情🤦。记住：当你说\"老实讲\"(frankly)时像掏心，说candidly时像掀开白布——下面可能藏着惊喜或惊吓！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看底的'→看底牌当然要坦白",
+        "易混词对比：frankly(侧重真诚)/candidly(侧重不加掩饰)",
+        "记忆tip：想象对镜子(candid本义'明亮的')说真话"
+      ]
+    }
   }
 ]

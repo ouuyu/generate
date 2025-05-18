@@ -10473,5 +10473,304 @@
         "易混词对比：jostling（故意推挤） vs bumping（无意碰撞）"
       ]
     }
+  },
+  {
+    "word": "jot",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自希腊语iota（字母ι）→英语中最小字母→引申为'极少量'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "少量",
+        "examples": [
+          {
+            "sentence": "There's not a jot of truth in that Douyin rumor.",
+            "sentence_zh": "那条抖音谣言里连一丁点真实性都没有。"
+          },
+          {
+            "sentence": "She didn't show a jot of hesitation when eating spicy hotpot.",
+            "sentence_zh": "她吃麻辣火锅时没有丝毫犹豫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "快速记录",
+        "examples": [
+          {
+            "sentence": "I jotted down the WeChat ID on a Starbucks napkin.",
+            "sentence_zh": "我在星巴克纸巾上匆匆记下了微信号。"
+          },
+          {
+            "sentence": "He's jotting lecture notes with one hand while holding milk tea.",
+            "sentence_zh": "他单手握着奶茶，另一只手速记课堂重点。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "not one jot",
+        "meaning": "丝毫没有",
+        "examples": [
+          {
+            "sentence": "My passion for bubble tea hasn't diminished one jot in 10 years.",
+            "sentence_zh": "我对奶茶的热爱十年来丝毫未减。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jot down",
+        "meaning": "草草记下",
+        "examples": [
+          {
+            "sentence": "Jot down the meeting time before you forget!",
+            "sentence_zh": "趁还没忘记，赶快把会议时间记下来！"
+          }
+        ]
+      }
+    ],
+    "teach": "jot其实是希腊字母ι的私生子👶！这个最小字母演变成了'一丁点'的意思，就像奶茶里的珍珠最后一颗🧋。搭配not one jot时记得摇头摆手🤷，说'工资没涨not one jot'比说no money更带感。记录灵感就叫jot down，像在手机上乱戳备忘录📝。",
+    "recite": {
+      "tips": [
+        "谐音梗：'脚特'→用脚特别快地记(jot down)笔记",
+        "易混词：jet（喷射）/joy（快乐）",
+        "记忆tip：jot开头字母j像支疾驰的笔✍️"
+      ]
+    }
+  },
+  {
+    "word": "journal",
+    "etymology": {
+      "breakdown": [
+        "journ",
+        "al"
+      ],
+      "meaning_connection": "词根journ=天（来自法语jour），-al表事物→原指'每日记录'，后衍生出定期出版物含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "日记",
+        "examples": [
+          {
+            "sentence": "She keeps a journal with embarrassing middle school poems.",
+            "sentence_zh": "她的日记里存着初中写的尴尬诗歌。"
+          },
+          {
+            "sentence": "The explorer's journal described pandas eating barbecue for the first time.",
+            "sentence_zh": "探险家的日记首次记载了熊猫吃烧烤的场景。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂志",
+        "examples": [
+          {
+            "sentence": "Nature journal published AI-generated duck recipes last April Fools' Day.",
+            "sentence_zh": "《自然》杂志去年愚人节刊登了AI生成的鸭子菜谱。"
+          },
+          {
+            "sentence": "This medical journal actually made TCM memes go viral.",
+            "sentence_zh": "这本医学杂志竟让中医梗图火爆网络。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "日报",
+        "examples": [
+          {
+            "sentence": "Wall Street Journal reported on China's new spicy stock market index.",
+            "sentence_zh": "《华尔街日报》报道了中国新推出的麻辣股指。"
+          },
+          {
+            "sentence": "The local journal headlines: 'Man Wins Lottery, Buys 10,000 Stinky Tofus'",
+            "sentence_zh": "当地日报头条：《男子中彩票购买一万块臭豆腐》"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keep a journal",
+        "meaning": "记日记",
+        "examples": [
+          {
+            "sentence": "I keep a journal of all the weirdest hot pot combinations I've tried.",
+            "sentence_zh": "我记录着尝试过的所有奇葩火锅搭配。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "academic journal",
+        "meaning": "学术期刊",
+        "examples": [
+          {
+            "sentence": "His paper on 'Bubble Tea Physics' got rejected by every academic journal.",
+            "sentence_zh": "他那篇《珍珠奶茶物理学》论文被所有学术期刊拒稿。"
+          }
+        ]
+      }
+    ],
+    "teach": "journal本质是'日子本'📅：法语jour(日)+al→像小红书既当日记本又当杂志！古代水手记航海日志叫logbook（原意'木头本'🪵），现代人发微博就是digital journaling。'记流水账'叫keep a diary like accountant（会计式记账）🧾，'爆款文章'说go viral in journals🌋。记住：journal就是用文字腌渍时光的泡菜坛子！",
+    "recite": {
+      "tips": [
+        "谐音梗：'今日闹'→今日闹(journal)钟提醒写日报",
+        "易混词：diary更私密，journal更正式"
+      ]
+    }
+  },
+  {
+    "word": "journalism",
+    "etymology": {
+      "breakdown": [
+        "journ",
+        "al",
+        "ism"
+      ],
+      "meaning_connection": "词根journ=日（源自拉丁语diurnalis），-al表形容词，-ism表行业→记录每日事件的行业"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "新闻业",
+        "examples": [
+          {
+            "sentence": "Citizen journalism has exploded with Weibo and Douyin.",
+            "sentence_zh": "随着微博抖音兴起，公民新闻业爆发式增长。"
+          },
+          {
+            "sentence": "She left banking to pursue investigative journalism.",
+            "sentence_zh": "她放弃银行业转行做调查新闻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "报章杂志（总称）",
+        "examples": [
+          {
+            "sentence": "Print journalism still thrives in subway stations.",
+            "sentence_zh": "纸质报刊仍在地铁站蓬勃发展。"
+          },
+          {
+            "sentence": "This coffee shop stocks international journalism.",
+            "sentence_zh": "这家咖啡馆提供国际报刊杂志。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "data journalism",
+        "meaning": "数据新闻",
+        "examples": [
+          {
+            "sentence": "Alibaba's epidemic maps revolutionized data journalism.",
+            "sentence_zh": "阿里的疫情地图革新了数据新闻。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "yellow journalism",
+        "meaning": "黄色新闻（耸动报道）",
+        "examples": [
+          {
+            "sentence": "That celebrity divorce coverage is classic yellow journalism.",
+            "sentence_zh": "那篇明星离婚报道是典型的黄色新闻。"
+          }
+        ]
+      }
+    ],
+    "teach": "journalism本质是'日记产业化'📅！古代记者像送报小哥🏃派发《罗马日报》(Acta Diurna)。现在说'假新闻'用fake news就像火锅里的地沟油🌶️，'自媒体'叫we-media就像街头卖艺🎪。记住：优质journalism要像小葱拌豆腐——一清二白！",
+    "recite": {
+      "tips": [
+        "谐音梗：'今日来izm'→今日来ism的行业",
+        "易混词：journal（日记）vs. journey（旅行）"
+      ]
+    }
+  },
+  {
+    "word": "journalist",
+    "etymology": {
+      "breakdown": [
+        "journ",
+        "al",
+        "ist"
+      ],
+      "meaning_connection": "词根journ=日（来自拉丁语diurnus），-al表属性，-ist表从业者→记录每日事件的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "新闻记者",
+        "examples": [
+          {
+            "sentence": "The journalist chased the hotpot restaurant scandal for three months.",
+            "sentence_zh": "这位记者追踪火锅店丑闻长达三个月。"
+          },
+          {
+            "sentence": "A WeChat journalist must master the 10W+ headline formula.",
+            "sentence_zh": "微信公众号记者必须掌握10W+标题公式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "从事新闻杂志业的人",
+        "examples": [
+          {
+            "sentence": "She transitioned from a newspaper journalist to a TikTok content creator.",
+            "sentence_zh": "她从报纸杂志记者转型为抖音内容创作者。"
+          },
+          {
+            "sentence": "Magazine journalists often have press conferences with celebrities.",
+            "sentence_zh": "杂志新闻从业者常与明星召开新闻发布会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "investigative journalist",
+        "meaning": "调查记者",
+        "examples": [
+          {
+            "sentence": "The investigative journalist went undercover in a durian smuggling ring.",
+            "sentence_zh": "调查记者潜入榴莲走私团伙卧底。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "citizen journalist",
+        "meaning": "公民记者",
+        "examples": [
+          {
+            "sentence": "A citizen journalist captured the panda escape from the zoo on Weibo.",
+            "sentence_zh": "公民记者在微博直播了大熊猫越狱全过程。"
+          }
+        ]
+      }
+    ],
+    "teach": "journalist其实是'日记人'📅：中世纪修道院记录每日（journ）大事的修士就是初代记者！'抢头条'叫scoop the story（像挖冰淇淋球🍦），'狗仔队'是paparazzi（源自意大利语）。记住：好记者要像火锅一样——能涮遍所有料！🔥📸✍️",
+    "recite": {
+      "tips": [
+        "谐音梗：'酱呐list'→记者是拿小本本记酱料配方的人",
+        "易混词对比：reporter（现场报道者）vs journalist（更广义）",
+        "联想：journal（期刊）+ -ist = 搞期刊的人"
+      ]
+    }
   }
 ]

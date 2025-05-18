@@ -10539,5 +10539,325 @@
         "记忆tip：TARDIS（神秘博士电话亭）虽慢但能穿越时空，你的tardiness只能穿越老板的怒火"
       ]
     }
+  },
+  {
+    "word": "tardy",
+    "etymology": {
+      "breakdown": [
+        "tard",
+        "y"
+      ],
+      "meaning_connection": "词根tard表示'慢'（拉丁语tardus），-y为形容词后缀，原指行动迟缓的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "慢的",
+        "examples": [
+          {
+            "sentence": "The tardy progress of sloths makes them perfect Zen masters.",
+            "sentence_zh": "树獭缓慢的行进速度让它们成为完美的禅宗大师。"
+          },
+          {
+            "sentence": "Tardy response to WeChat messages may cost you a red envelope.",
+            "sentence_zh": "回复微信速度太慢可能会让你错失红包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "迟到的",
+        "examples": [
+          {
+            "sentence": "Students giving tardy excuses like 'my bike ate my homework' won't be believed.",
+            "sentence_zh": "学生用'我的自行车吃了作业'这种迟到借口可没人信。"
+          },
+          {
+            "sentence": "Three tardy arrivals count as one absence in this yoga class.",
+            "sentence_zh": "这节瑜伽课迟到三次算一次缺勤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "勉强的",
+        "examples": [
+          {
+            "sentence": "His tardy apology sounded more like a complaint.",
+            "sentence_zh": "他勉强的道歉听着更像抱怨。"
+          },
+          {
+            "sentence": "The tardy support from his teammates surprised everyone.",
+            "sentence_zh": "队友们勉强的支持让所有人吃惊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "拖拉的",
+        "examples": [
+          {
+            "sentence": "Tardy delivery drivers are the arch-enemies of hungry takeaway lovers.",
+            "sentence_zh": "拖拉的外卖小哥是饥饿吃货的头号天敌。"
+          },
+          {
+            "sentence": "Her tardy decision-making caused the hotpot broth to burn.",
+            "sentence_zh": "她做决定太拖拉导致火锅汤底烧干了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tardy in",
+        "meaning": "在...方面迟缓",
+        "examples": [
+          {
+            "sentence": "The government was tardy in releasing air quality data.",
+            "sentence_zh": "政府在空气质量数据发布上行动迟缓。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tardy with",
+        "meaning": "对...拖拉",
+        "examples": [
+          {
+            "sentence": "Don't be tardy with your visa application before holidays.",
+            "sentence_zh": "节假日前别拖延签证申请。"
+          }
+        ]
+      }
+    ],
+    "teach": "tardy就像被粘在沙发上的考拉🐨！古罗马人用'tardus'形容比乌龟赛跑还慢的人🐢，现在说'迟到'除了late还能用tardy装文艺。搭配'tardy slip'（迟到条）是学生的噩梦📝，'tardy justice'（迟来的正义）比美团外卖还慢🚴♂️。记住：当你说'sorry I'm tardy'时，至少比'sorry I'm lazy'好听！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踏地'→走路踏地太用力所以走得慢",
+        "易混词：late单纯指迟到，tardy带有批评意味",
+        "联想记忆：TARDY=Ta Always Runs Delayed Yesterday（他昨天总是跑得慢）"
+      ]
+    }
+  },
+  {
+    "word": "tare",
+    "etymology": {
+      "breakdown": [
+        "[]"
+      ],
+      "meaning_connection": "源自阿拉伯语'ṭarah'（丢弃物），经意大利语'tara'进入英语，原指容器本身的重量"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "巢菜（植物）",
+        "examples": [
+          {
+            "sentence": "The purple flowers of tare are often mistaken for wild peas.",
+            "sentence_zh": "巢菜的紫色花朵常被误认为野豌豆。"
+          },
+          {
+            "sentence": "Farmers consider tare a weed in wheat fields.",
+            "sentence_zh": "农民视巢菜为麦田里的杂草。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "稗子",
+        "examples": [
+          {
+            "sentence": "Ancient parables often mention wheat growing with tare.",
+            "sentence_zh": "古代寓言常提到麦子与稗子共生。"
+          },
+          {
+            "sentence": "The Bible uses tare as a metaphor for evil influences.",
+            "sentence_zh": "圣经用稗子比喻邪恶影响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "皮重（容器重量）",
+        "examples": [
+          {
+            "sentence": "Smart scales automatically deduct the tare of packaging.",
+            "sentence_zh": "智能电子秤自动扣除包装皮重。"
+          },
+          {
+            "sentence": "The truck's tare is printed on its door frame.",
+            "sentence_zh": "卡车的皮重标在车门框上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "称皮重",
+        "examples": [
+          {
+            "sentence": "Vendors must tare the basket before weighing fruits.",
+            "sentence_zh": "商贩称水果前必须先称篮子的皮重。"
+          },
+          {
+            "sentence": "The high-tech scale taring function saves 3 seconds per transaction.",
+            "sentence_zh": "高科技电子秤的除皮功能每次交易节省3秒。"
+          }
+        ]
+      }
+    ],
+    "teach": "tare是'自带重量'的戏精🌾：当植物时伪装成小麦的稗子（圣经著名反派），当名词时是超市称重界的'皮影戏'🎭（包装袋重量）。搭配：tare weight（皮重）就像奶茶杯自重，net weight（净重）才是真正的珍珠奶茶🧋。说'扣皮重'用deduct tare，比中文还直接！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太热'→皮重(tare)让运费太热(涨价)",
+        "易混词：tare vs. tear（眼泪）→皮重(tare)让人tear（流泪）"
+      ]
+    }
+  },
+  {
+    "word": "target",
+    "etymology": {
+      "breakdown": [
+        "targ"
+      ],
+      "meaning_connection": "源自古法语'targette'（小盾牌），后引申为'射击目标'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "目标",
+        "examples": [
+          {
+            "sentence": "Our target is to make hotpot available on Mars by 2050.",
+            "sentence_zh": "我们的目标是205年前在火星上普及火锅。"
+          },
+          {
+            "sentence": "The KPI target gave everyone in the office instant migraines.",
+            "sentence_zh": "这个KPI目标让办公室所有人瞬间头疼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "靶子",
+        "examples": [
+          {
+            "sentence": "The archery target had a picture of a durian at its center.",
+            "sentence_zh": "射箭靶心画着个榴莲图案。"
+          },
+          {
+            "sentence": "His TikTok video of shooting at beer can targets went viral.",
+            "sentence_zh": "他射击啤酒罐靶子的抖音视频火了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "指标",
+        "examples": [
+          {
+            "sentence": "The carbon emission target is tighter than my jeans after hotpot.",
+            "sentence_zh": "碳排放指标比我吃完火锅后的牛仔裤还紧。"
+          },
+          {
+            "sentence": "We smashed our user growth target like a watermelon in summer.",
+            "sentence_zh": "我们像夏天砸西瓜一样超额完成用户增长指标。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "对准",
+        "examples": [
+          {
+            "sentence": "The new facial recognition system targets customers' smiles for analysis.",
+            "sentence_zh": "新的人脸识别系统对准顾客的笑容进行分析。"
+          },
+          {
+            "sentence": "She targeted her camera at the mooncake with perfect lighting.",
+            "sentence_zh": "她把相机对准光线完美的月饼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "订指标",
+        "examples": [
+          {
+            "sentence": "The boss targeted unrealistic sales numbers during Mid-Autumn Festival.",
+            "sentence_zh": "老板给中秋节制定了不切实际的销售指标。"
+          },
+          {
+            "sentence": "We should target 100% mask usage in elevators.",
+            "sentence_zh": "我们应该制定电梯内100%戴口罩的指标。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on target",
+        "meaning": "正中目标",
+        "examples": [
+          {
+            "sentence": "Her prediction about stock market was right on target.",
+            "sentence_zh": "她对股市的预测正中靶心。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "target audience",
+        "meaning": "目标受众",
+        "examples": [
+          {
+            "sentence": "Bubble tea brands target Gen Z as their main audience.",
+            "sentence_zh": "奶茶品牌以Z世代为主要目标受众。"
+          }
+        ]
+      }
+    ],
+    "teach": "target最初是骑士的小盾牌🛡️，后来变成要射穿的靶心🎯。现代人最熟悉的target可能是双十一购物车🛒（sales target）。说'精准打击'可以用dead on target，'指标定太高'叫pie-in-the-sky target（天上掉馅饼的目标）。记住：人生没有backup target就像射箭没带备用箭🏹！",
+    "recite": {
+      "tips": [
+        "谐音梗：'他哥的'→他哥的(target)KPI太狠了",
+        "易混词：goal（长期目标） vs target（具体靶标）",
+        "记忆法：tar（沥青）+ get（得到）→用沥青粘住目标"
+      ]
+    }
+  },
+  {
+    "word": "targeted",
+    "etymology": {
+      "breakdown": [
+        "target",
+        "ed"
+      ],
+      "meaning_connection": "target=目标，-ed表形容词→'有目标的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "定向的",
+        "examples": [
+          {
+            "sentence": "The targeted ads always know I need new running shoes.",
+            "sentence_zh": "定向广告总能发现我需要新跑鞋。"
+          },
+          {
+            "sentence": "This targeted therapy reduces damage to healthy cells.",
+            "sentence_zh": "这种定向疗法减少对健康细胞的损害。"
+          }
+        ]
+      }
+    ],
+    "teach": "targeted就像王者荣耀里的锁定攻击🎯！古代弓箭手要target（瞄准），现代大数据搞targeted ads（精准广告）就像给奶茶爱好者推送珍珠优惠🧋。说'精准打击'叫surgical strike（外科手术式打击），'无差别攻击'则是scattergun approach🔫。记住：当你的手机开始推送你刚聊过的商品，就是大数据在target你！",
+    "recite": {
+      "tips": [
+        "谐音梗：'他记太的'→他记忆太的(targeted)精准",
+        "对比记忆：targeted（定向的）vs random（随机的）就像狙击枪🔭和散弹枪的区别"
+      ]
+    }
   }
 ]

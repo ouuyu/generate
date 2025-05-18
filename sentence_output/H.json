@@ -10000,5 +10000,335 @@
         "易混词对比：happiness（持续状态） vs joy（短暂快乐）"
       ]
     }
+  },
+  {
+    "word": "happy",
+    "etymology": {
+      "breakdown": [
+        "hap",
+        "py"
+      ],
+      "meaning_connection": "词根hap=运气/机会（同happen），-y为形容词后缀→本义是'有好运的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "快乐的",
+        "examples": [
+          {
+            "sentence": "The panda was happy rolling in the bamboo leaves.",
+            "sentence_zh": "熊猫在竹叶堆里快乐打滚。"
+          },
+          {
+            "sentence": "Her happy laughter echoed through the hutong.",
+            "sentence_zh": "她快乐的笑声在胡同里回荡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "幸福的",
+        "examples": [
+          {
+            "sentence": "The old couple looked happy drinking tea under the ginkgo tree.",
+            "sentence_zh": "老两口在银杏树下喝茶的样子很幸福。"
+          },
+          {
+            "sentence": "Nothing makes parents happier than their child's first steps.",
+            "sentence_zh": "没有什么比孩子迈出第一步更让父母幸福的了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "愉快的",
+        "examples": [
+          {
+            "sentence": "We had a happy reunion over Peking duck.",
+            "sentence_zh": "我们吃北京烤鸭时度过了愉快的重聚时光。"
+          },
+          {
+            "sentence": "The happy atmosphere of Spring Festival fills every household.",
+            "sentence_zh": "春节的愉快气氛充满每家每户。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "恰当的",
+        "examples": [
+          {
+            "sentence": "That's a happy choice of words for your graduation speech.",
+            "sentence_zh": "这对你的毕业演讲来说是恰当的词句选择。"
+          },
+          {
+            "sentence": "The designer found a happy balance between tradition and innovation.",
+            "sentence_zh": "设计师在传统与创新间找到了恰当的平衡。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "happy ending",
+        "meaning": "圆满结局",
+        "examples": [
+          {
+            "sentence": "All Chinese New Year movies must have a happy ending.",
+            "sentence_zh": "所有贺岁片都必须有圆满结局。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "happy medium",
+        "meaning": "折中方案",
+        "examples": [
+          {
+            "sentence": "We found a happy medium between spicy and mild hotpot.",
+            "sentence_zh": "我们在麻辣锅和清汤锅之间找到了折中方案。"
+          }
+        ]
+      }
+    ],
+    "teach": "happy本质是'撞大运'🎰！西方人认为happiness来自hap（运气），中国人却说'福'字像祭祀的酒坛🍶。说'开心到飞起'用on cloud nine（九霄云上），'傻乐'叫happy as a clam（蛤蜊般快乐）🐚。记住：真正的happy就像吃火锅时捞到最后一片肥牛——幸运又满足！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨皮'→直接音译快乐",
+        "易混词对比：happy（持续状态） vs glad（短暂情绪）"
+      ]
+    }
+  },
+  {
+    "word": "harangue",
+    "etymology": {
+      "breakdown": [
+        "ha",
+        "rangue"
+      ],
+      "meaning_connection": "词源来自古法语'harangue'（公开演说），可能与日耳曼语'heri'（军队）和'ring'（环形）相关，暗指对聚集人群的喊话"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "激情演讲",
+        "examples": [
+          {
+            "sentence": "The politician's harangue about dumpling prices lasted 3 hours.",
+            "sentence_zh": "那位政客关于饺子价格的激情演讲持续了3小时。"
+          },
+          {
+            "sentence": "His TED Talk turned into a patriotic harangue.",
+            "sentence_zh": "他的TED演讲变成了爱国激情演说。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "热烈讨论",
+        "examples": [
+          {
+            "sentence": "The WeChat group erupted in a harangue about spicy hotpot authenticity.",
+            "sentence_zh": "微信群就麻辣火锅正宗性爆发热烈讨论。"
+          },
+          {
+            "sentence": "Family reunions always include harangues about zodiac compatibility.",
+            "sentence_zh": "家庭聚会总少不了关于生肖配对的激烈讨论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "长篇大论说教",
+        "examples": [
+          {
+            "sentence": "My grandma harangued me about marriage while making dumplings.",
+            "sentence_zh": "奶奶边包饺子边对我进行婚姻问题长篇说教。"
+          },
+          {
+            "sentence": "The coach harangued the team with inspirational quotes from Sun Tzu.",
+            "sentence_zh": "教练用孙子兵法的名言对队伍进行激情训话。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "launch into a harangue",
+        "meaning": "开始滔滔不绝的演说",
+        "examples": [
+          {
+            "sentence": "He launched into a harangue about Bitcoin during the hotpot dinner.",
+            "sentence_zh": "火锅宴上他突然开始滔滔不绝讲比特币。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "political harangue",
+        "meaning": "政治煽动演说",
+        "examples": [
+          {
+            "sentence": "The livestream turned into a political harangue with 10 million viewers.",
+            "sentence_zh": "直播变成了千万观众围观的政治煽动演说。"
+          }
+        ]
+      }
+    ],
+    "teach": "harangue就是语言版的火锅汤底🔥：要么辣得让人坐不住（激情演讲），要么熬煮太久变得油腻（长篇说教）🍲。历史上希特勒的演讲就是黑暗版harangue，而现代'键盘侠'的万字檄文则是数字harangue💻。说'别念经了'可以用Stop haranguing me like a broken loudspeaker📢，形容废话连篇可以说verbal diarrhea🗣️。记住：好harangue像麻辣香锅让人上瘾，坏harangue像复读机让人头疼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喊嚷哥'→靠喊嚷(haran-gue)表演的哥",
+        "易混词：speech（中性）/harangue（带情绪色彩）",
+        "场景记忆：想象菜市场大妈砍价时的气势就是活体harangue"
+      ]
+    }
+  },
+  {
+    "word": "harass",
+    "etymology": {
+      "breakdown": [
+        "har",
+        "ass"
+      ],
+      "meaning_connection": "词源争议：可能来自古法语'harer'（驱使猎犬）+后缀-ass，原指反复驱赶动物，引申为持续困扰"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使困扰",
+        "examples": [
+          {
+            "sentence": "The pop star was harassed by paparazzi at the airport.",
+            "sentence_zh": "这位流行歌手在机场被狗仔队困扰。"
+          },
+          {
+            "sentence": "Mosquitoes harassed us throughout the camping trip.",
+            "sentence_zh": "整个露营过程中蚊子都在困扰我们。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使烦恼",
+        "examples": [
+          {
+            "sentence": "The math problem harassed him for three days.",
+            "sentence_zh": "这道数学题让他烦恼了三天。"
+          },
+          {
+            "sentence": "My mom's nagging harassed me into cleaning my room.",
+            "sentence_zh": "妈妈的唠叨烦得我不得不打扫房间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "折磨",
+        "examples": [
+          {
+            "sentence": "The prisoner was harassed by sleep deprivation.",
+            "sentence_zh": "囚犯被睡眠剥夺折磨。"
+          },
+          {
+            "sentence": "The detective harassed the suspect with endless questions.",
+            "sentence_zh": "侦探用无尽的问题折磨嫌疑人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sexually harass",
+        "meaning": "性骚扰",
+        "examples": [
+          {
+            "sentence": "The company has strict policies against sexually harassing coworkers.",
+            "sentence_zh": "公司有严格禁止性骚扰同事的政策。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "harass into submission",
+        "meaning": "骚扰至屈服",
+        "examples": [
+          {
+            "sentence": "The hacker tried to harass the website into submission with DDoS attacks.",
+            "sentence_zh": "黑客试图用DDoS攻击骚扰网站使其屈服。"
+          }
+        ]
+      }
+    ],
+    "teach": "harass就像黏在身上的口香糖🍬，甩都甩不掉！最初指猎人用猎犬(hounds)反复追赶猎物🐕，现在形容持续烦人的行为。要说'烦死了'可以用'stop bugging me!'（别像虫子一样烦我），'职场霸凌'叫workplace harassment。记住：三个a像三只烦人的蚊子🦟🦟🦟在耳边嗡嗡响！",
+    "recite": {
+      "tips": [
+        "谐音梗：'害热死'→骚扰行为害得人热死了",
+        "易混词对比：harass（持续骚扰）vs. molest（肢体侵犯）"
+      ]
+    }
+  },
+  {
+    "word": "harassed",
+    "etymology": {
+      "breakdown": [
+        "harass",
+        "ed"
+      ],
+      "meaning_connection": "动词harass源自法语harer（激怒猎犬），-ed表形容词→被不断烦扰的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "疲倦的",
+        "examples": [
+          {
+            "sentence": "The harassed panda keeper fell asleep holding bamboo.",
+            "sentence_zh": "疲惫的熊猫饲养员抱着竹子睡着了。"
+          },
+          {
+            "sentence": "After 10 meetings, his harassed face looked like a deflated balloon.",
+            "sentence_zh": "连开十场会后，他疲倦的脸像泄气的气球。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "厌烦的",
+        "examples": [
+          {
+            "sentence": "The harassed mom hid in the bathroom eating ice cream.",
+            "sentence_zh": "被孩子烦透的妈妈躲在卫生间吃冰淇淋。"
+          },
+          {
+            "sentence": "His harassed expression said 'no more group projects!'",
+            "sentence_zh": "他厌烦的表情写着'再也不要小组作业了！'"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "look harassed",
+        "meaning": "显得疲惫不堪",
+        "examples": [
+          {
+            "sentence": "All interns look harassed during promotion seasons.",
+            "sentence_zh": "促销季所有实习生都显得疲惫不堪。"
+          }
+        ]
+      }
+    ],
+    "teach": "harassed是社畜の终极表情😫！想象被100只二哈追着要零食🐕（harass本义），连古罗马将军汉尼拔都被罗马人持续骚扰才发明'持久战'战术⚔️。要说'累成狗'用dog-tired，'烦死了'是sick and tired。记住：当你说I'm harassed时，整个人就像被揉皱的A4纸📄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'还累死的'→持续被骚扰当然累",
+        "易混词对比：harassed（被烦的） vs. exhausted（纯体力耗尽）"
+      ]
+    }
   }
 ]

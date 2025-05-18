@@ -10516,5 +10516,312 @@
         "记忆法：想象门闩(latch)的'L'形造型"
       ]
     }
+  },
+  {
+    "word": "late",
+    "etymology": {
+      "breakdown": [
+        "lat",
+        "e"
+      ],
+      "meaning_connection": "原始印欧词根*led-（缓慢的）演变而来，古英语læt表示'迟缓'，后缀-e无实义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "迟的",
+        "examples": [
+          {
+            "sentence": "The subway was late due to panda crossing the tracks.",
+            "sentence_zh": "地铁因为熊猫过轨道而迟到。"
+          },
+          {
+            "sentence": "My apology for being late - I got stuck in a bubble tea queue.",
+            "sentence_zh": "抱歉迟到——我被卡在奶茶排队中了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "晚的",
+        "examples": [
+          {
+            "sentence": "Late-night hotpot always tastes better with friends.",
+            "sentence_zh": "深夜火锅和朋友一起吃总是更香。"
+          },
+          {
+            "sentence": "The late autumn wind carries the smell of roasted sweet potatoes.",
+            "sentence_zh": "深秋的风带着烤红薯的香味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "已故的",
+        "examples": [
+          {
+            "sentence": "The late scientist's Weibo account still has 10 million followers.",
+            "sentence_zh": "这位已故科学家的微博账号仍有千万粉丝。"
+          },
+          {
+            "sentence": "We visited the late emperor's mausoleum during golden week.",
+            "sentence_zh": "我们在黄金周参观了先帝陵墓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "很晚",
+        "examples": [
+          {
+            "sentence": "Douyin made me stay up late again watching panda videos.",
+            "sentence_zh": "抖音又让我熬夜看熊猫视频到很晚。"
+          },
+          {
+            "sentence": "The delivery guy worked late delivering mooncakes before Mid-Autumn Festival.",
+            "sentence_zh": "快递小哥在中秋节前送月饼工作到很晚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "很迟",
+        "examples": [
+          {
+            "sentence": "She realized too late that the last train had departed.",
+            "sentence_zh": "她意识到末班车已经开走时为时已迟。"
+          },
+          {
+            "sentence": "The tourist arrived late at the Forbidden City and missed the closing time.",
+            "sentence_zh": "游客很迟才到故宫，错过了闭馆时间。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "better late than never",
+        "meaning": "迟做总比不做好",
+        "examples": [
+          {
+            "sentence": "I finally learned to use chopsticks at 30 - better late than never!",
+            "sentence_zh": "我30岁终于学会用筷子——迟学总比不学强！"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "late in the day",
+        "meaning": "为时已晚",
+        "examples": [
+          {
+            "sentence": "It's late in the day to change your flight during Spring Festival travel.",
+            "sentence_zh": "春运期间现在改签机票为时已晚。"
+          }
+        ]
+      }
+    ],
+    "teach": "late这词像个月饼模子🥮！'迟到'是被卡在早高峰里动弹不得🚇(late for work)，'深夜'是烧烤摊最热闹的时刻🌃(late night snack)，'已故'像故宫里的历史人物🏯(the late emperor)，'很晚'就像双11零点抢购⏰(stay up late)。记住：说'睡过头'别用late，要说overslept哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累特'→特别累导致迟到",
+        "易混词对比：later(较晚的) vs latter(后者)"
+      ]
+    }
+  },
+  {
+    "word": "latecomer",
+    "etymology": {
+      "breakdown": [
+        "late",
+        "comer"
+      ],
+      "meaning_connection": "late表示'晚的'，comer来自come（来）→'来得晚的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "迟到者",
+        "examples": [
+          {
+            "sentence": "The teacher made the latecomer recite the poem as punishment.",
+            "sentence_zh": "老师让迟到者背诵诗歌作为惩罚。"
+          },
+          {
+            "sentence": "Latecomers to the concert missed Jay Chou's opening song.",
+            "sentence_zh": "演唱会的迟到者错过了周杰伦的开场曲。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fashionable latecomer",
+        "meaning": "故意迟到的时髦人士",
+        "examples": [
+          {
+            "sentence": "She played the fashionable latecomer at the gallery opening.",
+            "sentence_zh": "她在画廊开幕时故意姗姗来迟装时髦。"
+          }
+        ]
+      }
+    ],
+    "teach": "latecomer是'踩点狂魔'⏰的优雅说法！古代科举迟到要锁龙门🚪，现代打工人迟到要罚红包🧧。说'老是迟到'可以用chronic latecomer（晚期迟到患者），'最后入场'叫grand entrance就像维密超模出场👠。记住：当latecomer不如当early bird吃虫子🐛！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累脱裤'→迟到跑得累脱裤(late-comer)",
+        "易混词对比：newcomer（新人） vs latecomer（迟到者）",
+        "记忆tip：把late想象成地铁末班车时刻表"
+      ]
+    }
+  },
+  {
+    "word": "lately",
+    "etymology": {
+      "breakdown": [
+        "late",
+        "ly"
+      ],
+      "meaning_connection": "late（迟的）+ -ly（副词后缀）→ 原指'迟来地'，后转为时间上的'近来'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "近来",
+        "examples": [
+          {
+            "sentence": "Lately I've been obsessed with watching douyin livestreams at midnight.",
+            "sentence_zh": "近来我沉迷于半夜看抖音直播。"
+          },
+          {
+            "sentence": "She's been listening to Jay Chou's old songs lately like it's 2003 again.",
+            "sentence_zh": "她近来循环周杰伦的老歌仿佛回到了2003年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "最近",
+        "examples": [
+          {
+            "sentence": "Have you noticed lately that all milk tea shops are selling durian flavor?",
+            "sentence_zh": "你最近是否发现所有奶茶店都在卖榴莲口味？"
+          },
+          {
+            "sentence": "Lately even my grandma has started using face filters on wechat.",
+            "sentence_zh": "最近连我奶奶都开始用微信美颜滤镜了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "until lately",
+        "meaning": "直到最近",
+        "examples": [
+          {
+            "sentence": "Until lately I thought bubble tea was actually made with real bubbles.",
+            "sentence_zh": "直到最近我还以为珍珠奶茶用的是真的珍珠。"
+          }
+        ]
+      }
+    ],
+    "teach": "lately就像手机里的'最近删除'📱！中世纪时late指'迟到的'，现在变成'最近'就像拖延症患者把'稍后做'变成'刚做完'⏳。要说'最近忙成狗'可吐槽up to my ears（忙到耳朵冒烟）🐶，搭配'lately I feel...'就像发朋友圈'最近我感觉...'加上哭泣猫猫头🐱。记住：你的lately可能藏着没还的花呗账单💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累特累'→最近(lately)特别累",
+        "易混词对比：later是'稍后'，lately是'近来'",
+        "记忆tip：late+ly=迟到的→迟到的消息=最近的"
+      ]
+    }
+  },
+  {
+    "word": "latency",
+    "etymology": {
+      "breakdown": [
+        "lat",
+        "ency"
+      ],
+      "meaning_connection": "词根lat=隐藏（同源词latent），后缀-ency表性质→藏着的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "潜伏",
+        "examples": [
+          {
+            "sentence": "The virus has a latency period like a sleeper agent.",
+            "sentence_zh": "病毒像休眠特工一样有潜伏期。"
+          },
+          {
+            "sentence": "His artistic talent remained in latency until college.",
+            "sentence_zh": "他的艺术天赋直到大学才结束潜伏状态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "潜在",
+        "examples": [
+          {
+            "sentence": "The latency of conflict in the region worries diplomats.",
+            "sentence_zh": "该地区冲突的潜在可能令外交官们担忧。"
+          },
+          {
+            "sentence": "Good education can develop children's latency abilities.",
+            "sentence_zh": "良好教育能开发儿童的潜在能力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "延迟时间",
+        "examples": [
+          {
+            "sentence": "5G reduces network latency to the blink of an eye.",
+            "sentence_zh": "5G将网络延迟缩短至眨眼瞬间。"
+          },
+          {
+            "sentence": "Gamers curse when latency causes character deaths.",
+            "sentence_zh": "当延迟导致游戏角色死亡时玩家会爆粗口。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "latency period",
+        "meaning": "潜伏期",
+        "examples": [
+          {
+            "sentence": "The latency period of some cancers can last decades.",
+            "sentence_zh": "某些癌症的潜伏期可长达数十年。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "network latency",
+        "meaning": "网络延迟",
+        "examples": [
+          {
+            "sentence": "Live-streamers hate network latency more than bad makeup.",
+            "sentence_zh": "主播们对网络延迟的厌恶胜过妆容失败。"
+          }
+        ]
+      }
+    ],
+    "teach": "latency是'拖延症晚期'⏳！医学上像冬眠的熊🐻（viral latency），心理学像憋着的大招💥（latent talent），打游戏时像卡住的进度条📶（network latency）。说'网卡'别只会说'slow'，专业玩家都骂'Damn latency!' 搭配：latency killer（延迟杀手工具）/latency anxiety（延迟焦虑症）",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷等西'→雷雨天等西（延迟）装快递",
+        "易混词：latent（adj.潜在的） vs patent（adj.明显的）",
+        "联想：la（拉） + tency（谐音'等死'）→拉长时间等人等死→延迟"
+      ]
+    }
   }
 ]

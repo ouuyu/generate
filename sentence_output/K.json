@@ -10089,5 +10089,315 @@
         "易混词对比：knightly(骑士精神的) vs nightly(每夜的)"
       ]
     }
+  },
+  {
+    "word": "knit",
+    "etymology": {
+      "breakdown": [
+        "kn",
+        "it"
+      ],
+      "meaning_connection": "古英语cnyttan（打结），字母k在古代发音，现代英语中保留拼写不发音。词源意象像毛线针交叉穿梭🧶"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "编织",
+        "examples": [
+          {
+            "sentence": "My grandma knits sweaters while watching palace dramas.",
+            "sentence_zh": "我奶奶追宫斗剧时顺便织毛衣。"
+          },
+          {
+            "sentence": "The spider knits its web like a 5G network installer.",
+            "sentence_zh": "蜘蛛织网的样子像在架设5G基站。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "结合",
+        "examples": [
+          {
+            "sentence": "Their eyebrows knitted in confusion when seeing the math problem.",
+            "sentence_zh": "看到数学题时他们的眉头皱成了团购优惠券。"
+          },
+          {
+            "sentence": "The broken bones knit together faster with calcium supplements.",
+            "sentence_zh": "补钙后断骨愈合速度堪比快递次日达。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "knit one's brows",
+        "meaning": "皱眉",
+        "examples": [
+          {
+            "sentence": "She knitted her brows at the boyfriend's WeChat reply speed.",
+            "sentence_zh": "她因男友的微信回复速度皱起眉头。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tightly-knit community",
+        "meaning": "紧密联系的社区",
+        "examples": [
+          {
+            "sentence": "Our mahjong club is a tightly-knit group.",
+            "sentence_zh": "我们的麻将社团亲密得像火锅里的毛肚。"
+          }
+        ]
+      }
+    ],
+    "teach": "knit是织女星下凡✨！当它表示'编织'时，像大妈们边跳广场舞边打毛线🕺；表示'结合'时，像拆开的乐高零件重新拼合🧩。说'关系紧密'用tightly-knit比close更生动，'皱眉'直接说knit brows就像表情包🤨。记住：从毛线到人际关系，knit让你的人生不脱线！",
+    "recite": {
+      "tips": [
+        "谐音梗：'可腻特'→可(knit)爱腻在一起",
+        "易混词：knot（绳结）是静态结果，knit（编织）是动态过程"
+      ]
+    }
+  },
+  {
+    "word": "knitted",
+    "etymology": {
+      "breakdown": [
+        "knit",
+        "ed"
+      ],
+      "meaning_connection": "knit原指'编织'，-ed为动词过去式/分词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "编织（过去式）",
+        "examples": [
+          {
+            "sentence": "My grandma knitted a sweater with pandas playing mahjong.",
+            "sentence_zh": "奶奶织了件印有熊猫打麻将的毛衣。"
+          },
+          {
+            "sentence": "She knitted her brows when solving the calculus problem.",
+            "sentence_zh": "解微积分题时她皱起了眉头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "编织（过去分词）",
+        "examples": [
+          {
+            "sentence": "The scarf was knitted with wool from Inner Mongolia.",
+            "sentence_zh": "这条围巾是用内蒙古羊毛织成的。"
+          },
+          {
+            "sentence": "They've knitted a close friendship over hotpot dinners.",
+            "sentence_zh": "通过火锅聚餐他们结下了深厚友谊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "knitted together",
+        "meaning": "紧密连接",
+        "examples": [
+          {
+            "sentence": "The ancient silk routes knitted together civilizations.",
+            "sentence_zh": "古丝绸之路将不同文明紧密相连。"
+          }
+        ]
+      }
+    ],
+    "teach": "knitted是'爱的毛线团'🧶！中世纪欧洲主妇用编织(knit)防丈夫出轨（历史真事！），现在说'tight-knit group'指亲密团体🤝。要夸人手巧可以说'You knit like a pro!'（织得跟专业似的），吐槽丑毛衣用'Looks like the cat knitted it!'🐱。记住：每件knitted毛衣都是三维爱心代码💖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'腻忒的'→织太多毛衣腻歪了",
+        "易混词：knitted（编织）/knighted（授爵）→骑士(knight)授爵戴勋章，织女(knit)低头织毛衣"
+      ]
+    }
+  },
+  {
+    "word": "knitter",
+    "etymology": {
+      "breakdown": [
+        "knit",
+        "er"
+      ],
+      "meaning_connection": "knit表示'编织'，后缀-er表示'从事...的人/物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "编结者",
+        "examples": [
+          {
+            "sentence": "My grandma is a skilled knitter who makes sweaters with pandas patterns.",
+            "sentence_zh": "我奶奶是位手艺高超的编结者，会织带熊猫图案的毛衣。"
+          },
+          {
+            "sentence": "The knitter created a scarf with the Great Wall motif for the Olympics.",
+            "sentence_zh": "这位编结者为奥运会织了条长城主题的围巾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "编织工人",
+        "examples": [
+          {
+            "sentence": "The knitters in Zhejiang produce 60% of the world's cashmere products.",
+            "sentence_zh": "浙江的编织工人生产全球60%的羊绒制品。"
+          },
+          {
+            "sentence": "A knitter at the textile factory invented a new stitching technique.",
+            "sentence_zh": "纺织厂的编织工人发明了一种新的针法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "编织机",
+        "examples": [
+          {
+            "sentence": "This smart knitter can complete a sock in 20 minutes automatically.",
+            "sentence_zh": "这台智能编织机能自动在20分钟内织好一只袜子。"
+          },
+          {
+            "sentence": "The industrial knitter broke down during Double Eleven production rush.",
+            "sentence_zh": "工业编织机在双十一生产高峰期罢工了。"
+          }
+        ]
+      }
+    ],
+    "teach": "knitter其实是'织男织女'🧶！中世纪欧洲编织行会像现代程序员工会💻，'织毛衣'叫knit one's brows（字面是皱眉头）。记住两个神搭配：knitter's pride（织女的骄傲作品）和knitter's block（编织瓶颈期）。抱怨编织机卡线可以说'This machine is a yarn tangle monster!'（这机器是毛线怪兽）🦖🧵⚙️",
+    "recite": {
+      "tips": [
+        "谐音梗：'泥特'→编织工人特(te)别会捏(ni)毛线",
+        "易混词：knitter vs. knitter（后者指针织机）"
+      ]
+    }
+  },
+  {
+    "word": "knitting",
+    "etymology": {
+      "breakdown": [
+        "knit",
+        "ing"
+      ],
+      "meaning_connection": "源自古英语cnyttan（打结），-ing表行为结果→像猫咪玩毛线般反复缠绕"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "编结法",
+        "examples": [
+          {
+            "sentence": "Her grandma's knitting technique can turn old plastic bags into durable mats.",
+            "sentence_zh": "她奶奶的编结法能把旧塑料袋变成耐用垫子。"
+          },
+          {
+            "sentence": "The ancient knitting of fishing nets is disappearing in coastal villages.",
+            "sentence_zh": "渔网的古老编结法正在沿海村落消失。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "针织品",
+        "examples": [
+          {
+            "sentence": "Her Etsy store sells knitting with memes patterns like confused Wojak.",
+            "sentence_zh": "她的网店售卖表情包针织品，比如迷惑沃雅克图案。"
+          },
+          {
+            "sentence": "This alpaca wool knitting feels like touching a cloud.",
+            "sentence_zh": "这款羊驼毛针织品触感如抚云端。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "stick to one's knitting",
+        "meaning": "专注本行",
+        "examples": [
+          {
+            "sentence": "That tech CEO should stick to his knitting instead of giving medical advice.",
+            "sentence_zh": "那位科技CEO该专注本行而不是提供医疗建议。"
+          }
+        ]
+      }
+    ],
+    "teach": "knitting其实是中世纪程序媛的代码🧶：北欧神话命运三女神用毛线编织命运，现代人织毛衣就像3D打印实体化🖨️。'织女'叫knitter，但吐槽'手残党'可以说all thumbs（全是拇指）🤌。记住：每个掉针(stich)都是命运的bug，需要ctrl+Z撤销！",
+    "recite": {
+      "tips": [
+        "谐音梗：'你听婷'→小姐姐听婷( knitting )织毛衣的声音",
+        "易混词：knotting（打结）vs knitting（编织）",
+        "联想：两个N像两根织针，中间夹着毛线"
+      ]
+    }
+  },
+  {
+    "word": "knitwear",
+    "etymology": {
+      "breakdown": [
+        "knit",
+        "wear"
+      ],
+      "meaning_connection": "knit=编织，wear=穿着→编织后穿着的物品"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "针织品",
+        "examples": [
+          {
+            "sentence": "Her handmade knitwear with pandas went viral on Xiaohongshu.",
+            "sentence_zh": "她手工编织的熊猫针织品在小红书上爆红。"
+          },
+          {
+            "sentence": "Cashmere knitwear from Inner Mongolia is famous worldwide.",
+            "sentence_zh": "内蒙古的羊绒针织品全球闻名。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "designer knitwear",
+        "meaning": "设计师针织品",
+        "examples": [
+          {
+            "sentence": "The designer knitwear collection was inspired by Dunhuang murals.",
+            "sentence_zh": "这个设计师针织系列灵感来自敦煌壁画。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "knitwear factory",
+        "meaning": "针织品工厂",
+        "examples": [
+          {
+            "sentence": "The knitwear factory in Zhejiang exports to 30 countries.",
+            "sentence_zh": "浙江的针织品工厂出口到30个国家。"
+          }
+        ]
+      }
+    ],
+    "teach": "knitwear是奶奶的爱🧶！最早的针织品出土于埃及袜子（公元3世纪），比诸葛亮还老👵！说'温暖牌毛衣'英语叫homemade knitwear，'起球'叫pilling就像毛衣在长痘痘🤒。记住：好的knitwear就像爱情——需要一针一线耐心编织💕",
+    "recite": {
+      "tips": [
+        "谐音梗：'捏它歪'→把毛线捏歪了才能织",
+        "易混词：sweater(毛衣) vs knitwear(统称针织品)"
+      ]
+    }
   }
 ]

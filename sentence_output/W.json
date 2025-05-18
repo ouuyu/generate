@@ -10537,5 +10537,347 @@
         "易混词：see（无意看到）vs watch（有意注视）"
       ]
     }
+  },
+  {
+    "word": "watchable",
+    "etymology": {
+      "breakdown": [
+        "watch",
+        "able"
+      ],
+      "meaning_connection": "核心词watch=观看，后缀-able表可能性→具有被观看价值的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "值得注意的",
+        "examples": [
+          {
+            "sentence": "The pandas' wrestling moves at Chengdu base are highly watchable.",
+            "sentence_zh": "成都基地熊猫的摔跤动作非常值得关注。"
+          },
+          {
+            "sentence": "This watchable meteor shower will peak at 2am.",
+            "sentence_zh": "这场值得注意的流星雨将在凌晨两点达到极盛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "值得注视的",
+        "examples": [
+          {
+            "sentence": "The 3D projection show on the Forbidden City is surprisingly watchable.",
+            "sentence_zh": "故宫的3D投影秀出人意料地值得观赏。"
+          },
+          {
+            "sentence": "Her Douyin videos are watchable for the creative use of sticky rice cakes.",
+            "sentence_zh": "她抖音里创意使用年糕的视频很值得一看。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "barely watchable",
+        "meaning": "勉强能看",
+        "examples": [
+          {
+            "sentence": "The low-budget costume drama is barely watchable.",
+            "sentence_zh": "这部低成本古装剧勉强能看。"
+          }
+        ]
+      }
+    ],
+    "teach": "watchable就像评判火锅的涮菜标准🍲：'值得注意'好比翻滚的毛肚必须盯着看⏱️（highly watchable），'值得注视'如同精致的龙须酥拉丝过程🎨（visually watchable）。说'烂片'用dumpster fire🗑️，'神作'叫masterpiece🎬。记住：能被叫watchable的内容，至少不会让你想刷手机！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我吃包子'→边看(watchable)视频边吃包子",
+        "易混词：noticeable（自然引人注意） vs watchable（主动选择观看）"
+      ]
+    }
+  },
+  {
+    "word": "watchdog",
+    "etymology": {
+      "breakdown": [
+        "watch",
+        "dog"
+      ],
+      "meaning_connection": "字面组合'看(watch)+狗(dog)'，引申为监督者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "看门狗",
+        "examples": [
+          {
+            "sentence": "The village watchdog barks at every food delivery guy.",
+            "sentence_zh": "村里的看门狗对每个外卖小哥都狂吠。"
+          },
+          {
+            "sentence": "Our golden retriever acts as a friendly watchdog for the kindergarten.",
+            "sentence_zh": "我们的金毛犬担任幼儿园的友善看门狗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "监察人",
+        "examples": [
+          {
+            "sentence": "China's anti-corruption agencies serve as watchdogs for public officials.",
+            "sentence_zh": "中国反腐机构担任公职人员的监察者。"
+          },
+          {
+            "sentence": "Consumer rights watchdogs monitor fake reviews on e-commerce platforms.",
+            "sentence_zh": "消费者权益监察组织监督电商平台的虚假评论。"
+          }
+        ]
+      }
+    ],
+    "teach": "watchdog是'数字牧羊犬'🐕‍🦺：古代用真狗守门，现代用'人形哈士奇'监管网络💻。'严厉监督'叫keep a watchful eye，'监管不力'说asleep at the switch（打瞌睡）。搭配：corporate watchdog企业监察/social media watchdog社交平台监管。记住：好的watchdog既要会叫，更要会咬！🦷🔍",
+    "recite": {
+      "tips": [
+        "谐音梗：'我吃狗'→监察者紧盯不法分子像狗盯肉",
+        "易混词对比：watchtower(瞭望塔)是静态的，watchdog是动态监管"
+      ]
+    }
+  },
+  {
+    "word": "watcher",
+    "etymology": {
+      "breakdown": [
+        "watch",
+        "er"
+      ],
+      "meaning_connection": "watch=观看/守护，-er表示人→进行观察行为的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "看守人",
+        "examples": [
+          {
+            "sentence": "The museum watcher caught a man trying to touch the Terracotta Warrior.",
+            "sentence_zh": "博物馆看守人发现一名试图触摸兵马俑的男子。"
+          },
+          {
+            "sentence": "Panda base watchers use honey to lure escaping cubs back.",
+            "sentence_zh": "熊猫基地的看守人用蜂蜜引回逃跑的幼崽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "守望者",
+        "examples": [
+          {
+            "sentence": "Fire watchers on the Great Wall used smoke signals in ancient times.",
+            "sentence_zh": "长城上的守望者古代使用狼烟传递信号。"
+          },
+          {
+            "sentence": "Modern neighborhood watchers report suspicious packages via WeChat groups.",
+            "sentence_zh": "现代社区守望者通过微信群上报可疑包裹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "哨兵",
+        "examples": [
+          {
+            "sentence": "The Forbidden City watchers still follow centuries-old guarding routines.",
+            "sentence_zh": "故宫哨兵仍遵循数百年前的守卫流程。"
+          },
+          {
+            "sentence": "Watchers at nuclear plants play mobile games during night shifts to stay alert.",
+            "sentence_zh": "核电站哨兵通过玩手游保持夜班清醒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "night watcher",
+        "meaning": "守夜人",
+        "examples": [
+          {
+            "sentence": "Ancient night watchers would shout 'All is well' every hour.",
+            "sentence_zh": "古代打更人每小时高喊'天干物燥小心火烛'。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "crowd watcher",
+        "meaning": "人群监控员",
+        "examples": [
+          {
+            "sentence": "Shanghai Metro crowd watchers use AI to predict passenger flow.",
+            "sentence_zh": "上海地铁人群监控员用AI预测客流。"
+          }
+        ]
+      }
+    ],
+    "teach": "watcher是行走的监控摄像头📹！从《长城》里的烽火台哨兵🔥，到《甄嬛传》里盯梢的太监👀，再到现代小区的朝阳群众👴，本质都是watcher。说'值班'用on watch（像军舰值班⛴️），'偷懒'叫sleep on watch（会掉脑袋的！）。记住：当watcher最重要的不是视力，是耐得住寂寞！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卧车'→卧底车辆监控员",
+        "易混词：watcher（主动监视者） vs. viewer（被动观看者）",
+        "记忆法：watch+er=手表人→带表计时值班的人"
+      ]
+    }
+  },
+  {
+    "word": "watchful",
+    "etymology": {
+      "breakdown": [
+        "watch",
+        "ful"
+      ],
+      "meaning_connection": "词根watch=观看/警惕，后缀-ful表'充满...的'→充满警惕的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "注意的",
+        "examples": [
+          {
+            "sentence": "The panda keeper remained watchful for any signs of distress.",
+            "sentence_zh": "熊猫饲养员始终保持注意任何不适迹象。"
+          },
+          {
+            "sentence": "Tourists should be watchful when taking selfies near cliffs.",
+            "sentence_zh": "游客在悬崖边自拍时应保持注意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "警戒的",
+        "examples": [
+          {
+            "sentence": "Night-shift guards maintain watchful eyes on surveillance screens.",
+            "sentence_zh": "夜班保安在监控屏幕前保持警戒。"
+          },
+          {
+            "sentence": "The geese acted as watchful alarms on the ancient farm.",
+            "sentence_zh": "大鹅在古代农庄扮演警戒哨兵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "警醒的",
+        "examples": [
+          {
+            "sentence": "New parents become naturally watchful about their baby's breathing.",
+            "sentence_zh": "新手父母会自然地对宝宝的呼吸保持警醒。"
+          },
+          {
+            "sentence": "The AI system stays watchful 24/7 for cyber attacks.",
+            "sentence_zh": "该AI系统全天候警醒防范网络攻击。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "watchful waiting",
+        "meaning": "观察等待（医疗策略）",
+        "examples": [
+          {
+            "sentence": "Doctors recommended watchful waiting for his mild condition.",
+            "sentence_zh": "医生建议对他的轻微症状采取观察等待策略。"
+          }
+        ]
+      }
+    ],
+    "teach": "watchful其实是'望夫石'模式👀！古代烽火台哨兵叫watchman📯，现代版就是半夜刷剧防爸妈查岗的你😅。'保持警惕'说keep a watchful eye像猫盯鱼缸🐱，'过度警觉'叫hyper-vigilant像拆弹专家剪电线💣。记住：从长城守卫到健康码查验，中华民族最懂watchful的真谛！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我吃饱'→我吃饱(watchful)了才能保持警觉",
+        "易混对比：watchful（持续观察） vs alert（快速反应）"
+      ]
+    }
+  },
+  {
+    "word": "watchfulness",
+    "etymology": {
+      "breakdown": [
+        "watch",
+        "ful",
+        "ness"
+      ],
+      "meaning_connection": "watch=注视，-ful=充满...的，-ness=名词后缀→持续保持警觉的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "警惕",
+        "examples": [
+          {
+            "sentence": "The panda keeper maintains constant watchfulness for signs of distress.",
+            "sentence_zh": "熊猫饲养员始终保持警惕关注不适迹象。"
+          },
+          {
+            "sentence": "Cybersecurity requires the watchfulness of a meerkat on lookout duty.",
+            "sentence_zh": "网络安全需要像站岗的猫鼬般警惕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "戒备",
+        "examples": [
+          {
+            "sentence": "The Forbidden City's watchfulness system inspired modern security designs.",
+            "sentence_zh": "紫禁城的戒备系统启发了现代安防设计。"
+          },
+          {
+            "sentence": "Her watchfulness against scams saved her from losing red packet money.",
+            "sentence_zh": "她对诈骗的戒备让她保住了红包钱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不眠",
+        "examples": [
+          {
+            "sentence": "The doctor's watchfulness during the night shift saved three patients.",
+            "sentence_zh": "医生值夜班时的不眠救了三位患者。"
+          },
+          {
+            "sentence": "Parental watchfulness over a feverish child resembles a 24/7 convenience store.",
+            "sentence_zh": "父母对发烧孩子的不眠守护就像24小时便利店。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with watchfulness",
+        "meaning": "带着警觉",
+        "examples": [
+          {
+            "sentence": "Tourists should visit crowded places with the watchfulness of a squirrel storing nuts.",
+            "sentence_zh": "游客应该像存松果的松鼠般警觉地游览人群密集处。"
+          }
+        ]
+      }
+    ],
+    "teach": "watchfulness是'瞪眼力'👀：词源像猫头鹰夜间值班🦉（watch+ful+ness），'保持警惕'说maintain watchfulness就像玩扫雷游戏💣，'放松戒备'叫lower watchfulness如同熊猫瘫软🐼。记住：双十一抢购时需要extreme watchfulness！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我吃腐尼斯'→看《霍比特人》时要watchfulness",
+        "易混词：awareness（感知）更被动，watchfulness（警觉）更主动"
+      ]
+    }
   }
 ]
