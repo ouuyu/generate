@@ -6251,5 +6251,299 @@
         "易混词：economy(经济体) vs economics(经济学)就像奶茶和《奶茶营销学》"
       ]
     }
+  },
+  {
+    "word": "economist",
+    "etymology": {
+      "breakdown": [
+        "eco",
+        "nom",
+        "ist"
+      ],
+      "meaning_connection": "词根eco=家/环境，nom=管理，-ist=...家→管理家庭财务的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "经济学者",
+        "examples": [
+          {
+            "sentence": "The economist predicted a dumpling price surge before Spring Festival.",
+            "sentence_zh": "这位经济学者预测春节前饺子价格将暴涨。"
+          },
+          {
+            "sentence": "As an economist, she can calculate the exact cost of love.",
+            "sentence_zh": "作为经济学者，她能精确计算爱情的成本。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "节俭的人",
+        "examples": [
+          {
+            "sentence": "My grandma is a natural economist who reuses teabags 3 times.",
+            "sentence_zh": "我奶奶是天生的节俭家，茶包都要重复使用三次。"
+          },
+          {
+            "sentence": "Real economists know 100 ways to save money on hotpot ingredients.",
+            "sentence_zh": "真正的节俭大师掌握100种省火锅食材钱的方法。"
+          }
+        ]
+      }
+    ],
+    "teach": "经济学家其实是'家计学大师'💸：eco来自希腊语oikos（家庭），nom是manage（管理），合起来就是古代管账房先生🧮。说'精打细算'用penny-pincher（捏便士的人），'经济拮据'说tighten the belt（勒紧裤腰带）。记住：每个中国大妈都是隐藏的economist！她们早市砍价的样子像极了华尔街操盘手📉",
+    "recite": {
+      "tips": [
+        "谐音梗：'一颗糯米屎'→经济学家研究粮食问题",
+        "易混词：economist（学者）vs. economics（经济学）"
+      ]
+    }
+  },
+  {
+    "word": "economistic",
+    "etymology": {
+      "breakdown": [
+        "economy",
+        "istic"
+      ],
+      "meaning_connection": "词根economy=经济，后缀-istic=具有...特性的→具有经济特性的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "经济主义的",
+        "examples": [
+          {
+            "sentence": "His economistic views prioritize GDP growth over environmental protection.",
+            "sentence_zh": "他的经济主义观点将GDP增长置于环境保护之上。"
+          },
+          {
+            "sentence": "The economistic approach ignores cultural values in urban planning.",
+            "sentence_zh": "这种经济主义方法在城市规划中忽视了文化价值。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "economistic就像只认钱的葛朗台💰！后缀-istic让它变成'主义狂魔'（就像capitalistic资本主义的）。搭配'economic policy'和'economistic mindset'使用。说'唯利是图'可以用money-grubbing🐭。记住：-istic结尾的词常带点走火入魔的感觉！",
+    "recite": {
+      "tips": [
+        "拆解记忆：economy（经济）+ istic（主义特性）",
+        "对比记忆：economic（经济的）vs economistic（经济主义的）",
+        "联想：-istic结尾常带偏执色彩（如artistic艺术至上的）"
+      ]
+    }
+  },
+  {
+    "word": "economize",
+    "etymology": {
+      "breakdown": [
+        "eco",
+        "nom",
+        "ize"
+      ],
+      "meaning_connection": "词根eco=家/环境，nom=管理，-ize=动词后缀→原指'管理家务'，引申为'节约资源'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "节约",
+        "examples": [
+          {
+            "sentence": "Chinese families economize by reusing mooncake boxes as sewing kits.",
+            "sentence_zh": "中国家庭通过重复利用月饼盒作针线盒来节约。"
+          },
+          {
+            "sentence": "We economize electricity by unplugging chargers at night.",
+            "sentence_zh": "我们夜间拔掉充电器以节约用电。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "节省",
+        "examples": [
+          {
+            "sentence": "She economizes 50% salary by bringing homemade lunches.",
+            "sentence_zh": "她带自制午餐节省了50%的工资开销。"
+          },
+          {
+            "sentence": "The app helps economize 1 hour daily by optimizing commute routes.",
+            "sentence_zh": "这个应用通过优化通勤路线每天节省1小时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "有效地利用",
+        "examples": [
+          {
+            "sentence": "Hotels economize space with foldable bathroom designs.",
+            "sentence_zh": "酒店通过可折叠卫浴设计有效利用空间。"
+          },
+          {
+            "sentence": "The algorithm economizes computing power like a Tetris master.",
+            "sentence_zh": "该算法像俄罗斯方块高手般有效利用算力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "economize on",
+        "meaning": "在...上节省",
+        "examples": [
+          {
+            "sentence": "College students often economize on textbooks by sharing PDFs.",
+            "sentence_zh": "大学生常通过共享PDF节省教材开支。"
+          }
+        ]
+      }
+    ],
+    "teach": "economize其实是'抠门学'毕业证🎓！词根eco来自希腊语'家务'（想象妈妈把剩菜做成新菜♻️），现代版是'双十一凑满减'数学题🧮。'超级节省'叫pinch pennies（捏硬币），'精打细算'说stretch your dollar（拉长钱用）。记住：会economize的人，连奶茶珍珠都要数清楚！💸🐷",
+    "recite": {
+      "tips": [
+        "谐音梗：'一颗糯米粥'→喝粥最economize",
+        "易混词对比：economic（经济的） vs economical（节省的）",
+        "记忆口诀：Eco家+Nomy管=管好家里钱袋子"
+      ]
+    }
+  },
+  {
+    "word": "economy",
+    "etymology": {
+      "breakdown": [
+        "eco",
+        "nomy"
+      ],
+      "meaning_connection": "前缀eco源自希腊语oikos=家，nomy源自nomos=管理→原指'家政管理'，18世纪后引申为国家经济"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "经济体系",
+        "examples": [
+          {
+            "sentence": "China's digital economy now accounts for over 40% of GDP.",
+            "sentence_zh": "中国数字经济已占GDP超40%。"
+          },
+          {
+            "sentence": "The bubble tea economy in Taiwan is worth billions annually.",
+            "sentence_zh": "台湾珍珠奶茶经济年产值达数十亿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "理财",
+        "examples": [
+          {
+            "sentence": "My grandma's peasant economy wisdom: 'Save half of every red envelope'.",
+            "sentence_zh": "奶奶的理财智慧：'每个红包存一半'。"
+          },
+          {
+            "sentence": "The book 'Rich Dad Poor Dad' teaches household economy tricks.",
+            "sentence_zh": "《富爸爸穷爸爸》教授家庭理财技巧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "节约",
+        "examples": [
+          {
+            "sentence": "Practicing economy by reusing takeout containers as plant pots.",
+            "sentence_zh": "把外卖盒当花盆用践行节约。"
+          },
+          {
+            "sentence": "The 'clean your plate' campaign promotes food economy.",
+            "sentence_zh": "光盘行动倡导食物节约。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political economy",
+        "meaning": "政治经济学",
+        "examples": [
+          {
+            "sentence": "Marx's political economy still influences modern China.",
+            "sentence_zh": "马克思的政治经济学仍影响现代中国。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "economy class",
+        "meaning": "经济舱",
+        "examples": [
+          {
+            "sentence": "Flying economy class means fighting for overhead bin space.",
+            "sentence_zh": "坐经济舱意味着要抢行李架空间。"
+          }
+        ]
+      }
+    ],
+    "teach": "economy本是'管家术'🏠→古希腊主妇们(oikos)的省钱智慧💡。如今既形容万亿规模的'地摊经济'🍢(street vendor economy)，也指你把奶茶从大杯换成中杯的'节约'行为🤏。要说'经济拮据'可调侃说on a shoestring budget（鞋带预算），'精打细算'叫penny-pinching就像数钢镚儿🪙",
+    "recite": {
+      "tips": [
+        "谐音梗：'一颗糯米'→节约如珍惜每颗糯米",
+        "易混词：economic(adj.) vs economical(节约的)"
+      ]
+    }
+  },
+  {
+    "word": "ecosystem",
+    "etymology": {
+      "breakdown": [
+        "eco",
+        "system"
+      ],
+      "meaning_connection": "前缀eco-源自希腊语oikos=家/环境，system=系统→'环境系统'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "生态系统",
+        "examples": [
+          {
+            "sentence": "The giant panda plays a crucial role in bamboo forest ecosystems.",
+            "sentence_zh": "大熊猫在竹林生态系统中扮演关键角色。"
+          },
+          {
+            "sentence": "Alipay's ant forest project helps restore desert ecosystems.",
+            "sentence_zh": "支付宝蚂蚁森林项目助力恢复沙漠生态系统。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "digital ecosystem",
+        "meaning": "数字生态系统",
+        "examples": [
+          {
+            "sentence": "WeChat has built the most complete digital ecosystem in China.",
+            "sentence_zh": "微信构建了中国最完整的数字生态系统。"
+          },
+          {
+            "sentence": "TikTok's algorithm creates a unique content ecosystem.",
+            "sentence_zh": "TikTok算法造就了独特的内容生态系统。"
+          }
+        ]
+      }
+    ],
+    "teach": "ecosystem就像火锅底料🍲：生态链是各种食材（生物），汤底是环境🌍。马云说阿里要打造'商业生态系统'，其实就是把淘宝卖家当毛肚，支付宝当香油碟🤣！说'生态崩溃'用collapse like a house of cards（像纸牌屋倒塌），'保护生态'叫keep the balance就像调火锅火候🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'一口system'→整个生态系统要一口吃掉？",
+        "易混词：ecology（生态学）vs ecosystem（生态系统）"
+      ]
+    }
   }
 ]

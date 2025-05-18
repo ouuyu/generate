@@ -5884,5 +5884,307 @@
         "记忆tip：想象Q弹的蛋饼在说'cheese～'拍照"
       ]
     }
+  },
+  {
+    "word": "quick",
+    "etymology": {
+      "breakdown": [
+        "quic",
+        "k"
+      ],
+      "meaning_connection": "古英语cwic=活着的，原始印欧语词根gwei=生命→从'有生命的'引申出'敏捷的'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "快的",
+        "examples": [
+          {
+            "sentence": "The quick delivery of hotpot ingredients surprised us.",
+            "sentence_zh": "火锅食材的快速配送让我们很惊喜。"
+          },
+          {
+            "sentence": "She gave me a quick reply via WeChat.",
+            "sentence_zh": "她通过微信给我快速回复。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "灵敏的",
+        "examples": [
+          {
+            "sentence": "The quick response of Douyin's algorithm always knows what you like.",
+            "sentence_zh": "抖音算法的灵敏反应总能知道你喜欢什么。"
+          },
+          {
+            "sentence": "Cats have quick reflexes when catching laser dots.",
+            "sentence_zh": "猫抓激光点时反射超灵敏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "要害",
+        "examples": [
+          {
+            "sentence": "The boxer was hit in the quick during the match.",
+            "sentence_zh": "拳击手比赛中被击中要害。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quick as a flash",
+        "meaning": "快如闪电",
+        "examples": [
+          {
+            "sentence": "He finished the spicy hotpot quick as a flash.",
+            "sentence_zh": "他快如闪电地吃完了麻辣火锅。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cut to the quick",
+        "meaning": "触及痛处",
+        "examples": [
+          {
+            "sentence": "Her comment about my singing cut me to the quick.",
+            "sentence_zh": "她对我唱歌的评论直戳痛处。"
+          }
+        ]
+      }
+    ],
+    "teach": "quick其实是个'两面派'🤹：既形容外卖小哥的飞毛腿🏃（quick delivery），也形容丈母娘挑女婿的毒辣眼光👀（quick eye）。要说'手速快'可叫quick fingers像抢红包，'反应快'说quick on the draw像李佳琦秒杀🌶️。记住：当quick作名词时，千万别碰别人quick（要害）哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'亏可'→反应亏可(quick)不行就亏了",
+        "易混词：fast侧重速度，quick强调反应"
+      ]
+    }
+  },
+  {
+    "word": "quicken",
+    "etymology": {
+      "breakdown": [
+        "quick",
+        "en"
+      ],
+      "meaning_connection": "词根quick=活着的/快的，后缀-en表'使...'→使变快/使有生气"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "加快",
+        "examples": [
+          {
+            "sentence": "Douyin's algorithm quickens video loading like lightning.",
+            "sentence_zh": "抖音的算法如闪电般加快视频加载。"
+          },
+          {
+            "sentence": "The new metro line quickens the commute between Pudong and Hongqiao.",
+            "sentence_zh": "新地铁线加快了浦东到虹桥的通勤速度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "激发",
+        "examples": [
+          {
+            "sentence": "Li Bai's poetry quickened her love for classical literature.",
+            "sentence_zh": "李白的诗歌激发了她对古典文学的热爱。"
+          },
+          {
+            "sentence": "The VR experience quickened students' interest in quantum physics.",
+            "sentence_zh": "VR体验激发了学生对量子物理的兴趣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使有生气",
+        "examples": [
+          {
+            "sentence": "Spring rain quickens the withered willow by the West Lake.",
+            "sentence_zh": "春雨使西湖边的枯柳重现生机。"
+          },
+          {
+            "sentence": "The comedian's jokes quickened the dull meeting.",
+            "sentence_zh": "脱口秀演员的段子让沉闷的会议活跃起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变活跃",
+        "examples": [
+          {
+            "sentence": "The stock market quickens when policies loosen.",
+            "sentence_zh": "政策宽松时股市会变得活跃。"
+          },
+          {
+            "sentence": "Her pulse quickened seeing the Sichuan hotpot.",
+            "sentence_zh": "看到四川火锅时她的脉搏变快了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quicken one's steps",
+        "meaning": "加快脚步",
+        "examples": [
+          {
+            "sentence": "She quickened her steps when smelling roasted sweet potatoes.",
+            "sentence_zh": "闻到烤红薯香味时她加快了脚步。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quicken the pace",
+        "meaning": "提速",
+        "examples": [
+          {
+            "sentence": "China's high-speed rail continues to quicken the pace.",
+            "sentence_zh": "中国高铁不断提速。"
+          }
+        ]
+      }
+    ],
+    "teach": "quicken是时间管理大师⏱️！当它表示'加速'时像快递小哥的电动车🏍️（quicken delivery）；'激发'时像被辣椒面点燃的味蕾🌶️（quicken appetite）；'有生气'时像广场舞大妈突然切到《最炫民族风》💃（quickens the atmosphere）。记住：想表达'心跳加速'别说my heart is fast，要说my pulse quickens才地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快啃'→快啃(quicken)书加快学习进度",
+        "易混词对比：accelerate侧重机械加速，quicken更强调生命力"
+      ]
+    }
+  },
+  {
+    "word": "quickening",
+    "etymology": {
+      "breakdown": [
+        "quick",
+        "en",
+        "ing"
+      ],
+      "meaning_connection": "词根quick=生命/速度，-en使动后缀，-ing表状态→赋予生命或加速的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "胎动初期",
+        "examples": [
+          {
+            "sentence": "The mother smiled when she first felt the quickening at 18 weeks.",
+            "sentence_zh": "孕18周初次感受到胎动时，这位母亲露出了微笑。"
+          },
+          {
+            "sentence": "In ancient times, quickening was considered the moment when soul entered the body.",
+            "sentence_zh": "古时认为胎动是灵魂注入身体的时刻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "加快的",
+        "examples": [
+          {
+            "sentence": "The quickening rhythm of the drum boosted the dancers' energy.",
+            "sentence_zh": "加快的鼓点节奏让舞者更加充满活力。"
+          },
+          {
+            "sentence": "With quickening steps, she rushed to catch the last metro.",
+            "sentence_zh": "她加快脚步奔向末班地铁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "活跃的",
+        "examples": [
+          {
+            "sentence": "Spring brings quickening activity to the hibernating animals.",
+            "sentence_zh": "春日让冬眠动物恢复了活跃状态。"
+          },
+          {
+            "sentence": "The quickening stock market attracted new investors.",
+            "sentence_zh": "股市行情活跃吸引了新投资者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the quickening",
+        "meaning": "胎动现象",
+        "examples": [
+          {
+            "sentence": "Doctors use the quickening to estimate fetal development.",
+            "sentence_zh": "医生通过胎动现象评估胎儿发育情况。"
+          }
+        ]
+      }
+    ],
+    "teach": "quickening是生命加速器⚡：既指孕妇感受到'扑通扑通'的胎动🤰（像奶茶里的珍珠跳动），也形容事物进入'狂飙模式'🏎️（比如双十一的快递物流）。记住：说'市场活跃'可以用quickening market，而'心跳加速'则是quickening pulse💓。终极记忆法：quick+ening=快银(漫威英雄)在妈妈肚子里练跑步！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快克宁'→胎动像涂了快速止痛膏",
+        "易混词：quicken(v.加速) vs quickening(n.加速过程)",
+        "联想：胎动≈肚子里开小摩托🏍️"
+      ]
+    }
+  },
+  {
+    "word": "quicker",
+    "etymology": {
+      "breakdown": [
+        "quick",
+        "er"
+      ],
+      "meaning_connection": "quick（快速）+ 比较级后缀-er"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "更快的",
+        "examples": [
+          {
+            "sentence": "The new bullet train is quicker than the old one by 30 minutes.",
+            "sentence_zh": "新高铁比旧款快30分钟。"
+          },
+          {
+            "sentence": "Her typing speed became quicker after using the new keyboard.",
+            "sentence_zh": "使用新键盘后她的打字速度变快了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quicker than",
+        "meaning": "比...更快",
+        "examples": [
+          {
+            "sentence": "5G is quicker than 4G by a wide margin.",
+            "sentence_zh": "5G比4G快得多。"
+          }
+        ]
+      }
+    ],
+    "teach": "quicker就像赛跑时偷跑的兔子🐰！古英语'cwic'原指'活着的'，后来演变成'快'（死人可快不起来💀）。说'快马加鞭'是faster than lightning⚡，但'你倒是快点啊'的地道说法是Get a move on!。记住：快递小哥的座右铭——Quicker is better!🚴",
+    "recite": {
+      "tips": [
+        "谐音梗：'快客'→快递小哥(quick-er)送得更快",
+        "易混词对比：quick（原级）→ quicker（比较级）→ quickest（最高级）"
+      ]
+    }
   }
 ]

@@ -5938,5 +5938,175 @@
         "易混词对比：sale（单次交易）vs sales（销售领域）"
       ]
     }
+  },
+  {
+    "word": "salesmanship",
+    "etymology": {
+      "breakdown": [
+        "sales",
+        "man",
+        "ship"
+      ],
+      "meaning_connection": "sales=销售，man=人，-ship=技能/状态→字面意思是'销售人员的技能'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "推销技巧",
+        "examples": [
+          {
+            "sentence": "His salesmanship turned expired milk into organic face masks.",
+            "sentence_zh": "他的推销技巧能把过期牛奶说成有机面膜。"
+          },
+          {
+            "sentence": "Street vendors' salesmanship makes you believe you need that third bubble tea.",
+            "sentence_zh": "街头小贩的推销术会让你相信你需要第三杯奶茶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "游说能力",
+        "examples": [
+          {
+            "sentence": "With excellent salesmanship, she convinced her parents that gaming is a career.",
+            "sentence_zh": "凭借出色的游说能力，她说服父母电竞是正经职业。"
+          },
+          {
+            "sentence": "The politician's salesmanship made his failed policies sound like masterpieces.",
+            "sentence_zh": "这位政客的游说术让失败政策听起来像杰作。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "natural salesmanship",
+        "meaning": "天生的推销才能",
+        "examples": [
+          {
+            "sentence": "The toddler showed natural salesmanship by trading his broccoli for candy.",
+            "sentence_zh": "这个幼童用西蓝花换糖果，展现了天生的推销才能。"
+          }
+        ]
+      }
+    ],
+    "teach": "salesmanship是'忽悠学'最高境界🎭！源于美国19世纪推销员文化，当时'蛇油销售员'🐍能把菜籽油包装成万能药。要夸人'口才好'说silver-tongued（银舌头），'强行推销'叫hard sell💪。记住：好的salesmanship就像让熊猫自愿交出竹笋🎋，还觉得是自己赚了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞钱慢死'→推销员抱怨顾客付款太慢",
+        "易混词：salesman(推销员) vs. salesmanship(推销术)"
+      ]
+    }
+  },
+  {
+    "word": "salespeople",
+    "etymology": {
+      "breakdown": [
+        "sale",
+        "s",
+        "people"
+      ],
+      "meaning_connection": "sale（销售）+ 复数s + people（人）→ 从事销售工作的人们"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "售货员",
+        "examples": [
+          {
+            "sentence": "The salespeople at this tech store can recite smartphone specs like rap lyrics.",
+            "sentence_zh": "这家科技店的售货员背诵手机参数像说唱歌词一样溜。"
+          },
+          {
+            "sentence": "Luxury brand salespeople develop radar for spotting potential big spenders.",
+            "sentence_zh": "奢侈品售货员会培养识别潜在土豪的雷达。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "店员",
+        "examples": [
+          {
+            "sentence": "Bubble tea shop salespeople have mastered the art of remembering 100+ custom orders.",
+            "sentence_zh": "奶茶店店员掌握了记住100多种客制化订单的技能。"
+          },
+          {
+            "sentence": "The veteran salespeople at the bookstore can recommend books by reading customers' vibes.",
+            "sentence_zh": "书店资深店员通过读顾客气场就能推荐书籍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "retail salespeople",
+        "meaning": "零售店员",
+        "examples": [
+          {
+            "sentence": "Retail salespeople during Double 11 develop ninja-like packaging skills.",
+            "sentence_zh": "双十一期间的零售店员会练就忍者般的打包技能。"
+          }
+        ]
+      }
+    ],
+    "teach": "salespeople是行走的销售永动机💰！古代集市叫卖像live直播🎤（street salespeople），现代柜姐用美颜相机帮你试口红💄（makeup counter salespeople）。说'销售冠军'用top seller，'砍价高手'叫price negotiator。记住：遇到super salespeople，你的钱包会减肥！👛➡️👻",
+    "recite": {
+      "tips": [
+        "谐音梗：'说啊撕批剖'→销售员说啊别撕包装(销售场景)",
+        "易混词对比：salesman(男销售员) vs saleswoman(女销售员)"
+      ]
+    }
+  },
+  {
+    "word": "salesperson",
+    "etymology": {
+      "breakdown": [
+        "sale",
+        "s",
+        "person"
+      ],
+      "meaning_connection": "sale表示'销售'，person表示'人'，组合起来指'从事销售工作的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "售货员",
+        "examples": [
+          {
+            "sentence": "The salesperson at the tea shop demonstrated gongfu tea brewing techniques.",
+            "sentence_zh": "茶店的售货员演示了功夫茶冲泡技艺。"
+          },
+          {
+            "sentence": "As a smartphone salesperson, she memorized all the specs of Huawei's latest models.",
+            "sentence_zh": "作为手机售货员，她熟记华为最新机型的所有参数。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "retail salesperson",
+        "meaning": "零售店员",
+        "examples": [
+          {
+            "sentence": "The retail salesperson unpacked the latest limited-edition sneakers.",
+            "sentence_zh": "零售店员正在拆箱最新限量版球鞋。"
+          }
+        ]
+      }
+    ],
+    "teach": "salesperson是行走的种草机🌱！古代商队就像移动的淘宝店🏺，现代salesperson要掌握'看人下菜碟'的艺术：对 tech 宅要说'骁龙8核'🤖，对小姐姐得聊'拍照美颜'📸。'嘴皮子利索'叫 silver-tongued，'销售冠军'用 top seller 形容。记住：每个salesperson都是语言心理学家+产品百科全书！",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞钱办事'→salesperson要靠业绩说话",
+        "易混词对比：salesman(男销售)/saleswoman(女销售)",
+        "联想记忆：SALE（销售）+PERSON（人）= 把东西'塞'给别人的人"
+      ]
+    }
   }
 ]

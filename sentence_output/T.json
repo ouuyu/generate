@@ -6157,5 +6157,274 @@
         "易混词对比：lard（猪油） vs tallow（牛/羊油）"
       ]
     }
+  },
+  {
+    "word": "tally",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'taille'（刻痕记账），与古英语'talu'（故事/计数）同源，最初指在木棍上刻痕记账的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "符木（刻痕记账的木棍）",
+        "examples": [
+          {
+            "sentence": "The shepherd notched a tally to count his sheep.",
+            "sentence_zh": "牧羊人在符木上刻痕清点羊群数量。"
+          },
+          {
+            "sentence": "British Parliament still keeps the historic tally sticks in museums.",
+            "sentence_zh": "英国议会博物馆仍保存着历史上的记账符木。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "得分",
+        "examples": [
+          {
+            "sentence": "The final tally showed 3:2 for the Chinese team.",
+            "sentence_zh": "最终比分显示中国队3比2获胜。"
+          },
+          {
+            "sentence": "Keep a tally of your WeChat steps to win prizes.",
+            "sentence_zh": "记录微信步数得分可兑换奖品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "标签",
+        "examples": [
+          {
+            "sentence": "Each luggage has a tally with the owner's contact info.",
+            "sentence_zh": "每件行李都挂着带有联系人信息的标签。"
+          },
+          {
+            "sentence": "The museum curator attached tallies to the artifacts.",
+            "sentence_zh": "博物馆馆长为文物加装标签。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "记录",
+        "examples": [
+          {
+            "sentence": "Ancient merchants tallied transactions on bamboo slips.",
+            "sentence_zh": "古代商人用竹简记录交易。"
+          },
+          {
+            "sentence": "The app automatically tallies your sleep patterns.",
+            "sentence_zh": "这个APP会自动记录你的睡眠模式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "符合",
+        "examples": [
+          {
+            "sentence": "His story doesn't tally with the surveillance video.",
+            "sentence_zh": "他的说辞与监控录像不符。"
+          },
+          {
+            "sentence": "The inventory should tally with the computer records.",
+            "sentence_zh": "库存应当与电脑记录吻合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tally up",
+        "meaning": "合计",
+        "examples": [
+          {
+            "sentence": "Let's tally up our Douyin earnings this month.",
+            "sentence_zh": "我们来合计下本月抖音收益。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tally with",
+        "meaning": "与...一致",
+        "examples": [
+          {
+            "sentence": "The test results tallied perfectly with his predictions.",
+            "sentence_zh": "测试结果与他的预测完全吻合。"
+          }
+        ]
+      }
+    ],
+    "teach": "tally是古代版Excel📊！最早是牧羊人在木棍(tally stick)上刻痕数羊🐑，后来变成篮球记分牌🏀。'对不上账'叫don't tally（就像淘宝订单和快递单号对不上📦），'结账'说tally up就像数火锅签子🍢。记住：tally的本质就是‘刻刻刻-对对对’三步骤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太累'→对账对得太累(tally)",
+        "对比：tally vs. calculate（前者强调逐一核对，后者侧重复杂运算）",
+        "记忆法：TT（天天）记账→TALLY"
+      ]
+    }
+  },
+  {
+    "word": "talon",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语tālus（踝骨），后演变为猛禽的钩爪形态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "猛禽的爪",
+        "examples": [
+          {
+            "sentence": "The eagle's talons could crush a turtle shell instantly.",
+            "sentence_zh": "鹰爪能瞬间捏碎龟壳。"
+          },
+          {
+            "sentence": "Look at those terrifying talons on the owl!",
+            "sentence_zh": "看那只猫头鹰的恐怖钩爪！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "如爪的手",
+        "examples": [
+          {
+            "sentence": "The old man's talons trembled as he reached for the medicine.",
+            "sentence_zh": "老人如爪的双手在拿药时不停颤抖。"
+          },
+          {
+            "sentence": "Her talon-like fingers left marks on the table.",
+            "sentence_zh": "她如爪的手指在桌上留下痕迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "魔爪（比喻邪恶控制）",
+        "examples": [
+          {
+            "sentence": "The city finally escaped the talons of organized crime.",
+            "sentence_zh": "这座城市终于摆脱了黑帮的魔爪。"
+          },
+          {
+            "sentence": "Many startups fell into the talons of venture capitalists.",
+            "sentence_zh": "许多初创公司落入风投的掌控之中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "爪饰（建筑装饰）",
+        "examples": [
+          {
+            "sentence": "Gothic buildings often feature talon decorations on eaves.",
+            "sentence_zh": "哥特式建筑常在檐口装饰爪形纹样。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in the talons of",
+        "meaning": "受...掌控",
+        "examples": [
+          {
+            "sentence": "The small country is in the talons of its powerful neighbor.",
+            "sentence_zh": "这个小国被强大邻国牢牢控制。"
+          }
+        ]
+      }
+    ],
+    "teach": "talon是猛禽的'夺命剪刀手'✂️！老鹰用talon抓鱼就像你用筷子夹火锅丸子🍡。说'落入魔爪'可以用fall into the talons of，'凶狠讨债'叫money-taloned collectors（长着钱爪的讨债人）。记住：看到talon就想象霸王龙在抢你外卖的爪子🦖！",
+    "recite": {
+      "tips": [
+        "视觉联想：Talon→塔龙（谐音塔）+龙爪",
+        "易混词：claw（普通动物的爪）vs talon（猛禽特有的钩爪）",
+        "记忆口诀：Talon talon钩钩爪，抓住猎物别想跑"
+      ]
+    }
+  },
+  {
+    "word": "tam",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "直接源自苏格兰盖尔语'tam o'shanter'（一种传统宽顶无沿帽），后缩写为tam"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "苏格兰便帽",
+        "examples": [
+          {
+            "sentence": "The bagpiper adjusted his red tam before the performance.",
+            "sentence_zh": "风笛手在表演前调整了他的红色苏格兰便帽。"
+          },
+          {
+            "sentence": "Her woolen tam matched perfectly with the tartan skirt.",
+            "sentence_zh": "她的羊毛苏格兰便帽与格纹裙完美相配。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tam o'shanter",
+        "meaning": "传统苏格兰宽顶帽（全称）",
+        "examples": [
+          {
+            "sentence": "The museum displayed Robert Burns' original tam o'shanter.",
+            "sentence_zh": "博物馆展出了罗伯特·彭斯戴过的原版苏格兰宽顶帽。"
+          }
+        ]
+      }
+    ],
+    "teach": "这顶帽子藏着苏格兰的威士忌密码🥃！tam其实是'tam o'shanter'的缩写，源自诗人罗伯特·彭斯同名叙事诗。想象它像倒扣的威士忌酒杯🍺（顶部绒球就是酒泡），传统做法是用整张兔毛缝制🐇。搭配神器：格纹围巾+风笛=全套苏格兰皮肤🎻，说'戴歪了'叫on crooked就像醉汉戴帽🥴。",
+    "recite": {
+      "tips": [
+        "谐音梗：'太木'→戴着木桶般的tam帽",
+        "易混词：beret（贝雷帽没有绒球）"
+      ]
+    }
+  },
+  {
+    "word": "tamarisk",
+    "etymology": {
+      "breakdown": [
+        "tamar",
+        "isk"
+      ],
+      "meaning_connection": "词源来自拉丁语tamarix，后缀-isk表植物属性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "柽柳（耐盐碱的灌木）",
+        "examples": [
+          {
+            "sentence": "The tamarisk's pink flowers look like mini fireworks along desert roads.",
+            "sentence_zh": "柽柳的粉花在沙漠公路旁绽放如迷你烟花。"
+          },
+          {
+            "sentence": "Ancient Silk Road travelers used tamarisk branches as natural toothbrushes.",
+            "sentence_zh": "古代丝绸之路商人用柽柳枝当天然牙刷。"
+          }
+        ]
+      }
+    ],
+    "teach": "这货是植物界的骆驼🐫！能在含盐量比海水高3倍的地方活（难怪词根tamar和'tamarind罗望子'有关联）。敦煌壁画里就有它🌿，古人叫'红荆条'。搭配说'tamarisk hedge'（柽柳篱笆）或'blooming tamarisk'（开花柽柳），新疆人管它叫'钢柳'💪——因为连钢铁厂旁边都能长！",
+    "recite": {
+      "tips": [
+        "谐音梗：'他妈risk'→他妈冒险(risk)在盐碱地种它",
+        "易混词：willow（普通柳树）叶片更宽"
+      ]
+    }
   }
 ]

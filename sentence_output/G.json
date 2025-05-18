@@ -5783,5 +5783,198 @@
         "易混词对比：garage vs. parking lot（露天停车场）"
       ]
     }
+  },
+  {
+    "word": "gap",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古北欧语'gap'，意为'打哈欠的开口'，后引申为各种间隔概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "缝隙",
+        "examples": [
+          {
+            "sentence": "The kitten squeezed through a 5cm gap in the fence.",
+            "sentence_zh": "小猫从围栏5厘米的缝隙里钻了过去。"
+          },
+          {
+            "sentence": "Sunlight leaked through the gap between the curtains.",
+            "sentence_zh": "阳光从窗帘缝隙中漏进来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "缺口",
+        "examples": [
+          {
+            "sentence": "The Great Wall has a strategic gap at Jiayuguan.",
+            "sentence_zh": "长城在嘉峪关留有战略缺口。"
+          },
+          {
+            "sentence": "The typhoon created a 20-meter gap in the seawall.",
+            "sentence_zh": "台风在防波堤上撕开了20米的缺口。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "间断",
+        "examples": [
+          {
+            "sentence": "There's a 2-year gap in his employment history.",
+            "sentence_zh": "他的工作经历中有两年间断。"
+          },
+          {
+            "sentence": "The movie fills the gap between the two TV seasons.",
+            "sentence_zh": "这部电影填补了两季电视剧之间的间断。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "间距",
+        "examples": [
+          {
+            "sentence": "Mind the gap between the train and the platform.",
+            "sentence_zh": "请注意列车与站台之间的间距。"
+          },
+          {
+            "sentence": "The ideal toothbrush has 0.5mm gaps between bristles.",
+            "sentence_zh": "理想牙刷的刷毛间距是0.5毫米。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "打开缺口",
+        "examples": [
+          {
+            "sentence": "The cannon fire gapped the castle walls.",
+            "sentence_zh": "炮火在城堡墙壁上打开了缺口。"
+          },
+          {
+            "sentence": "Earthquakes often gap mountain ranges.",
+            "sentence_zh": "地震常使山脉出现缺口。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "豁开",
+        "examples": [
+          {
+            "sentence": "The old jacket gapped at the seams.",
+            "sentence_zh": "旧夹克在接缝处豁开了。"
+          },
+          {
+            "sentence": "Her smile gapped where a tooth was missing.",
+            "sentence_zh": "她笑起来缺牙的地方会豁开。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "generation gap",
+        "meaning": "代沟",
+        "examples": [
+          {
+            "sentence": "TikTok dances highlight the generation gap between parents and teens.",
+            "sentence_zh": "抖音舞蹈凸显了父母与青少年之间的代沟。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bridge the gap",
+        "meaning": "弥合差距",
+        "examples": [
+          {
+            "sentence": "Online education bridges the gap between urban and rural students.",
+            "sentence_zh": "在线教育弥合了城乡学生之间的差距。"
+          }
+        ]
+      }
+    ],
+    "teach": "gap是个万能洞🕳️！从牛仔裤破洞👖(clothing gap)到银河系裂缝🌌(cosmic gap)，连你忘记充电时的手机电量⌛(battery gap)都能用！英国地铁'Mind the gap'广播已成文化符号🚇，而'工资差距'要说pay gap而不是salary hole💰。记住：所有'没连上'的地方，都是gap的舞台！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖破'→盖子破了就有gap",
+        "易混词：hole是实心洞，gap是边缘开口"
+      ]
+    }
+  },
+  {
+    "word": "garbage",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'garber'（挑选），指被挑剩的废弃物品"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "生活垃圾",
+        "examples": [
+          {
+            "sentence": "Shanghai's garbage sorting policy makes residents classify trash into 4 colors.",
+            "sentence_zh": "上海的垃圾分类政策要求居民将垃圾分成4种颜色。"
+          },
+          {
+            "sentence": "The smell of uncollected garbage in summer is worse than durian.",
+            "sentence_zh": "夏天堆积的垃圾气味比榴莲还可怕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无用之物",
+        "examples": [
+          {
+            "sentence": "My drawer is full of garbage like broken phone chargers.",
+            "sentence_zh": "我的抽屉塞满了破损充电线之类的废物。"
+          },
+          {
+            "sentence": "Those celebrity gossip magazines are pure garbage.",
+            "sentence_zh": "那些明星八卦杂志纯粹是垃圾信息。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "garbage truck",
+        "meaning": "垃圾车",
+        "examples": [
+          {
+            "sentence": "The melody of Taiwan's garbage trucks sounds like ice cream vans.",
+            "sentence_zh": "台湾垃圾车的音乐声像冰淇淋车一样悦耳。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "garbage can",
+        "meaning": "垃圾桶",
+        "examples": [
+          {
+            "sentence": "Peking University's intelligent garbage cans scan QR codes.",
+            "sentence_zh": "北京大学的智能垃圾桶会扫描二维码。"
+          }
+        ]
+      }
+    ],
+    "teach": "垃圾也有文化史🗑️！中世纪欧洲把垃圾倒街上（所以伦敦有'Fleet Street'粪街），而日本江户时代就有专业收废纸的'纸屑屋'🇯🇵。说'废话连篇'可以用garbage talk（垃圾话），'倒垃圾'叫take out the trash🚮。记住：垃圾分类时你是个哲学家——'这是什么垃圾？'是终极哲学问题🤔",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬憋急'→尴尬地憋着垃圾很着急",
+        "易混词：trash（美式）/rubbish（英式）",
+        "记忆法：GARBAGE=Great Amounts of Rotten Bad Awful Gross Elements（大量腐烂糟糕恶心物的首字母）"
+      ]
+    }
   }
 ]

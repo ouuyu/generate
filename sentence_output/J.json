@@ -6135,5 +6135,318 @@
         "易混词对比：pier（观光码头）vs jetty（功能型堤岸）"
       ]
     }
+  },
+  {
+    "word": "Jew",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语'giu', 拉丁语'Iudaeus', 希腊语'Ioudaios', 希伯来语'Yehudi'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "犹太人",
+        "examples": [
+          {
+            "sentence": "Einstein was a Jew who changed the world with his theories.",
+            "sentence_zh": "爱因斯坦是改变世界的犹太裔科学家。"
+          },
+          {
+            "sentence": "The museum showcases 2000 years of Jew history in China.",
+            "sentence_zh": "这座博物馆展示了犹太人在华的2000年历史。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "守财奴",
+        "examples": [
+          {
+            "sentence": "Don't be such a Jew with your birthday red packets!",
+            "sentence_zh": "发生日红包别这么吝啬嘛！"
+          },
+          {
+            "sentence": "That Jew landlord charges for every drop of water.",
+            "sentence_zh": "那个抠门房东连水滴都要计费。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "犹太教信徒",
+        "examples": [
+          {
+            "sentence": "A Jew prays at the Wailing Wall in Jerusalem.",
+            "sentence_zh": "犹太教徒在耶路撒冷哭墙前祈祷。"
+          },
+          {
+            "sentence": "Kosher food is prepared according to Jew dietary laws.",
+            "sentence_zh": "洁食是根据犹太教饮食法规制作的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "欺骗",
+        "examples": [
+          {
+            "sentence": "The tourist got jewed when buying 'authentic' terracotta warriors.",
+            "sentence_zh": "游客购买'真品'兵马俑时被坑了。"
+          },
+          {
+            "sentence": "That antique dealer always tries to jew customers.",
+            "sentence_zh": "那古董商总想欺诈顾客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "杀价",
+        "examples": [
+          {
+            "sentence": "She jewed the price down to half at the silk market.",
+            "sentence_zh": "她在丝绸市场杀价到一半。"
+          },
+          {
+            "sentence": "My grandma can jew any vendor into giving discounts.",
+            "sentence_zh": "我奶奶能让任何商贩打折。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Jew's harp",
+        "meaning": "口弦琴",
+        "examples": [
+          {
+            "sentence": "The ethnic musician played a Jew's harp with amazing skill.",
+            "sentence_zh": "民乐演奏家用口弦琴展现惊人技艺。"
+          }
+        ]
+      }
+    ],
+    "teach": "Jew这个词就像青铜神树🌳：作为民族称谓时代表智慧（爱因斯坦等犹太科学家💡），作为贬义时却变成'抠门鬼'的刻板印象（莎士比亚《威尼斯商人》里的夏洛克💸）。要特别注意：用作动词时带有冒犯性！地道表达'砍价高手'说haggler like a Persian bazaar merchant🕌，'吝啬鬼'更礼貌的说法是penny-pincher💰。",
+    "recite": {
+      "tips": [
+        "历史梗：中世纪欧洲禁止犹太人从事多数职业，只能放贷，形成'守财奴'偏见",
+        "易混词：Jewish（adj.）比Jew（n.）更正式礼貌",
+        "视觉联想：'Jew'里的'w'像烛台🕎，记住犹太光明节"
+      ]
+    }
+  },
+  {
+    "word": "jewel",
+    "etymology": {
+      "breakdown": [
+        "jewel"
+      ],
+      "meaning_connection": "源自古法语'jouel'，原指'玩耍的小物件'，后演变为贵重装饰品"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "珠宝",
+        "examples": [
+          {
+            "sentence": "The crown jewels sparkled like trapped starlight.",
+            "sentence_zh": "皇冠珠宝如同捕获的星光般闪耀。"
+          },
+          {
+            "sentence": "She wore traditional Miao silver jewels for her wedding.",
+            "sentence_zh": "她婚礼时佩戴了苗族传统银饰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "贵重物",
+        "examples": [
+          {
+            "sentence": "This handwritten recipe is the jewel of our family.",
+            "sentence_zh": "这份手写食谱是我们家的传家宝。"
+          },
+          {
+            "sentence": "The panda is considered a living jewel of China.",
+            "sentence_zh": "熊猫被视为中国的活体珍宝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "镶珠宝的饰物",
+        "examples": [
+          {
+            "sentence": "The Forbidden City displays exquisite jewel hairpins.",
+            "sentence_zh": "故宫陈列着精美的珠宝发簪。"
+          },
+          {
+            "sentence": "His jewel-encrusted belt buckle caught everyone's attention.",
+            "sentence_zh": "他镶满宝石的皮带扣吸引了所有人的目光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "饰以珠宝",
+        "examples": [
+          {
+            "sentence": "The artisan jeweled the hairpin with freshwater pearls.",
+            "sentence_zh": "匠人用淡水珍珠装饰这支发簪。"
+          },
+          {
+            "sentence": "Ancient Tibetans jeweled their prayer wheels with turquoise.",
+            "sentence_zh": "藏族人用绿松石装饰转经筒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "镶以宝石",
+        "examples": [
+          {
+            "sentence": "They jeweled the dragon sculpture with ruby eyes.",
+            "sentence_zh": "他们给龙形雕塑镶嵌了红宝石眼睛。"
+          },
+          {
+            "sentence": "The imperial seal was jeweled with the finest jade.",
+            "sentence_zh": "玉玺镶有最上等的和田玉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jewel in the crown",
+        "meaning": "皇冠上的明珠（喻最珍贵部分）",
+        "examples": [
+          {
+            "sentence": "The Terracotta Army is the jewel in China's cultural crown.",
+            "sentence_zh": "兵马俑是中国文化皇冠上的明珠。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jewel thief",
+        "meaning": "珠宝大盗",
+        "examples": [
+          {
+            "sentence": "The jewel thief disguised himself as a museum cleaner.",
+            "sentence_zh": "珠宝大盗伪装成博物馆清洁工。"
+          }
+        ]
+      }
+    ],
+    "teach": "jewel这个词自带BGM💎！想象商朝工匠在青铜器上镶嵌绿松石（jewel the ritual vessels），就像给手机贴水钻📱。说'传家宝'用family jewel会闹笑话（实际指男性生殖器），正确说法是heirloom jewel。搭配jewel box指首饰盒🎁，而jewel tone则是宝石色调的穿搭。记住：真正的jewel可能是你奶奶的翡翠镯子，也可能是你写满注释的《五年高考》📚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'珠儿'→《还珠格格》里的小燕子就是活宝(jewel)",
+        "易混词：jewelry是珠宝总称，jewel是单件",
+        "记忆口诀：J=金 E=玉 W=王 E=耳 L=链"
+      ]
+    }
+  },
+  {
+    "word": "jewelled",
+    "etymology": {
+      "breakdown": [
+        "jewel",
+        "led"
+      ],
+      "meaning_connection": "词根jewel=宝石，后缀-led表示'具有...的'→字面意思'具有宝石的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "用宝石装饰的",
+        "examples": [
+          {
+            "sentence": "The queen's jewelled crown blinded the photographers.",
+            "sentence_zh": "女王镶满宝石的王冠闪瞎了摄影师们的眼。"
+          },
+          {
+            "sentence": "Her jewelled phone case costs more than the phone itself.",
+            "sentence_zh": "她那镶钻手机壳比手机本身还贵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有宝石的",
+        "examples": [
+          {
+            "sentence": "The museum displays a jewelled dagger from Mughal era.",
+            "sentence_zh": "博物馆展出一把莫卧儿时期的宝石匕首。"
+          },
+          {
+            "sentence": "He gifted her a jewelled hairpin shaped like a phoenix.",
+            "sentence_zh": "他送了她一支凤凰造型的宝石发簪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "镶有宝石的",
+        "examples": [
+          {
+            "sentence": "The jewelled handle turned out to be fake crystals.",
+            "sentence_zh": "那镶宝石的把手后来被发现是人造水晶。"
+          },
+          {
+            "sentence": "Bollywood stars often wear jewelled saris to award ceremonies.",
+            "sentence_zh": "宝莱坞明星常穿镶宝石纱丽出席颁奖礼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "饰有宝石的",
+        "examples": [
+          {
+            "sentence": "The jewelled Easter eggs in Kremlin weigh over 50kg each.",
+            "sentence_zh": "克里姆林宫那些饰有宝石的彩蛋每颗超50公斤。"
+          },
+          {
+            "sentence": "Ancient Chinese emperors wore jewelled hats with hanging pearls.",
+            "sentence_zh": "中国古代皇帝戴的冕冠饰有宝石和垂珠。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jewelled eyes",
+        "meaning": "宝石般的眼睛（比喻）",
+        "examples": [
+          {
+            "sentence": "The Siberian husky's jewelled eyes glow in the dark.",
+            "sentence_zh": "这只哈士奇宝石般的眼睛在黑暗中发光。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jewelled words",
+        "meaning": "华美辞藻",
+        "examples": [
+          {
+            "sentence": "Her speech was full of jewelled words but empty meaning.",
+            "sentence_zh": "她的演讲满是华丽辞藻却空洞无物。"
+          }
+        ]
+      }
+    ],
+    "teach": "jewelled这词自带土豪金特效✨！想象乾隆皇帝的百宝箱💎（jewelled cabinet），或是《泰坦尼克号》里那颗海洋之心🔵（jewelled necklace）。说'镶满宝石'用studded with gems更地道，比如'她的戒指镶满宝石'→Her ring is studded with gems。记住：真正的jewelled物品都能让安检仪哔哔响！🚨",
+    "recite": {
+      "tips": [
+        "谐音梗：'珠喂的'→用珠宝喂(jewelled)饱你的虚荣心",
+        "易混词：jewelled(镶宝石的) vs. jeweled(美式拼法)",
+        "记忆tip：想象把jewel(宝石)像乐高一样-led(拼接)"
+      ]
+    }
   }
 ]

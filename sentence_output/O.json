@@ -6030,5 +6030,86 @@
         "易混词对比：obstetric（产科）vs pediatric（儿科）→前者管进医院，后者管出院后"
       ]
     }
+  },
+  {
+    "word": "obstetrician",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "stet",
+        "rician"
+      ],
+      "meaning_connection": "前缀ob-表示'在...前'，词根stet来自拉丁语stare（站立），-ician表'职业者'→原指'站在产妇面前的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "产科医师",
+        "examples": [
+          {
+            "sentence": "The obstetrician skillfully delivered twins under disco lights when the hospital lost power.",
+            "sentence_zh": "当医院停电时，产科医师在迪斯科灯光下熟练接生了一对双胞胎。"
+          },
+          {
+            "sentence": "As an obstetrician in 18th-century France, he pioneered handwashing decades before germ theory.",
+            "sentence_zh": "作为18世纪法国的产科医师，他在细菌理论出现前几十年就率先推行洗手制度。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obstetrician-gynecologist",
+        "meaning": "妇产科医师",
+        "examples": [
+          {
+            "sentence": "The OB-GYN kept rainbow-colored forceps to ease pregnant women's anxiety.",
+            "sentence_zh": "这位妇产科医师准备了彩虹色产钳来缓解孕妇焦虑。"
+          }
+        ]
+      }
+    ],
+    "teach": "产科医师(obstetrician)是生命派送员🚑！词源里藏着'站立接生'的姿势（ob+stet），就像现代版送子观音👶。他们最怕听到'我老公说...'（husband stitch梗），常用搭配有：delivery room（产房）、epidural anesthesia（无痛分娩）。地道说法叫baby catcher（接住宝宝的人）🤱。记住：每个obstetrician都是会缝合的哲学家——他们总在思考'先有伤口还是先有生命'",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不死特开心'→产科医师救回产妇时",
+        "易混词对比：pediatrician（儿科医师）照顾已出生的，obstetrician负责未出生的"
+      ]
+    }
+  },
+  {
+    "word": "obstetrics",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "stet",
+        "rics"
+      ],
+      "meaning_connection": "前缀ob-表示'在对面'，词根stet来自拉丁语'stare'（站立），-ics表学科→原指'站在产妇对面接生'的技艺"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "产科学",
+        "examples": [
+          {
+            "sentence": "The hospital's obstetrics department delivers 30 babies daily on average.",
+            "sentence_zh": "该医院产科平均每日接生30名婴儿。"
+          },
+          {
+            "sentence": "Modern obstetrics combines technology with traditional midwifery skills.",
+            "sentence_zh": "现代产科学将科技与传统助产技术结合。"
+          }
+        ]
+      }
+    ],
+    "teach": "obstetrics是'接生侠'学科🤰！古罗马接生婆(obstetrix)就像交通警察🚦站在(sta-)产妇对面(ob-)，现代产科医生则是高科技驯兽师👨⚕️，用超声波驯服调皮胎儿。说'顺产'叫natural delivery，'剖腹产'是C-section像取快递📦。记住：产科医生是唯一会喊'push!'的医生💪！",
+    "recite": {
+      "tips": [
+        "视觉联想：ob(圆肚)+stet(站)+rics→站着守护孕妇圆肚的学科",
+        "易混词对比：pediatrics（儿科）vs obstetrics（产科）"
+      ]
+    }
   }
 ]

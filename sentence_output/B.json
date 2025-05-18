@@ -5946,5 +5946,282 @@
         "记忆法：BI+LANX=双盘子=天平"
       ]
     }
+  },
+  {
+    "word": "balanced",
+    "etymology": {
+      "breakdown": [
+        "balance",
+        "ed"
+      ],
+      "meaning_connection": "词根balance来自拉丁语'bilanx'（双秤盘），-ed表形容词→像天平两端相等的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "公平的",
+        "examples": [
+          {
+            "sentence": "The judge gave a balanced ruling that satisfied both parties.",
+            "sentence_zh": "法官做出了让双方都满意的公平裁决。"
+          },
+          {
+            "sentence": "A balanced news report should present all perspectives.",
+            "sentence_zh": "公平的新闻报道应呈现所有观点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "平衡的",
+        "examples": [
+          {
+            "sentence": "Yoga masters can hold balanced poses for 10 minutes.",
+            "sentence_zh": "瑜伽大师能保持平衡姿势十分钟。"
+          },
+          {
+            "sentence": "The acrobat walked on a tightrope with perfectly balanced movements.",
+            "sentence_zh": "杂技演员以完全平衡的动作走钢丝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "well-balanced",
+        "meaning": "均衡的",
+        "examples": [
+          {
+            "sentence": "A well-balanced diet includes spicy hotpot and green tea.",
+            "sentence_zh": "均衡饮食包含麻辣火锅和绿茶。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "balanced scorecard",
+        "meaning": "平衡计分卡",
+        "examples": [
+          {
+            "sentence": "Our KPI system uses the balanced scorecard method.",
+            "sentence_zh": "我们的绩效考核采用平衡计分卡方法。"
+          }
+        ]
+      }
+    ],
+    "teach": "balanced就像太极图☯️：阴阳调和才叫平衡！古罗马正义女神一手持天平⚖️一手举剑🗡️，现代人追求work-life balance（工作生活平衡）却总在加班和躺平间摇摆🤹。说'端水大师'可以用balanced person，'营养均衡'是balanced nutrition。记住：真正的balanced就像吃火锅——辣锅清汤都要有🌶️🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'掰揽丝带'→掰弯(balanced)揽住的丝带保持平衡",
+        "易混词对比：balance（n.平衡） vs balcony（n.阳台）"
+      ]
+    }
+  },
+  {
+    "word": "balancer",
+    "etymology": {
+      "breakdown": [
+        "balance",
+        "er"
+      ],
+      "meaning_connection": "词根balance表示'平衡'，后缀-er表示'执行动作的人或物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "起平衡作用的人",
+        "examples": [
+          {
+            "sentence": "The diplomat acted as a balancer between the two conflicting nations.",
+            "sentence_zh": "这位外交官在两国冲突中扮演了调停者的角色。"
+          },
+          {
+            "sentence": "In group projects, she's always the balancer who mediates disagreements.",
+            "sentence_zh": "在小组项目中，她总是充当调解分歧的平衡者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "平衡器",
+        "examples": [
+          {
+            "sentence": "The washing machine has automatic balancers to prevent shaking during spin cycles.",
+            "sentence_zh": "这款洗衣机配有自动平衡器防止脱水时晃动。"
+          },
+          {
+            "sentence": "Bicycle balancers help kids learn to ride without training wheels.",
+            "sentence_zh": "自行车平衡器帮助孩子不用辅助轮就能学会骑行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "走钢丝者",
+        "examples": [
+          {
+            "sentence": "The balancer performed breathtaking stunts 50 meters above the ground.",
+            "sentence_zh": "这位走钢丝者在50米高空表演令人屏息的绝技。"
+          },
+          {
+            "sentence": "As a professional balancer, he can walk on a rope while juggling.",
+            "sentence_zh": "作为职业走钢丝者，他能在绳索上边行走边杂耍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "natural balancer",
+        "meaning": "天然平衡者",
+        "examples": [
+          {
+            "sentence": "Wolves are nature's balancers that control deer populations.",
+            "sentence_zh": "狼是控制鹿群数量的天然平衡者。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "budget balancer",
+        "meaning": "预算平衡方案",
+        "examples": [
+          {
+            "sentence": "The new tax policy serves as a budget balancer for the government.",
+            "sentence_zh": "新税收政策成为政府的预算平衡方案。"
+          }
+        ]
+      }
+    ],
+    "teach": "balancer就像《射雕英雄传》里的老顽童🤹，既能当和事佬（人际balancer），又能踩酒壶走钢丝（物理balancer）！想夸人'八面玲珑'可以说social balancer，吐槽'端水大师'用这个词也超合适💧。记住：好的relationship需要balancer，就像火锅需要鸳鸯锅🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白兰蛇'→白娘子用balancer走西湖断桥",
+        "易混词：balance（平衡状态） vs balancer（实现平衡的人/物）"
+      ]
+    }
+  },
+  {
+    "word": "balancing",
+    "etymology": {
+      "breakdown": [
+        "balance",
+        "ing"
+      ],
+      "meaning_connection": "词根balance来自拉丁语'bilanx'（双秤盘→平衡），-ing表进行时或动名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "平衡",
+        "examples": [
+          {
+            "sentence": "Panda keepers practice bamboo balancing like circus performers.",
+            "sentence_zh": "熊猫饲养员练习竹子平衡术像马戏团演员。"
+          },
+          {
+            "sentence": "Tai chi masters teach the art of mental balancing.",
+            "sentence_zh": "太极大师教授精神平衡的艺术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "结算",
+        "examples": [
+          {
+            "sentence": "Alipay completes billions of digital balancing daily.",
+            "sentence_zh": "支付宝每日完成数十亿笔数字结算。"
+          },
+          {
+            "sentence": "The midnight balancing at tea shops involves counting milk tea pearls.",
+            "sentence_zh": "奶茶店的午夜结算包括清点珍珠数量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "work-life balancing",
+        "meaning": "工作生活平衡",
+        "examples": [
+          {
+            "sentence": "Tech workers use meditation apps for better work-life balancing.",
+            "sentence_zh": "科技从业者用冥想APP优化工作生活平衡。"
+          }
+        ]
+      }
+    ],
+    "teach": "balancing就像走钢丝🎪！会计结算时像杂技演员在数字间跳跃💻，生活平衡时像熊猫抱竹不摔倒🎋。'月光族'叫balance-challenged（余额挑战者），'完美平衡'说strike a balance像火锅鸳鸯锅🌶️🍲。记住：人生不是微信零钱，不能只进不出！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白兰寺'→和尚练平衡的白兰寺",
+        "易混词：balance（静态平衡） vs. balancing（动态平衡过程）"
+      ]
+    }
+  },
+  {
+    "word": "balcony",
+    "etymology": {
+      "breakdown": [
+        "balcon",
+        "y"
+      ],
+      "meaning_connection": "源自意大利语balcone（脚手架），后缀-y表场所→最初指临时搭建的高台，后固定为建筑结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "阳台",
+        "examples": [
+          {
+            "sentence": "She grows chili peppers on her tiny balcony in Chengdu.",
+            "sentence_zh": "她在成都的小阳台上种辣椒。"
+          },
+          {
+            "sentence": "The cat knocked over flower pots while chasing moths on the balcony.",
+            "sentence_zh": "猫咪在阳台追飞蛾时打翻了花盆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "戏院楼厅",
+        "examples": [
+          {
+            "sentence": "We got cheap balcony seats for the Peking Opera performance.",
+            "sentence_zh": "我们买了京剧演出的便宜楼厅座位。"
+          },
+          {
+            "sentence": "The actor waved to fans in the balcony during curtain call.",
+            "sentence_zh": "谢幕时演员向楼厅的粉丝挥手。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Juliet balcony",
+        "meaning": "朱丽叶式小阳台",
+        "examples": [
+          {
+            "sentence": "The boutique hotel features faux Juliet balconies for Instagram photos.",
+            "sentence_zh": "这家精品酒店设有假朱丽叶式小阳台供拍照。"
+          }
+        ]
+      }
+    ],
+    "teach": "balcony是浪漫与尴尬并存的地方💘：罗密欧爬过的叫Juliet balcony（其实莎士比亚时代根本不存在），现代人晒被子被拍成小区网红叫'balcony culture'👀。看戏买balcony seats就像微信抢红包🧧——既想省钱又怕看不清！",
+    "recite": {
+      "tips": [
+        "谐音梗：'包给你'→开发商说阳台面积包给你(balcony)",
+        "易混词对比：terrace（露天平台）vs balcony（悬挑式）",
+        "记忆tip：结尾-ony联想'only you'——专属小空间"
+      ]
+    }
   }
 ]

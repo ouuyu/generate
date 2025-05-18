@@ -6436,5 +6436,260 @@
         "场景联想：核爆蘑菇云→朋友圈吵架→都产生fallout"
       ]
     }
+  },
+  {
+    "word": "fallow",
+    "etymology": {
+      "breakdown": [
+        "fealh"
+      ],
+      "meaning_connection": "源自古英语fealh（休耕的），与土地轮作制度相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "休耕地",
+        "examples": [
+          {
+            "sentence": "The farmer let one-third of his land lie fallow each year.",
+            "sentence_zh": "农夫每年让三分之一的土地作为休耕地。"
+          },
+          {
+            "sentence": "Wild poppies bloomed in the fallow like nature's rebellion.",
+            "sentence_zh": "野罂粟在休耕地上盛开，就像大自然的反抗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "休耕的",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese farmers developed sophisticated fallow field systems.",
+            "sentence_zh": "中国古代农民发展出了复杂的休耕制度。"
+          },
+          {
+            "sentence": "The fallow period allows soil to regain nutrients naturally.",
+            "sentence_zh": "休耕期让土壤自然恢复养分。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "淡棕色的",
+        "examples": [
+          {
+            "sentence": "Her fallow leather bag matched perfectly with autumn leaves.",
+            "sentence_zh": "她淡棕色的皮包与秋叶完美相配。"
+          },
+          {
+            "sentence": "The artist mixed yellow and brown to create fallow hues.",
+            "sentence_zh": "画家混合黄色与棕色调出淡棕色。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lie fallow",
+        "meaning": "处于闲置状态",
+        "examples": [
+          {
+            "sentence": "After quitting her job, her language skills lay fallow for years.",
+            "sentence_zh": "辞职后，她的语言技能荒废了多年。"
+          }
+        ]
+      }
+    ],
+    "teach": "fallow是大地在打盹💤！中世纪欧洲'三圃制'让土地轮休🌾（three-field system），现代人却说'我的大脑在fallow状态'🧠。形容颜色时，就像奶茶店三分糖的焦糖色🥤。搭配lie fallow比说'unused'更地道，比如'Your talent should not lie fallow'(别让才华闲置) ✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'发了藕'→休耕地里发了藕变棕色",
+        "对比记忆：follow（跟随）vs fallow（休耕）→ 农民不follow耕种计划就会fallow"
+      ]
+    }
+  },
+  {
+    "word": "falsehood",
+    "etymology": {
+      "breakdown": [
+        "false",
+        "hood"
+      ],
+      "meaning_connection": "false表示'虚假的'，后缀-hood表示'状态或性质'→虚假的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "谎言",
+        "examples": [
+          {
+            "sentence": "The politician's falsehood was exposed by a viral TikTok video.",
+            "sentence_zh": "政客的谎言被一条爆红的抖音视频揭穿。"
+          },
+          {
+            "sentence": "Spreading falsehoods about COVID-19 on Weibo can get you banned.",
+            "sentence_zh": "在微博散布关于新冠的谎言会导致账号封禁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "虚假(性)",
+        "examples": [
+          {
+            "sentence": "The falsehood of the '5G causes COVID' theory was proven by scientists.",
+            "sentence_zh": "'5G传播新冠'理论的虚假性已被科学家证实。"
+          },
+          {
+            "sentence": "Her smile carried an air of falsehood that made people uncomfortable.",
+            "sentence_zh": "她的笑容带着虚假感，让人不适。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "expose falsehood",
+        "meaning": "揭露谎言",
+        "examples": [
+          {
+            "sentence": "Fact-checkers work day and night to expose falsehood on social media.",
+            "sentence_zh": "辟谣团队日夜工作以揭露社交媒体上的谎言。"
+          }
+        ]
+      }
+    ],
+    "teach": "falsehood是'假发'(false+hood)🧑‍🦰？错！它其实是'假状态'🧠。古人用hood表示'状态'，就像微信状态'摸鱼中'🐟。说'鬼话连篇'用pack of falsehood（一包假货），'打假'叫debunk falsehood就像拆穿魔术🎩。记住：hood结尾的词常表状态，比如childhood（童年）🧸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'否事好得'→否定事实好得意(falsehood)",
+        "易混词对比：falsehood(谎言) vs. fake(赝品)"
+      ]
+    }
+  },
+  {
+    "word": "falsely",
+    "etymology": {
+      "breakdown": [
+        "false",
+        "ly"
+      ],
+      "meaning_connection": "词根false=虚假的，-ly为副词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "虚伪地",
+        "examples": [
+          {
+            "sentence": "He smiled falsely when receiving the terrible gift.",
+            "sentence_zh": "收到糟糕礼物时他虚伪地微笑着。"
+          },
+          {
+            "sentence": "The politician falsely praised his opponent's policy.",
+            "sentence_zh": "政客虚伪地称赞了对手的政策。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "错误地",
+        "examples": [
+          {
+            "sentence": "The GPS falsely indicated a left turn ahead.",
+            "sentence_zh": "GPS错误地提示前方左转。"
+          },
+          {
+            "sentence": "Ancient astronomers falsely believed the sun revolved around Earth.",
+            "sentence_zh": "古代天文学家错误认为太阳绕地球旋转。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不实地",
+        "examples": [
+          {
+            "sentence": "The advertisement falsely claimed the cream could regrow hair.",
+            "sentence_zh": "广告不实地宣称该面霜能再生头发。"
+          },
+          {
+            "sentence": "She was accused of falsely testifying in court.",
+            "sentence_zh": "她被指控在法庭上作不实证言。"
+          }
+        ]
+      }
+    ],
+    "teach": "falsely就像狼外婆的假笑🐺：虚伪(false)到连ly(副词后缀)都看不下去！中世纪欧洲用'假笑'(false smile)检测女巫🧙♀️，现代人用'虚假广告'(falsely advertised)检测智商税💸。记住：当有人说'I falsely believed...'时，基本等于'当年我太年轻'🤦♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛say礼'→和尚虚伪地说客套话",
+        "对比记忆：false(adj.)→falsely(adv.)→falseness(n.)"
+      ]
+    }
+  },
+  {
+    "word": "falseness",
+    "etymology": {
+      "breakdown": [
+        "false",
+        "ness"
+      ],
+      "meaning_connection": "词根false=错误/虚假，后缀-ness表示性质状态→虚假或不正确的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "虚伪",
+        "examples": [
+          {
+            "sentence": "His smile dripped with falseness like expired maple syrup.",
+            "sentence_zh": "他的笑容带着虚伪，像过期的枫糖浆般黏腻。"
+          },
+          {
+            "sentence": "The influencer's apology reeked of falseness and damage control.",
+            "sentence_zh": "网红的道歉充满了虚伪和危机公关的味道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不正确",
+        "examples": [
+          {
+            "sentence": "The falseness of the AI-generated news caused widespread panic.",
+            "sentence_zh": "AI生成新闻的不正确性引发了大规模恐慌。"
+          },
+          {
+            "sentence": "Ancient astronomers struggled to prove the falseness of flat Earth theory.",
+            "sentence_zh": "古代天文学家努力证明地平说的不正确性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不忠实",
+        "examples": [
+          {
+            "sentence": "The falseness of the translation distorted the original poem's beauty.",
+            "sentence_zh": "翻译的不忠实扭曲了原诗的美感。"
+          },
+          {
+            "sentence": "Historical dramas often get criticized for their falseness to real events.",
+            "sentence_zh": "历史剧常因对真实事件的不忠实而受到批评。"
+          }
+        ]
+      }
+    ],
+    "teach": "falseness就像三面间谍🕵️‍♂️：作为'虚伪'时是假笑滤镜🤳（social falseness），作为'不正确'时像错误GPS导航📍（scientific falseness），作为'不忠实'时堪比网恋照骗💔（artistic falseness）。搭配'stink of falseness'（虚伪冲天）比直接说lie更毒舌，形容'塑料友情'用friendship of falseness🥤。记住：false+ness=所有不真の总和！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛说呢死'→佛陀都说这是虚假的",
+        "易混词对比：false（adj.）→falseness（n.）→falsify（v. 篡改）"
+      ]
+    }
   }
 ]

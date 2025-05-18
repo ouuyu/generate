@@ -5789,5 +5789,233 @@
         "对比damned/darned：前者像拆手办，后者像捏泡面"
       ]
     }
+  },
+  {
+    "word": "dart",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'dart'（标枪），可能源自日耳曼语族，模拟尖锐物破空声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "飞镖",
+        "examples": [
+          {
+            "sentence": "The pub's dartboard has three holes from over-enthusiastic players.",
+            "sentence_zh": "酒吧飞镖盘上有三个狂热玩家留下的洞。"
+          },
+          {
+            "sentence": "He won a giant panda plushie with his last dart at the carnival.",
+            "sentence_zh": "他在嘉年华用最后一支镖赢得了巨型熊猫玩偶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "投射",
+        "examples": [
+          {
+            "sentence": "The hummingbird's dart through the flowers was too fast to follow.",
+            "sentence_zh": "蜂鸟在花丛中的投射快得难以追踪。"
+          },
+          {
+            "sentence": "A sudden dart of pain made her drop the xiaolongbao.",
+            "sentence_zh": "突然的刺痛让她掉了小笼包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "投射",
+        "examples": [
+          {
+            "sentence": "The octopus darted ink at its pursuer like a living water gun.",
+            "sentence_zh": "章鱼像活体水枪般向追捕者喷射墨汁。"
+          },
+          {
+            "sentence": "She darted an angry look at the person who took her parking space.",
+            "sentence_zh": "她向抢车位者投射愤怒的目光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "疾走",
+        "examples": [
+          {
+            "sentence": "Delivery riders dart through Beijing's hutongs like urban ninjas.",
+            "sentence_zh": "外卖骑手像城市忍者般在北京胡同疾走。"
+          },
+          {
+            "sentence": "His eyes darted between the two WeChat messages nervously.",
+            "sentence_zh": "他的眼睛紧张地在两条微信消息间疾扫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "突进",
+        "examples": [
+          {
+            "sentence": "The basketball player darted past three defenders for a layup.",
+            "sentence_zh": "篮球选手突进闪过三名防守者上篮。"
+          },
+          {
+            "sentence": "A thought darted into her mind during the boring meeting.",
+            "sentence_zh": "无聊会议中一个念头突然突进她脑海。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dart about",
+        "meaning": "四处突进",
+        "examples": [
+          {
+            "sentence": "Sparrows dart about picking up popcorn in the square.",
+            "sentence_zh": "麻雀在广场上四处突进捡爆米花。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dart out",
+        "meaning": "突然冲出",
+        "examples": [
+          {
+            "sentence": "The cat darted out from under the electric bike.",
+            "sentence_zh": "猫咪从电动车底突然冲出。"
+          }
+        ]
+      }
+    ],
+    "teach": "dart的人生三部曲：①当名词是酒吧飞镖🎯（输的人喝豆汁儿）；②当动词'投射'时像愤怒的小鸟🐦撞猪；③'疾走'时堪比早高峰挤地铁🚇。说'快如闪电'可以说quick as a dart，'突然行动'叫make a dart for it。记住：所有dart动作都会留下残影💨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'打他'→用飞镖dart打他",
+        "易混词对比：dash(持续冲刺) vs dart(短促突进)",
+        "联想：D音+art→艺术地投掷"
+      ]
+    }
+  },
+  {
+    "word": "dartboard",
+    "etymology": {
+      "breakdown": [
+        "dart",
+        "board"
+      ],
+      "meaning_connection": "'dart'表示飞镖，'board'表示板→飞镖靶是由软木板制成的圆形靶面"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "掷镖的圆靶",
+        "examples": [
+          {
+            "sentence": "The office dartboard has Elon Musk's face printed on it.",
+            "sentence_zh": "办公室的飞镖靶上印着埃隆·马斯克的脸。"
+          },
+          {
+            "sentence": "A standard dartboard is divided into 20 numbered sections.",
+            "sentence_zh": "标准飞镖靶被划分为20个带数字的扇形区域。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "electronic dartboard",
+        "meaning": "电子飞镖靶",
+        "examples": [
+          {
+            "sentence": "This smart dartboard automatically calculates your score.",
+            "sentence_zh": "这个智能飞镖靶会自动计算你的得分。"
+          }
+        ]
+      }
+    ],
+    "teach": "dartboard其实是打工人专用减压神器🎯！中世纪英国酒馆用木桶底板当靶子（所以叫-board），现代版就像用老板照片当靶心😂。说'技术烂'可以用'couldn't hit a barn door'（连谷仓门都打不中），专业玩家会说'chucking arrows'（扔箭俚语）。记住：红心叫bullseye🐂，脱靶叫'getting a donut'🍩！",
+    "recite": {
+      "tips": [
+        "谐音梗：'打他脖'→往靶子(dartboard)上打",
+        "易混词：whiteboard（白板）没有飞镖孔"
+      ]
+    }
+  },
+  {
+    "word": "darting",
+    "etymology": {
+      "breakdown": [
+        "dart",
+        "ing"
+      ],
+      "meaning_connection": "源自古英语'daroth'（标枪），-ing表进行时态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "投掷（标枪等）",
+        "examples": [
+          {
+            "sentence": "The athlete is darting javelins with perfect arc in the training field.",
+            "sentence_zh": "运动员在训练场以完美弧度投掷标枪。"
+          },
+          {
+            "sentence": "Kids were darting paper airplanes during boring lectures.",
+            "sentence_zh": "孩子们在无聊讲座期间投掷纸飞机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "突然冲刺",
+        "examples": [
+          {
+            "sentence": "A weasel was darting across the rice fields after spotting a chicken.",
+            "sentence_zh": "黄鼠狼发现鸡后急速穿过稻田。"
+          },
+          {
+            "sentence": "Delivery drivers keep darting through Beijing hutongs like superheroes.",
+            "sentence_zh": "外卖骑手像超级英雄般在北京胡同里穿梭飞奔。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "darting eyes",
+        "meaning": "快速扫视的眼神",
+        "examples": [
+          {
+            "sentence": "The student's darting eyes revealed he was cheating on the exam.",
+            "sentence_zh": "学生飘忽的眼神暴露了他在考试作弊。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "darting movement",
+        "meaning": "突进动作",
+        "examples": [
+          {
+            "sentence": "The darting movement of hummingbirds fascinates scientists.",
+            "sentence_zh": "蜂鸟的突进动作让科学家着迷。"
+          }
+        ]
+      }
+    ],
+    "teach": "darting是'闪电侠'⚡和'小李飞刀'🗡️的结合体！古英语里dart本指标枪（想想奥运投掷项目🏹），现在形容快递小哥抢单时的闪现速度🚴。说'眼神飘忽'叫darting eyes就像扫描二维码📱，'突然冲出'像地铁抢座💨。记住：所有快准狠的动作都配得上darting这个炫酷词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'打挺'→鱼打挺(darting)般突然跃起",
+        "对比记忆：darting（有目标冲刺）vs dashing（潇洒疾驰）"
+      ]
+    }
   }
 ]

@@ -5788,5 +5788,211 @@
         "易混词：mailer(处理邮件的人/物) vs. mailbox(收件箱)"
       ]
     }
+  },
+  {
+    "word": "mailing",
+    "etymology": {
+      "breakdown": [
+        "mail",
+        "ing"
+      ],
+      "meaning_connection": "mail源自古德语'malha'指'旅行袋'，-ing表行为/结果→原指'用邮袋运送'的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "邮寄",
+        "examples": [
+          {
+            "sentence": "The mailing of mooncake gifts caused chaos in the post office.",
+            "sentence_zh": "中秋礼盒的邮寄导致邮局一片混乱。"
+          },
+          {
+            "sentence": "Express mailing costs more but saves your blind date from waiting.",
+            "sentence_zh": "快递邮寄虽贵但能让相亲对象少等三天。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "投递",
+        "examples": [
+          {
+            "sentence": "Panda caretakers use bamboo mailing to deliver fresh food daily.",
+            "sentence_zh": "熊猫饲养员通过每日投递新鲜竹子来运送食物。"
+          },
+          {
+            "sentence": "The mailing of election ballots requires special security measures.",
+            "sentence_zh": "选票投递需要特殊安保措施。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "邮件",
+        "examples": [
+          {
+            "sentence": "His mailbox contained three wedding invitations and one divorce mailing.",
+            "sentence_zh": "他的信箱里有三封婚礼请柬和一份离婚文件邮件。"
+          },
+          {
+            "sentence": "The museum displays ancient mailings sealed with wax stamps.",
+            "sentence_zh": "博物馆展出了用火漆封印的古代邮件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "农场租金",
+        "examples": [
+          {
+            "sentence": "The Scottish lord collected mailings in the form of sheep and barley.",
+            "sentence_zh": "苏格兰领主收取绵羊和大麦作为农场租金。"
+          },
+          {
+            "sentence": "Paying mailing with crops was common before currency existed.",
+            "sentence_zh": "在货币出现前，用农作物支付农场租金很普遍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bulk mailing",
+        "meaning": "批量邮寄",
+        "examples": [
+          {
+            "sentence": "Bulk mailing of spam is the reason why your phone always vibrates.",
+            "sentence_zh": "垃圾信息的批量邮寄就是你手机总震动的原因。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "direct mailing",
+        "meaning": "直投广告",
+        "examples": [
+          {
+            "sentence": "The real estate agency's direct mailing flooded our apartment lobby.",
+            "sentence_zh": "房产中介的直投广告淹没了我们公寓大堂。"
+          }
+        ]
+      }
+    ],
+    "teach": "mailing是跨越千年的快递小哥📦！古罗马用信使送战报✉️（military mailing），中世纪农场主交租用土豆🥔（farm mailing），现代人收快递叫'got a mailing'就像收到圣诞老人塞烟囱的礼物🎅。吐槽'垃圾邮件'说junk mail，'重要文件'用registered mailing就像给快递上锁🔒。记住：从羊皮纸到二维码，人类永远在mailing！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没零'→邮寄包裹时发现没零钱付邮费",
+        "易混词：mailing（行为） vs. mailbox（容器）",
+        "农场租金义项联想：付mailing就像往邮箱(mail)里塞粮食(ing)"
+      ]
+    }
+  },
+  {
+    "word": "maim",
+    "etymology": {
+      "breakdown": [
+        "maim"
+      ],
+      "meaning_connection": "源自古法语'mahaignier'（致残），可能源自凯尔特语'maeg'（无力）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使残废",
+        "examples": [
+          {
+            "sentence": "The villain tried to maim the hero by cutting off his sword hand.",
+            "sentence_zh": "反派试图砍断英雄的持剑手使其残废。"
+          },
+          {
+            "sentence": "Landmines still maim innocent civilians in some war-torn areas.",
+            "sentence_zh": "在某些战乱地区，地雷仍在使无辜平民致残。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使不能工作",
+        "examples": [
+          {
+            "sentence": "The hacker attack maimed the company's servers for three days.",
+            "sentence_zh": "黑客攻击使公司服务器瘫痪三天无法工作。"
+          },
+          {
+            "sentence": "Striking workers maimed the factory's production line.",
+            "sentence_zh": "罢工工人使工厂生产线陷入瘫痪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "maim for life",
+        "meaning": "终身残疾",
+        "examples": [
+          {
+            "sentence": "The construction accident maimed him for life.",
+            "sentence_zh": "那次建筑事故让他落下终身残疾。"
+          }
+        ]
+      }
+    ],
+    "teach": "maim这个词自带'血腥特效'🩸！它来自中世纪战场，当时骑士会特意砍伤敌人四肢使其失去战斗力🤺（比杀死更残忍）。现代用法像被'砍掉半边'：电脑中毒就像被maim的机器人🤖（system maimed），'终身残疾'说maim for life就像被砍掉翅膀的鸟🦅。记住：遇到maim要躲远点，除非是说'这个bug把程序maim了'💻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'霉母'→发霉的母亲(maim)行动不便",
+        "易混词对比：main（主要）vs maim（致残）→少个i就变残疾"
+      ]
+    }
+  },
+  {
+    "word": "maimed",
+    "etymology": {
+      "breakdown": [
+        "maim",
+        "ed"
+      ],
+      "meaning_connection": "源自古法语'mahaignier'(致残)，后缀-ed表形容词性→原指因受伤导致肢体残缺的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "受伤的",
+        "examples": [
+          {
+            "sentence": "The maimed panda was rescued after the earthquake and now lives in Chengdu Research Base.",
+            "sentence_zh": "这只受伤的熊猫在地震后获救，现居成都研究基地。"
+          },
+          {
+            "sentence": "Maimed veterans were playing wheelchair basketball near the Bird's Nest.",
+            "sentence_zh": "受伤的老兵们正在鸟巢附近打轮椅篮球。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "残废的",
+        "examples": [
+          {
+            "sentence": "The maimed terracotta warrior missing an arm reveals ancient battle cruelty.",
+            "sentence_zh": "缺臂的残废兵马俑揭示了古代战争的残酷。"
+          },
+          {
+            "sentence": "After the accident, he became maimed but started a popular live-streaming channel about adaptive sports.",
+            "sentence_zh": "事故后他残废了，但开创了关于适应性体育的热门直播频道。"
+          }
+        ]
+      }
+    ],
+    "teach": "maimed背后藏着中世纪黑历史⚔️：英国法律曾规定'以眼还眼'，伤人肢体者需支付'残肢价'(maim price)💷。视觉记忆👉像被咬掉一口的月饼🥮（maimed mooncake）。搭配：maimed limb（伤残肢体）/maimed reputation（受损名誉）。地道说法：'缺胳膊少腿'叫out of whack🚑。记住这个词就像记住火锅里消失的肥牛——被maimed了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没命的'→受伤惨重像丢了命",
+        "易混词对比：injured（一般受伤） vs maimed（永久性伤残）"
+      ]
+    }
   }
 ]

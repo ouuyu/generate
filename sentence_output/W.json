@@ -6327,5 +6327,295 @@
         "易混词对比：closet（美式衣橱） vs wardrobe（英式/整体服饰）"
       ]
     }
+  },
+  {
+    "word": "warehouse",
+    "etymology": {
+      "breakdown": [
+        "ware",
+        "house"
+      ],
+      "meaning_connection": "ware=货物（来自古英语waru），house=房屋→存放货物的房子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "仓库",
+        "examples": [
+          {
+            "sentence": "The Alibaba robotics warehouse can process 100,000 orders daily.",
+            "sentence_zh": "阿里巴巴的机器人仓库每天能处理10万订单。"
+          },
+          {
+            "sentence": "TikTok influencers turned abandoned warehouses into viral photo spots.",
+            "sentence_zh": "抖音网红们把废弃仓库改造成爆款拍照地。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大商店",
+        "examples": [
+          {
+            "sentence": "IKEA is essentially a giant marriage-testing warehouse.",
+            "sentence_zh": "宜家本质上是个巨型婚姻考验商店。"
+          },
+          {
+            "sentence": "Costco's warehouse model makes you buy toilet paper in 5-year supplies.",
+            "sentence_zh": "好市多的大商店模式让你买厕纸都按五年份囤货。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "储入仓库",
+        "examples": [
+          {
+            "sentence": "Fresh durians are warehoused at -18℃ before shipping.",
+            "sentence_zh": "新鲜榴莲在运输前被储存在-18℃的仓库中。"
+          },
+          {
+            "sentence": "The museum warehoused 3000 terracotta warriors replicas for the exhibition.",
+            "sentence_zh": "博物馆为特展入库了3000件兵马俑复制品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "warehouse management",
+        "meaning": "仓储管理",
+        "examples": [
+          {
+            "sentence": "JD.com's warehouse management system uses AI to predict hot items.",
+            "sentence_zh": "京东的仓储管理系统用AI预测热销商品。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "data warehouse",
+        "meaning": "数据仓库",
+        "examples": [
+          {
+            "sentence": "Douyin's data warehouse stores 100PB of dance challenge videos.",
+            "sentence_zh": "抖音的数据仓库存储了100PB的舞蹈挑战视频。"
+          }
+        ]
+      }
+    ],
+    "teach": "warehouse是'货之屋'🏚️：古代商人用ware+house存放丝绸茶叶🍵，现代变成Costco让你疯狂剁手🛒。说'库存爆满'叫bursting at the seams（缝线都快撑破），'清仓'叫clear the decks（原指军舰甲板清空备战）⚓️。记住：你的购物车就是个迷你warehouse！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外号死'→货物太多仓库外号'累死'",
+        "对比：warehouse（大型仓储）vs. storage room（家庭储物间）",
+        "记忆：ware+house=放'玩意儿'的房子"
+      ]
+    }
+  },
+  {
+    "word": "warehousing",
+    "etymology": {
+      "breakdown": [
+        "ware",
+        "house",
+        "ing"
+      ],
+      "meaning_connection": "ware=货物，house=房屋，-ing表行为→存放货物的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "仓储",
+        "examples": [
+          {
+            "sentence": "Alibaba's smart warehousing systems use robot armies.",
+            "sentence_zh": "阿里巴巴的智能仓储系统使用机器人军团。"
+          },
+          {
+            "sentence": "The festival preparation requires massive warehousing of mooncakes.",
+            "sentence_zh": "节日准备需要大规模仓储月饼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抵押囤货",
+        "examples": [
+          {
+            "sentence": "Some merchants use warehousing as collateral for loans.",
+            "sentence_zh": "部分商家用抵押囤货获取贷款。"
+          },
+          {
+            "sentence": "The tea trader's warehousing reached 3 tons during harvest season.",
+            "sentence_zh": "茶叶商在收获季的抵押囤货达3吨。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bonded warehousing",
+        "meaning": "保税仓储",
+        "examples": [
+          {
+            "sentence": "Cross-border e-commerce relies on bonded warehousing.",
+            "sentence_zh": "跨境电商依赖保税仓储。"
+          }
+        ]
+      }
+    ],
+    "teach": "warehousing是当代'藏宝洞'🏰！古代丝路商队囤货在驿站就像现代菜鸟物流仓库🚚，而'抵押囤货'就像用普洱茶饼当银行存折💵。说'爆仓'叫overflowing warehouse，'零库存'叫just-in-time inventory。记住：你的双十一快递可能正在warehousing里蹦迪呢！🎁📦🔄",
+    "recite": {
+      "tips": [
+        "谐音梗：'外号屋子'→商品的外号屋子就是仓库",
+        "易混词对比：warehouse(仓库)是地点，warehousing是仓储行为"
+      ]
+    }
+  },
+  {
+    "word": "warfare",
+    "etymology": {
+      "breakdown": [
+        "war",
+        "fare"
+      ],
+      "meaning_connection": "war=战争，fare=进行/状态→进行战争的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "战争",
+        "examples": [
+          {
+            "sentence": "Sun Tzu's Art of Warfare is now used by CEOs in business battles.",
+            "sentence_zh": "孙子的《战争艺术》如今被CEO们用于商战。"
+          },
+          {
+            "sentence": "Modern warfare involves more cyber attacks than physical combat.",
+            "sentence_zh": "现代战争包含的网络攻击比物理战斗更多。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "斗争",
+        "examples": [
+          {
+            "sentence": "The constant warfare between the two streaming platforms benefits viewers.",
+            "sentence_zh": "两大流媒体平台的持续斗争最终让观众受益。"
+          },
+          {
+            "sentence": "Office warfare over the last dumpling is a daily occurrence.",
+            "sentence_zh": "为抢最后一个饺子而发生的办公室斗争每天都在上演。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "竞争",
+        "examples": [
+          {
+            "sentence": "The smartphone warfare has driven innovation at an unprecedented pace.",
+            "sentence_zh": "智能手机的竞争以前所未有的速度推动创新。"
+          },
+          {
+            "sentence": "Food delivery apps engage in constant warfare with discount coupons.",
+            "sentence_zh": "外卖APP用优惠券展开持续竞争。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "psychological warfare",
+        "meaning": "心理战",
+        "examples": [
+          {
+            "sentence": "Limited-time offers are a form of psychological warfare in e-commerce.",
+            "sentence_zh": "限时优惠是电商的心理战手段。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "guerrilla warfare",
+        "meaning": "游击战",
+        "examples": [
+          {
+            "sentence": "Startups often use guerrilla warfare tactics against industry giants.",
+            "sentence_zh": "初创公司常对行业巨头采用游击战术。"
+          }
+        ]
+      }
+    ],
+    "teach": "warfare本质是'战争运费'⚔️：古代打仗要fare(运费)运送war(武器)。现代人把'双11大战'叫shopping warfare🛒，'职场宫斗'叫office warfare🏢。说'激烈竞争'可用cut-throat warfare（割喉战），记住：所有warfare最终fare(结果)都是钱包瘦身💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我肥啊'→战争让我肥(资源消耗)",
+        "对比记忆：warfare(抽象战争) vs. battle(具体战役)",
+        "联想：Fare=进展 → 战争进展"
+      ]
+    }
+  },
+  {
+    "word": "warhead",
+    "etymology": {
+      "breakdown": [
+        "war",
+        "head"
+      ],
+      "meaning_connection": "字面意思是'战争的头部'，指导弹/炮弹前端的爆炸装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "弹头",
+        "examples": [
+          {
+            "sentence": "The nuclear warhead was designed to fit inside a delivery vehicle.",
+            "sentence_zh": "这个核弹头被设计成可装入运载工具。"
+          },
+          {
+            "sentence": "Scientists are testing the warhead's penetration capability against armored targets.",
+            "sentence_zh": "科学家正在测试该弹头对装甲目标的穿透能力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "conventional warhead",
+        "meaning": "常规弹头",
+        "examples": [
+          {
+            "sentence": "The missile carries 500kg conventional warhead.",
+            "sentence_zh": "该导弹携带500公斤常规弹头。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "multiple warhead",
+        "meaning": "多弹头",
+        "examples": [
+          {
+            "sentence": "The advanced ICBM can carry up to 10 independently targetable warheads.",
+            "sentence_zh": "这种先进洲际导弹可携带多达10枚独立瞄准弹头。"
+          }
+        ]
+      }
+    ],
+    "teach": "warhead其实是导弹的'聪明脑袋'🧠💥！最早源自二战V2火箭的'啤酒桶'弹头🍺，现代弹头却像俄罗斯套娃——有的能分拆出多个小弹头🎎。说'核弹头'要用nuclear warhead，'哑弹'叫dud warhead就像考研失败的你😭。记住：warhead决定导弹是'大爆竹'还是'灭霸响指'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我害的'→战争都是我害的(warhead)",
+        "易混词：warhead（弹头）vs warhorse（战马/老将）"
+      ]
+    }
   }
 ]
