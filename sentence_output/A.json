@@ -6931,5 +6931,316 @@
         "易混词：authoritarianism(威权主义)程度较轻"
       ]
     }
+  },
+  {
+    "word": "absolutist",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "sol",
+        "ut",
+        "ist"
+      ],
+      "meaning_connection": "前缀ab-表示'远离', 词根sol表示'松开', -ut为后缀, -ist表'...主义者'→原指不受约束的极端立场持有者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "专制主义者",
+        "examples": [
+          {
+            "sentence": "The absolutist king banned all opposition newspapers.",
+            "sentence_zh": "这位专制主义君主查禁了所有反对派报纸。"
+          },
+          {
+            "sentence": "Like an absolutist parent, he demanded complete obedience.",
+            "sentence_zh": "如同专制家长般，他要求绝对服从。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绝对主义者",
+        "examples": [
+          {
+            "sentence": "Coffee absolutists insist hand-dripped is the only authentic method.",
+            "sentence_zh": "咖啡绝对主义者坚持手冲是唯一正宗制作方式。"
+          },
+          {
+            "sentence": "As a grammar absolutist, she corrects text messages with red pen emojis.",
+            "sentence_zh": "作为语法绝对主义者，她用红笔表情符号修改短信。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "moral absolutist",
+        "meaning": "道德绝对论者",
+        "examples": [
+          {
+            "sentence": "The vegan activist argues like a moral absolutist at hotpot parties.",
+            "sentence_zh": "这位素食主义者在火锅局上像个道德绝对论者般争论。"
+          }
+        ]
+      }
+    ],
+    "teach": "absolutist是'我即真理'代言人👑！词根sol本指'松开'，加上ab-前缀却变成'绝不松口'的固执🤯。专制君主像霸王条款📜（absolutist rule），而绝对主义者就像坚持'香菜必须灭绝'的极端派💥。搭配：political absolutist（政治绝对派）, cultural absolutist（文化原教旨者）。说人固执可用set in one's ways比stubborn更地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不锁理智'→绝对主义者不爱用理性",
+        "易混词：absolute（绝对的） vs. absolutist（绝对主义者）"
+      ]
+    }
+  },
+  {
+    "word": "absolve",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "solv"
+      ],
+      "meaning_connection": "前缀ab-表示'脱离'，词根solv表示'松开'→原指从束缚中解脱"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "宣告无罪",
+        "examples": [
+          {
+            "sentence": "The new DNA evidence absolved the wrongly convicted man after 20 years.",
+            "sentence_zh": "新DNA证据使这名被误判的男子在20年后宣告无罪。"
+          },
+          {
+            "sentence": "In Buddhist tradition, the abbot can absolve devotees of minor sins.",
+            "sentence_zh": "佛教传统中，方丈可为信众的小罪过宣告解脱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "赦免",
+        "examples": [
+          {
+            "sentence": "The emperor absolved the rebel leaders during the Spring Festival amnesty.",
+            "sentence_zh": "皇帝在春节大赦时赦免了起义军领袖。"
+          },
+          {
+            "sentence": "Pope's absolution absolved their sins in the medieval era.",
+            "sentence_zh": "中世纪时期，教皇的赦罪能赦免他们的罪孽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "免除债务",
+        "examples": [
+          {
+            "sentence": "The bank absolved his student loan due to disability.",
+            "sentence_zh": "银行因他的残疾情况免除了助学贷款。"
+          },
+          {
+            "sentence": "Ancient Mesopotamian rulers would absolve all debts during coronations.",
+            "sentence_zh": "古代美索不达米亚的统治者会在加冕时免除所有债务。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "absolve from",
+        "meaning": "免除责任",
+        "examples": [
+          {
+            "sentence": "The contract absolves the company from any accidents during team building.",
+            "sentence_zh": "该合同免除了公司在团建活动中发生意外的责任。"
+          }
+        ]
+      }
+    ],
+    "teach": "absolve是法律界的橡皮擦✏️！当法官用它就像《狂飙》里安欣洗冤🗂️（absolve innocence），教皇用它堪比《哈利波特》的'一忘皆空'🧙（absolve sins），银行用它像给负债人发'重生卡'💳（absolve debts）。搭配：'道德赦免'叫absolve morally，'债务免除'说absolve financial obligations。记住：这个单词自带圣光特效✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不索债'→爱就不追讨债务",
+        "易混词：resolve（解决）vs absolve（解除）",
+        "记忆法：ab(离开)+solve(解决)=彻底解决"
+      ]
+    }
+  },
+  {
+    "word": "absorb",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "sorb"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根sorb表示'吸收'→原指通过吸收使某物离开原处"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "吸收（液体/光/热等）",
+        "examples": [
+          {
+            "sentence": "Bamboo charcoal can absorb odors in your fridge like a hungry panda.",
+            "sentence_zh": "竹炭能像饥饿的熊猫一样吸收冰箱里的异味。"
+          },
+          {
+            "sentence": "The black T-shirt absorbs sunlight so well it could fry an egg.",
+            "sentence_zh": "这件黑T恤吸收阳光的能力强到可以煎鸡蛋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使全神贯注",
+        "examples": [
+          {
+            "sentence": "The douyin video was so absorbing that she missed 3 subway stops.",
+            "sentence_zh": "抖音视频太引人入胜，害她坐过了3站地铁。"
+          },
+          {
+            "sentence": "He's completely absorbed in assembling his Lego Forbidden City.",
+            "sentence_zh": "他全神贯注地拼装着乐高故宫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "同化（文化/知识）",
+        "examples": [
+          {
+            "sentence": "It takes time to absorb the local culture when studying abroad.",
+            "sentence_zh": "留学时需要时间同化当地文化。"
+          },
+          {
+            "sentence": "The tech company absorbed Silicon Valley practices like a sponge.",
+            "sentence_zh": "这家科技公司像海绵一样吸收了硅谷的做事方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "买进（公司/股票）",
+        "examples": [
+          {
+            "sentence": "Tencent absorbed several game studios to expand its empire.",
+            "sentence_zh": "腾讯收购多家游戏工作室以扩张版图。"
+          },
+          {
+            "sentence": "The conglomerate is absorbing small businesses like Pac-Man eating dots.",
+            "sentence_zh": "这个集团正在像吃豆人吞豆子一样收购小企业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "理解（信息）",
+        "examples": [
+          {
+            "sentence": "My brain can't absorb so much math at 8am.",
+            "sentence_zh": "早上8点我的大脑无法理解这么多数学知识。"
+          },
+          {
+            "sentence": "She absorbed the instructions faster than a USB 3.0 flash drive.",
+            "sentence_zh": "她理解指令的速度比USB3.0闪存盘传输还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "承受/承担（成本/损失）",
+        "examples": [
+          {
+            "sentence": "The company will absorb all travel expenses for this project.",
+            "sentence_zh": "公司将承担这个项目的全部差旅费用。"
+          },
+          {
+            "sentence": "Small shops can't absorb the impact of giant e-commerce platforms.",
+            "sentence_zh": "小商店无法承受巨型电商平台的冲击。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be absorbed in",
+        "meaning": "全神贯注于",
+        "examples": [
+          {
+            "sentence": "He was so absorbed in his Switch that he didn't hear the fire alarm.",
+            "sentence_zh": "他全神贯注玩Switch，连火警铃声都没听见。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "absorb the shock",
+        "meaning": "缓冲冲击",
+        "examples": [
+          {
+            "sentence": "The new sneakers can absorb the shock when you jump like a kangaroo.",
+            "sentence_zh": "这双新运动鞋能缓冲你像袋鼠般跳跃时的冲击力。"
+          }
+        ]
+      }
+    ],
+    "teach": "absorb就像宇宙黑洞🕳️！当海绵吸水是物理吸收(absorb water)，刷抖音停不下来是精神吸收(be absorbed)，大厂收购小公司是商业吸收(absorb startups)，而'公司承担成本'说成absorb the cost就像老板含泪吞下账单🧾。记住：中文说'吃不消'，英文就用can't absorb the pressure！搭配记忆：知识海绵🧽+商业吃豆人👾+精神磁铁🧲",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿不？饱！'→饿的时候吸收(absorb)特别快",
+        "易混词对比：adsorb（吸附）是表面作用，absorb是整体吸收",
+        "记忆tip：想象自己是一块人形海绵宝宝"
+      ]
+    }
+  },
+  {
+    "word": "absorbance",
+    "etymology": {
+      "breakdown": [
+        "absorb",
+        "ance"
+      ],
+      "meaning_connection": "absorb表示'吸收'，-ance为名词后缀，表示'状态/性质'→吸收能力的量化指标"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "吸光率",
+        "examples": [
+          {
+            "sentence": "The absorbance of this blackout curtain reaches 99.9%, turning your room into a cinema.",
+            "sentence_zh": "这款遮光帘吸光率达99.9%，秒变家庭影院。"
+          },
+          {
+            "sentence": "Tea masters measure the absorbance of different oolong teas like sommeliers tasting wine.",
+            "sentence_zh": "茶道师测量不同乌龙茶的吸光率，如同品酒师鉴酒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "light absorbance",
+        "meaning": "光线吸收率",
+        "examples": [
+          {
+            "sentence": "Sunglasses with 90% light absorbance are essential for desert travel.",
+            "sentence_zh": "90%光线吸收率的墨镜是沙漠旅行必备。"
+          }
+        ]
+      }
+    ],
+    "teach": "absorbance是科学界的'吃货指数'🍽️！就像奶茶店用糖度计测甜度，科学家用分光光度计测吸光率🔬。高absorbance的物体就像黑洞🌑（black hole），连光都逃不掉。搭配说'UV absorbance'（防紫外线能力）或'peak absorbance'（峰值吸光率），夸人皮肤好可以说'Your sunscreen has celebrity-level absorbance'✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿不饱的'→饿到连光(light)都吸收",
+        "易混词：absorption（吸收过程）vs absorbance（吸收程度）"
+      ]
+    }
   }
 ]

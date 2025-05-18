@@ -7200,5 +7200,273 @@
         "对比记忆：seaward（向海的）是它的反义词"
       ]
     }
+  },
+  {
+    "word": "lane",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'lanu'，原指狭窄通道"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小路",
+        "examples": [
+          {
+            "sentence": "The delivery guy zoomed through the bamboo lane on his electric bike.",
+            "sentence_zh": "快递小哥骑着电驴在竹巷里穿梭。"
+          },
+          {
+            "sentence": "We found a secret lane behind the hotpot restaurant.",
+            "sentence_zh": "我们在火锅店后面发现了一条秘密小道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "巷",
+        "examples": [
+          {
+            "sentence": "The 300-year-old tea house is hidden in a winding lane.",
+            "sentence_zh": "三百年的老茶馆藏在一条蜿蜒的巷子里。"
+          },
+          {
+            "sentence": "Lanes in Chengdu always smell of chili oil at dinner time.",
+            "sentence_zh": "成都的巷子在晚饭时间总是飘着辣椒油香。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "弄",
+        "examples": [
+          {
+            "sentence": "The tailor's shop at Lane 155 has been there since 1950s.",
+            "sentence_zh": "155弄的裁缝铺从上世纪50年代就在那儿了。"
+          },
+          {
+            "sentence": "Foreign tourists love taking photos of Shanghai's 'longtang' lanes.",
+            "sentence_zh": "外国游客超爱拍上海的老弄堂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "单行道",
+        "examples": [
+          {
+            "sentence": "The bike lane turned into a spicy crayfish stall at night.",
+            "sentence_zh": "这条自行车道晚上变成了麻辣小龙虾摊。"
+          },
+          {
+            "sentence": "Drivers always argue in the highway merging lane.",
+            "sentence_zh": "司机们在高速并道处总是吵架。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bus lane",
+        "meaning": "公交专用道",
+        "examples": [
+          {
+            "sentence": "The bus lane magically clears during traffic jams.",
+            "sentence_zh": "堵车时公交专用道总像有魔法般畅通。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fast lane",
+        "meaning": "快车道/快节奏生活",
+        "examples": [
+          {
+            "sentence": "Living in Beijing's fast lane means eating takeout while coding.",
+            "sentence_zh": "北京的快节奏生活意味着边写代码边吃外卖。"
+          }
+        ]
+      }
+    ],
+    "teach": "lane就像城市血管🫀：小巷是毛细血管（hutong lanes），单行道是动脉🚦。英国人说'life in the slow lane'就像成都茶馆🐼，'fast lane'则是深圳速度⚡。地道表达：'窄巷'叫snickleway（英国约克方言），'堵在车道里'说stuck in my lane就像早高峰的地铁🚇。记住：所有lane都通向奶茶店！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累嗯'→在小巷走累了(lane)",
+        "易混词对比：alley(更窄的死胡同) vs lane(可通车的小路)"
+      ]
+    }
+  },
+  {
+    "word": "language",
+    "etymology": {
+      "breakdown": [
+        "lingu",
+        "age"
+      ],
+      "meaning_connection": "词根lingu=舌头/语言（拉丁语lingua），后缀-age表集合→'舌头的产物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "语言",
+        "examples": [
+          {
+            "sentence": "The language of emojis has become universal in text messages.",
+            "sentence_zh": "表情符号语言已成为短信中的通用语。"
+          },
+          {
+            "sentence": "Peking Opera combines music, singing and stylized language.",
+            "sentence_zh": "京剧融合了音乐、唱腔和程式化语言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "文字",
+        "examples": [
+          {
+            "sentence": "Oracle bone language is the earliest Chinese writing system.",
+            "sentence_zh": "甲骨文是中国最早的书写文字。"
+          },
+          {
+            "sentence": "The language on this Tang Dynasty pottery tells a love story.",
+            "sentence_zh": "这件唐代瓷器上的文字讲述了一个爱情故事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "措辞",
+        "examples": [
+          {
+            "sentence": "The diplomat's careful language avoided offending anyone.",
+            "sentence_zh": "外交官谨慎的措辞避免了冒犯任何人。"
+          },
+          {
+            "sentence": "Her angry language during the livestream caused controversy.",
+            "sentence_zh": "她在直播中的愤怒措辞引发了争议。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "body language",
+        "meaning": "肢体语言",
+        "examples": [
+          {
+            "sentence": "His nervous body language betrayed his confidence.",
+            "sentence_zh": "他紧张的肢体语言暴露了缺乏信心。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "speak the same language",
+        "meaning": "有共同语言",
+        "examples": [
+          {
+            "sentence": "Gamers from different countries speak the same language when playing.",
+            "sentence_zh": "不同国家的玩家在游戏时会有共同语言。"
+          }
+        ]
+      }
+    ],
+    "teach": "language其实是'舌头的艺术'👅！最早的文字是刻在龟甲上的（甲骨文📜），现在最火的语言是Python（不是蟒蛇🐍）。说'外语烂'可自嘲my Chinese is potato（我中文很土豆🥔），'专业术语'叫jargon就像程序员说'撸代码'💻。记住：你的language决定你能解锁多少文化副本！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒哥爱挤'→懒哥(lan)爱挤(guage)牙膏式学语言",
+        "易混词：tongue（物理舌头）vs language（抽象语言）",
+        "记忆链：linguist→language→bilingual"
+      ]
+    }
+  },
+  {
+    "word": "languid",
+    "etymology": {
+      "breakdown": [
+        "langu",
+        "id"
+      ],
+      "meaning_connection": "词根langu=虚弱/松弛（源自拉丁语languere），后缀-id表示状态→形容虚弱无力的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "疲倦的",
+        "examples": [
+          {
+            "sentence": "The pandas move with languid grace after eating bamboos all day.",
+            "sentence_zh": "大熊猫整天吃竹子后，行动带着疲倦的优雅。"
+          },
+          {
+            "sentence": "His languid yawns betrayed the all-night gaming session.",
+            "sentence_zh": "他疲倦的哈欠暴露了通宵打游戏的事实。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无力的",
+        "examples": [
+          {
+            "sentence": "She gave a languid wave as her train departed.",
+            "sentence_zh": "火车开动时她无力地挥了挥手。"
+          },
+          {
+            "sentence": "The languid kitten couldn't even bat at the wool ball.",
+            "sentence_zh": "这只无力的小猫连毛线球都拍不动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "阴沉的",
+        "examples": [
+          {
+            "sentence": "The languid afternoon light made the old teahouse look melancholic.",
+            "sentence_zh": "阴沉的午后光线让老茶馆显得忧郁。"
+          },
+          {
+            "sentence": "His paintings often feature languid blue tones.",
+            "sentence_zh": "他的画作常以阴沉的蓝色调为特色。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "languid movement",
+        "meaning": "慵懒的动作",
+        "examples": [
+          {
+            "sentence": "The tai chi master's languid movements hide explosive power.",
+            "sentence_zh": "太极大师慵懒的动作下藏着爆发力。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "languid air",
+        "meaning": "沉闷的空气",
+        "examples": [
+          {
+            "sentence": "The languid air before the typhoon makes people drowsy.",
+            "sentence_zh": "台风前的沉闷空气让人昏昏欲睡。"
+          }
+        ]
+      }
+    ],
+    "teach": "languid是个'懒洋洋三合一'词汇🛋️：既像夏天午后犯困的橘猫😪（languid cat），又像奶茶喝太多后的糖分眩晕🍵（languid limbs），还像南方梅雨季发霉的墙壁🌀（languid weather）。搭配'languid elegance'形容慵懒美，说'累成狗'可以讲I'm languid like a melted popsicle（像化掉的冰棍）🍦",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒鬼的'→懒鬼的状态就是languid",
+        "易混词对比：languid（无精打采） vs. limpid（清澈的）",
+        "联想记忆：LAN（局域网）+ GUID（全局唯一标识符）= 网速太慢让人languid"
+      ]
+    }
   }
 ]

@@ -6753,5 +6753,353 @@
         "视觉联想：词尾-nese像飘动的印尼纱笼"
       ]
     }
+  },
+  {
+    "word": "balk",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'balca'（梁木），原指横在田地里的障碍物，引申出'阻碍'和'犹豫'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "障碍",
+        "examples": [
+          {
+            "sentence": "The Great Wall was a balk to nomadic cavalry attacks.",
+            "sentence_zh": "长城曾是阻挡游牧民族骑兵的障碍。"
+          },
+          {
+            "sentence": "Bureaucracy remains the biggest balk to startup growth.",
+            "sentence_zh": "官僚主义仍是初创企业发展的最大障碍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "错误",
+        "examples": [
+          {
+            "sentence": "His translation balk caused international misunderstanding.",
+            "sentence_zh": "他的翻译错误引发了国际误会。"
+          },
+          {
+            "sentence": "The balk in the recipe ruined the Peking duck.",
+            "sentence_zh": "食谱中的错误毁掉了这道北京烤鸭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "失败",
+        "examples": [
+          {
+            "sentence": "The Mars mission ended in a costly balk.",
+            "sentence_zh": "这次火星任务以昂贵的失败告终。"
+          },
+          {
+            "sentence": "Three balks in a row made the investor lose confidence.",
+            "sentence_zh": "连续三次失败让投资人失去信心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "阻止",
+        "examples": [
+          {
+            "sentence": "The firewall balks unauthorized access effectively.",
+            "sentence_zh": "防火墙有效阻止未授权访问。"
+          },
+          {
+            "sentence": "She balked his attempt to skip the queue for hotpot.",
+            "sentence_zh": "她阻止了他插队吃火锅的企图。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "错过",
+        "examples": [
+          {
+            "sentence": "He balked the last train by playing mobile games.",
+            "sentence_zh": "他因玩手机游戏错过了末班车。"
+          },
+          {
+            "sentence": "Don't balk your chance to taste authentic stinky tofu.",
+            "sentence_zh": "别错过品尝正宗臭豆腐的机会。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "推诿",
+        "examples": [
+          {
+            "sentence": "The official kept balking responsibility for the incident.",
+            "sentence_zh": "该官员一直对事件责任推诿扯皮。"
+          },
+          {
+            "sentence": "Stop balking and fix this WeChat bug immediately!",
+            "sentence_zh": "别推诿了，立刻修复这个微信漏洞！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "逡巡不前",
+        "examples": [
+          {
+            "sentence": "The cat balked at crossing the moat in Forbidden City.",
+            "sentence_zh": "故宫护城河前的猫咪逡巡不前。"
+          },
+          {
+            "sentence": "Investors are balking due to the stock market turbulence.",
+            "sentence_zh": "由于股市震荡，投资者正逡巡不前。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "balk at",
+        "meaning": "对...犹豫",
+        "examples": [
+          {
+            "sentence": "Many balk at the price of 5G phones.",
+            "sentence_zh": "许多人对5G手机的价格犹豫不决。"
+          }
+        ]
+      }
+    ],
+    "teach": "balk就像高速路上的路障🚧+犹豫的emoji🤔！它本是田里的横木（想象《唐顿庄园》里绊倒人的篱笆），现在既当绊脚石又当'怂'的代言人。遇到难题可以说hit a balk（碰壁），'临阵退缩'叫balk at the last moment。记住：物理阻碍用名词，心理退缩用动词！🛑🐎",
+    "recite": {
+      "tips": [
+        "谐音梗：'剥壳'→虾仁剥壳(balk)时犹豫不决",
+        "易混词对比：balk(主动退缩) vs hesitate(普通犹豫)"
+      ]
+    }
+  },
+  {
+    "word": "Balkan",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自土耳其语'Balkan'（山脉），现特指东南欧半岛地区"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "巴尔干半岛的",
+        "examples": [
+          {
+            "sentence": "Balkan cuisine is a fascinating mix of Turkish and Slavic flavors.",
+            "sentence_zh": "巴尔干美食是土耳其与斯拉夫风味的奇妙融合。"
+          },
+          {
+            "sentence": "The Balkan route became migrants' gateway to Europe during the crisis.",
+            "sentence_zh": "危机期间巴尔干路线成为移民进入欧洲的通道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Balkan Peninsula",
+        "meaning": "巴尔干半岛",
+        "examples": [
+          {
+            "sentence": "The Balkan Peninsula is called the 'powder keg of Europe' for its complex history.",
+            "sentence_zh": "巴尔干半岛因复杂历史被称为'欧洲火药桶'。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Balkanize",
+        "meaning": "使分裂成小国",
+        "examples": [
+          {
+            "sentence": "Some fear the referendum could Balkanize the region further.",
+            "sentence_zh": "有人担心公投会使该地区进一步分裂。"
+          }
+        ]
+      }
+    ],
+    "teach": "巴尔干就像火锅拼盘🍲：土耳其奥斯曼的香料🌶️+斯拉夫酸奶酱🥛+希腊橄榄油🫒混煮500年！'Balkanize'（分裂）这词诞生于一战后，就像把拼盘强行拆成单人小火锅🍢。记住：'火药桶'叫powder keg，'文化大杂烩'说melting pot比萨拉热窝还热！",
+    "recite": {
+      "tips": [
+        "视觉联想：地图上巴尔干像攥紧的拳头👊",
+        "易混词：Balcony（阳台）vs Balkan（阳台看出去可能是巴尔干山脉）"
+      ]
+    }
+  },
+  {
+    "word": "ball",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'bolr'（圆形物体），与拉丁语'follis'（充气球）同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "球",
+        "examples": [
+          {
+            "sentence": "The panda accidentally dropped its bamboo ball into the pond.",
+            "sentence_zh": "熊猫不小心把竹球掉进了池塘。"
+          },
+          {
+            "sentence": "Basketball players in China call the ball 'old friend' affectionately.",
+            "sentence_zh": "中国篮球运动员亲切地把球称为'老朋友'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "舞会",
+        "examples": [
+          {
+            "sentence": "At the Halloween ball, someone dressed up as a walking hotpot.",
+            "sentence_zh": "万圣节舞会上有人扮成会走的火锅。"
+          },
+          {
+            "sentence": "The Spring Festival Gala is like a national TV ball for Chinese families.",
+            "sentence_zh": "春晚就像中国家庭的全国电视舞会。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "球状物",
+        "examples": [
+          {
+            "sentence": "The giant meatball at IKEA weighs as much as a baby elephant.",
+            "sentence_zh": "宜家的巨型肉球重如小象。"
+          },
+          {
+            "sentence": "Her hair was tied into two ball-like buns, just like ancient Chinese paintings.",
+            "sentence_zh": "她的头发扎成两个球状发髻，活像古画中人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "捏成球形",
+        "examples": [
+          {
+            "sentence": "Grandma balled the dough with hands that had made dumplings for 50 years.",
+            "sentence_zh": "奶奶用包了50年饺子的手把面团捏成球。"
+          },
+          {
+            "sentence": "The child balled up his math homework before the dog ate it.",
+            "sentence_zh": "在被狗吃掉前，孩子把数学作业揉成了球。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "have a ball",
+        "meaning": "玩得开心",
+        "examples": [
+          {
+            "sentence": "We had a ball at the night market eating stinky tofu.",
+            "sentence_zh": "我们在夜市吃臭豆腐玩得很嗨。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "ball up",
+        "meaning": "弄乱",
+        "examples": [
+          {
+            "sentence": "The kitten balled up all my yarn into colorful spaghetti.",
+            "sentence_zh": "小猫把我的毛线团弄成了彩色意大利面。"
+          }
+        ]
+      }
+    ],
+    "teach": "ball是史上最分裂单词🎭！当球讲时像国乒乓球🏓（ping-pong ball），当舞会讲秒变灰姑娘的南瓜车🎃（Cinderella's ball），当动词时立刻化身汤圆师傅👨🍳（ball the dough）。搭配have a ball不是'有个球'而是嗨翻天，ball up也不是'球往上'而是乱成麻！记住：遇到ball先问——这是能踢的、能跳的、还是能吃的？🍡🎪🏀",
+    "recite": {
+      "tips": [
+        "谐音梗：'暴'→暴（ball）力撕作业捏成球",
+        "易混词：bowl（碗）/ball（球）→碗里装着球"
+      ]
+    }
+  },
+  {
+    "word": "ballad",
+    "etymology": {
+      "breakdown": [
+        "ball",
+        "ad"
+      ],
+      "meaning_connection": "词根ball=跳舞（源自拉丁语ballare），后缀-ad=与...相关→最初指伴舞歌曲"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "叙事歌谣",
+        "examples": [
+          {
+            "sentence": "The blind street musician sang a ballad about the Yangtze River floods.",
+            "sentence_zh": "盲人街头艺人唱着关于长江水患的叙事歌谣。"
+          },
+          {
+            "sentence": "Jay Chou's ballads always mix ancient poetry with modern beats.",
+            "sentence_zh": "周杰伦的歌谣总将古诗与现代节奏相融合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抒情民谣",
+        "examples": [
+          {
+            "sentence": "She hummed a Scottish ballad while making dumplings.",
+            "sentence_zh": "她包饺子时哼着苏格兰抒情民谣。"
+          },
+          {
+            "sentence": "The campus ballad contest attracted 300 guitar players.",
+            "sentence_zh": "校园民谣大赛吸引了300名吉他手参加。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "folk ballad",
+        "meaning": "民间歌谣",
+        "examples": [
+          {
+            "sentence": "The Miao folk ballad is now a UNESCO heritage.",
+            "sentence_zh": "苗族民间歌谣现已成为联合国非物质文化遗产。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "power ballad",
+        "meaning": "强力抒情曲",
+        "examples": [
+          {
+            "sentence": "The 1980s power ballads are still played in KTV rooms.",
+            "sentence_zh": "1980年代的强力抒情曲仍在KTV被点唱。"
+          }
+        ]
+      }
+    ],
+    "teach": "ballad其实是'蹦跶'🎵的鼻祖！中世纪欧洲人边跳(ball)边唱这些歌，就像现在广场舞大妈配凤凰传奇🦚。要说'洗脑神曲'叫earworm（耳朵虫），'即兴创作'叫freestyle🎤。记住：真正的ballad能让你脚趾头跟着打拍子！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白乐的'→白居易乐府诗就是高级ballad",
+        "易混词：ballade（钢琴叙事曲）vs ballad"
+      ]
+    }
   }
 ]

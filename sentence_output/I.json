@@ -6920,5 +6920,342 @@
         "易混词对比：illegal（adj.）是形容词，illegally（adv.）是副词"
       ]
     }
+  },
+  {
+    "word": "illegible",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "leg",
+        "ible"
+      ],
+      "meaning_connection": "前缀il-表否定，词根leg=读（如lecture），-ible表'可...的'→'不可读的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "难辨认的",
+        "examples": [
+          {
+            "sentence": "The doctor's prescription is completely illegible to pharmacists.",
+            "sentence_zh": "医生的处方对药剂师来说完全无法辨认。"
+          },
+          {
+            "sentence": "Ancient stone inscriptions become illegible after centuries of erosion.",
+            "sentence_zh": "经过几个世纪的风化，古代石刻已难以辨认。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "字迹模糊的",
+        "examples": [
+          {
+            "sentence": "Her diary was written in such illegible cursive that even she couldn't read it later.",
+            "sentence_zh": "她的日记用如此潦草的连笔字写成，后来连自己都认不出来。"
+          },
+          {
+            "sentence": "The wet signature on the contract turned illegible after coffee spillage.",
+            "sentence_zh": "合同上的签名被咖啡打湿后变得模糊不清。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "illegible handwriting",
+        "meaning": "难以辨认的笔迹",
+        "examples": [
+          {
+            "sentence": "Teachers often complain about students' illegible handwriting during exam marking.",
+            "sentence_zh": "阅卷时老师常抱怨学生字迹难以辨认。"
+          }
+        ]
+      }
+    ],
+    "teach": "illegible就是'医生的处方体'✍️！这个词自带吐槽属性：前缀il-像摇头说'不'🙅，legible（清晰的）被否定成'鬼画符'。记住：考试时字迹像被猫抓过🐾可以叫illegible，说'天书字体'的地道表达是chicken scratch（鸡爪刨的）。搭配'illegible scrawl'(狂草)和'illegible print'(模糊印刷)使用更传神！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一累就不理'→一累写字就不理清楚",
+        "易混词对比：illegal(非法的) vs illegible(难认的)"
+      ]
+    }
+  },
+  {
+    "word": "illegitimacy",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "legitim",
+        "acy"
+      ],
+      "meaning_connection": "前缀il-表否定，词根legitim=合法（来自拉丁语lex法律），-acy表状态→不合法状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不法",
+        "examples": [
+          {
+            "sentence": "The illegitimacy of his business dealings eventually led to prison.",
+            "sentence_zh": "他商业行为的不法性最终导致入狱。"
+          },
+          {
+            "sentence": "Protesting against illegitimacy in governance is citizens' right.",
+            "sentence_zh": "抗议治理中的不法行为是公民权利。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "私生",
+        "examples": [
+          {
+            "sentence": "In some cultures, illegitimacy still carries social stigma.",
+            "sentence_zh": "某些文化中，私生身份仍带有社会污名。"
+          },
+          {
+            "sentence": "DNA testing has reduced cases of disputed illegitimacy.",
+            "sentence_zh": "基因检测减少了私生身份的争议案例。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不规则性",
+        "examples": [
+          {
+            "sentence": "The illegitimacy in this math proof lies in step three.",
+            "sentence_zh": "该数学证明的不规则性出现在第三步。"
+          },
+          {
+            "sentence": "Grammarly highlights grammatical illegitimacy in real-time.",
+            "sentence_zh": "Grammarly实时标出语法的不规则性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不合逻辑",
+        "examples": [
+          {
+            "sentence": "The illegitimacy of his argument was obvious to everyone.",
+            "sentence_zh": "他论点的不合逻辑众人皆知。"
+          },
+          {
+            "sentence": "Detecting logical illegitimacy is crucial in debate competitions.",
+            "sentence_zh": "辩论赛中识别逻辑不合至关重要。"
+          }
+        ]
+      }
+    ],
+    "teach": "illegitimacy是法律界的混血儿👶🏻：前半截il-像交通禁行标志🚫，legitimacy来自拉丁语'合法'（想象法律天平⚖️）。说'私生子'老派说法是love child💘，现代用born out of wedlock更中性。搭配：political illegitimacy（政治不正当性）/prove illegitimacy（证明非法性）。记住：这个词就像被法律抛弃的流浪猫🐾！",
+    "recite": {
+      "tips": [
+        "拆解记忆：il（不）+legitim（合法）= 不合法",
+        "易混词对比：illegible（难辨认的）vs illegitimate（不合法的）",
+        "联想：'ill（病态的）+legitimacy（合法性）'→病态合法性"
+      ]
+    }
+  },
+  {
+    "word": "illegitimate",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "legitim",
+        "ate"
+      ],
+      "meaning_connection": "前缀il-表否定，词根legitim=合法（来自拉丁语lex法律），-ate构成形容词→原指'不符合法律的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不法的",
+        "examples": [
+          {
+            "sentence": "The pirate radio station was shut down for illegitimate broadcasting.",
+            "sentence_zh": "这个地下电台因非法广播被取缔。"
+          },
+          {
+            "sentence": "Selling counterfeit Olympic mascots is illegitimate.",
+            "sentence_zh": "盗版奥运吉祥物销售属于不法行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "私生的",
+        "examples": [
+          {
+            "sentence": "In some historical dramas, illegitimate children couldn't inherit titles.",
+            "sentence_zh": "某些古装剧里，私生子不能继承爵位。"
+          },
+          {
+            "sentence": "The DNA test proved he was the illegitimate son of the duke.",
+            "sentence_zh": "DNA检测证实他是公爵的私生子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不合规则的",
+        "examples": [
+          {
+            "sentence": "Using a VPN to bypass regional restrictions is illegitimate.",
+            "sentence_zh": "用VPN跨区追剧属于不合规则操作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不合理的",
+        "examples": [
+          {
+            "sentence": "Their illegitimate demand for free iPhones shocked everyone.",
+            "sentence_zh": "他们索要免费iPhone的无理要求惊呆了所有人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无合法身份的人",
+        "examples": [
+          {
+            "sentence": "The novel tells the story of an illegitimate fighting for recognition.",
+            "sentence_zh": "这本小说讲述无合法身份者争取认可的故事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "宣告...为非法",
+        "examples": [
+          {
+            "sentence": "The court illegitimated the cryptocurrency trading platform.",
+            "sentence_zh": "法院宣告该加密货币交易平台非法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "证明...为私生",
+        "examples": [
+          {
+            "sentence": "The ancient letter illegitimated the prince's claim to the throne.",
+            "sentence_zh": "这封古书信证实了王子的私生身份。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "illegitimate child",
+        "meaning": "私生子",
+        "examples": [
+          {
+            "sentence": "The scandal revealed he had three illegitimate children.",
+            "sentence_zh": "丑闻曝光他有三个私生子。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "illegitimate profit",
+        "meaning": "非法获利",
+        "examples": [
+          {
+            "sentence": "The CEO was arrested for making illegitimate profits.",
+            "sentence_zh": "该CEO因非法获利被捕。"
+          }
+        ]
+      }
+    ],
+    "teach": "illegitimate是'法外狂徒'👨⚖️的完美注脚！词根legitim来自拉丁语'法律'，加否定前缀il-就像给文件盖'作废'章❌。英国史上有名的illegitimate child是征服者威廉🤴（虽然后来当了国王）。说'山寨货'可用illegitimate copy，'野路子'叫illegitimate method。记住：前缀il-是法律界的红牌🚩！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一离奇题目'→离奇题目往往不合法",
+        "易混词：illegal仅指违法，illegitimate范围更广"
+      ]
+    }
+  },
+  {
+    "word": "illegitimately",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "legitim",
+        "ate",
+        "ly"
+      ],
+      "meaning_connection": "前缀il-表否定，词根legitim=合法（来自拉丁语lex法律），-ate构成形容词，-ly构成副词→从'不合法'引申出多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "私生地",
+        "examples": [
+          {
+            "sentence": "The duke's son born illegitimately couldn't inherit the title.",
+            "sentence_zh": "公爵私生之子无法继承爵位。"
+          },
+          {
+            "sentence": "In medieval Europe, children born illegitimately often faced discrimination.",
+            "sentence_zh": "中世纪欧洲，私生子女常遭受歧视。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非法地",
+        "examples": [
+          {
+            "sentence": "The hacker accessed user data illegitimately through loopholes.",
+            "sentence_zh": "黑客通过漏洞非法获取用户数据。"
+          },
+          {
+            "sentence": "Some livestreamers illegitimately use pirated music as BGM.",
+            "sentence_zh": "部分主播非法使用盗版音乐作为背景音。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不合理地",
+        "examples": [
+          {
+            "sentence": "The teacher illegitimately deducted points for creative answers.",
+            "sentence_zh": "教师不合理地扣减创意答案的分数。"
+          },
+          {
+            "sentence": "Some apps illegitimately occupy phone storage with cached files.",
+            "sentence_zh": "某些应用不合理地占用手机存储缓存文件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gain illegitimately",
+        "meaning": "非法获得",
+        "examples": [
+          {
+            "sentence": "The official was executed for gaining wealth illegitimately.",
+            "sentence_zh": "该官员因非法获得财富被处决。"
+          }
+        ]
+      }
+    ],
+    "teach": "illegitimately这词自带'红牌警告'🚨属性！就像足球场上三种犯规动作：1) '私生'像球员穿错球衣👕（born illegitimately） 2) '非法'像用手进球✋（act illegitimately） 3) '不合理'像裁判吹黑哨🦹（rule illegitimately）。搭配'black market'或'hack into'时，记得加上这个'不合法'副词！地道说法：'走后门'叫pull strings illegally🎭",
+    "recite": {
+      "tips": [
+        "谐音梗：'一离职立马提'→非法获取利益后跑路",
+        "易混词：illegally侧重法律层面，illegitimately含道德判断",
+        "记忆链：il(不)+legit(合法)=不合法→所有引申义"
+      ]
+    }
   }
 ]

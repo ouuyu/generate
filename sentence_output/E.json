@@ -7026,5 +7026,301 @@
         "易混词对比：whirlpool(大漩涡) vs eddy(小涡流)"
       ]
     }
+  },
+  {
+    "word": "ecumenical",
+    "etymology": {
+      "breakdown": [
+        "ecumene",
+        "ical"
+      ],
+      "meaning_connection": "词根ecumene源自希腊语'oikoumene'（有人居住的世界），后缀-ical表示'与...相关的'→原指'全人类范围的'，后被基督教借用表示'普世教会的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "普遍的",
+        "examples": [
+          {
+            "sentence": "The ecumenical popularity of bubble tea surprises anthropologists.",
+            "sentence_zh": "奶茶在全球的普遍流行让人类学家惊讶。"
+          },
+          {
+            "sentence": "Smartphones have achieved ecumenical adoption across all continents.",
+            "sentence_zh": "智能手机在各大陆取得了普遍采用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "全基督教的",
+        "examples": [
+          {
+            "sentence": "The ecumenical council gathered representatives from 200+ denominations.",
+            "sentence_zh": "普世基督教大会聚集了200多个教派的代表。"
+          },
+          {
+            "sentence": "Taizé Community is famous for its ecumenical prayers.",
+            "sentence_zh": "泰泽团体以其普世基督教祷告闻名。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ecumenical movement",
+        "meaning": "基督教合一运动",
+        "examples": [
+          {
+            "sentence": "The ecumenical movement aims to bridge Catholic and Protestant churches.",
+            "sentence_zh": "基督教合一运动旨在连接天主教与新教教会。"
+          }
+        ]
+      }
+    ],
+    "teach": "ecumenical是'地球村'🌍的鼻祖词汇！古希腊人用oikoumene指'已知世界'，就像现在说'全网通'📶。基督教借来变成'普世教会'⛪，今天还能形容奶茶征服全球🧋。搭配要说'ecumenical spirit'（普世精神），说'全球爆款'可用go ecumenical。记住：当某个事物从耶路撒冷传到硅谷，它就走上了ecumenical之路！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一颗米你抠'→全地球(e-cumenical)都在省米粮",
+        "易混词：economic（经济的）vs ecumenical（普遍的）",
+        "记忆锚点：联想EC（欧盟）的universal（普遍）性质"
+      ]
+    }
+  },
+  {
+    "word": "edge",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'ecg'，与德语'Ecke'同源，原始印欧语词根可能表示'尖锐'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "边缘",
+        "examples": [
+          {
+            "sentence": "She sat on the edge of the Great Wall eating ice cream.",
+            "sentence_zh": "她坐在长城边缘吃着冰淇淋。"
+          },
+          {
+            "sentence": "The smartphone's curved edge makes it slippery.",
+            "sentence_zh": "这款手机的曲面边缘让它容易滑落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "刀刃",
+        "examples": [
+          {
+            "sentence": "The chef tested the edge of his cleaver with a tomato.",
+            "sentence_zh": "厨师用西红柿测试菜刀的刀刃锋利度。"
+          },
+          {
+            "sentence": "This sword's edge can split a hair vertically.",
+            "sentence_zh": "这把剑的刀刃能纵向劈开头发。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "优势",
+        "examples": [
+          {
+            "sentence": "Bilingualism gives you an edge in job hunting.",
+            "sentence_zh": "双语能力让你在求职中拥有优势。"
+          },
+          {
+            "sentence": "Our company's technological edge comes from AI research.",
+            "sentence_zh": "我们公司的技术优势来自人工智能研究。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使锐利",
+        "examples": [
+          {
+            "sentence": "He edged his pencil before the exam like a samurai.",
+            "sentence_zh": "他像武士般在考前削尖铅笔。"
+          },
+          {
+            "sentence": "The barber edged his razor with a leather strap.",
+            "sentence_zh": "理发师用皮条给剃刀开刃。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "挤进",
+        "examples": [
+          {
+            "sentence": "She edged her way through the crowd to see Jay Chou.",
+            "sentence_zh": "她在人群中挤出一条路去看周杰伦。"
+          },
+          {
+            "sentence": "The cat edged itself into the half-open drawer.",
+            "sentence_zh": "猫咪挤进半开的抽屉里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "缓缓移动",
+        "examples": [
+          {
+            "sentence": "The sunrise edged above the horizon like lava.",
+            "sentence_zh": "朝阳像熔岩般缓缓升出地平线。"
+          },
+          {
+            "sentence": "The snail was edging along the lettuce leaf.",
+            "sentence_zh": "蜗牛在生菜叶上缓缓移动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on edge",
+        "meaning": "紧张不安",
+        "examples": [
+          {
+            "sentence": "I was on edge before the blind date.",
+            "sentence_zh": "相亲前我紧张得坐立不安。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "edge out",
+        "meaning": "险胜",
+        "examples": [
+          {
+            "sentence": "Li Na edged out her opponent in the tiebreak.",
+            "sentence_zh": "李娜在抢七局中险胜对手。"
+          }
+        ]
+      }
+    ],
+    "teach": "edge是社畜の生存哲学💼：上班要on edge（如坐针毡），竞争需cutting edge（尖端优势），涨工资要edge in（挤进领导视线）🗡️。记住：'有刀不用'和'没刀可用'是两回事——当你说'I have an edge'时，可能是技术大牛，也可能只是带了把水果刀🍎！",
+    "recite": {
+      "tips": [
+        "谐音梗：'挨着'→在边缘(edge)挨着站",
+        "易混词对比：edge（物理边缘）vs. advantage（抽象优势）",
+        "记忆tip：想象站在悬崖edge的人，既危险（边缘）又酷（有优势）"
+      ]
+    }
+  },
+  {
+    "word": "edged",
+    "etymology": {
+      "breakdown": [
+        "edge",
+        "ed"
+      ],
+      "meaning_connection": "edge表示'边缘/刃'，-ed形容词后缀→'具有边缘/刃的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有刃的",
+        "examples": [
+          {
+            "sentence": "The chef's collection includes Japanese edged tools with cherry wood handles.",
+            "sentence_zh": "这位厨师的收藏包括带有樱桃木手柄的日式有刃刀具。"
+          },
+          {
+            "sentence": "Museum security confiscated all edged objects before the exhibition.",
+            "sentence_zh": "博物馆安检在展览前没收了所有带刃物品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "double-edged sword",
+        "meaning": "双刃剑",
+        "examples": [
+          {
+            "sentence": "Social media is a double-edged sword that connects people but also spreads misinformation.",
+            "sentence_zh": "社交媒体是柄双刃剑，既连接人群又传播虚假信息。"
+          },
+          {
+            "sentence": "AI technology proves to be a double-edged sword in the education field.",
+            "sentence_zh": "人工智能技术在教育领域被证明是把双刃剑。"
+          }
+        ]
+      }
+    ],
+    "teach": "edged这个词就像开刃的龙泉宝剑🗡️！人类最早的石器就是edged tools（带刃工具）。网络梗'键盘侠的舌头是最好double-edged weapon（最佳双刃武器）'。说'锋利'可以用razor-edged，'钝刀'叫dull-edged。记住：edged的东西能切月饼也能切手指🚑！",
+    "recite": {
+      "tips": [
+        "视觉联想：字母d像刀柄，g像弯刃",
+        "易混词对比：edged（有刃的） vs. edgy（前卫的）"
+      ]
+    }
+  },
+  {
+    "word": "edgily",
+    "etymology": {
+      "breakdown": [
+        "edge",
+        "ily"
+      ],
+      "meaning_connection": "词根edge=边缘/刀刃，后缀-ily构成副词→'像刀刃般'的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "刀口锐利地",
+        "examples": [
+          {
+            "sentence": "The samurai's blade cut edgily through the bamboo.",
+            "sentence_zh": "武士刀如锋斩竹般锐利地劈开竹子。"
+          },
+          {
+            "sentence": "Her critique landed edgily, leaving the audience stunned.",
+            "sentence_zh": "她的批评如刀锋般锐利，让听众哑然。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "尖利地",
+        "examples": [
+          {
+            "sentence": "Wind whistled edgily around the mountain cliffs.",
+            "sentence_zh": "山崖间的风发出尖利的呼啸。"
+          },
+          {
+            "sentence": "The violinist played the high notes edgily on purpose.",
+            "sentence_zh": "小提琴手故意将高音拉得尖锐刺耳。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "speak edgily",
+        "meaning": "尖锐地说话",
+        "examples": [
+          {
+            "sentence": "He spoke edgily about the policy, his words like shards of glass.",
+            "sentence_zh": "他尖锐地评论政策，言辞如玻璃碎片般锋利。"
+          }
+        ]
+      }
+    ],
+    "teach": "edgily是'自带刀光特效'的副词🗡️！想象李白的'十步杀一人'剑锋寒光闪闪⚔️，或微信语音里老妈催婚的尖锐语调📢。说'刻薄话'可以用throw edgy remarks像扔飞刀，'紧张氛围'叫edgy atmosphere仿佛走在刀刃上🧗。记住：当形容词edgy（锋利的）加上-ly，就变成了'杀人诛心'的副词模式！",
+    "recite": {
+      "tips": [
+        "谐音梗：'挨着利'→紧挨着利刃(edgily)",
+        "易混词：edgily(锐利地) vs. eagerly(急切地)"
+      ]
+    }
   }
 ]

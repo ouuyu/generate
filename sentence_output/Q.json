@@ -6796,5 +6796,129 @@
         "易混词：quiet只指声音安静，quiescent可指全面静止"
       ]
     }
+  },
+  {
+    "word": "quiet",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语quies（休息），与'quit'同源，最初表示静止状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "安静",
+        "examples": [
+          {
+            "sentence": "The library demands absolute quiet like a ninja's hideout.",
+            "sentence_zh": "图书馆要求忍者基地般的绝对安静。"
+          },
+          {
+            "sentence": "Chinese tea ceremony embodies the spirit of quiet.",
+            "sentence_zh": "中国茶道蕴含着安静的精神。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "闲适",
+        "examples": [
+          {
+            "sentence": "He enjoys the quiet of fishing by West Lake.",
+            "sentence_zh": "他享受西湖垂钓的闲适。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "平静",
+        "examples": [
+          {
+            "sentence": "Before the typhoon comes, there's always an eerie quiet.",
+            "sentence_zh": "台风来临前总有诡异的平静。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "安静的",
+        "examples": [
+          {
+            "sentence": "The panda kept surprisingly quiet while stealing bamboo.",
+            "sentence_zh": "熊猫偷竹子时安静得惊人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "静止的",
+        "examples": [
+          {
+            "sentence": "The quiet surface of Qianlong's antique vase reflected moonlight.",
+            "sentence_zh": "乾隆古董花瓶静止的表面映着月光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "朴素的",
+        "examples": [
+          {
+            "sentence": "She prefers quiet colors like celadon for her cheongsam.",
+            "sentence_zh": "她偏爱旗袍用青瓷色等素雅颜色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "平静下来",
+        "examples": [
+          {
+            "sentence": "The Forbidden City quiets down after the last tourist leaves.",
+            "sentence_zh": "最后一名游客离开后，故宫逐渐平静下来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使平静",
+        "examples": [
+          {
+            "sentence": "Grandma quieted the crying child with sugar-figure candy.",
+            "sentence_zh": "奶奶用糖人使哭闹的孩子平静下来。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keep quiet",
+        "meaning": "保持安静",
+        "examples": [
+          {
+            "sentence": "Keep quiet when the Peking opera performer hits high notes.",
+            "sentence_zh": "京剧演员唱高音时要保持安静。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quiet down",
+        "meaning": "安静下来",
+        "examples": [
+          {
+            "sentence": "The mahjong players finally quieted down at midnight.",
+            "sentence_zh": "麻将玩家终于在午夜安静下来。"
+          }
+        ]
+      }
+    ],
+    "teach": "quiet是'静'界天花板🧘！古人说'大音希声'，英文却说'as quiet as a dumpling in vinegar'（饺子蘸醋般安静）🥟。想表达'安静如鸡'说quiet as a mouse，'打破沉默'叫break the silence。记住：在自习室要像茶叶沉底般quiet🍵！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快饿的'→快饿的人安静等饭",
+        "对比：silent（人为安静）vs quiet（自然安静）"
+      ]
+    }
   }
 ]

@@ -6632,5 +6632,286 @@
         "对比记忆：dataset是数据集，database是管理系统"
       ]
     }
+  },
+  {
+    "word": "datable",
+    "etymology": {
+      "breakdown": [
+        "date",
+        "able"
+      ],
+      "meaning_connection": "词根date=日期，后缀-able表'可...的'→能被标注日期的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可确定年代的",
+        "examples": [
+          {
+            "sentence": "The dinosaur fossils are datable to the Jurassic period by radioactive testing.",
+            "sentence_zh": "通过放射性检测可确定这些恐龙化石属于侏罗纪。"
+          },
+          {
+            "sentence": "This terracotta warrior is datable within 10 years using new carbon-dating technology.",
+            "sentence_zh": "利用新型碳测年技术可精准确定该兵马俑的年代误差在10年内。"
+          }
+        ]
+      }
+    ],
+    "teach": "datable就像考古学家的电子秤⚖️：把文物放上去就能'滴'一声显示年份📅（想象扫码查生产日期！）。搭配'datable artifacts'（可断代文物）或'datable within...'（误差范围）。说'年代成谜'可用undatable，就像过期老干妈找不到生产批次🤷‍♂️。",
+    "recite": {
+      "tips": [
+        "谐音梗：'嘚特靠谱'→日期(date)靠谱(-able)才能确定年代",
+        "易混词对比：datable（可断代） vs debatable（可争议）"
+      ]
+    }
+  },
+  {
+    "word": "dataset",
+    "etymology": {
+      "breakdown": [
+        "data",
+        "set"
+      ],
+      "meaning_connection": "数据(data)的集合(set)"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "数据集",
+        "examples": [
+          {
+            "sentence": "This AI model was trained on a dataset of 50 million selfies.",
+            "sentence_zh": "这个AI模型是用5000万张自拍数据集训练的。"
+          },
+          {
+            "sentence": "Researchers shared the dumpling preference dataset worldwide.",
+            "sentence_zh": "研究者向全球共享了饺子口味偏好数据集。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "raw dataset",
+        "meaning": "原始数据集",
+        "examples": [
+          {
+            "sentence": "The raw dataset contains unedited livestream comments.",
+            "sentence_zh": "原始数据集包含未经剪辑的直播弹幕。"
+          }
+        ]
+      }
+    ],
+    "teach": "dataset就像火锅食材拼盘🍲！古代账房先生用算盘打数据🧮（数据石器时代），现代用dataset训练AI就像用食材培养厨师👨🍳。搭配'clean dataset'（净菜数据）和'labeled dataset'（配好调料的数据）。说'数据量小'用pea-sized dataset（豌豆大的数据）💾，记住：好dataset决定AI能有多'下饭'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得他塞'→得到数据往里塞",
+        "易混词：database是仓库，dataset是打包好的货物"
+      ]
+    }
+  },
+  {
+    "word": "date",
+    "etymology": {
+      "breakdown": [
+        "dat",
+        "e"
+      ],
+      "meaning_connection": "词根dat=给（拉丁语dare），最初指'给定时间'，后衍生出'约会'和'枣椰树'（因果实成熟期固定）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "日期",
+        "examples": [
+          {
+            "sentence": "The expiration date on my milk tea was yesterday.",
+            "sentence_zh": "我奶茶上的保质期截止昨天。"
+          },
+          {
+            "sentence": "Double 11 has become the most important shopping date in China.",
+            "sentence_zh": "双十一已成为中国最重要的购物日期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "约会",
+        "examples": [
+          {
+            "sentence": "Their first date was at a hotpot restaurant with 5-star spicy level.",
+            "sentence_zh": "他们的第一次约会是在一家五星辣度的火锅店。"
+          },
+          {
+            "sentence": "Bringing parents on a blind date is trending in Shanghai.",
+            "sentence_zh": "上海正流行带父母参加相亲约会。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "枣椰树",
+        "examples": [
+          {
+            "sentence": "Dates from Xinjiang are sweeter than Middle Eastern ones.",
+            "sentence_zh": "新疆的枣椰果比中东的更甜。"
+          },
+          {
+            "sentence": "The date palm is called 'the tree of life' in deserts.",
+            "sentence_zh": "枣椰树在沙漠中被称作'生命之树'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "约会",
+        "examples": [
+          {
+            "sentence": "He's been dating his AI chatbot for 3 months.",
+            "sentence_zh": "他和他的AI聊天机器人已约会三个月。"
+          },
+          {
+            "sentence": "In ancient China, dating before marriage was strictly forbidden.",
+            "sentence_zh": "中国古代严禁婚前约会。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "定日期",
+        "examples": [
+          {
+            "sentence": "WeChat allows you to date your messages to future recipients.",
+            "sentence_zh": "微信允许你给消息设定未来发送日期。"
+          },
+          {
+            "sentence": "The museum dates the terracotta warriors to 210 BCE.",
+            "sentence_zh": "博物馆将兵马俑的年代定为公元前210年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "注明日期",
+        "examples": [
+          {
+            "sentence": "This archaeological find dates from the Tang Dynasty.",
+            "sentence_zh": "这件文物注明年代为唐代。"
+          },
+          {
+            "sentence": "Ancient Chinese ceramics often didn't date their works.",
+            "sentence_zh": "中国古代瓷器常不注明制作日期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "过时",
+        "examples": [
+          {
+            "sentence": "Flip phones have dated faster than Sichuan hotpot goes cold.",
+            "sentence_zh": "翻盖手机过时的速度比四川火锅变凉还快。"
+          },
+          {
+            "sentence": "That meme is so last year—it's totally dated now.",
+            "sentence_zh": "那个梗去年很火，现在完全过时了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "date back to",
+        "meaning": "追溯到",
+        "examples": [
+          {
+            "sentence": "Chinese tea culture dates back to Shennong era.",
+            "sentence_zh": "中国茶文化可追溯到神农时代。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "out of date",
+        "meaning": "过时的",
+        "examples": [
+          {
+            "sentence": "Using paper maps is considered out of date in China.",
+            "sentence_zh": "在中国使用纸质地图被视为过时的。"
+          }
+        ]
+      }
+    ],
+    "teach": "date是个时间管理大师⏰！作为'日期'时像高考倒计时📅；作为'约会'时像火锅店等位叫号👫；作为'枣椰树'时像新疆特产大礼包🌴。说'过时'用dated就像说奶茶不冰了🧋，要'追溯'用date back就像查族谱📜。记住：date someone是'约会'，date something才是'鉴定年代'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得特'→得到特别(date)的日子",
+        "易混词：data（数据）是date的堂兄弟"
+      ]
+    }
+  },
+  {
+    "word": "dated",
+    "etymology": {
+      "breakdown": [
+        "date",
+        "ed"
+      ],
+      "meaning_connection": "date源自拉丁语'datum'（给予之物，后指文件签署日期），后缀-ed表形容词→最初指'标注日期的'，后引申为'过时的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有日期的",
+        "examples": [
+          {
+            "sentence": "The museum displays a dated letter from 1896 with wax seals.",
+            "sentence_zh": "博物馆展出一封1896年带火漆印的标注日期的信。"
+          },
+          {
+            "sentence": "Fresh milk bottles are clearly dated for safety control.",
+            "sentence_zh": "鲜奶瓶为安全管控明确标注日期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "陈旧的",
+        "examples": [
+          {
+            "sentence": "His jokes about dial-up internet sound painfully dated.",
+            "sentence_zh": "他关于拨号上网的笑话听起来尴尬地过时了。"
+          },
+          {
+            "sentence": "That pink refrigerator looks delightfully dated in the retro café.",
+            "sentence_zh": "那台粉色冰箱在复古咖啡馆里显得可爱地老派。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dated back to",
+        "meaning": "追溯到",
+        "examples": [
+          {
+            "sentence": "This tradition dates back to the Han Dynasty.",
+            "sentence_zh": "该传统可追溯到汉朝。"
+          }
+        ]
+      }
+    ],
+    "teach": "dated就像你抽屉里的诺基亚手机📟——字面意义是'带生产日期'（dated 2007），实际暗示'早该进博物馆'🏛️！说'过时穿搭'用dated outfit就像奶奶的灯芯绒裤子👖，而'新鲜过期'用best before date则像酸奶上的死亡倒计时⏳。记住：当你说'so dated'时记得配上翻白眼表情🙄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得等他'→得等他的dated观念更新",
+        "易混词对比：outdated（彻底淘汰） vs dated（略显老派）",
+        "记忆tip：想象日历📅变成泛黄报纸📰的过程"
+      ]
+    }
   }
 ]

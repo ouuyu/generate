@@ -7037,5 +7037,259 @@
         "记忆术：nav(船)+ig(走)+ator(人)=开船的人"
       ]
     }
+  },
+  {
+    "word": "navy",
+    "etymology": {
+      "breakdown": [
+        "nav",
+        "y"
+      ],
+      "meaning_connection": "词根nav=船/航行，后缀-y表性质→与航海相关的组织"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "海军",
+        "examples": [
+          {
+            "sentence": "The Chinese navy's aircraft carriers are called 'mobile national territory'.",
+            "sentence_zh": "中国海军航母被称作'移动国土'。"
+          },
+          {
+            "sentence": "Peppa Pig's grandpa served in the Royal Navy during the Falklands War.",
+            "sentence_zh": "小猪佩奇的爷爷曾在马岛战争时服役于皇家海军。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "海军人员",
+        "examples": [
+          {
+            "sentence": "The navies of 15 countries will participate in the joint exercise.",
+            "sentence_zh": "15个国家的海军人员将参加联合演习。"
+          },
+          {
+            "sentence": "Modern navies require expertise in operating AI systems.",
+            "sentence_zh": "现代海军人员需要掌握操作AI系统的专业知识。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "海军军力",
+        "examples": [
+          {
+            "sentence": "The nation's navy has grown from wooden boats to nuclear submarines.",
+            "sentence_zh": "该国海军军力已从木船发展到核潜艇。"
+          },
+          {
+            "sentence": "A strong navy ensures the safety of maritime trade routes.",
+            "sentence_zh": "强大的海军军力保障海上贸易航线安全。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "烟蒂",
+        "examples": [
+          {
+            "sentence": "He flicked the navy out of the car window, which is totally unacceptable.",
+            "sentence_zh": "他把烟蒂弹出车窗，这完全不可接受。"
+          },
+          {
+            "sentence": "The beach cleanup collected over 500 navies in one hour.",
+            "sentence_zh": "海滩清洁活动一小时就收集了500多个烟蒂。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "navy blue",
+        "meaning": "藏青色",
+        "examples": [
+          {
+            "sentence": "The school uniforms are in classic navy blue.",
+            "sentence_zh": "校服采用经典藏青色。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "join the navy",
+        "meaning": "加入海军",
+        "examples": [
+          {
+            "sentence": "After watching Top Gun, he decided to join the navy instead of the air force.",
+            "sentence_zh": "看完《壮志凌云》后，他决定加入海军而非空军。"
+          }
+        ]
+      }
+    ],
+    "teach": "navy是个精分词汇💥：既能指威风凛凛的航母战斗群🚢，也能指地上卑微的烟头🚬（俚语源自烟头颜色像海军制服）。要说'海军强国'可以用naval power🌊，'老烟枪'叫chain-smoker🚬。藏青色(navy blue)其实是海军制服的衍生色卡💙！记住：看到navy别只想到军队，可能只是路人丢的烟蒂~",
+    "recite": {
+      "tips": [
+        "谐音梗：'那位'→那位(navy)海军叔叔在捡烟蒂",
+        "易混词对比：naval（海军的）/navel（肚脐）"
+      ]
+    }
+  },
+  {
+    "word": "naw",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "俚语变体，源自'no'的方言发音，常见于美国南部口语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不（俚语）",
+        "examples": [
+          {
+            "sentence": "\"Y'all want more crawfish?\" \"Naw, I'm stuffed like a Thanksgiving turkey!\"",
+            "sentence_zh": "\"还要再来点小龙虾吗？\" \"不了，我饱得像感恩节火鸡！\""
+          },
+          {
+            "sentence": "\"Is this your first rodeo?\" \"Naw, I've been buckin' bulls since TikTok was a thing.\"",
+            "sentence_zh": "\"这是你第一次参加牛仔竞技吗？\" \"才不是，我在抖音出现前就开始骑牛了\""
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不是（俚语）",
+        "examples": [
+          {
+            "sentence": "\"Are y'all from New York?\" \"Naw, we sweet tea-drinkin' Texans!\"",
+            "sentence_zh": "\"你们是纽约人吗？\" \"不是，我们是喝甜茶的德州佬！\""
+          },
+          {
+            "sentence": "\"That your pickup truck?\" \"Naw, mine's the one with the 'Save the BBQ' bumper sticker.\"",
+            "sentence_zh": "\"那是你的皮卡吗？\" \"不是，我车屁股贴着'拯救烧烤'贴纸\""
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "没有（俚语）",
+        "examples": [
+          {
+            "sentence": "\"Any leftovers from the potluck?\" \"Naw, Reverend ate like there was no tomorrow.\"",
+            "sentence_zh": "\"聚餐还有剩菜吗？\" \"没啦，牧师吃得像世界末日似的\""
+          },
+          {
+            "sentence": "\"Y'all got change for a twenty?\" \"Naw, just these guitar picks and chewing tobacco.\"",
+            "sentence_zh": "\"能换开20美元吗？\" \"没零钱，只有吉他拨片和嚼烟\""
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hell naw",
+        "meaning": "绝对不行（加强语气）",
+        "examples": [
+          {
+            "sentence": "\"Wanna try fried rattlesnake?\" \"Hell naw, I ain't that country!\"",
+            "sentence_zh": "\"想试试炸响尾蛇吗？\" \"门都没有，我可没那么狂野！\""
+          }
+        ]
+      }
+    ],
+    "teach": "naw是no的牛仔版本🤠！想象美国老哥嚼着烟草说naw时，胡子都会翘起来～说'完全不同意'可以用hell naw（比no强烈10倍💥），搭配牛仔裤和皮卡车效果更佳🚜。记住：用naw时要带点南方拖腔，像说'泥嚎'把舌头压扁就对了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹'→你说naw（闹）我就不闹",
+        "对比：nah更嬉皮，nope更俏皮，naw最土味",
+        "记忆法：想象拒绝难吃的纳豆时说NAW！"
+      ]
+    }
+  },
+  {
+    "word": "nay",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古北欧语'nei'，直接对应现代英语'no'，保留原否定含义。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "否",
+        "examples": [
+          {
+            "sentence": "\"Nay, I shall not eat durian pizza,\" said the queen.",
+            "sentence_zh": "女王说：\"不，我绝不吃榴莲披萨。\""
+          },
+          {
+            "sentence": "The AI replied nay when asked if it enjoys spicy hotpot.",
+            "sentence_zh": "当被问及是否爱吃麻辣火锅时，AI回答说不。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不仅如此",
+        "examples": [
+          {
+            "sentence": "The concert was amazing, nay, life-changing!",
+            "sentence_zh": "这场演唱会棒极了，不，简直是改变人生的！"
+          },
+          {
+            "sentence": "His Mandarin is fluent, nay, native-level.",
+            "sentence_zh": "他的中文很流利，不，简直是母语水平。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "反对票",
+        "examples": [
+          {
+            "sentence": "The parliament recorded 288 ayes and 12 nays.",
+            "sentence_zh": "议会记录显示288票赞成12票反对。"
+          },
+          {
+            "sentence": "Her decisive nay stopped the ridiculous proposal.",
+            "sentence_zh": "她关键的反对票阻止了这项荒谬提案。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "say nay to",
+        "meaning": "拒绝",
+        "examples": [
+          {
+            "sentence": "Gen Z says nay to overtime culture.",
+            "sentence_zh": "Z世代对加班文化说不。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "yea or nay",
+        "meaning": "赞成或反对",
+        "examples": [
+          {
+            "sentence": "The final decision is yours—yea or nay?",
+            "sentence_zh": "最终决定权在你——赞成还是反对？"
+          }
+        ]
+      }
+    ],
+    "teach": "nay是古装剧里的'朕不准'👑！英国议会至今仍用aye/nay投票🗳️，比yes/no更正式。说'reject'太生硬时，用say nay to就像甩水袖拒绝（京剧.gif）。'工资不够？Nay, 简直是要吃土！'💸 记住：现代用no，装X用nay，投票必须用aye/nay！",
+    "recite": {
+      "tips": [
+        "谐音梗：'内讧'→团队内讧时全员say nay",
+        "易混词对比：nay(正式否定) vs yay(欢呼)",
+        "记忆tip：想象哪吒(nay-zha)说'不'🤺"
+      ]
+    }
   }
 ]
