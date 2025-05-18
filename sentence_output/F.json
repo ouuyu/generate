@@ -2753,5 +2753,330 @@
         "易混词对比：factor（因素） vs factory（工厂）"
       ]
     }
+  },
+  {
+    "word": "factotum",
+    "etymology": {
+      "breakdown": [
+        "fac",
+        "totum"
+      ],
+      "meaning_connection": "拉丁语fac=做（同fact），totum=全部→'包办一切的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "家务总管",
+        "examples": [
+          {
+            "sentence": "The AI butler acted as a digital factotum managing smart home devices.",
+            "sentence_zh": "这个AI管家像数字总管般管理着智能家居设备。"
+          },
+          {
+            "sentence": "In Downton Abbey, Mr. Carson was the ultimate factotum of the household.",
+            "sentence_zh": "《唐顿庄园》中的卡森先生是庄园的终极总管。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂役",
+        "examples": [
+          {
+            "sentence": "The temple factotum swept leaves while reciting Buddhist scriptures.",
+            "sentence_zh": "寺庙杂役一边扫落叶一边诵经。"
+          },
+          {
+            "sentence": "Colonial-era factotums often had to handle gardening and grocery shopping.",
+            "sentence_zh": "殖民时期的杂役常需处理园艺和采购杂货。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "爱管闲事者",
+        "examples": [
+          {
+            "sentence": "Our neighborhood factotum knows everyone's WiFi passwords.",
+            "sentence_zh": "我们社区那个爱管闲事的连大家WiFi密码都知道。"
+          },
+          {
+            "sentence": "The nosy factotum even commented on my blind date's hairstyle.",
+            "sentence_zh": "那个多管闲事的连我相亲对象的发型都要点评。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "office factotum",
+        "meaning": "办公室杂务",
+        "examples": [
+          {
+            "sentence": "As an intern, I became the office factotum who fixed printers and ordered milk tea.",
+            "sentence_zh": "作为实习生，我成了修打印机和订奶茶的办公室打杂。"
+          }
+        ]
+      }
+    ],
+    "teach": "factotum是职场中的'超级玛丽'👨‍🔧！这个词诞生时指代中世纪贵族家的'人形瑞士军刀'🔪（要会煮咖啡+修马车+调解仆人吵架）。现代版就像《功夫》里的包租婆🏠（管收租+通下水道+撮合情侣）。搭配'jack-of-all-trades'形容多面手，吐槽'管太宽'可说not your circus, not your monkeys🎪🐒。你的生活里肯定有个factotum同事！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭可偷么'→杂役偷吃厨房剩饭",
+        "易混词：butler（专业管家）vs factotum（啥都管）",
+        "记忆链：fac(做)+totum(全部)=全包侠"
+      ]
+    }
+  },
+  {
+    "word": "factual",
+    "etymology": {
+      "breakdown": [
+        "fact",
+        "ual"
+      ],
+      "meaning_connection": "词根fact=制造/事实（源自拉丁语facere），后缀-ual表性质→与事实有关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "事实的",
+        "examples": [
+          {
+            "sentence": "The documentary presents factual evidence about panda's bamboo addiction.",
+            "sentence_zh": "这部纪录片展示了熊猫沉迷竹子的确凿证据。"
+          },
+          {
+            "sentence": "Factual errors in the report made it look like a bad Wikipedia edit.",
+            "sentence_zh": "报告中的事实错误让它看起来像糟糕的维基百科编辑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "实际的",
+        "examples": [
+          {
+            "sentence": "There's a factual difference between 'I can eat spicy' and 'I'm eating Malatang with 3 boxes of tissues'.",
+            "sentence_zh": "'我能吃辣'和'吃麻辣烫用掉三盒纸巾'有实际区别。"
+          },
+          {
+            "sentence": "His factual income never matches his WeChat Moments lifestyle.",
+            "sentence_zh": "他的实际收入从未匹配过微信朋友圈的生活水准。"
+          }
+        ]
+      }
+    ],
+    "teach": "factual是'较真侠'📜：词根fact就是'事实'（如factory是'制造事实的地方'🏭）。说'有图有真相'用factual proof就像亮出支付宝账单💸，'与事实不符'说not factual就像说珍珠奶茶没珍珠🧋。搭配：factual accuracy（事实准确性）/hard factual data（硬核数据）💪",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭可稠'→实际(factual)饭量决定粥的稠度",
+        "易混词：factual(事实的) vs fictional(虚构的)就像纪录片vs科幻片",
+        "记忆tip：-ual结尾常是形容词（actual, visual等）"
+      ]
+    }
+  },
+  {
+    "word": "factually",
+    "etymology": {
+      "breakdown": [
+        "fact",
+        "ual",
+        "ly"
+      ],
+      "meaning_connection": "词根fact=事实（源自拉丁语factum），-ual构成形容词，-ly构成副词→基于事实地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "真实地",
+        "examples": [
+          {
+            "sentence": "The documentary presents the events factually without dramatic music.",
+            "sentence_zh": "这部纪录片没有配乐，真实地呈现了事件。"
+          },
+          {
+            "sentence": "He factually corrected the Weibo rumor about UFO sightings in Chengdu.",
+            "sentence_zh": "他真实地纠正了微博上关于成都UFO目击的谣言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "确实地",
+        "examples": [
+          {
+            "sentence": "The AI assistant can factually list all Chinese dynasties in 3 seconds.",
+            "sentence_zh": "这个AI助手能在3秒内确实地列出所有中国朝代。"
+          },
+          {
+            "sentence": "Meteorologists factually predicted the typhoon's path using satellite data.",
+            "sentence_zh": "气象学家利用卫星数据确实地预测了台风路径。"
+          }
+        ]
+      }
+    ],
+    "teach": "factually是'较真侠'的座右铭🔍！就像《康熙字典》编纂时每个字都要考据📜，说'完全没错'可以讲factually accurate（比totally更学术）。搭配factually incorrect就像指出《三国演义》虚构情节🎭，说'有实锤'用factually proven就像核酸检测报告🧪。记住：想显得专业就多用factually代替really！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭可提哩'→外卖小哥确实(factually)把饭送到了",
+        "易混词对比：actually（实际上）带有主观性，factually（真实地）强调客观事实"
+      ]
+    }
+  },
+  {
+    "word": "faculty",
+    "etymology": {
+      "breakdown": [
+        "fac",
+        "ult",
+        "y"
+      ],
+      "meaning_connection": "词根fac=做/制造（同factory），-ult表加强，-y表性质→原指'能够做事的能力'，后衍生出'具备能力的人群'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "才能",
+        "examples": [
+          {
+            "sentence": "His faculty for memorizing Mahjong tiles is legendary.",
+            "sentence_zh": "他记忆麻将牌的才能堪称传奇。"
+          },
+          {
+            "sentence": "Pandas' faculty for rolling down hills delights millions.",
+            "sentence_zh": "熊猫滚下山坡的才能萌翻全网。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "能力",
+        "examples": [
+          {
+            "sentence": "The mental faculty required for solving Go puzzles is immense.",
+            "sentence_zh": "破解围棋残局所需的心智能力极高。"
+          },
+          {
+            "sentence": "Losing the faculty of smell makes hotpot less enjoyable.",
+            "sentence_zh": "丧失嗅觉能力会让火锅索然无味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "全体教员",
+        "examples": [
+          {
+            "sentence": "Tsinghua's faculty includes Nobel laureates and tech billionaires.",
+            "sentence_zh": "清华的全体教员包括诺奖得主和科技富豪。"
+          },
+          {
+            "sentence": "The faculty meeting debated whether to ban AI essays.",
+            "sentence_zh": "全体教员会议辩论是否禁止AI生成论文。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "(大学的)系",
+        "examples": [
+          {
+            "sentence": "The Faculty of Acrobatics at Beijing Sport University is unique.",
+            "sentence_zh": "北京体育大学的杂技系独树一帜。"
+          },
+          {
+            "sentence": "She chairs the Faculty of Intangible Cultural Heritage.",
+            "sentence_zh": "她执掌非物质文化遗产系。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "faculty member",
+        "meaning": "教职人员",
+        "examples": [
+          {
+            "sentence": "As a faculty member, he secretly grades papers while watching dramas.",
+            "sentence_zh": "作为教职人员，他边追剧边偷偷批改试卷。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "mental faculty",
+        "meaning": "心智能力",
+        "examples": [
+          {
+            "sentence": "Playing mahjong preserves mental faculty in the elderly.",
+            "sentence_zh": "打麻将有助于保持老年人的心智能力。"
+          }
+        ]
+      }
+    ],
+    "teach": "faculty是个'能者多劳'的词💪！最初指'做事能力'(fac=制造)，就像鲁班造工具🔨；后来指'有能力的人群'，好比大学里藏龙卧虎的教授天团🎓。要吐槽'脑子不够用'可以说my brain isn't functioning today，夸人'多才多艺'用versatile faculty。记住：系主任的faculty可能包括悄悄查考勤的隐藏技能👀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭卡题'→大学教职员的饭卡难题(faculty)",
+        "对比记忆：ability泛指能力，faculty侧重先天/特殊能力"
+      ]
+    }
+  },
+  {
+    "word": "fad",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "19世纪中叶出现，可能来自方言词汇'faddle'（愚蠢的事）或'fiddle-faddle'（琐事）的缩写"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "时尚",
+        "examples": [
+          {
+            "sentence": "The fidget spinner fad disappeared faster than my motivation on Monday mornings.",
+            "sentence_zh": "指尖陀螺的流行消失得比周一早晨我的工作动力还快。"
+          },
+          {
+            "sentence": "Bubble tea became more than just a fad in China - it's now a cultural phenomenon.",
+            "sentence_zh": "奶茶在中国已不仅是时尚，更成为一种文化现象。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "passing fad",
+        "meaning": "短暂流行",
+        "examples": [
+          {
+            "sentence": "Many thought TikTok was just a passing fad, but it's here to stay.",
+            "sentence_zh": "许多人曾认为抖音只是昙花一现，但它已经站稳脚跟。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "latest fad",
+        "meaning": "最新潮流",
+        "examples": [
+          {
+            "sentence": "The latest fad among college students is raising succulent plants on their desks.",
+            "sentence_zh": "大学生中最新流行的是在桌上养多肉植物。"
+          }
+        ]
+      }
+    ],
+    "teach": "fad就像网红美食🍦：从脏脏包到冒烟冰淇淋，来得快去得也快💨。英语里形容'跟风'说jump on the bandwagon（跳上花车），'过气'叫so last season（上季款）。记住：今天还是fad的蜜雪冰城主题曲🎵，明天可能就变成'爷青回'怀旧梗了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发的'→ 突然发的(fad)朋友圈爆款",
+        "易混词对比：fad（短暂流行） vs trend（长期趋势）"
+      ]
+    }
   }
 ]

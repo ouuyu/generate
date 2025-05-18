@@ -2697,5 +2697,299 @@
         "对比记忆：radiate（v.辐射）→radiating（a.辐射的）→radiation（n.辐射）"
       ]
     }
+  },
+  {
+    "word": "radiation",
+    "etymology": {
+      "breakdown": [
+        "radi",
+        "ation"
+      ],
+      "meaning_connection": "词根radi=射线/辐射（同radio收音机接收电磁波），-ation表名词性质→发射射线的现象"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "辐射",
+        "examples": [
+          {
+            "sentence": "The microwave's radiation turns your leftovers into steaming meals.",
+            "sentence_zh": "微波炉的辐射将剩菜变成热气腾腾的饭菜。"
+          },
+          {
+            "sentence": "Solar panels convert sunlight radiation into electricity.",
+            "sentence_zh": "太阳能板将阳光辐射转化为电能。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "radiation therapy",
+        "meaning": "放射治疗",
+        "examples": [
+          {
+            "sentence": "Doctors use radiation therapy like a laser targeting cancer cells.",
+            "sentence_zh": "医生用放射治疗像激光瞄准癌细胞。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "background radiation",
+        "meaning": "本底辐射",
+        "examples": [
+          {
+            "sentence": "Bananas contain potassium that contributes to natural background radiation.",
+            "sentence_zh": "香蕉中的钾元素会产生天然本底辐射。"
+          }
+        ]
+      }
+    ],
+    "teach": "radiation是宇宙的隐形WiFi信号📡！从太阳辐射(solar radiation)到手机辐射(EMF radiation)，万物都在'发朋友圈'✨。有趣的是：微波炉和5G基站辐射非电离辐射🧲，而X光才是真·辐射大佬☢️。'辐射强'说hot zone，'防辐射服'叫lead apron（铅围裙）🛡️",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达神'→辐射像雷达般发射",
+        "易混词：radius（半径）是距离，radiation是能量发射",
+        "记忆法：radi+ation=收音机(radio)的亲戚"
+      ]
+    }
+  },
+  {
+    "word": "radiator",
+    "etymology": {
+      "breakdown": [
+        "radi",
+        "ator"
+      ],
+      "meaning_connection": "词根radi=辐射/光线（同radio），后缀-ator表示'执行动作的器具'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "暖气装置",
+        "examples": [
+          {
+            "sentence": "The cat curled up next to the radiator like a furry dumpling.",
+            "sentence_zh": "猫咪像毛茸茸的饺子般蜷缩在暖气片旁。"
+          },
+          {
+            "sentence": "Northerners consider radiators as lifesavers during -20℃ winters.",
+            "sentence_zh": "北方人把暖气片视为零下20度时的救命装置。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "散热器",
+        "examples": [
+          {
+            "sentence": "Tesla's liquid-cooled radiators prevent battery overheating.",
+            "sentence_zh": "特斯拉的液冷散热器防止电池过热。"
+          },
+          {
+            "sentence": "PC gamers often customize rainbow-colored radiator fans.",
+            "sentence_zh": "电脑玩家常定制彩虹色的散热器风扇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "辐射体",
+        "examples": [
+          {
+            "sentence": "The sun is a natural radiator of electromagnetic waves.",
+            "sentence_zh": "太阳是电磁波的天然辐射体。"
+          },
+          {
+            "sentence": "This art installation mimics cosmic radiator patterns.",
+            "sentence_zh": "该艺术装置模仿宇宙辐射体的形态。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "car radiator",
+        "meaning": "汽车散热器",
+        "examples": [
+          {
+            "sentence": "A leaking car radiator can cause engine failure.",
+            "sentence_zh": "汽车散热器漏水会导致发动机故障。"
+          }
+        ]
+      }
+    ],
+    "teach": "radiator是'热力艺术家'🔥：从罗马地暖的hypocaust（古早暖气）到你家会烫手的暖气片，都靠辐射(radi)传热。说'暖气不热'用地道表达stone cold（冷得像石头），搭配pipe knocking（水管异响）和steam hissing（蒸汽嘶鸣）两种经典BGM🎵。记住：它冬天是天使👼，夏天是占位恶魔👿！",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达腿疼'→雷达(radi)的腿需要散热器(ator)",
+        "易混词：radiator vs. heater（后者泛指加热设备）"
+      ]
+    }
+  },
+  {
+    "word": "radical",
+    "etymology": {
+      "breakdown": [
+        "rad",
+        "ical"
+      ],
+      "meaning_connection": "词根rad=根（如radish萝卜），-ical表形容词后缀→从'根部'引申出'根本的'与'激进的'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "激进分子",
+        "examples": [
+          {
+            "sentence": "The punk rocker dyed her hair green like a political radical from the 1960s.",
+            "sentence_zh": "这位朋克摇滚歌手把头发染成绿色，活像60年代的政治激进分子。"
+          },
+          {
+            "sentence": "Some tech radicals believe AI will replace all human jobs by 2045.",
+            "sentence_zh": "某些科技激进分子认为人工智能将在2045年前取代所有人类工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "词根",
+        "examples": [
+          {
+            "sentence": "'Bio' is the radical in 'biology' meaning life.",
+            "sentence_zh": "'bio'是'biology'中表示'生命'的词根。"
+          },
+          {
+            "sentence": "Chinese characters with the 女(nǚ) radical often relate to females.",
+            "sentence_zh": "带'女'字旁的汉字常与女性相关。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "根式",
+        "examples": [
+          {
+            "sentence": "The math teacher drew a giant radical symbol on the blackboard.",
+            "sentence_zh": "数学老师在黑板上画了个巨大的根式符号。"
+          },
+          {
+            "sentence": "Simplifying radicals is like untangling earphone wires.",
+            "sentence_zh": "化简根式就像解缠在一起的耳机线。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "激进的",
+        "examples": [
+          {
+            "sentence": "His radical proposal to replace all exams with video games shocked the faculty.",
+            "sentence_zh": "他用电子游戏取代所有考试的激进提案震惊了教职工。"
+          },
+          {
+            "sentence": "The brand made a radical shift from suits to streetwear.",
+            "sentence_zh": "这个品牌从西装到街头服饰的转变十分激进。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "根本的",
+        "examples": [
+          {
+            "sentence": "Blockchain requires a radical change in how we think about trust.",
+            "sentence_zh": "区块链需要我们从根本上改变对信任的认知。"
+          },
+          {
+            "sentence": "There's a radical difference between reading and actually experiencing VR.",
+            "sentence_zh": "阅读VR介绍与实际体验有着根本区别。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "free radical",
+        "meaning": "自由基",
+        "examples": [
+          {
+            "sentence": "Blueberries fight free radicals like mini superheroes.",
+            "sentence_zh": "蓝莓像迷你超级英雄般对抗自由基。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "radical chic",
+        "meaning": "激进时尚",
+        "examples": [
+          {
+            "sentence": "Her radical chic style mixes protest slogans with designer bags.",
+            "sentence_zh": "她的激进时尚风格将抗议标语与名牌包混搭。"
+          }
+        ]
+      }
+    ],
+    "teach": "radical是'根'与'疯'的量子叠加态🧪！数学里它当根号√用，语言学里是字根（比如'吃'字旁的'饣'），化学里变成自由基💥。说人radical可能夸他有革命性，也可能骂他是极端分子🤪。记住：'根本性改变'叫radical change，'激进设计'是radical design。就像麻辣火锅底料，radical程度决定你的人生辣度🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热的抠'→激进分子热血到抠门(radical)",
+        "对比记忆：radical(根本的) vs. racial(种族的)",
+        "联想：数学根号√像个小扫把，扫清计算障碍"
+      ]
+    }
+  },
+  {
+    "word": "radicalism",
+    "etymology": {
+      "breakdown": [
+        "radic",
+        "al",
+        "ism"
+      ],
+      "meaning_connection": "词根radic=根（拉丁语radix），-al表形容词后缀，-ism表主义→从根部彻底改变的思想"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "激进主义",
+        "examples": [
+          {
+            "sentence": "The punk movement in the 1970s was steeped in radicalism and anti-establishment ideals.",
+            "sentence_zh": "1970年代的朋克运动充满了激进主义与反体制思想。"
+          },
+          {
+            "sentence": "Some argue that radicalism in politics is like performing surgery with a chainsaw.",
+            "sentence_zh": "有人认为政治激进主义就像用电锯做手术。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political radicalism",
+        "meaning": "政治激进主义",
+        "examples": [
+          {
+            "sentence": "The coffee shop became a hub for discussions about political radicalism.",
+            "sentence_zh": "这家咖啡馆成了讨论政治激进主义的据点。"
+          }
+        ]
+      }
+    ],
+    "teach": "radicalism其实是'连根拔起主义'🌱！词根radic=根（比如萝卜radish也是同源），就像兔子急了直接拔萝卜🍆。搭配'eco-radicalism'（环保激进主义）和'tech radicalism'（科技激进主义），地道说法叫'go nuclear'（采取极端手段）💥。记住：激进派想改变世界就像园艺师想重新种整个森林！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来电可灵么'→激进主义来电就能灵验吗",
+        "易混词：radical（根本的） vs. rational（理性的）",
+        "联想：radio（无线电）也带radi-但毫无关系"
+      ]
+    }
   }
 ]

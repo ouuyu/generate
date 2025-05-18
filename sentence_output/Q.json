@@ -2488,5 +2488,337 @@
         "易混词对比：quantity（数量）是名词，quantitative是其形容词形式"
       ]
     }
+  },
+  {
+    "word": "quantitatively",
+    "etymology": {
+      "breakdown": [
+        "quant",
+        "ative",
+        "ly"
+      ],
+      "meaning_connection": "词根quant=数量（拉丁语quantus），-ative表形容词后缀，-ly表副词后缀→与数量相关地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "数量上",
+        "examples": [
+          {
+            "sentence": "China's GDP growth can be measured quantitatively in trillions.",
+            "sentence_zh": "中国的GDP增长可以用万亿为单位定量衡量。"
+          },
+          {
+            "sentence": "The study compares the two methods quantitatively like weighing mooncakes with a digital scale.",
+            "sentence_zh": "该研究用数字秤称月饼般定量比较两种方法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "定量地",
+        "examples": [
+          {
+            "sentence": "The nutritionist analyzed milk tea ingredients quantitatively down to each pearl's calorie.",
+            "sentence_zh": "营养师定量分析奶茶成分精确到每颗珍珠的卡路里。"
+          },
+          {
+            "sentence": "AI models process languages quantitatively rather than feeling them emotionally.",
+            "sentence_zh": "AI模型定量处理语言而非情感化感受。"
+          }
+        ]
+      }
+    ],
+    "teach": "quantitatively是理科生的直男思维💻：万物皆可数字化！就像用电子秤称小龙虾🦞（quantitatively measure），用Excel统计双十一成交额📊（analyze quantitatively）。要说'凭感觉'的地道表达是go by gut feeling，'精确计算'叫crunch the numbers。记住：当你妈说'适量放盐'时，理科生会追问：请quantitatively定义适量！🧂",
+    "recite": {
+      "tips": [
+        "谐音梗：'框踢腿踢vely'→用框(quant)架踢走定性分析",
+        "易混词：qualitatively（定性地）是它的文科生表亲"
+      ]
+    }
+  },
+  {
+    "word": "quantity",
+    "etymology": {
+      "breakdown": [
+        "quant",
+        "ity"
+      ],
+      "meaning_connection": "词根quant=多少（拉丁语quantus），-ity表性质→与数量相关的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "量",
+        "examples": [
+          {
+            "sentence": "The quantity of bubble tea consumed in China could fill 3 Olympic pools daily.",
+            "sentence_zh": "中国每日消耗的奶茶量能填满3个奥运泳池。"
+          },
+          {
+            "sentence": "Quality matters more than quantity when choosing hotpot ingredients.",
+            "sentence_zh": "挑选火锅食材时，质量比量更重要。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "数量",
+        "examples": [
+          {
+            "sentence": "The exact quantity of dumplings he ate remains a mystery.",
+            "sentence_zh": "他吃掉饺子的确切数量仍是个谜。"
+          },
+          {
+            "sentence": "WeChat tracks the quantity of steps you take each day.",
+            "sentence_zh": "微信会统计你每天的行走步数数量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "总量",
+        "examples": [
+          {
+            "sentence": "The total quantity of Great Wall bricks could circle the equator.",
+            "sentence_zh": "长城砖块的总量能绕赤道一圈。"
+          },
+          {
+            "sentence": "Alibaba's Singles' Day sales quantity breaks records yearly.",
+            "sentence_zh": "阿里巴巴双十一销售总量年年破纪录。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in quantity",
+        "meaning": "大量地",
+        "examples": [
+          {
+            "sentence": "Street vendors sell roasted sweet potatoes in quantity during winter.",
+            "sentence_zh": "街头小贩在冬季大量售卖烤红薯。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quantity over quality",
+        "meaning": "重量不重质",
+        "examples": [
+          {
+            "sentence": "Some influencers focus on quantity over quality when creating content.",
+            "sentence_zh": "有些网红制作内容时重量不重质。"
+          }
+        ]
+      }
+    ],
+    "teach": "quantity是数学老师的魔法咒语🧮！古罗马商人用quantus（多少）讨价还价💸，就像现代人用'量贩装'省钱包👛。说'大量生产'叫mass-produce，吐槽'太多'可以说an ocean of（如an ocean of homework）。记住：看到超市'买二送一'标签，那就是quantity在诱惑你！🛒",
+    "recite": {
+      "tips": [
+        "谐音梗：'筐踢腿'→用筐(quant)踢腿测量大米数量",
+        "易混词：quality（质量）是quantity（数量）的傲娇双胞胎"
+      ]
+    }
+  },
+  {
+    "word": "quantum",
+    "etymology": {
+      "breakdown": [
+        "quant",
+        "um"
+      ],
+      "meaning_connection": "词根quant来自拉丁语'quantus'（多少），-um为中性名词后缀→原指'可测量量'，20世纪后特指量子物理的最小单位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "量",
+        "examples": [
+          {
+            "sentence": "The quantum of rainfall this year broke historical records.",
+            "sentence_zh": "今年降雨量打破了历史记录。"
+          },
+          {
+            "sentence": "We need to assess the quantum of happiness in this community.",
+            "sentence_zh": "我们需要评估这个社区的幸福总量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "量子",
+        "examples": [
+          {
+            "sentence": "Quantum computing could crack passwords in seconds.",
+            "sentence_zh": "量子计算机能在数秒内破解密码。"
+          },
+          {
+            "sentence": "Scientists teleported quantum information across 1200km via satellite.",
+            "sentence_zh": "科学家通过卫星实现了1200公里量子信息传输。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quantum leap",
+        "meaning": "巨大突破",
+        "examples": [
+          {
+            "sentence": "The new AI model represents a quantum leap in machine translation.",
+            "sentence_zh": "这个新AI模型是机器翻译领域的巨大突破。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quantum physics",
+        "meaning": "量子物理",
+        "examples": [
+          {
+            "sentence": "Learning quantum physics feels like decoding the universe's cheat codes.",
+            "sentence_zh": "学习量子物理就像在破译宇宙的作弊码。"
+          }
+        ]
+      }
+    ],
+    "teach": "quantum是科学界的盲盒💫！最初指'量'如古代称盐（quantum of salt🧂），现在指'量子'就像薛定谔的猫🐱既死又活。说'巨大进步'用quantum leap（量子跃迁），'量子纠缠'叫quantum entanglement就像异地恋情侣的心电感应💘。记住：遇事不决，量子力学！",
+    "recite": {
+      "tips": [
+        "谐音梗：'框他们'→量子物理框住了所有科学家",
+        "易混词对比：quantity（数量）vs quantum（量/量子）",
+        "记忆tip：量子就像微信红包🧧——不打开永远不知道金额"
+      ]
+    }
+  },
+  {
+    "word": "quarantine",
+    "etymology": {
+      "breakdown": [
+        "quarant",
+        "ine"
+      ],
+      "meaning_connection": "来自意大利语quarantina（40天），源自中世纪船只检疫期，后缀-ine表状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "隔离",
+        "examples": [
+          {
+            "sentence": "The panda at the zoo is in quarantine after catching a cold.",
+            "sentence_zh": "动物园的熊猫感冒后被隔离观察。"
+          },
+          {
+            "sentence": "Home quarantine became a meme during COVID with banana bread recipes.",
+            "sentence_zh": "居家隔离期间，香蕉面包食谱成了网络梗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "封锁交通",
+        "examples": [
+          {
+            "sentence": "The snowstorm caused quarantine of all highways in Inner Mongolia.",
+            "sentence_zh": "暴风雪导致内蒙古所有高速公路封锁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "检疫期",
+        "examples": [
+          {
+            "sentence": "The 14-day quarantine for international travelers is now history.",
+            "sentence_zh": "针对国际旅客的14天检疫期已成为历史。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "隔离",
+        "examples": [
+          {
+            "sentence": "Zookeepers quarantined the monkey exhibiting TikTok dance moves.",
+            "sentence_zh": "饲养员隔离了会跳抖音舞蹈的猴子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "排斥",
+        "examples": [
+          {
+            "sentence": "The group chat quarantined the member who kept sending morning greetings.",
+            "sentence_zh": "群聊排斥了不停发早安图的成员。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in quarantine",
+        "meaning": "隔离中",
+        "examples": [
+          {
+            "sentence": "My PS5 is in quarantine because my mom thinks it causes bad grades.",
+            "sentence_zh": "我的PS5被隔离了，因为妈妈觉得它影响成绩。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quarantine from",
+        "meaning": "与...隔绝",
+        "examples": [
+          {
+            "sentence": "I need to quarantine myself from spicy hotpot to lose weight.",
+            "sentence_zh": "我需要与麻辣火锅隔绝来减肥。"
+          }
+        ]
+      }
+    ],
+    "teach": "quarantine是'四十天'的倔强⏳：威尼斯曾让船只隔离40天（quarantina）防疫。说'防疫码红了'叫got red-coded📱，'居家隔离期'叫cabin fever（幽居病）。记住：中世纪水手隔离时数浪花🌊，现代人隔离时数瓜子壳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快润停'→快润(跑)停(止)→被隔离",
+        "易混词：isolation（完全隔离）vs quarantine（防疫隔离）"
+      ]
+    }
+  },
+  {
+    "word": "quark",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自詹姆斯·乔伊斯小说《芬尼根的守灵夜》中的虚构词语'quark'，后被物理学家默里·盖尔曼借用命名基本粒子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "夸克（物理学术语）",
+        "examples": [
+          {
+            "sentence": "Protons are made of two up quarks and one down quark.",
+            "sentence_zh": "质子由两个上夸克和一个下夸克组成。"
+          },
+          {
+            "sentence": "The quark model revolutionized particle physics like WeChat revolutionized communication.",
+            "sentence_zh": "夸克模型对粒子物理的革命性影响堪比微信对通讯的颠覆。"
+          }
+        ]
+      }
+    ],
+    "teach": "夸克(quark)是物理学界的'奶茶配料'🧋！这个名字其实来自小说家乔伊斯的酒后胡言（原意是海鸥叫声🐦），被诺奖得主盖尔曼当梗用了。记住：上夸克(up)像珍珠⚪，下夸克(down)像椰果🥥，凑一起就是质子奶茶啦！说'基本粒子'用elementary particles，'量子纠缠'叫quantum entanglement——下次喝奶茶时想想你的波霸可能就是夸克组成的哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸客'→夸克是物质界最牛客户",
+        "易混词：quart（夸脱）是液体单位，quark是粒子单位"
+      ]
+    }
   }
 ]

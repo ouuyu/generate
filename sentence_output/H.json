@@ -2542,5 +2542,280 @@
         "记忆法：拆解为hair+do→'要do头发'"
       ]
     }
+  },
+  {
+    "word": "hairdresser",
+    "etymology": {
+      "breakdown": [
+        "hair",
+        "dress",
+        "er"
+      ],
+      "meaning_connection": "'hair'=头发，'dress'=整理/修饰，'-er'表示执行者→'整理头发的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "理发师",
+        "examples": [
+          {
+            "sentence": "The hairdresser near my college charges 5 yuan for student haircuts.",
+            "sentence_zh": "我校附近的理发师给学生剪发只收5元。"
+          },
+          {
+            "sentence": "My hairdresser always asks if I want 'the usual' when I walk in.",
+            "sentence_zh": "我的理发师总在我进门时问'还是老样子吗'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "美发师",
+        "examples": [
+          {
+            "sentence": "This celebrity hairdresser invented the 'hotpot bangs' trend.",
+            "sentence_zh": "这位明星美发师发明了'火锅刘海'发型。"
+          },
+          {
+            "sentence": "The hairdresser spent 3 hours creating a peacock feather updo.",
+            "sentence_zh": "美发师花了3小时做出孔雀羽毛盘发。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hairdresser's salon",
+        "meaning": "美发沙龙",
+        "examples": [
+          {
+            "sentence": "The hairdresser's salon plays Chengdu rap while cutting hair.",
+            "sentence_zh": "这家美发沙龙剪发时放成都说唱。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hairdresser chair",
+        "meaning": "理发椅",
+        "examples": [
+          {
+            "sentence": "The massage function in this hairdresser chair costs extra 8 yuan.",
+            "sentence_zh": "这把理发椅的按摩功能要加收8元。"
+          }
+        ]
+      }
+    ],
+    "teach": "hairdresser其实是'头发裁缝'✂️：中世纪欧洲理发师兼职外科医生会放血💉（看理发店红蓝白旋转灯就是象征绷带）。现在说'剪残了'叫butcher job（屠夫手艺），'做造型'说get a makeover就像给头发穿新衣👗。记住：好的hairdresser能让你从'买家秀'变'卖家秀'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'害得热死啊'→美发师用吹风机害你热死",
+        "易混词：barber通常指男士理发师"
+      ]
+    }
+  },
+  {
+    "word": "hairdressing",
+    "etymology": {
+      "breakdown": [
+        "hair",
+        "dress",
+        "ing"
+      ],
+      "meaning_connection": "hair=头发，dress=整理/装饰，-ing表行为→'整理头发的行为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "理发",
+        "examples": [
+          {
+            "sentence": "The barber's hairdressing skills could turn a hedgehog into a poodle.",
+            "sentence_zh": "这位理发师的技艺能把刺猬头变成贵宾犬造型。"
+          },
+          {
+            "sentence": "Traditional Chinese hairdressing includes ear cleaning services.",
+            "sentence_zh": "中国传统理发服务包含采耳项目。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "美发",
+        "examples": [
+          {
+            "sentence": "K-pop stars spend more on hairdressing than some people's rent.",
+            "sentence_zh": "韩流明星在美发上的花费比某些人的房租还高。"
+          },
+          {
+            "sentence": "Japanese hairdressing salons give you 10-page menu just for bangs.",
+            "sentence_zh": "日本美发店仅刘海造型就能给你10页菜单选择。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hairdressing salon",
+        "meaning": "美发沙龙",
+        "examples": [
+          {
+            "sentence": "The hairdressing salon near my home plays only Jay Chou's songs.",
+            "sentence_zh": "我家附近的美发沙龙只循环播放周杰伦的歌。"
+          }
+        ]
+      }
+    ],
+    "teach": "hairdressing其实是'头发裁缝'✂️：中世纪欧洲假发比房子还贵💇，现代人却为显发量求tony老师打薄（thin out）。'剪毁发型'叫bad hair day就像顶了拖把🚿，'染发漂色'说bleach your hair跟漂白水同源☠️。记住：好的hairdressing能让你从'如花'变'刘亦菲'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨！抓醒'→被抓来强行做发型时很嗨",
+        "易混词对比：barber（男发）/stylist（造型师）"
+      ]
+    }
+  },
+  {
+    "word": "hairdryer",
+    "etymology": {
+      "breakdown": [
+        "hair",
+        "dry",
+        "er"
+      ],
+      "meaning_connection": "hair（头发）+ dry（干燥）+ -er（器具）→ 干燥头发的器具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "吹风机",
+        "examples": [
+          {
+            "sentence": "She always packs a foldable hairdryer when traveling to avoid hotel's weak airflow models.",
+            "sentence_zh": "她旅行时总会带可折叠吹风机，避免使用酒店风力不足的款式。"
+          },
+          {
+            "sentence": "The cat ran away at the sound of the hairdryer, thinking it was a dragon.",
+            "sentence_zh": "猫咪听到吹风机声音就逃跑，以为那是条龙。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hairdryer effect",
+        "meaning": "吹风机效应（比喻热风般的宣传攻势）",
+        "examples": [
+          {
+            "sentence": "The celebrity scandal caused a hairdryer effect of media coverage.",
+            "sentence_zh": "明星绯闻引发了媒体吹风机效应般的报道热潮。"
+          }
+        ]
+      }
+    ],
+    "teach": "吹风机是20世纪最'热血'的发明🔥！1920年最早型号重达2斤，像举哑铃健身💪。现在说'造型翻车'可以用bad hair day（糟糕发型日），'快速搞定'说blow-and-go（吹完就走）。记住：选择负离子吹风机就像给头发做SPA💆，而廉价吹风机堪比沙漠热风🏜️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨拽呀'→吹风机吹得头发嗨拽呀",
+        "易混词对比：hairdryer（吹风机）vs hairbrush（发刷）",
+        "记忆口诀：hair头发+dry干燥=吹干头发的工具"
+      ]
+    }
+  },
+  {
+    "word": "hairless",
+    "etymology": {
+      "breakdown": [
+        "hair",
+        "less"
+      ],
+      "meaning_connection": "hair（毛发）+ less（无...的）→ 字面组合成'无毛的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无毛的",
+        "examples": [
+          {
+            "sentence": "The hairless Sphynx cat feels like warm suede to touch.",
+            "sentence_zh": "无毛的斯芬克斯猫摸起来像温暖的麂皮。"
+          },
+          {
+            "sentence": "After laser treatment, his skin became temporarily hairless.",
+            "sentence_zh": "激光脱毛后，他的皮肤暂时变得光溜溜的。"
+          }
+        ]
+      }
+    ],
+    "teach": "hairless就像被Tony老师剃秃的猕猴桃🥝！古埃及人给猫剃毛防跳蚤（最早的hairless造型👑），现在说'秃得发亮'可以叫smooth as a baby's bottom🍑。搭配：hairless mouse（实验室小白鼠🐭）/ hairless chest（光滑胸膛💪），'秃头'幽默说法是follicly challenged（毛囊遭遇挑战）",
+    "recite": {
+      "tips": [
+        "视觉化：hair+less=头发less=你的发际线在哭泣💇",
+        "易混词：bare（裸露的）vs bald（秃顶的）"
+      ]
+    }
+  },
+  {
+    "word": "hairline",
+    "etymology": {
+      "breakdown": [
+        "hair",
+        "line"
+      ],
+      "meaning_connection": "字面为'头发+线'，原指头发与额头的分界线，引申为'极细的线条'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "发际线",
+        "examples": [
+          {
+            "sentence": "His receding hairline became a hot topic in the office.",
+            "sentence_zh": "他后退的发际线成了办公室热门话题。"
+          },
+          {
+            "sentence": "The actress used contouring to fake a perfect hairline.",
+            "sentence_zh": "女演员用修容粉伪造完美发际线。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "细缝",
+        "examples": [
+          {
+            "sentence": "Light seeped through the hairline crack in the Great Wall.",
+            "sentence_zh": "阳光从长城的发丝般裂缝中渗入。"
+          },
+          {
+            "sentence": "The iPhone screen shattered into pieces connected by hairlines.",
+            "sentence_zh": "iPhone屏幕碎成由细缝连接的碎片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "细微的区别",
+        "examples": [
+          {
+            "sentence": "There's only a hairline between authentic and fake sneakers.",
+            "sentence_zh": "正品和假鞋之间只有发丝般的差别。"
+          },
+          {
+            "sentence": "The hairline difference in spice levels decides a Sichuan chef's level.",
+            "sentence_zh": "辣度间的细微差别决定川菜师傅的水平。"
+          }
+        ]
+      }
+    ],
+    "teach": "hairline是中年危机的温度计🌡️！后退的发际线(receding hairline)像退潮的海岸线🌊，'秃然'可以说going bald faster than WiFi信号消失📶。形容'细微差别'时就像比较珍珠奶茶的3分糖和5分糖🧋，'几乎一样'叫a hairline difference。记住：你的hairline和比特币一样珍贵！",
+    "recite": {
+      "tips": [
+        "谐音梗：'还赖呢'→发际线还赖着不肯走",
+        "易混词：headline(标题)是头上的大字，hairline是头上的小线"
+      ]
+    }
   }
 ]

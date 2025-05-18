@@ -2509,5 +2509,283 @@
         "记忆tip：词尾-o总让人联想到意大利歌剧的拖长音"
       ]
     }
+  },
+  {
+    "word": "mafia",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自西西里语'mafiusu'(意为'美丽,勇敢'),19世纪演变为犯罪组织代称"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "黑手党",
+        "examples": [
+          {
+            "sentence": "The Godfather movie reveals the inner workings of the mafia.",
+            "sentence_zh": "《教父》电影揭示了黑手党的内部运作。"
+          },
+          {
+            "sentence": "Italian police arrested a mafia boss who owned 20 pizza shops.",
+            "sentence_zh": "意大利警方逮捕了拥有20家披萨店的黑手党头目。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "秘密政党",
+        "examples": [
+          {
+            "sentence": "The tech mafia in Silicon Valley controls major investments.",
+            "sentence_zh": "硅谷的技术秘密政党掌控着主要投资。"
+          },
+          {
+            "sentence": "Campus food mafia monopolizes all noodle stands.",
+            "sentence_zh": "校园食品秘密政党垄断了所有面摊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mafia state",
+        "meaning": "黑手党国家",
+        "examples": [
+          {
+            "sentence": "Journalists risk lives exposing mafia states.",
+            "sentence_zh": "记者揭露黑手党国家时冒着生命危险。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "digital mafia",
+        "meaning": "数字黑帮",
+        "examples": [
+          {
+            "sentence": "The digital mafia sells fake Diablo accounts.",
+            "sentence_zh": "数字黑帮贩卖暗黑破坏神的虚假账号。"
+          }
+        ]
+      }
+    ],
+    "teach": "mafia其实是'妈粉'的反面😂！起源于西西里人夸帅哥'mafiusu'(好勇哦💪)，结果变成犯罪代名词。说'小团体'可以用breakfast club（早餐俱乐部🥞），'地下交易'叫under-the-table就像麻将桌下给钱🀄。记住：真正的mafia不吃意大利面时会玩刀叉🔪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'麻匪啊'→让子弹飞里的麻匪就是mafia",
+        "易混词对比：gang(街头帮派) vs mafia(有组织犯罪)"
+      ]
+    }
+  },
+  {
+    "word": "MAG",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "缩写自magazine，源自阿拉伯语'makhazin'（仓库）→意大利语'magazzino'→法语'magasin'，最终演变为'杂志'与'弹药库'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂志",
+        "examples": [
+          {
+            "sentence": "I found this meme in a MAG about internet culture.",
+            "sentence_zh": "我在一本网络文化杂志上发现了这个梗图。"
+          },
+          {
+            "sentence": "Her selfie made the cover of Vogue MAG.",
+            "sentence_zh": "她的自拍登上了Vogue杂志封面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "星期专刊",
+        "examples": [
+          {
+            "sentence": "The Sunday MAG always includes crossword puzzles.",
+            "sentence_zh": "周日特刊总是包含填字游戏。"
+          },
+          {
+            "sentence": "Check the travel MAG for hot pot restaurant rankings.",
+            "sentence_zh": "查看旅游周刊的火锅店排行榜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "仓库",
+        "examples": [
+          {
+            "sentence": "The Alibaba MAG stores millions of Li Ning sneakers.",
+            "sentence_zh": "阿里巴巴仓库存着数百万双李宁运动鞋。"
+          },
+          {
+            "sentence": "They turned an old MAG into a craft beer brewery.",
+            "sentence_zh": "他们把旧仓库改造成了精酿啤酒厂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "弹药库",
+        "examples": [
+          {
+            "sentence": "The soldier loaded dumplings into his rifle MAG by mistake.",
+            "sentence_zh": "士兵误把饺子装进了步枪弹匣。"
+          },
+          {
+            "sentence": "The video game character has infinite MAG capacity.",
+            "sentence_zh": "游戏角色的弹药库容量无限。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "胶卷盒",
+        "examples": [
+          {
+            "sentence": "My vintage camera still uses 35mm MAGs.",
+            "sentence_zh": "我的复古相机仍在使用35毫米胶卷盒。"
+          },
+          {
+            "sentence": "He collects empty Kodak MAGs as decorations.",
+            "sentence_zh": "他收集空柯达胶卷盒当装饰品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "clip-loaded MAG",
+        "meaning": "弹匣供弹",
+        "examples": [
+          {
+            "sentence": "This airsoft gun uses clip-loaded MAGs.",
+            "sentence_zh": "这把玩具枪使用弹匣供弹。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "MAG rack",
+        "meaning": "杂志架",
+        "examples": [
+          {
+            "sentence": "The dentist's MAG rack has issues from 2008.",
+            "sentence_zh": "牙医的杂志架还放着2008年的期刊。"
+          }
+        ]
+      }
+    ],
+    "teach": "MAG就像文化炸药包💥：从阿拉伯商队的仓库🏺（最初含义），到现代子弹匣🔫和Vogue杂志📚的共用名称！说'库存告急'用地道表达running on fumes（快没油了），'畅销杂志'叫hot off the press（刚出炉的）。记住：编辑部的MAG和战场的MAG都追求'爆款'效果！💣📰🎯",
+    "recite": {
+      "tips": [
+        "谐音梗：'卖个'→杂志就是卖个(MAG)情怀",
+        "易混词对比：magazine（完整形式）/magnet（磁铁）"
+      ]
+    }
+  },
+  {
+    "word": "magazine",
+    "etymology": {
+      "breakdown": [
+        "maga",
+        "zine"
+      ],
+      "meaning_connection": "源自阿拉伯语'makhzan'（仓库），经意大利语'magazzino'演变而来，最初指'弹药库'，后引申为'知识仓库'的杂志"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂志",
+        "examples": [
+          {
+            "sentence": "She found DIY tips in a home decoration magazine.",
+            "sentence_zh": "她在居家装饰杂志里找到了DIY技巧。"
+          },
+          {
+            "sentence": "This digital magazine updates memes every hour.",
+            "sentence_zh": "这份电子杂志每小时更新网络梗图。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "仓库",
+        "examples": [
+          {
+            "sentence": "The antique furniture was stored in an underground magazine.",
+            "sentence_zh": "这些古董家具存放在地下仓库。"
+          },
+          {
+            "sentence": "The museum's magazine holds thousands of unearthed artifacts.",
+            "sentence_zh": "博物馆的仓库保存着数千件出土文物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "弹盒",
+        "examples": [
+          {
+            "sentence": "The soldier quickly replaced the empty magazine during drills.",
+            "sentence_zh": "训练中士兵快速更换了空弹盒。"
+          },
+          {
+            "sentence": "Airsoft guns use plastic BB magazines.",
+            "sentence_zh": "软弹枪使用塑料BB弹弹盒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "胶卷盒",
+        "examples": [
+          {
+            "sentence": "Vintage camera magazines can now be 3D printed.",
+            "sentence_zh": "老式相机的胶卷盒现在可以3D打印。"
+          },
+          {
+            "sentence": "He loaded the film magazine under red light.",
+            "sentence_zh": "他在红光下装填胶卷盒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "magazine rack",
+        "meaning": "杂志架",
+        "examples": [
+          {
+            "sentence": "The dentist's waiting room has a rotating magazine rack.",
+            "sentence_zh": "牙医候诊室有个旋转杂志架。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "powder magazine",
+        "meaning": "火药库",
+        "examples": [
+          {
+            "sentence": "The ancient powder magazine is now a tourist attraction.",
+            "sentence_zh": "昔日的火药库如今成了旅游景点。"
+          }
+        ]
+      }
+    ],
+    "teach": "magazine是个'变形金刚'🤖！作为仓库时像秦始皇的兵器库⚔️（powder magazine），变杂志时就成了知识的弹药库📚（Vogue magazine），在相机里化身胶片保险箱🎞️（film magazine），到了枪械上又变成子弹公寓🔫（ammo magazine）。记住：所有意思都离不开'容器'本质！说'过期刊物'用back issue，'仓库爆满'叫bursting at the seams。",
+    "recite": {
+      "tips": [
+        "谐音梗：'买个zin'→买个杂志zin",
+        "易混词对比：journal（学术期刊） vs magazine（大众杂志）",
+        "记忆法：所有释义都带'盒'概念（知识盒/弹药盒/胶片盒）"
+      ]
+    }
   }
 ]

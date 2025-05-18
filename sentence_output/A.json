@@ -2524,5 +2524,279 @@
         "联想记忆：AB（远离）+HORROR（恐怖）= 恐怖到要逃离"
       ]
     }
+  },
+  {
+    "word": "abide",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bide"
+      ],
+      "meaning_connection": "前缀a-表示'处于某种状态'，古英语bīdan意为'等待'→原指持续停留状态，后发展出'忍受'等引申义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "停留",
+        "examples": [
+          {
+            "sentence": "The scent of osmanthus abides in the alley till midnight.",
+            "sentence_zh": "桂花香在小巷里停留到深夜。"
+          },
+          {
+            "sentence": "Memories abide in this old teahouse where Lu Xun used to write.",
+            "sentence_zh": "鲁迅曾写作的老茶馆里留存着往昔记忆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "遵守",
+        "examples": [
+          {
+            "sentence": "All drivers must abide by the new zebra crossing rules.",
+            "sentence_zh": "所有司机都必须遵守新的斑马线规则。"
+          },
+          {
+            "sentence": "WeChat group members should abide by the no-advertisement policy.",
+            "sentence_zh": "微信群成员应遵守禁止广告的规定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "居留",
+        "examples": [
+          {
+            "sentence": "He abided in Chengdu for 10 years learning Sichuan opera.",
+            "sentence_zh": "他在成都居留十年学习川剧。"
+          },
+          {
+            "sentence": "Pandas abide mainly in Sichuan's bamboo forests.",
+            "sentence_zh": "大熊猫主要栖息在四川的竹林中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "继续下去",
+        "examples": [
+          {
+            "sentence": "Though the project faced difficulties, we decided to abide.",
+            "sentence_zh": "尽管项目遇到困难，我们决定坚持下去。"
+          },
+          {
+            "sentence": "Traditional shadow puppetry still abides in rural Shaanxi.",
+            "sentence_zh": "传统皮影戏仍在陕西乡村延续。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "忍受",
+        "examples": [
+          {
+            "sentence": "I can't abide the smell of stinky tofu in the elevator.",
+            "sentence_zh": "我无法忍受电梯里的臭豆腐味。"
+          },
+          {
+            "sentence": "No employee should abide workplace bullying.",
+            "sentence_zh": "任何员工都不应忍受职场霸凌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "经受",
+        "examples": [
+          {
+            "sentence": "These ancient city walls have abided countless storms.",
+            "sentence_zh": "这些古城墙经受住了无数风雨。"
+          },
+          {
+            "sentence": "The marriage abided the test of long-distance relationship.",
+            "sentence_zh": "这段婚姻经受住了异地恋的考验。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abide by",
+        "meaning": "遵守",
+        "examples": [
+          {
+            "sentence": "All contestants must abide by the rules of this spicy hotpot challenge.",
+            "sentence_zh": "所有参赛者必须遵守本次麻辣火锅挑战赛的规则。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cannot abide",
+        "meaning": "无法忍受",
+        "examples": [
+          {
+            "sentence": "I simply cannot abide people who talk during movies.",
+            "sentence_zh": "我完全无法忍受看电影时讲话的人。"
+          }
+        ]
+      }
+    ],
+    "teach": "abide是个'佛系'单词🧘：当它'停留'时像故宫的铜鹤永不飞走🏯；'遵守'时像学生背'abide by校规'📜；'忍受'时像重庆人吃爆辣火锅还说不辣🌶️。搭配'abide by'比'obey'更显修养，说'无法忍受'用can't abide比hate更文雅。记住：能abide的人都是有故事的人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅白的'→鹅白的羽毛abide在湖面",
+        "对比记忆：abide（持续性停留）vs stay（短暂停留）"
+      ]
+    }
+  },
+  {
+    "word": "abiding",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bid",
+        "ing"
+      ],
+      "meaning_connection": "前缀a-表加强，词根bid源自古英语'bidan'=停留/等待，-ing表形容词→加强的停留状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "永久的",
+        "examples": [
+          {
+            "sentence": "The abiding love between them became a legend in their village.",
+            "sentence_zh": "他们之间永恒的爱成了村里的传说。"
+          },
+          {
+            "sentence": "Like the abiding stars, some traditions never fade.",
+            "sentence_zh": "如同永恒的星辰，有些传统永不消逝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "持久的",
+        "examples": [
+          {
+            "sentence": "His abiding passion for hotpot makes him a VIP at Haidilao.",
+            "sentence_zh": "他对火锅持久的热情使他成为海底捞的VIP。"
+          },
+          {
+            "sentence": "The abiding popularity of bubble tea surprises nutritionists.",
+            "sentence_zh": "奶茶持久的流行度让营养学家惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不变的",
+        "examples": [
+          {
+            "sentence": "With abiding patience, the teacher explained the math problem 15 times.",
+            "sentence_zh": "带着不变的耐心，老师把这道数学题讲解了15遍。"
+          },
+          {
+            "sentence": "The abiding rules of mahjong remain unchanged for centuries.",
+            "sentence_zh": "麻将不变的规则已延续数百年。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abiding by",
+        "meaning": "遵守",
+        "examples": [
+          {
+            "sentence": "Abiding by traffic rules saves lives like seatbelts.",
+            "sentence_zh": "遵守交通规则如同系安全带般挽救生命。"
+          }
+        ]
+      }
+    ],
+    "teach": "abiding是'熬'出来的永恒🍲！词根bid=熬煮（想象广东人煲老火汤🍲），用文火慢熬(a-bid-ing)才能得到持久风味。说'永恒的爱'用abiding love比eternal更显历久弥新💎，'死守规则'可戏称abiding like a stubborn panda🐼。搭配：abiding memory（深刻记忆）/ abiding principle（根本原则）",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊～冰的'→啊～冰的(abiding)饮料才能持久保鲜🧊",
+        "易混词对比：permanent（物理永久） vs abiding（情感持久）",
+        "记忆tip：ABIDE(遵守)+ING=持续遵守→持久的"
+      ]
+    }
+  },
+  {
+    "word": "ability",
+    "etymology": {
+      "breakdown": [
+        "abil",
+        "ity"
+      ],
+      "meaning_connection": "词根abil=能做，来自拉丁语habilis（灵巧的），-ity表性质后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "能力",
+        "examples": [
+          {
+            "sentence": "The panda's ability to eat bamboo while standing on its head amazed the tourists.",
+            "sentence_zh": "熊猫倒立吃竹子的能力震惊了游客。"
+          },
+          {
+            "sentence": "His ability to memorize 100 phone numbers in 5 minutes got him into the Guinness Book.",
+            "sentence_zh": "他5分钟记忆100个电话号码的能力入选了吉尼斯纪录。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "才干",
+        "examples": [
+          {
+            "sentence": "Her comic ability made her the queen of crosstalk performances.",
+            "sentence_zh": "她的喜剧才干使她成为相声界的女王。"
+          },
+          {
+            "sentence": "The chef's ability to carve radishes into peonies earned him three Michelin stars.",
+            "sentence_zh": "厨师将萝卜雕成牡丹的才干为他赢得三颗米其林星。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "to the best of one's ability",
+        "meaning": "竭尽所能",
+        "examples": [
+          {
+            "sentence": "The delivery boy rode his e-bike to the best of his ability during the typhoon.",
+            "sentence_zh": "外卖小哥在台风天竭尽所能地骑着他的电动车送餐。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "ability test",
+        "meaning": "能力测试",
+        "examples": [
+          {
+            "sentence": "The ability test included identifying 50 shades of boba tea.",
+            "sentence_zh": "能力测试包括辨别50种波霸奶茶的颜色。"
+          }
+        ]
+      }
+    ],
+    "teach": "ability其实是'啊比力气'💪！古罗马人认为能力(abil)和力量相关，就像健身教练秀肌肉🤸。说'很有本事'用have a knack for（比如have a knack for mahjong麻将打得溜），'多才多艺'叫Jack-of-all-trades就像会修手机还会摊煎饼的大爷👴。记住：你的ability决定了你是青铜还是王者！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅笔立体'→鹅毛笔立起来需要能力",
+        "易混词：capacity（容量）vs ability（能力）→ 杯子容量是capacity，能喝多少是ability"
+      ]
+    }
   }
 ]

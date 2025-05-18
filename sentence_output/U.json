@@ -2486,5 +2486,313 @@
         "对比记忆：acceptable是'能接住的'，unacceptable是'会漏接的'"
       ]
     }
+  },
+  {
+    "word": "unaccompanied",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "accompani",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，词根company=陪伴（来自拉丁语companionem），-ed表形容词→字面意思'没有被陪伴的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无伴侣的",
+        "examples": [
+          {
+            "sentence": "VIP lounge provides special service for unaccompanied millionaires.",
+            "sentence_zh": "贵宾厅为单身富豪提供专属服务。"
+          },
+          {
+            "sentence": "The unaccompanied traveler got lost in the sauce shop.",
+            "sentence_zh": "那个独行游客在酱料店里迷路了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无伴随的",
+        "examples": [
+          {
+            "sentence": "Unaccompanied luggage will be destroyed immediately.",
+            "sentence_zh": "无人看管的行李将立即销毁。"
+          },
+          {
+            "sentence": "The museum prohibits unaccompanied children under 8.",
+            "sentence_zh": "博物馆禁止8岁以下儿童单独进入。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无伴奏的",
+        "examples": [
+          {
+            "sentence": "Her unaccompanied rendition of Jasmine Flower stunned the audience.",
+            "sentence_zh": "她无伴奏演唱的《茉莉花》震撼全场。"
+          },
+          {
+            "sentence": "Peking opera arias sound completely different when performed unaccompanied.",
+            "sentence_zh": "京剧唱段无伴奏演出时韵味截然不同。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fly unaccompanied",
+        "meaning": "单独乘机",
+        "examples": [
+          {
+            "sentence": "Children flying unaccompanied get special lanyards.",
+            "sentence_zh": "单独乘机的儿童会获得特殊挂绳标识。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "unaccompanied minor",
+        "meaning": "无人陪同未成年人",
+        "examples": [
+          {
+            "sentence": "The airline charged 200 yuan for unaccompanied minor service.",
+            "sentence_zh": "该航司收取200元无人陪伴儿童服务费。"
+          }
+        ]
+      }
+    ],
+    "teach": "unaccompanied是'独孤三连'👤🚫🎵：1) 单身贵族去米其林叫unaccompanied dining 2) 清唱像在浴室吼《孤勇者》就是unaccompanied singing 3) 机场'托运小孩'服务叫unaccompanied minor service。要吐槽'单身狗'可以说flying solo（单飞）🍗！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺可不陪你的'→unaccompanied",
+        "易混词：accompanied（有陪伴的）vs unaccompanied",
+        "记忆口诀：un+accompany+ed=没有陪伴的三个场景"
+      ]
+    }
+  },
+  {
+    "word": "unaccountable",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "account",
+        "able"
+      ],
+      "meaning_connection": "前缀un-表示'否定'，词根account来自古法语'acompter'（计算），-able表'能...的'→字面意思是'无法计算的'，引申为'无法解释的'和'无责任的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无法解释的",
+        "examples": [
+          {
+            "sentence": "The sudden disappearance of the ancient bronze vessel remains unaccountable.",
+            "sentence_zh": "这件青铜器的突然消失至今无法解释。"
+          },
+          {
+            "sentence": "There's an unaccountable joy in watching pandas roll down hills.",
+            "sentence_zh": "看熊猫滚下山坡有种难以言喻的快乐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无责任的",
+        "examples": [
+          {
+            "sentence": "The intern was unaccountable for the system crash.",
+            "sentence_zh": "这个实习生对系统崩溃没有责任。"
+          },
+          {
+            "sentence": "AI artists claim to be unaccountable for copyright issues.",
+            "sentence_zh": "AI画家宣称对版权问题不负责任。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "unaccountable to",
+        "meaning": "不对...负责",
+        "examples": [
+          {
+            "sentence": "The algorithm is unaccountable to public opinion.",
+            "sentence_zh": "这个算法不对舆论负责。"
+          }
+        ]
+      }
+    ],
+    "teach": "unaccountable就像薛定谔的猫🐱💻：既可以是'神秘消失的外卖'（unaccountable disappearance），也可以是'甩锅高手'（unaccountable person）。要吐槽'这锅我不背'，可以说'I'm unaccountable like Bitcoin'💸。搭配：unaccountable power（不受制约的权力）/ unaccountable happiness（莫名幸福）。记住：当领导说'unaccountable'时，通常意味着要找人背锅了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看汤不牢'→方言版'我hold不住这锅汤'",
+        "易混词：irresponsible（主观不想负责） vs unaccountable（客观无法追责）",
+        "记忆tip：拆解为un+account+able→'算不清的账本'"
+      ]
+    }
+  },
+  {
+    "word": "unaccountably",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "account",
+        "ably"
+      ],
+      "meaning_connection": "前缀un-表否定，词根account=计算/说明，-ably表副词性→字面'无法被说明地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不能说明地",
+        "examples": [
+          {
+            "sentence": "The WiFi signal unaccountably drops when I start online gaming.",
+            "sentence_zh": "当我开始网游时WiFi信号总会莫名其妙断连。"
+          },
+          {
+            "sentence": "She unaccountably burst into tears during the comedy show.",
+            "sentence_zh": "她在喜剧表演时毫无征兆地突然大哭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "无责任地",
+        "examples": [
+          {
+            "sentence": "The CEO resigned unaccountably before the product launch.",
+            "sentence_zh": "CEO在产品发布前不负责任地突然辞职。"
+          },
+          {
+            "sentence": "He unaccountably left his pet iguana in the taxi.",
+            "sentence_zh": "他极其不负责任地把宠物鬣鳞蜥忘在出租车上。"
+          }
+        ]
+      }
+    ],
+    "teach": "unaccountably就像薛定谔的WiFi📶：当你急着交作业时必定断连（unaccountably disappears），但永远找不到原因！古人说'天有不测风云'🌪️，现在可以说'unaccountably weird weather'。搭配：unaccountably happy（莫名嗨）、unaccountably late（迷之迟到）。地道表达：'It beats me.'=这我真解释不了🤷‍♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺靠踏不了'→原因俺靠踏(account)不了",
+        "对比记忆：unaccountably（无理由）vs. irresponsibly（无责任）",
+        "联想：账户(account)异常但查不出(un-)原因"
+      ]
+    }
+  },
+  {
+    "word": "unaccustomed",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "ac",
+        "custom",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，ac-加强语气，词根custom=习惯，-ed形容词后缀→'未被习惯的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不习惯的",
+        "examples": [
+          {
+            "sentence": "I'm unaccustomed to eating stinky tofu at breakfast.",
+            "sentence_zh": "我不习惯早餐吃臭豆腐。"
+          },
+          {
+            "sentence": "Her hands were unaccustomed to hard farm work.",
+            "sentence_zh": "她的双手不习惯干农活。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不寻常的",
+        "examples": [
+          {
+            "sentence": "The panda showed unaccustomed aggression during mating season.",
+            "sentence_zh": "这只熊猫在交配季表现出不寻常的攻击性。"
+          },
+          {
+            "sentence": "An unaccustomed silence fell over the kindergarten classroom.",
+            "sentence_zh": "幼儿园教室里出现了不寻常的寂静。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be unaccustomed to",
+        "meaning": "不适应...",
+        "examples": [
+          {
+            "sentence": "Northerners are unaccustomed to the humidity of southern summers.",
+            "sentence_zh": "北方人不适应南方夏天的潮湿。"
+          }
+        ]
+      }
+    ],
+    "teach": "unaccustomed就像第一次穿汉服👘的老外——浑身不自在！这个词藏着custom（习俗）的老祖宗，加个un-就像给火锅加变态辣🌶️（超出习惯）。搭配'be unaccustomed to'比说'I'm not used to'更高级，比如'不习惯早起'说unaccustomed to early rising。地道表达'fish out of water'（如鱼离水）也是类似意境🐟💦",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺卡死疼的'→不习惯新鞋卡脚疼",
+        "易混词对比：unusual（客观异常） vs unaccustomed（主观不适应）"
+      ]
+    }
+  },
+  {
+    "word": "unachievable",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "achieve",
+        "able"
+      ],
+      "meaning_connection": "前缀un-表否定，achieve=实现，-able表能...的→字面'不能实现的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不可实现的",
+        "examples": [
+          {
+            "sentence": "Building a Dyson sphere is currently unachievable for humanity.",
+            "sentence_zh": "建造戴森球对当前人类来说是不可实现的。"
+          },
+          {
+            "sentence": "Getting 100% likes on Weibo is virtually unachievable.",
+            "sentence_zh": "在微博上获得100%点赞率几乎不可实现。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remain unachievable",
+        "meaning": "保持不可实现状态",
+        "examples": [
+          {
+            "sentence": "Time travel may remain unachievable for centuries.",
+            "sentence_zh": "时间旅行可能在未来几个世纪都保持不可实现状态。"
+          }
+        ]
+      }
+    ],
+    "teach": "unachievable就像试图用算盘计算黑洞🌌！中世纪炼金术士想点石成金🧪（历史上著名的unachievable目标），现代版就是'我今年要早睡'的flag🚩。搭配说'mission unachievable'比'不可能'更专业，吐槽队友可以说'Your standards are unachievable'（你的要求臣妾做不到啊）💢",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺拆屋阿伯'→拆迁阿伯觉得拆高楼unachievable",
+        "易混词对比：unattainable（侧重达不到） vs unachievable（侧重完不成）",
+        "记忆tip：把un-看作禁止标志🚫，achieve奖杯🏆，able超人披风→禁止给奖杯发披风"
+      ]
+    }
   }
 ]

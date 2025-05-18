@@ -2292,5 +2292,209 @@
         "易混词：cafeteria（自助食堂）比cafe多几个字母就像食堂比咖啡馆多几口大锅"
       ]
     }
+  },
+  {
+    "word": "cafeteria",
+    "etymology": {
+      "breakdown": [
+        "cafe",
+        "teria"
+      ],
+      "meaning_connection": "源自西班牙语cafetería，前半部分cafe=咖啡，后缀-teria表示场所→本是喝咖啡的地方，后发展为自助餐厅"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "自助餐厅",
+        "examples": [
+          {
+            "sentence": "The IKEA cafeteria is famous for its Swedish meatballs and free refill coffee.",
+            "sentence_zh": "宜家自助餐厅以瑞典肉丸和免费续杯咖啡闻名。"
+          },
+          {
+            "sentence": "Students lined up in the cafeteria like a TikTok food review squad.",
+            "sentence_zh": "学生们在自助餐厅排起长队，活像抖音美食测评小分队。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "school cafeteria",
+        "meaning": "学校食堂",
+        "examples": [
+          {
+            "sentence": "The school cafeteria's mystery meat became legendary among students.",
+            "sentence_zh": "学校食堂的神秘肉制品在学生中成了传奇话题。"
+          }
+        ]
+      }
+    ],
+    "teach": "cafeteria其实是'咖啡领土'☕：最初指咖啡店（café+teria后缀），现在变成自助餐战场🍽️。说'食堂难吃'可以吐槽it's prison food（牢饭水平），'抢座位'叫cafeteria hustle就像双十一秒杀⏰。记住：每个cafeteria都有个永远在补货的阿姨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开饭太累啊'→食堂阿姨的日常",
+        "易混词对比：café（咖啡馆） vs. cafeteria（自助餐厅）"
+      ]
+    }
+  },
+  {
+    "word": "caffeine",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自德语Kaffein（咖啡因），由Kaffee（咖啡）+化学后缀-ine构成"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "咖啡因",
+        "examples": [
+          {
+            "sentence": "Caffeine makes pandas stay awake just like humans, though they mainly eat bamboo.",
+            "sentence_zh": "咖啡因能让熊猫像人类一样保持清醒，虽然它们主要吃竹子。"
+          },
+          {
+            "sentence": "The barista explained how caffeine content varies between espresso and cold brew.",
+            "sentence_zh": "咖啡师解释浓缩咖啡与冷萃咖啡的咖啡因含量差异。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "咖啡碱",
+        "examples": [
+          {
+            "sentence": "Tea leaves actually contain more caffeine (called theine here) than coffee beans by dry weight.",
+            "sentence_zh": "按干重计算，茶叶中的咖啡碱（此处称茶碱）含量其实高于咖啡豆。"
+          },
+          {
+            "sentence": "Some migraine medications combine caffeine with painkillers.",
+            "sentence_zh": "某些偏头痛药物会混合咖啡碱与止痛成分。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "caffeine fix",
+        "meaning": "咖啡因摄入（俚语）",
+        "examples": [
+          {
+            "sentence": "Programmers queue up at 3am for their caffeine fix during product launches.",
+            "sentence_zh": "产品上线时程序员凌晨三点排队摄取咖啡因。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "caffeine-free",
+        "meaning": "无咖啡因",
+        "examples": [
+          {
+            "sentence": "The caffeine-free cola still fizzes like the regular version.",
+            "sentence_zh": "无咖啡因可乐的气泡感和常规版一样足。"
+          }
+        ]
+      }
+    ],
+    "teach": "咖啡因是打工人的光合作用☀️！阿拉伯牧羊人发现羊吃咖啡豆后夜夜蹦迪🐑，这才揭开咖啡因提神秘密。说'咖啡续命'用caffeine boost（咖啡因助推），'戒咖啡'叫quit cold turkey（像突然戒火鸡一样难）☕️⚡️💤。记住：咖啡因让你从'睡美人'变成'卷王'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'咖啡因'→'咖妃瘾'→后宫佳丽三千就爱这一杯",
+        "易混词：theine（茶碱）与caffeine化学结构相同",
+        "记忆tip：咖啡+fei（拼音'飞'）=喝完咖啡精神起飞"
+      ]
+    }
+  },
+  {
+    "word": "caftan",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自土耳其语'kaftan'，指传统宽松长袍"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "土耳其长袍",
+        "examples": [
+          {
+            "sentence": "The merchant wore a silk caftan with golden embroidery in the bazaar.",
+            "sentence_zh": "集市里的商人穿着金线刺绣的丝绸长袍。"
+          },
+          {
+            "sentence": "Her Airbnb in Istanbul provided authentic caftans for guests to try on.",
+            "sentence_zh": "她在伊斯坦布尔的民宿为客人准备了正宗的土耳其长袍试穿。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "caftan dress",
+        "meaning": "长袍式连衣裙",
+        "examples": [
+          {
+            "sentence": "The influencer paired her caftan dress with vintage sunglasses at the resort.",
+            "sentence_zh": "这位网红在度假村用长袍连衣裙搭配复古墨镜。"
+          }
+        ]
+      }
+    ],
+    "teach": "caftan是奥斯曼帝国的'程序员格子衫'👑！苏丹王穿着镶宝石的caftan批奏折，相当于现代CEO的定制西装💼。说'穿着随意'可以用throw on a caftan（随手套件长袍），而'盛装打扮'叫decked out in caftans（长袍加身）。记住：这件袍子从16世纪火到今夏Coachella音乐节🕶️！",
+    "recite": {
+      "tips": [
+        "视觉记忆：把'caftan'拆成'cat（猫）+fan（风扇）'→猫咪吹着风扇裹长袍🐈",
+        "文化梗：美剧《权力的游戏》中龙母的造型灵感来自caftan"
+      ]
+    }
+  },
+  {
+    "word": "caged",
+    "etymology": {
+      "breakdown": [
+        "cage",
+        "ed"
+      ],
+      "meaning_connection": "cage=笼子，-ed表形容词→被关在笼子里的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "关在笼子里的",
+        "examples": [
+          {
+            "sentence": "The caged pandas at Chengdu Research Base still attract millions of visitors.",
+            "sentence_zh": "成都基地里关在笼子里的熊猫仍吸引数百万游客。"
+          },
+          {
+            "sentence": "Her caged parrot knows all the trending TikTok songs.",
+            "sentence_zh": "她家关在笼子里的鹦鹉会唱所有抖音神曲。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "feel caged",
+        "meaning": "感到被束缚",
+        "examples": [
+          {
+            "sentence": "After 14-day quarantine, I feel like a caged tiger.",
+            "sentence_zh": "隔离14天后，我感觉自己像头困兽。"
+          }
+        ]
+      }
+    ],
+    "teach": "caged其实是'社畜の痛'🐦：现代人上班像被关在工位笼子里💼，古代贵族却把关鸟当娱乐（英国维多利亚时期流行caged bird singing比赛）。说'困成狗'用地道表达stir-crazy（笼转疯），'金丝雀'叫caged canary就像CBD白领👔。记住：每个打工人都是带薪坐牢的笼中鸟！",
+    "recite": {
+      "tips": [
+        "谐音梗：'刻骨地'→关笼子的记忆刻骨铭心",
+        "易混词：caged（被动关） vs encaged（主动关押）"
+      ]
+    }
   }
 ]

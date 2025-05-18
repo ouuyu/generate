@@ -2478,5 +2478,268 @@
         "易混词：duty侧重法律/道德责任，obligation更强调约束性"
       ]
     }
+  },
+  {
+    "word": "obligatory",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "lig",
+        "atory"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根lig来自拉丁语ligare意为'绑住'，-atory表形容词→'被绑住的状态'引申为'义务的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "义务的",
+        "examples": [
+          {
+            "sentence": "Wearing masks became obligatory during the pandemic, like underwear for your face.",
+            "sentence_zh": "疫情期间戴口罩成了义务，就像给脸穿内衣。"
+          },
+          {
+            "sentence": "It's obligatory for Jedi knights to protect the weak, but they never teach you how to deal with midichlorian taxes.",
+            "sentence_zh": "绝地武士保护弱者是义务，但没人教他们怎么交原力税。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "必须的",
+        "examples": [
+          {
+            "sentence": "The obligatory 'I'm fine' when your mom video calls you at 3am.",
+            "sentence_zh": "凌晨三点妈妈视频时那句必须的'我很好'。"
+          },
+          {
+            "sentence": "Adding boba to milk tea is now obligatory in Taiwan, like oxygen to humans.",
+            "sentence_zh": "在台湾奶茶加珍珠已成必须，如同人类需要氧气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "强制性的",
+        "examples": [
+          {
+            "sentence": "The obligatory 5-minute standing ovation at North Korean concerts.",
+            "sentence_zh": "朝鲜音乐会强制性的五分钟起立鼓掌。"
+          },
+          {
+            "sentence": "In Japan, taking shoes off is as obligatory as breathing, unless you're Godzilla.",
+            "sentence_zh": "在日本脱鞋和呼吸一样是强制性的——除非你是哥斯拉。"
+          }
+        ]
+      }
+    ],
+    "teach": "obligatory是'绑住式必须'🤵♂️：古罗马人用ligare(绑)来形容法律义务，就像用原力束缚住你⚡️。说'必须做'用mandatory更正式，但'obligatory'带道德绑架感——比如春节被问结婚👰。搭配：obligatory course(必修课)/obligatory smile(营业笑容)。地道说法：'It's a must!'比'It's obligatory'更自然。记住：这个词就像你妈微信步数监督👟",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶不离开腿'→被义务绑住腿",
+        "易混词：compulsory侧重法律强制，obligatory含道德义务"
+      ]
+    }
+  },
+  {
+    "word": "oblige",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "lig"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根lig表示'捆绑'→原指用道德或法律约束他人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "强制",
+        "examples": [
+          {
+            "sentence": "The law obliges parents to send their kids to school.",
+            "sentence_zh": "法律强制家长送子女上学。"
+          },
+          {
+            "sentence": "The contract obliges us to finish the project before Mid-Autumn Festival.",
+            "sentence_zh": "合同强制我们在中秋节前完成项目。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "施恩惠于",
+        "examples": [
+          {
+            "sentence": "She obliged the lost tourist by guiding him to the subway station.",
+            "sentence_zh": "她给迷路游客指路到地铁站以施恩惠。"
+          },
+          {
+            "sentence": "The billionaire obliged the village with a new school building.",
+            "sentence_zh": "富豪为村子捐建新校舍施恩惠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使感激",
+        "examples": [
+          {
+            "sentence": "I'm much obliged for your WeChat red packet during quarantine.",
+            "sentence_zh": "隔离期间你的微信红包让我非常感激。"
+          },
+          {
+            "sentence": "We'd be obliged if you could reschedule the meeting.",
+            "sentence_zh": "若能改期会议我们将不胜感激。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "施恩惠",
+        "examples": [
+          {
+            "sentence": "The old man always obliges by fixing bicycles for free.",
+            "sentence_zh": "老人总通过免费修自行车施恩惠。"
+          },
+          {
+            "sentence": "Real friends oblige without being asked.",
+            "sentence_zh": "真正的朋友会主动施恩惠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "帮忙",
+        "examples": [
+          {
+            "sentence": "Could you oblige by passing the chili sauce?",
+            "sentence_zh": "能帮忙递下辣椒酱吗？"
+          },
+          {
+            "sentence": "He obliged by livestreaming the panda birth for his followers.",
+            "sentence_zh": "他帮忙给粉丝直播了大熊猫生产。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be obliged to",
+        "meaning": "不得不",
+        "examples": [
+          {
+            "sentence": "We're obliged to show health QR codes everywhere now.",
+            "sentence_zh": "我们现在到哪都不得不出示健康码。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "feel obliged",
+        "meaning": "觉得有必要",
+        "examples": [
+          {
+            "sentence": "She felt obliged to correct the misleading douyin video.",
+            "sentence_zh": "她觉得有必要纠正那条误导性抖音视频。"
+          }
+        ]
+      }
+    ],
+    "teach": "oblige是'道德绑架绳'🧶和'人情信用卡'💳的结合体！古罗马用ligare（捆绑）约束人🤵，现在说'Much obliged'就像拱手作揖🙏。要吐槽被迫扫码时说'We're obliged to scan'，表达感激用'I'm obliged for the bubble tea'🧋。记住：绳子绑太紧会断，人情用太多会烦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦不来挤'→哦不，来挤地铁不得不(obliged)",
+        "易混词对比：obligate（法律义务） vs oblige（道德约束）",
+        "记忆口诀：义务(oblige)像粽子，被绳(lig)捆着才能成形"
+      ]
+    }
+  },
+  {
+    "word": "obliged",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "lig",
+        "ed"
+      ],
+      "meaning_connection": "前缀ob-表示'反向'，词根lig表示'捆绑'，-ed表形容词→原指被义务捆绑的状态，引申出'被迫的'和'感激的'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "感激的",
+        "examples": [
+          {
+            "sentence": "I'm much obliged for your WeChat red packet during quarantine.",
+            "sentence_zh": "隔离期间您的微信红包让我不胜感激。"
+          },
+          {
+            "sentence": "She felt obliged when her neighbor shared toilet paper.",
+            "sentence_zh": "邻居分享厕纸时她十分感激。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有责任的",
+        "examples": [
+          {
+            "sentence": "Doctors are obliged to treat patients regardless of payment.",
+            "sentence_zh": "医生有责任救治患者不论是否付费。"
+          },
+          {
+            "sentence": "As a citizen, I feel obliged to wear masks in public.",
+            "sentence_zh": "作为市民我认为在公共场合戴口罩是责任。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "必须的",
+        "examples": [
+          {
+            "sentence": "You're not obliged to scan every QR code you see.",
+            "sentence_zh": "你不必扫描看到的每个二维码。"
+          },
+          {
+            "sentence": "Foreigners are obliged to show passports when booking hotels.",
+            "sentence_zh": "外国人预订酒店时必须出示护照。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "feel obliged to",
+        "meaning": "感到有义务做",
+        "examples": [
+          {
+            "sentence": "Chinese hosts feel obliged to overfeed their guests.",
+            "sentence_zh": "中国主人总觉得必须让客人吃到撑。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "be much obliged",
+        "meaning": "万分感谢",
+        "examples": [
+          {
+            "sentence": "\"Much obliged!\" said the tourist when I helped with his Alipay.",
+            "sentence_zh": "当我帮外国游客弄支付宝时，他连声道谢。"
+          }
+        ]
+      }
+    ],
+    "teach": "obliged像被道德绑架的锦鲤🎏！本意是'被绑住'（ob+lig），衍生出：1) 被善意绑架→感激（好比收到红包不得不回礼🧧）；2) 被责任绑架→义务（像做核酸时的大白👨⚕️）。地道说法：'被迫营业'叫compulsory service，'人情债'说social obligation。记住：当你说'I'm obliged'时，可能开心也可能无奈🤷！",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶不赖的'→偶（我）不赖账因为obliged",
+        "易混词对比：obliged（主观感受） vs obligatory（客观规定）",
+        "记忆tip：想象被红绳（lig）绑住鞠躬（ob-）道谢的样子"
+      ]
+    }
   }
 ]

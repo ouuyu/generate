@@ -2739,5 +2739,315 @@
         "易混词：pagan vs. pioneer（先驱者）→ 前者信旧神，后者闯新路"
       ]
     }
+  },
+  {
+    "word": "paganism",
+    "etymology": {
+      "breakdown": [
+        "pagan",
+        "ism"
+      ],
+      "meaning_connection": "词根pagan=乡村的（古罗马时期基督教城市盛行后，农村仍保持旧神信仰），-ism表主义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "异教徒",
+        "examples": [
+          {
+            "sentence": "The Vikings were often labeled as pagans by medieval Christians.",
+            "sentence_zh": "维京人在中世纪常被基督徒称为异教徒。"
+          },
+          {
+            "sentence": "Some pagan traditions survived in Christmas customs like decorating trees.",
+            "sentence_zh": "一些异教传统以装饰圣诞树等形式留存于圣诞节习俗中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "异教信仰",
+        "examples": [
+          {
+            "sentence": "Norse paganism worshipped gods like Thor and Odin.",
+            "sentence_zh": "北欧异教信仰崇拜雷神索尔和奥丁等神明。"
+          },
+          {
+            "sentence": "Modern paganism often revives ancient nature-based religions.",
+            "sentence_zh": "现代异教信仰常复兴基于自然的古老宗教。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "偶像崇拜",
+        "examples": [
+          {
+            "sentence": "The prophet condemned the paganism of golden calf worship.",
+            "sentence_zh": "先知谴责崇拜金牛犊的偶像崇拜行为。"
+          },
+          {
+            "sentence": "Some view celebrity culture as a form of modern paganism.",
+            "sentence_zh": "有人将明星文化视为现代偶像崇拜的一种形式。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "neo-paganism",
+        "meaning": "新异教主义",
+        "examples": [
+          {
+            "sentence": "Wicca is a well-known neo-paganism movement.",
+            "sentence_zh": "威卡教是著名的新异教主义运动。"
+          }
+        ]
+      }
+    ],
+    "teach": "paganism其实是'村霸信仰'🌾：古罗马基督徒给乡下人(pagan原意)贴的标签🏷️。就像今天追星族拜手办叫'二次元信仰'🤖，中世纪所有非基督信仰都被叫作paganism。记住两搭配：accused of paganism（被控异端）比'开除粉籍'严重🔨，revival of paganism（异教复兴）就像汉服运动但又更古老🧙♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'陪逛ism'→陪女朋友逛寺庙被说是paganism",
+        "易混词：heathen（未开化异教徒）/ heretic（异端）",
+        "记忆链：pagan→village→countryside→old religions"
+      ]
+    }
+  },
+  {
+    "word": "page",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语pagina（固定起来的书写板），后演变为纸张单位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "页",
+        "examples": [
+          {
+            "sentence": "The doujinshi has 18+ content after page 50.",
+            "sentence_zh": "这本同人志第50页后是成人内容。"
+          },
+          {
+            "sentence": "Her diary's last page was torn out mysteriously.",
+            "sentence_zh": "她日记的最后一页被神秘撕掉了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "记录",
+        "examples": [
+          {
+            "sentence": "This bronze vessel preserves important pages of Shang Dynasty history.",
+            "sentence_zh": "这件青铜器保存着商朝历史的重要记录。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "事件",
+        "examples": [
+          {
+            "sentence": "The Opium War was a dark page in Chinese history.",
+            "sentence_zh": "鸦片战争是中国历史上的黑暗一页。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "专栏",
+        "examples": [
+          {
+            "sentence": "Check the entertainment page for idol news.",
+            "sentence_zh": "查看娱乐专栏获取偶像资讯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "男侍",
+        "examples": [
+          {
+            "sentence": "The page announced guests with a loud voice.",
+            "sentence_zh": "男侍者用洪亮的声音通报来宾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "标明页数",
+        "examples": [
+          {
+            "sentence": "The editor is paging the manuscript manually.",
+            "sentence_zh": "编辑正在手动给稿子标页数。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "翻书页",
+        "examples": [
+          {
+            "sentence": "He paged through the ancient text carefully.",
+            "sentence_zh": "他小心翼翼地翻阅古籍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "呼叫",
+        "examples": [
+          {
+            "sentence": "The hospital keeps paging Dr. Zhang to ER.",
+            "sentence_zh": "医院在不断呼叫张医生去急诊室。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "侍候",
+        "examples": [
+          {
+            "sentence": "Young nobles learned manners by paging at court.",
+            "sentence_zh": "年轻贵族通过在宫廷侍候来学习礼仪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "front page",
+        "meaning": "头版",
+        "examples": [
+          {
+            "sentence": "The scandal made front page of all newspapers.",
+            "sentence_zh": "丑闻登上了所有报纸头版。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "page turner",
+        "meaning": "引人入胜的书",
+        "examples": [
+          {
+            "sentence": "This web novel is a real page turner.",
+            "sentence_zh": "这部网络小说让人欲罢不能。"
+          }
+        ]
+      }
+    ],
+    "teach": "page就像时空折叠器📜→可以是《永乐大典》的宣纸页，也能变身酒店传呼小弟📟（page boy）。说'黑历史'用dark page，'刷手机'叫page through。搭配：①page proof（校样页）②pager era（BP机年代）。'翻篇了'的地道说法是turn the page，像撕日历一样潇洒🗓️",
+    "recite": {
+      "tips": [
+        "谐音梗：'配齐'→侍者(page)要配齐餐具",
+        "对比：leaf（树叶/书页）",
+        "记忆：P-A-G-E = Paper And Golden Events（纸张与重要事件）"
+      ]
+    }
+  },
+  {
+    "word": "pageant",
+    "etymology": {
+      "breakdown": [
+        "pag",
+        "eant"
+      ],
+      "meaning_connection": "词根pag=固定/展示（源自拉丁语pagina指'页面、展板'），后缀-ant表'性质'→原指固定在公共场所的展示活动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "盛会",
+        "examples": [
+          {
+            "sentence": "The Mid-Autumn pageant featured 1000 drones forming mooncake shapes.",
+            "sentence_zh": "中秋盛会中千架无人机组成月饼造型。"
+          },
+          {
+            "sentence": "Our school's talent pageant discovered a rap genius in math class.",
+            "sentence_zh": "校园才艺盛会发掘出数学课上的说唱天才。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "游行",
+        "examples": [
+          {
+            "sentence": "The lantern pageant flowed through the ancient town like a glowing dragon.",
+            "sentence_zh": "花灯游行如发光巨龙穿行古镇。"
+          },
+          {
+            "sentence": "During the Spring Festival pageant, kids rode giant rabbit floats.",
+            "sentence_zh": "春节游行时孩子们骑着巨型兔子花车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "虚饰",
+        "examples": [
+          {
+            "sentence": "His apology was just a pageant without real remorse.",
+            "sentence_zh": "他的道歉只是场没有真诚悔意的表演。"
+          },
+          {
+            "sentence": "The influencer's life is a constant pageant for the camera.",
+            "sentence_zh": "网红的生活是为镜头持续上演的华丽戏码。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "露天表演",
+        "examples": [
+          {
+            "sentence": "The historical pageant reenacted Zheng He's voyages with real junks.",
+            "sentence_zh": "历史露天表演用真实帆船重现郑和下西洋。"
+          },
+          {
+            "sentence": "Villagers staged a harvest pageant with dancing scarecrows.",
+            "sentence_zh": "村民们用跳舞稻草人上演丰收露天剧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "beauty pageant",
+        "meaning": "选美比赛",
+        "examples": [
+          {
+            "sentence": "She won the campus beauty pageant by reciting Tang poetry in 5 dialects.",
+            "sentence_zh": "她用五种方言朗诵唐诗赢得校园选美。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pageant wagon",
+        "meaning": "彩车",
+        "examples": [
+          {
+            "sentence": "The pageant wagon shaped like a giant steamed bun drew cheers.",
+            "sentence_zh": "巨型馒头造型的彩车引发欢呼。"
+          }
+        ]
+      }
+    ],
+    "teach": "pageant本质是场大型真人PPT📽️！源自中世纪欧洲的'圣经故事巡游车'（最早的移动剧场🚛），现在演化成：选美比赛是颜值PPT👑，节日游行是民俗PPT🎏，虚浮表演是戏精PPT🎭。记住'三P法则'：People（人群）+ Performance（表演）+ Public（公开）= Pageant。说'华而不实'用all show and no go🦚",
+    "recite": {
+      "tips": [
+        "谐音梗：'陪朕看'→古代皇帝要陪朕看(pageant)庆典",
+        "易混词：parade（单纯游行）vs pageant（带表演性质）",
+        "记忆法：把pageant拆成page+ant→蚂蚁(page-ant)举着彩页游行"
+      ]
+    }
   }
 ]
