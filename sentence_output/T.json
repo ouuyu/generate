@@ -3710,5 +3710,337 @@
         "易混词：tailor（裁缝） vs. sailor（水手）→一个剪布一个扬帆"
       ]
     }
+  },
+  {
+    "word": "tai",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "泰国民航代码源自'IATA airline designator'体系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "abbr.",
+        "meaning": "泰国国际航空公司",
+        "examples": [
+          {
+            "sentence": "The tai flight from Bangkok to Phuket serves mango sticky rice onboard.",
+            "sentence_zh": "泰航曼谷-普吉航线提供机上芒果糯米饭服务。"
+          },
+          {
+            "sentence": "My tai boarding pass has a hologram of the Grand Palace.",
+            "sentence_zh": "我的泰航登机牌印有大皇宫全息图案。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tai lounge",
+        "meaning": "泰航贵宾室",
+        "examples": [
+          {
+            "sentence": "The tai lounge at Suvarnabhumi Airport has Thai massage chairs.",
+            "sentence_zh": "素万那普机场的泰航贵宾室配备泰式按摩椅。"
+          }
+        ]
+      }
+    ],
+    "teach": "tai这代码藏着泰国魂🇹🇭！就像'泰'字本身有'平安'之意，泰航空姐的合十礼🙏能让你秒变VIP。要吐槽航班延误？泰国人会说'宅燕燕'(慢慢来)🐘，而商务舱叫royal silk class真是把'泰式凡尔赛'玩明白了🛋️。记住：看见tai代码，就等于闻到了冬阴功香气🍲！",
+    "recite": {
+      "tips": [
+        "视觉记忆：tai=泰+爱(❤️)，泰航标志就是莲花+爱心",
+        "对比记忆：TG(泰航旧代码)像'土豪哥'，tai才是现代小清新"
+      ]
+    }
+  },
+  {
+    "word": "tailored",
+    "etymology": {
+      "breakdown": [
+        "tailor",
+        "ed"
+      ],
+      "meaning_connection": "源自tailor（裁缝）+ -ed（形容词后缀），字面意思是'由裁缝处理的'，后引申为'量身定制'和'精致考究'的含义。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "裁缝做的",
+        "examples": [
+          {
+            "sentence": "His tailored suit fits like a second skin.",
+            "sentence_zh": "他那套裁缝做的西装合身得像是第二层皮肤。"
+          },
+          {
+            "sentence": "The bride wore a tailored cheongsam for the tea ceremony.",
+            "sentence_zh": "新娘在敬茶环节穿着裁缝定制的旗袍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "特制的",
+        "examples": [
+          {
+            "sentence": "This app provides tailored news feed based on your interests.",
+            "sentence_zh": "这个应用根据你的兴趣提供特制的新闻推送。"
+          },
+          {
+            "sentence": "The museum offers tailored tours for visually impaired visitors.",
+            "sentence_zh": "博物馆为视障游客提供特制的导览服务。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "穿着考究的",
+        "examples": [
+          {
+            "sentence": "The tailored professor always wears three-piece suits to class.",
+            "sentence_zh": "那位穿着考究的教授总是穿三件套西装上课。"
+          },
+          {
+            "sentence": "Her tailored appearance at the job interview impressed everyone.",
+            "sentence_zh": "她面试时考究的着装给所有人留下深刻印象。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tailored to",
+        "meaning": "为...量身定制",
+        "examples": [
+          {
+            "sentence": "This program is tailored to senior citizens' needs.",
+            "sentence_zh": "这个项目是为老年人需求量身定制的。"
+          },
+          {
+            "sentence": "The mattress is tailored to different sleeping positions.",
+            "sentence_zh": "这款床垫为不同睡姿量身定制。"
+          }
+        ]
+      }
+    ],
+    "teach": "tailored就像私人裁缝✂️+AI算法🤖的结合体！从伦敦萨维尔街的高级定制（bespoke tailoring）到淘宝的'猜你喜欢'（tailored recommendations），本质都是'量体裁衣'👔。说'地摊货'可以用off-the-rack（直接从货架拿的），而'高端定制'就叫tailor-made。记住：当别人说you look tailored，是在夸你像行走的时尚杂志📸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒乐的'→忒(tailor)乐的裁缝",
+        "对比记忆：tailored（精工细作）vs ready-made（现成的）",
+        "形象联想：把单词里的'tail'想象成裁缝正在修剪的布料尾巴"
+      ]
+    }
+  },
+  {
+    "word": "tailoring",
+    "etymology": {
+      "breakdown": [
+        "tailor",
+        "ing"
+      ],
+      "meaning_connection": "tailor（裁缝）+ -ing（表动作/行业）→ 指代'裁缝业'及相关动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "裁缝业",
+        "examples": [
+          {
+            "sentence": "Shanghai's tailoring dates back to the silk trade era.",
+            "sentence_zh": "上海的裁缝业可追溯至丝绸贸易时期。"
+          },
+          {
+            "sentence": "Her family has been in tailoring for three generations.",
+            "sentence_zh": "她家三代都从事裁缝业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "做衣服",
+        "examples": [
+          {
+            "sentence": "AI can't replace the warmth of human tailoring yet.",
+            "sentence_zh": "AI尚无法取代人工做衣服的温度。"
+          },
+          {
+            "sentence": "The qipao requires delicate tailoring with silk fabrics.",
+            "sentence_zh": "旗袍需用真丝面料精心做衣服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "成衣",
+        "examples": [
+          {
+            "sentence": "This tailoring fits like a second skin.",
+            "sentence_zh": "这件成衣如第二层肌肤般合身。"
+          },
+          {
+            "sentence": "Fast fashion has changed traditional tailoring methods.",
+            "sentence_zh": "快时尚改变了传统成衣制作方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "剪裁",
+        "examples": [
+          {
+            "sentence": "The tailoring of this jacket follows Ming Dynasty techniques.",
+            "sentence_zh": "这件夹克的剪裁遵循明代工艺。"
+          },
+          {
+            "sentence": "Balenciaga's avant-garde tailoring shocks fashion circles.",
+            "sentence_zh": "巴黎世家的前卫剪裁震撼时尚圈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "制作",
+        "examples": [
+          {
+            "sentence": "The tailoring process involves 108 steps for a cheongsam.",
+            "sentence_zh": "一件旗袍的制作需108道工序。"
+          },
+          {
+            "sentence": "Robotic tailoring is now used in sportswear production.",
+            "sentence_zh": "运动服的制作已采用机器人剪裁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "custom tailoring",
+        "meaning": "定制剪裁",
+        "examples": [
+          {
+            "sentence": "His suit underwent 12 rounds of custom tailoring.",
+            "sentence_zh": "他的西装经过12轮定制剪裁。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tailoring skills",
+        "meaning": "裁缝技艺",
+        "examples": [
+          {
+            "sentence": "The intangible heritage includes ancient tailoring skills.",
+            "sentence_zh": "这项非遗包含古老裁缝技艺。"
+          }
+        ]
+      }
+    ],
+    "teach": "tailoring其实是'针线江湖'🧵！中世纪欧洲裁缝行会像武林门派⚔️，'剪裁失误'叫thread fail（线翻车），'完美合身'说fits like a glove（像手套般贴合）。记住：高级tailoring就像给布料做针灸💉，一针一线都是人体工程学！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒灵'→裁缝手艺忒灵(tailoring)",
+        "易混词：tailor（裁缝职业） vs. sailor（水手）"
+      ]
+    }
+  },
+  {
+    "word": "tailpiece",
+    "etymology": {
+      "breakdown": [
+        "tail",
+        "piece"
+      ],
+      "meaning_connection": "tail=尾部，piece=部件→字面意思为'尾部的部件'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "尾部附属物",
+        "examples": [
+          {
+            "sentence": "The dragon-shaped tailpiece on ancient roofs scared away evil spirits.",
+            "sentence_zh": "古代屋顶的龙形尾部饰物用于驱邪。"
+          },
+          {
+            "sentence": "Check the tailpiece of your violin before the concert.",
+            "sentence_zh": "音乐会前请检查小提琴的尾钮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "端件",
+        "examples": [
+          {
+            "sentence": "The plumber replaced the rusty tailpiece under the sink.",
+            "sentence_zh": "水管工更换了水槽下生锈的排水端件。"
+          },
+          {
+            "sentence": "This 3D-printed tailpiece connects the robot's arm to its hand.",
+            "sentence_zh": "这个3D打印的端件连接着机器人的手臂和手掌。"
+          }
+        ]
+      }
+    ],
+    "teach": "tailpiece是机械界的'燕尾服'🤵：既可以是小提琴尾部拴弦的精致配件🎻（像西装后摆），也可以是下水管道的金属接头🔧（像领结夹）。记住：看到'尾巴(tail)+零件(piece)'组合，就联想'凤冠霞帔的最后一块玉佩💎'。要说'最后部分'可以调侃说the tail wags the dog（尾巴摇狗——本末倒置）",
+    "recite": {
+      "tips": [
+        "视觉记忆：'尾巴零件'像乐高积木末端连接块🧩",
+        "易混词对比：tailpipe（排气管）是圆柱体，tailpiece是扁平连接件"
+      ]
+    }
+  },
+  {
+    "word": "tailspin",
+    "etymology": {
+      "breakdown": [
+        "tail",
+        "spin"
+      ],
+      "meaning_connection": "tail指飞机尾部，spin表示旋转→原指飞机尾部失控旋转下坠的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "旋尾降落（航空术语）",
+        "examples": [
+          {
+            "sentence": "The stunt plane performed a dramatic tailspin before pulling up at the last second.",
+            "sentence_zh": "特技飞机在最后一秒拉起前做了个惊险的旋尾降落动作。"
+          },
+          {
+            "sentence": "Pilots train extensively to recover from a tailspin situation.",
+            "sentence_zh": "飞行员需经过大量训练才能从旋尾降落状态改出。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go into a tailspin",
+        "meaning": "陷入混乱/失控状态",
+        "examples": [
+          {
+            "sentence": "The stock market went into a tailspin after the unexpected policy change.",
+            "sentence_zh": "政策突变后股市陷入剧烈震荡。"
+          },
+          {
+            "sentence": "Her life went into a tailspin when she accidentally deleted her 10,000-word thesis.",
+            "sentence_zh": "当她误删了万字论文时，生活顿时陷入混乱。"
+          }
+        ]
+      }
+    ],
+    "teach": "tailspin其实是空中芭蕾💃！这个词源自一战时期，描述飞机像被揪住尾巴的蜻蜓🪂螺旋下坠（物理版'芭比Q了'）。衍生义'陷入混乱'就像你同时收到微信/QQ/钉钉轰炸时的状态💥。搭配'emotional tailspin'形容情绪崩溃，比'I'm freaking out'更生动！",
+    "recite": {
+      "tips": [
+        "视觉联想：想象旋转的龙卷风🌪️顶端挂着条尾巴",
+        "易混词对比：spiral侧重螺旋上升/下降，tailspin强调失控旋转"
+      ]
+    }
   }
 ]

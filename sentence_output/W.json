@@ -3941,5 +3941,297 @@
         "易混对比：curtain（窗帘）是window的裙子，wallpaper是墙的纹身"
       ]
     }
+  },
+  {
+    "word": "walrus",
+    "etymology": {
+      "breakdown": [
+        "hval",
+        "ros"
+      ],
+      "meaning_connection": "源自荷兰语'walrus'，由古诺尔斯语'hval'(鲸) + 'ros'(马)组成→'像鲸又像马的生物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "海象",
+        "examples": [
+          {
+            "sentence": "The walrus used its iconic tusks to haul itself onto the ice.",
+            "sentence_zh": "海象用标志性的长牙把自己拖上冰面。"
+          },
+          {
+            "sentence": "A baby walrus clung to its mother's back like a living backpack.",
+            "sentence_zh": "小海象像活体背包一样紧紧扒在妈妈背上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "walrus mustache",
+        "meaning": "海象式胡须（浓密下垂的胡子）",
+        "examples": [
+          {
+            "sentence": "His walrus mustache caught soup droplets at lunch.",
+            "sentence_zh": "他的海象胡须在午餐时接住了汤滴。"
+          },
+          {
+            "sentence": "The pirate captain's walrus mustache fluttered in the sea wind.",
+            "sentence_zh": "海盗船长的海象胡须在海风中飘扬。"
+          }
+        ]
+      }
+    ],
+    "teach": "walrus是'鲸马混血儿'🐋🐎！维京人初见海象时惊呼：这货上半身像鲸鱼，下半身像马啊！海象胡须(walrus mustache)就像挂了两条海带🌊，而'笨重移动'可以叫walrus walk🚶♂️。北极原住民会说：海象的脂肪比羽绒被还暖和！❄️",
+    "recite": {
+      "tips": [
+        "谐音梗：'哇！鹿死'→看到海象的獠牙吓得鹿都死了",
+        "易混词对比：walnut（核桃）vs walrus（都有坚硬外壳）",
+        "记忆tip：记住WAL+RUS→'我在俄罗斯'看海象"
+      ]
+    }
+  },
+  {
+    "word": "waltz",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自德语'Walzer'，本义为'旋转'，因舞蹈特色得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "华尔兹舞",
+        "examples": [
+          {
+            "sentence": "The couple won first prize with their Viennese waltz.",
+            "sentence_zh": "这对情侣凭借维也纳华尔兹夺得冠军。"
+          },
+          {
+            "sentence": "Square dancing enthusiasts protested when waltz replaced their routine.",
+            "sentence_zh": "当华尔兹取代广场舞时，大妈们集体抗议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "圆舞曲",
+        "examples": [
+          {
+            "sentence": "The Blue Danube is the most famous waltz of all time.",
+            "sentence_zh": "《蓝色多瑙河》是有史以来最著名的圆舞曲。"
+          },
+          {
+            "sentence": "Elevators in Vienna hotels always play Strauss' waltzes.",
+            "sentence_zh": "维也纳酒店的电梯永远播放施特劳斯的圆舞曲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "华尔兹舞的",
+        "examples": [
+          {
+            "sentence": "Her waltz shoes had special suede soles for sliding.",
+            "sentence_zh": "她的华尔兹舞鞋带有特制麂皮鞋底方便滑动。"
+          },
+          {
+            "sentence": "The ballroom was decorated with waltz-themed murals.",
+            "sentence_zh": "舞厅装饰着以华尔兹为主题的壁画。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "圆舞曲的",
+        "examples": [
+          {
+            "sentence": "The waltz rhythm is unmistakable - ONE two three, ONE two three.",
+            "sentence_zh": "圆舞曲的节奏无可替代——嘭嚓嚓，嘭嚓嚓。"
+          },
+          {
+            "sentence": "This champagne has a waltz-like effervescence.",
+            "sentence_zh": "这款香槟的气泡如同圆舞曲般欢快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "跳华尔兹舞",
+        "examples": [
+          {
+            "sentence": "Grandpa still waltzes with grandma every Sunday.",
+            "sentence_zh": "爷爷至今每周日仍会和奶奶跳华尔兹。"
+          },
+          {
+            "sentence": "The panda mascot unexpectedly waltzed across the stage.",
+            "sentence_zh": "熊猫吉祥物突然在舞台上跳起了华尔兹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "轻快地走动",
+        "examples": [
+          {
+            "sentence": "She waltzed into the meeting 20 minutes late with Starbucks.",
+            "sentence_zh": "她拿着星巴克轻快地迟到20分钟进入会议室。"
+          },
+          {
+            "sentence": "The cat waltzed past the dog like a boss.",
+            "sentence_zh": "猫咪像大佬般轻快地晃过狗狗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "与...跳华尔兹舞",
+        "examples": [
+          {
+            "sentence": "He waltzed the CEO around the conference table.",
+            "sentence_zh": "他带着CEO绕着会议桌跳华尔兹。"
+          },
+          {
+            "sentence": "The professor waltzed his reluctant student through the exam tips.",
+            "sentence_zh": "教授硬拉着不情愿的学生跳华尔兹般讲解考试重点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "硬拖",
+        "examples": [
+          {
+            "sentence": "Mum waltzed me into the dentist's office kicking and screaming.",
+            "sentence_zh": "妈妈硬拖着又踢又叫的我进了牙科诊所。"
+          },
+          {
+            "sentence": "The security waltzed the drunk customer out of the bar.",
+            "sentence_zh": "保安把醉汉硬拖出了酒吧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "waltz through",
+        "meaning": "轻松通过",
+        "examples": [
+          {
+            "sentence": "She waltzed through Gaokao like it was kindergarten math.",
+            "sentence_zh": "她轻松通过高考，就像做幼儿园数学题。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "waltz away with",
+        "meaning": "轻易赢得",
+        "examples": [
+          {
+            "sentence": "The underdog waltzed away with the championship.",
+            "sentence_zh": "黑马轻松赢得了冠军。"
+          }
+        ]
+      }
+    ],
+    "teach": "华尔兹(waltz)其实是德语'打滚'的意思🤸！最初这舞蹈因男女搂抱旋转被教会谴责为'魔鬼的舞蹈'👿，现在却成了婚礼标配💒。说'轻松完成'可以用waltz through，比如'她waltz through了托福考试'。记住：所有三步一旋转的动作——从国标舞到广场舞抢C位——本质都是waltz精神！💃🕺🎶",
+    "recite": {
+      "tips": [
+        "谐音梗：'我扯'→跳华尔兹时总踩脚被抱怨",
+        "易混词：valse(法语华尔兹)/volt(电压单位)"
+      ]
+    }
+  },
+  {
+    "word": "wan",
+    "etymology": {
+      "breakdown": [
+        "古英语 wann"
+      ],
+      "meaning_connection": "源自古英语表示'黑暗的'，后演变为形容暗淡无光的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "苍白的",
+        "examples": [
+          {
+            "sentence": "The moon cast a wan light through the hospital curtains.",
+            "sentence_zh": "月光透过医院窗帘投下苍白的微光。"
+          },
+          {
+            "sentence": "After pulling an all-nighter, his face turned as wan as rice paper.",
+            "sentence_zh": "通宵后他的脸变得像宣纸一样苍白。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "无血色的",
+        "examples": [
+          {
+            "sentence": "The vampire's wan complexion sparkled weirdly in sunlight.",
+            "sentence_zh": "吸血鬼毫无血色的面容在阳光下诡异地闪烁。"
+          },
+          {
+            "sentence": "Her wan lips trembled when hearing the bad news.",
+            "sentence_zh": "听到坏消息时她毫无血色的嘴唇颤抖着。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "病态的",
+        "examples": [
+          {
+            "sentence": "The patient gave a wan smile to the doctor.",
+            "sentence_zh": "病人向医生露出病态的微笑。"
+          },
+          {
+            "sentence": "His wan appearance suggested he needed immediate bed rest.",
+            "sentence_zh": "他病态的外表表明需要立即卧床休息。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "暗淡的",
+        "examples": [
+          {
+            "sentence": "The wan glow of old neon signs reflected on wet pavement.",
+            "sentence_zh": "旧霓虹灯的暗淡光芒映照在潮湿的路面上。"
+          },
+          {
+            "sentence": "We read by the wan light of dying candles.",
+            "sentence_zh": "我们借着将熄蜡烛的暗淡光线阅读。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "(使)变苍白",
+        "examples": [
+          {
+            "sentence": "The flowers wanned after three days without sunlight.",
+            "sentence_zh": "三天不见阳光后花朵变得苍白。"
+          },
+          {
+            "sentence": "Fear wanned her cheeks instantly.",
+            "sentence_zh": "恐惧瞬间让她的脸颊失去血色。"
+          }
+        ]
+      }
+    ],
+    "teach": "wan是'我安'还是'完'？其实它像褪色滤镜📸！英国贵族追求病态美时会故意用铅粉让脸变wan（结果真完蛋了💀）。说'面如死灰'可用wan as a ghost👻，'熬夜脸'叫wan like moonlight🌙。搭配wan smile（苦笑）/wan light（惨淡灯光），记住：所有褪色事物都能用wan形容！",
+    "recite": {
+      "tips": [
+        "谐音梗：'完'→脸色完(wan)蛋了",
+        "易混词对比：pale（普通苍白） vs wan（病态苍白）",
+        "记忆口诀：WAN=White As Night（白如夜）"
+      ]
+    }
   }
 ]

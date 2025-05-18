@@ -3324,5 +3324,275 @@
         "易混词：calcium（钙元素）vs calcite（含钙矿物）"
       ]
     }
+  },
+  {
+    "word": "calcium",
+    "etymology": {
+      "breakdown": [
+        "calc",
+        "ium"
+      ],
+      "meaning_connection": "词根calc=石灰/石头（如calculate最早指用石头计算），-ium表金属元素→从石灰中提取的金属"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "钙",
+        "examples": [
+          {
+            "sentence": "The calcium in milk helps build strong bones like those of dinosaurs.",
+            "sentence_zh": "牛奶中的钙能帮助打造如恐龙般强壮的骨骼。"
+          },
+          {
+            "sentence": "Chinese tofu is richer in calcium than most cheeses.",
+            "sentence_zh": "中国豆腐的钙含量比多数奶酪更高。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "calcium deficiency",
+        "meaning": "缺钙",
+        "examples": [
+          {
+            "sentence": "Cracking knuckles doesn't actually cause calcium deficiency.",
+            "sentence_zh": "掰手指关节其实不会导致缺钙。"
+          }
+        ]
+      }
+    ],
+    "teach": "钙(calcium)是骨头里的'钢筋混凝土'🏗️！古罗马人用石灰(calc)建斗兽场，现代人靠它防骨质疏松🦴。缺钙叫calcium crisis，补钙说load up on calcium（像给手机充电🔋）。记住：每天一杯奶，钙世无双！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开尔笑'→科学家发现钙元素开心笑",
+        "易混词：calculator（计算器）也来自calc词根"
+      ]
+    }
+  },
+  {
+    "word": "calculable",
+    "etymology": {
+      "breakdown": [
+        "calcul",
+        "able"
+      ],
+      "meaning_connection": "词根calcul=计算（源自拉丁语calculus小石子，古人用石子计数），后缀-able表'可...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可计算的",
+        "examples": [
+          {
+            "sentence": "The calories in this hot pot are hardly calculable due to unlimited refills.",
+            "sentence_zh": "因为锅底无限续加，这顿火锅的热量几乎不可计算。"
+          },
+          {
+            "sentence": "With big data, even public opinion trends become calculable.",
+            "sentence_zh": "借助大数据，连舆论趋势都变得可计算。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可信赖的",
+        "examples": [
+          {
+            "sentence": "His promise is as calculable as sunrise in the Sahara.",
+            "sentence_zh": "他的承诺和撒哈拉的日出一样可靠。"
+          },
+          {
+            "sentence": "We need calculable teammates when climbing Mount Everest.",
+            "sentence_zh": "攀登珠峰时需要可信赖的队友。"
+          }
+        ]
+      }
+    ],
+    "teach": "calculable是数学家的表白神器🧮！词根calcul来自古人用石子(counting stones)算账，所以当你说'可计算'时，想象原始人堆石子算羊群🐑→当说'可靠'时，就像支付宝到账'叮'的声音💰。搭配：calculable risk（可控风险）/calculable results（可预期结果）。说'不靠谱'可以用dicey（像骰子般随机）🎲",
+    "recite": {
+      "tips": [
+        "谐音梗：'开口乐不乐'→计算结果让你开口乐",
+        "易混词：calculable（可被计算） vs. incalculable（不可估量）",
+        "记忆锚点：计算器(calculator)去掉-or就是calculable"
+      ]
+    }
+  },
+  {
+    "word": "calculate",
+    "etymology": {
+      "breakdown": [
+        "calc",
+        "ul",
+        "ate"
+      ],
+      "meaning_connection": "词根calc=石头（古罗马用石子计算），-ul表小工具，-ate表动作→用小石子计算"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "计算",
+        "examples": [
+          {
+            "sentence": "The AI calculates pi to 100 trillion digits while you blink.",
+            "sentence_zh": "你眨眼的功夫，AI已计算出圆周率后100万亿位。"
+          },
+          {
+            "sentence": "Grandma still calculates grocery costs with an abacus.",
+            "sentence_zh": "奶奶仍用算盘计算买菜钱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "预测",
+        "examples": [
+          {
+            "sentence": "Meteorologists calculated the typhoon would hit chicken drumstick-shaped Taiwan.",
+            "sentence_zh": "气象学家预测台风将登陆鸡腿状的台湾。"
+          },
+          {
+            "sentence": "The algorithm calculates your next online purchase with 90% accuracy.",
+            "sentence_zh": "该算法能以90%准确率预测你下次网购商品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "计划",
+        "examples": [
+          {
+            "sentence": "They calculated the project timeline down to hotpot breaks.",
+            "sentence_zh": "他们精确计划到火锅休息时间的项目进度。"
+          },
+          {
+            "sentence": "The squirrel calculated its winter nut storage like a Wall Street broker.",
+            "sentence_zh": "这只松鼠像华尔街经纪人般规划冬季坚果储备。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "打算",
+        "examples": [
+          {
+            "sentence": "I calculate to visit all stinky tofu stands in this night market.",
+            "sentence_zh": "我打算吃遍这个夜市所有臭豆腐摊。"
+          },
+          {
+            "sentence": "The cat calculated to knock over the vase at 3am sharp.",
+            "sentence_zh": "这只猫计划在凌晨3点整打翻花瓶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "calculate on",
+        "meaning": "指望",
+        "examples": [
+          {
+            "sentence": "You can't calculate on your goldfish remembering feeding time.",
+            "sentence_zh": "你别指望金鱼能记住喂食时间。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "calculated risk",
+        "meaning": "预计风险",
+        "examples": [
+          {
+            "sentence": "Eating 10 spicy hotpot dips was a calculated risk for the influencer.",
+            "sentence_zh": "对那个网红来说，连涮10次辣锅是预计之内的冒险。"
+          }
+        ]
+      }
+    ],
+    "teach": "calculate本质是'盘它'🧮！古代商人用calc(石子)算账💸，现在连AI都在calculate你的购物车。说'精打细算'用calculate to the penny（精确到分），'打小算盘'是calculate in one's mind🤯。记住：人生就像一道数学题，关键在于你怎么calculate！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开口累的'→天天计算开口就累",
+        "易混词：compute（纯数学计算） vs calculate（含判断）",
+        "联想：ATM机=Automatic Teller Machine=自动计算机器"
+      ]
+    }
+  },
+  {
+    "word": "calculated",
+    "etymology": {
+      "breakdown": [
+        "calcul",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根calcul=计算（源自拉丁语calculus'小石子'，古人用石子计数），-ate表动词后缀，-ed构成形容词→经过计算的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有计划的",
+        "examples": [
+          {
+            "sentence": "Her calculated decision to major in AI paid off with a 500k job offer.",
+            "sentence_zh": "她计划性地选择AI专业的决定换来了50万年薪offer。"
+          },
+          {
+            "sentence": "The CEO made a calculated move by acquiring that startup.",
+            "sentence_zh": "CEO通过收购那家初创公司走了一招妙棋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "适当的",
+        "examples": [
+          {
+            "sentence": "The apology letter had just the right calculated tone.",
+            "sentence_zh": "这封道歉信的语气拿捏得恰到好处。"
+          },
+          {
+            "sentence": "His calculated silence spoke louder than words.",
+            "sentence_zh": "他恰到好处的沉默胜似千言万语。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "计算出的",
+        "examples": [
+          {
+            "sentence": "The calculated trajectory enabled Chang'e-5 to return from the moon.",
+            "sentence_zh": "计算出的轨道使嫦娥五号得以从月球返回。"
+          },
+          {
+            "sentence": "This graph shows calculated probabilities of rain.",
+            "sentence_zh": "这张图显示的是计算出的降雨概率。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "calculated risk",
+        "meaning": "预估风险",
+        "examples": [
+          {
+            "sentence": "Launching Douyin was ByteDance's brilliant calculated risk.",
+            "sentence_zh": "推出抖音是字节跳动精妙的预估风险之举。"
+          }
+        ]
+      }
+    ],
+    "teach": "calculated就像诸葛亮借东风🌪️——既是'神机妙算'（calculated move），又是'恰到好处'（calculated timing）。古罗马商人用calculus（小石子）算账🧮，现代人用'精打细算'说calculated decision。表达'早有预谋'说premeditated，'临时起意'就是spontaneous。记住：人生像数学题，既要会calculate，也要会improvise！🎲➗",
+    "recite": {
+      "tips": [
+        "谐音梗：'开口来的'→开口来的话都是calculated好的",
+        "易混词对比：deliberate（故意的）更主观，calculated（有计划的）更理性"
+      ]
+    }
   }
 ]

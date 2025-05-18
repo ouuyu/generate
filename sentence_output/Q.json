@@ -3733,5 +3733,309 @@
         "对比记忆：quartz（石英）是面粉，quartzite（石英岩）是压缩饼干"
       ]
     }
+  },
+  {
+    "word": "quasar",
+    "etymology": {
+      "breakdown": [
+        "quasi",
+        "stellar"
+      ],
+      "meaning_connection": "quasi=类似，stellar=恒星→最初发现时误认为是恒星状射电源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "类星射电源",
+        "examples": [
+          {
+            "sentence": "The newly discovered quasar emits radio waves stronger than 1000 Milky Ways.",
+            "sentence_zh": "新发现的类星射电源无线电波强度超过1000个银河系。"
+          },
+          {
+            "sentence": "Scientists tracked the quasar's jet using the FAST telescope in Guizhou.",
+            "sentence_zh": "科学家用贵州天眼追踪该类星射电源的喷流。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "类星体",
+        "examples": [
+          {
+            "sentence": "This quasar shines with the brightness of 10 trillion suns.",
+            "sentence_zh": "这个类星体的亮度相当于10万亿个太阳。"
+          },
+          {
+            "sentence": "The teenage astronomer mistook a quasar for a UFO in his telescope.",
+            "sentence_zh": "少年天文爱好者误将类星体当成了望远镜里的UFO。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quasar spectrum",
+        "meaning": "类星体光谱",
+        "examples": [
+          {
+            "sentence": "The quasar spectrum revealed chemical elements from 12 billion years ago.",
+            "sentence_zh": "类星体光谱揭示了120亿年前的化学元素组成。"
+          }
+        ]
+      }
+    ],
+    "teach": "quasar其实是宇宙级'照骗'📸！明明比银河系还大却被缩写为'类恒星'（quasi-stellar）🤏。就像把火锅叫'小煮锅'🍲，实际是能量怪兽💥。搭配说'quasar hunter'指天文工作者🔭，'quasar bright'形容手机屏幕亮瞎眼📱。记住：每个quasar都是穿越时空的星际灯塔🚨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快杀啊'→类星体能量快杀(quasar)普通恒星",
+        "易混词：pulsar（脉冲星）是旋转中子星，quasar是活跃星系核"
+      ]
+    }
+  },
+  {
+    "word": "quash",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语quasser，意为'粉碎'，最终源自拉丁语quassare（剧烈摇晃）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "撤销（法律决议）",
+        "examples": [
+          {
+            "sentence": "The Supreme Court quashed the controversial verdict.",
+            "sentence_zh": "最高法院撤销了这项争议判决。"
+          },
+          {
+            "sentence": "TikTok's lawsuit aims to quash the proposed ban.",
+            "sentence_zh": "TikTok的诉讼旨在撤销拟议的禁令。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "平息（骚乱）",
+        "examples": [
+          {
+            "sentence": "Police used water cannons to quash the protest.",
+            "sentence_zh": "警方使用水炮平息抗议活动。"
+          },
+          {
+            "sentence": "The mayor's speech failed to quash public anger.",
+            "sentence_zh": "市长的讲话未能平息公众怒火。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "镇压（叛乱）",
+        "examples": [
+          {
+            "sentence": "The emperor sent troops to quash the rebellion.",
+            "sentence_zh": "皇帝派兵镇压叛乱。"
+          },
+          {
+            "sentence": "No firewall can quash people's thirst for freedom.",
+            "sentence_zh": "任何防火墙都无法镇压人们对自由的渴望。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quash a rumor",
+        "meaning": "辟谣",
+        "examples": [
+          {
+            "sentence": "Weibo celebrities often hire lawyers to quash rumors.",
+            "sentence_zh": "微博明星常雇佣律师来辟谣。"
+          }
+        ]
+      }
+    ],
+    "teach": "quash是权力の橡皮擦✏️！当法院用它就像删除微信聊天记录🗑️（quash a verdict），政府用它像灭火器🧯（quash riots），而镇压叛乱时像玩打地鼠游戏🔨（quash rebellions）。搭配'quash beef'不是煎牛排，而是化解恩怨🤝！记住：无论撤销判决还是镇压叛乱，都像把东西'压扁'——毕竟它词源就是'粉碎'呀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快闪'→执法人员快闪(quash)到现场镇压",
+        "易混词对比：crush强调物理碾压，quash侧重权威否定"
+      ]
+    }
+  },
+  {
+    "word": "quasi",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "直接源自拉丁语quasi（犹如），原为连词用法，后演变为形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "类似的",
+        "examples": [
+          {
+            "sentence": "The WeChat mini program is a quasi-app that doesn't need installation.",
+            "sentence_zh": "微信小程序是一种无需安装的类应用。"
+          },
+          {
+            "sentence": "His quasi-scientific explanation convinced no one in the lecture hall.",
+            "sentence_zh": "他在礼堂里提出的伪科学解释没能说服任何人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "准的",
+        "examples": [
+          {
+            "sentence": "As a quasi-celebrity, the livestream host gets stopped for selfies in shopping malls.",
+            "sentence_zh": "作为准名人，这位主播在商场里常被拦住合影。"
+          },
+          {
+            "sentence": "The quasi-official statement caused more confusion than clarity.",
+            "sentence_zh": "这份半官方声明引发的困惑比解释更多。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quasi-",
+        "meaning": "前缀表示'半'",
+        "examples": [
+          {
+            "sentence": "Quasi-professional esports players train 10 hours daily.",
+            "sentence_zh": "半职业电竞选手每天训练10小时。"
+          }
+        ]
+      }
+    ],
+    "teach": "quasi就像泡面包装上的'图片仅供参考'🍜！它暗示着'看似是但又不完全是'，比如网红景点的小故宫🏯叫quasi-historical（准历史的），而你家猫主子对你quasi-affectionate（假装深情）的踩奶💕。搭配quasi-legal（准合法的）vpn或quasi-religious（类宗教的）追星行为时，记住这个拉丁词在说：'别太当真~'🎭",
+    "recite": {
+      "tips": [
+        "谐音梗：'快赛'→快赛(quasi)车看起来像赛车但不是",
+        "易混对比：pseudo（伪）含贬义，quasi（准）更中性",
+        "记忆口诀：quasi打头=七分像"
+      ]
+    }
+  },
+  {
+    "word": "quaternary",
+    "etymology": {
+      "breakdown": [
+        "quatern",
+        "ary"
+      ],
+      "meaning_connection": "词根quatern=四（拉丁语quattuor），-ary表形容词后缀→与数字四相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "四个一组的",
+        "examples": [
+          {
+            "sentence": "The quaternary structure of hemoglobin resembles four Lego bricks snapped together.",
+            "sentence_zh": "血红蛋白的四级结构像四个乐高积木拼在一起。"
+          },
+          {
+            "sentence": "Ancient Chinese musical instruments often had quaternary tuning systems.",
+            "sentence_zh": "中国古代乐器常采用四音调律体系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "四元的",
+        "examples": [
+          {
+            "sentence": "This quaternary alloy contains copper, silver, gold and platinum.",
+            "sentence_zh": "这种四元合金含有铜、银、金和铂。"
+          },
+          {
+            "sentence": "Hot pot becomes quaternary when you add mushroom, tomato, spicy and clear soup bases.",
+            "sentence_zh": "当火锅有菌菇、番茄、麻辣和清汤四种锅底时就成了四元火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "四价的",
+        "examples": [
+          {
+            "sentence": "Carbon's quaternary nature allows it to form diverse organic compounds.",
+            "sentence_zh": "碳的四价特性使其能形成多样的有机化合物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "季的",
+        "examples": [
+          {
+            "sentence": "Quaternary ammonium compounds are widely used in disinfectants.",
+            "sentence_zh": "季铵盐化合物广泛用于消毒剂。"
+          }
+        ]
+      }
+    ],
+    "teach": "quaternary是'四字狂魔'4️⃣：地质学第四纪叫Quaternary Period（恐龙灭绝后的新时代）⏳，化学里像四驱车一样有四价轮子🚗，'季'的释义来自古代把一年分四季🍂🌞。记住：看到-tern就想到'踢那四(quatern)个球'⚽⚽⚽⚽！搭配→quaternary industry(第四产业)/quaternary color(四色印刷)",
+    "recite": {
+      "tips": [
+        "谐音梗：'快疼哪'→被四只螃蟹夹了快疼哪(quaternary)",
+        "易混词：quarter(四分之一) vs quaternary(四元的)",
+        "记忆法：把单词拆成QUAT(拼音'跨')+ERN(拼音'二')+ARY→跨过二就到四"
+      ]
+    }
+  },
+  {
+    "word": "quatrain",
+    "etymology": {
+      "breakdown": [
+        "quatre",
+        "ain"
+      ],
+      "meaning_connection": "来自法语quatre(四)+后缀-ain→四行构成的诗节"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "四行诗",
+        "examples": [
+          {
+            "sentence": "Li Bai's quatrain about moonlight is memorized by every Chinese student.",
+            "sentence_zh": "李白那首关于月光的四行诗每个中国学生都会背。"
+          },
+          {
+            "sentence": "The AI generated a quatrain in the style of Tang dynasty poetry.",
+            "sentence_zh": "人工智能生成了一首唐诗风格的四行诗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "heroic quatrain",
+        "meaning": "英雄四行诗（抑扬格五音步押韵abab）",
+        "examples": [
+          {
+            "sentence": "Shakespeare often used heroic quatrain in his sonnets.",
+            "sentence_zh": "莎士比亚常在十四行诗中使用英雄四行诗体。"
+          }
+        ]
+      }
+    ],
+    "teach": "quatrain是诗歌里的'四喜丸子'🍡！最著名的要数杜甫的《绝句》📜（两个黄鹂鸣翠柳）。在西方，abab押韵的叫heroic quatrain（英雄体），就像漫威四大英雄组团🦸♂️。搭配记忆：写quatrain叫compose，背quatrain叫recite。说'打油诗'可叫doggerel（字面意思：狗摇尾巴诗）🐶。记住：绝句=quatrain=4行=四季发财💰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快train'→四行诗像快速列车4节车厢",
+        "易混词：couplet(对句)/tercet(三行诗)",
+        "视觉化：把Q看作4的镜像，UA像诗行排列"
+      ]
+    }
   }
 ]

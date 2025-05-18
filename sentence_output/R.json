@@ -3739,5 +3739,247 @@
         "易混词对比：chemotherapy（化疗）是化学攻击，radiotherapy是物理攻击"
       ]
     }
+  },
+  {
+    "word": "radish",
+    "etymology": {
+      "breakdown": [
+        "rad",
+        "ish"
+      ],
+      "meaning_connection": "词根rad=根（同root），-ish表'类似...的小型物'→'像根茎的小型植物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小萝卜",
+        "examples": [
+          {
+            "sentence": "The pickled radishes in Korean BBQ restaurants are addictive.",
+            "sentence_zh": "韩式烤肉店的腌萝卜让人上瘾。"
+          },
+          {
+            "sentence": "She carved the radish into a rose shape for the salad.",
+            "sentence_zh": "她把萝卜雕成玫瑰形状装饰沙拉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "radish cake",
+        "meaning": "萝卜糕",
+        "examples": [
+          {
+            "sentence": "Cantonese radish cakes taste best with chili sauce.",
+            "sentence_zh": "广式萝卜糕配辣椒酱最美味。"
+          }
+        ]
+      }
+    ],
+    "teach": "radish是蔬菜界的反差萌🥬！它英文名来自'根'(rad)，但中文偏偏叫'萝卜'（其实和'罗'没关系）。西方人用它做沙拉🥗，四川人却做成泡菜🌶️。说'辣得冒汗'可以用sweat like a radish（像萝卜一样出汗），记住：白萝卜叫daikon（来自日语'大根'）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热得洗'→萝卜热得洗冷水澡",
+        "易混词：carrot（胡萝卜颜色更深）",
+        "记忆tip：radish和red无关，白萝卜也用它"
+      ]
+    }
+  },
+  {
+    "word": "radium",
+    "etymology": {
+      "breakdown": [
+        "radi",
+        "um"
+      ],
+      "meaning_connection": "词根radi=辐射，-um表金属元素→具有放射性的金属"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "镭",
+        "examples": [
+          {
+            "sentence": "Madame Curie discovered radium while experimenting with pitchblende.",
+            "sentence_zh": "居里夫人在研究沥青铀矿时发现了镭。"
+          },
+          {
+            "sentence": "The glow of radium dials made watches readable in darkness before LEDs existed.",
+            "sentence_zh": "在LED出现前，镭表盘的光芒让手表在黑暗中也能清晰可读。"
+          }
+        ]
+      }
+    ],
+    "teach": "镭元素是科学界的夜光侠💡！居里夫人发现它时就像在煤矿里找到钻石💎。现在你知道为什么'放射科'叫radiology了吧？搭配说'radium treatment'（镭疗法）和'radium dial'（镭表盘）。地道表达叫'glow like radium'形容人熬夜后精神奕奕（其实是辐射中毒啦☢️）",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷帝嗡'→雷神（radi）的金属（um）武器",
+        "易混对比：radius（半径）vs radium（镭），差个u就像铀矿少个洞"
+      ]
+    }
+  },
+  {
+    "word": "radius",
+    "etymology": {
+      "breakdown": [
+        "radi",
+        "us"
+      ],
+      "meaning_connection": "词根radi=射线/轮辐（如radiation），后缀-us表名词→原指车轮辐条，引申为几何半径和辐射状范围"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "半径",
+        "examples": [
+          {
+            "sentence": "The explosion affected everything within a 5km radius of Tiananmen Square.",
+            "sentence_zh": "爆炸影响天安门广场5公里半径内的一切。"
+          },
+          {
+            "sentence": "Pizza delivery is free within a 3-mile radius.",
+            "sentence_zh": "3英里半径内披萨免费配送。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "范围",
+        "examples": [
+          {
+            "sentence": "The new metro extends the commuting radius of Beijing residents.",
+            "sentence_zh": "新地铁线扩大了北京居民的日常活动范围。"
+          },
+          {
+            "sentence": "WiFi signals have limited radius in concrete buildings.",
+            "sentence_zh": "WiFi信号在混凝土建筑中的覆盖范围有限。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "辐射光线",
+        "examples": [
+          {
+            "sentence": "Sunlight radiates in all directions like the radius of a wheel.",
+            "sentence_zh": "阳光像车轮辐条般向四周辐射光线。"
+          },
+          {
+            "sentence": "The radius of light from the lighthouse cuts through the fog.",
+            "sentence_zh": "灯塔的辐射光线穿透了雾气。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "within a radius of",
+        "meaning": "在...范围内",
+        "examples": [
+          {
+            "sentence": "We found 8 hotpot restaurants within a 500m radius of the hotel.",
+            "sentence_zh": "在酒店500米范围内我们找到8家火锅店。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "action radius",
+        "meaning": "行动半径",
+        "examples": [
+          {
+            "sentence": "Shared bikes increase people's daily action radius significantly.",
+            "sentence_zh": "共享单车大幅增加了人们的日常行动半径。"
+          }
+        ]
+      }
+    ],
+    "teach": "radius其实是'轮辐狂想曲'🚴！古罗马战车的轮辐(radi)决定车轮大小→演变成数学半径📏。说'势力范围'可用sphere of influence（像吃鸡毒圈⭕），但更酷的说法是'my radius covers...'（我的辐射范围包含...）。记住：你的外卖自由由配送radius决定！🍔⚡🌍",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达死'→雷达探测半径(radius)失效",
+        "易混词对比：radius vs. diameter（直径是半径x2）",
+        "联想记忆：画圆时圆规两脚间距=radius"
+      ]
+    }
+  },
+  {
+    "word": "radon",
+    "etymology": {
+      "breakdown": [
+        "rad",
+        "on"
+      ],
+      "meaning_connection": "词根rad=辐射（源自radium镭），后缀-on表示惰性气体（如neon氖）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "氡（放射性惰性气体）",
+        "examples": [
+          {
+            "sentence": "Radon detection is crucial when buying old houses.",
+            "sentence_zh": "购买老房子时检测氡气至关重要。"
+          },
+          {
+            "sentence": "Hot spring areas often have higher radon concentrations.",
+            "sentence_zh": "温泉地区通常氡气浓度较高。"
+          }
+        ]
+      }
+    ],
+    "teach": "氡(Rn)是隐形杀手👻：它像幽灵般从地基渗出，是肺癌第二大诱因☢️。记住'氡气检测'叫radon test，就像给房子做CT扫描🏠。当说'这房有氡'地道表达是hot property（双关'热门房产'和'放射性物质'）💀。防氡三件套：通风/密封/检测器✅",
+    "recite": {
+      "tips": [
+        "视觉联想：rad+on→'辐射开着'的灯泡💡",
+        "易混词：radon vs. carbon（碳）→前者是气体后者是固体"
+      ]
+    }
+  },
+  {
+    "word": "raffia",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自马达加斯加语'rofia'，后通过葡萄牙语传入欧洲"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "酒椰叶纤维（一种棕榈科植物纤维）",
+        "examples": [
+          {
+            "sentence": "The artisan weaved raffia into an exquisite hat resembling a peacock.",
+            "sentence_zh": "工匠将酒椰纤维编织成孔雀造型的精致帽子。"
+          },
+          {
+            "sentence": "Raffia ribbons are trending in eco-friendly gift wrapping this year.",
+            "sentence_zh": "今年环保礼品包装流行使用酒椰纤维缎带。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "raffia palm",
+        "meaning": "酒椰树",
+        "examples": [
+          {
+            "sentence": "Raffia palms can grow taller than a three-story building.",
+            "sentence_zh": "酒椰树能长得比三层楼还高。"
+          }
+        ]
+      }
+    ],
+    "teach": "raffia其实是植物界的塑料袋🌴！这种来自马达加斯加的'天然塑料'能编织成草帽👒、收纳篮🧺甚至拖鞋。想夸人手工好可以说'This is raffia-tastic!'（谐音fantastic），环保控必备的'塑料平替'就是raffia straw（酒椰吸管）♻️。记住：下次喝椰子时，它的远房亲戚可能正变成你桌上的杯垫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来飞啊'→酒椰纤维轻得能飞来飞去",
+        "易混词对比：vs. bamboo（竹子更硬更直）"
+      ]
+    }
   }
 ]

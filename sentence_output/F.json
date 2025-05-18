@@ -3934,5 +3934,338 @@
         "记忆法：fail+ure= fail得很ure（哎呦）"
       ]
     }
+  },
+  {
+    "word": "fain",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'fægen'，意为'高兴的、满足的'，与德语'froh'同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "乐意的",
+        "examples": [
+          {
+            "sentence": "I would be fain to join your hotpot party this weekend.",
+            "sentence_zh": "我很乐意参加本周末的火锅聚会。"
+          },
+          {
+            "sentence": "She was fain to accept the invitation to the Peking opera.",
+            "sentence_zh": "她欣然接受了京剧演出的邀请。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不得不的",
+        "examples": [
+          {
+            "sentence": "He was fain to admit defeat after losing three rounds of mahjong.",
+            "sentence_zh": "输了三圈麻将后，他不得不认输。"
+          },
+          {
+            "sentence": "We were fain to postpone the picnic due to the smog.",
+            "sentence_zh": "由于雾霾，我们不得不推迟野餐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "欣然地",
+        "examples": [
+          {
+            "sentence": "The old man fain shared his mooncake recipes with us.",
+            "sentence_zh": "老人欣然地与我们分享了他的月饼配方。"
+          },
+          {
+            "sentence": "They fain agreed to extend the Spring Festival holiday.",
+            "sentence_zh": "他们欣然地同意延长春节假期。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "would fain",
+        "meaning": "宁愿",
+        "examples": [
+          {
+            "sentence": "I would fain drink tea than coffee in the morning.",
+            "sentence_zh": "早晨我宁愿喝茶也不喝咖啡。"
+          }
+        ]
+      }
+    ],
+    "teach": "fain就像个傲娇表情包😌！表面说'乐意'（fain to help），内心可能是'不得不'（fain to obey）。它自带古风滤镜🎎，莎士比亚常用词，现代多用在诗歌里。要说'勉强同意'可以说grudgingly同意，但用fain就优雅多了✨。记住：当你说'I would fain'时，就像黛玉葬花时半推半就的样子🌸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'费恩'→《权游》小指头说'I would fain'时很费心机",
+        "易混词对比：willing（现代常用） vs fain（古雅）",
+        "记忆tip：想象古人摇着折扇说'fain'的样子"
+      ]
+    }
+  },
+  {
+    "word": "faint",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'feindre'（假装），后引申为'虚弱'与'模糊'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "昏厥",
+        "examples": [
+          {
+            "sentence": "She fell into a faint after standing in the summer heat for hours.",
+            "sentence_zh": "在烈日下站立数小时后，她突然昏厥。"
+          },
+          {
+            "sentence": "The bride's dramatic faint was caught on all the wedding videos.",
+            "sentence_zh": "新娘戏剧性的昏倒画面被所有婚礼视频拍下。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "模糊的",
+        "examples": [
+          {
+            "sentence": "A faint outline of the Great Wall can be seen through the smog.",
+            "sentence_zh": "透过雾霾能看见长城模糊的轮廓。"
+          },
+          {
+            "sentence": "The memory of my first bicycle has become faint over the years.",
+            "sentence_zh": "关于第一辆自行车的记忆随着岁月变得模糊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "微弱的",
+        "examples": [
+          {
+            "sentence": "The faint glow of fireflies lit up the bamboo forest.",
+            "sentence_zh": "萤火虫微弱的光点亮了竹林。"
+          },
+          {
+            "sentence": "There's still a faint hope that my missing AirPods will turn up.",
+            "sentence_zh": "我丢失的AirPods仍有微弱的找回希望。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无力的",
+        "examples": [
+          {
+            "sentence": "He made a faint attempt to resist the durian smell.",
+            "sentence_zh": "他对榴莲味做出了无力的抵抗。"
+          },
+          {
+            "sentence": "The kitten gave a faint meow before falling asleep.",
+            "sentence_zh": "小猫在睡着前发出无力的喵叫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "昏倒",
+        "examples": [
+          {
+            "sentence": "Tourists often faint when trying stinky tofu for the first time.",
+            "sentence_zh": "游客初次尝试臭豆腐时常会昏倒。"
+          },
+          {
+            "sentence": "He nearly fainted upon seeing his credit card bill after Singles' Day.",
+            "sentence_zh": "看到双十一后的信用卡账单时他差点昏倒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变得微弱",
+        "examples": [
+          {
+            "sentence": "The scent of osmanthus faints as winter approaches.",
+            "sentence_zh": "随着冬季临近，桂花香逐渐变得微弱。"
+          },
+          {
+            "sentence": "The phone signal fainted as we entered the mountain area.",
+            "sentence_zh": "进入山区后手机信号变得微弱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "faint of heart",
+        "meaning": "胆小的",
+        "examples": [
+          {
+            "sentence": "This spicy hotpot is not for the faint of heart.",
+            "sentence_zh": "这款麻辣火锅不适合胆小的人。"
+          }
+        ]
+      }
+    ],
+    "teach": "faint是林黛玉式单词💔！当它表示'昏倒'时像被贾宝玉气晕的黛玉🍃（faint from shock）；表示'模糊'时像近视眼看到的马赛克👓（faint outline）；'微弱'时像手机只剩1%电量📱（faint signal）。地道说法：'吓晕'叫scared faint，'快晕了'说I'm about to faint like a Victorian lady🫠",
+    "recite": {
+      "tips": [
+        "谐音梗：'废的'→虚弱(faint)到废的状态",
+        "易混词：feint（假动作）与faint（昏厥）",
+        "记忆tip：把'a'想成小到快消失的模糊点"
+      ]
+    }
+  },
+  {
+    "word": "fainting",
+    "etymology": {
+      "breakdown": [
+        "faint",
+        "ing"
+      ],
+      "meaning_connection": "faint源自拉丁语'frigere'（变冷），-ing表名词化→形容因缺血导致'大脑冷却'的昏厥状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "昏厥",
+        "examples": [
+          {
+            "sentence": "The sight of needles caused instant fainting at the vaccination site.",
+            "sentence_zh": "接种点有人看到针头当场昏厥。"
+          },
+          {
+            "sentence": "Ancient Chinese doctors treated fainting with acupuncture at the philtrum.",
+            "sentence_zh": "古时中医用人中穴针灸治疗昏厥。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不省人事",
+        "examples": [
+          {
+            "sentence": "After 48 hours of gaming, his fainting alarmed his roommates.",
+            "sentence_zh": "连续48小时游戏后，他不省人事的状态吓坏了室友。"
+          },
+          {
+            "sentence": "The fainting spells in historical dramas always involve graceful collapsing onto embroidered cushions.",
+            "sentence_zh": "古装剧里的不省人事戏码总伴随着优雅跌落在绣花垫上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fainting couch",
+        "meaning": "昏睡沙发",
+        "examples": [
+          {
+            "sentence": "Victorian ladies' fainting couches are now hipster café photo spots.",
+            "sentence_zh": "维多利亚时代的昏睡沙发成了网红咖啡馆打卡点。"
+          }
+        ]
+      }
+    ],
+    "teach": "fainting是'断片儿'的优雅说法💫！中世纪淑女靠昏厥逃避相亲🤵（fake fainting），现代人熬夜赶DDL真昏厥💻。说'晕过去了'用地道表达black out，就像被拔了电源的电脑🖥️。记住：看到喜欢的人小鹿乱撞叫butterflies，撞太猛就会fainting哦🦋💘🤯！",
+    "recite": {
+      "tips": [
+        "谐音梗：'费脑停'→大脑费电过度停机",
+        "易混词对比：fainting（短暂昏迷） vs. coma（长期昏迷）",
+        "记忆tip：想象自己是没电的iPhone自动关机"
+      ]
+    }
+  },
+  {
+    "word": "faintly",
+    "etymology": {
+      "breakdown": [
+        "faint",
+        "ly"
+      ],
+      "meaning_connection": "faint源自古法语'feint'（虚弱的），-ly是副词后缀→原指'像虚弱状态般'的模糊感"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "微弱地",
+        "examples": [
+          {
+            "sentence": "The fireflies glowed faintly like dying phone screens in the dark.",
+            "sentence_zh": "萤火虫在黑暗中微弱发光，像快没电的手机屏幕。"
+          },
+          {
+            "sentence": "Grandma's radio still plays faintly after 30 years of service.",
+            "sentence_zh": "奶奶的收音机用了30年还能微弱发声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "模糊地",
+        "examples": [
+          {
+            "sentence": "I could faintly remember the lyrics of that 2008 Olympic song.",
+            "sentence_zh": "我只能模糊记得2008奥运那首歌的歌词。"
+          },
+          {
+            "sentence": "The mountain is faintly visible through heavy smog.",
+            "sentence_zh": "透过严重雾霾，山影模糊可见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "朦胧地",
+        "examples": [
+          {
+            "sentence": "Moonlight faintly illuminated the couple eating spicy crayfish at 2am.",
+            "sentence_zh": "月光朦胧地照着凌晨两点吃麻辣小龙虾的情侣。"
+          },
+          {
+            "sentence": "Her childhood memories came back faintly when smelling this laundry soap.",
+            "sentence_zh": "闻到这款洗衣皂时，她的童年记忆朦胧浮现。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "faintly amused",
+        "meaning": "略感好笑",
+        "examples": [
+          {
+            "sentence": "The judge was faintly amused by the defendant's emoji-filled affidavit.",
+            "sentence_zh": "法官对被告充满表情符号的宣誓书略感好笑。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "faintly visible",
+        "meaning": "隐约可见",
+        "examples": [
+          {
+            "sentence": "The Great Wall is faintly visible from space with naked eyes.",
+            "sentence_zh": "长城在太空中肉眼隐约可见。"
+          }
+        ]
+      }
+    ],
+    "teach": "faintly就像手机只剩5%电量📱！古人说'灯如豆'是faintly glowing💡，现代人说'信号弱'是faintly connected📶。要形容'几乎不'可以说faintly noticeable（比barely更文艺），说'隐约记得'用faintly recall就像隔雾看花🌸。记住：所有快消失的东西都能用faintly！",
+    "recite": {
+      "tips": [
+        "谐音梗：'粉底离'→粉底掉妆后脸色微弱(faintly)",
+        "易混词对比：faintly（主观感受）vs slightly（客观轻微）",
+        "记忆tip：想象微信语音那条快消失的声波图"
+      ]
+    }
   }
 ]

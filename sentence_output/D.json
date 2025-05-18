@@ -3750,5 +3750,305 @@
         "记忆tip：把'dan-druff'拆成'蛋-粗糙'→蛋壳粗糙易脱落"
       ]
     }
+  },
+  {
+    "word": "dandy",
+    "etymology": {
+      "breakdown": [
+        "dand",
+        "y"
+      ],
+      "meaning_connection": "可能源自苏格兰语'dandie'（自负的人）+形容词后缀-y"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "花花公子",
+        "examples": [
+          {
+            "sentence": "The Victorian dandy spent three hours tying his cravat every morning.",
+            "sentence_zh": "这位维多利亚时代的花花公子每天早晨要花三小时打领结。"
+          },
+          {
+            "sentence": "Modern dandies in Beijing's Sanlitun wear peacock-feather pocket squares.",
+            "sentence_zh": "北京三里屯的现代花花公子们戴着孔雀羽毛胸巾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "服装浮华的",
+        "examples": [
+          {
+            "sentence": "His dandy outfit with golden embroidery shocked the whole mahjong club.",
+            "sentence_zh": "他那件金线刺绣的浮华服装震惊了整个麻将馆。"
+          },
+          {
+            "sentence": "The dandy peacock struts like a supermodel on the catwalk.",
+            "sentence_zh": "那只衣着浮华的孔雀像超模般在T台上昂首阔步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "极好的",
+        "examples": [
+          {
+            "sentence": "This dandy new bubble tea flavor tastes like liquid rainbow.",
+            "sentence_zh": "这款极好的新奶茶口味喝起来像液态彩虹。"
+          },
+          {
+            "sentence": "Your Cantonese pronunciation is dandy, better than most locals!",
+            "sentence_zh": "你的粤语发音极好，比大多数本地人都地道！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dandy brush",
+        "meaning": "马刷（源于花花公子爱马传统）",
+        "examples": [
+          {
+            "sentence": "She uses a dandy brush to groom her Pomeranian like a show dog.",
+            "sentence_zh": "她用马刷把博美犬打理得像赛级犬。"
+          }
+        ]
+      }
+    ],
+    "teach": "dandy是开屏孔雀🦚！19世纪伦敦的Beau Brummel每天花5小时打扮，用香槟擦皮鞋🍾，创造了dandy文化。说'帅炸了'可夸That's dandy! 搭配：1)dandy style（浮夸风） 2)look dandy（打扮靓仔）。地道表达：'装逼犯'叫dandy wannabe👔。记住：真正的dandy连遛狗都要穿三件套！",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛋挞弟'→穿金戴银的蛋挞店小开",
+        "易混词对比：dandy vs. fop（前者含赞赏，后者纯贬义）",
+        "记忆tip：想象周润发在《上海滩》的造型+郭德纲的大褂混搭"
+      ]
+    }
+  },
+  {
+    "word": "Dane",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "直接源自古诺尔斯语'Danr'，指斯堪的纳维亚半岛的居民"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "丹麦人",
+        "examples": [
+          {
+            "sentence": "The Dane brought authentic Danish pastries to the international food festival.",
+            "sentence_zh": "这位丹麦人带着正宗丹麦酥参加国际美食节。"
+          },
+          {
+            "sentence": "As a Dane, he always corrects people who confuse Denmark with Holland.",
+            "sentence_zh": "作为丹麦人，他总在纠正把丹麦和荷兰搞混的人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Great Dane",
+        "meaning": "大丹犬（原产丹麦的大型犬）",
+        "examples": [
+          {
+            "sentence": "Her Great Dane thinks it's a lapdog and tries to sit on visitors.",
+            "sentence_zh": "她的大丹犬以为自己是个小宠物，总想往客人腿上坐。"
+          },
+          {
+            "sentence": "The Great Dane's head is bigger than my rice cooker.",
+            "sentence_zh": "这只大丹犬的脑袋比我的电饭煲还大。"
+          }
+        ]
+      }
+    ],
+    "teach": "Dane是维京后裔⚔️，他们发明了乐高积木🧩和hygge（舒适哲学）🛋️。说'纯种丹麦人'叫full-blooded Dane，就像原装进口的曲奇饼🍪。记住：Danish pastry在丹麦本地其实叫wienerbrød（维也纳面包），因为配方来自奥地利！",
+    "recite": {
+      "tips": [
+        "谐音梗：'带呢'→带呢(Dane)子去丹麦",
+        "易混词对比：Deer（鹿）和Dane发音相似，但一个是动物一个是北欧人"
+      ]
+    }
+  },
+  {
+    "word": "danger",
+    "etymology": {
+      "breakdown": [
+        "dang",
+        "er"
+      ],
+      "meaning_connection": "古法语‘dangier’原指‘领主权力’，后演变为‘可能造成伤害的状况’"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "危险",
+        "examples": [
+          {
+            "sentence": "Climbing Mount Qomolangma without oxygen is pure danger.",
+            "sentence_zh": "无氧攀登珠穆朗玛峰纯粹是危险行为。"
+          },
+          {
+            "sentence": "The chef waved his cleaver with reckless danger.",
+            "sentence_zh": "厨师挥舞菜刀的样子危险至极。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "威胁",
+        "examples": [
+          {
+            "sentence": "Pandas may look cute but their bite is a real danger.",
+            "sentence_zh": "熊猫看着可爱但咬起来可是真威胁。"
+          },
+          {
+            "sentence": "The dark clouds signaled the danger of heavy rain.",
+            "sentence_zh": "乌云预示着暴雨威胁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in danger",
+        "meaning": "处于危险中",
+        "examples": [
+          {
+            "sentence": "My sleep schedule is in grave danger during the World Cup.",
+            "sentence_zh": "世界杯期间我的作息处于严重危险中。"
+          }
+        ]
+      }
+    ],
+    "teach": "danger其实是个‘当哥儿’👑！中世纪时原指领主的绝对权力（dang+er后缀），后来演变成‘让人瑟瑟发抖的危险’💀。要说‘极度危险’可以叫red alert（红色警戒），‘虚惊一场’是false alarm🚨。记住：看到danger标志就像遇到暴躁的哥斯拉，快跑！🏃♂️💨",
+    "recite": {
+      "tips": [
+        "谐音梗：‘单脚’→单脚走钢丝很danger",
+        "易混词对比：danger（客观危险） vs. risk（主观冒险）"
+      ]
+    }
+  },
+  {
+    "word": "dangerous",
+    "etymology": {
+      "breakdown": [
+        "danger",
+        "ous"
+      ],
+      "meaning_connection": "danger来自古法语'dangier'（领主权威），后演变为'危险'，-ous表示'具有...性质的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "危险的",
+        "examples": [
+          {
+            "sentence": "TikTok challenges sometimes encourage dangerous stunts like the milk crate challenge.",
+            "sentence_zh": "抖音挑战有时会鼓励牛奶箱叠叠乐这类危险特技。"
+          },
+          {
+            "sentence": "Eating durian while drinking cola is scientifically proven not actually dangerous.",
+            "sentence_zh": "科学证明榴莲配可乐其实并不危险。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dangerous goods",
+        "meaning": "危险品",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot base is considered dangerous goods in international shipping.",
+            "sentence_zh": "麻辣火锅底料在国际运输中被列为危险品。"
+          }
+        ]
+      }
+    ],
+    "teach": "dangerous本质是'当哥的'👑→中世纪领主(danger原义)喜怒无常很危险！现代版危险就像：1)直播吃死神辣椒🌶️ 2)用5G手机拍闪电⚡。要说'玩火'用play with fire，'高危行为'叫walk on thin ice。记住：dangerous程度分三级——蚊子包（itchy）、重庆火锅（spicy）、拆盲盒（risky）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'蹬着肉丝'→踩着肉丝袜很危险",
+        "易混词：dangerous（客观危险） vs. risky（主观冒险）"
+      ]
+    }
+  },
+  {
+    "word": "dangerously",
+    "etymology": {
+      "breakdown": [
+        "danger",
+        "ous",
+        "ly"
+      ],
+      "meaning_connection": "词根danger=危险，-ous表形容词后缀，-ly变副词→危险地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "危险地",
+        "examples": [
+          {
+            "sentence": "The influencer danced dangerously close to the cliff edge for likes.",
+            "sentence_zh": "网红为获点赞在悬崖边缘危险起舞。"
+          },
+          {
+            "sentence": "Pandas rolling downhill dangerously look cute but terrify zookeepers.",
+            "sentence_zh": "熊猫危险滚下山的样子萌翻游客却吓坏饲养员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不安全地",
+        "examples": [
+          {
+            "sentence": "The building leaned dangerously after the earthquake.",
+            "sentence_zh": "地震后大楼以不安全的角度倾斜着。"
+          },
+          {
+            "sentence": "He was driving dangerously while live-streaming.",
+            "sentence_zh": "他边直播边不安全地驾驶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dangerously close",
+        "meaning": "危险地接近",
+        "examples": [
+          {
+            "sentence": "The AI came dangerously close to passing the Turing test.",
+            "sentence_zh": "该人工智能危险地接近通过图灵测试。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dangerously addictive",
+        "meaning": "危险地上瘾",
+        "examples": [
+          {
+            "sentence": "Hot pot is dangerously addictive in winter.",
+            "sentence_zh": "火锅在冬日令人危险地上瘾。"
+          }
+        ]
+      }
+    ],
+    "teach": "dangerously是'作死模式'🚨！就像在玻璃栈道跳广场舞💃（dangerously dance），或像用5G信号塔涮火锅🍲（dangerously hot）。搭配'dangerously handsome'指帅到让人犯罪😎，'玩火'说play with fire比dangerously更地道。记住：-ly结尾的副词常让危险指数飙升📈！",
+    "recite": {
+      "tips": [
+        "谐音梗：'蹬着肉死'→踩着肉危险行走",
+        "易混词：dangerous(adj.) vs dangerously(adv.)"
+      ]
+    }
   }
 ]

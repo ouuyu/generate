@@ -3874,5 +3874,269 @@
         "记忆法：把idiom拆成I（我）+dio（日语'声音'）+m（妈）→我妈说我讲话像外星语"
       ]
     }
+  },
+  {
+    "word": "idiomatic",
+    "etymology": {
+      "breakdown": [
+        "idiom",
+        "atic"
+      ],
+      "meaning_connection": "idiom=习语/方言，后缀-atic=与...相关→原指'方言特有的'，后引申为'符合语言习惯的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "符合语言习惯的",
+        "examples": [
+          {
+            "sentence": "Saying 'break a leg' is more idiomatic than 'good luck' in theater.",
+            "sentence_zh": "在剧院里说'断条腿'比说'祝好运'更符合语言习惯。"
+          },
+          {
+            "sentence": "Adding 'la' at the end makes your Mandarin sound more idiomatic.",
+            "sentence_zh": "在句尾加'啦'会让你的普通话听起来更地道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "惯用的",
+        "examples": [
+          {
+            "sentence": "The idiomatic way to hold chopsticks baffles many foreigners.",
+            "sentence_zh": "拿筷子的惯用方式让很多外国人困惑。"
+          },
+          {
+            "sentence": "Her idiomatic use of emojis makes her texts instantly recognizable.",
+            "sentence_zh": "她对表情符号的惯用方式让人一眼就能认出她的短信。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有许多习语的",
+        "examples": [
+          {
+            "sentence": "English is highly idiomatic — every cat and dog seems to have its own phrase!",
+            "sentence_zh": "英语充满习语——仿佛每只猫狗都有专属短语！"
+          },
+          {
+            "sentence": "Cantonese opera scripts are notoriously idiomatic with ancient slang.",
+            "sentence_zh": "粤剧剧本因充满古语习语而 notoriously 难懂。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "idiomatic expression",
+        "meaning": "习惯表达",
+        "examples": [
+          {
+            "sentence": "'Add oil' is an idiomatic expression exported from Chinese to English.",
+            "sentence_zh": "'加油'是从中文输出到英语的习惯表达。"
+          }
+        ]
+      }
+    ],
+    "teach": "idiomatic就像语言界的螺蛳粉🍜——本地人觉得香(符合习惯)，外地人直呼'这也能算食物？！'🌶️。英语习语'raining cats and dogs'下猫狗雨🐱🐶，中文说'倾盆大雨'像倒洗脚盆🦶。记住：当老外问你'吃了吗'，别认真回答菜单，这是idiomatic问候！🤪 搭配：1) sound idiomatic 听起来地道 2) become idiomatic 变成习惯用法 3) 吐槽'不地道'说：That sounds like Google Translate!",
+    "recite": {
+      "tips": [
+        "谐音梗：'以爹妈为例'→用爹妈的习惯(idiomatic)说话",
+        "对比记忆：idiomatic(地道的) vs ironic(讽刺的)",
+        "视觉联想：把单词拆成'I die(我死) + o(哦) + matic(自动的)'→'我死哦'是自动的地道反应"
+      ]
+    }
+  },
+  {
+    "word": "idiopathic",
+    "etymology": {
+      "breakdown": [
+        "idio",
+        "path",
+        "ic"
+      ],
+      "meaning_connection": "词根idio=独特的/自身的，path=疾病，-ic=形容词后缀→字面意为'自身发生的疾病'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "自发的",
+        "examples": [
+          {
+            "sentence": "Her idiopathic laughter during meetings confused everyone.",
+            "sentence_zh": "她在会议中突然的自发性大笑让所有人困惑不已。"
+          },
+          {
+            "sentence": "The garden's idiopathic flower bloom defied seasonal patterns.",
+            "sentence_zh": "花园里花朵违反季节规律的自发绽放。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "原发的",
+        "examples": [
+          {
+            "sentence": "Idiopathic entrepreneurship often stems from childhood experiences.",
+            "sentence_zh": "原发性的创业动力常源自童年经历。"
+          },
+          {
+            "sentence": "The artist's idiopathic creativity needed no external stimulation.",
+            "sentence_zh": "这位艺术家原发性的创造力不需要外部刺激。"
+          }
+        ]
+      }
+    ],
+    "teach": "idiopathic是医学界的'佛系'标签🏷️！就像突然想吃火锅的冲动🍲（idiopathic craving），医生遇到查不出原因的病症就盖章'特发性'（就像程序员说'偶现bug'🤖）。记住：idio=独特的（如idiot最初指'特立独行的人'），path=痛苦（如sympathy=同感痛苦）。搭配→idiopathic origin(特发性病因)/idiopathic talent(天赋异禀) 💫",
+    "recite": {
+      "tips": [
+        "谐音梗：'一地鸭趴着'→鸭子突然(idiopathic)集体趴窝",
+        "易混词：idiomatic(地道的) vs idiopathic(自发的)",
+        "记忆法：拆解为'I do my own PATH'（我走自己的病路）"
+      ]
+    }
+  },
+  {
+    "word": "idiosyncrasy",
+    "etymology": {
+      "breakdown": [
+        "idio",
+        "syn",
+        "crasy"
+      ],
+      "meaning_connection": "idio=独特的，syn=共同，crasy=混合→原指'独特的混合方式'，引申为个人特质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "独特气质",
+        "examples": [
+          {
+            "sentence": "His idiosyncrasy of collecting subway tickets charmed everyone.",
+            "sentence_zh": "他收集地铁票的独特气质迷倒了所有人。"
+          },
+          {
+            "sentence": "The director's idiosyncrasy is wearing mismatched socks during filming.",
+            "sentence_zh": "这位导演的独特气质是拍戏时总穿错配袜子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "鲜明特性",
+        "examples": [
+          {
+            "sentence": "Spicy crayfish is the culinary idiosyncrasy of Hunan province.",
+            "sentence_zh": "麻辣小龙虾是湖南省的美食特性。"
+          },
+          {
+            "sentence": "The app's idiosyncrasy is using panda emojis as error messages.",
+            "sentence_zh": "这款应用的鲜明特性是用熊猫表情当错误提示。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "个人风格",
+        "examples": [
+          {
+            "sentence": "Her teaching idiosyncrasy involves using memes to explain grammar.",
+            "sentence_zh": "她用网络梗讲语法的个人风格很受欢迎。"
+          },
+          {
+            "sentence": "The café's idiosyncrasy is serving bubble tea in traditional tea cups.",
+            "sentence_zh": "这家咖啡馆用传统茶具装奶茶的个人风格很独特。"
+          }
+        ]
+      }
+    ],
+    "teach": "idiosyncrasy是'人设'的精髓🎭！就像四川人自带火锅底料体质🌶️（spicy idiosyncrasy），或程序员用代码写情书💻（nerdy idiosyncrasy）。搭配：have a peculiar idiosyncrasy（有怪癖）、cultural idiosyncrasy（文化特性）。说'这人很特别'可以讲He's full of idiosyncrasies，就像行走的盲盒！🦄🎨🤹",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱迪生crazy'→发明狂的爱迪生特质",
+        "易混词：characteristic（普遍特征） vs idiosyncrasy（独特属性）",
+        "记忆法：拆成ID(身份证)+IO(输入输出)+SYNC(同步)→用身份证同步你的独特设定"
+      ]
+    }
+  },
+  {
+    "word": "idiosyncratic",
+    "etymology": {
+      "breakdown": [
+        "idio",
+        "syn",
+        "crat",
+        "ic"
+      ],
+      "meaning_connection": "idio=独特的，syn=共同，crat=统治/力量，ic=形容词后缀→字面义'独特的内在特性'，后引申为'特立独行的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "特质的",
+        "examples": [
+          {
+            "sentence": "Her idiosyncratic way of folding dumplings makes them look like baby pandas.",
+            "sentence_zh": "她包饺子的独特手法让饺子看起来像小熊猫。"
+          },
+          {
+            "sentence": "The CEO's idiosyncratic habit of wearing slippers to meetings became a company legend.",
+            "sentence_zh": "CEO穿拖鞋开会的独特习惯成了公司传奇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "异质的",
+        "examples": [
+          {
+            "sentence": "This idiosyncratic mix of boba tea and Sichuan pepper shocks foreigners.",
+            "sentence_zh": "珍珠奶茶加花椒的异质组合让老外震惊。"
+          },
+          {
+            "sentence": "The artist's idiosyncratic style blends Peking opera with street graffiti.",
+            "sentence_zh": "这位艺术家将京剧与街头涂鸦异质混搭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "特殊的",
+        "examples": [
+          {
+            "sentence": "His idiosyncratic talent for remembering every takeout order amazed his colleagues.",
+            "sentence_zh": "他记住每份外卖的特殊才能让同事惊叹。"
+          },
+          {
+            "sentence": "The idiosyncratic architecture of the CCTV building looks like giant pants.",
+            "sentence_zh": "央视大楼的特殊造型像条巨型裤子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "idiosyncratic taste",
+        "meaning": "独特品味",
+        "examples": [
+          {
+            "sentence": "Her idiosyncratic taste in fashion makes her the queen of thrift shops.",
+            "sentence_zh": "她对时尚的独特品味让她成为二手店女王。"
+          }
+        ]
+      }
+    ],
+    "teach": "idiosyncratic是'社牛'的反义词🤪！词根idio=独特的（像idiot最初指'不与世俗同流者'），想象梵高割耳朵👂这种idiosyncratic行为。搭配：'idiosyncratic humor'（比如用健康码颜色讲冷笑话），'idiosyncratic logic'（像用麻将规则解释相对论）。地道说法叫'quirky as a three-dollar bill'（像三美元假钞般怪异）🎭💫🦄",
+    "recite": {
+      "tips": [
+        "谐音梗：'一定吸氧c位客'→特立独行到缺氧的C位观众",
+        "易混词：eccentric（刻意古怪） vs idiosyncratic（天然独特）",
+        "记忆法：拆解为'I do（我坚持）+ sync（同步失败）+ cratic（统治）'→我坚持不同步的统治"
+      ]
+    }
   }
 ]

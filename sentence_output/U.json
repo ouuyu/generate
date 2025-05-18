@@ -3690,5 +3690,289 @@
         "记忆tip：UN（联合国）+altered→联合国宪章unaltered"
       ]
     }
+  },
+  {
+    "word": "unambiguous",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "ambigu",
+        "ous"
+      ],
+      "meaning_connection": "前缀un-表否定，词根ambigu=两可的（来自拉丁语ambigere'徘徊'），后缀-ous表性质→毫不徘徊的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不含糊的",
+        "examples": [
+          {
+            "sentence": "The teacher gave unambiguous instructions: 'Submit before 11:59PM or it's chicken feed!'",
+            "sentence_zh": "老师给出不含糊的指示：'晚上11:59前提交，否则薪水变鸡饲料！'"
+          },
+          {
+            "sentence": "Xi Jinping's speech delivered an unambiguous message about Taiwan.",
+            "sentence_zh": "习近平的讲话传达了关于台湾问题的明确信号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "明确的",
+        "examples": [
+          {
+            "sentence": "The pregnancy test showed unambiguous double lines.",
+            "sentence_zh": "验孕棒显示出明确的两道杠。"
+          },
+          {
+            "sentence": "TikTok's algorithm makes unambiguous recommendations based on your 3AM browsing history.",
+            "sentence_zh": "TikTok算法会根据你凌晨三点的浏览记录给出明确推荐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "unambiguous evidence",
+        "meaning": "确凿证据",
+        "examples": [
+          {
+            "sentence": "The 4K surveillance video provided unambiguous evidence of the panda stealing bamboo.",
+            "sentence_zh": "4K监控视频为大熊猫偷竹子提供了确凿证据。"
+          }
+        ]
+      }
+    ],
+    "teach": "unambiguous是'糊弄学'克星🚫🤔！词根ambigu本指'两条路徘徊'（像在淘宝犹豫该买哪个手机📱），加un-就像交警直接封路🚧。搭配'unambiguous answer'像老妈催婚时说的'明年带对象回来'💍，'unambiguous rules'好比健康码规则变红就隔离🔴。记住：老板说'unambiguous deadline'时，就像高铁发车绝不等人🚄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不干比优斯'→奥特曼明确拒绝（比优斯：某奥特曼名字）",
+        "易混词对比：ambiguous（模糊的）vs unequivocal（完全同义但更正式）",
+        "记忆tip：想象把'模糊滤镜'APP点卸载按钮的样子"
+      ]
+    }
+  },
+  {
+    "word": "unambiguously",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "ambigu",
+        "ous",
+        "ly"
+      ],
+      "meaning_connection": "前缀un-表否定，词根ambigu来自拉丁语'ambigere'(徘徊不定)，-ous形容词后缀，-ly副词后缀→字面意思'不徘徊地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "明白地",
+        "examples": [
+          {
+            "sentence": "The traffic sign unambiguously prohibits U-turns with a giant red X.",
+            "sentence_zh": "交通标志用巨大的红色X明明白白禁止掉头。"
+          },
+          {
+            "sentence": "She unambiguously declared her love by writing 'Marry me?' on the Great Wall.",
+            "sentence_zh": "她在长城上写下'嫁给我？'明白无误地表白了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不含糊地",
+        "examples": [
+          {
+            "sentence": "The contract states unambiguously that overtime pay equals 3x hotpot meals.",
+            "sentence_zh": "合同不含糊地写明加班费相当于三顿火锅。"
+          },
+          {
+            "sentence": "His WeChat status unambiguously reads: 'Single as a pringle'.",
+            "sentence_zh": "他微信状态不含糊地写着：'单身如薯片'。"
+          }
+        ]
+      }
+    ],
+    "teach": "unambiguously就像超级直男发言💬：词根ambigu是'暧昧'（想想ambiguous模棱两可），加上un-就变成钢铁直男式表达🗣️。用它时想象用广场舞大喇叭喊话📢（speak unambiguously），或者像健康码红绿分明🚦（show unambiguously）。搭配：'明确拒绝'→refuse unambiguously like declining 拼多多砍一刀，'清晰标注'→label unambiguously like 奶茶甜度选择。",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺必跪了'→表达清楚到让人跪下",
+        "易混词对比：ambiguous（暧昧的）vs unambiguous（斩钉截铁的）",
+        "记忆tip：想象把'不明觉厉'砍掉前两个字"
+      ]
+    }
+  },
+  {
+    "word": "unambitious",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "ambit",
+        "ious"
+      ],
+      "meaning_connection": "前缀un-表否定，词根ambit=环绕/野心（来自拉丁语ambire'四处奔走'），-ious为形容词后缀→字面指'不四处奔走的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无名利心的",
+        "examples": [
+          {
+            "sentence": "The unambitious scholar prefers reading in his rural cottage.",
+            "sentence_zh": "这位淡泊名利的学者更爱在乡间小屋里读书。"
+          },
+          {
+            "sentence": "Her unambitious attitude towards fame surprised the entertainment industry.",
+            "sentence_zh": "她对名声的淡泊态度让娱乐圈惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无野心的",
+        "examples": [
+          {
+            "sentence": "Pandas are wonderfully unambitious creatures, content with bamboo and naps.",
+            "sentence_zh": "熊猫是毫无野心的可爱生物，有竹子和午睡就满足。"
+          },
+          {
+            "sentence": "Unlike his Wall Street peers, he's perfectly unambitious about promotions.",
+            "sentence_zh": "与华尔街同事不同，他对升职毫无野心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "谦虚的",
+        "examples": [
+          {
+            "sentence": "Her unambitious description of her Nobel Prize impressed everyone.",
+            "sentence_zh": "她对诺贝尔奖的谦逊描述令人印象深刻。"
+          },
+          {
+            "sentence": "The CEO's unambitious office reflects his humble personality.",
+            "sentence_zh": "这位CEO简朴的办公室反映了他谦虚的个性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "blissfully unambitious",
+        "meaning": "知足常乐的",
+        "examples": [
+          {
+            "sentence": "Retired in a tea plantation, he's blissfully unambitious nowadays.",
+            "sentence_zh": "退休后在茶园生活，他现在过着知足常乐的日子。"
+          }
+        ]
+      }
+    ],
+    "teach": "unambitious其实是社畜终极梦想💤！词根ambit来自古罗马政客四处拉票🗳️，加un-变成'不折腾'佛系人生。形容'与世无争'说live an unambitious life像熊猫啃竹子🎋，'清心寡欲'叫blissfully unambitious就像退休大爷遛鸟🦜。记住：当同事疯狂内卷时，你就是办公室里最unambitious的崽！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺没别事儿'→佛系人生就是unambitious",
+        "易混词对比：ambitious（有野心的）像冲锋号，unambitious像催眠曲",
+        "记忆tip：拆解为un+ambition（野心）+ious，字面即'没有野心的'"
+      ]
+    }
+  },
+  {
+    "word": "unamused",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "amuse",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，amuse来自古法语'amuser'（使分心），-ed构成形容词→字面'没有被娱乐的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不觉得有趣的",
+        "examples": [
+          {
+            "sentence": "The panda looked unamused when tourists imitated its chewing.",
+            "sentence_zh": "当游客模仿熊猫咀嚼时，它露出不爽的表情。"
+          },
+          {
+            "sentence": "Her unamused expression said everything about the dad joke.",
+            "sentence_zh": "她无动于衷的表情已经说明对这个冷笑话的态度。"
+          }
+        ]
+      }
+    ],
+    "teach": "unamused是'冷漠.jpg'的最佳注解😑！想象你给猫主子讲微积分时它的眼神🐱（unamused stare），或领导看员工摸鱼时的死亡凝视👔。搭配：'remain unamused'（持续冷漠）比说'I'm not happy'更高级，比如'甲方爸爸对我们的方案remain unamused'。记住：当有人说'very funny'但嘴角抽搐时，他其实deeply unamused！",
+    "recite": {
+      "tips": [
+        "谐音梗：'油腻缪zd'→被油腻笑话缪杀(unamused)的表情",
+        "易混词对比：amused（被逗乐）≠ bemused（困惑的）",
+        "记忆tip：拆解为U+Name+Used→当别人乱念你名字(U name used wrong)时的表情"
+      ]
+    }
+  },
+  {
+    "word": "unanimity",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "anim",
+        "ity"
+      ],
+      "meaning_connection": "前缀un-=单一/整体，词根anim=精神/思想，-ity表状态→全体思想统一的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "无异议",
+        "examples": [
+          {
+            "sentence": "The decision was made with surprising unanimity among the committee.",
+            "sentence_zh": "委员会出人意料地无异议通过了该决议。"
+          },
+          {
+            "sentence": "Unanimity in the jury room is as rare as a panda sneeze.",
+            "sentence_zh": "陪审团内部达成无异议的概率堪比熊猫打喷嚏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "全体一致",
+        "examples": [
+          {
+            "sentence": "The UN Security Council rarely achieves unanimity on major issues.",
+            "sentence_zh": "联合国安理会很少在重大议题上取得全体一致。"
+          },
+          {
+            "sentence": "Our family reached unanimity on ordering spicy hotpot for dinner.",
+            "sentence_zh": "我们全家全体一致同意晚餐点麻辣火锅。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "reach unanimity",
+        "meaning": "达成一致",
+        "examples": [
+          {
+            "sentence": "After 8 hours of debate, the team finally reached unanimity on the logo design.",
+            "sentence_zh": "经过8小时争论，团队最终就LOGO设计达成一致。"
+          }
+        ]
+      }
+    ],
+    "teach": "unanimity是'灵魂共鸣'名场面✨！词根anim代表灵魂（如animation动画），全员同频就像演唱会大合唱🎤+荧光海🌌。要吐槽'全票通过'可以说rubber-stamp approval（橡皮图章式批准），'达成共识'叫forge unanimity像打铁🔨。记住：这个单词自带【感动中国】BGM！",
+    "recite": {
+      "tips": [
+        "谐音梗：'油纳米腻'→全体一致投票选食用油品牌",
+        "易混词：unanimity强调结果，consensus侧重过程"
+      ]
+    }
   }
 ]
