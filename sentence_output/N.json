@@ -13328,5 +13328,321 @@
         "易混词对比：nervous纯负面焦虑，nervy含褒义胆量"
       ]
     }
+  },
+  {
+    "word": "ness",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'næss'，直接指'海角'，无进一步词根拆分"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "海角",
+        "examples": [
+          {
+            "sentence": "The lighthouse stood boldly on the ness, guiding ships through stormy nights.",
+            "sentence_zh": "灯塔矗立在海角上，在暴风雨之夜为船只指引方向。"
+          },
+          {
+            "sentence": "We picnicked on the grassy ness, watching waves crash against three sides of the land.",
+            "sentence_zh": "我们在长满草的海角上野餐，看着海浪拍打陆地的三面。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "ness是地理界的'三明治角'🥪：三面环水的陆地就像被大海咬了一口的吐司🍞。苏格兰有Inverness（因弗内斯），名字直白到像在说'来水里住吧'🏴。搭配说'storm-battered ness'（风暴肆虐的海角）或'ness dweller'（海角居民），地道表达用'Land's End'（天涯海角）更浪漫🌊🗺️",
+    "recite": {
+      "tips": [
+        "视觉记忆：把ness倒过来变成'ssen'，像波浪冲刷岬角的形状🌊",
+        "易混词对比：cape（大海角） vs ness（小海角）"
+      ]
+    }
+  },
+  {
+    "word": "nest",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'nest'，与德语'Nest'同源，模拟鸟类用枝条编织的环状结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "巢",
+        "examples": [
+          {
+            "sentence": "The weaver bird's nest swayed like a Christmas ornament in the wind.",
+            "sentence_zh": "织巢鸟的巢像圣诞装饰品在风中摇晃。"
+          },
+          {
+            "sentence": "My messy hair looks like a sparrow's nest every morning.",
+            "sentence_zh": "每天早晨我的乱发都像麻雀窝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "窝",
+        "examples": [
+          {
+            "sentence": "The fox returned to its hidden nest under the roots.",
+            "sentence_zh": "狐狸回到树根下的隐蔽窝点。"
+          },
+          {
+            "sentence": "This cozy teahouse is my Sunday afternoon nest.",
+            "sentence_zh": "这家舒适茶馆是我周日下午的安乐窝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "休息所",
+        "examples": [
+          {
+            "sentence": "The mountaintop cabin became their love nest for the weekend.",
+            "sentence_zh": "山顶小屋成了他们周末的爱巢。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "筑巢",
+        "examples": [
+          {
+            "sentence": "Swallows are nesting under our eaves again this spring.",
+            "sentence_zh": "今年春天燕子又在我们的屋檐下筑巢了。"
+          },
+          {
+            "sentence": "The couple nested in a tiny studio after marriage.",
+            "sentence_zh": "这对夫妇婚后蜗居在小工作室里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使套叠",
+        "examples": [
+          {
+            "sentence": "Russian dolls nest perfectly inside each other.",
+            "sentence_zh": "俄罗斯套娃能严丝合缝地嵌套在一起。"
+          },
+          {
+            "sentence": "The programmer nested three loops in this algorithm.",
+            "sentence_zh": "程序员在这个算法中嵌套了三重循环。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nest egg",
+        "meaning": "储备金",
+        "examples": [
+          {
+            "sentence": "Her crypto nest egg shrank by 60% last month.",
+            "sentence_zh": "她的加密货币储备金上月缩水60%。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "feather one's nest",
+        "meaning": "中饱私囊",
+        "examples": [
+          {
+            "sentence": "The corrupt official feathered his nest with red envelope money.",
+            "sentence_zh": "贪官用红包钱中饱私囊。"
+          }
+        ]
+      }
+    ],
+    "teach": "nest是个万能收纳盒🗃️！当鸟巢时是树枝编织的3D打印作品🐦，当'窝'时像你家乱糟糟的电竞房🎮，套叠功能堪比俄罗斯套娃🪆。记住：'筑巢'就像程序员写嵌套代码时{ { [ ( ) ] } }层层套娃，而'储备金'叫nest egg就像母鸡孵金蛋💰。地道说法：'宅家不出门'叫nesting like a hermit crab！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶丝特'→用奶丝(nice)特柔软的材料做窝",
+        "易混词：net(网) vs nest(巢)",
+        "记忆法：nest字母排列像鸟站在枝头(N)眺望(E)，下面有弯枝(S)和落脚点(T)"
+      ]
+    }
+  },
+  {
+    "word": "nested",
+    "etymology": {
+      "breakdown": [
+        "nest",
+        "ed"
+      ],
+      "meaning_connection": "名词nest（鸟巢）+后缀-ed→像鸟巢一样层层套叠的结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "嵌套的",
+        "examples": [
+          {
+            "sentence": "Russian nesting dolls are the most famous nested toys in the world.",
+            "sentence_zh": "俄罗斯套娃是世界上最著名的嵌套玩具。"
+          },
+          {
+            "sentence": "The AI used nested loops to solve the Sudoku puzzle.",
+            "sentence_zh": "人工智能使用嵌套循环来解数独谜题。"
+          }
+        ]
+      }
+    ],
+    "teach": "nested就像宇宙版'套娃'🪆！从代码嵌套到洋葱结构🧅，连《盗梦空间》都是nested dream（嵌套梦境）🌌。程序员最恨'nested errors'就像剥洋葱流泪😭，但'嵌套优惠'（nested discounts）能让奶茶买一送十🍵！记住：任何'套中套'都能用nested形容！",
+    "recite": {
+      "tips": [
+        "视觉记忆：想象微信朋友圈的九宫格照片，点开还有九宫格，就是典型的nested结构",
+        "易混词对比：nested（主动嵌套） vs embedded（被动嵌入）"
+      ]
+    }
+  },
+  {
+    "word": "nesting",
+    "etymology": {
+      "breakdown": [
+        "nest",
+        "ing"
+      ],
+      "meaning_connection": "源自nest（鸟巢）+ -ing（名词后缀），原指鸟类筑巢行为，后借喻为计算机中层层包含的结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "嵌套",
+        "examples": [
+          {
+            "sentence": "The nesting level of this function is like Russian dolls.",
+            "sentence_zh": "这个函数的嵌套层级就像俄罗斯套娃。"
+          },
+          {
+            "sentence": "Excel fans scream when seeing 10-layer nesting formulas.",
+            "sentence_zh": "看到10层嵌套公式时Excel爱好者会尖叫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nested loop",
+        "meaning": "嵌套循环",
+        "examples": [
+          {
+            "sentence": "Debugging nested loops feels like finding a needle in a Matryoshka doll.",
+            "sentence_zh": "调试嵌套循环就像在俄罗斯套娃里找针。"
+          }
+        ]
+      }
+    ],
+    "teach": "nesting就像代码界的鸟巢🪺！想象你写了个for循环套if再套while——这比鸟妈妈筑巢还忙🐦💻。程序员说'嵌套太深'用nested hell形容（地狱级嵌套），'简化嵌套'叫flatten the code（压平代码）。记住：好的嵌套像千层蛋糕🍰，坏的嵌套像一团耳机线🎧！",
+    "recite": {
+      "tips": [
+        "视觉记忆：代码缩进→鸟巢年轮",
+        "易混词：nesting（结构）/recursion（递归）"
+      ]
+    }
+  },
+  {
+    "word": "nestle",
+    "etymology": {
+      "breakdown": [
+        "nest",
+        "le"
+      ],
+      "meaning_connection": "词根nest=鸟巢，-le表反复动作→像小鸟反复调整巢中姿势"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "舒适地坐定",
+        "examples": [
+          {
+            "sentence": "The cat nestled in the sunbeam like a furry pancake.",
+            "sentence_zh": "猫咪像毛茸茸的煎饼般窝在阳光里。"
+          },
+          {
+            "sentence": "After hiking, we nestled into the beanbag chairs instantly.",
+            "sentence_zh": "徒步后我们立刻陷进豆袋椅里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "挨靠",
+        "examples": [
+          {
+            "sentence": "The village nestles against the Great Wall like a sleeping baby.",
+            "sentence_zh": "村庄如同熟睡的婴儿依偎着长城。"
+          },
+          {
+            "sentence": "Her head naturally nestled on his shoulder during the movie.",
+            "sentence_zh": "看电影时她的脑袋自然而然靠在他肩上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抱",
+        "examples": [
+          {
+            "sentence": "Grandma nestled the puppy in her apron like a precious bun.",
+            "sentence_zh": "奶奶把小狗像珍贵包子似的裹在围裙里。"
+          },
+          {
+            "sentence": "He nestled the thermos in his arms during the snowstorm.",
+            "sentence_zh": "暴风雪中他把保温杯搂在怀里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "安置",
+        "examples": [
+          {
+            "sentence": "She nestled the porcelain figure between two cushions.",
+            "sentence_zh": "她把瓷偶小心安置在两个靠垫之间。"
+          },
+          {
+            "sentence": "The jeweler nestled the diamond in velvet like a bird's egg.",
+            "sentence_zh": "珠宝匠将钻石如鸟蛋般安置在天鹅绒上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nestle down",
+        "meaning": "舒服地躺下",
+        "examples": [
+          {
+            "sentence": "After hotpot, we nestled down for a food coma.",
+            "sentence_zh": "吃完火锅后我们瘫着进入食物昏迷状态。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "nestle among",
+        "meaning": "掩映在...中",
+        "examples": [
+          {
+            "sentence": "The teahouse nestles among bamboo groves.",
+            "sentence_zh": "茶馆掩映在竹林中。"
+          }
+        ]
+      }
+    ],
+    "teach": "nestle是终极舒适动词🛋️！想象你像奶茶里的珍珠🧋窝在杯底（nestle down），或像胡同里的四合院🏡偎着邻居（nestle among）。'安置古董'叫nestle要像放茶叶蛋般温柔🍵，说'依偎'直接用nestle against比lean更撒娇！记住：所有需要'窝/偎/安放'的场景，都是nestle的舞台🎭。",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶丝透'→抱着奶茶(nestle)透心凉",
+        "易混词对比：cuddle（拥抱）更主动，nestle（依偎）更被动"
+      ]
+    }
   }
 ]

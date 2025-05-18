@@ -12557,5 +12557,335 @@
         "记忆tip：词尾-st=second person（第二人称）"
       ]
     }
+  },
+  {
+    "word": "cant",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'cantus'（歌曲）→中世纪演变为'祈祷用语'→引申为'伪善言语'；'斜面/角落'义项可能来自古诺尔斯语'kantr'（边缘）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "伪善之言",
+        "examples": [
+          {
+            "sentence": "Politicians' cant about equality often contradicts their actions.",
+            "sentence_zh": "政客们关于平等的伪善言辞常与行为相矛盾。"
+          },
+          {
+            "sentence": "The cult leader's spiritual cant deceived many followers.",
+            "sentence_zh": "邪教领袖的精神空话欺骗了许多信徒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "黑话",
+        "examples": [
+          {
+            "sentence": "The thieves communicated in criminal cant during the heist.",
+            "sentence_zh": "劫案中窃贼用犯罪黑话交流。"
+          },
+          {
+            "sentence": "Cybersecurity experts decoded the hackers' technical cant.",
+            "sentence_zh": "网络安全专家破译了黑客的技术黑话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "斜面",
+        "examples": [
+          {
+            "sentence": "The carpenter measured the 15-degree cant of the roof.",
+            "sentence_zh": "木匠测量了屋顶15度的斜面。"
+          },
+          {
+            "sentence": "Skateboarders love ramps with sudden cants for tricks.",
+            "sentence_zh": "滑板爱好者喜欢玩突然倾斜的坡道技巧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "角落",
+        "examples": [
+          {
+            "sentence": "Ancient books were hidden in the cant of the monastery wall.",
+            "sentence_zh": "古籍藏在修道院墙壁的角落。"
+          },
+          {
+            "sentence": "The stray cat curled up in the cant between two buildings.",
+            "sentence_zh": "流浪猫蜷缩在两栋建筑间的角落里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "讲黑话",
+        "examples": [
+          {
+            "sentence": "Undercover agents learned to cant like drug dealers.",
+            "sentence_zh": "卧底探员学着像毒贩一样说黑话。"
+          },
+          {
+            "sentence": "Gamers cant about 'GG' and 'noob' during matches.",
+            "sentence_zh": "玩家在比赛中说着'GG'和'菜鸟'之类的黑话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "倾斜",
+        "examples": [
+          {
+            "sentence": "The Tower of Pisa visibly cants at 3.97 degrees.",
+            "sentence_zh": "比萨斜塔以3.97度明显倾斜。"
+          },
+          {
+            "sentence": "Drunk pedestrians cant sideways like falling dominoes.",
+            "sentence_zh": "醉酒行人像倒下的多米诺骨牌般歪斜行走。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in cant",
+        "meaning": "用黑话表达",
+        "examples": [
+          {
+            "sentence": "The graffiti was written in thieves' cant.",
+            "sentence_zh": "涂鸦是用盗贼黑话写的。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cant over",
+        "meaning": "向某侧倾斜",
+        "examples": [
+          {
+            "sentence": "The overloaded truck canted dangerously to the left.",
+            "sentence_zh": "超载卡车危险地向左侧倾斜。"
+          }
+        ]
+      }
+    ],
+    "teach": "cant是个精分单词🤪！当它表示'黑话'时像程序员说'增删改查'💻，表示'伪善之言'时像微商鸡汤'跟着我暴富'💰，'斜面'时堪比比萨斜塔🍕，'倾斜'时模仿醉汉走猫步🍷。地道表达：'说套话'叫speak in cant（用黑话），'歪斜角度'叫cant angle（就像歪头杀自拍🤳）！记住：cant是语言和物理的双重扭曲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'砍他'→用黑话(cant)密谋砍他",
+        "易混词：can't（不能）vs cant（黑话/倾斜）"
+      ]
+    }
+  },
+  {
+    "word": "cantankerous",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能来自中古英语'contakour'(好争论者)+后缀-ous，像吵架时锅碗瓢盆(can tank)乱响的拟声联想"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "专爱唱反调的",
+        "examples": [
+          {
+            "sentence": "The cantankerous professor always argues about pineapple on pizza.",
+            "sentence_zh": "这位爱唱反调的教授总为披萨上加菠萝的事争论不休。"
+          },
+          {
+            "sentence": "My cantankerous cat meows loudly when I sing Jay Chou's songs.",
+            "sentence_zh": "我家爱抬杠的猫每次听我唱周杰伦的歌都要大声抗议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "爱吵架的",
+        "examples": [
+          {
+            "sentence": "The cantankerous old man yelled at kids for stepping on his mahjong shadows.",
+            "sentence_zh": "这个暴躁老头因为小孩踩到他的麻将影子就破口大骂。"
+          },
+          {
+            "sentence": "She became cantankerous when her Douyin video got 0 likes.",
+            "sentence_zh": "当抖音视频收获0赞时，她变得特别爱找茬。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cantankerous as a rattlesnake",
+        "meaning": "暴躁如响尾蛇",
+        "examples": [
+          {
+            "sentence": "The traffic jam made him cantankerous as a rattlesnake.",
+            "sentence_zh": "堵车让他暴躁得像条响尾蛇。"
+          }
+        ]
+      }
+    ],
+    "teach": "cantankerous是行走的ETC自动抬杠机🚧！词源可能模仿吵架时锅(can)碗瓢盆(tank)乱响🎵，形容像《九品芝麻官》里的方唐镜般专业唱反调。要说'杠精'可以说controversialist，'暴躁期'叫cantankerous phase🐉。记住：遇到cantankerous的人，就像遇到疯狂星期四的暴躁文案——躲远点！",
+    "recite": {
+      "tips": [
+        "谐音梗：'砍坦克肉丝'→砍坦克的暴躁肉丝",
+        "易混词：contentious(好争论的)不带拟声感"
+      ]
+    }
+  },
+  {
+    "word": "cantata",
+    "etymology": {
+      "breakdown": [
+        "cant",
+        "ata"
+      ],
+      "meaning_connection": "词根cant=歌唱（来自拉丁语cantare），-ata为意大利语后缀表'作品'→字面意思是'被演唱的作品'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "康塔塔（巴洛克时期的声乐套曲）",
+        "examples": [
+          {
+            "sentence": "Bach's coffee cantata humorously sings about caffeine addiction.",
+            "sentence_zh": "巴赫的《咖啡康塔塔》诙谐地歌唱咖啡因成瘾。"
+          },
+          {
+            "sentence": "The Easter cantata requires three soloists and a chamber orchestra.",
+            "sentence_zh": "这部复活节康塔塔需要三位独唱家和一支室内乐团。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大合唱（现代泛指）",
+        "examples": [
+          {
+            "sentence": "The school cantata featured 200 children singing about pandas.",
+            "sentence_zh": "学校大合唱由200名儿童演唱熊猫主题曲。"
+          },
+          {
+            "sentence": "We're rehearsing a cantata that mixes Peking opera with rap.",
+            "sentence_zh": "我们正在排练一部融合京剧和说唱的大合唱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chamber cantata",
+        "meaning": "室内康塔塔",
+        "examples": [
+          {
+            "sentence": "This delicate chamber cantata was composed for a Venetian wedding.",
+            "sentence_zh": "这部精致的室内康塔塔为威尼斯婚礼而作。"
+          }
+        ]
+      }
+    ],
+    "teach": "cantata其实是'唱他大'🎵：巴洛克时期贵族开着趴体💃，突然有人递上乐谱说'来唱他哒！'（cantata）。现代版就像《黄河大合唱》混搭广场舞🦚，要说'合唱走音'叫sound like cats in love（发情的猫），'飙高音'叫hit the ceiling note🧨。记住：没有奶茶的排练厅，cantata唱成can't-data！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看塔塔'→看塔塔(cantata)合唱团",
+        "易混词：sonata（奏鸣曲，纯器乐）/cantata（必含人声）",
+        "记忆桩：想象教堂(cathedral)里的蚂蚁(ant)在唱ATA航空主题曲"
+      ]
+    }
+  },
+  {
+    "word": "canteen",
+    "etymology": {
+      "breakdown": [
+        "cant",
+        "een"
+      ],
+      "meaning_connection": "源自法语'cantine'，原指军用饮料容器，后缀-een表小型，后泛指各类便携容器及服务设施"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "水壶",
+        "examples": [
+          {
+            "sentence": "The hiker's canteen froze solid during the Everest expedition.",
+            "sentence_zh": "登山者的水壶在珠峰探险期间冻成了冰块。"
+          },
+          {
+            "sentence": "This vintage army canteen still smells like 1970s coffee.",
+            "sentence_zh": "这个复古军用水壶还散发着1970年代咖啡的气味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "军中俱乐部",
+        "examples": [
+          {
+            "sentence": "The canteen was where soldiers learned to play mahjong during WWII.",
+            "sentence_zh": "二战期间，士兵们正是在军中俱乐部学会了打麻将。"
+          },
+          {
+            "sentence": "Modern military canteens now have KTV and bubble tea machines.",
+            "sentence_zh": "现代军中俱乐部已配备KTV和奶茶机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "临时流动餐馆",
+        "examples": [
+          {
+            "sentence": "Construction site canteens serve the spiciest Sichuan food in town.",
+            "sentence_zh": "工地流动餐馆供应全城最辣的川菜。"
+          },
+          {
+            "sentence": "The film crew's canteen accidentally became a viral noodle stand.",
+            "sentence_zh": "剧组的流动餐车意外成了网红面摊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小卖部",
+        "examples": [
+          {
+            "sentence": "Our school canteen secretly sells smuggled Japanese snacks.",
+            "sentence_zh": "学校小卖部偷偷贩卖走私的日本零食。"
+          },
+          {
+            "sentence": "The hospital canteen's instant noodles are more expensive than the ER.",
+            "sentence_zh": "医院小卖部的泡面比急诊室挂号费还贵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "canteen culture",
+        "meaning": "食堂文化（特指封闭群体的特殊氛围）",
+        "examples": [
+          {
+            "sentence": "Police canteen culture often involves dark humor as stress relief.",
+            "sentence_zh": "警局食堂文化常包含作为减压方式的黑色幽默。"
+          }
+        ]
+      }
+    ],
+    "teach": "canteen是变形金刚🤖！作为水壶像骆驼的驼峰🐫（hold water）；作为军中俱乐部变成棋牌室♠️（play cards）；当流动餐馆时是移动火锅车🍲（serve food）；变小卖部就成了零食黑市🍫（sell goods）。最魔幻的是英国军校canteen真卖过防弹奶茶☕️！学生党必备搭配：'canteen auntie'（小卖部阿姨）和'canteen legs'（抢饭飞毛腿）",
+    "recite": {
+      "tips": [
+        "谐音梗：'砍厅'→军中俱乐部像被砍出来的大厅",
+        "易混词：canteen vs. cafeteria（后者专指固定餐厅）"
+      ]
+    }
   }
 ]

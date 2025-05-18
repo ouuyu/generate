@@ -12931,5 +12931,340 @@
         "记忆tip：想象拒绝相亲时甩手(off-hand)说'下次再说'的样子"
       ]
     }
+  },
+  {
+    "word": "office",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fic",
+        "e"
+      ],
+      "meaning_connection": "前缀of-表示'工作'，词根fic表示'做'，-e为名词后缀→原指'工作场所'，引申为'机构/职位'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "办公室",
+        "examples": [
+          {
+            "sentence": "The WeWork office has nap pods and free boba tea.",
+            "sentence_zh": "这家WeWork办公室配备午睡舱和免费奶茶。"
+          },
+          {
+            "sentence": "Her office smells like stinky tofu because of the snack corner.",
+            "sentence_zh": "因为零食角的存在，她的办公室闻起来像臭豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "部（政府机构）",
+        "examples": [
+          {
+            "sentence": "The Office for Cybersecurity caught 10,000 hackers last year.",
+            "sentence_zh": "网络安全部去年抓获了1万名黑客。"
+          },
+          {
+            "sentence": "This document comes from the Mayor's Office.",
+            "sentence_zh": "这份文件来自市长办公室。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "公职",
+        "examples": [
+          {
+            "sentence": "He took office as the youngest village chief in history.",
+            "sentence_zh": "他就任史上最年轻的村长。"
+          },
+          {
+            "sentence": "The scandal forced her out of office.",
+            "sentence_zh": "丑闻迫使她离职。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "职责",
+        "examples": [
+          {
+            "sentence": "It's the office of the teacher to inspire students.",
+            "sentence_zh": "激励学生是教师的职责。"
+          },
+          {
+            "sentence": "The priest performed the last offices for the dying man.",
+            "sentence_zh": "神父为垂死者履行最后职责。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take office",
+        "meaning": "就职",
+        "examples": [
+          {
+            "sentence": "The new CEO will take office during the Mid-Autumn Festival.",
+            "sentence_zh": "新CEO将在中秋节期间就任。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "office hours",
+        "meaning": "办公时间/师生面谈时间",
+        "examples": [
+          {
+            "sentence": "Professor Wang's office hours conflict with hotpot night.",
+            "sentence_zh": "王教授的答疑时间和火锅之夜冲突了。"
+          }
+        ]
+      }
+    ],
+    "teach": "office的隐藏剧情：古罗马官员(office holder)在柱廊下处理公务🏛️，现代打工人却在格子间里抢充电口🔋！形容'加班'说burn the midnight oil（点灯熬油），'摸鱼'叫coffee badging（刷脸打卡后溜走）☕。记住：在office里，你不是在take office（任职），就是在out of office（离职）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥菲斯'→希腊神话里的办公室(office)之神",
+        "易混词：official（官方的）vs. officer（军官）",
+        "记忆链：office→official→officiate（主持）"
+      ]
+    }
+  },
+  {
+    "word": "officer",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fic",
+        "er"
+      ],
+      "meaning_connection": "前缀of-表示'对抗'，词根fic表示'做'，后缀-er表人→原指执行对抗/公务的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "军官",
+        "examples": [
+          {
+            "sentence": "The PLA officer trained recruits with Tibetan mastiffs.",
+            "sentence_zh": "这位解放军军官用藏獒训练新兵。"
+          },
+          {
+            "sentence": "Napoleon was promoted to artillery officer at 24.",
+            "sentence_zh": "拿破仑24岁就升任炮兵军官。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "主管",
+        "examples": [
+          {
+            "sentence": "The chief happiness officer distributed durian to employees.",
+            "sentence_zh": "首席幸福官向员工分发榴莲。"
+          },
+          {
+            "sentence": "As a compliance officer, her job is to stop staff from embezzling hotpot ingredients.",
+            "sentence_zh": "作为合规主管，她的工作是防止员工挪用火锅食材。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "官员",
+        "examples": [
+          {
+            "sentence": "The customs officer confiscated my pineapple bun for having real pineapple.",
+            "sentence_zh": "海关官员没收了我的菠萝包，因为里面有真菠萝。"
+          },
+          {
+            "sentence": "Diplomatic officers eat Peking duck upside-down in foreign countries.",
+            "sentence_zh": "外交官员在国外倒着吃北京烤鸭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "公务员",
+        "examples": [
+          {
+            "sentence": "Civil service officers in China take the world's hardest exam.",
+            "sentence_zh": "中国公务员参加全球最难的考试。"
+          },
+          {
+            "sentence": "The tax officer calculated my owed amount with an abacus for fun.",
+            "sentence_zh": "税务公务员用算盘计算我的欠税金额来取乐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "指挥",
+        "examples": [
+          {
+            "sentence": "She officered the construction of the Bird's Nest while eating malatang.",
+            "sentence_zh": "她边吃麻辣烫边指挥鸟巢的建造。"
+          },
+          {
+            "sentence": "The chef officered his kitchen like a military operation.",
+            "sentence_zh": "主厨像军事行动一样指挥厨房。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "police officer",
+        "meaning": "警官",
+        "examples": [
+          {
+            "sentence": "The police officer solved the case by tracking stolen stinky tofu.",
+            "sentence_zh": "警官通过追踪被盗臭豆腐破案。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "officer of the law",
+        "meaning": "执法人员",
+        "examples": [
+          {
+            "sentence": "As an officer of the law, he carries handcuffs and chili oil.",
+            "sentence_zh": "作为执法人员，他随身携带手铐和辣椒油。"
+          }
+        ]
+      }
+    ],
+    "teach": "officer是行走的'权杖'⚔️：源自罗马军官(of+fic=对抗执行者)。军官佩剑叫sidearm就像现代公务员带保温杯🍵。说'官僚主义'用red tape(红胶带)，'基层公务员'叫frontline officers就像火锅店服务员🥢。记住：军官用枪指挥，主管用PPT发号施令！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噢肥蛇'→肥胖的蛇(officer)当警官",
+        "易混词：official（官方的）vs officer（官员）"
+      ]
+    }
+  },
+  {
+    "word": "official",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fic",
+        "ial"
+      ],
+      "meaning_connection": "前缀of-表示'朝向'，词根fic表示'做'，后缀-ial表性质→原指'执行公务的人或事物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "官员",
+        "examples": [
+          {
+            "sentence": "The Olympic official wore a panda-shaped badge during the ceremony.",
+            "sentence_zh": "那位奥运官员在仪式上佩戴着熊猫造型徽章。"
+          },
+          {
+            "sentence": "Village officials organize mooncake-making contests every Mid-Autumn Festival.",
+            "sentence_zh": "村干部每年中秋节都会组织做月饼比赛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "公务员",
+        "examples": [
+          {
+            "sentence": "My aunt quit being a tax official to sell spicy crayfish online.",
+            "sentence_zh": "我阿姨辞去税务公务员工作转行网上卖麻辣小龙虾。"
+          },
+          {
+            "sentence": "The customs official checked my suitcase full of chili sauce carefully.",
+            "sentence_zh": "海关公务员仔细检查了我装满辣椒酱的行李箱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "职员",
+        "examples": [
+          {
+            "sentence": "The bank official helped me set up Alipay with an ancient abacus on display.",
+            "sentence_zh": "那位银行职员一边帮我开通支付宝，一边展示古董算盘。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "公务的",
+        "examples": [
+          {
+            "sentence": "His official WeChat account only shares policy documents and cat memes.",
+            "sentence_zh": "他的公务微信号只发政策文件和猫咪表情包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "官方的",
+        "examples": [
+          {
+            "sentence": "The official Douyin account of the Forbidden City sells文创雪糕.",
+            "sentence_zh": "故宫官方抖音账号售卖文创雪糕。"
+          },
+          {
+            "sentence": "COVID-19 official data updates were slower than grandma's neighborhood gossip network.",
+            "sentence_zh": "疫情官方数据更新速度还赶不上小区大妈的八卦传播网。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "正式的",
+        "examples": [
+          {
+            "sentence": "Her official job title is 'Chief Tea Brewing Officer' at the tech company.",
+            "sentence_zh": "她在科技公司的正式职称是'首席泡茶官'。"
+          },
+          {
+            "sentence": "The panda's official diplomatic passport photo looked extra fluffy.",
+            "sentence_zh": "熊猫外交护照上的正式证件照看起来毛特别蓬松。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "official language",
+        "meaning": "官方语言",
+        "examples": [
+          {
+            "sentence": "Putonghua is the official language but local dialects make life flavorful.",
+            "sentence_zh": "普通话是官方语言，但方言让生活更有滋味。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "official visit",
+        "meaning": "正式访问",
+        "examples": [
+          {
+            "sentence": "The president's official visit included a hotpot banquet and karaoke showdown.",
+            "sentence_zh": "总统的正式访问行程包含火锅宴和K歌对决。"
+          }
+        ]
+      }
+    ],
+    "teach": "official是'带公章的人'📜：古代fic（做）公务要盖of（朝向）皇帝的章🐉。说'走流程'叫go through official channels就像取快递要扫码📦，'红头文件'叫official document比圣旨还严肃🏮。记住：带official的就像带了防伪标签！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥菲收'→奥菲（official）收公文",
+        "易混对比：officer（军官）vs official（文官）就像武警小哥哥和窗口公务员小姐姐"
+      ]
+    }
   }
 ]

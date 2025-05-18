@@ -13343,5 +13343,309 @@
         "易混词对比：waveform（波形）vs wavelength（波长）"
       ]
     }
+  },
+  {
+    "word": "wavelength",
+    "etymology": {
+      "breakdown": [
+        "wave",
+        "length"
+      ],
+      "meaning_connection": "wave=波，length=长度→'波的长度'即波长"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "波长",
+        "examples": [
+          {
+            "sentence": "5G networks use shorter wavelengths than 4G for faster speeds.",
+            "sentence_zh": "5G网络使用比4G更短的波长来实现更快的速度。"
+          },
+          {
+            "sentence": "The artist chose colors based on their light wavelengths.",
+            "sentence_zh": "艺术家根据光的波长选择颜色。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on the same wavelength",
+        "meaning": "心有灵犀",
+        "examples": [
+          {
+            "sentence": "We're totally on the same wavelength about hotpot dipping sauces!",
+            "sentence_zh": "我们对火锅蘸料的选择完全心有灵犀！"
+          }
+        ]
+      }
+    ],
+    "teach": "wavelength是物理界的'社交距离'📏！长波像广场舞大妈缓慢摇摆💃，短波像奶茶店排队时的焦急抖腿☕。当说'on the same wavelength'时，就像你和闺蜜同时想喝珍珠奶茶🧋（实用搭配：radio wavelength/light wavelength）。'频道不同'英语说on different wavelengths，就像你想吃火锅对象却想减肥🥗。记住：波长决定你们能否'共振'！",
+    "recite": {
+      "tips": [
+        "视觉联想：WiFi信号格📶就是不同波长",
+        "易混词：wavelet（小波）≠ wavelength",
+        "其他：彩虹🌈就是可见光波长连续体"
+      ]
+    }
+  },
+  {
+    "word": "wavelet",
+    "etymology": {
+      "breakdown": [
+        "wave",
+        "let"
+      ],
+      "meaning_connection": "wave表示'波浪'，后缀-let表示'小的'→字面意思就是'小波浪'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小浪",
+        "examples": [
+          {
+            "sentence": "Children were jumping over wavelets at the beach.",
+            "sentence_zh": "孩子们在海滩上跳过小浪花。"
+          },
+          {
+            "sentence": "The boat rocked gently on the wavelets of the lake.",
+            "sentence_zh": "小船在湖面的微波上轻轻摇晃。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "微波",
+        "examples": [
+          {
+            "sentence": "The microwave oven uses wavelets to heat food quickly.",
+            "sentence_zh": "微波炉利用微波快速加热食物。"
+          },
+          {
+            "sentence": "Scientists studied the wavelets in the electromagnetic spectrum.",
+            "sentence_zh": "科学家们研究了电磁波谱中的微波。"
+          }
+        ]
+      }
+    ],
+    "teach": "wavelet就像大海的mini版本🌊！想象冲浪选手说：'这浪太小了'（tiny wavelet），就像奶茶里的珍珠太小吸不上来🧋。记住：wavelet是wave的'崽崽版'，就像emoji里的🌊和💦的区别。说'微波'时记住微波炉加热原理♨️，搭配：'ripple wavelet'(涟漪微波)/'ocean wavelet'(海洋微波)。地道表达：'That's just a wavelet compared to tsunami'（比起海啸这只是小浪花）",
+    "recite": {
+      "tips": [
+        "谐音梗：'微芙蕾'→像微型的舒芙蕾(wavelet)甜品",
+        "易混词对比：wave(波浪) vs. ripple(涟漪) vs. wavelet(小浪)",
+        "记忆tip：结尾-let就像let's make it smaller"
+      ]
+    }
+  },
+  {
+    "word": "waver",
+    "etymology": {
+      "breakdown": [
+        "wav",
+        "er"
+      ],
+      "meaning_connection": "词根wav=波浪状移动，后缀-er表人或物→原指'制造波浪的人'，引申为不稳定状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "动摇者",
+        "examples": [
+          {
+            "sentence": "The politician was known as a waver during the Brexit debates.",
+            "sentence_zh": "这位政客在脱欧辩论中以立场动摇著称。"
+          },
+          {
+            "sentence": "In the stock market, wavers often miss the best opportunities.",
+            "sentence_zh": "股市中的犹豫者常错失最佳时机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "挥动者",
+        "examples": [
+          {
+            "sentence": "The flag wavers at Tiananmen Square perform precise movements.",
+            "sentence_zh": "天安门广场的旗手们有着精准的挥旗动作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "摇摆",
+        "examples": [
+          {
+            "sentence": "Willow branches waver like green hair in the spring breeze.",
+            "sentence_zh": "柳枝在春风中如绿发般摇曳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "颤抖",
+        "examples": [
+          {
+            "sentence": "Her voice wavered when speaking about the Sichuan earthquake.",
+            "sentence_zh": "提及汶川地震时她的声音颤抖了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "犹豫",
+        "examples": [
+          {
+            "sentence": "Don't waver when choosing between hotpot and barbecue!",
+            "sentence_zh": "在火锅和烧烤之间选择时别犹豫！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "waver between",
+        "meaning": "在...之间摇摆不定",
+        "examples": [
+          {
+            "sentence": "He wavered between studying abroad or taking gaokao.",
+            "sentence_zh": "他在出国留学和参加高考间举棋不定。"
+          }
+        ]
+      }
+    ],
+    "teach": "waver是精神界的海草舞🌊！物理摇摆像抖音网红'波浪摇'📱（waver in wind），心理犹豫像选择困难症患者面对奶茶菜单🧋（waver between options）。搭配'voice wavered'比'说话发抖'更地道，说'立场不坚定'可以用on the waver🌗。记住：风吹草动是waver，三心二意也是waver！",
+    "recite": {
+      "tips": [
+        "谐音梗：'萎喔'→精神萎靡(waver)时发出'喔...'的犹豫声",
+        "易混词：wave是主动挥手，waver是被动摇摆"
+      ]
+    }
+  },
+  {
+    "word": "wavering",
+    "etymology": {
+      "breakdown": [
+        "waver",
+        "ing"
+      ],
+      "meaning_connection": "词根waver来自古英语'wæfre'（飘动的），-ing构成形容词后缀→描述持续摇摆或犹豫的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "摇摆的",
+        "examples": [
+          {
+            "sentence": "The wavering candlelight created ghostly shadows in the temple.",
+            "sentence_zh": "摇曳的烛光在寺庙里投下诡谲的影子。"
+          },
+          {
+            "sentence": "Her wavering ponytail looked like a happy puppy's tail.",
+            "sentence_zh": "她摇摆的马尾辫像快乐小狗的尾巴。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "抖动的",
+        "examples": [
+          {
+            "sentence": "The old man's wavering voice betrayed his nervousness.",
+            "sentence_zh": "老人颤抖的声音暴露了他的紧张。"
+          },
+          {
+            "sentence": "My phone keeps showing wavering signals in the subway.",
+            "sentence_zh": "我手机在地铁里信号总是抖动不稳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "犹豫不决的",
+        "examples": [
+          {
+            "sentence": "His wavering attitude frustrated both his girlfriend and his mom.",
+            "sentence_zh": "他犹豫不决的态度让女友和妈妈都很崩溃。"
+          },
+          {
+            "sentence": "The wavering voter finally chose the candidate with free milk tea coupons.",
+            "sentence_zh": "那个犹豫的选民最终选择了送奶茶优惠券的候选人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "动摇的",
+        "examples": [
+          {
+            "sentence": "After seeing the salary offer, her wavering determination to quit vanished.",
+            "sentence_zh": "看到薪资报价后，她离职的动摇决心立刻消失了。"
+          },
+          {
+            "sentence": "The team's wavering confidence was boosted by their coach's spicy hotpot invitation.",
+            "sentence_zh": "教练请吃麻辣火锅后，队伍动摇的信心被重燃了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wavering faith",
+        "meaning": "动摇的信仰",
+        "examples": [
+          {
+            "sentence": "Even his wavering faith in humanity was restored by the stranger's kindness.",
+            "sentence_zh": "陌生人的善意甚至修复了他对人性的动摇信念。"
+          }
+        ]
+      }
+    ],
+    "teach": "wavering就像被狂风吹的芦苇🌾+选择恐惧症患者点奶茶🧋的混合体！物理上形容摇动（如信号不稳📶），心理上形容纠结（像在'要香菜吗'的选项前反复横跳）。搭配'wavering attention'（走神的注意力）和'wavering flame'（风中残烛🔥），要说'特别犹豫'可以吐槽某人'shaking like a jelly in earthquake'（抖得像地震中的布丁）🍮",
+    "recite": {
+      "tips": [
+        "谐音梗：'威武ring'→威武手机来电震动（但信号不稳ring不动）",
+        "对比记忆：wavering（持续摇摆） vs. hesitant（短暂犹豫）",
+        "联想：微信消息'正在输入...'那个反复跳动的省略号"
+      ]
+    }
+  },
+  {
+    "word": "waving",
+    "etymology": {
+      "breakdown": [
+        "wave",
+        "ing"
+      ],
+      "meaning_connection": "词根wave=波浪，-ing构成形容词表示'具有...特性的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "波浪状的",
+        "examples": [
+          {
+            "sentence": "Her waving hair looked like ocean waves under the sunset.",
+            "sentence_zh": "她波浪状的头发在夕阳下如同海浪。"
+          },
+          {
+            "sentence": "The artist painted waving wheat fields with golden strokes.",
+            "sentence_zh": "画家用金色笔触描绘出波浪状的麦田。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "waving是'浪里个浪'🌊的完美写照！这个词自带BGM《浪花一朵朵》，想象张惠妹在演唱会上甩动wave发型🎤。描述'大波浪'可以说big waves like ocean rollers，'自然卷'则是natural waves🦁。记住：看到waving就想起海飞丝广告里慢镜头飘柔的头发！",
+    "recite": {
+      "tips": [
+        "视觉联想：字母w本身就是波浪形状",
+        "易混词对比：waiving（放弃）是'挥别'→挥手(waive)告别"
+      ]
+    }
   }
 ]

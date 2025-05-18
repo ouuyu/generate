@@ -13241,5 +13241,298 @@
         "联想：机械表上链声就是ratchet在咔嗒工作"
       ]
     }
+  },
+  {
+    "word": "rate",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'rata'（计算的部分），经古法语'rate'进入英语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "比率",
+        "examples": [
+          {
+            "sentence": "The divorce rate in panda conservation centers is surprisingly low.",
+            "sentence_zh": "熊猫保护中心的离婚率出奇地低。"
+          },
+          {
+            "sentence": "TikTok videos have a higher replay rate than textbook pages.",
+            "sentence_zh": "抖音视频的重播率比教科书页面高得多。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "速度",
+        "examples": [
+          {
+            "sentence": "The heart rate monitor beeped like a subway card reader.",
+            "sentence_zh": "心率监测器响得像地铁刷卡器。"
+          },
+          {
+            "sentence": "Delivery drivers often exceed the safe speed rate in narrow hutongs.",
+            "sentence_zh": "快递员在狭窄胡同经常超过安全速度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "价格",
+        "examples": [
+          {
+            "sentence": "The hotel's moon-viewing room rate equals 300 milk teas.",
+            "sentence_zh": "酒店赏月房的价格相当于300杯奶茶。"
+          },
+          {
+            "sentence": "Covid test kit rates fluctuated like cryptocurrency.",
+            "sentence_zh": "核酸检测试剂盒价格像加密货币般波动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "估价",
+        "examples": [
+          {
+            "sentence": "Antique experts rated this Qing Dynasty teapot at 50 hotpot dinners.",
+            "sentence_zh": "古董专家给这个清代茶壶估价为50顿火锅。"
+          },
+          {
+            "sentence": "My skills were rated higher than my salary.",
+            "sentence_zh": "我的技能估值比实际工资高。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "认为",
+        "examples": [
+          {
+            "sentence": "Netizens rated the new policy as 'harder than high school physics'.",
+            "sentence_zh": "网友认为新政策'比高中物理还难'。"
+          },
+          {
+            "sentence": "I rate your excuse 3 stars out of 5 on creativity.",
+            "sentence_zh": "我给你的借口创意打3星（满分5星）。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "被评价",
+        "examples": [
+          {
+            "sentence": "This douyin influencer rates highly in authenticity.",
+            "sentence_zh": "这个抖音网红在真实性方面评价很高。"
+          },
+          {
+            "sentence": "The new bubble tea flavor rated poorly among customers.",
+            "sentence_zh": "新款奶茶口味在顾客中评价不佳。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "at any rate",
+        "meaning": "无论如何",
+        "examples": [
+          {
+            "sentence": "At any rate, we must finish this hotpot before the ice melts.",
+            "sentence_zh": "无论如何我们必须赶在冰融化前吃完这火锅。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rate of exchange",
+        "meaning": "汇率",
+        "examples": [
+          {
+            "sentence": "The rate of exchange made Japanese skincare cheaper than domestic brands.",
+            "sentence_zh": "汇率使得日本护肤品比国产品牌更便宜。"
+          }
+        ]
+      }
+    ],
+    "teach": "rate就像电子秤⚖️：能称重（价格）、测速（心率）、算比例（汇率），还能打分（评价）！古代威尼斯商人用'rata'计算香料价格🌶️，现代人用rate给爱豆打call📱。'五星好评'说top-rated，'差评'是poorly-rated，吐槽打车费贵可以说'This rates as daylight robbery!'（这简直是光天化日抢劫！）💰👎🎚️",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐特'→锐利的特价（rate）才能吸引顾客",
+        "易混词：ratio（纯数学比例） vs rate（含时间/价值变量）",
+        "记忆法：所有rate都涉及'数字+单位'（元/小时、次/分钟等）"
+      ]
+    }
+  },
+  {
+    "word": "rated",
+    "etymology": {
+      "breakdown": [
+        "rate",
+        "ed"
+      ],
+      "meaning_connection": "rate源自拉丁语'rata'（计算），-ed表被动完成态→'被计算评估的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "额定的",
+        "examples": [
+          {
+            "sentence": "The rated power of this rice cooker won't trip your circuit breaker.",
+            "sentence_zh": "这个电饭煲的额定功率不会让你家跳闸。"
+          },
+          {
+            "sentence": "Always check the rated voltage before plugging in devices.",
+            "sentence_zh": "连接设备前务必检查额定电压。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rated capacity",
+        "meaning": "额定容量",
+        "examples": [
+          {
+            "sentence": "The power bank's rated capacity is 20,000mAh (actual may vary).",
+            "sentence_zh": "这个充电宝额定容量2万毫安（实际可能有出入）。"
+          }
+        ]
+      }
+    ],
+    "teach": "rated是电子产品的'官方身高'📏！就像泡面包装的'仅供参考'牛肉块🍜，额定功率(rated power)也是理想值。遇到'虚标'可以说它'should be ashamed of itself'😅。记住：额定≠实际，就像自拍和身份证照片的差距📸",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷特的'→雷神(rated)特供电压",
+        "易混词对比：rated（额定） vs actual（实际）"
+      ]
+    }
+  },
+  {
+    "word": "ratepayer",
+    "etymology": {
+      "breakdown": [
+        "rate",
+        "pay",
+        "er"
+      ],
+      "meaning_connection": "rate指'地方税率'，pay指'支付'，-er表'人'→支付地方税费的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "地方税纳税人",
+        "examples": [
+          {
+            "sentence": "London ratepayers protested against the new rubbish collection fee.",
+            "sentence_zh": "伦敦纳税人抗议新的垃圾清运费。"
+          },
+          {
+            "sentence": "As a ratepayer, I demand better maintenance of public parks.",
+            "sentence_zh": "作为纳税人，我要求更好的公园维护。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "angry ratepayers",
+        "meaning": "愤怒的纳税人群体",
+        "examples": [
+          {
+            "sentence": "Angry ratepayers flooded the mayor's mailbox with complaints.",
+            "sentence_zh": "愤怒的纳税人用投诉淹没了市长的信箱。"
+          }
+        ]
+      }
+    ],
+    "teach": "ratepayer是'氪金玩家'💸：地方政府的每项骚操作都让你钱包缩水💼！英国维多利亚时期纳税人真用硬币砸过官员👛，现代版抗议是#RatepayerRage话题刷屏📱。搭配'纳税人大军'(army of ratepayers)、'隐形税单'(hidden rates)，吐槽税高可以说'more painful than a dentist visit'🦷！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累脱皮儿'→纳税纳到脱层皮",
+        "易混词：taxpayer(国税) vs ratepayer(地税)"
+      ]
+    }
+  },
+  {
+    "word": "ratification",
+    "etymology": {
+      "breakdown": [
+        "ratify",
+        "ation"
+      ],
+      "meaning_connection": "词根ratify来自拉丁语'ratificare'（确认），后缀-ation表名词性质→正式确认的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "批准",
+        "examples": [
+          {
+            "sentence": "The ratification of climate agreements often takes years.",
+            "sentence_zh": "气候协议的批准往往需要数年时间。"
+          },
+          {
+            "sentence": "Panda diplomacy requires parliamentary ratification.",
+            "sentence_zh": "熊猫外交需要议会批准。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "承认",
+        "examples": [
+          {
+            "sentence": "WeChat Pay's ratification in Europe surprised locals.",
+            "sentence_zh": "微信支付在欧洲获得承认让当地人惊讶。"
+          },
+          {
+            "sentence": "The ratification of his invention came 20 years later.",
+            "sentence_zh": "他的发明在20年后才获得承认。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "认可",
+        "examples": [
+          {
+            "sentence": "The ratification of the new standard boosted our sales.",
+            "sentence_zh": "新标准获得认可后我们的销量大增。"
+          },
+          {
+            "sentence": "Street food gained official ratification in 2018.",
+            "sentence_zh": "街头小吃在2018年得到官方认可。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "treaty ratification",
+        "meaning": "条约批准",
+        "examples": [
+          {
+            "sentence": "The treaty ratification process resembles a group buying negotiation.",
+            "sentence_zh": "条约批准过程就像团购砍价。"
+          }
+        ]
+      }
+    ],
+    "teach": "ratification就像古代皇帝的玉玺盖章👑！当联合国'批准'条约时，就像给全球合同按手印🌍（treaty ratification）；'承认'新发明时，像是给科技发毕业证🎓；'认可'地沟油检测标准？那叫survival approval（生存认证）🍲。记住：重要的事情需要三重认证！🔏📜✅",
+    "recite": {
+      "tips": [
+        "谐音梗：'热铁肥开心'→批准(ratification)热铁项目让胖子开心",
+        "易混词对比：certification（认证） vs ratification（官方批准）",
+        "记忆tip：把-ification后缀想象成'合法化证书'"
+      ]
+    }
   }
 ]

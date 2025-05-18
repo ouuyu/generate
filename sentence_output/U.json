@@ -12653,5 +12653,330 @@
         "易混词对比：unconfirmed vs unofficial（前者强调验证状态，后者强调来源）"
       ]
     }
+  },
+  {
+    "word": "uncongenial",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "con",
+        "gen",
+        "ial"
+      ],
+      "meaning_connection": "前缀un-表否定，con-表'共同'，词根gen=出生/种类，-ial表特性→'不同物种'般难以相处"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "志趣不相投的",
+        "examples": [
+          {
+            "sentence": "The durian lovers formed a club to avoid uncongenial company.",
+            "sentence_zh": "榴莲爱好者们组建俱乐部以避开志趣不合的人群。"
+          },
+          {
+            "sentence": "Their uncongenial debate reminded me of cats arguing with dogs.",
+            "sentence_zh": "他们话不投机的辩论让我想起猫狗吵架。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "令人不快的",
+        "examples": [
+          {
+            "sentence": "The uncongenial smell of stinky tofu scared away the tourists.",
+            "sentence_zh": "臭豆腐的刺鼻气味吓跑了游客。"
+          },
+          {
+            "sentence": "His uncongenial jokes made the blind date awkward.",
+            "sentence_zh": "他令人不适的笑话让相亲变得尴尬。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "uncongenial environment",
+        "meaning": "不适宜的环境",
+        "examples": [
+          {
+            "sentence": "Pandas find zoos without bamboo uncongenial.",
+            "sentence_zh": "熊猫认为没有竹子的动物园不宜居住。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncongenial就像把香菜党和反香菜党关在一起🌿🚫！词根gen暗藏玄机：古希腊人认为同种族(gen)才能相处，就像奶茶党只和奶茶党玩🧋。要说'相处不来'可以用oil and water（油水不容），'气场不合'叫bad vibes💢。记住：遇到uncongenial的人，赶紧学大熊猫抱紧自己的竹子开溜🐾！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看真拗'→俺看这人真别扭(uncongenial)",
+        "易混词：congenial（投缘的）vs. congenital（先天的）"
+      ]
+    }
+  },
+  {
+    "word": "unconnected",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "connect",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表示否定，词根connect=连接，-ed构成形容词→字面意思为'没有连接的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不连接的",
+        "examples": [
+          {
+            "sentence": "The two train carriages remained unconnected due to a technical fault.",
+            "sentence_zh": "由于技术故障，两节火车车厢始终未能连接。"
+          },
+          {
+            "sentence": "These islands are geographically unconnected but culturally linked.",
+            "sentence_zh": "这些岛屿在地理上不相连但文化相通。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "分离的",
+        "examples": [
+          {
+            "sentence": "The museum exhibits unconnected artifacts from different dynasties.",
+            "sentence_zh": "博物馆展出不同朝代彼此分离的文物。"
+          },
+          {
+            "sentence": "Her unconnected thoughts during the meeting confused everyone.",
+            "sentence_zh": "她在会议上零散的发言让所有人困惑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不连贯的",
+        "examples": [
+          {
+            "sentence": "The novel's plot feels unconnected like a TikTok compilation video.",
+            "sentence_zh": "小说情节像抖音合集视频般缺乏连贯性。"
+          },
+          {
+            "sentence": "His speech was full of unconnected memes and pop culture references.",
+            "sentence_zh": "他的演讲充斥着不连贯的网络梗和流行文化引用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "无亲属关系的",
+        "examples": [
+          {
+            "sentence": "They share the same surname but are completely unconnected.",
+            "sentence_zh": "他们同姓但完全没有亲属关系。"
+          },
+          {
+            "sentence": "The celebrity clarified that the suspect was unconnected to her family.",
+            "sentence_zh": "明星澄清嫌疑人与她家族毫无关联。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remain unconnected",
+        "meaning": "保持断开状态",
+        "examples": [
+          {
+            "sentence": "My Bluetooth earphones remain unconnected no matter how many times I try.",
+            "sentence_zh": "无论尝试多少次，我的蓝牙耳机始终连接不上。"
+          }
+        ]
+      }
+    ],
+    "teach": "unconnected就像断开的Wi-Fi信号📡！历史上苏格兰的 clans（氏族）可能看似unconnected，其实共享血脉🧬。说'毫无关系'可以用no strings attached（没有绳子连着），'断联'叫disconnected就像被拉黑的微信号❌。记住：所有社交关系都是从unconnected开始的！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看哪克的'→俺看哪克的(unconnected)东西都不相连",
+        "对比记忆：disconnected侧重'人为断开'，unconnected侧重'天然无关联'"
+      ]
+    }
+  },
+  {
+    "word": "unconquerable",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "conquer",
+        "able"
+      ],
+      "meaning_connection": "前缀un-表否定，词根conquer=征服，后缀-able表能力→无法被征服的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不可征服的",
+        "examples": [
+          {
+            "sentence": "The Great Wall was considered unconquerable by nomadic tribes.",
+            "sentence_zh": "长城曾被游牧民族视为不可征服的屏障。"
+          },
+          {
+            "sentence": "Her unconquerable spirit shines like the Morning Star.",
+            "sentence_zh": "她不可征服的精神如启明星般闪耀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "克服不了的",
+        "examples": [
+          {
+            "sentence": "The fear of public speaking seemed unconquerable until he tried stand-up comedy.",
+            "sentence_zh": "在尝试脱口秀之前，他的演讲恐惧症似乎无法克服。"
+          },
+          {
+            "sentence": "Some phobias may feel unconquerable without professional help.",
+            "sentence_zh": "没有专业帮助，某些恐惧症可能显得难以克服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "压制不了的",
+        "examples": [
+          {
+            "sentence": "The unconquerable laughter erupted when the teacher's pants split.",
+            "sentence_zh": "老师裤子开裂时，爆发出压制不住的笑声。"
+          },
+          {
+            "sentence": "Her unconquerable urge to buy blind boxes emptied her wallet.",
+            "sentence_zh": "她压制不住的抽盲盒欲望掏空了钱包。"
+          }
+        ]
+      }
+    ],
+    "teach": "unconquerable是'钛合金精神'💪：像火锅英雄张勇白手起家→从'小郡肝'到上市，是unconquerable ambition（不可征服的野心）。说'打不死的小强'叫indomitable spirit（与unconquerable同义），'倔驴脾气'可说unconquerable stubbornness。记住：每个减肥失败的人都懂unconquerable cravings🍔！",
+    "recite": {
+      "tips": [
+        "拆解记忆：un（不）+conquer（征服）+able（能）→字面即'不可征服的'",
+        "易混词对比：invincible（无法战胜的）强调不败，unconquerable强调无法被压制"
+      ]
+    }
+  },
+  {
+    "word": "unconquered",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "conquer",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，词根conquer=征服，-ed构成形容词→未被征服的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "未被征服的",
+        "examples": [
+          {
+            "sentence": "The unconquered fortress stood proudly on the cliff for 800 years.",
+            "sentence_zh": "这座未被征服的堡垒在悬崖上屹立了800年。"
+          },
+          {
+            "sentence": "Genghis Khan left few unconquered territories in Central Asia.",
+            "sentence_zh": "成吉思汗在中亚几乎没留下未被征服的领土。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未克服的",
+        "examples": [
+          {
+            "sentence": "Math anxiety remains an unconquered challenge for many students.",
+            "sentence_zh": "数学焦虑对许多学生仍是未克服的挑战。"
+          },
+          {
+            "sentence": "Everest's north face was unconquered until Chinese climbers succeeded in 1960.",
+            "sentence_zh": "珠峰北坡直到1960年中国登山队登顶前都是未克服的。"
+          }
+        ]
+      }
+    ],
+    "teach": "unconquered是'倔强青铜'🏔️：像重庆火锅的辣度对老外（unconquered spicy level），又像你手机里没通关的羊了个羊🐑（unconquered game level）。搭配'spirit'说unconquered spirit像打不死的小强💪，说'land'像单身狗的心房🚪。记住：所有unconquered终将成为你的勋章！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺抗克的'→俺抗克的(unconquered)病毒",
+        "易混词对比：undefeated（未败）更侧重比赛，unconquered更带史诗感"
+      ]
+    }
+  },
+  {
+    "word": "unconscionable",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "con",
+        "sci",
+        "able"
+      ],
+      "meaning_connection": "前缀un-=否定，con-=共同，词根sci=知道，-able=能够→字面意思是'无法共同认知的'，引申为'违背良心的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不受良心支配的",
+        "examples": [
+          {
+            "sentence": "The unconscionable landlord raised rents during the pandemic.",
+            "sentence_zh": "这个没良心的房东在疫情期间涨租金。"
+          },
+          {
+            "sentence": "Selling expired baby formula is unconscionable behavior.",
+            "sentence_zh": "售卖过期婴儿奶粉是丧尽天良的行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不合理的",
+        "examples": [
+          {
+            "sentence": "The unconscionable price of Starbucks in China sparks debates.",
+            "sentence_zh": "星巴克在中国的离谱价格引发热议。"
+          },
+          {
+            "sentence": "It's unconscionable to charge 50 yuan for a bowl of plain noodles.",
+            "sentence_zh": "一碗清汤面卖50元简直荒唐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "过度的",
+        "examples": [
+          {
+            "sentence": "The influencer's unconscionable makeup made her look like a porcelain doll.",
+            "sentence_zh": "那个网红过度化妆像个瓷娃娃。"
+          },
+          {
+            "sentence": "His unconscionable demands exhausted the design team.",
+            "sentence_zh": "他过分的要求拖垮了设计团队。"
+          }
+        ]
+      }
+    ],
+    "teach": "unconscionable就是'良心被狗吃'🐶！这词来自法律术语，原指'无法在法庭上辩解的缺德事'⚖️。现代用法分三层面：1)道德层面→像黑心商家卖假疫苗💉 2)逻辑层面→堪比景区15元矿泉水被骂上热搜🔥 3)程度层面→类似直男送女友死亡芭比粉口红💄 搭配：unconscionable profit（暴利）+ unconscionable delay（恶意拖延）。说'太离谱'美国人会用That's highway robbery!（简直是拦路抢劫）",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看剩哪包'→良心剩哪去了？",
+        "易混词对比：unreasonable（不合理但未必缺德）vs unconscionable（缺德的不合理）",
+        "记忆tip：拆解un-con-science-able→没有共同良心认知的"
+      ]
+    }
   }
 ]

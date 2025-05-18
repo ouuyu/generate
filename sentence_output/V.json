@@ -13333,5 +13333,361 @@
         "易混词对比：verifier（核查者）vs. validator（批准者）→前者找问题，后者发通行证"
       ]
     }
+  },
+  {
+    "word": "verify",
+    "etymology": {
+      "breakdown": [
+        "ver",
+        "ify"
+      ],
+      "meaning_connection": "词根ver=真实（同truth），-ify表使动→使成为真实状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "证明",
+        "examples": [
+          {
+            "sentence": "The fingerprints verified his presence at the crime scene.",
+            "sentence_zh": "指纹证明了他曾出现在犯罪现场。"
+          },
+          {
+            "sentence": "Ancient bamboo slips verified the existence of this lost kingdom.",
+            "sentence_zh": "古代竹简证实了这个失落王国的存在。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "查证",
+        "examples": [
+          {
+            "sentence": "Journalists must verify sources before publishing news.",
+            "sentence_zh": "记者发布新闻前必须查证消息来源。"
+          },
+          {
+            "sentence": "I need to verify your ID card with the police system.",
+            "sentence_zh": "我需要通过公安系统查证您的身份证。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "检验",
+        "examples": [
+          {
+            "sentence": "Quality control verified every smartphone's waterproof function.",
+            "sentence_zh": "质检部门检验了每台手机的防水功能。"
+          },
+          {
+            "sentence": "The astronaut's spacesuit must be verified before launch.",
+            "sentence_zh": "宇航员的航天服在发射前必须经过检验。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "verify with",
+        "meaning": "与...核对",
+        "examples": [
+          {
+            "sentence": "Verify the flight number with the airport display.",
+            "sentence_zh": "请与机场显示屏核对航班号。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "on-site verification",
+        "meaning": "实地核验",
+        "examples": [
+          {
+            "sentence": "The food delivery platform requires on-site verification for new restaurants.",
+            "sentence_zh": "外卖平台对新餐馆要求实地核验。"
+          }
+        ]
+      }
+    ],
+    "teach": "verify是打假斗士🦸！词根ver=真实（如very本意就是'真实的'），古代用火漆印章💌来verify文件真伪，现代用区块链验证真伪⛓️。'查户口'叫household verification，'验钞机'是currency verifier。地道说法：'这事保真吗？'→Can you verify this?🔍",
+    "recite": {
+      "tips": [
+        "谐音梗：'very烦'→反复verify很烦",
+        "易混词：certify（官方认证）/confirm（确认）",
+        "记忆法：VERY+IFY=让东西变得非常真实"
+      ]
+    }
+  },
+  {
+    "word": "verily",
+    "etymology": {
+      "breakdown": [
+        "ver",
+        "ily"
+      ],
+      "meaning_connection": "词根ver=真实（同verify），-ly副词后缀→真实地，确实地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "真正地",
+        "examples": [
+          {
+            "sentence": "The AI-generated painting is verily indistinguishable from a human's work.",
+            "sentence_zh": "这幅AI生成的画作真正达到了以假乱真的程度。"
+          },
+          {
+            "sentence": "This hotpot broth verily contains 18 secret spices from Sichuan.",
+            "sentence_zh": "这锅火锅底料真正含有18种四川秘制香料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "真实地",
+        "examples": [
+          {
+            "sentence": "He spoke verily when describing the Great Wall's magnificence.",
+            "sentence_zh": "他描述长城壮丽景象时所言真实不虚。"
+          },
+          {
+            "sentence": "The panda keeper verily knows each cub's bamboo preference.",
+            "sentence_zh": "这位熊猫饲养员真实了解每只幼崽的竹子喜好。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "verily I say",
+        "meaning": "我实话实说（古语强调）",
+        "examples": [
+          {
+            "sentence": "Verily I say, this xiaolongbao deserves 3 Michelin stars.",
+            "sentence_zh": "实话实说，这小笼包值得米其林三星。"
+          }
+        ]
+      }
+    ],
+    "teach": "verily是古代英语的'真的鸭'🦆！莎士比亚戏剧中角色常以'verily'起誓⚔️，现代多用于调侃正式场合。搭配'verily shocking'比'OMG'更有英伦范儿🎩，说'工资真实到账'可用verily transferred。记住：当你想学唐僧念紧箍咒时，就说'Verily, the wifi password is...'🧙♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪瑞理'→歪瑞(very)理(ly)解的真实",
+        "对比记忆：very(非常) vs verily(真实地)"
+      ]
+    }
+  },
+  {
+    "word": "verisimilitude",
+    "etymology": {
+      "breakdown": [
+        "veri",
+        "simil",
+        "tude"
+      ],
+      "meaning_connection": "词根veri=真实（同verify），simil=相似（同similar），-tude表状态→'与真实相似的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "逼真感",
+        "examples": [
+          {
+            "sentence": "The VR game achieves astonishing verisimilitude with haptic feedback.",
+            "sentence_zh": "这款VR游戏通过触觉反馈实现了惊人的逼真感。"
+          },
+          {
+            "sentence": "Her imitation of a Sichuan accent had perfect verisimilitude.",
+            "sentence_zh": "她模仿的四川口音惟妙惟肖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "似真性",
+        "examples": [
+          {
+            "sentence": "The detective questioned the verisimilitude of the suspect's alibi.",
+            "sentence_zh": "侦探质疑嫌疑人不在场证明的似真性。"
+          },
+          {
+            "sentence": "Sci-fi writers must balance creativity with verisimilitude.",
+            "sentence_zh": "科幻作家需要在创造力和似真性间取得平衡。"
+          }
+        ]
+      }
+    ],
+    "teach": "verisimilitude是'真香'定律的学术版🍜！拆开看：veri(真)+simil(像)=像真的一样。就像用美颜相机📸（high verisimilitude）VS 原相机😱（low verisimilitude）。说'以假乱真'可以用pass for real，'假得很明显'叫ring false。记住这个高端词，下次夸《流浪地球》特效就说：The verisimilitude blew my mind!🌍💥🤯",
+    "recite": {
+      "tips": [
+        "谐音梗：'very什么来的'→非常像真的来的",
+        "对比词：authenticity（绝对真实） vs verisimilitude（相对逼真）",
+        "记忆法：想象检验真理(verify)的相似(similar)度(-tude)"
+      ]
+    }
+  },
+  {
+    "word": "veritable",
+    "etymology": {
+      "breakdown": [
+        "ver",
+        "able"
+      ],
+      "meaning_connection": "词根ver='真实'（同verify），-able表'可...的'→可被验证为真实的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "名副其实的",
+        "examples": [
+          {
+            "sentence": "The Sichuan hotpot is a veritable carnival of spices.",
+            "sentence_zh": "四川火锅是名副其实的香料狂欢节。"
+          },
+          {
+            "sentence": "His collection of sneakers is a veritable museum of limited editions.",
+            "sentence_zh": "他的球鞋收藏是名副其实的限量版博物馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "真实的",
+        "examples": [
+          {
+            "sentence": "The influencer's 'casual look' turned out to be a veritable three-hour makeup session.",
+            "sentence_zh": "网红的'素颜照'实则是真实的三小时化妆成果。"
+          },
+          {
+            "sentence": "We found a veritable treasure trove of vintage comics in the attic.",
+            "sentence_zh": "我们在阁楼发现了真实的复古漫画宝库。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "确实的",
+        "examples": [
+          {
+            "sentence": "The new AI feature is a veritable game-changer for video editors.",
+            "sentence_zh": "这个新AI功能对视频编辑者确实是颠覆性的。"
+          },
+          {
+            "sentence": "Getting up at 5am for fishing is a veritable test of love for many husbands.",
+            "sentence_zh": "对许多丈夫来说，五点起床钓鱼确实是真爱的考验。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "真的",
+        "examples": [
+          {
+            "sentence": "The so-called 'weight loss tea' is a veritable scam.",
+            "sentence_zh": "所谓'减肥茶'真的是个骗局。"
+          },
+          {
+            "sentence": "Her Mandarin accent is so perfect it's a veritable Beijing native's.",
+            "sentence_zh": "她的普通话口音纯正得真的像北京本地人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "veritable feast",
+        "meaning": "真正的盛宴",
+        "examples": [
+          {
+            "sentence": "The night market offers a veritable feast of Taiwanese street food.",
+            "sentence_zh": "夜市提供了真正的台湾街头美食盛宴。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "veritable mountain of",
+        "meaning": "堆积如山的",
+        "examples": [
+          {
+            "sentence": "After Double 11, my dorm became a veritable mountain of快递boxes.",
+            "sentence_zh": "双十一后，我的宿舍变成了堆积如山的快递盒。"
+          }
+        ]
+      }
+    ],
+    "teach": "veritable就像给你的描述盖'保真'公章📜！古罗马法庭宣誓要说'veritas'（真实），现在说'This is veritable'相当于发毒誓⚖️。形容'真香现场'用veritable foodgasm（真·美食高潮），说'真·土豪'用veritable cash waterfall💸。记住：当普通true不够劲时，就上veritable这个'语文课代表'📚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪瑞妥'→歪瑞(very)妥帖的→真实可靠",
+        "对比记忆：authentic强调权威认证，genuine强调非伪造，veritable强调本质符合描述",
+        "联想：VERIfication（验证）+ TABLE（桌子）→经过验证摆在台面上的东西"
+      ]
+    }
+  },
+  {
+    "word": "verity",
+    "etymology": {
+      "breakdown": [
+        "ver",
+        "ity"
+      ],
+      "meaning_connection": "词根ver=真实（同verify验证），-ity表性质→'真实的性质'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "真实",
+        "examples": [
+          {
+            "sentence": "The verity of his alibi was confirmed by surveillance footage.",
+            "sentence_zh": "监控录像证实了他不在场证明的真实性。"
+          },
+          {
+            "sentence": "Ancient maps often lacked geographical verity.",
+            "sentence_zh": "古代地图常缺乏地理真实性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "真理",
+        "examples": [
+          {
+            "sentence": "Plato's cave allegory explores the nature of verity.",
+            "sentence_zh": "柏拉图的洞穴寓言探讨了真理的本质。"
+          },
+          {
+            "sentence": "Scientific verities are constantly being challenged.",
+            "sentence_zh": "科学真理不断受到挑战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "忠诚",
+        "examples": [
+          {
+            "sentence": "The knight served his lord with unshakable verity.",
+            "sentence_zh": "骑士以不可动摇的忠诚效忠领主。"
+          },
+          {
+            "sentence": "Their marital verity lasted half a century.",
+            "sentence_zh": "他们的婚姻忠诚持续了半个世纪。"
+          }
+        ]
+      }
+    ],
+    "teach": "verity是'韦爵爷的真理'👑！词根ver在《哈利波特》里出现过——'veritaserum'吐真剂💧！搭配'question the verity'像验黄金（咬一下🔍），'swear verity'像关公拜把子🤝。地道表达'gospel truth'（福音真理）比verity更口语化，比如'这不是真理'说That's not gospel truth📜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪了踢'→真理被歪曲时就要踢正",
+        "易混词：reality(客观存在) vs verity(抽象真实)"
+      ]
+    }
   }
 ]

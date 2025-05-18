@@ -12926,5 +12926,141 @@
         "易混词对比：Kurd vs Kurdish（前者指人，后者指语言/文化）"
       ]
     }
+  },
+  {
+    "word": "Kurdish",
+    "etymology": {
+      "breakdown": [
+        "Kurd",
+        "ish"
+      ],
+      "meaning_connection": "Kurd指库尔德民族，-ish表'...的'或'...语'，类似English的构成方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "库尔德人的",
+        "examples": [
+          {
+            "sentence": "The Kurdish rug exhibited intricate peacock patterns.",
+            "sentence_zh": "展出的库尔德地毯织有精美的孔雀纹样。"
+          },
+          {
+            "sentence": "Kurdish tea culture involves brewing in special samovars.",
+            "sentence_zh": "库尔德茶道使用特殊的茶炊具烹煮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "库尔德语",
+        "examples": [
+          {
+            "sentence": "Kurdish uses both Arabic and Latin alphabets in different regions.",
+            "sentence_zh": "库尔德语在不同地区分别使用阿拉伯字母和拉丁字母。"
+          },
+          {
+            "sentence": "Learning Kurdish helps understand Mesopotamian folk epics.",
+            "sentence_zh": "学习库尔德语有助于理解两河流域民间史诗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Kurdish diaspora",
+        "meaning": "库尔德侨民",
+        "examples": [
+          {
+            "sentence": "The Kurdish diaspora maintains strong cultural ties through Nowruz celebrations.",
+            "sentence_zh": "库尔德侨民通过诺鲁孜节庆典保持紧密文化联系。"
+          }
+        ]
+      }
+    ],
+    "teach": "库尔德语就像中东的乐高积木🧩：由4000年历史的印欧语系碎片（ Kurdish）拼成，却不能用官方语言身份（ 库尔德地区分散在四国）。说'语言难懂'可用It's all Greek to me的变体→'This sounds Kurdish to me!' 🌍 记住：库尔德语有3000万使用者，比北欧所有语言加起来还多！",
+    "recite": {
+      "tips": [
+        "谐音梗：'课的士'→库尔德语是出租车司机的秘密课程",
+        "易混词对比：Turkish（土耳其的）vs Kurdish（库尔德的）",
+        "文化记忆：诺鲁孜节(Nowruz)是库尔德新年"
+      ]
+    }
+  },
+  {
+    "word": "Kuwaiti",
+    "etymology": {
+      "breakdown": [
+        "Kuwait",
+        "i"
+      ],
+      "meaning_connection": "源自波斯湾国家Kuwait（科威特），后缀-i表示'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "科威特的",
+        "examples": [
+          {
+            "sentence": "The Kuwaiti dinar is the strongest currency in the world.",
+            "sentence_zh": "科威特第纳尔是全球最值钱的货币。"
+          },
+          {
+            "sentence": "Kuwaiti oil reserves could fill 7 billion bathtubs.",
+            "sentence_zh": "科威特的石油储量能填满70亿个浴缸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "科威特人的",
+        "examples": [
+          {
+            "sentence": "Kuwaiti students get free education including overseas study.",
+            "sentence_zh": "科威特学生享受包括留学在内的免费教育。"
+          },
+          {
+            "sentence": "Traditional Kuwaiti weddings last seven days.",
+            "sentence_zh": "传统的科威特婚礼要持续七天。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "科威特人",
+        "examples": [
+          {
+            "sentence": "Kuwaitis enjoy tax-free salaries by law.",
+            "sentence_zh": "根据法律，科威特人享受免税工资。"
+          },
+          {
+            "sentence": "Every Kuwaiti receives $3,000 when getting married.",
+            "sentence_zh": "每个科威特人结婚时可领取3000美元补助。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Kuwaiti Arabic",
+        "meaning": "科威特方言",
+        "examples": [
+          {
+            "sentence": "Kuwaiti Arabic has unique words for desert phenomena.",
+            "sentence_zh": "科威特方言有描述沙漠现象的独特词汇。"
+          }
+        ]
+      }
+    ],
+    "teach": "Kuwaiti是'家里有油田'的凡尔赛词汇⛽！这个后缀-i就像地理课代表的小徽章📍（Qatari伊拉克Iraqi）。说'土豪'用oil-rich Kuwaitis，'国民福利'叫citizen benefits。记住：名字带-i结尾的多半是中东VIP💎！",
+    "recite": {
+      "tips": [
+        "谐音梗：'酷歪踢'→酷酷地歪在石油桶上踢腿",
+        "对比记忆：Kuwaiti（科威特人）vs Saudi（沙特人）",
+        "后缀联想：-i表示人种/国籍（如Pakistani伊拉克Iraqi）"
+      ]
+    }
   }
 ]

@@ -12845,5 +12845,335 @@
         "易混词对比：generalize(归纳总结) vs specialize(专精)"
       ]
     }
+  },
+  {
+    "word": "generalized",
+    "etymology": {
+      "breakdown": [
+        "general",
+        "ize",
+        "ed"
+      ],
+      "meaning_connection": "词根general=广泛的，-ize表'使...化'，-ed表形容词→'使广泛化的'引申出'广义的'和'无特点的'两种含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "广义的",
+        "examples": [
+          {
+            "sentence": "Einstein's generalized theory of relativity revolutionized physics.",
+            "sentence_zh": "爱因斯坦的广义相对论颠覆了物理学。"
+          },
+          {
+            "sentence": "This is a generalized concept that covers all social media platforms.",
+            "sentence_zh": "这是涵盖所有社交媒体的广义概念。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "普遍的",
+        "examples": [
+          {
+            "sentence": "Generalized anxiety about AI is growing worldwide.",
+            "sentence_zh": "全球对人工智能的普遍焦虑正在加剧。"
+          },
+          {
+            "sentence": "The survey shows generalized dissatisfaction with public transportation.",
+            "sentence_zh": "调查显示对公共交通的普遍不满。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无显著特点的",
+        "examples": [
+          {
+            "sentence": "The building has a generalized appearance that blends into any city.",
+            "sentence_zh": "这栋建筑外观平庸，放在任何城市都不违和。"
+          },
+          {
+            "sentence": "Her generalized features made her perfect for undercover missions.",
+            "sentence_zh": "她五官平平无奇，特别适合卧底任务。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "generalized statement",
+        "meaning": "笼统表述",
+        "examples": [
+          {
+            "sentence": "Avoid making generalized statements during academic debates.",
+            "sentence_zh": "学术辩论中避免使用笼统表述。"
+          }
+        ]
+      }
+    ],
+    "teach": "generalized就像火锅清汤锅底🍲——能涮万物(广义的)，但谁都不突出(无特点的)。在医学上generalized pain指全身疼🤒，就像双十一后钱包的普遍空虚💸。搭配'generalized framework'像乐高底板🧩，'generalized look'像路人甲表情包🤦。记住：说人'长得generalized'等于说'大众脸'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'针啊来扎的'→普遍症状需要打针",
+        "易混词对比：general(普通的) vs generalized(广泛存在的)"
+      ]
+    }
+  },
+  {
+    "word": "generally",
+    "etymology": {
+      "breakdown": [
+        "general",
+        "ly"
+      ],
+      "meaning_connection": "词根general=普遍的/总体的，后缀-ly构成副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "通常",
+        "examples": [
+          {
+            "sentence": "Generally speaking, Chinese people greet with 'Have you eaten?' instead of 'How are you?'",
+            "sentence_zh": "通常来说，中国人打招呼会说'吃了吗'而非'你好吗'。"
+          },
+          {
+            "sentence": "Elephants generally avoid crossing highways in Yunnan.",
+            "sentence_zh": "云南的象群通常会避开穿越高速公路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "逐渐地",
+        "examples": [
+          {
+            "sentence": "The audience generally warmed up to the comedian's dark humor.",
+            "sentence_zh": "观众逐渐接受了这位喜剧演员的黑色幽默。"
+          },
+          {
+            "sentence": "Spicy hotpot generally becomes more popular in winter.",
+            "sentence_zh": "麻辣火锅随着冬季来临逐渐变得更受欢迎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "普遍地",
+        "examples": [
+          {
+            "sentence": "QR code payments are generally used across China.",
+            "sentence_zh": "二维码支付在中国普遍使用。"
+          },
+          {
+            "sentence": "It's generally believed that drinking hot water is good for health.",
+            "sentence_zh": "人们普遍认为喝热水有益健康。"
+          }
+        ]
+      }
+    ],
+    "teach": "generally就像天气预报⛅！说'通常'时像播报员说'本市一般晴天'📡（generally sunny），'逐渐'像温度计缓慢上升🌡️（generally warming up），'普遍'像全国都在用健康码📱（generally adopted）。搭配：'一般认为'→generally acknowledged，'普遍适用'→generally applicable。把'大家都知道'说成open secret才是地道表达！",
+    "recite": {
+      "tips": [
+        "谐音梗：'捡了热力'→逐渐升温(generally heating up)",
+        "易混词对比：generally（频率上）vs. normally（状态上）"
+      ]
+    }
+  },
+  {
+    "word": "generalship",
+    "etymology": {
+      "breakdown": [
+        "general",
+        "ship"
+      ],
+      "meaning_connection": "general（将军）+后缀-ship（表状态、职位）→将军的才能/职位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "将军的才能",
+        "examples": [
+          {
+            "sentence": "Zhuge Liang's generalship was legendary in the Three Kingdoms period.",
+            "sentence_zh": "诸葛亮的将才在三国时期堪称传奇。"
+          },
+          {
+            "sentence": "The game requires both generalship and luck to win.",
+            "sentence_zh": "这游戏需要将才和运气才能获胜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "将军职",
+        "examples": [
+          {
+            "sentence": "He was promoted to generalship after the decisive victory.",
+            "sentence_zh": "在取得决定性胜利后，他被擢升为将军。"
+          },
+          {
+            "sentence": "The generalship comes with heavy responsibilities.",
+            "sentence_zh": "将军职位意味着重大责任。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "将军任期",
+        "examples": [
+          {
+            "sentence": "During his generalship, the army never lost a battle.",
+            "sentence_zh": "在他的将军任期内，军队未尝败绩。"
+          },
+          {
+            "sentence": "The museum displays armor from Napoleon's generalship.",
+            "sentence_zh": "博物馆展出了拿破仑将军任期内的铠甲。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "demonstrate generalship",
+        "meaning": "展现将才",
+        "examples": [
+          {
+            "sentence": "The chess grandmaster demonstrated brilliant generalship.",
+            "sentence_zh": "国际象棋大师展现了卓越的将才。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "assume generalship",
+        "meaning": "就任将军",
+        "examples": [
+          {
+            "sentence": "When he assumed generalship, the troops morale soared.",
+            "sentence_zh": "当他就任将军时，军队士气高涨。"
+          }
+        ]
+      }
+    ],
+    "teach": "generalship是'将军三件套'👑：1) 才能如《王者荣耀》carry全场🎮 2) 职位像火锅店店长要管全局🍲 3) 任期似快递小哥的配送时效⏳。说'领导力'可用show leadership，但'将才'必须用demonstrate generalship才够味！就像涮毛肚要七上八下，当将军也要刚柔并济⚔️",
+    "recite": {
+      "tips": [
+        "谐音梗：'将军船'→将军乘船(generalship)去打仗",
+        "易混词对比：leadership（泛指领导力） vs generalship（特指军事将才）",
+        "记忆口诀：general将军 + ship船 → 将军乘船去打仗"
+      ]
+    }
+  },
+  {
+    "word": "generate",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "ate"
+      ],
+      "meaning_connection": "词根gener=出生/种类（同gene），-ate表动词→'使产生'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "产生",
+        "examples": [
+          {
+            "sentence": "The new hydropower station can generate electricity for 3 million households.",
+            "sentence_zh": "新建水电站可为300万户家庭产生电力。"
+          },
+          {
+            "sentence": "Dancing generates heat to survive Harbin's winter.",
+            "sentence_zh": "跳广场舞能产生热量抵御哈尔滨的寒冬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "导致",
+        "examples": [
+          {
+            "sentence": "The meme generated endless parodies on Xiaohongshu.",
+            "sentence_zh": "这个梗导致小红书出现无数恶搞版本。"
+          },
+          {
+            "sentence": "His speech generated controversy among netizens.",
+            "sentence_zh": "他的发言导致网友争议。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "generate income",
+        "meaning": "创收",
+        "examples": [
+          {
+            "sentence": "Live-streaming generates income for rural grandmothers.",
+            "sentence_zh": "直播带货为乡村奶奶们创收。"
+          }
+        ]
+      }
+    ],
+    "teach": "generate是万物生产大队长🏭！从发电站⚡到表情包（generate memes），从创收💸到引发骂战（generate controversy）。记住：'导致'负面结果时就像掀翻火锅——generate a mess🍲！搭配'generate profits'（生财）和'generate ideas'（头脑风暴），地道说法'来钱'叫rake in cash💰。",
+    "recite": {
+      "tips": [
+        "谐音梗：'剪了脐带'→新生儿generate新生命",
+        "易混词：create侧重创造，generate侧重自然产生"
+      ]
+    }
+  },
+  {
+    "word": "generated",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根gener=生产/种类（来自拉丁语genus），-ate表动词后缀，-ed构成形容词→被生产出来的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "生成的",
+        "examples": [
+          {
+            "sentence": "This AI-generated poem smells like a mix of Shakespeare and spicy hotpot.",
+            "sentence_zh": "这首AI生成的诗闻起来像莎士比亚和麻辣火锅的混合体。"
+          },
+          {
+            "sentence": "The QR code on your health kit is dynamically generated.",
+            "sentence_zh": "你健康码上的二维码是动态生成的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "发生的",
+        "examples": [
+          {
+            "sentence": "The excitement generated by Li Jiaqi's live stream crashed the server.",
+            "sentence_zh": "李佳琦直播产生的兴奋感让服务器崩溃了。"
+          },
+          {
+            "sentence": "Heat generated from smartphone charging could fry an egg—literally.",
+            "sentence_zh": "手机充电产生的热量真能煎鸡蛋。"
+          }
+        ]
+      }
+    ],
+    "teach": "generated其实是个'创可贴式单词'🩹：词根gener=生产（如同genre类型），-ate是动词小尾巴，合体后像工厂流水线⚙️吐产品。说'AI生成内容'用AI-generated content，'产生热量'说heat generated。记住：你每刷一次抖音，就generate了一堆数据垃圾🗑️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'真的热的'→生成的东西真的热的",
+        "对比记忆：generate（动）→generated（形）→generation（名）像祖孙三代👨👦👦"
+      ]
+    }
   }
 ]

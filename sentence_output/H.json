@@ -12879,5 +12879,332 @@
         "记忆tip：想象婚礼上新人喝交杯酒→象征两种生活的harmonization"
       ]
     }
+  },
+  {
+    "word": "harmonize",
+    "etymology": {
+      "breakdown": [
+        "harmon",
+        "ize"
+      ],
+      "meaning_connection": "词根harmon来自希腊语harmonia（和谐），-ize是动词后缀表示‘使...化’"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "协调",
+        "examples": [
+          {
+            "sentence": "The dancers' movements harmonize with the traditional guzheng music perfectly.",
+            "sentence_zh": "舞者的动作与传统古筝音乐完美协调。"
+          },
+          {
+            "sentence": "Our marketing strategies need to harmonize with local customs when expanding overseas.",
+            "sentence_zh": "海外拓展时我们的营销策略需与当地习俗协调。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "以和声唱",
+        "examples": [
+          {
+            "sentence": "The choir harmonized on the final note like flowing water meeting stones.",
+            "sentence_zh": "合唱团以和声唱出终音，如流水击石般自然。"
+          },
+          {
+            "sentence": "During the campfire, we harmonized 'Jasmine Flower' with three-part vocals.",
+            "sentence_zh": "篝火晚会上我们用三声部和声演唱《茉莉花》。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使一致",
+        "examples": [
+          {
+            "sentence": "The UN tries to harmonize environmental standards globally.",
+            "sentence_zh": "联合国试图统一全球环保标准。"
+          },
+          {
+            "sentence": "WeChat harmonizes its interfaces across different phone systems.",
+            "sentence_zh": "微信在不同手机系统间保持界面一致。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使和谐",
+        "examples": [
+          {
+            "sentence": "The interior designer harmonized modern furniture with Ming Dynasty vases.",
+            "sentence_zh": "室内设计师将现代家具与明代花瓶搭配得浑然一体。"
+          },
+          {
+            "sentence": "This tea ceremony harmonizes the bitterness of matcha with the sweetness of osmanthus cakes.",
+            "sentence_zh": "这场茶道使抹茶的苦与桂花糕的甜相得益彰。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "harmonize with",
+        "meaning": "与...协调",
+        "examples": [
+          {
+            "sentence": "The neon lights harmonize with the night market atmosphere.",
+            "sentence_zh": "霓虹灯与夜市氛围相得益彰。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "harmonize colors",
+        "meaning": "调和色彩",
+        "examples": [
+          {
+            "sentence": "She harmonized the qipao's emerald green with golden embroidery threads.",
+            "sentence_zh": "她用金线刺绣调和旗袍的翡翠绿色。"
+          }
+        ]
+      }
+    ],
+    "teach": "harmonize就像火锅底料配比🍲！当四川花椒(vt.使和谐)遇上北京麻酱(vi.协调)，就产生神奇的harmony🎵。说'完美配合'可夸They're in perfect harmony like pipa and guqin（琵琶与古琴）；吐槽'不协调'说clash like cymbals in a lullaby（摇篮曲里敲钹）💥。记住：好的harmonize就像小笼包的皮和馅🥟——缺一不可！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈摩捺'→哈气摩挲轻按(harmonize)琴弦",
+        "易混词：coordinate（机械协调）vs harmonize（艺术性调和）",
+        "记忆法：想象合唱团指挥把不同声部'腌'(harmon-ize)成一道和谐泡菜"
+      ]
+    }
+  },
+  {
+    "word": "harmony",
+    "etymology": {
+      "breakdown": [
+        "harmon",
+        "y"
+      ],
+      "meaning_connection": "词根harmon=连接/适配，-y表性质→古希腊语harmonia指'乐器调音'，后引申为协调状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "协调",
+        "examples": [
+          {
+            "sentence": "The harmony between WeChat's functions makes it a super app.",
+            "sentence_zh": "微信各功能间的协调性使其成为超级应用。"
+          },
+          {
+            "sentence": "Traditional Chinese architecture achieves harmony with nature.",
+            "sentence_zh": "中国传统建筑实现了与自然的协调。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "和睦",
+        "examples": [
+          {
+            "sentence": "The family lives in perfect harmony with three generations under one roof.",
+            "sentence_zh": "这个家庭三代同堂却相处得十分和睦。"
+          },
+          {
+            "sentence": "Panda diplomacy promotes international harmony.",
+            "sentence_zh": "熊猫外交促进了国际和睦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "调和",
+        "examples": [
+          {
+            "sentence": "The secret sauce achieves a harmony of sweet and spicy flavors.",
+            "sentence_zh": "秘制酱料实现了甜辣风味的调和。"
+          },
+          {
+            "sentence": "Tai Chi embodies the harmony of yin and yang.",
+            "sentence_zh": "太极拳体现了阴阳的调和。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in harmony with",
+        "meaning": "与...和谐相处",
+        "examples": [
+          {
+            "sentence": "The new building is in harmony with the ancient temple nearby.",
+            "sentence_zh": "新建筑与附近的古寺和谐共存。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "live in harmony",
+        "meaning": "和睦相处",
+        "examples": [
+          {
+            "sentence": "Despite cultural differences, they live in harmony like hotpot ingredients.",
+            "sentence_zh": "尽管文化差异大，他们像火锅食材般和睦相处。"
+          }
+        ]
+      }
+    ],
+    "teach": "harmony是宇宙级CP粉头💫！古希腊人用它调琴🎻（音乐和声），中国人用它调情❤️（琴瑟和鸣）。说'相处融洽'可以用in sync，吐槽'不和谐'叫like cats and dogs🐱🐶。记住：好的harmony就像鸳鸯锅——清汤红油各美其美🌶️🥢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈莫妮'→哈（笑）着默契（莫）的妮子很和谐",
+        "易混词：concord（更正式，国际条约常用）"
+      ]
+    }
+  },
+  {
+    "word": "harness",
+    "etymology": {
+      "breakdown": [
+        "har",
+        "ness"
+      ],
+      "meaning_connection": "古英语harnes=军队装备，-ness表状态→原指战马装备，后泛指约束装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "马具",
+        "examples": [
+          {
+            "sentence": "The golden harness on Emperor Qin's terra-cotta horses amazed archaeologists.",
+            "sentence_zh": "秦始皇兵马俑上的鎏金马具令考古学家惊叹。"
+          },
+          {
+            "sentence": "Mongolian horse harnesses often incorporate colorful felt decorations.",
+            "sentence_zh": "蒙古马具常配有彩色毛毡装饰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "挽具状带子",
+        "examples": [
+          {
+            "sentence": "Rock climbers check every buckle on their harness before ascending.",
+            "sentence_zh": "攀岩者在上升前会检查安全带的每个扣环。"
+          },
+          {
+            "sentence": "The astronaut's harness had 16 adjustment points for zero-gravity work.",
+            "sentence_zh": "宇航员的安全带有16个调节点以适应失重作业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "甲胄",
+        "examples": [
+          {
+            "sentence": "The museum displayed a Song Dynasty fish-scale harness weighing 28kg.",
+            "sentence_zh": "博物馆展出了一套重达28公斤的宋代鱼鳞甲。"
+          },
+          {
+            "sentence": "Larpers DIY their fantasy harnesses with EVA foam and leather.",
+            "sentence_zh": "真人角色扮演玩家用EVA泡沫和皮革自制奇幻铠甲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给...上挽具",
+        "examples": [
+          {
+            "sentence": "The cowboy harnessed his horse with jingling silver conchos.",
+            "sentence_zh": "牛仔用叮当作响的银饰扣给马匹上挽具。"
+          },
+          {
+            "sentence": "In the Yangshuo countryside, water buffalo are still harnessed to plows.",
+            "sentence_zh": "阳朔乡村至今仍会给水牛套犁具。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "驾驭",
+        "examples": [
+          {
+            "sentence": "Genghis Khan harnessed the mobility of cavalry to build an empire.",
+            "sentence_zh": "成吉思汗通过驾驭骑兵的机动性建立帝国。"
+          },
+          {
+            "sentence": "Modern CEOs must harness the power of big data.",
+            "sentence_zh": "当代CEO必须善用大数据的力量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "披上甲胄",
+        "examples": [
+          {
+            "sentence": "The reenactors harnessed themselves in replica Ming Dynasty armor.",
+            "sentence_zh": "历史重现爱好者们穿上复刻的明代铠甲。"
+          },
+          {
+            "sentence": "In the movie scene, extras were hastily harnessed with plastic prop armor.",
+            "sentence_zh": "电影场景中，群演被匆忙套上塑料道具铠甲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "利用...以产生动力",
+        "examples": [
+          {
+            "sentence": "Three Gorges Dam harnesses the Yangtze River's flow to power 18 nuclear plants worth of electricity.",
+            "sentence_zh": "三峡大坝利用长江水流发电，相当于18座核电站的发电量。"
+          },
+          {
+            "sentence": "Scientists are working to harness nuclear fusion like the sun does.",
+            "sentence_zh": "科学家正致力于像太阳那样利用核聚变能量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in harness",
+        "meaning": "通力合作",
+        "examples": [
+          {
+            "sentence": "The tech giants worked in harness to develop the new protocol.",
+            "sentence_zh": "科技巨头们通力合作开发新协议。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "harness up",
+        "meaning": "完全装备",
+        "examples": [
+          {
+            "sentence": "The firefighter harnessed up within 45 seconds when the alarm sounded.",
+            "sentence_zh": "警报响起时，消防员在45秒内完成全装备。"
+          }
+        ]
+      }
+    ],
+    "teach": "harness是古代版'特斯拉充电桩'🔋！蒙古骑兵用它控制战马🐎（horse harness），长城烽火台用它传递信号📶（harness fire），现代工程师用它驾驭三峡大坝⚡（harness hydropower）。想用英语说'物尽其用'？试试'harness the potential'！搭配推荐：safety harness（安全带）= 打工人的生命线💼，wind harness（风力装置）= 巨型风车の蝴蝶结🎀",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊螺丝'→用harness固定设备",
+        "易混词：harness vs. hardness（硬度）→ 安全带(harn-ness)要软硬适中",
+        "记忆法：拆解har-ness→'硬核(hard)网络(net)'需要约束装置"
+      ]
+    }
   }
 ]

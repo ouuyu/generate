@@ -13317,5 +13317,356 @@
         "易混词：laundry（洗衣店）vs. lawyer（律师）→一个洗衣服，一个'洗'案子"
       ]
     }
+  },
+  {
+    "word": "laureate",
+    "etymology": {
+      "breakdown": [
+        "laur",
+        "ate"
+      ],
+      "meaning_connection": "词根laur=月桂树（拉丁语laurus），-ate表'具有...性质的'→古希腊用月桂树枝编冠冕授予胜利者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "戴桂冠的",
+        "examples": [
+          {
+            "sentence": "The laureate athlete bit his gold medal dramatically.",
+            "sentence_zh": "那位戴桂冠的运动员戏剧性地咬了下金牌。"
+          },
+          {
+            "sentence": "In Roman times, laureate generals would parade through the streets.",
+            "sentence_zh": "古罗马时期，戴桂冠的将军们会在街头游行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "用月桂树枝编织成的",
+        "examples": [
+          {
+            "sentence": "The chef garnished the dish with laureate wreaths.",
+            "sentence_zh": "主厨用月桂树枝编织的装饰点缀菜肴。"
+          },
+          {
+            "sentence": "Apollo's laureate crown symbolizes poetic achievement.",
+            "sentence_zh": "阿波罗的月桂枝冠象征诗歌成就。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "荣誉的",
+        "examples": [
+          {
+            "sentence": "Nobel laureate scientists enjoy lifetime prestige.",
+            "sentence_zh": "诺贝尔奖得主科学家享有终身荣誉。"
+          },
+          {
+            "sentence": "The laureate title comes with great responsibility.",
+            "sentence_zh": "这项荣誉头衔伴随着重大责任。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "桂冠诗人",
+        "examples": [
+          {
+            "sentence": "The British laureate writes poems for royal events.",
+            "sentence_zh": "英国桂冠诗人为皇室活动创作诗歌。"
+          },
+          {
+            "sentence": "Ancient Greek laureates were considered prophets of Apollo.",
+            "sentence_zh": "古希腊桂冠诗人被视为阿波罗的代言人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使戴桂冠",
+        "examples": [
+          {
+            "sentence": "The emperor laureated the victorious gladiator personally.",
+            "sentence_zh": "皇帝亲自为获胜的角斗士戴上桂冠。"
+          },
+          {
+            "sentence": "They will laureate the Nobel winners in Stockholm.",
+            "sentence_zh": "他们将在斯德哥尔摩为诺贝尔奖得主加冕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "poet laureate",
+        "meaning": "桂冠诗人（官方头衔）",
+        "examples": [
+          {
+            "sentence": "The poet laureate composed verses for the Queen's birthday.",
+            "sentence_zh": "桂冠诗人为女王生日创作了诗篇。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Nobel laureate",
+        "meaning": "诺贝尔奖得主",
+        "examples": [
+          {
+            "sentence": "Tu Youyou became China's first female Nobel laureate in medicine.",
+            "sentence_zh": "屠呦呦成为中国首位女性诺贝尔医学奖得主。"
+          }
+        ]
+      }
+    ],
+    "teach": "laureate原来是'月桂树精'🌿！古希腊人相信月桂树能防雷劈⚡，所以给冠军戴桂冠（laureate wreath）。现在说'躺赢'叫rest on one's laurels（躺在桂冠上休息）。要夸人厉害可以说'You're the Shakespeare laureate of our office!'（你是办公室的莎士比亚奖得主）🎭🏆🍃",
+    "recite": {
+      "tips": [
+        "谐音梗：'老瑞特'→老瑞特(laureate)爷爷总戴着荣誉帽子",
+        "易混词：laureate（荣誉的）vs. laurel（月桂树本身）"
+      ]
+    }
+  },
+  {
+    "word": "laurel",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语laurus，指地中海地区月桂树。古罗马用月桂叶编成冠冕奖励胜利者，引申出荣誉含义。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "月桂树",
+        "examples": [
+          {
+            "sentence": "The chef garnished the Peking duck with fresh laurel leaves.",
+            "sentence_zh": "厨师用新鲜月桂叶装饰北京烤鸭。"
+          },
+          {
+            "sentence": "Laurel wreaths shaded the marble statues in the villa.",
+            "sentence_zh": "月桂枝编成的花环为别墅里的大理石雕像遮阴。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "荣誉",
+        "examples": [
+          {
+            "sentence": "Winning the Golden Horse Award added new laurels to her career.",
+            "sentence_zh": "获得金马奖为她的职业生涯再添荣誉。"
+          },
+          {
+            "sentence": "The scientist's laurels came from 20 years of research on rice hybrids.",
+            "sentence_zh": "这位科学家的荣誉来自20年水稻杂交研究。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使戴桂冠",
+        "examples": [
+          {
+            "sentence": "Ancient poets were laureled with golden wreaths in temple ceremonies.",
+            "sentence_zh": "在古代寺庙仪式中，诗人们会被戴上金色桂冠。"
+          },
+          {
+            "sentence": "The champion was laureled while dragon dancers circled the square.",
+            "sentence_zh": "当舞龙队伍绕场时，冠军被授予桂冠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "授予荣誉",
+        "examples": [
+          {
+            "sentence": "The university laureled the tech entrepreneur with an honorary PhD.",
+            "sentence_zh": "大学授予这位科技企业家荣誉博士学位。"
+          },
+          {
+            "sentence": "For creating WeChat, Zhang Xiaolong was laureled as 'Top Innovator'.",
+            "sentence_zh": "因创造微信，张小龙被授予'顶尖创新者'荣誉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rest on one's laurels",
+        "meaning": "固步自封",
+        "examples": [
+          {
+            "sentence": "After winning Olympic gold, the athlete didn't rest on his laurels but trained harder.",
+            "sentence_zh": "获得奥运金牌后，这位运动员没有固步自封，反而更加刻苦训练。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "look to one's laurels",
+        "meaning": "警惕被超越",
+        "examples": [
+          {
+            "sentence": "With new competitors like Douyin, Weibo must look to its laurels.",
+            "sentence_zh": "面对抖音等新竞争者，微博必须警惕被超越。"
+          }
+        ]
+      }
+    ],
+    "teach": "laurel是古代凡尔赛必备🌿！凯撒大帝的桂冠(laurel wreath)就像现代奥运金牌🏅️，'固步自封'(rest on laurels)原指躺在桂冠上睡大觉💤。现代用法：获得诺贝尔奖叫win laurels，'警惕被超越'说look to your laurels要像防外卖小哥超车🚴♂️般警觉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'老荣耀'→月桂树(laurel)代表古老荣耀",
+        "易混词：laurel(月桂) vs. floral(花卉的)",
+        "记忆tip：桂冠=古代朋友圈点赞👍"
+      ]
+    }
+  },
+  {
+    "word": "lav",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语lavatorium（洗涤处），经法语lavabo演变而来"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "盥洗室",
+        "examples": [
+          {
+            "sentence": "The hospital lav has automatic faucets shaped like swans.",
+            "sentence_zh": "医院盥洗室配有天鹅造型的自动水龙头。"
+          },
+          {
+            "sentence": "Mona Lisa's smile looks like she just found a gold bar in the lav.",
+            "sentence_zh": "蒙娜丽莎的微笑像是刚在盥洗室捡到金条。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "公共厕所",
+        "examples": [
+          {
+            "sentence": "The subway lav charges 1 yuan like a pay-to-pee vending machine.",
+            "sentence_zh": "地铁公厕收费1元像投币式自动贩卖机。"
+          },
+          {
+            "sentence": "Tourists mistook the terracotta warriors for ancient lav attendants.",
+            "sentence_zh": "游客差点把兵马俑当成古代公厕管理员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗脸盆",
+        "examples": [
+          {
+            "sentence": "His antique lav is made of marble with mermaid carvings.",
+            "sentence_zh": "他的古董洗脸盆刻着美人鱼纹饰。"
+          },
+          {
+            "sentence": "Cat owners know lav bowls become automatic drinking fountains.",
+            "sentence_zh": "养猫人都知道洗脸盆会变成自动饮水机。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lav paper",
+        "meaning": "厕纸",
+        "examples": [
+          {
+            "sentence": "The panda-shaped lav paper sold out instantly online.",
+            "sentence_zh": "熊猫造型厕纸在网上秒售罄。"
+          }
+        ]
+      }
+    ],
+    "teach": "lav是洗手间界的007🕴️——既能指高端酒店镀金洗脸盆🚰，也能是春运火车蹲坑🚂。古罗马人用lavatorium（洗浴场）搞政治社交，现代人用lav刷抖音🤳。说'上厕所'可俏皮地用visit the lav，'憋不住'叫cross-legged emergency🦵💦。记住：所有lav最终都会变成手机充电站🔋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来污'→来污(lav)的地方搞清洁",
+        "易混词：lav vs lava（前者洗手盆，后者岩浆）",
+        "记忆法：LAV= Luxury And Vulgar（奢俗共存）"
+      ]
+    }
+  },
+  {
+    "word": "lava",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自意大利语'熔岩'，与拉丁语'labi'(滑落)相关，描绘岩浆流淌状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "熔岩",
+        "examples": [
+          {
+            "sentence": "The red-hot lava slowly devoured an entire village in Hawaii.",
+            "sentence_zh": "赤红的熔岩缓缓吞噬了夏威夷的整个村庄。"
+          },
+          {
+            "sentence": "Tourists could smell sulfur while watching lava fountain eruptions.",
+            "sentence_zh": "游客观赏熔岩喷泉时能闻到硫磺味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "火山岩",
+        "examples": [
+          {
+            "sentence": "The black lava rocks form dramatic landscapes in Iceland.",
+            "sentence_zh": "冰岛的黑色火山岩构成壮观的景观。"
+          },
+          {
+            "sentence": "Ancient Hawaiians used porous lava stones to build temples.",
+            "sentence_zh": "古夏威夷人用多孔火山岩建造神庙。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lava flow",
+        "meaning": "熔岩流",
+        "examples": [
+          {
+            "sentence": "The 2021 lava flow created new coastline in La Palma.",
+            "sentence_zh": "2021年的熔岩流在拉帕尔马岛形成了新海岸线。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "lava lamp",
+        "meaning": "熔岩灯",
+        "examples": [
+          {
+            "sentence": "His retro lava lamp still works after 20 years.",
+            "sentence_zh": "他的复古熔岩灯20年后依然能用。"
+          }
+        ]
+      }
+    ],
+    "teach": "lava是地球的番茄酱🍅！古罗马人以为火山是火神Vulcan的锻造厂⚒️，现代人却用熔岩烤棉花糖🍢（别尝试！）。'慢如熔岩'说slow as lava flow，'脾气火爆'叫have a lava temper🌋。记住：真正的lava温度=900个火锅同时沸腾♨️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'辣娃'→火山是个喷辣娃(lava)的暴躁娃",
+        "易混对比：magma(地下岩浆) vs lava(喷出地表)",
+        "记忆tip：想象'LAVA'四个字母像流淌的熔岩形状"
+      ]
+    }
   }
 ]

@@ -13263,5 +13263,274 @@
         "易混词：perimeter(周长)是外围，parameter是内参"
       ]
     }
+  },
+  {
+    "word": "parametric",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "metr",
+        "ic"
+      ],
+      "meaning_connection": "前缀para-=旁侧的，词根metr=测量，-ic表形容词→与旁侧测量相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "参数的",
+        "examples": [
+          {
+            "sentence": "The parametric design of this drone allows 37% battery optimization.",
+            "sentence_zh": "这款无人机的参数化设计实现了37%的电池优化。"
+          },
+          {
+            "sentence": "TikTok's algorithm uses parametric models to recommend videos.",
+            "sentence_zh": "抖音算法使用参数模型推荐视频。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "参量的",
+        "examples": [
+          {
+            "sentence": "The parametric equations confused students like abstract art.",
+            "sentence_zh": "参量方程让学生困惑得像看抽象画。"
+          },
+          {
+            "sentence": "Engineers adjusted parametric variables as carefully as tuning a guqin.",
+            "sentence_zh": "工程师调节参量变量时谨慎得像在调试古琴。"
+          }
+        ]
+      }
+    ],
+    "teach": "parametric是科技界的变色龙🦎！在数学里它是会跳舞的XYZ坐标系💃（parametric curve），在编程里是AI模型的营养配比🍚（parametric tuning）。搭配说'parametric design'就像乐高说明书📐，'parametric analysis'则是给数据做CT扫描🩻。记住：所有带-meter的仪器（thermometer温度计）都是它的远房亲戚！",
+    "recite": {
+      "tips": [
+        "视觉联想：para(趴着)+meter(米尺)→趴着量参数的科研狗",
+        "易混词对比：parameter(参数n.) vs. parametric(参数的adj.)"
+      ]
+    }
+  },
+  {
+    "word": "paramilitary",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "military"
+      ],
+      "meaning_connection": "前缀para-=旁侧/辅助（如parasol遮阳伞），military=军事的→在正规军队旁协助的力量"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "辅助军事的",
+        "examples": [
+          {
+            "sentence": "The paramilitary group provided logistics support during the flood relief.",
+            "sentence_zh": "这支准军事组织在抗洪救灾期间提供后勤支援。"
+          },
+          {
+            "sentence": "Their paramilitary training includes how to build bamboo bridges.",
+            "sentence_zh": "他们的辅助军事训练包括搭建竹桥技巧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paramilitary forces",
+        "meaning": "准军事部队",
+        "examples": [
+          {
+            "sentence": "The border paramilitary forces use drones with thermal imaging.",
+            "sentence_zh": "边境准军事部队使用带热成像的无人机。"
+          }
+        ]
+      }
+    ],
+    "teach": "paramilitary就像吃鸡游戏里的医疗兵🏥+炊事班🍳！历史上瑞士雇佣兵带着老婆出征（老婆算para-military），现代武警就像'军事+'版本👮♂️。搭配'paramilitary organization'（如军训时的学生方阵👨🎓），地道说法叫'shadow army'（影子军队）🌑。记住：para-开头的都是'二当家'，比如parasite（寄生虫）也是傍大款的！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派来摸雷替'→派来摸地雷的替补(paramilitary)队员",
+        "易混词对比：militant（激进分子）带火药味，paramilitary（准军事）带后勤味"
+      ]
+    }
+  },
+  {
+    "word": "paramount",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "mount"
+      ],
+      "meaning_connection": "前缀para-=超越，mount=山→原指'在山之上'，引申为至高无上的地位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "首长",
+        "examples": [
+          {
+            "sentence": "The tribal paramount wore a headdress made of golden pheasant feathers.",
+            "sentence_zh": "部落首长戴着用金鸡羽毛制成的头饰。"
+          },
+          {
+            "sentence": "In this cartoon, the panda is portrayed as the forest paramount.",
+            "sentence_zh": "在这部动画里，熊猫被塑造成森林最高统治者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "最高当局",
+        "examples": [
+          {
+            "sentence": "All disputes shall be submitted to the paramount for final decision.",
+            "sentence_zh": "所有争议都应提交最高当局做最终裁决。"
+          },
+          {
+            "sentence": "The pirate ship's paramount had absolute authority during voyages.",
+            "sentence_zh": "海盗船的最高当局在航行期间拥有绝对权力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "最重要的",
+        "examples": [
+          {
+            "sentence": "Food safety is of paramount importance in school cafeterias.",
+            "sentence_zh": "食品安全在学校食堂至关重要。"
+          },
+          {
+            "sentence": "The paramount consideration when choosing a spouse is shared values.",
+            "sentence_zh": "选择配偶时最重要的考量是价值观是否一致。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "最高的",
+        "examples": [
+          {
+            "sentence": "Mount Everest holds paramount status among all peaks.",
+            "sentence_zh": "珠穆朗玛峰在众山峰中享有至高地位。"
+          },
+          {
+            "sentence": "The Supreme People's Court exercises paramount judicial power.",
+            "sentence_zh": "最高人民法院行使最高司法权。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "至上的",
+        "examples": [
+          {
+            "sentence": "The emperor's paramount authority was symbolized by the dragon robe.",
+            "sentence_zh": "皇帝的至上权威通过龙袍来象征。"
+          },
+          {
+            "sentence": "In some cultures, the mother's role is considered paramount in child-rearing.",
+            "sentence_zh": "在某些文化中，母亲在育儿方面被认为具有至上地位。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paramount chief",
+        "meaning": "最高酋长",
+        "examples": [
+          {
+            "sentence": "The paramount chief settled the dispute between two villages with ancient wisdom.",
+            "sentence_zh": "最高酋长用古老的智慧解决了两个村庄的争端。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "paramount importance",
+        "meaning": "头等重要",
+        "examples": [
+          {
+            "sentence": "Cyber security is of paramount importance for financial institutions.",
+            "sentence_zh": "网络安全对金融机构而言头等重要。"
+          }
+        ]
+      }
+    ],
+    "teach": "paramount就像游戏里的满级玩家👑！词根para-（超越）+mount（山）= 站在山顶俯视众生🏔️。当说'最高当局'时想象玉皇大帝坐镇天庭☁️，说'最重要的'时回忆高考前班主任的叮嘱📚。实用搭配：'paramount leader'（最高领导人，中国特指邓小平时期），'paramount concern'（头等大事）。说'绝对权威'可以用铁王座梗：He sits on the paramount throne of this department🗝️。",
+    "recite": {
+      "tips": [
+        "谐音梗：'派拉蒙'→电影公司名就是'至高'的意思",
+        "易混词对比：supreme（主观认定的最高） vs paramount（客观事实的最高）",
+        "联想记忆：para（ parachute降落伞）+ mount（山）= 空降到最高峰"
+      ]
+    }
+  },
+  {
+    "word": "paramour",
+    "etymology": {
+      "breakdown": [
+        "par",
+        "amour"
+      ],
+      "meaning_connection": "前缀par-源自法语'par'（通过），amour=爱情→字面'通过爱情'，原指中世纪骑士的婚外恋情"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "情夫",
+        "examples": [
+          {
+            "sentence": "The novel depicts a nobleman's paramour hiding in the Louvre.",
+            "sentence_zh": "小说描写了贵族情夫躲藏在卢浮宫的情节。"
+          },
+          {
+            "sentence": "He bought jade bracelets for his paramour at auction.",
+            "sentence_zh": "他在拍卖会上为情夫买了翡翠手镯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "情妇",
+        "examples": [
+          {
+            "sentence": "The CEO's paramour unexpectedly appeared at the shareholders' meeting.",
+            "sentence_zh": "CEO的情妇意外出现在股东大会上。"
+          },
+          {
+            "sentence": "She kept her status as a paramour secret for a decade.",
+            "sentence_zh": "她将情妇身份保密了十年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "情人",
+        "examples": [
+          {
+            "sentence": "They met as paramours in a Parisian café during WWII.",
+            "sentence_zh": "二战时期他们作为情人在巴黎咖啡馆相识。"
+          },
+          {
+            "sentence": "The poet wrote sonnets for his unacknowledged paramour.",
+            "sentence_zh": "诗人为他未公开的情人写下十四行诗。"
+          }
+        ]
+      }
+    ],
+    "teach": "paramour是'帕拉摩尔'💃：源自法语amour（爱情）+par（通过），像《花样年华》里梁朝伟和张曼玉的禁忌之恋🎬。说'包养情妇'叫keep a mistress，'出轨对象'说secret lover更委婉。记住：paramour就像法式甜点🍮——甜蜜但可能让你胃疼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕拉磨'→怕拉磨(paramour)的驴不敢搞外遇",
+        "易混词对比：lover（中性）/mistress（贬义）/paramour（文学性）"
+      ]
+    }
   }
 ]

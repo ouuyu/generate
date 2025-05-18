@@ -13164,5 +13164,286 @@
         "易混词对比：company(公司/陪伴) vs accompaniment(具体伴随物)"
       ]
     }
+  },
+  {
+    "word": "accompanist",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "com",
+        "pan",
+        "ist"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，com-表示'共同'，词根pan源自拉丁语'panis'（面包，引申为滋养），-ist表示'从事者'→原指共同滋养音乐的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "伴奏者",
+        "examples": [
+          {
+            "sentence": "The blind pianist became Lang Lang's accompanist at age 15.",
+            "sentence_zh": "这位盲人钢琴家15岁就成为郎朗的伴奏者。"
+          },
+          {
+            "sentence": "As an accompanist for Peking Opera, she masters 238 types of drum patterns.",
+            "sentence_zh": "作为京剧伴奏者，她掌握238种锣鼓经。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lead singer and accompanist",
+        "meaning": "主唱与伴奏者",
+        "examples": [
+          {
+            "sentence": "Their dynamic is like hotpot broth and ingredients - the lead singer boils while the accompanist provides the base flavor.",
+            "sentence_zh": "他们的关系像火锅汤底与食材——主唱沸腾，伴奏者提供底味。"
+          }
+        ]
+      }
+    ],
+    "teach": "accompanist其实是音乐界的'捧哏'🎭！在维也纳金色大厅，钢琴伴奏者被称为'音乐侦探'🔍（要预判主奏的每个呼吸）。视觉联想：就像火锅里的鸳鸯锅🍲，主奏是红汤，伴奏是白汤。实用搭配：'ghost accompanist'（替身伴奏者），'human metronome'（人肉节拍器）。地道表达说'抢风头'叫steal the spotlight🕺。记住：没有周杰伦的方文山，再好的词也孤单！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿康陪你是'→阿康陪你是(accompanist)最佳拍档",
+        "易混词：composer（作曲者）是造梦者，accompanist是织梦人"
+      ]
+    }
+  },
+  {
+    "word": "accompany",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "com",
+        "pan",
+        "y"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，com-表示'共同'，词根pan源于拉丁语'panis'（面包）→原指'共享面包的人'，引申出陪伴与伴奏双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "陪伴",
+        "examples": [
+          {
+            "sentence": "Pandas often accompany researchers during field studies in Sichuan.",
+            "sentence_zh": "在四川的野外考察中，大熊猫经常陪伴研究人员。"
+          },
+          {
+            "sentence": "Grandma insists her cat accompanies her to the square dance.",
+            "sentence_zh": "奶奶坚持要她的猫陪她去跳广场舞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "伴随",
+        "examples": [
+          {
+            "sentence": "The typhoon was accompanied by memes about flying milk tea cups.",
+            "sentence_zh": "台风伴随着奶茶杯满天飞的梗图而来。"
+          },
+          {
+            "sentence": "His promotion was accompanied by sudden hair loss.",
+            "sentence_zh": "他的升职伴随着突如其来的脱发。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "补充",
+        "examples": [
+          {
+            "sentence": "Hotpot should be accompanied by icy cola to balance the spice.",
+            "sentence_zh": "火锅应该配冰可乐来中和辣味。"
+          },
+          {
+            "sentence": "The professor accompanied his lecture with hilarious emoji slides.",
+            "sentence_zh": "教授用搞笑的表情包幻灯片补充他的讲座。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "为...伴奏",
+        "examples": [
+          {
+            "sentence": "The guzheng master accompanied the Peking opera performance.",
+            "sentence_zh": "古筝大师为京剧表演伴奏。"
+          },
+          {
+            "sentence": "Can you accompany my singing with egg shakers?",
+            "sentence_zh": "你能用鸡蛋沙锤为我的演唱伴奏吗？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "伴奏",
+        "examples": [
+          {
+            "sentence": "The erhu player accompanying suddenly switched to the Super Mario theme.",
+            "sentence_zh": "正在伴奏的二胡手突然切到了超级玛丽主题曲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "伴唱",
+        "examples": [
+          {
+            "sentence": "The backup vocalist accompanying forgot the lyrics and hummed instead.",
+            "sentence_zh": "伴唱歌手忘了歌词改用哼唱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accompany with",
+        "meaning": "附带",
+        "examples": [
+          {
+            "sentence": "The new iPhone accompanies with a viral unboxing challenge on Douyin.",
+            "sentence_zh": "新iPhone发布伴随着抖音上的开封挑战热潮。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accompany on",
+        "meaning": "用...乐器伴奏",
+        "examples": [
+          {
+            "sentence": "He accompanied the choir on a bicycle pump as a joke.",
+            "sentence_zh": "他恶搞地用打气筒为合唱团伴奏。"
+          }
+        ]
+      }
+    ],
+    "teach": "accompany是社交达人💃：从古罗马'面包伙伴'(com+panis)演化成现代多功能词。'陪伴'就像闺蜜陪你喝奶茶🥤（accompany to），'伴奏'像KTV里的灵魂和声🎤（accompany on）。说'形影不离'可以用attached at the hip这个俚语，记住：真正的accompany是连上厕所都要一起的友谊🚽！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呃，看胖妮'→陪伴(accompany)胖妮减肥",
+        "易混词对比：company（公司）砍掉ac就变职场",
+        "记忆口诀：ac+company=在公司需要陪伴"
+      ]
+    }
+  },
+  {
+    "word": "accompanying",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "com",
+        "pan",
+        "ing"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'，com-表'共同'，pan源自拉丁语'panis'(面包)→原指'一起分享面包的人'，引申为'陪伴'，-ing表形容词性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "随同的",
+        "examples": [
+          {
+            "sentence": "The accompanying panda keeper carries bamboo everywhere.",
+            "sentence_zh": "随同的熊猫饲养员走到哪都带着竹子。"
+          },
+          {
+            "sentence": "Pay attention to the accompanying symptoms like fever.",
+            "sentence_zh": "注意随同出现的发烧等症状。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "附见的",
+        "examples": [
+          {
+            "sentence": "Check the accompanying map for hotpot restaurant locations.",
+            "sentence_zh": "查看附见的地图获取火锅店位置。"
+          },
+          {
+            "sentence": "The accompanying documents explain the meme culture.",
+            "sentence_zh": "附见的文件解释了网络梗文化。"
+          }
+        ]
+      }
+    ],
+    "teach": "accompanying本质是'面包社交'🍞：古代用com+pan(共食面包)表示陪伴，就像现在吃火锅必配油碟🍲！说'随行人员'用entourage更炫酷，'附件'说enclosure更正式。记住：带对象见家长时，你就是最主要的accompanying person💑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿康陪你'→医疗陪护(accompanying)场景",
+        "易混词对比：company(公司/陪伴) VS companion(同伴)"
+      ]
+    }
+  },
+  {
+    "word": "accomplice",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "com",
+        "plice"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，com-表示'共同'，-plice来自拉丁语plicare（折叠）→原指'共同卷入事件的人'，后指共谋者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "共犯",
+        "examples": [
+          {
+            "sentence": "The thief's accomplice distracted the security guard with a fake spider.",
+            "sentence_zh": "小偷的同伙用假蜘蛛分散了保安注意力。"
+          },
+          {
+            "sentence": "Her dog became an unwilling accomplice in stealing sausages.",
+            "sentence_zh": "她的狗成了偷香肠的不情愿共犯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "同谋",
+        "examples": [
+          {
+            "sentence": "The hacker's accomplice leaked passwords through a Minecraft mod.",
+            "sentence_zh": "黑客的同谋通过《我的世界》模组泄漏密码。"
+          },
+          {
+            "sentence": "They found the CEO's accomplice in the accounting fraud.",
+            "sentence_zh": "他们发现了CEO在财务造假中的同谋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "willing accomplice",
+        "meaning": "自愿同谋",
+        "examples": [
+          {
+            "sentence": "The meme became a willing accomplice in spreading the rumor.",
+            "sentence_zh": "这个表情包成了传播谣言的自觉同谋。"
+          }
+        ]
+      }
+    ],
+    "teach": "accomplice是'塑料兄弟情'🤝的最佳代言！词根com-（共同）和-plice（折叠）暗示你们像折纸一样被'折'进同一个案件📜。说'背锅侠'可以用fall guy，'共谋作案'叫in cahoots with（比如：The cat was in cahoots with the dog🐱🐶）。记住：真正的accomplice连吃火锅都帮你涮毛肚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鳄鱼可离谱'→鳄鱼帮凶很离谱",
+        "易混词对比：assistant（合法助手） vs accomplice（非法同谋）",
+        "记忆tip：ac+com（一起）+plice（plice音似'place'）→一起在犯罪现场的人"
+      ]
+    }
   }
 ]

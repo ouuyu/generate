@@ -13396,5 +13396,352 @@
         "记忆tip：ju（法官）+dic（说）+ious（的）=法官说话的方式"
       ]
     }
+  },
+  {
+    "word": "judo",
+    "etymology": {
+      "breakdown": [
+        "ju",
+        "do"
+      ],
+      "meaning_connection": "日语'柔道'（じゅうどう）音译，ju=柔韧，do=道→字面意'温柔的方式'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "柔道（日本武术）",
+        "examples": [
+          {
+            "sentence": "Kids' judo classes teach them to fall safely like rolling dumplings.",
+            "sentence_zh": "儿童柔道课教他们像翻滚的饺子般安全摔倒。"
+          },
+          {
+            "sentence": "Olympic judo matches are decided by ippon, just like instant KO in hotpot chopstick battles.",
+            "sentence_zh": "奥运柔道比赛以'一本'决胜负，好比火锅桌上的筷子对决秒杀。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "practice judo",
+        "meaning": "练习柔道",
+        "examples": [
+          {
+            "sentence": "She practices judo to release stress after coding marathons.",
+            "sentence_zh": "她通过练习柔道来释放编程马拉松后的压力。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "judo throw",
+        "meaning": "柔道投技",
+        "examples": [
+          {
+            "sentence": "His signature judo throw works better on the mat than in subway crowds.",
+            "sentence_zh": "他的招牌柔道投技在垫子上比在地铁人潮中更管用。"
+          }
+        ]
+      }
+    ],
+    "teach": "judo其实是'温柔版相扑'🤼：1882年嘉纳治五郎把'打架术'改造成体育项目，就像把辣椒酱🌶️调成微辣版。说'被秒杀'叫ippon（一本），就像游戏里的'KO'💥。搭配要说do judo（练柔道），地道表达是gentle way（本意柔道）。记住：judo的精髓是四两拨千斤，不是真的让你去掀翻老板！",
+    "recite": {
+      "tips": [
+        "谐音梗：'柔道'→'肉抖'（被摔倒时肌肉颤抖）",
+        "易混词：jujitsu（柔术，实战版） vs judo（体育版）"
+      ]
+    }
+  },
+  {
+    "word": "jug",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语jugge，可能与古斯堪的纳维亚语'kugga'（桶）相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "水壶",
+        "examples": [
+          {
+            "sentence": "The grandma poured hot water from her porcelain jug with a dragon pattern.",
+            "sentence_zh": "老奶奶从绘着龙纹的瓷壶里倒出热水。"
+          },
+          {
+            "sentence": "Hipster cafes serve milk in retro glass jugs now.",
+            "sentence_zh": "现在网红咖啡馆都用复古玻璃壶装牛奶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "监牢",
+        "examples": [
+          {
+            "sentence": "He spent three years in the jug for stealing pandas.",
+            "sentence_zh": "他因偷熊猫蹲了三年号子。"
+          },
+          {
+            "sentence": "The gangster threatened to put me in the jug.",
+            "sentence_zh": "那混混威胁要把我关进大牢。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "模仿夜莺的叫声",
+        "examples": [
+          {
+            "sentence": "The birdwatcher perfectly imitated a nightingale's jug.",
+            "sentence_zh": "观鸟者完美模仿了夜莺的啼叫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "放入壶中",
+        "examples": [
+          {
+            "sentence": "Jug the fresh coconut water before it oxidizes.",
+            "sentence_zh": "把新鲜椰青水装壶以防氧化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "炖",
+        "examples": [
+          {
+            "sentence": "The chef is jugging hare with red wine now.",
+            "sentence_zh": "主厨正在用红酒炖野兔。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "关押",
+        "examples": [
+          {
+            "sentence": "The police jugged the suspect for 48 hours.",
+            "sentence_zh": "警方将嫌疑人关押了48小时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "模仿夜莺叫",
+        "examples": [
+          {
+            "sentence": "The cuckoo tried to jug but failed miserably.",
+            "sentence_zh": "布谷鸟试图模仿夜莺叫但惨遭失败。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jug band",
+        "meaning": "壶罐乐队（用壶罐当乐器的乐队）",
+        "examples": [
+          {
+            "sentence": "The homeless formed a jug band with kitchenware.",
+            "sentence_zh": "流浪汉们用厨具组建了壶罐乐队。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jug wine",
+        "meaning": "壶装酒（廉价酒）",
+        "examples": [
+          {
+            "sentence": "College students often drink jug wine at parties.",
+            "sentence_zh": "大学生派对常喝壶装廉价酒。"
+          }
+        ]
+      }
+    ],
+    "teach": "jug是个戏精单词🎭！当水壶时像宜家9.9元爆款🚰；当'监牢'时秒变黑帮电影台词🔫（in the jug）；炖煮时化身中华小当家的砂锅🍲（jugged hare）；模仿鸟叫时简直是鸟界假唱冠军🎤。要说'坐牢'可戏谑地说do time in the jug，'廉价酒'叫jug wine就像散装白酒😵。记住：从厨房到监狱，一个jug全搞定！",
+    "recite": {
+      "tips": [
+        "谐音梗：'扎个'→扎个猛子进jug（水壶）",
+        "易混词：mug（马克杯/抢劫）"
+      ]
+    }
+  },
+  {
+    "word": "juggernaut",
+    "etymology": {
+      "breakdown": [
+        "Jagannath"
+      ],
+      "meaning_connection": "源自印度教神Jagannath（世界主宰），其庆典战车传说能碾压一切，19世纪被英语吸收后衍生出'不可阻挡之力'的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不可阻挡的庞然大物",
+        "examples": [
+          {
+            "sentence": "The new AI model became a juggernaut in tech industry.",
+            "sentence_zh": "这款新AI模型成了科技界的巨无霸。"
+          },
+          {
+            "sentence": "Dragon Boat Festival traffic is like a juggernaut on highways.",
+            "sentence_zh": "端午节高速上的车流如同钢铁洪流。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "使人盲目崇拜的力量",
+        "examples": [
+          {
+            "sentence": "Social media fame became his personal juggernaut.",
+            "sentence_zh": "网红名声成了他沉迷的虚幻神像。"
+          },
+          {
+            "sentence": "The cult leader built a juggernaut of blind followers.",
+            "sentence_zh": "邪教头目构筑了盲目信徒的崇拜巨轮。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "juggernaut of",
+        "meaning": "...的巨兽",
+        "examples": [
+          {
+            "sentence": "TikTok is a juggernaut of short videos.",
+            "sentence_zh": "抖音是短视频领域的霸主。"
+          }
+        ]
+      }
+    ],
+    "teach": "juggernaut是印度神车变身的英语怪兽🛞！原指印度教主神Jagannath的巨型战车（信徒曾自愿被碾作祭品😱），现在形容双十一购物潮🛍️或春运人流👨👩👧👦这类'碾压一切'的存在。搭配'tech juggernaut'说科技巨头，'像被神车碾过'可说flattened by the juggernaut of... 记住：遇到boss级难题就用它！💥",
+    "recite": {
+      "tips": [
+        "视觉记忆：J字母像战车车轴，ugger联想'碾压声'，naut谐音'闹腾'",
+        "对比titan/behemoth/leviathan等'巨型生物'系词汇"
+      ]
+    }
+  },
+  {
+    "word": "juggle",
+    "etymology": {
+      "breakdown": [
+        "joc",
+        "le"
+      ],
+      "meaning_connection": "词根joc=玩笑(来自拉丁语jocus)，-le表反复动作→原指用戏法逗乐，后衍生出欺骗含义。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "玩戏法",
+        "examples": [
+          {
+            "sentence": "Street performers juggle flaming torches in Chengdu's alleys.",
+            "sentence_zh": "成都巷弄里的街头艺人会抛接燃烧的火把。"
+          },
+          {
+            "sentence": "The panda at the zoo can juggle bamboo sticks with its paws.",
+            "sentence_zh": "动物园的熊猫能用爪子耍竹竿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "行骗",
+        "examples": [
+          {
+            "sentence": "Scammers juggle with fake antique prices at Panjiayuan market.",
+            "sentence_zh": "潘家园市场的骗子用假古董价格行骗。"
+          },
+          {
+            "sentence": "He juggled through the interview by fabricating work experience.",
+            "sentence_zh": "他靠编造工作经历骗过面试。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "耍弄",
+        "examples": [
+          {
+            "sentence": "The comedian juggled three watermelons while riding a unicycle.",
+            "sentence_zh": "杂技演员骑独轮车耍弄三个西瓜。"
+          },
+          {
+            "sentence": "My nephew loves juggling his collection of Pokémon balls.",
+            "sentence_zh": "我侄子爱耍弄他的精灵球收藏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "篡改",
+        "examples": [
+          {
+            "sentence": "The accountant was caught juggling the company's financial records.",
+            "sentence_zh": "会计篡改公司账目被当场抓获。"
+          },
+          {
+            "sentence": "Never juggle with the expiration dates on dairy products.",
+            "sentence_zh": "千万别篡改乳制品的保质期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "魔术",
+        "examples": [
+          {
+            "sentence": "The Spring Festival Gala always features incredible juggle shows.",
+            "sentence_zh": "春晚总有令人叫绝的戏法表演。"
+          },
+          {
+            "sentence": "His cooking is like culinary juggle with flying knives.",
+            "sentence_zh": "他的厨艺就像飞刀杂耍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "juggle with",
+        "meaning": "玩弄/篡改",
+        "examples": [
+          {
+            "sentence": "Politicians shouldn't juggle with public opinion data.",
+            "sentence_zh": "政客不该玩弄民意数据。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "keep balls in the air",
+        "meaning": "同时应付多件事",
+        "examples": [
+          {
+            "sentence": "Moms are experts at juggling parenting and careers.",
+            "sentence_zh": "妈妈们都是带娃事业两不误的高手。"
+          }
+        ]
+      }
+    ],
+    "teach": "juggle就像成都的变脸🎭：艺人抛接的是火把(玩戏法)，骗子抛接的是谎言(行骗)，会计抛接的是数字(篡改)，职场妈妈抛接的是KPI和尿布👶💼！说'手忙脚乱'可以用juggling act，'骗局'叫shell game就像街头三仙归洞的把戏🐚。记住：会juggling的人不是魔术师就是老六！",
+    "recite": {
+      "tips": [
+        "谐音梗：'炸个雷'→骗子篡改账本终遭雷劈",
+        "易混词：joggle(轻摇) vs juggle(杂耍)"
+      ]
+    }
   }
 ]

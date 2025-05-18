@@ -13297,5 +13297,309 @@
         "记忆tip：im（不）+mun（服务）=不用服务→免除"
       ]
     }
+  },
+  {
+    "word": "immunization",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mun",
+        "ize",
+        "ation"
+      ],
+      "meaning_connection": "前缀im-=否定，词根mun=服务/义务（原指免除兵役），-ize=动词化，-ation=名词化→免除疾病义务的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "免疫",
+        "examples": [
+          {
+            "sentence": "The discovery of smallpox immunization saved millions of lives.",
+            "sentence_zh": "天花免疫法的发现拯救了数百万生命。"
+          },
+          {
+            "sentence": "Herd immunization works like a firewall against viruses.",
+            "sentence_zh": "群体免疫就像对抗病毒的防火墙。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immunization program",
+        "meaning": "免疫计划",
+        "examples": [
+          {
+            "sentence": "China's immunization program covers 15 childhood diseases.",
+            "sentence_zh": "中国的免疫计划涵盖15种儿童疾病。"
+          },
+          {
+            "sentence": "The COVID-19 immunization program rolled out faster than iPhone pre-orders.",
+            "sentence_zh": "新冠疫苗接种计划推出速度比iPhone预售还快。"
+          }
+        ]
+      }
+    ],
+    "teach": "immunization其实是'免役术'🛡️：中世纪贵族用mun(服役)换土地，im+mune=不用服役，后来演变成对抗病毒的'免疾'💉。说'打疫苗'地道表达是get jabbed（被戳一下），'疫苗犹豫'叫vaccine hesitancy就像拒绝吃香菜🌿的人。记住：你的免疫力就是你的超能力🦸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'疫苗内省'→疫苗让病毒内心崩溃",
+        "易混词对比：immunity(免疫力) vs. immunization(免疫过程)"
+      ]
+    }
+  },
+  {
+    "word": "immunize",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mun",
+        "ize"
+      ],
+      "meaning_connection": "前缀im-表否定，词根mun源自拉丁语munis（义务/服务），-ize为动词后缀→原指免除义务，引申为免疫"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使免疫",
+        "examples": [
+          {
+            "sentence": "The new vaccine can immunize people against zombie viruses in movies.",
+            "sentence_zh": "这种新疫苗能让人类对电影里的僵尸病毒免疫。"
+          },
+          {
+            "sentence": "Eating garlic daily won't actually immunize you from colds.",
+            "sentence_zh": "每天吃大蒜并不能真正让你对感冒免疫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "赋予免疫性",
+        "examples": [
+          {
+            "sentence": "This gene editing technology may immunize crops against extreme climates.",
+            "sentence_zh": "这项基因编辑技术可能赋予农作物对抗极端气候的免疫性。"
+          },
+          {
+            "sentence": "Some rare blood types naturally immunize against certain diseases.",
+            "sentence_zh": "某些稀有血型天然赋予对特定疾病的免疫性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immunize against",
+        "meaning": "对...产生免疫力",
+        "examples": [
+          {
+            "sentence": "Pandas are immunized against cuteness overload.",
+            "sentence_zh": "熊猫对萌力过载天然免疫。"
+          }
+        ]
+      }
+    ],
+    "teach": "immunize是疫苗界灭霸💉：前缀im-像金钟罩护体，词根mun来自罗马市政官(municeps)👨⚖️，古代豁免赋税就像现代疫苗豁免疾病。说'百毒不侵'可用bulletproof形容，'打疫苗'叫get jabbed💪。记住：你的免疫系统就像长城防火墙🛡️，而vaccine就是杀毒软件更新！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一秒nice'→打完疫苗一秒变安全",
+        "易混词对比：immunity（名词免疫）vs. vaccine（疫苗物质）",
+        "记忆tip：im（不）+ mune（义务）= 不用生病尽义务"
+      ]
+    }
+  },
+  {
+    "word": "immunodeficiency",
+    "etymology": {
+      "breakdown": [
+        "immuno",
+        "de",
+        "fic",
+        "ency"
+      ],
+      "meaning_connection": "immuno=免疫，de=否定前缀，fic=做/产生，-ency=状态→免疫系统无法正常工作的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "免疫缺陷",
+        "examples": [
+          {
+            "sentence": "HIV attacks the immune system, eventually causing immunodeficiency.",
+            "sentence_zh": "HIV病毒攻击免疫系统，最终导致免疫缺陷。"
+          },
+          {
+            "sentence": "Newborn screening can detect congenital immunodeficiency disorders.",
+            "sentence_zh": "新生儿筛查可检测先天性免疫缺陷疾病。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "免疫缺损",
+        "examples": [
+          {
+            "sentence": "The patient's immunodeficiency made him vulnerable to common colds.",
+            "sentence_zh": "患者的免疫缺损使他容易感染普通感冒。"
+          },
+          {
+            "sentence": "Bone marrow transplants can treat certain types of immunodeficiency.",
+            "sentence_zh": "骨髓移植可治疗某些类型的免疫缺损。"
+          }
+        ]
+      }
+    ],
+    "teach": "immunodeficiency就像你的手机没了杀毒软件📱💥！中世纪欧洲黑死病就是大型'免疫缺陷'现场（1/3欧洲人领盒饭🍱）。搭配说'severe immunodeficiency'就像防火墙全崩溃🔥，'acquired immunodeficiency'就是后天免疫力被偷🗝️。记住：你的免疫力值就像支付宝余额，少了就要充值💉！",
+    "recite": {
+      "tips": [
+        "拆解记忆：immuno（免疫）+de（反向）+ficiency（功能）→功能反着来",
+        "易混词对比：immunity（免疫力）是盾牌🛡️，immunodeficiency是盾牌破洞🕳️"
+      ]
+    }
+  },
+  {
+    "word": "immunofluorescence",
+    "etymology": {
+      "breakdown": [
+        "immuno",
+        "fluorescence"
+      ],
+      "meaning_connection": "immuno=免疫（来自拉丁语immunis表示'免除义务'），fluorescence=荧光（来自萤石fluorite发光现象）→用荧光标记检测免疫反应"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "免疫荧光",
+        "examples": [
+          {
+            "sentence": "The lab uses immunofluorescence to visualize antibodies like glowing fireflies under the microscope.",
+            "sentence_zh": "实验室用免疫荧光技术让抗体在显微镜下像发光的萤火虫般显现。"
+          },
+          {
+            "sentence": "COVID-19 rapid test kits often employ immunofluorescence technology.",
+            "sentence_zh": "新冠快速检测盒常采用免疫荧光技术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "免疫荧光法",
+        "examples": [
+          {
+            "sentence": "Doctors diagnosed the rare disease through indirect immunofluorescence.",
+            "sentence_zh": "医生通过间接免疫荧光法确诊了这种罕见病。"
+          },
+          {
+            "sentence": "This paper compares ELISA and immunofluorescence for allergen detection.",
+            "sentence_zh": "本篇论文比较了ELISA与免疫荧光法在过敏原检测中的表现。"
+          }
+        ]
+      }
+    ],
+    "teach": "immunofluorescence其实是生物医学界的'荧光贴纸'🔖：把抗体变成会发光的侦探（荧光标记），让它们在黑暗中抓病毒🦠！就像用夜光涂料在犯罪现场找指纹👣。搭配说'conduct immunofluorescence'（进行免疫荧光检测）或'quantitative immunofluorescence'（定量免疫荧光），吐槽检测麻烦可以说'This is harder than herding glowing cats!'（比赶一群发光的猫还难！）🧪🐈‍⬛💡",
+    "recite": {
+      "tips": [
+        "拆解记忆：immune（免疫）+ fluorescence（荧光）= 免疫世界的霓虹灯",
+        "易混词对比：immunohistochemistry（免疫组化）是染色，immunofluorescence是发光",
+        "联想：想象抗体穿着荧光跑鞋在组织里追抗原"
+      ]
+    }
+  },
+  {
+    "word": "immunoglobulin",
+    "etymology": {
+      "breakdown": [
+        "immuno",
+        "globulin"
+      ],
+      "meaning_connection": "immuno=免疫(来自拉丁语immunis'免除义务')，globulin=球蛋白(来自globule'小球体'+in'蛋白质后缀')→免疫系统产生的球状蛋白质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "免疫球蛋白",
+        "examples": [
+          {
+            "sentence": "Colostrum contains rich immunoglobulin to protect newborns.",
+            "sentence_zh": "初乳含有丰富的免疫球蛋白来保护新生儿。"
+          },
+          {
+            "sentence": "Doctors checked his immunoglobulin levels to diagnose the allergy.",
+            "sentence_zh": "医生检查了他的免疫球蛋白水平以诊断过敏症状。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immunoglobulin therapy",
+        "meaning": "免疫球蛋白疗法",
+        "examples": [
+          {
+            "sentence": "The hospital imported advanced immunoglobulin therapy equipment.",
+            "sentence_zh": "该医院进口了先进的免疫球蛋白治疗设备。"
+          }
+        ]
+      }
+    ],
+    "teach": "immunoglobulin其实是免疫系统的'保安蛋白'🛡️！就像古代城门守卫(immuno)检查通关文牒，球蛋白(globulin)会识别并抓住抗原坏蛋👮♂️。'抗体检测'叫antibody test就像查健康码📱，'免疫力低下'说weak immunity就像城墙年久失修🧱。记住：你的免疫球蛋白就是体内巡逻的御林军！",
+    "recite": {
+      "tips": [
+        "拆解记忆：immune(免疫)+globe(球)+in(蛋白)=免疫球蛋白",
+        "易混词对比：antibody(抗体)是immunoglobulin的功能形态"
+      ]
+    }
+  },
+  {
+    "word": "immunohistochemical",
+    "etymology": {
+      "breakdown": [
+        "immuno",
+        "histo",
+        "chemical"
+      ],
+      "meaning_connection": "immuno=免疫的，histo=组织的，chemical=化学的→研究组织内抗原抗体反应的化学方法"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "免疫组织化学的",
+        "examples": [
+          {
+            "sentence": "The lab uses immunohistochemical staining to detect cancer markers.",
+            "sentence_zh": "实验室用免疫组织化学染色法检测癌症标志物。"
+          },
+          {
+            "sentence": "This immunohistochemical report looks like a modern art painting.",
+            "sentence_zh": "这份免疫组化报告看起来像现代艺术画作。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immunohistochemical analysis",
+        "meaning": "免疫组化分析",
+        "examples": [
+          {
+            "sentence": "Doctors rely on immunohistochemical analysis for precise tumor classification.",
+            "sentence_zh": "医生依靠免疫组化分析进行精确的肿瘤分型。"
+          }
+        ]
+      }
+    ],
+    "teach": "这个词就像生物界的CSI🕵️‍♀️！把组织切片当犯罪现场，用抗体当侦探（immuno），在显微镜下找抗原线索🔬。科学家们用这招破译癌症密码就像解码《红楼梦》📚。搭配说'run IHC test'比说'做免疫组化'更地道，吐槽实验结果差可以说'looks like my kid's finger painting'（像我孩子的涂鸦）🎨",
+    "recite": {
+      "tips": [
+        "拆解法：记成'immuno(疫苗)+histo(历史)+chemical(化学)'→用化学方法研究疫苗的历史痕迹",
+        "易混词对比：immunofluorescence（免疫荧光）是发光的，immunohistochemical是染色的"
+      ]
+    }
   }
 ]
