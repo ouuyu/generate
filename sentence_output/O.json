@@ -7371,5 +7371,323 @@
         "易混词：reverse是彻底反转，obverse强调对应关系"
       ]
     }
+  },
+  {
+    "word": "obviate",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "via",
+        "ate"
+      ],
+      "meaning_connection": "前缀ob-表示'对抗'，词根via表示'路'，-ate为动词后缀→原义'挡在路上'，引申为'排除障碍'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "除去",
+        "examples": [
+          {
+            "sentence": "The new drainage system obviates puddles on campus roads.",
+            "sentence_zh": "新的排水系统消除了校园路面的积水。"
+          },
+          {
+            "sentence": "Hand sanitizers help obviate germs in public places.",
+            "sentence_zh": "免洗洗手液有助于除去公共场所的病菌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "排除",
+        "examples": [
+          {
+            "sentence": "Double-checking your work obviates careless mistakes.",
+            "sentence_zh": "复查作业能排除粗心错误。"
+          },
+          {
+            "sentence": "VPN obviates geographical restrictions for Netflix.",
+            "sentence_zh": "VPN排除了网飞的地理限制。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成为不必要",
+        "examples": [
+          {
+            "sentence": "Auto-save features obviate manual saving in modern apps.",
+            "sentence_zh": "现代应用的自动保存功能使手动保存成为不必要。"
+          },
+          {
+            "sentence": "E-signatures obviate the need for printing documents.",
+            "sentence_zh": "电子签名使打印文件成为不必要。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "避免",
+        "examples": [
+          {
+            "sentence": "Early reservation obviates last-minute ticket hunting.",
+            "sentence_zh": "提前预订避免了临时抢票。"
+          },
+          {
+            "sentence": "Wearing masks obviated a larger outbreak in 2020.",
+            "sentence_zh": "戴口罩避免了2020年更大规模的疫情爆发。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obviate the need for",
+        "meaning": "使...变得不必要",
+        "examples": [
+          {
+            "sentence": "Cloud storage obviates the need for USB drives.",
+            "sentence_zh": "云存储使U盘变得不必要。"
+          }
+        ]
+      }
+    ],
+    "teach": "obviate就像拆快递的瑞士军刀🗡️：当它'除去'快递盒时像拆包装（obviate wrapping），'排除'障碍时像清空快递柜（obviate obstacles），'使不必要'时像直接电子签收（obviate signatures），'避免'时像提前拦截破损包裹📦。记住：这个词专治各种'多此一举'，就像用健康码代替纸质登记表💾！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不喂它'→我不喂它(obviate)就能避免发胖",
+        "易混词对比：avoid（主观躲避） vs obviate（客观消除）",
+        "记忆口诀：'ob路障via吃ate'→吃掉路上的障碍"
+      ]
+    }
+  },
+  {
+    "word": "obvious",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "vi",
+        "ous"
+      ],
+      "meaning_connection": "前缀ob-表示'在...前'，词根vi表示'路'，-ous为形容词后缀→原指'挡在路上的东西'，引申为'明显的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "明显的",
+        "examples": [
+          {
+            "sentence": "The panda-shaped hole in the wall was obvious evidence.",
+            "sentence_zh": "墙上熊猫形状的破洞是明显的证据。"
+          },
+          {
+            "sentence": "It's obvious that bubble tea has conquered the world.",
+            "sentence_zh": "显然奶茶已经征服了世界。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "明白的",
+        "examples": [
+          {
+            "sentence": "The instructions for hotpot dipping sauces were obvious.",
+            "sentence_zh": "火锅蘸料的调配说明很明白。"
+          },
+          {
+            "sentence": "Her WeChat status made her feelings obvious.",
+            "sentence_zh": "她的微信状态让情绪很明白。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "显然的",
+        "examples": [
+          {
+            "sentence": "It's obvious that no one reads the terms and conditions.",
+            "sentence_zh": "显然没人阅读用户协议。"
+          },
+          {
+            "sentence": "The obvious solution was to order more skewers.",
+            "sentence_zh": "显然的解决办法就是多点些烤串。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "平淡无奇的",
+        "examples": [
+          {
+            "sentence": "The design was obvious and lacked creativity.",
+            "sentence_zh": "这个设计平淡无奇缺乏创意。"
+          },
+          {
+            "sentence": "His excuse for being late was obvious and boring.",
+            "sentence_zh": "他迟到的借口平淡无奇且乏味。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obvious to",
+        "meaning": "对...显而易见",
+        "examples": [
+          {
+            "sentence": "The answer was obvious to everyone except him.",
+            "sentence_zh": "除他之外所有人都觉得答案显而易见。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "state the obvious",
+        "meaning": "说老生常谈的话",
+        "examples": [
+          {
+            "sentence": "Saying 'sleep is important' is just stating the obvious.",
+            "sentence_zh": "说'睡眠重要'只是老生常谈。"
+          }
+        ]
+      }
+    ],
+    "teach": "obvious就像火锅里的花椒🌶️——明显到无法忽视！这个词来自拉丁语'obvius'（挡路的），就像共享单车堵住人行道🛑那么醒目。网络梗'这还不明显吗'配上熊猫头表情包🐼就是最佳诠释。搭配'obvious choice'（必然选择）和'obvious lie'（明显的谎言）。要说'太明显了'可以吐槽'duh!'（这还用说！）",
+    "recite": {
+      "tips": [
+        "谐音梗：'欧币为饿死'→钱(币)明显不够花",
+        "易混词：apparent（表面明显的）/obvious（客观明显的）",
+        "记忆法：OB（欧巴）+vious（谐音'微饿死'）→欧巴明显饿了"
+      ]
+    }
+  },
+  {
+    "word": "obviously",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "vi",
+        "ous",
+        "ly"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根vi表示'看'，-ous表形容词后缀，-ly变副词→'能清楚看到的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "明显地",
+        "examples": [
+          {
+            "sentence": "He's obviously lying when saying he doesn't like bubble tea.",
+            "sentence_zh": "他说不喜欢奶茶时明显在撒谎。"
+          },
+          {
+            "sentence": "The panda was obviously enjoying its bamboo feast.",
+            "sentence_zh": "熊猫显然在享受它的竹子大餐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "显而易见地",
+        "examples": [
+          {
+            "sentence": "This AI-generated answer is obviously better than mine.",
+            "sentence_zh": "这个AI生成的答案显然比我的好。"
+          },
+          {
+            "sentence": "She was obviously the most qualified candidate with 10 years of Douyin experience.",
+            "sentence_zh": "拥有十年抖音经验的她显然是最佳候选人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "most obviously",
+        "meaning": "最明显地",
+        "examples": [
+          {
+            "sentence": "Most obviously, the Great Wall can be seen from space.",
+            "sentence_zh": "最明显的是，长城可以从太空看到。"
+          }
+        ]
+      }
+    ],
+    "teach": "obviously就像你妈发现你偷吃外卖时的眼神👀！词根vi(看)藏在单词里，就像X光机一样让你无所遁形🩻。英国人说'明显错了'会讲'palpably wrong'，而'这不言而喻'可以说'it goes without saying'🍵。搭配推荐：'painfully obvious'( painfully obvious 痛心疾首的明显) 和 'glaringly obvious'( glaringly obvious 刺眼的明显)，就像广场舞大妈的红配绿服装一样醒目💃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'欧巴威士忌'→欧巴喝威士忌后(obviously)醉态明显",
+        "易混词对比：apparently(表面上) vs obviously(实际上)",
+        "记忆tip：拆解成OB(观察)+VIOUS(可见)=显而易见"
+      ]
+    }
+  },
+  {
+    "word": "obviousness",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "vi",
+        "ous",
+        "ness"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根vi表示'道路'，-ous是形容词后缀，-ness是名词后缀→原意'就在路中间的东西'，引申为'显而易见'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "显而易见",
+        "examples": [
+          {
+            "sentence": "The obviousness of his lie made everyone giggle.",
+            "sentence_zh": "他谎言的显而易见把大家都逗笑了。"
+          },
+          {
+            "sentence": "The obviousness of pandas' cuteness needs no explanation.",
+            "sentence_zh": "熊猫可爱的显而易见无需解释。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "明显",
+        "examples": [
+          {
+            "sentence": "The obviousness of her excitement showed in her dancing eyebrows.",
+            "sentence_zh": "她兴奋的明显程度从跳舞般的眉毛就能看出。"
+          },
+          {
+            "sentence": "There's an obviousness to bad CGI effects in movies.",
+            "sentence_zh": "电影里糟糕的CGI特效有明显痕迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "显著性",
+        "examples": [
+          {
+            "sentence": "The trademark was denied due to lack of obviousness.",
+            "sentence_zh": "该商标因缺乏显著性被驳回。"
+          },
+          {
+            "sentence": "In patent law, obviousness determines innovation value.",
+            "sentence_zh": "在专利法中，显著性决定创新价值。"
+          }
+        ]
+      }
+    ],
+    "teach": "obviousness就像你妈发现你偷吃零食的证据🍪：1) 词源故事：古罗马人用'vi'表示道路，路上挡块石头(ob-vi)当然明显啦！2) 视觉化：就像黄鹤楼里玩手机被抓拍📸 3) 搭配：glaring obviousness（刺眼的明显），painful obviousness（痛心的明显）4) 地道说法：'明显到爆'说screamingly obvious 5) 记这个单词需要三步：看→啊哈→记住💡",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶逼我认死'→太明显了逼我承认",
+        "易混词：evidence（证据）是事实，obviousness是感知",
+        "记忆法：OB司机(ob-vi)在路上(-ousness)最显眼"
+      ]
+    }
   }
 ]

@@ -7716,5 +7716,247 @@
         "记忆桩：想象地铁口发健身传单的人突然开始演讲时政"
       ]
     }
+  },
+  {
+    "word": "pan",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'panne'，与荷兰语'pan'、德语'Pfanne'同源，原始印欧语词根表示'容器'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "平锅",
+        "examples": [
+          {
+            "sentence": "The chef flipped scallion pancakes in a well-seasoned cast iron pan.",
+            "sentence_zh": "厨师在用久经使用的铸铁平锅翻葱油饼。"
+          },
+          {
+            "sentence": "My non-stick pan is perfect for making omelets.",
+            "sentence_zh": "我的不粘平锅最适合做煎蛋卷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "浅盘",
+        "examples": [
+          {
+            "sentence": "The goldfish swam happily in its ceramic pan.",
+            "sentence_zh": "金鱼在陶瓷浅盘里快乐地游动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "盆地",
+        "examples": [
+          {
+            "sentence": "The Tarim Basin is known as China's 'pan of treasures'.",
+            "sentence_zh": "塔里木盆地被称为中国的'聚宝盆'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "淘洗",
+        "examples": [
+          {
+            "sentence": "Prospectors panned for gold in the river with special dishes.",
+            "sentence_zh": "勘探者用特制盘子在小河里淘洗金子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pan out",
+        "meaning": "淘出金子；成功",
+        "examples": [
+          {
+            "sentence": "His startup didn't pan out as expected.",
+            "sentence_zh": "他的创业公司没有如预期般成功。"
+          }
+        ]
+      }
+    ],
+    "teach": "pan是个万能容器🧴：从煎韭菜盒子的平底锅🥟，到装大闸蟹的浅盘🦀，再到装下整个四川的盆地🗻。淘金热时期'panning for gold'就像在火锅里捞毛肚🍲（现在比特币挖矿叫digital panning💻）。记住：人生就像淘金盘，要pan carefully才能淘到真金！💰",
+    "recite": {
+      "tips": [
+        "谐音梗：'盘'→中文直接对应各种容器",
+        "易混词：pot（深锅）vs pan（浅锅）"
+      ]
+    }
+  },
+  {
+    "word": "panacea",
+    "etymology": {
+      "breakdown": [
+        "pan",
+        "acea"
+      ],
+      "meaning_connection": "希腊语pan=全部，akos=治疗→能治愈一切的药物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "万能药",
+        "examples": [
+          {
+            "sentence": "Some ancient alchemists believed mercury was a panacea for all diseases.",
+            "sentence_zh": "古代炼金术士曾认为水银是包治百病的万能药。"
+          },
+          {
+            "sentence": "Bubble tea is definitely not the panacea for Monday blues, though it helps.",
+            "sentence_zh": "奶茶虽能缓解周一抑郁，但绝非万能解药。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "灵丹妙药",
+        "examples": [
+          {
+            "sentence": "The new policy is praised as an economic panacea by local officials.",
+            "sentence_zh": "这项新政被地方官员吹捧为经济灵丹妙药。"
+          },
+          {
+            "sentence": "No skincare product can be a real panacea for aging.",
+            "sentence_zh": "没有任何护肤品能成为抗衰老的真正灵丹妙药。"
+          }
+        ]
+      }
+    ],
+    "teach": "panacea是古希腊女神的名字💊，她爹医神阿斯克勒庇俄斯给她取名时就凡尔赛：'我女儿能治百病！'🌿 现实中最接近panacea的东西可能是板蓝根（广东人懂的）🥣 搭配'寻找万能药'可以说chase panacea，'号称万能'叫tout as panacea。记住：真正的panacea只存在于仙侠剧里🦊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'潘那席亚'→潘金莲那席宴席(pana-cea)上有毒药冒充万能药",
+        "易混词对比：placebo（安慰剂）vs panacea（真·万能药）",
+        "记忆tip：想象'全部(pan)治疗(acea)'的logo💊"
+      ]
+    }
+  },
+  {
+    "word": "panache",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语，原指头盔上的羽毛饰物，后引申为'炫耀'的姿态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "羽饰",
+        "examples": [
+          {
+            "sentence": "The opera singer's hat had peacock panache swaying with every note.",
+            "sentence_zh": "歌剧演唱家的帽子上孔雀羽饰随着每个音符摇曳。"
+          },
+          {
+            "sentence": "Medieval knights used panache to intimidate enemies before jousting.",
+            "sentence_zh": "中世纪骑士在马上比武前用羽饰威慑对手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "夸示",
+        "examples": [
+          {
+            "sentence": "The influencer's panache of designer bags sparked heated discussions on Xiaohongshu.",
+            "sentence_zh": "网红博主展示设计师包包的举动在小红书上引发热议。"
+          },
+          {
+            "sentence": "His panache in ordering the most expensive champagne annoyed everyone.",
+            "sentence_zh": "他点最贵香槟的炫耀行为惹恼了所有人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "假威风",
+        "examples": [
+          {
+            "sentence": "The manager's panache disappeared when his boss entered the room.",
+            "sentence_zh": "当老板走进房间时，经理的假威风立刻消失了。"
+          },
+          {
+            "sentence": "His panache of authority was exposed as empty talk during the crisis.",
+            "sentence_zh": "危机中他装出的权威被证明只是空谈。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with panache",
+        "meaning": "风度翩翩地",
+        "examples": [
+          {
+            "sentence": "She handled the PR disaster with panache and humor.",
+            "sentence_zh": "她用幽默风度化解了这次公关危机。"
+          }
+        ]
+      }
+    ],
+    "teach": "panache是社交孔雀开屏🦚！原指法国火枪手帽檐颤动的羽毛（视觉联想：三个火枪手电影），现指'凡尔赛式炫耀'💫。搭配'flaunt with panache'（高调炫富）或'shed panache'（卸下伪装）。说'装腔作势'可以用'all panache no substance'（徒有其表），就像朋友圈晒米其林但实际吃泡面🍜。",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍那车'→拍豪车发朋友圈是panache",
+        "易混词对比：panache（刻意炫耀） vs. charisma（天然魅力）",
+        "记忆口诀：P-A-N-A-C-H-E → Pretentious Attitude Needs Audacious Colorful Headgear Everyday（做作态度需要每天戴花哨头饰）"
+      ]
+    }
+  },
+  {
+    "word": "Panamanian",
+    "etymology": {
+      "breakdown": [
+        "Panama",
+        "n",
+        "ian"
+      ],
+      "meaning_connection": "国名Panama（源自土著语'鱼群之地'）+ 后缀-ian表'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "巴拿马的",
+        "examples": [
+          {
+            "sentence": "The Panamanian rainforest hides undiscovered frog species.",
+            "sentence_zh": "巴拿马雨林中隐藏着未被发现的蛙类物种。"
+          },
+          {
+            "sentence": "Panamanian coffee is famous for its geisha variety.",
+            "sentence_zh": "巴拿马咖啡以瑰夏品种闻名。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "巴拿马人",
+        "examples": [
+          {
+            "sentence": "Panamanians celebrate Independence Day with pollera dances.",
+            "sentence_zh": "巴拿马人穿着波列拉裙庆祝独立日。"
+          },
+          {
+            "sentence": "A Panamanian taught me how to spot ships in the Canal.",
+            "sentence_zh": "一位巴拿马人教我如何观察运河中的船只。"
+          }
+        ]
+      }
+    ],
+    "teach": "Panamanian是运河上的双面硬币💰：既是连接两大洲的地理奇迹🌎，又是戴着草帽（sombrero pintado）跳传统舞蹈的文化符号💃。记住'巴拿马草帽'其实产自厄瓜多尔是个历史乌龙🤭！搭配：Panamanian cuisine（巴拿马美食）/ Canal workers（运河工人），地道说法'窄如运河'（tight as the Panama Canal）形容极度拥挤🚢",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍哪慢捏'→在巴拿马运河拍船开得慢",
+        "易混词：Peruvian（秘鲁的）",
+        "联想：-ian结尾表国籍（Canadian/Mexican）"
+      ]
+    }
   }
 ]

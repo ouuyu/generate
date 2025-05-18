@@ -7515,5 +7515,308 @@
         "联想记忆：ill（生病的）+ liquid（流动资金）= 资金生病流不动了"
       ]
     }
+  },
+  {
+    "word": "illiteracy",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "liter",
+        "acy"
+      ],
+      "meaning_connection": "前缀il-表示'否定'，词根liter=字母/文字，后缀-acy表状态→无法识文断字的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "文盲",
+        "examples": [
+          {
+            "sentence": "The village's illiteracy rate dropped after the pandas donated a library.",
+            "sentence_zh": "熊猫捐赠图书馆后，该村的文盲率下降了。"
+          },
+          {
+            "sentence": "Digital illiteracy is the new challenge in the TikTok era.",
+            "sentence_zh": "在抖音时代，数字文盲成为新挑战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无知",
+        "examples": [
+          {
+            "sentence": "His illiteracy about Chinese cuisine showed when he called hot pot 'spicy bath'.",
+            "sentence_zh": "他把火锅称为'麻辣浴'，暴露了对中餐的无知。"
+          },
+          {
+            "sentence": "Cultural illiteracy leads to embarrassing translation fails.",
+            "sentence_zh": "文化无知会导致令人尴尬的翻译车祸现场。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "functional illiteracy",
+        "meaning": "功能性文盲",
+        "examples": [
+          {
+            "sentence": "Some college graduates suffer from functional illiteracy in financial matters.",
+            "sentence_zh": "部分大学毕业生在财务问题上属于功能性文盲。"
+          }
+        ]
+      }
+    ],
+    "teach": "illiteracy是知识的黑洞🕳️！古代文盲(literacy)真的会画押代替签名✍️，现代'奶茶文盲'连珍珠奶茶的'pearl'都拼不对🧋。说'没文化'用地道表达clueless（像无头苍蝇），搭配'illiteracy trap文盲陷阱'和'eradicate illiteracy扫盲'。记住：文盲不可怕，可怕的是把'二维码'念成'二维马'🐎！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一例脱racy'→一例脱离文化(illiteracy)就变文盲",
+        "易混词对比：literacy（有文化）vs illiteracy（没文化）像硬币正反面"
+      ]
+    }
+  },
+  {
+    "word": "illiterate",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "liter",
+        "ate"
+      ],
+      "meaning_connection": "前缀il-表示'不'，词根liter=字母/文字，-ate表性质→'不识字的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "文盲",
+        "examples": [
+          {
+            "sentence": "The kindergartener proudly declared his baby brother was an illiterate.",
+            "sentence_zh": "幼儿园小朋友骄傲地宣布他的弟弟是个文盲。"
+          },
+          {
+            "sentence": "Mobile payment reduced illiterates' difficulties in banking.",
+            "sentence_zh": "移动支付降低了文盲办理银行业务的困难。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "目不识丁的",
+        "examples": [
+          {
+            "sentence": "The illiterate fisherman could recite 100 Tang poems by heart.",
+            "sentence_zh": "这位目不识丁的渔夫能背诵100首唐诗。"
+          },
+          {
+            "sentence": "Illiterate grandmothers dominate livestream shopping with emoji comments.",
+            "sentence_zh": "目不识丁的老奶奶们用表情包称霸直播购物评论区。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "没受教育的",
+        "examples": [
+          {
+            "sentence": "The illiterate farmer invented an automatic irrigation system.",
+            "sentence_zh": "这位没受过教育的农民发明了自动灌溉系统。"
+          },
+          {
+            "sentence": "China's digital literacy programs help illiterate seniors use smartphones.",
+            "sentence_zh": "中国的数字扫盲项目帮助没受过教育的老人使用智能手机。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "computer illiterate",
+        "meaning": "电脑盲",
+        "examples": [
+          {
+            "sentence": "My computer-illiterate dad accidentally sent 100 laughing emojis to his boss.",
+            "sentence_zh": "我那个电脑盲老爸不小心给老板发了100个笑哭表情。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "functionally illiterate",
+        "meaning": "功能性文盲",
+        "examples": [
+          {
+            "sentence": "Some PhDs are functionally illiterate in financial management.",
+            "sentence_zh": "有些博士在财务管理方面是功能性文盲。"
+          }
+        ]
+      }
+    ],
+    "teach": "illiterate其实是'字盲症'📜：就像现代人离开手机就是导航盲🗺️（digitally illiterate）。说'没文化'可以叫can't read a stop sign（连停车标志都看不懂）🚧，'电脑小白'叫techno-noob🤳。记住：在表情包时代，真正的illiterate可能比你更会表达！😂🎭💬",
+    "recite": {
+      "tips": [
+        "谐音梗：'一厘贴'→文盲认字像贴错一厘米的膏药",
+        "易混词对比：literate（识字的）/literal（字面的）",
+        "记忆tip：ill（病）+letter（字母）= 文字识别障碍症"
+      ]
+    }
+  },
+  {
+    "word": "illness",
+    "etymology": {
+      "breakdown": [
+        "ill",
+        "ness"
+      ],
+      "meaning_connection": "ill=坏的/生病的，-ness表状态→'不好的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "疾病",
+        "examples": [
+          {
+            "sentence": "His sudden illness forced him to cancel the hotpot party.",
+            "sentence_zh": "他突然生病不得不取消火锅聚会。"
+          },
+          {
+            "sentence": "Playing mobile games in the dark may lead to eye illnesses.",
+            "sentence_zh": "在黑暗环境玩手机游戏可能导致眼部疾病。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "恶意",
+        "examples": [
+          {
+            "sentence": "The villain's illness of heart shocked even his followers.",
+            "sentence_zh": "反派的内心恶意连他的追随者都震惊。"
+          },
+          {
+            "sentence": "There's a special illness in how he sabotaged the dumpling contest.",
+            "sentence_zh": "他破坏饺子大赛的方式带着特别的恶意。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mental illness",
+        "meaning": "精神疾病",
+        "examples": [
+          {
+            "sentence": "Peking Opera face-changing masters never suffer from mental illness according to research.",
+            "sentence_zh": "研究表明京剧变脸大师从不患精神疾病。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "feign illness",
+        "meaning": "装病",
+        "examples": [
+          {
+            "sentence": "Students who feign illness to skip classes always get caught eating spicy strips at the canteen.",
+            "sentence_zh": "装病逃课的学生总在食堂吃辣条时被抓包。"
+          }
+        ]
+      }
+    ],
+    "teach": "illness是'医'和'姨'的结合体👩⚕️：中世纪医生认为生病(illness)是体内四种体液失调🍵（当时真有人喝尿治病💦）。现在说'装病'叫throw a sickie🤒，'小病'用under the weather☔️。记住这个单词就像闻到中药房味道——苦但有用！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一溜死'→疾病严重起来一溜烟死人",
+        "易混词对比：sickness多指生理不适，illness含更长期病态"
+      ]
+    }
+  },
+  {
+    "word": "illogical",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "logic",
+        "al"
+      ],
+      "meaning_connection": "前缀il-表否定，词根logic=逻辑，-al为形容词后缀→'不符合逻辑的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不合逻辑的",
+        "examples": [
+          {
+            "sentence": "Saying \"I don't like durians because they're square\" is completely illogical.",
+            "sentence_zh": "说'我不喜欢榴莲因为它们是方的'完全不合逻辑。"
+          },
+          {
+            "sentence": "The AI gave an illogical answer like \"2+2=banana\" during testing.",
+            "sentence_zh": "AI在测试时给出了'2+2=香蕉'这样不合逻辑的回答。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无缘由的",
+        "examples": [
+          {
+            "sentence": "His illogical fear of pigeons began after watching a zombie movie.",
+            "sentence_zh": "他看完僵尸电影后开始无缘由地害怕鸽子。"
+          },
+          {
+            "sentence": "The CEO's illogical decision to paint the office pink confused everyone.",
+            "sentence_zh": "CEO把办公室刷成粉色的无缘由决定让所有人困惑。"
+          }
+        ]
+      }
+    ],
+    "teach": "illogical是'逻辑已死'💀的最佳代言！就像试图用算盘挖比特币🧮（digital illogical），或者相信'多喝热水能治秃头'🍵（medical illogical）。搭配：illogical argument（神逻辑辩论）, illogical fear（迷之恐惧）。地道表达说'没道理'用makes zero sense🤯。记住：当你的男/女朋友说'你猜'时，就是在制造illogical情境！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一箩鸡壳'→一箩筐鸡骨头当然不合逻辑",
+        "易混词对比：irrational（非理性）侧重情感，illogical（不合逻辑）侧重思维",
+        "记忆tip：把il-想成'ill（生病）'，logic'逻辑'生病了→不合逻辑"
+      ]
+    }
+  },
+  {
+    "word": "illogically",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "logic",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "前缀il-表示'否定'，词根logic=逻辑，-al形容词后缀，-ly副词后缀→'违背逻辑地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不合逻辑地",
+        "examples": [
+          {
+            "sentence": "The AI chatbot answered illogically like a drunk professor.",
+            "sentence_zh": "这个AI聊天机器人像醉酒教授般不合逻辑地回答。"
+          },
+          {
+            "sentence": "He arranged his books illogically by color instead of subject.",
+            "sentence_zh": "他按颜色而非主题不合逻辑地排列书籍。"
+          }
+        ]
+      }
+    ],
+    "teach": "illogically就像数学考卷上的'略'字✍️！它由三明治结构组成：否定前缀il-+逻辑logic+副词尾巴-ly🧠。当有人说'The wifi password is your IQ'就属于illogical humor😂。搭配：behave illogically（行为反常）/ argue illogically（诡辩）。emoji三件套：🤪（荒谬）➕（矛盾）➕（迷惑）",
+    "recite": {
+      "tips": [
+        "谐音梗：'一老鸡卡里'→老母鸡卡在逻辑漏洞里",
+        "易混词：illogical（adj.）→ illogically（adv.）"
+      ]
+    }
   }
 ]

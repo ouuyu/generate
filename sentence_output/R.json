@@ -7461,5 +7461,307 @@
         "易混词：与'Renaissance'（文艺复兴）区分"
       ]
     }
+  },
+  {
+    "word": "ramble",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语，可能与'roam'(漫游)同源，体现无目的移动的特质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "漫步",
+        "examples": [
+          {
+            "sentence": "Our Sunday ramble took us through three hidden hutongs.",
+            "sentence_zh": "周日的漫步带我们穿过三条隐秘胡同。"
+          },
+          {
+            "sentence": "The professor's lecture was more like a ramble through history.",
+            "sentence_zh": "教授的讲座更像是在历史中的漫步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "随笔",
+        "examples": [
+          {
+            "sentence": "Lu Xun's rambles reveal his thoughts on society.",
+            "sentence_zh": "鲁迅的随笔透露出他对社会的思考。"
+          },
+          {
+            "sentence": "Her WeChat rambles about parenting went viral.",
+            "sentence_zh": "她关于育儿的微信随笔刷屏了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "漫步",
+        "examples": [
+          {
+            "sentence": "Grandpas ramble around the park with their birdcages.",
+            "sentence_zh": "老大爷们提着鸟笼在公园漫步。"
+          },
+          {
+            "sentence": "We rambled along the Great Wall at sunset.",
+            "sentence_zh": "我们在日落时分沿着长城漫步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "漫谈",
+        "examples": [
+          {
+            "sentence": "The host rambled about AI for two hours without slides.",
+            "sentence_zh": "主持人不用幻灯片漫谈了AI两小时。"
+          },
+          {
+            "sentence": "After baijiu, he always rambles about his youth in Xinjiang.",
+            "sentence_zh": "喝完白酒后他总会漫谈在新疆的青春岁月。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "蔓延",
+        "examples": [
+          {
+            "sentence": "Wisteria rambled over the entire courtyard wall.",
+            "sentence_zh": "紫藤蔓延覆盖了整个院墙。"
+          },
+          {
+            "sentence": "The rumor rambled through the office like wildfire.",
+            "sentence_zh": "谣言像野火般在办公室蔓延。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "闲逛于",
+        "examples": [
+          {
+            "sentence": "They rambled the antique market all afternoon.",
+            "sentence_zh": "他们整个下午都在古玩市场闲逛。"
+          },
+          {
+            "sentence": "We rambled every alley of the ancient town.",
+            "sentence_zh": "我们闲逛了古镇的每一条巷子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go for a ramble",
+        "meaning": "去散步",
+        "examples": [
+          {
+            "sentence": "Let's go for a ramble after hotpot to digest.",
+            "sentence_zh": "吃完火锅我们去散步消化吧。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "ramble on",
+        "meaning": "喋喋不休",
+        "examples": [
+          {
+            "sentence": "He rambled on about blockchain until midnight.",
+            "sentence_zh": "他关于区块链喋喋不休直到半夜。"
+          }
+        ]
+      }
+    ],
+    "teach": "ramble是'乱步'文学奖🏆！既指徐霞客式的山水漫游🏞️（ramble through mountains），也指鲁迅杂文的笔走龙蛇✍️（literary ramble）。当植物'ramble'是野蛮生长🌿，当人'ramble on'就是领导开会💤。搭配'go for a ramble'比take a walk更悠闲，说人话多直接用'He's rambling!'🐌",
+    "recite": {
+      "tips": [
+        "谐音梗：'软步'→用柔软的步子ramble",
+        "易混词：wander(无目的) vs ramble(带愉悦感)",
+        "记忆链：ramble→ambulance(救护车)→原义也是'行走'"
+      ]
+    }
+  },
+  {
+    "word": "rambler",
+    "etymology": {
+      "breakdown": [
+        "rambl",
+        "er"
+      ],
+      "meaning_connection": "词根rambl=漫游（来自古法语ramper'攀爬'），-er表人或物→原指无固定路线的行走者，后引申指蔓生植物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "漫步者",
+        "examples": [
+          {
+            "sentence": "The old rambler with a bamboo staff knows every alley in Beijing.",
+            "sentence_zh": "那位拄竹杖的老漫步者熟悉北京的每条胡同。"
+          },
+          {
+            "sentence": "Modern ramblers track their steps with smartwatches while enjoying cherry blossoms.",
+            "sentence_zh": "当代漫步者边赏樱花边用智能手表计步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蔓生植物",
+        "examples": [
+          {
+            "sentence": "The rambler rose has climbed over the entire courtyard wall.",
+            "sentence_zh": "蔓生蔷薇已爬满整个院墙。"
+          },
+          {
+            "sentence": "Kudzu is an invasive rambler that grows 30cm per day.",
+            "sentence_zh": "葛藤是日长30厘米的入侵性蔓生植物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "city rambler",
+        "meaning": "城市漫游者",
+        "examples": [
+          {
+            "sentence": "Shanghai's city ramblers have mapped all the best xiaolongbao spots.",
+            "sentence_zh": "上海的城市漫游者已标记出所有最佳小笼包店铺。"
+          }
+        ]
+      }
+    ],
+    "teach": "rambler是植物界和人类界的双重漫游者🌿🚶：当指人时像公园遛弯大爷（retired rambler），当指植物时像'爬山虎拆迁队'🏗️。记住：人生如蔓生植物，要么绽放（bloom），要么疯长（overgrow）！地道说法'闲逛'叫mooch around，'植物杀手'叫black thumb🌱☠️",
+    "recite": {
+      "tips": [
+        "谐音梗：'软不了'→蔓生植物软不了杆子",
+        "易混词：wanderer（无目的） vs rambler（享受过程）"
+      ]
+    }
+  },
+  {
+    "word": "rambling",
+    "etymology": {
+      "breakdown": [
+        "ram",
+        "ing"
+      ],
+      "meaning_connection": "词根ram=漫游（源自古英语'ramian'），-ing作形容词后缀→描述无目的游走的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "漫步的",
+        "examples": [
+          {
+            "sentence": "We saw a rambling fox in the midnight hutong.",
+            "sentence_zh": "我们在午夜胡同里看见一只漫步的狐狸。"
+          },
+          {
+            "sentence": "His rambling walk through tea mountains inspired famous poems.",
+            "sentence_zh": "他在茶山的漫步催生出了名诗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "布局零乱的",
+        "examples": [
+          {
+            "sentence": "The rambling old house had rooms like a maze.",
+            "sentence_zh": "这座布局零乱的老宅房间如迷宫。"
+          },
+          {
+            "sentence": "Chongqing's rambling streets confuse even map apps.",
+            "sentence_zh": "重庆零乱的街道连导航软件都会迷路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "散漫的",
+        "examples": [
+          {
+            "sentence": "Her rambling speech lasted 3 hours without focus.",
+            "sentence_zh": "她散漫的演讲持续3小时没重点。"
+          },
+          {
+            "sentence": "The novel's rambling plot lost many readers.",
+            "sentence_zh": "小说散漫的情节流失了大量读者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go rambling",
+        "meaning": "远足漫游",
+        "examples": [
+          {
+            "sentence": "Beijingers love going rambling in Fragrant Hills in autumn.",
+            "sentence_zh": "北京人最爱秋天去香山远足漫游。"
+          }
+        ]
+      }
+    ],
+    "teach": "rambling是'三心二意代言人'🧠💨：作'漫步'时像遛弯大爷背手走🚶♂️（go rambling），作'零乱'时像被哈士奇拆过的家🐕（rambling streets），作'散漫'时像领导开会讲'我简单说三点'然后聊了三小时⌛。搭配：rambling rose（疯长的玫瑰）🌹/rambling mind（思绪飘飞），说'废话连篇'用地道表达verbal diarrhea💬",
+    "recite": {
+      "tips": [
+        "谐音梗：'软病灵'→思维太散漫得吃软病灵",
+        "易混词：wandering（有目的漫步） vs rambling（无目的闲逛）"
+      ]
+    }
+  },
+  {
+    "word": "ramekin",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'ramequin'，原指小型烤制容器，现特指用该容器制作的甜点"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小干酪蛋糕",
+        "examples": [
+          {
+            "sentence": "The matcha-flavored ramekin with molten center is their signature dessert.",
+            "sentence_zh": "抹茶流心小干酪蛋糕是他们的招牌甜点。"
+          },
+          {
+            "sentence": "She baked mini ramekins in heart-shaped ceramic cups for Valentine's Day.",
+            "sentence_zh": "情人节她用爱心陶瓷杯烤制了迷你干酪蛋糕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chocolate ramekin",
+        "meaning": "巧克力小蛋糕",
+        "examples": [
+          {
+            "sentence": "The chocolate ramekin with sea salt caramel will make your taste buds dance.",
+            "sentence_zh": "海盐焦糖巧克力小蛋糕会让你的味蕾跳舞。"
+          }
+        ]
+      }
+    ],
+    "teach": "ramekin其实是'法式傲娇小公主'👑：明明就是个烤碗非要叫高大上的法语名！就像把煎饼果子叫crêpe chinoise🥞。说'迷你甜点'可以叫petit four（法语'小烤箱'），但ramekin特指用陶瓷杯烤的蛋糕🍰。记住：当你用咖啡杯烤蛋糕时，你就做出了贫穷版ramekin！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶油啃'→专门啃奶油的小蛋糕",
+        "易混词对比：cupcake（纸杯蛋糕） vs ramekin（陶瓷杯蛋糕）"
+      ]
+    }
   }
 ]

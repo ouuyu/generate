@@ -7308,5 +7308,262 @@
         "记忆法：把-ship后缀想象成王座形状"
       ]
     }
+  },
+  {
+    "word": "kink",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古荷兰语 'kinke'（螺旋线），模拟物体突然弯曲的形态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "扭结",
+        "examples": [
+          {
+            "sentence": "There's a kink in my headphones wire that annoys me every morning.",
+            "sentence_zh": "我的耳机线上有个让我每天早晨抓狂的扭结。"
+          },
+          {
+            "sentence": "The kink in the garden hose reduced water pressure by 50%.",
+            "sentence_zh": "花园水管里的扭结让水压下降了一半。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蜷缩",
+        "examples": [
+          {
+            "sentence": "The cat slept in a perfect kink with its tail covering its nose.",
+            "sentence_zh": "猫咪蜷缩成完美的一团睡觉，尾巴盖着鼻子。"
+          },
+          {
+            "sentence": "Ancient scrolls often develop kinks after centuries of storage.",
+            "sentence_zh": "存放数百年的古卷轴常会出现蜷曲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使扭结",
+        "examples": [
+          {
+            "sentence": "She accidentally kinked the IV tube while adjusting the hospital bed.",
+            "sentence_zh": "她调整病床时不小心把输液管扭结了。"
+          },
+          {
+            "sentence": "Twisting the ribbon too tightly will kink its satin surface.",
+            "sentence_zh": "丝带系太紧会使缎面产生折痕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "绞缠",
+        "examples": [
+          {
+            "sentence": "The python's body kinked around the tree branch like a living rope.",
+            "sentence_zh": "蟒蛇的身体像活绳子般绞缠在树枝上。"
+          },
+          {
+            "sentence": "Wet hair tends to kink more easily when braided.",
+            "sentence_zh": "湿发编辫子时更容易绞缠。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kink up",
+        "meaning": "突然弯曲",
+        "examples": [
+          {
+            "sentence": "The metal ruler kinked up when I tried to bend it backwards.",
+            "sentence_zh": "我把金属尺往后弯时它突然翘曲了。"
+          }
+        ]
+      }
+    ],
+    "teach": "kink是强迫症的天敌🌀！想象你新买的AirPods线被扭成中国结🇨🇳（wire kink），或是瑜伽垫永远卷不整齐🧘（mat kink）。水管工最恨的词是'kinked pipe'💦，而程序员看到'kinked cable'比看到bug还崩溃💻。记住：说'头发打结'用hair kinks，但小心别和某特殊癖好搞混了😉",
+    "recite": {
+      "tips": [
+        "谐音梗：'紧箍'→孙悟空被金箍(kink)勒得头疼",
+        "易混词：wrinkle（皱纹）/twist（扭转）",
+        "记忆法：字母k的形状就是扭结的象形"
+      ]
+    }
+  },
+  {
+    "word": "kinky",
+    "etymology": {
+      "breakdown": [
+        "kink",
+        "y"
+      ],
+      "meaning_connection": "kink（纽结）+形容词后缀-y→像打了结的绳子般弯曲的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "弯曲的",
+        "examples": [
+          {
+            "sentence": "The kinky hair of poodles requires special grooming.",
+            "sentence_zh": "贵宾犬的卷毛需要特殊打理。"
+          },
+          {
+            "sentence": "Kinky vines twisted around the Great Wall's bricks like dragons.",
+            "sentence_zh": "弯曲的藤蔓如龙般盘绕在长城砖块上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "古怪的",
+        "examples": [
+          {
+            "sentence": "His kinky idea of eating durian with stinky tofu went viral.",
+            "sentence_zh": "他榴莲配臭豆腐的古怪吃法在网上走红。"
+          },
+          {
+            "sentence": "That kinky comedy show parodied CCTV news anchors.",
+            "sentence_zh": "那档古怪喜剧秀恶搞了央视新闻主播。"
+          }
+        ]
+      }
+    ],
+    "teach": "kinky是'弯弯的'也是'怪怪的'🌀！想象用九转大肠的造型做头发(kinky curls)，或是把《红楼梦》改成科幻剧(kinky plot)。搭配'kinky sense of humor'(清奇笑点)和'kinky logic'(神逻辑)，说人脑洞大可以说'his mind is kinkier than a Sichuan peppercorn'(比花椒还麻的脑回路)🌶️🌀🎭",
+    "recite": {
+      "tips": [
+        "视觉联想：kinky→拼音'kink'像'紧克'→被紧箍咒勒得弯弯曲曲的孙悟空",
+        "易混词对比：kinky(自然弯曲) vs. wavy(波浪形)"
+      ]
+    }
+  },
+  {
+    "word": "kinship",
+    "etymology": {
+      "breakdown": [
+        "kin",
+        "ship"
+      ],
+      "meaning_connection": "kin=家族成员，-ship=表抽象关系状态→血缘或情感上的紧密联系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "亲属关系",
+        "examples": [
+          {
+            "sentence": "The DNA test confirmed their kinship as half-sisters.",
+            "sentence_zh": "基因检测证实了她们同父异母的亲属关系。"
+          },
+          {
+            "sentence": "Lion cubs can recognize kinship by scent markings.",
+            "sentence_zh": "幼狮能通过气味标记识别亲属关系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "家族关系",
+        "examples": [
+          {
+            "sentence": "The family tree clearly shows the kinship between Confucius' descendants.",
+            "sentence_zh": "这份族谱清晰地展现了孔子后裔的家族关系。"
+          },
+          {
+            "sentence": "Traditional Chinese kinship terms differentiate paternal and maternal uncles.",
+            "sentence_zh": "中文传统亲属称谓会区分叔伯与舅父。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "亲密关系",
+        "examples": [
+          {
+            "sentence": "There's an unspoken kinship among fans of spicy hotpot.",
+            "sentence_zh": "火锅爱好者之间存在不言而喻的亲密感。"
+          },
+          {
+            "sentence": "The kinship between veterans transcends national borders.",
+            "sentence_zh": "老兵之间的情谊超越了国界。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kinship system",
+        "meaning": "亲属制度",
+        "examples": [
+          {
+            "sentence": "The Mosuo people's kinship system follows matrilineal principles.",
+            "sentence_zh": "摩梭人的亲属制度遵循母系原则。"
+          }
+        ]
+      }
+    ],
+    "teach": "kinship其实是'金ship'💰🚢：就像家族财富船(kin+ship)承载血缘关系👨👩👧👦。中文里'打断骨头连着筋'就是blood kinship的最好诠释💉。说'远亲不如近邻'可以用neighborhood kinship beats distant relatives🏘️，而'塑料亲情'就叫fake kinship like Barbie's family👯♀️。记住：真正的kinship经得起遗产分配考验！",
+    "recite": {
+      "tips": [
+        "谐音梗：'亲ship'→亲人坐同一条船",
+        "易混词：relationship（泛指关系）vs kinship（特指亲属关系）",
+        "记忆法：把family tree想象成快递物流图📦，kinship就是包裹间的连接线"
+      ]
+    }
+  },
+  {
+    "word": "kinsman",
+    "etymology": {
+      "breakdown": [
+        "kin",
+        "s",
+        "man"
+      ],
+      "meaning_connection": "kin=亲属关系，-s表所有格，man=人→属于亲属关系的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "男亲戚",
+        "examples": [
+          {
+            "sentence": "The DNA test proved he was my distant kinsman from Qing Dynasty.",
+            "sentence_zh": "基因检测显示他是我清朝时期的远房男亲戚。"
+          },
+          {
+            "sentence": "All kinsmen must wear red ties at our family reunion.",
+            "sentence_zh": "家族聚会上所有男性亲戚必须佩戴红领带。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "亲属",
+        "examples": [
+          {
+            "sentence": "In Mongol culture, a kinsman may share your yurt and horses.",
+            "sentence_zh": "蒙古文化中亲属可以共享你的蒙古包和马匹。"
+          },
+          {
+            "sentence": "Spring Festival trains are packed with kinsmen returning home.",
+            "sentence_zh": "春运火车上挤满了返乡的亲属。"
+          }
+        ]
+      }
+    ],
+    "teach": "kinsman是'自带族谱的男人'📜！就像《甄嬛传》里总冒出来的远房表哥👑，或《权力的游戏》里突然认亲的私生子⚔️。说'远房亲戚'用distant kinsman像隔了十八碗水的堂兄弟🥣，吐槽亲戚多可以说a kinsman avalanche（亲戚雪崩）❄️。记住：过年时的红包厚度决定kinsman的亲密度💰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'金丝man'→穿金丝衣服的富贵亲戚",
+        "对比记忆：kinsman（男亲属） vs kinswoman（女亲属）",
+        "家族树联想：kin(亲属)+s(的)+man(人)=族谱上的一个节点"
+      ]
+    }
   }
 ]

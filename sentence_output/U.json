@@ -7339,5 +7339,267 @@
         "联想记忆：UN（联合国）+ blemish（污点）+ ed→联合国级无污点"
       ]
     }
+  },
+  {
+    "word": "unblinking",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "blink",
+        "ing"
+      ],
+      "meaning_connection": "前缀un-表否定，blink意为'眨眼'，-ing构成形容词→字面指'不眨眼的'，引申为'坚定的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不眨眼的",
+        "examples": [
+          {
+            "sentence": "The owl stared at me with unblinking yellow eyes.",
+            "sentence_zh": "猫头鹰用不眨眼的黄眼睛盯着我。"
+          },
+          {
+            "sentence": "Professional poker players maintain unblinking focus during games.",
+            "sentence_zh": "职业扑克选手在比赛中保持不眨眼的专注。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "坚定的",
+        "examples": [
+          {
+            "sentence": "She gave unblinking support to her daughter's esports career.",
+            "sentence_zh": "她对女儿的电竞事业给予坚定不移的支持。"
+          },
+          {
+            "sentence": "The soldier stood with unblinking determination in the snow.",
+            "sentence_zh": "士兵在雪中坚定地站立着。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不动摇的",
+        "examples": [
+          {
+            "sentence": "His unblinking loyalty to the traditional craft moved the villagers.",
+            "sentence_zh": "他对传统工艺毫不动摇的忠诚感动了村民。"
+          },
+          {
+            "sentence": "The marathon runner kept an unblinking pace despite the rain.",
+            "sentence_zh": "马拉松选手在雨中保持着稳定的步伐。"
+          }
+        ]
+      }
+    ],
+    "teach": "unblinking是'钛合金狗眼'👁️‍🗨️！生物学上鳄鱼真的不眨眼（进化出透明瞬膜），而人类'不眨眼盯着'就像双十一抢茅台⏱️。搭配'unblinking gaze'（死亡凝视）、'unblinking truth'（残酷真相）。说'铁了心'可用hard as nails🌰。这个单词完美演绎从生理特征到精神品质的升华！",
+    "recite": {
+      "tips": [
+        "视觉记忆：想象灭霸(Thanos)打响指时的unblinking眼神💎",
+        "易混词对比：unwavering（更侧重不摇摆） vs unblinking（更强调直视）"
+      ]
+    }
+  },
+  {
+    "word": "unblinkingly",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "blink",
+        "ing",
+        "ly"
+      ],
+      "meaning_connection": "前缀un-表否定，词根blink表眨眼，-ing为现在分词后缀，-ly为副词后缀→字面意思为'不眨眼地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不眨眼地",
+        "examples": [
+          {
+            "sentence": "The cat stared unblinkingly at the laser dot for 3 minutes.",
+            "sentence_zh": "这只猫目不转睛地盯着激光点长达3分钟。"
+          },
+          {
+            "sentence": "She listened to the horror story unblinkingly, without even a twitch.",
+            "sentence_zh": "她听着恐怖故事眼睛一眨不眨，连眉头都没皱一下。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不动声色地",
+        "examples": [
+          {
+            "sentence": "The poker player unblinkingly pushed all his chips forward.",
+            "sentence_zh": "扑克玩家面不改色地推出了所有筹码。"
+          },
+          {
+            "sentence": "He accepted the Nobel Prize unblinkingly, as if it were just another Tuesday.",
+            "sentence_zh": "他不动声色地接受了诺贝尔奖，仿佛这只是个普通的周二。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "unblinking stare",
+        "meaning": "目不转睛的凝视",
+        "examples": [
+          {
+            "sentence": "The museum guard maintained an unblinking stare at the Van Gogh painting.",
+            "sentence_zh": "博物馆保安对梵高画作保持着目不转睛的凝视。"
+          }
+        ]
+      }
+    ],
+    "teach": "unblinkingly其实是'眼睛防抖模式'👁️！想象AI面试官扫描你简历时的死亡凝视🤖，或是喵星人盯着快掉落的金枪鱼寿司🍣时的专注。要说'泰山崩于前而色不变'可翻译为'remain unblinkingly calm'🌋。记住这个搭配：unblinking attention（全程无尿点的注意力）就像追《狂飙》时舍不得快进⏩️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'昂不令可灵'→高昂着头(昂)不(不)眨眼(令可)很灵(灵)",
+        "对比记忆：blinkingly（闪烁地） vs unblinkingly（坚定地），就像LED灯💡和激光笔🔦的区别"
+      ]
+    }
+  },
+  {
+    "word": "unblocked",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "block",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，block意为'阻塞'，-ed构成形容词→字面意思为'未被阻塞的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "非块式",
+        "examples": [
+          {
+            "sentence": "Python uses unblocked code to achieve asynchronous operations.",
+            "sentence_zh": "Python使用非阻塞代码实现异步操作。"
+          },
+          {
+            "sentence": "The unblocked architecture allows continuous data flow.",
+            "sentence_zh": "非块式架构允许数据持续流动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "畅通无阻的",
+        "examples": [
+          {
+            "sentence": "VIP members enjoy unblocked access to all features.",
+            "sentence_zh": "VIP会员享有所有功能的畅通访问权。"
+          },
+          {
+            "sentence": "The CEO has an unblocked view of the harbor from her office.",
+            "sentence_zh": "CEO的办公室可以畅通无阻地俯瞰海港。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "stay unblocked",
+        "meaning": "保持畅通",
+        "examples": [
+          {
+            "sentence": "Make sure your WeChat account stays unblocked during the promotion.",
+            "sentence_zh": "促销期间请确保微信账号保持畅通。"
+          }
+        ]
+      }
+    ],
+    "teach": "unblocked就像便秘患者突然通畅了💩→既形容代码流畅如德芙（smooth as Dove chocolate🍫），也指道路畅通如春节后的高速公路🛣️。'被屏蔽'说blocked like the Great Firewall，'解除限制'叫get unblocked就像解开微信红码🔴→🟢。记住：人生要unblocked，就像火锅不能堵住毛肚下锅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不唠嗑的'→畅通无阻时没空唠嗑",
+        "易混词对比：unlocked（未上锁） vs unblocked（未阻塞）",
+        "记忆tip：UN联合国+block街区→联合国总部必须保持道路畅通"
+      ]
+    }
+  },
+  {
+    "word": "unbolted",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "bolt",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，bolt指'门闩'或'筛子'，-ed构成形容词→原指'没上门闩的'，后引申为'未筛选的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "未栓住的",
+        "examples": [
+          {
+            "sentence": "The unbolted gate swung wildly in the typhoon.",
+            "sentence_zh": "未上栓的大门在台风中剧烈摇晃。"
+          },
+          {
+            "sentence": "Never leave bicycle unbolted outside a hotpot restaurant.",
+            "sentence_zh": "千万别在火锅店外停放未上锁的自行车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "拔去了门闩的",
+        "examples": [
+          {
+            "sentence": "The detective noticed the unbolted window immediately.",
+            "sentence_zh": "侦探立即注意到了被拔去插销的窗户。"
+          },
+          {
+            "sentence": "Ancient city gates were never left unbolted at night.",
+            "sentence_zh": "古代城门夜晚绝不会撤去门闩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "未筛过的",
+        "examples": [
+          {
+            "sentence": "Unbolted flour was used to make rustic noodles in Shanxi.",
+            "sentence_zh": "山西农家面常用未筛面粉制作。"
+          },
+          {
+            "sentence": "This special tea contains unbolted tea leaves for stronger flavor.",
+            "sentence_zh": "这种特制茶含有未筛茶叶以增强风味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "粗糙的",
+        "examples": [
+          {
+            "sentence": "The unbolted concrete walls became an artistic feature.",
+            "sentence_zh": "粗糙的混凝土墙面反而成了艺术特色。"
+          },
+          {
+            "sentence": "Her unbolted pottery works sell better than polished ones.",
+            "sentence_zh": "她粗犷的陶器作品比精修款更畅销。"
+          }
+        ]
+      }
+    ],
+    "teach": "unbolted是个'三面间谍'🔍！当门闩(unbolt)被卸，就成了安保漏洞🚪；当面粉不筛(bolt)，就保留麦麸营养🌾；引申的'粗糙'义就像没磨皮的生图📸。搭配：leave sth unbolted（留某物未锁）比说forget to lock更高级，形容人粗犷可以说unbolted charm（糙汉魅力）💪。记住：筛子(bolt)和门闩(bolt)本是同根生！",
+    "recite": {
+      "tips": [
+        "谐音梗：'昂脖踢的'→昂着脖子踢门因为没上闩(unbolted)",
+        "易混词：unhinged（精神失常）vs unbolted（物理未锁）"
+      ]
+    }
   }
 ]

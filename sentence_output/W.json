@@ -7726,5 +7726,242 @@
         "记忆tip：把warning分解成war(战争)+ning(宁)→宁可打仗也要发出的警报"
       ]
     }
+  },
+  {
+    "word": "warningly",
+    "etymology": {
+      "breakdown": [
+        "warn",
+        "ing",
+        "ly"
+      ],
+      "meaning_connection": "动词warn（警告）+ 名词化后缀-ing + 副词后缀-ly → 以警告的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "警告地",
+        "examples": [
+          {
+            "sentence": "The teacher shook her finger warningly when students tried to cheat.",
+            "sentence_zh": "当学生试图作弊时，老师警告性地摇了摇手指。"
+          },
+          {
+            "sentence": "The cat's tail twitched warningly before it attacked the toy.",
+            "sentence_zh": "猫咪在攻击玩具前警告性地甩动尾巴。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "say warningly",
+        "meaning": "以警告的语气说",
+        "examples": [
+          {
+            "sentence": "\"Don't touch that,\" he said warningly, pointing at the high-voltage sign.",
+            "sentence_zh": "他指着高压电标志警告地说：\"别碰那个\"。"
+          }
+        ]
+      }
+    ],
+    "teach": "warningly是'警告界的气氛组'⚠️！就像妈妈举着拖鞋瞪你时的表情👟，也像微信语音60秒前的红色感叹号❗️。搭配'speak warningly'（用警告语气说话）和'glance warningly'（警告性瞥视），地道说法可以用'give someone the look'（给个警告眼神）😼。记住：这个-ly结尾让警告从名词变成动作！",
+    "recite": {
+      "tips": [
+        "拆解记忆：warn（警告）+ ing（正在进行）+ ly（地）= 正在发出警告地",
+        "易混词对比：warning（n.警告） vs. warn（v.警告） vs. warningly（adv.警告地）",
+        "情景联想：交通警察举手warningly的样子像个人形停止标志🛑"
+      ]
+    }
+  },
+  {
+    "word": "warp",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语weorpan（投掷/扭曲），与德语werfen同源，本义指用力扭转物体产生的形变"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "变形",
+        "examples": [
+          {
+            "sentence": "The warp in this wooden floor makes marbles roll sideways.",
+            "sentence_zh": "木地板的变形让弹珠会横向滚动。"
+          },
+          {
+            "sentence": "Heat caused a visible warp in the vinyl record.",
+            "sentence_zh": "高温导致黑胶唱片出现明显变形。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "偏见",
+        "examples": [
+          {
+            "sentence": "His cultural warp made him misunderstand the tradition.",
+            "sentence_zh": "他的文化偏见使他误解了这一传统。"
+          },
+          {
+            "sentence": "The algorithm's data warp needs correction.",
+            "sentence_zh": "该算法的数据偏差需要修正。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使变形",
+        "examples": [
+          {
+            "sentence": "Humidity warps bamboo chopsticks into boomerangs.",
+            "sentence_zh": "湿度把竹筷变得像回力镖一样弯曲。"
+          },
+          {
+            "sentence": "The blacksmith warped the metal sheet with precise hammering.",
+            "sentence_zh": "铁匠通过精准敲打使金属板变形。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "歪曲",
+        "examples": [
+          {
+            "sentence": "The tabloid warped the celebrity's words into nonsense.",
+            "sentence_zh": "小报把明星的话歪曲得面目全非。"
+          },
+          {
+            "sentence": "Memes often warp historical facts for humor.",
+            "sentence_zh": "梗图常为搞笑而歪曲历史事实。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变弯",
+        "examples": [
+          {
+            "sentence": "The bookshelf warped after the water leak.",
+            "sentence_zh": "书架在漏水后变得弯曲。"
+          },
+          {
+            "sentence": "PVC pipes may warp under extreme heat.",
+            "sentence_zh": "PVC管在极端高温下可能会弯曲。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "warp and woof",
+        "meaning": "经纬线/基本结构",
+        "examples": [
+          {
+            "sentence": "Confucianism is part of the warp and woof of Chinese culture.",
+            "sentence_zh": "儒家思想是中国文化基本结构的组成部分。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "time warp",
+        "meaning": "时间错位",
+        "examples": [
+          {
+            "sentence": "This antique shop feels like a time warp to the 1980s.",
+            "sentence_zh": "这间古董店让人仿佛穿越回80年代。"
+          }
+        ]
+      }
+    ],
+    "teach": "warp是宇宙终极扭曲大师🌀！物理学里指空间弯曲（就像《三体》的二向箔📉），纺织业指经线（和纬线woof织成布🧵），心理学指认知偏差（比滤镜还歪的脑回路🤯）。说'带节奏歪曲事实'用distort the facts like warping spacetime，'木地板翘了'说the floor warped like a potato chip🥔。记住：从曲别针到人生观，warp专治各种不直！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我破'→木头'我破(warp)了'就变形",
+        "易混词对比：bend（自然弯曲） vs warp（异常变形）",
+        "联想：W字母造型就是弯曲的"
+      ]
+    }
+  },
+  {
+    "word": "warpath",
+    "etymology": {
+      "breakdown": [
+        "war",
+        "path"
+      ],
+      "meaning_connection": "字面意思是'战争路径'，原指北美原住民战士出征时的路线"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "征途",
+        "examples": [
+          {
+            "sentence": "The startup is on the warpath to dominate the bubble tea market.",
+            "sentence_zh": "这家初创企业正踏上征服奶茶市场的征途。"
+          },
+          {
+            "sentence": "His journey collecting all limited edition sneakers became a personal warpath.",
+            "sentence_zh": "他收集所有限量版球鞋的旅程变成了一条个人征途。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "敌对行动",
+        "examples": [
+          {
+            "sentence": "The two streaming platforms are on the warpath with exclusive content battles.",
+            "sentence_zh": "这两个流媒体平台正通过独家内容展开敌对行动。"
+          },
+          {
+            "sentence": "When the wifi went down, the whole office went on the warpath.",
+            "sentence_zh": "当WiFi中断时，整个办公室都进入了敌对状态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "敌对情绪",
+        "examples": [
+          {
+            "sentence": "Her warpath attitude melted when she saw the puppy photos.",
+            "sentence_zh": "当她看到小狗照片时，敌对情绪瞬间融化了。"
+          },
+          {
+            "sentence": "The comment section was full of warpath after the controversial post.",
+            "sentence_zh": "争议帖子下的评论区充满了敌对情绪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on the warpath",
+        "meaning": "准备战斗/大发雷霆",
+        "examples": [
+          {
+            "sentence": "Mom's on the warpath because someone ate her secret chocolate stash.",
+            "sentence_zh": "妈妈正在大发雷霆，因为有人偷吃了她藏的巧克力。"
+          },
+          {
+            "sentence": "The marketing team is on the warpath for the upcoming Double 11 campaign.",
+            "sentence_zh": "营销团队正为即将到来的双十一活动严阵以待。"
+          }
+        ]
+      }
+    ],
+    "teach": "warpath就像愤怒的小鸟🐦的弹弓轨迹！原住民战士出征前会跳'战舞'💃，现代人则是发朋友圈宣战📱。说'某人on the warpath'比'生气'更生动，就像看到最后一块火锅肉被夹走时的表情🌶️。'数字征途'叫digital warpath，'冷战'可戏称silent warpath🤫。记住：这不是普通的路，是带着表情包杀气的前进！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我怕死'→上warpath（征途）前说我怕死",
+        "对比记忆：warpath(有明确攻击性) vs. journey(普通旅程)"
+      ]
+    }
   }
 ]

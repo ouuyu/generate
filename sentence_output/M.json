@@ -7105,5 +7105,355 @@
         "场景联想：所有故宫纪录片的旁述必有这个词"
       ]
     }
+  },
+  {
+    "word": "majesty",
+    "etymology": {
+      "breakdown": [
+        "maj",
+        "est",
+        "y"
+      ],
+      "meaning_connection": "词根maj=伟大（来自拉丁语maiestas），-est表最高级后缀，-y为名词后缀→最高权威的体现"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "最高权威",
+        "examples": [
+          {
+            "sentence": "The edict was issued under the majesty of the emperor.",
+            "sentence_zh": "这份诏书以皇帝的至高权威颁布。"
+          },
+          {
+            "sentence": "The constitution declares that all power resides in the majesty of the people.",
+            "sentence_zh": "宪法宣告一切权力属于人民的最高权威。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "威严",
+        "examples": [
+          {
+            "sentence": "The giant panda moved with a quiet majesty through the bamboo forest.",
+            "sentence_zh": "大熊猫在竹林中安静行走时带着天然的威严。"
+          },
+          {
+            "sentence": "Her majesty of bearing made everyone stand up straight unconsciously.",
+            "sentence_zh": "她威严的仪态让所有人不自觉地挺直腰板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "王权",
+        "examples": [
+          {
+            "sentence": "The crown is the symbol of the British majesty.",
+            "sentence_zh": "王冠是英国王权的象征。"
+          },
+          {
+            "sentence": "Rebels attempted to overthrow the majesty but failed.",
+            "sentence_zh": "叛乱者试图推翻王权但失败了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "雄伟",
+        "examples": [
+          {
+            "sentence": "The majesty of Mount Everest took our breath away.",
+            "sentence_zh": "珠穆朗玛峰的雄伟让我们屏住呼吸。"
+          },
+          {
+            "sentence": "No photo can capture the true majesty of the Grand Canyon.",
+            "sentence_zh": "没有照片能真正捕捉大峡谷的雄伟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "庄严",
+        "examples": [
+          {
+            "sentence": "The national anthem was played with great majesty at the ceremony.",
+            "sentence_zh": "国歌在仪式上奏响时充满庄严感。"
+          },
+          {
+            "sentence": "The ancient temple retains its original majesty after centuries.",
+            "sentence_zh": "这座古庙历经数百年仍保持着原始的庄严。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Your Majesty",
+        "meaning": "陛下（尊称）",
+        "examples": [
+          {
+            "sentence": "\"Your Majesty, the pandas from China have arrived,\" said the royal attendant.",
+            "sentence_zh": "皇家侍从禀报：\"陛下，来自中国的大熊猫已抵达\"。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "with majesty",
+        "meaning": "庄严地",
+        "examples": [
+          {
+            "sentence": "The national flag rose with majesty at dawn.",
+            "sentence_zh": "国旗在黎明时分庄严升起。"
+          }
+        ]
+      }
+    ],
+    "teach": "majesty就像皇家表情包👑！词根maj-藏在major（重要）和mayor（市长）里，而'陛下'的尊称Your Majesty就像给狮子王🦁加特效。说'气势恢宏'可以用breathtaking majesty（比如长城），吐槽'摆架子'可以说put on false majesty（像孔雀开屏🦚）。记住：看到maj-词根就联想'伟大三件套'——王冠、雪山、故宫红墙！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没急着提'→帝王威严（majesty）从不急着发话",
+        "易混词：majestic（adj.雄伟的）是形容词形态",
+        "记忆链：maj（大）+est（最）+y→最大程度的伟大"
+      ]
+    }
+  },
+  {
+    "word": "major",
+    "etymology": {
+      "breakdown": [
+        "maj",
+        "or"
+      ],
+      "meaning_connection": "词根maj=更大/更伟大（来自拉丁语maior），-or表人/事物→原指'更大的'，引申出'重要人物'和'主要事物'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "主修课",
+        "examples": [
+          {
+            "sentence": "Her major in Peking University was AI with a minor in tango dancing.",
+            "sentence_zh": "她在北京大学主修人工智能，辅修探戈舞。"
+          },
+          {
+            "sentence": "Switching majors from finance to archaeology shocked his parents.",
+            "sentence_zh": "他把专业从金融转到考古学，震惊了父母。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "成年人",
+        "examples": [
+          {
+            "sentence": "In Japan, you become a legal major at 20 with sake-drinking ceremonies.",
+            "sentence_zh": "在日本20岁成年礼上会举行饮酒仪式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "陆军少校",
+        "examples": [
+          {
+            "sentence": "The major trained recruits with memes about military life.",
+            "sentence_zh": "这位少校用军营生活梗训练新兵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "主要的",
+        "examples": [
+          {
+            "sentence": "The major attraction in Chengdu is pandas eating hotpot-shaped ice cream.",
+            "sentence_zh": "成都主要景点是熊猫吃火锅造型冰淇淋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "较多的",
+        "examples": [
+          {
+            "sentence": "Major cities now have more shared bikes than pigeons.",
+            "sentence_zh": "大城市共享单车数量已超过鸽子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "成年的",
+        "examples": [
+          {
+            "sentence": "The major characters in this anime are all over 300 years old.",
+            "sentence_zh": "这部动漫的主角都是300岁起步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "严重的",
+        "examples": [
+          {
+            "sentence": "There's a major shortage of spicy crayfish during summer nights.",
+            "sentence_zh": "夏夜面临严重的小龙虾短缺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "主修",
+        "examples": [
+          {
+            "sentence": "He majored in meme studies before it became cool.",
+            "sentence_zh": "他在网络梗研究成为潮流前就主修这个。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "major in",
+        "meaning": "主修某专业",
+        "examples": [
+          {
+            "sentence": "She majors in creating viral Douyin challenges.",
+            "sentence_zh": "她主修设计病毒式抖音挑战。"
+          }
+        ]
+      }
+    ],
+    "teach": "major是个变形金刚🤖！作为名词时：可以是大学生的主修课📚（比如majored in 摸鱼学），可以是酒桌上的成年人🍺（I'm a major!），也可以是肩扛星星的少校⭐️；作为形容词时：描述重要事物像火锅里的毛肚🔥（major ingredient），严重程度像等奶茶时的焦虑😱（major problem）；作为动词时：就像选专业时的纠结🤯（what to major in?）。地道表达：'主修摸鱼'可以说major in professional couch potato！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没这'→陆军少校(major)说'没这回事'",
+        "易混词：major vs. mayor（市长）→少校(major)带枪，市长(mayor)带章"
+      ]
+    }
+  },
+  {
+    "word": "majorette",
+    "etymology": {
+      "breakdown": [
+        "major",
+        "ette"
+      ],
+      "meaning_connection": "词根major=主要的/较大的，后缀-ette表示'小型/女性'→原指女性军乐队领队"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "鼓手队长",
+        "examples": [
+          {
+            "sentence": "The majorette twirled her baton so fast it looked like a helicopter blade.",
+            "sentence_zh": "鼓手队长旋转指挥棒快到像直升机螺旋桨。"
+          },
+          {
+            "sentence": "Our school's majorette leads the parade with backflips in a sequined uniform.",
+            "sentence_zh": "我校鼓手队长穿着亮片制服后空翻引领游行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "军乐队指挥",
+        "examples": [
+          {
+            "sentence": "The majorette's whistle made the trombone players jump three feet in the air.",
+            "sentence_zh": "军乐队指挥的哨声让长号手们吓得跳起三尺高。"
+          },
+          {
+            "sentence": "During the football game, the majorette conducted the band with glowing drumsticks.",
+            "sentence_zh": "橄榄球赛中场时，军乐队指挥用荧光鼓棒指挥乐团。"
+          }
+        ]
+      }
+    ],
+    "teach": "majorette是行走的节拍器👯♀️！这个词诞生于20世纪美国，当时女性开始担任军乐指挥（原词major加女性后缀-ette）。视觉化记忆：想象抖音里的'指挥小姐姐'用自拍杆当指挥棒📱！实用搭配：'lead like a majorette'（像乐队指挥般领导），'majorette boots'（经典及膝靴）。地道吐槽'节奏感差'说：'You conduct like a chicken pecking rice!'（你指挥像小鸡啄米）🥁🐔🎶",
+    "recite": {
+      "tips": [
+        "谐音梗：'没招了踢'→乐队没招了踢正步",
+        "易混词：major (主要的) vs majorette (女指挥)",
+        "记忆桩：联想《欢乐好声音》里的露西兔"
+      ]
+    }
+  },
+  {
+    "word": "majority",
+    "etymology": {
+      "breakdown": [
+        "major",
+        "ity"
+      ],
+      "meaning_connection": "词根major=更大/更重要的，后缀-ity表性质→'更大的部分'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "多数",
+        "examples": [
+          {
+            "sentence": "The majority of WeChat users spend 3+ hours daily on the app.",
+            "sentence_zh": "多数微信用户每天使用超3小时。"
+          },
+          {
+            "sentence": "Hotpot won by majority vote as the office lunch choice.",
+            "sentence_zh": "火锅以多数票当选为办公室午餐选择。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大半",
+        "examples": [
+          {
+            "sentence": "The majority of the Great Wall sections need restoration.",
+            "sentence_zh": "长城的大半部分需要修缮。"
+          },
+          {
+            "sentence": "She spent the majority of her salary on pet cats.",
+            "sentence_zh": "她把工资的大半花在了宠物猫身上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "silent majority",
+        "meaning": "沉默的大多数",
+        "examples": [
+          {
+            "sentence": "The silent majority finally spoke out on social media.",
+            "sentence_zh": "沉默的大多数终于在社交媒体发声。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "majority rule",
+        "meaning": "多数决原则",
+        "examples": [
+          {
+            "sentence": "Choosing lunch by majority rule often leads to hotpot.",
+            "sentence_zh": "用多数决原则选午餐常导致吃火锅。"
+          }
+        ]
+      }
+    ],
+    "teach": "majority是'妈见夸'式存在👍：罗马投票时用major(更大)的陶片决胜负🏛️。要说'碾压式胜利'叫landslide majority（山体滑坡般优势），'少数服从多数'就是majority rules像火锅局妥协选鸳鸯锅🍲。记住：当你说majority时，要像广场舞大妈一样自信！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没炸了踢'→没炸到的占多数",
+        "易混词：minority（少数）就像火锅里的清汤锅"
+      ]
+    }
   }
 ]

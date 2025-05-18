@@ -7202,5 +7202,253 @@
         "记忆法：d+aughter→'第1个aughter'(家里第一个女儿)"
       ]
     }
+  },
+  {
+    "word": "daunt",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'danter'，意为'驯服'，后演变为'使胆怯'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "威吓",
+        "examples": [
+          {
+            "sentence": "The lion's roar didn't daunt the experienced zookeeper.",
+            "sentence_zh": "狮子的吼声没能威吓住经验丰富的饲养员。"
+          },
+          {
+            "sentence": "Cyberbullies try to daunt others with anonymous threats.",
+            "sentence_zh": "网络霸凌者试图用匿名威胁威吓他人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "难倒",
+        "examples": [
+          {
+            "sentence": "The final math olympiad problem daunted even the top student.",
+            "sentence_zh": "最后一道奥数题连学霸都被难倒了。"
+          },
+          {
+            "sentence": "Assembling IKEA furniture without instructions daunts many people.",
+            "sentence_zh": "没有说明书组装宜家家具难倒了不少人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使气馁",
+        "examples": [
+          {
+            "sentence": "Repeated failures didn't daunt the startup founder.",
+            "sentence_zh": "屡次失败没有使这位创业者气馁。"
+          },
+          {
+            "sentence": "The steep learning curve of Python daunts some beginners.",
+            "sentence_zh": "Python陡峭的学习曲线使部分初学者气馁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "daunting task",
+        "meaning": "艰巨任务",
+        "examples": [
+          {
+            "sentence": "Writing a 10,000-word thesis seems like a daunting task for freshmen.",
+            "sentence_zh": "对大一新生来说，写万字论文像项艰巨任务。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "nothing daunted",
+        "meaning": "毫不气馁",
+        "examples": [
+          {
+            "sentence": "Nothing daunted, she submitted her manuscript to 20 publishers.",
+            "sentence_zh": "她毫不气馁，把稿件投给了20家出版社。"
+          }
+        ]
+      }
+    ],
+    "teach": "daunt就像游戏里的Boss威压👹！当它'威吓'时像峨眉山拦路猴🐒（daunt tourists）；'难倒'时像微积分教科书📚（daunt students）；'使气馁'时像健身房的肌肉猛男💪（daunt newbies）。记住：遇到daunting situation时，说'It's not that daunting!'（没那么可怕）比中文更地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'挡他'→困难挡他(daunt)前进路",
+        "易混词：daunt vs. taunt（嘲弄）→daunt让人畏缩，taunt让人愤怒"
+      ]
+    }
+  },
+  {
+    "word": "daunting",
+    "etymology": {
+      "breakdown": [
+        "daunt",
+        "ing"
+      ],
+      "meaning_connection": "词根daunt=吓退（源自古法语danter），-ing表形容词→令人吓退的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "使人畏缩的",
+        "examples": [
+          {
+            "sentence": "Climbing Mount Everest seems daunting even for professional athletes.",
+            "sentence_zh": "攀登珠穆朗玛峰即便对职业运动员也令人望而生畏。"
+          },
+          {
+            "sentence": "The daunting 100-page contract made him hesitate to sign.",
+            "sentence_zh": "这份长达100页的合同令人望而却步。"
+          }
+        ]
+      }
+    ],
+    "teach": "daunting就像游戏里的终极BOSS👾！它来自中世纪的骑士传说——喷火龙daunt（吓退）整支军队🐉。现代用法好比看到'背诵圆周率后1000位'的挑战书📜。搭配'daunting task'（艰巨任务）或'daunting prospect'（可怕前景），吐槽压力大可以说'It's Mount Everest-level daunting!'（这难度堪比登珠峰！）🗻💦😱",
+    "recite": {
+      "tips": [
+        "谐音梗：'挡停'→困难太daunting把人都挡停了",
+        "易混词：daring（勇敢）VS daunting（吓人）→字母a和u的位置决定心态"
+      ]
+    }
+  },
+  {
+    "word": "dauntingly",
+    "etymology": {
+      "breakdown": [
+        "daunt",
+        "ing",
+        "ly"
+      ],
+      "meaning_connection": "词根daunt来自古法语'donter'(驯服)，后缀-ing构成形容词，-ly转为副词→原指像驯兽般使人畏惧的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "令人生畏地",
+        "examples": [
+          {
+            "sentence": "The skyscraper loomed dauntingly over the ant-like pedestrians.",
+            "sentence_zh": "摩天大楼如巨兽般令人生畏地俯视着蚂蚁般的行人。"
+          },
+          {
+            "sentence": "She dauntingly listed 99 reasons why pineapple belongs on pizza.",
+            "sentence_zh": "她令人发怵地列出了99条菠萝该放在披萨上的理由。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "吓人地",
+        "examples": [
+          {
+            "sentence": "The AI's chess moves advanced dauntingly fast.",
+            "sentence_zh": "人工智能下棋的速度吓人地快。"
+          },
+          {
+            "sentence": "His WeChat step count rose dauntingly to 88,888.",
+            "sentence_zh": "他的微信步数吓人地飙升到了88888步。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dauntingly difficult",
+        "meaning": "令人望而生畏地困难",
+        "examples": [
+          {
+            "sentence": "The final boss in this game is dauntingly difficult.",
+            "sentence_zh": "这个游戏的终极Boss难到令人绝望。"
+          }
+        ]
+      }
+    ],
+    "teach": "dauntingly是'吓skr人'的程度副词💀！就像你妈突然查手机📱（dauntingly strict），或看到火锅店排号999桌🚨（dauntingly long line）。搭配'dauntingly high'形容房价🏠，'dauntingly complex'说微积分📚。四川人说'吓巴适'可译成damn dauntingly spicy🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'当庭立'→法官当庭立判，吓得被告腿软",
+        "对比记忆：doubtingly(怀疑地) vs dauntingly(吓人地)",
+        "联想：D+ aunt(阿姨) + ing → 凶阿姨让你写作业的压迫感"
+      ]
+    }
+  },
+  {
+    "word": "dauntless",
+    "etymology": {
+      "breakdown": [
+        "daunt",
+        "less"
+      ],
+      "meaning_connection": "daunt(使胆怯)+less(无...的)→无所畏惧的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不屈不挠的",
+        "examples": [
+          {
+            "sentence": "The dauntless researcher continued her work despite 99 failed experiments.",
+            "sentence_zh": "这位不屈不挠的研究员经历了99次失败仍坚持工作。"
+          },
+          {
+            "sentence": "His dauntless spirit moved all the judges on China's Got Talent.",
+            "sentence_zh": "他在《中国达人秀》上不屈不挠的精神感动了所有评委。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "大胆的",
+        "examples": [
+          {
+            "sentence": "The dauntless livestreamer ate 50 stinky tofu cubes in one go.",
+            "sentence_zh": "这位大胆的主播一口气吃了50块臭豆腐。"
+          },
+          {
+            "sentence": "Her dauntless proposal to use douyin for teaching shocked the faculty.",
+            "sentence_zh": "她提出用抖音授课的大胆方案震惊了全体教员。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dauntless courage",
+        "meaning": "无畏的勇气",
+        "examples": [
+          {
+            "sentence": "It takes dauntless courage to sing in front of a square dancing crowd.",
+            "sentence_zh": "在广场舞大妈面前唱歌需要无畏的勇气。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dauntless explorer",
+        "meaning": "勇敢的探险者",
+        "examples": [
+          {
+            "sentence": "The dauntless explorer tried all 100 flavors at the weird snack museum.",
+            "sentence_zh": "这位勇敢的探险者在奇葩零食博物馆尝遍了100种口味。"
+          }
+        ]
+      }
+    ],
+    "teach": "dauntless其实是'胆大包天'的英语版🦸！想象漫威英雄死侍(dauntless Wade)勇闯成都火锅店🌶️，面对变态辣面不改色😈。说'莽夫行为'用daredevil，'初生牛犊'叫young and dauntless。记住：当你勇闯老板办公室要求加薪时，请戴上dauntless表情包💪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'挡他累死'→怎么挡都累不死→不屈不挠",
+        "对比记忆：doubt(怀疑)+less→毫无怀疑=自信满满"
+      ]
+    }
   }
 ]

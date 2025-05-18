@@ -7361,5 +7361,220 @@
         "易混词：handler vs. dealer（前者操作实物，后者多指交易）"
       ]
     }
+  },
+  {
+    "word": "handling",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "ling"
+      ],
+      "meaning_connection": "词根hand=手，后缀-ling表动作→原指'用手操作'，后引申为抽象处理"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "处理",
+        "examples": [
+          {
+            "sentence": "The AI's handling of Sichuan dialect surprised the developers.",
+            "sentence_zh": "AI对四川话的处理能力让开发者惊讶。"
+          },
+          {
+            "sentence": "Her delicate handling of the negotiation saved the deal.",
+            "sentence_zh": "她对谈判的巧妙处理挽救了交易。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "操作的",
+        "examples": [
+          {
+            "sentence": "This handling manual is written in memes and emojis.",
+            "sentence_zh": "这本操作手册是用表情包写的。"
+          },
+          {
+            "sentence": "The handling skills for hotpot ingredients differ by region.",
+            "sentence_zh": "火锅食材的操作技巧因地区而异。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "data handling",
+        "meaning": "数据处理",
+        "examples": [
+          {
+            "sentence": "TikTok's data handling algorithm always knows your preferences.",
+            "sentence_zh": "抖音的数据处理算法总能知道你的喜好。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "handling charge",
+        "meaning": "手续费",
+        "examples": [
+          {
+            "sentence": "The 0.1% handling charge for red envelopes sparked online protests.",
+            "sentence_zh": "微信红包0.1%手续费引发网友抗议。"
+          }
+        ]
+      }
+    ],
+    "teach": "handling是职场太极大师👐：既能像端火锅般小心翼翼（careful handling），又能像快递分拣般高效粗暴（rough handling）。记住'手工费'叫handling fee就像给快递小哥的打赏💸，'操作说明'是handling instructions就像火锅涮菜时间表⏳。当你说'This needs delicate handling'时，其实在暗示：这事烫手！🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'汗滴铃'→处理(hangding)问题汗滴如铃铛",
+        "易混词对比：handling（操作过程）vs. handler（操作者）"
+      ]
+    }
+  },
+  {
+    "word": "handmade",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "made"
+      ],
+      "meaning_connection": "hand表示'手'，made是make的过去分词→'用手制作的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "手工的",
+        "examples": [
+          {
+            "sentence": "This handmade mahjong set features carved pandas instead of bamboo tiles.",
+            "sentence_zh": "这副手工麻将用雕刻熊猫替代了竹制牌面。"
+          },
+          {
+            "sentence": "Her WeChat store sells handmade chili oil with 18 spices.",
+            "sentence_zh": "她的微店售卖用18种香料手工熬制的辣椒油。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "手制的",
+        "examples": [
+          {
+            "sentence": "The handmade paper lanterns lit up the hutong during Mid-Autumn Festival.",
+            "sentence_zh": "中秋节的胡同里挂满了手制的纸灯笼。"
+          },
+          {
+            "sentence": "He gifted me a handmade kite shaped like a flying dumpling.",
+            "sentence_zh": "他送了我一只形似飞饺的手制风筝。"
+          }
+        ]
+      }
+    ],
+    "teach": "handmade是'手活儿'界的爱马仕👜！古人做衣服叫'女红(gōng)'🧵，现代人手作叫DIY💡。搭配要说'handmade with love'(用爱发电的手作)或'locally handmade'(本地手造)。遇到精致手工品别只说'nice'，地道夸法是'This is next-level craft!'👏 记住：凡带handmade标签，价格自动×3！",
+    "recite": {
+      "tips": [
+        "谐音梗：'汗滴美的'→汗滴(hān dī)美的(handmade)手作",
+        "易混词对比：handmade(纯手工) vs homemade(家庭自制)"
+      ]
+    }
+  },
+  {
+    "word": "handmaid",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "maid"
+      ],
+      "meaning_connection": "hand=手，maid=女仆→字面意思是'帮手女仆'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "侍女",
+        "examples": [
+          {
+            "sentence": "The handmaid adjusted the queen's robes with practiced hands.",
+            "sentence_zh": "侍女用熟练的手法整理女王的礼服。"
+          },
+          {
+            "sentence": "In the palace drama, the handmaid secretly passed love letters for the princess.",
+            "sentence_zh": "宫斗剧里，侍女偷偷为公主传递情书。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "女仆",
+        "examples": [
+          {
+            "sentence": "Victorian handmaids often worked 16-hour days polishing silverware.",
+            "sentence_zh": "维多利亚时代的女仆常要每天工作16小时擦拭银器。"
+          },
+          {
+            "sentence": "The AI butler joked: 'I'm a digital handmaid without days off.'",
+            "sentence_zh": "AI管家开玩笑说：'我是个不用休息的数字女仆'。"
+          }
+        ]
+      }
+    ],
+    "teach": "handmaid是'手+女仆'的合成词🤲，就像《使女的故事》里戴红白帽的生育工具🧣。中世纪侍女要会30种发髻编法💇♀️，现代人说'打工妹'可以用office handmaid（带自嘲）。记住：别把handmaid和housekeeper搞混，前者像《甄嬛传》浣碧贴身伺候，后者像《唐顿庄园》指挥其他佣人🏰",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊美的'→焊在美女身边的handmaid",
+        "易混词对比：maid（未婚女仆） vs handmaid（贴身侍女）",
+        "记忆tip：hand+maid=需要亲手伺候的女仆"
+      ]
+    }
+  },
+  {
+    "word": "handmaiden",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "maid",
+        "en"
+      ],
+      "meaning_connection": "hand=手，maid=少女，-en表阴性→原指'帮忙的侍女'，现引申为'辅助者'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "侍女",
+        "examples": [
+          {
+            "sentence": "The handmaiden adjusted the queen's robes with silver embroidery needles.",
+            "sentence_zh": "侍女用银绣针为女王整理衣袍。"
+          },
+          {
+            "sentence": "In the Forbidden City, handmaidens carried peony-patterned teacups on jade trays.",
+            "sentence_zh": "紫禁城里，侍女们端着玉托盘的牡丹纹茶盏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "女仆",
+        "examples": [
+          {
+            "sentence": "The novelist described the handmaiden polishing mahogany furniture with beeswax.",
+            "sentence_zh": "小说家描写女仆用蜂蜡擦拭红木家具。"
+          },
+          {
+            "sentence": "A handmaiden in Tang costume was steaming silk handkerchiefs with rose water.",
+            "sentence_zh": "着唐装的女仆正用玫瑰水蒸煮丝帕。"
+          }
+        ]
+      }
+    ],
+    "teach": "handmaiden是古代版'打工人'👩💼：字面是'手(hand)+少女(maid)'，就像《红楼梦》里端茶倒水的丫鬟🧧。现代可用'personal assistant'替代，但说'she's no handmaiden'表示'她可不是伺候人的'💪。记住这个宫廷剧高频词：当handmaiden出现，必有银簪子和阴谋论！🗡️",
+    "recite": {
+      "tips": [
+        "谐音梗：'喊得慢'→主子喊话侍女反应慢",
+        "对比：handmaid vs housemaid（前者更古典优雅）",
+        "联想：《甄嬛传》里递酸梅汤的宫女"
+      ]
+    }
   }
 ]

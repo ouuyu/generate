@@ -7874,5 +7874,282 @@
         "记忆tip：想象把formal（正式）反着拼就是famil(y)+ar+ly"
       ]
     }
+  },
+  {
+    "word": "family",
+    "etymology": {
+      "breakdown": [
+        "fam",
+        "ily"
+      ],
+      "meaning_connection": "词根fam=拉丁语'famulus'(仆人)，-ily表集体→原指同一屋檐下的主仆，后演变为血缘群体"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "家庭（社会单位）",
+        "examples": [
+          {
+            "sentence": "The Li family runs a hotpot restaurant with 300-year-old recipe.",
+            "sentence_zh": "李家经营着拥有三百年秘方的火锅店。"
+          },
+          {
+            "sentence": "Modern families may consist of cats and programmers.",
+            "sentence_zh": "现代家庭可能由猫和程序员组成。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "家人（成员集合）",
+        "examples": [
+          {
+            "sentence": "My family video calls me whenever I eat instant noodles.",
+            "sentence_zh": "每次我吃泡面时家人都会发起视频通话。"
+          },
+          {
+            "sentence": "All families in the compound share one WeChat group.",
+            "sentence_zh": "整个小区的家人们共用一个微信群。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "族（生物/语言分类）",
+        "examples": [
+          {
+            "sentence": "Pandas belong to the bear family but only eat 竹子.",
+            "sentence_zh": "熊猫属于熊科却只吃竹子。"
+          },
+          {
+            "sentence": "The Romance language family includes French and spicy Sichuan dialect.",
+            "sentence_zh": "罗曼语族包括法语和火辣的四川话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "家庭的（属性）",
+        "examples": [
+          {
+            "sentence": "Family disputes are often solved over hotpot.",
+            "sentence_zh": "家庭纠纷常在火锅席间解决。"
+          },
+          {
+            "sentence": "This drama shows typical family relationships in China.",
+            "sentence_zh": "这部剧展现了中国典型的家庭关系。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "family tree",
+        "meaning": "家谱",
+        "examples": [
+          {
+            "sentence": "His family tree looks like a takeout menu with so many branches.",
+            "sentence_zh": "他的家谱像外卖菜单般枝繁叶茂。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in the family way",
+        "meaning": "怀孕（委婉语）",
+        "examples": [
+          {
+            "sentence": "When auntie asks if you're in the family way, she's not offering adoption.",
+            "sentence_zh": "当阿姨问你是否'in the family way'时，她可不是在提议领养。"
+          }
+        ]
+      }
+    ],
+    "teach": "family其实是'饭米粒'🍚：古罗马奴隶主(fam)和仆人同吃一锅饭→演变成家人👨👩👧👦。中文说'家丑'英文叫skeleton in the closet（衣柜里的骷髅💀），'全家福'叫family portrait就像微信群截图📱。记住：没有wifi的family就像鸳鸯锅只有清汤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发米粒'→发米粒给全family",
+        "易混词：house(房子)是钢筋混凝土，family是酸甜苦辣咸"
+      ]
+    }
+  },
+  {
+    "word": "famine",
+    "etymology": {
+      "breakdown": [
+        "fam",
+        "ine"
+      ],
+      "meaning_connection": "词根fam=饥饿（拉丁语fames），-ine表状态→极度的饥饿状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "饥荒",
+        "examples": [
+          {
+            "sentence": "The Great Chinese Famine inspired many survival stories.",
+            "sentence_zh": "三年困难时期的饥荒催生了许多求生故事。"
+          },
+          {
+            "sentence": "Irish potato famine caused mass migration to America.",
+            "sentence_zh": "爱尔兰土豆饥荒导致大规模移民美洲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "极度缺乏",
+        "examples": [
+          {
+            "sentence": "There's a famine of funny videos during exam weeks.",
+            "sentence_zh": "考试周会出现搞笑视频的极度短缺。"
+          },
+          {
+            "sentence": "The music industry suffers from creativity famine.",
+            "sentence_zh": "音乐产业正遭遇创意枯竭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "饥饿",
+        "examples": [
+          {
+            "sentence": "Pandas never experience famine thanks to dedicated keepers.",
+            "sentence_zh": "熊猫因饲养员的精心照料从不知饥饿。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "famine relief",
+        "meaning": "饥荒救济",
+        "examples": [
+          {
+            "sentence": "Live-streaming sales now contribute to famine relief funds.",
+            "sentence_zh": "直播带货现也参与饥荒救济筹款。"
+          }
+        ]
+      }
+    ],
+    "teach": "famine是'发霉呢'🌾的饥饿版本！中世纪欧洲人饿到啃皮带时（真实历史😱），会说'famish'（饿死）。现代版'精神饥荒'可说content famine（内容荒），饿到前胸贴后背叫skin and bones👻。记住：减肥饿肚子是diet，全民没饭吃才是famine！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭没呢'→饭都没了当然闹饥荒",
+        "易混词对比：famine（大范围饥荒）vs hunger（个人饥饿感）"
+      ]
+    }
+  },
+  {
+    "word": "famished",
+    "etymology": {
+      "breakdown": [
+        "fam",
+        "ish",
+        "ed"
+      ],
+      "meaning_connection": "词根fam=饥饿（同源famine），-ish表'趋向于'，-ed表状态→处于饥饿状态的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "极度饥饿的",
+        "examples": [
+          {
+            "sentence": "After hiking the Great Wall for 6 hours, we were absolutely famished.",
+            "sentence_zh": "长城徒步6小时后，我们饿得前胸贴后背。"
+          },
+          {
+            "sentence": "The panda looked famished after finishing all its bamboo supply.",
+            "sentence_zh": "这只熊猫吃完所有竹子供货后显得饥肠辘辘。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be famished for",
+        "meaning": "极度渴望",
+        "examples": [
+          {
+            "sentence": "The abandoned puppy was famished for affection.",
+            "sentence_zh": "被遗弃的小狗极度渴望关爱。"
+          }
+        ]
+      }
+    ],
+    "teach": "famished是饿到能吞下一头牛🐮的状态！古英语famisced原指'被施饥饿刑'，比如把犯人关进饿鼠笼🐀。现在说'I'm famished'比'I'm hungry'夸张100倍，就像连续加班后看到外卖小哥时的眼神👀。搭配'famished for'表示灵魂饥饿，比如当代年轻人对奶茶的渴望🧋。记住：饿到啃桌子腿时再用这个词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭没是的'→饭没了当然饿",
+        "易混词：famished（极端饿）vs peckish（微微饿）",
+        "联想：fam开头家族→famine（饥荒）, famished（饿鬼附体）"
+      ]
+    }
+  },
+  {
+    "word": "famous",
+    "etymology": {
+      "breakdown": [
+        "fame",
+        "ous"
+      ],
+      "meaning_connection": "词根fame=名声，后缀-ous=充满…的→充满名声的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "出名的",
+        "examples": [
+          {
+            "sentence": "The spicy crayfish made this small town famous overnight.",
+            "sentence_zh": "麻辣小龙虾让这个小镇一夜成名。"
+          },
+          {
+            "sentence": "Lao Gan Ma chili sauce is more famous abroad than some Hollywood stars.",
+            "sentence_zh": "老干妈辣酱在海外比某些好莱坞明星还有名。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "极好的",
+        "examples": [
+          {
+            "sentence": "The 'famous last words' he said before the exam were 'I totally prepared'.",
+            "sentence_zh": "他考前说的'极好遗言'是'我完全复习好了'。"
+          },
+          {
+            "sentence": "This hotpot restaurant is famous for its lethal spicy level.",
+            "sentence_zh": "这家火锅店以致命的辣度闻名（极好的辣）。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "world-famous",
+        "meaning": "举世闻名的",
+        "examples": [
+          {
+            "sentence": "The world-famous Peking duck actually originated from Nanjing.",
+            "sentence_zh": "举世闻名的北京烤鸭其实发源于南京。"
+          }
+        ]
+      }
+    ],
+    "teach": "famous就像火锅里的牛油锅底🔥！名人(famous people)像翻滚的辣椒般抢眼，而'极好的'含义就像隐藏的豆瓣酱彩蛋🎁。说'一夜爆红'用shot to fame就像直播带货突然卖爆📱，'过气明星'叫washed-up celebs就像煮过头的毛肚😵。记住：真正的famous是螺蛳粉——爱的人爱死，恨的人恨死！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥墨鱼丝'→出名的海鲜料理",
+        "易混词对比：famous（因成就出名）/notorious（因坏事出名）"
+      ]
+    }
   }
 ]

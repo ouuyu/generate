@@ -7587,5 +7587,273 @@
         "记忆tip：想象'EDIBLE'标志是绿色通行证"
       ]
     }
+  },
+  {
+    "word": "edict",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "dict"
+      ],
+      "meaning_connection": "前缀e-=向外，词根dict=说→'向外宣布的内容'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "布告",
+        "examples": [
+          {
+            "sentence": "The emperor's edict was posted on every city gate with golden seals.",
+            "sentence_zh": "盖着金印的皇帝布告张贴在每座城门上。"
+          },
+          {
+            "sentence": "Villagers gathered around the tea house to hear the latest tax edict.",
+            "sentence_zh": "村民们围着茶馆听最新的税收布告。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "法令",
+        "examples": [
+          {
+            "sentence": "Qin Shi Huang's edict banning Confucian books caused massive book burnings.",
+            "sentence_zh": "秦始皇禁止儒家书籍的法令导致大规模焚书。"
+          },
+          {
+            "sentence": "The new gaming edict limits minors to 3 hours of online play per week.",
+            "sentence_zh": "新游戏法令限制未成年人每周只能玩3小时网络游戏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "issue an edict",
+        "meaning": "颁布法令",
+        "examples": [
+          {
+            "sentence": "When the Dragon Boat Festival comes, bosses issue edicts granting zongzi bonuses.",
+            "sentence_zh": "端午节到来时，老板们会颁布发粽子福利的法令。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "imperial edict",
+        "meaning": "圣旨",
+        "examples": [
+          {
+            "sentence": "The imperial edict written on yellow silk was delivered by galloping horses.",
+            "sentence_zh": "写在黄绢上的圣旨由快马加鞭传送。"
+          }
+        ]
+      }
+    ],
+    "teach": "edict是古代版'朋友圈公告'📜！罗马皇帝用edict发号施令就像班主任在班级群@全体成员👑，英语里'红头文件'叫official edict。搭配'违抗法令'是defy an edict，'暂缓执行'用suspend an edict。记住：古代没有打印机，重要edict要刻在青铜鼎上🍲才能流传千古！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一滴kt'→ktv里一滴酒都不许沾的法令",
+        "易混词对比：edict（官方法令）/dictate（口述命令）",
+        "记忆tip：edict= e(出)+dict(说)→说出来的东西"
+      ]
+    }
+  },
+  {
+    "word": "edification",
+    "etymology": {
+      "breakdown": [
+        "edify",
+        "cation"
+      ],
+      "meaning_connection": "词根edify=建造(引申为精神建设)，后缀-cation=行为过程→建造心智的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "启迪",
+        "examples": [
+          {
+            "sentence": "The Tao Te Ching provides endless edification with its 81 chapters.",
+            "sentence_zh": "《道德经》八十一章给予人无穷启迪。"
+          },
+          {
+            "sentence": "Her TED talk on AI ethics brought much edification to the audience.",
+            "sentence_zh": "她关于AI伦理的TED演讲给观众带来许多启迪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "熏陶",
+        "examples": [
+          {
+            "sentence": "Growing up in a museum curator's family gave him constant artistic edification.",
+            "sentence_zh": "在博物馆馆长家庭长大使他持续受到艺术熏陶。"
+          },
+          {
+            "sentence": "Peking opera performances offer traditional cultural edification.",
+            "sentence_zh": "京剧演出提供传统文化熏陶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "for the edification of",
+        "meaning": "为教化...",
+        "examples": [
+          {
+            "sentence": "The Confucius Institute was established for the edification of foreign learners.",
+            "sentence_zh": "孔子学院的建立是为了教化外国学习者。"
+          }
+        ]
+      }
+    ],
+    "teach": "edification其实是'精神盖楼'🏗️！就像乐高积木搭知识大厦🧠，孔子周游列国就是古代edification巡演🎭。形容'文化人'说highbrow（高眉族），'受教育程度低'说unlettered（不识字）。记住：真正的edification就像火锅底料——越熬越香！🍲",
+    "recite": {
+      "tips": [
+        "谐音梗：'艾迪费开心'→艾迪获得edification很开心",
+        "易混词对比：education(系统教育) vs edification(潜移默化影响)",
+        "视觉联想：把ed拆成'耳刀'，想象用知识雕刻心智"
+      ]
+    }
+  },
+  {
+    "word": "edifice",
+    "etymology": {
+      "breakdown": [
+        "edif",
+        "ice"
+      ],
+      "meaning_connection": "词根edif来自拉丁语aedificare（建造），-ice为名词后缀→建造之物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大厦",
+        "examples": [
+          {
+            "sentence": "The CCTV Headquarters looks like a giant pair of trousers among Beijing's edifices.",
+            "sentence_zh": "央视总部大楼像条巨型裤子矗立在北京的建筑群中。"
+          },
+          {
+            "sentence": "Pigeons love to nest in the crevices of historic edifices.",
+            "sentence_zh": "鸽子喜欢在历史建筑的缝隙里筑巢。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "宏大体系",
+        "examples": [
+          {
+            "sentence": "Confucianism formed the cultural edifice of ancient East Asia.",
+            "sentence_zh": "儒家思想构成了古代东亚的文化大厦。"
+          },
+          {
+            "sentence": "The edifice of modern physics began with Einstein's theories.",
+            "sentence_zh": "现代物理学的宏伟大厦始于爱因斯坦的理论。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "intellectual edifice",
+        "meaning": "知识体系",
+        "examples": [
+          {
+            "sentence": "The I Ching is the foundation of this intellectual edifice.",
+            "sentence_zh": "《易经》是这个知识体系的基石。"
+          }
+        ]
+      }
+    ],
+    "teach": "edifice是建筑界的哥斯拉🏙️！古罗马用'aedis'(神庙)+'facere'(建造)造出这个词，就像用乐高搭出紫禁城🧱。说'豆腐渣工程'叫jerry-built edifices（杰瑞建造的危楼），'地标建筑'用landmark edifice就像东方明珠戳破云层☁️。记住：真正的edifice要经得起广场舞大妈的考验💃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'挨地肥死'→紧挨地面的肥胖建筑",
+        "易混词：building（普通建筑）/edifice（宏伟建筑）"
+      ]
+    }
+  },
+  {
+    "word": "edify",
+    "etymology": {
+      "breakdown": [
+        "edi",
+        "fy"
+      ],
+      "meaning_connection": "词根edi=建筑/建立（如edifice大厦），后缀-fy=使...→原指'精神建筑'，引申为'启迪'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "启迪",
+        "examples": [
+          {
+            "sentence": "The Zen master's koans are meant to edify rather than explain.",
+            "sentence_zh": "禅师的公案旨在启迪而非解释。"
+          },
+          {
+            "sentence": "Her TED Talk on failure edified millions of viewers.",
+            "sentence_zh": "她关于失败的TED演讲启发了数百万观众。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "熏陶",
+        "examples": [
+          {
+            "sentence": "Growing up in a museum edified her artistic taste.",
+            "sentence_zh": "在博物馆长大的经历熏陶了她的艺术品味。"
+          },
+          {
+            "sentence": "Traditional Chinese ink painting edifies one's patience.",
+            "sentence_zh": "中国水墨画能熏陶人的耐性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "教诲",
+        "examples": [
+          {
+            "sentence": "The Analects edifies readers with Confucian wisdom.",
+            "sentence_zh": "《论语》以儒家智慧教诲读者。"
+          },
+          {
+            "sentence": "His grandmother edified him with Tibetan proverbs every night.",
+            "sentence_zh": "祖母每晚用藏族谚语教诲他。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "self-edification",
+        "meaning": "自我提升",
+        "examples": [
+          {
+            "sentence": "His daily calligraphy practice is a form of self-edification.",
+            "sentence_zh": "他每日练习书法是一种自我提升。"
+          }
+        ]
+      }
+    ],
+    "teach": "edify是精神层面的'基建狂魔'🏗️！就像孔子用《论语》盖思想大厦🏯（edify with wisdom），敦煌壁画用艺术熏陶灵魂🎨（edify through art）。搭配：用经典'edify the mind'（熏陶心灵），'edifying speech'（振聋发聩的演讲）。形容'醍醐灌顶'可以说lightbulb moment💡，但edify是持续性的精神建设！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱地飞'→在爱的土地(edi)上心灵飞翔(fy)",
+        "易混词：educate侧重知识传授，edify强调精神升华",
+        "记忆桩：想象在头脑里用知识砖块(edi)盖房子(fy)"
+      ]
+    }
   }
 ]

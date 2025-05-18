@@ -7232,5 +7232,356 @@
         "联想：红色salsa=辣椒血案，绿色salsa=蔬菜暴动"
       ]
     }
+  },
+  {
+    "word": "salt",
+    "etymology": {
+      "breakdown": [
+        "sal",
+        "t"
+      ],
+      "meaning_connection": "原始印欧语词根*sal-表示'盐'，-t为名词后缀，古罗马时期盐是战略物资，衍生出'价值'和'调味'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "食盐",
+        "examples": [
+          {
+            "sentence": "The Himalayan pink salt in my kitchen looks like crushed rubies.",
+            "sentence_zh": "我家厨房的喜马拉雅粉盐像碎红宝石一样。"
+          },
+          {
+            "sentence": "Ancient Chinese merchants traded salt for horses along the Tea Road.",
+            "sentence_zh": "古代中国商人用盐在茶马古道上换马匹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "风趣",
+        "examples": [
+          {
+            "sentence": "Her TEDx speech had just the right amount of intellectual salt.",
+            "sentence_zh": "她的TEDx演讲带着恰到好处的知性幽默。"
+          },
+          {
+            "sentence": "The sitcom lacks salt, tasting as bland as porridge without pickles.",
+            "sentence_zh": "这情景剧缺乏妙语，像白粥没配咸菜般寡淡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "含盐的",
+        "examples": [
+          {
+            "sentence": "Salt lake reflections turn the sky upside down in Qinghai.",
+            "sentence_zh": "青海盐湖的倒影把天空翻了个面。"
+          },
+          {
+            "sentence": "Crying while eating salt crackers is the ultimate sodium overload.",
+            "sentence_zh": "边哭边吃咸味饼干是终极的钠含量超标。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "辛辣的",
+        "examples": [
+          {
+            "sentence": "His salt remarks about the metaverse made Zuckerberg frown.",
+            "sentence_zh": "他关于元宇宙的犀利评论让扎克伯格皱眉。"
+          },
+          {
+            "sentence": "The salt comedy roasted celebrities like Peking duck.",
+            "sentence_zh": "辛辣脱口秀吐槽名人像片北京烤鸭般利落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "加盐",
+        "examples": [
+          {
+            "sentence": "Grandma salts the winter vegetables while telling WWII stories.",
+            "sentence_zh": "奶奶一边腌冬菜一边讲二战往事。"
+          },
+          {
+            "sentence": "YouTubers salt their videos with clickbait thumbnails.",
+            "sentence_zh": "博主们用标题党缩略图给视频加料。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take with a grain of salt",
+        "meaning": "半信半疑",
+        "examples": [
+          {
+            "sentence": "Take his crypto predictions with a truckload of salt.",
+            "sentence_zh": "对他加密货币的预测要带着一卡车盐去听。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "salt away",
+        "meaning": "储存",
+        "examples": [
+          {
+            "sentence": "Tech giants are salting away AI patents like winter squirrels.",
+            "sentence_zh": "科技巨头囤积AI专利像过冬的松鼠。"
+          }
+        ]
+      }
+    ],
+    "teach": "salt是文明硬通货🧂：罗马士兵领盐当工资💸，四川人用盐腌出千年火腿🍖。说人'没盐'等于吐槽无趣（He's salt-free），'撒盐行为'指伤口上撒盐🤕。记住：人生要像好汤——既要有salt的智慧，又不能太salty（小心眼）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'烧它'→炒菜不烧它(salt)没味道",
+        "易混词：salty（咸的）vs. savory（鲜美的）",
+        "记忆法：化学式NaCl画成小盐罐"
+      ]
+    }
+  },
+  {
+    "word": "salted",
+    "etymology": {
+      "breakdown": [
+        "salt",
+        "ed"
+      ],
+      "meaning_connection": "词根salt=盐，后缀-ed表形容词→被盐处理过的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "盐腌的",
+        "examples": [
+          {
+            "sentence": "Salted duck eggs are mandatory in mooncake fillings.",
+            "sentence_zh": "咸鸭蛋黄是月饼馅料的灵魂所在。"
+          },
+          {
+            "sentence": "The fisherman's hands smelled like salted fish forever.",
+            "sentence_zh": "那个渔民的手永远带着咸鱼味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "盐味的",
+        "examples": [
+          {
+            "sentence": "Salted caramel macchiato is Starbucks' secret weapon.",
+            "sentence_zh": "海盐焦糖玛奇朵是星巴克的秘密武器。"
+          },
+          {
+            "sentence": "She licked her salted lips after swimming in the sea.",
+            "sentence_zh": "海水游泳后她舔了舔咸咸的嘴唇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有经验的",
+        "examples": [
+          {
+            "sentence": "This salted programmer can fix bugs while eating hotpot.",
+            "sentence_zh": "这个老练的程序员能边吃火锅边改bug。"
+          },
+          {
+            "sentence": "The salted detective spotted the clue immediately.",
+            "sentence_zh": "经验丰富的侦探一眼就发现了线索。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "虚报的",
+        "examples": [
+          {
+            "sentence": "The salted résumé listed 10 years of experience at Google.",
+            "sentence_zh": "这份注水的简历声称有十年谷歌工作经验。"
+          },
+          {
+            "sentence": "Investors discovered the salted financial report.",
+            "sentence_zh": "投资者发现了这份掺水的财务报告。"
+          }
+        ]
+      }
+    ],
+    "teach": "salted是'盐值'的千层套路🧂：当形容食物时是真咸（salted fish咸鱼），形容人时是老油条（salted veteran老江湖），虚假数据就是注水猪肉💉！搭配'salted account'指买来的僵尸粉，'salted wound'是往伤口撒盐。说'经验丰富'用seasoned更地道，就像陈年老酒🥃比咸鱼高级多啦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骚蹄的'→老司机(salted)的骚操作",
+        "易混词：salty（性格尖酸）≠ salted（物理加盐）"
+      ]
+    }
+  },
+  {
+    "word": "saltiness",
+    "etymology": {
+      "breakdown": [
+        "salt",
+        "i",
+        "ness"
+      ],
+      "meaning_connection": "词根salt=盐，-i-连接字母，-ness表性质状态→盐的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "咸性",
+        "examples": [
+          {
+            "sentence": "The saltiness of preserved eggs makes them perfect with congee.",
+            "sentence_zh": "皮蛋的咸性让它成为粥的绝配。"
+          },
+          {
+            "sentence": "Chefs carefully balance the saltiness in hot pot broth.",
+            "sentence_zh": "厨师精心调配火锅汤底的咸度。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "adjust saltiness",
+        "meaning": "调整咸度",
+        "examples": [
+          {
+            "sentence": "Grandma always adjusts saltiness by tasting with her chopsticks.",
+            "sentence_zh": "奶奶总是用筷子蘸尝来调整咸度。"
+          }
+        ]
+      }
+    ],
+    "teach": "saltiness其实是'盐值'的化学版🧪！古罗马用盐(salt)付工资，现代人用盐值测友谊👬。说'太咸了'可以用'It's saltier than my ex's tears'（比前任的眼泪还咸）😭，搭配'sea salt caramel'（海盐焦糖）和'tears of joy'（喜悦的泪水）食用更佳！记住：适量saltiness是美味，过量就变黑暗料理💔",
+    "recite": {
+      "tips": [
+        "谐音梗：'少提这事'→盐分(saltiness)超标少提这事",
+        "对比记忆：salt（盐）→ salty（咸的）→ saltiness（咸性）三级跳",
+        "联想：盐罐打翻→整个厨房充满saltiness"
+      ]
+    }
+  },
+  {
+    "word": "salty",
+    "etymology": {
+      "breakdown": [
+        "salt",
+        "y"
+      ],
+      "meaning_connection": "词根salt=盐，后缀-y表性质→像盐一样的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有盐分的",
+        "examples": [
+          {
+            "sentence": "The salty preserved eggs are perfect with congee.",
+            "sentence_zh": "咸香的皮蛋配白粥堪称绝配。"
+          },
+          {
+            "sentence": "This brand of potato chips is notoriously salty.",
+            "sentence_zh": "这个牌子的薯片以咸到出名。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "咸味浓的",
+        "examples": [
+          {
+            "sentence": "Grandma's salted fish is so salty that it could preserve itself.",
+            "sentence_zh": "奶奶腌的咸鱼咸到能自己保鲜。"
+          },
+          {
+            "sentence": "The soup became salty after adding three spoonfuls of soy sauce.",
+            "sentence_zh": "加了三勺酱油后汤变得齁咸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "海洋的",
+        "examples": [
+          {
+            "sentence": "The salty breeze carried the smell of seaweed.",
+            "sentence_zh": "带着咸味的海风送来海藻的气息。"
+          },
+          {
+            "sentence": "Fishermen's clothes always have that salty ocean smell.",
+            "sentence_zh": "渔夫的衣服总带着海水的咸腥味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "辛辣的",
+        "examples": [
+          {
+            "sentence": "His salty comments about the movie sparked heated debates.",
+            "sentence_zh": "他对电影的犀利评论引发激烈争论。"
+          },
+          {
+            "sentence": "The stand-up comedian is known for his salty humor.",
+            "sentence_zh": "这个脱口秀演员以毒舌幽默著称。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有经验的",
+        "examples": [
+          {
+            "sentence": "The salty old sailor could predict storms by licking his finger.",
+            "sentence_zh": "经验丰富的老水手舔舔手指就能预测风暴。"
+          },
+          {
+            "sentence": "Only a salty chef knows how to balance Sichuan peppercorns perfectly.",
+            "sentence_zh": "只有老练的厨师才懂如何完美调和花椒的麻。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "salty dog",
+        "meaning": "老水手/老江湖",
+        "examples": [
+          {
+            "sentence": "That salty dog has sailed around the world seven times.",
+            "sentence_zh": "那个老江湖已经环球航行七次了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "get salty",
+        "meaning": "恼火",
+        "examples": [
+          {
+            "sentence": "Don't get salty just because I beat you at mahjong!",
+            "sentence_zh": "别因为麻将输给我就急眼啊！"
+          }
+        ]
+      }
+    ],
+    "teach": "salty可不只是'咸'🧂！它可以形容：1)物理咸度→像老干妈辣酱🌶️ 2)比喻辛辣→如同鲁迅杂文✒️ 3)老练程度→堪比《舌尖》旁白大爷🎤。搭配：salty language(粗话)/salty tears(苦泪)。说'太咸'用'tastes like the Dead Sea'，说'毒舌'叫'sharp-tongued'。记住：人生要像海盐焦糖🍮，咸甜平衡才高级！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骚蹄→咸猪脚",
+        "易混词：salty vs. savory（鲜咸）",
+        "记忆法：Salt盐+y形容词=所有带'盐值'的特性"
+      ]
+    }
   }
 ]
