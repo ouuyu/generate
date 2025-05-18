@@ -11232,5 +11232,355 @@
         "记忆tip：想象把'unfathomably'+'infinitely'+'vastly'三词塞进一个词里"
       ]
     }
+  },
+  {
+    "word": "immediacy",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "med",
+        "iacy"
+      ],
+      "meaning_connection": "前缀im-=无，词根med=中间，后缀-acy表状态→字面意思是'没有中间状态'，引申出'直接性'和'紧迫性'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "直接",
+        "examples": [
+          {
+            "sentence": "The immediacy of WeChat messages makes snail mail obsolete.",
+            "sentence_zh": "微信信息的直接性使蜗牛邮件过时。"
+          },
+          {
+            "sentence": "VR technology provides an eerie sense of immediacy.",
+            "sentence_zh": "VR技术提供诡异的直接体验感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "目前",
+        "examples": [
+          {
+            "sentence": "The immediacy of climate change demands action now.",
+            "sentence_zh": "气候变化的当下性要求立即行动。"
+          },
+          {
+            "sentence": "TikTok thrives on the immediacy of trending challenges.",
+            "sentence_zh": "抖音依赖热点挑战的即时性蓬勃发展。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "迫切需要的事物",
+        "examples": [
+          {
+            "sentence": "Power banks become an immediacy during blackouts.",
+            "sentence_zh": "停电时充电宝变成急需品。"
+          },
+          {
+            "sentence": "In desert crossings, water is the ultimate immediacy.",
+            "sentence_zh": "穿越沙漠时水是终极急需品。"
+          }
+        ]
+      }
+    ],
+    "teach": "immediacy是'秒回强迫症'患者的福音⏱️！它像外卖小哥的GPS定位🚴♂️——必须直达(直接)；像双十一倒计时🛒——此刻最重要(目前)；像憋着找厕所🚽——刻不容缓(急需)。搭配'with immediacy'比'ASAP'更高级，说'火急火燎'用burning immediacy比'hurry up'更地道！记住：中间没有(im-)美团骑手(med)，你的外卖才能秒到(iacy)！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一米带水'→没有中间一米距离的直接带水过来",
+        "易混词对比：immediate (adj.) 立即的 / immediacy (n.) 直接性"
+      ]
+    }
+  },
+  {
+    "word": "immediate",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "med",
+        "iate"
+      ],
+      "meaning_connection": "前缀im-表示'不'，词根med表示'中间'，-ate为形容词后缀→原指'没有中间环节的'，引申出'立即的'、'直接的'等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "立即的",
+        "examples": [
+          {
+            "sentence": "The boss demanded immediate delivery of mooncakes before Mid-Autumn Festival.",
+            "sentence_zh": "老板要求中秋节前立即送达月饼。"
+          },
+          {
+            "sentence": "WeChat Pay provides immediate transfer service 24/7.",
+            "sentence_zh": "微信支付提供24小时即时到账服务。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "直接的",
+        "examples": [
+          {
+            "sentence": "They are in immediate contact with the manufacturer via DingTalk.",
+            "sentence_zh": "他们通过钉钉与厂家保持直接联系。"
+          },
+          {
+            "sentence": "The live stream allows immediate interaction between anchors and viewers.",
+            "sentence_zh": "直播让主播和观众能直接互动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "接近的",
+        "examples": [
+          {
+            "sentence": "Choose hotels in the immediate vicinity of the Forbidden City.",
+            "sentence_zh": "选择故宫紧邻区域的酒店。"
+          },
+          {
+            "sentence": "The immediate neighbors helped put out the hotpot fire.",
+            "sentence_zh": "紧挨着的邻居帮忙扑灭了火锅引发的火情。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immediate family",
+        "meaning": "直系亲属",
+        "examples": [
+          {
+            "sentence": "In China, immediate family members usually gather for reunion dinner.",
+            "sentence_zh": "在中国，直系亲属通常会聚在一起吃团圆饭。"
+          }
+        ]
+      }
+    ],
+    "teach": "immediate就是'没中间商赚差价'💸！想象快递小哥直接(immediate)把奶茶🥤拍你桌上叫'立即送达'，淘宝客服秒回叫'直接沟通'，而你家楼下就是'紧邻的'奶茶店📍。地道说法：'立刻马上'可以说PDQ（pretty damn quick），'隔壁老王'叫immediate neighbor。记住：所有不带缓冲的爽感都叫immediate！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一米的距离'→最近的(immediate)物理距离",
+        "易混词对比：instant强调瞬间性，immediate强调无间隔"
+      ]
+    }
+  },
+  {
+    "word": "immediately",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "med",
+        "ate",
+        "ly"
+      ],
+      "meaning_connection": "前缀im-表示'不'，词根med表示'中间'，-ate为动词后缀，-ly为副词后缀→原指'不经过中间环节'，引申出'立刻'和'直接'两种含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "直接地",
+        "examples": [
+          {
+            "sentence": "The CEO's office is immediately opposite the tea room.",
+            "ssentence_zh": "CEO办公室正对着茶水间。"
+          },
+          {
+            "sentence": "She went immediately to the point without small talk.",
+            "sentence_zh": "她开门见山直奔主题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "立刻",
+        "examples": [
+          {
+            "sentence": "The audience immediately started live-streaming when Jay Chou appeared.",
+            "sentence_zh": "周杰伦出场时观众立刻开始直播。"
+          },
+          {
+            "sentence": "I immediately ordered takeout when I saw the 50% off promotion.",
+            "sentence_zh": "看到五折优惠我立刻点了外卖。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immediately after",
+        "meaning": "紧接着",
+        "examples": [
+          {
+            "sentence": "Immediately after the meeting, everyone rushed to the hotpot restaurant.",
+            "sentence_zh": "会议一结束大家就冲向火锅店。"
+          }
+        ]
+      }
+    ],
+    "teach": "immediately就像双击刷新🔄！古罗马信使策马飞奔⚡（没有中间站med）。说'秒回'用reply immediately就像抢红包🧧，'直连'是connect immediately像5G冲浪🏄。记住：快递显示'立即送达'时，实际还在分拣中心🤣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一眯等特累'→眯一会儿都等不及",
+        "对比记忆：instantaneously更强调瞬间性"
+      ]
+    }
+  },
+  {
+    "word": "immemorial",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "memorial"
+      ],
+      "meaning_connection": "前缀im-表示'否定'，memorial来自memory（记忆）→ '无法被记忆的'引申为'远古的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "太古的",
+        "examples": [
+          {
+            "sentence": "The temple preserves immemorial rituals with bronze bells.",
+            "sentence_zh": "这座寺庙用青铜钟保存着太古的仪式。"
+          },
+          {
+            "sentence": "Dinosaurs roamed these immemorial lands.",
+            "sentence_zh": "恐龙曾在这片太古之地上漫步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "无法追忆的",
+        "examples": [
+          {
+            "sentence": "Our friendship dates from time immemorial.",
+            "sentence_zh": "我们的友谊久远到无法追忆。"
+          },
+          {
+            "sentence": "The origin of this custom is lost in the immemorial past.",
+            "sentence_zh": "这个习俗的起源湮没在无法追忆的往昔中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "time immemorial",
+        "meaning": "远古时代",
+        "examples": [
+          {
+            "sentence": "Pandas have been eating bamboo since time immemorial.",
+            "sentence_zh": "大熊猫从远古时代就开始吃竹子。"
+          },
+          {
+            "sentence": "This martial art can be traced back to time immemorial.",
+            "sentence_zh": "这种武术可以追溯到远古时代。"
+          }
+        ]
+      }
+    ],
+    "teach": "immemorial是记忆(im-memory)的黑洞🕳️！就像你问爸妈'我们家祖传秘方哪来的？'他们只会说'早忘了！'🍲（time immemorial）。美国人说'远古'喜欢用since dirt（自从有泥土），中国人说'盘古开天地时'🐉。记这个词组：immemorial tradition=老掉牙的传统（字面意思是'牙都掉光的传统'）🦷",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨母摸猫儿'→姨母摸着猫儿回忆远古往事",
+        "易混词对比：memorable（值得记住的） VS immemorial（记不住的）",
+        "记忆tip：im（不）+memory（记忆）= 记不住的 → 太久远的"
+      ]
+    }
+  },
+  {
+    "word": "immense",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mense"
+      ],
+      "meaning_connection": "前缀im-表否定，词根mense=测量→无法测量的→广大的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "极广大的",
+        "examples": [
+          {
+            "sentence": "The immense Gobi Desert made ancient travelers feel insignificant.",
+            "sentence_zh": "广袤的戈壁沙漠让古代旅人倍感渺小。"
+          },
+          {
+            "sentence": "An immense crowd gathered for the panda livestream.",
+            "sentence_zh": "观看熊猫直播的人群规模惊人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无边的",
+        "examples": [
+          {
+            "sentence": "Her immense patience with children is legendary.",
+            "sentence_zh": "她对孩子无边的耐心堪称传奇。"
+          },
+          {
+            "sentence": "The universe's immense darkness terrifies astronauts.",
+            "sentence_zh": "宇宙无边的黑暗令宇航员恐惧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "非常好的",
+        "examples": [
+          {
+            "sentence": "The hotpot place got immense reviews on Dianping.",
+            "sentence_zh": "这家火锅店在大众点评上获得极高评价。"
+          },
+          {
+            "sentence": "Your WeChat mini-program design is immense!",
+            "sentence_zh": "你的微信小程序设计太棒了！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immense pressure",
+        "meaning": "巨大压力",
+        "examples": [
+          {
+            "sentence": "Gaokao brings immense pressure to students.",
+            "sentence_zh": "高考给学生带来巨大压力。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "immense popularity",
+        "meaning": "极高人气",
+        "examples": [
+          {
+            "sentence": "Bing Dwen Dwen gained immense popularity during Olympics.",
+            "sentence_zh": "冰墩墩在冬奥期间获得极高人气。"
+          }
+        ]
+      }
+    ],
+    "teach": "immense就像宇宙级夸夸词汇🌌！古罗马人说'无法测量(im+mense)'的东西→比如撒哈拉沙漠🏜️或你妈的爱💘。说'超级大'别只会big，试试'This hotpot restaurant has immense portions!'（这家火锅分量巨足）。搭配'immense relief'（如释重负）比'very happy'高级十个level✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨妈笑死'→姨妈看到immense红包笑死",
+        "易混词对比：enormous（强调体积大）, immense（强调无法衡量）",
+        "记忆法：im（不）+ mense（测量）= 测不出来→极大的"
+      ]
+    }
   }
 ]

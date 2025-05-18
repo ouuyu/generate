@@ -10703,5 +10703,339 @@
         "易混词：knockout(击倒)是结果，knockabout是过程"
       ]
     }
+  },
+  {
+    "word": "knockdown",
+    "etymology": {
+      "breakdown": [
+        "knock",
+        "down"
+      ],
+      "meaning_connection": "字面意义为'击倒(knock)到地面(down)'，引申出'可拆卸的'和'廉价的'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "击倒的",
+        "examples": [
+          {
+            "sentence": "The boxer delivered a knockdown punch in the third round.",
+            "sentence_zh": "拳击手在第三回合打出了一记击倒拳。"
+          },
+          {
+            "sentence": "After the knockdown argument, he needed time to recover.",
+            "sentence_zh": "经过这场压倒性的争论后，他需要时间恢复。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可拆卸的",
+        "examples": [
+          {
+            "sentence": "IKEA is famous for its knockdown furniture that saves space.",
+            "sentence_zh": "宜家以节省空间的可拆卸家具闻名。"
+          },
+          {
+            "sentence": "The knockdown shelves are perfect for dorm rooms.",
+            "sentence_zh": "这种可拆卸架子非常适合宿舍使用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "廉价的",
+        "examples": [
+          {
+            "sentence": "He bought a knockdown phone from a street vendor.",
+            "sentence_zh": "他从街头小贩那里买了个廉价手机。"
+          },
+          {
+            "sentence": "The knockdown price attracted many customers during the sale.",
+            "sentence_zh": "促销期间的超低价吸引了很多顾客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "压倒",
+        "examples": [
+          {
+            "sentence": "The team suffered a complete knockdown in the competition.",
+            "sentence_zh": "这支队伍在比赛中遭遇了彻底的失败。"
+          },
+          {
+            "sentence": "Her speech was a knockdown to the opposing argument.",
+            "sentence_zh": "她的演讲彻底驳倒了对方的论点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "可拆卸家具",
+        "examples": [
+          {
+            "sentence": "The studio apartment is furnished with knockdowns.",
+            "sentence_zh": "这个单间公寓配备了可拆卸家具。"
+          },
+          {
+            "sentence": "Moving knockdowns is much easier than solid furniture.",
+            "sentence_zh": "搬运可拆卸家具比固定家具容易得多。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "knockdown price",
+        "meaning": "超低价",
+        "examples": [
+          {
+            "sentence": "They're selling last season's clothes at knockdown prices.",
+            "sentence_zh": "他们正在以超低价出售上一季的服装。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "knockdown furniture",
+        "meaning": "可拆卸家具",
+        "examples": [
+          {
+            "sentence": "College students often prefer knockdown furniture for easy moving.",
+            "sentence_zh": "大学生通常更喜欢便于搬运的可拆卸家具。"
+          }
+        ]
+      }
+    ],
+    "teach": "knockdown这词就像变形金刚🤖！作为形容词时，它能像拳击手套🥊一样击倒对手(knockdown punch)，像宜家说明书📦一样变成零件(knockdown furniture)，还能像拼多多价格标签💰一样便宜(knockdown price)。作为名词时，它既是KO的瞬间(complete knockdown)，又是租房族的救星(studio knockdowns)。记住：东西被'击倒'后就便宜了，就像双十一后的钱包！",
+    "recite": {
+      "tips": [
+        "谐音梗：'脑壳down'→被击倒时脑壳着地",
+        "记忆tip：'knock倒'的东西→要么散架(可拆卸)，要么贬值(廉价)"
+      ]
+    }
+  },
+  {
+    "word": "knocker",
+    "etymology": {
+      "breakdown": [
+        "knock",
+        "er"
+      ],
+      "meaning_connection": "knock=敲击，-er表人或工具→用来敲击的人或物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "敲门者",
+        "examples": [
+          {
+            "sentence": "The midnight knocker turned out to be a food delivery guy.",
+            "sentence_zh": "午夜敲门者原来是外卖小哥。"
+          },
+          {
+            "sentence": "Persistent knockers made the dog bark hysterically.",
+            "sentence_zh": "坚持不懈的敲门者让狗狂吠不止。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "门环",
+        "examples": [
+          {
+            "sentence": "The lion-shaped knocker scared off timid visitors.",
+            "sentence_zh": "狮子造型的门环吓退了胆小的访客。"
+          },
+          {
+            "sentence": "She polished the brass knocker till it shone like gold.",
+            "sentence_zh": "她把黄铜门环擦得金光闪闪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on the knocker",
+        "meaning": "挨家挨户",
+        "examples": [
+          {
+            "sentence": "Census workers go on the knocker every ten years.",
+            "sentence_zh": "人口普查员每十年就会挨家挨户走访。"
+          }
+        ]
+      }
+    ],
+    "teach": "knocker是个两面派👹！作'门环'时像故宫的椒图兽首门环🐲（体现身份），作'敲门者'时像查水表的大爷👴。搭配'ghost knocker'指鬼敲门👻，'door knocker earrings'是今年最火的复古耳环💍。记住：优质knocker能让你家秒变网红打卡点！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹客'→闹腾的访客(knocker)",
+        "易混词对比：knocker（门环）vs. docker（码头工人）"
+      ]
+    }
+  },
+  {
+    "word": "knocking",
+    "etymology": {
+      "breakdown": [
+        "knock",
+        "ing"
+      ],
+      "meaning_connection": "knock原指'敲击'，-ing表持续动作/状态，引申为引擎异常震动声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "发动机爆震",
+        "examples": [
+          {
+            "sentence": "The mechanic diagnosed the knocking sound as pre-ignition.",
+            "sentence_zh": "技师诊断那哒哒声是发动机早燃现象。"
+          },
+          {
+            "sentence": "Using low-grade gasoline may cause engine knocking.",
+            "sentence_zh": "使用低标号汽油可能导致引擎爆震。"
+          }
+        ]
+      }
+    ],
+    "teach": "knocking是引擎的叛逆期🤖！就像愤怒的豌豆射手在气缸里突突突💥（比喻爆震现象）。老司机说'加95号油防knocking'就像给超跑喂精粮⛽，'爆震传感器'叫knock sensor就像引擎的听诊器👂。记住：当你的车开始rap般哒哒响，该换汽油标号了！",
+    "recite": {
+      "tips": [
+        "视觉联想：knocking→引擎在敲(knock)车门抗议",
+        "易混词对比：knocking（爆震）vs. knocking（敲门声）"
+      ]
+    }
+  },
+  {
+    "word": "knockout",
+    "etymology": {
+      "breakdown": [
+        "knock",
+        "out"
+      ],
+      "meaning_connection": "源自拳击术语→字面'击打(knock)使出去(out)'，1837年后引申为'令人惊艳的事物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "击倒对方",
+        "examples": [
+          {
+            "sentence": "The boxer achieved a knockout in 8 seconds, breaking the arena's record.",
+            "sentence_zh": "拳击手8秒击倒对手，打破场馆纪录。"
+          },
+          {
+            "sentence": "In professional boxing, a knockout automatically ends the match.",
+            "sentence_zh": "职业拳击中，击倒对方将直接结束比赛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "被击倒",
+        "examples": [
+          {
+            "sentence": "After his third knockout, the athlete reconsidered his career.",
+            "sentence_zh": "第三次被击倒后，运动员重新考虑职业生涯。"
+          },
+          {
+            "sentence": "The documentary shows the long-term effects of repeated knockouts.",
+            "sentence_zh": "纪录片展示了多次被击倒的长期影响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "令人倾慕的人/物",
+        "examples": [
+          {
+            "sentence": "Her new cheongsam was a total knockout at the company dinner.",
+            "sentence_zh": "她的新旗袍在公司年会上惊艳全场。"
+          },
+          {
+            "sentence": "That viral Douyin influencer is a knockout with 10 million followers.",
+            "sentence_zh": "那位抖音网红拥有千万粉丝，魅力惊人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "轰动的事物",
+        "examples": [
+          {
+            "sentence": "The crossover between Moutai and Luckin coffee was a marketing knockout.",
+            "sentence_zh": "茅台与瑞幸的联名堪称营销界的轰动事件。"
+          },
+          {
+            "sentence": "Huawei's new folding phone is a technological knockout.",
+            "sentence_zh": "华为新款折叠屏手机是技术领域的重磅突破。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "引人注目的",
+        "examples": [
+          {
+            "sentence": "She wore knockout red heels to the job interview.",
+            "sentence_zh": "她穿着惊艳的红色高跟鞋参加面试。"
+          },
+          {
+            "sentence": "The museum's knockout exhibit attracted 10,000 visitors daily.",
+            "sentence_zh": "博物馆的震撼展品每日吸引上万游客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "使昏迷的",
+        "examples": [
+          {
+            "sentence": "The doctor used a knockout dose for the surgery.",
+            "sentence_zh": "医生使用麻醉剂量进行手术。"
+          },
+          {
+            "sentence": "Be careful with knockout drugs in crowded bars.",
+            "sentence_zh": "在拥挤酒吧需警惕迷药。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "knockout blow",
+        "meaning": "决定性打击",
+        "examples": [
+          {
+            "sentence": "Alibaba's new policy was a knockout blow to small competitors.",
+            "sentence_zh": "阿里的新政策给小型竞争者致命一击。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "knockout stage",
+        "meaning": "淘汰赛阶段",
+        "examples": [
+          {
+            "sentence": "The Chinese team advanced to the knockout stage.",
+            "sentence_zh": "中国队晋级淘汰赛阶段。"
+          }
+        ]
+      }
+    ],
+    "teach": "knockout是'一拳超人'👊的浪漫：从拳台KO到心上暴击💘。说'美到窒息'可叫breath-taking knockout（像被美貌打晕），'现象级产品'叫market knockout（如鸿蒙系统横空出世🚀）。记住：真正的knockout就像重庆火锅——第一眼就放倒你🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹可闹'→闹腾到可把对手闹晕",
+        "易混词：knockout(击倒) vs. knockoff(山寨货)",
+        "记忆法：想象李小龙的'啊打～'就是终极knockout"
+      ]
+    }
   }
 ]

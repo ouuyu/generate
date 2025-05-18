@@ -10861,5 +10861,391 @@
         "易混词：accent（口音）是名词，accentuate是强化动作"
       ]
     }
+  },
+  {
+    "word": "accentuation",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cent",
+        "u",
+        "ation"
+      ],
+      "meaning_connection": "前缀ac-表'加强'，词根cent=唱（源自拉丁语cantus），-ation为名词后缀→原指歌唱中的重音，引申为强调"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "重读",
+        "examples": [
+          {
+            "sentence": "The accentuation in 'ketchup' falls on the first syllable.",
+            "sentence_zh": "单词ketchup的重音落在第一音节。"
+          },
+          {
+            "sentence": "Chinese learners often misplace the accentuation in 'banana'.",
+            "sentence_zh": "中国学习者常把banana的重音读错位置。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "加重音符号",
+        "examples": [
+          {
+            "sentence": "French accentuation includes é, è, and ê.",
+            "sentence_zh": "法语重音符号包含é、è和ê。"
+          },
+          {
+            "sentence": "The accentuation in pinyin helps with pronunciation.",
+            "sentence_zh": "拼音中的声调符号有助于发音。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "强调",
+        "examples": [
+          {
+            "sentence": "The CEO's accentuation on teamwork boosted morale.",
+            "sentence_zh": "CEO对团队合作的强调提升了士气。"
+          },
+          {
+            "sentence": "Her red dress was an accentuation at the meeting.",
+            "sentence_zh": "她的红裙在会议上格外醒目。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pitch accentuation",
+        "meaning": "音高重读",
+        "examples": [
+          {
+            "sentence": "Japanese pitch accentuation confuses beginners.",
+            "sentence_zh": "日语的音高重读让初学者困惑。"
+          }
+        ]
+      }
+    ],
+    "teach": "accentuation是语言界的'高光笔'🖍️！就像抖音神曲的副歌部分必定升调🎶（melodic accentuation），中文的'重要的事情说三遍'🗣️（verbal accentuation），甚至火锅里最显眼的毛肚🍲（visual accentuation）。搭配：put accentuation on=重点突出；带口音说=speak with an accent。记住：重音不对，老外崩溃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱森笋爱醒'→森林里笋尖(重音)最醒目",
+        "易混词：accent重音 vs. ascent上升",
+        "记忆法：想象老师用红笔画圈圈⭕标重点"
+      ]
+    }
+  },
+  {
+    "word": "accept",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cept"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cept表示'拿取'→原指伸手接住物品，后衍生出心理上的接纳"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "接受（物品）",
+        "examples": [
+          {
+            "sentence": "The courier refused to accept my oversized durian package.",
+            "sentence_zh": "快递员拒绝接收我超大的榴莲包裹。"
+          },
+          {
+            "sentence": "ATM only accepts banknotes under 100 RMB.",
+            "sentence_zh": "ATM机只接受面额100元以下的纸币。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "承认（事实）",
+        "examples": [
+          {
+            "sentence": "He finally accepted that his hotpot spice tolerance was weaker than his Sichuan girlfriend's.",
+            "sentence_zh": "他终于承认自己的火锅辣度承受力不如四川女友。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "同意（观点）",
+        "examples": [
+          {
+            "sentence": "The professor accepted my theory about ancient emoji usage.",
+            "sentence_zh": "教授同意我关于古代表情符号使用的理论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "相信",
+        "examples": [
+          {
+            "sentence": "Grandma still won't accept that her WeChat step counter is inaccurate.",
+            "sentence_zh": "奶奶仍不相信她的微信步数统计不准。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "承担（责任）",
+        "examples": [
+          {
+            "sentence": "As team leader, I must accept the blame for the failed livestream.",
+            "sentence_zh": "作为组长我必须为直播事故承担责任。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "承兑（票据）",
+        "examples": [
+          {
+            "sentence": "The bank may accept this check after verification.",
+            "sentence_zh": "银行验证后可能承兑这张支票。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "采纳（建议）",
+        "examples": [
+          {
+            "sentence": "The app developers accepted my idea of panda-themed stickers.",
+            "sentence_zh": "应用开发者采纳了我的熊猫主题表情包建议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "接纳（成员）",
+        "examples": [
+          {
+            "sentence": "This mahjong club only accepts members who can recite all tile combinations.",
+            "sentence_zh": "这个麻将社团只接纳能背诵所有牌型的成员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "容忍",
+        "examples": [
+          {
+            "sentence": "I can't accept my roommate eating stinky tofu at midnight.",
+            "sentence_zh": "我无法容忍室友半夜吃臭豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "同意",
+        "examples": [
+          {
+            "sentence": "After three hours of debate, the committee finally accepted.",
+            "sentence_zh": "经过三小时辩论，委员会终于同意了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accept as",
+        "meaning": "认可...的身份",
+        "examples": [
+          {
+            "sentence": "The stray cat was accepted as the office mascot.",
+            "sentence_zh": "这只流浪猫被认可为办公室吉祥物。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accept reality",
+        "meaning": "接受现实",
+        "examples": [
+          {
+            "sentence": "It's time to accept reality - your crypto investment won't recover.",
+            "sentence_zh": "是时候接受现实了——你的加密货币投资无法回本。"
+          }
+        ]
+      }
+    ],
+    "teach": "accept就像情感快递柜📦！物理接收像取快递（accept delivery），心理接纳像收下前任礼物🎁（hard to accept）。'勉强接受'说grudgingly accept，'全盘接受'是accept hook line and sinker（钓鱼术语🎣）。记住：当你accept命运，就像吞下中药🌿——苦但有益！搭配支付宝到账提醒💸+微信'消息已读'✓，完美演绎现代accept场景。",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞葡萄'→爱她就接受她塞来的葡萄",
+        "易混词：receive（被动收到）vs accept（主动接受）",
+        "记忆tip：前缀ac-总在'向前伸手'做动作"
+      ]
+    }
+  },
+  {
+    "word": "acceptability",
+    "etymology": {
+      "breakdown": [
+        "accept",
+        "ability"
+      ],
+      "meaning_connection": "accept（接受）+ -ability（能力）→ 能够被接受的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "可接受",
+        "examples": [
+          {
+            "sentence": "The acceptability of pineapple pizza is hotly debated worldwide.",
+            "sentence_zh": "菠萝披萨的可接受性在全球引发热议。"
+          },
+          {
+            "sentence": "Social media influencers test the acceptability of bold fashion trends.",
+            "sentence_zh": "网红们不断试探大胆时尚潮流的可接受度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "合意",
+        "examples": [
+          {
+            "sentence": "The acceptability of the proposal was confirmed by unanimous nodding.",
+            "sentence_zh": "全员点头确认了该方案的合意性。"
+          },
+          {
+            "sentence": "Bubble tea's acceptability among teenagers approaches 100%.",
+            "sentence_zh": "奶茶在青少年中的合意度接近百分百。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "可忍受",
+        "examples": [
+          {
+            "sentence": "The acceptability of summer heat depends heavily on air conditioning.",
+            "sentence_zh": "夏季高温的可忍受度极大依赖空调。"
+          },
+          {
+            "sentence": "Noise acceptability thresholds vary between cat persons and dog persons.",
+            "sentence_zh": "噪音可忍受阈值在猫派和狗派间存在差异。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "social acceptability",
+        "meaning": "社会接受度",
+        "examples": [
+          {
+            "sentence": "The social acceptability of working from home has skyrocketed since 2020.",
+            "sentence_zh": "居家办公的社会接受度自2020年起直线上升。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cultural acceptability",
+        "meaning": "文化适应性",
+        "examples": [
+          {
+            "sentence": "KFC's cultural acceptability in China includes serving congee during breakfast.",
+            "sentence_zh": "肯德基在中国的文化适应性体现在早餐供应粥品。"
+          }
+        ]
+      }
+    ],
+    "teach": "acceptability就像社会版大众点评⭐️：当00后觉得'可接受'时表现为疯狂点赞👍，当长辈觉得'合意'时会转发养生文章📱，当打工人觉得'可忍受'时就变成加班续命咖啡☕️。要吐槽'难以接受'可以说hard to swallow（难以下咽），夸人'很讨喜'用easy on the eye👀。记住：你的acceptability决定了你能在家族群存活多久！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞葡萄梨'→爱吃塞满葡萄的梨子才算acceptable",
+        "易混词对比：acceptance（接受行为）vs acceptability（可接受程度）",
+        "拆解记忆：accept（接住）+ ability（能力）= 接得住的能力"
+      ]
+    }
+  },
+  {
+    "word": "acceptable",
+    "etymology": {
+      "breakdown": [
+        "accept",
+        "able"
+      ],
+      "meaning_connection": "accept表示'接受'，后缀-able表示'能够...的'→能够被接受的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可接受的",
+        "examples": [
+          {
+            "sentence": "Is 30% service charge acceptable in this hotpot restaurant?",
+            "sentence_zh": "这家火锅店收取30%服务费可以接受吗？"
+          },
+          {
+            "sentence": "The teacher said typos are acceptable in first drafts.",
+            "sentence_zh": "老师说初稿里有错别字是可以接受的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "合意的",
+        "examples": [
+          {
+            "sentence": "Finding an acceptable apartment in Beijing is like winning lottery.",
+            "sentence_zh": "在北京找到合意的公寓就像中彩票。"
+          },
+          {
+            "sentence": "The most acceptable solution was to split the last dumpling.",
+            "sentence_zh": "最合意的解决方案是把最后一个饺子分开。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可忍受的",
+        "examples": [
+          {
+            "sentence": "The humidity is just acceptable with air conditioning.",
+            "sentence_zh": "开着空调时湿度尚可忍受。"
+          },
+          {
+            "sentence": "His snoring was barely acceptable during the business trip.",
+            "sentence_zh": "出差时他的鼾声勉强可以忍受。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mutually acceptable",
+        "meaning": "双方都能接受的",
+        "examples": [
+          {
+            "sentence": "We finally reached a mutually acceptable spicy level for the hotpot.",
+            "sentence_zh": "我们终于为火锅达成了双方都能接受的辣度。"
+          }
+        ]
+      }
+    ],
+    "teach": "acceptable就像相亲市场的及格线💑：对方有房'可接受'（acceptable living standard），会做饭'合意'（acceptable spouse material），打呼噜'可忍受'（barely acceptable）🤵💤。记住：'将就'说make do with，'勉强及格'叫borderline acceptable，就像60分的考卷📝。搭配'勉强接受'用grudgingly acceptable，'完美适配'是ideally acceptable！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞葡萄'→塞给你葡萄时问'爱塞葡萄acceptable吗？'",
+        "易混词对比：acceptable（主观可接受） vs. accepted（客观被接受）",
+        "记忆tip：把-accept-想象成接住飞盘，-able表示能接住"
+      ]
+    }
   }
 ]

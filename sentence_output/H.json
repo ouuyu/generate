@@ -10618,5 +10618,314 @@
         "记忆口诀：harbor=hard+bor（困难时给予保护）"
       ]
     }
+  },
+  {
+    "word": "harbour",
+    "etymology": {
+      "breakdown": [
+        "har",
+        "bour"
+      ],
+      "meaning_connection": "古英语herebeorg（军队+庇护），原指'军队藏身处'，后演变为船只庇护所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "港口",
+        "examples": [
+          {
+            "sentence": "The cargo ship finally reached the harbour after battling typhoon.",
+            "sentence_zh": "这艘货轮与台风搏斗后终于抵达港口。"
+          },
+          {
+            "sentence": "Qingdao Harbour is famous for its German-style lighthouse.",
+            "sentence_zh": "青岛港以德式灯塔闻名。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "避难所",
+        "examples": [
+          {
+            "sentence": "The library became his emotional harbour during divorce.",
+            "sentence_zh": "图书馆成了他离婚期间的精神避风港。"
+          },
+          {
+            "sentence": "This NGO provides safe harbour for stray animals.",
+            "sentence_zh": "该NGO为流浪动物提供安全庇护所。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "庇护",
+        "examples": [
+          {
+            "sentence": "The temple harboured revolutionaries during the war.",
+            "sentence_zh": "战争期间这座寺庙庇护过革命者。"
+          },
+          {
+            "sentence": "Never harbour criminals in your basement!",
+            "sentence_zh": "千万别在地下室藏匿罪犯！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "怀有（负面情绪）",
+        "examples": [
+          {
+            "sentence": "He still harbours resentment towards his ex-boss.",
+            "sentence_zh": "他对前上司仍怀恨在心。"
+          },
+          {
+            "sentence": "Don't harbour suspicions without evidence.",
+            "sentence_zh": "不要无端心存猜疑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "入港停泊",
+        "examples": [
+          {
+            "sentence": "The cruise ship will harbour at Xiamen tomorrow.",
+            "sentence_zh": "这艘游轮明日将在厦门入港停泊。"
+          },
+          {
+            "sentence": "Fishing boats harboured before the storm hit.",
+            "sentence_zh": "渔船在暴风雨来临前入港停泊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "harbour master",
+        "meaning": "港务长",
+        "examples": [
+          {
+            "sentence": "The harbour master coordinates all docking schedules.",
+            "sentence_zh": "港务长协调所有船只停靠时间表。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "safe harbour",
+        "meaning": "安全港（法律/金融术语）",
+        "examples": [
+          {
+            "sentence": "This clause provides safe harbour against lawsuits.",
+            "sentence_zh": "该条款提供法律诉讼的安全港保护。"
+          }
+        ]
+      }
+    ],
+    "teach": "harbour是情绪和船只的共同港湾⛵！古人说'海纳百川'，harbour既收留逃犯( harbor fugitives )也接纳伤心人👥。要说'窝藏赃物'叫harbour stolen goods，'心里憋着坏'说harbour evil designs🦹。记住：物理港湾用in harbour（The ship is in harbour），心理港湾用harbour feelings🌊",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈勃'→哈勃望远镜在太空'港湾'",
+        "易混词：port（商业港）vs harbour（天然港）",
+        "记忆tip：harbour比port多三个字母，就像多三个避难船舱"
+      ]
+    }
+  },
+  {
+    "word": "hard",
+    "etymology": {
+      "breakdown": [
+        "hard"
+      ],
+      "meaning_connection": "源自古英语heard，与德语hart同源，本义指物理硬度，后引申为抽象难度"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "坚硬的",
+        "examples": [
+          {
+            "sentence": "The diamond is so hard that it can scratch glass.",
+            "sentence_zh": "钻石坚硬到可以划伤玻璃。"
+          },
+          {
+            "sentence": "Frozen durian becomes as hard as a baseball.",
+            "sentence_zh": "冷冻榴莲会变得像棒球一样硬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "困难的",
+        "examples": [
+          {
+            "sentence": "It's hard to choose between hotpot and barbecue.",
+            "sentence_zh": "在火锅和烧烤之间做选择很困难。"
+          },
+          {
+            "sentence": "The final math problem was hard enough to make Einstein frown.",
+            "sentence_zh": "最后一道数学题难到能让爱因斯坦皱眉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "猛烈的",
+        "examples": [
+          {
+            "sentence": "A hard rain washed away all the street food stalls.",
+            "sentence_zh": "一场暴雨冲走了所有街边小吃摊。"
+          },
+          {
+            "sentence": "The hard wind blew my toupee into the Yangtze River.",
+            "sentence_zh": "猛烈的风把我的假发吹进了长江。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "努力地",
+        "examples": [
+          {
+            "sentence": "She practiced hard until her pipa strings broke.",
+            "sentence_zh": "她努力练习直到琵琶弦断裂。"
+          },
+          {
+            "sentence": "Couriers work hard delivering packages during Singles' Day.",
+            "sentence_zh": "快递员在双十一期间辛苦送货。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "猛烈地",
+        "examples": [
+          {
+            "sentence": "It's raining so hard that even ducks are wearing raincoats.",
+            "sentence_zh": "雨下得太大，连鸭子都穿上了雨衣。"
+          },
+          {
+            "sentence": "The audience laughed so hard that their face masks fell off.",
+            "sentence_zh": "观众笑得口罩都掉了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hard on",
+        "meaning": "对...严厉",
+        "examples": [
+          {
+            "sentence": "Don't be too hard on yourself for eating three hotpot meals in a row.",
+            "sentence_zh": "别因为连吃三顿火锅就对自己太苛刻。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hard up",
+        "meaning": "缺钱",
+        "examples": [
+          {
+            "sentence": "I'm so hard up that I can only afford instant noodles this month.",
+            "sentence_zh": "我这个月穷到只能吃泡面。"
+          }
+        ]
+      }
+    ],
+    "teach": "hard这个词就像块花岗岩🪨！物理硬度时像冻僵的粽子💎（hard candy），困难程度堪比高考数学📚（hard exam），猛烈程度像重庆火锅辣度🌶️（hard rain）。说'尽力'用try hard像驴打滚，'经济拮据'说hard up就像空钱包👛。记住：遇到hard模式时，记得喊'我太难了！'（Life is so hard!）",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈的'→哈尔滨的冰雕哈的(hard)硬",
+        "易混词：hardly（几乎不）是hard的反义词",
+        "联想：hard cider（烈性苹果酒）让人头硬"
+      ]
+    }
+  },
+  {
+    "word": "hardback",
+    "etymology": {
+      "breakdown": [
+        "hard",
+        "back"
+      ],
+      "meaning_connection": "字面意思'坚硬的背面'，指书籍装帧形式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "硬封面的",
+        "examples": [
+          {
+            "sentence": "The hardback edition of Harry Potter survived my dog's teething phase.",
+            "sentence_zh": "哈利波特的精装本挺过了我家狗子的磨牙期。"
+          },
+          {
+            "sentence": "Hardback cookbooks can withstand soy sauce splashes better.",
+            "sentence_zh": "硬封面菜谱更抗酱油飞溅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "精装本",
+        "examples": [
+          {
+            "sentence": "I bought the hardback just for the bonus pop-up illustrations.",
+            "sentence_zh": "我买精装本只为附赠的立体插图。"
+          },
+          {
+            "sentence": "Libraries prefer hardbacks because they endure 278% more coffee spills.",
+            "sentence_zh": "图书馆偏爱精装本，因其抗咖啡泼洒能力提升278%。"
+          }
+        ]
+      }
+    ],
+    "teach": "hardback就是书的铠甲⚔️！中世纪欧洲用木板当书皮（真·hard back），现在精装本比奶茶还贵💰。说'平装本'叫paperback就像豆浆vs豆奶，'收藏版'是collector's edition好比限量球鞋👟。记住：买hardback的人，不是真爱就是摆拍！",
+    "recite": {
+      "tips": [
+        "视觉记忆：hardback=汉堡🍔（两层硬壳夹内容）",
+        "对比记忆：hardback VS paperback 就像精装房VS简装房"
+      ]
+    }
+  },
+  {
+    "word": "hardboard",
+    "etymology": {
+      "breakdown": [
+        "hard",
+        "board"
+      ],
+      "meaning_connection": "hard表示'坚硬的'，board表示'板子'→字面意思就是坚硬的板子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "硬纸板",
+        "examples": [
+          {
+            "sentence": "The delivery package was reinforced with hardboard to protect the fragile items.",
+            "sentence_zh": "快递包裹用硬纸板加固以保护易碎品。"
+          },
+          {
+            "sentence": "Artists often use hardboard as a cheap alternative to canvas.",
+            "sentence_zh": "艺术家常用硬纸板作为画布的廉价替代品。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "hardboard就像你点外卖时垫在下面的那个'坚挺'的纸板🍔！它和纸箱的区别就像板砖和豆腐🧱vs🧈：一个能扛能打（装修用它当临时地板），一个见水就怂。要形容'质量差'可以说cheap as cardboard（像纸板一样廉价），记住这个'硬汉'组合：hard+board=防潮防弯防熊孩子👶💦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈德宝'→哈德宝(hardboard)牌硬纸板",
+        "易混词对比：cardboard(普通纸板) vs hardboard(高密度硬纸板)",
+        "记忆tip：想象用hardboard给猫咪搭城堡，普通纸板会被挠穿🐱⚔️"
+      ]
+    }
   }
 ]

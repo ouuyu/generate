@@ -11124,5 +11124,339 @@
         "易混词：lighthouse（灯塔）专指海上导航用"
       ]
     }
+  },
+  {
+    "word": "watchword",
+    "etymology": {
+      "breakdown": [
+        "watch",
+        "word"
+      ],
+      "meaning_connection": "watch（看守）+ word（词）→需要警惕/留意的词语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "暗号",
+        "examples": [
+          {
+            "sentence": "The watchword 'Pineapple Pizza' made all Italian chefs block the door.",
+            "sentence_zh": "暗号'菠萝披萨'让所有意大利厨师堵住了门。"
+          },
+          {
+            "sentence": "Douyin creators use 'Let's watch the sunset' as their collab watchword.",
+            "sentence_zh": "抖音创作者用'一起看日落'作为合作暗号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "口令",
+        "examples": [
+          {
+            "sentence": "The military watchword changes every 3 hours like expired verification codes.",
+            "sentence_zh": "军队口令每3小时更换一次，像过期的验证码。"
+          },
+          {
+            "sentence": "Forgot the Taobao seller's watchword? Try 'Buddha jumps over the wall'.",
+            "sentence_zh": "忘记淘宝卖家的接货口令？试试'佛跳墙'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "标语",
+        "examples": [
+          {
+            "sentence": "Xi's watchword 'Chinese Dream' appears on all expressway billboards.",
+            "sentence_zh": "习大大的'中国梦'标语出现在所有高速广告牌上。"
+          },
+          {
+            "sentence": "The watchword 'Made in China 2025' triggers trade wars as frequently as 618 sales.",
+            "sentence_zh": "'中国制造2025'标语引发贸易战的频率堪比618大促。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "口号",
+        "examples": [
+          {
+            "sentence": "KFC's new watchword 'Finger-lickin' revival' comes with free nail clippers.",
+            "sentence_zh": "肯德基新口号'吮指回味'附赠免费指甲刀。"
+          },
+          {
+            "sentence": "Pinduoduo's watchword 'Shop more, save more' actually means 'Click more, gamble more'.",
+            "sentence_zh": "拼多多口号'多逛多省'实际是'多点多赌'。"
+          }
+        ]
+      }
+    ],
+    "teach": "watchword本质是文字密码本🗝️！当暗号用时像《风声》里的'老汉推车'摩斯码🎭（实际指麻将战术）；当标语用时像脑白金广告'今年过节不收礼'📺（虽然你年年都收）；地道说法是'put out the watchword'发号施令就像快递小哥喊'有你的菜鸟驿站'📦。注意：千万别把银行取款密码当watchword告诉AI！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我吃藕'→暗号这么丑(watchword)",
+        "易混词对比：password（固定密码）vs watchword（可变暗号）",
+        "记忆tip：watch+word=需要'看着念'的词"
+      ]
+    }
+  },
+  {
+    "word": "water",
+    "etymology": {
+      "breakdown": [
+        "wat",
+        "er"
+      ],
+      "meaning_connection": "原始印欧语词根*wed-表示'水'，后缀-er表物质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "水",
+        "examples": [
+          {
+            "sentence": "The baozi seller pours water into the steamer with dragon-patterned ladle.",
+            "sentence_zh": "包子铺老板用龙纹水瓢往蒸笼里加水。"
+          },
+          {
+            "sentence": "Mineral water from Tibet costs like Starbucks coffee.",
+            "sentence_zh": "西藏矿泉水卖出了星巴克的价格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "雨水",
+        "examples": [
+          {
+            "sentence": "Plum rain water flooded the antique market in Nanjing.",
+            "sentence_zh": "梅雨水淹了南京的古玩市场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "海水",
+        "examples": [
+          {
+            "sentence": "Hainan's seawater turns milky blue in winter.",
+            "sentence_zh": "海南的海水在冬季会变成乳蓝色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "浇水",
+        "examples": [
+          {
+            "sentence": "Grandpa waters his chili plants with leftover tea every dawn.",
+            "sentence_zh": "爷爷每天用隔夜茶给辣椒苗浇水。"
+          },
+          {
+            "sentence": "The robot waters office plants according to WeChat notifications.",
+            "sentence_zh": "这台机器人根据微信通知给办公室绿植浇水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "流泪",
+        "examples": [
+          {
+            "sentence": "Her eyes watered when slicing Sichuan peppercorns.",
+            "sentence_zh": "切花椒时她辣得直流泪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "above water",
+        "meaning": "摆脱困境",
+        "examples": [
+          {
+            "sentence": "The small shop finally got above water after live-streaming.",
+            "sentence_zh": "这家小店直播带货后终于摆脱困境。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "water down",
+        "meaning": "稀释",
+        "examples": [
+          {
+            "sentence": "Street vendors often water down soy milk to save costs.",
+            "sentence_zh": "摊贩常稀释豆浆来节省成本。"
+          }
+        ]
+      }
+    ],
+    "teach": "water是宇宙级老演员💧！当名词时它演过《红楼梦》的雨水🌧️、《海绵宝宝》的海水🌊；当动词时化身园丁浇你家的多肉🌵（water plants），或者变成吃货看到小龙虾流口水🤤（mouth waters）。搭配'水深火热'叫in deep water🔥，'掺水酒'说watered wine要配三个呕吐emoji🤮！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特'→我特(water)爱喝水",
+        "易混词：water vs. waiter （服务员端水）"
+      ]
+    }
+  },
+  {
+    "word": "waterborne",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "borne"
+      ],
+      "meaning_connection": "water=水，borne=携带（bear的过去分词）→字面意思是'被水携带的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "浮起的",
+        "examples": [
+          {
+            "sentence": "The waterborne lotus leaves create natural rafts for frogs.",
+            "sentence_zh": "浮起的荷叶成了青蛙的天然筏子。"
+          },
+          {
+            "sentence": "Duckweed is a classic waterborne plant in Chinese ponds.",
+            "sentence_zh": "浮萍是中国池塘里典型的浮水植物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "水传播的",
+        "examples": [
+          {
+            "sentence": "Cholera is a dangerous waterborne disease.",
+            "sentence_zh": "霍乱是危险的水传播疾病。"
+          },
+          {
+            "sentence": "Ancient sailors often suffered from waterborne parasites.",
+            "sentence_zh": "古代水手常受水传播寄生虫困扰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "水运的",
+        "examples": [
+          {
+            "sentence": "The Yangtze River carries 20% of China's waterborne cargo.",
+            "sentence_zh": "长江承载着中国20%的水运货物。"
+          },
+          {
+            "sentence": "Marco Polo traveled via waterborne routes to China.",
+            "sentence_zh": "马可·波罗通过水运路线来到中国。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "waterborne transport",
+        "meaning": "水上运输",
+        "examples": [
+          {
+            "sentence": "The Grand Canal was the lifeline of ancient waterborne transport.",
+            "sentence_zh": "大运河是古代水上运输的生命线。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go waterborne",
+        "meaning": "改为水路",
+        "examples": [
+          {
+            "sentence": "The army went waterborne to cross the Yellow River.",
+            "sentence_zh": "军队改为水路渡过黄河。"
+          }
+        ]
+      }
+    ],
+    "teach": "waterborne是个'水上漂'大师🌊！当它表示'浮起'时像西湖的荷叶🍀（waterborne plants）；表示'水传播'时像顺着长江扩散的谣言🗣️（waterborne gossip）；表示'水运'时像郑和宝船舰队⛵（waterborne fleet）。搭配'waterborne attack'指水陆两栖作战🐊，'waterborne life'是《海底总动员》的尼莫🐠！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特蹦'→在水里特能蹦跶",
+        "易混词对比：waterproof（防水） vs waterborne（水载）",
+        "记忆法：把'water'+'born'想成'水生的'"
+      ]
+    }
+  },
+  {
+    "word": "watercourse",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "course"
+      ],
+      "meaning_connection": "water=水，course=行进路线→水流的路径"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "水道",
+        "examples": [
+          {
+            "sentence": "The ancient watercourse in Dujiangyan still irrigates fields today.",
+            "sentence_zh": "都江堰的古水道至今仍在灌溉农田。"
+          },
+          {
+            "sentence": "Ducks were swimming in the winding watercourse of the park.",
+            "sentence_zh": "鸭子们在公园蜿蜒的水道里游弋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "河道",
+        "examples": [
+          {
+            "sentence": "The Yellow River's watercourse has changed 26 times in history.",
+            "sentence_zh": "黄河河道在历史上曾改道26次。"
+          },
+          {
+            "sentence": "Floodwaters escaped the main watercourse and flooded villages.",
+            "sentence_zh": "洪水漫出主河道淹没了村庄。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "natural watercourse",
+        "meaning": "天然水道",
+        "examples": [
+          {
+            "sentence": "The Grand Canal connected natural watercourses across China.",
+            "sentence_zh": "大运河连接了中国各地的天然水道。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "alter a watercourse",
+        "meaning": "改道",
+        "examples": [
+          {
+            "sentence": "The water god legend reflects ancient fears of altered watercourses.",
+            "sentence_zh": "河神传说折射古人对河道改道的恐惧。"
+          }
+        ]
+      }
+    ],
+    "teach": "watercourse是地球的血管🩸！古罗马水道桥至今屹立（就像当代南水北调💦），而'水流权'概念源自英国《大宪章》📜。说'河道曲折'用winding watercourse像龙须糖🍬，'改道'用divert watercourse就像给黄河做搭桥手术🚑。记住：你家小区的景观水系也算mini watercourse！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特抠水'→水道管理员严格控制水流",
+        "对比记忆：waterway（航道）强调航运功能，watercourse侧重自然流向"
+      ]
+    }
   }
 ]

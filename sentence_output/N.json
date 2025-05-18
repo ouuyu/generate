@@ -11079,5 +11079,325 @@
         "联想：neg+ligent→不(neg)连接(lig)的→心不在焉"
       ]
     }
+  },
+  {
+    "word": "negligible",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "lig",
+        "ible"
+      ],
+      "meaning_connection": "词根neg=否定，lig=选择，-ible=可...的→'可以不选的'引申为'可忽略的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可以忽略的",
+        "examples": [
+          {
+            "sentence": "The error margin is negligible when measuring the Great Wall.",
+            "sentence_zh": "测量长城时的误差是可以忽略不计的。"
+          },
+          {
+            "sentence": "Her contribution to the project was as negligible as a sesame seed on a hotpot.",
+            "sentence_zh": "她对项目的贡献就像火锅里的一粒芝麻般微不足道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不足取的",
+        "examples": [
+          {
+            "sentence": "The discount is negligible compared to the skyrocketing housing prices.",
+            "sentence_zh": "相比房价暴涨，这点折扣不足挂齿。"
+          },
+          {
+            "sentence": "His excuse was so negligible that even his dog wouldn't buy it.",
+            "sentence_zh": "他的借口拙劣到连他家狗都不信。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "negligible amount",
+        "meaning": "微量",
+        "examples": [
+          {
+            "sentence": "The caffeine in decaf coffee is present in negligible amounts.",
+            "sentence_zh": "低因咖啡中的咖啡因含量微乎其微。"
+          }
+        ]
+      }
+    ],
+    "teach": "negligible是'可以忽略的'，就像火锅里的最后一颗花椒🌶️（negligible spice），或者双十一优惠券的1元折扣💸（negligible discount）。要说'不值一提'可以用'not worth mentioning'，搭配'negligible impact'（微弱影响）和'negligible chance'（渺茫机会）。记住：当你的年终奖涨了5块钱时，它就是negligible的！😂",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个里脊包'→那个里脊包(negligible)小得不够塞牙缝",
+        "易混词对比：negligent（疏忽的）vs negligible（可忽略的）",
+        "记忆tip：想象把negligible写成'捏粒鸡脖'→小到只能捏到一粒鸡脖子"
+      ]
+    }
+  },
+  {
+    "word": "negotiable",
+    "etymology": {
+      "breakdown": [
+        "negoti",
+        "able"
+      ],
+      "meaning_connection": "词根negoti=商业交易（源自拉丁语negotiari），后缀-able表'可...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可磋商的",
+        "examples": [
+          {
+            "sentence": "The price of this jade bracelet is negotiable if you pay in cash.",
+            "sentence_zh": "这只玉镯的价格若付现可议。"
+          },
+          {
+            "sentence": "Working hours became negotiable after the programmer grew a ponytail.",
+            "sentence_zh": "当程序员留起马尾辫后，工作时间变得可协商了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可转让的",
+        "examples": [
+          {
+            "sentence": "This check is only negotiable with your official chop.",
+            "sentence_zh": "这张支票需加盖公章方可转让。"
+          },
+          {
+            "sentence": "NFT artworks are digitally negotiable assets.",
+            "sentence_zh": "NFT艺术品是数字化的可转让资产。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可通行的",
+        "examples": [
+          {
+            "sentence": "The mountain road becomes non-negotiable after heavy snow.",
+            "sentence_zh": "大雪后这条山路就无法通行了。"
+          },
+          {
+            "sentence": "Shared bikes make narrow alleys suddenly negotiable.",
+            "sentence_zh": "共享单车让狭窄巷弄突然变得可通行。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "negotiable instrument",
+        "meaning": "流通票据",
+        "examples": [
+          {
+            "sentence": "A post-dated check is not a negotiable instrument.",
+            "sentence_zh": "远期支票不属于流通票据。"
+          }
+        ]
+      }
+    ],
+    "teach": "negotiable就像菜市场的三色灯🚦：亮绿灯时可砍价（price negotiable）💸，亮黄灯时票据能转手（negotiable check）🏦，亮红灯时道路禁行（non-negotiable road）🚧。记住：'一口价'叫non-negotiable，而'可转让支票'要盖骑缝章✍️。下次砍价时就说：'Make it negotiable or I'll walk!' 🚶",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个谁啊伯'→那个谁啊伯(negotiable)在讨价还价",
+        "易混词对比：negotiable（可协商的） vs. notable（显著的）"
+      ]
+    }
+  },
+  {
+    "word": "negotiate",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "oti",
+        "ate"
+      ],
+      "meaning_connection": "词根neg=否定/拒绝，oti=空闲/生意，-ate表动作→原指'在生意中拒绝(讨价还价)'，引申出协商含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "商议",
+        "examples": [
+          {
+            "sentence": "Pandas negotiate bamboo sharing terms with their keepers every morning.",
+            "sentence_zh": "大熊猫每天早晨和饲养员商议竹子分配方案。"
+          },
+          {
+            "sentence": "WeChat groups become battlefields when moms negotiate holiday family visits.",
+            "sentence_zh": "当妈妈们商议节日探亲安排时，微信群变成战场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "谈判",
+        "examples": [
+          {
+            "sentence": "Tech giants negotiate like dragons guarding treasures during patent wars.",
+            "sentence_zh": "科技巨头们在专利战中如同守宝巨龙般谈判。"
+          },
+          {
+            "sentence": "Street vendors negotiate prices with the fluency of UN diplomats.",
+            "sentence_zh": "街头小贩讲价时流畅得如同联合国外交官谈判。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "谈妥",
+        "examples": [
+          {
+            "sentence": "She negotiated a deal that includes 3 free hotpot meals per week.",
+            "sentence_zh": "她谈妥了包含每周3顿免费火锅的协议。"
+          },
+          {
+            "sentence": "Delivery guys negotiate maze-like apartment complexes like secret agents.",
+            "sentence_zh": "外卖小哥像特工般谈妥迷宫般小区的送餐路线。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "转让",
+        "examples": [
+          {
+            "sentence": "He negotiated his vintage bicycle collection for a rare tea set.",
+            "sentence_zh": "他用收藏的复古自行车转让换得一套稀有茶具。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "negotiate with",
+        "meaning": "与...协商",
+        "examples": [
+          {
+            "sentence": "Buddhist monks negotiate with squirrels stealing temple offerings.",
+            "sentence_zh": "僧侣们与偷窃供品的松鼠协商。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "negotiate through",
+        "meaning": "设法通过",
+        "examples": [
+          {
+            "sentence": "Tourists negotiate through crowded Wangfujing like salmon swimming upstream.",
+            "sentence_zh": "游客们像逆流而上的鲑鱼般设法通过拥挤的王府井。"
+          }
+        ]
+      }
+    ],
+    "teach": "negotiate本质是'商业太极'☯️：古罗马商人用秤(neg-)称量货物时讨价还价。'谈判陷入僵局'叫hit a wall（撞墙），'达成协议'是strike a deal像火锅局敲定谁付钱🍲。记住：生活就是不断negotiate，从菜市场砍价到离婚分房！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪个谁挨踢'→谈判时不知哪个倒霉蛋(挨踢)要让步",
+        "易混词：navigate(导航) vs negotiate(谈判)"
+      ]
+    }
+  },
+  {
+    "word": "negotiated",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "oti",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根neg=否定，oti=空闲，-ate表动词→原指'在忙碌中讨价还价'，-ed表过去式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "谈判",
+        "examples": [
+          {
+            "sentence": "The union successfully negotiated a 13th-month bonus with the tech giant.",
+            "sentence_zh": "工会与科技巨头成功谈判获13薪。"
+          },
+          {
+            "sentence": "They negotiated the contract over hotpot until midnight.",
+            "sentence_zh": "他们边吃火锅边谈判合同到凌晨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "兑现（支票）",
+        "examples": [
+          {
+            "sentence": "I negotiated my lottery ticket at a convenience store.",
+            "sentence_zh": "我在便利店兑了彩票。"
+          },
+          {
+            "sentence": "This check can only be negotiated at Bank of China.",
+            "sentence_zh": "该支票仅限中国银行兑现。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "通过（险路）",
+        "examples": [
+          {
+            "sentence": "The driver negotiated the mountain road like a Pro in GTA.",
+            "sentence_zh": "司机像GTA老手般驶过山路。"
+          },
+          {
+            "sentence": "Cyclists must negotiate 72 hairpin turns on this track.",
+            "sentence_zh": "骑手需通过赛道72道发卡弯。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "negotiated settlement",
+        "meaning": "协议解决",
+        "examples": [
+          {
+            "sentence": "The divorce was resolved through negotiated settlement.",
+            "sentence_zh": "这场离婚通过协议解决。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "negotiated price",
+        "meaning": "议定价格",
+        "examples": [
+          {
+            "sentence": "We got a negotiated price for bulk bubble tea orders.",
+            "sentence_zh": "我们团购奶茶拿到了议定价。"
+          }
+        ]
+      }
+    ],
+    "teach": "negotiated本质是'极限拉扯'🤼：像菜市场砍价（negotiate price）、像《狂飙》里高启强谈条件（negotiate terms）、甚至是秋名山飙车（negotiate curves）！要说'艰难谈判'用hard bargaining，'达成协议'叫reach a deal🍵。记住：人生就是不断negotiate的过程——从奶粉钱到养老金！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个谁替他'→那个谁替他(negotiated)谈判",
+        "易混词对比：navigate（导航通过） vs negotiate（协商通过）",
+        "记忆tip：把negotiate拆解成'not(不)+go(走)+ate(吃)'→不吃亏才让走"
+      ]
+    }
   }
 ]

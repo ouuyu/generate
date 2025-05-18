@@ -10794,5 +10794,341 @@
         "易混词对比：banker(从业者) vs. bank(机构) vs. bankrupt(破产)"
       ]
     }
+  },
+  {
+    "word": "banking",
+    "etymology": {
+      "breakdown": [
+        "bank",
+        "ing"
+      ],
+      "meaning_connection": "bank（银行）+ -ing（表行业/活动）→ 与钱有关的活动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "银行业务",
+        "examples": [
+          {
+            "sentence": "Mobile banking lets you transfer money while eating hotpot.",
+            "sentence_zh": "手机银行能让你涮火锅时转账。"
+          },
+          {
+            "sentence": "Her job in banking involves counting other people's money all day.",
+            "sentence_zh": "她的银行业工作整天都在数别人的钱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "银行事务",
+        "examples": [
+          {
+            "sentence": "Fintech is revolutionizing traditional banking.",
+            "sentence_zh": "金融科技正在革新传统银行事务。"
+          },
+          {
+            "sentence": "Banking hours in this town end before the tea time.",
+            "sentence_zh": "本镇的银行事务结束时间早于下午茶时间。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "online banking",
+        "meaning": "网上银行",
+        "examples": [
+          {
+            "sentence": "I do online banking in pajamas at midnight.",
+            "sentence_zh": "我穿着睡衣在半夜操作网上银行。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "investment banking",
+        "meaning": "投资银行业务",
+        "examples": [
+          {
+            "sentence": "He earns enough in investment banking to buy a BMW every month.",
+            "sentence_zh": "他在投行的收入够每月买辆宝马。"
+          }
+        ]
+      }
+    ],
+    "teach": "banking是金钱的游乐场🎢！最早的美索不达米亚银行家（公元前2000年）用黏土板记账📜，现代移动银行却能刷脸转账👛。'月光族'叫bank balance challenged（银行余额挑战者），'转账'说wire transfer就像发电报⚡。记住：banking不是存钱罐，是24小时运转的印钞机💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'办金'→办金融(banking)业务",
+        "对比记忆：bank（银行）→ banking（银行业务），就像cook（烹饪）→ cooking（烹饪活动）"
+      ]
+    }
+  },
+  {
+    "word": "banknote",
+    "etymology": {
+      "breakdown": [
+        "bank",
+        "note"
+      ],
+      "meaning_connection": "bank（银行）+ note（票据）→ 银行发行的纸质货币凭证"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "钞票",
+        "examples": [
+          {
+            "sentence": "The new 100-yuan banknote features a holographic window for anti-counterfeiting.",
+            "sentence_zh": "新版100元钞票采用全息开窗防伪设计。"
+          },
+          {
+            "sentence": "Collectors pay premium prices for rare Qing dynasty banknotes.",
+            "sentence_zh": "收藏家愿高价收购罕见的清代纸币。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "counterfeit banknote",
+        "meaning": "假钞",
+        "examples": [
+          {
+            "sentence": "ATMs now automatically detect counterfeit banknotes with infrared scanning.",
+            "sentence_zh": "取款机通过红外扫描自动识别假钞。"
+          }
+        ]
+      }
+    ],
+    "teach": "banknote其实是个'银行小纸条'💌！最早的中国交子是世界上首张纸币📜（比欧洲早600年），现在数字货币让banknote快成'古董'了💸。说'现金不够'可以幽默讲I'm running on Monopoly money（像在用大富翁假钱），'土豪撒钱'叫flash a wad of banknotes💵。记住：你的钱包里躺着人类最伟大的金融发明之一！",
+    "recite": {
+      "tips": [
+        "谐音梗：'伴侶note'→钞票才是真伴侣",
+        "易混词对比：banknote（纸币） vs. check（支票） vs. bond（债券）",
+        "联想记忆：bank+note=银行的‘爱情笔记’（因为人人都爱钱）"
+      ]
+    }
+  },
+  {
+    "word": "bankrupt",
+    "etymology": {
+      "breakdown": [
+        "bank",
+        "rupt"
+      ],
+      "meaning_connection": "bank=银行/钱庄，rupt=断裂→资金链断裂的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "破产者",
+        "examples": [
+          {
+            "sentence": "The bankrupt was selling his Gucci collection on Xianyu.",
+            "sentence_zh": "这位破产者正在闲鱼上出售他的古驰收藏品。"
+          },
+          {
+            "sentence": "Many tech startups end up as bankrupts within 3 years.",
+            "sentence_zh": "许多科技创业公司三年内就以破产者收场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "破产的",
+        "examples": [
+          {
+            "sentence": "The bankrupt company's mascot was auctioned for 1 yuan.",
+            "sentence_zh": "这家破产公司的吉祥物以1元价格被拍卖。"
+          },
+          {
+            "sentence": "His bankrupt crypto wallet became a meme on Douyin.",
+            "sentence_zh": "他破产的加密货币钱包成了抖音上的梗图。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使破产",
+        "examples": [
+          {
+            "sentence": "The panda cafe bankrupted its owner within 6 months.",
+            "sentence_zh": "这家熊猫主题咖啡馆半年就让老板破产了。"
+          },
+          {
+            "sentence": "Buying limited edition sneakers nearly bankrupted him.",
+            "sentence_zh": "购买限量版球鞋差点让他破产。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go bankrupt",
+        "meaning": "破产",
+        "examples": [
+          {
+            "sentence": "The bubble tea chain went bankrupt despite its popularity.",
+            "sentence_zh": "这家网红奶茶店最终破产了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "moral bankrupt",
+        "meaning": "道德破产",
+        "examples": [
+          {
+            "sentence": "The plagiarism scandal left him a moral bankrupt.",
+            "sentence_zh": "抄袭丑闻让他成了道德破产者。"
+          }
+        ]
+      }
+    ],
+    "teach": "bankrupt本质是'银行(bank)断裂(rupt)'💸——就像被花呗抽走最后一块砖🧱！当你说'morally bankrupt'（道德破产）比'缺德'更犀利。搭配'go bankrupt'要像说'凉凉'❄️一样自然，'破产姐妹'英语就叫Bankrupt Sisters👯♀️。记住：账户归零叫broke，资不抵债才用bankrupt！",
+    "recite": {
+      "tips": [
+        "谐音梗：'崩快了'→资金链崩快了就破产",
+        "易混词对比：broke（暂时没钱） vs bankrupt（法律认定的资不抵债）",
+        "联想记忆：银行(bank)突然破裂(rupt)的金库大门"
+      ]
+    }
+  },
+  {
+    "word": "bankruptcy",
+    "etymology": {
+      "breakdown": [
+        "bank",
+        "rupt",
+        "cy"
+      ],
+      "meaning_connection": "bank源自意大利语'banca'(板凳，古代货币兑换商的摊位)，rupt=断裂(Latin rumpere)，-cy表状态→'银行板凳断裂'即破产"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "破产者",
+        "examples": [
+          {
+            "sentence": "The bankruptcies were queuing for free porridge in 1929.",
+            "sentence_zh": "1929年破产者们排队领取免费粥。"
+          },
+          {
+            "sentence": "Some bankruptcies become successful entrepreneurs later.",
+            "sentence_zh": "有些破产者后来成为了成功企业家。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "破产",
+        "examples": [
+          {
+            "sentence": "Lehman Brothers' bankruptcy triggered a global crisis.",
+            "sentence_zh": "雷曼兄弟破产引发了全球危机。"
+          },
+          {
+            "sentence": "The bubble tea shop declared bankruptcy after selling 0 cups in a week.",
+            "sentence_zh": "这家奶茶店一周卖出0杯后宣布破产。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "倒闭",
+        "examples": [
+          {
+            "sentence": "The bankruptcy of Blockbuster left many nostalgic.",
+            "sentence_zh": "百视达的倒闭让很多人怀念。"
+          },
+          {
+            "sentence": "Many expect the bankruptcy of this social media platform soon.",
+            "sentence_zh": "许多人预期这个社交平台即将倒闭。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "declare bankruptcy",
+        "meaning": "宣布破产",
+        "examples": [
+          {
+            "sentence": "The CEO declared bankruptcy while eating gold-leaf steak.",
+            "sentence_zh": "这位CEO吃着金箔牛排时宣布破产。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "moral bankruptcy",
+        "meaning": "道德破产",
+        "examples": [
+          {
+            "sentence": "His plagiarism revealed complete moral bankruptcy.",
+            "sentence_zh": "他的抄袭行为显示出彻底道德破产。"
+          }
+        ]
+      }
+    ],
+    "teach": "bankruptcy其实是'板凳断裂'史📜：14世纪佛罗伦萨银行家砸碎(bank-rupt)板凳表示倒闭💥。说'穷得叮当响'用flat broke（平底破洞），'资不抵债'叫underwater（像沉船🐠）。记住：当你的资产像被鲨鱼啃过的板凳🦈，就该学马斯克用bankruptcy重组啦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'板磕破碎'→板凳磕破导致破产",
+        "易混词：bankrupt(adj.)/bankruptcy(n.)"
+      ]
+    }
+  },
+  {
+    "word": "banned",
+    "etymology": {
+      "breakdown": [
+        "ban",
+        "ned"
+      ],
+      "meaning_connection": "ban原指古挪威'公开宣告'，-ned为过去分词后缀→被公开禁止的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "被禁的",
+        "examples": [
+          {
+            "sentence": "The banned book became an underground bestseller.",
+            "sentence_zh": "这本禁书反而成了地下畅销书。"
+          },
+          {
+            "sentence": "Banned TikTok users are creating clone accounts.",
+            "sentence_zh": "被禁的TikTok用户正在创建克隆账号。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "banned substance",
+        "meaning": "违禁物质",
+        "examples": [
+          {
+            "sentence": "Olympic athletes must avoid banned substances like poppy seed buns.",
+            "sentence_zh": "奥运选手需避免罂粟籽包子等违禁物质。"
+          }
+        ]
+      }
+    ],
+    "teach": "banned是'班纳'博士的痛🧪：因破坏城市被ban（禁止）！中世纪ban原指领主宣告驱逐令🗡️，现在说'封号'用get banned like炸号。搭配：banned list（黑名单）/ banned from live streaming（禁播）。'全网封杀'可说total ban🚫，就像吃鸡游戏里的毒圈缩圈！",
+    "recite": {
+      "tips": [
+        "谐音梗：'搬凳'→违规内容要搬凳(banned)走人",
+        "易混词：ban(禁令) vs band(乐队)"
+      ]
+    }
   }
 ]

@@ -10729,5 +10729,339 @@
         "联想记忆：odd（奇数）+ness→像奇数一样不合群"
       ]
     }
+  },
+  {
+    "word": "odds",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古北欧语'oddr'（三角形尖端）→ 原指赌博中筹码的尖端差异，引申为概率与不平等概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "可能性",
+        "examples": [
+          {
+            "sentence": "The odds of meeting your doppelganger are 1 in 1 trillion.",
+            "sentence_zh": "遇到和你长相一模一样的人的概率是1万亿分之一。"
+          },
+          {
+            "sentence": "What are the odds we'll get matching pajamas for Christmas?",
+            "sentence_zh": "我们圣诞节收到情侣睡衣的可能性有多大？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "胜算",
+        "examples": [
+          {
+            "sentence": "The underdog team beat 10-to-1 odds to win the championship.",
+            "sentence_zh": "这支弱旅以1比10的胜算逆袭夺冠。"
+          },
+          {
+            "sentence": "Her TikTok video went viral against all odds.",
+            "sentence_zh": "她的抖音视频出乎意料地爆红了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不平等",
+        "examples": [
+          {
+            "sentence": "The novel explores the odds between rich and poor in 1920s Shanghai.",
+            "sentence_zh": "这部小说描绘了1920年代上海滩的贫富差距。"
+          },
+          {
+            "sentence": "They're fighting against the odds of gender inequality.",
+            "sentence_zh": "他们正在对抗性别不平等的现状。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "against all odds",
+        "meaning": "逆势而为",
+        "examples": [
+          {
+            "sentence": "The street vendor built a tech startup against all odds.",
+            "sentence_zh": "这个小摊贩逆天改命创立了科技公司。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "at odds with",
+        "meaning": "与...不一致",
+        "examples": [
+          {
+            "sentence": "His actions are at odds with his WeChat Moments persona.",
+            "sentence_zh": "他的行为与微信朋友圈人设严重不符。"
+          }
+        ]
+      }
+    ],
+    "teach": "odds就像赌场骰子🎲上的数字：原指筹码尖端差异（想象麻将牌堆的参差不齐🀄），现在既表示'可能性'（如中彩票概率💸），也表示'不平等'（如贫富差距📉）。要说'逆袭'就用against all odds，'自相矛盾'说at odds with。记住：人生就像odds，要么接受概率，要么创造奇迹✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬日子'→跟不平等(odds)的生活熬日子",
+        "易混词：odds（概率）vs ends（零碎物品）",
+        "记忆法：字母O像赌博轮盘，dd像骰子，s像筹码堆"
+      ]
+    }
+  },
+  {
+    "word": "ode",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自希腊语ōidḗ（歌曲），经拉丁语oda传入英语，专指抒情诗体裁"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "颂诗",
+        "examples": [
+          {
+            "sentence": "Li Bai's ode to moonlight inspired centuries of poets.",
+            "sentence_zh": "李白的《月下独酌》影响了后世无数诗人。"
+          },
+          {
+            "sentence": "The pop star wrote an ode to stinky tofu in her new album.",
+            "sentence_zh": "这位流行歌手在新专辑里写了首臭豆腐颂歌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赋",
+        "examples": [
+          {
+            "sentence": "The Ode to Red Flag was performed at the Great Hall of the People.",
+            "sentence_zh": "《红旗颂》在人民大会堂奏响。"
+          },
+          {
+            "sentence": "Ancient Chinese odes often used nature metaphors.",
+            "sentence_zh": "中国古代辞赋常用自然隐喻。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ode to",
+        "meaning": "献给...的颂诗",
+        "examples": [
+          {
+            "sentence": "Neruda's Ode to Tomatoes celebrates mundane beauty.",
+            "sentence_zh": "聂鲁达的《番茄颂》赞美平凡之美。"
+          }
+        ]
+      }
+    ],
+    "teach": "ode是文青的彩虹屁🌈！古希腊人唱着ode赞美奥林匹克冠军🏆（就像现在粉丝给爱豆写应援歌），中文'赋'更是华丽到要背《滕王阁序》📜。要说'写赞美诗'叫compose an ode，'即兴创作'可以说whisper an ode like李白月下独酌🍷。记住：所有外卖好评都是现代ode！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呕的'→写颂诗呕心沥血",
+        "易混词对比：ode（正式颂诗）vs poem（普通诗歌）"
+      ]
+    }
+  },
+  {
+    "word": "odious",
+    "etymology": {
+      "breakdown": [
+        "od",
+        "ious"
+      ],
+      "meaning_connection": "词根od=仇恨（同源词odium），-ious表形容词性质→充满仇恨的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可憎的",
+        "examples": [
+          {
+            "sentence": "The villain's odious laugh made audiences throw popcorn at the screen.",
+            "sentence_zh": "反派可憎的笑声让观众往银幕上扔爆米花。"
+          },
+          {
+            "sentence": "That odious scam tricked elders into buying fake health products.",
+            "sentence_zh": "那个可憎的骗局诱使老人购买虚假保健品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可厌的",
+        "examples": [
+          {
+            "sentence": "His odious habit of chewing with mouth open ruined our hotpot party.",
+            "sentence_zh": "他吃饭吧唧嘴的可厌习惯毁了我们的火锅聚餐。"
+          },
+          {
+            "sentence": "The odious smell of durian and stinky tofu mixed together.",
+            "sentence_zh": "榴莲和臭豆腐混合的可厌气味弥漫开来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "丑恶的",
+        "examples": [
+          {
+            "sentence": "The odious corruption case involved tons of gold bars hidden in wardrobes.",
+            "sentence_zh": "这起丑恶的贪污案牵扯到藏在衣柜里的数吨金条。"
+          },
+          {
+            "sentence": "Social media exposed the odious trading of endangered species.",
+            "sentence_zh": "社交媒体曝光了贩卖濒危物种的丑恶交易。"
+          }
+        ]
+      }
+    ],
+    "teach": "odious是'呕'级讨厌🤢！词根od来自拉丁语'仇恨'，就像闻到鲱鱼罐头+螺蛳粉的死亡 combo🧀💣。说'恶心死了'可以用gross beyond belief（恶心到不信），形容讨厌鬼叫a walking nightmare（行走的噩梦）。记住：遇到odious的人和事，快跑💨比表情包还快！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呕得要死'→odious",
+        "易混词对比：odious（主观厌恶） vs. offensive（客观冒犯）",
+        "记忆tip：O+DIOUS→'哦爹要死'这么讨厌"
+      ]
+    }
+  },
+  {
+    "word": "odorous",
+    "etymology": {
+      "breakdown": [
+        "odor",
+        "ous"
+      ],
+      "meaning_connection": "词根odor=气味，后缀-ous=充满...的→充满气味的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "芬芳的",
+        "examples": [
+          {
+            "sentence": "The odorous jasmine tea reminded her of spring in Hangzhou.",
+            "sentence_zh": "芬芳的茉莉花茶让她想起杭州的春天。"
+          },
+          {
+            "sentence": "This odorous durian soap smells surprisingly pleasant.",
+            "sentence_zh": "这款芬芳的榴莲皂闻起来意外地宜人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "臭的",
+        "examples": [
+          {
+            "sentence": "The odorous socks triggered a family meeting about laundry habits.",
+            "sentence_zh": "那双臭袜子引发了一场关于洗衣习惯的家庭会议。"
+          },
+          {
+            "sentence": "Avoid the odorous tofu stall if you're wearing new clothes.",
+            "sentence_zh": "穿新衣服时请绕行那个臭豆腐摊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有气味的",
+        "examples": [
+          {
+            "sentence": "The museum displays odorous historical spices from the Silk Road.",
+            "sentence_zh": "博物馆展出来自丝绸之路的有气味的历史香料。"
+          },
+          {
+            "sentence": "Police dogs are trained to identify odorous substances quickly.",
+            "sentence_zh": "警犬被训练能快速识别有气味的物质。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "odorous memory",
+        "meaning": "气味记忆",
+        "examples": [
+          {
+            "sentence": "The odorous memory of grandma's kitchen still warms my heart.",
+            "sentence_zh": "奶奶厨房的气味记忆依然温暖着我的心。"
+          }
+        ]
+      }
+    ],
+    "teach": "odorous是个'薛定谔的香臭'词🤔！就像螺蛳粉的酸笋🍜，有人觉得芬芳（odorous herb），有人觉得是生化武器💣。英语用'fragrant'明确指香，'stinky'明确指臭，而odorous就像榴莲——可以同时是'果园香水'和'地铁违禁品'🚫。搭配：odorous candle（香薰蜡烛）/ odorous feet（香港脚）。说'臭不可闻'可以用reek to high heaven🌪️",
+    "recite": {
+      "tips": [
+        "谐音梗：'呕的肉丝'→闻到odorous的肉丝想吐",
+        "易混词对比：fragrant（绝对香） vs. odorous（可香可臭）",
+        "记忆tip：想象同时闻着香水和臭豆腐"
+      ]
+    }
+  },
+  {
+    "word": "Odyssey",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希腊史诗《奥德赛》，描述英雄Odysseus十年漂泊返乡的传奇旅程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "奥德赛(古希腊史诗)",
+        "examples": [
+          {
+            "sentence": "Homer's Odyssey features a cyclops who loves eating programmers for breakfast.",
+            "sentence_zh": "荷马史诗《奥德赛》里有只独眼巨人，最爱拿程序员当早餐。"
+          },
+          {
+            "sentence": "The scene where Odysseus escapes sirens is TikTok's earliest ASMR content.",
+            "sentence_zh": "奥德修斯逃离海妖的场景堪称 TikTok 最早的ASMR内容。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "漫长冒险旅程",
+        "examples": [
+          {
+            "sentence": "My food delivery underwent an odyssey during the typhoon.",
+            "sentence_zh": "我的外卖在台风天经历了一场奥德赛式的冒险。"
+          },
+          {
+            "sentence": "Finding a decent avocado in supermarkets is a modern odyssey.",
+            "sentence_zh": "在超市找个像样的牛油果堪比现代版奥德赛。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "space odyssey",
+        "meaning": "太空漫游",
+        "examples": [
+          {
+            "sentence": "Elon Musk's Tesla roadster became a real-space odyssey.",
+            "sentence_zh": "马斯克的特斯拉跑车上演了真实版太空漫游。"
+          }
+        ]
+      }
+    ],
+    "teach": "Odyssey本质是古希腊版《人在囧途》🏺！英雄Odysseus用木马计就像用拼多多砍一刀攻破特洛伊🪓，返乡路上遇到女妖塞壬相当于直播间带货陷阱🎤。现代用法形容'漫长折腾'，比如'我的快递经历了一场odyssey'🚚。记住：人生每个deadline都是迷你奥德赛！",
+    "recite": {
+      "tips": [
+        "视觉联想：奥德赛=奥迪+迪斯科→开着奥迪跳迪斯科回家",
+        "易混词对比：odyssey(冒险旅程) vs. oasis(绿洲，休息站)"
+      ]
+    }
   }
 ]

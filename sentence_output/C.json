@@ -10382,5 +10382,386 @@
         "易混词对比：candlelight（烛光）vs candlelit（被烛光照亮的）"
       ]
     }
+  },
+  {
+    "word": "candlestick",
+    "etymology": {
+      "breakdown": [
+        "candle",
+        "stick"
+      ],
+      "meaning_connection": "candle=蜡烛，stick=杆→最初指插蜡烛的木杆，后泛指各种烛台"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "蜡杆",
+        "examples": [
+          {
+            "sentence": "The monk held a wooden candlestick during the night prayer.",
+            "sentence_zh": "僧侣夜祷时手持木质蜡杆。"
+          },
+          {
+            "sentence": "Ancient Chinese used bamboo candlesticks before glass lanterns existed.",
+            "sentence_zh": "在玻璃灯笼出现前，古人使用竹制蜡杆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蜡烛架",
+        "examples": [
+          {
+            "sentence": "The bronze candlestick from Ming Dynasty looks like a crouching lion.",
+            "sentence_zh": "这件明代青铜蜡烛架形似蹲狮。"
+          },
+          {
+            "sentence": "Her birthday cake was surrounded by crystal candlesticks.",
+            "sentence_zh": "她的生日蛋糕周围环绕着水晶蜡烛架。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "candlestick holder",
+        "meaning": "烛台底座",
+        "examples": [
+          {
+            "sentence": "The stolen candlestick holder was found in a pawn shop.",
+            "sentence_zh": "失窃的烛台底座在一家当铺被发现。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "candlestick maker",
+        "meaning": "烛台匠人",
+        "examples": [
+          {
+            "sentence": "In medieval Europe, candlestick makers were as important as blacksmiths.",
+            "sentence_zh": "中世纪欧洲的烛台匠人地位不亚于铁匠。"
+          }
+        ]
+      }
+    ],
+    "teach": "candlestick是古典照明界的iPhone📱！中世纪时，银质烛台(candlestick)就像今天的爱马仕👜象征阶级。'烛光晚餐'叫candlelight dinner🕯️，而'吹灭蜡烛'要说snuff out。冷知识：福尔摩斯用烛台破案🔍，迪士尼《美女与野兽》里烛台Lumiere会说话💃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'砍的棍'→砍树做的烛台棍",
+        "易混词：candlewick（蜡烛芯）"
+      ]
+    }
+  },
+  {
+    "word": "candy",
+    "etymology": {
+      "breakdown": [
+        "can",
+        "dy"
+      ],
+      "meaning_connection": "来自阿拉伯语qand（蔗糖），经古法语sucre candi传入英语，字面意思是'结晶的糖'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "糖果",
+        "examples": [
+          {
+            "sentence": "Kids' eyes sparkle when they see rainbow-colored candy floss.",
+            "sentence_zh": "孩子们看到彩虹色棉花糖时眼睛会发光。"
+          },
+          {
+            "sentence": "The dentist warned me that sticky candy is worse for teeth than chocolate.",
+            "sentence_zh": "牙医警告我说粘牙糖果比巧克力更伤牙齿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "冰糖",
+        "examples": [
+          {
+            "sentence": "Grandma always puts rock candy in her secret braised pork recipe.",
+            "sentence_zh": "奶奶的红烧肉秘方里总会放冰糖。"
+          },
+          {
+            "sentence": "The traditional pear stew requires golden candy for its amber color.",
+            "sentence_zh": "传统冰糖炖梨需要黄金冰糖来呈现琥珀色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用糖煮",
+        "examples": [
+          {
+            "sentence": "In Jiangsu cuisine, chefs candy lotus roots with osmanthus syrup.",
+            "sentence_zh": "苏菜厨师会用糖桂花蜜汁来糖渍莲藕。"
+          },
+          {
+            "sentence": "The candied hawthorns on Beijing's Wangfujing Street shine like ruby.",
+            "sentence_zh": "北京王府井的糖葫芦像红宝石般闪亮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "结晶为砂糖",
+        "examples": [
+          {
+            "sentence": "The supersaturated solution will candy when temperature drops below 60°C.",
+            "sentence_zh": "当温度低于60度时过饱和溶液会结晶成糖。"
+          },
+          {
+            "sentence": "Maple syrup left overnight candied into golden granules.",
+            "sentence_zh": "隔夜放置的枫糖浆结晶成了金色颗粒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cotton candy",
+        "meaning": "棉花糖",
+        "examples": [
+          {
+            "sentence": "At night markets, cotton candy machines spin sugar into pink clouds.",
+            "sentence_zh": "夜市里棉花糖机把砂糖转成粉色云朵。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "candy store",
+        "meaning": "糖果店",
+        "examples": [
+          {
+            "sentence": "The Harry Potter-style candy store sells chocolate frogs and Bertie Bott's beans.",
+            "sentence_zh": "这家哈利波特风糖果店出售巧克力蛙和比比多味豆。"
+          }
+        ]
+      }
+    ],
+    "teach": "candy是'糖的七十二变'🍬！古埃及人最早发现甘蔗汁会结晶（candy作动词），就像冷冻后的蜂蜜🍯。中国人发明冰糖是糖的'钻石形态'💎，而美国人把candy文化玩到极致——有家糖果店用3D打印机做糖！要夸人甜别说sweet，说'You're my favorite candy'🍭，吐槽齁甜可以说'sugar rush alert!'🚨",
+    "recite": {
+      "tips": [
+        "谐音梗：'啃滴'→糖果就是要啃着吃",
+        "易混词：candy（美式总称）/sweets（英式）/lollipop（棒棒糖特指）",
+        "记忆法：candy=can（能）+dy（读音'滴'）→能滴出糖浆"
+      ]
+    }
+  },
+  {
+    "word": "cane",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'canna'（芦苇），经古法语进入英语，既指植物茎秆也指由此制作的工具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "手杖",
+        "examples": [
+          {
+            "sentence": "The old scholar's bamboo cane tapped rhythmically on the cobblestones.",
+            "sentence_zh": "老学者的竹杖在鹅卵石路上有节奏地叩响。"
+          },
+          {
+            "sentence": "His antique cane concealed a sword like in kungfu movies.",
+            "sentence_zh": "他的古董手杖像功夫电影里那样藏着一把剑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "细长的茎",
+        "examples": [
+          {
+            "sentence": "Sugar cane fields stretch for miles in Guangxi province.",
+            "sentence_zh": "广西的甘蔗田连绵数英里。"
+          },
+          {
+            "sentence": "We used dried corn canes to build a makeshift shelter.",
+            "sentence_zh": "我们用干燥的玉米杆搭了个临时庇护所。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "藤条",
+        "examples": [
+          {
+            "sentence": "The rattan cane chair creaked under his weight.",
+            "sentence_zh": "藤条椅在他的重量下吱呀作响。"
+          },
+          {
+            "sentence": "Traditional Philippine furniture often uses abaca cane.",
+            "sentence_zh": "菲律宾传统家具常用马尼拉麻藤条。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "以杖击",
+        "examples": [
+          {
+            "sentence": "British schools once caned students for misbehavior.",
+            "sentence_zh": "英国学校曾用藤条鞭打违纪学生。"
+          },
+          {
+            "sentence": "The angry farmer caned the stolen watermelon thief.",
+            "sentence_zh": "愤怒的瓜农用藤条抽打偷西瓜的小偷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "以藤编制",
+        "examples": [
+          {
+            "sentence": "Artisans cane chair seats with precise diamond patterns.",
+            "sentence_zh": "工匠用藤条编织出精确的菱形椅面。"
+          },
+          {
+            "sentence": "She learned to cane baskets from YouTube tutorials.",
+            "sentence_zh": "她跟着YouTube教程学习藤编篮子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sugar cane",
+        "meaning": "甘蔗",
+        "examples": [
+          {
+            "sentence": "The sugar cane juice stall had a long queue in summer.",
+            "sentence_zh": "夏天时甘蔗汁摊位排起长队。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cane sugar",
+        "meaning": "蔗糖",
+        "examples": [
+          {
+            "sentence": "This boba tea uses organic cane sugar.",
+            "sentence_zh": "这杯珍珠奶茶使用有机蔗糖。"
+          }
+        ]
+      }
+    ],
+    "teach": "cane是植物界和工具界的跨界明星🌿→🦯！甘蔗(sugar cane)变蔗糖(cane sugar)是甜蜜转身🍬，藤条变刑具是黑化剧情😈。英国老绅士拄着马六甲白藤手杖🎩，东南亚工匠编织藤椅就像在玩3D编织🧶。记住：'get the cane'不是得到手杖，而是'要挨揍了'❗",
+    "recite": {
+      "tips": [
+        "谐音梗：'啃呢'→熊猫啃甘蔗(cane)",
+        "易混词：cane(实心茎) vs. bamboo(空心竹)"
+      ]
+    }
+  },
+  {
+    "word": "canine",
+    "etymology": {
+      "breakdown": [
+        "can",
+        "ine"
+      ],
+      "meaning_connection": "词根can=狗（拉丁语canis），后缀-ine表'属于...的'→与狗相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "犬齿",
+        "examples": [
+          {
+            "sentence": "The vampire costume had glowing fake canines.",
+            "sentence_zh": "吸血鬼戏服装着发光的假犬齿。"
+          },
+          {
+            "sentence": "My orthodontist says my canines are too sharp for braces.",
+            "sentence_zh": "牙医说我的犬齿太锋利不适合戴牙套。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "犬",
+        "examples": [
+          {
+            "sentence": "Wolves and foxes belong to the canine family.",
+            "sentence_zh": "狼和狐狸属于犬科动物。"
+          },
+          {
+            "sentence": "The police canine unit uses German Shepherds.",
+            "sentence_zh": "警方犬队使用德国牧羊犬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "犬的",
+        "examples": [
+          {
+            "sentence": "The canine hearing range is wider than human's.",
+            "sentence_zh": "犬类听觉范围比人类更广。"
+          },
+          {
+            "sentence": "We studied canine behavior in zoology class.",
+            "sentence_zh": "我们在动物学课上研究犬类行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "似犬的",
+        "examples": [
+          {
+            "sentence": "His canine loyalty moved everyone.",
+            "sentence_zh": "他如犬般忠诚感动了所有人。"
+          },
+          {
+            "sentence": "That politician has a strangely canine smile.",
+            "sentence_zh": "那位政客带着诡异的犬式微笑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "canine tooth",
+        "meaning": "犬齿",
+        "examples": [
+          {
+            "sentence": "Tigers use canine teeth to tear meat.",
+            "sentence_zh": "老虎用犬齿撕扯肉类。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "canine companion",
+        "meaning": "犬类伙伴",
+        "examples": [
+          {
+            "sentence": "Her canine companion won a pet influencer award.",
+            "sentence_zh": "她的犬伙伴获得了宠物网红奖。"
+          }
+        ]
+      }
+    ],
+    "teach": "canine是'犬力全开'🐶💪！古罗马人用'canis'称呼狗，如今演变成警犬K9部队的代号👮♂️。说'狗改不了吃屎'英文是'Old canine habits die hard'，'单身狗'可戏称'lonely canine'🍗。记住：从狼的canine teeth到二哈的canine smile，这词能咬能萌！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开奶'→小狗开奶期长犬齿",
+        "易混词：feline（猫科） vs canine（犬科）",
+        "记忆锚点：K9=canine的视觉密码"
+      ]
+    }
   }
 ]
