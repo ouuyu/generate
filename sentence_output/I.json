@@ -12710,5 +12710,241 @@
         "记忆tip：im+moral→'我不道德'宣言"
       ]
     }
+  },
+  {
+    "word": "immorality",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "moral",
+        "ity"
+      ],
+      "meaning_connection": "前缀im-表示'否定'，词根moral=道德，后缀-ity表性质→道德的反面"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不道德",
+        "examples": [
+          {
+            "sentence": "The monk spoke out against the immorality of cheating in exams.",
+            "sentence_zh": "法师公开谴责考试作弊的不道德性。"
+          },
+          {
+            "sentence": "AI ethics committees monitor potential immorality in algorithms.",
+            "sentence_zh": "AI伦理委员会监督算法中潜在的不道德问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "道德败坏",
+        "examples": [
+          {
+            "sentence": "The novel depicts the immorality of 18th-century aristocracy.",
+            "sentence_zh": "这部小说描绘了18世纪贵族阶层的道德败坏。"
+          },
+          {
+            "sentence": "Corruption cases reveal shocking immorality among officials.",
+            "sentence_zh": "贪污案揭露了官员令人震惊的道德败坏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不道德的行为",
+        "examples": [
+          {
+            "sentence": "Plagiarism is considered serious immorality in academia.",
+            "sentence_zh": "剽窃在学术界被视为严重的不道德行为。"
+          },
+          {
+            "sentence": "The celebrity's immoralities were exposed by paparazzi.",
+            "sentence_zh": "该明星的不道德行为被狗仔队曝光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "伤风败俗的行为",
+        "examples": [
+          {
+            "sentence": "Ancient texts often use immorality to explain dynastic collapse.",
+            "sentence_zh": "古籍常用伤风败俗的行为来解释王朝覆灭。"
+          },
+          {
+            "sentence": "Qing dynasty novels criticized social immorality through satire.",
+            "sentence_zh": "清代小说通过讽刺批判社会伤风败俗的行为。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sink into immorality",
+        "meaning": "堕落",
+        "examples": [
+          {
+            "sentence": "The prodigal son sank into immorality after inheriting the fortune.",
+            "sentence_zh": "这个败家子在继承财产后堕落不堪。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wallow in immorality",
+        "meaning": "沉溺于恶习",
+        "examples": [
+          {
+            "sentence": "The emperor wallowed in immorality while the country suffered.",
+            "sentence_zh": "国君沉溺于恶习时国家正遭受苦难。"
+          }
+        ]
+      }
+    ],
+    "teach": "immorality是道德的镜像黑洞🕳️！词根moral来自拉丁语mores（风俗），而im-就像给道德戴上了小丑鼻子🤡。形容'道德沦丧'可以说moral bankruptcy（道德破产），'社会乱象'叫moral decay（道德腐朽）。记住：当你看到ity结尾，多半在讨论某种性质（比如community是社区性）🧐",
+    "recite": {
+      "tips": [
+        "谐音梗：'一馍来了踢'→道德被踢走的馍（im-moral-ity）",
+        "易混词对比：immoral（adj.不道德的）vs amoral（adj.与道德无关的）",
+        "记忆口诀：im开头是否定，ity结尾表性质"
+      ]
+    }
+  },
+  {
+    "word": "immortality",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mort",
+        "ality"
+      ],
+      "meaning_connection": "前缀im-表示'不'，词根mort表示'死亡'，后缀-ality表示'性质'→字面意思是'不死性'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不朽",
+        "examples": [
+          {
+            "sentence": "The Terracotta Warriors symbolize the emperor's quest for immortality.",
+            "sentence_zh": "兵马俑象征着皇帝对不朽的追求。"
+          },
+          {
+            "sentence": "Some scientists believe digital immortality may be possible by 2050.",
+            "sentence_zh": "部分科学家认为到2050年可能实现数字不朽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不灭的声望",
+        "examples": [
+          {
+            "sentence": "Lu Xun achieved literary immortality through his sharp social commentaries.",
+            "sentence_zh": "鲁迅凭借犀利的社会评论获得了不朽的文坛声望。"
+          },
+          {
+            "sentence": "Bruce Lee's immortality in martial arts culture grows stronger each year.",
+            "sentence_zh": "李小龙在武术文化中的不朽声望与年俱增。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "achieve immortality",
+        "meaning": "获得永生/不朽名声",
+        "examples": [
+          {
+            "sentence": "The inventor achieved immortality with his world-changing smartphone design.",
+            "sentence_zh": "这位发明家凭借改变世界的智能手机设计获得了不朽名声。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "immortality project",
+        "meaning": "永生计划",
+        "examples": [
+          {
+            "sentence": "Silicon Valley billionaires invest heavily in cryonics as their immortality project.",
+            "sentence_zh": "硅谷亿万富豪们将人体冷冻技术作为永生计划重点投资。"
+          }
+        ]
+      }
+    ],
+    "teach": "immortality是'永生届爱马仕'👜！从秦始皇炼丹☯️到现代科技大亨冷冻大脑🧠，人类对immortality的执着就像追更网络小说🖋️——永远想看下一章。中文说'名垂青史'可译作achieve historical immortality，而'过把瘾就死'的相反就是live in immortality🌌。记住：真正的immortality是你的表情包被后人继续盗用！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一蘑菇提力'→吃神奇蘑菇获得永生力气",
+        "易混词对比：mortality（死亡率）vs immortality（不朽）就像健康码红码🔴vs金码🌟",
+        "记忆tip：im+mort+ality=‘我不死’+‘性质’"
+      ]
+    }
+  },
+  {
+    "word": "immortalize",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mort",
+        "al",
+        "ize"
+      ],
+      "meaning_connection": "前缀im-表否定 + 词根mort=死亡 + 后缀-al表性质 + -ize表使动→使超越死亡"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使不灭",
+        "examples": [
+          {
+            "sentence": "The terracotta warriors immortalize Qin Shi Huang's power for eternity.",
+            "sentence_zh": "兵马俑使秦始皇的权势永垂不朽。"
+          },
+          {
+            "sentence": "Peking duck's crisp skin immortalizes the chef's craftsmanship.",
+            "sentence_zh": "北京烤鸭的酥脆外皮让厨师的技艺永存。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使名垂千古",
+        "examples": [
+          {
+            "sentence": "Li Bai's poetry immortalized him as the Wine Immortal.",
+            "sentence_zh": "李白的诗作让他以'酒仙'之名流芳百世。"
+          },
+          {
+            "sentence": "The viral douyin video immortalized the grandma's moonwalk dance.",
+            "sentence_zh": "爆火的抖音视频让老奶奶的太空步舞名扬天下。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immortalize in stone",
+        "meaning": "用石碑铭记",
+        "examples": [
+          {
+            "sentence": "The martyrs' names were immortalized in stone at Tiananmen Square.",
+            "sentence_zh": "英雄们的名字被镌刻在天安门广场的石碑上。"
+          }
+        ]
+      }
+    ],
+    "teach": "immortalize是'封神榜'📜操作！就像二郎神被写进神话⚡（immortalized in legends），火锅英雄们用香油碟蘸料🌶️（immortalize the flavor）。'青史留名'叫go down in history，'网红打卡地'说hotspot immortalized on social media。记住：想被immortalize？要么当李白，要么上热搜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一馍烫来热死'→用热馍烫出永恒印记",
+        "易混对比：memorialize（纪念）vs immortalize（神化）"
+      ]
+    }
   }
 ]

@@ -12707,5 +12707,358 @@
         "易混词：judge注重权威性判断，evaluate侧重专业评估"
       ]
     }
+  },
+  {
+    "word": "judgement",
+    "etymology": {
+      "breakdown": [
+        "judge",
+        "ment"
+      ],
+      "meaning_connection": "词根judge=判断，后缀-ment表行为结果→判断的行为及其结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "审判",
+        "examples": [
+          {
+            "sentence": "The judge's judgement in the copyright case set a new precedent.",
+            "sentence_zh": "法官对版权案的审判确立了新判例。"
+          },
+          {
+            "sentence": "After three years, the final judgement was delivered via livestream.",
+            "sentence_zh": "三年后，最终审判通过直播宣判。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "判决",
+        "examples": [
+          {
+            "sentence": "The divorce judgement included custody of the pet corgi.",
+            "sentence_zh": "离婚判决包含柯基犬的抚养权。"
+          },
+          {
+            "sentence": "WeChat Pay suspended service due to a court judgement.",
+            "sentence_zh": "因法院判决微信支付暂停服务。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "判断",
+        "examples": [
+          {
+            "sentence": "His poor judgement made him invest in fake cryptocurrency.",
+            "sentence_zh": "他的错误判断导致投资了虚假加密货币。"
+          },
+          {
+            "sentence": "Choosing hotpot over salad was actually good judgement!",
+            "sentence_zh": "选火锅而非沙拉其实是明智判断！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pass judgement",
+        "meaning": "作出评判",
+        "examples": [
+          {
+            "sentence": "Netizens quickly pass judgement on every celebrity scandal.",
+            "sentence_zh": "网友对每个明星丑闻都迅速作出评判。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "error of judgement",
+        "meaning": "判断失误",
+        "examples": [
+          {
+            "sentence": "Buying 100 bubble teas was an error of judgement for my waistline.",
+            "sentence_zh": "买100杯奶茶对我的腰围是个判断失误。"
+          }
+        ]
+      }
+    ],
+    "teach": "judgement就像法官的法槌⚖️：英语里'sit in judgement'（审判）来自所罗门王断案传说👑，而中国人说'心里有杆秤'。吐槽'乱判决'叫kangaroo court（袋鼠法庭🦘），'明智判断'说sound judgement就像老中医把脉准🌿。记住：你的judgement决定你吃火锅选微辣还是变态辣！🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'炸酱面'→法官边吃炸酱面边写judgement",
+        "易混词对比：judgement（英式拼写） vs judgment（美式拼写）",
+        "记忆tip：judge+ment=法官的行为结果"
+      ]
+    }
+  },
+  {
+    "word": "judging",
+    "etymology": {
+      "breakdown": [
+        "judge",
+        "ing"
+      ],
+      "meaning_connection": "judge源自古法语'jugier'（裁决），后缀-ing表示进行时或动名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "判断",
+        "examples": [
+          {
+            "sentence": "Judging by his WeChat moments, he's definitely a foodie.",
+            "sentence_zh": "从他的微信朋友圈判断，他绝对是个吃货。"
+          },
+          {
+            "sentence": "Judging people by their phone cases is my secret skill.",
+            "sentence_zh": "通过手机壳判断人是我的隐藏技能。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "审判",
+        "examples": [
+          {
+            "sentence": "The judge is judging the livestreaming fraud case carefully.",
+            "sentence_zh": "法官正在仔细审判这起直播带货诈骗案。"
+          },
+          {
+            "sentence": "Judging historical figures with modern standards is unfair.",
+            "sentence_zh": "用现代标准审判历史人物是不公平的。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "judging by/from",
+        "meaning": "根据...判断",
+        "examples": [
+          {
+            "sentence": "Judging from his Douyin favorites, he's obsessed with cat videos.",
+            "sentence_zh": "根据他的抖音收藏判断，他对猫咪视频很痴迷。"
+          }
+        ]
+      }
+    ],
+    "teach": "judging就像拿着放大镜🔍当侦探！古代法官(judge)真的会扔白手套🧤表示宣战（现在改敲法槌了）。'以貌取人'叫judge a book by its cover，'网络判官'可叫keyboard judge💻。记住：当你judging外卖小哥迟到时，可能他的电动车正在和五个红绿灯搏斗🚦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'炸定'→法官炸鸡定案（误）",
+        "易混词：judging（过程） vs judgment（结果）",
+        "联想：法官袍+天平=judging的标准配置"
+      ]
+    }
+  },
+  {
+    "word": "judgment",
+    "etymology": {
+      "breakdown": [
+        "judge",
+        "ment"
+      ],
+      "meaning_connection": "词根judge=判断，后缀-ment表行为结果→判断的行为或结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "裁判",
+        "examples": [
+          {
+            "sentence": "The referee's judgment caused heated debates among e-sports fans.",
+            "sentence_zh": "裁判的裁决在电竞粉丝中引发激烈争论。"
+          },
+          {
+            "sentence": "Her fair judgment in the cooking competition won everyone's respect.",
+            "sentence_zh": "她在厨艺比赛中公正的裁判赢得众人尊敬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "宣告",
+        "examples": [
+          {
+            "sentence": "The court's judgment declared the new policy unconstitutional.",
+            "sentence_zh": "法院的宣告裁定新政策违宪。"
+          },
+          {
+            "sentence": "The final judgment on the copyright case will be announced next week.",
+            "sentence_zh": "这起版权案的最终宣告将于下周公布。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "判决书",
+        "examples": [
+          {
+            "sentence": "The 50-page judgment detailed how the defendant embezzled hotpot funds.",
+            "sentence_zh": "这份50页的判决书详细记录了被告如何贪污火锅资金。"
+          },
+          {
+            "sentence": "Law students are analyzing the landmark judgment paragraph by paragraph.",
+            "sentence_zh": "法学学生正在逐段分析这份具有里程碑意义的判决书。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pass judgment on",
+        "meaning": "对...作出评判",
+        "examples": [
+          {
+            "sentence": "Netizens love to pass judgment on celebrity relationships.",
+            "sentence_zh": "网友热衷于对明星恋情品头论足。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in someone's judgment",
+        "meaning": "依某人之见",
+        "examples": [
+          {
+            "sentence": "In the professor's judgment, this AI application violates ethics.",
+            "sentence_zh": "教授认为这款AI应用违反伦理。"
+          }
+        ]
+      }
+    ],
+    "teach": "judgment是法官的魔法权杖⚖️！古罗马法官(judge)用石灰板写判决(ment)，就像现在法院盖章的判决书📜。说'乱评价别人'叫armchair judgment（沙发裁判）🛋️，'明智判断'说sound judgment就像老中医把脉准👨⚕️。记住：你的judgment决定你是键盘侠还是智者！",
+    "recite": {
+      "tips": [
+        "谐音梗：'炸酱面'→法官边吃炸酱面边写judgment",
+        "易混词对比：judgment(正式判决) vs. opinion(个人观点)",
+        "记忆技巧：judge+ment=法官的动作结果"
+      ]
+    }
+  },
+  {
+    "word": "judgmental",
+    "etymology": {
+      "breakdown": [
+        "judge",
+        "ment",
+        "al"
+      ],
+      "meaning_connection": "judge（判断）+ -ment（名词后缀）+ -al（形容词后缀）→ 原指'与审判相关的'，后引申为'喜欢评判他人的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "审判的",
+        "examples": [
+          {
+            "sentence": "The judgmental tone in the courtroom made everyone nervous.",
+            "sentence_zh": "法庭上审判的语气让所有人紧张不安。"
+          },
+          {
+            "sentence": "Ancient Chinese judgmental documents often used red ink for final verdicts.",
+            "sentence_zh": "中国古代审判文书常用朱砂书写最终判决。"
+          }
+        ]
+      }
+    ],
+    "teach": "judgmental这词像包青天的月牙🌙！最初指'审判的'（judgmental power），后来变成'爱评判的'就像朋友圈杠精👿（stop being so judgmental）。搭配：judgmental attitude（审判者姿态）、judgmental error（审判失误）。说'别当键盘侠'可以讲Don't be a keyboard judge⌨️。记住：真正的judgmental需要乌纱帽，而网络judgmental只需要表情包！",
+    "recite": {
+      "tips": [
+        "谐音梗：'炸酱面头'→审判长戴着炸酱面头套判案",
+        "易混词对比：judicial（司法的）vs judgmental（审判的/爱批判的）"
+      ]
+    }
+  },
+  {
+    "word": "judicial",
+    "etymology": {
+      "breakdown": [
+        "jud",
+        "ic",
+        "ial"
+      ],
+      "meaning_connection": "词根jud=判断（同judge），-ic表性质，-ial表形容词后缀→与判断相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "法庭的",
+        "examples": [
+          {
+            "sentence": "The judicial bench was carved from 300-year-old mahogany.",
+            "sentence_zh": "法官席由三百年红木雕制而成。"
+          },
+          {
+            "sentence": "Her judicial robe fluttered like a raven's wings.",
+            "sentence_zh": "她的法袍如乌鸦翅膀般翻飞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "公正的",
+        "examples": [
+          {
+            "sentence": "The teacher's judicial grading earned students' respect.",
+            "sentence_zh": "老师公正的评分赢得学生尊敬。"
+          },
+          {
+            "sentence": "His judicial temperament made him perfect for mediation.",
+            "sentence_zh": "他公正的性情非常适合调解工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "司法的",
+        "examples": [
+          {
+            "sentence": "China's judicial system incorporates Confucian values.",
+            "sentence_zh": "中国司法体系融合儒家思想。"
+          },
+          {
+            "sentence": "The judicial review process resembles careful tea brewing.",
+            "sentence_zh": "司法审查程序如同精心沏茶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "judicial power",
+        "meaning": "司法权",
+        "examples": [
+          {
+            "sentence": "The panda-shaped gavel symbolizes judicial power in this court.",
+            "sentence_zh": "熊猫形状的法槌象征着该法院的司法权。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "judicial notice",
+        "meaning": "司法认知",
+        "examples": [
+          {
+            "sentence": "The judge took judicial notice of WeChat chat records.",
+            "sentence_zh": "法官对微信聊天记录采取司法认知。"
+          }
+        ]
+      }
+    ],
+    "teach": "judicial是法律界的黄金天平⚖️！词根jud来自罗马正义女神Justitia（蒙眼表示公正👁️）。说'司法改革'就像升级法律操作系统💻（judicial reform），'钻法律漏洞'叫exploit judicial loopholes就像打游戏卡BUG🎮。记住：法官袍(judicial robe)里可能藏着表情包！",
+    "recite": {
+      "tips": [
+        "谐音梗：'主席到'→主席到(judi-cial)法庭主持公正",
+        "易混词：judicial(司法的) vs judicious(明智的)"
+      ]
+    }
   }
 ]

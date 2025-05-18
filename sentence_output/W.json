@@ -12671,5 +12671,310 @@
         "联想记忆：water+side→水的侧面=水岸线"
       ]
     }
+  },
+  {
+    "word": "watertight",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "tight"
+      ],
+      "meaning_connection": "water=水，tight=紧密的→字面指'水无法穿透的严密性'，引申为论证/计划'无漏洞'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不透水的",
+        "examples": [
+          {
+            "sentence": "The submarine's watertight doors saved the crew during the leak.",
+            "sentence_zh": "潜水艇的防水门在泄漏时救了全体船员。"
+          },
+          {
+            "sentence": "We need watertight containers for this deep-sea experiment.",
+            "sentence_zh": "本次深海实验需要完全不透水的容器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无懈可击的",
+        "examples": [
+          {
+            "sentence": "Her alibi was watertight — she was livestreaming at the crime time.",
+            "sentence_zh": "她的不在场证明无懈可击——案发时她正在直播。"
+          },
+          {
+            "sentence": "The lawyer built a watertight case with blockchain evidence.",
+            "sentence_zh": "律师用区块链证据构建了毫无破绽的案件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "watertight compartment",
+        "meaning": "防水隔舱",
+        "examples": [
+          {
+            "sentence": "The Titanic's watertight compartments failed to prevent sinking.",
+            "sentence_zh": "泰坦尼克号的防水隔舱未能阻止沉没。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "watertight argument",
+        "meaning": "滴水不漏的论点",
+        "examples": [
+          {
+            "sentence": "His watertight argument silenced all opponents.",
+            "sentence_zh": "他滴水不漏的论点让所有反对者哑口无言。"
+          }
+        ]
+      }
+    ],
+    "teach": "watertight是'物理防水💧'和'逻辑防杠🛡️'的双料冠军！想象把手机裹三层保鲜膜📱→这叫watertight密封；而当你用256个emoji完美解释量子力学🤯→这叫watertight理论。搭配'watertight excuse防水借口'（比如'我5G信号被黑洞吃了'🌌）和'watertight strategy防暴击攻略'（参考奶茶店第二杯半价套路🧋）。记住：真正的watertight连杠精都无从下嘴！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特泰'→我特泰(watertight)然不怕水",
+        "易混词对比：waterproof（仅指防水） vs watertight（防水+无漏洞）",
+        "记忆tip：把'tight'想象成拧紧的水龙头🚰"
+      ]
+    }
+  },
+  {
+    "word": "waterway",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "way"
+      ],
+      "meaning_connection": "复合词，water（水）+ way（路）→ 水路"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "航道",
+        "examples": [
+          {
+            "sentence": "The Yangtze River is the busiest inland waterway in the world.",
+            "sentence_zh": "长江是世界上最繁忙的内陆航道。"
+          },
+          {
+            "sentence": "Icebreakers are clearing the Arctic waterway for cargo ships.",
+            "sentence_zh": "破冰船正在为货轮清理北极航道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "水路",
+        "examples": [
+          {
+            "sentence": "Venetian gondolas glide through ancient waterways.",
+            "sentence_zh": "威尼斯贡多拉在古老的水路上滑行。"
+          },
+          {
+            "sentence": "The Grand Canal was China's most important north-south waterway.",
+            "sentence_zh": "大运河曾是中国最重要的南北水路。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "inland waterway",
+        "meaning": "内河航道",
+        "examples": [
+          {
+            "sentence": "Suzhou's inland waterways are called 'Venice of the East'.",
+            "sentence_zh": "苏州的内河航道被称为'东方威尼斯'。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "navigable waterway",
+        "meaning": "可通航水道",
+        "examples": [
+          {
+            "sentence": "The Amazon has over 25,000 km of navigable waterways.",
+            "sentence_zh": "亚马逊河拥有2.5万公里可通航水道。"
+          }
+        ]
+      }
+    ],
+    "teach": "waterway=水路=血管🩸！古代京杭大运河就像中国的主动脉，运粮船是红细胞🚢。现代长江航道日均流量堪比晚高峰地铁🚇。说'水上堵车'用water traffic jam，'河道整治'叫waterway dredging。记住：你家楼下臭水沟也算waterway，只不过像血管里的胆固醇🤢",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特威'→我的水路特别威(wateyway)",
+        "易混词：waterway(自然/人工航道) vs. canal(纯人工运河)"
+      ]
+    }
+  },
+  {
+    "word": "waterwheel",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "wheel"
+      ],
+      "meaning_connection": "复合词water（水）+wheel（轮子）→靠水力转动的轮状装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "水轮",
+        "examples": [
+          {
+            "sentence": "The ancient waterwheel still spins in Lijiang's old town, powering stone mills.",
+            "sentence_zh": "丽江古城的水轮至今转动，驱动着石磨。"
+          },
+          {
+            "sentence": "Modern hydroelectric dams are essentially giant waterwheels.",
+            "sentence_zh": "现代水电站本质上就是巨型水轮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "水车",
+        "examples": [
+          {
+            "sentence": "The picturesque waterwheel in Wuyuan attracts flocks of photography enthusiasts.",
+            "sentence_zh": "婺源的水车美景吸引成群摄影爱好者。"
+          },
+          {
+            "sentence": "Farmers used bamboo waterwheels to irrigate terraced fields 800 years ago.",
+            "sentence_zh": "八百年前农民就用竹制水车灌溉梯田。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "辘轳",
+        "examples": [
+          {
+            "sentence": "The well's wooden waterwheel creaked as it drew up buckets.",
+            "sentence_zh": "井口的木质辘轳在打水时吱呀作响。"
+          },
+          {
+            "sentence": "Villagers still use traditional waterwheels to fetch water from deep wells.",
+            "sentence_zh": "村民仍用传统辘轳从深井取水。"
+          }
+        ]
+      }
+    ],
+    "teach": "水车是古代版'永动机'♻️：水轮(waterwheel)就像抖音无限刷的瀑布流📱，只不过它刷的是真水流💦。古罗马人用它磨面粉→最早的'水力发电'⚡，现在云南还能看到'水车火锅'🍲——真的用水车动力切肉片！记住：看到水车要喊'这轮子绝绝子'（next-level waterpower）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我特会呕'→水车转啊转让人晕",
+        "易混词：windmill（风车）vs waterwheel（水车）",
+        "记忆图：把字母W想象成水波纹+轮子形状"
+      ]
+    }
+  },
+  {
+    "word": "waterworks",
+    "etymology": {
+      "breakdown": [
+        "water",
+        "works"
+      ],
+      "meaning_connection": "合成词，water=水，works=工程/工厂→字面为'水工程'，引申出不同场景的水相关设施"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "供水系统",
+        "examples": [
+          {
+            "sentence": "The ancient Roman waterworks still influence modern plumbing design.",
+            "sentence_zh": "古罗马供水系统至今仍影响现代管道设计。"
+          },
+          {
+            "sentence": "Tokyo's waterworks can withstand earthquakes up to magnitude 9.",
+            "sentence_zh": "东京的供水系统可抵御9级地震。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "自来水厂",
+        "examples": [
+          {
+            "sentence": "The waterworks near West Lake produces 1 million bottles of mineral water daily.",
+            "sentence_zh": "西湖附近的自来水厂每日生产100万瓶矿泉水。"
+          },
+          {
+            "sentence": "Visiting the waterworks is like touring a giant coffee filter station.",
+            "sentence_zh": "参观自来水厂像游览巨型咖啡过滤站。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "喷泉",
+        "examples": [
+          {
+            "sentence": "The musical waterworks in Dubai synchronizes with laser shows.",
+            "sentence_zh": "迪拜的音乐喷泉与激光秀同步表演。"
+          },
+          {
+            "sentence": "Kids love running through the interactive waterworks in summer.",
+            "sentence_zh": "孩子们夏天喜欢穿越互动喷泉玩耍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "眼泪",
+        "examples": [
+          {
+            "sentence": "Her waterworks started when the puppy licked her face.",
+            "sentence_zh": "当小狗舔她脸时，她的眼泪决堤了。"
+          },
+          {
+            "sentence": "The reunion scene in the drama turned on everyone's waterworks.",
+            "sentence_zh": "剧中重逢的戏码让所有人泪如雨下。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "turn on the waterworks",
+        "meaning": "开始哭泣（俚语）",
+        "examples": [
+          {
+            "sentence": "She immediately turned on the waterworks when her phone fell into hotpot.",
+            "sentence_zh": "当手机掉进火锅时她立刻泪如泉涌。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "municipal waterworks",
+        "meaning": "市政供水系统",
+        "examples": [
+          {
+            "sentence": "The municipal waterworks provides free ice cubes during heatwaves.",
+            "sentence_zh": "市政供水系统在热浪期间提供免费冰块。"
+          }
+        ]
+      }
+    ],
+    "teach": "waterworks是个会'变脸'的单词🎭！当指供水系统时像城市血管🚰（Roman waterworks）；作为自来水厂时是巨型'水处理器'🏭（bottled waterworks）；变成喷泉秒变水上芭蕾演员💃（dancing waterworks）；表示眼泪时直接化身情感水龙头😭（emotional waterworks）。要吐槽'假哭'可以说：Nice try with the fake waterworks!",
+    "recite": {
+      "tips": [
+        "视觉联想：自来水厂→疯狂动物城的树懒操作供水系统🐾",
+        "易混词对比：watermelon（西瓜）vs waterworks（水工程）",
+        "记忆口诀：'works造水三条路，厂子管子眼泪库'"
+      ]
+    }
   }
 ]

@@ -12176,5 +12176,350 @@
         "记忆tip：把家族树(family tree)想象成火锅食材族谱"
       ]
     }
+  },
+  {
+    "word": "genealogy",
+    "etymology": {
+      "breakdown": [
+        "genea",
+        "logy"
+      ],
+      "meaning_connection": "genea=世代/家族（来自希腊语genos），-logy=学科/研究→研究家族传承的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "系谱",
+        "examples": [
+          {
+            "sentence": "The genealogy of Confucius has been recorded for over 80 generations.",
+            "sentence_zh": "孔子的系谱已记录了八十多代。"
+          },
+          {
+            "sentence": "Her genealogy research revealed Viking ancestry.",
+            "sentence_zh": "她的系谱研究显示有维京人血统。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "宗谱",
+        "examples": [
+          {
+            "sentence": "The imperial genealogy was guarded like national treasure.",
+            "sentence_zh": "皇室宗谱曾被当作国宝守护。"
+          },
+          {
+            "sentence": "They found their family genealogy in an ancient temple.",
+            "sentence_zh": "他们在一座古寺中发现了家族宗谱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "家系",
+        "examples": [
+          {
+            "sentence": "The genealogy of this panda traces back to wild ancestors.",
+            "sentence_zh": "这只熊猫的家系可追溯至野外祖先。"
+          },
+          {
+            "sentence": "Tea masters often keep detailed genealogy of tea plants.",
+            "sentence_zh": "茶道大师常保留茶树的详细家系记录。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "family genealogy",
+        "meaning": "家族世系",
+        "examples": [
+          {
+            "sentence": "Chinese clan culture places great importance on family genealogy.",
+            "sentence_zh": "中国的宗族文化非常重视家族世系。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "trace genealogy",
+        "meaning": "追溯血统",
+        "examples": [
+          {
+            "sentence": "DNA testing now helps people trace genealogy more accurately.",
+            "sentence_zh": "DNA检测现在能更精准地帮助人们追溯血统。"
+          }
+        ]
+      }
+    ],
+    "teach": "genealogy是家族版的《清明上河图》🎨！古代皇帝用'玉牒'记录genealogy（比如朱元璋硬认朱熹当祖宗🤫），现代人用基因检测查genealogy就像23魔方🔬。说'祖上阔过'叫blue blood（蓝血贵族），'寻根问祖'是trace one's roots🌳。记住：你的genealogy可能藏着某个落跑公主的故事👑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'基因老逻辑'→用基因搞懂家族老逻辑",
+        "易混词对比：genetics（遗传学）vs genealogy（家谱学）"
+      ]
+    }
+  },
+  {
+    "word": "general",
+    "etymology": {
+      "breakdown": [
+        "gen",
+        "er",
+        "al"
+      ],
+      "meaning_connection": "词根gen=种族/种类，后缀-er表比较级，-al表性质→最初指'属于整个种族的'，引申出'普遍的'和'统帅'（全军领导者）两重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "将军",
+        "examples": [
+          {
+            "sentence": "The Terracotta Warriors were built to guard the tomb of a Qin dynasty general.",
+            "sentence_zh": "兵马俑是为守护秦朝将军陵墓而建造。"
+          },
+          {
+            "sentence": "Zhuge Liang was a legendary general who invented the mantou steamed bun.",
+            "sentence_zh": "诸葛亮是发明馒头的传奇将军。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "常规",
+        "examples": [
+          {
+            "sentence": "The hospital has changed its generals during the pandemic.",
+            "sentence_zh": "疫情期间医院改变了常规流程。"
+          },
+          {
+            "sentence": "Breaking the generals of traditional teaching methods can be challenging.",
+            "sentence_zh": "打破传统教学方法的常规可能有难度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "全面的",
+        "examples": [
+          {
+            "sentence": "We need a general understanding of AI before specializing.",
+            "sentence_zh": "在专精之前我们需要对AI有全面了解。"
+          },
+          {
+            "sentence": "The general layout of the Forbidden City reflects ancient Chinese cosmology.",
+            "sentence_zh": "故宫的全面布局反映了古代中国宇宙观。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "普遍的",
+        "examples": [
+          {
+            "sentence": "There's general agreement that hotpot is the best winter food.",
+            "sentence_zh": "人们普遍认同火锅是最佳冬季食物。"
+          },
+          {
+            "sentence": "The general opinion is that WeChat Pay is more convenient than cash.",
+            "sentence_zh": "普遍观点认为微信支付比现金更方便。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in general",
+        "meaning": "大体上",
+        "examples": [
+          {
+            "sentence": "In general, Chinese students excel in mathematics.",
+            "sentence_zh": "大体上，中国学生数学成绩优异。"
+          },
+          {
+            "sentence": "In general, southerners prefer rice over noodles.",
+            "sentence_zh": "大体上南方人更爱米饭而非面条。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "general public",
+        "meaning": "公众",
+        "examples": [
+          {
+            "sentence": "The Great Wall was opened to the general public in 1958.",
+            "sentence_zh": "长城于1958年对公众开放。"
+          },
+          {
+            "sentence": "This app is too technical for the general public.",
+            "sentence_zh": "这款app对公众来说太专业了。"
+          }
+        ]
+      }
+    ],
+    "teach": "general这词像火锅鸳鸯锅🍲：一边是'将军'（像关羽涮辣锅🌶️），一边是'普遍'（像清汤锅底🍵）。说'大体上'用in general就像说'火锅食材大体分荤素'🥬。'打破常规'叫break the generals，就像在火锅店点炒饭🍚。记住：当general戴军帽🎖️是将军，脱帽子就是老百姓啦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'真闹哦'→当将军(general)真闹哦",
+        "易混词：general vs generous（后者是'慷慨'，多一个u像钱袋💰）"
+      ]
+    }
+  },
+  {
+    "word": "generalised",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "al",
+        "ise",
+        "ed"
+      ],
+      "meaning_connection": "词根gener=种类/产生（来自拉丁语genus），-al形容词后缀，-ise动词后缀，-ed表完成→使成为某种类特征的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "广泛的",
+        "examples": [
+          {
+            "sentence": "The generalised use of mobile payment has turned wallets into museum exhibits.",
+            "sentence_zh": "移动支付的广泛使用让钱包成了博物馆展品。"
+          },
+          {
+            "sentence": "This generalised anxiety about AI reminds me of people fearing cameras would steal souls in 19th century.",
+            "sentence_zh": "这种对AI的广泛焦虑，让我想起19世纪人们害怕相机会偷走灵魂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "普遍的",
+        "examples": [
+          {
+            "sentence": "Generalised dizziness occurred after the roller coaster started serving spicy hot pot.",
+            "sentence_zh": "过山车开始供应麻辣火锅后出现了普遍的头晕现象。"
+          },
+          {
+            "sentence": "There's a generalised belief that pandas spend 16 hours eating because their jobs don't require overtime.",
+            "sentence_zh": "人们普遍认为熊猫每天吃16小时是因为它们的工作不用加班。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "非具体的",
+        "examples": [
+          {
+            "sentence": "His generalised complaint about 'all social media' vanished after discovering Douyin's puppy filters.",
+            "sentence_zh": "他对'所有社交媒体'的非具体抱怨，在发现抖音的小狗滤镜后消失了。"
+          },
+          {
+            "sentence": "The teacher rejected my generalised answer about 'the importance of everything' in the exam.",
+            "sentence_zh": "老师拒绝了我考试中'万物的重要性'这种非具体的答案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "整体的",
+        "examples": [
+          {
+            "sentence": "The generalised shape of China on ancient maps looked like a steamed bun holding chopsticks.",
+            "sentence_zh": "古地图上中国的整体形状像握着筷子的馒头。"
+          },
+          {
+            "sentence": "Doctors check generalised symptoms before concluding you just need more sleep rather than medicine.",
+            "sentence_zh": "医生会检查整体症状，然后判定你只是需要多睡觉而不是吃药。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "generalised anxiety disorder",
+        "meaning": "广泛性焦虑症",
+        "examples": [
+          {
+            "sentence": "His generalised anxiety disorder peaked during Singles' Day shopping spree.",
+            "sentence_zh": "他的广泛性焦虑症在双十一抢购期间达到顶峰。"
+          }
+        ]
+      }
+    ],
+    "teach": "generalised就像火锅汤底🍲！'广泛'是牛油锅底覆盖所有食材，'普遍'像清汤锅人人都能喝，'非具体'是不选微辣中辣的特辣犹豫者，'整体'则是看整个咕嘟冒泡的锅🌪️。记住：说'整体情况'用generalised picture就像火锅拍照要全景，地道说法'on the whole'则是'总的来说'🥢",
+    "recite": {
+      "tips": [
+        "谐音梗：'真呢来煮的'→真呢来煮的汤料当然很generalised",
+        "易混词：generalised（广泛特征）vs specialized（专业特长）→前者是广场舞大妈，后者是芭蕾舞者"
+      ]
+    }
+  },
+  {
+    "word": "generalissimo",
+    "etymology": {
+      "breakdown": [
+        "general",
+        "issimo"
+      ],
+      "meaning_connection": "general（将军）+意大利语最高级后缀-issimo→'最将军的人'，即最高统帅"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大元帅",
+        "examples": [
+          {
+            "sentence": "The generalissimo wore a uniform with enough medals to sink a small boat.",
+            "sentence_zh": "这位大元帅的制服上别着足以压沉小船的勋章。"
+          },
+          {
+            "sentence": "During WWII, Chiang Kai-shek was known as the generalissimo in Western reports.",
+            "sentence_zh": "二战期间西方报道常称蒋介石为大元帅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "总司令",
+        "examples": [
+          {
+            "sentence": "The generalissimo personally directed the defense of the Great Wall.",
+            "sentence_zh": "这位总司令亲自指挥了长城防卫战。"
+          },
+          {
+            "sentence": "All troops saluted when the generalissimo's helicopter landed.",
+            "sentence_zh": "当总司令的直升机降落时，全体士兵敬礼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大总统",
+        "examples": [
+          {
+            "sentence": "The generalissimo declared martial law across the country.",
+            "sentence_zh": "这位大总统宣布全国戒严。"
+          },
+          {
+            "sentence": "State dinners hosted by the generalissimo featured 108 courses.",
+            "sentence_zh": "大总统主持的国宴足有108道菜。"
+          }
+        ]
+      }
+    ],
+    "teach": "generalissimo是军事界的黑卡会员💎！这个意大利风味单词=general（将军）+issimo（最高级），就像给司令官浇上芝士瀑布🧀。搭配'五颗星'叫five-star generalissimo，吐槽独裁者可以说he thinks he's Napoleon🌍。记住：当普通general不够威猛时，就加issimo后缀变'究极体'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'这呢热力士磨'→大元帅在磨热力士手表",
+        "易混词对比：general（普通将军）vs generalissimo（超级将军）",
+        "记忆tip：想象游戏里的最终BOSS顶着这个头衔👑"
+      ]
+    }
   }
 ]

@@ -12229,5 +12229,380 @@
         "易混词：offensive（冒犯的） vs. defensive（防御的）"
       ]
     }
+  },
+  {
+    "word": "offensiveness",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fens",
+        "ive",
+        "ness"
+      ],
+      "meaning_connection": "前缀of=ob(反向)，词根fens=打击(同defend防守)，-ive表性质，-ness表状态→反向打击的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "冒犯性",
+        "examples": [
+          {
+            "sentence": "The comedian apologized for the offensiveness of his dumpling joke.",
+            "sentence_zh": "那位喜剧演员为饺子段子的冒犯性道歉。"
+          },
+          {
+            "sentence": "WeChat now filters messages with potential offensiveness.",
+            "sentence_zh": "微信现在会过滤可能具有冒犯性的消息。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "令人讨厌的特质",
+        "examples": [
+          {
+            "sentence": "The offensiveness of durian splits opinions in the office.",
+            "sentence_zh": "榴莲的异味特质让办公室同事意见分裂。"
+          },
+          {
+            "sentence": "His constant bragging reached new levels of offensiveness.",
+            "sentence_zh": "他持续吹牛达到了令人讨厌的新高度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "进攻性",
+        "examples": [
+          {
+            "sentence": "The team's offensiveness overwhelmed their opponents like hotpot spices.",
+            "sentence_zh": "该队的进攻性如火锅辣度般碾压对手。"
+          },
+          {
+            "sentence": "The general adjusted tactics to reduce offensiveness after losing 3 bases.",
+            "sentence_zh": "在失去3个基地后，将军调整战术降低进攻性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "level of offensiveness",
+        "meaning": "冒犯程度",
+        "examples": [
+          {
+            "sentence": "The censorship AI evaluates level of offensiveness in milliseconds.",
+            "sentence_zh": "审查AI能在毫秒间评估内容冒犯程度。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "take the offensiveness",
+        "meaning": "采取攻势",
+        "examples": [
+          {
+            "sentence": "The underdog team suddenly took the offensiveness in the second half.",
+            "sentence_zh": "弱势队伍在下半场突然采取攻势。"
+          }
+        ]
+      }
+    ],
+    "teach": "offensiveness是自带'怼人三件套'🤺：1)词源暗藏攻防转换（像防守反击的武术🥋）2)视觉化就像'踩雷游戏'💣（社交场合的冒犯性）和'红队蓝队'攻防演习🔴🔵 3)实用搭配：'cross the line of offensiveness'(越界)/'moderate offensiveness'(适度进攻) 4)地道吐槽：'That's cringe!'表示'太尬了' 5)记住：这个词既是社交地雷💥，也是战略武器⚔️",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶烦死你死'→冒犯性让人烦",
+        "易混词：offensive(adj.)/offensiveness(n.)就像辣度🌶️和辣味等级🔥",
+        "记忆口诀：of反向+fens打击=要么冒犯要么干架"
+      ]
+    }
+  },
+  {
+    "word": "offer",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fer"
+      ],
+      "meaning_connection": "前缀of-表示'向前'，词根fer表示'携带'→原指将某物带到对方面前"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "给予(物)",
+        "examples": [
+          {
+            "sentence": "The mooncake offer during Mid-Autumn Festival comes with free tea bags.",
+            "sentence_zh": "中秋节的月饼赠品附送免费茶包。"
+          },
+          {
+            "sentence": "His offer of help was like sending umbrellas in a rainstorm.",
+            "sentence_zh": "他的帮助如同暴雨中送伞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "出价",
+        "examples": [
+          {
+            "sentence": "The final offer for the Peking duck was 20% above market price.",
+            "sentence_zh": "对这只北京烤鸭的最终出价高于市价20%。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "提议",
+        "examples": [
+          {
+            "sentence": "Her offer to teach mahjong surprised everyone at the retirement home.",
+            "sentence_zh": "她提出教养老院老人打麻将的提议让所有人惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "提供",
+        "examples": [
+          {
+            "sentence": "Alibaba offers AI-generated poster designs for small shops.",
+            "sentence_zh": "阿里巴巴为小店提供AI生成的海报设计服务。"
+          },
+          {
+            "sentence": "The hotel offers pillow menus with 5 different hardness levels.",
+            "sentence_zh": "该酒店提供五种不同硬度的枕头菜单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "出价",
+        "examples": [
+          {
+            "sentence": "He offered 888 yuan for the limited edition sneakers.",
+            "sentence_zh": "他为限量版运动鞋出价888元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "出现",
+        "examples": [
+          {
+            "sentence": "A chance to study Peking Opera offered when the master visited our school.",
+            "sentence_zh": "京剧大师来访我校时出现学习机会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "offer up",
+        "meaning": "献上",
+        "examples": [
+          {
+            "sentence": "The villagers offered up their best tea leaves to the guests.",
+            "sentence_zh": "村民们向客人献上最好的茶叶。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "on offer",
+        "meaning": "特价中",
+        "examples": [
+          {
+            "sentence": "Hot pot ingredients are on offer during winter solstice.",
+            "sentence_zh": "冬至期间火锅食材正在特价促销。"
+          }
+        ]
+      }
+    ],
+    "teach": "offer就像火锅店的菜单🍲：当商家'提供(offer)服务'时是海底捞扯面表演👨🍳，'出价(offer)'时像菜市场讨价还价💰，'求婚(offer)'时像单膝跪地送钻戒💍。记住：'特价商品'说on offer，'拒绝offer'要讲decline politely（礼貌拒绝）。工资offer太低？那叫peanut salary（花生米薪水）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'藕粉儿'→卖藕粉的小贩不停offer试吃",
+        "易混词对比：provide（长期提供） vs offer（一次性提议）",
+        "记忆口诀：向前(of)拿(fer)东西就是offer"
+      ]
+    }
+  },
+  {
+    "word": "offered",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fer",
+        "ed"
+      ],
+      "meaning_connection": "前缀of-表示'朝向'，词根fer表示'携带'，-ed表过去时→'携带某物朝向某人'即'提供'的过去式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "提供（过去时）",
+        "examples": [
+          {
+            "sentence": "The hotel offered free mahjong lessons to guests during the Spring Festival.",
+            "sentence_zh": "春节期间酒店为客人提供免费麻将教学。"
+          },
+          {
+            "sentence": "She offered her seat to a pregnant woman on the metro.",
+            "sentence_zh": "她在地铁上给孕妇让座。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "提议（过去时）",
+        "examples": [
+          {
+            "sentence": "He offered to teach me how to make dumplings with TikTok filters.",
+            "sentence_zh": "他提议用抖音滤镜教我包饺子。"
+          },
+          {
+            "sentence": "The AI assistant offered to translate the menu into Sichuan dialect.",
+            "sentence_zh": "AI助手提议把菜单翻译成四川话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "奉献（过去时）",
+        "examples": [
+          {
+            "sentence": "The monk offered his lifetime to preserving ancient tea recipes.",
+            "sentence_zh": "这位僧人毕生奉献于守护古法茶谱。"
+          },
+          {
+            "sentence": "They offered their vintage sneaker collection to the museum.",
+            "sentence_zh": "他们向博物馆捐赠了珍藏的复古球鞋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "offered up",
+        "meaning": "献上",
+        "examples": [
+          {
+            "sentence": "The chef offered up his secret chili oil recipe live on Douyin.",
+            "sentence_zh": "厨师在抖音直播中献出独家辣椒油配方。"
+          }
+        ]
+      }
+    ],
+    "teach": "offered就像火锅店的'要得'服务🍲！提供茶水时是'给您倒杯王老吉'(offered drinks)，提议加菜时说'整盘毛肚不'(offered suggestions)，奉献配方就像交出祖传火锅底料㊙️(offered secrets)。地道说法：'主动帮忙'叫offer a hand，'婉拒好意'说'I'm good'。记住：offer是双手奉上的仪式感🙏！",
+    "recite": {
+      "tips": [
+        "谐音梗：'藕粉的'→老板offer的(藕粉的)工作像藕粉一样黏人",
+        "对比记忆：provide侧重长期供应，offer强调主动提出"
+      ]
+    }
+  },
+  {
+    "word": "offering",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fer",
+        "ing"
+      ],
+      "meaning_connection": "前缀of-表示'完全'，词根fer表示'携带'，-ing表名词→完全带出的物品"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "提供",
+        "examples": [
+          {
+            "sentence": "The temple's free tea offering attracts thousands daily.",
+            "sentence_zh": "寺庙的免费茶水供应每日吸引数千人。"
+          },
+          {
+            "sentence": "Didi's new carpool offering reduces Beijing smog.",
+            "sentence_zh": "滴滴新推出的拼车服务减少了北京雾霾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "奉献物",
+        "examples": [
+          {
+            "sentence": "Devotees bring fruit offerings to Guanyin statues.",
+            "sentence_zh": "信徒们向观音像供奉水果。"
+          },
+          {
+            "sentence": "The emperor's jade offering was displayed in the Forbidden City.",
+            "sentence_zh": "皇帝的玉制祭品曾在紫禁城展出。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "牲礼",
+        "examples": [
+          {
+            "sentence": "Ancient bronze vessels held animal offerings to heaven.",
+            "sentence_zh": "古代青铜器曾盛放祭天的牲礼。"
+          },
+          {
+            "sentence": "The sacrificial offering included a whole roasted pig.",
+            "sentence_zh": "祭祀牲礼包含整只烤猪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "上市的股票",
+        "examples": [
+          {
+            "sentence": "BYD's new EV battery offering surged 250% on debut.",
+            "sentence_zh": "比亚迪新能源电池股票首发暴涨250%。"
+          },
+          {
+            "sentence": "Tech startups delay IPO offerings during market winters.",
+            "sentence_zh": "科技初创企业在资本寒冬推迟股票上市。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "peace offering",
+        "meaning": "和解礼物",
+        "examples": [
+          {
+            "sentence": "He brought spicy crayfish as a peace offering after the quarrel.",
+            "sentence_zh": "吵架后他带了麻辣小龙虾作为和解礼物。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "public offering",
+        "meaning": "公开发行",
+        "examples": [
+          {
+            "sentence": "The public offering was oversubscribed within 30 seconds.",
+            "sentence_zh": "公开发行股票30秒内被超额认购。"
+          }
+        ]
+      }
+    ],
+    "teach": "offering就像多功能香炉🕯️！当'牲礼'时是祭祀的烤乳猪🐷，当'股票'时是交易所的电子鞭炮🧨，'提供'像海底捞的无限续杯🍵，'奉献物'像少林寺的功德箱💰。记住：从青铜器到科创板，offering贯穿中华五千年！",
+    "recite": {
+      "tips": [
+        "谐音梗：'藕粉灵'→庙里供奉的藕粉显灵了",
+        "易混词对比：offer(主动提供) vs. offering(已提供之物)"
+      ]
+    }
   }
 ]

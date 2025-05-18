@@ -12630,5 +12630,377 @@
         "易混词对比：laughter(笑声)/slaughter(屠杀)→差别就在开头的S，像笑脸😊变刀疤脸🔪"
       ]
     }
+  },
+  {
+    "word": "launch",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语lanchier(投掷)，与lance(长矛)同源，原指用力投射的动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "汽艇",
+        "examples": [
+          {
+            "sentence": "We took the hotel's launch to see the Victoria Harbour light show.",
+            "sentence_zh": "我们乘酒店的汽艇观看维多利亚港灯光秀。"
+          },
+          {
+            "sentence": "The billionaire's solar-powered launch looks like a spaceship.",
+            "sentence_zh": "那位亿万富翁的太阳能汽艇看起来像宇宙飞船。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发射",
+        "examples": [
+          {
+            "sentence": "The rocket launch was postponed due to typhoon Mangkhut.",
+            "sentence_zh": "因台风山竹影响，火箭发射推迟。"
+          },
+          {
+            "sentence": "Every iPhone launch creates kilometer-long queues at Apple Stores.",
+            "sentence_zh": "每次iPhone发售都在苹果店外引发千米长队。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使下水",
+        "examples": [
+          {
+            "sentence": "They launched the new cruise ship with a champagne bottle.",
+            "sentence_zh": "他们用香槟瓶为新游轮举行下水仪式。"
+          },
+          {
+            "sentence": "The shipyard will launch three submarines next month.",
+            "sentence_zh": "该船厂下月将使三艘潜艇下水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "发射",
+        "examples": [
+          {
+            "sentence": "China launched the Chang'e-5 lunar probe from Hainan.",
+            "sentence_zh": "中国从海南发射了嫦娥五号月球探测器。"
+          },
+          {
+            "sentence": "The military launched 30 missiles in the exercise.",
+            "sentence_zh": "军队在演习中发射了30枚导弹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "发动",
+        "examples": [
+          {
+            "sentence": "Alibaba launched a new live-streaming platform to rival Douyin.",
+            "sentence_zh": "阿里巴巴推出了新的直播平台与抖音竞争。"
+          },
+          {
+            "sentence": "The hospital launched emergency measures during the COVID outbreak.",
+            "sentence_zh": "医院在新冠疫情爆发时启动了应急措施。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "起飞",
+        "examples": [
+          {
+            "sentence": "The plane launched smoothly despite the thunderstorm.",
+            "sentence_zh": "尽管有雷暴，飞机仍平稳起飞。"
+          },
+          {
+            "sentence": "SpaceX's Starship launched successfully after 4 attempts.",
+            "sentence_zh": "SpaceX的星舰在四次尝试后成功升空。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "投入",
+        "examples": [
+          {
+            "sentence": "She launched into learning Python with great enthusiasm.",
+            "sentence_zh": "她以极大热情投入Python学习。"
+          },
+          {
+            "sentence": "The chef launched into preparing 50 Peking ducks at once.",
+            "sentence_zh": "厨师立即投入同时烹饪50只北京烤鸭的工作。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "launch into",
+        "meaning": "热情投入",
+        "examples": [
+          {
+            "sentence": "He launched into a 2-hour speech about blockchain.",
+            "sentence_zh": "他热情洋溢地进行了两小时关于区块链的演讲。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "launch out",
+        "meaning": "出海/冒险尝试",
+        "examples": [
+          {
+            "sentence": "The fishing boats launch out before dawn every day.",
+            "sentence_zh": "渔船每天拂晓前出海。"
+          }
+        ]
+      }
+    ],
+    "teach": "launch就像宇宙大爆炸💥！从'汽艇下水'到'火箭升空'都靠它，像极了广东人用同一个'搞掂'解决万事。造火箭的叫launch pad(发射台)，发新品的叫launch event(发布会)，连激情演讲都叫launch into🌪️。记住：所有'从零到一'的动作，都可以用launch这个万能动词🚀🍾🎤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'浪起'→汽艇下水浪花起",
+        "易混词对比：lunch(午餐)/launch(发射)→'吃完lunch去看launch'"
+      ]
+    }
+  },
+  {
+    "word": "launcher",
+    "etymology": {
+      "breakdown": [
+        "launch",
+        "er"
+      ],
+      "meaning_connection": "动词launch（发射）+-er表示人或工具→发射者/发射装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "发射者",
+        "examples": [
+          {
+            "sentence": "The rocket launcher carefully checked the ignition system.",
+            "sentence_zh": "火箭发射员仔细检查了点火系统。"
+          },
+          {
+            "sentence": "In ancient times, arrow launchers were highly skilled warriors.",
+            "sentence_zh": "古代弓箭发射者是技艺高超的战士。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发射台",
+        "examples": [
+          {
+            "sentence": "The spacecraft was transported to the launcher at Wenchang Spaceport.",
+            "sentence_zh": "航天器被运往文昌航天发射场的发射台。"
+          },
+          {
+            "sentence": "The mobile missile launcher disappeared into the forest.",
+            "sentence_zh": "移动导弹发射台消失在丛林中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "app launcher",
+        "meaning": "应用启动器",
+        "examples": [
+          {
+            "sentence": "Huawei's app launcher has a 'hidden apps' feature for privacy.",
+            "sentence_zh": "华为的应用启动器带有隐私保护的应用隐藏功能。"
+          }
+        ]
+      }
+    ],
+    "teach": "launcher就像现代'二踢脚'🧨！从古代投石机到火箭发射台🚀，人类总想把自己送上天。手机里的app launcher则是数字时代的'应用发射井'📱。说'准备发射'叫stand by for launch，'点火'叫ignition sequence start。记住：每个launcher都渴望突破地心引力🌍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'老unchor'→老锚(launcher)发射船只",
+        "易混词：laundry vs launcher（一个洗衣服，一个发火箭）"
+      ]
+    }
+  },
+  {
+    "word": "launching",
+    "etymology": {
+      "breakdown": [
+        "launch",
+        "ing"
+      ],
+      "meaning_connection": "源自古法语'lancher'（投掷），后缀-ing表动作过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "发射",
+        "examples": [
+          {
+            "sentence": "The live-streamed rocket launching attracted 50 million viewers.",
+            "sentence_zh": "这场直播的火箭发射吸引了5000万观众。"
+          },
+          {
+            "sentence": "SpaceX's satellite launching looks like a sci-fi movie scene.",
+            "sentence_zh": "SpaceX的卫星发射场景宛如科幻大片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "船下水",
+        "examples": [
+          {
+            "sentence": "The champagne bottle smashed during the cruise ship launching.",
+            "sentence_zh": "香槟瓶在邮轮下水典礼上被砸碎。"
+          },
+          {
+            "sentence": "Ancient Chinese ship launching involved dragon dance rituals.",
+            "sentence_zh": "中国古代船只下水仪式包含舞龙环节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "下水典礼",
+        "examples": [
+          {
+            "sentence": "The submarine launching ceremony was attended by naval officers.",
+            "sentence_zh": "海军军官们出席了潜艇下水典礼。"
+          },
+          {
+            "sentence": "Japanese ship launching often features paper crane decorations.",
+            "sentence_zh": "日本船只下水典礼常用纸鹤装饰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "开办",
+        "examples": [
+          {
+            "sentence": "The hotpot chain's launching event offered free mala tangyuan.",
+            "sentence_zh": "这家火锅连锁店开业时提供免费麻辣汤圆。"
+          },
+          {
+            "sentence": "Weibo crashed during the iPhone 15 launching livestream.",
+            "sentence_zh": "iPhone15新品发布会直播时微博瘫痪了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "launching ceremony",
+        "meaning": "启动仪式",
+        "examples": [
+          {
+            "sentence": "The launching ceremony featured drone light shows.",
+            "sentence_zh": "启动仪式包含了无人机灯光秀。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "launching pad",
+        "meaning": "发射台",
+        "examples": [
+          {
+            "sentence": "Tourists can visit the rocket launching pad in Hainan.",
+            "sentence_zh": "游客可以参观海南的火箭发射台。"
+          }
+        ]
+      }
+    ],
+    "teach": "launching是'宇宙级'单词🚀！从火箭发射（space launching）到奶茶店开业（bubble tea launching），都像把东西'扔出去'（古法语本义）。说'盛大开业'用grand launching，'翻车现场'叫failed launching🐉。记住：不论发射卫星还是发射新店，都要避免'倒栽葱'式launching！",
+    "recite": {
+      "tips": [
+        "谐音梗：'浪起来'→发射火箭让海浪(launching)起来",
+        "易混词对比：launch（动词原形）vs launching（名词过程）"
+      ]
+    }
+  },
+  {
+    "word": "launder",
+    "etymology": {
+      "breakdown": [
+        "laund",
+        "er"
+      ],
+      "meaning_connection": "源自古法语'lavandier'（洗衣工），词根laund与拉丁语'lavare'（洗）相关，-er表人或物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "流水槽",
+        "examples": [
+          {
+            "sentence": "The medieval launder in this castle still has visible water stains.",
+            "sentence_zh": "这座城堡的中世纪流水槽仍可见水渍痕迹。"
+          },
+          {
+            "sentence": "They found gold particles in the old mine's launder system.",
+            "sentence_zh": "他们在老矿山的流水槽系统中发现了金粒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "洗衣",
+        "examples": [
+          {
+            "sentence": "She launders her hand-wash-only cheongsam with special care.",
+            "sentence_zh": "她特别小心地清洗那件只能手洗的旗袍。"
+          },
+          {
+            "sentence": "Hotels often launder sheets with industrial-grade detergents.",
+            "sentence_zh": "酒店常用工业级洗涤剂清洗床单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "烫衣",
+        "examples": [
+          {
+            "sentence": "The butler perfectly laundered the tuxedo for the banquet.",
+            "sentence_zh": "管家为宴会完美熨烫了燕尾服。"
+          },
+          {
+            "sentence": "Dry cleaners launder silk scarves with steam at low temperature.",
+            "sentence_zh": "干洗店用低温蒸汽熨烫真丝围巾。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "money laundering",
+        "meaning": "洗钱",
+        "examples": [
+          {
+            "sentence": "The teahouse was just a front for laundering drug money.",
+            "sentence_zh": "这茶馆只是清洗毒资的幌子。"
+          }
+        ]
+      }
+    ],
+    "teach": "launder是个'湿漉漉'的单词💦！最初指中世纪城堡的流水槽（想象水流过石槽的样子🏰），后来变成洗衣工的职业称谓👕。现在'洗钱'叫money laundering，就像把脏衬衫漂白成新的一样🤑。实用搭配：'洗衣店'叫launderette，'洗衣篮'是laundry basket。地道表达：'衣服洗坏了'说The laundry is ruined! 🧺⚡",
+    "recite": {
+      "tips": [
+        "谐音梗：'乱嘚'→衣服乱嘚(launder)才要洗",
+        "易混词：laundry（待洗衣物）vs launder（洗衣动作）",
+        "记忆法：'launder=launch+under'→水下发射洗衣导弹"
+      ]
+    }
   }
 ]

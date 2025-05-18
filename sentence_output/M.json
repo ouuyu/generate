@@ -12221,5 +12221,358 @@
         "记忆tip：所有-ment结尾的词都是名词（如development）"
       ]
     }
+  },
+  {
+    "word": "manager",
+    "etymology": {
+      "breakdown": [
+        "man",
+        "age",
+        "er"
+      ],
+      "meaning_connection": "词根man=手，age=行为/状态，-er表人→原指'用手处理事务的人'，后引申为管理者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "经理",
+        "examples": [
+          {
+            "sentence": "The WeChat Pay manager approved my reimbursement in 3 seconds.",
+            "sentence_zh": "微信支付经理3秒就批了我的报销。"
+          },
+          {
+            "sentence": "Our warehouse manager can find any item blindfolded.",
+            "sentence_zh": "我们仓库经理蒙着眼都能找到任何货物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "管理员",
+        "examples": [
+          {
+            "sentence": "The Douyin livestream manager banned spam comments immediately.",
+            "sentence_zh": "抖音直播管理员秒封了垃圾评论。"
+          },
+          {
+            "sentence": "As a dorm manager, he keeps 1000 spare keys like a human keychain.",
+            "sentence_zh": "作为宿舍管理员，他像人形钥匙链一样保管着1000把备用钥匙。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "管理器",
+        "examples": [
+          {
+            "sentence": "The task manager showed my phone was running 666 background apps.",
+            "sentence_zh": "任务管理器显示我手机后台运行着666个应用。"
+          },
+          {
+            "sentence": "This password manager remembers all my combinations including the one for my grandma's safe.",
+            "sentence_zh": "这个密码管理器记得我所有密码组合，包括奶奶保险箱的。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "project manager",
+        "meaning": "项目经理",
+        "examples": [
+          {
+            "sentence": "Our project manager uses emoji progress bars in reports.",
+            "sentence_zh": "我们的项目经理用表情包进度条写报告。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "time manager",
+        "meaning": "时间管理工具",
+        "examples": [
+          {
+            "sentence": "This time manager app scolds you in Sichuan dialect when procrastinating.",
+            "sentence_zh": "这个时间管理应用会在你拖延时用四川话骂人。"
+          }
+        ]
+      }
+    ],
+    "teach": "manager其实是'摸那事儿'的人👋！从罗马奴隶管家（man+age=用手打理）到现代CEO💼，本质都是'背锅侠'。吐槽老板太凶可以说micromanager（显微镜管理者🔬），夸领导用people manager（人力管理大师🤹）。记住：good manager像火锅店领班——既要会捞肉🍲，也要会灭火🧯！",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛮饿着'→经理忙到忘记吃饭",
+        "易混词对比：manager（管理者） vs. manger（马槽，耶稣诞生地）",
+        "联想记忆：MAN+AGE=男人到一定年龄就当经理"
+      ]
+    }
+  },
+  {
+    "word": "managerial",
+    "etymology": {
+      "breakdown": [
+        "manage",
+        "er",
+        "ial"
+      ],
+      "meaning_connection": "词根manage=管理，-er表人，-ial表形容词后缀→与管理人相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "管理的",
+        "examples": [
+          {
+            "sentence": "His managerial skills turned the chaotic hotpot restaurant into a Michelin-starred one.",
+            "sentence_zh": "他的管理才能把混乱的火锅店变成了米其林星级餐厅。"
+          },
+          {
+            "sentence": "The panda keeper showed excellent maternal and managerial instincts.",
+            "sentence_zh": "这位熊猫饲养员展现出卓越的母性和管理本能。"
+          }
+        ]
+      }
+    ],
+    "teach": "managerial=马云(manager)开会时的表情😎！古代中国'管'字原指竹筒钥匙🔑，后来引申为管理。要说'管理混乱'用地道表达hot mess（热腾腾的混乱），'微观管理'叫helicopter parenting像直升机盘旋🚁。记住：managerial决定你能管1个人还是10个钉钉群！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢哪这里'→管理者慢条斯理处理问题",
+        "易混词对比：administrative（行政的）vs managerial（管理层的）"
+      ]
+    }
+  },
+  {
+    "word": "managing",
+    "etymology": {
+      "breakdown": [
+        "man",
+        "ag",
+        "ing"
+      ],
+      "meaning_connection": "词根man=手（拉丁语manus），-ag表示'驱动'（act的变体），-ing构成形容词→'用手操作的'引申为管理"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "管理的",
+        "examples": [
+          {
+            "sentence": "Her managing skills turned the chaotic canteen into a Michelin-star restaurant.",
+            "sentence_zh": "她的管理才能把混乱的食堂变成了米其林餐厅。"
+          },
+          {
+            "sentence": "The managing director wears Pikachu ties to motivate employees.",
+            "sentence_zh": "这位董事总经理戴着皮卡丘领带激励员工。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "节约的",
+        "examples": [
+          {
+            "sentence": "His managing habits helped save enough for 300 hotpot meals.",
+            "sentence_zh": "他节俭的习惯省出了300顿火锅钱。"
+          },
+          {
+            "sentence": "The managing housewife repurposes milk tea cups as plant pots.",
+            "sentence_zh": "这位节俭的主妇把奶茶杯改造成花盆。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "managing editor",
+        "meaning": "执行主编",
+        "examples": [
+          {
+            "sentence": "The managing editor approved the meme-filled news report.",
+            "sentence_zh": "执行主编批准了这篇充满表情包的新闻报道。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "managing expectations",
+        "meaning": "管理预期",
+        "examples": [
+          {
+            "sentence": "The teacher is managing expectations about final exam difficulty.",
+            "sentence_zh": "老师正在管理学生对期末考试的难度预期。"
+          }
+        ]
+      }
+    ],
+    "teach": "管理(managing)的鼻祖其实是赶羊人🐑！词根man=手（像抓羊的姿势），-ag=驱使（羊群动作），合起来就是'用手指挥'👋。要说'精打细算'可以戏称bean counting（数豆子），'管理混乱'叫herding cats（赶猫难度）🐱。记住：好的managing就像火锅控火候——既要效率也要节约燃气🔥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卖内劲'→管理要靠卖内力",
+        "易混词：manager（管理者） vs. management（管理体系）",
+        "联想：MAN+AGE+ING→男人到一定年龄(age)才懂管理"
+      ]
+    }
+  },
+  {
+    "word": "mandamus",
+    "etymology": {
+      "breakdown": [
+        "mand",
+        "amus"
+      ],
+      "meaning_connection": "词根mand=命令（来自拉丁语mandare），-amus为拉丁语动词后缀→直译为'我们命令'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "法院强制令",
+        "examples": [
+          {
+            "sentence": "The judge issued a mandamus to compel the release of the documents.",
+            "sentence_zh": "法官签发强制令要求公开文件。"
+          },
+          {
+            "sentence": "This mandamus is like a golden summon in online games - you can't ignore it.",
+            "sentence_zh": "这道法令就像网游里的黄金召集令——不容忽视。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "下达强制令",
+        "examples": [
+          {
+            "sentence": "The court mandamused the mayor to clean up the polluted river within 30 days.",
+            "sentence_zh": "法院命令市长30天内清理受污染的河流。"
+          },
+          {
+            "sentence": "When the government mandamused TikTok to change its algorithm, it caused an uproar.",
+            "sentence_zh": "当政府对TikTok下达算法修改令时引发轩然大波。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "writ of mandamus",
+        "meaning": "强制履行令状",
+        "examples": [
+          {
+            "sentence": "The lawyer filed a writ of mandamus like submitting a bug report to the legal system.",
+            "sentence_zh": "律师提交强制令状就像向司法系统提交bug报告。"
+          }
+        ]
+      }
+    ],
+    "teach": "mandamus是法律界的'圣旨'📜！这个词来自拉丁语'我们命令'，就像古代官员举着黄绢布喊'奉天承运'⚖️。搭配'file a mandamus'（申请强制令）好比游戏里点击'举报外挂'按钮🎮，而'judicial mandamus'（司法训令）就像系统管理员的全服通告💻。记住：接到mandamus就像收到班主任的加急家长会通知📨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢打马斯'→慢慢打才能让马斯克(mandamus)接法院传票",
+        "易混词对比：mandate（授权）是主动的，mandamus是被动的"
+      ]
+    }
+  },
+  {
+    "word": "mandarin",
+    "etymology": {
+      "breakdown": [
+        "mandar",
+        "in"
+      ],
+      "meaning_connection": "源自葡萄牙语'mandarim'（官员），借自马来语'mantri'（顾问），最终源于梵语'mantrin'（大臣）。后缀-in表'属于'。柑橘义因橙黄色类似清朝官员袍服颜色而得名。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "中国官话",
+        "examples": [
+          {
+            "sentence": "Beijing Mandarin sounds crisper than Southern accents.",
+            "sentence_zh": "北京官话听起来比南方口音更清脆。"
+          },
+          {
+            "sentence": "The CCTV news anchors speak perfect Mandarin.",
+            "sentence_zh": "央视新闻主播的普通话非常标准。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "满清官吏",
+        "examples": [
+          {
+            "sentence": "The mandarin's hat had a red coral bead on top.",
+            "sentence_zh": "清代官员的帽顶有一颗红珊瑚珠。"
+          },
+          {
+            "sentence": "In the Qing dynasty, mandarins wore rank badges with animal motifs.",
+            "sentence_zh": "清朝官吏的补子上绣有象征品级的动物纹样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "柑橘",
+        "examples": [
+          {
+            "sentence": "This mandarin is so sweet it tastes like candy!",
+            "sentence_zh": "这颗柑橘甜得像糖果！"
+          },
+          {
+            "sentence": "During Spring Festival, every family displays mandarins for good luck.",
+            "sentence_zh": "春节期间家家户户都会摆柑橘讨吉利。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "(中国式)紧身马褂的",
+        "examples": [
+          {
+            "sentence": "The cheongsam shop sells mandarin-collar jackets.",
+            "sentence_zh": "这家旗袍店售卖立领马褂。"
+          },
+          {
+            "sentence": "His mandarin-style coat had exquisite frog buttons.",
+            "sentence_zh": "他的中式立领外套配有精美的盘扣。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mandarin duck",
+        "meaning": "鸳鸯",
+        "examples": [
+          {
+            "sentence": "The mandarin ducks in the pond symbolize marital harmony.",
+            "sentence_zh": "池塘里的鸳鸯象征着婚姻和睦。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "mandarin dialect",
+        "meaning": "官话方言",
+        "examples": [
+          {
+            "sentence": "Sichuan dialect belongs to the Southwest Mandarin group.",
+            "sentence_zh": "四川话属于西南官话区。"
+          }
+        ]
+      }
+    ],
+    "teach": "mandarin是语言界的老干妈🌶️！它既是'官腔'（bureaucratic tone）也是'砂糖橘'（tangerine），清朝官员的补子就像现代工牌👔（mandarin's rank badge）。说'塑料普通话'是broken Mandarin，'京片子'叫Beijing Mandarin。记住：当你吃橘子时，你正在啃一个清朝官员🧡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'满大人'→清朝满大人(Mandarin)说官话",
+        "易混词：tangerine(普通柑橘) vs. mandarin(中国柑橘品种)"
+      ]
+    }
   }
 ]

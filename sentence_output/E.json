@@ -12720,5 +12720,291 @@
         "易混词：eider vs. spider（蜘蛛鸭？）"
       ]
     }
+  },
+  {
+    "word": "eiderdown",
+    "etymology": {
+      "breakdown": [
+        "eider",
+        "down"
+      ],
+      "meaning_connection": "eider指绒鸭（能产优质绒毛的北极海鸭），down即绒毛，合指'绒鸭的羽绒'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "鸭绒",
+        "examples": [
+          {
+            "sentence": "The Inuit hunters collect eiderdown without harming the ducks.",
+            "sentence_zh": "因纽特猎人采集鸭绒时不会伤害绒鸭。"
+          },
+          {
+            "sentence": "This pillow is stuffed with Icelandic eiderdown.",
+            "sentence_zh": "这个枕头填充着冰岛鸭绒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "鸭绒被",
+        "examples": [
+          {
+            "sentence": "Her eiderdown looks like a giant marshmallow on the bed.",
+            "sentence_zh": "她的鸭绒被在床上像个巨型棉花糖。"
+          },
+          {
+            "sentence": "The royal family used eiderdowns as diplomatic gifts in Viking times.",
+            "sentence_zh": "维京时代王室将鸭绒被作为外交礼物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eiderdown jacket",
+        "meaning": "鸭绒夹克",
+        "examples": [
+          {
+            "sentence": "His eiderdown jacket can withstand -50°C in Siberia.",
+            "sentence_zh": "他的鸭绒夹克能在西伯利亚抵御零下50度严寒。"
+          }
+        ]
+      }
+    ],
+    "teach": "eiderdown是羽绒界的爱马仕🦆！北欧人会在绒鸭离巢后偷走巢中绒毛（可持续采集），而鸭绒被贵过iPhone📱！要说'暖和得像在鸭绒被里'说snug as a bug in a rug🛏️，'轻如鸿毛'可以说light as eiderdown。记住：这不是普通鸭毛，是绒鸭胸口的超级绒毛💎！",
+    "recite": {
+      "tips": [
+        "谐音梗：'挨着down'→冷到要挨着鸭绒被",
+        "易混词对比：down泛指绒毛，eiderdown特指绒鸭绒毛",
+        "记忆tip：联想字母'e'像绒鸭侧影"
+      ]
+    }
+  },
+  {
+    "word": "eigenvalue",
+    "etymology": {
+      "breakdown": [
+        "eigen",
+        "value"
+      ],
+      "meaning_connection": "源自德语eigen（自己的）+英语value（值）→表示矩阵自身特有的数值特征"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "特征值",
+        "examples": [
+          {
+            "sentence": "The eigenvalues of this matrix determine the stability of the system.",
+            "sentence_zh": "该矩阵的特征值决定了系统的稳定性。"
+          },
+          {
+            "sentence": "Finding eigenvalues is like discovering a material's unique fingerprint.",
+            "sentence_zh": "求特征值就像发现材料独特的指纹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dominant eigenvalue",
+        "meaning": "主导特征值",
+        "examples": [
+          {
+            "sentence": "The dominant eigenvalue explains 90% of the variance in this model.",
+            "sentence_zh": "主导特征值解释了该模型90%的方差。"
+          }
+        ]
+      }
+    ],
+    "teach": "特征值就是数学里的DNA🧬！德国数学家Hilbert研究量子力学时借用了eigen这个词，就像用'奥利给'形容独特能量💥。说'关键因素'可以叫the dominant eigenvalue，计算特征值就像给矩阵做体检🏥。记住：每个矩阵都有自己傲娇的eigenvalue！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱根歪六'→爱的根源歪了六度（特征值偏差）",
+        "易混词对比：eigenvalue(特征值) vs. eigenvector(特征向量)→数值和方向的关系"
+      ]
+    }
+  },
+  {
+    "word": "eight",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "原始印欧语词根*oḱtōu，古英语eahta，与拉丁语octo同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "num.",
+        "meaning": "八",
+        "examples": [
+          {
+            "sentence": "The Eight Immortals are drinking wine in Chinese mythology.",
+            "sentence_zh": "神话中八仙正在饮酒作乐。"
+          },
+          {
+            "sentence": "Beijing Olympics opening ceremony began at 8:08 PM on 8/8/2008.",
+            "sentence_zh": "北京奥运会开幕式在2008年8月8日8点08分开始。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "num.",
+        "meaning": "八个",
+        "examples": [
+          {
+            "sentence": "She ate eight xiaolongbao in one go at Din Tai Fung.",
+            "sentence_zh": "她在鼎泰丰一口气吃了八个小笼包。"
+          },
+          {
+            "sentence": "The mahjong set contains eight flower tiles.",
+            "sentence_zh": "这副麻将包含八张花牌。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "figure eight",
+        "meaning": "八字形",
+        "examples": [
+          {
+            "sentence": "The skater drew perfect figure eights on the ice.",
+            "sentence_zh": "滑冰者在冰面上划出完美的八字形。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "behind the eight ball",
+        "meaning": "处于困境",
+        "examples": [
+          {
+            "sentence": "After forgetting his wife's birthday, he was behind the eight ball for a month.",
+            "sentence_zh": "忘记妻子生日后，他整整一个月都处于水深火热中。"
+          }
+        ]
+      }
+    ],
+    "teach": "数字8在中国是锦鲤🐟！因为谐音'发'，连奥运会都要选2008/8/8开幕🎉。英语中'behind the eight ball'（像台球被8号球挡住）表示倒霉😵，而'figure eight'扭成∞就像吃撑的贪吃蛇🐍。想祝人发财就说'May you have eights in your life!'",
+    "recite": {
+      "tips": [
+        "谐音梗：'诶特'→诶特(eight)别吃了，这是第八个包子了",
+        "文化梗：广东话'8'发音似'发'，所以888=发发发",
+        "记忆法：数字8横过来是∞无穷符号"
+      ]
+    }
+  },
+  {
+    "word": "eighteen",
+    "etymology": {
+      "breakdown": [
+        "eight",
+        "teen"
+      ],
+      "meaning_connection": "eight（八） + teen（后缀表10-19）→ 字面意思是'比十再多八'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "num.",
+        "meaning": "十八",
+        "examples": [
+          {
+            "sentence": "In China, eighteen is considered an auspicious age for graduation photoshoots.",
+            "sentence_zh": "在中国，十八岁被认为是拍毕业写真的吉利年龄。"
+          },
+          {
+            "sentence": "The viral douyin challenge requires eating eighteen dumplings in one minute.",
+            "sentence_zh": "抖音热门挑战要求一分钟吃十八个饺子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "num.",
+        "meaning": "十八个",
+        "examples": [
+          {
+            "sentence": "She bought eighteen limited edition milk tea flavors for her collection.",
+            "sentence_zh": "她买了十八个限量版奶茶口味作收藏。"
+          },
+          {
+            "sentence": "The panda ate eighteen bamboo shoots while livestreaming.",
+            "sentence_zh": "这只熊猫在直播时吃了十八根竹笋。"
+          }
+        ]
+      }
+    ],
+    "teach": "十八岁就像刚出炉的小笼包🥟——热气腾腾又烫手！西方用'sweet eighteen'形容青春，中文说'二九年华'（2×9=18）。说'刚成年'可以用wet behind the ears（耳朵后面还湿着），买奶茶时说'要十八颗珍珠'就叫bubble overload（珍珠超载）🧋💥。记住：你的十八岁值得用emoji连环炸：(1)🎂 (2)🎓 (3)💃",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱听'→十八岁最爱听'你成年啦'",
+        "易混词对比：eighth（第八）vs eighteen（十八）",
+        "记忆tip：把1和8想象成糖葫芦签子串起的两个山楂球🍡"
+      ]
+    }
+  },
+  {
+    "word": "eighteenth",
+    "etymology": {
+      "breakdown": [
+        "eight",
+        "teen",
+        "th"
+      ],
+      "meaning_connection": "eight（八）+ teen（十几的后缀）+ th（序数词后缀）→ 第十八"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "num.",
+        "meaning": "第十八",
+        "examples": [
+          {
+            "sentence": "The eighteenth hole in golf is often the most challenging.",
+            "sentence_zh": "高尔夫球场的第18洞通常是难度最高的。"
+          },
+          {
+            "sentence": "She was born on the eighteenth floor of a Beijing skyscraper.",
+            "sentence_zh": "她出生在北京某摩天大楼的第18层。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "num.",
+        "meaning": "十八分之一",
+        "examples": [
+          {
+            "sentence": "Only one eighteenth of the moon was visible during the eclipse.",
+            "sentence_zh": "月食期间只能看到月球的十八分之一。"
+          },
+          {
+            "sentence": "He inherited an eighteenth share of his grandfather's hotpot restaurant chain.",
+            "sentence_zh": "他继承了祖父火锅连锁店的十八分之一股份。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the eighteenth century",
+        "meaning": "18世纪",
+        "examples": [
+          {
+            "sentence": "Qing Dynasty reached its peak in the eighteenth century.",
+            "sentence_zh": "清朝在18世纪达到鼎盛时期。"
+          }
+        ]
+      }
+    ],
+    "teach": "eighteenth是数字界的'老十八'🎂！想象把生日蛋糕切成18份，拿到的就是eighteenth（十八分之一）🧁。18世纪中国还在用'乾隆通宝'铜钱💰，现代人却说'十八年后又是一条好汉'🤺。记住：'18岁成年'叫come of age，'18层地狱'是the eighteenth level of hell🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱听诗'→乾隆爷在18世纪(the eighteenth century)最爱听诗",
+        "易混词对比：eighteen（十八） vs. eighteenth（第十八）",
+        "记忆tip：18=要发，eighteenth就是'要发序'（序数词）"
+      ]
+    }
   }
 ]
