@@ -4783,5 +4783,282 @@
         "易混词对比：holy（宗教神圣） vs saintly（品德高尚）"
       ]
     }
+  },
+  {
+    "word": "saint",
+    "etymology": {
+      "breakdown": [
+        "saint"
+      ],
+      "meaning_connection": "来自拉丁语sanctus，表示'神圣的'，与sanctuary（避难所）同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣徒（基督教正式册封的）",
+        "examples": [
+          {
+            "sentence": "St. Patrick is the patron saint of Ireland.",
+            "sentence_zh": "圣帕特里克是爱尔兰的主保圣人。"
+          },
+          {
+            "sentence": "The church celebrates All Saints' Day with special hymns.",
+            "sentence_zh": "教堂用特殊圣歌庆祝诸圣节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "道德高尚的人",
+        "examples": [
+          {
+            "sentence": "My grandma was a real saint who helped stray animals.",
+            "sentence_zh": "我奶奶是真正的好心人，经常帮助流浪动物。"
+          },
+          {
+            "sentence": "Teachers dealing with 50 kids daily are modern-day saints.",
+            "sentence_zh": "每天面对50个孩子的老师简直是当代圣人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "神圣的",
+        "examples": [
+          {
+            "sentence": "The saint relics are kept in golden boxes.",
+            "sentence_zh": "圣物被保存在金盒中。"
+          },
+          {
+            "sentence": "She has a saint patience with her toddler's tantrums.",
+            "sentence_zh": "她对幼儿的哭闹有着圣人般的耐心。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "saint's day",
+        "meaning": "圣徒纪念日",
+        "examples": [
+          {
+            "sentence": "Valentine's Day originated from a saint's day.",
+            "sentence_zh": "情人节最初是圣瓦伦丁的纪念日。"
+          }
+        ]
+      }
+    ],
+    "teach": "saint其实是个'人形锦鲤'🎏！中世纪的圣徒像今天的网红——圣方济各能和鸟说话🐦，圣克里斯托弗是Uber司机始祖🚖（传说背耶稣过河）。'装圣人'叫holier-than-thou，'假慈悲'说sanctimonious。记住：真saint自带光环✨，假saint只会发朋友圈鸡汤📱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闪特'→圣人会发光所以'闪特'",
+        "易混词：saint（圣徒） vs. sain（古语'画十字'）"
+      ]
+    }
+  },
+  {
+    "word": "saintliness",
+    "etymology": {
+      "breakdown": [
+        "saint",
+        "li",
+        "ness"
+      ],
+      "meaning_connection": "saint（圣人）+ -li（古英语'类似'）+ -ness（名词后缀）→ 像圣人般的品质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣洁",
+        "examples": [
+          {
+            "sentence": "The saintliness of the Dalai Lama's smile could melt glaciers.",
+            "sentence_zh": "达赖喇嘛笑容中的圣洁足以融化冰川。"
+          },
+          {
+            "sentence": "Her white robe symbolized spiritual saintliness in the temple.",
+            "sentence_zh": "她的白袍象征着庙宇中的精神圣洁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "慈爱",
+        "examples": [
+          {
+            "sentence": "The stray cat was saved by the old man's saintliness.",
+            "sentence_zh": "流浪猫因老人的慈爱获救。"
+          },
+          {
+            "sentence": "Mother Teresa's saintliness shone through her wrinkled hands.",
+            "sentence_zh": "特蕾莎修女的慈爱从她皱纹密布的双手中流露。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "至善",
+        "examples": [
+          {
+            "sentence": "Buddhist monks pursue saintliness through meditation.",
+            "sentence_zh": "佛教僧侣通过冥想追求至善。"
+          },
+          {
+            "sentence": "The saintliness of his final act redeemed his lifetime of sins.",
+            "sentence_zh": "他临终之举的至善救赎了毕生罪孽。"
+          }
+        ]
+      }
+    ],
+    "teach": "saintliness是圣光滤镜✨！就像西游记里唐僧头顶的佛光☀️，既能净化妖气（圣洁），又能感化悟空（慈爱），最后取得真经（至善）。形容'道德模范'可以说walking saint（行走的圣人），'假装神圣'叫holier-than-thou（装逼犯）。记住：真正的saintliness是连WiFi密码都设为'阿弥陀佛'📿！",
+    "recite": {
+      "tips": [
+        "谐音梗：'圣特丽'→圣母特丽(saintliness)的慈爱",
+        "易混词对比：holiness（神圣性）更侧重宗教性，saintliness更强调品德"
+      ]
+    }
+  },
+  {
+    "word": "sake",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'sacu'（争论），与德语'Sache'（事情）同源，原指'争议中的利益'，后演变为'目的/理由'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "目的",
+        "examples": [
+          {
+            "sentence": "He learned Python for the sake of automating his WeChat replies.",
+            "sentence_zh": "他学Python是为了自动回复微信消息。"
+          },
+          {
+            "sentence": "The hotpot restaurant stays open late for the sake of night owls.",
+            "sentence_zh": "这家火锅店为夜猫子营业到深夜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "缘故",
+        "examples": [
+          {
+            "sentence": "Just for the sake of our 10-year friendship, I'll help you move.",
+            "sentence_zh": "看在我们十年交情的份上，我帮你搬家。"
+          },
+          {
+            "sentence": "Don't argue for argument's sake during family gatherings.",
+            "sentence_zh": "家庭聚会时不要为了抬杠而争论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "理由",
+        "examples": [
+          {
+            "sentence": "The sake of national security overrides personal privacy concerns.",
+            "sentence_zh": "国家安全的理由高于个人隐私考虑。"
+          },
+          {
+            "sentence": "She quit her job for the sake of her mental health.",
+            "sentence_zh": "她为了心理健康辞职。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "for the sake of",
+        "meaning": "为了...起见",
+        "examples": [
+          {
+            "sentence": "For the sake of time, let's order takeout instead of cooking.",
+            "sentence_zh": "为了节省时间，咱们点外卖吧别做饭了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "for God's sake",
+        "meaning": "看在老天的份上（强烈请求）",
+        "examples": [
+          {
+            "sentence": "For God's sake, stop sending me Pinduoduo group invites!",
+            "sentence_zh": "求求你别再给我发拼多多砍一刀了！"
+          }
+        ]
+      }
+    ],
+    "teach": "sake其实是'社恐福音词'🤫！当你想婉拒社交时可以说'for health's sake'（为了健康着想），追星时说'for art's sake'（为艺术而艺术）瞬间高大上🎨。日本清酒也叫sake，因为古人酿酒是'为了神灵的缘由'⛩️。记住：'for meme's sake'（为了玩梗）是当代年轻人最强理由😂！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛克'→为了电竞比赛(sake)的胜利",
+        "易混词：sake vs seek（前者是理由，后者是寻找）",
+        "记忆口诀：有sake不stake（不赌注），做事讲理由"
+      ]
+    }
+  },
+  {
+    "word": "salaam",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自阿拉伯语'salām'（和平）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "额手礼",
+        "examples": [
+          {
+            "sentence": "The diplomat performed a graceful salaam upon entering the palace.",
+            "sentence_zh": "外交官进入宫殿时行了优雅的额手礼。"
+          },
+          {
+            "sentence": "In some cultures, a salaam is more respectful than a handshake.",
+            "sentence_zh": "在某些文化中，额手礼比握手更显尊重。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "问安",
+        "examples": [
+          {
+            "sentence": "He greeted the elders with a traditional salaam.",
+            "sentence_zh": "他用传统的问安方式向长辈致意。"
+          },
+          {
+            "sentence": "The merchant exchanged salaams with his customers before business.",
+            "sentence_zh": "商人在交易前与顾客互致问安。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "行额手礼",
+        "examples": [
+          {
+            "sentence": "Visitors are expected to salaam when meeting the sheikh.",
+            "sentence_zh": "访客见酋长时需要行额手礼。"
+          },
+          {
+            "sentence": "The dancers salaamed in perfect synchronization at the finale.",
+            "sentence_zh": "舞者在终场时完美同步地行了额手礼。"
+          }
+        ]
+      }
+    ],
+    "teach": "salaam其实是阿拉伯世界的'一键三连'🙏：既是动作（右手抚胸鞠躬）又是问候语（相当于'你好'），就像古装剧里'参见皇上'👑+跪拜动作二合一！现代用法中，'drop a salaam'可幽默表示'恭敬打招呼'，而假装严肃时说'I bid you salaam'立刻中东贵族附体🧞♂️。搭配学习：exchange salaams（互致问候）/deep salaam（大礼）",
+    "recite": {
+      "tips": [
+        "谐音梗：'啥浪漫'→行额手礼很浪漫",
+        "易混词对比：salmon（三文鱼）vs salaam（别把问候礼说成生鱼片）",
+        "动作记忆：想象右手从额头划到胸前再鞠躬90度"
+      ]
+    }
   }
 ]

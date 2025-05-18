@@ -5005,5 +5005,288 @@
         "记忆法：TALC=Touch And Less Cling（触碰后不粘）"
       ]
     }
+  },
+  {
+    "word": "talcum",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自阿拉伯语 talq，经中世纪拉丁语 talcum 进入英语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "滑石",
+        "examples": [
+          {
+            "sentence": "The artist used talcum to create smooth strokes in traditional Chinese painting.",
+            "sentence_zh": "这位艺术家用滑石粉在国画中画出流畅笔触。"
+          },
+          {
+            "sentence": "Hikers rub talcum on their feet to prevent blisters, just like ancient travelers did.",
+            "sentence_zh": "徒步者像古代旅人一样在脚上抹滑石粉防磨泡。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "talcum powder",
+        "meaning": "滑石粉",
+        "examples": [
+          {
+            "sentence": "Babies in the 1990s always smelled like talcum powder after baths.",
+            "sentence_zh": "90年代的婴儿洗完澡总是浑身滑石粉香。"
+          },
+          {
+            "sentence": "Magicians use talcum powder to make objects slide mysteriously across tables.",
+            "sentence_zh": "魔术师用滑石粉让物体在桌上神秘滑动。"
+          }
+        ]
+      }
+    ],
+    "teach": "talcum是矿物界的'溜冰鞋'⛸️！古埃及人用它做木乃伊干燥剂💀，维多利亚时代贵族用它防丝袜粘腿🧦。现在却被00后用来DIY止汗膏（mix with cornstarch）。说'扑粉'是dust with talcum，'顺滑如粉'说smooth as talc。记住：这包白色粉末能让你的生活丝滑到犯规！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太抠门'→用滑石粉(talcum)替代爽身粉省钱",
+        "易混词对比：chalk（粉笔粗糙）/talcum（细腻滑石）",
+        "记忆tip：联想TALC=Touch And Like Cream"
+      ]
+    }
+  },
+  {
+    "word": "tale",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'talu'指'叙述'，与荷兰语'taal'(语言)同源，本义为口头传达的内容"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "故事",
+        "examples": [
+          {
+            "sentence": "My grandma's tales about moon rabbits made me love Mid-Autumn Festival.",
+            "sentence_zh": "奶奶讲的月兔故事让我爱上中秋节。"
+          },
+          {
+            "sentence": "The Tale of Genji is considered the world's first novel.",
+            "sentence_zh": "《源氏物语》被认为是世界最早的小说。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "谎言",
+        "examples": [
+          {
+            "sentence": "His excuse about traffic jam was just a tall tale.",
+            "sentence_zh": "他关于堵车的借口只是个拙劣谎言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "谣言",
+        "examples": [
+          {
+            "sentence": "The tale about school closure spread faster than wildfire.",
+            "sentence_zh": "关于学校关闭的谣言传播得比野火还快。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fairy tale",
+        "meaning": "童话",
+        "examples": [
+          {
+            "sentence": "Chinese fairy tales often feature talking foxes.",
+            "sentence_zh": "中国童话常有会说话的狐狸。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tell tales",
+        "meaning": "告密",
+        "examples": [
+          {
+            "sentence": "Primary school kids hate classmates who tell tales to teachers.",
+            "sentence_zh": "小学生最讨厌向老师告密的同学。"
+          }
+        ]
+      }
+    ],
+    "teach": "tale这个词就像会72变的孙悟空🐒！当它是童话时像迪士尼城堡🏰（fairy tale），变谎言时像匹诺曹的长鼻子🤥（tall tale），成谣言时堪比微信群转发💬（spreading tales）。记住：'童话成真'叫come true，'谣言止于智者'英语是ill news runs apace！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒乐'→郭德纲讲相声忒乐(tale)了",
+        "易混对比：tail尾巴 vs tale故事→狐狸用tail写tale"
+      ]
+    }
+  },
+  {
+    "word": "talent",
+    "etymology": {
+      "breakdown": [
+        "tal",
+        "ent"
+      ],
+      "meaning_connection": "词根tal=重量/价值（源自希腊talanton货币单位），-ent表性质→原指'有价值的事物'，引申为'才能'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "天才",
+        "examples": [
+          {
+            "sentence": "Mozart's talent for composing music amazed Europe at age 5.",
+            "sentence_zh": "莫扎特五岁时就凭作曲天才震惊欧洲。"
+          },
+          {
+            "sentence": "Her talent in mimicking regional accents could fool even natives.",
+            "sentence_zh": "她模仿方言的天赋能连本地人都骗过。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "才能",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot eating is considered a special talent in Sichuan.",
+            "sentence_zh": "在四川，吃麻辣火锅被视为特殊才能。"
+          },
+          {
+            "sentence": "His talent for fixing smartphones saved our class trip photos.",
+            "sentence_zh": "他修手机的才能拯救了我们班级旅行的照片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "有才干的人",
+        "examples": [
+          {
+            "sentence": "Tech companies compete fiercely for AI talents like hunting for pandas.",
+            "sentence_zh": "科技公司争夺AI人才像抢大熊猫一样激烈。"
+          },
+          {
+            "sentence": "The talent show revealed a grandma who could breakdance.",
+            "sentence_zh": "达人秀涌现出一位会跳霹雳舞的老奶奶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "天资",
+        "examples": [
+          {
+            "sentence": "Her natural talent for languages made her master 5 dialects.",
+            "sentence_zh": "她的语言天资使其掌握了五种方言。"
+          },
+          {
+            "sentence": "The toddler's talent for climbing furniture worried his parents.",
+            "sentence_zh": "幼儿攀爬家具的天资让父母很头疼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "talent pool",
+        "meaning": "人才库",
+        "examples": [
+          {
+            "sentence": "Alibaba's talent pool includes ex-hawker stall math geniuses.",
+            "sentence_zh": "阿里的人才库包含曾经的夜市摊数学天才。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hidden talent",
+        "meaning": "隐藏才能",
+        "examples": [
+          {
+            "sentence": "Karaoke night uncovered our CEO's hidden talent for Cantonese opera.",
+            "sentence_zh": "唱K之夜暴露出CEO唱粤剧的隐藏才能。"
+          }
+        ]
+      }
+    ],
+    "teach": "talent其实是古代'钱袋子'💰→希腊用talanton衡量金银重量⚖️，后来变成衡量才能的单位。说'才华横溢'可译作bursting with talent像奶茶加爆珠🧋，而'怀才不遇'叫undiscovered talent就像未被挖掘的抖音神曲🎤。记住：你的talent可能正在快递柜等取件！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太能吐'→天才太能输出创意",
+        "易混词：gift侧重天赋，talent强调可发展的能力",
+        "记忆法：把tal-ent拆成'态度(tal)+进入(ent)'→用态度进入才能领域"
+      ]
+    }
+  },
+  {
+    "word": "talented",
+    "etymology": {
+      "breakdown": [
+        "talent",
+        "ed"
+      ],
+      "meaning_connection": "talent源于古希腊货币单位τάλαντον，后指'天赋'；-ed表形容词'具备...特性的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "天资高的",
+        "examples": [
+          {
+            "sentence": "The toddler who recites Tang poems is obviously talented.",
+            "sentence_zh": "这个会背唐诗的幼儿显然天资极高。"
+          },
+          {
+            "sentence": "Pandas are talented at pretending to be innocent while stealing keepers' snacks.",
+            "sentence_zh": "熊猫在偷饲养员零食时装无辜的天赋极高。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有才能的",
+        "examples": [
+          {
+            "sentence": "The chef talented in Sichuan cuisine opened 3 michelin-starred hotpot restaurants.",
+            "sentence_zh": "这位精通川菜的大厨开了三家米其林火锅店。"
+          },
+          {
+            "sentence": "WeChat's team is full of talented programmers who work like octopuses.",
+            "sentence_zh": "微信团队满是像章鱼般多才多艺的程序员。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "multi-talented",
+        "meaning": "多才多艺的",
+        "examples": [
+          {
+            "sentence": "The multi-talented star can rap, dance, and cook mapo tofu.",
+            "sentence_zh": "这位多才多艺的明星会说唱、跳舞还会做麻婆豆腐。"
+          }
+        ]
+      }
+    ],
+    "teach": "talented其实是'古希腊钱袋子'💰→词源talent本是货币单位，就像现在说'你值几个比特币'💻。夸人才能别说'good'而要说'doubly talented'（双倍才气），'全才'叫Renaissance person（文艺复兴式通才）🎨⚡🔭。记住：你的talent就像支付宝余额，关键要会提现！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太能疼的'→天才儿童让家长太能疼了",
+        "易混词：gifted（与生俱来）/skilled（后天习得）",
+        "联想法：talent+ed=天赋已加载完成"
+      ]
+    }
   }
 ]

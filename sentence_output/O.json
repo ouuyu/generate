@@ -4836,5 +4836,342 @@
         "联想：serv=serve（服务），观察就是为真相服务"
       ]
     }
+  },
+  {
+    "word": "observational",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "serv",
+        "ation",
+        "al"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根serv表示'保持/观察'，-ation为名词后缀，-al为形容词后缀→原指保持观察的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "观察的",
+        "examples": [
+          {
+            "sentence": "The panda keeper's observational skills spotted the pregnancy first.",
+            "sentence_zh": "熊猫饲养员的观察力最先发现了怀孕迹象。"
+          },
+          {
+            "sentence": "Her observational drawings of street food went viral on Xiaohongshu.",
+            "sentence_zh": "她观察记录的街头小吃素描在小红书爆火。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "观测的",
+        "examples": [
+          {
+            "sentence": "China's FAST telescope has unparalleled observational capabilities.",
+            "sentence_zh": "中国天眼拥有无与伦比的观测能力。"
+          },
+          {
+            "sentence": "The observational data of migratory birds relies on citizen scientists.",
+            "sentence_zh": "候鸟迁徙的观测数据依赖公民科学家的贡献。"
+          }
+        ]
+      }
+    ],
+    "teach": "observational是'盯梢力'🔭的学术说法！就像四川大爷观察麻将牌🀄能预判胡牌（observational skills），或天文爱好者熬夜追流星🌠（observational astronomy）。搭配说'keen observational power'像侦探柯南👓，吐槽'zero observational skills'就是地铁坐过站的路痴🧭。记住：不会observational，连奶茶新品都抢不到！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不servation了'→观察累了摆烂",
+        "易混词对比：observant（善于观察的）指人，observational指事物属性"
+      ]
+    }
+  },
+  {
+    "word": "observatory",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "serv",
+        "atory"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根serv表示'观察/保持'，后缀-atory表场所→'用于观察的场所'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "天文台",
+        "examples": [
+          {
+            "sentence": "The UFO footage was captured by the Purple Mountain Observatory.",
+            "sentence_zh": "这段UFO影像是紫金山天文台拍摄的。"
+          },
+          {
+            "sentence": "Ancient Chinese observatories tracked stars with bronze instruments.",
+            "sentence_zh": "中国古代天文台用青铜仪器观测星象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "气象台",
+        "examples": [
+          {
+            "sentence": "The observatory issued a typhoon alert for coastal provinces.",
+            "sentence_zh": "气象台向沿海省份发布了台风预警。"
+          },
+          {
+            "sentence": "Meteorologists at the observatory are analyzing El Niño data.",
+            "sentence_zh": "气象台的气象学家正在分析厄尔尼诺数据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "了望台",
+        "examples": [
+          {
+            "sentence": "The Great Wall's observatory towers could spot enemies 20 miles away.",
+            "sentence_zh": "长城烽火台能发现20英里外的敌军。"
+          },
+          {
+            "sentence": "Forest rangers use mountain observatories to monitor wildfires.",
+            "sentence_zh": "护林员用山地瞭望台监控森林火灾。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "radio observatory",
+        "meaning": "射电天文台",
+        "examples": [
+          {
+            "sentence": "FAST in Guizhou is the world's largest radio observatory.",
+            "sentence_zh": "贵州的FAST是世界最大射电天文台。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "mobile observatory",
+        "meaning": "移动观测站",
+        "examples": [
+          {
+            "sentence": "The eclipse chasers set up a mobile observatory in the desert.",
+            "sentence_zh": "追日族在沙漠搭建了移动观测站。"
+          }
+        ]
+      }
+    ],
+    "teach": "observatory其实是古代版'天空直播间'🔭！最早的天文台在巴比伦，祭司们用塔庙观星占卜✨。现代气象台像24小时天气主播⛈️，而长城烽火台就是古代的'无人机监控系统'🧱。搭配：'space observatory 太空望远镜'、'lighthouse observatory 灯塔瞭望台'。说'观星'可用stargazing，但千万别把observatory说成'观星台餐厅'哦🤣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不servatory'→我不(ob)服务(serv)的场所(-atory)",
+        "易混词对比：observatory（固定观测站） vs telescope（便携望远镜）",
+        "记忆法：记住三个'o'→观测(observe)+场所(place)=observatory"
+      ]
+    }
+  },
+  {
+    "word": "observe",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "serv",
+        "e"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根serv表示'保持/观察'，原指'保持注视'，引申出'注意到'和'遵守'等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "觉察到",
+        "examples": [
+          {
+            "sentence": "The teacher observed the student secretly eating spicy strips during class.",
+            "sentence_zh": "老师觉察到学生在课堂上偷偷吃辣条。"
+          },
+          {
+            "sentence": "She observed his WeChat status changing to 'in love'.",
+            "sentence_zh": "她觉察到他的微信状态变成了'恋爱中'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "遵守",
+        "examples": [
+          {
+            "sentence": "All drivers must observe traffic lights, especially when delivering takeout.",
+            "sentence_zh": "所有司机都必须遵守交通信号灯，尤其是送外卖时。"
+          },
+          {
+            "sentence": "We strictly observe the quarantine rules during epidemics.",
+            "sentence_zh": "疫情期间我们严格遵守隔离规定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "注意到",
+        "examples": [
+          {
+            "sentence": "Did you observe that Douyin's algorithm always recommends cat videos?",
+            "sentence_zh": "你注意到抖音算法总是推荐猫视频吗？"
+          },
+          {
+            "sentence": "The scientist observed the peculiar growth pattern of the plant.",
+            "sentence_zh": "科学家注意到了植物奇特的生长模式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "庆祝",
+        "examples": [
+          {
+            "sentence": "Many young people now observe Singles' Day by shopping online.",
+            "sentence_zh": "现在许多年轻人通过网购来庆祝双十一。"
+          },
+          {
+            "sentence": "Our company observes traditional festivals with cultural activities.",
+            "sentence_zh": "我们公司用文化活动庆祝传统节日。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "注意",
+        "examples": [
+          {
+            "sentence": "Observe carefully when the teacher demonstrates the experiment.",
+            "sentence_zh": "老师演示实验时要仔细观察。"
+          },
+          {
+            "sentence": "Tourists should observe before taking photos at sacred sites.",
+            "sentence_zh": "游客在圣地拍照前应当先注意观察。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "评论",
+        "examples": [
+          {
+            "sentence": "The expert observed on the live stream about the new policy.",
+            "sentence_zh": "专家在直播中就新政策发表了评论。"
+          },
+          {
+            "sentence": "She observed humorously on the similarity between memes across cultures.",
+            "sentence_zh": "她幽默地评论了不同文化间表情包的相似性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "observe silence",
+        "meaning": "保持沉默",
+        "examples": [
+          {
+            "sentence": "The whole office observed silence during the online meeting.",
+            "sentence_zh": "整个办公室在线上会议期间都保持沉默。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "observe the rules",
+        "meaning": "遵守规则",
+        "examples": [
+          {
+            "sentence": "E-sports players must strictly observe the competition rules.",
+            "sentence_zh": "电竞选手必须严格遵守比赛规则。"
+          }
+        ]
+      }
+    ],
+    "teach": "observe就像多功能监控摄像头📹！当它表示'觉察'时像发现室友偷吃你的外卖🍔（observed the missing dumplings）；'遵守'时像乖乖扫场所码📱（observe QR code rules）；'庆祝'时像过春节放电子鞭炮🧨（observe Spring Festival）；'评论'时像直播间的弹幕专家💬（observing on current events）。记住：这词从物理观察到精神遵守都能用！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不serv'→我不服务(observe)就要遵守规则",
+        "易混词对比：observe强调系统性观察，notice是偶然注意"
+      ]
+    }
+  },
+  {
+    "word": "observed",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "serv",
+        "ed"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根serv表示'保持/注意'，-ed表形容词→'保持关注的'引申为'观察的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "观测的",
+        "examples": [
+          {
+            "sentence": "The observed data from the space telescope surprised astronomers.",
+            "sentence_zh": "太空望远镜的观测数据让天文学家们大吃一惊。"
+          },
+          {
+            "sentence": "Pandas' observed behaviors help zoologists understand their mating habits.",
+            "sentence_zh": "对熊猫的观测行为帮助动物学家了解它们的交配习性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "观察的",
+        "examples": [
+          {
+            "sentence": "The observed effect of this traditional medicine is being studied.",
+            "sentence_zh": "这种传统药物的观察效果正在被研究。"
+          },
+          {
+            "sentence": "Her observed performance in the internship earned her a job offer.",
+            "sentence_zh": "她在实习期间的观察表现为她赢得了一份工作机会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "observed phenomenon",
+        "meaning": "观察到的现象",
+        "examples": [
+          {
+            "sentence": "The northern lights are one of nature's most spectacular observed phenomena.",
+            "sentence_zh": "北极光是自然界最壮观的观察到的现象之一。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "observed behavior",
+        "meaning": "观察到的行为",
+        "examples": [
+          {
+            "sentence": "The psychologist recorded the child's observed behavior during playtime.",
+            "sentence_zh": "心理学家记录了孩子在玩耍时观察到的行为。"
+          }
+        ]
+      }
+    ],
+    "teach": "observed就像科学家的第三只眼👁️！古人观星象叫'observing the sky'🌌，现代人刷短视频大数据也在'observed behavior'📱。搭配'obvious difference'（明显差异）和'keen observer'（敏锐观察者），吐槽'被发现划水'可以说caught red-handed🖐️。记住：当观察者比当被观察者更安全！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不served'→我不被观察(observed)就不上菜",
+        "易混词对比：observed（被观察的） vs observer（观察者）",
+        "记忆tip：ob-向前 + serv-服务 → 向前服务就是仔细观察"
+      ]
+    }
   }
 ]

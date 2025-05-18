@@ -4991,5 +4991,351 @@
         "记忆tip：想象果冻在跳《海草舞》"
       ]
     }
+  },
+  {
+    "word": "jeopardize",
+    "etymology": {
+      "breakdown": [
+        "jeopard",
+        "ize"
+      ],
+      "meaning_connection": "来自古法语'jeu parti'（游戏平分→胜负未定），后缀-ize表'使...化'→使处于危险境地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "危害",
+        "examples": [
+          {
+            "sentence": "Eating expired durians may jeopardize your friendship.",
+            "sentence_zh": "食用过期榴莲可能危害你的友谊。"
+          },
+          {
+            "sentence": "The fake news jeopardized the panda's reputation as a national treasure.",
+            "sentence_zh": "假新闻危害了大熊猫作为国宝的声誉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使受危困",
+        "examples": [
+          {
+            "sentence": "The typhoon jeopardized all the delivery riders outside.",
+            "sentence_zh": "台风使户外所有外卖骑手受危困。"
+          },
+          {
+            "sentence": "Her decision jeopardized the entire team's year-end bonus.",
+            "sentence_zh": "她的决定使整个团队的年终奖陷于危困。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使陷危地",
+        "examples": [
+          {
+            "sentence": "Posting travel vlogs in real-time may jeopardize your home security.",
+            "sentence_zh": "实时发布旅行vlog可能使你的住宅安全陷于危地。"
+          },
+          {
+            "sentence": "The leaked script jeopardized the surprise ending of the Spring Festival movie.",
+            "sentence_zh": "泄露的剧本使春节档电影的惊喜结局陷于危地。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jeopardize one's chances",
+        "meaning": "危及机会",
+        "examples": [
+          {
+            "sentence": "Being late jeopardized his chances of getting KFC's limited edition toys.",
+            "sentence_zh": "迟到使他获取肯德基限量玩具的机会岌岌可危。"
+          }
+        ]
+      }
+    ],
+    "teach": "jeopardize是危险游戏🎮的化身：源自法语'jeu parti'（五五开的赌局）🎲。用'危害'时像熊猫啃坏WiFi路由器🐼（jeopardize internet）；'使危困'时像外卖小哥暴雨中送餐🌧️；地道说法'玩火'叫play with fire🔥，'高风险'说high-stakes就像麻将杠上开花🀄。记住：每次冒险前先喊'杰宝带资'(jeopardize)！",
+    "recite": {
+      "tips": [
+        "谐音梗：'劫宝带资'→带着资金去冒险",
+        "易混词对比：endanger（客观危险） vs jeopardize（人为导致危险）"
+      ]
+    }
+  },
+  {
+    "word": "jeopardy",
+    "etymology": {
+      "breakdown": [
+        "jeo",
+        "pard",
+        "y"
+      ],
+      "meaning_connection": "来自古法语'jeu parti'（平分游戏）→原指胜负未定的棋局，引申为'风险'。后缀-y表状态，如同在'perjury'(伪证)中。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "危难",
+        "examples": [
+          {
+            "sentence": "The Great Wall putters were in real jeopardy when the rainstorm hit.",
+            "sentence_zh": "暴雨来袭时长城上的游客陷入真实危难。"
+          },
+          {
+            "sentence": "Panda habitats are in jeopardy due to bamboo flowering cycles.",
+            "sentence_zh": "因竹子开花周期，熊猫栖息地正面临危难。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "危险",
+        "examples": [
+          {
+            "sentence": "Eating hotpot while scrolling Douyin puts your phone in jeopardy.",
+            "sentence_zh": "边刷抖音边吃火锅会让手机处于危险中。"
+          },
+          {
+            "sentence": "The Forbidden City's wooden structures are in constant jeopardy of fire.",
+            "sentence_zh": "故宫木制建筑长期面临火灾危险。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in jeopardy",
+        "meaning": "处于危险中",
+        "examples": [
+          {
+            "sentence": "My Xiaolongbao's integrity was in jeopardy when the delivery guy took the stairs.",
+            "sentence_zh": "当外卖小哥走楼梯时，我的小笼包完整性岌岌可危。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "put sth in jeopardy",
+        "meaning": "使...陷入危险",
+        "examples": [
+          {
+            "sentence": "TikTok dances on the Great Wall put cultural relics in jeopardy.",
+            "sentence_zh": "在长城跳抖音舞蹈会使文物陷入危险。"
+          }
+        ]
+      }
+    ],
+    "teach": "jeopardy是游戏节目《危险边缘》的标题🎲，原意是'平分棋局'的古老赌博术语♟️。要说'危在旦夕'可以说hang by a thread（悬于一线），'高风险'叫high-stakes就像麻将清一色听牌🀄。记住：人生就像在瓷器店玩蹴鞠⚽——处处都是jeopardy！",
+    "recite": {
+      "tips": [
+        "谐音梗：'接怕的'→接到怕的事情就是危险",
+        "易混词：danger强调客观威胁，jeopardy强调胜负未定的风险",
+        "记忆法：把'jeopardy'拆成'jeo（接哦）+ pard（怕的）'"
+      ]
+    }
+  },
+  {
+    "word": "jerk",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "16世纪拟声词，模仿突然动作的声音，后引申出多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "性情古怪的人",
+        "examples": [
+          {
+            "sentence": "That jerk parked his bike in the elevator again!",
+            "sentence_zh": "那个怪人又把自行车停电梯里了！"
+          },
+          {
+            "sentence": "Don't be such a jerk by microwaving stinky tofu in the office.",
+            "sentence_zh": "别当办公室奇葩在微波炉热臭豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "急拉",
+        "examples": [
+          {
+            "sentence": "The fishing line gave a sudden jerk when the carp bit.",
+            "sentence_zh": "鲤鱼咬钩时鱼线猛地一抖。"
+          },
+          {
+            "sentence": "Her ponytail swung with every jerk of the roller coaster.",
+            "sentence_zh": "过山车每次急拉她的马尾都飞起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "肌肉抽搐",
+        "examples": [
+          {
+            "sentence": "A jerk in his eyelid betrayed his nervousness during the interview.",
+            "sentence_zh": "面试时他眼皮抽搐暴露了紧张。"
+          },
+          {
+            "sentence": "The patient's leg jerks are being monitored by smart socks.",
+            "sentence_zh": "患者的腿部抽搐正被智能袜子监测。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "牛肉干",
+        "examples": [
+          {
+            "sentence": "This Sichuan-style jerk numbs your tongue with peppercorns.",
+            "sentence_zh": "这款川味牛肉干用花椒麻到你舌头跳舞。"
+          },
+          {
+            "sentence": "Airport jerks cost three times more than supermarket ones.",
+            "sentence_zh": "机场卖的牛肉干比超市贵三倍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "痉挛",
+        "examples": [
+          {
+            "sentence": "His hand jerked uncontrollably after 8 hours gaming.",
+            "sentence_zh": "连续打游戏8小时后他的手不受控地痉挛。"
+          },
+          {
+            "sentence": "The dog jerks in sleep as if chasing dream rabbits.",
+            "sentence_zh": "狗狗睡觉时抽搐像在追梦里的兔子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "急拉",
+        "examples": [
+          {
+            "sentence": "The metro train jerks when accelerating.",
+            "sentence_zh": "地铁加速时会突然急拉。"
+          },
+          {
+            "sentence": "She jerked back as the hot pot oil splashed.",
+            "sentence_zh": "火锅油溅起时她猛地后仰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "猛拉",
+        "examples": [
+          {
+            "sentence": "He jerked the stuck zipper and broke it completely.",
+            "sentence_zh": "他猛拉卡住的拉链结果彻底拉坏了。"
+          },
+          {
+            "sentence": "The fisherman jerked the rod to set the hook.",
+            "sentence_zh": "渔夫猛拉鱼竿让鱼钩刺牢。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jerk off",
+        "meaning": "急刹车",
+        "examples": [
+          {
+            "sentence": "The e-bike jerked off when a cat crossed the road.",
+            "sentence_zh": "电动车因一只猫过马路而急刹。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "knee-jerk reaction",
+        "meaning": "膝跳反应式回应",
+        "examples": [
+          {
+            "sentence": "His knee-jerk reaction to criticism was deleting the post.",
+            "sentence_zh": "他对批评的膝跳反应是删帖。"
+          }
+        ]
+      }
+    ],
+    "teach": "jerk这词像抽搐的兔子腿🐰！作名词时既是'怪咖'（office jerk）也是'牛肉干'（spicy jerk）🥩，作动词时像抽筋的腿（muscle jerk）又像甩鱼竿（jerk the rod）🎣。说人'怪'可以用oddball，'猛拉窗帘'叫yank the curtains。记住：jerk的多重人格就像重庆的天气——说变就变！🌦️",
+    "recite": {
+      "tips": [
+        "谐音梗：'姐渴'→姐渴了猛拉(jerk)冰箱门",
+        "易混词：twerk（电臀舞）和jerk（抽搐）"
+      ]
+    }
+  },
+  {
+    "word": "jerkily",
+    "etymology": {
+      "breakdown": [
+        "jerk",
+        "ily"
+      ],
+      "meaning_connection": "词根jerk表示'抽动'，后缀-ily构成副词→像触电般的动作方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "痉挛性地",
+        "examples": [
+          {
+            "sentence": "The fishing line moved jerkily as the sturgeon struggled.",
+            "sentence_zh": "鱼线随着鲟鱼的挣扎而痉挛性抽动。"
+          },
+          {
+            "sentence": "His left eyelid twitched jerkily after 72 hours of gaming.",
+            "sentence_zh": "连续72小时游戏后，他的左眼睑开始痉挛性抽搐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "颠簸地",
+        "examples": [
+          {
+            "sentence": "The tractor moved jerkily along the muddy country road.",
+            "sentence_zh": "拖拉机在泥泞的乡间小路上颠簸前行。"
+          },
+          {
+            "sentence": "Our jeep progressed jerkily through the Gobi Desert like a drunken camel.",
+            "sentence_zh": "我们的吉普车像醉酒的骆驼一样在戈壁滩上颠簸行进。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "move jerkily",
+        "meaning": "不平稳移动",
+        "examples": [
+          {
+            "sentence": "The old elevator moves jerkily like a sick dragon.",
+            "sentence_zh": "旧电梯像生病的龙一样不平稳运行。"
+          }
+        ]
+      }
+    ],
+    "teach": "jerkily是'抖音式移动'📱！想象：1) 打嗝时脖子的抽动🤯就是jerkily痉挛 2) 坐拖拉机吃火锅🍲时汤洒出来的节奏就是jerkily颠簸 3) 实用搭配：'jerkily unstable像5G信号📶' 4) 地道说法：'bumpy as a kangaroo ride袋鼠式颠簸' 5) 记住这三个画面：触电的猫🐱/卡顿的视频📹/跳跳糖在舌头上爆炸💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'这颗粒'→这颗粒(jerkily)卡喉的呛咳动作",
+        "易混词对比：jerkily(不自主抽动) vs. bumpily(被动颠簸)",
+        "记忆tip：把y看成歪歪扭扭的轨迹线"
+      ]
+    }
   }
 ]

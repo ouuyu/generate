@@ -4879,5 +4879,344 @@
         "易混词：around强调动态环绕，about侧重静态周边"
       ]
     }
+  },
+  {
+    "word": "abound",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "ound"
+      ],
+      "meaning_connection": "前缀ab-表示'远离'，词根und表示'波浪'→原指如潮水般涌来，引申为'大量存在'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "大量存在",
+        "examples": [
+          {
+            "sentence": "Pandas abound in Sichuan's bamboo forests like delivery riders in a business district.",
+            "sentence_zh": "四川竹林中大熊猫大量存在，就像商务区的快递小哥一样多。"
+          },
+          {
+            "sentence": "Meme templates abound during major internet events.",
+            "sentence_zh": "每逢网络大事件时，表情包模板就会大量涌现。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "富于",
+        "examples": [
+          {
+            "sentence": "Chinese cuisine abounds with creative uses of chili oil.",
+            "sentence_zh": "中餐富于辣椒油的创造性用法。"
+          },
+          {
+            "sentence": "The Douyin platform abounds in dance challenges.",
+            "sentence_zh": "抖音平台富于舞蹈挑战内容。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "充满",
+        "examples": [
+          {
+            "sentence": "Night markets abound with the aroma of stinky tofu.",
+            "sentence_zh": "夜市充满臭豆腐的香气。"
+          },
+          {
+            "sentence": "Group chats abound with 'good morning' GIFs from aunties.",
+            "sentence_zh": "微信群聊里充满阿姨们的早安动图。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abound in/with",
+        "meaning": "充满...",
+        "examples": [
+          {
+            "sentence": "Hangzhou's West Lake abounds in romantic legends.",
+            "sentence_zh": "杭州西湖充满浪漫传说。"
+          }
+        ]
+      }
+    ],
+    "teach": "abound是'多到溢出来'🍜！想象火锅里的毛肚多到扑出来（abounds in tripe），就像双11的快递仓库📦（goods abound）。说'资源丰富'可用resources abound like hotpot ingredients，'信息爆炸'叫information abounds如同弹幕💥。记住：看到-abound就想到'啊！爆的！'",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅胖的'→池塘里鹅胖得因为鱼虾 abound",
+        "易混词对比：abundant（adj.）是形容词形式",
+        "记忆 tip：联想 abound = a(一个) + bound(边界)→突破边界地多"
+      ]
+    }
+  },
+  {
+    "word": "above",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bove"
+      ],
+      "meaning_connection": "前缀a-表示'在...之上'，古英语bove来自'be-ove'（在...上方）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "prep.",
+        "meaning": "在...上方",
+        "examples": [
+          {
+            "sentence": "The drone hovered 50 meters above the Terracotta Army.",
+            "sentence_zh": "无人机在兵马俑上方50米处悬停。"
+          },
+          {
+            "sentence": "She hung a lantern above the doorway for Lunar New Year.",
+            "sentence_zh": "她在门口挂上灯笼迎接农历新年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "prep.",
+        "meaning": "超出",
+        "examples": [
+          {
+            "sentence": "His score was above average in the gaokao English test.",
+            "sentence_zh": "他高考英语成绩超出平均水平。"
+          },
+          {
+            "sentence": "This luxury bag is priced above my pay grade.",
+            "sentence_zh": "这个奢侈品包包的定价超出了我的工资级别。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "在上面",
+        "examples": [
+          {
+            "sentence": "Look at the fireworks exploding above!",
+            "sentence_zh": "看烟花在上面绽放！"
+          },
+          {
+            "sentence": "The mountain peak was hidden in clouds above.",
+            "sentence_zh": "山峰隐藏在云层上方。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "上述的",
+        "examples": [
+          {
+            "sentence": "Please refer to the above diagram for WeChat payment steps.",
+            "sentence_zh": "请参考上述图表了解微信支付步骤。"
+          },
+          {
+            "sentence": "The above examples demonstrate typical usage.",
+            "sentence_zh": "上述例子展示了典型用法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "上面的",
+        "examples": [
+          {
+            "sentence": "The above compartment is for chopsticks in this lunchbox.",
+            "sentence_zh": "这个餐盒上面的格子是放筷子的。"
+          },
+          {
+            "sentence": "Sign your name on the above line.",
+            "sentence_zh": "在上面的横线上签名。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "above all",
+        "meaning": "最重要的是",
+        "examples": [
+          {
+            "sentence": "Above all, remember to scan the health QR code when entering.",
+            "sentence_zh": "最重要的是，进入时记得扫描健康码。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "above board",
+        "meaning": "光明正大",
+        "examples": [
+          {
+            "sentence": "Their mahjong game was completely above board.",
+            "sentence_zh": "他们的麻将比赛完全光明正大。"
+          }
+        ]
+      }
+    ],
+    "teach": "above就像火锅的'上浮层'🍲：漂浮的肉片在上方(prep.)，超出预算的毛肚在价格之上(prep.)，调料架在上方(adv.)，菜单上划勾的是你要的(adj.)。说'高端大气上档次'可以翻译为'high-end and above board'🎩。记住：当你说'above average'时，就像在夸火锅汤底比海底捞还好！🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱抱'→爱抱(above)着你的位置在上方",
+        "易混词对比：over强调垂直正上方，above可指斜上方",
+        "记忆tip：想象支付宝(Alipay)图标浮在手机屏幕上方的样子"
+      ]
+    }
+  },
+  {
+    "word": "abrade",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "rade"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根rade来自拉丁语radere（刮擦）→字面意思是'刮离表面'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "擦伤",
+        "examples": [
+          {
+            "sentence": "The cat's claws accidentally abraded my new sofa.",
+            "sentence_zh": "猫爪意外擦伤了我的新沙发。"
+          },
+          {
+            "sentence": "Rough surfboards can abrade beginners' skin.",
+            "sentence_zh": "粗糙的冲浪板会擦伤初学者的皮肤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "磨损",
+        "examples": [
+          {
+            "sentence": "Millions of footsteps have abraded the stone stairs of the Great Wall.",
+            "sentence_zh": "无数脚步磨损了长城的石阶。"
+          },
+          {
+            "sentence": "Constant friction abrades the brake pads over time.",
+            "sentence_zh": "持续的摩擦会逐渐磨损刹车片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "磨",
+        "examples": [
+          {
+            "sentence": "Artisans abrade jade with special grindstones.",
+            "sentence_zh": "工匠用特殊磨石打磨玉石。"
+          },
+          {
+            "sentence": "Wind abrades rocks into strange shapes in the Gobi Desert.",
+            "sentence_zh": "在戈壁滩，风把岩石磨蚀成奇特形状。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abrade against",
+        "meaning": "与...摩擦",
+        "examples": [
+          {
+            "sentence": "The rope abraded against the sharp rock edge during the climb.",
+            "sentence_zh": "攀登时绳索与锋利的岩石边缘不断摩擦。"
+          }
+        ]
+      }
+    ],
+    "teach": "abrade是'物理版PS'🖌️！想象用砂纸(abrade)磨掉照片上讨厌的前任👋，这就是它的精髓！古人用'abrasive'（研磨剂）抛光青铜器⚱️，现代人用磨砂膏(abrade skin)去角质🧖‍♀️。说'膝盖擦伤'可以用road rash（马路皮疹）这个地道表达。记住：abrade就像你妈用钢丝球擦锅底🔥，区别只是对象可能是你的心💔",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿伯累的'→阿伯用砂纸(abrade)磨家具累倒了",
+        "易混词对比：abrade（物理磨损） vs erode（化学腐蚀）",
+        "记忆tip：ab+rade→'离开'(ab)时被'刮擦'(rade)"
+      ]
+    }
+  },
+  {
+    "word": "abrasion",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "ras",
+        "ion"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根ras表示'擦/刮'，后缀-ion表名词→字面意思'被刮掉的部分'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "摩擦",
+        "examples": [
+          {
+            "sentence": "The abrasion of river rocks creates smooth pebbles over time.",
+            "sentence_zh": "河石的长期摩擦会形成光滑的鹅卵石。"
+          },
+          {
+            "sentence": "Panda's bamboo-eating causes dental abrasion similar to humans eating popcorn.",
+            "sentence_zh": "熊猫吃竹子造成的牙齿摩擦类似人类吃爆米花。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "磨损",
+        "examples": [
+          {
+            "sentence": "His jeans showed abrasion at the knees from skateboarding.",
+            "sentence_zh": "他的牛仔裤膝盖处因滑板运动出现了磨损。"
+          },
+          {
+            "sentence": "The Great Wall's stones bear centuries of wind abrasion.",
+            "sentence_zh": "长城的砖石承载着数个世纪的风蚀磨损。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "磨损处",
+        "examples": [
+          {
+            "sentence": "She put a Hello Kitty bandage on the knee abrasion.",
+            "sentence_zh": "她在膝盖磨损处贴了张Hello Kitty创可贴。"
+          },
+          {
+            "sentence": "The museum displayed ancient coins with visible abrasions.",
+            "sentence_zh": "博物馆展出的古钱币上有明显的磨损痕迹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abrasion resistance",
+        "meaning": "耐磨性",
+        "examples": [
+          {
+            "sentence": "This smartphone claims 10-level abrasion resistance like diamond.",
+            "sentence_zh": "这款手机宣称拥有钻石级的10级耐磨性。"
+          }
+        ]
+      }
+    ],
+    "teach": "abrasion是'磨人三件套'🧴🛹⏳：1) 古罗马人用abrasion原理抛光大理石雕像🗿 2) 想象你的手机屏（abrasion）和钥匙在包里'贴贴'就会刮花💔 3) 形容'破皮'说road rash比abrasion更地道 4) 记住：砂纸=abrasive paper，磨砂奶茶杯=abrasion-proof cup🍵",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊不累忍'→啊！磨损处让人不忍直视",
+        "易混词：erosion(自然侵蚀) vs abrasion(机械摩擦)"
+      ]
+    }
   }
 ]

@@ -4951,5 +4951,297 @@
         "记忆tip：拆解为idol+try→尝试成为偶像"
       ]
     }
+  },
+  {
+    "word": "idolize",
+    "etymology": {
+      "breakdown": [
+        "idol",
+        "ize"
+      ],
+      "meaning_connection": "idol=偶像，-ize=动词后缀→使...偶像化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把...当偶像崇拜",
+        "examples": [
+          {
+            "sentence": "Gen Z idolizes tech entrepreneurs more than movie stars.",
+            "sentence_zh": "Z世代把科技创业者当偶像崇拜的程度超过影星。"
+          },
+          {
+            "sentence": "She idolizes her yoga teacher's lifestyle.",
+            "sentence_zh": "她把瑜伽老师的生活方式奉为偶像。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "极端崇拜",
+        "examples": [
+          {
+            "sentence": "Fans idolize this K-pop group to the point of tattooing lyrics.",
+            "sentence_zh": "粉丝极端崇拜这个韩团，甚至把歌词纹在身上。"
+          },
+          {
+            "sentence": "Ancient Egyptians idolized cats as divine creatures.",
+            "sentence_zh": "古埃及人极端崇拜猫，视其为神圣生物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "醉心于",
+        "examples": [
+          {
+            "sentence": "He idolizes vintage cameras like others chase luxury watches.",
+            "sentence_zh": "他醉心于老式相机，如同别人追逐名表。"
+          },
+          {
+            "sentence": "Food bloggers idolize that hidden noodle shop in Chongqing.",
+            "sentence_zh": "美食博主们醉心于重庆那家隐蔽的面馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "崇拜偶像",
+        "examples": [
+          {
+            "sentence": "Teenagers naturally idolize during their formative years.",
+            "sentence_zh": "青少年在成长阶段天然会崇拜偶像。"
+          },
+          {
+            "sentence": "Some religions forbid idolizing through imagery.",
+            "sentence_zh": "某些宗教禁止通过造像来崇拜偶像。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "idolize someone as",
+        "meaning": "将某人尊为",
+        "examples": [
+          {
+            "sentence": "Tech geeks idolize Elon Musk as the real-life Iron Man.",
+            "sentence_zh": "科技极客们将马斯克尊为现实版钢铁侠。"
+          }
+        ]
+      }
+    ],
+    "teach": "idolize本质是'造神运动'🗽！古希腊人给雕像贴金箔是物理idolize（idol+ize），现代人给爱豆打榜是数字idolize💻。说'无脑追星'叫fangirling/boying，'骨灰粉'叫stan（来自Eminem歌曲）。记住：当你idolize某人时，其实是在给自己的幻想充值🎟️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱豆来iz'→爱豆来了就得偶像化",
+        "易混词：adore（欣赏） vs idolize（神化）"
+      ]
+    }
+  },
+  {
+    "word": "idyll",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希腊语'eidyllion'（小诗），后特指描写田园生活的诗歌"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "叙事诗",
+        "examples": [
+          {
+            "sentence": "Homer's idyll about shepherds inspired later poets.",
+            "sentence_zh": "荷马描写牧羊人的叙事诗启发了后世诗人。"
+          },
+          {
+            "sentence": "This modern idyll tells the story of delivery riders in Beijing.",
+            "sentence_zh": "这首现代叙事诗讲述了北京外卖骑手的故事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "田园景色",
+        "examples": [
+          {
+            "sentence": "The tea plantations create a perfect idyll in Fujian province.",
+            "sentence_zh": "福建的茶园构成完美的田园景色。"
+          },
+          {
+            "sentence": "Skyscrapers ruined the idyll of this fishing village.",
+            "sentence_zh": "摩天大楼破坏了这座渔村的田园风光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "田园诗",
+        "examples": [
+          {
+            "sentence": "Tao Yuanming's idylls describe his retreat to nature.",
+            "sentence_zh": "陶渊明的田园诗描写了他归隐自然的生活。"
+          },
+          {
+            "sentence": "This idyll makes even pig farming sound poetic.",
+            "sentence_zh": "这首田园诗甚至让养猪都显得诗意盎然。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "田园乐曲",
+        "examples": [
+          {
+            "sentence": "The guzheng piece is an idyll of Jiangnan water towns.",
+            "sentence_zh": "这首古筝曲是江南水乡的田园乐章。"
+          },
+          {
+            "sentence": "Beethoven's Pastoral Symphony is the ultimate musical idyll.",
+            "sentence_zh": "贝多芬的《田园交响曲》是终极音乐牧歌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "牧歌",
+        "examples": [
+          {
+            "sentence": "Mongolian herders still sing ancient idylls to their sheep.",
+            "sentence_zh": "蒙古牧羊人仍会对羊群唱古老的牧歌。"
+          },
+          {
+            "sentence": "This idyll sounds better when accompanied by horse-head fiddle.",
+            "sentence_zh": "这首牧歌用马头琴伴奏更动听。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "urban idyll",
+        "meaning": "都市田园",
+        "examples": [
+          {
+            "sentence": "The rooftop garden is his urban idyll.",
+            "sentence_zh": "这个屋顶花园是他的都市桃源。"
+          }
+        ]
+      }
+    ],
+    "teach": "idyll是文艺青年的精神自留地🌾：从古希腊牧羊人诗歌（原始idyll）到陶渊明'采菊东篱下'（东方idyll），再到你家阳台种多肉（现代idyll）。说'岁月静好'可以用pastoral idyll，吐槽网红民宿是'滤镜idyll'📸。记住：真正的idyll不在朋友圈，在乡下奶奶的菜园子里！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱地呦'→爱这片土地(idyll)发出的感叹",
+        "易混词：ideal（理想的）vs idyll（田园的）"
+      ]
+    }
+  },
+  {
+    "word": "idyllic",
+    "etymology": {
+      "breakdown": [
+        "idyll",
+        "ic"
+      ],
+      "meaning_connection": "词根idyll=田园诗（来自希腊语eidyllion），-ic表形容词→如田园诗般的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "田园诗的",
+        "examples": [
+          {
+            "sentence": "The poet described an idyllic scene of shepherds playing flutes under cherry blossoms.",
+            "sentence_zh": "诗人描绘了牧羊人在樱花下吹笛的田园诗景象。"
+          },
+          {
+            "sentence": "Her Instagram feed is full of idyllic countryside photos with vintage filters.",
+            "sentence_zh": "她的Ins动态满是加了复古滤镜的田园诗般乡村照片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "牧歌的",
+        "examples": [
+          {
+            "sentence": "The idyllic duet between the shepherd and the milkmaid inspired Beethoven's Pastoral Symphony.",
+            "sentence_zh": "牧羊人与挤奶女工的二重唱激发了贝多芬《田园交响曲》的创作。"
+          },
+          {
+            "sentence": "We could hear idyllic folk songs drifting from the distant meadows.",
+            "sentence_zh": "我们能听到远处草场飘来的牧歌式民谣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "悠闲的",
+        "examples": [
+          {
+            "sentence": "They spent an idyllic afternoon sipping tea and reading Murakami novels.",
+            "sentence_zh": "他们喝茶读村上春树，度过了悠闲的下午。"
+          },
+          {
+            "sentence": "The retired couple leads an idyllic life growing bonsai and playing mahjong.",
+            "sentence_zh": "这对退休夫妇过着种盆景打麻将的悠闲生活。"
+          }
+        ]
+      }
+    ],
+    "teach": "idyllic是'躺平界天花板'🧘：词源来自古希腊牧羊人摸鱼时写的诗🐑。想象李子柒的视频（idyllic scenery）加上ASMR流水声💦，就是完美诠释！要说'岁月静好'可表达为lead an idyllic existence，'假装田园'叫pose for idyllic photos🌾。记住：真正的idyllic生活不用调滤镜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱滴沥渴'→渴望爱如雨滴般诗意的田园生活",
+        "易混词对比：ideal（理想的）/ idle（闲置的）/ idyllic（田园的）→ 闲置(idle)的理想(ideal)就是田园(idyllic)",
+        "记忆链：idyll（田园诗）+ ic → 形容词化"
+      ]
+    }
+  },
+  {
+    "word": "IE",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "首字母缩写(Initialism)，全称为Interrupt Enable"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "中断启动",
+        "examples": [
+          {
+            "sentence": "The IE flag must be set before handling hardware interrupts.",
+            "sentence_zh": "处理硬件中断前必须设置IE标志位。"
+          },
+          {
+            "sentence": "When IE is disabled, the CPU ignores all interrupt requests.",
+            "sentence_zh": "当IE禁用时，CPU会忽略所有中断请求。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "enable IE",
+        "meaning": "启用中断",
+        "examples": [
+          {
+            "sentence": "The operating system automatically enables IE during boot process.",
+            "sentence_zh": "操作系统在启动过程中会自动启用中断。"
+          }
+        ]
+      }
+    ],
+    "teach": "IE其实是CPU的'小耳朵'👂！就像宿舍管理员开着门才能听到学生报修🚪（enable IE），关上门就进入'勿扰模式'🤫（disable IE）。搭配说'global IE'像总闸开关🔌，'maskable IE'像分类信箱📪。程序员常说'我的IE炸了'指中断失控💥",
+    "recite": {
+      "tips": [
+        "联想记忆：IE=Intelligent Ear（智能耳朵）",
+        "易混对比：IE vs. EI（后者是中断入口）"
+      ]
+    }
   }
 ]

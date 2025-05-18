@@ -4836,5 +4836,395 @@
         "易混词对比：liver（肝）vs kidney（肾）"
       ]
     }
+  },
+  {
+    "word": "kill",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'cwellan'，意为'使死亡'，历经演变成为现代英语中的kill"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "杀",
+        "examples": [
+          {
+            "sentence": "The hunter returned with the kill of the day.",
+            "sentence_zh": "猎人带着当天的猎物回来了。"
+          },
+          {
+            "sentence": "The documentary shows the lion's kill in slow motion.",
+            "sentence_zh": "纪录片用慢镜头展示了狮子的猎杀过程。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杀戮",
+        "examples": [
+          {
+            "sentence": "The novel describes the brutal kill in the war.",
+            "sentence_zh": "小说描述了战争中残酷的杀戮。"
+          },
+          {
+            "sentence": "The serial killer left behind a trail of kills.",
+            "sentence_zh": "连环杀手留下了一连串的杀戮痕迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小河",
+        "examples": [
+          {
+            "sentence": "We picnicked by the kill in the countryside.",
+            "sentence_zh": "我们在乡下的小河边野餐。"
+          },
+          {
+            "sentence": "The kill flows gently through the forest.",
+            "sentence_zh": "小河缓缓流过森林。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "杀",
+        "examples": [
+          {
+            "sentence": "The farmer had to kill the sick chicken.",
+            "sentence_zh": "农民不得不杀掉生病的鸡。"
+          },
+          {
+            "sentence": "The dragon was killed by the knight in the story.",
+            "sentence_zh": "故事中，龙被骑士杀死了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "破坏",
+        "examples": [
+          {
+            "sentence": "The storm killed all the flowers in the garden.",
+            "sentence_zh": "暴风雨毁坏了花园里所有的花。"
+          },
+          {
+            "sentence": "Too much salt will kill the taste of the dish.",
+            "sentence_zh": "盐太多会破坏这道菜的味道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "消灭",
+        "examples": [
+          {
+            "sentence": "The new pesticide kills mosquitoes effectively.",
+            "sentence_zh": "新型杀虫剂能有效消灭蚊子。"
+          },
+          {
+            "sentence": "The government launched a campaign to kill the invasive species.",
+            "sentence_zh": "政府发起了一项消灭入侵物种的运动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使终止",
+        "examples": [
+          {
+            "sentence": "The manager killed the project due to budget cuts.",
+            "sentence_zh": "由于预算削减，经理终止了这个项目。"
+          },
+          {
+            "sentence": "The bad news killed our holiday mood.",
+            "sentence_zh": "这个坏消息终止了我们的度假心情。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抵消",
+        "examples": [
+          {
+            "sentence": "The discount kills the extra shipping cost.",
+            "sentence_zh": "折扣抵消了额外的运费。"
+          },
+          {
+            "sentence": "His kindness kills any anger I might have.",
+            "sentence_zh": "他的善良抵消了我可能有的任何愤怒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "否决",
+        "examples": [
+          {
+            "sentence": "The committee killed the proposal unanimously.",
+            "sentence_zh": "委员会一致否决了这个提议。"
+          },
+          {
+            "sentence": "The editor killed my article without explanation.",
+            "sentence_zh": "编辑毫无解释地否决了我的文章。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "杀死",
+        "examples": [
+          {
+            "sentence": "Some bacteria can kill within hours if untreated.",
+            "sentence_zh": "如果不治疗，某些细菌能在几小时内致命。"
+          },
+          {
+            "sentence": "This new virus strain kills more effectively.",
+            "sentence_zh": "这种新病毒株的致死性更强。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kill time",
+        "meaning": "消磨时间",
+        "examples": [
+          {
+            "sentence": "I play mobile games to kill time on the subway.",
+            "sentence_zh": "我在地铁上玩手机游戏来消磨时间。"
+          },
+          {
+            "sentence": "We killed time by telling jokes while waiting.",
+            "sentence_zh": "等待时我们通过讲笑话来消磨时间。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "kill two birds with one stone",
+        "meaning": "一石二鸟",
+        "examples": [
+          {
+            "sentence": "Cycling to work kills two birds with one stone: saving money and exercising.",
+            "sentence_zh": "骑自行车上班一石二鸟：既省钱又锻炼身体。"
+          },
+          {
+            "sentence": "This business trip kills two birds with one stone: meeting clients and visiting friends.",
+            "sentence_zh": "这次出差一石二鸟：既见客户又访友。"
+          }
+        ]
+      }
+    ],
+    "teach": "kill这个词就像游戏里的终极技能⚔️！作为名词时可以是小河边的'杀戮现场'🏞️（a kill by the kill），作为动词时从'杀鸡'🐔到'否决提案'📜无所不能。要说'无聊得要死'可以说bored to death（无聊到死），'笑死'是laugh to death。记住：kill不仅能结束生命，还能结束会议！💼💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'抠'→用刀'抠'(kill)出致命伤",
+        "易混词对比：murder（蓄意谋杀） vs. kill（泛指杀死）",
+        "联想记忆：kill time就像用橡皮擦擦掉时间⌛"
+      ]
+    }
+  },
+  {
+    "word": "killer",
+    "etymology": {
+      "breakdown": [
+        "kill",
+        "er"
+      ],
+      "meaning_connection": "动词kill（杀死）+名词后缀-er→执行杀戮的人或物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "杀人者",
+        "examples": [
+          {
+            "sentence": "The detective found the killer's fingerprint on a milk tea cup.",
+            "sentence_zh": "侦探在奶茶杯上发现了杀人者的指纹。"
+          },
+          {
+            "sentence": "In mystery novels, the killer always has an alibi.",
+            "sentence_zh": "悬疑小说里杀人者总有不在场证明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "猛兽",
+        "examples": [
+          {
+            "sentence": "The Siberian tiger is a natural killer in the forest.",
+            "sentence_zh": "东北虎是森林里的天然猛兽。"
+          },
+          {
+            "sentence": "Sharks became the ultimate killers in this documentary.",
+            "sentence_zh": "在这部纪录片里鲨鱼成了终极猛兽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "致死疾病",
+        "examples": [
+          {
+            "sentence": "Malaria was the number one killer in tropical areas.",
+            "sentence_zh": "疟疾曾是热带地区头号致死疾病。"
+          },
+          {
+            "sentence": "The Black Death became history's most famous killer.",
+            "sentence_zh": "黑死病成为史上最著名的致死疾病。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杀手锏",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot is the killer of all diets.",
+            "sentence_zh": "麻辣火锅是所有减肥计划的杀手锏。"
+          },
+          {
+            "sentence": "Her smile was the real killer during the negotiation.",
+            "sentence_zh": "她的笑容才是谈判中的真正杀手锏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lady killer",
+        "meaning": "女性杀手（指有魅力的男性）",
+        "examples": [
+          {
+            "sentence": "The Peking opera actor is a real lady killer with his martial arts moves.",
+            "sentence_zh": "那位京剧武生用他的武功动作成为真正的女性杀手。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "killer instinct",
+        "meaning": "杀手本能",
+        "examples": [
+          {
+            "sentence": "The ping-pong player showed killer instinct in the final set.",
+            "sentence_zh": "乒乓球运动员在决胜局展现了杀手本能。"
+          }
+        ]
+      }
+    ],
+    "teach": "killer的进化史🗡️：从中世纪刽子手到现代'奶茶杀手'（形容喝奶茶疯狂的人）🧋！说'致命魅力'用killer looks（比如熊猫的黑眼圈🐼），'绝杀技'叫killer move就像火锅里的魔鬼椒🌶️。记住：当你说'This hotpot is killer!'时，可能在赞美也可能在求救！",
+    "recite": {
+      "tips": [
+        "谐音梗：'渴了'→杀手口渴了要喝奶茶",
+        "易混词：murderer（法律术语）/ killer（泛称）"
+      ]
+    }
+  },
+  {
+    "word": "killing",
+    "etymology": {
+      "breakdown": [
+        "kill",
+        "ing"
+      ],
+      "meaning_connection": "动词kill（杀死）+后缀-ing构成名词/形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "谋杀",
+        "examples": [
+          {
+            "sentence": "The detective novel revolves around a mysterious killing in a teahouse.",
+            "sentence_zh": "这本侦探小说围绕茶馆的神秘谋杀案展开。"
+          },
+          {
+            "sentence": "AI analysis helped solve the decade-old killing case.",
+            "sentence_zh": "人工智能分析帮助破解了这起十年悬案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杀戮",
+        "examples": [
+          {
+            "sentence": "The documentary exposed the illegal killing of pandas in 1980s.",
+            "sentence_zh": "纪录片揭露了80年代非法猎杀熊猫的行为。"
+          },
+          {
+            "sentence": "Ancient gladiator games often ended with ritual killings.",
+            "sentence_zh": "古罗马角斗士表演常以仪式性杀戮收场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "杀害的",
+        "examples": [
+          {
+            "sentence": "The killing blow was delivered with a bronze dagger.",
+            "sentence_zh": "致命一击是用青铜匕首完成的。"
+          },
+          {
+            "sentence": "Police found killing weapons hidden in the dumpling shop.",
+            "sentence_zh": "警方在饺子店发现了藏匿的凶器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "疲惫的",
+        "examples": [
+          {
+            "sentence": "After the killing marathon meeting, everyone needed hotpot therapy.",
+            "sentence_zh": "经过令人精疲力尽的马拉松会议后，大家都需要火锅疗愈。"
+          },
+          {
+            "sentence": "The killing schedule left no time for bubble tea breaks.",
+            "sentence_zh": "这累死人的日程表连喝奶茶的时间都没有。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "迷人的",
+        "examples": [
+          {
+            "sentence": "She wore a killing cheongsam to the New Year's gala.",
+            "sentence_zh": "她穿着惊艳的旗袍出席春晚。"
+          },
+          {
+            "sentence": "His killing smile made all the aunties offer him homemade dumplings.",
+            "sentence_zh": "他迷人的笑容让阿姨们纷纷投喂手工饺子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make a killing",
+        "meaning": "大赚一笔",
+        "examples": [
+          {
+            "sentence": "Livestreamers made a killing selling spicy crayfish during the pandemic.",
+            "sentence_zh": "疫情期间主播靠卖麻辣小龙虾赚得盆满钵满。"
+          }
+        ]
+      }
+    ],
+    "teach": "killing这词就像四川火锅🌶️——既能'要命'（谋杀意）又能'爽到死'（迷人意）！古罗马角斗士killing是字面意思，而现代人说make a killing（暴富）就像双十一剁手💰。说'累成狗'可以用killing schedule，夸小姐姐用killing look比'美炸了'更高级💃。记住：context is king，别把'致命微笑'当真捅刀子🔪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开了ing'→开了ing模式就会累死人",
+        "易混词：killer（杀手/绝妙的事物）"
+      ]
+    }
   }
 ]
