@@ -3024,5 +3024,302 @@
         "记忆法：MAGIC=My Awesome Gift Is Conjuring"
       ]
     }
+  },
+  {
+    "word": "magical",
+    "etymology": {
+      "breakdown": [
+        "magic",
+        "al"
+      ],
+      "meaning_connection": "词根magic=魔法，后缀-al表示'...的'→具有魔法特性的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "魔术的",
+        "examples": [
+          {
+            "sentence": "The magician's magical performance made a rabbit disappear into his WeChat QR code.",
+            "sentence_zh": "魔术师神奇的表演让兔子消失在了他的微信二维码里。"
+          },
+          {
+            "sentence": "Her magical gloves could turn subway cards into rose petals.",
+            "sentence_zh": "她的魔术手套能把地铁卡变成玫瑰花瓣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有魔力的",
+        "examples": [
+          {
+            "sentence": "That magical hotpot never runs out of beef slices.",
+            "sentence_zh": "那个有魔力的火锅永远涮不完肥牛。"
+          },
+          {
+            "sentence": "Douyin's magical algorithm always knows what I want to binge-watch.",
+            "sentence_zh": "抖音的神奇算法总知道我想刷什么。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不可思议的",
+        "examples": [
+          {
+            "sentence": "It's magical how my wallet empties during 6.18 shopping festival.",
+            "sentence_zh": "我的钱包在618购物节清空的速度简直不可思议。"
+          },
+          {
+            "sentence": "The magical moment when your phone unlocks with a face mask on.",
+            "sentence_zh": "戴口罩也能面部解锁的瞬间真是太神奇了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "magical thinking",
+        "meaning": "魔法思维（认为想法能影响现实）",
+        "examples": [
+          {
+            "sentence": "Clicking 'refresh' 100 times won't make your delivery arrive faster - that's magical thinking!",
+            "sentence_zh": "狂点100次刷新不会让外卖更快送到——这是魔法思维！"
+          }
+        ]
+      }
+    ],
+    "teach": "magical其实是'麻吉咖喱'🍛：哈利波特骑着魔法扫帚送美团外卖🧹，支付宝年度账单的金额就像被施了魔法🔮。说'太神奇了'用It's pure magic（纯魔法），'像变魔术'叫work like magic。记住：你的生活需要magical moments，比如奶茶第二杯半价！",
+    "recite": {
+      "tips": [
+        "谐音梗：'麻吉咖'→麻吉(好友)变咖喱的魔术",
+        "易混词：magic(名词)/magical(形容词)"
+      ]
+    }
+  },
+  {
+    "word": "magically",
+    "etymology": {
+      "breakdown": [
+        "magic",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根magic=魔法，-al形容词后缀，-ly副词后缀→魔法般地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "用魔法地",
+        "examples": [
+          {
+            "sentence": "The witch magically turned pumpkins into carriages at midnight.",
+            "sentence_zh": "女巫在午夜用魔法把南瓜变成马车。"
+          },
+          {
+            "sentence": "Harry Potter magically repaired his broken glasses with a wave of wand.",
+            "sentence_zh": "哈利·波特挥动魔杖用魔法修好了破碎的眼镜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "如魔法般地",
+        "examples": [
+          {
+            "sentence": "The stain on my shirt magically disappeared after soaking in cola.",
+            "sentence_zh": "衬衫上的污渍泡过可乐后如魔法般地消失了。"
+          },
+          {
+            "sentence": "Her acne magically cleared up before the blind date.",
+            "sentence_zh": "她的痘痘在相亲前如魔法般地消退了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "magically delicious",
+        "meaning": "神奇美味",
+        "examples": [
+          {
+            "sentence": "The instant noodles claim to be magically delicious with just hot water.",
+            "sentence_zh": "这款方便面宣称只用热水就能变得神奇美味。"
+          }
+        ]
+      }
+    ],
+    "teach": "magically是现实版'巴啦啦小魔仙'🪄！当奶茶店排队人龙magically消失→要么是下雨了☔️，要么是喜茶打折结束了💸。记住：'像变魔术一样'可以说like magic，'特效化妆'叫movie magic🎬。三个emoji教你掌握：✨（魔法光芒）+⏳（时间加速）+🎩（魔术帽）",
+    "recite": {
+      "tips": [
+        "谐音梗：'麦记可乐'→麦当劳可乐magically解渴",
+        "易混词对比：magical（adj.）形容事物本身有魔力，magically（adv.）描述发生方式"
+      ]
+    }
+  },
+  {
+    "word": "magician",
+    "etymology": {
+      "breakdown": [
+        "magic",
+        "ian"
+      ],
+      "meaning_connection": "词根magic来自希腊语magikos（巫术的），-ian表示'从事...的人'→原指波斯祭司，后演变为'施展魔法的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "魔术师",
+        "examples": [
+          {
+            "sentence": "The magician pulled a rabbit from a Pikachu plush toy.",
+            "sentence_zh": "魔术师从皮卡丘玩偶里拽出一只兔子。"
+          },
+          {
+            "sentence": "Street magicians in Beijing sometimes perform with mahjong tiles.",
+            "sentence_zh": "北京的街头魔术师有时会用麻将牌表演。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "幻术师",
+        "examples": [
+          {
+            "sentence": "The VR magician made the audience believe they were walking on clouds.",
+            "sentence_zh": "虚拟现实幻术师让观众以为自己走在云端。"
+          },
+          {
+            "sentence": "Ancient Persian magicians were said to control fire illusions.",
+            "sentence_zh": "据说古波斯幻术师能操控火焰幻象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "术士",
+        "examples": [
+          {
+            "sentence": "In Journey to the West, the White-Bone Demon disguised as a Taoist magician.",
+            "sentence_zh": "《西游记》里白骨精曾伪装成道士术士。"
+          },
+          {
+            "sentence": "Alchemists were considered magicians during the Middle Ages.",
+            "sentence_zh": "炼金术士在中世纪被视为术士。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "street magician",
+        "meaning": "街头魔术师",
+        "examples": [
+          {
+            "sentence": "The street magician turned jianbing into banknotes.",
+            "sentence_zh": "街头魔术师把煎饼变成了钞票。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "magician's apprentice",
+        "meaning": "魔术师学徒",
+        "examples": [
+          {
+            "sentence": "He started as a magician's apprentice sweeping the stage.",
+            "sentence_zh": "他从打扫舞台的魔术师学徒做起。"
+          }
+        ]
+      }
+    ],
+    "teach": "magician其实是'麻技师'🧙：词根magic源自波斯拜火教祭司的称号🔮，现代魔术师就像火锅店拉面师傅👨🍳——全靠手法（sleight of hand）骗过你的眼睛。要说'魔术把戏'可以用hocus-pocus（源自拉丁咒语），'穿帮'叫saw through the trick就像看破饺子馅露了🥟。记住：每个magician都是专业的注意力小偷！",
+    "recite": {
+      "tips": [
+        "谐音梗：'马戏劲'→马戏团魔术师特别有劲",
+        "易混词对比：magician（表演者） vs. wizard（奇幻巫师）",
+        "记忆tip：联想刘谦用magic把'见证奇迹的时刻'变成流行语✨"
+      ]
+    }
+  },
+  {
+    "word": "magisterial",
+    "etymology": {
+      "breakdown": [
+        "magist",
+        "er",
+        "ial"
+      ],
+      "meaning_connection": "词根magist=master(主人/长官)，-er表人，-ial表属性→具有长官特质的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "长官的",
+        "examples": [
+          {
+            "sentence": "The magisterial robes of Qing Dynasty officials were embroidered with golden dragons.",
+            "sentence_zh": "清代官员的长官服饰绣有金龙纹样。"
+          },
+          {
+            "sentence": "This magisterial edict bears the imperial seal of Emperor Qianlong.",
+            "sentence_zh": "这份长官诏书盖着乾隆皇帝的玉玺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "威严的",
+        "examples": [
+          {
+            "sentence": "The Terracotta Warriors stand with magisterial silence in Xi'an.",
+            "sentence_zh": "兵马俑以威严的沉默矗立在西安。"
+          },
+          {
+            "sentence": "His magisterial presence immediately silenced the arguing students.",
+            "sentence_zh": "他威严的存在立刻让争论的学生安静下来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有权威的",
+        "examples": [
+          {
+            "sentence": "The professor's magisterial work on Dunhuang manuscripts is widely cited.",
+            "sentence_zh": "这位教授关于敦煌手稿的权威著作被广泛引用。"
+          },
+          {
+            "sentence": "Her magisterial tone left no room for doubt during the academic debate.",
+            "sentence_zh": "学术辩论中她权威的语气不容置疑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "magisterial manner",
+        "meaning": "威严的态度",
+        "examples": [
+          {
+            "sentence": "The judge spoke with a magisterial manner that commanded respect.",
+            "sentence_zh": "法官说话时带着令人肃然起敬的威严态度。"
+          }
+        ]
+      }
+    ],
+    "teach": "magisterial是'大师级气场'👑！词根magist让人想起master(大师)，就像故宫太和殿的龙椅🐉自带威严。形容权威著作可以说magisterial work，好比《本草纲目》在中医界的地位🌿。要说'摆架子'可用put on magisterial airs，但小心别变成'官老爷做派'哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'买鸡丝挺傲'→买鸡丝(magisterial)时摆出高傲姿态",
+        "易混词对比：majestic(壮丽的) vs magisterial(威严的)",
+        "记忆tip：想象 magist(法官)+erial→法官的威严"
+      ]
+    }
   }
 ]

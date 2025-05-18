@@ -3163,5 +3163,320 @@
         "易混词：dampen(v.使潮湿/抑制) vs damper(n.)"
       ]
     }
+  },
+  {
+    "word": "damply",
+    "etymology": {
+      "breakdown": [
+        "damp",
+        "ly"
+      ],
+      "meaning_connection": "damp（潮湿的）+ -ly（副词后缀）→ 表示'以潮湿的方式'或'衰减地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "潮湿地",
+        "examples": [
+          {
+            "sentence": "The clothes hung damply on the line after the rain.",
+            "sentence_zh": "雨后的衣服湿漉漉地挂在晾衣绳上。"
+          },
+          {
+            "sentence": "The walls were damply cold in the ancient castle.",
+            "sentence_zh": "古堡里的墙壁又湿又冷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "衰减地",
+        "examples": [
+          {
+            "sentence": "The music faded damply into the night.",
+            "sentence_zh": "音乐在夜色中渐渐减弱。"
+          },
+          {
+            "sentence": "His enthusiasm damply disappeared after the failure.",
+            "sentence_zh": "失败后，他的热情逐渐消退。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "damply就像刚洗完头没吹干💧，又像手机电量快耗尽时闪烁的图标🔋。'潮湿地'时像梅雨季的袜子🧦，'衰减地'时像KTV唱到最后的'死了都要爱'🎤。搭配'damply cold'（湿冷）比单纯说cold更有画面感！记住：damply自带'湿度计+音量键'双重功能🌡️🎚️",
+    "recite": {
+      "tips": [
+        "谐音梗：'淡魄力'→潮湿环境让人魄力淡薄",
+        "易混词对比：damply（潮湿/衰减） vs. dimly（昏暗地）"
+      ]
+    }
+  },
+  {
+    "word": "dampness",
+    "etymology": {
+      "breakdown": [
+        "damp",
+        "ness"
+      ],
+      "meaning_connection": "damp源自中古德语‘dampf’（蒸汽），后缀-ness表示状态→潮湿的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "潮湿",
+        "examples": [
+          {
+            "sentence": "The dampness in the basement made my sneakers grow mold.",
+            "sentence_zh": "地下室的潮湿让我的运动鞋发了霉。"
+          },
+          {
+            "sentence": "Grandma's arthritis acts up during the dampness of plum rain season.",
+            "sentence_zh": "奶奶的关节炎在梅雨季节的潮湿里发作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "湿度",
+        "examples": [
+          {
+            "sentence": "Hygrometers measure indoor dampness to prevent book damage.",
+            "sentence_zh": "湿度计测量室内湿度以防书籍受损。"
+          },
+          {
+            "sentence": "The optimal dampness for pu'er tea storage is around 60%.",
+            "sentence_zh": "普洱茶储存的最佳湿度约为60%。"
+          }
+        ]
+      }
+    ],
+    "teach": "dampness是南方人的痛💦！想象英国永远湿漉漉的天气☔（所以damp来自德语‘蒸汽’），说'湿到长蘑菇'用地道表达dank as a cellar（像地窖般阴湿）。搭配：fight dampness（防潮）/ seasonal dampness（季节返潮）。记住：你的毛巾永远干不了的地方，就是dampness大本营🧊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'等怕呢'→南方人等回南天怕得要命",
+        "易混词对比：humidity（科学测量湿度） vs dampness（主观潮湿感）"
+      ]
+    }
+  },
+  {
+    "word": "damsel",
+    "etymology": {
+      "breakdown": [
+        "dam",
+        "sel"
+      ],
+      "meaning_connection": "源自古法语'dameisele'（贵族小姐），dam=女士（同dame），sel=小后缀→字面意思是'小淑女'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "少女（尤指需要保护的）",
+        "examples": [
+          {
+            "sentence": "The video game always has a damsel in distress for the hero to rescue.",
+            "sentence_zh": "电子游戏里总有个需要英雄拯救的落难少女。"
+          },
+          {
+            "sentence": "She played the damsel who dropped her handkerchief in the period drama.",
+            "sentence_zh": "她在古装剧里饰演那个故意掉落手帕的闺秀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "闺女（古风/文学用语）",
+        "examples": [
+          {
+            "sentence": "The poet described the damsel weaving silk by moonlight.",
+            "sentence_zh": "诗人描绘了月下织绸的闺阁少女。"
+          },
+          {
+            "sentence": "In Tang dynasty paintings, damsels often hold round silk fans.",
+            "sentence_zh": "唐代画作中的闺秀常执绢丝团扇。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "damsel in distress",
+        "meaning": "落难少女（经典剧情套路）",
+        "examples": [
+          {
+            "sentence": "Modern movies often subvert the damsel in distress trope.",
+            "sentence_zh": "现代电影常颠覆落难少女的老套剧情。"
+          }
+        ]
+      }
+    ],
+    "teach": "damsel是'待解救的迪士尼公主'👸🏻文学版！这个词自带中世纪古堡BGM🏰，想起被喷火龙绑架的公主（dragon+damsel=经典组合）。现代用可以说'我不是弱质damsel'→I'm no shrinking violet🌺。搭配：castle damsel（城堡闺秀）/ modern damsel（现代独立女性）。记住：当代damsel可能反手就给恶龙过肩摔！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆萌兽'→中世纪困在塔里的呆萌兽",
+        "易混词：maiden（更中性）/ virgin（强调贞洁）"
+      ]
+    }
+  },
+  {
+    "word": "damson",
+    "etymology": {
+      "breakdown": [
+        "damascene",
+        "on"
+      ],
+      "meaning_connection": "源自拉丁语'damascenum'(大马士革的)，因其最初从叙利亚大马士革传入欧洲，后缀-on表示水果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "布拉斯李子",
+        "examples": [
+          {
+            "sentence": "The damson in this jam gives it a distinctive tart flavor.",
+            "sentence_zh": "这款果酱中的布拉斯李子赋予它独特的酸味。"
+          },
+          {
+            "sentence": "She made damson wine that tastes like liquid amethyst.",
+            "sentence_zh": "她酿造的布拉斯李子酒如液态紫水晶般迷人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "布拉斯李树",
+        "examples": [
+          {
+            "sentence": "The old damson in my backyard still bears fruit after 30 years.",
+            "sentence_zh": "我院子里30年树龄的布拉斯李树仍在结果。"
+          },
+          {
+            "sentence": "Damsons blossom with flowers resembling tiny snowflakes.",
+            "sentence_zh": "布拉斯李树开花时如同缀满微型雪花。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "damson plum",
+        "meaning": "布拉斯李品种",
+        "examples": [
+          {
+            "sentence": "The Shropshire damson plum is famous for its deep purple skin.",
+            "sentence_zh": "什罗普郡布拉斯李以深紫色果皮闻名。"
+          }
+        ]
+      }
+    ],
+    "teach": "damson其实是'大马士革李子'🌍：中世纪十字军东征时从叙利亚带回的紫色宝藏💎。英国人用它做'damson cheese'(非真奶酪，是种果冻状甜点🧀️)，'李子脸'叫damson cheeks形容人面色红润🍑。记住：这种李子酸到能让你的表情变成表情包🤪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'大木森'→森林里的大号紫色李子",
+        "易混词对比：plum(普通李子) vs damson(更小更酸)"
+      ]
+    }
+  },
+  {
+    "word": "dance",
+    "etymology": {
+      "breakdown": [
+        "dan",
+        "ce"
+      ],
+      "meaning_connection": "词源来自古法语'danser'，可能与古高地德语'danson'（拉伸）有关，描绘身体延展动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "跳舞",
+        "examples": [
+          {
+            "sentence": "Her dance at the wedding went viral on Douyin.",
+            "sentence_zh": "她在婚礼上的跳舞视频在抖音疯传。"
+          },
+          {
+            "sentence": "The panda's food dance attracts millions of viewers.",
+            "sentence_zh": "熊猫的乞食舞吸引数百万观众。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "舞蹈",
+        "examples": [
+          {
+            "sentence": "Peacock dance is a Yi ethnic treasure.",
+            "sentence_zh": "孔雀舞是彝族的文化瑰宝。"
+          },
+          {
+            "sentence": "The robot's breakdance outperformed human dancers.",
+            "sentence_zh": "这个机器人的霹雳舞超越了人类舞者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "舞会",
+        "examples": [
+          {
+            "sentence": "At the freshman dance, he stepped on 3 toes.",
+            "sentence_zh": "新生舞会上他踩了三个人的脚。"
+          },
+          {
+            "sentence": "The tango dance ended with firework displays.",
+            "sentence_zh": "探戈舞会以烟花表演收尾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "跳舞",
+        "examples": [
+          {
+            "sentence": "Grandpa dances every morning in the square with his radio.",
+            "sentence_zh": "爷爷每天早晨带着收音机在广场跳舞。"
+          },
+          {
+            "sentence": "They danced through the night during Mid-Autumn Festival.",
+            "sentence_zh": "中秋夜他们跳舞直到天明。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dance to the music",
+        "meaning": "随着音乐跳舞",
+        "examples": [
+          {
+            "sentence": "The AI robot can dance to any Chinese pop song.",
+            "sentence_zh": "这个人工智能机器人能跟着任何华语流行歌跳舞。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dance around the issue",
+        "meaning": "回避问题",
+        "examples": [
+          {
+            "sentence": "He kept dancing around the marriage question.",
+            "sentence_zh": "他对结婚问题始终避而不答。"
+          }
+        ]
+      }
+    ],
+    "teach": "dance是人类最古老的社交语言💃！原始人用'dance'庆祝狩猎成功🦌（就像现代人跳科目三），英国曾有'跳舞瘟疫'事件—1518年一群人跳舞至死💀！说'尬舞'用awkward dance，'舞林高手'是dance virtuoso。记住：人生如舞，踩到脚也要继续转圈圈✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'蹬死'→广场舞大妈蹬步太用力",
+        "易混词：ball（正式舞会）vs dance（普通舞会）",
+        "记忆法：DANCE=Delightful（欢乐） And（和） Nice（美好的） Cultural（文化的） Expression（表达）"
+      ]
+    }
   }
 ]

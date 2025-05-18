@@ -3181,5 +3181,277 @@
         "易混词：flag是旗帜，tag是标签"
       ]
     }
+  },
+  {
+    "word": "tagging",
+    "etymology": {
+      "breakdown": [
+        "tag",
+        "ing"
+      ],
+      "meaning_connection": "tag源于古诺尔斯语'tagg'（尖刺），原指悬挂物品，-ing表动作过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "标签标记",
+        "examples": [
+          {
+            "sentence": "The tagging system in Douyin helps videos reach target audiences.",
+            "sentence_zh": "抖音的标签系统帮助视频触达目标观众。"
+          },
+          {
+            "sentence": "Price tagging errors caused chaos in the supermarket.",
+            "sentence_zh": "价格标签错误导致超市一片混乱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "特征标识",
+        "examples": [
+          {
+            "sentence": "The AI recognizes facial tagging like 'dimples' or 'monolid'.",
+            "sentence_zh": "人工智能能识别'酒窝'、'单眼皮'等面部特征。"
+          },
+          {
+            "sentence": "Style tagging in SHEIN helps you find similar outfits.",
+            "sentence_zh": "SHEIN的风格特征标识帮你找到相似穿搭。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "price tagging",
+        "meaning": "标价",
+        "examples": [
+          {
+            "sentence": "The robot is responsible for automatic price tagging.",
+            "sentence_zh": "这台机器人负责自动标价。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hashtag tagging",
+        "meaning": "话题标记",
+        "examples": [
+          {
+            "sentence": "Proper hashtag tagging can make your post go viral.",
+            "sentence_zh": "正确的话题标记能让帖子爆火。"
+          }
+        ]
+      }
+    ],
+    "teach": "tagging就像电子版的便利贴📑！最早是牧民用彩带标记(tag)羊群🐑，现在变成小红书博主的#标签狂欢🎯。'乱标价'叫mis-tagging（就像把茅台标成矿泉水💰），'精准标签'叫smart tagging（像给熊猫照片自动打'黑眼圈'标签🐼）。记住：人生需要tagging，但别被标签定义！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太个性'→打标签(tagging)就是为了显得太个性",
+        "易混词对比：tagging（持续动作） vs tag（单次动作）"
+      ]
+    }
+  },
+  {
+    "word": "tagliatelle",
+    "etymology": {
+      "breakdown": [
+        "taglia",
+        "telle"
+      ],
+      "meaning_connection": "源自意大利语tagliare（切）+后缀-telle→字面意思是'切出来的面条'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "意大利干面条（特指宽面）",
+        "examples": [
+          {
+            "sentence": "The chef is hand-cutting fresh tagliatelle for our Bolognese sauce.",
+            "sentence_zh": "主厨正在为我们的肉酱手工切制新鲜意式宽面。"
+          },
+          {
+            "sentence": "Authentic tagliatelle should be 8mm wide - exactly matching the 14th-century gold threads in Bologna!",
+            "sentence_zh": "正宗的意式宽面应该是8毫米宽——正好对应博洛尼亚14世纪金线的粗细！"
+          }
+        ]
+      }
+    ],
+    "teach": "这词是意大利面界的黄金比例📏！传说tagliatelle的宽度是照着文艺复兴时期贵妇头发的宽度设计的💇♀️，搭配ragù肉酱就像汉服配云肩🥋。意大利人说'al dente'（面条带硬芯）就像中国人讲究面条要'筋道'🍜。记住：不是所有意大利面都叫spaghetti，宽的才是tagliatelle！",
+    "recite": {
+      "tips": [
+        "谐音梗：'他累了'→厨师切(tagliatelle)面条切到累",
+        "视觉记忆：字母组合'tag'像面条挂架，'lia'音似'拉面'的拉"
+      ]
+    }
+  },
+  {
+    "word": "tail",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'tægl'，指动物身体的末端部分，后扩展出多种引申义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "动物尾部",
+        "examples": [
+          {
+            "sentence": "The peacock fans out its colorful tail to attract mates.",
+            "sentence_zh": "孔雀展开彩色的尾羽求偶。"
+          },
+          {
+            "sentence": "Cats use their tails for balance when walking on narrow fences.",
+            "sentence_zh": "猫咪在窄围墙上行走时用尾巴保持平衡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "后部",
+        "examples": [
+          {
+            "sentence": "We sat at the tail of the plane where the engine noise was loudest.",
+            "sentence_zh": "我们坐在飞机尾部引擎声最大的位置。"
+          },
+          {
+            "sentence": "The tail of the hurricane caused more damage than expected.",
+            "sentence_zh": "飓风的尾端造成的破坏超乎预期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "辫子",
+        "examples": [
+          {
+            "sentence": "Her high ponytail swayed as she practiced tai chi in the park.",
+            "sentence_zh": "她在公园练太极时高马尾辫随风摆动。"
+          },
+          {
+            "sentence": "Ancient Chinese men wore long tails as a symbol of status.",
+            "sentence_zh": "中国古代男子留长辫是身份象征。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "跟踪者",
+        "examples": [
+          {
+            "sentence": "The celebrity noticed a tail following him to the hotpot restaurant.",
+            "sentence_zh": "明星发现有狗仔尾随他到火锅店。"
+          },
+          {
+            "sentence": "Police put a tail on the suspected smuggler.",
+            "sentence_zh": "警方派便衣跟踪走私嫌疑人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "尾随",
+        "examples": [
+          {
+            "sentence": "Reporters tailed the couple all the way to Maldives.",
+            "sentence_zh": "记者一路尾随这对情侣到马尔代夫。"
+          },
+          {
+            "sentence": "The detective tailed the suspect through three subway transfers.",
+            "sentence_zh": "侦探换乘三次地铁跟踪嫌疑人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "船尾搁浅",
+        "examples": [
+          {
+            "sentence": "The fishing boat tailed on the coral reef during low tide.",
+            "sentence_zh": "渔船退潮时船尾搁浅在珊瑚礁上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "turn tail",
+        "meaning": "逃跑",
+        "examples": [
+          {
+            "sentence": "The pickpocket turned tail when he saw the police officer.",
+            "sentence_zh": "扒手看到警察转身就逃。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tail wind",
+        "meaning": "顺风",
+        "examples": [
+          {
+            "sentence": "Cyclists love tail winds that push them forward effortlessly.",
+            "sentence_zh": "骑行者喜爱不费力的顺风骑行。"
+          }
+        ]
+      }
+    ],
+    "teach": "tail是个万能小尾巴🐒！当名词时，可以是孔雀开屏的尾巴🦚，也可以是狗仔队跟拍（put a tail on sb.）。当动词时，就像《无间道》里梁朝伟跟踪刘德华🚔。有趣的是'燕尾服'叫tailcoat，因为后摆像燕子尾巴✂️。记住：'夹着尾巴逃跑'叫turn tail，而'顺风'是tail wind🌬️",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒累'→特务跟踪(tail)忒累",
+        "易混词对比：trail（痕迹）vs tail（尾巴）",
+        "联想记忆：所有带尾巴的生物/物体都能用tail"
+      ]
+    }
+  },
+  {
+    "word": "tailback",
+    "etymology": {
+      "breakdown": [
+        "tail",
+        "back"
+      ],
+      "meaning_connection": "字面意思是'尾巴向后'，形象描述车辆排成长队如尾巴般延伸的堵塞场景"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "交通堵塞（英式）",
+        "examples": [
+          {
+            "sentence": "A 10-mile tailback formed after the panda delivery truck broke down on the motorway.",
+            "sentence_zh": "运送熊猫的卡车在高速抛锚后，形成了10英里长的车龙。"
+          },
+          {
+            "sentence": "The tea spill caused a tailback stretching to Oxford Circus.",
+            "sentence_zh": "茶水倾洒导致堵车队伍一直排到牛津广场。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in a tailback",
+        "meaning": "处于堵车中",
+        "examples": [
+          {
+            "sentence": "We were stuck in a tailback for 3 hours playing mobile mahjong.",
+            "sentence_zh": "我们在堵车中打了3小时手机麻将。"
+          }
+        ]
+      }
+    ],
+    "teach": "tailback是英国人最优雅的吐槽🚗💨：把堵车说成'车尾排队'（tail+back）就像用下午茶术语描述早高峰☕🚦。要说'堵成狗'他们用nose-to-tail（参考香肠节车展），地道表达叫bumper-to-bumper（保险杠贴保险杠）。记住：英式堵车时记得保持和前方车辆间隔一只柯基犬的距离🐶📏",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒背'→遇到tailback运气忒背",
+        "易混词：traffic jam（通用）vs tailback（英式特指长队堵塞）",
+        "视觉联想：把车流想象成女王卫兵帽子的红缨🔴👑"
+      ]
+    }
   }
 ]

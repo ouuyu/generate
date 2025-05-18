@@ -3099,5 +3099,285 @@
         "易混词：wander（单纯走动）vs gallivant（带炫耀性质）"
       ]
     }
+  },
+  {
+    "word": "gallop",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'galoper'，可能与原始日耳曼语'wala-'（奔跑）有关，模拟马蹄声的拟声词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "疾驰",
+        "examples": [
+          {
+            "sentence": "The horse broke into a gallop when it smelled fresh grass.",
+            "sentence_zh": "马闻到新鲜草香时突然开始疾驰。"
+          },
+          {
+            "sentence": "Her heartbeat was at a gallop after the Zumba class.",
+            "sentence_zh": "尊巴课后她的心跳如马奔般急促。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "飞奔",
+        "examples": [
+          {
+            "sentence": "The delivery man finished his route at a gallop.",
+            "sentence_zh": "快递小哥以飞奔速度完成配送。"
+          },
+          {
+            "sentence": "News spread at a gallop through Weibo.",
+            "sentence_zh": "消息通过微博飞速传播。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "飞驰",
+        "examples": [
+          {
+            "sentence": "Electric bikes gallop through Beijing's hutongs.",
+            "sentence_zh": "电动车在北京胡同里飞驰。"
+          },
+          {
+            "sentence": "His thoughts galloped ahead of his speech.",
+            "sentence_zh": "他的思维比语言飞驰得更快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "急速进行",
+        "examples": [
+          {
+            "sentence": "The project is galloping toward completion.",
+            "sentence_zh": "项目正急速接近完工。"
+          },
+          {
+            "sentence": "Inflation has been galloping since the pandemic.",
+            "sentence_zh": "疫情以来通胀急速加剧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "急急忙忙地说",
+        "examples": [
+          {
+            "sentence": "She galloped through her presentation in 5 minutes.",
+            "sentence_zh": "她急急忙忙5分钟讲完了汇报。"
+          },
+          {
+            "sentence": "The anchor galloped the breaking news.",
+            "sentence_zh": "主播急匆匆地播报了突发新闻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使飞跑",
+        "examples": [
+          {
+            "sentence": "The jockey galloped his horse around the track.",
+            "sentence_zh": "骑师策马绕赛道飞跑。"
+          },
+          {
+            "sentence": "Don't gallop the scooter in pedestrian areas!",
+            "sentence_zh": "别在人行道上让电动车飞跑！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "迅速运输",
+        "examples": [
+          {
+            "sentence": "SF Express galloped the vaccine to remote areas.",
+            "sentence_zh": "顺丰将疫苗迅速运输到偏远地区。"
+          },
+          {
+            "sentence": "Drones gallop blood samples between hospitals.",
+            "sentence_zh": "无人机在医院间快速运输血样。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "at full gallop",
+        "meaning": "全速前进",
+        "examples": [
+          {
+            "sentence": "The tech company is growing at full gallop.",
+            "sentence_zh": "这家科技公司正在全速发展。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gallop through",
+        "meaning": "匆忙完成",
+        "examples": [
+          {
+            "sentence": "He galloped through his homework to play Honor of Kings.",
+            "sentence_zh": "他匆忙写完作业去打王者荣耀。"
+          }
+        ]
+      }
+    ],
+    "teach": "gallop是速度与激情🐎！这个拟声词模仿'嘚嘚'马蹄声，就像你追公交时的心跳💨。现代用法超有趣：说'急速发展'是galloping inflation（狂奔的通胀），'草率完成'叫gallop through（策马掠过）。记住：全速前进叫at full gallop，比'快马加鞭'还快！当你想说'飞速'时，别用fast——试试'My salary grows at a snail's gallop.'（我工资像蜗牛奔驰般'增长'）😂",
+    "recite": {
+      "tips": [
+        "谐音梗：'哥老跑'→哥哥老是跑(gallop)",
+        "易混词：trot(小跑)/canter(慢跑)/gallop(狂奔)"
+      ]
+    }
+  },
+  {
+    "word": "galloping",
+    "etymology": {
+      "breakdown": [
+        "gallop",
+        "ing"
+      ],
+      "meaning_connection": "gallop源自古法语'galoper'（疾驰），-ing表进行时或形容词化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "疾驰的",
+        "examples": [
+          {
+            "sentence": "The galloping horse left a trail of dust on the ancient post road.",
+            "sentence_zh": "疾驰的马匹在古驿道上扬起一道烟尘。"
+          },
+          {
+            "sentence": "We saw galloping wild donkeys in Xinjiang's deserts.",
+            "sentence_zh": "我们在新疆沙漠见到了狂奔的野驴。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "飞速发展的",
+        "examples": [
+          {
+            "sentence": "The galloping e-commerce industry has changed rural lifestyles.",
+            "sentence_zh": "飞速发展的电商产业改变了农村生活方式。"
+          },
+          {
+            "sentence": "Galloping housing prices make young people anxious.",
+            "sentence_zh": "飞涨的房价让年轻人焦虑。"
+          }
+        ]
+      }
+    ],
+    "teach": "galloping是'马蹄声碎'的视觉化💨：既形容赛马场骏马奔腾🐎（physical galloping），也比喻像双十一销售额般狂飙📈（galloping inflation）。搭配'galloping consumption'（报复性消费）、'galloping rhythm'（马蹄节奏）。说'物价飞涨'可以用prices are galloping away like wild horses🦄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖楼频'→房价盖楼频率(galloping)飙升",
+        "易混词：gallop（动词）/galloping（形容词）",
+        "记忆法：联想蒙古族那达慕大会赛马场面"
+      ]
+    }
+  },
+  {
+    "word": "gallows",
+    "etymology": {
+      "breakdown": [
+        "galg",
+        "ows"
+      ],
+      "meaning_connection": "古英语galga（木架）+后缀-ows→原指处刑用的木制框架"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "绞架",
+        "examples": [
+          {
+            "sentence": "The haunted castle had replica gallows in its courtyard.",
+            "sentence_zh": "那个闹鬼城堡的庭院里摆放着仿制绞架。"
+          },
+          {
+            "sentence": "Pirates built gallows at the port entrance as a warning.",
+            "sentence_zh": "海盗在港口入口搭建绞架作为威慑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绞刑",
+        "examples": [
+          {
+            "sentence": "The judge sentenced him to the gallows for treason.",
+            "sentence_zh": "法官以叛国罪判他绞刑。"
+          },
+          {
+            "sentence": "In old western movies, the crowd would shout 'to the gallows!'",
+            "sentence_zh": "在老西部片里，人群常高喊'处绞刑！'"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gallows humor",
+        "meaning": "绞刑架下的幽默",
+        "examples": [
+          {
+            "sentence": "Doctors often use gallows humor to cope with stress.",
+            "sentence_zh": "医生常用黑色幽默缓解压力。"
+          }
+        ]
+      }
+    ],
+    "teach": "gallows是古代Twitter的'删除键'💀！英国新门监狱的绞架会保留尸体数月当'活体广告'🦴，现代说'gallows humor'指绝境中的自嘲（比如打工人说'方案又被毙了，给我根绳子'）。记住：看到这个单词就想想海盗🏴‍☠️的木质'秋千架'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'该搂死'→该搂死(gallows)的刑罚",
+        "对比记忆：gallery画廊 vs gallows刑场（前者挂画后者挂人）"
+      ]
+    }
+  },
+  {
+    "word": "gallstone",
+    "etymology": {
+      "breakdown": [
+        "gall",
+        "stone"
+      ],
+      "meaning_connection": "gall指'胆汁'（来自古英语'gealla'），stone即'石头'→胆汁形成的结石"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "胆结石",
+        "examples": [
+          {
+            "sentence": "Eating too much fried chicken may lead to gallstones, just like pearls in an oyster but way less romantic.",
+            "sentence_zh": "吃太多炸鸡可能导致胆结石，就像牡蛎里的珍珠，但浪漫值直线下降。"
+          },
+          {
+            "sentence": "The doctor showed me my gallstone scan - it looked like a tiny asteroid from a sci-fi movie.",
+            "sentence_zh": "医生给我看胆结石扫描图，活像科幻片里的迷你小行星。"
+          }
+        ]
+      }
+    ],
+    "teach": "gallstone是身体里的'胆汁珍珠'💎！中世纪医生曾认为这是魔鬼的粪便💩，现代吃货知道这是火锅+烧烤的'勋章'🍖。要说'剧痛发作'叫gallstone colic（胆绞痛），'排石'是pass gallstones如同人体放烟花🎆。记住：胆结石和牡蛎珍珠的区别在于——没人会把它做成项链！",
+    "recite": {
+      "tips": [
+        "谐音梗：'高石头'→胆管里长了高傲的石头",
+        "易混词对比：kidney stone（肾结石）vs gallstone（胆结石）就像不同部门的年终奖",
+        "记忆tip：想象胆囊是奶茶店，结石就是沉底的珍珠（但医生不建议你吸出来）"
+      ]
+    }
   }
 ]

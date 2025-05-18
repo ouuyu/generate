@@ -3115,5 +3115,338 @@
         "易混词对比：value（价值） vs valley（山谷）→'有value的valley是金矿'"
       ]
     }
+  },
+  {
+    "word": "valuable",
+    "etymology": {
+      "breakdown": [
+        "val",
+        "u",
+        "able"
+      ],
+      "meaning_connection": "词根val=价值(value)，-able表'可...的'→原指'可被估价的'，引申为'贵重的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有价值的",
+        "examples": [
+          {
+            "sentence": "Your feedback is more valuable than free milk tea.",
+            "sentence_zh": "你的建议比免费奶茶更有价值。"
+          },
+          {
+            "sentence": "Pandas provide valuable research data for scientists.",
+            "sentence_zh": "大熊猫为科学家提供宝贵的研究数据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "贵重的",
+        "examples": [
+          {
+            "sentence": "She locked her valuable sneaker collection in a glass cabinet.",
+            "sentence_zh": "她把珍藏的贵重球鞋锁在玻璃柜里。"
+          },
+          {
+            "sentence": "The museum stores valuable cultural relics from the Tang Dynasty.",
+            "sentence_zh": "博物馆收藏着唐代的贵重文物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "宝贵的",
+        "examples": [
+          {
+            "sentence": "Hotpot time with family is truly valuable.",
+            "sentence_zh": "和家人吃火锅的时光非常宝贵。"
+          },
+          {
+            "sentence": "Fresh air has become valuable in some cities.",
+            "sentence_zh": "新鲜空气在某些城市变得很宝贵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "valuable experience",
+        "meaning": "宝贵经验",
+        "examples": [
+          {
+            "sentence": "Delivering takeout during college was my most valuable experience.",
+            "sentence_zh": "大学送外卖是我最宝贵的经验。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "valuable lesson",
+        "meaning": "重要教训",
+        "examples": [
+          {
+            "sentence": "Forgetting my phone taught me a valuable lesson about backup plans.",
+            "sentence_zh": "忘带手机让我学到了做备用计划的重要教训。"
+          }
+        ]
+      }
+    ],
+    "teach": "valuable就像古董鉴定师👓：当说'贵重'时它在评估LV包包💼（valuable items），说'宝贵'时在计算你的假期余额⏳（valuable time），说'有价值'时在给知识标价📚（valuable knowledge）。记住：能放进保险箱的用'贵重'，放进心里的用'宝贵'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外流不'→贵重物品外流不得(valuable)",
+        "易混词对比：valueless（无价值的）是valuable的反义词"
+      ]
+    }
+  },
+  {
+    "word": "valuables",
+    "etymology": {
+      "breakdown": [
+        "value",
+        "able",
+        "s"
+      ],
+      "meaning_connection": "value=价值，-able=能...的，-s表复数→'能被赋予价值的东西'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "贵重物品",
+        "examples": [
+          {
+            "sentence": "The hotel safe is specifically designed for storing valuables like Rolex watches.",
+            "sentence_zh": "酒店保险箱专为存放劳力士手表等贵重物品设计。"
+          },
+          {
+            "sentence": "During the Lantern Festival, keep your valuables close in crowded places.",
+            "sentence_zh": "元宵节期间，在拥挤场所请贴身保管贵重物品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "secure your valuables",
+        "meaning": "保管好贵重物品",
+        "examples": [
+          {
+            "sentence": "The subway announcement reminds passengers to secure their valuables 3 times per minute.",
+            "sentence_zh": "地铁广播每分钟提醒3次乘客保管好贵重物品。"
+          }
+        ]
+      }
+    ],
+    "teach": "valuables其实是'值钱玩意儿'💎！古罗马人用valuables支付赎金会称重⚖️（源自value的重量含义）。要说'随身财物'地道说法是bits and bobs（零碎宝贝），'防盗'叫anti-snatch就像熊猫护竹🎋。记住：你的valuables决定小偷年终奖金额！👛🚨",
+    "recite": {
+      "tips": [
+        "谐音梗：'外流宝死'→外流(valuables)的宝贝要死守",
+        "易混词：value（价值） vs valuables（具体贵重物）"
+      ]
+    }
+  },
+  {
+    "word": "valuation",
+    "etymology": {
+      "breakdown": [
+        "val",
+        "u",
+        "ation"
+      ],
+      "meaning_connection": "词根val=价值（来自拉丁语valere），-ation表行为结果→计算价值的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "评价",
+        "examples": [
+          {
+            "sentence": "The valuation of this antique teapot depends on its Ming dynasty origin.",
+            "sentence_zh": "这把古董茶壶的评价取决于它是否源于明代。"
+          },
+          {
+            "sentence": "Social media influencers often have inflated self-valuations.",
+            "sentence_zh": "网红经常对自己有过高的评价。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "估价",
+        "examples": [
+          {
+            "sentence": "The valuation of my grandmother's jade bracelet surprised everyone at the pawnshop.",
+            "sentence_zh": "当铺对我奶奶玉镯的估价让所有人惊讶。"
+          },
+          {
+            "sentence": "Before selling your ByteDance stocks, get a professional valuation first.",
+            "sentence_zh": "出售字节跳动股票前，先获取专业估价。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "价值判断",
+        "examples": [
+          {
+            "sentence": "The valuation of traditional Chinese medicine varies greatly between cultures.",
+            "sentence_zh": "对于中医的价值判断在不同文化间差异巨大。"
+          },
+          {
+            "sentence": "His valuation of happiness changed after surviving the earthquake.",
+            "sentence_zh": "经历地震后，他对幸福的价值判断改变了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "market valuation",
+        "meaning": "市场估值",
+        "examples": [
+          {
+            "sentence": "The market valuation of this tech startup equals 100 million hotpot restaurants.",
+            "sentence_zh": "这家科技初创公司的市场估值相当于1亿家火锅店。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "property valuation",
+        "meaning": "房产评估",
+        "examples": [
+          {
+            "sentence": "The property valuation of my Beijing hutong house made me cry tears of joy.",
+            "sentence_zh": "我北京胡同房子的房产评估让我喜极而泣。"
+          }
+        ]
+      }
+    ],
+    "teach": "valuation就像给古董鉴宝🔍：专家(val)给你的传家宝定个价(ation)，可能让你暴富💸或心碎💔（参见《鉴宝》节目）。说'虚高估值'叫inflated valuation就像注水猪肉🐷，'白菜价'说peanut valuation🥜。记住：你的价值不取决于别人的valuation！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外流行'→外资流入(valuation)推高股价",
+        "易混词对比：value（价值）是原料，valuation是加工成品",
+        "记忆口诀：val(ue)+uation=把价值(uation)算出来"
+      ]
+    }
+  },
+  {
+    "word": "value",
+    "etymology": {
+      "breakdown": [
+        "val",
+        "ue"
+      ],
+      "meaning_connection": "词根val=力量/价值，-ue为后缀→原指物品的内在力量，引申为'价值'概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "价值",
+        "examples": [
+          {
+            "sentence": "The cultural value of Peking Opera is beyond calculation.",
+            "sentence_zh": "京剧的文化价值难以估量。"
+          },
+          {
+            "sentence": "Her grandma's jade bracelet has both emotional and monetary value.",
+            "sentence_zh": "她奶奶的玉镯既有情感价值也有金钱价值。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "价格",
+        "examples": [
+          {
+            "sentence": "The value of this limited-edition sneaker tripled in two weeks.",
+            "sentence_zh": "这双限量版球鞋的价格两周内翻了三倍。"
+          },
+          {
+            "sentence": "Check the market value before selling your vintage Mahjong set.",
+            "sentence_zh": "出售你的古董麻将前先查查市场价格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "购买力",
+        "examples": [
+          {
+            "sentence": "The value of wages has decreased due to inflation.",
+            "sentence_zh": "由于通货膨胀，工资的购买力下降了。"
+          },
+          {
+            "sentence": "100 yuan's value differs greatly between Shanghai and rural areas.",
+            "sentence_zh": "100元在上海和农村的购买力差异巨大。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "重视",
+        "examples": [
+          {
+            "sentence": "Chinese families highly value education.",
+            "sentence_zh": "中国家庭高度重视教育。"
+          },
+          {
+            "sentence": "Tech companies value innovation more than seniority.",
+            "sentence_zh": "科技公司比资历更重视创新。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "估价",
+        "examples": [
+          {
+            "sentence": "The antique dealer valued the Ming vase at 3 million yuan.",
+            "sentence_zh": "古董商给这个明代花瓶估价300万元。"
+          },
+          {
+            "sentence": "How would you value a handwritten letter from Lu Xun?",
+            "sentence_zh": "你会如何估价鲁迅的手写信件？"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "value for money",
+        "meaning": "物有所值",
+        "examples": [
+          {
+            "sentence": "Haidilao hotpot gives great value for money with free nail services.",
+            "sentence_zh": "海底捞火锅提供免费美甲服务，物超所值。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "value one's life",
+        "meaning": "珍视生命",
+        "examples": [
+          {
+            "sentence": "After the earthquake, people began to value their lives more.",
+            "sentence_zh": "地震过后，人们更加珍视生命。"
+          }
+        ]
+      }
+    ],
+    "teach": "value就像古董鉴定节目💎：当名词时是'这件唐三彩值多少'(value)，当动词时是专家'我估它值500万'(value it)。网络梗'你的努力会增值'就像比特币📈，但真实价值可能像共享单车押金💸。说'这不值'用地道表达not worth a red cent（不值一分钱），搭配'保值'用hold value，'贬值'用lose value。记住：人生价值≠价格标签！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外流'→文物外流失去value",
+        "易混词：price(明码标价) vs value(内在价值)"
+      ]
+    }
   }
 ]

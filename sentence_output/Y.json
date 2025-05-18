@@ -3159,5 +3159,261 @@
         "易混词：Yiddish vs. Yid (后者可能含贬义)"
       ]
     }
+  },
+  {
+    "word": "yield",
+    "etymology": {
+      "breakdown": [
+        "geald"
+      ],
+      "meaning_connection": "源自古英语'gieldan'（支付），与德语'gelten'（有效）同源，核心概念是'付出→产生回报'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "生产量",
+        "examples": [
+          {
+            "sentence": "The rice yield in Hunan increased by 15% this year.",
+            "sentence_zh": "湖南水稻产量今年增长了15%。"
+          },
+          {
+            "sentence": "Tesla's battery yield determines its delivery speed.",
+            "sentence_zh": "特斯拉电池产量决定其交付速度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "投资收益",
+        "examples": [
+          {
+            "sentence": "The annual yield of this fund beats 90% competitors.",
+            "sentence_zh": "该基金年收益率超过90%的竞品。"
+          },
+          {
+            "sentence": "Real estate yields in first-tier cities are shrinking.",
+            "sentence_zh": "一线城市房产投资收益正在缩水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "出产",
+        "examples": [
+          {
+            "sentence": "This vineyard yields the best Cabernet in Ningxia.",
+            "sentence_zh": "这片葡萄园出产宁夏最优解百纳。"
+          },
+          {
+            "sentence": "The new algorithm yields 20% more accurate results.",
+            "sentence_zh": "新算法产出结果准确率提升20%。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "让出",
+        "examples": [
+          {
+            "sentence": "Yield your seat to pregnant women on subway.",
+            "sentence_zh": "在地铁上请为孕妇让座。"
+          },
+          {
+            "sentence": "The CEO yielded control to his successor.",
+            "sentence_zh": "CEO将控制权让渡给继任者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使屈服",
+        "examples": [
+          {
+            "sentence": "The interrogator finally yielded the suspect.",
+            "sentence_zh": "审讯者最终使嫌疑人屈服。"
+          },
+          {
+            "sentence": "No hardship could yield this mountaineer.",
+            "sentence_zh": "任何困难都无法使这位登山者屈服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "出产",
+        "examples": [
+          {
+            "sentence": "This land yields abundantly under organic farming.",
+            "sentence_zh": "采用有机种植时这片土地出产丰富。"
+          },
+          {
+            "sentence": "The oil well no longer yields economically.",
+            "sentence_zh": "这口油井已不再有经济产出。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "屈服",
+        "examples": [
+          {
+            "sentence": "The rebel army yielded after 72 hours.",
+            "sentence_zh": "叛军在72小时后屈服。"
+          },
+          {
+            "sentence": "Never yield to unreasonable demands.",
+            "sentence_zh": "绝不屈服于无理要求。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yield to",
+        "meaning": "让步于",
+        "examples": [
+          {
+            "sentence": "The car yielded to pedestrians at zebra crossing.",
+            "sentence_zh": "车辆在斑马线前礼让行人。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "high-yield",
+        "meaning": "高产的",
+        "examples": [
+          {
+            "sentence": "High-yield bonds carry greater risks.",
+            "sentence_zh": "高收益债券风险更大。"
+          }
+        ]
+      }
+    ],
+    "teach": "yield是颗'多肉植物'🌵！当它表示'产量'时像新疆棉田🌾（cotton yield）；表示'屈服'时像王者荣耀投降按钮🏳️（yield to pressure）；'让出'时像杭州机动车礼让行人🚗💨；金融领域说yield就像看余额宝收益率📈。记住：看到交警举手→yield（停车让行）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'耶！倒'→投降时喊耶然后倒下",
+        "对比：produce（主观生产） vs yield（客观产出）",
+        "记忆口诀：Yield三胞胎→生出来（出产）/让出来（让步）/跪下来（屈服）"
+      ]
+    }
+  },
+  {
+    "word": "yin",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自汉语'阴'的音译，哲学概念；苏格兰语变体来自古英语'ān'（一）的方言演变"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "中国哲学的阴（与阳相对）",
+        "examples": [
+          {
+            "sentence": "The yin-yang symbol on my teapot reminds me to balance work and life.",
+            "sentence_zh": "茶壶上的阴阳符号提醒我平衡工作与生活。"
+          },
+          {
+            "sentence": "Mooncakes with yin energy are said to cool the body in TCM.",
+            "sentence_zh": "中医认为含阴能量的月饼可清凉身体。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中国殷代",
+        "examples": [
+          {
+            "sentence": "Oracle bones from the Yin dynasty are priceless historical treasures.",
+            "sentence_zh": "殷商的甲骨文是无价历史瑰宝。"
+          },
+          {
+            "sentence": "The Yin Ruins museum displays magnificent bronze vessels.",
+            "sentence_zh": "殷墟博物馆陈列着华丽的青铜器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "（苏格兰方言）一个",
+        "examples": [
+          {
+            "sentence": "\"I'll have yin more whisky,\" said the kilt-wearing man at the pub.",
+            "sentence_zh": "穿着苏格兰裙的男人在酒吧说：\"再来一杯威士忌。\""
+          },
+          {
+            "sentence": "The Scottish granny counted \"yin, twa, three\" with her grandchildren.",
+            "sentence_zh": "苏格兰奶奶用方言教孙子数\"一、二、三\"。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yin and yang",
+        "meaning": "阴阳",
+        "examples": [
+          {
+            "sentence": "Tai Chi embodies the harmony of yin and yang energies.",
+            "sentence_zh": "太极拳体现了阴阳能量的和谐。"
+          }
+        ]
+      }
+    ],
+    "teach": "yin是个'三合一'单词🍜：1) 哲学阴如月亮🌙（对应阳的太阳☀️）2) 殷商甲骨文🐢（比emoji还早的文字）3) 苏格兰大叔的'再来一杯'🥃。要吐槽'阴阳失调'可以说out of whack，搭配：dark yin（至阴）/yin vibe（阴郁氛围）。记住：说'一个人'用yin时记得穿格子裙！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瘾'→阴阳就像咖啡瘾（yin）与清醒的平衡",
+        "易混词对比：yin（阴）vs yang（阳）vs yen（日元/渴望）"
+      ]
+    }
+  },
+  {
+    "word": "yippee",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词，源自兴奋时的欢呼声，类似中文的'耶'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "interj.",
+        "meaning": "表示开心",
+        "examples": [
+          {
+            "sentence": "Yippee! My douyin video got 1 million likes!",
+            "sentence_zh": "咦吡！我的抖音视频获赞百万！"
+          },
+          {
+            "sentence": "Yippee! The hotpot buffet is half price today!",
+            "sentence_zh": "好啊！今天火锅自助半价！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yippee ki-yay",
+        "meaning": "牛仔式欢呼（源自电影《虎胆龙威》）",
+        "examples": [
+          {
+            "sentence": "He shouted 'Yippee ki-yay' before riding the mechanical bull.",
+            "sentence_zh": "他骑机械牛前大喊'咦吡咔呀'。"
+          }
+        ]
+      }
+    ],
+    "teach": "yippee是声音的表情包🎉！它就像中文的'芜湖起飞'🛫，最早出现在1930年代米老鼠动画里。搭配场景：拆盲盒抽到隐藏款时(yippee moment)，抢到最后一个冰墩墩时(yippee time)。地道说法叫'over the moon'(开心到月球🌕)。记住：说yippee时要配合兔耳朵手势🐰才正宗！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨拍'→阿姨拍短视频时欢呼",
+        "易混词对比：yikes（惊吓） vs yippee（惊喜）",
+        "记忆tip：想象熊猫滚滚🐼举着竹子喊yippee"
+      ]
+    }
   }
 ]

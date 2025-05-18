@@ -3084,5 +3084,400 @@
         "易混对比：query(查询)是问，quarry是挖"
       ]
     }
+  },
+  {
+    "word": "quarry",
+    "etymology": {
+      "breakdown": [
+        "quarr",
+        "y"
+      ],
+      "meaning_connection": "词根quarr可能源自拉丁语'quadrare'(切割成方形)，后缀-y表场所→最初指切割石材的场地，后衍生出'猎物'等比喻义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "采石场",
+        "examples": [
+          {
+            "sentence": "The marble for the Terracotta Warriors was hauled from distant quarries.",
+            "sentence_zh": "兵马俑所用的大理石从遥远采石场运来。"
+          },
+          {
+            "sentence": "Abandoned quarries often become stunning turquoise lakes.",
+            "sentence_zh": "废弃的采石场常变成碧蓝的湖泊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "方形石",
+        "examples": [
+          {
+            "sentence": "Medieval castles used precisely cut quarries for arches.",
+            "sentence_zh": "中世纪城堡用精确切割的方石砌拱门。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "猎物",
+        "examples": [
+          {
+            "sentence": "The fox became the hunter's quarry after stealing chickens.",
+            "sentence_zh": "偷鸡后这只狐狸成了猎人的目标。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "来源",
+        "examples": [
+          {
+            "sentence": "Ancient poetry is a quarry for modern screenwriters.",
+            "sentence_zh": "古诗是现代编剧的素材宝库。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "挖出",
+        "examples": [
+          {
+            "sentence": "Miners quarried limestone to build the Great Wall.",
+            "sentence_zh": "矿工开采石灰岩修建长城。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "费力地找",
+        "examples": [
+          {
+            "sentence": "Reporters quarried through archives for the scandal evidence.",
+            "sentence_zh": "记者在档案中费力搜寻丑闻证据。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quarry out",
+        "meaning": "彻底挖掘",
+        "examples": [
+          {
+            "sentence": "They quarried out every clue about the missing artifact.",
+            "sentence_zh": "他们穷尽所有线索寻找失踪文物。"
+          }
+        ]
+      }
+    ],
+    "teach": "quarry就像现实版MC钻石镐⛏️！当采石场时是故宫汉白玉的娘家🏛️（marble quarry），当猎物时像狗仔追明星📸（media's quarry），当动词时堪比淘宝挖隐藏优惠券🛒（quarry for discounts）。搭配：'知识宝库'叫knowledge quarry，'深挖数据'说quarry big data。记住：从石头到八卦，万物皆可quarry！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快锐'→采石场需要快而锐利的工具",
+        "易混词：query(查询) vs quarry(采石场)"
+      ]
+    }
+  },
+  {
+    "word": "quarter",
+    "etymology": {
+      "breakdown": [
+        "quart",
+        "er"
+      ],
+      "meaning_connection": "词根quart=四（法语quatre演变而来），-er表名词后缀→原指四等分后的部分"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "四分之一",
+        "examples": [
+          {
+            "sentence": "A quarter of WeChat users spend over 4 hours daily on the app.",
+            "sentence_zh": "四分之一的微信用户每天使用超4小时。"
+          },
+          {
+            "sentence": "She ate a quarter of the mooncake and saved the rest.",
+            "sentence_zh": "她吃了月饼的四分之一，剩下的留着。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一刻钟",
+        "examples": [
+          {
+            "sentence": "The high-speed train departs at a quarter past three.",
+            "sentence_zh": "高铁于三点一刻发车。"
+          },
+          {
+            "sentence": "I'll meet you in a quarter - just need to finish this bubble tea!",
+            "sentence_zh": "一刻钟后见——等我喝完这杯奶茶！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "季度",
+        "examples": [
+          {
+            "sentence": "Alibaba releases its financial report every quarter.",
+            "sentence_zh": "阿里巴巴每个季度发布财报。"
+          },
+          {
+            "sentence": "The first quarter sales exceeded expectations.",
+            "sentence_zh": "第一季度销售额超出预期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地区",
+        "examples": [
+          {
+            "sentence": "The French Quarter in Shanghai has authentic croissants.",
+            "sentence_zh": "上海的法租界地区有正宗牛角包。"
+          },
+          {
+            "sentence": "This ancient quarter still preserves Ming Dynasty architecture.",
+            "sentence_zh": "这个古老地区仍保留着明代建筑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "四等分",
+        "examples": [
+          {
+            "sentence": "Quarter the watermelon before putting it in the fridge.",
+            "sentence_zh": "把西瓜四等分后再放进冰箱。"
+          },
+          {
+            "sentence": "The teacher quartered the paper for origami practice.",
+            "sentence_zh": "老师把纸四等分用于折纸练习。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "驻扎",
+        "examples": [
+          {
+            "sentence": "The troops quartered near the Great Wall during the exercise.",
+            "sentence_zh": "军队在演习期间驻扎在长城附近。"
+          },
+          {
+            "sentence": "Migratory birds quarter in this wetland every winter.",
+            "sentence_zh": "候鸟每年冬季在此湿地驻扎。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "close quarters",
+        "meaning": "狭小空间",
+        "examples": [
+          {
+            "sentence": "Beijing hutongs require close quarters living.",
+            "sentence_zh": "北京胡同需要在小空间里生活。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quarter final",
+        "meaning": "四分之一决赛",
+        "examples": [
+          {
+            "sentence": "The Chinese team advanced to the quarter finals.",
+            "sentence_zh": "中国队晋级四分之一决赛。"
+          }
+        ]
+      }
+    ],
+    "teach": "quarter是数学老师的最爱➗：1) 源自罗马军团的四等分驻扎传统🏛️ 2) 像切月饼🥮一样万能：时间/空间/数字都能切！搭配'give no quarter'（毫不留情）来自军事术语，'bad quarter of an hour'（难熬时刻）来自法语。要说'拥挤'可以吐槽'like sardines in a quarter'🐟。",
+    "recite": {
+      "tips": [
+        "谐音梗：'阔特'→特别阔气的人住豪华quarter",
+        "易混词：quarter vs. quartet（四重奏）"
+      ]
+    }
+  },
+  {
+    "word": "quarterback",
+    "etymology": {
+      "breakdown": [
+        "quarter",
+        "back"
+      ],
+      "meaning_connection": "quarter指'四分之一'，back指'后卫'→橄榄球比赛中位于进攻队形1/4位置的后卫"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "四分卫",
+        "examples": [
+          {
+            "sentence": "The quarterback audibled at the line when he saw the defensive formation.",
+            "sentence_zh": "四分卫看到防守阵型后临时改了战术。"
+          },
+          {
+            "sentence": "Tom Brady is considered the GOAT among NFL quarterbacks.",
+            "sentence_zh": "汤姆·布雷迪被公认为NFL史上最伟大的四分卫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "担任四分卫",
+        "examples": [
+          {
+            "sentence": "He quarterbacked for Alabama in college before going pro.",
+            "sentence_zh": "他在转为职业球员前为阿拉巴马大学担任四分卫。"
+          },
+          {
+            "sentence": "She's the first woman to quarterback in this semi-pro league.",
+            "sentence_zh": "她是这个半职业联盟中首位担任四分卫的女性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quarterback sneak",
+        "meaning": "四分卫突袭战术",
+        "examples": [
+          {
+            "sentence": "The quarterback sneak caught the defense completely off guard.",
+            "sentence_zh": "四分卫突袭战术让防守方完全措手不及。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Monday morning quarterback",
+        "meaning": "事后诸葛亮",
+        "examples": [
+          {
+            "sentence": "Stop being a Monday morning quarterback - you weren't even at the game!",
+            "sentence_zh": "别当事后诸葛亮了——你当时根本不在现场！"
+          }
+        ]
+      }
+    ],
+    "teach": "quarterback是球场上的'人脑CPU'🧠！这个位置源自19世纪橄榄球阵型划分（进攻线后1/4处站位）。职场中'quarterback a project'就是指主导项目👔，而'Monday morning quarterback'专指那些赛后指手画脚的马后炮🎮。记住：真正的QB要像诸葛亮借东风一样预判防守🌪️",
+    "recite": {
+      "tips": [
+        "谐音梗：'阔特back'→阔气的特工(back)在指挥",
+        "易混词对比：fullback(后卫) vs quarterback",
+        "记忆tip：记住QB就像象棋里的'帅'，需要掌控全场"
+      ]
+    }
+  },
+  {
+    "word": "quarterly",
+    "etymology": {
+      "breakdown": [
+        "quarter",
+        "ly"
+      ],
+      "meaning_connection": "quarter=四分之一（年），-ly=副词/形容词后缀→与季度相关的时间单位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "季度的",
+        "examples": [
+          {
+            "sentence": "Tencent releases quarterly financial reports every three months.",
+            "sentence_zh": "腾讯每三个月发布季度财报。"
+          },
+          {
+            "sentence": "The quarterly bonus system motivates Alibaba employees.",
+            "sentence_zh": "季度奖金制度激励着阿里员工。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "按季度的",
+        "examples": [
+          {
+            "sentence": "We have quarterly performance reviews in ByteDance.",
+            "sentence_zh": "我们在字节跳动有按季度的绩效评估。"
+          },
+          {
+            "sentence": "The quarterly subscription saves 15% compared to monthly.",
+            "sentence_zh": "按季度订阅比按月节省15%。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "按季",
+        "examples": [
+          {
+            "sentence": "The magazine publishes quarterly like clockwork.",
+            "sentence_zh": "该杂志像时钟一样按季出版。"
+          },
+          {
+            "sentence": "Tax payments are made quarterly for small businesses.",
+            "sentence_zh": "小企业主需要按季缴税。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "季刊",
+        "examples": [
+          {
+            "sentence": "The Harvard Business Review quarterly is always insightful.",
+            "sentence_zh": "《哈佛商业评论》季刊总是充满洞见。"
+          },
+          {
+            "sentence": "I contributed an article to a literary quarterly.",
+            "sentence_zh": "我给一本文学季刊投了稿。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quarterly report",
+        "meaning": "季度报告",
+        "examples": [
+          {
+            "sentence": "The quarterly report showed TikTok's revenue growth.",
+            "sentence_zh": "季度报告显示了TikTok的收入增长。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quarterly meeting",
+        "meaning": "季度会议",
+        "examples": [
+          {
+            "sentence": "We discussed AI strategies at the quarterly meeting.",
+            "sentence_zh": "我们在季度会议上讨论了AI战略。"
+          }
+        ]
+      }
+    ],
+    "teach": "quarterly其实是'四分之一年'的变形🧮！就像切蛋糕🍰，把一年分成4份就是quarterly（每季度）。财务人员最怕quarterly closing（季度结账），就像学生怕月考📉。说'按季度'可以俏皮地用every quarter moon🌗，搭配quarterly bonus（季度奖金）和quarterly target（季度目标）更地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快疼哩'→季度结算让会计快疼哩",
+        "易混词：quarterly（季度的）vs. quart（夸脱，容量单位）",
+        "记忆法：联想日历四个彩色标记季度"
+      ]
+    }
   }
 ]

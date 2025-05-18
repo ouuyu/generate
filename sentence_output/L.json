@@ -3228,5 +3228,350 @@
         "易混词对比：ale（艾尔啤酒）是常温发酵的"
       ]
     }
+  },
+  {
+    "word": "laggard",
+    "etymology": {
+      "breakdown": [
+        "lag",
+        "gard"
+      ],
+      "meaning_connection": "词根lag源自古诺尔斯语'拖后腿'，-gard为名词后缀→拖后腿的人/事物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "迟钝者",
+        "examples": [
+          {
+            "sentence": "The panda in the zoo is a happy laggard who ignores feeding time.",
+            "sentence_zh": "动物园里有只快乐的迟钝熊猫，总忽略饭点。"
+          },
+          {
+            "sentence": "My iPhone 6 has become a laggard in the age of 5G.",
+            "sentence_zh": "我的iPhone6在5G时代已成迟钝老人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "落后者",
+        "examples": [
+          {
+            "sentence": "In the bike race, he was the laggard with a flat tire.",
+            "sentence_zh": "自行车赛中，他是那个爆胎的落后者。"
+          },
+          {
+            "sentence": "Village schools should not become laggards in educational reform.",
+            "sentence_zh": "乡村学校不该成为教改中的落后者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "迟钝的",
+        "examples": [
+          {
+            "sentence": "The laggard elevator makes people miss their meetings.",
+            "sentence_zh": "迟钝的电梯害人错过会议。"
+          },
+          {
+            "sentence": "My laggard brain refuses to work before coffee.",
+            "sentence_zh": "我的迟钝大脑在喝咖啡前拒绝工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "落后的",
+        "examples": [
+          {
+            "sentence": "Laggard companies will be eliminated by AI revolution.",
+            "sentence_zh": "落后的企业将被AI革命淘汰。"
+          },
+          {
+            "sentence": "The laggard wifi ruined our online gaming night.",
+            "sentence_zh": "落后的网速毁了我们的游戏之夜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "laggard in",
+        "meaning": "在...方面落后",
+        "examples": [
+          {
+            "sentence": "China is no longer a laggard in technological innovation.",
+            "sentence_zh": "中国在科技创新方面已不再落后。"
+          }
+        ]
+      }
+    ],
+    "teach": "laggard是'拖拉鸡'🐔+'乌龟'🐢的结合体！这个词诞生于工业革命时期⚙️，原指掉队的蒸汽火车。现在说人slow as a laggard就像说'树懒附体'🦥。搭配：laggard progress（龟速进展）/laggard student（吊车尾学生）。地道吐槽：'比Windows98还laggard'💻。记住：所有5G时代的2G生物都叫laggard！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赖哥的'→赖哥的(laggard)网速总是最慢",
+        "对比记忆：laggard(持续落后) vs. slow(暂时缓慢)",
+        "联想：lag+gard→花园(lag)里最后绽放的花"
+      ]
+    }
+  },
+  {
+    "word": "lagging",
+    "etymology": {
+      "breakdown": [
+        "lag",
+        "ing"
+      ],
+      "meaning_connection": "词根lag=落后/拖拉，后缀-ing表持续状态或名词化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "迟钝",
+        "examples": [
+          {
+            "sentence": "The lagging in his reaction made him lose the esports finals.",
+            "sentence_zh": "反应迟钝让他在电竞决赛中失利。"
+          },
+          {
+            "sentence": "After staying up coding, my brain shows obvious lagging.",
+            "sentence_zh": "熬夜写代码后，我的大脑明显迟钝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "落后",
+        "examples": [
+          {
+            "sentence": "The lagging in 5G technology costs them the market.",
+            "sentence_zh": "5G技术的落后让他们输掉了市场。"
+          },
+          {
+            "sentence": "Economists warn about the lagging in rural education.",
+            "sentence_zh": "经济学家警示乡村教育的落后。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "防护套",
+        "examples": [
+          {
+            "sentence": "The plumber installed asbestos lagging around the pipes.",
+            "sentence_zh": "水管工给管道安装了石棉防护套。"
+          },
+          {
+            "sentence": "The thermal lagging prevents heat loss in winter.",
+            "sentence_zh": "保温防护套防止冬季热量流失。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "迟钝的",
+        "examples": [
+          {
+            "sentence": "My lagging smartphone needs 3 seconds to open WeChat.",
+            "sentence_zh": "我反应迟钝的手机要3秒才能打开微信。"
+          },
+          {
+            "sentence": "The lagging elevator in my apartment always stops at wrong floors.",
+            "sentence_zh": "我们公寓迟钝的电梯总是停错楼层。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "落后的",
+        "examples": [
+          {
+            "sentence": "The lagging region finally got high-speed railway last year.",
+            "sentence_zh": "这个落后地区去年终于通了高铁。"
+          },
+          {
+            "sentence": "Many lagging industries are embracing AI transformation.",
+            "sentence_zh": "许多落后产业正在拥抱AI转型。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lagging behind",
+        "meaning": "落后于",
+        "examples": [
+          {
+            "sentence": "China is no longer lagging behind in drone technology.",
+            "sentence_zh": "中国在无人机技术领域已不再落后。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "time lagging",
+        "meaning": "时间延迟",
+        "examples": [
+          {
+            "sentence": "The time lagging between lunar new year dates is caused by lunar calendar.",
+            "sentence_zh": "农历新年日期的时间差是由阴历导致的。"
+          }
+        ]
+      }
+    ],
+    "teach": "lagging就像拖着鼻涕跑步的小孩👃💨：作为名词是'落后'这个事实（economic lagging），作为形容词是'慢半拍'的状态（lagging computer）。管道防护套(lagging)其实是给管子穿秋裤👖！地道说法：'网速慢'叫laggy connection，'掉队'说fall behind the curve📉。记住：人生不怕lagging，只要不在同一处lag太久！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来个硬'→防护套(lagging)要来个硬的",
+        "易混词：lagging(持续落后) vs latency(短暂延迟)",
+        "联想：游戏卡顿时角色像在太空漫步🚀"
+      ]
+    }
+  },
+  {
+    "word": "lagoon",
+    "etymology": {
+      "breakdown": [
+        "laguna"
+      ],
+      "meaning_connection": "源自意大利语'laguna'（浅水湖），与拉丁语'lacuna'（水池）同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "环礁湖",
+        "examples": [
+          {
+            "sentence": "The Maldives' turquoise lagoons are actually the tops of ancient volcanoes.",
+            "sentence_zh": "马尔代夫的绿松石色环礁湖其实是古火山顶部。"
+          },
+          {
+            "sentence": "Coconut trees lean drunkenly over the coral lagoon.",
+            "sentence_zh": "椰子树像醉汉般歪斜在珊瑚环礁湖上方。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "近海岸的浅水区",
+        "examples": [
+          {
+            "sentence": "Children were catching starfish in the tidal lagoon.",
+            "sentence_zh": "孩子们正在潮汐浅水区捕捉海星。"
+          },
+          {
+            "sentence": "The yacht got stuck in the coastal lagoon during low tide.",
+            "sentence_zh": "游艇在退潮时搁浅在近岸浅水区。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "泻湖",
+        "examples": [
+          {
+            "sentence": "Venice is built on 118 islands in a brackish lagoon.",
+            "sentence_zh": "威尼斯建在咸水泻湖中的118个岛屿上。"
+          },
+          {
+            "sentence": "Flamingos feed on shrimp in the pink-colored lagoon.",
+            "sentence_zh": "火烈鸟在粉红色的泻湖中捕食虾类。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "咸水湖",
+        "examples": [
+          {
+            "sentence": "The desert lagoon shimmers like a mirage under the sun.",
+            "sentence_zh": "沙漠咸水湖在阳光下如海市蜃楼般闪烁。"
+          },
+          {
+            "sentence": "Salt crystals glitter along the edges of the inland lagoon.",
+            "sentence_zh": "盐晶在内陆咸水湖边缘闪闪发光。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "coral lagoon",
+        "meaning": "珊瑚礁湖",
+        "examples": [
+          {
+            "sentence": "The coral lagoon teems with neon-colored fish.",
+            "sentence_zh": "珊瑚礁湖里游动着霓虹色的鱼群。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "lagoon beach",
+        "meaning": "潟湖沙滩",
+        "examples": [
+          {
+            "sentence": "We collected heart-shaped shells on the lagoon beach at sunset.",
+            "sentence_zh": "日落时我们在潟湖沙滩上捡心形贝壳。"
+          }
+        ]
+      }
+    ],
+    "teach": "lagoon是地球的蓝眼泪💧！威尼斯人曾靠它防御海盗⚔️（Venetian Lagoon），大堡礁用它养小丑鱼🐠（coral lagoon）。说'水很浅'用ankle-deep lagoon（脚踝深的潟湖），'绝美水域'叫turquoise jewel（绿松石宝石）。记住：所有lagoon都像被陆地拥抱的海洋碎片💙！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来个吻'→在lagoon边来个吻",
+        "易混词对比：lagoon(潟湖) vs. lake(湖泊)→前者有海水，后者纯淡水",
+        "记忆tip：把字母'a'看作环礁形状，'goon'联想成'going on water'"
+      ]
+    }
+  },
+  {
+    "word": "laid",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语lecgan的过去分词形式，与德语legen同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "lay的过去式/过去分词（放置）",
+        "examples": [
+          {
+            "sentence": "She laid the mahjong tiles carefully on the table.",
+            "sentence_zh": "她把麻将牌仔细地码放在桌上。"
+          },
+          {
+            "sentence": "The chicken has laid an egg with double yolk this morning.",
+            "sentence_zh": "今早母鸡下了个双黄蛋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "get laid",
+        "meaning": "[俚语]发生性关系",
+        "examples": [
+          {
+            "sentence": "The movie plot revolves around three men trying to get laid.",
+            "sentence_zh": "电影剧情围绕三个想约炮的男子展开。"
+          }
+        ]
+      }
+    ],
+    "teach": "laid是个'躺平高手'🛏️：既是正经的'放置'（laid the book），也是羞羞的'约到'（get laid）。记住'三明治法则'🥪：过去式laid就像夹在中间的培根（原形lay-过去式laid-过去分词laid），而说谎lie的过去式是lay（易混警告！）'下蛋'要说The hen laid eggs🐣，'布置陷阱'是lay a trap🕳️",
+    "recite": {
+      "tips": [
+        "谐音梗：'累的'→搬砖累的(laid)时候就想躺着",
+        "易混词对比：lie（说谎）→lay→lain / lie（平躺）→lay→lain / lay（放置）→laid→laid"
+      ]
+    }
   }
 ]

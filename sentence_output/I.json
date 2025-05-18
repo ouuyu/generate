@@ -3275,5 +3275,306 @@
         "易混词：identical（完全相同的） vs identity（身份）"
       ]
     }
+  },
+  {
+    "word": "identifying",
+    "etymology": {
+      "breakdown": [
+        "ident",
+        "ify",
+        "ing"
+      ],
+      "meaning_connection": "词根ident=相同，-ify表'使...化'，-ing表名词化→'使相同的过程'引申为识别"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "识别",
+        "examples": [
+          {
+            "sentence": "Facial identifying sometimes mistakes twins for each other.",
+            "sentence_zh": "人脸识别有时会把双胞胎认错。"
+          },
+          {
+            "sentence": "The panda's identifying feature is its black eye patches.",
+            "sentence_zh": "熊猫的识别特征是它的黑眼圈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "标识",
+        "examples": [
+          {
+            "sentence": "QR code identifying has replaced traditional menus in hotpot restaurants.",
+            "sentence_zh": "二维码标识已取代火锅店的传统菜单。"
+          },
+          {
+            "sentence": "The red lantern is the most recognizable identifying of Chinese New Year.",
+            "sentence_zh": "红灯笼是春节最醒目的标识。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "标识关系",
+        "examples": [
+          {
+            "sentence": "The identifying between username and real name must be encrypted.",
+            "sentence_zh": "用户名和真实姓名间的标识关系必须加密。"
+          },
+          {
+            "sentence": "DNA testing revealed the identifying of the ancient warrior.",
+            "sentence_zh": "DNA检测揭示了古代战士的标识关系。"
+          }
+        ]
+      }
+    ],
+    "teach": "identifying就是给万物贴电子标签🏷️！就像给熊猫加黑眼圈🐼（生物识别），给快递贴条形码📦（物品标识），甚至像相亲APP匹配星座♊（关系标识）。想用'认出某人'别只说recognize，地道说法是'put a name to the face'。搭配：identity theft（盗用身份）/identification card（证件）💳。记住：你的脸就是行走的ID！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱等贴飞鹰'→爱等待贴标签的飞鹰",
+        "易混词对比：identity（身份） VS identification（识别过程）",
+        "记忆tip：想象所有东西都在喊'ID！ID！'"
+      ]
+    }
+  },
+  {
+    "word": "ideogram",
+    "etymology": {
+      "breakdown": [
+        "ideo",
+        "gram"
+      ],
+      "meaning_connection": "词根ideo=思想/概念（来自希腊语idea），gram=书写/图形→表达概念的图形符号"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "表意文字",
+        "examples": [
+          {
+            "sentence": "The '爱' ideogram in Chinese combines 'claw' and 'heart' radicals to express affection.",
+            "sentence_zh": "汉字'爱'结合'爪'和'心'偏旁表达情感。"
+          },
+          {
+            "sentence": "Ancient Egyptian hieroglyphs are among the earliest ideograms still decipherable today.",
+            "sentence_zh": "古埃及象形文字是最早可破译的表意文字之一。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "logographic ideogram",
+        "meaning": "语素文字",
+        "examples": [
+          {
+            "sentence": "Chinese characters are logographic ideograms representing whole words or morphemes.",
+            "sentence_zh": "汉字是代表完整词语或语素的语素文字。"
+          }
+        ]
+      }
+    ],
+    "teach": "ideogram是文字的'表情包'🗿→比emoji早5000年！汉字'家'(宀+豕)就是完美案例：屋顶下有猪🐖=有肉吃才是家。'象形文字'叫pictogram（纯图画），而ideogram更抽象（如'上'字）。要吐槽'看不懂'可以说：This looks like alien ideograms! 👽📜",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱嘀咕'→古人嘀咕着发明表意文字",
+        "对比：pictogram（象形字）vs ideogram（会意字）",
+        "记忆法：ideo(思想)+gram(写)=用图形表达思想"
+      ]
+    }
+  },
+  {
+    "word": "ideological",
+    "etymology": {
+      "breakdown": [
+        "ideo",
+        "log",
+        "ical"
+      ],
+      "meaning_connection": "词根ideo=思想/观念（来自希腊语idea），-log=学科/研究，-ical=形容词后缀→研究思想的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "意识形态的",
+        "examples": [
+          {
+            "sentence": "The ideological differences between streaming platforms affect content recommendations.",
+            "sentence_zh": "流媒体平台间的意识形态差异会影响内容推荐算法。"
+          },
+          {
+            "sentence": "His WeChat posts reflect strong ideological tendencies.",
+            "sentence_zh": "他的微信朋友圈体现了强烈的意识形态倾向。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "空想的",
+        "examples": [
+          {
+            "sentence": "Building a metaverse without technological foundation is purely ideological.",
+            "sentence_zh": "在没有技术基础的情况下构建元宇宙纯属空想。"
+          },
+          {
+            "sentence": "Her plan to retire at 30 sounds ideological but impractical.",
+            "sentence_zh": "她30岁退休的计划听起来很空想但不切实际。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ideological conflict",
+        "meaning": "意识形态冲突",
+        "examples": [
+          {
+            "sentence": "The debate about AI ethics often turns into ideological conflicts.",
+            "sentence_zh": "关于AI伦理的辩论常演变成意识形态冲突。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "ideological education",
+        "meaning": "思想教育",
+        "examples": [
+          {
+            "sentence": "School flag-raising ceremonies are part of ideological education.",
+            "sentence_zh": "学校升旗仪式是思想教育的一部分。"
+          }
+        ]
+      }
+    ],
+    "teach": "ideological是'思想界的乐高玩具🧩'：词根ideo=思想（比如idea），-log=研究（比如biology）。说人'太理想化'可以吐槽'Stop being so ideological!' 就像说'别做梦了'💭。搭配'ideological bubble'形容信息茧房，'ideological diet'指精神食粮📚。记住：当讨论变成ideological debate，就像两群人在用不同语言的emoji吵架🗣️💢",
+    "recite": {
+      "tips": [
+        "对比记忆：ideal（理想的）是单人做梦，ideological是集体做梦",
+        "谐音梗：'爱滴逻辑喔'→陷入意识形态的逻辑漩涡"
+      ]
+    }
+  },
+  {
+    "word": "ideologically",
+    "etymology": {
+      "breakdown": [
+        "ideo",
+        "log",
+        "ical",
+        "ly"
+      ],
+      "meaning_connection": "词根ideo=思想/观念（源自希腊语idea），-log=学科/研究，-ical=形容词后缀，-ly=副词后缀→关于思想体系的研究方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "在思想上",
+        "examples": [
+          {
+            "sentence": "The two schools are ideologically opposed on meme censorship.",
+            "sentence_zh": "两所学校在表情包审查问题上思想对立。"
+          },
+          {
+            "sentence": "She ideologically supports eating hotpot with rice noodles first.",
+            "sentence_zh": "她在思想上支持火锅先下米粉派。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "在意识形态上",
+        "examples": [
+          {
+            "sentence": "The smartphone brands are ideologically competing through wallpapers.",
+            "sentence_zh": "手机品牌正通过壁纸在意识形态上竞争。"
+          },
+          {
+            "sentence": "These emoji updates reflect ideologically different approaches.",
+            "sentence_zh": "这些表情符号更新反映出意识形态上的差异。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ideologically motivated",
+        "meaning": "受意识形态驱使的",
+        "examples": [
+          {
+            "sentence": "The debate about pineapple pizza is often ideologically motivated.",
+            "sentence_zh": "关于菠萝披萨的争论常受意识形态驱使。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "ideologically pure",
+        "meaning": "意识形态纯粹的",
+        "examples": [
+          {
+            "sentence": "No bubble tea brand can claim to be ideologically pure in flavor.",
+            "sentence_zh": "没有奶茶品牌敢宣称自己的口味意识形态纯粹。"
+          }
+        ]
+      }
+    ],
+    "teach": "ideologically这个词就像火锅底料选择🍲！词根ideo是'思想'就像选择清汤/麻辣锅底，-logical是'研究方式'就像涮肉时长⌛。当你说'ideologically different'就像广东人和四川人争论蘸料该不该放糖🍬。记住：所有'主义'之争(-ism)本质上都是ideological的较量🤺！",
+    "recite": {
+      "tips": [
+        "词根记忆：ideo(思想)+logy(学科)=思想体系",
+        "易混词对比：ideological(adj.) vs ideology(n.)"
+      ]
+    }
+  },
+  {
+    "word": "ideologist",
+    "etymology": {
+      "breakdown": [
+        "ideo",
+        "logist"
+      ],
+      "meaning_connection": "词根ideo=思想/观念（来自希腊语idea），-logist表示'...学家'→研究思想体系的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "思想理论家",
+        "examples": [
+          {
+            "sentence": "Confucius was not just a philosopher but an ideologist who shaped East Asian values.",
+            "sentence_zh": "孔子不仅是哲学家，更是塑造东亚价值观的思想理论家。"
+          },
+          {
+            "sentence": "The Silicon Valley ideologist preached about tech utopia while eating $20 avocado toast.",
+            "sentence_zh": "这位硅谷思想理论家一边吃着20美元的牛油果吐司，一边宣扬科技乌托邦。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political ideologist",
+        "meaning": "政治理论家",
+        "examples": [
+          {
+            "sentence": "This WeChat blogger acts like a political ideologist but just copies Wikipedia.",
+            "sentence_zh": "这个微信公众号作者摆出政治理论家姿态，其实只会复制维基百科。"
+          }
+        ]
+      }
+    ],
+    "teach": "ideologist其实是'思想家的士力架'🧠：把idea(思想)和-ologist(专家)压缩成能量棒⚡。记住：真正的ideologist不会只说'懂得都懂'🤫，要像火锅讲究'七上八下'🍲般体系化。说'空谈理论家'用armchair ideologist，就像只会点评外卖的吃货🍔。",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱滴逻辑死特'→爱讲道理到逻辑死机",
+        "易混词对比：ideology(意识形态)/idealist(理想主义者)"
+      ]
+    }
   }
 ]

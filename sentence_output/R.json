@@ -3294,5 +3294,192 @@
         "易混词对比：radioactively(放射性地) vs. actively(活跃地)"
       ]
     }
+  },
+  {
+    "word": "radioactivity",
+    "etymology": {
+      "breakdown": [
+        "radio",
+        "activity"
+      ],
+      "meaning_connection": "radio源自拉丁语radius（射线），activity表示活动性质→射线活动现象"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "放射性",
+        "examples": [
+          {
+            "sentence": "The Geiger counter clicked wildly near the radioactivity source.",
+            "sentence_zh": "盖革计数器在放射源附近疯狂作响。"
+          },
+          {
+            "sentence": "Banana's natural radioactivity is lower than airport security scanners.",
+            "sentence_zh": "香蕉的天然放射性比机场安检仪还低。"
+          }
+        ]
+      }
+    ],
+    "teach": "radioactivity是'宇宙闪光灯'✨：居里夫人发现它时就像找到会自拍的矿石🤳！说'核辐射'用nuclear radiation，'本底辐射'叫background radiation就像宇宙微波背景🌌。记住：吃10万根香蕉才抵一次CT扫描的辐射量🍌☢️！",
+    "recite": {
+      "tips": [
+        "视觉拆解：radio（电台）+ activity（活动）→ 电台信号般的隐形活动",
+        "易混词对比：radiation（辐射现象） vs. radioactive（具有放射性的）",
+        "记忆口诀：'镭迪欧活动'→镭元素发现的放射性现象"
+      ]
+    }
+  },
+  {
+    "word": "radiocarbon",
+    "etymology": {
+      "breakdown": [
+        "radio",
+        "carbon"
+      ],
+      "meaning_connection": "radio=放射（源自拉丁语radius'射线'），carbon=碳→具有放射性的碳元素"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "放射性碳",
+        "examples": [
+          {
+            "sentence": "The dinosaur bone was dated using radiocarbon techniques.",
+            "sentence_zh": "这块恐龙骨用放射性碳技术测定年代。"
+          },
+          {
+            "sentence": "Radiocarbon levels in this mummy's hair reveal her diet.",
+            "sentence_zh": "木乃伊头发中的放射性碳含量揭示了她的饮食结构。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "碳-14",
+        "examples": [
+          {
+            "sentence": "Scientists measure radiocarbon decay to determine artifact ages.",
+            "sentence_zh": "科学家通过测量碳-14衰变来确定文物年代。"
+          },
+          {
+            "sentence": "This panda fossil contains trace amounts of radiocarbon.",
+            "sentence_zh": "这块熊猫化石含有微量碳-14。"
+          }
+        ]
+      }
+    ],
+    "teach": "radiocarbon是考古学家的时光机⏳！碳-14就像自然界的条形码，动物活着时吸收它，死后开始衰变。测它就像看'食品保质期'（carbon dating），但对象是猛犸象🦣！搭配：'检测放射性碳'叫run radiocarbon tests，'半衰期'说half-life。地道表达：'年代久远'叫as old as radiocarbon dating（老到碳测年都测不出）🧪⚛️🔍",
+    "recite": {
+      "tips": [
+        "视觉联想：radio+carbon=会'唱歌'的碳元素（因为放射性）🎵",
+        "易混词：carbon monoxide（一氧化碳）是沉默杀手，radiocarbon是时光侦探"
+      ]
+    }
+  },
+  {
+    "word": "radiography",
+    "etymology": {
+      "breakdown": [
+        "radio",
+        "graphy"
+      ],
+      "meaning_connection": "前缀radio-表示'放射'，词根graphy表示'记录'→字面意思为'用放射线记录影像'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "射线照相术",
+        "examples": [
+          {
+            "sentence": "Modern radiography can detect cracks smaller than a hair width.",
+            "sentence_zh": "现代射线照相术能检测出发丝粗细的裂纹。"
+          },
+          {
+            "sentence": "Airport security uses radiography to scan luggage without opening it.",
+            "sentence_zh": "机场安检通过射线照相术无需开箱即可扫描行李。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "放射线照相术",
+        "examples": [
+          {
+            "sentence": "Industrial radiography helps inspect welding quality in bridges.",
+            "sentence_zh": "工业放射线照相术用于检测桥梁焊接质量。"
+          },
+          {
+            "sentence": "The museum employed radiography to study the mummy's bandage layers.",
+            "sentence_zh": "博物馆用放射线照相术研究木乃伊的裹布层次。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "digital radiography",
+        "meaning": "数字放射成像",
+        "examples": [
+          {
+            "sentence": "Dentists now prefer digital radiography for its instant results.",
+            "sentence_zh": "牙医现在偏爱数字放射成像，因其能即时出结果。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "medical radiography",
+        "meaning": "医疗放射照相",
+        "examples": [
+          {
+            "sentence": "Medical radiography technicians wear lead aprons for protection.",
+            "sentence_zh": "医疗放射照相技师穿着铅围裙作为防护。"
+          }
+        ]
+      }
+    ],
+    "teach": "radiography是给物体拍X光写真📸！就像给西瓜'照妖镜'判断生熟🍉（industrial radiography），或是给兵马俑做'体检'CT扫描🗿（archaeological radiography）。记住：'拍片'叫take radiographs，'显影'用develop images。这技术让隐藏的真相'显形'，就像手机扫二维码般神奇🔍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达哥来飞'→雷达(radio)哥(graphy)用射线飞行",
+        "对比记忆：radiography（成像技术） vs radioactivity（放射性）"
+      ]
+    }
+  },
+  {
+    "word": "radiologist",
+    "etymology": {
+      "breakdown": [
+        "radio",
+        "log",
+        "ist"
+      ],
+      "meaning_connection": "词根radio=辐射/无线电，log=学科/研究，-ist=从事者→研究辐射的专家"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "放射科医生",
+        "examples": [
+          {
+            "sentence": "The radiologist spotted a tumor the size of a lychee in the X-ray.",
+            "sentence_zh": "放射科医生在X光片上发现了荔枝大小的肿瘤。"
+          },
+          {
+            "sentence": "As a radiologist, she can read CT scans like comic books.",
+            "sentence_zh": "作为放射科医生，她看CT片就像看连环画。"
+          }
+        ]
+      }
+    ],
+    "teach": "radiologist其实是'读光师'👁️：他们像解码WiFi信号📶一样解读X光片（所以词根是radio）。说'拍片'地道表达是get scanned，'透视超能力者'就叫film-reading wizard🦸♂️。记住：他们的诊断决定你是吃布洛芬还是动手术🔪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达老司机'→用雷达(radio)看片的行家",
+        "易混词对比：radiographer（拍片技师）vs radiologist（读片医生）",
+        "联想：radio+ologist=用辐射写日志的人"
+      ]
+    }
   }
 ]

@@ -3388,5 +3388,246 @@
         "对比：wall(实体墙) vs. barrier(抽象障碍)"
       ]
     }
+  },
+  {
+    "word": "wallaby",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自澳大利亚原住民语言，直接音译而来"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "沙袋鼠",
+        "examples": [
+          {
+            "sentence": "A baby wallaby peeked out from its mother's pouch at Sydney Zoo.",
+            "sentence_zh": "悉尼动物园里，一只小沙袋鼠从妈妈育儿袋里探出头来。"
+          },
+          {
+            "sentence": "Wallabies can jump over fences like NBA players.",
+            "sentence_zh": "沙袋鼠能像NBA球员一样跳过栅栏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "澳大利亚人（俚语）",
+        "examples": [
+          {
+            "sentence": "G'day mate! This wallaby will show you around Melbourne.",
+            "sentence_zh": "你好啊伙计！这个澳洲佬带你去逛墨尔本。"
+          },
+          {
+            "sentence": "The pub was full of cheerful wallabies watching rugby.",
+            "sentence_zh": "酒吧里挤满了看橄榄球的快乐澳洲人。"
+          }
+        ]
+      }
+    ],
+    "teach": "wallaby是澳洲的双重代言人🦘：既是蹦跳的萌物，也是澳式幽默的自黑称号！考考你：袋鼠(kangaroo)和沙袋鼠区别就像SUV和迷你Cooper🚗。搭配说'jump like a wallaby'(像袋鼠般灵活)，地道吐槽'as lost as a wallaby in Walmart'(像超市里的袋鼠一样懵)。记住：别把澳洲人叫kangaroo，就像别把广东人叫企鹅🐧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哇啦比'→听到袋鼠哇啦比叫",
+        "易混词对比：kangaroo（大袋鼠）体型>wallaby",
+        "记忆tip：wallaby的wall联想澳洲'围墙'-地理隔离造就独特物种"
+      ]
+    }
+  },
+  {
+    "word": "walled",
+    "etymology": {
+      "breakdown": [
+        "wall",
+        "ed"
+      ],
+      "meaning_connection": "wall=墙，-ed表形容词→'有墙的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有城墙的",
+        "examples": [
+          {
+            "sentence": "The walled city of Xi'an preserves its ancient charm.",
+            "sentence_zh": "西安城墙完整保留着古都风韵。"
+          },
+          {
+            "sentence": "We rode bicycles along the walled perimeter of Pingyao.",
+            "sentence_zh": "我们沿平遥城墙骑行了一圈。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "walled garden",
+        "meaning": "封闭生态系统",
+        "examples": [
+          {
+            "sentence": "WeChat's walled garden strategy creates a self-contained universe.",
+            "sentence_zh": "微信的围墙花园策略构建了自成一体的生态。"
+          },
+          {
+            "sentence": "The app store is Apple's most profitable walled garden.",
+            "sentence_zh": "应用商店是苹果最赚钱的封闭王国。"
+          }
+        ]
+      }
+    ],
+    "teach": "walled是'墙裂'存在感🧱！古代北京有'内九外七皇城四'的walled结构，现在互联网大佬们建起digital walls🌐。说'闭关锁国'叫build walls like Ming Dynasty，'打破壁垒'是tear down the walls🚧。记住：有形的墙保护文明，无形的墙阻碍交流！",
+    "recite": {
+      "tips": [
+        "视觉联想：'walled'的'll'像城墙垛口",
+        "易混词对比：wallet（钱包）vs walled（有墙的）"
+      ]
+    }
+  },
+  {
+    "word": "wallet",
+    "etymology": {
+      "breakdown": [
+        "wal",
+        "et"
+      ],
+      "meaning_connection": "来自古英语'wealh'（旅行者）+后缀-et→原指旅行者随身携带的小包"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "皮夹",
+        "examples": [
+          {
+            "sentence": "He found a limited edition Palace Skateboards wallet in the vintage store.",
+            "sentence_zh": "他在古着店发现了Palace Skateboards的限量款皮夹。"
+          },
+          {
+            "sentence": "Her RFID-blocking wallet saved her from digital pickpockets.",
+            "sentence_zh": "她的防射频盗刷皮夹避免了电子扒手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "钱袋",
+        "examples": [
+          {
+            "sentence": "The street performer jingled his coin-filled wallet.",
+            "sentence_zh": "街头艺人晃着装满硬币的钱袋叮当作响。"
+          },
+          {
+            "sentence": "Digital wallets are making physical ones obsolete.",
+            "sentence_zh": "电子钱包正在淘汰实物钱袋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fat wallet",
+        "meaning": "鼓鼓的钱包（形容富有）",
+        "examples": [
+          {
+            "sentence": "Crypto bros showing off their fat wallets at the club",
+            "sentence_zh": "加密货币玩家在夜店炫耀鼓鼓的钱包"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wallet-friendly",
+        "meaning": "经济实惠的",
+        "examples": [
+          {
+            "sentence": "This wallet-friendly hot pot chain is students' favorite",
+            "sentence_zh": "这家经济实惠的火锅连锁是学生最爱"
+          }
+        ]
+      }
+    ],
+    "teach": "wallet的前世今生：古英语'wealh'本指'异乡人'🧳，因为旅行者总带着装钱的小包。现代人用'cry wallet'形容双十一后的钱包状态😭，'thin wallet'比'short of money'更地道。记住三件事：1) 真皮夹叫genuine leather wallet🐄 2) 手机壳带卡位叫wallet case📱 3) 钱包被偷别说steal要说lifted（My wallet got lifted）🦹♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'我咧'→钱包被偷时'我咧？！'",
+        "易混词：purse（女式钱包更小）vs wallet（对折款）",
+        "记忆法：wall+et→墙上挂的et外星人存钱罐"
+      ]
+    }
+  },
+  {
+    "word": "wallflower",
+    "etymology": {
+      "breakdown": [
+        "wall",
+        "flower"
+      ],
+      "meaning_connection": "字面意思是'墙上的花'，因桂足香常生长在墙壁缝隙；后比喻社交场合靠墙站的局外人。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "桂足香",
+        "examples": [
+          {
+            "sentence": "The yellow wallflowers bloomed between ancient castle stones.",
+            "sentence_zh": "黄色的桂足香在古堡石缝间绽放。"
+          },
+          {
+            "sentence": "She planted wallflowers that smelled like childhood memories.",
+            "sentence_zh": "她种下的桂足香带着童年回忆的香气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "桂香香水",
+        "examples": [
+          {
+            "sentence": "This Victorian-style wallflower perfume costs 3 silver coins.",
+            "sentence_zh": "这款维多利亚风桂香香水价值三枚银币。"
+          },
+          {
+            "sentence": "The wallflower scent reminds me of my grandma's drawer.",
+            "sentence_zh": "桂香香水让我想起奶奶的抽屉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "局外人（社交场合）",
+        "examples": [
+          {
+            "sentence": "At prom, he was the wallflower eating 7 plates of snacks.",
+            "sentence_zh": "毕业舞会上，他是那个狂吃七盘零食的局外人。"
+          },
+          {
+            "sentence": "Every office has wallflowers who secretly observe everything.",
+            "sentence_zh": "每个公司都有暗中观察一切的社交边缘人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "social wallflower",
+        "meaning": "社交隐形人",
+        "examples": [
+          {
+            "sentence": "The billionaire dressed as a social wallflower at the party.",
+            "sentence_zh": "那位亿万富翁在派对上伪装成社交小透明。"
+          }
+        ]
+      }
+    ],
+    "teach": "wallflower是植物界007🌿→既当香料又当间谍！英国都铎王朝时，淑女们把桂足香别在衣领遮体味👑，现在形容社恐人就像《哈利波特》里的隐形斗篷🧥。搭配'social wallflower'比说'I'm shy'更地道，'打破沉默'叫break the ice🪓。记住：当wallflower不可耻，说不定你在收集写作素材呢✍️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我腐了'→壁花(wallflower)宅腐了",
+        "易混词：violet（紫罗兰是主动孤僻，wallflower是被动边缘）"
+      ]
+    }
   }
 ]

@@ -3133,5 +3133,343 @@
         "易混词对比：safe(adj.) vs safely(adv.) 就像'安全帽'和'安全地戴帽'"
       ]
     }
+  },
+  {
+    "word": "safety",
+    "etymology": {
+      "breakdown": [
+        "safe",
+        "ty"
+      ],
+      "meaning_connection": "safe表示'安全的'，后缀-ty表示'状态或性质'→'安全的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "安全",
+        "examples": [
+          {
+            "sentence": "The safety of passengers is the airline's top priority.",
+            "sentence_zh": "乘客的安全是航空公司的首要任务。"
+          },
+          {
+            "sentence": "Wearing a helmet is crucial for bicycle safety.",
+            "sentence_zh": "戴头盔对自行车安全至关重要。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "保险",
+        "examples": [
+          {
+            "sentence": "He checked the safety on his gun before going hunting.",
+            "sentence_zh": "打猎前他检查了枪的保险装置。"
+          },
+          {
+            "sentence": "The safety on this power tool prevents accidental starts.",
+            "sentence_zh": "这个电动工具上的保险装置可以防止意外启动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "平安",
+        "examples": [
+          {
+            "sentence": "We prayed for the safety of the trapped miners.",
+            "sentence_zh": "我们为被困矿工的平安祈祷。"
+          },
+          {
+            "sentence": "A message confirmed the safety of the missing hiker.",
+            "sentence_zh": "一条消息确认了失踪徒步旅行者的平安。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "保安设备",
+        "examples": [
+          {
+            "sentence": "The factory installed new safety equipment last month.",
+            "sentence_zh": "工厂上个月安装了新的保安设备。"
+          },
+          {
+            "sentence": "Safety harnesses are mandatory for construction workers.",
+            "sentence_zh": "安全带是建筑工人的必备保安设备。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "保护",
+        "examples": [
+          {
+            "sentence": "The new law aims to safety children from online predators.",
+            "sentence_zh": "新法律旨在保护儿童免受网络侵害。"
+          },
+          {
+            "sentence": "Parents naturally want to safety their kids from harm.",
+            "sentence_zh": "父母自然想保护孩子免受伤害。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "防护",
+        "examples": [
+          {
+            "sentence": "Vaccines help safety us against deadly diseases.",
+            "sentence_zh": "疫苗帮助我们防护致命疾病。"
+          },
+          {
+            "sentence": "This software safety your computer from viruses.",
+            "sentence_zh": "这款软件为你的电脑提供病毒防护。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "safety net",
+        "meaning": "安全网",
+        "examples": [
+          {
+            "sentence": "The government provides a financial safety net for unemployed workers.",
+            "sentence_zh": "政府为失业工人提供金融安全网。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "safety first",
+        "meaning": "安全第一",
+        "examples": [
+          {
+            "sentence": "The construction site's motto is Safety First in bright red letters.",
+            "sentence_zh": "工地用鲜红的字母写着'安全第一'的标语。"
+          }
+        ]
+      }
+    ],
+    "teach": "safety这词就像个安全卫士🛡️！从古老的'safe'(安全)演变而来，-ty后缀让它变成'安全状态'。你知道吗？古罗马人用'salus'(安全)问候他人，就像我们说'吃了没'🍜。'安全第一'叫safety first，'没有安全感'是feel vulnerable，'保险装置'叫safety catch。记住：你的手机壳就是手机的safety！📱➡️🛡️",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛飞踢'→比赛时飞踢要注意安全",
+        "易混词对比：security(宏观安全) vs safety(具体安全)"
+      ]
+    }
+  },
+  {
+    "word": "saffron",
+    "etymology": {
+      "breakdown": [
+        "saffr",
+        "on"
+      ],
+      "meaning_connection": "源自阿拉伯语za'farān，经拉丁语safranum传入英语，-on为名词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "藏红花（植物）",
+        "examples": [
+          {
+            "sentence": "Saffron grows in delicate purple flowers with three red stigmas.",
+            "sentence_zh": "藏红花开淡紫色花朵，每朵有三根红色柱头。"
+          },
+          {
+            "sentence": "It takes 75,000 saffron flowers to produce one pound of spice.",
+            "sentence_zh": "制作一磅藏红花香料需要7.5万朵花。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "藏红花柱头（香料）",
+        "examples": [
+          {
+            "sentence": "She added a pinch of saffron to the paella for golden color.",
+            "sentence_zh": "她在海鲜饭里加了一撮藏红花调出金黄色。"
+          },
+          {
+            "sentence": "Real saffron threads will turn water yellow immediately.",
+            "sentence_zh": "真正的藏红花柱头遇水会立即把水染黄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "藏红花色（橙黄色）",
+        "examples": [
+          {
+            "sentence": "The sunset painted the sky in vibrant saffron.",
+            "sentence_zh": "夕阳将天空染成鲜艳的藏红花色。"
+          },
+          {
+            "sentence": "Buddhist monks' robes are traditionally saffron-colored.",
+            "sentence_zh": "佛教僧袍传统上为藏红花色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "藏红花色的",
+        "examples": [
+          {
+            "sentence": "She wore a saffron sari for the Diwali festival.",
+            "sentence_zh": "她穿着藏红花色的纱丽参加排灯节。"
+          },
+          {
+            "sentence": "The saffron banners fluttered in the morning breeze.",
+            "sentence_zh": "藏红花色的旗帜在晨风中飘扬。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "saffron rice",
+        "meaning": "藏红花饭",
+        "examples": [
+          {
+            "sentence": "Persian saffron rice with crispy tahdig is irresistible.",
+            "sentence_zh": "波斯藏红花饭配脆锅巴令人无法抗拒。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "saffron milk",
+        "meaning": "藏红花牛奶（印度饮品）",
+        "examples": [
+          {
+            "sentence": "Grandma makes saffron milk with almonds during winter.",
+            "sentence_zh": "奶奶冬天会做加入杏仁的藏红花牛奶。"
+          }
+        ]
+      }
+    ],
+    "teach": "藏红花是香料界的黄金💰！1克比黄金还贵（市场价≈¥300），西班牙海鲜饭没有它就像火锅没有辣🌶️。古代埃及艳后用它泡澡🧖‍♀️，现在伊朗产量占全球90%🌍。说'奢侈享受'可用live on saffron（字面：靠藏红花生活），'昂贵物品'叫saffron-level purchase。记住：真品藏红花泡水会呈现金色漩涡✨，假货只会掉色！",
+    "recite": {
+      "tips": [
+        "谐音梗：'腮红'→藏红花色像少女腮红",
+        "易混词：vs. turmeric（姜黄粉，更便宜且颜色偏橙）",
+        "记忆tip：S-A-F-F-R-O-N → Spices Are Freakishly Fancy, Requires Outstanding Noses（香料极度奢侈，需要出众嗅觉）"
+      ]
+    }
+  },
+  {
+    "word": "sag",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'sökkva'（下沉），与德语'sacken'同源，模拟物体下坠的拟声词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "下垂",
+        "examples": [
+          {
+            "sentence": "The hammock sagged under the weight of three fat cats.",
+            "sentence_zh": "吊床在三只肥猫的重压下明显下垂。"
+          },
+          {
+            "sentence": "Her shoulders sagged like deflated balloons after the bad news.",
+            "sentence_zh": "听到坏消息后，她的肩膀像泄气的气球般耷拉下来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "倾斜",
+        "examples": [
+          {
+            "sentence": "The Tower of Pisa sags at a 4-degree angle, defying gravity for 800 years.",
+            "sentence_zh": "比萨斜塔以4度角倾斜，违抗重力法则已800年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "萎靡",
+        "examples": [
+          {
+            "sentence": "His spirits sagged when his Douyin account got suspended.",
+            "sentence_zh": "抖音账号被封时他精神萎靡不振。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "萧条",
+        "examples": [
+          {
+            "sentence": "The housing market sagged like a soufflé taken out too early.",
+            "sentence_zh": "房地产市场像过早取出的舒芙蕾一样塌陷萧条。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变得乏味",
+        "examples": [
+          {
+            "sentence": "The livestream sagged after the influencer ran out of hotpot ingredients.",
+            "sentence_zh": "当网红吃完火锅食材后，直播变得乏味起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使下垂",
+        "examples": [
+          {
+            "sentence": "The weight of mooncakes sagged the gift box's ribbon.",
+            "sentence_zh": "月饼的重量使礼品盒的缎带下垂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "下垂",
+        "examples": [
+          {
+            "sentence": "The sag of grandma's knitted sweater told stories of decades.",
+            "sentence_zh": "奶奶针织衫的下垂诉说着数十年的故事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "倾斜",
+        "examples": [
+          {
+            "sentence": "The architect calculated the roof's sag to prevent snow accumulation.",
+            "sentence_zh": "建筑师计算了屋顶的倾斜度以防止积雪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "萧条",
+        "examples": [
+          {
+            "sentence": "The economic sag hit bubble tea shops harder than expected.",
+            "sentence_zh": "经济萧条对奶茶店的冲击比预期更严重。"
+          }
+        ]
+      }
+    ],
+    "teach": "sag是地球引力最诚实的见证者🌍！从奶奶松弛的脸颊👵（skin sags）到奶茶店萧条的门庭🏪（business sags），再到你写不出作业时塌陷的坐姿💺（posture sags）。记住：当说'市场疲软'不用soft，要说'The market sags like overcooked noodles'（像煮过头的面条般疲软）🍜！搭配'sagging spirits'（低迷情绪）和'sagging shelf'（下弯的架子），emoji三连击：👇😩📉",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞个'→塞个重物就sag（下垂）",
+        "易混词：sag vs. saggy（前者是动作/状态，后者是形容词）",
+        "联想：所有sag开头的词都往下走→sagacious（睿智的）除外，这是例外！"
+      ]
+    }
   }
 ]
