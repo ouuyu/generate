@@ -12939,5 +12939,329 @@
         "视觉联想：把字母A倾斜成Λ，两个Λ背对背就是平行四边形⊿"
       ]
     }
+  },
+  {
+    "word": "paralysis",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "lysis"
+      ],
+      "meaning_connection": "前缀para-=旁侧，词根lysis=松解→原指'身体一侧松解'的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "麻痹",
+        "examples": [
+          {
+            "sentence": "The frog toxin caused temporary paralysis in his legs.",
+            "sentence_zh": "青蛙毒素导致他的双腿暂时麻痹。"
+          },
+          {
+            "sentence": "Sleep paralysis feels like being awake in a frozen body.",
+            "sentence_zh": "睡眠麻痹就像意识清醒地困在冻住的身体里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "停顿",
+        "examples": [
+          {
+            "sentence": "The traffic paralysis lasted 3 hours during the snowstorm.",
+            "sentence_zh": "暴风雪期间交通瘫痪持续了三小时。"
+          },
+          {
+            "sentence": "Economic paralysis strikes when supply chains break down.",
+            "sentence_zh": "供应链断裂时会出现经济停滞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "瘫痪",
+        "examples": [
+          {
+            "sentence": "Ancient warriors feared arrow wounds causing lower body paralysis.",
+            "sentence_zh": "古代战士最怕箭伤导致下半身瘫痪。"
+          },
+          {
+            "sentence": "The hacker attack brought the whole system to complete paralysis.",
+            "sentence_zh": "黑客攻击使整个系统完全瘫痪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "analysis paralysis",
+        "meaning": "分析瘫痪（过度分析导致无法行动）",
+        "examples": [
+          {
+            "sentence": "Stop suffering from analysis paralysis and just choose a hotpot broth!",
+            "sentence_zh": "别犯选择困难症了，随便选个火锅锅底吧！"
+          }
+        ]
+      }
+    ],
+    "teach": "paralysis是'怕来勒死'😨：古希腊医生发现中风病人像被无形绳索(para-)勒住(lysis)🪢。说'吓呆了'可以用deer in headlights（车灯前的鹿），'系统卡死'叫total freeze❄️。记住：当你的WiFi瘫痪时，你就是数字时代的木乃伊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍来勒死'→被拍肩膀就僵直",
+        "易混词：paralysis(瘫痪) vs. analysis(分析)",
+        "联想：para(平行)+lysis(解体)→身体和意识解离"
+      ]
+    }
+  },
+  {
+    "word": "paralytic",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "lyt",
+        "ic"
+      ],
+      "meaning_connection": "前缀para-=旁侧（指功能偏离），词根lyt=松开（同loose），-ic表形容词→身体部分'松脱失控'的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "麻痹的",
+        "examples": [
+          {
+            "sentence": "The paralytic rabbit still tries to hop with its front legs.",
+            "sentence_zh": "这只麻痹的兔子仍试图用前腿跳跃。"
+          },
+          {
+            "sentence": "After the accident, his paralytic right arm felt like a stranger.",
+            "sentence_zh": "事故后他麻痹的右臂仿佛不是自己的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "患麻痹的",
+        "examples": [
+          {
+            "sentence": "The paralytic patient communicates through eye-tracking technology.",
+            "sentence_zh": "这位麻痹患者通过眼球追踪技术与人交流。"
+          },
+          {
+            "sentence": "Paralytic limbs require regular massage to prevent muscle atrophy.",
+            "sentence_zh": "患麻痹的肢体需要定期按摩防止肌肉萎缩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "中风的",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine uses acupuncture for paralytic stroke survivors.",
+            "sentence_zh": "中医用针灸治疗中风后麻痹患者。"
+          },
+          {
+            "sentence": "The paralytic side of his face regained 80% movement after rehabilitation.",
+            "sentence_zh": "他中风麻痹的面部经过康复训练恢复了80%活动能力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "麻痹患者",
+        "examples": [
+          {
+            "sentence": "The hospital's wheelchair ramp is designed for paralytics.",
+            "sentence_zh": "医院的轮椅坡道专为麻痹患者设计。"
+          },
+          {
+            "sentence": "Paralytics in this community receive free physiotherapy sessions.",
+            "sentence_zh": "该社区的麻痹患者可获得免费理疗服务。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中风患者",
+        "examples": [
+          {
+            "sentence": "AI speech synthesizers now help paralytics to 'speak'.",
+            "sentence_zh": "人工智能语音合成器帮助中风患者'说话'。"
+          },
+          {
+            "sentence": "The paralyzed artist paints with a brush held in his mouth.",
+            "sentence_zh": "这位中风患者艺术家用嘴叼着画笔作画。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paralytic stroke",
+        "meaning": "麻痹性中风",
+        "examples": [
+          {
+            "sentence": "Tai Chi has proven effective in preventing paralytic strokes.",
+            "sentence_zh": "太极已被证明能有效预防麻痹性中风。"
+          }
+        ]
+      }
+    ],
+    "teach": "paralytic=身体'掉线'的emoji版📵！古希腊医生发现瘫痪就像被海妖🧜♀️诅咒（词根para+lyt），现代医学用'麻痹'形容神经信号断联💻。说'半身不遂'用地道表达like a rag doll（像布娃娃），搭配paralytic fear（吓瘫了）/paralytic drunk（烂醉如泥）。记住：中风不是endgame，康复训练能rewire神经线路🔧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派来立停'→神经信号派来立即停止",
+        "易混词：parasitic（寄生虫的）vs paralytic（麻痹的）"
+      ]
+    }
+  },
+  {
+    "word": "paramedic",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "medic"
+      ],
+      "meaning_connection": "前缀para-=旁边/降落伞（如parachute），词根medic=医疗（如medicine）→本义指随伞降的医疗人员"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "伞兵军医",
+        "examples": [
+          {
+            "sentence": "The WWII paratrooper unit always included a trained paramedic.",
+            "sentence_zh": "二战空降兵部队总会配备训练有素的伞兵军医。"
+          },
+          {
+            "sentence": "As a paramedic, he carried medical kits in his leg pouch during jumps.",
+            "sentence_zh": "身为伞兵军医，他跳伞时总在腿包中携带医疗包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "伞降急救人员",
+        "examples": [
+          {
+            "sentence": "Firefighting helicopters dispatched paramedics to the earthquake zone.",
+            "sentence_zh": "消防直升机向地震灾区空投了伞降急救人员。"
+          },
+          {
+            "sentence": "The paramedic rappelled down from the rescue chopper with an AED.",
+            "sentence_zh": "急救人员带着除颤器从救援直升机索降而下。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paramedic team",
+        "meaning": "空降医疗队",
+        "examples": [
+          {
+            "sentence": "A paramedic team was airdropped into the flooded village.",
+            "sentence_zh": "一支空降医疗队被投送到遭洪水围困的村庄。"
+          }
+        ]
+      }
+    ],
+    "teach": "paramedic是医疗界的空降兵🪂！这个词由para（降落伞）+medic（医生）组成，就像吃鸡游戏里的医疗兵+跳伞功能的结合体🎮。现实中的paramedic会像外卖骑手🏍️一样飞奔救人，不过他们走的是'空投路线'。记住：遇到paramedic说明事态严重，但希望降临💉。搭配：call in paramedics（呼叫空降急救）、paramedic training（索降救治训练）",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍若没得救'→派paramedic才有救",
+        "易混词：physician（普通医生）vs paramedic（空降医护人员）",
+        "记忆法：想象吃鸡时背着医疗箱跳伞的队友"
+      ]
+    }
+  },
+  {
+    "word": "parameter",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "meter"
+      ],
+      "meaning_connection": "前缀para=旁侧，meter=测量→原指'辅助测量的量'，数学中引申为'可变因素'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "参变数",
+        "examples": [
+          {
+            "sentence": "The happiness parameter in this equation represents your daily milk tea intake.",
+            "sentence_zh": "这个等式中的幸福参变数代表你每日的奶茶摄入量。"
+          },
+          {
+            "sentence": "Adjusting sleep parameters can optimize your REM cycle.",
+            "sentence_zh": "调整睡眠参变数能优化快速眼动周期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "参变量",
+        "examples": [
+          {
+            "sentence": "The AI model's love-detection parameter confused spicy hotpot with romance.",
+            "sentence_zh": "这个AI模型的爱情参变量把麻辣火锅误判为浪漫。"
+          },
+          {
+            "sentence": "Economists treat memes as a new cultural parameter.",
+            "sentence_zh": "经济学家将梗图视为新的文化参变量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "参数",
+        "examples": [
+          {
+            "sentence": "The 'spiciness tolerance' parameter in our survey peaked in Sichuan.",
+            "sentence_zh": "我们调查中的'辣度耐受'参数在四川达到峰值。"
+          },
+          {
+            "sentence": "Set the 'procrastination' parameter to zero before finals.",
+            "sentence_zh": "期末考试前请把'拖延症'参数调为零。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "within parameters",
+        "meaning": "在合理范围内",
+        "examples": [
+          {
+            "sentence": "My boss said my meme usage is within acceptable parameters.",
+            "sentence_zh": "老板说我的表情包使用在可接受范围内。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "set parameters",
+        "meaning": "设定参数",
+        "examples": [
+          {
+            "sentence": "We set parameters for how many times to check WeChat per hour.",
+            "sentence_zh": "我们设定了每小时查看微信次数的参数。"
+          }
+        ]
+      }
+    ],
+    "teach": "parameter其实是'旁边量尺'📏：就像火锅店辣度选择器🌶️（spice parameter），或你妈催婚的年龄参数📅（'过了30岁必须结婚'）。搭配'within parameters'就像领导说'摸鱼可以但别太过分'😅，地道说法叫'play by the rules'。记住：人生就是不断调整自己的parameters！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派来摸它'→工程师派来摸(parameter)机器参数",
+        "易混词：perimeter(周长)是外围，parameter是内参"
+      ]
+    }
   }
 ]

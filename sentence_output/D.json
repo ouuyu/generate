@@ -12516,5 +12516,321 @@
         "易混词：logger（日志记录）vs debugger"
       ]
     }
+  },
+  {
+    "word": "debunk",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "bunk"
+      ],
+      "meaning_connection": "前缀de-表示'去除'，bunk源自19世纪美语'buncombe'(胡言乱语)→原意为'拆除虚假言论'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "揭穿",
+        "examples": [
+          {
+            "sentence": "Scientists debunked the myth that sharks don't get cancer.",
+            "sentence_zh": "科学家揭穿了鲨鱼不得癌症的谣言。"
+          },
+          {
+            "sentence": "The journalist debunked the celebrity's fake philanthropy with bank records.",
+            "sentence_zh": "记者用银行流水揭穿了明星的假慈善。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "暴露",
+        "examples": [
+          {
+            "sentence": "The documentary debunked the dark side of the diamond industry.",
+            "sentence_zh": "这部纪录片暴露了钻石行业的黑暗面。"
+          },
+          {
+            "sentence": "Hackers debunked the company's lies about data security.",
+            "sentence_zh": "黑客暴露了该公司关于数据安全的谎言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "拆穿假面具",
+        "examples": [
+          {
+            "sentence": "Undercover reporters debunked the fake master's true identity.",
+            "sentence_zh": "卧底记者拆穿了这个假大师的真实身份。"
+          },
+          {
+            "sentence": "The polygraph test debunked the suspect's innocent act.",
+            "sentence_zh": "测谎仪拆穿了嫌疑人无辜的假面具。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "debunk the myth",
+        "meaning": "破除迷思",
+        "examples": [
+          {
+            "sentence": "MythBusters TV show specializes in debunking urban legends.",
+            "sentence_zh": "《流言终结者》节目专攻破除都市传说。"
+          }
+        ]
+      }
+    ],
+    "teach": "debunk就像打假队长🕵️！词源里的bunk是'胡扯'，de-像拆违建的铲车🚜（比如拆穿'手机辐射致癌'谣言）。搭配'debunk claims'像撕假面膜💆，'debunk theories'像戳破肥皂泡🧼。地道说法'call someone's bluff'（揭穿唬人把戏）。记住：每个debunker都是行走的真相发射器💥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'底裤崩'→底裤崩了(de-bunk)被当众揭穿",
+        "易混词：refute侧重反驳，debunk强调揭露虚假"
+      ]
+    }
+  },
+  {
+    "word": "debut",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "but"
+      ],
+      "meaning_connection": "前缀de-表示'向下'，词根but来自法语butter='靶子'→原指箭射向靶子的第一击，引申为'首次亮相'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "初次登台",
+        "examples": [
+          {
+            "sentence": "The K-pop group's debut broke YouTube viewing records.",
+            "sentence_zh": "这个韩团的初舞台打破了YouTube观看记录。"
+          },
+          {
+            "sentence": "Her TikTok debut featured a Peking opera remix.",
+            "sentence_zh": "她的抖音首秀是京剧混音表演。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "开张",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop's debut attracted 300 customers in one hour.",
+            "sentence_zh": "奶茶店开业首小时吸引300名顾客。"
+          },
+          {
+            "sentence": "iPhone's debut in 2007 changed smartphone history.",
+            "sentence_zh": "iPhone在2007年的问世改写了智能手机史。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "初次登台",
+        "examples": [
+          {
+            "sentence": "The panda cub will debut at the zoo this weekend.",
+            "sentence_zh": "熊猫宝宝将在本周末于动物园首次亮相。"
+          },
+          {
+            "sentence": "She debuted as a stand-up comedian in a Shanghai bar.",
+            "sentence_zh": "她在上海酒吧首次以脱口秀演员身份登场。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make one's debut",
+        "meaning": "首次亮相",
+        "examples": [
+          {
+            "sentence": "The AI robot made its debut at the World Expo.",
+            "sentence_zh": "这款AI机器人在世博会上首次亮相。"
+          }
+        ]
+      }
+    ],
+    "teach": "debut其实是'第一箭🎯'！法国贵族用but(靶子)比试射箭，射中靶心叫'好debut'👏🏻。现在说'首秀翻车'叫botched debut（搞砸的亮相），'惊艳出道'说slam-dunk debut（灌篮式登场）。记住：人生每个debut都像新手司机上路🚗，总要经历几次熄火！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得蹦'→初次登台紧张得蹦跳",
+        "易混词：debutee（首秀者） vs debutant（初次参加社交舞会者）"
+      ]
+    }
+  },
+  {
+    "word": "debutante",
+    "etymology": {
+      "breakdown": [
+        "debut",
+        "ante"
+      ],
+      "meaning_connection": "法语débuter=首次亮相，-ante表阴性施动者→字面意思'开始做事的女性'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "初进社交界的少女",
+        "examples": [
+          {
+            "sentence": "The debutante wore a qipao at her coming-of-age ball.",
+            "sentence_zh": "这位名媛在成人礼舞会上身着旗袍亮相。"
+          },
+          {
+            "sentence": "Like Tang Dynasty poetry clubs, debutante parties were elite social networks.",
+            "sentence_zh": "如同唐代诗社，名媛舞会是古代精英社交圈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "初次登台的女演员",
+        "examples": [
+          {
+            "sentence": "The Peking Opera debutante forgot her lines but saved the scene with acrobatics.",
+            "sentence_zh": "这位京剧新人忘词后靠翻跟斗救场。"
+          },
+          {
+            "sentence": "Debutantes in Hollywood often face more scrutiny than their male counterparts.",
+            "sentence_zh": "好莱坞新人女演员往往比男演员承受更多审视。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "debutante season",
+        "meaning": "社交季新人亮相期",
+        "examples": [
+          {
+            "sentence": "During Shanghai's debutante season, luxury hotels are fully booked.",
+            "sentence_zh": "上海名媛社交季期间，奢华酒店一房难求。"
+          }
+        ]
+      }
+    ],
+    "teach": "debutante是现实版'甄嬛传'👑：18世纪英国贵族少女通过舞会'选秀'（debutante ball）物色夫婿💍，现代版就像创造101的初舞台🎤。说'社交新人'可用fresh meat（字面意思鲜肉，实际指新人），形容'青涩表现'叫baby deer legs（小鹿腿般紧张）。记住：每个顶流都曾是debutante！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆笨探头'→初入社交圈紧张探头探脑",
+        "对比记忆：debut（首演）→debutante（首演者♀）"
+      ]
+    }
+  },
+  {
+    "word": "decade",
+    "etymology": {
+      "breakdown": [
+        "dec",
+        "ade"
+      ],
+      "meaning_connection": "词根dec=十（如decimal十进制），后缀-ade表集合→十个一组的单位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "十年",
+        "examples": [
+          {
+            "sentence": "China's high-speed rail network expanded dramatically in the last decade.",
+            "sentence_zh": "过去十年中国高铁网络迅猛发展。"
+          },
+          {
+            "sentence": "The iPhone has evolved from a single model to a whole ecosystem in a decade.",
+            "sentence_zh": "iPhone用十年时间从单一机型发展为完整生态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "十",
+        "examples": [
+          {
+            "sentence": "The ancient Mayan calendar used decades as basic units.",
+            "sentence_zh": "古玛雅历法以十进制作基础单位。"
+          },
+          {
+            "sentence": "This abacus has three decades of beads for calculation.",
+            "sentence_zh": "这个算盘有三组十位珠用于计算。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "decade-long",
+        "meaning": "长达十年的",
+        "examples": [
+          {
+            "sentence": "The decade-long construction of the Great Wall consumed countless lives.",
+            "sentence_zh": "长城长达十年的修建耗费了无数生命。"
+          }
+        ]
+      }
+    ],
+    "teach": "decade是时间里的十进制🔟！就像奶茶店'买十送一'的积分卡🧋，每攒满decade（十年/十个）就有惊喜。'黄金十年'叫golden decade✨，'失去的十年'是lost decade就像过期奶茶券😵。记住：你的年龄每涨一个decade，奶茶就可以多加点料啦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得K的'→得KPI考核十年",
+        "易混词：decade(十年) vs decathlon(十项全能)"
+      ]
+    }
+  },
+  {
+    "word": "decadence",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "cad",
+        "ence"
+      ],
+      "meaning_connection": "前缀de-表'向下'，词根cad=落下（同accident中的cad），-ence表状态→'坠落的状态'引申为'道德/艺术衰落'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "颓废（艺术/道德层面）",
+        "examples": [
+          {
+            "sentence": "The poet's later works reflect the decadence of Tang Dynasty aristocracy.",
+            "sentence_zh": "这位诗人后期的作品反映了唐代贵族的颓靡之风。"
+          },
+          {
+            "sentence": "Baudelaire's flowers of evil bloomed in the soil of 19th-century Parisian decadence.",
+            "sentence_zh": "波德莱尔的恶之花绽放在19世纪巴黎颓废主义的土壤中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "moral decadence",
+        "meaning": "道德沦丧",
+        "examples": [
+          {
+            "sentence": "The novel satirizes the moral decadence behind glittering skyscrapers.",
+            "sentence_zh": "这部小说讽刺了摩天大楼背后的道德堕落。"
+          }
+        ]
+      }
+    ],
+    "teach": "decadence是高级摆烂🍷：词根cad=坠落（如事故accident），想象罗马帝国贵族边泡玫瑰浴边看角斗士表演🏟️的堕落场景。说'纸醉金迷'可用live in decadent luxury，'摆烂青年'叫decadent youth。记住：当你的自律像自由落体(cad)般下坠(de)时，就是decadence开始啦！💸🌹🛁",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟看电视'→弟弟整天看电视很颓废",
+        "易混词：decade（十年）≠decadence（颓废）",
+        "记忆链：de（下）+cad（落）= 道德滑坡"
+      ]
+    }
   }
 ]

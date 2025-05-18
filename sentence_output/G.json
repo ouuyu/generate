@@ -12521,5 +12521,329 @@
         "记忆tip：想象游戏里的最终BOSS顶着这个头衔👑"
       ]
     }
+  },
+  {
+    "word": "generalist",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "al",
+        "ist"
+      ],
+      "meaning_connection": "词根gener=种类/产生，后缀-al表性质，-ist表人→能处理多种类事务的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "多面手",
+        "examples": [
+          {
+            "sentence": "As a generalist in the startup, she handles marketing, coding and even office decoration.",
+            "sentence_zh": "作为创业公司的多面手，她既要负责市场营销又要写代码，甚至还要布置办公室。"
+          },
+          {
+            "sentence": "Jack of all trades is the best description for this panda who can climb trees, swim and do somersaults.",
+            "sentence_zh": "这只会上树、游泳还会翻跟头的熊猫简直是全能多面手的最佳代言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "通才",
+        "examples": [
+          {
+            "sentence": "Leonardo da Vinci was the ultimate generalist who painted masterpieces while designing flying machines.",
+            "sentence_zh": "达芬奇是终极通才，既能画出传世名作又能设计飞行器。"
+          },
+          {
+            "sentence": "In the era of AI, being a generalist with interdisciplinary knowledge is more valuable than ever.",
+            "sentence_zh": "在人工智能时代，拥有跨学科知识的通才比以往任何时候都更宝贵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "generalist approach",
+        "meaning": "通才式方法",
+        "examples": [
+          {
+            "sentence": "Silicon Valley CEOs often take a generalist approach to problem-solving.",
+            "sentence_zh": "硅谷CEO们常用通才式方法解决问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "generalist其实是'变形金刚'🤖！这个词来自拉丁语generalis（广泛的），就像火锅店全能选手🍲，既能片羊肉🔪又能调蘸料🧂。现代职场最in的说法是T-shaped person（T型人才），'杂而不精'的地道表达是jack of all trades（记住后半句master of none才是贬义哦）。通才就像瑞士军刀🔧，关键时刻总能用上！",
+    "recite": {
+      "tips": [
+        "谐音梗：'摘了哪类事都行'→generalist",
+        "易混词对比：specialist（专家） vs generalist（通才）",
+        "记忆tip：general（普遍的）+ist（人）=处理普遍事务的人"
+      ]
+    }
+  },
+  {
+    "word": "generality",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "al",
+        "ity"
+      ],
+      "meaning_connection": "词根gener=种类/产生（同generate），-al形容词后缀，-ity表抽象名词→关于种类的抽象表述"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "概论",
+        "examples": [
+          {
+            "sentence": "The professor began his lecture with a generality about quantum physics.",
+            "sentence_zh": "教授以量子物理学的概论开始了他的讲座。"
+          },
+          {
+            "sentence": "Her speech was full of generalities but lacked specific examples.",
+            "sentence_zh": "她的演讲充满了概论,但缺乏具体例子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大要",
+        "examples": [
+          {
+            "sentence": "The report's generality summarized the key findings in three points.",
+            "sentence_zh": "报告的大要用三点概括了主要发现。"
+          },
+          {
+            "sentence": "Before diving into details, let's first grasp the generality of this theory.",
+            "sentence_zh": "在深入细节前,让我们先掌握这个理论的大要。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in generality",
+        "meaning": "概括地",
+        "examples": [
+          {
+            "sentence": "He explained the complex algorithm in generality before demonstrating the code.",
+            "sentence_zh": "在演示代码前,他概括地解释了这个复杂算法。"
+          }
+        ]
+      }
+    ],
+    "teach": "generality就像火锅底料🍲——把所有食材(gener)熬成一锅精华。古人写《春秋》'微言大义'正是这种概括艺术✍️。搭配：'speak in generalities'（说套话）就像领导念稿📜；'beyond generality'（超越泛论）要像四川火锅分清毛肚和鸭血的层次🌶️。记住：能说'generality'的绝不啰嗦,毕竟'时间就是金钱'(Time is money)！💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'真那了题'→真遇到难题才需要概论",
+        "易混词：general(普通的) vs generality(概论)"
+      ]
+    }
+  },
+  {
+    "word": "generalization",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "al",
+        "ize",
+        "ation"
+      ],
+      "meaning_connection": "词根gener=种类/产生，-al表形容词，-ize表动词化，-ation表名词→使事物归为同一类的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "一般化",
+        "examples": [
+          {
+            "sentence": "The generalization of online payment transformed China's economy.",
+            "sentence_zh": "在线支付的一般化改变了中国经济格局。"
+          },
+          {
+            "sentence": "His speech contained dangerous generalizations about generations.",
+            "sentence_zh": "他的演讲包含对几代人的危险泛化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "普遍化",
+        "examples": [
+          {
+            "sentence": "The generalization of 5G technology is accelerating globally.",
+            "sentence_zh": "5G技术的普遍化正在全球加速。"
+          },
+          {
+            "sentence": "WeChat's generalization made QR codes ubiquitous in China.",
+            "sentence_zh": "微信的普及使二维码在中国无处不在。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "概括",
+        "examples": [
+          {
+            "sentence": "The professor's generalization summarized 300 years of history in one sentence.",
+            "sentence_zh": "教授的概括用一句话总结了300年历史。"
+          },
+          {
+            "sentence": "Good generalizations are like dumpling fillings - concise but flavorful.",
+            "sentence_zh": "好的概括就像饺子馅——简洁但有味道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hasty generalization",
+        "meaning": "草率概括",
+        "examples": [
+          {
+            "sentence": "Calling all millennials 'lazy' is a hasty generalization.",
+            "sentence_zh": "把所有千禧一代称为'懒惰'是草率概括。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "broad generalization",
+        "meaning": "宽泛概括",
+        "examples": [
+          {
+            "sentence": "His broad generalization about Asian students caused controversy.",
+            "sentence_zh": "他对亚洲学生的宽泛概括引发了争议。"
+          }
+        ]
+      }
+    ],
+    "teach": "generalization就像火锅底料🍲——把各种食材(gener)煮成统一味道！历史上，茶叶从贵族饮品到'柴米油盐酱醋茶'的泛化过程就是经典案例。搭配：make generalizations（下结论）/ sweeping generalization（一刀切的结论）。说'以偏概全'可以用'judge a book by its cover'📚。记住：过度generalization会像用鸳鸯锅煮所有菜——不合适！",
+    "recite": {
+      "tips": [
+        "谐音梗：'见了类神'→见到同类事物就当作神仙(过度概括)",
+        "易混词：generalization(概括) vs specialization(专精)",
+        "记忆tip：想象把不同颜色的橡皮泥(gener)揉成单一颜色(alization)"
+      ]
+    }
+  },
+  {
+    "word": "generalize",
+    "etymology": {
+      "breakdown": [
+        "general",
+        "ize"
+      ],
+      "meaning_connection": "词根general=普遍的/总体的，后缀-ize=使...化→使事物变得普遍化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "一般化",
+        "examples": [
+          {
+            "sentence": "Don't generalize all millennials as avocado toast lovers.",
+            "sentence_zh": "别把所有千禧一代都概括成牛油果吐司爱好者。"
+          },
+          {
+            "sentence": "The study generalized the results from 100 lab rats to all mammals.",
+            "sentence_zh": "该研究将100只实验室老鼠的结果推广到所有哺乳动物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "概括",
+        "examples": [
+          {
+            "sentence": "He generalized the complex theory into three emoji: 🧠💡🌌",
+            "sentence_zh": "他把复杂理论概括成三个表情：大脑、灯泡和星空。"
+          },
+          {
+            "sentence": "The professor generalized 300 years of history in one TikTok video.",
+            "sentence_zh": "教授用一个抖音视频概括了300年历史。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "推广",
+        "examples": [
+          {
+            "sentence": "Alibaba generalized its AI technology to 10000 street vendors.",
+            "sentence_zh": "阿里巴巴将AI技术推广到一万个街边摊位。"
+          },
+          {
+            "sentence": "This cooking method was generalized from imperial kitchens to common households.",
+            "sentence_zh": "这种烹饪方法从御膳房推广到了普通家庭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "形成概念",
+        "examples": [
+          {
+            "sentence": "Children gradually generalize the concept of 'animal' through picture books.",
+            "sentence_zh": "儿童通过绘本逐渐形成'动物'的概念。"
+          },
+          {
+            "sentence": "Our brain generalizes about danger based on ancestral memories.",
+            "sentence_zh": "人类大脑会根据祖先记忆形成危险概念。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "笼统讲",
+        "examples": [
+          {
+            "sentence": "It's not wise to generalize when discussing regional cuisines.",
+            "sentence_zh": "讨论地方菜系时笼统概括可不聪明。"
+          },
+          {
+            "sentence": "He generalized wildly about 'all women loving pink' during the debate.",
+            "sentence_zh": "他在辩论中笼统地声称'所有女性都喜欢粉色'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "generalize from",
+        "meaning": "从...推断",
+        "examples": [
+          {
+            "sentence": "We can't generalize from one bad experience that all street food is unsafe.",
+            "sentence_zh": "不能因为一次糟糕经历就推断所有街头小吃都不安全。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "generalize about",
+        "meaning": "对...一概而论",
+        "examples": [
+          {
+            "sentence": "It's dangerous to generalize about a whole generation's work ethic.",
+            "sentence_zh": "对整个世代的工作态度一概而论是危险的。"
+          }
+        ]
+      }
+    ],
+    "teach": "generalize就像把火锅底料倒进大海🌊还想让整个太平洋变辣🌶️！历史趣闻：柏拉图在《理想国》里最早玩这个概念（把个体特征推广到全体）。视觉化记忆：把熊猫🐼的特征推广到所有熊→结果北极熊也拿着竹子在冰原上啃（大误）。搭配：generalize a pattern（总结规律）/ generalize too hastily（草率下结论）。地道说法：'以偏概全'叫paint with a broad brush（拿大刷子乱涂）🖌️",
+    "recite": {
+      "tips": [
+        "谐音梗：'真拿老爷'→真拿老爷子的经验当普遍真理(generalize)",
+        "易混词对比：generalize(归纳总结) vs specialize(专精)"
+      ]
+    }
   }
 ]

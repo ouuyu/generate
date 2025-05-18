@@ -13060,5 +13060,341 @@
         "易混词：judicial(司法的) vs judicious(明智的)"
       ]
     }
+  },
+  {
+    "word": "judicially",
+    "etymology": {
+      "breakdown": [
+        "judic",
+        "ial",
+        "ly"
+      ],
+      "meaning_connection": "词根judic=判断（来自拉丁语judex），-ial表形容词后缀，-ly表副词后缀→'以判断的方式'延伸出法律与公平双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "依法判决地",
+        "examples": [
+          {
+            "sentence": "The Supreme Court ruled judicially on the copyright case of AI-generated art.",
+            "sentence_zh": "最高法院依法判决了AI生成艺术作品的著作权案。"
+          },
+          {
+            "sentence": "All evidence must be examined judicially before the verdict.",
+            "sentence_zh": "所有证据须经司法审查后才能作出判决。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "公平地",
+        "examples": [
+          {
+            "sentence": "The teacher graded the gaokao mock exams judicially without knowing students' names.",
+            "sentence_zh": "老师批改高考模拟卷时隐去姓名公平打分。"
+          },
+          {
+            "sentence": "WeChat's algorithm distributes red packets judicially among group members.",
+            "sentence_zh": "微信算法在群成员间公平分配红包金额。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "act judicially",
+        "meaning": "依法行事",
+        "examples": [
+          {
+            "sentence": "The community committee acted judicially in resolving the parking space dispute.",
+            "sentence_zh": "业委会依法处理了车位纠纷。"
+          }
+        ]
+      }
+    ],
+    "teach": "judicially是正义女神的双面镜👩⚖️：既像《狂飙》里安欣依法办案📜（judicially ruled），又像菜市场公平秤⚖️（judicially graded）。说'黑箱操作'用backroom dealing，'一碗水端平'叫level the playing field。记住：judicially=法律+公平，就像火锅蘸料要按标准调配🧂+🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'就地离'→就地（judicially）离婚需依法判决",
+        "易混词对比：judicious（明智的） VS judicial（司法的）"
+      ]
+    }
+  },
+  {
+    "word": "judiciary",
+    "etymology": {
+      "breakdown": [
+        "judic",
+        "iary"
+      ],
+      "meaning_connection": "词根judic=判断（来自拉丁语judex），后缀-iary表示'与...相关的'→原指与审判相关的系统"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "司法的",
+        "examples": [
+          {
+            "sentence": "The judiciary branch maintains the scales of justice in society.",
+            "sentence_zh": "司法部门维护着社会正义的天平。"
+          },
+          {
+            "sentence": "Judiciary reforms are hotter than Sichuan hotpot these days.",
+            "sentence_zh": "最近司法改革比四川火锅还要火热。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "法院的",
+        "examples": [
+          {
+            "sentence": "The judiciary building looks like a giant law book standing upright.",
+            "sentence_zh": "法院大楼像一本直立的巨型法律典籍。"
+          },
+          {
+            "sentence": "Judiciary robes turn lawyers into real-life Harry Potters.",
+            "sentence_zh": "法官袍把律师变成了现实版的哈利·波特。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "法官的",
+        "examples": [
+          {
+            "sentence": "Her judiciary wisdom comes from 30 years of case digesting.",
+            "sentence_zh": "她的法官智慧来自30年案件消化经验。"
+          },
+          {
+            "sentence": "The judiciary temperament requires both compassion and steel.",
+            "sentence_zh": "法官气质需要兼具慈悲与钢铁意志。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "司法部",
+        "examples": [
+          {
+            "sentence": "The Judiciary announced new online dispute resolution rules.",
+            "sentence_zh": "司法部宣布了新的在线纠纷解决规则。"
+          },
+          {
+            "sentence": "Working at the Judiciary is like being the goalkeeper of society.",
+            "sentence_zh": "在司法部工作就像当社会的守门员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "司法系统",
+        "examples": [
+          {
+            "sentence": "China's judiciary is upgrading faster than 5G networks.",
+            "sentence_zh": "中国司法系统升级速度比5G网络还快。"
+          },
+          {
+            "sentence": "The judiciary works like an antivirus software for the country.",
+            "sentence_zh": "司法系统如同国家的杀毒软件在运行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "法官（总称）",
+        "examples": [
+          {
+            "sentence": "The judiciary wears the same robes as Dumbledore but with less magic.",
+            "sentence_zh": "法官们穿着和邓布利多同样的长袍，只是少了点魔法。"
+          },
+          {
+            "sentence": "Our judiciary are the referees in life's most serious matches.",
+            "sentence_zh": "法官是人生最严肃赛场上的裁判员。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "judiciary committee",
+        "meaning": "司法委员会",
+        "examples": [
+          {
+            "sentence": "The judiciary committee debates are livelier than Douyin comment sections.",
+            "sentence_zh": "司法委员会的辩论比抖音评论区还热闹。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "judiciary independence",
+        "meaning": "司法独立",
+        "examples": [
+          {
+            "sentence": "Judiciary independence is like making sure the kitchen inspector isn't the chef's cousin.",
+            "sentence_zh": "司法独立就像确保厨房检查员不是厨师的表亲。"
+          }
+        ]
+      }
+    ],
+    "teach": "judiciary是正义宇宙的复仇者联盟⚖️！词根judic来自罗马主神朱庇特(Jupiter)的审判权杖，现代法官的法槌就是它的迷你版🔨。说'司法腐败'用'rotten apple in the barrel'（桶里的烂苹果），'走过场审判'叫kangaroo court（袋鼠法庭）。记住：当你看法槌敲下，那就是现实版的'天网恢恢'👨⚖️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'记得睡啊'→法官熬夜判案要记得休息",
+        "易混词对比：judicial(司法的) vs judicious(明智的)",
+        "联想记忆：judic+iary→'判断者集中营'"
+      ]
+    }
+  },
+  {
+    "word": "judicious",
+    "etymology": {
+      "breakdown": [
+        "jud",
+        "icious"
+      ],
+      "meaning_connection": "词根jud=判断（来自拉丁语judicium），后缀-icious=充满...的→充满判断力的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "头脑精明的",
+        "examples": [
+          {
+            "sentence": "The CEO made a judicious decision to invest in AI during the pandemic.",
+            "sentence_zh": "这位CEO在疫情期间做出投资AI的精明决策。"
+          },
+          {
+            "sentence": "Her judicious use of emojis in work emails avoids misunderstandings.",
+            "sentence_zh": "她在工作邮件中精明地使用表情符号避免误解。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "贤明的",
+        "examples": [
+          {
+            "sentence": "The ancient emperor was known for his judicious governance policies.",
+            "sentence_zh": "这位古代帝王以贤明的治国政策闻名。"
+          },
+          {
+            "sentence": "My judicious grandma always knows when to add the perfect amount of soy sauce.",
+            "sentence_zh": "我贤明的奶奶总能掌握酱油的最佳用量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "判断正确的",
+        "examples": [
+          {
+            "sentence": "His judicious choice of words saved the business negotiation.",
+            "sentence_zh": "他正确的措辞选择挽救了这场商业谈判。"
+          },
+          {
+            "sentence": "The judge's judicious ruling set an important legal precedent.",
+            "sentence_zh": "法官的正确判决树立了重要法律先例。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "judicious use",
+        "meaning": "明智使用",
+        "examples": [
+          {
+            "sentence": "Judicious use of chili oil can elevate a mediocre hotpot.",
+            "sentence_zh": "明智使用辣椒油能提升普通火锅的味道。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "judicious balance",
+        "meaning": "明智平衡",
+        "examples": [
+          {
+            "sentence": "The chef found a judicious balance between sweetness and acidity.",
+            "sentence_zh": "厨师在甜度和酸度间找到了明智的平衡。"
+          }
+        ]
+      }
+    ],
+    "teach": "judicious就像诸葛亮手里的鹅毛扇🎋！词根jud（判断）让你想到法官的锤子⚖️，其实它源自罗马正义女神Justitia（注意她蒙着眼但心明如镜）。要说'明智之举'可以说a judicious move，'愚蠢决定'刚好相反是asinine decision（驴一样蠢🐴）。记住：judicious的人点奶茶都懂得less sugar！🧋",
+    "recite": {
+      "tips": [
+        "谐音梗：'猪迪秀'→猪迪秀(judicious)判断力惊人",
+        "对比记忆：judicial（司法的）vs judicious（明智的）→法院要judicial，法官要judicious"
+      ]
+    }
+  },
+  {
+    "word": "judiciously",
+    "etymology": {
+      "breakdown": [
+        "judic",
+        "ious",
+        "ly"
+      ],
+      "meaning_connection": "词根judic=判断（来自拉丁语judex），-ious表形容词性，-ly变副词→'具备判断力地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "明智而审慎地",
+        "examples": [
+          {
+            "sentence": "The CEO judiciously allocated year-end bonuses like a master distributing dim sum portions.",
+            "sentence_zh": "CEO像分虾饺一样明智地分配年终奖金。"
+          },
+          {
+            "sentence": "She judiciously chose to mute her mic before complaining about her boss in the online meeting.",
+            "sentence_zh": "她审慎地选择了静麦后才在线上会议吐槽老板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "明断地",
+        "examples": [
+          {
+            "sentence": "The judge judiciously sentenced the thief to community service at a hotpot restaurant.",
+            "sentence_zh": "法官明断地判决小偷去火锅店做社区服务。"
+          },
+          {
+            "sentence": "He judiciously invested his pocket money in bubble tea stocks.",
+            "sentence_zh": "他明断地把零花钱投资了奶茶股。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "use judiciously",
+        "meaning": "谨慎使用",
+        "examples": [
+          {
+            "sentence": "Use chili oil judiciously unless you want to breathe fire like a dragon.",
+            "sentence_zh": "谨慎使用辣椒油，除非你想像龙一样喷火。"
+          }
+        ]
+      }
+    ],
+    "teach": "judiciously其实是'法官级操作'👨⚖️！词根judic来自罗马法官(to judge)，像包公断案⚖️般明智就叫judicious。搭配：1) spend judiciously（像双十一忍住不剁手）2) speak judiciously（像领导回复敏感问题）。地道表达：'明智之举'说smart move🥇。记住：当你说judiciously时，要自带诸葛亮的羽扇纶巾🎭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'猪迪社里'→猪迪社里(judiciously)慎重吃饲料",
+        "易混词对比：judicial（司法的）vs judicious（明智的）",
+        "记忆tip：ju（法官）+dic（说）+ious（的）=法官说话的方式"
+      ]
+    }
   }
 ]

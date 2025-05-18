@@ -12972,5 +12972,366 @@
         "记忆tip：VERDure=Very Energetic Really Green"
       ]
     }
+  },
+  {
+    "word": "verge",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语virga（枝条），原指'棍棒划出的界限'，后引申为'边缘'概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "物理边缘",
+        "examples": [
+          {
+            "sentence": "The cat balanced perfectly on the verge of the Ming Dynasty vase.",
+            "sentence_zh": "猫咪在明代花瓶的边缘完美保持平衡。"
+          },
+          {
+            "sentence": "Wildflowers grew along the grassy verge of the country road.",
+            "sentence_zh": "野花沿着乡间小路的草缘生长。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抽象边界",
+        "examples": [
+          {
+            "sentence": "His invention was on the verge of science fiction.",
+            "sentence_zh": "他的发明处于科幻小说的边界。"
+          },
+          {
+            "sentence": "The startup stood at the verge of bankruptcy and breakthrough.",
+            "sentence_zh": "这家初创公司处于破产与突破的临界点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "处在边缘",
+        "examples": [
+          {
+            "sentence": "The ancient temple verges on collapse after the earthquake.",
+            "sentence_zh": "地震后这座古庙濒临坍塌。"
+          },
+          {
+            "sentence": "Her patience was verging on exhaustion after 3 hours of queuing.",
+            "sentence_zh": "排队三小时后她的耐心即将耗尽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "趋向",
+        "examples": [
+          {
+            "sentence": "Modern architecture in China verges toward minimalism.",
+            "sentence_zh": "中国的现代建筑趋向极简主义。"
+          },
+          {
+            "sentence": "His political views verge on radicalism.",
+            "sentence_zh": "他的政治观点趋于激进。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on the verge of",
+        "meaning": "濒临",
+        "examples": [
+          {
+            "sentence": "Pandas are on the verge of extinction without conservation efforts.",
+            "sentence_zh": "没有保护措施的话，熊猫将濒临灭绝。"
+          },
+          {
+            "sentence": "She was on the verge of tears when her baozi fell on the floor.",
+            "sentence_zh": "当她的包子掉在地上时，她几乎要哭出来了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "verge into",
+        "meaning": "逐渐进入",
+        "examples": [
+          {
+            "sentence": "The comedy show verged into political satire unexpectedly.",
+            "sentence_zh": "这档喜剧节目意外地转向了政治讽刺。"
+          }
+        ]
+      }
+    ],
+    "teach": "verge就像走独木桥🤸！物理边缘像火锅桌边摇摇欲坠的毛肚🍲（on the verge of the table），抽象边界像你的支付宝余额警告线💰（verge of poverty）。'濒临崩溃'说on the verge of a meltdown就像快煮烂的饺子🥟，'趋向年轻化'是verge toward youthfulness像奶茶店顾客年龄线逐年下降📉。记住：verge永远在危险的边缘试探！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我急'→站在边缘我急(verge)得快掉下去",
+        "易混词对比：edge（具体锋利边缘）vs verge（临界状态）",
+        "记忆tip：V字形就像悬崖边缘的形状"
+      ]
+    }
+  },
+  {
+    "word": "verifiable",
+    "etymology": {
+      "breakdown": [
+        "ver",
+        "ify",
+        "able"
+      ],
+      "meaning_connection": "词根ver=真实（如verify），-ify表'使...化'，-able表'能够'→能够被验证真实的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可核实的",
+        "examples": [
+          {
+            "sentence": "All Douyin livestream sales data must be verifiable.",
+            "sentence_zh": "所有抖音直播销售数据必须可核实。"
+          },
+          {
+            "sentence": "The mooncake ingredients list should be verifiable via QR code.",
+            "sentence_zh": "月饼成分表应可通过二维码核实。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可证实的",
+        "examples": [
+          {
+            "sentence": "His alibi was verifiable by subway surveillance footage.",
+            "sentence_zh": "他的不在场证明可通过地铁监控证实。"
+          },
+          {
+            "sentence": "The health code system provides verifiable travel history.",
+            "sentence_zh": "健康码系统提供可证实的行程记录。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "verifiable evidence",
+        "meaning": "可验证证据",
+        "examples": [
+          {
+            "sentence": "The court requires verifiable evidence like WeChat chat records.",
+            "sentence_zh": "法庭需要微信聊天记录等可验证证据。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "easily verifiable",
+        "meaning": "易于核实的",
+        "examples": [
+          {
+            "sentence": "Hotpot restaurant reviews on Dazhongdianping are easily verifiable.",
+            "sentence_zh": "大众点评上的火锅店评价易于核实。"
+          }
+        ]
+      }
+    ],
+    "teach": "verifiable就像带防伪码的茅台酒🍶！词根ver来自罗马女神Veritas（真理女神）⚖️，-able就像扫码验真的小程序🔍。说'铁证如山'用rock-solid verifiable evidence，'查无实据'叫lack verifiable proof。记住：任何没verifiable的证据都像朋友圈谣言🤳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外卖来报'→外卖小哥来电核实(verifiable)订单",
+        "易混词对比：verifiable（可验证的）vs. variable（多变的）",
+        "记忆tip：拆解ver-if-yable→'果然可以验证'"
+      ]
+    }
+  },
+  {
+    "word": "verification",
+    "etymology": {
+      "breakdown": [
+        "ver",
+        "ify",
+        "ation"
+      ],
+      "meaning_connection": "词根ver=真实（同very），-ify表'使...化'，-ation表动作结果→'使其真实化的过程'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "证实",
+        "examples": [
+          {
+            "sentence": "The verification of Einstein's theory took decades of experiments.",
+            "sentence_zh": "爱因斯坦理论的证实花费了数十年的实验验证。"
+          },
+          {
+            "sentence": "Archaeologists found coins that provided verification of the ancient trade route.",
+            "sentence_zh": "考古学家发现的硬币证实了这条古代贸易路线的存在。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "查证",
+        "examples": [
+          {
+            "sentence": "Bank staff are trained in ID verification to prevent fraud.",
+            "sentence_zh": "银行职员接受身份证查证培训以防诈骗。"
+          },
+          {
+            "sentence": "The journalist spent three months on fact verification for this report.",
+            "sentence_zh": "记者为这篇报道进行了三个月的事实查证。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "证明属实",
+        "examples": [
+          {
+            "sentence": "The handwritten letter served as verification of the celebrity's signature.",
+            "sentence_zh": "这封亲笔信成为证明该名人签名属实的依据。"
+          },
+          {
+            "sentence": "Fingerprint verification is required to access the high-security area.",
+            "sentence_zh": "进入高安保区域需进行指纹证明属实程序。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "identity verification",
+        "meaning": "身份验证",
+        "examples": [
+          {
+            "sentence": "WeChat Pay uses facial recognition for identity verification.",
+            "sentence_zh": "微信支付使用人脸识别进行身份验证。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "on-site verification",
+        "meaning": "实地核查",
+        "examples": [
+          {
+            "sentence": "The food safety team conducted on-site verification at the hotpot restaurant.",
+            "sentence_zh": "食品安全小组对火锅店进行了实地核查。"
+          }
+        ]
+      }
+    ],
+    "teach": "verification就像'大家来找茬'游戏🔍！古罗马法官用'veritas'（真理）断案⚖️，现在我们用手机验证码收快递📦（SMS verification）。'我证明'可以说'I can vouch for that'，'实名认证'叫real-name verification。记住：没有verification的承诺就像没芝麻的烧饼——不香！🕵️♂️📜✅",
+    "recite": {
+      "tips": [
+        "谐音梗：'very非开心'→必须very认真做验证",
+        "易混词对比：verification（验证过程）vs. certificate（验证结果文件）",
+        "记忆链：very→真实→验证"
+      ]
+    }
+  },
+  {
+    "word": "verifier",
+    "etymology": {
+      "breakdown": [
+        "ver",
+        "ify",
+        "er"
+      ],
+      "meaning_connection": "词根ver=真实（同verify），-ify表'使...化'，-er表人或工具→使事物真实化的人/工具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "检验者",
+        "examples": [
+          {
+            "sentence": "The antique verifier confirmed the vase was from Ming Dynasty by checking its buttock mark.",
+            "sentence_zh": "古董检验者通过查看底款确认瓷瓶出自明代。"
+          },
+          {
+            "sentence": "As a vaccine verifier, her job is to inspect every batch like a human microscope.",
+            "sentence_zh": "作为疫苗检验员，她的工作是用人肉显微镜检查每一批疫苗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "核实者",
+        "examples": [
+          {
+            "sentence": "Fact verifiers at news agencies work like lie detectors for journalists.",
+            "sentence_zh": "新闻机构的实事核实者就像记者的测谎仪。"
+          },
+          {
+            "sentence": "The bank sent a income verifier to check if my salary slips were photoshopped.",
+            "sentence_zh": "银行派收入核实者来检查我的工资条是否被PS过。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "考证者",
+        "examples": [
+          {
+            "sentence": "The verifier spent 3 years tracking down the origin of this Peking opera costume.",
+            "sentence_zh": "这位考证者花了3年追查这件京剧戏服的来源。"
+          },
+          {
+            "sentence": "As a folk tale verifier, he travels to villages with a voice recorder and magnifying glass.",
+            "sentence_zh": "作为民间故事考证者，他带着录音机和放大镜走遍村落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "检验器",
+        "examples": [
+          {
+            "sentence": "This jade verifier uses UV light to detect resin fillings like a gemstone detective.",
+            "sentence_zh": "这台玉石检验器用紫外线探测树脂填充物，宛如宝石侦探。"
+          },
+          {
+            "sentence": "The supermarket installed a freshness verifier that sniffs fish like a robotic chef.",
+            "sentence_zh": "超市安装了会像机器人厨师般嗅探鱼鲜度的新鲜度检验器。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "identity verifier",
+        "meaning": "身份核验机",
+        "examples": [
+          {
+            "sentence": "The hotel's face-scanning identity verifier rejected my check-in because I was wearing a panda hat.",
+            "sentence_zh": "酒店的人脸识别身份核验机因我戴着熊猫帽子拒绝办理入住。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "third-party verifier",
+        "meaning": "第三方认证机构",
+        "examples": [
+          {
+            "sentence": "Our organic tea certificates come from the strictest third-party verifier in Europe.",
+            "sentence_zh": "我们的有机茶认证来自欧洲最严苛的第三方认证机构。"
+          }
+        ]
+      }
+    ],
+    "teach": "verifier是行走的'大家来找茬'🕵️‍♂️！古代叫'查证御史'（如包拯的月牙标记就是认证徽章🌙），现在既有地铁安检员式的'人肉验证机'（ID verifier），也有像《鉴宝》节目里用放大镜看瓷器的专家🔍。说'验明正身'叫verify authenticity，'打假斗士'可称professional verifier。记住：带-er结尾的都是劳模工具人！💼",
+    "recite": {
+      "tips": [
+        "谐音梗：'外瑞法尔'→歪瑞(very)认真的核查者(verifier)",
+        "易混词对比：verifier（核查者）vs. validator（批准者）→前者找问题，后者发通行证"
+      ]
+    }
   }
 ]

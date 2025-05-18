@@ -12574,5 +12574,331 @@
         "易混词：tangerine(普通柑橘) vs. mandarin(中国柑橘品种)"
       ]
     }
+  },
+  {
+    "word": "mandate",
+    "etymology": {
+      "breakdown": [
+        "mand",
+        "ate"
+      ],
+      "meaning_connection": "词根mand=命令/委托（来自拉丁语mandare），-ate表动词后缀→既指发出的命令，也指被赋予的权力"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "命令",
+        "examples": [
+          {
+            "sentence": "The boss issued a mandate requiring all meetings to end before hot pot time.",
+            "sentence_zh": "老板下达命令要求所有会议必须在火锅时间前结束。"
+          },
+          {
+            "sentence": "Ancient Chinese imperial mandates were written on golden dragon scrolls.",
+            "sentence_zh": "中国古代圣旨是用金龙卷轴书写的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "指令",
+        "examples": [
+          {
+            "sentence": "The navigation app gave a wrong mandate to turn into a pond.",
+            "sentence_zh": "导航软件错误指令让车开进池塘。"
+          },
+          {
+            "sentence": "Robot vacuums follow precise cleaning mandates.",
+            "sentence_zh": "扫地机器人遵循精确的清洁指令。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "要求",
+        "examples": [
+          {
+            "sentence": "The new health mandate requires 3-meter social distancing.",
+            "sentence_zh": "新防疫要求保持三米社交距离。"
+          },
+          {
+            "sentence": "Beijing's mask mandate saved countless lives during sandstorms.",
+            "sentence_zh": "北京口罩要求在沙尘暴期间拯救了无数生命。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "委任统治",
+        "examples": [
+          {
+            "sentence": "The UN mandated China to administer Hong Kong after WWII.",
+            "sentence_zh": "二战后联合国授权中国治理香港。"
+          },
+          {
+            "sentence": "Britain was mandated to govern Palestine in 1920s.",
+            "sentence_zh": "英国在1920年代被委任统治巴勒斯坦。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mandate of heaven",
+        "meaning": "天命（中国历史概念）",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese emperors claimed the Mandate of Heaven to legitimize their rule.",
+            "sentence_zh": "中国古代皇帝宣称天命所归来合法化统治。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "renew the mandate",
+        "meaning": "连任授权",
+        "examples": [
+          {
+            "sentence": "The CEO renewed her mandate by promising free milk tea Fridays.",
+            "sentence_zh": "CEO通过承诺周五免费奶茶获得连任授权。"
+          }
+        ]
+      }
+    ],
+    "teach": "mandate就像玉玺大印🏮！当皇帝盖下mandate就是'奉天承运'（Mandate of Heaven），现代版就是健康码弹窗📱（government mandate）。要说'必须执行'可以用hard mandate像军训条例，'灵活执行'用soft mandate像减肥计划🍔。记住：你的健身教练给你的也是mandate（痛苦的那种）💪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢待他'→违抗mandate就会慢待他",
+        "易混词对比：mandate(正式命令) vs command(军事指令)"
+      ]
+    }
+  },
+  {
+    "word": "mandatory",
+    "etymology": {
+      "breakdown": [
+        "mand",
+        "atory"
+      ],
+      "meaning_connection": "词根mand=命令（同command），-atory表性质→必须服从的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "强制性的",
+        "examples": [
+          {
+            "sentence": "Wearing masks became mandatory during the pandemic, just like wearing pants in public.",
+            "sentence_zh": "疫情期间戴口罩变得和穿裤子上街一样具有强制性。"
+          },
+          {
+            "sentence": "The mandatory safety video on airplanes is the most-watched boring film in history.",
+            "sentence_zh": "飞机上强制播放的安全须知视频是史上观看量最大的无聊影片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "受委托管理的",
+        "examples": [
+          {
+            "sentence": "The UN used to have mandatory powers over some territories after WWI.",
+            "sentence_zh": "一战后联合国曾对某些地区拥有托管权。"
+          },
+          {
+            "sentence": "This mandatory institution handles children's inheritance like a strict nanny.",
+            "sentence_zh": "这家托管机构管理儿童遗产就像个严格的保姆。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mandatory retirement",
+        "meaning": "强制退休",
+        "examples": [
+          {
+            "sentence": "In some countries, mandatory retirement age is when you switch from 996 to 24/7 babysitting grandkids.",
+            "sentence_zh": "在某些国家，强制退休年龄就是你从996工作制切换成24/7带孙子的时点。"
+          }
+        ]
+      }
+    ],
+    "teach": "mandatory其实是'蛮多托瑞'🧑⚖️：词根mand（命令）让人想到军训教官的怒吼💂，而-atory结尾让它像法律文件一样严肃📜。说'必须做'可以用non-negotiable（没得商量），'强制休息'叫mandatory break就像手机系统强制更新📱。记住：看到mandatory就像看到你妈催婚的眼神👀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢得拖累'→强制措施慢得拖累进度",
+        "易混词：mandatory（强制） vs. mandatory（托管）→前者像军令，后者像保姆"
+      ]
+    }
+  },
+  {
+    "word": "mandible",
+    "etymology": {
+      "breakdown": [
+        "mand",
+        "ible"
+      ],
+      "meaning_connection": "词根mand=咬/咀嚼 (同源词masticate)，-ible表能力→与咬合相关的部位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "颚",
+        "examples": [
+          {
+            "sentence": "The anteater's mandible can flick 160 times per minute.",
+            "sentence_zh": "食蚁兽的颚每分钟能弹动160次。"
+          },
+          {
+            "sentence": "When he yawned, his mandible made a popcorn-like sound.",
+            "sentence_zh": "他打哈欠时颚部发出爆米花般的响声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "上颚",
+        "examples": [
+          {
+            "sentence": "The crab raised its mandible like a tiny knight's visor.",
+            "sentence_zh": "螃蟹举起上颚，像微型骑士的面甲。"
+          },
+          {
+            "sentence": "Her mandible trembled when tasting the ultra-spicy hotpot.",
+            "sentence_zh": "尝到超级辣火锅时她的上颚不停颤抖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "嘴部",
+        "examples": [
+          {
+            "sentence": "The baby panda's mandible was stained with bamboo juice.",
+            "sentence_zh": "熊猫幼崽的嘴部沾满了竹子汁液。"
+          },
+          {
+            "sentence": "His mandible moved rhythmically while chewing bubble gum.",
+            "sentence_zh": "嚼泡泡糖时他的嘴部有节奏地运动。"
+          }
+        ]
+      }
+    ],
+    "teach": "mandible其实是动物界的'万能开瓶器'🦀！昆虫用它切树叶🌿（insect mandible），恐龙用它碎骨头🦴（T-rex's mandible），人类用它啃鸭脖🍗（human mandible）。记住：说'下巴脱臼'叫dislocated mandible，'咬合力'叫mandible strength。吃货的终极武器就是这对钛合金mandible！💪",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢点掰'→医生叮嘱别乱动下颌骨(mandible)",
+        "易混词对比：mandible(下颌) vs maxilla(上颌)",
+        "记忆tip：MAN+DIBLE→男人(man)用下颌(dible)展示男子气概"
+      ]
+    }
+  },
+  {
+    "word": "mandolin",
+    "etymology": {
+      "breakdown": [
+        "mandola",
+        "ino"
+      ],
+      "meaning_connection": "来自意大利语mandolino，是mandola（一种大号鲁特琴）的指小词，后缀-ino表示'小型的'。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "曼陀林琴",
+        "examples": [
+          {
+            "sentence": "The street performer played a folk tune on his mandolin near the dumpling shop.",
+            "sentence_zh": "街头艺人在饺子馆旁用曼陀林演奏民谣。"
+          },
+          {
+            "sentence": "Her mandolin case was covered with stickers from Italian cafes.",
+            "sentence_zh": "她的曼陀林琴盒贴满了意大利咖啡馆的贴纸。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mandolin slicer",
+        "meaning": "曼陀林切片器（厨房工具）",
+        "examples": [
+          {
+            "sentence": "I accidentally sliced my fingertip while using the mandolin slicer for hotpot ingredients.",
+            "sentence_zh": "用曼陀林切片器切火锅食材时不小心切到了指尖。"
+          },
+          {
+            "sentence": "The mandolin slicer makes perfect cucumber slices for spa water.",
+            "sentence_zh": "曼陀林切片器能切出完美的黄瓜片用来泡水。"
+          }
+        ]
+      }
+    ],
+    "teach": "曼陀林是披萨味的琴🍕：这种小琴诞生在那不勒斯（发明玛格丽特披萨的地方），琴身像切开的西瓜🍉，声音像清脆的罗勒叶！意大利人说'弹曼陀林'叫strumming like peeling mozzarella（像撕马苏里拉奶酪般拨弦）。记住：真正的意大利餐厅背景乐必有mandolin🎶，就像重庆火锅店必放《辣妹子》🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢剁鳞'→慢慢剁鱼鳞时听到曼陀林音乐",
+        "易混词：mandolin vs. violin（后者是正统小提琴）",
+        "记忆法：琴身形状像杏仁→mando(杏仁)+lin(琴)"
+      ]
+    }
+  },
+  {
+    "word": "mane",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'manu'，与拉丁语'manus'(手)无关，纯粹指动物颈部浓密的毛发"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "鬃毛",
+        "examples": [
+          {
+            "sentence": "The lion shook its golden mane under the African sun.",
+            "sentence_zh": "狮子在非洲阳光下甩动它金色的鬃毛。"
+          },
+          {
+            "sentence": "Her braided hair resembled a Viking horse's mane.",
+            "sentence_zh": "她编的辫子像维京战马的鬃毛。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "flowing mane",
+        "meaning": "飘逸的鬃毛/长发",
+        "examples": [
+          {
+            "sentence": "The shampoo commercial features models with flowing manes.",
+            "sentence_zh": "洗发水广告主打长发飘飘的模特。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "mane event",
+        "meaning": "双关语：既指马术比赛，也借指重要活动",
+        "examples": [
+          {
+            "sentence": "The circus poster promised 'the mane event of the century'.",
+            "sentence_zh": "马戏团海报宣称这是'世纪马戏盛会'（谐音梗）。"
+          }
+        ]
+      }
+    ],
+    "teach": "mane是动物的天然围巾🧣！狮子的鬃毛像WiFi信号格📶（越浓密地位越高）。说人头发浓密可用mane-like hair（鬃毛发量），'发型凌乱'叫bird's-nest mane（鸟窝鬃毛）🐦。记住：洗发水广告里甩的不是头发，是价值百万的mane！",
+    "recite": {
+      "tips": [
+        "谐音梗：'魅影'→《歌剧魅影》戴着鬃毛假发",
+        "易混词：main（主要的）vs mane（鬃毛）→'主要的鬃毛'"
+      ]
+    }
   }
 ]

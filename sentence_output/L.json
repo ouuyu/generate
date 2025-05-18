@@ -13002,5 +13002,320 @@
         "记忆法：'launder=launch+under'→水下发射洗衣导弹"
       ]
     }
+  },
+  {
+    "word": "laundered",
+    "etymology": {
+      "breakdown": [
+        "launder",
+        "ed"
+      ],
+      "meaning_connection": "词根launder来自拉丁语'lavare'（洗），后缀-ed表示过去式/过去分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "洗涤（衣物）",
+        "examples": [
+          {
+            "sentence": "The hotel laundered 300kg of sheets during the National Day holiday.",
+            "sentence_zh": "国庆期间该酒店洗涤了300公斤床单。"
+          },
+          {
+            "sentence": "She secretly laundered his lucky red underwear before the job interview.",
+            "sentence_zh": "她在面试前偷偷洗了他的幸运红内裤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "洗烫（衣物）",
+        "examples": [
+          {
+            "sentence": "His tuxedo was professionally laundered for the wedding.",
+            "sentence_zh": "他的燕尾服为婚礼专业洗烫过。"
+          },
+          {
+            "sentence": "The dry-cleaning shop laundered my qipao without shrinking it.",
+            "sentence_zh": "干洗店完美洗烫了我的旗袍没有缩水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "洗钱（非法资金合法化）",
+        "examples": [
+          {
+            "sentence": "The gang laundered drug money through bubble tea franchises.",
+            "sentence_zh": "该团伙通过奶茶连锁店为毒品资金洗钱。"
+          },
+          {
+            "sentence": "NFTs were once used to launder dirty money before the crypto crash.",
+            "sentence_zh": "在加密货币崩盘前，NFT曾被用来洗黑钱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "money laundering",
+        "meaning": "洗钱",
+        "examples": [
+          {
+            "sentence": "The movie plot revolves around Bitcoin money laundering.",
+            "sentence_zh": "电影剧情围绕比特币洗钱展开。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "freshly laundered",
+        "meaning": "刚洗好的",
+        "examples": [
+          {
+            "sentence": "Nothing beats the smell of freshly laundered cotton sheets.",
+            "sentence_zh": "没有什么比刚洗好的纯棉床单气味更治愈了。"
+          }
+        ]
+      }
+    ],
+    "teach": "laundered是个'黑白两道'通吃的词👔💵！正常版是阳光晒被单的清香☀️（freshly laundered sheets），暗黑版是《狂飙》式洗钱操作🕶️（money laundering）。要说'衣服洗得干净'说'came out sparkling'，'洗钱组织'叫laundry service。记住：用洗衣机是laundry，用比特币就叫cybercrime！🧼⚖️",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒德的'→懒德（laundered）的衣服都要送洗",
+        "易混词对比：laundry（洗衣店）/launder（动词洗涤）",
+        "记忆tip：所有意思都围绕'让东西变干净'的核心概念"
+      ]
+    }
+  },
+  {
+    "word": "launderette",
+    "etymology": {
+      "breakdown": [
+        "launder",
+        "ette"
+      ],
+      "meaning_connection": "词根launder=洗衣（源自拉丁语lavanda），后缀-ette表示小型场所→小型洗衣场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "自助洗衣店",
+        "examples": [
+          {
+            "sentence": "The launderette near Peking University has meme-covered washing machines.",
+            "sentence_zh": "北大附近的自助洗衣店里有贴满表情包的洗衣机。"
+          },
+          {
+            "sentence": "Singing in a launderette at 2am is my secret stress reliever.",
+            "sentence_zh": "凌晨两点在自助洗衣店唱歌是我解压的秘方。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "24-hour launderette",
+        "meaning": "24小时洗衣店",
+        "examples": [
+          {
+            "sentence": "The 24-hour launderette saved me during finals week with my panda-eyed look.",
+            "sentence_zh": "期末周顶著熊猫眼时，24小时洗衣店救了我。"
+          }
+        ]
+      }
+    ],
+    "teach": "launderette其实是'浪的rette'💦：想象滚筒洗衣机在跳广场舞（launder+disco=laundisco💃）。英国第一家自助洗衣店开在二战期间，主妇们终于不用手搓到秃噜皮👵→说'洗衣服'别用wash clothes，地道说法是do the laundry🧺，把脏衣服叫smelly puppies🦮。记住：单身狗的快乐就是去launderette看袜子相亲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得rette'→懒得洗就去launderette",
+        "易混词对比：laundry (待洗衣物) vs launderette (场所)"
+      ]
+    }
+  },
+  {
+    "word": "laundering",
+    "etymology": {
+      "breakdown": [
+        "launder",
+        "ing"
+      ],
+      "meaning_connection": "词根launder来自拉丁语lavare（洗），-ing表示动作过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗烫",
+        "examples": [
+          {
+            "sentence": "The hotel offers same-day laundering for silk dresses.",
+            "sentence_zh": "酒店为真丝裙装提供当日洗烫服务。"
+          },
+          {
+            "sentence": "Modern laundering technology can remove durian stains completely.",
+            "sentence_zh": "现代洗烫技术能完全去除榴莲渍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "money laundering",
+        "meaning": "洗钱",
+        "examples": [
+          {
+            "sentence": "The teahouse turned out to be a front for money laundering.",
+            "sentence_zh": "这家茶馆实际上是洗钱的幌子。"
+          },
+          {
+            "sentence": "Crypto currencies make money laundering harder to track.",
+            "sentence_zh": "加密货币使洗钱行为更难追踪。"
+          }
+        ]
+      }
+    ],
+    "teach": "laundering本意是给衣服'洗澡'🧼，后来黑帮发现脏钱也需要'干洗'💵，就诞生了money laundering这个说法。记住：普通洗烫叫laundry service，黑帮洗钱叫laundering operation🚔。搭配'洗白黑历史'可以说whitewash one's past，'洗衣店'是launderette👕。",
+    "recite": {
+      "tips": [
+        "谐音梗：'烂折腾'→洗烫衣服就是和污渍烂折腾",
+        "易混词对比：laundry（洗衣店） vs. laundering（洗烫过程）",
+        "记忆tip：想象洗衣机在'laun-der-der'旋转的声音"
+      ]
+    }
+  },
+  {
+    "word": "laundrette",
+    "etymology": {
+      "breakdown": [
+        "launder",
+        "ette"
+      ],
+      "meaning_connection": "词根launder=洗衣，后缀-ette表'小型'→小型洗衣场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "自助洗衣店",
+        "examples": [
+          {
+            "sentence": "The laundrette near campus plays K-pop songs while washing.",
+            "sentence_zh": "学校附近的自助洗衣店会在洗衣时播放K-pop歌曲。"
+          },
+          {
+            "sentence": "I met my neighbor singing in the laundrette at midnight.",
+            "sentence_zh": "半夜在自助洗衣店遇见邻居在唱歌。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "coin-operated laundrette",
+        "meaning": "投币式洗衣店",
+        "examples": [
+          {
+            "sentence": "The coin-operated laundrette smells like strawberry fabric softener.",
+            "sentence_zh": "这家投币洗衣店闻起来像草莓味柔顺剂。"
+          }
+        ]
+      }
+    ],
+    "teach": "laundrette其实是'滚筒迪厅'🎵：想象英国留学生边等洗衣边蹦迪的魔幻场景💃。说'衣服洗完了'英国人说'my wash is done'（直译：我的洗涤完成了），美国人则说'my laundry's finished'🧺。记住：在laundrette总能见证人类迷惑行为大赏🤯！",
+    "recite": {
+      "tips": [
+        "谐音梗：'浪拽的'→在洗衣店浪拽的甩干衣服",
+        "易混词对比：laundry（要洗的衣物） vs laundrette（洗衣场所）",
+        "视觉记忆：把-ette记成迷你版（如cigarette→小号雪茄）"
+      ]
+    }
+  },
+  {
+    "word": "laundry",
+    "etymology": {
+      "breakdown": [
+        "laund",
+        "ry"
+      ],
+      "meaning_connection": "来自古法语lavanderie（洗衣处），词根laund与拉丁语lavare（洗）同源，-ry表场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗衣店",
+        "examples": [
+          {
+            "sentence": "The AI-powered laundry near campus folds shirts like origami.",
+            "sentence_zh": "学校附近那家AI洗衣店叠衬衫像折纸艺术。"
+          },
+          {
+            "sentence": "She opened a cat-themed laundry where pets accompany waiting customers.",
+            "sentence_zh": "她开了家猫咪主题洗衣店，宠物会陪顾客等衣服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗好的衣服",
+        "examples": [
+          {
+            "sentence": "My smart speaker reminded me: 'Your laundry is judging you from the basket'.",
+            "sentence_zh": "智能音箱提醒我：'洗好的衣服正在篮子里审判你呢'。"
+          },
+          {
+            "sentence": "The dorm's aroma of fabric softener mixed with instant noodles haunted our laundry.",
+            "sentence_zh": "宿舍里柔顺剂和泡面混合的味道萦绕着洗好的衣服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗涤",
+        "examples": [
+          {
+            "sentence": "Doing laundry ranks higher than final exams in adulting difficulty.",
+            "sentence_zh": "在成人难度排行榜上，洗衣服排名超过期末考试。"
+          },
+          {
+            "sentence": "His laundry routine: sort by 'will shrink' and 'already shrank'.",
+            "sentence_zh": "他的洗衣分类法：'会缩水'和'已经缩水'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "do the laundry",
+        "meaning": "洗衣服",
+        "examples": [
+          {
+            "sentence": "I'd rather solve calculus problems than do the laundry.",
+            "sentence_zh": "我宁愿解微积分题也不想洗衣服。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "laundry list",
+        "meaning": "冗长清单",
+        "examples": [
+          {
+            "sentence": "My mom's WeChat message contained a laundry list of相亲 requirements.",
+            "sentence_zh": "我妈的微信发来一长串相亲条件清单。"
+          }
+        ]
+      }
+    ],
+    "teach": "laundry是成年人的魔法仪式🧙♂️：把脏衣服塞进机器（abracadabra！），出来香喷喷的干净衣服✨。据说纽约有家'洗衣朋克'店，用蒸汽管道烘衣服⚡️。说'衣服堆成山'用mount laundry，'永远少只袜子'叫sock singularity🧦。记住：人生就像laundry，总要面对一堆dirty work！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒追'→懒得追(laundry)讨消失的袜子",
+        "易混词：laundry（洗衣店）vs. lawyer（律师）→一个洗衣服，一个'洗'案子"
+      ]
+    }
   }
 ]

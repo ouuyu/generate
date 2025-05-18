@@ -12961,5 +12961,372 @@
         "易混词对比：nerve(神经/勇气) vs. nervous(紧张的)"
       ]
     }
+  },
+  {
+    "word": "nerveless",
+    "etymology": {
+      "breakdown": [
+        "nerve",
+        "less"
+      ],
+      "meaning_connection": "词根nerve=神经/力量，后缀-less表否定→字面'没有力量的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无力的",
+        "examples": [
+          {
+            "sentence": "After the marathon, his nerveless legs collapsed onto the sofa.",
+            "sentence_zh": "马拉松后，他无力的双腿瘫倒在沙发上。"
+          },
+          {
+            "sentence": "The nerveless kitten couldn't even lift its paw to play with yarn.",
+            "sentence_zh": "这只无力的小猫连抬爪玩毛线的力气都没有。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无力气的",
+        "examples": [
+          {
+            "sentence": "His nerveless grip made the teacup slip onto the carpet.",
+            "sentence_zh": "他无力气的握持让茶杯滑落在地毯上。"
+          },
+          {
+            "sentence": "The boxer's nerveless arms hung like overcooked noodles after 12 rounds.",
+            "sentence_zh": "12回合后，拳击手无力气的双臂像煮过头的面条般垂下。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "松懈的",
+        "examples": [
+          {
+            "sentence": "The nerveless defense allowed five goals in the first half.",
+            "sentence_zh": "松懈的防守让上半场就被进了五个球。"
+          },
+          {
+            "sentence": "Her nerveless supervision led to the lab explosion.",
+            "sentence_zh": "她松懈的监管导致了实验室爆炸。"
+          }
+        ]
+      }
+    ],
+    "teach": "nerveless是'社畜下班状态'💤！想象你加班到凌晨三点时的手臂→像被抽走神经(nerve)的橡皮泥🤲。搭配'nerveless performance'形容爱豆划水现场🎤，'nerveless excuse'指弱爆的借口（比如'狗吃了我的作业'🐶）。记住：当你说'I feel nerveless'时，同事会给你递红牛🥤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪无力死'→哪都无力到死",
+        "易混词对比：nervous（紧张的）vs nerveless（无力的）→前者神经紧绷，后者神经失踪"
+      ]
+    }
+  },
+  {
+    "word": "nervous",
+    "etymology": {
+      "breakdown": [
+        "nerv",
+        "ous"
+      ],
+      "meaning_connection": "词根nerv=神经/筋脉（拉丁语nervus），-ous为形容词后缀→像被扯紧的神经般"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "神经紧张的",
+        "examples": [
+          {
+            "sentence": "She was so nervous before the blind date that she ate three packs of spicy strips.",
+            "sentence_zh": "相亲前她紧张到连吃三包辣条。"
+          },
+          {
+            "sentence": "The panda cub looked nervous when meeting foreign visitors for the first time.",
+            "sentence_zh": "熊猫幼崽初次见到外国游客时显得神经紧张。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不安的",
+        "examples": [
+          {
+            "sentence": "His nervous laughter betrayed his true feelings during the salary negotiation.",
+            "sentence_zh": "谈薪资时他不安的笑声暴露了真实情绪。"
+          },
+          {
+            "sentence": "The cat gave me a nervous glance after knocking over the flower vase.",
+            "sentence_zh": "打翻花瓶后猫咪不安地瞥了我一眼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nervous system",
+        "meaning": "神经系统",
+        "examples": [
+          {
+            "sentence": "Playing mahjong stimulates the nervous system of elderly people.",
+            "sentence_zh": "打麻将能刺激老年人的神经系统。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "nervous breakdown",
+        "meaning": "精神崩溃",
+        "examples": [
+          {
+            "sentence": "After working 996 for two years, he nearly had a nervous breakdown.",
+            "sentence_zh": "经历两年996工作制后，他几乎精神崩溃。"
+          }
+        ]
+      }
+    ],
+    "teach": "nervous就像被踩到尾巴的猫🐱！词源nerv本指筋脉（现在针灸时还能看到nervous system模型⚡）。'紧张到爆'可以说butterflies in stomach（胃里蝴蝶乱飞），'淡定'就是keep your nerves。记住：考试前nervous喝奶茶🧋，喝完更nervous因为怕长胖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪窝死'→鸡窝死了哪只鸡让主人很nervous",
+        "易混词对比：anxious（更持久的焦虑） vs nervous（暂时的紧张）",
+        "联想：NE RV US→开房车(RV)的我们(US)在神经(nerv)山路很nervous"
+      ]
+    }
+  },
+  {
+    "word": "nervously",
+    "etymology": {
+      "breakdown": [
+        "nerv(e)",
+        "ous",
+        "ly"
+      ],
+      "meaning_connection": "词根nerv=神经，-ous表形容词性质，-ly转为副词→'像神经紧张的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "焦急地",
+        "examples": [
+          {
+            "sentence": "The panda keeper nervously checked the pregnancy test for the 10th time.",
+            "sentence_zh": "熊猫饲养员焦急地第十次查看孕检结果。"
+          },
+          {
+            "sentence": "He laughed nervously when his boss mentioned 'year-end bonus'.",
+            "sentence_zh": "当老板提到'年终奖'时，他紧张地笑了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "神经质地",
+        "examples": [
+          {
+            "sentence": "The cat paced nervously after seeing the cucumber.",
+            "sentence_zh": "看到黄瓜后，猫咪神经质地来回踱步。"
+          },
+          {
+            "sentence": "She blinked nervously during the blind date like a broken robot.",
+            "sentence_zh": "相亲时她像故障机器人般神经质地眨眼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "提心吊胆地",
+        "examples": [
+          {
+            "sentence": "Students waited nervously for gaokao results like explosives experts.",
+            "sentence_zh": "学生们像拆弹专家般提心吊胆地等待高考成绩。"
+          },
+          {
+            "sentence": "The celebrity smiled nervously when asked about his plastic surgery.",
+            "sentence_zh": "被问到整容问题时，这位明星提心吊胆地微笑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "laugh nervously",
+        "meaning": "紧张地笑",
+        "examples": [
+          {
+            "sentence": "The employee laughed nervously when the boss asked 'Who ate my durian?'",
+            "sentence_zh": "当老板问'谁吃了我的榴莲'时，员工紧张地笑了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "glance nervously",
+        "meaning": "不安地张望",
+        "examples": [
+          {
+            "sentence": "The boy glanced nervously at his phone during parent-teacher meeting.",
+            "sentence_zh": "家长会期间男孩不停地紧张看手机。"
+          }
+        ]
+      }
+    ],
+    "teach": "nervously就像被班主任盯着的你😅！英国人说'像长颈鹿在雷区踱步'（like a giraffe in a minefield）形容这种状态。'紧张到爆'可以说butterflies in stomach🦋，搭配'nervously bite nails'（紧张咬指甲）和'nervously sweat bullets'（紧张到汗如弹珠）。记住：当你的表情像地铁老人看手机.jpg时，你就是nervously本斯！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪我死'→紧张时想着'哪我死定了'",
+        "易混词对比：nervously（行为状态）vs. anxious（内心感受）",
+        "联想：考试时手抖如帕金森=writing nervously"
+      ]
+    }
+  },
+  {
+    "word": "nervousness",
+    "etymology": {
+      "breakdown": [
+        "nerv",
+        "ous",
+        "ness"
+      ],
+      "meaning_connection": "词根nerv=神经/肌腱，-ous表性质，-ness表状态→神经紧绷的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "紧张不安",
+        "examples": [
+          {
+            "sentence": "The nervousness before blind dating is worse than riding a roller coaster.",
+            "sentence_zh": "相亲前的紧张感比坐过山车还刺激。"
+          },
+          {
+            "sentence": "His fingers betrayed his nervousness by drumming nonstop on the desk.",
+            "sentence_zh": "他不停敲桌子的手指暴露了紧张情绪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "神经过敏",
+        "examples": [
+          {
+            "sentence": "The cat's nervousness made it jump at the sound of a falling leaf.",
+            "sentence_zh": "这只猫神经过敏到落叶声都能吓跳起来。"
+          },
+          {
+            "sentence": "Modern life has increased people's nervousness about trivial matters.",
+            "sentence_zh": "现代生活放大了人们对琐事的神经过敏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "担忧",
+        "examples": [
+          {
+            "sentence": "Mothers' nervousness about children's safety never truly disappears.",
+            "sentence_zh": "母亲对孩子安全的担忧从未真正消失。"
+          },
+          {
+            "sentence": "There's growing nervousness among investors about the stock market.",
+            "sentence_zh": "投资者对股市的担忧与日俱增。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with nervousness",
+        "meaning": "带着紧张",
+        "examples": [
+          {
+            "sentence": "She opened the exam paper with nervousness, like unboxing a time bomb.",
+            "sentence_zh": "她拆试卷的紧张程度堪比拆定时炸弹。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "nervousness disorder",
+        "meaning": "神经紧张症",
+        "examples": [
+          {
+            "sentence": "Panda caretakers often develop nervousness disorder from worrying about cubs.",
+            "sentence_zh": "熊猫饲养员常因担心幼崽患上神经紧张症。"
+          }
+        ]
+      }
+    ],
+    "teach": "nervousness本质是神经在跳机械舞💃！拉丁词根nerv指肌腱（古人以为神经是能弹跳的弦），现代人紧张时就像被无形琵琶精弹神经🧵。说'紧张到爆'用butterflies in stomach（胃里蝴蝶乱飞），'淡定'叫keep one's cool❄️。记住：你的神经此刻可能正在蹦迪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪窝丝nest'→哪窝丝的鸟巢(nervousness)被捅了当然紧张",
+        "对比记忆：anxiety（焦虑）是持续性的，nervousness是即时性的",
+        "联想：神经(nerv)上挂满圣诞灯串(ousness)→亮得太紧张"
+      ]
+    }
+  },
+  {
+    "word": "nervy",
+    "etymology": {
+      "breakdown": [
+        "nerve",
+        "y"
+      ],
+      "meaning_connection": "词根nerve=神经/勇气，后缀-y表性质→既有'神经质的'又有'有胆量的'双重含义，类似中文'吃了熊心豹子胆'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有勇气的",
+        "examples": [
+          {
+            "sentence": "The nervy delivery rider jumped over 3 steps to save time.",
+            "sentence_zh": "那个胆大的外卖骑手为省时间直接跳过三级台阶。"
+          },
+          {
+            "sentence": "Her nervy proposal shocked the conservative board members.",
+            "sentence_zh": "她大胆的提案震惊了保守的董事会成员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "易激动的",
+        "examples": [
+          {
+            "sentence": "He became nervy after drinking 5 cups of Luckin coffee.",
+            "sentence_zh": "喝了5杯瑞幸咖啡后他变得神经紧绷。"
+          },
+          {
+            "sentence": "The nervy cat hissed at every WeChat notification sound.",
+            "sentence_zh": "那只易怒的猫对每个微信提示音都发出嘶叫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nervy energy",
+        "meaning": "躁动的能量",
+        "examples": [
+          {
+            "sentence": "The live streamer's nervy energy made the audience buy 10,000 lipsticks.",
+            "sentence_zh": "主播躁动的能量让观众狂买1万支口红。"
+          }
+        ]
+      }
+    ],
+    "teach": "nervy是'神经'与'勇气'的量子纠缠态🐍！想象关羽刮骨疗毒时：华佗觉得他nervy(有胆量)，曹操觉得他nervy(太冲动)。实用搭配：'nervy smile'=强装镇定的笑🤪，'nervy as a squirrel'=像松鼠般易惊🐿️。地道表达用'have nerves of steel'才是真胆大，而'nervy'常带'莽撞'色彩！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪吒V'→哪吒的nervy性格（又勇又躁）",
+        "易混词对比：nervous纯负面焦虑，nervy含褒义胆量"
+      ]
+    }
   }
 ]

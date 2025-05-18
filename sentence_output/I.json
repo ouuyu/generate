@@ -12946,5 +12946,356 @@
         "易混对比：memorialize（纪念）vs immortalize（神化）"
       ]
     }
+  },
+  {
+    "word": "immortal",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mort",
+        "al"
+      ],
+      "meaning_connection": "前缀im-表示'否定'，词根mort表示'死亡'，后缀-al表性质→字面意义'不会死亡的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不朽人物",
+        "examples": [
+          {
+            "sentence": "Bruce Lee remains an immortal in martial arts history.",
+            "sentence_zh": "李小龙仍是武术史上的不朽传奇。"
+          },
+          {
+            "sentence": "The poet Li Bai is considered an immortal of Chinese literature.",
+            "sentence_zh": "李白被视为中国文学史上的不朽人物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "神仙",
+        "examples": [
+          {
+            "sentence": "In Journey to the West, immortals play mahjong on clouds.",
+            "sentence_zh": "《西游记》里神仙们在云朵上打麻将。"
+          },
+          {
+            "sentence": "The Eight Immortals each carry magical items like the gourd and flute.",
+            "sentence_zh": "八仙各持葫芦、笛子等法宝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "永远的",
+        "examples": [
+          {
+            "sentence": "The terracotta warriors guard the emperor's immortal glory.",
+            "sentence_zh": "兵马俑守护着皇帝永恒的荣耀。"
+          },
+          {
+            "sentence": "Their love story became an immortal legend in the village.",
+            "sentence_zh": "他们的爱情故事成为村里永恒的传说。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不死的",
+        "examples": [
+          {
+            "sentence": "Vampires in novels are immortal creatures fearing sunlight.",
+            "sentence_zh": "小说中的吸血鬼是畏惧阳光的不死生物。"
+          },
+          {
+            "sentence": "The elixir was said to grant immortal life to drinkers.",
+            "sentence_zh": "据说仙丹能让饮者获得不死之身。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "长久的",
+        "examples": [
+          {
+            "sentence": "The Great Wall stands as an immortal monument to human labor.",
+            "sentence_zh": "长城是人类劳动的长久丰碑。"
+          },
+          {
+            "sentence": "Peking Opera preserves immortal traditional art forms.",
+            "sentence_zh": "京剧保存着历久弥新的传统艺术形式。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immortal soul",
+        "meaning": "不灭的灵魂",
+        "examples": [
+          {
+            "sentence": "Ancient Egyptians believed in the immortal soul's journey.",
+            "sentence_zh": "古埃及人相信不灭灵魂的旅程。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "immortal words",
+        "meaning": "不朽名言",
+        "examples": [
+          {
+            "sentence": "Confucius left immortal words about education and virtue.",
+            "sentence_zh": "孔子留下了关于教育和品德的不朽名言。"
+          }
+        ]
+      }
+    ],
+    "teach": "immortal就像中国神话里的蟠桃🍑+漫威超级英雄🦸♂️+故宫铜缸💧的混合体！古埃及人用im(不)+mort(死)造词时，绝对想不到现在会用来形容《封神榜》里腾云驾雾的神仙☁️。说'名垂青史'可以用achieve immortality，而'长生不老药'就叫elixir of life。记住：从秦始皇寻仙丹到现代抗衰老研究，人类对immortal的执念从未改变！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨魔头'→神仙阿姨其实是魔头（别当真）",
+        "易混词对比：mortal（会死的）VS immortal（不死的）就像凡人和神仙",
+        "记忆tip：im+mort+al=『我+不要+死』→长生不老"
+      ]
+    }
+  },
+  {
+    "word": "immovable",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mov",
+        "able"
+      ],
+      "meaning_connection": "前缀im-表否定，词根mov=移动，-able表能够→字面'不可移动的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "固定的",
+        "examples": [
+          {
+            "sentence": "The Great Wall stands as an immovable symbol of Chinese civilization.",
+            "sentence_zh": "长城作为中华文明不可撼动的象征巍然屹立。"
+          },
+          {
+            "sentence": "Her desk was immovable due to the concrete blocks underneath.",
+            "sentence_zh": "她的办公桌因下面的混凝土块而固定不动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不改变的",
+        "examples": [
+          {
+            "sentence": "He remained immovable in his decision to quit smoking.",
+            "sentence_zh": "他戒烟的决定坚如磐石。"
+          },
+          {
+            "sentence": "The ancient tree has witnessed immovable traditions for centuries.",
+            "sentence_zh": "这棵古树见证了数百年来不曾改变的传统。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immovable property",
+        "meaning": "不动产",
+        "examples": [
+          {
+            "sentence": "Panda habitats are China's most precious immovable property.",
+            "sentence_zh": "熊猫栖息地是中国最珍贵的不动产。"
+          }
+        ]
+      }
+    ],
+    "teach": "immovable是宇宙级'钉子户'📌！希腊神话中Atlas扛地球🌍就是终极immovable形象。说'纹丝不动'可用rooted to the spot（像树根扎进土里），'固执己见'叫dig one's heels in（像驴子跺蹄子🐴）。记住：泰山崩于前而色不变→as immovable as Mount Tai🗻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨母握宝'→姨母紧紧握住传家宝(immovable)",
+        "易混词：mobile vs. immovable（手机📱 vs. 石像🗿）",
+        "记忆法：im+movie+able→电影里的超人应该immovable（刀枪不入）"
+      ]
+    }
+  },
+  {
+    "word": "immune",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mun",
+        "e"
+      ],
+      "meaning_connection": "前缀im-表示'否定'，词根mun表示'服务/义务'（如municipal市政的），-e为后缀→原指免除公共服务义务，引申出'免除'和'免疫'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "免疫的",
+        "examples": [
+          {
+            "sentence": "Vaccinated pandas develop immune protection against canine distemper.",
+            "sentence_zh": "接种疫苗的熊猫对犬瘟热产生免疫保护。"
+          },
+          {
+            "sentence": "Some people are miraculously immune to spicy hotpot.",
+            "sentence_zh": "有些人神奇地对麻辣火锅免疫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "免除的",
+        "examples": [
+          {
+            "sentence": "Diplomats are immune from parking tickets in most countries.",
+            "sentence_zh": "在多数国家外交官可免除停车罚单。"
+          },
+          {
+            "sentence": "This ancient temple was immune to property taxes until 2020.",
+            "sentence_zh": "这座古刹直到2020年都免除房产税。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不受影响的",
+        "examples": [
+          {
+            "sentence": "True love should be immune to WeChat moment likes.",
+            "sentence_zh": "真爱应该不受微信点赞数影响。"
+          },
+          {
+            "sentence": "Her passion for Peking opera is immune to trendy K-pop.",
+            "sentence_zh": "她对京剧的热情不受潮流韩团影响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "免疫者",
+        "examples": [
+          {
+            "sentence": "COVID-19 survivors were initially thought to be permanent immunes.",
+            "sentence_zh": "新冠康复者最初被认为能永久免疫。"
+          },
+          {
+            "sentence": "In zombie movies, the immunes hold the key to salvation.",
+            "sentence_zh": "丧尸片中免疫者是救世关键。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immune system",
+        "meaning": "免疫系统",
+        "examples": [
+          {
+            "sentence": "Eating goji berries won't instantly boost your immune system.",
+            "sentence_zh": "吃枸杞不会瞬间增强免疫系统。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "immune to",
+        "meaning": "对...免疫/不受影响",
+        "examples": [
+          {
+            "sentence": "No one is truly immune to durian's smell.",
+            "sentence_zh": "没人能真正对榴莲气味免疫。"
+          }
+        ]
+      }
+    ],
+    "teach": "immune是金钟罩铁布衫🤺！中世纪欧洲黑死病时期，有些收税官(immunes)因特殊身份获得豁免权🛡️，就像现在VIP免排队。说'脸皮厚'叫thick-skinned（真皮层免疫），'百毒不侵'可说invulnerable like Superman🦸。记住：你的免疫力决定能吃多少路边摊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨母嗯'→姨母点头(immune)批准免税",
+        "易混词对比：immunity（名词形式）vs. immortal（不朽的）",
+        "记忆链：im（不）+ mune（义务）= 不用干活最免疫"
+      ]
+    }
+  },
+  {
+    "word": "immunity",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mun",
+        "ity"
+      ],
+      "meaning_connection": "前缀im-表否定，词根mun源自拉丁语munis=服务/义务，-ity表性质→原指免除公共义务，后引申为免疫"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "免疫力",
+        "examples": [
+          {
+            "sentence": "Eating goji berries won't give you instant immunity like Captain America's serum.",
+            "sentence_zh": "吃枸杞不会像美队血清那样给你瞬间免疫力。"
+          },
+          {
+            "sentence": "Newborns get temporary immunity from breast milk.",
+            "sentence_zh": "新生儿通过母乳获得暂时免疫力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "免除",
+        "examples": [
+          {
+            "sentence": "Diplomats enjoy tax immunity like VIPs in duty-free shops.",
+            "sentence_zh": "外交官享受免税特权就像免税店VIP。"
+          },
+          {
+            "sentence": "The immunity clause protects CEOs from certain lawsuits.",
+            "sentence_zh": "免责条款保护CEO免受特定诉讼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "herd immunity",
+        "meaning": "群体免疫",
+        "examples": [
+          {
+            "sentence": "Herd immunity works like firewall protection in a computer network.",
+            "sentence_zh": "群体免疫就像计算机网络的防火墙保护。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "diplomatic immunity",
+        "meaning": "外交豁免权",
+        "examples": [
+          {
+            "sentence": "That ambassador parked illegally using diplomatic immunity like a 'get out of jail free' card.",
+            "sentence_zh": "那位大使用外交豁免权违章停车，就像用了'免罪金牌'。"
+          }
+        ]
+      }
+    ],
+    "teach": "immunity是人体里的黄金圣衣✨：词根mun=公共服务（如municipal市政的），古代贵族有免除劳役特权→现代变成疫苗护盾🛡️。说'我百毒不侵'可夸I have immunity like Superman（但别真去摸毒蘑菇🍄）。外交豁免权叫diplomatic immunity，效果堪比游戏里的无敌星🌟！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨母捏腿'→姨母捏腿(immunity)能防老寒腿",
+        "易混词对比：immunity（免疫/免除） vs. impunity（不受惩罚）",
+        "记忆tip：im（不）+mun（服务）=不用服务→免除"
+      ]
+    }
   }
 ]

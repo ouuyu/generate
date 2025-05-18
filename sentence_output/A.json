@@ -12768,5 +12768,401 @@
         "记忆tip：想象女王用{ }形宝剑给你授勋"
       ]
     }
+  },
+  {
+    "word": "accommodate",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "com",
+        "mod",
+        "ate"
+      ],
+      "meaning_connection": "前缀ac-表加强，com-表共同，词根mod=测量/适度，-ate动词后缀→原指'使共同调整'，引申出多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使适应",
+        "examples": [
+          {
+            "sentence": "Pandas accommodate slowly to bamboo-free environments.",
+            "sentence_zh": "大熊猫对无竹环境适应缓慢。"
+          },
+          {
+            "sentence": "The school accommodates teaching methods to left-handed students.",
+            "sentence_zh": "学校为左撇子学生调整教学方法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "调和",
+        "examples": [
+          {
+            "sentence": "This agreement accommodates the interests of all parties.",
+            "sentence_zh": "该协议调和了各方利益。"
+          },
+          {
+            "sentence": "The diplomat accommodated conflicting demands like a hotpot mediator.",
+            "sentence_zh": "外交官像火锅调停者般调和矛盾诉求。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "通融",
+        "examples": [
+          {
+            "sentence": "The bank accommodated his late payment with a smiley emoji.",
+            "sentence_zh": "银行用笑脸表情通融了他的逾期还款。"
+          },
+          {
+            "sentence": "Hotels often accommodate special requests for newlyweds.",
+            "sentence_zh": "酒店常为新婚夫妇通融特殊要求。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "容纳",
+        "examples": [
+          {
+            "sentence": "The new stadium accommodates 100,000 screaming fans.",
+            "sentence_zh": "新体育场可容纳10万欢呼的观众。"
+          },
+          {
+            "sentence": "This USB drive accommodates all my K-drama collections.",
+            "sentence_zh": "这个U盘装得下我所有韩剧收藏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "向...提供",
+        "examples": [
+          {
+            "sentence": "The company accommodates employees with free bubble tea.",
+            "sentence_zh": "公司向员工提供免费奶茶。"
+          },
+          {
+            "sentence": "Universities accommodate international students with visa guidance.",
+            "sentence_zh": "大学为留学生提供签证指导。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "适应",
+        "examples": [
+          {
+            "sentence": "Chameleons accommodate quickly to background colors.",
+            "sentence_zh": "变色龙能快速适应背景颜色。"
+          },
+          {
+            "sentence": "Boomers struggle to accommodate to TikTok trends.",
+            "sentence_zh": "老一辈人难以适应抖音潮流。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accommodate with",
+        "meaning": "提供...便利",
+        "examples": [
+          {
+            "sentence": "The hotel accommodated us with late checkout.",
+            "sentence_zh": "酒店为我们提供延迟退房便利。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accommodate to",
+        "meaning": "适应于",
+        "examples": [
+          {
+            "sentence": "WeChat Pay accommodates to both young and elderly users.",
+            "sentence_zh": "微信支付适应老少用户。"
+          }
+        ]
+      }
+    ],
+    "teach": "accommodate就像变形金刚🤖！当它'容纳'时是哆啦A梦的次元袋👜（accommodates 100 cats）；'通融'时像给迟到外卖小哥开门的阿姨👵（accommodated the delivery）；'适应'时是疯狂星期四的社畜🐔（accommodates to overtime）。记住万能搭配：'提供便利'说accommodate with，'适应变化'用accommodate to，吐槽'装不下'说can't accommodate my soul🐶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'可摸dates'→提供(accommodate)约会对象",
+        "易混词对比：adapt（主动适应）vs accommodate（被动适应）"
+      ]
+    }
+  },
+  {
+    "word": "accommodating",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "com",
+        "mod",
+        "ate",
+        "ing"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'，com-表'共同'，词根mod=测量/适度，-ate动词后缀，-ing形容词后缀→原指'调整到合适状态'，引申为'通融的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "与人方便的",
+        "examples": [
+          {
+            "sentence": "The accommodating host even prepared slippers with panda patterns for guests.",
+            "sentence_zh": "这位体贴的房东甚至准备了熊猫图案的拖鞋给客人。"
+          },
+          {
+            "sentence": "Chinese restaurants are famously accommodating about customizing spice levels.",
+            "sentence_zh": "中餐馆以便利顾客调整辣度而闻名。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "肯通融的",
+        "examples": [
+          {
+            "sentence": "The teacher was accommodating when I needed extra time to finish my dumpling-making project.",
+            "sentence_zh": "当我需要额外时间完成包饺子作业时，老师很通融。"
+          },
+          {
+            "sentence": "During the Spring Rush, train attendants become magically accommodating.",
+            "sentence_zh": "春运期间，列车乘务员会变得特别肯通融。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accommodating spirit",
+        "meaning": "通融精神",
+        "examples": [
+          {
+            "sentence": "The accommodating spirit of street vendors allows bargaining over every scallion pancake.",
+            "sentence_zh": "煎饼摊主的通融精神允许每张煎饼都讨价还价。"
+          }
+        ]
+      }
+    ],
+    "teach": "accommodating本质是'共同调节'🤹‍♀️！就像火锅店允许鸳鸯锅🍲（half-and-half pot），这个词浓缩了中华'与人方便'的智慧💡。说'特别好说话'可以用super accommodating，而'死板'正好相反是rigid。记住：会帮客人拼桌的餐馆老板脸上就写着这个单词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿康modify'→阿康总是修改方案与人方便",
+        "易混词对比：commodious（宽敞的）和accommodating（通融的）都含com-前缀",
+        "记忆桩：想象酒店经理(accommodator)帮你升级到总统套房"
+      ]
+    }
+  },
+  {
+    "word": "accommodation",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "com",
+        "mod",
+        "ation"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'+com-'共同'+mod'方式'→原指'使符合共同标准'，引申出'调节'和'提供空间'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "膳宿",
+        "examples": [
+          {
+            "sentence": "The university provides accommodation with hot pot restaurants nearby.",
+            "sentence_zh": "该校提供的宿舍周边配有火锅店。"
+          },
+          {
+            "sentence": "Airbnb changed how people book vacation accommodations.",
+            "sentence_zh": "爱彼迎改变了人们预订度假住所的方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "预订铺位",
+        "examples": [
+          {
+            "sentence": "Train soft sleeper accommodations sell out in 3 seconds during Spring Festival.",
+            "sentence_zh": "春运期间火车软卧铺位三秒售罄。"
+          },
+          {
+            "sentence": "The cruise ship's premium accommodations include karaoke rooms.",
+            "sentence_zh": "这艘游轮的豪华舱位配备K歌房。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "适应性调节",
+        "examples": [
+          {
+            "sentence": "Panda's accommodation to bamboo diet took millions of years.",
+            "sentence_zh": "熊猫对竹子饮食的适应花了数百万年。"
+          },
+          {
+            "sentence": "The company made quick accommodation to remote work trends.",
+            "sentence_zh": "该公司迅速适应了远程办公趋势。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "调和",
+        "examples": [
+          {
+            "sentence": "The peace agreement was an accommodation between two cultures.",
+            "sentence_zh": "这份和平协议是两种文化的调和产物。"
+          },
+          {
+            "sentence": "Good marriage requires mutual accommodation.",
+            "sentence_zh": "美满婚姻需要相互妥协。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "贷款",
+        "examples": [
+          {
+            "sentence": "The bank offers special accommodation for startup founders.",
+            "sentence_zh": "该银行为创业者提供专项贷款。"
+          },
+          {
+            "sentence": "This financial accommodation helped save the family's hotpot restaurant.",
+            "sentence_zh": "这笔融资贷款保住了这家人的火锅店。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make accommodations for",
+        "meaning": "为...做出调整",
+        "examples": [
+          {
+            "sentence": "Schools should make accommodations for left-handed students.",
+            "sentence_zh": "学校应为左撇子学生做出调整。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "reach an accommodation",
+        "meaning": "达成和解",
+        "examples": [
+          {
+            "sentence": "The two douyin influencers finally reached an accommodation.",
+            "sentence_zh": "两位抖音网红最终达成和解。"
+          }
+        ]
+      }
+    ],
+    "teach": "accommodation就像变形金刚🤖！作为'住宿'时是青旅上下铺🛏️，作为'调节'时像手机自动亮度调节📱，当'贷款'用时又变成马云的蚂蚁借呗💰。最神奇的是：古罗马人用这个词描述瞳孔调节👀，就像你的眼睛看到美食会自动放大！记住：'宿舍没位置'说no vacancy比full accommodation更地道~",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿康莫得省'→阿康找不到省钱住宿(accommodation)",
+        "易混词对比：accommodation（住宿设施） vs. lodging（临时寄宿）",
+        "记忆口诀：A COMmon MODel 共同模式→调节适应"
+      ]
+    }
+  },
+  {
+    "word": "accompaniment",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "com",
+        "pan",
+        "ment"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'，com-表'共同'，词根pan源自拉丁语'panis'(面包)，-ment表名词→原指'一起分享面包的人'，引申为'陪伴'和'伴奏'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "伴随物",
+        "examples": [
+          {
+            "sentence": "The thunderstorm came with an accompaniment of hailstones.",
+            "sentence_zh": "雷暴雨伴随着冰雹而来。"
+          },
+          {
+            "sentence": "Hotpot is best with an accompaniment of icy cola.",
+            "sentence_zh": "火锅的最佳伴随物是冰镇可乐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "附加物",
+        "examples": [
+          {
+            "sentence": "The luxury bag has golden chains as accompaniments.",
+            "sentence_zh": "这款奢品包配有金链作为附加物。"
+          },
+          {
+            "sentence": "This phone comes with wireless earbuds as free accompaniments.",
+            "sentence_zh": "该手机附赠无线耳机作为免费配件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "伴奏",
+        "examples": [
+          {
+            "sentence": "The guzheng accompaniment made the poem recitation magical.",
+            "sentence_zh": "古筝伴奏让诗歌朗诵充满魔力。"
+          },
+          {
+            "sentence": "Jay Chou's songs often feature erhu accompaniments.",
+            "sentence_zh": "周杰伦的歌常采用二胡伴奏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "musical accompaniment",
+        "meaning": "音乐伴奏",
+        "examples": [
+          {
+            "sentence": "The blind date went smoothly with piano musical accompaniment.",
+            "sentence_zh": "相亲在钢琴伴奏下进展顺利。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "essential accompaniment",
+        "meaning": "必备搭配",
+        "examples": [
+          {
+            "sentence": "Peanut sauce is an essential accompaniment to hotpot in Chongqing.",
+            "sentence_zh": "在重庆，花生酱是火锅的必备搭配。"
+          }
+        ]
+      }
+    ],
+    "teach": "accompaniment是'面包社交'的产物🍞！古罗马人用'一起吃面包(com+pan)'表示友谊🤝，现代人用这个词形容：1）奶茶配珍珠🧋 2）手机壳配挂绳📱 3）广场舞配凤凰传奇🎤。说'绝配'可以用perfect accompaniment，吐槽'多余'叫unwanted accompaniment🐍。记住：好伴奏就像螺蛳粉里的酸笋——没有它总缺点什么！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿婆看你们'→阿婆看着(accompaniment)你们吃面包",
+        "易混词对比：company(公司/陪伴) vs accompaniment(具体伴随物)"
+      ]
+    }
   }
 ]

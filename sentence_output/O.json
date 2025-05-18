@@ -12604,5 +12604,332 @@
         "易混词对比：offer(主动提供) vs. offering(已提供之物)"
       ]
     }
+  },
+  {
+    "word": "offertory",
+    "etymology": {
+      "breakdown": [
+        "offer",
+        "tory"
+      ],
+      "meaning_connection": "词根offer=提供，后缀-tory=场所/行为→原指教堂里提供捐赠的仪式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "奉献仪式",
+        "examples": [
+          {
+            "sentence": "The priest holds the golden plate during the offertory procession.",
+            "sentence_zh": "神父捧着金盘进行奉献仪式游行。"
+          },
+          {
+            "sentence": "Buddhist temples also have similar offertory practices with incense.",
+            "sentence_zh": "佛教寺庙也有类似的香火供奉仪式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "捐款",
+        "examples": [
+          {
+            "sentence": "Her offertory to the Panda Foundation bought 100kg bamboo.",
+            "sentence_zh": "她对熊猫基金会的捐款够买100公斤竹子。"
+          },
+          {
+            "sentence": "The church's digital offertory system accepts WeChat Pay.",
+            "sentence_zh": "该教堂的数字捐款系统支持微信支付。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "奉献曲",
+        "examples": [
+          {
+            "sentence": "Mozart's offertory K.222 was played during the collection.",
+            "sentence_zh": "募捐时演奏了莫扎特的奉献曲K.222。"
+          },
+          {
+            "sentence": "The choir's offertory blended Gregorian chant with guzheng music.",
+            "sentence_zh": "唱诗班的奉献曲融合了格里高利圣咏和古筝乐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make an offertory",
+        "meaning": "进行捐赠",
+        "examples": [
+          {
+            "sentence": "Tech CEOs made offertories equivalent to 10,000 RTX 4090s.",
+            "sentence_zh": "科技巨头们捐赠了相当于1万张RTX4090显卡的善款。"
+          }
+        ]
+      }
+    ],
+    "teach": "offertory是'神圣的众筹'⛪💰：中世纪信徒用鸡蛋🥚和谷物🌾当offer（供品），现代人扫二维码捐款。'撒币'叫make an offertory，但别像直播打赏那样刷火箭🚀！记住：不论佛教的香火钱还是教堂的奉献盘，本质都是offer（给予）+tory（仪式行为）",
+    "recite": {
+      "tips": [
+        "谐音梗：'我佛托你'→佛教托钵化缘就是offertory",
+        "易混词：donation(普通捐款) vs offertory(宗教场景)"
+      ]
+    }
+  },
+  {
+    "word": "offhand",
+    "etymology": {
+      "breakdown": [
+        "off",
+        "hand"
+      ],
+      "meaning_connection": "原指'手未接触的状态'→引申为未经准备（手未参与）的行为方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "即时的",
+        "examples": [
+          {
+            "sentence": "The comedian gave an offhand response that made the whole audience laugh.",
+            "sentence_zh": "喜剧演员的即时应答让全场观众大笑。"
+          },
+          {
+            "sentence": "Her offhand solution to the math problem surprised the teacher.",
+            "sentence_zh": "她对数学题的即时解答让老师惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "即席的",
+        "examples": [
+          {
+            "sentence": "The CEO's offhand speech at the annual dinner was actually brilliant.",
+            "sentence_zh": "CEO在年会上的即席演讲其实相当精彩。"
+          },
+          {
+            "sentence": "He performed an offhand magic trick with a dinner napkin.",
+            "sentence_zh": "他用餐巾纸即席表演了个魔术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "无准备的",
+        "examples": [
+          {
+            "sentence": "The offhand comment about her cooking skills turned out to be offensive.",
+            "sentence_zh": "关于她厨艺的无准备评论结果冒犯了人。"
+          },
+          {
+            "sentence": "His offhand decision to quit the job shocked everyone.",
+            "sentence_zh": "他无准备地决定辞职震惊了所有人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "随便的",
+        "examples": [
+          {
+            "sentence": "The waiter's offhand attitude made customers complain.",
+            "sentence_zh": "服务生随便的态度引发顾客投诉。"
+          },
+          {
+            "sentence": "She threw an offhand glance at the contract without reading it carefully.",
+            "sentence_zh": "她随便瞥了眼合同没有细读。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "简慢的",
+        "examples": [
+          {
+            "sentence": "His offhand greeting made the guests feel unwelcome.",
+            "sentence_zh": "他简慢的问候让客人感到不受欢迎。"
+          },
+          {
+            "sentence": "The professor's offhand reply to the student's question seemed rude.",
+            "sentence_zh": "教授对学生问题的简慢回答显得粗鲁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不友好的",
+        "examples": [
+          {
+            "sentence": "The offhand tone in her WeChat message hurt his feelings.",
+            "sentence_zh": "她微信消息里不友好的语气伤害了他的感情。"
+          },
+          {
+            "sentence": "Tourists were upset by the tour guide's offhand behavior.",
+            "sentence_zh": "游客因导游不友好的行为而生气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "即时地",
+        "examples": [
+          {
+            "sentence": "She answered offhand when suddenly asked about blockchain technology.",
+            "sentence_zh": "被突然问到区块链技术时她即时地回答。"
+          },
+          {
+            "sentence": "The chef prepared the signature dish offhand for the VIP guest.",
+            "sentence_zh": "厨师为VIP客人即时准备了招牌菜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "即席地",
+        "examples": [
+          {
+            "sentence": "He recited the poem offhand at the school ceremony.",
+            "sentence_zh": "他在校庆典礼上即席朗诵了诗歌。"
+          },
+          {
+            "sentence": "The stand-up comedian performed offhand for 30 minutes.",
+            "sentence_zh": "脱口秀演员即席表演了30分钟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "随便地",
+        "examples": [
+          {
+            "sentence": "She offhand mentioned her new job during tea time.",
+            "sentence_zh": "她在茶歇时随便提到了新工作。"
+          },
+          {
+            "sentence": "He offhand threw his jacket on the sofa after work.",
+            "sentence_zh": "下班后他随便把外套扔在沙发上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "offhand remark",
+        "meaning": "随口评论",
+        "examples": [
+          {
+            "sentence": "His offhand remark about her weight ruined the date.",
+            "sentence_zh": "关于她体重的随口评论毁了这次约会。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "offhand manner",
+        "meaning": "随意的态度",
+        "examples": [
+          {
+            "sentence": "The doctor's offhand manner made patients doubt his professionalism.",
+            "sentence_zh": "医生随意的态度让患者怀疑他的专业性。"
+          }
+        ]
+      }
+    ],
+    "teach": "offhand就像没洗头见人的状态🦁！当形容词时像突然被老板点名发言（offhand speech→即兴演讲🎤）；当副词时像地铁里被采访的路人（answer offhand→随口应答🗣️）。'随便的态度'说offhand manner就像用表情包回复领导😂，要表达'未经思考'可以说blurt out（脱口而出）🍵。记住：hand没参与→事情就offhand！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥帆的'→奥运帆船选手即兴(offhand)发挥",
+        "易混词对比：offhand（无准备）vs off-the-cuff（更强调即兴创意）",
+        "记忆tip：想象手(hand)揣在兜里(off)不做事的样子"
+      ]
+    }
+  },
+  {
+    "word": "offhandedly",
+    "etymology": {
+      "breakdown": [
+        "off",
+        "hand",
+        "ed",
+        "ly"
+      ],
+      "meaning_connection": "字面意思是'手离开的'→未经手部准备（即兴的）→引申出'不假思索'和'不礼貌'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "立即地",
+        "examples": [
+          {
+            "sentence": "She answered offhandedly while still scrolling Douyin.",
+            "sentence_zh": "她刷着抖音时就立即给出了答复。"
+          },
+          {
+            "sentence": "The chef prepared Mapo tofu offhandedly with leftover ingredients.",
+            "sentence_zh": "厨师用剩余食材立即做了麻婆豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "即席地",
+        "examples": [
+          {
+            "sentence": "He recited Li Bai's poetry offhandedly at the hotpot party.",
+            "sentence_zh": "他在火锅宴上即席朗诵了李白的诗。"
+          },
+          {
+            "sentence": "The stand-up comedian performed offhandedly without a script.",
+            "sentence_zh": "脱口秀演员毫无准备地即兴表演。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "未经准备地",
+        "examples": [
+          {
+            "sentence": "I can't teach xiao long bao making offhandedly - it requires precise folds!",
+            "sentence_zh": "小笼包制作可不能未经准备就教——需要精确的褶子！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不客气地",
+        "examples": [
+          {
+            "sentence": "He refused the durian offhandedly, saying it smelled like gym socks.",
+            "sentence_zh": "他不客气地拒绝了榴莲，说闻起来像运动袜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "reply offhandedly",
+        "meaning": "随口回答",
+        "examples": [
+          {
+            "sentence": "When asked about his salary, he replied offhandedly: 'Enough for hotpot twice a week'",
+            "sentence_zh": "被问及工资时他随口答道：'够每周吃两顿火锅'"
+          }
+        ]
+      }
+    ],
+    "teach": "offhandedly就像你妈突然问'怎么还不找对象'时你的反应🤯：1)历史梗：源自中世纪骑士决斗前扔手套(hand)表示正式，不扔(offhand)就是临时起意 2)视觉化：像拆盲盒不用手挑→随机拆🎁 3)实用搭配：'offhandedly dismiss'随手否决/'offhandedly remark'随口评论 4)地道表达：'随口说'用blurt out 5)精髓三连：🤷‍♂️💨🎤",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥帆得力'→奥运帆船比赛临时得力(offhandedly)替补",
+        "易混词对比：offhand(adj.)表即兴的 / off-hand(adv.)表立即地（注意连字符）",
+        "记忆tip：想象拒绝相亲时甩手(off-hand)说'下次再说'的样子"
+      ]
+    }
   }
 ]
