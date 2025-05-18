@@ -6212,5 +6212,282 @@
         "易混词对比：handmade（成品） / handcraft（制作过程）"
       ]
     }
+  },
+  {
+    "word": "handcrafted",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "craft",
+        "ed"
+      ],
+      "meaning_connection": "hand=手, craft=工艺, -ed表过去分词→用手制成的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "手工制作(handcraft的过去式)",
+        "examples": [
+          {
+            "sentence": "This bamboo lantern was handcrafted by my grandma in the 1960s.",
+            "sentence_zh": "这盏竹灯笼是我奶奶在60年代手工制作的。"
+          },
+          {
+            "sentence": "The artisan handcrafted 100 porcelain tea sets for the palace museum.",
+            "sentence_zh": "匠人为故宫博物院手工制作了100套青花瓷茶具。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "手工制作(handcraft的过去分词)",
+        "examples": [
+          {
+            "sentence": "All mooncakes here are handcrafted using techniques from the Tang Dynasty.",
+            "sentence_zh": "这里的月饼全部采用唐代工艺手工制作。"
+          },
+          {
+            "sentence": "The handcrafted mahjong set costs more than an iPhone but smells like history.",
+            "sentence_zh": "这副手工麻将比iPhone还贵，但散发着历史的沉香。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "handcrafted with",
+        "meaning": "用...材料手工制作",
+        "examples": [
+          {
+            "sentence": "This qipao is handcrafted with 100-year-old silk from Hangzhou.",
+            "sentence_zh": "这件旗袍用杭州百年老绸缎手工缝制。"
+          }
+        ]
+      }
+    ],
+    "teach": "handcrafted是'祖传手艺'代名词👐！古代匠人没有3D打印机，全靠hand+craft（手+工艺）造出故宫榫卯🏯。现代说'纯手工'要强调handmade with love💝，比如'这饺子是姥姥handcrafted的'。记住区分：factory-made（量产）vs handcrafted（有体温的作品）✂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊的快'→焊得快不如handcrafted精致",
+        "易混词对比：handmade(泛指手工) / handcrafted(强调工艺价值)"
+      ]
+    }
+  },
+  {
+    "word": "handcuff",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "cuff"
+      ],
+      "meaning_connection": "hand=手 + cuff=袖口/环状物→束缚手的环形装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给...戴上手铐",
+        "examples": [
+          {
+            "sentence": "The officer handcuffed the suspect with pink Hello Kitty cuffs.",
+            "sentence_zh": "警员用粉色凯蒂猫手铐给嫌疑人上铐。"
+          },
+          {
+            "sentence": "In the escape room game, players pretend to handcuff each other for fun.",
+            "sentence_zh": "密室逃脱游戏中，玩家们假装互相戴手铐取乐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "手铐",
+        "examples": [
+          {
+            "sentence": "His toy handcuffs from the spy kit couldn't even lock properly.",
+            "sentence_zh": "他间谍玩具套装里的手铐连正常锁上都做不到。"
+          },
+          {
+            "sentence": "Modern police handcuffs have safety mechanisms to prevent overtightening.",
+            "sentence_zh": "现代警用手铐配有防过紧安全装置。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "golden handcuffs",
+        "meaning": "金手铐（优厚待遇留人）",
+        "examples": [
+          {
+            "sentence": "Tech companies use golden handcuffs like stock options to retain talent.",
+            "sentence_zh": "科技公司用股权等'金手铐'留住人才。"
+          }
+        ]
+      }
+    ],
+    "teach": "handcuff是社畜最熟悉的单词之一💼！'金手铐(golden handcuffs)'梗形容高薪困住打工人💰，就像用金链子拴住的宠物狗🐶。要说'被抓'可以戏称get cuffed（字面戴铐），'摆脱束缚'叫break free from cuffs🦸♂️。记住：普通手铐锁手腕，金手铐锁灵魂！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊的卡夫'→焊住卡夫酸奶老板的手（强行谐音警告）",
+        "易混词：handcup（手杯？不存在的词）",
+        "记忆tip：hand+cuff→用手抓住袖口=逮捕"
+      ]
+    }
+  },
+  {
+    "word": "handedness",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "ed",
+        "ness"
+      ],
+      "meaning_connection": "hand表示'手'，-ed表形容词性，-ness表名词性→用手习惯的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "用手偏好",
+        "examples": [
+          {
+            "sentence": "The professor studies how handedness affects smartphone usage patterns.",
+            "sentence_zh": "教授研究用手偏好如何影响智能手机使用模式。"
+          },
+          {
+            "sentence": "Left-handedness was once considered unlucky in some cultures.",
+            "sentence_zh": "在某些文化中，左利手曾被视作不吉利。"
+          }
+        ]
+      }
+    ],
+    "teach": "handedness就像你的'手性身份证'🆔！达芬奇是著名的'双枪将'（ambidextrous）✍️，而统计显示左撇子更擅长玩《王者荣耀》🎮。说'左撇子'用southpaw（原指左撇子拳击手），'右撇子'直接说righty。记住：用手习惯决定你吃火锅坐哪边才不打架🥢！",
+    "recite": {
+      "tips": [
+        "视觉记忆：'hand+edness'像戴着手套(hand)做选择题(edness)",
+        "易混词对比：handicap（残疾）vs handedness（用手习惯）"
+      ]
+    }
+  },
+  {
+    "word": "handful",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "ful"
+      ],
+      "meaning_connection": "hand=手, -ful=充满…的量→字面指'一手能抓的量'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "少数",
+        "examples": [
+          {
+            "sentence": "Only a handful of people can solve this Rubik's cube blindfolded.",
+            "sentence_zh": "只有少数人能蒙眼解开这个魔方。"
+          },
+          {
+            "sentence": "A handful of startups survive the first five years.",
+            "sentence_zh": "只有少数初创公司能撑过头五年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一把",
+        "examples": [
+          {
+            "sentence": "She grabbed a handful of melon seeds before the movie started.",
+            "sentence_zh": "电影开场前她抓了一把瓜子。"
+          },
+          {
+            "sentence": "The panda cub is small enough to hold in one handful.",
+            "sentence_zh": "这只熊猫幼崽小到可以一手托住。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "棘手事",
+        "examples": [
+          {
+            "sentence": "Teaching 40 toddlers to dance is a real handful.",
+            "sentence_zh": "教40个幼儿跳舞真是件棘手事。"
+          },
+          {
+            "sentence": "His new crypto project is proving quite a handful.",
+            "sentence_zh": "他的新加密项目确实让人头疼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "a handful of",
+        "meaning": "少量的",
+        "examples": [
+          {
+            "sentence": "A handful of influencers earn more than CEOs.",
+            "sentence_zh": "少数网红比CEO赚得还多。"
+          }
+        ]
+      }
+    ],
+    "teach": "handful本质是'手能掌控的量'✋→太少会不够（少数）🙅，太多会失控（棘手）💥。说'熊孩子难管'叫a handful of trouble，说'钱太少'用a handful of coins比说poor更形象💰。记住：老板画的饼再大，到你手里只剩a handful！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊的斧'→焊住的斧头只能抓把手（handful）",
+        "易混词对比：handful（可数名词）vs. a little（不可数）",
+        "记忆tip：想象抓一把沙子，漏得只剩几粒（少数），全抓着又扎手（棘手）"
+      ]
+    }
+  },
+  {
+    "word": "handgun",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "gun"
+      ],
+      "meaning_connection": "字面意义为'手持的枪'，区别于长枪(rifle)需要双手持握"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "手枪",
+        "examples": [
+          {
+            "sentence": "The detective pulled out his handgun from the pancake-shaped holster.",
+            "sentence_zh": "侦探从煎饼形状的枪套中拔出手枪。"
+          },
+          {
+            "sentence": "In cowboy movies, the sheriff always twirls his handgun before holstering it.",
+            "sentence_zh": "牛仔电影里警长总在收枪前转动手枪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "semi-automatic handgun",
+        "meaning": "半自动手枪",
+        "examples": [
+          {
+            "sentence": "Most police officers carry semi-automatic handguns nowadays.",
+            "sentence_zh": "如今多数警察配备半自动手枪。"
+          }
+        ]
+      }
+    ],
+    "teach": "handgun是007的优雅标配🎩，西部片中牛仔的'手转烟花'🤠！有趣的是美国宪法第二修正案争议就像火锅辣度之争🌶️（有人要全辣/有人要清汤）。'缴械'叫disarm the handgun，'非法持枪'说packing heat（字面是'带着发热物'）。记住：handgun决定不了正义，就像筷子决定不了火锅味道🥢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊枪'→焊工误把手枪当焊枪",
+        "易混词：handgun（手枪）vs shotgun（霰弹枪）→ 就像奶茶杯vs啤酒桶"
+      ]
+    }
   }
 ]

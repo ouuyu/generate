@@ -6369,5 +6369,229 @@
         "易混词：absent（缺席） vs. absorb（吸收）→前者人没了，后者东西没了"
       ]
     }
+  },
+  {
+    "word": "absentee",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "sent",
+        "ee"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根sent来自'esse'（存在），后缀-ee表'受动者'→字面意思'离开存在状态的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "缺席者",
+        "examples": [
+          {
+            "sentence": "The teacher marked Tom as an absentee when he sneaked out for milk tea.",
+            "sentence_zh": "当汤姆溜出去买奶茶时，老师给他记了缺席。"
+          },
+          {
+            "sentence": "Wedding absentees must pay double red envelopes next time.",
+            "sentence_zh": "婚礼缺席者下次要包双倍红包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不在者",
+        "examples": [
+          {
+            "sentence": "The delivery note was signed by an absentee's roommate.",
+            "sentence_zh": "快递单由不在者的室友代签。"
+          },
+          {
+            "sentence": "Absentees during fire drills will be lectured for 3 hours.",
+            "sentence_zh": "消防演习时不在场者将被训话三小时。"
+          }
+        ]
+      }
+    ],
+    "teach": "absentee是'人间蒸发大师'👻：词根sent其实和'sense'同源，字面是'感知不到的存在'。美国有absentee ballot（缺席投票），就像双十一不剁手但远程下单📦。说'经常缺席'用chronic absentee（像总逃课的大学生🎒），'幽灵员工'叫phantom absentee💼。记住：当absentee太多时，老板会启动'查岗雷达'📡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不申体'→不爱申报行踪的absentee",
+        "易混词对比：absent（adj.缺席的） vs absentee（n.缺席者）",
+        "记忆tip：想象ee后缀像两只眼睛👀，但absentee的眼睛是闭着的"
+      ]
+    }
+  },
+  {
+    "word": "absenteeism",
+    "etymology": {
+      "breakdown": [
+        "absent",
+        "ee",
+        "ism"
+      ],
+      "meaning_connection": "absent（缺席）+ -ee（表人）+ -ism（表行为）→ 指人反复缺席的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "经常无故缺席",
+        "examples": [
+          {
+            "sentence": "The teacher tracks absenteeism like a detective chasing truants.",
+            "sentence_zh": "老师追踪缺勤记录就像侦探追查逃学生。"
+          },
+          {
+            "sentence": "Panda absenteeism at the zoo always coincides with bamboo buffet day.",
+            "sentence_zh": "动物园熊猫无故缺席总发生在竹笋自助餐日。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "旷职",
+        "examples": [
+          {
+            "sentence": "His absenteeism spiked after the company banned gaming during work hours.",
+            "sentence_zh": "公司禁止上班打游戏后，他的旷职率飙升。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "旷工",
+        "examples": [
+          {
+            "sentence": "The factory installed facial recognition to combat absenteeism.",
+            "sentence_zh": "工厂安装人脸识别系统来对抗旷工现象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "旷课",
+        "examples": [
+          {
+            "sentence": "Schools now use GPS backpacks to monitor absenteeism.",
+            "sentence_zh": "学校使用GPS书包监控旷课情况。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chronic absenteeism",
+        "meaning": "长期旷课/工",
+        "examples": [
+          {
+            "sentence": "The 'King of Absenteeism' got fired after 100 consecutive sick leaves.",
+            "sentence_zh": "'旷工之王'连续请病假100天后被开除。"
+          }
+        ]
+      }
+    ],
+    "teach": "absenteeism本质是'人间蒸发术'👻！古罗马奴隶主用刻字陶片记录奴隶缺席(absent+ee+ism)，现代打工人用钉钉打卡对抗它⏰。说'经常翘班'用chronic absenteeism，'装病请假'叫throw a sickie🤒。记住：当你的absenteeism比CEO还高时，离HR约谈就不远啦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不森特+主义'→不爱森林特工组织的主义（总缺席）",
+        "易混词对比：absence（单次缺席）vs absenteeism（习惯性缺席）",
+        "拆字记忆：absent（缺席）+ee（人）+ism（主义）= 缺席主义"
+      ]
+    }
+  },
+  {
+    "word": "absently",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "sent",
+        "ly"
+      ],
+      "meaning_connection": "前缀ab-表示'远离'，词根sent来自拉丁语'sens'（感觉），后缀-ly构成副词→'感觉远离'即心不在焉"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "心不在焉地",
+        "examples": [
+          {
+            "sentence": "He nodded absently while scrolling Douyin during the meeting.",
+            "sentence_zh": "他一边刷抖音一边在会议上心不在焉地点头。"
+          },
+          {
+            "sentence": "She stirred her milk tea absently, staring at the bubble floating up and down.",
+            "sentence_zh": "她心不在焉地搅拌着奶茶，盯着珍珠上下浮动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "say absently",
+        "meaning": "漫不经心地说",
+        "examples": [
+          {
+            "sentence": "'Maybe we should break up,' he said absently while eating hotpot.",
+            "sentence_zh": "他吃着火锅漫不经心地说'要不我们分手吧'。"
+          }
+        ]
+      }
+    ],
+    "teach": "absently是'灵魂出窍'状态👻！就像上课时假装记笔记实际在画班主任的漫画✏️。搭配'look absently'（呆望）和'play absently'（瞎玩），比如地铁上人盯着手机其实在'absently swiping'（无意识刷屏）。地道说法叫'zoned out'（神游中），就像电脑开了勿扰模式💻。记住：当你absently时，全世界都知道你在摸鱼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不省得理'→心不在焉所以不理人",
+        "易混词对比：absent（缺席的）→身体不在，absently→精神不在"
+      ]
+    }
+  },
+  {
+    "word": "absentmindedly",
+    "etymology": {
+      "breakdown": [
+        "absent",
+        "mind",
+        "ed",
+        "ly"
+      ],
+      "meaning_connection": "absent（缺席）+ mind（心智）+ ed（形容词后缀）+ ly（副词后缀）→ 心智缺席地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "茫然地",
+        "examples": [
+          {
+            "sentence": "He walked absentmindedly into the wrong classroom holding a steaming cup of boba tea.",
+            "sentence_zh": "他捧着一杯热腾腾的珍珠奶茶，茫然地走进了错误的教室。"
+          },
+          {
+            "sentence": "She answered 'durian' when asked about her zodiac sign while staring absentmindedly at the ceiling.",
+            "sentence_zh": "她茫然地盯着天花板，当被问及星座时回答了'榴莲'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "精神不集中地",
+        "examples": [
+          {
+            "sentence": "The programmer typed absentmindedly, writing 'hello world' for the 100th time while thinking about hotpot.",
+            "sentence_zh": "程序员心不在焉地敲着代码，想着火锅第100次写下'hello world'。"
+          },
+          {
+            "sentence": "Students nodded absentmindedly during the online class, secretly scrolling through Douyin with their cameras off.",
+            "sentence_zh": "网课学生们摄像头关闭着，心不在焉地点头，偷偷刷着抖音。"
+          }
+        ]
+      }
+    ],
+    "teach": "absentmindedly就像手机开了省电模式🔋：身体在教室，灵魂在火锅店🍲！这个词完美描述当代人'摸鱼'状态：吃着外卖刷剧时，连酸辣粉滴到睡衣上都浑然不觉🤯。搭配'stare absentmindedly'（眼神放空）和'nod absentmindedly'（机械点头），学会吐槽朋友走神说：'Your brain is on vacation without applying for leave!'（你大脑擅自休假了！）",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不森的茉莉'→爱发呆的茉莉小姐",
+        "易混词对比：absentmindedly（无意识走神）vs deliberately（故意地）",
+        "联想记忆：absent（缺席）+ mind（头脑）= 头脑旷工"
+      ]
+    }
   }
 ]

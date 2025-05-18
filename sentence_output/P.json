@@ -6533,5 +6533,294 @@
         "易混词对比：palladium（钯） vs. platinum（铂）→ 就像漫威的振金vs.瓦坎达振金"
       ]
     }
+  },
+  {
+    "word": "pallet",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'palette'，本指'小铲子'，后引申为'可移动的平板'，最终发展出多义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "草铺",
+        "examples": [
+          {
+            "sentence": "The shepherd slept on a hay pallet under the stars.",
+            "sentence_zh": "牧羊人躺在星光下的草铺上睡觉。"
+          },
+          {
+            "sentence": "Migrant workers used to rest on bamboo pallets at construction sites.",
+            "sentence_zh": "建筑工地的农民工过去常在竹制草铺上休息。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "简陋小床",
+        "examples": [
+          {
+            "sentence": "The refugee camp provided wooden pallets as temporary beds.",
+            "sentence_zh": "难民营提供木质简易床作为临时睡铺。"
+          },
+          {
+            "sentence": "His first apartment only had a pallet and a cardboard box as furniture.",
+            "sentence_zh": "他的第一个公寓里只有简易板床和纸箱当家具。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "调色板",
+        "examples": [
+          {
+            "sentence": "The artist mixed cerulean blue and titanium white on her wooden pallet.",
+            "sentence_zh": "画家在木制调色板上混合天蓝和钛白。"
+          },
+          {
+            "sentence": "Digital painters now use virtual pallets in Photoshop.",
+            "sentence_zh": "数字画家现在使用Photoshop里的虚拟调色板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "棘爪",
+        "examples": [
+          {
+            "sentence": "The clock's pallet engages with the escapement wheel precisely.",
+            "sentence_zh": "钟表的棘爪与擒纵轮精准咬合。"
+          },
+          {
+            "sentence": "Watchmakers use microscope to adjust the pallet fork.",
+            "sentence_zh": "制表师用显微镜调整擒纵叉棘爪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "shipping pallet",
+        "meaning": "货运托盘",
+        "examples": [
+          {
+            "sentence": "Alibaba's warehouse uses smart pallets with RFID tags.",
+            "sentence_zh": "阿里巴巴仓库使用带RFID标签的智能货运托盘。"
+          },
+          {
+            "sentence": "IKEA products are designed for flat-pallet transportation.",
+            "sentence_zh": "宜家产品为平板货运托盘运输而设计。"
+          }
+        ]
+      }
+    ],
+    "teach": "pallet是'变形金刚'🧩！当它是调色板时像梵高的颜料战场🎨（artist's pallet），当货运托盘时变身物流界的乐高积木🚛（shipping pallet），作为棘爪时成为钟表的心脏跳动机芯⏱️（watch pallet），而简陋小床功能则像大学生省钱神器💸（budget pallet bed）。实用搭配：'pallet knife'调色刀/'pallet jack'液压叉车。吐槽工资低可以说'I sleep on money pallets...of monopoly money!'（我睡在钱托盘上...大富翁游戏币的！）",
+    "recite": {
+      "tips": [
+        "视觉联想：调色板(pallet)倒过来就像小床(pallet)的侧视图🛏️",
+        "易混词对比：palette(调色板) vs. pallet(托盘)",
+        "记忆口诀：'一板三吃'——木板变床/变托盘/变调色板"
+      ]
+    }
+  },
+  {
+    "word": "palliative",
+    "etymology": {
+      "breakdown": [
+        "palli",
+        "ate",
+        "ive"
+      ],
+      "meaning_connection": "词根palli源自拉丁语'pallium'（遮盖物），-ate表动词，-ive表形容词→原指'用遮盖物缓解'，引申出缓和与掩饰双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "缓和的",
+        "examples": [
+          {
+            "sentence": "The doctor prescribed palliative care to ease his chronic back pain from coding marathons.",
+            "sentence_zh": "医生开了缓和治疗来缓解他编程马拉松导致的慢性背痛。"
+          },
+          {
+            "sentence": "Hotpot serves as a palliative remedy for homesickness in overseas students.",
+            "sentence_zh": "火锅成为留学生思乡情绪的缓和剂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "掩饰的",
+        "examples": [
+          {
+            "sentence": "His compliments were merely palliative gestures to cover up the project failure.",
+            "sentence_zh": "他的称赞只是掩饰项目失败的表面功夫。"
+          },
+          {
+            "sentence": "The company issued palliative statements during the PR crisis.",
+            "sentence_zh": "公司在公关危机期间发表了掩饰性声明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "缓和物",
+        "examples": [
+          {
+            "sentence": "Bubble tea has become the emotional palliative for overworked IT employees.",
+            "sentence_zh": "奶茶成为IT加班族的精神缓和物。"
+          },
+          {
+            "sentence": "In ancient China, acupuncture was used as a palliative for various ailments.",
+            "sentence_zh": "在古代中国，针灸被用作多种病症的缓和手段。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "palliative care",
+        "meaning": "姑息治疗",
+        "examples": [
+          {
+            "sentence": "Hospices specialize in providing palliative care for terminal patients.",
+            "sentence_zh": "临终关怀机构专为晚期病人提供姑息治疗。"
+          }
+        ]
+      }
+    ],
+    "teach": "palliative就像给伤口贴创可贴🩹：既能缓解疼痛（缓解的），又能遮住伤口（掩饰的）。医学上指姑息治疗🤒，职场上可能是'老板画的饼'🥞。搭配'palliative measure'（权宜之计），'emotional palliative'（精神慰藉）。说'治标不治本'可用：just a palliative solution🪢",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕累啊提乌'→怕累啊所以提(palliative)供缓解方案",
+        "对比记忆：palliative（暂时缓解）vs radical cure（根治）",
+        "联想：医生白大褂就像pallium（遮盖布）"
+      ]
+    }
+  },
+  {
+    "word": "pallid",
+    "etymology": {
+      "breakdown": [
+        "pal",
+        "lid"
+      ],
+      "meaning_connection": "词根pal=苍白（同源词pale），-id为形容词后缀→像被盖子(lid)罩住般失去血色"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "苍白的（指面色）",
+        "examples": [
+          {
+            "sentence": "The vampire looked particularly pallid under the moonlight.",
+            "sentence_zh": "月光下那个吸血鬼的脸色格外苍白。"
+          },
+          {
+            "sentence": "After pulling three all-nighters, his face turned as pallid as a sheet of A4 paper.",
+            "sentence_zh": "连续熬了三天夜后，他的脸变得像A4纸一样苍白。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "暗淡的（指色彩）",
+        "examples": [
+          {
+            "sentence": "The pallid blue of the washed-out jeans reminded her of faded memories.",
+            "sentence_zh": "褪色牛仔裤的暗淡蓝色让她想起泛黄的回忆。"
+          },
+          {
+            "sentence": "The artist used pallid hues to depict the abandoned amusement park.",
+            "sentence_zh": "画家用暗淡的色调描绘那座废弃的游乐园。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无生气的（指状态）",
+        "examples": [
+          {
+            "sentence": "His pallid performance in the debate shocked his supporters.",
+            "sentence_zh": "他在辩论中无生气的表现震惊了支持者。"
+          },
+          {
+            "sentence": "The pallid atmosphere in the office worsened after the layoff news.",
+            "sentence_zh": "裁员消息公布后，办公室的氛围更加死气沉沉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pallid complexion",
+        "meaning": "苍白面容",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine practitioners often observe patients' pallid complexion for diagnosis.",
+            "sentence_zh": "中医师常通过观察患者苍白的面容进行诊断。"
+          }
+        ]
+      }
+    ],
+    "teach": "pallid是'怕立的'🚑——怕到脸色发白！这个词自带阴间滤镜👻：形容面色像泡了三天福尔马林（pallid face），色彩像被晒褪色的春联（pallid colors），状态像没放葱的阳春面（pallid performance）。搭配pallid moonlight🌕（惨淡月光）或pallid excuse（蹩脚借口），地道说法'面如死灰'可以用as pallid as a corpse💀",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕离的'→怕离别所以脸色苍白",
+        "易混词对比：pale（普通苍白） vs pallid（病态苍白） vs ashen（灰白）",
+        "记忆tip：所有字母都是直线构成，就像僵直苍白的身体"
+      ]
+    }
+  },
+  {
+    "word": "pallor",
+    "etymology": {
+      "breakdown": [
+        "pall",
+        "or"
+      ],
+      "meaning_connection": "词根pall=苍白（同源词pale），-or表状态→字面意思就是'苍白的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "苍白",
+        "examples": [
+          {
+            "sentence": "The vampire's pallor made him stand out in the nightclub.",
+            "sentence_zh": "吸血鬼的苍白脸色让他在夜店里格外显眼。"
+          },
+          {
+            "sentence": "Her face took on a ghostly pallor when she saw the exam questions.",
+            "sentence_zh": "看到考题时，她的脸瞬间变得鬼魅般苍白。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "青白",
+        "examples": [
+          {
+            "sentence": "The pallor of the moon through the fog looked like a faded coin.",
+            "sentence_zh": "雾中月亮的青白色泽像枚褪色的硬币。"
+          },
+          {
+            "sentence": "Patients with anemia often have a characteristic pallor of the lips.",
+            "sentence_zh": "贫血患者常伴有嘴唇特有的青白色。"
+          }
+        ]
+      }
+    ],
+    "teach": "pallor是'脸色白得能拍恐怖片'🎭！词源和pale同根，但专指病态/吓人的白：比如看到期末考卷时的脸色😱，或者熬夜追剧后的熊猫眼🐼。搭配'deathly pallor'（死一般的苍白）比'Sorry I'm late'更有说服力！地道说法：'You look like you've seen a ghost'（你脸白得像见鬼了）👻。记住：健康小麦色叫tan，吓人惨白叫pallor！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕了哦'→吓得脸色发白",
+        "易混词：pale（普通苍白） vs pallor（病态苍白）",
+        "联想：pallor=pale+horror（恐怖的白）"
+      ]
+    }
   }
 ]

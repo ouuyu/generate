@@ -5994,5 +5994,237 @@
         "易混词对比：injured（一般受伤） vs maimed（永久性伤残）"
       ]
     }
+  },
+  {
+    "word": "main",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'mægen'表示力量，与德语'Macht'同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "主要部分",
+        "examples": [
+          {
+            "sentence": "The main of this thesis discusses AI ethics in depth.",
+            "sentence_zh": "论文的主要部分深入探讨了AI伦理问题。"
+          },
+          {
+            "sentence": "Grandma always keeps the main of the watermelon for me.",
+            "sentence_zh": "奶奶总是把西瓜最甜的中心部分留给我。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "干线",
+        "examples": [
+          {
+            "sentence": "The Yangtze River is called the golden water main of China.",
+            "sentence_zh": "长江被称为中国的黄金水道干线。"
+          },
+          {
+            "sentence": "Construction workers are repairing gas mains under the street.",
+            "sentence_zh": "施工人员正在维修街道下方的煤气干线。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "体力",
+        "examples": [
+          {
+            "sentence": "Farmers in ancient times plowed fields with main and might.",
+            "sentence_zh": "古代农民靠着体力与毅力耕地。"
+          },
+          {
+            "sentence": "The kung fu master tests his main by breaking bricks.",
+            "sentence_zh": "功夫大师通过劈砖来测试自己的体力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "主要的",
+        "examples": [
+          {
+            "sentence": "The main attraction at the night market is stinky tofu.",
+            "sentence_zh": "夜市的主要亮点是臭豆腐。"
+          },
+          {
+            "sentence": "WeChat's main function has evolved far beyond messaging.",
+            "sentence_zh": "微信的主要功能早已超越了即时通讯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "重要的",
+        "examples": [
+          {
+            "sentence": "The main point of his speech was about environmental protection.",
+            "sentence_zh": "他演讲的重要观点是关于环境保护。"
+          },
+          {
+            "sentence": "Don't miss the main events during the Spring Festival.",
+            "sentence_zh": "别错过春节期间的重要活动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in the main",
+        "meaning": "大体上",
+        "examples": [
+          {
+            "sentence": "In the main, Chinese netizens support this new policy.",
+            "sentence_zh": "大体上，中国网民支持这项新政策。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "with might and main",
+        "meaning": "竭尽全力",
+        "examples": [
+          {
+            "sentence": "The rescue team worked with might and main to save the trapped miners.",
+            "sentence_zh": "救援队竭尽全力营救被困矿工。"
+          }
+        ]
+      }
+    ],
+    "teach": "main这个词就像火锅的鸳鸯锅🍲——清汤红汤都是main（主要）的！它从古英语表示'力量💪'，到今天说'main point'就像吃鱼挑主刺🐟。搭配'in the main'相当于'十有八九'，说'with might and main'比'加油'更带劲！记住：重要的事情说三遍不如加个main🔑。",
+    "recite": {
+      "tips": [
+        "谐音梗：'焖'→主要食材都要焖(main)入味",
+        "易混词：major侧重规模大，main侧重重要性"
+      ]
+    }
+  },
+  {
+    "word": "mainframe",
+    "etymology": {
+      "breakdown": [
+        "main",
+        "frame"
+      ],
+      "meaning_connection": "'main'表示'主要的'，'frame'原指'框架'→组合指支撑整个系统的主要框架设备"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大型计算机主机",
+        "examples": [
+          {
+            "sentence": "The bank's transactions are processed by an IBM mainframe hidden under Zurich.",
+            "sentence_zh": "这家银行的交易由藏在苏黎世地下的IBM大型机处理。"
+          },
+          {
+            "sentence": "Like an elderly elephant, the museum's mainframe still remembers DOS commands.",
+            "sentence_zh": "像头年迈的大象，博物馆的大型机还记得DOS指令。"
+          }
+        ]
+      }
+    ],
+    "teach": "mainframe是计算机界的哥斯拉🦖！这些巨无霸诞生时，1GB存储要装满整个房间🏠（现在你手机就能装）。趣闻：早期程序员真的'编织'代码——用穿孔卡片织毛衣🧶！搭配说'legacy mainframe'（老古董主机）或'cloud migration'（迁移上云）。说'过时技术'用地道表达'dinosaur tech'，就像用算盘玩电竞🎮。",
+    "recite": {
+      "tips": [
+        "视觉联想：main+frame→主要(main)相框(frame)里装着整个公司数据全家福",
+        "易混词对比：server（服务器）是便利店，mainframe是沃尔玛仓储中心"
+      ]
+    }
+  },
+  {
+    "word": "mainline",
+    "etymology": {
+      "breakdown": [
+        "main",
+        "line"
+      ],
+      "meaning_connection": "main表示'主要的'，line表示'线'→字面意思是'主要的线'，后引申出不同领域的含义。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "主线",
+        "examples": [
+          {
+            "sentence": "The mainline of the Beijing subway connects the east and west of the city.",
+            "sentence_zh": "北京地铁的主线连接城市东西两端。"
+          },
+          {
+            "sentence": "We need to focus on the mainline of the story to understand the plot.",
+            "sentence_zh": "我们需要专注于故事的主线来理解情节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "干线",
+        "examples": [
+          {
+            "sentence": "This railway is the mainline for freight transportation in the region.",
+            "sentence_zh": "这条铁路是该地区货物运输的干线。"
+          },
+          {
+            "sentence": "The mainline of the highway was congested due to the holiday traffic.",
+            "sentence_zh": "高速公路的干线因假日交通而拥堵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "（非正式）把（毒品）直接注射入静脉",
+        "examples": [
+          {
+            "sentence": "The documentary shows the dangers of mainlining heroin.",
+            "sentence_zh": "这部纪录片展示了直接静脉注射海洛因的危险。"
+          },
+          {
+            "sentence": "He was arrested for mainlining drugs in a public restroom.",
+            "sentence_zh": "他因在公共厕所直接注射毒品而被逮捕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "（非正式）直接注射毒品入静脉",
+        "examples": [
+          {
+            "sentence": "Many addicts end up mainlining because they develop tolerance to other methods.",
+            "sentence_zh": "许多瘾君子最终会直接注射毒品，因为他们对其他方法产生了耐受性。"
+          },
+          {
+            "sentence": "Mainlining is extremely dangerous and can lead to overdose or infection.",
+            "sentence_zh": "直接静脉注射极其危险，可能导致过量或感染。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mainline station",
+        "meaning": "主要火车站",
+        "examples": [
+          {
+            "sentence": "Shanghai's mainline station handles hundreds of trains daily.",
+            "sentence_zh": "上海的主要火车站每天处理数百列火车。"
+          }
+        ]
+      }
+    ],
+    "teach": "mainline这词就像过山车🎢！作名词时是'主线'，像地铁的命脉🛤️；作动词时却画风突变，变成危险的毒品注射💉（mainline drugs）。记住：'主线'是main+line组合，而'注射'是俚语用法，就像中文的'走火入魔'。搭配用mainline route（主要路线）和mainline media（主流媒体）。说'主流观点'可以道地用mainstream opinion🌊",
+    "recite": {
+      "tips": [
+        "谐音梗：'没按铃'→没按铃(mainline)就上了主线列车",
+        "易混词对比：mainline vs. pipeline（管道）",
+        "记忆tip：想象在地图上用红笔描主线🖍️"
+      ]
+    }
   }
 ]

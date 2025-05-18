@@ -6691,5 +6691,319 @@
         "易混词对比：false（adj.）→falseness（n.）→falsify（v. 篡改）"
       ]
     }
+  },
+  {
+    "word": "falsetto",
+    "etymology": {
+      "breakdown": [
+        "false",
+        "etto"
+      ],
+      "meaning_connection": "来自意大利语，false表示'虚假的'，-etto为指小后缀→字面意思是'小小的假声'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "假音",
+        "examples": [
+          {
+            "sentence": "The Peking Opera singer switched to falsetto for the high notes.",
+            "sentence_zh": "京剧演员用假音演唱高音部分。"
+          },
+          {
+            "sentence": "His falsetto sounds like a teapot whistling.",
+            "sentence_zh": "他的假音听起来像茶壶鸣笛声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "假声歌手",
+        "examples": [
+          {
+            "sentence": "The falsetto from The Voice of China became an internet meme.",
+            "sentence_zh": "中国好声音的假声歌手成了网络表情包。"
+          },
+          {
+            "sentence": "This Mongolian falsetto can shatter wine glasses.",
+            "sentence_zh": "这位蒙古假声歌手的声波能震碎红酒杯。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in falsetto",
+        "meaning": "用假声",
+        "examples": [
+          {
+            "sentence": "He sang the entire TikTok hit in falsetto.",
+            "sentence_zh": "他用假声唱完整首抖音神曲。"
+          }
+        ]
+      }
+    ],
+    "teach": "falsetto其实是声带的'美颜滤镜'🤳！最早意大利阉伶用假声模仿女高音🎭（历史趣闻）。像被门夹住的小黄人🎤（视觉类比），说'唱破音'叫crack like a teenage boy，'海豚音'叫whistle register🐬。搭配：1）glass-shattering falsetto 2）falsetto fail视频。记住：唱《青藏高原》最后那句必备技能！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发骚调'→假声听着有点骚",
+        "易混词对比：falsetto vs. vibrato（假声vs.颤音）",
+        "记忆tip：false（假）+etto（小）=小小的作假"
+      ]
+    }
+  },
+  {
+    "word": "falsifiable",
+    "etymology": {
+      "breakdown": [
+        "fals",
+        "ify",
+        "able"
+      ],
+      "meaning_connection": "词根fals=虚假，-ify=使...化，-able=可...的→原指'可被证伪的'，科学哲学中特指能被实验验证的理论属性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "可被检验的",
+        "examples": [
+          {
+            "sentence": "Einstein's theory became famous because it made falsifiable predictions about light bending.",
+            "sentence_zh": "爱因斯坦的理论因提出光线弯曲的可检验预测而闻名。"
+          },
+          {
+            "sentence": "Good scientific hypotheses should be falsifiable like 'all swans are white'.",
+            "sentence_zh": "优秀的科学假说应当像'所有天鹅都是白色的'一样可被检验。"
+          }
+        ]
+      }
+    ],
+    "teach": "falsifiable是科学家的照妖镜🔍！波普尔说：不能证伪的理论都是耍流氓🐉（如占星术）。就像'奶茶续命'理论🧋→若有人喝奶茶猝死就被证伪了💔。搭配：falsifiable evidence（可验证证据）, universally falsifiable（普遍可证伪）。说'瞎编的'用地道表达：pull facts out of thin air（从空气里扯事实）",
+    "recite": {
+      "tips": [
+        "拆解记忆：false(假)+ify(化)+able(能)→能证明是假的",
+        "易混词对比：feasible(可行的)侧重可实现性，falsifiable侧重可验证性"
+      ]
+    }
+  },
+  {
+    "word": "falsification",
+    "etymology": {
+      "breakdown": [
+        "false",
+        "ify",
+        "ation"
+      ],
+      "meaning_connection": "词根false=虚假的，-ify表'使...化'，-ation表名词后缀→使某物虚假化的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "伪造",
+        "examples": [
+          {
+            "sentence": "The falsification of Terracotta Warrior souvenirs floods the tourist market.",
+            "sentence_zh": "兵马俑纪念品的伪造品充斥旅游市场。"
+          },
+          {
+            "sentence": "AI makes the falsification of voices incredibly easy.",
+            "sentence_zh": "人工智能让声音伪造变得极其简单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "歪曲",
+        "examples": [
+          {
+            "sentence": "The falsification of historical facts in that drama caused public outrage.",
+            "sentence_zh": "那部剧对史实的歪曲引发了公愤。"
+          },
+          {
+            "sentence": "Social media often leads to the falsification of news.",
+            "sentence_zh": "社交媒体常导致新闻的歪曲传播。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "data falsification",
+        "meaning": "数据造假",
+        "examples": [
+          {
+            "sentence": "The academic scandal involved serious data falsification.",
+            "sentence_zh": "这起学术丑闻涉及严重的数据造假。"
+          }
+        ]
+      }
+    ],
+    "teach": "falsification就是'假作真时真亦假'🎭！词源里的false让它自带'鉴假雷达'📡，比如《西游记》里假美猴王就是最经典的falsification案例🐒。搭配要说'commit falsification'就像考试作弊✏️，而'historical falsification'堪比抗日神剧里的包子雷💥。记住：遇到fake news记得喊'That's falsification!' 🚨",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛系非cation'→佛系青年拒绝非真实(non-falsification)",
+        "易混词：fabrication（编造）更侧重无中生有"
+      ]
+    }
+  },
+  {
+    "word": "falsified",
+    "etymology": {
+      "breakdown": [
+        "fals",
+        "ify",
+        "ed"
+      ],
+      "meaning_connection": "词根fals=虚假（来自拉丁语falsus），-ify表'使...化'，-ed表过去式/分词→'使虚假化'的行为结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "篡改",
+        "examples": [
+          {
+            "sentence": "The lab assistant falsified experimental data to match the hypothesis.",
+            "sentence_zh": "实验员篡改了数据以迎合假设。"
+          },
+          {
+            "sentence": "Ancient scribes sometimes falsified historical records to please emperors.",
+            "sentence_zh": "古代史官有时会为取悦皇帝而篡改史料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "伪造",
+        "examples": [
+          {
+            "sentence": "They falsified COVID test results using Photoshop.",
+            "sentence_zh": "他们用PS伪造了核酸检测报告。"
+          },
+          {
+            "sentence": "The counterfeit banknotes were so well falsified they fooled ATMs.",
+            "sentence_zh": "这些假钞伪造得连ATM机都能骗过。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "falsified documents",
+        "meaning": "伪造文件",
+        "examples": [
+          {
+            "sentence": "The CEO was arrested for using falsified financial statements.",
+            "sentence_zh": "该CEO因使用伪造财务报表被捕。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "falsified evidence",
+        "meaning": "伪证",
+        "examples": [
+          {
+            "sentence": "The court dismissed the case due to falsified evidence.",
+            "sentence_zh": "法院因存在伪证而驳回该案。"
+          }
+        ]
+      }
+    ],
+    "teach": "falsified是'真香定律'的反义词🍗→'真假定律'！词根fals来自拉丁语'假酒'🍷（就像勾兑茅台），-ify后缀像PS的'滤镜'功能📸。说'造假'用cook the books（原指厨子篡改账本），'打假'叫debunk。记住：考试时falsified answer sheet（作弊卷）会让你'真香'变'真凉'❄️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛say假的'→佛祖都说这是假的",
+        "易混词：false（adj.假的） vs forged（侧重技术性伪造）",
+        "记忆tip：把false和modified拼在一起记"
+      ]
+    }
+  },
+  {
+    "word": "falsify",
+    "etymology": {
+      "breakdown": [
+        "fals",
+        "ify"
+      ],
+      "meaning_connection": "词根fals=错误/欺骗，后缀-ify表'使...化'→使事实错误化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "伪造",
+        "examples": [
+          {
+            "sentence": "The merchant falsified the expiration dates on milk bottles.",
+            "sentence_zh": "商家伪造了牛奶瓶上的保质期。"
+          },
+          {
+            "sentence": "Some influencers falsify their follower counts with bots.",
+            "sentence_zh": "部分网红用机器人伪造粉丝数。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "歪曲",
+        "examples": [
+          {
+            "sentence": "The tabloid falsified the celebrity's words to create drama.",
+            "sentence_zh": "小报歪曲明星言论制造话题。"
+          },
+          {
+            "sentence": "History textbooks should never falsify historical events.",
+            "sentence_zh": "历史教科书绝不该歪曲历史事件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "说谎",
+        "examples": [
+          {
+            "sentence": "The witness admitted falsifying under pressure.",
+            "sentence_zh": "证人承认在压力下说了谎。"
+          },
+          {
+            "sentence": "Politicians who falsify lose public trust quickly.",
+            "sentence_zh": "说谎的政客会迅速失去公众信任。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "falsify records",
+        "meaning": "篡改记录",
+        "examples": [
+          {
+            "sentence": "The accountant was fired for falsifying financial records.",
+            "sentence_zh": "会计因篡改财务记录被开除。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "falsify data",
+        "meaning": "造假数据",
+        "examples": [
+          {
+            "sentence": "The research paper was retracted for falsifying experimental data.",
+            "sentence_zh": "该论文因实验数据造假被撤回。"
+          }
+        ]
+      }
+    ],
+    "teach": "falsify是'假'界三冠王🏆：1) 古罗马用falsus表示'假币'💰 2) 像PS修图一样把真相'美颜'📸 3) 搭配'falsify documents'比'改成绩单'严重得多⚖️ 4) 地道说法：cooking the books（做假账）🍳 记住：虚假的东西终会fall（倒下）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛say飞'→佛祖说(falsify)假话会飞升失败",
+        "易混词：modify（修改）是中性词，falsify带恶意"
+      ]
+    }
   }
 ]

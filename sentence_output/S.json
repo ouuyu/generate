@@ -6108,5 +6108,327 @@
         "联想记忆：SALE（销售）+PERSON（人）= 把东西'塞'给别人的人"
       ]
     }
+  },
+  {
+    "word": "salesman",
+    "etymology": {
+      "breakdown": [
+        "sale",
+        "s",
+        "man"
+      ],
+      "meaning_connection": "sale=销售，-s为复数连接符，man=人→从事销售工作的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "售货员（实体店）",
+        "examples": [
+          {
+            "sentence": "The tea salesman at Wu Yu Tai knows all about pu'er vintages.",
+            "sentence_zh": "吴裕泰的茶叶售货员精通普洱年份。"
+          },
+          {
+            "sentence": "A good bookstore salesman can recommend hidden gems.",
+            "sentence_zh": "优秀的书店售货员能推荐冷门好书。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "推销员（主动销售）",
+        "examples": [
+          {
+            "sentence": "The insurance salesman convinced me with his panda survival rate statistics.",
+            "sentence_zh": "保险推销员用大熊猫存活率数据说服了我。"
+          },
+          {
+            "sentence": "Door-to-door salesman still exist in the age of live-streaming e-commerce.",
+            "sentence_zh": "直播电商时代依然存在上门推销员。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "traveling salesman",
+        "meaning": "巡回推销员",
+        "examples": [
+          {
+            "sentence": "He worked as a traveling salesman selling Tibetan carpets across provinces.",
+            "sentence_zh": "他曾是跨省推销藏毯的巡回推销员。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "salesman talk",
+        "meaning": "推销话术",
+        "examples": [
+          {
+            "sentence": "Her 'limited time offer' was pure salesman talk.",
+            "sentence_zh": "她的'限时优惠'纯属推销话术。"
+          }
+        ]
+      }
+    ],
+    "teach": "salesman本质是'卖艺不卖身'的现代江湖艺人🎪！最早的salesman是丝绸之路上用波斯语砍价的粟特商人🐫，现在演变为直播间喊'买它买它'的李佳琦们📱。记住：遇到pushy salesman（强势推销），就说'I'm just browsing'（随便看看）🚶。你的钱包由你守护💰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞钱慢'→推销员总嫌你塞钱慢",
+        "易混词对比：salesman(基层销售) vs sales rep(销售代表，更专业)",
+        "记忆tip：拆解为'sale(卖)+s(复数)+man(人)'=卖很多的人"
+      ]
+    }
+  },
+  {
+    "word": "saleswoman",
+    "etymology": {
+      "breakdown": [
+        "sale",
+        "s",
+        "woman"
+      ],
+      "meaning_connection": "sale表示销售，-s为连接字母，woman表示女性→从事销售的女性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "女售货员",
+        "examples": [
+          {
+            "sentence": "The saleswoman at the tea shop demonstrated gongfu tea ceremony skills.",
+            "sentence_zh": "茶叶店的女售货员展示了功夫茶艺。"
+          },
+          {
+            "sentence": "A talented saleswoman can sell refrigerators to penguins.",
+            "sentence_zh": "厉害的女售货员能把冰箱卖给企鹅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "女店员",
+        "examples": [
+          {
+            "sentence": "The cosmetics saleswoman recommended panda-shaped face masks.",
+            "sentence_zh": "化妆品女店员推荐了熊猫造型面膜。"
+          },
+          {
+            "sentence": "Every saleswoman in the mahjong store knows all the tile patterns.",
+            "sentence_zh": "麻将馆的每位女店员都熟记所有牌面。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "door-to-door saleswoman",
+        "meaning": "上门推销女销售员",
+        "examples": [
+          {
+            "sentence": "The door-to-door saleswoman sold 50 kitchen knives in our compound.",
+            "sentence_zh": "上门推销的女销售员在我们小区卖出了50把菜刀。"
+          }
+        ]
+      }
+    ],
+    "teach": "saleswoman是商场里的故事女王👑！古代女商贩叫'货郎担娘子'，现在升级成美妆柜姐💄（cosmetics saleswoman）或者茶叶西施🍵（tea saleswoman）。记住'舌灿莲花'叫gift of gab，'砍价高手'说she could sell ice to Eskimos。你的saleswoman可能比李佳琦还会带货！💃🛍️💰",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞袜子慢'→女销售员整理货架袜子时动作优雅",
+        "易混词对比：salesperson（中性）/ saleslady（过时说法）"
+      ]
+    }
+  },
+  {
+    "word": "salience",
+    "etymology": {
+      "breakdown": [
+        "sal",
+        "ience"
+      ],
+      "meaning_connection": "词根sal=跳跃/突出（同源词saltare拉丁语'跳跃'），-ience表状态→原指'突然跃起'，引申为'显著特征'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "显著",
+        "examples": [
+          {
+            "sentence": "The salience of pandas in diplomatic relations is called 'panda diplomacy'.",
+            "sentence_zh": "熊猫在外交关系中的显著性被称为'熊猫外交'。"
+          },
+          {
+            "sentence": "TikTok increases the salience of trending songs through algorithm pushes.",
+            "sentence_zh": "抖音通过算法推送提高热门歌曲的显著性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "卓越",
+        "examples": [
+          {
+            "sentence": "The salience of her research made her the youngest professor at Peking University.",
+            "sentence_zh": "她研究的卓越性使她成为北大最年轻的教授。"
+          },
+          {
+            "sentence": "Terracotta Warriors demonstrate the salience of Qin dynasty's craftsmanship.",
+            "sentence_zh": "兵马俑展现了秦朝工艺的卓越性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "突起",
+        "examples": [
+          {
+            "sentence": "The salience of dragon scales in traditional embroidery symbolizes power.",
+            "sentence_zh": "传统刺绣中龙鳞的突起象征权力。"
+          },
+          {
+            "sentence": "3D touchscreen creates tactile salience with tiny vibrations.",
+            "sentence_zh": "三维触控屏通过微振动制造触觉突起感。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "visual salience",
+        "meaning": "视觉显著性",
+        "examples": [
+          {
+            "sentence": "Red packets have high visual salience in Spring Festival decorations.",
+            "sentence_zh": "红包在春节装饰中具有高视觉显著性。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cognitive salience",
+        "meaning": "认知凸显性",
+        "examples": [
+          {
+            "sentence": "The cognitive salience of COVID-19 changed global travel patterns.",
+            "sentence_zh": "新冠疫情的认知凸显性改变了全球旅行模式。"
+          }
+        ]
+      }
+    ],
+    "teach": "salience是'C位担当'🌟！词根sal和salary同源，但这里指'跳出来'的感觉，就像火锅里的毛肚突然浮起来🍲（visual salience）。说'特别显眼'可以用stick out like a sore thumb，研究'突出特征'叫identify salient features。记住：能被一眼看到的，就是salient的！🎯👁️🗨️",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛脸事'→比赛谁的脸更突出",
+        "易混词：salience（突出性） vs. silence（安静）→'喧嚣与寂静'"
+      ]
+    }
+  },
+  {
+    "word": "salient",
+    "etymology": {
+      "breakdown": [
+        "sal",
+        "ient"
+      ],
+      "meaning_connection": "词根sal=跳跃（源自拉丁语salire），-ient表性质→原指'跃起的'，引申为'突出的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "显著的",
+        "examples": [
+          {
+            "sentence": "The salient advantage of WeChat is its all-in-one functionality.",
+            "sentence_zh": "微信最显著的优点是全能型功能。"
+          },
+          {
+            "sentence": "Peking duck's salient feature is its crispy skin.",
+            "sentence_zh": "北京烤鸭的显著特色是其酥脆外皮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "突出的",
+        "examples": [
+          {
+            "sentence": "Her salient cheekbones became her signature look.",
+            "sentence_zh": "她突出的颧骨成了个人标志。"
+          },
+          {
+            "sentence": "The Terracotta Warriors' salient details amazed archaeologists.",
+            "sentence_zh": "兵马俑突出的细节令考古学家惊叹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "跳跃的",
+        "examples": [
+          {
+            "sentence": "The salient movements of Kung Fu Panda inspired many kids.",
+            "sentence_zh": "功夫熊猫跳跃的动作激励了许多孩子。"
+          },
+          {
+            "sentence": "Chinese dragon dances feature salient leaps.",
+            "sentence_zh": "中国舞龙以跳跃动作为特色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "凸角",
+        "examples": [
+          {
+            "sentence": "The Great Wall's salient provides perfect defensive positions.",
+            "sentence_zh": "长城的凸角提供绝佳防御位置。"
+          },
+          {
+            "sentence": "Architects added salients to the building for aesthetic appeal.",
+            "sentence_zh": "建筑师为美观给大楼添加了凸角设计。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "突出部分",
+        "examples": [
+          {
+            "sentence": "The salient of a smartphone is usually its camera module.",
+            "sentence_zh": "智能手机的突出部分通常是摄像头模组。"
+          },
+          {
+            "sentence": "Mount Hua's salient cliffs attract brave climbers.",
+            "sentence_zh": "华山突出的悬崖吸引着勇敢的攀登者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "salient point",
+        "meaning": "要点",
+        "examples": [
+          {
+            "sentence": "The professor highlighted the salient points with memes.",
+            "sentence_zh": "教授用表情包突出课程要点。"
+          }
+        ]
+      }
+    ],
+    "teach": "salient就像火锅里的毛肚🥢——特别突出！词源是'跳跃'，所以既可形容兔子跳🏃♂️（salient movement），也可说手机摄像头凸起📱（salient lens）。军事上叫'突出部'像荆州地形🗺️，说'重点突出'用salient features就像火锅必点毛肚配啤酒🍻！记住：凡是冒尖的都是salient！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛脸贴'→比赛谁的脸更突出",
+        "易混词：prominent（更正式）/salient（更动态）",
+        "记忆法：SALIENT=See A Leap In Every Notable Thing（在每个显著事物中看到跳跃）"
+      ]
+    }
   }
 ]

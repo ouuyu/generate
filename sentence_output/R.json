@@ -6284,5 +6284,337 @@
         "记忆tip：把y看成伞柄，rain在伞下就是rainy"
       ]
     }
+  },
+  {
+    "word": "raise",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古北欧语'reisa'，意为'使直立'，与德语'heben'（举起）同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "上升",
+        "examples": [
+          {
+            "sentence": "The sudden raise in temperature melted all the snowmen.",
+            "sentence_zh": "气温骤升让所有雪人都化了。"
+          },
+          {
+            "sentence": "After three failed attempts, his final raise was perfect.",
+            "sentence_zh": "经过三次失败尝试后，他最后的上升动作完美无缺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "高地",
+        "examples": [
+          {
+            "sentence": "The farm was built on a raise overlooking the valley.",
+            "sentence_zh": "农场建在俯瞰山谷的高地上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "增高",
+        "examples": [
+          {
+            "sentence": "The raise of the basketball hoop challenged the players.",
+            "sentence_zh": "篮球框的增高对球员们提出了挑战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "举起",
+        "examples": [
+          {
+            "sentence": "Raise your glasses for the newlyweds!",
+            "sentence_zh": "为新婚夫妇举杯！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "唤起",
+        "examples": [
+          {
+            "sentence": "This song always raises memories of my childhood.",
+            "sentence_zh": "这首歌总能唤起我童年的回忆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "提高",
+        "examples": [
+          {
+            "sentence": "The boss raised my salary after seeing my TikTok fame.",
+            "sentence_zh": "老板看到我的抖音知名度后给我加了薪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使出现",
+        "examples": [
+          {
+            "sentence": "His joke raised a smile on everyone's face.",
+            "sentence_zh": "他的笑话让每个人脸上都露出了笑容。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使复活",
+        "examples": [
+          {
+            "sentence": "The doctors managed to raise him from clinical death.",
+            "sentence_zh": "医生们成功将他从临床死亡中复活。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "提出",
+        "examples": [
+          {
+            "sentence": "She raised an interesting question about AI ethics.",
+            "sentence_zh": "她提出了一个关于AI伦理的有趣问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "筹集",
+        "examples": [
+          {
+            "sentence": "We raised 50,000 yuan for the panda conservation.",
+            "sentence_zh": "我们为熊猫保护筹集了5万元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "饲养",
+        "examples": [
+          {
+            "sentence": "My grandma raises the fattest ducks in the village.",
+            "sentence_zh": "我奶奶养着村里最肥的鸭子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "raise hell",
+        "meaning": "大吵大闹",
+        "examples": [
+          {
+            "sentence": "The fans raised hell when the concert was canceled.",
+            "sentence_zh": "演唱会被取消时粉丝们大吵大闹。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "raise the roof",
+        "meaning": "热闹非凡",
+        "examples": [
+          {
+            "sentence": "The party raised the roof until 3am.",
+            "sentence_zh": "派对热闹到凌晨三点。"
+          }
+        ]
+      }
+    ],
+    "teach": "raise简直就是'万能上升器'🚀！当它表示'举起'时像健身教练喊'抬高点！'💪，'提高薪水'时像老板施法'涨！'💸，'饲养'时变身农场主👨‍🌾。美国牛仔说'raise cattle'（养牛），程序员说'raise exception'（抛出异常）。记住：物理上升用raise，数字上升也用raise！",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐志'→丰田车往上raise",
+        "易混词：rise（自主上升）vs raise（使上升）"
+      ]
+    }
+  },
+  {
+    "word": "raised",
+    "etymology": {
+      "breakdown": [
+        "raise",
+        "ed"
+      ],
+      "meaning_connection": "动词raise（举起）的过去分词形式，引申出'被抬高的'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "凸起的",
+        "examples": [
+          {
+            "sentence": "The raised buttons on elevator panels help blind people navigate.",
+            "sentence_zh": "电梯按键上的凸起设计帮助视障人士使用。"
+          },
+          {
+            "sentence": "Her phone case has raised edges to protect the screen.",
+            "sentence_zh": "她的手机壳有凸起边框保护屏幕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "浮雕的",
+        "examples": [
+          {
+            "sentence": "The museum displays ancient coins with raised portraits of emperors.",
+            "sentence_zh": "博物馆展出的古钱币上有皇帝浮雕肖像。"
+          },
+          {
+            "sentence": "She wore a silver bracelet with raised floral patterns.",
+            "sentence_zh": "她戴着有浮雕花卉图案的银手镯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "发酵的",
+        "examples": [
+          {
+            "sentence": "Traditional raised doughnuts are fluffier than cake doughnuts.",
+            "sentence_zh": "传统发酵甜甜圈比蛋糕式甜甜圈更蓬松。"
+          },
+          {
+            "sentence": "The baker's secret is using raised dough for the perfect baozi.",
+            "sentence_zh": "面包师的秘诀是用发酵面团做完美包子。"
+          }
+        ]
+      }
+    ],
+    "teach": "raised是个'立体感爆棚'的单词📐！'凸起的'像盲文点点（raised dots），'浮雕的'像人民币上的毛爷爷👴，'发酵的'像你蒸失败的馒头🍞（failed raised buns）。记住：说'浮雕设计'用raised pattern，'醒发面团'叫raised dough，3D效果统统可以raise起来！🚀",
+    "recite": {
+      "tips": [
+        "谐音梗：'累死的'→面团发酵(raised)累死了酵母",
+        "易混词对比：risen（自然升起） vs raised（人为抬高）"
+      ]
+    }
+  },
+  {
+    "word": "raiser",
+    "etymology": {
+      "breakdown": [
+        "rais(e)",
+        "er"
+      ],
+      "meaning_connection": "来自raise（举起/增加）+后缀-er表示执行者，字面意思是'使某物上升的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "提高者",
+        "examples": [
+          {
+            "sentence": "As a salary raiser, the HR director upgraded our hotpot allowance.",
+            "sentence_zh": "作为加薪决策者，人力总监提高了我们的火锅补贴额度。"
+          },
+          {
+            "sentence": "The temperature raiser in this sauna uses volcanic rocks.",
+            "sentence_zh": "这家桑拿房的升温装置使用的是火山岩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "饲养者",
+        "examples": [
+          {
+            "sentence": "The panda raiser at Chengdu base wears bamboo-patterned uniforms.",
+            "sentence_zh": "成都基地的熊猫饲养员穿着竹子图案的制服。"
+          },
+          {
+            "sentence": "Chicken raisers are switching to VR-controlled coops.",
+            "sentence_zh": "养鸡户正在改用VR控制的鸡舍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "招募者",
+        "examples": [
+          {
+            "sentence": "The army raiser convinced him with a tank-shaped USB drive.",
+            "sentence_zh": "征兵人员用坦克造型U盘说服了他。"
+          },
+          {
+            "sentence": "As a volunteer raiser, she organizes campus blood drives with vampire themes.",
+            "sentence_zh": "作为志愿者招募者，她策划了吸血鬼主题的校园献血活动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fund raiser",
+        "meaning": "募捐者/筹款活动",
+        "examples": [
+          {
+            "sentence": "The bake sale fund raiser collected enough for 1000 school lunches.",
+            "sentence_zh": "烘焙义卖筹得的款项可支付1000份校园午餐。"
+          }
+        ]
+      }
+    ],
+    "teach": "raiser就是'让你上头'的人🔼！工资raiser让你钱包鼓起来💵，熊猫raiser让你萌到上头🐼，而fund raiser可能让你捐到吃土💸。记住：养熊猫叫panda raiser，但养电子宠物得说digital pet keeper📱。地道表达'拉投资'叫shake the money tree🌴，'职业募捐人'是professional donor whisperer🎤",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞泽'→瑞泽(raiser)基金让资产升值",
+        "易混词对比：raiser（主动施加影响者） vs. riser（自然上升物，如面包发酵）"
+      ]
+    }
+  },
+  {
+    "word": "raisin",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自古法语'raisin'（葡萄），经晒干后成为葡萄干"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "葡萄干",
+        "examples": [
+          {
+            "sentence": "These mooncakes are stuffed with lotus paste and plump raisins from Xinjiang.",
+            "sentence_zh": "这些月饼馅是莲蓉和新疆饱满的葡萄干。"
+          },
+          {
+            "sentence": "Grandma's secret zongzi recipe includes soaking raisins in rose wine.",
+            "sentence_zh": "奶奶包粽子的秘方包括用玫瑰酒浸泡葡萄干。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "raisin bread",
+        "meaning": "葡萄干面包",
+        "examples": [
+          {
+            "sentence": "The best part of morning tea is tearing open warm raisin bread.",
+            "sentence_zh": "早茶最幸福的就是撕开热乎乎的葡萄干面包。"
+          }
+        ]
+      }
+    ],
+    "teach": "raisin其实是'晒太阳的葡萄'☀️→葡萄干最早是波斯人发现葡萄晒成干能保存更久🧺。要说'零食'可以叫munchies（嘎嘣脆的东西），'甜到齁'叫sugar overload就像月饼里的葡萄干🍇。记住：raisin=葡萄的阳光SPA度假产品！",
+    "recite": {
+      "tips": [
+        "谐音梗：'日晒人'→葡萄晒成人干",
+        "易混词对比：currant（黑醋栗干）更小更酸"
+      ]
+    }
   }
 ]

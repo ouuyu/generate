@@ -6562,5 +6562,331 @@
         "记忆tip：把lord想成《权力的游戏》里的领主"
       ]
     }
+  },
+  {
+    "word": "landing",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "ing"
+      ],
+      "meaning_connection": "词根land=陆地，后缀-ing表动作结果/场所→原指'到达陆地的动作'，后延伸出降落点、码头等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "登陆（动作）",
+        "examples": [
+          {
+            "sentence": "The D-Day landing changed the course of WWII.",
+            "sentence_zh": "诺曼底登陆改变了二战进程。"
+          },
+          {
+            "sentence": "Crab fishermen prepare nets before landing on the beach.",
+            "sentence_zh": "捕蟹人在登陆海滩前整理渔网。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "码头",
+        "examples": [
+          {
+            "sentence": "The floating landing was destroyed by the typhoon.",
+            "sentence_zh": "浮动码头被台风摧毁。"
+          },
+          {
+            "sentence": "Fishermen sell fresh catches directly at the landing.",
+            "sentence_zh": "渔民在码头直接售卖新鲜渔获。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "降落",
+        "examples": [
+          {
+            "sentence": "The pilot announced a bumpy landing due to strong winds.",
+            "sentence_zh": "机长通知因大风将会有颠簸降落。"
+          },
+          {
+            "sentence": "Drone delivery requires precise landing on rooftops.",
+            "sentence_zh": "无人机送货需精准降落在屋顶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "soft landing",
+        "meaning": "软着陆",
+        "examples": [
+          {
+            "sentence": "China's economy achieved a soft landing after the reform.",
+            "sentence_zh": "中国经济在改革后实现了软着陆。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "emergency landing",
+        "meaning": "紧急迫降",
+        "examples": [
+          {
+            "sentence": "The plane made an emergency landing in a rice field.",
+            "sentence_zh": "飞机在稻田里紧急迫降。"
+          }
+        ]
+      }
+    ],
+    "teach": "landing是海陆空三栖明星🌟！当阿波罗登月时说'鹰已着陆'🦅（The Eagle has landed），当你在重庆码头吃火锅时说'在洪崖洞landing靠岸'🚢，当飞机颠簸时空姐说'brace for landing'✈️。记住：经济软着陆叫soft landing，'成功达成目标'可以说stick the landing（原指体操完美落地）🏅",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得停'→飞船懒得停(landing)就硬着陆",
+        "易混词对比：port（大型港口）vs landing（小型码头）"
+      ]
+    }
+  },
+  {
+    "word": "landmark",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "mark"
+      ],
+      "meaning_connection": "字面组合'土地标记'，古英语中land=土地，mark=标记/边界"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "陆标（自然地标）",
+        "examples": [
+          {
+            "sentence": "The Himalayas serve as a natural landmark between China and Nepal.",
+            "sentence_zh": "喜马拉雅山脉是中尼之间的天然陆标。"
+          },
+          {
+            "sentence": "Tourists flock to see the Twelve Apostles, limestone landmarks off Australia's coast.",
+            "sentence_zh": "游客蜂拥前往观赏澳大利亚海岸的石灰岩陆标十二使徒岩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "划时代的事",
+        "examples": [
+          {
+            "sentence": "The invention of WeChat Pay was a landmark in mobile payment history.",
+            "sentence_zh": "微信支付的发明是移动支付史上的划时代事件。"
+          },
+          {
+            "sentence": "The moon landing stands as a landmark of 20th century scientific achievement.",
+            "sentence_zh": "登月是20世纪科学成就的里程碑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地界标（人为标记）",
+        "examples": [
+          {
+            "sentence": "Ancient boundary landmarks often featured carved tortoise designs.",
+            "sentence_zh": "古代地界标常雕刻龟形图案。"
+          },
+          {
+            "sentence": "The stone landmark between the two villages has stood for 300 years.",
+            "sentence_zh": "两村之间的石质地界标已矗立三百年。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "landmark decision",
+        "meaning": "里程碑式判决",
+        "examples": [
+          {
+            "sentence": "The Supreme Court's landmark decision legalized same-sex marriage.",
+            "sentence_zh": "最高法院的里程碑判决使同性婚姻合法化。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "landmark building",
+        "meaning": "标志性建筑",
+        "examples": [
+          {
+            "sentence": "The CCTV Headquarters is a landmark building in Beijing's skyline.",
+            "sentence_zh": "央视大楼是北京天际线的标志性建筑。"
+          }
+        ]
+      }
+    ],
+    "teach": "landmark是地球的纹身🌍！自然陆标像张家界的石柱是大地的手指✌️，划时代事件像杂交水稻让全人类'端牢饭碗'🍚，地界标则是古人版的GPS定位📍。说'开创新纪元'可用epoch-making landmark，'城市名片'说city landmark就像重庆洪崖洞配火锅🌉。记住：看到landmark就想起火锅店门口等位的标杆！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得刻'→古人懒得刻字的地界标",
+        "易混词：landmark(永久性) vs milestone(阶段性)",
+        "记忆法：LAND=土地，MARK=马克笔→用马克笔在地图上画圈的重要地点"
+      ]
+    }
+  },
+  {
+    "word": "landmass",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "mass"
+      ],
+      "meaning_connection": "land表示'陆地'，mass表示'块'，合起来指'陆块'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "陆块",
+        "examples": [
+          {
+            "sentence": "The Eurasian landmass is the largest contiguous area of land on Earth.",
+            "sentence_zh": "欧亚陆块是地球上最大的连续陆地。"
+          },
+          {
+            "sentence": "Australia is both a country and a single landmass continent.",
+            "sentence_zh": "澳大利亚既是一个国家，也是一个单独的陆块大陆。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "landmass就像地球的乐高积木🧩！想象七大洲是上帝玩拼图时随手丢的几大块（major landmasses）。说'超级大陆'要用supercontinent🌎，'岛链'叫island chain⛓️。记住：大陆漂移说里这些landmass都在跳探戈💃！",
+    "recite": {
+      "tips": [
+        "视觉联想：land+mass=一大坨陆地像芒果糯米饭🍚",
+        "易混词对比：mainland（大陆）强调政治/文化主体，landmass纯地理概念"
+      ]
+    }
+  },
+  {
+    "word": "landmine",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "mine"
+      ],
+      "meaning_connection": "land（陆地）+ mine（矿/爆炸物）→ 字面意思是'陆地爆炸物'，特指埋藏于地表下的爆炸装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "地雷",
+        "examples": [
+          {
+            "sentence": "The demining robot carefully detected WWII landmines in the field.",
+            "sentence_zh": "扫雷机器人正在田野里仔细检测二战时期的地雷。"
+          },
+          {
+            "sentence": "Cambodia still suffers from millions of undetonated landmines.",
+            "sentence_zh": "柬埔寨仍受数百万未引爆地雷的困扰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "投伞水雷",
+        "examples": [
+          {
+            "sentence": "Naval forces deployed parachute-equipped landmines to blockade the harbor.",
+            "sentence_zh": "海军部队部署了带降落伞的水雷封锁港口。"
+          },
+          {
+            "sentence": "This advanced landmine can be air-dropped and self-anchors in water.",
+            "sentence_zh": "这种先进水雷可空投并在水中自动固定。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political landmine",
+        "meaning": "政治敏感问题",
+        "examples": [
+          {
+            "sentence": "Bringing up that historical event is like stepping on a political landmine.",
+            "sentence_zh": "提起那个历史事件就像踩到政治地雷。"
+          }
+        ]
+      }
+    ],
+    "teach": "landmine是行走江湖最怕的'盲盒'💣：古代中国用'火药鼠'当原始地雷🐭，现代地雷像网购差评——埋下去就等人踩💥。说'职场地雷'叫career landmine（比如问女同事年龄），'踩雷'的地道表达是step on a grenade（字面踩手雷）🤯。记住：人生路上别做排雷兵，要做扫雷高手！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得买'→懒得买(lan-dmine)地雷的军阀",
+        "易混词对比：minefield（雷区）指多个地雷的分布区域"
+      ]
+    }
+  },
+  {
+    "word": "landowner",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "own",
+        "er"
+      ],
+      "meaning_connection": "land=土地，own=拥有，-er表示人→拥有土地的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "地主",
+        "examples": [
+          {
+            "sentence": "The Ming Dynasty landowner wore silk while peasants starved.",
+            "sentence_zh": "明朝地主穿丝绸时，农民正在挨饿。"
+          },
+          {
+            "sentence": "Every kung fu movie has an evil landowner charging high rents.",
+            "sentence_zh": "每部功夫片都有个收高租的恶霸地主。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "土地所有人",
+        "examples": [
+          {
+            "sentence": "Modern landowners must pay property taxes annually.",
+            "sentence_zh": "现代土地所有人需每年缴纳房产税。"
+          },
+          {
+            "sentence": "The landowner signed a 99-year lease with the developer.",
+            "sentence_zh": "土地所有人与开发商签了99年租约。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "absentee landowner",
+        "meaning": "不在地主",
+        "examples": [
+          {
+            "sentence": "The absentee landowner in New York controls rice fields in Jiangsu.",
+            "sentence_zh": "这位纽约不在地主掌控着江苏的稻田。"
+          }
+        ]
+      }
+    ],
+    "teach": "landowner是'土皇帝'👑！英国至今有公爵拥有整个伦敦街区🏰（比如威斯敏斯特公爵），而中文'地主'会让人想到周扒皮半夜学鸡叫🐓。要说'收租'叫collect rents，'地契'叫title deed就像房产证📜。记住：现代landowner可能正在用手机收房租！💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得窝呢'→地主懒得自己种地",
+        "易混词：landlord（房东）只管房子，landowner拥有土地"
+      ]
+    }
   }
 ]
