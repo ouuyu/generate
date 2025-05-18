@@ -15953,5 +15953,291 @@
         "记忆tip：NEUTRAL+IZE=让吵架的双方变成中立(neutral)状态"
       ]
     }
+  },
+  {
+    "word": "neutrally",
+    "etymology": {
+      "breakdown": [
+        "neutr",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根neutr=中立（来自拉丁语neuter'两者都不'），-al为形容词后缀，-ly构成副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "中立地",
+        "examples": [
+          {
+            "sentence": "The referee neutrally enforced the rules while fans screamed.",
+            "sentence_zh": "球迷尖叫时，裁判仍保持中立执法。"
+          },
+          {
+            "sentence": "Switzerland remains neutrally positioned during global conflicts.",
+            "sentence_zh": "瑞士在全球冲突中始终持中立立场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不带感情色彩地",
+        "examples": [
+          {
+            "sentence": "The AI assistant answered neutrally despite provocative questions.",
+            "sentence_zh": "面对挑衅性问题，AI助手仍不带感情地回答。"
+          },
+          {
+            "sentence": "She reported the scandal as neutrally as reading a weather forecast.",
+            "sentence_zh": "她报道丑闻时冷静得像在播天气预报。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remain neutrally",
+        "meaning": "保持中立",
+        "examples": [
+          {
+            "sentence": "The UN advised all nations to remain neutrally in the cryptocurrency war.",
+            "sentence_zh": "联合国建议各国在加密货币战争中保持中立。"
+          }
+        ]
+      }
+    ],
+    "teach": "neutrally就像瑞士国旗的十字架➕：既不是+也不是-。当朋友问'奶茶选喜茶还是奈雪？'说'I'm neutrally obsessed with both'（我中立地两个都爱）🤣。视觉联想：裁判掏黄牌时的扑克脸🃏。实用搭配：neutrally charged（物理中性）/ neutrally worded（措辞中立）。说'和稀泥'可用sit on the fence。🧊🤐⚖️",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛戳力'→牛用角戳人时不偏不倚",
+        "易混词：neutral vs. natural（自然）"
+      ]
+    }
+  },
+  {
+    "word": "neutrino",
+    "etymology": {
+      "breakdown": [
+        "neutr",
+        "ino"
+      ],
+      "meaning_connection": "词根neutr=中性（来自neutral），意大利语后缀-ino=微小粒子→直译为'微小的中性粒子'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "中微子",
+        "examples": [
+          {
+            "sentence": "Detecting neutrinos is like catching ghosts with a butterfly net – they pass through lead like it's nothing!",
+            "sentence_zh": "探测中微子就像用捕蝶网抓幽灵——它们能毫不费力穿透铅板！"
+          },
+          {
+            "sentence": "Every second, trillions of neutrinos from the sun are shooting through your body unnoticed.",
+            "sentence_zh": "每秒都有数万亿来自太阳的中微子悄无声息穿过你的身体。"
+          }
+        ]
+      }
+    ],
+    "teach": "中微子是宇宙的'社恐星人'👻⚛️🚀：1) 命名梗：物理学家费米故意用意大利语卖萌，把中性(neutral)变成-ino小可爱后缀 2) 它比地铁早高峰还拥挤——每平方厘米每秒有600亿个穿过你 3) 实用搭配：neutrino oscillation(中微子振荡)/cosmic neutrino(宇宙中微子) 4) 地道说法叫'ghost particle'(幽灵粒子)，就像你微信已读不回的朋友👻",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛吹no'→中微子牛到不用吹(no)",
+        "易混词：neutron(中子)是宅男，neutrino(中微子)是穿墙超能力者",
+        "记忆法：想象意大利厨师说'little neutral one~(中性小可爱)'"
+      ]
+    }
+  },
+  {
+    "word": "neutron",
+    "etymology": {
+      "breakdown": [
+        "neutr",
+        "on"
+      ],
+      "meaning_connection": "词根neutr=中性的（来自neutral），-on是基本粒子命名后缀（如proton/electron）→电中性的粒子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "中子",
+        "examples": [
+          {
+            "sentence": "The neutron was discovered by Chadwick in 1932, like finding a ninja in an atom.",
+            "sentence_zh": "中子由查德威克于1932年发现，就像在原子中发现了一个忍者。"
+          },
+          {
+            "sentence": "Neutron stars are so dense that a sugar-cube-sized amount would weigh a billion tons.",
+            "sentence_zh": "中子星密度极高，方糖大小的物质就重达十亿吨。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "neutron bomb",
+        "meaning": "中子弹",
+        "examples": [
+          {
+            "sentence": "The neutron bomb is designed to spare buildings while eliminating life.",
+            "sentence_zh": "中子弹的设计理念是消灭生命但保留建筑。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "neutron radiation",
+        "meaning": "中子辐射",
+        "examples": [
+          {
+            "sentence": "Astronauts need special shielding against neutron radiation.",
+            "sentence_zh": "宇航员需要特殊防护来抵挡中子辐射。"
+          }
+        ]
+      }
+    ],
+    "teach": "中子(neutron)是原子界的社恐患者😶！它不带电(neutral)所以总躲在质子后面，就像火锅局里默默捞菜的人🥢。宇宙最猛减肥广告就是中子星——把太阳质量压缩到北京三环大小💎！搭配说'fast neutron'快中子像外卖小哥🏃，'thermal neutron'热中子像泡温泉♨️。地道表达叫'the neutron dance'（1980年代迪斯科动作，像粒子碰撞💃）",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛搓团'→中子像牛肉丸里的牛筋丸（搓得超密实）",
+        "易混词：neutron vs neutrino（中微子，更小的幽灵粒子）",
+        "记忆法：neutral（中性）+on（粒子）=中子"
+      ]
+    }
+  },
+  {
+    "word": "neutrophil",
+    "etymology": {
+      "breakdown": [
+        "neutro",
+        "phil"
+      ],
+      "meaning_connection": "词根neutro=中性（neutral的变体），phil=爱好→字面意思是'喜欢中性环境'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "嗜中性的",
+        "examples": [
+          {
+            "sentence": "Neutrophil granules are like tiny defense warriors in our blood.",
+            "sentence_zh": "嗜中性颗粒就像血液中的微型防御战士。"
+          },
+          {
+            "sentence": "This dye turns neutrophil cells into little pink polka dots under microscope.",
+            "sentence_zh": "这种染色剂让嗜中性细胞在显微镜下变成粉红色小圆点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "嗜中性白细胞",
+        "examples": [
+          {
+            "sentence": "When you get a paper cut, neutrophils rush like emergency medics to the wound.",
+            "sentence_zh": "当手指被纸割伤时，嗜中性白细胞会像急救员般冲向伤口。"
+          },
+          {
+            "sentence": "Doctors check neutrophil levels like checking an army's soldier count.",
+            "sentence_zh": "医生检查嗜中性白细胞数量就像清点军队士兵人数。"
+          }
+        ]
+      }
+    ],
+    "teach": "嗜中性白细胞是免疫系统的'外卖小哥'🛵！它们像美团骑手一样在血管里飞驰送'消炎药'💊，最爱中性环境就像四川人吃鸳鸯锅🌶️🍲。医学俚语叫它们'polys'（警察👮），因为会'逮捕'细菌。记住：neutrophil=neutral+phile→就像只喝常温奶茶的强迫症🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛戳feel'→牛都能戳到的感觉细胞",
+        "易混词对比：neutrophil(中性) vs. eosinophil(嗜酸) vs. basophil(嗜碱)像奶茶甜度选择"
+      ]
+    }
+  },
+  {
+    "word": "never",
+    "etymology": {
+      "breakdown": [
+        "ne",
+        "ever"
+      ],
+      "meaning_connection": "古英语ne(否定)+æfre(永远)→字面意思'永不'，连读缩合形成现代拼写"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "从不（表频率）",
+        "examples": [
+          {
+            "sentence": "I never drink boba tea after 8PM to avoid sugar rush.",
+            "sentence_zh": "我晚上八点后从不喝珍珠奶茶以防糖分超标。"
+          },
+          {
+            "sentence": "She never skips her morning pancake ritual.",
+            "sentence_zh": "她从不跳过晨间煎饼仪式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "决不（表强调）",
+        "examples": [
+          {
+            "sentence": "Never press the elevator button twice - it won't make the elevator come faster!",
+            "sentence_zh": "千万别连按电梯按钮——它不会让电梯来得更快！"
+          },
+          {
+            "sentence": "This spicy hotpot is never for the faint-hearted.",
+            "sentence_zh": "这麻辣火锅绝非胆小者能承受。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不曾（表经历）",
+        "examples": [
+          {
+            "sentence": "He's never eaten stinky tofu despite living in Taiwan for years.",
+            "sentence_zh": "尽管在台湾生活多年，他却不曾吃过臭豆腐。"
+          },
+          {
+            "sentence": "We've never seen such creative mooncake flavors before.",
+            "sentence_zh": "我们从未见过如此有创意的月饼口味。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "never mind",
+        "meaning": "没关系/别在意",
+        "examples": [
+          {
+            "sentence": "\"Your Didi driver canceled again?\" \"Never mind, I'll ride a shared bike!\"",
+            "sentence_zh": "“滴滴司机又取消订单了？”“无所谓，我骑共享单车！”"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "never ever",
+        "meaning": "绝对不（加强语气）",
+        "examples": [
+          {
+            "sentence": "I'll never ever give up my spot in the hotpot queue!",
+            "sentence_zh": "我死也不放弃火锅店的排队位置！"
+          }
+        ]
+      }
+    ],
+    "teach": "never这个单词就像微信的'撤回'功能⏪！当你说'I never knew'就像发现被前任删好友时的震惊😱（居然从不知道）；'never!'的用法堪比大妈砍价时的斩钉截铁✂️（'少一毛都不行！'）。记住：'never have I ever'喝酒游戏叫'我有你没有'🍻，而'你永远可以相信...'的地道表达是'never fails to...'🐼",
+    "recite": {
+      "tips": [
+        "谐音梗：'耐饿'→'从不'吃饭所以耐饿",
+        "易混词对比：never(频率) vs. none(数量)",
+        "记忆tip：把n想象成禁止标志🚫+ever"
+      ]
+    }
   }
 ]

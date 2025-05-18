@@ -14945,5 +14945,313 @@
         "易混词：ruthless（残忍的）vs uncouth（粗野的）"
       ]
     }
+  },
+  {
+    "word": "uncover",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "cover"
+      ],
+      "meaning_connection": "前缀un-表示'反向动作'，cover表示'覆盖'→原指移除覆盖物，引申出'揭露真相'和'脱帽'两种动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "揭露",
+        "examples": [
+          {
+            "sentence": "The journalist uncovered corruption involving mooncake bribes.",
+            "sentence_zh": "记者揭露了涉及月饼贿赂的腐败案。"
+          },
+          {
+            "sentence": "Archaeologists uncovered a terracotta warrior with iPhone-shaped accessories.",
+            "sentence_zh": "考古学家发掘出佩戴手机造型配饰的兵马俑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "揭开",
+        "examples": [
+          {
+            "sentence": "She uncovered the steaming basket to reveal rainbow-colored dumplings.",
+            "sentence_zh": "她揭开蒸笼露出彩虹色的饺子。"
+          },
+          {
+            "sentence": "Uncovering the manhole cover required three delivery drivers.",
+            "sentence_zh": "需要三个外卖小哥才能揭开那个井盖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "暴露",
+        "examples": [
+          {
+            "sentence": "The leaked document uncovered the company's plans to replace humans with AI anchors.",
+            "sentence_zh": "泄露文件暴露了公司用AI主播取代人类的计划。"
+          },
+          {
+            "sentence": "His torn pants uncovered neon pink boxers during the meeting.",
+            "sentence_zh": "他破损的裤子在会议中暴露出荧光粉内裤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "脱帽致敬",
+        "examples": [
+          {
+            "sentence": "All passengers uncovered when the high-speed train entered Confucius' hometown.",
+            "sentence_zh": "当高铁驶入孔子故乡时，所有乘客脱帽致敬。"
+          },
+          {
+            "sentence": "The AI robot uncovered its sensor head to show respect.",
+            "sentence_zh": "人工智能机器人移开传感器头部以示尊敬。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "uncover the truth",
+        "meaning": "揭露真相",
+        "examples": [
+          {
+            "sentence": "The livestreamer uncovered the truth about counterfeit spicy strips.",
+            "sentence_zh": "主播揭露了假冒辣条的真相。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncover就像侦探🕵️+绅士🎩双重人格！揭露黑幕时像朝阳群众举报（uncover scandals），脱帽时像英国女王卫兵遇见火锅（uncover for hotpot）。'曝光内幕'说spill the tea🍵，'当众出丑'叫caught with pants down👖。记住：uncover时要么惊天动地，要么彬彬有礼！",
+    "recite": {
+      "tips": [
+        "视觉联想：un+cover→掀开被子(un)发现蟑螂(cover的谐音'咖妃')",
+        "易混对比：discover是发现已存在事物，uncover是揭露被隐藏事物"
+      ]
+    }
+  },
+  {
+    "word": "uncovered",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "cover",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表示否定，cover表示覆盖，-ed形容词后缀→字面意思为'未被覆盖的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无遮盖的",
+        "examples": [
+          {
+            "sentence": "The uncovered mooncakes dried out before Mid-Autumn Festival.",
+            "sentence_zh": "未盖好的月饼在中秋节前就风干了。"
+          },
+          {
+            "sentence": "Her uncovered bicycle seat got scorching hot under the sun.",
+            "sentence_zh": "她没罩车套的自行车座在阳光下烫得吓人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未戴帽子的",
+        "examples": [
+          {
+            "sentence": "The uncovered tourist got severe sunburn on the Great Wall.",
+            "sentence_zh": "没戴帽子的游客在长城上严重晒伤。"
+          },
+          {
+            "sentence": "Uncovered construction workers risk heatstroke in summer.",
+            "sentence_zh": "夏季不戴安全帽的建筑工人易中暑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未保险的",
+        "examples": [
+          {
+            "sentence": "The uncovered electric socket caused the accident.",
+            "sentence_zh": "未安装保险盖的插座引发了事故。"
+          },
+          {
+            "sentence": "Driving an uncovered vehicle is illegal during typhoons.",
+            "sentence_zh": "台风天驾驶未投保车辆属违法行为。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "uncovered position",
+        "meaning": "无担保头寸",
+        "examples": [
+          {
+            "sentence": "The investor panicked when realizing his uncovered position.",
+            "sentence_zh": "发现自己的无担保头寸时，投资者慌了神。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncovered就像裸奔的三件套🚴‍♂️🧢🏥：1) 历史梗：古希腊运动员原本就uncovered参赛（字面意义的裸奔）🏛️ 2) 视觉化：没顶的茶杯→茶凉了☕❄️ 3) 实用搭配：uncovered wound（暴露伤口）/ uncovered short（无担保卖空） 4) 地道表达：'毫无防备'说like a sitting duck🦆 5) 记住：un+cover+ed=没盖被子的金融术语宝宝💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺咖吠的'→俺家狗没戴项圈(uncovered)在吠",
+        "易混词：discovered（被发现） vs uncovered（未覆盖）",
+        "记忆tip：所有含义都指向'缺少保护层'"
+      ]
+    }
+  },
+  {
+    "word": "uncovering",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "cover",
+        "ing"
+      ],
+      "meaning_connection": "前缀un-表否定，cover=覆盖，-ing构成形容词→'未覆盖的'状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "露出的",
+        "examples": [
+          {
+            "sentence": "The uncovering cables caused a short circuit during the rainstorm.",
+            "sentence_zh": "暴雨中裸露的电线导致了短路。"
+          },
+          {
+            "sentence": "Her uncovering enthusiasm for spicy hotpot surprised everyone.",
+            "sentence_zh": "她对麻辣火锅毫不掩饰的热情惊到了所有人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未覆盖的",
+        "examples": [
+          {
+            "sentence": "The uncovering archaeological site needs immediate protection.",
+            "sentence_zh": "这个未加保护的考古遗址急需立即保护。"
+          },
+          {
+            "sentence": "Never drink from an uncovering water bottle on a bicycle.",
+            "sentence_zh": "骑行时千万别用无盖水杯喝水。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncovering就像被掀开的砂锅盖🍲！古罗马人用'un-'前缀就像掀桌布(就像'toga'突然滑落😱)，视觉记忆：想象故宫屋顶琉璃瓦被台风掀开→uncovering tiles。搭配'uncovering truth'比'暴露真相'更生动，'赤裸裸的事实'可以说naked truth🐔。这个单词自带'社死现场'既视感！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺卡脖领'→衣服卡脖导致uncovering",
+        "对比记忆：covered=穿羽绒服，uncovering=穿破洞裤"
+      ]
+    }
+  },
+  {
+    "word": "uncreative",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "creat",
+        "ive"
+      ],
+      "meaning_connection": "前缀un-表否定，词根creat=创造，-ive为形容词后缀→字面意为'不具有创造性的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "缺乏创造性的",
+        "examples": [
+          {
+            "sentence": "The AI-generated script was criticized as uncreative by film directors.",
+            "sentence_zh": "这份AI生成的剧本被电影导演批评为缺乏创造性。"
+          },
+          {
+            "sentence": "Copying homework leads to uncreative thinking patterns.",
+            "sentence_zh": "抄袭作业会导致思维模式缺乏创造性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "枯燥无味的",
+        "examples": [
+          {
+            "sentence": "His uncreative presentation made everyone check their phones.",
+            "sentence_zh": "他枯燥无味的演示让所有人都在刷手机。"
+          },
+          {
+            "sentence": "The museum's uncreative displays failed to attract visitors.",
+            "sentence_zh": "博物馆枯燥无味的展陈未能吸引游客。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncreative就像被榨干创意的绿茶🍵（已泡过10次），或是春节联欢晚会重复的小品梗🎭。说人'没创意'可以用as inspiring as a brick（像砖头一样让人'振奋'），搭配用uncreative work（流水线作品）/uncreative mind（榆木脑袋）。记住：你的大脑可比春晚导演有创意多了🧠！",
+    "recite": {
+      "tips": [
+        "谐音梗：'油腻可炊替屋'→油腻的创意替代品",
+        "易混词对比：unimaginative（缺乏想象力）更偏先天，uncreative（缺乏创造性）更偏结果"
+      ]
+    }
+  },
+  {
+    "word": "uncritical",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "critical"
+      ],
+      "meaning_connection": "前缀un-表示'否定'，critical来自希腊语kritikos=判断的→字面理解为'不作判断的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不加批判的",
+        "examples": [
+          {
+            "sentence": "His uncritical acceptance of online rumors got him into trouble.",
+            "sentence_zh": "他对网络谣言不加批判的全盘接受让自己惹上麻烦。"
+          },
+          {
+            "sentence": "The audience gave uncritical applause to the celebrity's mediocre speech.",
+            "sentence_zh": "观众对名人平庸的演讲报以不加辨别的掌声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无批判力的",
+        "examples": [
+          {
+            "sentence": "Young children are naturally uncritical of their parents' words.",
+            "sentence_zh": "幼儿天生对父母的话语缺乏批判能力。"
+          },
+          {
+            "sentence": "The cult members showed uncritical devotion to their leader.",
+            "sentence_zh": "邪教成员对他们的首领表现出无条件的服从。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncritical就像海绵宝宝🧽无脑吸水！历史上'批评家(critic)'原本是品酒师👃，而uncritical就像把茅台兑雪碧一口闷🤪。搭配：uncritical praise（无脑吹），uncritical mindset（二极管思维）。地道说法叫'drink the Kool-Aid'（盲目追随）。记住：critical thinking才是防PUA的金钟罩！💡🧠🛡️",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺可踢球吗'→足球迷无脑护主队",
+        "易混词：uncritical≠unjust（不公正的）",
+        "记忆tip：un+critical=考试时'不判断'直接选C"
+      ]
+    }
   }
 ]

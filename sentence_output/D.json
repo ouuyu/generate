@@ -15337,5 +15337,337 @@
         "记忆法：deci（十）+ mal（谐音'馍'）→十个馍的分配需要小数计算"
       ]
     }
+  },
+  {
+    "word": "decimate",
+    "etymology": {
+      "breakdown": [
+        "deci",
+        "mate"
+      ],
+      "meaning_connection": "词根deci=十（如decimal十进制），mate=杀→原指古罗马军队对叛乱部队每十人抽杀一人的酷刑"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "每十人杀一人（历史用法）",
+        "examples": [
+          {
+            "sentence": "Roman generals would decimate cowardly legions to maintain discipline.",
+            "sentence_zh": "罗马将军会处决十分之一怯战士兵以维持军纪。"
+          },
+          {
+            "sentence": "The word originally meant executing exactly 10% of a group.",
+            "sentence_zh": "这个词最初特指对群体精准处决十分之一。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "大批杀害（现代引申义）",
+        "examples": [
+          {
+            "sentence": "The zombie outbreak decimated Tokyo's population in the movie.",
+            "sentence_zh": "电影中僵尸爆发使东京人口锐减。"
+          },
+          {
+            "sentence": "Pandemic restrictions decimated small restaurants' business.",
+            "sentence_zh": "疫情防控措施重创了小餐馆的生意。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "decimate the population",
+        "meaning": "使人口锐减",
+        "examples": [
+          {
+            "sentence": "The Black Death decimated Europe's population in the 14th century.",
+            "sentence_zh": "黑死病使14世纪欧洲人口锐减。"
+          }
+        ]
+      }
+    ],
+    "teach": "decimate是数学家的暴力美学🧮→罗马人用十进制(deci)杀人⚔️。现代用法像吃鸡游戏里毒圈缩小时'大逃杀'🍗，说'公司裁员'可以用decimate the workforce。记住：原义是'精准十抽一'，现义是'无差别团灭'💥。下次吃火锅少点10%菜，你就是餐桌上的罗马将军！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得西妹疼'→得到西边妹妹疼(因为东边的都被杀了)",
+        "易混词对比：annihilate(彻底消灭) vs decimate(部分消灭)",
+        "记忆tip：联想'decimal点杀'→小数点后杀一人"
+      ]
+    }
+  },
+  {
+    "word": "decimated",
+    "etymology": {
+      "breakdown": [
+        "deci",
+        "mate",
+        "ed"
+      ],
+      "meaning_connection": "词根deci=十（来自拉丁语decimus），mate=使遭受，-ed表过去式→原指古罗马军队处决十分之一士兵的残酷刑罚"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "大量毁灭",
+        "examples": [
+          {
+            "sentence": "The Black Death decimated Europe's population in the 14th century.",
+            "sentence_zh": "黑死病在14世纪使欧洲人口锐减。"
+          },
+          {
+            "sentence": "The hurricane decimated the coastal village like a giant vacuum cleaner.",
+            "sentence_zh": "飓风像巨型吸尘器般摧毁了沿海村庄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "大幅削减",
+        "examples": [
+          {
+            "sentence": "The new policy decimated our department's budget by 70%.",
+            "sentence_zh": "新政策使我们部门预算骤减70%。"
+          },
+          {
+            "sentence": "Streaming services have decimated DVD sales worldwide.",
+            "sentence_zh": "流媒体服务已使全球DVD销量断崖式下跌。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be decimated by",
+        "meaning": "被...重创",
+        "examples": [
+          {
+            "sentence": "The ant colony was decimated by the kid with a magnifying glass.",
+            "sentence_zh": "蚂蚁群落被拿放大镜的小孩重创。"
+          }
+        ]
+      }
+    ],
+    "teach": "decimate其实是'十抽一杀'的古代KPI📜：罗马军官用deci(十)抽签处决逃兵⚔️。现代用法像吃鸡游戏里毒圈缩小时☠️（be decimated by the blue zone）。说'业绩暴跌'可以用Our sales got decimated like dinosaurs🦖，'团灭'叫totally decimated就像麻将一炮三响🎴。记住：这词自带末日感！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得西没的'→得到西方（得西）就没了（没的）",
+        "易混词对比：devastate(彻底毁灭) vs decimate(毁灭大部分)",
+        "记忆tip：把deci联想成decimal(十进制)"
+      ]
+    }
+  },
+  {
+    "word": "decimation",
+    "etymology": {
+      "breakdown": [
+        "decem",
+        "ate",
+        "ion"
+      ],
+      "meaning_connection": "词根decem=十，-ate表动词后缀，-ion表名词→原指古罗马军队对叛乱者'十抽一'的处决方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "每十人杀一人",
+        "examples": [
+          {
+            "sentence": "The cruel decimation practice made soldiers draw lots in terror.",
+            "sentence_zh": "残酷的十一抽杀律让士兵们瑟瑟发抖地抽签。"
+          },
+          {
+            "sentence": "Roman historians recorded decimation as a psychological warfare tactic.",
+            "sentence_zh": "罗马史学家将十一抽杀记录为心理战术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大批杀害",
+        "examples": [
+          {
+            "sentence": "The dinosaur fossils showed evidence of sudden decimation by meteorites.",
+            "sentence_zh": "恐龙化石显示出陨石造成的大规模灭绝证据。"
+          },
+          {
+            "sentence": "Online games often feature zombie decimation scenes.",
+            "sentence_zh": "网络游戏常有丧尸大批被屠杀的场景。"
+          }
+        ]
+      }
+    ],
+    "teach": "decimation其实是'数学系暴政'➗：古罗马用这招惩罚逃兵时，会让幸存者亲手处决十分之一队友⚔️。现代用法就像你手机内存被吃掉90%（storage decimation），说'损失惨重'可以吐槽'massacre级翻车'💥。记住：当你消灭十只蟑螂🪳，其实完成了迷你decimation！",
+    "recite": {
+      "tips": [
+        "谐音梗：'跌西没戏'→西征军团跌入团灭危机",
+        "易混词对比：annihilation（彻底毁灭） vs decimation（选择性消灭）",
+        "记忆tip：deci-表示'十分之一'，和decimal（十进制）同源"
+      ]
+    }
+  },
+  {
+    "word": "decipher",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "cipher"
+      ],
+      "meaning_connection": "前缀de-表示'去除'，cipher来自阿拉伯语sifr（零/密码）→ 原指'解除密码'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "译解",
+        "examples": [
+          {
+            "sentence": "Archaeologists deciphered oracle bone scripts using AI algorithms.",
+            "sentence_zh": "考古学家用AI算法译解甲骨文。"
+          },
+          {
+            "sentence": "The kid proudly deciphered his dad's grocery list written in emojis.",
+            "sentence_zh": "孩子骄傲地译解了爸爸用表情符号写的购物清单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "解释",
+        "examples": [
+          {
+            "sentence": "Could you help decipher my blind date's WeChat moments?",
+            "sentence_zh": "能帮我解释下相亲对象的朋友圈吗？"
+          },
+          {
+            "sentence": "The professor deciphered the quantum theory with mahjong analogies.",
+            "sentence_zh": "教授用麻将比喻解释量子理论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "密电译文",
+        "examples": [
+          {
+            "sentence": "The museum displayed WWII deciphers with tea stain marks.",
+            "sentence_zh": "博物馆展出的二战密电译文还留有茶渍痕迹。"
+          },
+          {
+            "sentence": "His notebook was full of deciphers looking like takeout orders.",
+            "sentence_zh": "他的笔记本里满是像外卖订单的密电译文。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deciphering skills",
+        "meaning": "解码能力",
+        "examples": [
+          {
+            "sentence": "Her deciphering skills saved the team from reading the boss's terrible handwriting.",
+            "sentence_zh": "她的解码能力让团队不用解读老板的糟糕字迹。"
+          }
+        ]
+      }
+    ],
+    "teach": "decipher是学术界的福尔摩斯🕵️♂️！最早指破解埃及象形文字（像猜前任的微博暗号📜），现在连老妈的表情包都能decipher。'看不懂'说It's all Greek to me（像看天书），'破解密码'叫crack the code就像拆盲盒🎁。记住：decipher时记得带放大镜和咖啡☕！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟塞佛'→弟弟把密码塞给佛祖破译",
+        "易混对比：decode侧重技术解密，decipher强调智力解读"
+      ]
+    }
+  },
+  {
+    "word": "decision",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "cis",
+        "ion"
+      ],
+      "meaning_connection": "前缀de-表'完全'，词根cis=切割，-ion表名词→彻底切断犹豫的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "决定",
+        "examples": [
+          {
+            "sentence": "Her decision to quit the stable job shocked her parents.",
+            "sentence_zh": "她辞去稳定工作的决定震惊了父母。"
+          },
+          {
+            "sentence": "The court's decision will affect millions of delivery riders.",
+            "sentence_zh": "法院的这一决定将影响数百万外卖骑手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "决心",
+        "examples": [
+          {
+            "sentence": "With the decision of losing weight, he threw away all his snacks.",
+            "sentence_zh": "带着减肥的决心，他扔掉了所有零食。"
+          },
+          {
+            "sentence": "Her eyes showed the decision of a warrior before the battle.",
+            "sentence_zh": "她的眼神透露出战士上战场前的决心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "决断",
+        "examples": [
+          {
+            "sentence": "CEOs need to make decisions with lightning speed during crises.",
+            "sentence_zh": "危机中CEO需要闪电般做出决断。"
+          },
+          {
+            "sentence": "His lack of decision made him miss the last train home.",
+            "sentence_zh": "优柔寡断让他错过了回家的末班车。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make a decision",
+        "meaning": "做决定",
+        "examples": [
+          {
+            "sentence": "It took me 30 minutes to make a decision between milk tea and fruit tea.",
+            "sentence_zh": "我花了30分钟决定喝奶茶还是果茶。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "final decision",
+        "meaning": "最终决定",
+        "examples": [
+          {
+            "sentence": "The final decision rests with the mysterious HR manager.",
+            "sentence_zh": "最终决定权在那个神秘的HR经理手里。"
+          }
+        ]
+      }
+    ],
+    "teach": "decision是人生岔路口的剪刀✂️！词根cis=切割（像scissors剪刀），重大决定就像剪断脐带般彻底🔪。'犹豫不决'叫be in two minds像左右手互搏🤜🤛，'果断'说decisive像李佳琦的'买它！'🎤。记住：每个decision都是命运的剪刀石头布游戏！",
+    "recite": {
+      "tips": [
+        "谐音梗：'敌袭人'→面对敌袭必须快速decision",
+        "易混词：precision（精确）也需要'切'的动作"
+      ]
+    }
   }
 ]

@@ -15840,5 +15840,299 @@
         "易混词：jurisdiction（司法权） vs. jury（陪审团）→前者管地盘，后者管判决"
       ]
     }
+  },
+  {
+    "word": "jurisdictional",
+    "etymology": {
+      "breakdown": [
+        "juris",
+        "dict",
+        "ion",
+        "al"
+      ],
+      "meaning_connection": "词根juris=法律（如jury陪审团），dict=说（如diction措辞），-ion名词后缀，-al形容词后缀→'法律上说的'引申为司法权相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "司法权的",
+        "examples": [
+          {
+            "sentence": "The judge wore a jurisdictional robe embroidered with unicorns.",
+            "sentence_zh": "法官穿着绣有独角兽的司法权长袍。"
+          },
+          {
+            "sentence": "Hong Kong's jurisdictional independence is protected by law.",
+            "sentence_zh": "香港的司法权独立性受法律保护。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "裁决权的",
+        "examples": [
+          {
+            "sentence": "The arbitration committee has jurisdictional power over this dispute.",
+            "sentence_zh": "仲裁委员会对此争议拥有裁决权。"
+          },
+          {
+            "sentence": "AI-generated art challenges traditional jurisdictional boundaries.",
+            "sentence_zh": "AI生成艺术挑战传统裁决权边界。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "管辖权的",
+        "examples": [
+          {
+            "sentence": "This cross-border e-commerce case involves complex jurisdictional issues.",
+            "sentence_zh": "这起跨境电商案件涉及复杂的管辖权问题。"
+          },
+          {
+            "sentence": "Jurisdictional disputes between provinces are resolved by the Supreme Court.",
+            "sentence_zh": "省际管辖权争端由最高人民法院解决。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jurisdictional authority",
+        "meaning": "管辖权限",
+        "examples": [
+          {
+            "sentence": "Cyberspace administrators exercise jurisdictional authority over online content.",
+            "sentence_zh": "网信部门对网络内容行使管辖权限。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jurisdictional conflict",
+        "meaning": "管辖权冲突",
+        "examples": [
+          {
+            "sentence": "The shared bicycle lawsuit caused jurisdictional conflict between two cities.",
+            "sentence_zh": "这起共享单车诉讼引发两座城市间的管辖权冲突。"
+          }
+        ]
+      }
+    ],
+    "teach": "jurisdictional像是法律界的孙悟空🦸‍♂️！词根juris来自罗马正义女神Justitia⚖️，dict是'说'（像法官的法槌声📣）。当美团和饿了么打架时，就需要jurisdictional划分战场🗺️。搭配'超管权限'叫extraterritorial jurisdiction（像灭霸的无限手套💍），'踢皮球'说jurisdictional ping-pong🏓。记住：你的学校也对你手机有jurisdictional power哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'律师定可收'→律师确定了就能收(jurisdictional)案子",
+        "对比记忆：judicial（司法的） vs jurisdictional（管辖权的）",
+        "场景联想：想象法院印章🕹️盖在不同区域地图上"
+      ]
+    }
+  },
+  {
+    "word": "jurisprudence",
+    "etymology": {
+      "breakdown": [
+        "juris",
+        "prudence"
+      ],
+      "meaning_connection": "juris=法律（如jury陪审团），prudence=智慧/实践（如prudent谨慎的）→法律的智慧实践"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "法律学",
+        "examples": [
+          {
+            "sentence": "His WeChat blog on jurisprudence gets 100K views per post.",
+            "sentence_zh": "他的法律学微信公众号每篇都有10万+阅读。"
+          },
+          {
+            "sentence": "Studying jurisprudence is like decoding the DNA of society.",
+            "sentence_zh": "研习法律学如同破译社会的DNA。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "法律体系",
+        "examples": [
+          {
+            "sentence": "China's jurisprudence combines socialist concepts with traditional values.",
+            "sentence_zh": "中国的法律体系融合了社会主义理念与传统价值观。"
+          },
+          {
+            "sentence": "The jurisprudence of ancient Rome still influences modern courts.",
+            "sentence_zh": "古罗马的法律体系至今仍影响现代法庭。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "comparative jurisprudence",
+        "meaning": "比较法学",
+        "examples": [
+          {
+            "sentence": "Her thesis on comparative jurisprudence analyzes TikTok's content moderation policies.",
+            "sentence_zh": "她的比较法学论文分析了TikTok的内容审核政策。"
+          }
+        ]
+      }
+    ],
+    "teach": "jurisprudence是法律界的《孙子兵法》📜：词根juris藏在jury（陪审团）里，prudence是'普鲁登斯女神'的智慧💡。搭配'legal jurisprudence'像火锅底料🍲（法律体系根基），'digital jurisprudence'则是新开发的麻辣口味🌶️。吐槽'法律太难'可以说：This is not jurisprudence, it's hieroglyphics！（这不是法律，是象形文字！）",
+    "recite": {
+      "tips": [
+        "谐音梗：'律师扑腾死'→律师在法海里扑腾",
+        "易混词对比：jurisdiction（司法管辖区）是地盘，jurisprudence是学问"
+      ]
+    }
+  },
+  {
+    "word": "jurist",
+    "etymology": {
+      "breakdown": [
+        "jur",
+        "ist"
+      ],
+      "meaning_connection": "词根jur=法律（如jury陪审团），后缀-ist表示专业人士→精通法律的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "法学家",
+        "examples": [
+          {
+            "sentence": "The jurist's commentary on the new divorce law went viral on Douyin.",
+            "sentence_zh": "这位法学家对新离婚法的解读在抖音上疯传。"
+          },
+          {
+            "sentence": "Ancient Chinese jurists developed the concept of 'fa' (法) and 'li' (礼).",
+            "sentence_zh": "中国古代法学家发展出'法'与'礼'的概念体系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "法律学者",
+        "examples": [
+          {
+            "sentence": "The Oxford jurist published a paper analyzing emoji as digital evidence.",
+            "sentence_zh": "这位牛津法律学者发表了分析表情符号作为电子证据的论文。"
+          },
+          {
+            "sentence": "Jurists are debating whether AI can be granted copyright.",
+            "sentence_zh": "法律学者们正在辩论AI是否能被授予著作权。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "法律著作家",
+        "examples": [
+          {
+            "sentence": "The jurist's handbook on cyber law sells like hotcakes at law schools.",
+            "sentence_zh": "这位法律著作家的网络法手册在法学院热销。"
+          },
+          {
+            "sentence": "Modern jurists often livestream their legal commentaries on Bilibili.",
+            "sentence_zh": "现代法律著作家常在B站直播法律解说。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "renowned jurist",
+        "meaning": "著名法学家",
+        "examples": [
+          {
+            "sentence": "The renowned jurist was invited to interpret the property law via WeChat mini-program.",
+            "sentence_zh": "这位著名法学家受邀通过微信小程序解读物权法。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jurist's opinion",
+        "meaning": "法律专家意见",
+        "examples": [
+          {
+            "sentence": "The court considered the jurist's opinion on livestreaming contracts carefully.",
+            "sentence_zh": "法庭仔细考量了法律专家对直播合约的意见。"
+          }
+        ]
+      }
+    ],
+    "teach": "jurist是法律界的'行走的法典'📜！词根jur来自罗马女神Justicia（正义女神⚖️），后缀-ist让你想到artist艺术家？没错！法学家就是用法律'搞艺术'的人🎨。说'法律专家'用legal eagle更俏皮（直译'法律老鹰'🦅），'钻法律空子'叫find loopholes就像发现芝士漏洞🧀️。记住：遇到jurist要尊称'法师'，毕竟人家掌握着'法律魔法'✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'就睿智'→法学家就(ju)是睿智(rist)的代表",
+        "易混词：journalist（记者）vs jurist（法学家）→记者记录(journal)事件，法学家判断(jur)法律",
+        "记忆法：jur（法律）+ ist（人）= 整天'就是法就是法'念叨的人"
+      ]
+    }
+  },
+  {
+    "word": "juror",
+    "etymology": {
+      "breakdown": [
+        "jur",
+        "or"
+      ],
+      "meaning_connection": "词根jur=法律/发誓（同jury），后缀-or表'执行者'→'法律事务的执行者'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "陪审员",
+        "examples": [
+          {
+            "sentence": "The juror fell asleep during the 8-hour financial fraud trial.",
+            "sentence_zh": "这位陪审员在长达8小时的金融诈骗案审理中睡着了。"
+          },
+          {
+            "sentence": "Being a juror is like binge-watching a courtroom drama live.",
+            "sentence_zh": "当陪审员就像在实时追剧一部法庭剧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "审查委员",
+        "examples": [
+          {
+            "sentence": "Film festival jurors secretly prefer popcorn over art films.",
+            "sentence_zh": "电影节评审委员私下更爱爆米花而非艺术片。"
+          },
+          {
+            "sentence": "As a juror for the culinary contest, he gained 5kg in a week.",
+            "sentence_zh": "作为美食比赛的评审委员，他一周胖了五公斤。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sit as a juror",
+        "meaning": "担任陪审员",
+        "examples": [
+          {
+            "sentence": "My neighbor had to sit as a juror for a case involving stolen durians.",
+            "sentence_zh": "我邻居不得不为一桩涉及被偷榴莲的案件担任陪审员。"
+          }
+        ]
+      }
+    ],
+    "teach": "juror其实是'法（jur）人（or）'⚖️：想象古罗马法庭里举着陶片投票的公民🗳️。说'被选为陪审员'地道表达是get jury duty（像中彩票），'陪审团裁决'叫reach a verdict就像小组作业达成共识🤝。记住：当juror比追剧还刺激——就是不能快进⏩！",
+    "recite": {
+      "tips": [
+        "谐音梗：'揪扰'→陪审员老被案情揪心困扰",
+        "易混词对比：jury（陪审团） vs juror（单个陪审员）"
+      ]
+    }
   }
 ]

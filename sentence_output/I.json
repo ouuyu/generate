@@ -15799,5 +15799,361 @@
         "场景联想：特朗普弹劾案≈朝堂上的'斩首行动'"
       ]
     }
+  },
+  {
+    "word": "impeachment",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "peach",
+        "ment"
+      ],
+      "meaning_connection": "前缀im-=进入/否定，词根peach=指控（源自古法语'empecher'），后缀-ment=行为结果→正式指控的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "弹劾（针对政府官员）",
+        "examples": [
+          {
+            "sentence": "The president's impeachment trial became trending topic on Weibo.",
+            "sentence_zh": "总统的弹劾审判登上微博热搜榜。"
+          },
+          {
+            "sentence": "Ancient Chinese censors had the power of impeachment against corrupt officials.",
+            "sentence_zh": "古代御史拥有弹劾贪官污吏的权力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "控告（法律程序）",
+        "examples": [
+          {
+            "sentence": "The impeachment process requires overwhelming evidence like 4K surveillance footage.",
+            "sentence_zh": "控告程序需要像4K监控录像般确凿的证据。"
+          },
+          {
+            "sentence": "Lawyers prepared articles of impeachment as carefully as drafting a prenuptial agreement.",
+            "sentence_zh": "律师准备控告文书像拟婚前协议般谨慎。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "face impeachment",
+        "meaning": "面临弹劾",
+        "examples": [
+          {
+            "sentence": "The mayor faces impeachment for accepting bribes in hotpot restaurants.",
+            "sentence_zh": "市长因在火锅店收受贿赂面临弹劾。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "impeachment proceedings",
+        "meaning": "弹劾程序",
+        "examples": [
+          {
+            "sentence": "The impeachment proceedings were livestreamed like a courtroom drama series.",
+            "sentence_zh": "弹劾程序像律政剧般被全程直播。"
+          }
+        ]
+      }
+    ],
+    "teach": "impeachment其实是'政治版差评'📜！起源于14世纪英国议会用这个流程对付国王，就像淘宝买家秀实名举报无良商家👑→💼。搭配'impeachment inquiry'（弹劾调查）像侦探查案🔍，'vote on impeachment'（弹劾表决）像评委亮灯🎯。说'政治生涯终结'可以调侃'got impeached faster than a TikTok trend'（比抖音热门过气还快）⚖️💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬批馒头'→硬核批斗(impeach)发霉的(ment)官员",
+        "易混词：accusation（普通指控）vs impeachment（正式弹劾）",
+        "记忆锚点：想象议会大厦形状像巨型差评按钮"
+      ]
+    }
+  },
+  {
+    "word": "impeccable",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pecc",
+        "able"
+      ],
+      "meaning_connection": "前缀im-表否定，词根pecc表示'犯错/罪过'，-able表能力→字面意思是'不会犯错的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无懈可击的",
+        "examples": [
+          {
+            "sentence": "The lawyer's defense was impeccable, leaving no room for counterarguments.",
+            "sentence_zh": "律师的辩护无懈可击，没有留下任何反驳余地。"
+          },
+          {
+            "sentence": "Her Mandarin pronunciation is impeccable, like a CCTV news anchor.",
+            "sentence_zh": "她的普通话发音无懈可击，宛如央视新闻主播。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不容置疑的",
+        "examples": [
+          {
+            "sentence": "The scientist has impeccable credentials with three Nobel nominations.",
+            "sentence_zh": "这位科学家拥有三次诺贝尔提名的毋庸置疑的资历。"
+          },
+          {
+            "sentence": "The authenticity of this Tang Dynasty vase is impeccable.",
+            "sentence_zh": "这个唐代花瓶的真伪不容置疑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无瑕疵的",
+        "examples": [
+          {
+            "sentence": "The jade carving has impeccable craftsmanship without a single flaw.",
+            "sentence_zh": "这件玉雕工艺无瑕疵，找不到一丝缺陷。"
+          },
+          {
+            "sentence": "Her skin is impeccable even under 8K camera scrutiny.",
+            "sentence_zh": "即使在8K镜头下，她的皮肤也毫无瑕疵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不会做坏事的",
+        "examples": [
+          {
+            "sentence": "The monk is known for his impeccable conduct over decades.",
+            "sentence_zh": "这位僧人因数十年来从无劣迹而闻名。"
+          },
+          {
+            "sentence": "As a child, he had an impeccable record of never cheating on exams.",
+            "sentence_zh": "他小时候有着绝不考试作弊的完美记录。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impeccable taste",
+        "meaning": "无可挑剔的品味",
+        "examples": [
+          {
+            "sentence": "Her collection of vintage qipaos shows impeccable taste.",
+            "sentence_zh": "她的复古旗袍收藏展现出无可挑剔的品味。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "impeccable timing",
+        "meaning": "完美时机",
+        "examples": [
+          {
+            "sentence": "The comedian's punchline came with impeccable timing.",
+            "sentence_zh": "喜剧演员的包袱抖在了完美时机。"
+          }
+        ]
+      }
+    ],
+    "teach": "impeccable就像修仙小说里的'无垢之体'🧘♂️！词根pecc来自拉丁语'peccatum'(原罪)，西方修道院用这个词形容圣人👼。说'完美表现'可以用impeccable performance（就像奥运冠军的零失误动作🤸），吐槽'装完美'可以说holier-than-thou（装圣洁）。记住：当你说某人impeccable时，相当于在发道德金奖牌🏅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派可不'→硬派作风可不(impeccable)就是零瑕疵",
+        "易混词：perfect强调完美结果，impeccable强调无过错过程"
+      ]
+    }
+  },
+  {
+    "word": "impeccably",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pecc",
+        "ably"
+      ],
+      "meaning_connection": "前缀im-表否定+拉丁词根pecc(过失)+副词后缀-ably→字面意思'不会犯错地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "完美地",
+        "examples": [
+          {
+            "sentence": "The Peking duck was impeccably carved at our table.",
+            "sentence_zh": "北京烤鸭在桌边被完美片制。"
+          },
+          {
+            "sentence": "Her Mandarin pronunciation is impeccably accurate.",
+            "sentence_zh": "她的普通话发音完美精准。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "毋庸置疑地",
+        "examples": [
+          {
+            "sentence": "The algorithm performs impeccably under extreme conditions.",
+            "sentence_zh": "该算法在极端条件下表现毋庸置疑。"
+          },
+          {
+            "sentence": "As a proofreader, he's impeccably reliable.",
+            "sentence_zh": "作为校对员，他的可靠性毋庸置疑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "无瑕疵地",
+        "examples": [
+          {
+            "sentence": "The jade was impeccably polished to mirror finish.",
+            "sentence_zh": "这块玉被无瑕疵地抛光至镜面效果。"
+          },
+          {
+            "sentence": "She maintains an impeccably clean kitchen.",
+            "sentence_zh": "她的厨房保持得无瑕洁净。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impeccably dressed",
+        "meaning": "衣着完美",
+        "examples": [
+          {
+            "sentence": "The diplomat was always impeccably dressed in Tang suits.",
+            "sentence_zh": "这位外交官总是身着完美唐装。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "impeccably timed",
+        "meaning": "时机精准",
+        "examples": [
+          {
+            "sentence": "The comedian's punchline was impeccably timed.",
+            "sentence_zh": "喜剧演员的抖包袱时机精准无比。"
+          }
+        ]
+      }
+    ],
+    "teach": "impeccably其实是'无屁可挑'💨的贵族版！古罗马人用peccare(犯错)形容放屁失礼，impeccably就是'连屁都不敢放'的完美状态👑。夸人可以说'You're impeccably organized'(整理得像故宫文物档案📜)，吐槽完美主义则说'This is impeccably unnecessary'(卷得毫无必要🤦‍♂️)。记住：强迫症患者最爱这个词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派可不理'→硬派作风完美得不理瑕疵",
+        "易混词对比：perfectly(主观完美) vs impeccably(客观无瑕)",
+        "记忆tip：想象米其林三星主厨👨‍🍳做开水白菜的impeccably手法"
+      ]
+    }
+  },
+  {
+    "word": "impecunious",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pecuni",
+        "ous"
+      ],
+      "meaning_connection": "前缀im-表否定，词根pecuni=钱（源自拉丁语pecunia），-ous为形容词后缀→形容钱包比脸还干净的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "贫穷的",
+        "examples": [
+          {
+            "sentence": "The impecunious poet traded his verses for steamed buns.",
+            "sentence_zh": "那位穷困潦倒的诗人用诗换馒头。"
+          },
+          {
+            "sentence": "After buying limited-edition sneakers, he became temporarily impecunious.",
+            "sentence_zh": "买了限量版球鞋后，他暂时沦为月光族。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "身无分文的",
+        "examples": [
+          {
+            "sentence": "The tourist got impecunious after losing his Alipay phone in Tibet.",
+            "sentence_zh": "那位游客在西藏丢了支付宝手机后身无分文。"
+          },
+          {
+            "sentence": "She's too proud to admit being impecunious during her startup days.",
+            "sentence_zh": "她不愿承认创业初期曾穷到吃土。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chronically impecunious",
+        "meaning": "长期贫困",
+        "examples": [
+          {
+            "sentence": "The chronically impecunious artist finally sold a painting for 50 milk teas.",
+            "sentence_zh": "那位长期贫困的艺术家终于用画作换了50杯奶茶。"
+          }
+        ]
+      }
+    ],
+    "teach": "impecunious是'钱包比脸干净'的优雅说法💸！词根pecuni暗藏玄机——古罗马用牲畜(pecu)当货币🐄，所以没钱=im+pecuni+ous。要吐槽'穷得叮当响'可以说as poor as a church mouse（教堂老鼠），'吃土'叫live on instant noodles🍜。记住：这个词特别适合在哭穷时装文化人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬币Q你死'→钱包里连硬币都没有",
+        "易混词对比：penurious（吝啬的）vs impecunious（真穷的）",
+        "记忆tip：想象把im-pe-cun-ious拆成'I'm屁钱都没有'"
+      ]
+    }
+  },
+  {
+    "word": "impedance",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "ped",
+        "ance"
+      ],
+      "meaning_connection": "前缀im-表示'进入'，词根ped表示'脚'（如pedal踏板），-ance为名词后缀→原指'阻碍脚步'，后演变为电学术语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "阻抗",
+        "examples": [
+          {
+            "sentence": "The impedance of AirPods affects sound quality more than you'd think.",
+            "sentence_zh": "AirPods的阻抗对音质的影响超乎想象。"
+          },
+          {
+            "sentence": "Engineers measure impedance like doctors check blood pressure.",
+            "sentence_zh": "工程师测量阻抗就像医生量血压。"
+          }
+        ]
+      }
+    ],
+    "teach": "impedance是电子世界的交通警察🚦！它像早高峰的地铁限流（impede+ance）🚇，阻止电流像阻止疯狂涌入的乘客。搭配说'high impedance'像吐槽网速慢🐢，'impedance matching'就像给不同尺寸的吸管配奶茶杯🧋。记住：阻抗就是电子的'挤地铁难度系数'！⚡",
+    "recite": {
+      "tips": [
+        "视觉联想：把imp看成'小恶魔'😈，pedance读成'拍凳子'→恶魔拍凳子阻碍电流",
+        "易混词：resistance是纯电阻，impedance是总阻力（含电抗）"
+      ]
+    }
   }
 ]
