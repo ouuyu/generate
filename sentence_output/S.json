@@ -542,5 +542,270 @@
         "易混词：sack（麻袋）vs sac（生物囊）"
       ]
     }
+  },
+  {
+    "word": "SAC",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "作为缩写时源自Strategic Air Command（战略空军司令部），作为普通名词时源自拉丁语saccus（袋子）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "囊",
+        "examples": [
+          {
+            "sentence": "The synovial sac in your knee acts like a biological shock absorber.",
+            "sentence_zh": "膝关节滑液囊如同生物减震器。"
+          },
+          {
+            "sentence": "Pandas have a special thumb sac to hold bamboo while eating.",
+            "sentence_zh": "大熊猫有个特殊的拇指囊用来握竹子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "液囊",
+        "examples": [
+          {
+            "sentence": "The cactus stores water in its expandable sac during drought.",
+            "sentence_zh": "仙人掌在干旱时将水分储存在可膨胀的液囊中。"
+          },
+          {
+            "sentence": "Octopuses use ink sacs as their emergency escape tools.",
+            "sentence_zh": "章鱼把墨囊当作紧急逃生工具。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "战略空军司令部（美国）",
+        "examples": [
+          {
+            "sentence": "During Cold War, SAC bombers were on 24/7 alert with nuclear payloads.",
+            "sentence_zh": "冷战时期战略空军司令部的轰炸机全天候携带核弹待命。"
+          },
+          {
+            "sentence": "The SAC museum in Nebraska displays historic B-52 Stratofortresses.",
+            "sentence_zh": "内布拉斯加州的战略空军司令部博物馆陈列着历史性B-52同温层堡垒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tear sac",
+        "meaning": "泪囊",
+        "examples": [
+          {
+            "sentence": "The clogged tear sac made her eyes water constantly.",
+            "sentence_zh": "堵塞的泪囊让她不停流泪。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "SAC base",
+        "meaning": "战略空军基地",
+        "examples": [
+          {
+            "sentence": "Top-secret SAC bases were disguised as ordinary farms during wartime.",
+            "sentence_zh": "最高机密的战略空军基地在战时伪装成普通农场。"
+          }
+        ]
+      }
+    ],
+    "teach": "SAC是单词界的变形金刚🤖！作为'囊'时像奶茶里的珍珠🧋（boba sac），作为军事术语时秒变核按钮💣（SAC command）。记住：小到细胞里的高尔基体囊泡，大到能毁灭地球的轰炸机，都叫sac！说'囊中羞涩'可以调侃成my wallet sac is empty💰",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛可'→比赛可(SAc)装东西的容量",
+        "易混词：sack（麻袋）/ sac（生物或军事专用术语）",
+        "记忆tip：把战略空军司令部的核弹想象成装在巨型金属囊里"
+      ]
+    }
+  },
+  {
+    "word": "saccharin",
+    "etymology": {
+      "breakdown": [
+        "sacchar",
+        "in"
+      ],
+      "meaning_connection": "词根sacchar源自希腊语'sakcharon'（糖），后缀-in用于命名化学物质→字面意思'糖的提取物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "糖精",
+        "examples": [
+          {
+            "sentence": "This zero-calorie soda uses saccharin instead of sugar.",
+            "sentence_zh": "这款零卡路里汽水用糖精代替糖。"
+          },
+          {
+            "sentence": "Grandma's secret mooncake recipe contains a pinch of saccharin.",
+            "sentence_zh": "奶奶的秘制月饼配方含少许糖精。"
+          }
+        ]
+      }
+    ],
+    "teach": "糖精(saccharin)其实是'甜蜜的意外'🍬：1879年化学家洗手没擦干时发现了它！视觉化记忆→1克糖精=300克糖的甜度⚡️（相当于用蚂蚁🐜举起大象🐘的力量比）。说'代糖'用sugar substitute，吐槽'假甜'说'like diet coke with broken heart'🥤💔",
+    "recite": {
+      "tips": [
+        "谐音梗：'撒糖人'→撒糖精的人",
+        "易混词对比：saccharin(人造甜味剂) vs sucrose(天然蔗糖)"
+      ]
+    }
+  },
+  {
+    "word": "saccharine",
+    "etymology": {
+      "breakdown": [
+        "sacchar",
+        "ine"
+      ],
+      "meaning_connection": "词根sacchar=糖（源于希腊语），后缀-ine表'属于...的'→原指'糖的'，后引申出'甜到腻'和'刻意讨好'的负面含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "糖的",
+        "examples": [
+          {
+            "sentence": "The saccharine smell of cotton candy filled the night market.",
+            "sentence_zh": "夜市里弥漫着棉花糖的香甜气味。"
+          },
+          {
+            "sentence": "Bees can detect saccharine substances from kilometers away.",
+            "sentence_zh": "蜜蜂能检测到数公里外的含糖物质。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "极甜的",
+        "examples": [
+          {
+            "sentence": "This bubble tea is so saccharine that it makes my teeth ache.",
+            "sentence_zh": "这杯奶茶甜到让我牙疼。"
+          },
+          {
+            "sentence": "The durian mooncake has a saccharine aftertaste.",
+            "sentence_zh": "这款榴莲月饼有齁甜的余味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "奉承的",
+        "examples": [
+          {
+            "sentence": "His saccharine compliments made everyone uncomfortable.",
+            "sentence_zh": "他谄媚的恭维让所有人不适。"
+          },
+          {
+            "sentence": "The influencer's saccharine smile vanished when the camera turned off.",
+            "sentence_zh": "镜头关闭后，网红的假笑立刻消失。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "糖精",
+        "examples": [
+          {
+            "sentence": "Saccharine was discovered when a chemist forgot to wash his hands.",
+            "sentence_zh": "糖精是化学家忘记洗手时意外发现的。"
+          },
+          {
+            "sentence": "This diet coke contains saccharine instead of sugar.",
+            "sentence_zh": "这款无糖可乐用糖精替代蔗糖。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "saccharine smile",
+        "meaning": "假笑",
+        "examples": [
+          {
+            "sentence": "Her saccharine smile didn't fool anyone in the meeting.",
+            "sentence_zh": "会议中她的假笑骗不了任何人。"
+          }
+        ]
+      }
+    ],
+    "teach": "saccharine是甜到发慌的🍬！最初指真糖（如甘蔗saccharum），后来指代糖精（比糖甜300倍💥），现在形容甜到假的事物。比如用'甜到糖尿病'说It's saccharine，而'假客气'叫saccharine manner。记住：真正的甜是candy，假甜是saccharine，就像奶茶店的'全糖'选项根本是生化武器☢️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'杀克令'→糖精杀死了你的味蕾",
+        "易混词：sugar（天然糖） vs saccharine（人造甜）",
+        "联想：SACCHARINE=SAY糖精（拼音首字母）"
+      ]
+    }
+  },
+  {
+    "word": "sachet",
+    "etymology": {
+      "breakdown": [
+        "sac",
+        "et"
+      ],
+      "meaning_connection": "法语借词，sac=袋，-et表示'小'→字面意思就是'小袋子'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小袋",
+        "examples": [
+          {
+            "sentence": "The hotel provides tea sachets with panda-shaped packaging.",
+            "sentence_zh": "酒店提供熊猫造型包装的茶包。"
+          },
+          {
+            "sentence": "She keeps her earrings in hand-sewn fabric sachets.",
+            "sentence_zh": "她将耳环存放在手工缝制的布艺小袋中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "香料袋",
+        "examples": [
+          {
+            "sentence": "The lavender sachet in my drawer repels moths naturally.",
+            "sentence_zh": "抽屉里的薰衣草香囊能天然防蛀。"
+          },
+          {
+            "sentence": "Ancient nobles carried sachets filled with rare spices as status symbols.",
+            "sentence_zh": "古代贵族随身携带装有稀有香料的香囊作为身份象征。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "herb sachet",
+        "meaning": "草药香包",
+        "examples": [
+          {
+            "sentence": "During Dragon Boat Festival, children wear colorful herb sachets for good luck.",
+            "sentence_zh": "端午节时孩子们会佩戴五彩草药香包祈福。"
+          }
+        ]
+      }
+    ],
+    "teach": "sachet是法国人带来的'精致小确幸'👜！中世纪贵族把香囊别在腰间掩盖体味👑（就像现代人用香水），现在变成衣柜防虫神器🦟。说'香喷喷'可以夸'a nicely scented sachet'，而'廉价香包'叫cheap potpourri。记住：sachet发音像'撒些'——往袋子里撒些香料吧！🌸🍃",
+    "recite": {
+      "tips": [
+        "谐音梗：'撒香'→sachet就是撒香料的袋子",
+        "易混词对比：packet(普通小包) vs sachet(精致香袋)"
+      ]
+    }
   }
 ]

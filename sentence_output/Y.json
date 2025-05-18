@@ -586,5 +586,347 @@
         "对比：tug是温和拖拽，yank是暴力拉扯"
       ]
     }
+  },
+  {
+    "word": "yap",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词，模仿小狗尖厉的叫声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "狂吠",
+        "examples": [
+          {
+            "sentence": "The Pomeranian kept yapping at the delivery robot.",
+            "sentence_zh": "博美犬对着送货机器人不停狂吠。"
+          },
+          {
+            "sentence": "Neighbors complained about the yapping Chihuahuas at 3am.",
+            "sentence_zh": "邻居投诉凌晨3点吉娃娃的狂吠声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "瞎扯",
+        "examples": [
+          {
+            "sentence": "He's been yapping about UFOs for two hours straight.",
+            "sentence_zh": "他连续两小时都在瞎扯不明飞行物。"
+          },
+          {
+            "sentence": "Ignore those influencers yapping nonsense on TikTok.",
+            "sentence_zh": "别理那些在抖音上瞎扯的网红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "责骂",
+        "examples": [
+          {
+            "sentence": "My mom yapped at me for ordering takeout every day.",
+            "sentence_zh": "我妈因为我天天点外卖而责骂我。"
+          },
+          {
+            "sentence": "The coach yapped at the players during timeout.",
+            "sentence_zh": "教练在暂停时责骂球员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "狂吠声",
+        "examples": [
+          {
+            "sentence": "The sudden yap from the alley startled me.",
+            "sentence_zh": "巷子里突然的狂吠声吓我一跳。"
+          },
+          {
+            "sentence": "A series of high-pitched yaps came from the pet carrier.",
+            "sentence_zh": "宠物航空箱里传出一连串尖锐的狂吠声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "废话",
+        "examples": [
+          {
+            "sentence": "Don't listen to his political yap during hotpot time.",
+            "sentence_zh": "吃火锅时别听他的政治废话。"
+          },
+          {
+            "sentence": "Her 1000-word essay was pure yap with no substance.",
+            "sentence_zh": "她千字论文全是没营养的废话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "乖戾的人",
+        "examples": [
+          {
+            "sentence": "The old yap next door complains about everything.",
+            "sentence_zh": "隔壁那个乖戾的老头对什么都抱怨。"
+          },
+          {
+            "sentence": "Nobody likes working with that office yap.",
+            "sentence_zh": "没人喜欢和办公室那个乖戾的人共事。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yap away",
+        "meaning": "喋喋不休",
+        "examples": [
+          {
+            "sentence": "She yapped away during the entire movie.",
+            "sentence_zh": "她整场电影都在喋喋不休。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "yap at someone",
+        "meaning": "对某人嚷嚷",
+        "examples": [
+          {
+            "sentence": "The Karen yapped at the cashier for no reason.",
+            "sentence_zh": "那个刁蛮顾客无故对收银员嚷嚷。"
+          }
+        ]
+      }
+    ],
+    "teach": "yap是声音界的表情包🐶！当小狗yap时像抖音里的柴犬吵架🎤，人类yap时像大妈砍价💸。要说'闭嘴'可以甩一句'Enough with your yapping!'（别叭叭了），形容话痨可以说'yap machine'（人形叭叭机）。记住：所有烦人的声音都能用yap概括📢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呀呸'→对噪音的本能反应",
+        "易混词对比：yap（高频刺耳声） vs bark（低沉犬吠）",
+        "记忆tip：把字母Y看作狂摇的狗尾巴"
+      ]
+    }
+  },
+  {
+    "word": "yard",
+    "etymology": {
+      "breakdown": [
+        "geard"
+      ],
+      "meaning_connection": "源自古英语'geard'（围栏/圈地），与德语'Garten'同源，最初指围起来的空地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "码（长度单位）",
+        "examples": [
+          {
+            "sentence": "The Forbidden City's walls extend over 3,000 yards.",
+            "sentence_zh": "紫禁城墙绵延超过3000码。"
+          },
+          {
+            "sentence": "This silk costs 88 yuan per yard at Yiwu Market.",
+            "sentence_zh": "义乌市场这款丝绸每码88元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "庭院",
+        "examples": [
+          {
+            "sentence": "Beijing siheyuan yards often have pomegranate trees.",
+            "sentence_zh": "北京四合院的庭院里常种石榴树。"
+          },
+          {
+            "sentence": "We're hosting a hot pot party in the backyard this weekend.",
+            "sentence_zh": "本周末我们要在后院办火锅派对。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "工场",
+        "examples": [
+          {
+            "sentence": "The shipyard in Qingdao builds aircraft carriers.",
+            "sentence_zh": "青岛的造船厂建造航空母舰。"
+          },
+          {
+            "sentence": "Railway yards look like giant model train sets at night.",
+            "sentence_zh": "夜晚的铁路调车场像巨型火车模型。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "front yard",
+        "meaning": "前院",
+        "examples": [
+          {
+            "sentence": "Her front yard has a lantern display during Mid-Autumn Festival.",
+            "sentence_zh": "她家前院在中秋节会布置灯笼展。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "school yard",
+        "meaning": "校园操场",
+        "examples": [
+          {
+            "sentence": "The school yard echoes with jump rope rhymes at recess.",
+            "sentence_zh": "课间休息时校园操场回荡着跳绳歌谣。"
+          }
+        ]
+      }
+    ],
+    "teach": "yard是个空间魔术师🏗️：作为'码'时像裁缝的量布尺📏（3 feet=1 yard）；作为'庭院'时秒变老北京四合院🏮（courtyard）；当'工场'用时又成造船基地🚢（shipyard）。记住：'院子'用backyard，'工场'加前缀（如ship+yard）。地道表达：'宅家不出门'叫never leave one's yard！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呀的'→呀的(yard)院子真大",
+        "易混词对比：yard（院子） vs. garden（种植园）"
+      ]
+    }
+  },
+  {
+    "word": "yardage",
+    "etymology": {
+      "breakdown": [
+        "yard",
+        "age"
+      ],
+      "meaning_connection": "yard指围场/场地，-age表费用/状态→字面意思是'场地使用状态'，后特指铁路货运场景"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "车站旁牲畜栏的使用权",
+        "examples": [
+          {
+            "sentence": "The cowboy paid extra for 24-hour yardage at the railway station.",
+            "sentence_zh": "牛仔为获得车站牲畜栏24小时使用权支付了额外费用。"
+          },
+          {
+            "sentence": "Disputes over yardage often occurred in 19th-century cattle towns.",
+            "sentence_zh": "19世纪的牛仔小镇常发生牲畜栏使用权的纠纷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "牲畜栏使用费",
+        "examples": [
+          {
+            "sentence": "Modern yardage is calculated by the weight of livestock.",
+            "sentence_zh": "现代牲畜栏使用费根据牲畜重量计算。"
+          },
+          {
+            "sentence": "The sheep trader negotiated yardage like bargaining for mutton hotpot.",
+            "sentence_zh": "这位羊贩子谈判使用费时像在讨价还价涮羊肉。"
+          }
+        ]
+      }
+    ],
+    "teach": "yardage其实是'羊的停车费'🐑：就像新能源车充电要交停车费🔋，19世纪火车运牛羊也得交'围场费'（类比现代冷链物流的'仓储费'）。搭配说'pay yardage'像扫码付费💳，'yardage dispute'则是'抢车位'的牛仔版🤠。记住：你的牛羊占多大yardage，决定你要付多少money！",
+    "recite": {
+      "tips": [
+        "谐音梗：'压得紧'→牲畜在栏里压得紧所以要交yardage",
+        "易混词：yard（院子）和yardage（使用权费）就像停车场和停车费的关系"
+      ]
+    }
+  },
+  {
+    "word": "yardstick",
+    "etymology": {
+      "breakdown": [
+        "yard",
+        "stick"
+      ],
+      "meaning_connection": "yard（码，长度单位） + stick（棍子）→ 字面意思为'码尺'，引申为'衡量标准'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "码尺",
+        "examples": [
+          {
+            "sentence": "The tailor measured the fabric with a wooden yardstick.",
+            "sentence_zh": "裁缝用木制码尺量布料。"
+          },
+          {
+            "sentence": "She keeps her grandfather's brass yardstick as a family heirloom.",
+            "sentence_zh": "她把祖父的黄铜码尺当作传家宝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "计算标准",
+        "examples": [
+          {
+            "sentence": "GDP growth is no longer the only yardstick for national development.",
+            "sentence_zh": "GDP增长不再是国家发展的唯一计算标准。"
+          },
+          {
+            "sentence": "In tech companies, user engagement is a key yardstick.",
+            "sentence_zh": "在科技公司，用户参与度是关键计算标准。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "准绳",
+        "examples": [
+          {
+            "sentence": "Honesty should be the yardstick in all business dealings.",
+            "sentence_zh": "诚信应是所有商业往来的准绳。"
+          },
+          {
+            "sentence": "For teachers, fairness is the fundamental yardstick.",
+            "sentence_zh": "对教师而言，公平是基本准绳。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "measure by the same yardstick",
+        "meaning": "用同一标准衡量",
+        "examples": [
+          {
+            "sentence": "We shouldn't measure kindergarteners and PhD students by the same yardstick.",
+            "sentence_zh": "我们不该用同一标准衡量幼儿园小朋友和博士生。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "yardstick of success",
+        "meaning": "成功的标准",
+        "examples": [
+          {
+            "sentence": "Likes shouldn't be your yardstick of success on social media.",
+            "sentence_zh": "点赞数不该成为你在社交媒体上成功的标准。"
+          }
+        ]
+      }
+    ],
+    "teach": "yardstick是古代英国的'卷尺'📏：1英尺=12英寸，3英尺=1码(约0.9米)，所以yardstick就是三英尺长的测量棍。现代用来比喻标准，就像用'双十一销售额'衡量电商成败💰，用'升学率'评判学校🏫。说'标准过时'可以用outdated yardstick，'灵活标准'叫flexible yardstick。记住：人生不该只有单一yardstick！🌈",
+    "recite": {
+      "tips": [
+        "谐音梗：'雅致stick'→优雅的测量棒",
+        "易混词：meter（米制）/ yard（英制）",
+        "记忆法：想象用码尺量身高，但量的是你的'人生高度'"
+      ]
+    }
   }
 ]

@@ -486,5 +486,315 @@
         "易混词对比：Cartesian(笛卡尔主义的) vs Kantian"
       ]
     }
+  },
+  {
+    "word": "ka",
+    "etymology": {
+      "breakdown": [
+        "kilo",
+        "ampere"
+      ],
+      "meaning_connection": "kilo表示'千'，ampere是电流单位'安培'，组合表示'千安培'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "千安培",
+        "examples": [
+          {
+            "sentence": "The lightning strike carried a current of 30 ka.",
+            "sentence_zh": "这次雷击的电流达到30千安培。"
+          },
+          {
+            "sentence": "Industrial electrolysis often requires currents in the ka range.",
+            "sentence_zh": "工业电解通常需要千安培级别的电流。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "ka就像电力界的'霸王龙'⚡！这个单位大到能让你家所有电器同时爆炸💥（想象一下1000个1安培的小灯泡集体亮瞎眼👀）。记住：1ka=1000A，相当于同时给500部手机快充📱。电工们说'上ka了'就像厨师说'上大火'🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡啊'→电流太大会卡住机器",
+        "对比记忆：mA（毫安）是蚂蚁🐜，A（安培）是猫🐱，ka就是东北虎🐅"
+      ]
+    }
+  },
+  {
+    "word": "kaolin",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自江西景德镇'高岭村'地名，18世纪经传教士翻译为法语kaolin"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "瓷土",
+        "examples": [
+          {
+            "sentence": "The delicate teacup was made from pure kaolin imported from Jiangxi.",
+            "sentence_zh": "这个精美的茶杯用江西进口的纯瓷土制成。"
+          },
+          {
+            "sentence": "Artisans mix kaolin with water to create porcelain slurry.",
+            "sentence_zh": "匠人将瓷土与水混合制成瓷浆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "高岭土",
+        "examples": [
+          {
+            "sentence": "Kaolin deposits turn the hillsides ghostly white in Fujian province.",
+            "sentence_zh": "福建省的高岭土矿藏让山体呈现幽灵般的白色。"
+          },
+          {
+            "sentence": "The cosmetic mask contains refined kaolin for oil absorption.",
+            "sentence_zh": "这款美容面膜含有提纯高岭土用于吸油。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kaolin clay",
+        "meaning": "高岭土黏土",
+        "examples": [
+          {
+            "sentence": "Pottery beginners often start with kaolin clay for its smooth texture.",
+            "sentence_zh": "陶艺初学者常从质地细腻的高岭土黏土入手。"
+          }
+        ]
+      }
+    ],
+    "teach": "kaolin其实是景德镇的'土特产'🏺！欧洲人曾以为这是魔法粉末🔮（把瓷器叫chinaware），现代人用它做面膜就像给脸糊水泥🧖‍♀️。搭配说'kaolin mask'（高岭土面膜）、'kaolin mining'（高岭土开采），吐槽'脸干'可以说my skin drinks kaolin like a sponge（皮肤像海绵狂吸高岭土）💆‍♀️💨⚪️",
+    "recite": {
+      "tips": [
+        "谐音梗：'靠岭'→全靠高岭村的土",
+        "易混词对比：kaolin vs. cocaine（前者做瓷器，后者...你懂的）"
+      ]
+    }
+  },
+  {
+    "word": "kaput",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自德语 'kaputt'（坏的），一战时期被英军借用，后演变为形容彻底失败的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "完蛋了的",
+        "examples": [
+          {
+            "sentence": "After forgetting his girlfriend's birthday, his relationship was totally kaput.",
+            "sentence_zh": "忘记女友生日后，他的恋情彻底完蛋了。"
+          },
+          {
+            "sentence": "My diet plan went kaput when I saw the hotpot buffet.",
+            "sentence_zh": "看到火锅自助餐时，我的减肥计划彻底泡汤了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "彻底失败了的",
+        "examples": [
+          {
+            "sentence": "The startup went kaput after burning through all investments in 3 months.",
+            "sentence_zh": "这家初创公司在3个月烧光所有投资后彻底失败。"
+          },
+          {
+            "sentence": "His NBA dreams were kaput after the knee injury.",
+            "sentence_zh": "膝盖受伤后，他的NBA梦想彻底破灭了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "坏了的",
+        "examples": [
+          {
+            "sentence": "My phone is kaput after falling into the spicy soup.",
+            "sentence_zh": "手机掉进麻辣烫后彻底坏了。"
+          },
+          {
+            "sentence": "The elevator went kaput during rush hour - classic!",
+            "sentence_zh": "电梯在早高峰时坏了——太经典了！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "过时了的",
+        "examples": [
+          {
+            "sentence": "Flip phones are completely kaput in the smartphone era.",
+            "sentence_zh": "翻盖手机在智能机时代完全过时了。"
+          },
+          {
+            "sentence": "That meme template is so kaput even boomers won't use it.",
+            "sentence_zh": "那个表情包模板过时到连长辈都不用了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go kaput",
+        "meaning": "突然坏掉/失败",
+        "examples": [
+          {
+            "sentence": "The air conditioner always goes kaput on the hottest day.",
+            "sentence_zh": "空调总是在最热的那天罢工。"
+          },
+          {
+            "sentence": "Our WiFi went kaput right before the online exam.",
+            "sentence_zh": "网络在在线考试前突然瘫痪了。"
+          }
+        ]
+      }
+    ],
+    "teach": "kaput是英语里的'芭比Q了'🍖！二战时盟军从德国战俘那里学来这个词（原指'死掉的'），现在用来形容手机变砖📱、计划泡汤💔、或过气网红👴。搭配'go kaput'就像灯泡💡突然熄灭，说'彻底没钱'可以戏称financial kaput。记住：当你说kaput时要配上德国口音才地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡扑街'→卡住后扑街(kaput)",
+        "易混词：bankrupt（破产） vs kaput（彻底完蛋）",
+        "记忆法：联想德国坦克被击毁时喊'Kaputt!'的场景"
+      ]
+    }
+  },
+  {
+    "word": "karaoke",
+    "etymology": {
+      "breakdown": [
+        "kara",
+        "oke"
+      ],
+      "meaning_connection": "日语借词，kara=空，oke=管弦乐队(orchestra)→原指'无乐队伴奏'的歌唱形式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "卡拉OK",
+        "examples": [
+          {
+            "sentence": "We rented a karaoke room and sang Jay Chou's songs all night.",
+            "sentence_zh": "我们包了间卡拉OK包厢，整晚都在唱周杰伦的歌。"
+          },
+          {
+            "sentence": "Japanese salarymen love drinking beer while doing karaoke.",
+            "sentence_zh": "日本上班族喜欢边喝啤酒边唱卡拉OK。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "卡拉OK录音",
+        "examples": [
+          {
+            "sentence": "This karaoke version removes the original vocals completely.",
+            "sentence_zh": "这个卡拉OK录音版本完全消除了原唱人声。"
+          },
+          {
+            "sentence": "She made a karaoke track using GarageBand for her mom's birthday.",
+            "sentence_zh": "她用GarageBand制作了卡拉OK伴奏带作为妈妈生日礼物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "karaoke machine",
+        "meaning": "卡拉OK机",
+        "examples": [
+          {
+            "sentence": "The 1990s karaoke machine with disco lights is now vintage.",
+            "sentence_zh": "带迪斯科灯光的90年代卡拉OK机现在成了复古物件。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "karaoke bar",
+        "meaning": "卡拉OK酒吧",
+        "examples": [
+          {
+            "sentence": "Taipei's karaoke bars stay open until 5am.",
+            "sentence_zh": "台北的卡拉OK酒吧营业到凌晨5点。"
+          }
+        ]
+      }
+    ],
+    "teach": "karaoke其实是'空虚乐队'🎤：日本人把orchestra缩写成'oke'，加上'空(kara)'表示没真人伴奏。全球最卷的karaoke在菲律宾——连救护车都改装成移动卡拉OK🚑！'唱走音'叫tone-deaf（音痴），'麦霸'叫mic hog🎶。记住：真正的karaoke精神是——只要我不尴尬，尴尬的就是别人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡啦OK'→卡住啦OK（唱到破音）",
+        "易混词对比：karaoke vs. concert（前者自嗨，后者听专业演唱）",
+        "场景记忆：想象自己是被迫营业的猫🐱，主人正用karaoke折磨你"
+      ]
+    }
+  },
+  {
+    "word": "karate",
+    "etymology": {
+      "breakdown": [
+        "kara",
+        "te"
+      ],
+      "meaning_connection": "日语'空手'(からて)直译为'空(kara)手(te)'，指不使用武器的格斗术"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "空手道",
+        "examples": [
+          {
+            "sentence": "Bruce Lee combined karate with other martial arts to create Jeet Kune Do.",
+            "sentence_zh": "李小龙将空手道与其他武术结合创立截拳道。"
+          },
+          {
+            "sentence": "Kids in Tokyo do karate drills while shouting 'osu!' like little warriors.",
+            "sentence_zh": "东京的孩子们像小武士一样喊着'osu!'练习空手道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "karate chop",
+        "meaning": "空手道手刀",
+        "examples": [
+          {
+            "sentence": "He pretended to deliver a karate chop to break the watermelon.",
+            "sentence_zh": "他假装用手刀劈开西瓜。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "karate gi",
+        "meaning": "空手道服",
+        "examples": [
+          {
+            "sentence": "Her white karate gi got stained with grass during outdoor training.",
+            "sentence_zh": "她的白色空手道服在户外训练时沾上了草渍。"
+          }
+        ]
+      }
+    ],
+    "teach": "空手道其实是'空气工资'💨：因为古代琉球禁止武器，当地人只能练'空(kara)手(te)'防身🤺。'花拳绣腿'叫all talk no action，而'真功夫'叫the real deal。记住：karate就像打工人反抗老板的终极技能包👊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡了腿'→练空手道卡了腿",
+        "易混词：karate(日系) vs kungfu(中式)"
+      ]
+    }
   }
 ]

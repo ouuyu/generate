@@ -571,5 +571,231 @@
         "记忆法：quad（四）+ drill（训练）= 四人组队训练舞蹈"
       ]
     }
+  },
+  {
+    "word": "quadratic",
+    "etymology": {
+      "breakdown": [
+        "quadr",
+        "atic"
+      ],
+      "meaning_connection": "词根quadr=四（源自拉丁语quattuor），-atic为形容词后缀→原指'四边形的'，在数学中演变为'二次的'（因为二次方程涉及平方，即二维面积计算）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "二次的",
+        "examples": [
+          {
+            "sentence": "The quadratic function curve is shaped like a UFO landing trajectory.",
+            "sentence_zh": "二次函数图像像外星飞船的降落轨迹。"
+          },
+          {
+            "sentence": "Students screamed when seeing quadratic inequalities on the exam paper.",
+            "sentence_zh": "看到考卷上的二次不等式时学生们集体哀嚎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "二次方程式",
+        "examples": [
+          {
+            "sentence": "Solving quadratics is as essential as using chopsticks for Chinese students.",
+            "sentence_zh": "解二次方程对中国学生来说就像用筷子一样必备。"
+          },
+          {
+            "sentence": "The quadratic in the homework ruined my weekend like a sudden rainstorm.",
+            "sentence_zh": "作业里的二次方程像暴雨般毁了我的周末。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quadratic equation",
+        "meaning": "二次方程",
+        "examples": [
+          {
+            "sentence": "The quadratic equation ax²+bx+c=0 is the nightmare version of 'abc song'.",
+            "sentence_zh": "二次方程ax²+bx+c=0是噩梦版的'字母歌'。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quadratic formula",
+        "meaning": "二次方程求根公式",
+        "examples": [
+          {
+            "sentence": "Memorizing the quadratic formula is like learning the magic spell to unlock math hell.",
+            "sentence_zh": "背二次方程求根公式就像学解锁数学地狱的咒语。"
+          }
+        ]
+      }
+    ],
+    "teach": "quadratic其实是'方块术'⬛！古希腊人解二次方程时真在画正方形（quadr-）。网络梗说：'爱情就像二次函数，抛物线顶点过后只剩下降'📉。搭配quadratic growth（爆炸增长）和quadratic curve（抛物线）。说'数学渣'用I'm a quadratic zero（我就是那个求根公式里的0解）🤓。记住：人生不是线性增长，而是quadratic飞跃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快拽题可'→解二次方程要快拽住关键步骤",
+        "易混词：quadrilateral（四边形）和quadratic都含quadr-但领域不同",
+        "联想法：把x²想象成微信消息'已读不回'的红色双气泡💬💬"
+      ]
+    }
+  },
+  {
+    "word": "quadruped",
+    "etymology": {
+      "breakdown": [
+        "quadr",
+        "ped"
+      ],
+      "meaning_connection": "词根quadr=四（如quadrilateral四边形），ped=足（如pedal踏板）→四足生物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "四足动物",
+        "examples": [
+          {
+            "sentence": "The panda is a quadruped that occasionally stands like a biped to reach bamboo.",
+            "sentence_zh": "熊猫是偶尔会像两足动物般站立取竹子的四足动物。"
+          },
+          {
+            "sentence": "Ancient Chinese chariots were often pulled by quadruped combinations like horse-and-ox teams.",
+            "sentence_zh": "中国古代战车常由马牛混编的四足动物队伍牵引。"
+          }
+        ]
+      }
+    ],
+    "teach": "quadruped是动物界的'四驱车'🚗💨！古罗马人用quadriga（quadr+riga=四马战车）竞赛🏟️，而现代人用quadcopter（四旋翼无人机）📸。记住：'两足动物'叫biped就像企鹅🐧，'多足动物'叫myriapod像蜈蚣🦵🦵🦵。搭配：quadruped robot（四足机器人）🤖，quadrupedal movement（四足行进方式）。",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸追跑的'→四足动物追跑的样子",
+        "易混词：quadrant（象限）vs quadruped",
+        "记忆法：QQ（谐音quad）表情包里的🐶就是quadruped"
+      ]
+    }
+  },
+  {
+    "word": "quadruple",
+    "etymology": {
+      "breakdown": [
+        "quadr",
+        "uple"
+      ],
+      "meaning_connection": "词根quadr=四（如quadrilateral四边形），-uple表示倍数（如triple三倍）→ 字面意思就是'四倍'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "四倍的",
+        "examples": [
+          {
+            "sentence": "After the IPO, the CEO's assets became quadruple.",
+            "sentence_zh": "上市后这位CEO的资产变成四倍。"
+          },
+          {
+            "sentence": "The quadruple espresso made her heartbeat like a drum.",
+            "sentence_zh": "四倍浓缩咖啡让她心跳如擂鼓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "四部分组成的",
+        "examples": [
+          {
+            "sentence": "The quadruple chocolate cake has dark, milk, white and ruby layers.",
+            "sentence_zh": "这款四重巧克力蛋糕包含黑巧、牛奶、白巧和红宝石巧克力层。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "四倍",
+        "examples": [
+          {
+            "sentence": "The new algorithm achieved a quadruple of processing speed.",
+            "sentence_zh": "新算法实现了速度的四倍提升。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成四倍",
+        "examples": [
+          {
+            "sentence": "TikTok's algorithm quadrupled the video's views overnight.",
+            "sentence_zh": "抖音算法让视频播放量一夜翻四倍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "成为四倍",
+        "examples": [
+          {
+            "sentence": "The startup's valuation quadrupled within 6 months.",
+            "sentence_zh": "这家初创公司的估值六个月内增至四倍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quadruple bypass",
+        "meaning": "心脏搭桥手术（医学专用术语）",
+        "examples": [
+          {
+            "sentence": "The doctor recommended a quadruple bypass surgery.",
+            "sentence_zh": "医生建议进行心脏四支搭桥手术。"
+          }
+        ]
+      }
+    ],
+    "teach": "quadruple是数学界的灭霸👊！当它说'四倍'时就像奶茶店买一送三🥤（quadruple your happiness）；当动词用时堪比比特币暴涨📈（quadruple your investment）。记住：triple是三倍，quintuple是五倍，而quadruple就是吃鸡四排🎮的最佳人数！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快抓破'→钱快抓破(quadruple)钱包"
+      ]
+    }
+  },
+  {
+    "word": "quadrupling",
+    "etymology": {
+      "breakdown": [
+        "quadru",
+        "ple",
+        "ing"
+      ],
+      "meaning_connection": "词根quadru=四（如quadruped四足动物），ple=折叠（如triple三倍），-ing表动名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "四倍增长",
+        "examples": [
+          {
+            "sentence": "The quadrupling of delivery fees during CNY makes couriers the real zodiac animals.",
+            "sentence_zh": "春节期间的快递费四倍增长，让快递员成了真正的生肖动物。"
+          },
+          {
+            "sentence": "TikTok's user base achieved quadrupling in just 18 months.",
+            "sentence_zh": "TikTok用户量仅用18个月就实现了四倍增长。"
+          }
+        ]
+      }
+    ],
+    "teach": "quadrupling是'四倍暴击'🎲！就像春节麻将杠上开花×4🀄️，或奶茶店'买一送三'的数学奇迹🧋。搭配'quadrupling effect'形容指数增长，'quadrupling time'指人口翻两番的时间⏳。记住：这不是普通的double，而是双倍的double！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快抓不灵'→四倍速度太快抓不住",
+        "易混词对比：tripling(三倍) vs quadrupling(四倍) 像三缺一 vs 麻将凑桌",
+        "记忆tip：quad-开头总与'四'相关（quadcopter四旋翼无人机）"
+      ]
+    }
   }
 ]

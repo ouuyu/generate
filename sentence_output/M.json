@@ -592,5 +592,289 @@
         "记忆法：想象麦当劳叔叔拿着砍刀收割麦子→Mc+Machete"
       ]
     }
+  },
+  {
+    "word": "machination",
+    "etymology": {
+      "breakdown": [
+        "machin",
+        "ation"
+      ],
+      "meaning_connection": "词根machin=机械/装置（来自拉丁语machina），-ation表行为→原指'机械般的精密策划'，后专指阴谋"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "阴谋",
+        "examples": [
+          {
+            "sentence": "The villain's machination to steal the crown jewels involved trained parrots.",
+            "sentence_zh": "反派用训练过的鹦鹉实施盗窃王冠珠宝的阴谋。"
+          },
+          {
+            "sentence": "His promotion was actually a machination to make him take the blame.",
+            "sentence_zh": "他的升职其实是让他背黑锅的阴谋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "精密策划",
+        "examples": [
+          {
+            "sentence": "The escape required months of careful machination.",
+            "sentence_zh": "这次越狱需要数月的精密策划。"
+          },
+          {
+            "sentence": "Her wedding proposal machination included fireworks and a live orchestra.",
+            "sentence_zh": "她精心策划的求婚方案包含烟花和现场乐队。"
+          }
+        ]
+      }
+    ],
+    "teach": "machination是阴谋界的机械臂🤖！想象《甄嬛传》里安陵容的熏香计谋💨+《纸牌屋》下木总统的精密布局♟️。说'搞小动作'可以用play games，'下套'叫set a trap🕳️。记住：所有machination最终都会像共享单车押金一样——难以追回！",
+    "recite": {
+      "tips": [
+        "谐音梗：'抹漆内省'→在黑暗(mo漆)中内心策划",
+        "对比：scheme（临时起意） vs machination（长期精密）",
+        "记忆锚点：machine+imagination=像机器般精密想象的阴谋"
+      ]
+    }
+  },
+  {
+    "word": "machine",
+    "etymology": {
+      "breakdown": [
+        "mach",
+        "ine"
+      ],
+      "meaning_connection": "词根mach源自希腊语mechos（装置），后缀-ine表'属于...的'→原指'精巧装置'，工业革命后语义扩大"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "机器",
+        "examples": [
+          {
+            "sentence": "The bubble tea machine in my office makes 50 cups per hour.",
+            "sentence_zh": "我办公室的奶茶机每小时能制作50杯。"
+          },
+          {
+            "sentence": "Ancient Chinese invented the seismograph machine in 132 AD.",
+            "sentence_zh": "中国人早在公元132年就发明了地动仪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "机械装置",
+        "examples": [
+          {
+            "sentence": "The lottery machine spits out tickets like a hungry panda.",
+            "sentence_zh": "彩票机像饥饿的熊猫一样吐出票券。"
+          },
+          {
+            "sentence": "This AI vending machine recognizes your face and recommends snacks.",
+            "sentence_zh": "这台智能售货机能识脸推荐零食。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "机构",
+        "examples": [
+          {
+            "sentence": "The state machine operates with terrifying efficiency.",
+            "sentence_zh": "国家机器以惊人的效率运转着。"
+          },
+          {
+            "sentence": "Our company is just a small cog in the global machine.",
+            "sentence_zh": "我们公司只是全球机构中的小齿轮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "机械般工作的人",
+        "examples": [
+          {
+            "sentence": "After 10 hours of meetings, he became a coffee-powered machine.",
+            "sentence_zh": "连续开会10小时后，他成了靠咖啡续命的机器人。"
+          },
+          {
+            "sentence": "These delivery drivers work like machines during Double 11.",
+            "sentence_zh": "双十一期间的快递员像机器般连轴转。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "以机器制造",
+        "examples": [
+          {
+            "sentence": "This precision part must be machined within 0.01mm tolerance.",
+            "sentence_zh": "这个精密部件必须控制在0.01毫米误差内机加工。"
+          },
+          {
+            "sentence": "We machine these Buddha statues from recycled aluminum.",
+            "sentence_zh": "我们用再生铝机械加工这些佛像。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "machine learning",
+        "meaning": "机器学习",
+        "examples": [
+          {
+            "sentence": "TikTok's recommendation system uses advanced machine learning.",
+            "sentence_zh": "抖音推荐系统采用进阶机器学习算法。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vending machine",
+        "meaning": "自动售货机",
+        "examples": [
+          {
+            "sentence": "I bought hotpot ingredients from a 24/7 vending machine in Chengdu.",
+            "sentence_zh": "我在成都的24小时智能售货机买到了火锅食材。"
+          }
+        ]
+      }
+    ],
+    "teach": "machine是工业革命的钢铁之心🤖！从诸葛亮的木牛流马🐎到现代AI，人类总在造'机器'。说人像机器除了用machine，更地道的说法是work like a dog（累成狗）🐶。搭配：1) 咖啡机→coffee machine就像打工人续命神器☕ 2) 官僚机器→bureaucratic machine堪比树懒速度🦥。记住：当你加班到眼神呆滞时，你就是台human machine！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没戏呢'→机器(machine)坏了当然没戏",
+        "易混词：machine(实体机器) vs mechanism(抽象机制)",
+        "记忆tip：MACHINE=Made Automatically Can Help In Nearly Everything"
+      ]
+    }
+  },
+  {
+    "word": "machinery",
+    "etymology": {
+      "breakdown": [
+        "machine",
+        "ry"
+      ],
+      "meaning_connection": "词根machine来自拉丁语machina（装置），后缀-ry表示集合体→机器的总称"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "机器（总称）",
+        "examples": [
+          {
+            "sentence": "The factory's new machinery can produce 10,000 dumplings per hour.",
+            "sentence_zh": "工厂的新机器每小时能生产1万个饺子。"
+          },
+          {
+            "sentence": "Ancient Chinese machinery like the south-pointing chariot amazed the world.",
+            "sentence_zh": "指南车等中国古代机械曾让世界惊叹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "机械装置",
+        "examples": [
+          {
+            "sentence": "The lift machinery sounds like a panda chewing bamboo.",
+            "sentence_zh": "电梯机械装置运转时像熊猫在嚼竹子。"
+          },
+          {
+            "sentence": "Watchmakers need magnifiers to handle tiny machinery.",
+            "sentence_zh": "制表师需要放大镜来操作微型机械装置。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "机构体系",
+        "examples": [
+          {
+            "sentence": "The machinery of government operates slower than快递 during Double 11.",
+            "sentence_zh": "政府机构的运转速度比双十一的快递还慢。"
+          },
+          {
+            "sentence": "The legal machinery finally brought the counterfeit hotpot sauce makers to justice.",
+            "sentence_zh": "法律机构最终将假冒火锅底料制造商绳之以法。"
+          }
+        ]
+      }
+    ],
+    "teach": "machinery是机器界的银河系🌌！古罗马的machine（单个机器）遇到后缀-ry就变成机器大军⚙️。要说'老掉牙的设备'叫clunky machinery（像生锈的自行车🚲），'精密仪器'则是 Swiss-watch machinery（堪比瑞士表精度⌚）。记住：当你吐槽学校 bureaucracy（官僚机构）时，可以说'This machinery needs oiling!'（这机构该上油了）",
+    "recite": {
+      "tips": [
+        "谐音梗：'没戏呢'→机器(machinery)坏了当然没戏呢",
+        "对比记忆：machine是单台，machinery是机器军团"
+      ]
+    }
+  },
+  {
+    "word": "machinist",
+    "etymology": {
+      "breakdown": [
+        "machine",
+        "ist"
+      ],
+      "meaning_connection": "词根machine=机器，后缀-ist表示'从事...的人'→操作机器的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "机械师",
+        "examples": [
+          {
+            "sentence": "The Porsche machinist repaired my car with LEGO-like precision.",
+            "sentence_zh": "保时捷机械师用乐高般的精度修理了我的车。"
+          },
+          {
+            "sentence": "A TikTok-famous machinist builds miniature engines from soda cans.",
+            "sentence_zh": "一位抖音网红机械师用易拉罐制作微型发动机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "机械安装修理工",
+        "examples": [
+          {
+            "sentence": "The machinist installed the robotic arm while eating xiaolongbao with chopsticks.",
+            "sentence_zh": "机械安装工用筷子吃着小笼包装好了机械臂。"
+          },
+          {
+            "sentence": "Our factory machinists can assemble IKEA furniture blindfolded.",
+            "sentence_zh": "我们厂的机械安装工蒙着眼都能组装宜家家具。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chief machinist",
+        "meaning": "机械总工",
+        "examples": [
+          {
+            "sentence": "The chief machinist solved the problem by hitting the machine with a hammer - gently.",
+            "sentence_zh": "机械总工用锤子轻轻敲击机器解决了问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "machinist是机械世界的厨神👨‍🍳！他们像对待小龙虾一样拆解发动机🦞，用扳手当筷子摆弄零件🥢。要说'技术牛'可以用wizard（巫师），'老司机级机修工'叫grease monkey（油猴）。记住：真正的machinist能让生锈的机器跳科目三！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没戏呢st'→机器坏了找机械师前总觉得'没戏呢'",
+        "易混词对比：mechanic（汽车修理工） vs machinist（精密机械操作员）",
+        "记忆tip：machine+ist=整天跟机器过不去(-ist)的人"
+      ]
+    }
   }
 ]

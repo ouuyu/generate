@@ -504,5 +504,295 @@
         "记忆tip：想象微信语音里最常出现的语气词"
       ]
     }
+  },
+  {
+    "word": "Ukrainian",
+    "etymology": {
+      "breakdown": [
+        "Ukrain(e)",
+        "ian"
+      ],
+      "meaning_connection": "源自国家名Ukraine（乌克兰），后缀-ian表'...的/人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "乌克兰的",
+        "examples": [
+          {
+            "sentence": "The Ukrainian borscht tastes better with sour cream.",
+            "sentence_zh": "乌克兰罗宋汤配酸奶油更美味。"
+          },
+          {
+            "sentence": "This symphony incorporates Ukrainian folk melodies.",
+            "sentence_zh": "这首交响乐融入了乌克兰民间旋律。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "乌克兰人的",
+        "examples": [
+          {
+            "sentence": "The Ukrainian dancers wore embroidered vyshyvanka shirts.",
+            "sentence_zh": "乌克兰舞者穿着刺绣的民族衬衫。"
+          },
+          {
+            "sentence": "My Ukrainian neighbor makes amazing honey cake.",
+            "sentence_zh": "我的乌克兰邻居会做超棒的蜂蜜蛋糕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Ukrainian diaspora",
+        "meaning": "乌克兰侨民",
+        "examples": [
+          {
+            "sentence": "The Ukrainian diaspora organized charity concerts worldwide.",
+            "sentence_zh": "乌克兰侨民在全球组织了慈善音乐会。"
+          }
+        ]
+      }
+    ],
+    "teach": "Ukrainian是欧洲粮仓🌾的代名词！这个词自带向日葵田🌻和哥萨克骑兵🏇的意象。记住：乌克兰饺子叫varenyky（像元宝🥟），说'正宗乌克兰风味'用authentic Ukrainian cuisine。搭配推荐：Ukrainian embroidery（刺绣）和Ukrainian carols（圣诞颂歌）🎶",
+    "recite": {
+      "tips": [
+        "谐音梗：'U看rain→乌克兰多雨季'（实际气候干燥）",
+        "对比：Russia→Russian / Ukraine→Ukrainian（注意n不双写）",
+        "联想：-ian结尾表归属，如Canadian/Ukrainian"
+      ]
+    }
+  },
+  {
+    "word": "ulcer",
+    "etymology": {
+      "breakdown": [
+        "ulc",
+        "er"
+      ],
+      "meaning_connection": "词根ulc=伤口/溃烂（与拉丁语ulcus同源），后缀-er表事物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "溃疡",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot lovers often develop mouth ulcers from overindulgence.",
+            "sentence_zh": "麻辣火锅爱好者常因暴食患上口腔溃疡。"
+          },
+          {
+            "sentence": "The ancient doctor treated stomach ulcers with bitter herbal soups.",
+            "sentence_zh": "古代医师用苦药汤治疗胃溃疡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "腐烂物",
+        "examples": [
+          {
+            "sentence": "The fisherman grimaced at the ulcer-like decay on the fish gills.",
+            "sentence_zh": "渔夫对着鱼鳃上溃疡般的腐烂物皱起眉头。"
+          },
+          {
+            "sentence": "Tree ulcers oozing sap attracted swarms of ants.",
+            "sentence_zh": "渗出树液的树木腐烂物引来成群蚂蚁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ulcer pain",
+        "meaning": "溃疡疼痛",
+        "examples": [
+          {
+            "sentence": "He canceled the hotpot date due to sudden ulcer pain.",
+            "sentence_zh": "他因突发溃疡疼痛取消了火锅约会。"
+          }
+        ]
+      }
+    ],
+    "teach": "ulcer是身体在抗议的小红旗🚩！古罗马战士伤口化脓叫ulcus，就像现代人压力大爆发的口腔溃疡🤯。说'疼死了'可以嚎'It's killing me!'，但医生会严肃地说'This ulcer requires treatment'💊。记住：当你的胃像被重庆火锅轰炸时🌶️，它可能在酝酿ulcer革命！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呕咳'→溃疡发作又呕又咳",
+        "易混词对比：ulcer（内伤溃烂）vs. scab（外伤结痂）",
+        "记忆tip：把ul想象成'unhappy lining'（不快乐的内壁）"
+      ]
+    }
+  },
+  {
+    "word": "ulcerated",
+    "etymology": {
+      "breakdown": [
+        "ulcer",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根ulcer=溃疡，-ate表动词后缀，-ed表过去分词/形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "成为溃疡的",
+        "examples": [
+          {
+            "sentence": "The ulcerated tissue required immediate medical attention.",
+            "sentence_zh": "溃疡化的组织需要立即医疗处理。"
+          },
+          {
+            "sentence": "His ulcerated gums made eating hotpot a torture.",
+            "sentence_zh": "他溃疡的牙龈让吃火锅变成折磨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "使形成溃疡（ulcerate的过去式）",
+        "examples": [
+          {
+            "sentence": "Constant friction ulcerated the skin of the marathon runner.",
+            "sentence_zh": "持续摩擦使马拉松跑者的皮肤溃烂。"
+          },
+          {
+            "sentence": "The acidic drink ulcerated his stomach lining over time.",
+            "sentence_zh": "酸性饮料逐渐腐蚀了他的胃黏膜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ulcerated wound",
+        "meaning": "溃疡性伤口",
+        "examples": [
+          {
+            "sentence": "The diabetic patient's ulcerated foot wound healed slowly.",
+            "sentence_zh": "糖尿病患者脚部的溃疡伤口愈合缓慢。"
+          }
+        ]
+      }
+    ],
+    "teach": "ulcerated像被蚂蚁啃食的饼干🐜🍪！古罗马医生发现溃疡(ulcer)像被慢慢腐蚀的铠甲⚔️，而现代人熬夜吃辣火锅🌶️会导致ulcerated stomach（胃溃疡）。记住：'伤口溃烂'说festering wound比ulcerated更口语，'胃穿孔'叫perforated ulcer是医学炸弹💣！搭配：chronic ulcerated area（慢性溃疡区）/ emotionally ulcerated（心理溃烂的）",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬死疼的'→溃疡让人疼得熬不住",
+        "易混词对比：ulcerated（已溃疡） vs. festering（化脓中）"
+      ]
+    }
+  },
+  {
+    "word": "ulceration",
+    "etymology": {
+      "breakdown": [
+        "ulcer",
+        "ation"
+      ],
+      "meaning_connection": "词根ulcer来自拉丁语'ulcus'意为'疮'，后缀-ation表示'过程或状态'→溃疡形成的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "溃疡",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot may aggravate gastric ulceration.",
+            "sentence_zh": "麻辣火锅可能加重胃溃疡。"
+          },
+          {
+            "sentence": "The panda's paw showed signs of ulceration from captivity.",
+            "sentence_zh": "熊猫的爪子因圈养出现了溃疡迹象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "溃疡形成",
+        "examples": [
+          {
+            "sentence": "Diabetes slows the healing of skin ulceration.",
+            "sentence_zh": "糖尿病会延缓皮肤溃疡的愈合过程。"
+          },
+          {
+            "sentence": "The ulceration process begins with tissue breakdown.",
+            "sentence_zh": "溃疡形成始于组织溃烂。"
+          }
+        ]
+      }
+    ],
+    "teach": "ulceration其实是'爱的伤痕'💔：古罗马医生发现相思病会导致胃溃疡(ulcer+ation)！用火锅🍲比喻它：红油是刺激源，黏膜像腐竹被烫穿。说'溃疡发作'用地道表达like a volcano erupting🌋，记住：熬夜吃辣条=给溃疡发邀请函📨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呕！色拉醒'→看到溃疡呕出色拉",
+        "易混词对比：ulcer(溃疡)/upvote(点赞)"
+      ]
+    }
+  },
+  {
+    "word": "ulcerative",
+    "etymology": {
+      "breakdown": [
+        "ulcer",
+        "ative"
+      ],
+      "meaning_connection": "词根ulcer=溃疡，后缀-ative=具有...性质的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "形成溃疡的",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot may aggravate ulcerative conditions.",
+            "sentence_zh": "麻辣火锅可能加剧溃疡形成状况。"
+          },
+          {
+            "sentence": "The doctor identified an ulcerative lesion during the examination.",
+            "sentence_zh": "医生在检查中发现了一处溃疡性病变。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "溃烂的",
+        "examples": [
+          {
+            "sentence": "Ancient sailors often suffered from ulcerative wounds due to scurvy.",
+            "sentence_zh": "古代水手常因坏血病导致伤口溃烂。"
+          },
+          {
+            "sentence": "The ulcerative smell from the garbage made everyone cover their noses.",
+            "sentence_zh": "垃圾散发的腐败气味让所有人都捂住了鼻子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "term",
+        "form": "ulcerative colitis",
+        "meaning": "溃疡性结肠炎",
+        "examples": [
+          {
+            "sentence": "Patients with ulcerative colitis should avoid raw garlic.",
+            "sentence_zh": "溃疡性结肠炎患者应避免食用生大蒜。"
+          }
+        ]
+      }
+    ],
+    "teach": "ulcerative就像泡烂的茶叶🍂+发霉的臭豆腐🧀组合！古罗马军医发现盐(sal-ary)能预防溃疡(ulcer)形成⚔️。说'伤口恶化'可以说go south like a rotten tomato🍅，'慢性炎症'叫smoldering fire🔥。记住：看到-ative结尾就想到'持续作妖'的属性！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬死热TV'→溃疡都是熬夜发热熬出来的",
+        "对比记忆：ulcer(溃疡) vs. ultra(极端)"
+      ]
+    }
   }
 ]

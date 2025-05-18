@@ -555,5 +555,289 @@
         "易混词：father较正式，daddy带情感色彩"
       ]
     }
+  },
+  {
+    "word": "dado",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自意大利语'dado'（骰子/立方体），因护墙板多为立方体形状"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "护墙板",
+        "examples": [
+          {
+            "sentence": "The Victorian-style dining room features walnut dados with gold leaf patterns.",
+            "sentence_zh": "维多利亚风格的餐厅配有带金箔纹路的胡桃木护墙板。"
+          },
+          {
+            "sentence": "Children's fingerprints covered the lower third of the dado in the kindergarten.",
+            "sentence_zh": "幼儿园的护墙板下三分之一处满是孩子们的手印。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "台座",
+        "examples": [
+          {
+            "sentence": "The marble dado supporting the ancient Buddha statue bears Sanskrit inscriptions.",
+            "sentence_zh": "支撑古佛雕像的大理石台座刻有梵文铭文。"
+          },
+          {
+            "sentence": "Museum lighting highlighted the jade artifacts on their glass dados.",
+            "sentence_zh": "博物馆的灯光聚焦在玻璃台座上的玉器展品。"
+          }
+        ]
+      }
+    ],
+    "teach": "dado是建筑界的'双面间谍'🕵️♂️！作护墙板时像防脏围裙👶（保护墙面不被熊孩子弄脏），作台座时又变身'文物托举哥'🏛️（稳稳托住展品）。趣闻：意大利教堂的dado常雕有葡萄纹🍇，象征'基督之血'。搭配说'dado rail'（护墙板顶线），'dado joint'（木工榫接）。说'简易台座'可用poor man's dado（穷人的底座）🥪。",
+    "recite": {
+      "tips": [
+        "视觉记忆：dado→'大肚'台座像凸肚子",
+        "易混词对比：vs. pedestal（更高大的底座）"
+      ]
+    }
+  },
+  {
+    "word": "daemon",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希腊语δαίμων（守护神），计算机领域借用该词表示'隐形守护进程'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "计算机后台守护进程",
+        "examples": [
+          {
+            "sentence": "The print spooler daemon keeps running even when you're asleep.",
+            "sentence_zh": "打印后台程序守护进程在你睡觉时也持续运行。"
+          },
+          {
+            "sentence": "This malware disguises itself as a system daemon to avoid detection.",
+            "sentence_zh": "该恶意软件伪装成系统守护进程来逃避检测。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "launch daemon",
+        "meaning": "启动守护进程",
+        "examples": [
+          {
+            "sentence": "MacOS uses launchd as its master launch daemon.",
+            "sentence_zh": "MacOS使用launchd作为主启动守护程序。"
+          }
+        ]
+      }
+    ],
+    "teach": "daemon其实是硅谷极客的神话梗👾！就像《哈利波特》里的家养小精灵🧹默默干活（但不会给你织毛衣）。程序员说'杀进程'叫kill -9就像驱魔仪式⚡，'僵尸进程'叫zombie比釜山行还可怕🧟。记住：好的daemon像空气，存在感越低越成功！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆萌'→后台程序装呆萌",
+        "易混词对比：demon(恶魔)/daemon(守护进程)"
+      ]
+    }
+  },
+  {
+    "word": "daffodil",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语affodill，可能与希腊神话中自恋的美少年Narcissus（化为水仙）有关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "水仙花",
+        "examples": [
+          {
+            "sentence": "The daffodils by West Lake ripple like golden waves in spring breeze.",
+            "sentence_zh": "西湖边的水仙花在春风中漾起金色波浪。"
+          },
+          {
+            "sentence": "She received a pot of daffodils with a note saying 'You're brighter than spring'.",
+            "sentence_zh": "她收到一盆水仙花，附言'你比春天更耀眼'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "水仙花色的",
+        "examples": [
+          {
+            "sentence": "Her daffodil scarf matched perfectly with the cherry blossoms.",
+            "sentence_zh": "她水仙花色的围巾与樱花完美相配。"
+          },
+          {
+            "sentence": "The designer used daffodil accents in this year's spring collection.",
+            "sentence_zh": "设计师在今年的春季系列中使用了水仙花色点缀。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "daffodil yellow",
+        "meaning": "明黄色",
+        "examples": [
+          {
+            "sentence": "Taxi drivers protested when the city changed vehicles from daffodil yellow to silver.",
+            "sentence_zh": "当城市将出租车从明黄色改为银色时，司机们集体抗议。"
+          }
+        ]
+      }
+    ],
+    "teach": "水仙花daffodil其实是自恋代言人🌼！希腊美少年Narcissus因自恋化为水仙（所以'自恋'叫narcissism）。说'亮黄色'可以叫daffodil yellow就像小黄鸭💛，搭配spring breeze食用更佳🌬️。英国人甚至为它写诗'我孤独地漫游，像一朵云...'记住：看到daffodil，春天就来敲门了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'大夫递'→老中医递给你水仙花治病",
+        "易混词：tulip（郁金香）花瓣更圆润"
+      ]
+    }
+  },
+  {
+    "word": "daffy",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能源自方言中'daft'(愚蠢的)的变体，或与'daft'同源，16世纪起用于描述轻度疯狂状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "愚笨的",
+        "examples": [
+          {
+            "sentence": "The daffy duck kept trying to high-five its own reflection.",
+            "sentence_zh": "那只傻鸭子不停地试图和自己的倒影击掌。"
+          },
+          {
+            "sentence": "His daffy suggestion to solve traffic jams was to teach cars to fly.",
+            "sentence_zh": "他解决堵车的愚蠢建议是教汽车飞行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "疯狂的",
+        "examples": [
+          {
+            "sentence": "After three espresso shots, she started doing daffy dance moves in the office.",
+            "sentence_zh": "喝了三杯浓缩咖啡后，她开始在办公室跳疯癫的舞步。"
+          },
+          {
+            "sentence": "The daffy professor wore mismatched socks to the Nobel Prize ceremony.",
+            "sentence_zh": "那位疯癫的教授穿着不成对的袜子参加诺贝尔颁奖礼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go daffy",
+        "meaning": "发疯",
+        "examples": [
+          {
+            "sentence": "The AI went daffy after processing too many cat videos.",
+            "sentence_zh": "这个AI处理了太多猫视频后开始发疯。"
+          }
+        ]
+      }
+    ],
+    "teach": "daffy其实是华纳动画'达菲鸭'（Daffy Duck）的本名🦆！这只总被兔八哥整疯的鸭子完美演绎了这个词。说人'疯癫'可以用daffy as a duck，'蠢主意'叫daffy idea就像企图用筷子吃冰淇淋🍦。记住：介于silly和crazy之间的可爱疯癫就用daffy！🤪🦆💨",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆肥'→呆肥鸭很daffy",
+        "易混词对比：dizzy(头晕的)/dafty(愚笨的)"
+      ]
+    }
+  },
+  {
+    "word": "daft",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'gedæfte'（温和的），词义经历逆转向负面发展，类似'nice'从'愚蠢'变'美好'的反向过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "愚笨的",
+        "examples": [
+          {
+            "sentence": "The daft penguin kept trying to fly by flapping its flippers.",
+            "sentence_zh": "那只蠢企鹅不断拍打鳍肢试图飞行。"
+          },
+          {
+            "sentence": "It was daft of me to microwave aluminum foil for 'science experiment'.",
+            "sentence_zh": "我为'科学实验'微波铝箔的行为实在太蠢。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "癫狂的",
+        "examples": [
+          {
+            "sentence": "The daft inventor created a self-walking sofa that chased cats.",
+            "sentence_zh": "癫狂的发明家造出了会追猫的自走沙发。"
+          },
+          {
+            "sentence": "She's gone completely daft after binge-watching 50 episodes of soap operas.",
+            "sentence_zh": "她连刷50集肥皂剧后彻底精神错乱了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "狂闹的",
+        "examples": [
+          {
+            "sentence": "The daft celebration involved throwing cabbages at the mayor's car.",
+            "sentence_zh": "狂闹的庆祝活动包括向市长座驾投掷卷心菜。"
+          },
+          {
+            "sentence": "Their daft hen party ended up in a karaoke battle with pensioners.",
+            "sentence_zh": "她们狂闹的单身派对最终变成与退休老人的卡拉OK对决。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "daft as a brush",
+        "meaning": "蠢到极致",
+        "examples": [
+          {
+            "sentence": "The AI kept recommending winter coats in Sahara - daft as a brush!",
+            "sentence_zh": "这个AI不停给撒哈拉推荐冬装，简直蠢到姥姥家！"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "daft punk",
+        "meaning": "字面指'蠢朋克'（双关法国电子乐队）",
+        "examples": [
+          {
+            "sentence": "Our school band called themselves Daft Punk but could only play chopsticks.",
+            "sentence_zh": "我们学校的乐队自称蠢朋克，但只会弹'筷子进行曲'。"
+          }
+        ]
+      }
+    ],
+    "teach": "daft是英国人的优雅骂人艺术🎩！从'温和'到'癫狂'的词义黑化史，就像哈士奇从雪橇犬变成拆迁办🐺。说人'daft as a brush'比直接骂stupid更有英式幽默感，搭配'daft grin'（傻笑）和'daft idea'（馊主意）使用更佳。要吐槽疯狂行为可以说'mad as a box of frogs'（像一盒青蛙般疯癫）🍵记住：用daft骂人时要带着下午茶的优雅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'大福特'→大福特汽车设计蠢(daft)",
+        "易混词对比：daft（蠢萌） vs deft（灵巧），就像哈士奇和边牧的区别",
+        "记忆tip：把字母d看成耷拉的舌头，aft看成after喝醉→酒后变蠢"
+      ]
+    }
   }
 ]

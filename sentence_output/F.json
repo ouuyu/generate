@@ -574,5 +574,301 @@
         "联想：Facebook(FB)的fab→社交网络上的fabrication特别多"
       ]
     }
+  },
+  {
+    "word": "fabricator",
+    "etymology": {
+      "breakdown": [
+        "fabric",
+        "ate",
+        "or"
+      ],
+      "meaning_connection": "词根fabric=制造（来自拉丁语fabrica），后缀-ate表动词，-or表人→本义指制造者，后衍生虚构之意"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "制作者",
+        "examples": [
+          {
+            "sentence": "The fabricator of this wooden sculpture spent 3 years carving it.",
+            "sentence_zh": "这件木雕的制作者耗时三年完成雕刻。"
+          },
+          {
+            "sentence": "As a fabricator of custom sneakers, he collaborates with NBA players.",
+            "sentence_zh": "作为定制球鞋制作者，他与NBA球员都有合作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "假造者",
+        "examples": [
+          {
+            "sentence": "The rumor fabricator was fined 50,000 yuan for spreading false information.",
+            "sentence_zh": "谣言制造者因传播虚假信息被罚款5万元。"
+          },
+          {
+            "sentence": "AI makes it easier for fabricators of deepfake videos to deceive people.",
+            "sentence_zh": "人工智能让深度伪造视频的制作者更容易欺骗大众。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杜撰者",
+        "examples": [
+          {
+            "sentence": "The so-called eyewitness turned out to be a fabricator of the whole story.",
+            "sentence_zh": "所谓的目击者其实是整个事件的杜撰者。"
+          },
+          {
+            "sentence": "Ancient mythology fabricators created tales to explain natural phenomena.",
+            "sentence_zh": "古代神话杜撰者编造故事来解释自然现象。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "known fabricator",
+        "meaning": "公认的造假者",
+        "examples": [
+          {
+            "sentence": "The journalist was blacklisted as a known fabricator of celebrity gossip.",
+            "sentence_zh": "该记者因是公认的名人八卦造假者而被列入黑名单。"
+          }
+        ]
+      }
+    ],
+    "teach": "fabricator就像'薛定谔的工匠'🔨🤥：当他是正经制作者时，能打造故宫榫卯结构🏯（fabricator of traditional architecture）；当黑化后就成了'故事大王'，连特朗普都会转发他的假新闻📰（fake news fabricator）。记住：工厂里叫fabrication是生产，微博上叫fabrication是造谣！搭配：'expose a fabricator'揭穿造假者，'skilled fabricator'熟练工匠。地道表达：'纯属虚构'叫complete fabrication🕵️♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'发不离口的'→发不离口的人(fabricator)爱编造",
+        "易混词：fabricator(人造物) vs forger(伪造文件者)"
+      ]
+    }
+  },
+  {
+    "word": "fabulous",
+    "etymology": {
+      "breakdown": [
+        "fabula",
+        "ous"
+      ],
+      "meaning_connection": "词根fabula=故事（同fable寓言），-ous表形容词→像故事般夸张的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "传说的",
+        "examples": [
+          {
+            "sentence": "The fabulous creatures in Shan Hai Jing inspire modern fantasy novels.",
+            "sentence_zh": "《山海经》里的传说生物启发现代奇幻小说。"
+          },
+          {
+            "sentence": "Dragons are fabulous animals in both Eastern and Western cultures.",
+            "sentence_zh": "龙是东西方文化中共有的传说生物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "寓言般的",
+        "examples": [
+          {
+            "sentence": "Her Cinderella story sounds too fabulous to be true.",
+            "sentence_zh": "她的灰姑娘故事美好得像童话。"
+          },
+          {
+            "sentence": "The movie creates a fabulous world with talking animals.",
+            "sentence_zh": "这部电影构建了动物会说话的寓言世界。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "难以置信的",
+        "examples": [
+          {
+            "sentence": "The live-streamer sold fabulous 10,000 durians in 5 minutes.",
+            "sentence_zh": "主播5分钟卖出难以置信的1万颗榴莲。"
+          },
+          {
+            "sentence": "His ability to eat 50 chilis is simply fabulous!",
+            "sentence_zh": "他能吃50个辣椒真是匪夷所思！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fabulous wealth",
+        "meaning": "惊人的财富",
+        "examples": [
+          {
+            "sentence": "The tech giant's fabulous wealth comes from AI development.",
+            "sentence_zh": "科技巨头惊人的财富来自人工智能开发。"
+          }
+        ]
+      }
+    ],
+    "teach": "fabulous本质是'吹牛皮'📜！词根fabula是拉丁语'故事'，古人讲神话时眉飞色舞的样子🤪演变成'极好的'含义。美国人说You're fabulous就像东北人夸'你老厉害了！'💫。搭配fabulous performance（炸裂演出），地道表达用fab取代awesome（That concert was fab!）。记住：当现实太普通，就用fabulous来魔改！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发不了'→传说中发不了(fabulous)的财宝",
+        "易混词：famous（著名的）vs fabulous（夸张的）",
+        "记忆锚点：想想《封神榜》里fab-u-lous的哪吒三头六臂"
+      ]
+    }
+  },
+  {
+    "word": "fabulously",
+    "etymology": {
+      "breakdown": [
+        "fabul",
+        "ous",
+        "ly"
+      ],
+      "meaning_connection": "词根fabul=fable（寓言），-ous表形容词，-ly变副词→原指'像寓言般夸张的'，后引申为'极度的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非常（富有）",
+        "examples": [
+          {
+            "sentence": "The tech entrepreneur became fabulously wealthy after her app went viral.",
+            "sentence_zh": "这位科技创业者在其应用爆火后变得极其富有。"
+          },
+          {
+            "sentence": "He lives in a fabulously expensive penthouse overlooking the Bund.",
+            "sentence_zh": "他住在能俯瞰外滩的奢华顶层公寓里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非常（伟大）",
+        "examples": [
+          {
+            "sentence": "The Terracotta Warriors are fabulously well-preserved after 2,000 years.",
+            "sentence_zh": "兵马俑在两千多年后保存得惊人的完好。"
+          },
+          {
+            "sentence": "Her latest novel is fabulously successful in both domestic and foreign markets.",
+            "sentence_zh": "她最新小说在国内外市场都取得了巨大成功。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fabulously rich",
+        "meaning": "富可敌国",
+        "examples": [
+          {
+            "sentence": "That live-streaming host is now fabulously rich from selling hairy crabs.",
+            "sentence_zh": "那位卖大闸蟹的主播现在富得流油。"
+          }
+        ]
+      }
+    ],
+    "teach": "fabulously其实是'凡尔赛专用词'💎！来自拉丁语fabula（寓言故事），因为古代吹牛都爱说'我爷爷屠过龙'🐉。说'超有钱'别用very rich，要说fabulously wealthy（富得像阿拉伯石油大佬🛢️）。搭配：fabulously delicious（好吃到升天）🍜，fabulously bad（烂出天际）🤮。记住：当你说fabulously时，请自动翘起兰花指！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发不了是利'→发财发到离谱(fabulously)",
+        "易混词对比：famous（有名的） vs fabulous（夸张得好）"
+      ]
+    }
+  },
+  {
+    "word": "facade",
+    "etymology": {
+      "breakdown": [
+        "fac",
+        "ade"
+      ],
+      "meaning_connection": "词根fac=面（同face），-ade表名词→字面意思就是'建筑物的面部'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "建筑物的正面",
+        "examples": [
+          {
+            "sentence": "The neoclassical facade of the Shanghai Bund buildings attracts millions of selfie-takers.",
+            "sentence_zh": "外滩建筑的新古典主义正面吸引数百万自拍者。"
+          },
+          {
+            "sentence": "They spent 2 million just to restore the church's crumbling facade.",
+            "sentence_zh": "他们花费200万仅仅修复教堂岌岌可危的正面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "外观",
+        "examples": [
+          {
+            "sentence": "The tech startup maintains a cool facade with beanbag chairs and free snacks.",
+            "sentence_zh": "这家科技初创公司用懒人沙发和免费零食维持着酷炫外观。"
+          },
+          {
+            "sentence": "Behind her cheerful facade was deep loneliness.",
+            "sentence_zh": "她开朗外观背后是深深的孤独。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "表面",
+        "examples": [
+          {
+            "sentence": "The political unity was merely a facade for internal conflicts.",
+            "sentence_zh": "政治团结只是内部矛盾的表面现象。"
+          },
+          {
+            "sentence": "His politeness is just a thin facade over rudeness.",
+            "sentence_zh": "他的礼貌只是粗鲁之上的薄薄表面。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "maintain a facade",
+        "meaning": "维持表面形象",
+        "examples": [
+          {
+            "sentence": "Celebrities often maintain a perfect facade on social media.",
+            "sentence_zh": "名人常在社交媒体维持完美表面形象。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "facade lighting",
+        "meaning": "建筑立面照明",
+        "examples": [
+          {
+            "sentence": "The facade lighting of Beijing's CCTV building costs 6000 yuan per hour.",
+            "sentence_zh": "北京央视大楼的立面照明每小时耗资6000元。"
+          }
+        ]
+      }
+    ],
+    "teach": "facade是建筑的'面子工程'🏛️！就像美颜相机里的'一键磨皮'📸（maintain a facade），也像月饼豪华包装盒🥮（mere facade）。搭配说'撕下伪装'用strip away the facade像剥粽子叶🍃，地道表达'假得很'说as fake as a Hollywood facade🎬。记住：看建筑看正面，看人要看背面！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发卡的'→发卡大楼的facade（正面）",
+        "易混词对比：surface指物体表面，facade特指人为构造的正面"
+      ]
+    }
   }
 ]

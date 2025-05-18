@@ -582,5 +582,261 @@
         "记忆tip：habit+ual=习惯成自然ual（拼音'有啊'）"
       ]
     }
+  },
+  {
+    "word": "habitually",
+    "etymology": {
+      "breakdown": [
+        "habit",
+        "ual",
+        "ly"
+      ],
+      "meaning_connection": "habit=习惯，-ual=形容词后缀，-ly=副词后缀→习惯性地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "习惯性地",
+        "examples": [
+          {
+            "sentence": "He habitually checks his phone the moment he wakes up.",
+            "sentence_zh": "他习惯性醒来第一件事就是看手机。"
+          },
+          {
+            "sentence": "The panda habitually rolls down slopes after eating.",
+            "sentence_zh": "这只熊猫吃完竹子后习惯性地滚下山坡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "惯常地",
+        "examples": [
+          {
+            "sentence": "She habitually wears red during Spring Festival.",
+            "sentence_zh": "春节时她惯常穿红色衣服。"
+          },
+          {
+            "sentence": "The old bookstore habitually plays jazz at midnight.",
+            "sentence_zh": "这家老书店惯常在午夜播放爵士乐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "习以为常地",
+        "examples": [
+          {
+            "sentence": "New Yorkers habitually ignore street performers.",
+            "sentence_zh": "纽约人对街头表演者习以为常地视而不见。"
+          },
+          {
+            "sentence": "We habitually overorder at hotpot restaurants.",
+            "sentence_zh": "我们吃火锅时习以为常地点多了菜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "habitually late",
+        "meaning": "习惯性迟到",
+        "examples": [
+          {
+            "sentence": "The professor who habitually late always blames the traffic.",
+            "sentence_zh": "那位习惯性迟到的教授总是抱怨交通问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "habitually就像你每天刷抖音的拇指📱！罗马士兵habitually用盐(sal)换工资🧂，现代人habitually熬夜就像夜猫子🌙。要说'老习惯'可用old habit（但别和old habbit拼错！），'改不掉的习惯'叫ingrained habit就像纹身💉。记住：当你的habit变成habitually，就该开个自律打卡群了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈比特ually'→霍比特人习惯住地洞",
+        "易混词对比：habitual(adj.) vs habitually(adv.)",
+        "联想法：habit+ually=习惯成自然"
+      ]
+    }
+  },
+  {
+    "word": "habituate",
+    "etymology": {
+      "breakdown": [
+        "habit",
+        "uate"
+      ],
+      "meaning_connection": "词根habit=居住/习惯，后缀-ate表使动→使形成习惯"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使习惯于",
+        "examples": [
+          {
+            "sentence": "Panda caretakers habituate cubs to bamboo diets gradually.",
+            "sentence_zh": "熊猫饲养员让幼崽逐渐习惯竹子饮食。"
+          },
+          {
+            "sentence": "Living in Tibet habituated him to high-altitude conditions.",
+            "sentence_zh": "西藏生活使他适应了高海拔环境。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使熟习于",
+        "examples": [
+          {
+            "sentence": "The VR game habituates players to zero-gravity environments.",
+            "sentence_zh": "这款VR游戏让玩家熟悉失重环境。"
+          },
+          {
+            "sentence": "Flight simulators habituate pilots to emergency procedures.",
+            "sentence_zh": "飞行模拟器使飞行员熟悉应急流程。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "habituate to",
+        "meaning": "适应于",
+        "examples": [
+          {
+            "sentence": "It takes time to habituate to inverted sleep schedules.",
+            "sentence_zh": "适应颠倒的作息需要时间。"
+          }
+        ]
+      }
+    ],
+    "teach": "habituate是'习惯养成器'🔄！就像四川人顿顿吃辣🌶️（habituated to spicy food），北京大爷冬泳❄️（habituated to cold water）。要吐槽'改不了旧习惯'可以说old habits die hard，'强迫适应'叫grin and bear it😬。记住：给猫咪洗澡三次就habituated了🐱→💦→😾→🐱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈比土特产'→习惯(h)当地(ab)土特产(ituate)",
+        "对比记忆：habit是名词习惯，habituate是动词版"
+      ]
+    }
+  },
+  {
+    "word": "habituation",
+    "etymology": {
+      "breakdown": [
+        "habit",
+        "u",
+        "ation"
+      ],
+      "meaning_connection": "词根habit=居住/习惯，-u-连接字母，-ation表动作结果→习惯形成的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "使习惯",
+        "examples": [
+          {
+            "sentence": "The habituation to spicy food requires gradual exposure like building tolerance to Sichuan hotpot.",
+            "sentence_zh": "适应辛辣食物需要循序渐进，就像对四川火锅建立耐受性。"
+          },
+          {
+            "sentence": "Panda cubs undergo habituation training before meeting tourists.",
+            "sentence_zh": "熊猫幼崽在见游客前会接受习性训练。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "习惯",
+        "examples": [
+          {
+            "sentence": "His habituation of checking WeChat every 3 minutes worries his girlfriend.",
+            "sentence_zh": "他每3分钟查看微信的习惯让他女友很担忧。"
+          },
+          {
+            "sentence": "The habituation to night owl lifestyle is hard to break.",
+            "sentence_zh": "熬夜的习惯很难戒除。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "熟习",
+        "examples": [
+          {
+            "sentence": "After 10 years in Beijing, her habituation to the local dialect surprises even taxi drivers.",
+            "sentence_zh": "在北京十年后，她对当地方言的熟习程度连出租车司机都惊讶。"
+          },
+          {
+            "sentence": "The pianist's habituation to the instrument makes her play blindfolded.",
+            "sentence_zh": "钢琴家对乐器的熟习让她能蒙眼演奏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "habituation effect",
+        "meaning": "习惯化效应",
+        "examples": [
+          {
+            "sentence": "The habituation effect explains why TikTok users keep scrolling endlessly.",
+            "sentence_zh": "习惯化效应解释了抖音用户为何会无限滑屏。"
+          }
+        ]
+      }
+    ],
+    "teach": "habituation就像大脑的自动保存功能💾！古罗马人用habitare（居住）衍生出'习惯'概念🏛️。想想你第一次喝豆汁儿🤢 vs 现在能当早餐🍶，这就是habituation魔法！'养成习惯'叫form a habituation，'改掉习惯'用break the habituation。记住：21天形成的habituation，可能需要210天才能改掉⏳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈比特人'→霍比特人养成习惯要habituation",
+        "易混词：habit（习惯）是结果，habituation是形成过程"
+      ]
+    }
+  },
+  {
+    "word": "hacienda",
+    "etymology": {
+      "breakdown": [
+        "hacienda"
+      ],
+      "meaning_connection": "源自西班牙语'hacer'(做)+后缀'-ienda'→原指'经营的土地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大庄园",
+        "examples": [
+          {
+            "sentence": "The tequila-producing hacienda covers 500 football fields.",
+            "sentence_zh": "这座生产龙舌兰酒的大庄园占地500个足球场。"
+          },
+          {
+            "sentence": "We rode horses through the olive groves of the ancient hacienda.",
+            "sentence_zh": "我们骑马穿过古老庄园的橄榄树林。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hacienda style",
+        "meaning": "庄园风格",
+        "examples": [
+          {
+            "sentence": "Her courtyard replicates Mexican hacienda style with terracotta tiles.",
+            "sentence_zh": "她的庭院用赤陶砖复制了墨西哥庄园风格。"
+          }
+        ]
+      }
+    ],
+    "teach": "hacienda是拉美版'农家乐'🏡！西班牙殖民者用这些庄园种咖啡☕养牛🐄，现在变成《寻梦环游记》同款旅游景点。要说'土豪庄园'可以叫lavish hacienda，'破败庄园'用derelict hacienda。记住：这个词自带墨西哥草帽👒和龙舌兰酒香！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈仙岛'→哈仙岛上有大庄园",
+        "易混词对比：villa(别墅) vs hacienda(生产型大庄园)"
+      ]
+    }
   }
 ]

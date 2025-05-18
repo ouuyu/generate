@@ -595,5 +595,323 @@
         "记忆tip：拆解labor+ious，想象打工人(labor)在办公室里(ious)加班"
       ]
     }
+  },
+  {
+    "word": "laboriously",
+    "etymology": {
+      "breakdown": [
+        "labor",
+        "ious",
+        "ly"
+      ],
+      "meaning_connection": "词根labor=劳动，-ious表形容词性质，-ly转为副词→字面意义'以劳动的方式'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "辛苦地",
+        "examples": [
+          {
+            "sentence": "Migrant workers built the Bird's Nest laboriously under extreme weather.",
+            "sentence_zh": "农民工在极端天气下辛苦建造鸟巢体育馆。"
+          },
+          {
+            "sentence": "She finished her doctoral thesis laboriously after 5 all-nighters.",
+            "sentence_zh": "她熬了五个通宵后终于辛苦完成了博士论文。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "费力地",
+        "examples": [
+          {
+            "sentence": "The old computer booted up laboriously like a rusty bicycle.",
+            "sentence_zh": "这台旧电脑像生锈的自行车般费力地启动。"
+          },
+          {
+            "sentence": "He climbed the Great Wall laboriously with a 20kg camera bag.",
+            "sentence_zh": "他背着20公斤的相机包费力地攀爬长城。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不流畅地",
+        "examples": [
+          {
+            "sentence": "The beginner played Für Elise laboriously with wrong notes.",
+            "sentence_zh": "初学者弹奏《致爱丽丝》时错误百出很不流畅。"
+          },
+          {
+            "sentence": "The machine translation rendered the poem laboriously without rhythm.",
+            "sentence_zh": "机器翻译把诗歌译得磕磕绊绊毫无韵律。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "laboriously slow",
+        "meaning": "慢得令人发指",
+        "examples": [
+          {
+            "sentence": "The 2G network loaded videos laboriously slow like a snail marathon.",
+            "sentence_zh": "2G网络加载视频慢得像蜗牛跑马拉松。"
+          }
+        ]
+      }
+    ],
+    "teach": "laboriously是'累成狗'🐶的优雅版！想象秦始皇修长城🧱（laboriously built），或小学生憋800字作文✏️（write laboriously）。搭配'加班到死'说work laboriously like an ant，'卡成PPT'是run laboriously like Windows98💻。记住：凡是要说'累死老子了'的场合，换成laboriously瞬间变精英！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累伯热死'→伯伯干活热到虚脱",
+        "对比记忆：hardworking（主动勤劳） vs laboriously（被迫辛苦）",
+        "联想：lab(实验室)+or(或者)+ious(我们的)→在实验室996的我们"
+      ]
+    }
+  },
+  {
+    "word": "labour",
+    "etymology": {
+      "breakdown": [
+        "lab",
+        "our"
+      ],
+      "meaning_connection": "词根lab=劳动，-our为名词后缀，原指农耕时代的体力劳动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "劳动",
+        "examples": [
+          {
+            "sentence": "Chinese farmers' labour created the terraced fields that feed millions.",
+            "sentence_zh": "中国农民的劳动造就了养活数百万人的梯田。"
+          },
+          {
+            "sentence": "The Great Wall stands as a monument to ancient labour.",
+            "sentence_zh": "长城是古代劳动的不朽丰碑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "努力",
+        "examples": [
+          {
+            "sentence": "His decade-long labour finally resulted in a Michelin-starred restaurant.",
+            "sentence_zh": "他十年的努力最终成就了一家米其林餐厅。"
+          },
+          {
+            "sentence": "The labour of compiling the dictionary took 15 years.",
+            "sentence_zh": "编纂这本字典的努力持续了15年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "劳工",
+        "examples": [
+          {
+            "sentence": "Migrant labour constitutes 30% of urban workforce in China.",
+            "sentence_zh": "外来劳工占中国城市劳动力的30%。"
+          },
+          {
+            "sentence": "Labour disputes often involve overtime pay issues.",
+            "sentence_zh": "劳资纠纷常涉及加班费问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "分娩",
+        "examples": [
+          {
+            "sentence": "The panda in the zoo is in labour right now.",
+            "sentence_zh": "动物园里的熊猫正在分娩。"
+          },
+          {
+            "sentence": "Midwives assist women during labour with traditional techniques.",
+            "sentence_zh": "助产士用传统技法帮助产妇分娩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "劳动",
+        "examples": [
+          {
+            "sentence": "Peasants labour in the rice fields from dawn to dusk.",
+            "sentence_zh": "农民们在稻田里从早到晚地劳动。"
+          },
+          {
+            "sentence": "Construction workers labour under the scorching sun.",
+            "sentence_zh": "建筑工人在烈日下劳动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "努力",
+        "examples": [
+          {
+            "sentence": "Students labour over their gaokao preparation.",
+            "sentence_zh": "学生们为高考备考而努力。"
+          },
+          {
+            "sentence": "She laboured to master the intricate embroidery technique.",
+            "sentence_zh": "她努力掌握复杂的刺绣工艺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "详细分析",
+        "examples": [
+          {
+            "sentence": "The professor laboured the point with 20 case studies.",
+            "sentence_zh": "教授用20个案例详细分析了这个观点。"
+          },
+          {
+            "sentence": "Don't labour the obvious - we all know the basics.",
+            "sentence_zh": "别详细分析显而易见的东西——我们都知道基础。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使厌烦",
+        "examples": [
+          {
+            "sentence": "His long-winded explanation laboured the audience.",
+            "sentence_zh": "他冗长的解释使听众厌烦。"
+          },
+          {
+            "sentence": "The repetitive training laboured the new employees.",
+            "sentence_zh": "重复的培训使新员工感到厌烦。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "labour under",
+        "meaning": "受...之苦",
+        "examples": [
+          {
+            "sentence": "Many office workers labour under chronic back pain.",
+            "sentence_zh": "许多上班族长期受背痛之苦。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "manual labour",
+        "meaning": "体力劳动",
+        "examples": [
+          {
+            "sentence": "College students doing manual labour is part of Chinese education tradition.",
+            "sentence_zh": "大学生参加体力劳动是中国教育传统的一部分。"
+          }
+        ]
+      }
+    ],
+    "teach": "labour这个词就像农民工的汗水💦！从甲骨文的'力'字到现代的996，劳动形态变了但本质不变👷。'分娩'义项来自'生命的生产劳动'，就像在产房加班🛌。要说'累成狗'可以用dog-tired，'血汗工厂'叫sweatshop。记住：脑力劳动是mental labour，而你的labour成果决定了你能买多少杯奶茶☕！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累吧'→劳动当然累吧(labour)",
+        "易混词：labour（英式） vs labor（美式）",
+        "记忆法：lab+our=我们的实验室(lab)也需要劳动"
+      ]
+    }
+  },
+  {
+    "word": "labourer",
+    "etymology": {
+      "breakdown": [
+        "labour",
+        "er"
+      ],
+      "meaning_connection": "词根labour=劳动，-er表示'从事...的人'→从事体力劳动的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "劳动者",
+        "examples": [
+          {
+            "sentence": "The migrant labourers build skyscrapers with their calloused hands.",
+            "sentence_zh": "外来务工者们用布满老茧的双手建造摩天大楼。"
+          },
+          {
+            "sentence": "Ancient Egyptian labourers moved pyramid stones like human ants.",
+            "sentence_zh": "古埃及劳工像蚂蚁般搬运金字塔石块。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "干体力工作的工人",
+        "examples": [
+          {
+            "sentence": "Construction labourers wield jackhammers like modern Thor's hammers.",
+            "sentence_zh": "建筑工人挥舞风镐的样子宛如现代雷神之锤。"
+          },
+          {
+            "sentence": "The strawberry-picking labourers bend under the sun like question marks.",
+            "sentence_zh": "采草莓的工人们在烈日下弯腰如同问号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "劳工",
+        "examples": [
+          {
+            "sentence": "The factory labourers assemble smartphones faster than robots.",
+            "sentence_zh": "工厂劳工组装手机的速度快过机器人。"
+          },
+          {
+            "sentence": "19th-century railway labourers laid tracks with barefoot determination.",
+            "sentence_zh": "19世纪的铁路劳工光着脚板铺设铁轨。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "migrant labourer",
+        "meaning": "外来务工者",
+        "examples": [
+          {
+            "sentence": "Migrant labourers send home money wrapped in newspaper.",
+            "sentence_zh": "外来务工者用报纸包裹着往家里寄钱。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "day labourer",
+        "meaning": "日结工",
+        "examples": [
+          {
+            "sentence": "Day labourers queue at dawn like human vending machines.",
+            "sentence_zh": "日结工黎明时分排队的场景如同人形自动贩卖机。"
+          }
+        ]
+      }
+    ],
+    "teach": "labourer其实是'累伯'👷！工业革命时工人(labourer)像人肉电池🔋给机器供电，现代'打工人'自称digital labourer💻。吐槽'血汗工厂'说sweatshop，'搬砖'叫grunt work🐷。记住：每个外卖小哥都是21世纪的urban labourer🛵！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累不累啊'→labourer当然累",
+        "易混词：labourer（体力劳动者）vs. employee（泛指雇员）",
+        "记忆tip：labour+er=劳动的人，就像farmer=farm+er"
+      ]
+    }
   }
 ]

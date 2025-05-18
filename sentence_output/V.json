@@ -634,5 +634,265 @@
         "易混词：vacation(长假期) vs holiday(公共假日)"
       ]
     }
+  },
+  {
+    "word": "vaccinate",
+    "etymology": {
+      "breakdown": [
+        "vaccin",
+        "ate"
+      ],
+      "meaning_connection": "词根vaccin=牛（源自拉丁语vacca），-ate表动词→源自18世纪用牛痘(vaccinia)预防天花的历史"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给...接种疫苗",
+        "examples": [
+          {
+            "sentence": "Doctors vaccinated children against polio with sugar cube vaccines.",
+            "sentence_zh": "医生们用糖丸疫苗为儿童接种预防小儿麻痹症。"
+          },
+          {
+            "sentence": "My cat was vaccinated while wearing a dinosaur costume.",
+            "sentence_zh": "我的猫咪穿着恐龙装接种了疫苗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "接受疫苗接种",
+        "examples": [
+          {
+            "sentence": "Over 90% of the population vaccinated during the COVID-19 pandemic.",
+            "sentence_zh": "新冠疫情期间超过90%人口接种了疫苗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vaccinate against",
+        "meaning": "接种预防...的疫苗",
+        "examples": [
+          {
+            "sentence": "Pandas at the Chengdu base are vaccinated against canine distemper.",
+            "sentence_zh": "成都基地的大熊猫接种了预防犬瘟热的疫苗。"
+          }
+        ]
+      }
+    ],
+    "teach": "vaccinate其实是'牛'转乾坤🐄！18世纪英国医生发现挤奶女工不得天花，于是用牛痘(vacca=母牛)做首个疫苗💉。现在说'打疫苗'是get jabbed（英式幽默），'疫苗犹豫'叫vaccine hesitancy就像5G辐射谣言📶。记住：每次vaccinate都是和300年前的那头奶牛击掌✋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外克星nate'→外来病毒克星(vaccinate)",
+        "易混词对比：vacant（空的）和vaccine（疫苗）别搞混"
+      ]
+    }
+  },
+  {
+    "word": "vaccinated",
+    "etymology": {
+      "breakdown": [
+        "vaccin",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根vaccin=牛（源自拉丁语vacca），因最早用牛痘预防天花，-ate表动词，-ed表过去分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "已接种疫苗的",
+        "examples": [
+          {
+            "sentence": "The panda in Beijing Zoo is vaccinated against canine distemper.",
+            "sentence_zh": "北京动物园的大熊猫已接种犬瘟热疫苗。"
+          },
+          {
+            "sentence": "Fully vaccinated travelers can enjoy quarantine-free entry.",
+            "sentence_zh": "完成疫苗接种的旅客可享受免隔离入境。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "给...接种疫苗(vaccinate的过去式)",
+        "examples": [
+          {
+            "sentence": "The doctor vaccinated my arm with a painless micro-needle.",
+            "sentence_zh": "医生用无痛微针给我的手臂接种了疫苗。"
+          },
+          {
+            "sentence": "Over 1.2 billion doses were vaccinated in China by 2021.",
+            "sentence_zh": "截至2021年中国已接种超12亿剂次疫苗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "get vaccinated",
+        "meaning": "接种疫苗",
+        "examples": [
+          {
+            "sentence": "I got vaccinated while eating xiaolongbao at the community center.",
+            "sentence_zh": "我在社区中心吃着小龙包完成了疫苗接种。"
+          }
+        ]
+      }
+    ],
+    "teach": "vaccinated藏着'牛'的秘密🐄！18世纪英国医生发现挤奶女工不得天花，原来牛痘(vacca=牛)能免疫！现在说'打疫苗'像点奶茶🍵：'我要全家桶接种（get fully vaccinated）'。'疫苗犹豫'叫vaccine hesitancy，'加强针'是booster shot💉。记住：你胳膊上的疫苗印记，是现代版'牛'的恩赐！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外克星内的'→外来的病毒克星已在体内",
+        "易混词对比：vaccinate（接种）vs. validate（验证）"
+      ]
+    }
+  },
+  {
+    "word": "vaccination",
+    "etymology": {
+      "breakdown": [
+        "vaccin",
+        "ation"
+      ],
+      "meaning_connection": "词根vaccin=牛（源自拉丁语vacca），因史上首支疫苗用牛痘病毒制成，-ation表行为过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "接种疫苗",
+        "examples": [
+          {
+            "sentence": "The panda at Chengdu Research Base received a vaccination with honey-coated syringes.",
+            "sentence_zh": "成都基地的大熊猫用涂了蜂蜜的注射器接种了疫苗。"
+          },
+          {
+            "sentence": "My vaccination certificate became my golden ticket to travel during the pandemic.",
+            "sentence_zh": "我的疫苗接种证明成了疫情期间旅行的金门票。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "种痘",
+        "examples": [
+          {
+            "sentence": "In the 18th century, people used cowpox blisters for smallpox vaccination.",
+            "sentence_zh": "18世纪时人们用牛痘水疱进行天花种痘。"
+          },
+          {
+            "sentence": "The vaccination scar on my grandfather's arm looks like a tiny moon crater.",
+            "sentence_zh": "祖父手臂上的种痘疤痕像个月球坑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mass vaccination",
+        "meaning": "大规模接种",
+        "examples": [
+          {
+            "sentence": "China's mass vaccination program covered 1 billion people in record time.",
+            "sentence_zh": "中国的大规模接种计划以创纪录速度覆盖10亿人。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vaccination drive",
+        "meaning": "疫苗接种活动",
+        "examples": [
+          {
+            "sentence": "The university's vaccination drive turned into a carnival with mascots giving out stickers.",
+            "sentence_zh": "高校的疫苗接种活动变成了吉祥物发贴纸的嘉年华。"
+          }
+        ]
+      }
+    ],
+    "teach": "vaccination其实是'牛'事🐄！18世纪英国医生发现挤奶女工从不患天花（因为接触过牛痘），于是用牛痘病毒制出首支疫苗💉。说'疫苗副作用'用jab fever（字面是'注射发烧'），'疫苗犹豫'叫needle fear（针头恐惧）🪡。记住：每个vaccination标记都是你免疫系统的勋章🎖️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外克星内醒'→外来病毒克星在体内苏醒",
+        "易混词对比：vaccine（疫苗n.）vs. vaccinate（接种v.）",
+        "记忆tip：想象把'vac（假期）'+'cin（谐音'星'）'组合→接种疫苗后可以去星空下度假🌌"
+      ]
+    }
+  },
+  {
+    "word": "vaccine",
+    "etymology": {
+      "breakdown": [
+        "vacc",
+        "ine"
+      ],
+      "meaning_connection": "词根vacc=牛（拉丁语vacca），-ine表属性→源自18世纪用牛痘病毒预防天花的历史"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "牛痘苗",
+        "examples": [
+          {
+            "sentence": "Edward Jenner developed the first vaccine using cowpox virus.",
+            "sentence_zh": "爱德华·詹纳利用牛痘病毒研制出首支疫苗。"
+          },
+          {
+            "sentence": "Ancient Chinese doctors practiced early forms of vaccine by blowing smallpox scabs into noses.",
+            "sentence_zh": "古代中国医生通过吹天花痂粉入鼻践行早期疫苗接种。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "疫苗",
+        "examples": [
+          {
+            "sentence": "The COVID-19 vaccine rollout was faster than TikTok's user growth.",
+            "sentence_zh": "新冠疫苗推广速度比抖音用户增长还快。"
+          },
+          {
+            "sentence": "Pets need regular rabies vaccines just like humans need annual flu shots.",
+            "sentence_zh": "宠物需定期接种狂犬疫苗，如同人类需要年度流感疫苗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vaccine passport",
+        "meaning": "疫苗护照",
+        "examples": [
+          {
+            "sentence": "Some countries require a vaccine passport for bubble tea shop entry.",
+            "sentence_zh": "部分国家进入奶茶店需出示疫苗护照。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vaccine hesitancy",
+        "meaning": "疫苗犹豫",
+        "examples": [
+          {
+            "sentence": "Vaccine hesitancy is like refusing to wear seatbelts because they wrinkle clothes.",
+            "sentence_zh": "疫苗犹豫如同因怕弄皱衣服而拒绝系安全带。"
+          }
+        ]
+      }
+    ],
+    "teach": "vaccine其实是'牛'出来的科技🐄！18世纪医生发现挤奶女工不得天花（因为牛痘），于是发明了疫苗💉。说'打疫苗'地道表达是get jabbed（挨一针），'群体免疫'叫herd immunity就像羊群保护每只羊🐑。记住：现代疫苗就像给你的免疫系统装杀毒软件🛡️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外可见'→疫苗让病毒外(wai)部可(ke)见(jian)",
+        "易混词对比：virus（病毒）vs vaccine（疫苗）就像小偷vs警察"
+      ]
+    }
   }
 ]

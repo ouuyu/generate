@@ -357,5 +357,277 @@
         "易混词对比：oat vs. wheat（燕麦vs小麦）"
       ]
     }
+  },
+  {
+    "word": "oar",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语ār，与古诺尔斯语ár同源，原始含义为'划水工具'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "桨",
+        "examples": [
+          {
+            "sentence": "The fisherman lost an oar in the storm and had to paddle with his hands.",
+            "sentence_zh": "渔夫在暴风雨中丢失了一支桨，只能用手划水。"
+          },
+          {
+            "sentence": "Traditional dragon boat oars are decorated with lucky red patterns.",
+            "sentence_zh": "传统龙舟的桨会装饰吉祥的红色花纹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "桨手",
+        "examples": [
+          {
+            "sentence": "As the strongest oar in the team, he sets the rhythm for others.",
+            "sentence_zh": "作为队伍中最强壮的桨手，他负责为其他人掌握节奏。"
+          },
+          {
+            "sentence": "The cox shouted at the tired oars to keep rowing.",
+            "sentence_zh": "舵手向疲惫的桨手们喊话让他们继续划桨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "搅棒",
+        "examples": [
+          {
+            "sentence": "Grandma's giant oar for stirring mooncake filling looks like a boat paddle.",
+            "sentence_zh": "奶奶用来搅拌月饼馅的大木棒看起来像支船桨。"
+          },
+          {
+            "sentence": "The brewery uses special oars to mix the malt in open vats.",
+            "sentence_zh": "啤酒厂用特制的搅棒在开口桶里混合麦芽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "划桨",
+        "examples": [
+          {
+            "sentence": "We oared leisurely across the West Lake at sunset.",
+            "sentence_zh": "日落时分我们悠闲地划桨横渡西湖。"
+          },
+          {
+            "sentence": "The crew oared in perfect unison during the final sprint.",
+            "sentence_zh": "决赛冲刺时全体船员以完美的同步性划桨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "划动",
+        "examples": [
+          {
+            "sentence": "She oared the small boat through the lotus flowers with practiced ease.",
+            "sentence_zh": "她熟练地划着小船穿梭在荷花丛中。"
+          },
+          {
+            "sentence": "The gondolier oared the romantic couple along Venetian canals.",
+            "sentence_zh": "船夫载着那对浪漫情侣划行在威尼斯运河上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "put/stick one's oar in",
+        "meaning": "多管闲事",
+        "examples": [
+          {
+            "sentence": "My mother-in-law always sticks her oar in when we're disciplining the kids.",
+            "sentence_zh": "我们管教孩子时岳母总爱插一脚。"
+          },
+          {
+            "sentence": "Don't put your oar in others' relationship matters.",
+            "sentence_zh": "别插手别人的感情问题。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rest on one's oars",
+        "meaning": "暂时休息",
+        "examples": [
+          {
+            "sentence": "After winning the first round, the team shouldn't rest on their oars.",
+            "sentence_zh": "赢得首轮后队伍不该松懈。"
+          },
+          {
+            "sentence": "The CEO warned staff not to rest on their oars despite record profits.",
+            "sentence_zh": "尽管利润创新高，CEO仍警告员工不能懈怠。"
+          }
+        ]
+      }
+    ],
+    "teach": "oar这个词划出了人类文明史🚣！最早的桨出现在8000年前（比筷子还早🥢），而'多管闲事'的典故来自英国：乱伸桨会打翻船💦。想吐槽'别多事'可以说butt out（像屁股撅出去），夸人'卖力'叫pull one's weight（像用力划桨）。记住：人生如逆水行舟，不oar则退！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬啊'→划桨是个熬啊的体力活",
+        "易混词：oar vs ore（矿石）→桨木制，矿石硬",
+        "联想：oar中的a像桨的形状"
+      ]
+    }
+  },
+  {
+    "word": "oath",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'āþ'，与德语'Eid'同源，最初指对神明作出的严肃承诺"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "庄严誓约",
+        "examples": [
+          {
+            "sentence": "The doctor took the Hippocratic oath under the witness of Apollo's statue.",
+            "sentence_zh": "医生在阿波罗雕像的见证下立下希波克拉底誓言。"
+          },
+          {
+            "sentence": "Breaking the oath of knighthood would stain his family's honor forever.",
+            "sentence_zh": "违背骑士誓约将永远玷污他家族的荣誉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "法庭誓言",
+        "examples": [
+          {
+            "sentence": "She placed her hand on the Bible while taking the oath in court.",
+            "sentence_zh": "她在法庭上手按圣经立下宣誓。"
+          },
+          {
+            "sentence": "The witness was charged with perjury for violating his oath.",
+            "sentence_zh": "这位证人因违反宣誓作伪证被起诉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "粗俗咒骂",
+        "examples": [
+          {
+            "sentence": "The pirate's colorful oaths could make even sailors blush.",
+            "sentence_zh": "海盗那些五彩斑斓的咒骂连水手听了都会脸红。"
+          },
+          {
+            "sentence": "He muttered an oath when stubbing his toe on the Great Wall bricks.",
+            "sentence_zh": "他的脚趾撞到长城砖块时低声咒骂了一句。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take an oath",
+        "meaning": "立誓",
+        "examples": [
+          {
+            "sentence": "New citizens take the oath of allegiance holding little red books.",
+            "sentence_zh": "新公民手持小红本进行效忠宣誓。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "under oath",
+        "meaning": "宣誓保证",
+        "examples": [
+          {
+            "sentence": "The CEO testified under oath about the company's mooncake accounting.",
+            "sentence_zh": "CEO宣誓作证关于公司月饼账目的事宜。"
+          }
+        ]
+      }
+    ],
+    "teach": "oath是誓言也是脏话🤬！就像关羽'誓同生死'的桃园结义🍑（take an oath），也像包青天'开铡前必念的'皇天在上'⚖️（swear an oath），还能是唐僧念紧箍咒时的'悟空！'（curse with oaths）。说'发毒誓'用swear a blood oath，'骂街'叫hurl oaths like firecrackers🧨。记住：举头三尺有oath！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呕死'→违背誓言气得呕血",
+        "对比：oath(法律效力)/pledge(个人承诺)/vow(宗教誓约)"
+      ]
+    }
+  },
+  {
+    "word": "oatmeal",
+    "etymology": {
+      "breakdown": [
+        "oat",
+        "meal"
+      ],
+      "meaning_connection": "oat=燕麦，meal=磨碎的谷物→字面意思是'磨碎的燕麦'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "燕麦片",
+        "examples": [
+          {
+            "sentence": "I mix oatmeal with yogurt for a quick breakfast.",
+            "sentence_zh": "我把燕麦片拌酸奶当快手早餐。"
+          },
+          {
+            "sentence": "This cookie recipe calls for two cups of oatmeal.",
+            "sentence_zh": "这个饼干配方需要两杯燕麦片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "燕麦粥",
+        "examples": [
+          {
+            "sentence": "British detectives always eat oatmeal with milk in TV dramas.",
+            "sentence_zh": "英剧里的侦探总爱喝加牛奶的燕麦粥。"
+          },
+          {
+            "sentence": "Grandma's secret to perfect oatmeal is a pinch of salt.",
+            "sentence_zh": "奶奶煮完美燕麦粥的秘诀是加一撮盐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "oatmeal raisin cookie",
+        "meaning": "燕麦葡萄干曲奇",
+        "examples": [
+          {
+            "sentence": "Starbucks' oatmeal raisin cookie pairs well with Americano.",
+            "sentence_zh": "星巴克的燕麦葡萄干曲奇配美式咖啡绝佳。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "instant oatmeal",
+        "meaning": "速食燕麦片",
+        "examples": [
+          {
+            "sentence": "College students survive on instant oatmeal during finals week.",
+            "sentence_zh": "大学生期末周靠速食燕麦片续命。"
+          }
+        ]
+      }
+    ],
+    "teach": "燕麦片是早餐界的万金油🔧！苏格兰人打仗都带着燕麦袋🏴，说'今天吃土'英语叫live on oatmeal（靠燕麦过活）。搭配秘籍：豪华版加坚果🌰+蜂蜜🍯，懒人版直接泡奶茶🥤。记住：说'寡淡无味'可以吐槽tastes like plain oatmeal！",
+    "recite": {
+      "tips": [
+        "谐音梗：'欧特密哦'→欧洲特产秘密武器燕麦",
+        "易混词对比：porridge(泛指粥) vs oatmeal(特指燕麦粥)"
+      ]
+    }
   }
 ]

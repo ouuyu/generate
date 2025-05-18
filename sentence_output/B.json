@@ -532,5 +532,202 @@
         "易混词对比：Babylonian vs. barbarian（野蛮人）"
       ]
     }
+  },
+  {
+    "word": "baccarat",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语baccara，可能来自意大利语baccara（零），指游戏中牌面值为零的牌"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "一种纸牌赌博",
+        "examples": [
+          {
+            "sentence": "The high roller lost $2 million in baccarat at Macau's casino.",
+            "sentence_zh": "这位豪赌客在澳门赌场玩百家乐输了200万美元。"
+          },
+          {
+            "sentence": "James Bond famously plays baccarat in Casino Royale.",
+            "sentence_zh": "詹姆斯·邦德在《皇家赌场》中玩百家乐的桥段非常著名。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "baccarat其实是'百家哭'🎲💸：这个法语词本意是'零蛋'（因为10/J/Q/K都算0分），现在却让赌客钱包归零👛➡️🕳️。要说'赌上头'用地道说法是go all in（梭哈），'小赌怡情'叫play for peanuts🥜。记住：baccarat的bacca-发音像'把卡'——小心把信用卡刷爆！💳🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'白卡啦'→白卡啦(baccarat)变黑卡",
+        "易混词：poker（扑克）是比大小，baccarat是比谁接近9点"
+      ]
+    }
+  },
+  {
+    "word": "bachelor",
+    "etymology": {
+      "breakdown": [
+        "baccal",
+        "arius"
+      ],
+      "meaning_connection": "来自古法语'bacheler'（年轻骑士），与拉丁语'baccalarius'（农场工人）相关，后来引申为'初级学位获得者'和'未婚男性'两种含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "单身汉",
+        "examples": [
+          {
+            "sentence": "The 35-year-old bachelor keeps a collection of manga figurines in his apartment.",
+            "sentence_zh": "这位35岁的单身汉在公寓里收藏着动漫手办。"
+          },
+          {
+            "sentence": "As a confirmed bachelor, he enjoys solo travel to comic conventions.",
+            "sentence_zh": "作为坚定的单身汉，他喜欢独自参加动漫展。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "学士",
+        "examples": [
+          {
+            "sentence": "She earned a Bachelor of Science in Artificial Intelligence from Tsinghua University.",
+            "sentence_zh": "她获得了清华大学人工智能专业的理学学士学位。"
+          },
+          {
+            "sentence": "The job requires at least a bachelor's degree in any field.",
+            "sentence_zh": "该职位要求至少拥有任意领域的学士学位。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bachelor party",
+        "meaning": "单身派对",
+        "examples": [
+          {
+            "sentence": "His friends organized a hotpot-themed bachelor party before the wedding.",
+            "sentence_zh": "他的朋友们在婚礼前组织了一场火锅主题的单身派对。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bachelor pad",
+        "meaning": "单身公寓",
+        "examples": [
+          {
+            "sentence": "His bachelor pad features a gaming PC and instant noodle stocks.",
+            "sentence_zh": "他的单身公寓配有游戏电脑和泡面储备。"
+          }
+        ]
+      }
+    ],
+    "teach": "bachelor就像未开封的泡面🍜：既是'学士学位'的完成态（煮好的面），又是'单身汉'的待机态（干粮状态）。中世纪时骑士学徒叫bachelor，现在演变成两种'未完成体'：学业上刚达标🎓，感情上待配对💘。说'黄金单身汉'用eligible bachelor，'母胎单身'则说permanent bachelor。记住：泡面要开水，学士要论文，脱单要...外卖？🍱",
+    "recite": {
+      "tips": [
+        "谐音梗：'白扯了'→拿到学士学位(bachelor)还单身白扯了",
+        "易混词对比：bachelor(学士) vs. master(硕士) → 就像泡面 vs 自热火锅"
+      ]
+    }
+  },
+  {
+    "word": "bacilli",
+    "etymology": {
+      "breakdown": [
+        "bacill",
+        "i"
+      ],
+      "meaning_connection": "词根bacill=小棍棒（形容杆状细菌形态），复数后缀-i"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "杆菌",
+        "examples": [
+          {
+            "sentence": "Yogurt contains beneficial bacilli that aid digestion.",
+            "sentence_zh": "酸奶含有助消化的有益杆菌。"
+          },
+          {
+            "sentence": "TB bacilli can survive in dust for weeks.",
+            "sentence_zh": "结核杆菌能在灰尘中存活数周。"
+          }
+        ]
+      }
+    ],
+    "teach": "bacilli其实就是细菌界的'筷子精'🥢！这些杆状微生物像被缩小的擀面杖🔬（想象乳酸杆菌在酸奶里划船）。遇到'坏杆菌'记得说kick the bacilli out💪，但益生菌叫good bacilli buddies🦠。记住：它们比你的外卖筷子还细10万倍！",
+    "recite": {
+      "tips": [
+        "视觉联想：bacilli的'ill'像生病的→致病杆菌",
+        "易混词：bacteria（所有细菌总称）vs bacilli（特指杆状）",
+        "记忆口诀：'bacilli拜ceili'→杆菌拜倒在显微镜下"
+      ]
+    }
+  },
+  {
+    "word": "bacillus",
+    "etymology": {
+      "breakdown": [
+        "bacill",
+        "us"
+      ],
+      "meaning_connection": "拉丁词根bacill=小棒（因其杆状形态），-us为名词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "杆菌",
+        "examples": [
+          {
+            "sentence": "Tuberculosis is caused by a slim bacillus under microscope.",
+            "sentence_zh": "结核病由显微镜下细长的杆菌引起。"
+          },
+          {
+            "sentence": "The probiotic drink contains beneficial bacillus strains.",
+            "sentence_zh": "这款益生菌饮料含有有益杆菌菌株。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "细菌",
+        "examples": [
+          {
+            "sentence": "Hotpot lovers should know bacillus can survive in boiling soup for seconds.",
+            "sentence_zh": "火锅爱好者须知细菌能在沸汤中存活数秒。"
+          },
+          {
+            "sentence": "Yogurt fermentation relies on specific bacillus cultures.",
+            "sentence_zh": "酸奶发酵依赖特定细菌培养物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bacillus subtilis",
+        "meaning": "枯草芽孢杆菌",
+        "examples": [
+          {
+            "sentence": "Bacillus subtilis is widely used in Chinese soybean fermentation.",
+            "sentence_zh": "枯草芽孢杆菌广泛用于中国豆制品发酵。"
+          }
+        ]
+      }
+    ],
+    "teach": "bacillus其实是微生物界的'金箍棒'🧫！这些杆状细菌就像火锅里游泳的迷你运动员🏊（有些确实耐高温）。记住：酸奶里的'益生菌'叫probiotic bacillus🧂，而'细菌战'是germ warfare☣️。下次吃毛肚时可以说：这片可能有bacillus在蹦迪！💃",
+    "recite": {
+      "tips": [
+        "谐音梗：'白吃了死'→白吃了带杆菌的食物",
+        "对比记忆：bacillus（杆状）vs coccus（球状）vs spirillum（螺旋状）",
+        "联想：bac-开头联想到back（背部），想象细菌扛着小棍子"
+      ]
+    }
   }
 ]
