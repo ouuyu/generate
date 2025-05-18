@@ -288,5 +288,256 @@
         "易混词：abacus vs. algebra（代数）"
       ]
     }
+  },
+  {
+    "word": "abandon",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bandon"
+      ],
+      "meaning_connection": "前缀a-表示'离开'，古法语bandon=控制权→原指彻底放弃控制，现有多重情感色彩"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "放弃（计划/责任）",
+        "examples": [
+          {
+            "sentence": "The startup abandoned its metaverse project after burning 2 billion yuan.",
+            "sentence_zh": "这家初创公司在烧掉20亿后放弃了元宇宙项目。"
+          },
+          {
+            "sentence": "Never abandon your original aspiration, just like hotpot never abandens spicy broth.",
+            "sentence_zh": "永远不要放弃初心，就像火锅永远不会放弃辣汤底。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "遗弃（人或物）",
+        "examples": [
+          {
+            "sentence": "The meme 'abandoned cat head' went viral on Douyin.",
+            "sentence_zh": "抖音上「被遗弃猫猫头」表情包突然爆火。"
+          },
+          {
+            "sentence": "Abandoned shared bikes became urban scrap mountains.",
+            "sentence_zh": "被遗弃的共享单车堆成了城市废铁山。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "沉溺于",
+        "examples": [
+          {
+            "sentence": "He abandoned himself to livestream shopping every night.",
+            "sentence_zh": "他每晚沉迷于直播购物无法自拔。"
+          },
+          {
+            "sentence": "The writer abandoned herself to the aroma of stinky tofu for inspiration.",
+            "sentence_zh": "这位作家沉溺在臭豆腐香气中寻找灵感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无拘无束",
+        "examples": [
+          {
+            "sentence": "Dancing with abandon during square dancing is true freedom.",
+            "sentence_zh": "跳广场舞时尽情舞动才是真正的自由。"
+          },
+          {
+            "sentence": "Her singing had a wild abandon that shocked the judges.",
+            "sentence_zh": "她狂放的演唱方式震撼了评委。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abandon oneself to",
+        "meaning": "放纵于",
+        "examples": [
+          {
+            "sentence": "After final exams, students abandon themselves to hotpot feasts.",
+            "sentence_zh": "期末考试后学生们纵情享受火锅盛宴。"
+          }
+        ]
+      }
+    ],
+    "teach": "abandon是情感过山车🎢！放弃项目时像卸载王者荣耀♟️（abandon a plan），遗弃宠物时像小区里的纸箱猫🐈（abandon a pet），而'abandon oneself to'则像深夜狂炫螺蛳粉🍜（彻底放纵）。地道表达：'摆烂'叫throw in the towel（认输扔毛巾），'彻底放弃'用abandon ship（弃船）🚢。记住：该abandon时就abandon，比如对不合理加班！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊搬凳'→啊！搬凳子跑路(abandon)",
+        "易混词：desert（沙漠/遗弃）vs abandon（更强调情感决绝）",
+        "记忆tip：abandon=a（一个）+band（乐队）+on（在...上）→一个乐队在沉溺演出"
+      ]
+    }
+  },
+  {
+    "word": "abandoned",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bandon"
+      ],
+      "meaning_connection": "前缀a-表示'离开'，古法语bandon=控制权→原指'放弃控制权'，引申出'被抛弃的'和'无约束的'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "被抛弃的",
+        "examples": [
+          {
+            "sentence": "The abandoned factory now serves as a graffiti paradise.",
+            "sentence_zh": "这座废弃工厂现在成了涂鸦天堂。"
+          },
+          {
+            "sentence": "Rescuers found three abandoned kittens in a McDonald's takeout bag.",
+            "sentence_zh": "救援者在麦当劳外卖袋里发现三只被遗弃的奶猫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无约束的",
+        "examples": [
+          {
+            "sentence": "The dancer moved with abandoned grace during the live stream.",
+            "sentence_zh": "舞者直播时展现出无拘无束的灵动舞姿。"
+          },
+          {
+            "sentence": "Her abandoned laughter echoed through the quiet library.",
+            "sentence_zh": "她恣意的笑声在安静的图书馆里回荡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "恣意放荡的",
+        "examples": [
+          {
+            "sentence": "The movie depicts the abandoned lifestyle of 1920s jazz musicians.",
+            "sentence_zh": "电影描绘了1920年代爵士乐手放荡不羁的生活方式。"
+          },
+          {
+            "sentence": "His abandoned spending habits eventually led to debt.",
+            "sentence_zh": "他挥霍无度的消费习惯最终导致负债。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abandoned child",
+        "meaning": "弃婴",
+        "examples": [
+          {
+            "sentence": "The police station set up a 'baby safety island' for abandoned children.",
+            "sentence_zh": "派出所为弃婴设置了'婴儿安全岛'。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "abandoned oneself to",
+        "meaning": "沉溺于",
+        "examples": [
+          {
+            "sentence": "He abandoned himself to mobile games during quarantine.",
+            "sentence_zh": "隔离期间他彻底沉溺于手机游戏。"
+          }
+        ]
+      }
+    ],
+    "teach": "abandoned是'爱搬凳的'搬家工人留下的空屋🏚️！本义像被主人抛弃的共享单车🚲（abandoned bike），引申义像大妈跳广场舞时的狂野步伐💃（abandoned dancing）。说'彻底放纵'可以用let one's hair down（字面：放下头发），搭配'abandoned building'和'abandoned smile'使用更地道。记住：被抛弃是物理状态，放纵是精神状态！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅搬凳的'→鹅搬走了凳子留下abandoned现场",
+        "易混对比：deserted（强调无人状态）/abandoned（强调被主动抛弃）",
+        "记忆口诀：A凳（abandoned）被搬走，主人很放纵"
+      ]
+    }
+  },
+  {
+    "word": "abandonment",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bandon",
+        "ment"
+      ],
+      "meaning_connection": "前缀a-表示'去/离开'，bandon源自法语'ban'（禁令），-ment表名词→原指'被驱逐状态'，后演变为'放弃'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "放弃",
+        "examples": [
+          {
+            "sentence": "The abandonment of his PhD thesis shocked his advisor.",
+            "sentence_zh": "他放弃博士学位论文的行为震惊了导师。"
+          },
+          {
+            "sentence": "Urban explorers love the eerie beauty of train abandonment sites.",
+            "sentence_zh": "城市探险者痴迷于火车废弃地带的诡异美感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抛弃",
+        "examples": [
+          {
+            "sentence": "Pet abandonment spikes before Spring Festival every year.",
+            "sentence_zh": "每年春节前宠物遗弃事件都会激增。"
+          },
+          {
+            "sentence": "The rusty bicycle showed signs of long-term abandonment.",
+            "sentence_zh": "这辆生锈的自行车显示出被长期丢弃的痕迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "放纵",
+        "examples": [
+          {
+            "sentence": "Her karaoke performance was pure abandonment of dignity.",
+            "sentence_zh": "她的卡拉OK表演完全是对形象的彻底放飞。"
+          },
+          {
+            "sentence": "Dancing with wild abandonment at the music festival.",
+            "sentence_zh": "在音乐节上尽情放纵地跳舞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sense of abandonment",
+        "meaning": "被抛弃感",
+        "examples": [
+          {
+            "sentence": "Left-behind children often develop a deep sense of abandonment.",
+            "sentence_zh": "留守儿童常会产生强烈的被遗弃感。"
+          }
+        ]
+      }
+    ],
+    "teach": "abandonment是'爱搬凳子门特'🧠→搬(a)走凳子(bandon)就把你拒之门外(ment)！这个词像被主人丢在快递站的猫🐱（pet abandonment），又像大妈们彻底放飞自我的广场舞💃（dance with abandonment）。说'彻底摆烂'可以用total abandonment，'弃坑游戏'叫game abandonment。记住：当你的健身卡变成洗澡卡时，就是典型的gym abandonment🏋️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊板凳闷的'→啊！板凳闷久了就被抛弃",
+        "易混词对比：abandonment（行为本身） vs. abandonment issues（心理问题）",
+        "记忆tip：联想被遗弃的共享单车ofo"
+      ]
+    }
   }
 ]

@@ -275,5 +275,321 @@
         "易混词：tabby(自然花纹) vs calico(三色拼布花纹)"
       ]
     }
+  },
+  {
+    "word": "tabernacle",
+    "etymology": {
+      "breakdown": [
+        "tabern",
+        "acle"
+      ],
+      "meaning_connection": "源自拉丁语tabernaculum（帐篷），词根tabern指'木屋'，-acle表'场所'→原指游牧民族的临时居所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "临时房屋",
+        "examples": [
+          {
+            "sentence": "Migrant workers built tabernacles from plastic sheets near the construction site.",
+            "sentence_zh": "建筑工地旁的农民工用塑料布搭建临时住所。"
+          },
+          {
+            "sentence": "The festival organizers set up colorful tabernacles for vendors along the street.",
+            "sentence_zh": "节日组织者在街道两侧为商贩搭起彩色的临时棚屋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "帐篷",
+        "examples": [
+          {
+            "sentence": "Bedouin tabernacles blend perfectly with the desert landscape.",
+            "sentence_zh": "贝都因人的帐篷与沙漠景观完美融合。"
+          },
+          {
+            "sentence": "We pitched a tabernacle by the West Lake during the camping trip.",
+            "sentence_zh": "露营时我们在西湖边支起帐篷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "礼拜堂",
+        "examples": [
+          {
+            "sentence": "The traveling preacher held services in a makeshift tabernacle.",
+            "sentence_zh": "巡回牧师在临时礼拜堂举行仪式。"
+          },
+          {
+            "sentence": "Mormons call their meeting houses 'tabernacles'.",
+            "sentence_zh": "摩门教徒称他们的聚会所为'圣幕'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把...置于神龛",
+        "examples": [
+          {
+            "sentence": "The relic was tabernacled in a golden casket at the Shaolin Temple.",
+            "sentence_zh": "这件圣物被供奉在少林寺的金龛中。"
+          },
+          {
+            "sentence": "Ancient Egyptians tabernacled mummies in elaborately decorated sarcophagi.",
+            "sentence_zh": "古埃及人将木乃伊安放在装饰精美的石棺中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "暂居",
+        "examples": [
+          {
+            "sentence": "The soul tabernacles in the mortal body according to Christian belief.",
+            "sentence_zh": "基督教认为灵魂暂居于凡人之躯。"
+          },
+          {
+            "sentence": "Migratory birds tabernacle in this wetland every winter.",
+            "sentence_zh": "候鸟每年冬季在此湿地暂栖。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "feast of tabernacles",
+        "meaning": "住棚节（犹太节日）",
+        "examples": [
+          {
+            "sentence": "During the Feast of Tabernacles, Jewish families build temporary shelters in their yards.",
+            "sentence_zh": "住棚节期间，犹太家庭会在院子里搭建临时棚屋。"
+          }
+        ]
+      }
+    ],
+    "teach": "tabernacle是移动版的'神圣蜗居'🐌！最初指犹太人的流动圣所（就像可拆卸版少林寺🏯），现在连程序员996的临时工棚也能叫tabernacle。宗教语境说'灵魂寄居肉体'就像租了个灵魂Airbnb🏠，要说'住在简陋处'可以幽默地说living in a tabernacle。搭配：pitch a tabernacle（搭帐篷）/ earthly tabernacle（凡躯）🛖",
+    "recite": {
+      "tips": [
+        "谐音梗：'台伯河那个棚'→罗马台伯河畔的临时帐篷",
+        "对比记忆：temple（永久庙宇） vs tabernacle（临时圣所）",
+        "联想：淘宝(tabao)+nacelle（飞机舱）→可移动的淘宝集装箱商店"
+      ]
+    }
+  },
+  {
+    "word": "table",
+    "etymology": {
+      "breakdown": [
+        "tab",
+        "le"
+      ],
+      "meaning_connection": "词根tab=平板（同tabula），-le表工具→原指用于书写的木板，引申出各种平面物体的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "桌子",
+        "examples": [
+          {
+            "sentence": "The mahjong table collapsed after 8 hours of intense gameplay.",
+            "sentence_zh": "这张麻将桌在激烈战斗8小时后散架了。"
+          },
+          {
+            "sentence": "She doodled pandas on the conference table during boring meetings.",
+            "sentence_zh": "她在无聊会议时在会议桌上画熊猫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "餐桌",
+        "examples": [
+          {
+            "sentence": "The hotpot ingredients covered the entire round table.",
+            "sentence_zh": "火锅食材铺满了整个圆餐桌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "表格",
+        "examples": [
+          {
+            "sentence": "The Excel table automatically calculates your daily milk tea expenses.",
+            "sentence_zh": "这个Excel表格会自动计算你每天的奶茶开销。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "高原",
+        "examples": [
+          {
+            "sentence": "The Tibetan tableland is called 'the roof of the world'.",
+            "sentence_zh": "青藏高原被称为'世界屋脊'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "搁置",
+        "examples": [
+          {
+            "sentence": "They tabled the meeting to watch the World Cup final.",
+            "sentence_zh": "他们暂停会议去看世界杯决赛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "制表",
+        "examples": [
+          {
+            "sentence": "The teacher tabled students' dumpling-eating speed rankings.",
+            "sentence_zh": "老师制作了学生吃饺子速度排行榜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "turn the tables",
+        "meaning": "扭转局面",
+        "examples": [
+          {
+            "sentence": "The underdog team turned the tables with a last-minute three-pointer.",
+            "sentence_zh": "弱旅凭借压哨三分球逆转局势。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "on the table",
+        "meaning": "公开讨论",
+        "examples": [
+          {
+            "sentence": "WFH policy is finally on the table after the subway strike.",
+            "sentence_zh": "地铁罢工后，居家办公政策终于被提上议程。"
+          }
+        ]
+      }
+    ],
+    "teach": "table是个超级变形金刚🤖！当桌子时是火锅战场🍲（dining table），当表格时是Excel格子间📊（data table），当高原时是青藏铁路的舞台🚞（Tibetan tableland）。英国人说'put on table'是讨论，美国人却说'搁置'——这简直是英式英语和美式英语的'餐桌大战'🍴！记住：'工资表'叫payroll table，'谈判桌'叫negotiation table。",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒薄'→桌子忒薄容易塌",
+        "易混词：desk（单人书桌） vs table（多人用桌）",
+        "记忆tip：所有含义都跟'平面'有关"
+      ]
+    }
+  },
+  {
+    "word": "tableau",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语tableau（画面），原指舞台上的静态造型，现引申为任何具视觉冲击力的场景"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "生动场面",
+        "examples": [
+          {
+            "sentence": "The lantern festival created a magical tableau with thousands of lights.",
+            "sentence_zh": "元宵节的上万盏花灯构成了魔幻般的生动场面。"
+          },
+          {
+            "sentence": "Her WeChat moments are always a tableau of gourmet food and sunsets.",
+            "sentence_zh": "她的朋友圈总是美食与夕阳交错的生动画面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "戏剧性局面",
+        "examples": [
+          {
+            "sentence": "The debate stage became a tableau of political tension.",
+            "sentence_zh": "辩论舞台变成了政治角力的戏剧性局面。"
+          },
+          {
+            "sentence": "The family reunion dinner turned into a tableau of generational conflict.",
+            "sentence_zh": "年夜饭演变成了代际冲突的戏剧性场面。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "living tableau",
+        "meaning": "活人造型",
+        "examples": [
+          {
+            "sentence": "The museum presented a living tableau of ancient tea ceremony.",
+            "sentence_zh": "博物馆呈现了古代茶道的活人造型展示。"
+          }
+        ]
+      }
+    ],
+    "teach": "tableau就是现实版的'名场面'🎭！这个词像小红书里的爆款滤镜📸，能把地铁早高峰变成《清明上河图》🏮，把公司年会变成《权力的游戏》🐉。搭配说'create a tableau'（打造名场面）或'disrupt the tableau'（打破局面）。记住：当你说'What a tableau!' 就是在感叹'这剧情绝了！'💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'太饱了'→看到美食tableau吃到太饱了",
+        "易混词：canvas（画布）是静态的，tableau是动态定格",
+        "记忆法：把-tableau-中的'tab'联想成'标签'，每个标签背后都是戏剧人生"
+      ]
+    }
+  },
+  {
+    "word": "tablecloth",
+    "etymology": {
+      "breakdown": [
+        "table",
+        "cloth"
+      ],
+      "meaning_connection": "复合词，table=桌子，cloth=布→铺在桌子上的布"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "台布",
+        "examples": [
+          {
+            "sentence": "The red tablecloth with dragon patterns made the hotpot feast more festive.",
+            "sentence_zh": "绣着龙纹的红色台布让火锅宴更喜庆。"
+          },
+          {
+            "sentence": "She spilled mapo tofu on the new linen tablecloth.",
+            "sentence_zh": "她把麻婆豆腐洒在新买的亚麻台布上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "change the tablecloth",
+        "meaning": "更换台布",
+        "examples": [
+          {
+            "sentence": "Restaurants change tablecloths faster than TikTok trends refresh.",
+            "sentence_zh": "餐馆换台布的速度比抖音热点更新还快。"
+          }
+        ]
+      }
+    ],
+    "teach": "tablecloth是餐桌的'皇帝新衣'👑！中世纪欧洲贵族用奢华桌布炫富，就像现在晒星巴克樱花杯🌸。'弄脏台布'说stain the cloth就像火锅油溅到白衬衫🤦‍♀️，'铺台布'叫spread the cloth要像给手机贴膜一样小心📱。记住：再贵的tablecloth最终都会遇到老干妈！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒薄可漏丝'→特薄的桌布会漏面条",
+        "易混词对比：tableware（餐具）vs tablecloth（台布）",
+        "记忆tip：想象用cloth给table穿裙子"
+      ]
+    }
   }
 ]

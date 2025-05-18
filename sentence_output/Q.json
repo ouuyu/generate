@@ -313,5 +313,263 @@
         "记忆法：四个角(quad)的物体→想象成正方形的四个Q"
       ]
     }
+  },
+  {
+    "word": "quadrangle",
+    "etymology": {
+      "breakdown": [
+        "quadr",
+        "angle"
+      ],
+      "meaning_connection": "词根quadr=四（如quadruple四倍的），angle=角→四个角构成的形状"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "四角形",
+        "examples": [
+          {
+            "sentence": "The mysterious crop circle formed a perfect quadrangle.",
+            "sentence_zh": "这个神秘的麦田怪圈形成了完美的四角形。"
+          },
+          {
+            "sentence": "Children were drawing quadrangles with rainbow-colored chalk.",
+            "sentence_zh": "孩子们正用彩虹粉笔画四角形。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "四边形",
+        "examples": [
+          {
+            "sentence": "All squares are quadrangles but not all quadrangles are squares.",
+            "sentence_zh": "所有正方形都是四边形，但并非所有四边形都是正方形。"
+          },
+          {
+            "sentence": "The math teacher used chocolate bars to demonstrate quadrangles.",
+            "sentence_zh": "数学老师用巧克力棒演示四边形。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "四方院",
+        "examples": [
+          {
+            "sentence": "Peking University's quadrangle courtyards are iconic architectures.",
+            "sentence_zh": "北京大学的四合院是标志性建筑。"
+          },
+          {
+            "sentence": "Students were playing mahjong in the ancient quadrangle.",
+            "sentence_zh": "学生们在古老的四方院里打麻将。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quadrangle building",
+        "meaning": "四合院建筑",
+        "examples": [
+          {
+            "sentence": "The quadrangle building preserved traditional Chinese feng shui principles.",
+            "sentence_zh": "这座四合院建筑保留了中国传统风水理念。"
+          }
+        ]
+      }
+    ],
+    "teach": "quadrangle是几何学里的'四喜丸子'🔶！想象：1) 北京烤鸭的四方荷叶饼🥞 2) 故宫的四方庭院🏯 3) 麻将桌的四个方位🀄。搭配说'quadrangle courtyard'（四合院）比说'square yard'更地道，要形容'方方正正'可以说boxy like a quadrangle📦。记住：quadr-开头都有'四'，比如quadruplets四胞胎👶👶👶👶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'跨桌三角'→四边形其实是跨过桌子的四个角",
+        "易混词：triangle（三角形）是tri-三开头"
+      ]
+    }
+  },
+  {
+    "word": "quadrant",
+    "etymology": {
+      "breakdown": [
+        "quadr",
+        "ant"
+      ],
+      "meaning_connection": "词根quadr=四（如四边形quadrilateral），后缀-ant表工具/区域→原指将圆形四等分的测量工具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "四分之一圆",
+        "examples": [
+          {
+            "sentence": "The pizza was cut into quadrants with surgical precision.",
+            "sentence_zh": "这块披萨被精准地切成四分之一圆。"
+          },
+          {
+            "sentence": "Ancient astronomers divided the night sky into quadrants.",
+            "sentence_zh": "古代天文学家将夜空划分为四分之一圆区域。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "象限",
+        "examples": [
+          {
+            "sentence": "In the coordinate system, the top-right quadrant is where all positive numbers live.",
+            "sentence_zh": "坐标系中，右上象限是正数的家园。"
+          },
+          {
+            "sentence": "The business strategy matrix places TikTok in the high-growth quadrant.",
+            "sentence_zh": "商业战略矩阵将抖音置于高增长象限。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "象限仪",
+        "examples": [
+          {
+            "sentence": "Mariners used brass quadrants to navigate by the stars.",
+            "sentence_zh": "水手曾用黄铜象限仪通过星辰导航。"
+          },
+          {
+            "sentence": "The antique quadrant in the museum still has zodiac engravings.",
+            "sentence_zh": "博物馆的古象限仪上仍刻有黄道十二宫图案。"
+          }
+        ]
+      }
+    ],
+    "teach": "quadrant是'四分五裂'的学术版🔢！想象把月饼🥮完美四等分（四分之一圆），或王者荣耀地图分为敌我野区（象限）🗺️。搭配'first quadrant'（第一象限）像吃鸡安全区⭕，'quadrant analysis'（象限分析）像给奶茶店分类：好喝又便宜的就是YYDS象限！用'divide into quadrants'比说'分成四块'专业100倍🧠",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸追他'→用象限仪(quadrant)追星星",
+        "易混词：quarter是普通四等分，quadrant强调几何测量"
+      ]
+    }
+  },
+  {
+    "word": "quadrilateral",
+    "etymology": {
+      "breakdown": [
+        "quadri",
+        "later",
+        "al"
+      ],
+      "meaning_connection": "前缀quadri-表示'四'（如quadruplets四胞胎），词根later表示'边'（如lateral侧面的），后缀-al表形容词→'有四条边的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "四边形的",
+        "examples": [
+          {
+            "sentence": "The Wuliangye liquor bottle has a distinctive quadrilateral shape.",
+            "sentence_zh": "五粮液酒瓶有着独特的四边形外观。"
+          },
+          {
+            "sentence": "Children at the park were drawing quadrilateral kites in the sand.",
+            "sentence_zh": "公园里的孩子们正在沙地上画四边形风筝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "regular quadrilateral",
+        "meaning": "正四边形（正方形）",
+        "examples": [
+          {
+            "sentence": "The Mahjong tile '中' is printed on regular quadrilateral tiles.",
+            "sentence_zh": "麻将牌'中'印在正四边形牌面上。"
+          }
+        ]
+      }
+    ],
+    "teach": "quadrilateral其实是'四边侠'🦸♂️！想象它穿着4条边做的披风：quadri-是漫威'神奇四侠'的4️⃣，later是《进击的巨人》城墙的边🧱。说'歪七扭八'叫lopsided quadrilateral（歪四边形），'标准正方形'叫regular quadrilateral就像故宫地砖🏯。记住：麻将牌+手机屏+粽子包装=四边形三兄弟📱🎲🥢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快追late了'→四边形有四(quad)条边(later)在追你",
+        "易混词对比：triangle（三边形）vs. quadrilateral（四边形）",
+        "记忆口诀：Quad像方块，later像砖块，合起来就是四块砖"
+      ]
+    }
+  },
+  {
+    "word": "quadrille",
+    "etymology": {
+      "breakdown": [
+        "quadr",
+        "ille"
+      ],
+      "meaning_connection": "词根quadr=四（如quadrilateral四边形），后缀-ille表'小/相关'→原指四人或四组参与的纸牌游戏和舞蹈"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "夸德里尔牌戏",
+        "examples": [
+          {
+            "sentence": "Jane Austen's heroines often played quadrille at country balls.",
+            "sentence_zh": "简·奥斯汀笔下的女主角常在乡村舞会上玩夸德里尔牌。"
+          },
+          {
+            "sentence": "The quadrille cards had special markings for the four-player game.",
+            "sentence_zh": "夸德里尔牌上有专为四人游戏设计的特殊标记。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "四对舞",
+        "examples": [
+          {
+            "sentence": "The quadrille dance required precise geometric formations like squares.",
+            "sentence_zh": "四对舞需要精确的方形几何队形。"
+          },
+          {
+            "sentence": "At the royal ball, eight dancers performed a French quadrille.",
+            "sentence_zh": "宫廷舞会上，八位舞者表演了法式四对舞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "四对舞曲",
+        "examples": [
+          {
+            "sentence": "Mozart composed quadrilles for aristocratic entertainment.",
+            "sentence_zh": "莫扎特为贵族娱乐创作过四对舞曲。"
+          },
+          {
+            "sentence": "The quadrille music had four distinct rhythmic sections.",
+            "sentence_zh": "四对舞曲包含四个鲜明节奏段落。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dance the quadrille",
+        "meaning": "跳四对舞",
+        "examples": [
+          {
+            "sentence": "In Pride and Prejudice, Mr. Darcy shocked everyone by dancing the quadrille with Elizabeth.",
+            "sentence_zh": "《傲慢与偏见》中，达西先生与伊丽莎白跳四对舞震惊全场。"
+          }
+        ]
+      }
+    ],
+    "teach": "quadrille是欧洲贵族版的广场舞💃！想象四个贵族举着扑克牌🃏跳麻将操（牌戏），或是八人组成人形华夫饼🧇变换队形（四对舞）。现代人玩'四排吃鸡'🎯时，本质上也是在打电子版quadrille！搭配说'lead a quadrille'（领舞）或'card quadrille'（牌戏版），吐槽混乱场面可以说'worse than a drunken quadrille'（比醉鬼跳四对舞还乱）🤪🎭♠️",
+    "recite": {
+      "tips": [
+        "谐音梗：'快抖哩'→跳四对舞要快速抖动",
+        "易混词：quadrille（四对）vs. quartet（四重奏）",
+        "记忆法：quad（四）+ drill（训练）= 四人组队训练舞蹈"
+      ]
+    }
   }
 ]

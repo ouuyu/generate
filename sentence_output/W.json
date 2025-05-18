@@ -281,5 +281,304 @@
         "易混词对比：stagger(醉酒蹒跚) vs waddle(可爱摇摆)"
       ]
     }
+  },
+  {
+    "word": "wade",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'wadan'，意为'前进'，与德语'waten'（涉水）同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "跋涉",
+        "examples": [
+          {
+            "sentence": "The pandas waded through bamboo forests to find fresh shoots.",
+            "sentence_zh": "熊猫们跋涉过竹林寻找新鲜竹笋。"
+          },
+          {
+            "sentence": "Tourists waded across the rice fields to reach the village.",
+            "sentence_zh": "游客们跋涉穿过稻田到达那个村庄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "涉水",
+        "examples": [
+          {
+            "sentence": "Children were wading the creek to catch tadpoles.",
+            "sentence_zh": "孩子们正在小溪里涉水捉蝌蚪。"
+          },
+          {
+            "sentence": "He waded the moat to rescue the drowning duckling.",
+            "sentence_zh": "他涉水穿过护城河去救溺水的小鸭子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "跋涉",
+        "examples": [
+          {
+            "sentence": "The three-day wade through the wetlands exhausted everyone.",
+            "sentence_zh": "为期三天的湿地跋涉让所有人都筋疲力尽。"
+          },
+          {
+            "sentence": "Our wade to the waterfall was rewarded with stunning views.",
+            "sentence_zh": "我们跋涉到瀑布的辛苦被绝美景色补偿了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "浅滩",
+        "examples": [
+          {
+            "sentence": "The oxen were grazing near the wade in the Yellow River.",
+            "sentence_zh": "牛群正在黄河浅滩附近吃草。"
+          },
+          {
+            "sentence": "Fishermen set up nets at the tidal wade at dawn.",
+            "sentence_zh": "渔民黎明时在潮汐浅滩设网。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wade through",
+        "meaning": "费力做完",
+        "examples": [
+          {
+            "sentence": "I had to wade through 100+ emails after vacation.",
+            "sentence_zh": "休假后我不得不费力处理100多封邮件。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wade into",
+        "meaning": "猛烈介入",
+        "examples": [
+          {
+            "sentence": "The CEO waded into the hotpot debate: spicy or mild?",
+            "sentence_zh": "CEO突然加入火锅辣度之争。"
+          }
+        ]
+      }
+    ],
+    "teach": "wade是水陆两栖动词🏊‍♂️🚶‍♂️！想象李靖踩着风火轮过河（wade through water），或是你在奶茶店排队人潮中跋涉（wade through crowds）。说'艰难处理'可以用wade through paperwork（在文件海洋里狗刨），'浅滩'叫wade就像火锅里的清汤区🍲。记住：水里走用wade，泥里滚用trudge！",
+    "recite": {
+      "tips": [
+        "谐音梗：'味的'→有味的(wade)浅滩",
+        "易混词：wade(水中行走) vs wander(闲逛)"
+      ]
+    }
+  },
+  {
+    "word": "wader",
+    "etymology": {
+      "breakdown": [
+        "wade",
+        "er"
+      ],
+      "meaning_connection": "词根wade=涉水，后缀-er表人或工具→涉水者/涉水装备"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "涉水者",
+        "examples": [
+          {
+            "sentence": "The old wader caught river snails barefoot like a heron.",
+            "sentence_zh": "老渔翁像鹭鸶般赤脚涉水摸螺蛳。"
+          },
+          {
+            "sentence": "During flood season, waders become temporary ferrymen.",
+            "sentence_zh": "汛期时，涉水者会临时充当摆渡人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "涉禽",
+        "examples": [
+          {
+            "sentence": "The egret, a graceful wader, stands still like a white jade carving.",
+            "sentence_zh": "白鹭这种优雅的涉禽，静立时如白玉雕琢。"
+          },
+          {
+            "sentence": "Flamingos are pink waders that filter shrimp with their bills.",
+            "sentence_zh": "火烈鸟是用喙滤食虾类的粉色涉禽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "高统防水长靴",
+        "examples": [
+          {
+            "sentence": "Fishermen's waders filled with icy water during winter fishing.",
+            "sentence_zh": "冬捕时渔民的长靴里灌满冰水。"
+          },
+          {
+            "sentence": "His yellow waders made him look like a giant rubber duck.",
+            "sentence_zh": "他的黄色防水靴让他像只巨型橡皮鸭。"
+          }
+        ]
+      }
+    ],
+    "teach": "wader其实是'水陆两栖装备'🦆！想象：1)人类wader像《西游记》里淌流沙河的沙僧👣 2)鸟类wader踩着恨天高走猫步👠 3)靴子wader是钓鱼佬的移动澡盆🛁。搭配：'穿靴涉水'叫strut in waders，'水鸟觅食'说wader birds probing。地道表达'水深火热'可用in deep waders形容困境🌊",
+    "recite": {
+      "tips": [
+        "谐音梗：'围兜'→穿防水靴像宝宝的防水围兜",
+        "易混词：waiter（服务员）vs wader（涉水者）→端盘子的不会淌水"
+      ]
+    }
+  },
+  {
+    "word": "wadi",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自阿拉伯语وَادٍ (wādin)，指季节性河流的河谷"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "干河床",
+        "examples": [
+          {
+            "sentence": "Bedouins use wadis as natural highways in the desert.",
+            "sentence_zh": "贝都因人把干河床当作沙漠中的天然高速公路。"
+          },
+          {
+            "sentence": "The abandoned car was found in a dried-up wadi.",
+            "sentence_zh": "那辆废弃汽车是在干涸的河床上被发现的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "河道",
+        "examples": [
+          {
+            "sentence": "Flash floods can suddenly fill a wadi within minutes.",
+            "sentence_zh": "山洪暴发时，干河道可能在几分钟内被填满。"
+          },
+          {
+            "sentence": "Ancient trade routes often followed wadi systems.",
+            "sentence_zh": "古代贸易路线常沿着河道系统延伸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "干谷",
+        "examples": [
+          {
+            "sentence": "The canyon narrowed into a steep wadi with sheer cliffs.",
+            "sentence_zh": "峡谷逐渐收窄成两侧峭壁林立的陡峭干谷。"
+          },
+          {
+            "sentence": "Nomads store rainwater in cisterns carved into wadi walls.",
+            "sentence_zh": "游牧民族在干谷岩壁上凿出的蓄水池储存雨水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "流经干谷的溪流",
+        "examples": [
+          {
+            "sentence": "The rare wadi flow attracted desert animals to drink.",
+            "sentence_zh": "罕见的干谷溪流吸引了沙漠动物前来饮水。"
+          },
+          {
+            "sentence": "Children were playing in the shallow wadi after the rain.",
+            "sentence_zh": "雨后孩子们在浅溪流中玩耍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wadi system",
+        "meaning": "干河道系统",
+        "examples": [
+          {
+            "sentence": "The wadi system in Jordan stretches for hundreds of kilometers.",
+            "sentence_zh": "约旦的干河道系统绵延数百公里。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wadi rum",
+        "meaning": "约旦著名干谷景区",
+        "examples": [
+          {
+            "sentence": "Wadi Rum's red sands inspired the Martian landscape in films.",
+            "sentence_zh": "瓦迪拉姆的红沙启发了电影中的火星景观设计。"
+          }
+        ]
+      }
+    ],
+    "teach": "wadi是沙漠的变形金刚🏜️！平时装死扮干河床（dry wadi），暴雨时秒变汹涌河道（raging wadi）💦，像极了上班摸鱼突然被@的你💻。阿拉伯人把它当天然GPS🗺️，好莱坞用它假装火星🌕。记住：说'沙漠洪水'用wadi flood，'季节性河流'说ephemeral wadi，夸风景壮丽直接喊'这简直是Wadi Rum本rum！'🐫🌅",
+    "recite": {
+      "tips": [
+        "谐音梗：'挖地'→在沙漠挖地见到的就是wadi",
+        "易混词对比：valley(常绿山谷) vs wadi(干旱河谷)"
+      ]
+    }
+  },
+  {
+    "word": "wading",
+    "etymology": {
+      "breakdown": [
+        "wade",
+        "ing"
+      ],
+      "meaning_connection": "动词wade表示'涉水'，后缀-ing构成形容词→'正在涉水的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "涉水的",
+        "examples": [
+          {
+            "sentence": "The children wore wading boots to catch tadpoles in the creek.",
+            "sentence_zh": "孩子们穿着涉水靴在小溪里捉蝌蚪。"
+          },
+          {
+            "sentence": "A flamingo's wading posture looks like a ballet dancer in pink.",
+            "sentence_zh": "火烈鸟的涉水姿态像穿粉裙的芭蕾舞者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wading pool",
+        "meaning": "浅水池",
+        "examples": [
+          {
+            "sentence": "The wading pool at the community center is full of rubber duckies every summer.",
+            "sentence_zh": "社区中心的浅水池每年夏天都漂满橡皮小鸭。"
+          }
+        ]
+      }
+    ],
+    "teach": "wading是'湿脚快乐'🦶💦！想象你像唐老鸭一样踩着水坑，这就是wading的快乐。鸟类学家说'涉水鸟'叫wading birds，比如火烈鸟🦩。说'水深危险'可以警告'No wading!'，而'浅水区'就是wading zone。记住这个单词就像踩水的噗通声！",
+    "recite": {
+      "tips": [
+        "视觉联想：'wading'中间的'adi'像踮脚走路的水波纹",
+        "易混词对比：wading（主动涉水） vs. submerged（完全淹没）"
+      ]
+    }
   }
 ]

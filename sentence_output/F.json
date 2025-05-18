@@ -288,5 +288,291 @@
         "易混词对比：fabled(虚构但美好) vs fabricated(恶意伪造)"
       ]
     }
+  },
+  {
+    "word": "fabric",
+    "etymology": {
+      "breakdown": [
+        "fabr",
+        "ic"
+      ],
+      "meaning_connection": "词根fabr=制作（同fabricate），-ic表性质→最初指编织物，后引申为抽象结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "织物",
+        "examples": [
+          {
+            "sentence": "This qipao uses silk fabric from Hangzhou.",
+            "sentence_zh": "这件旗袍采用杭州真丝面料。"
+          },
+          {
+            "sentence": "The astronaut's suit has 15 layers of special fabric.",
+            "sentence_zh": "航天服由15层特殊织物制成。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "结构",
+        "examples": [
+          {
+            "sentence": "The fabric of spacetime bends around black holes.",
+            "sentence_zh": "黑洞周围的时空结构会发生弯曲。"
+          },
+          {
+            "sentence": "WeChat has changed the fabric of social communication.",
+            "sentence_zh": "微信改变了社交沟通的基本结构。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "social fabric",
+        "meaning": "社会结构",
+        "examples": [
+          {
+            "sentence": "Pandemic masks became part of our social fabric.",
+            "sentence_zh": "防疫口罩已成为我们社会结构的一部分。"
+          }
+        ]
+      }
+    ],
+    "teach": "fabric就像乐高积木🧩！具体层面指你衣服的布料👗（cotton fabric），抽象层面可以是元宇宙的底层架构💻（digital fabric）。说'这料子好'用premium fabric，吐槽'质量差'说flimsy fabric像纸糊的📜。记住：好fabric经得起洗衣机考验，就像好的社会结构经得起时间考验⏳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'法布里克'→法国(fa)布料(bric)特别贵",
+        "易混词：fabric vs textile（前者更强调成品，后者侧重材料）",
+        "记忆法：fab-联想fabulous（极好的）+ ric（rich富有）=好料子"
+      ]
+    }
+  },
+  {
+    "word": "fabricate",
+    "etymology": {
+      "breakdown": [
+        "fabr",
+        "ic",
+        "ate"
+      ],
+      "meaning_connection": "词根fabr与'fabric（织物）'同源，指编织/建造；后缀-ate表动作→原指手工编织，后引申为制造甚至伪造"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "制造（实物）",
+        "examples": [
+          {
+            "sentence": "This factory fabricates 5G antennas for Huawei.",
+            "sentence_zh": "该工厂为华为制造5G天线。"
+          },
+          {
+            "sentence": "Ancient Chinese fabricated porcelain with kaolin clay.",
+            "sentence_zh": "古人用高岭土制造瓷器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "建造（大型结构）",
+        "examples": [
+          {
+            "sentence": "They fabricated a pedestrian bridge within 48 hours.",
+            "sentence_zh": "他们48小时内建造了一座人行天桥。"
+          },
+          {
+            "sentence": "The Eiffel Tower was fabricated from 18,038 iron parts.",
+            "sentence_zh": "埃菲尔铁塔由18,038个铁制部件建造而成。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "装配（组件）",
+        "examples": [
+          {
+            "sentence": "Workers fabricate iPhone cameras in dust-free rooms.",
+            "sentence_zh": "工人在无尘室装配iPhone摄像头。"
+          },
+          {
+            "sentence": "IKEA furniture is designed to be easily fabricated at home.",
+            "sentence_zh": "宜家家具设计为可轻松在家装配。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "伪造（虚假事物）",
+        "examples": [
+          {
+            "sentence": "The scammer fabricated a fake ID card using Photoshop.",
+            "sentence_zh": "诈骗者用PS伪造了假身份证。"
+          },
+          {
+            "sentence": "Some influencers fabricate luxury lifestyles on Xiaohongshu.",
+            "sentence_zh": "部分网红在小红书伪造奢侈生活。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fabricate evidence",
+        "meaning": "伪造证据",
+        "examples": [
+          {
+            "sentence": "The lawyer was disbarred for fabricating evidence.",
+            "sentence_zh": "该律师因伪造证据被吊销执照。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pre-fabricated",
+        "meaning": "预制的",
+        "examples": [
+          {
+            "sentence": "Prefabricated buildings reduced construction time by 70%.",
+            "sentence_zh": "预制建筑使施工时间减少70%。"
+          }
+        ]
+      }
+    ],
+    "teach": "fabricate就像乐高大师🧩：正经时造大楼（fabricate bridges），使坏时造谣言（fabricate lies）。古罗马人用'fabrica'指工匠作坊🏭，现在既说'中国制造'（Made in China），也要小心'剧本杀式摆拍'（fabricated scenes）。搭配预制房屋说pre-fab，吐槽假新闻用completely fabricated！💢",
+    "recite": {
+      "tips": [
+        "谐音梗：'发不离给他'→发明不离手才能制造好产品",
+        "易混词：manufacture（标准化制造） vs fabricate（手工/小批量）",
+        "记忆链：fabric(织物) → 编织 → 制造 → 伪造"
+      ]
+    }
+  },
+  {
+    "word": "fabricated",
+    "etymology": {
+      "breakdown": [
+        "fabric",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根fabric=建造/编织，-ate表动词化，-ed表完成态→指'被建造出来的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "焊接的",
+        "examples": [
+          {
+            "sentence": "The Eiffel Tower's fabricated iron structure weighs 7,300 tons.",
+            "sentence_zh": "埃菲尔铁塔的焊接钢结构重达7300吨。"
+          },
+          {
+            "sentence": "This fabricated steel bridge can withstand typhoons.",
+            "sentence_zh": "这座焊接钢桥能抵御台风。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "组合的, 装配式的",
+        "examples": [
+          {
+            "sentence": "IKEA's fabricated furniture confused the programmer for 6 hours.",
+            "sentence_zh": "宜家的组装家具让程序员困惑了6小时。"
+          },
+          {
+            "sentence": "The fabricated classroom was built in just 3 days.",
+            "sentence_zh": "这座装配式教室仅用3天建成。"
+          }
+        ]
+      }
+    ],
+    "teach": "fabricated其实是'乐高模式'🧩：就像用积木(fabric)搭出成品，古罗马人用这个词形容锻造铠甲⚔️。要说'山寨货'用地道说法是knock-off（敲下来的冒牌货），'预制菜'叫pre-fabricated food就像方便面包装🍜。记住：你组装的每个零件都在fabricate人生！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发不快累的'→组装家具发不快还累的",
+        "易混词对比：fabricated（人工组装） vs. natural（天然形成）",
+        "记忆tip：想象把'fabric（布料）'+'ate（吃）'组合成围裙"
+      ]
+    }
+  },
+  {
+    "word": "fabrication",
+    "etymology": {
+      "breakdown": [
+        "fabric",
+        "ation"
+      ],
+      "meaning_connection": "词根fabric源自拉丁语'fabrica'（作坊），后缀-ation表行为结果→原指手工制作，后衍生'虚构'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "制造",
+        "examples": [
+          {
+            "sentence": "The fabrication of this spacecraft took 10,000 engineers three years.",
+            "sentence_zh": "这艘航天器的制造动用了1万名工程师耗时三年。"
+          },
+          {
+            "sentence": "Traditional paper fabrication is considered intangible cultural heritage.",
+            "sentence_zh": "传统造纸工艺被列为非物质文化遗产。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "建造",
+        "examples": [
+          {
+            "sentence": "The fabrication of Bird's Nest Stadium used 42,000 tons of steel.",
+            "sentence_zh": "鸟巢体育馆的建造消耗了4.2万吨钢材。"
+          },
+          {
+            "sentence": "3D printing revolutionizes the fabrication of architectural models.",
+            "sentence_zh": "3D打印技术革新了建筑模型的建造方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "虚构的谎言",
+        "examples": [
+          {
+            "sentence": "The rumor about AI replacing teachers turned out to be pure fabrication.",
+            "sentence_zh": "AI将取代老师的传闻纯属虚构。"
+          },
+          {
+            "sentence": "His alibi was a clumsy fabrication that even his mom wouldn't believe.",
+            "sentence_zh": "他的不在场证明是连亲妈都不信的拙劣谎言。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "metal fabrication",
+        "meaning": "金属加工",
+        "examples": [
+          {
+            "sentence": "Suzhou is famous for its precision metal fabrication techniques.",
+            "sentence_zh": "苏州以精密金属加工技术闻名。"
+          }
+        ]
+      }
+    ],
+    "teach": "fabrication是'真亦假时假亦真'🏭：从工厂流水线(manufacturing)到编故事(story-making)都用它！古代作坊(fabrica)里工匠们边打铁⚒️边唠嗑，后来'打铁'变成了'打诳语'。说人'胡编乱造'可以甩一句：That's a load of fabrication!(谎话连篇) 搭配记忆：fabrication plant (制造厂) / complete fabrication (彻头彻尾的谎言)",
+    "recite": {
+      "tips": [
+        "谐音梗：'发不开心'→编造(fabrication)谎言让人不开心",
+        "易混词：fiction（文学虚构） vs fabrication（恶意造假）",
+        "联想：Facebook(FB)的fab→社交网络上的fabrication特别多"
+      ]
+    }
   }
 ]

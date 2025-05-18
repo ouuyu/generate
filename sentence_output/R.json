@@ -260,5 +260,309 @@
         "记忆法：三瓣嘴对应三个词性"
       ]
     }
+  },
+  {
+    "word": "rabble",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语，可能模拟嘈杂人群的声音"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "乌合之众",
+        "examples": [
+          {
+            "sentence": "The politician's speech turned the crowd into an angry rabble.",
+            "sentence_zh": "政客的演讲将人群变成了愤怒的乌合之众。"
+          },
+          {
+            "sentence": "Online forums can sometimes feel like a rabble of conflicting opinions.",
+            "sentence_zh": "网络论坛有时像是意见冲突的乌合之众。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "暴民",
+        "examples": [
+          {
+            "sentence": "The police struggled to control the rabble after the football match.",
+            "sentence_zh": "足球赛后，警察难以控制暴民。"
+          },
+          {
+            "sentence": "Historical records describe the rioters as a drunken rabble.",
+            "sentence_zh": "历史记录将暴乱者描述为醉酒的暴民。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "下层社会",
+        "examples": [
+          {
+            "sentence": "The novel vividly portrays the lives of the rabble in 19th-century London.",
+            "sentence_zh": "小说生动描绘了19世纪伦敦下层社会的生活。"
+          },
+          {
+            "sentence": "Charity workers tried to improve conditions for the city's rabble.",
+            "sentence_zh": "慈善工作者试图改善城市下层社会的状况。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "长柄耙",
+        "examples": [
+          {
+            "sentence": "The gardener used a rabble to gather fallen leaves.",
+            "sentence_zh": "园丁用长柄耙收集落叶。"
+          },
+          {
+            "sentence": "Ancient farmers crafted rabbles from sturdy branches.",
+            "sentence_zh": "古代农民用结实的树枝制作长柄耙。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "聚众闹事",
+        "examples": [
+          {
+            "sentence": "Protesters rabbled outside the government building until midnight.",
+            "sentence_zh": "抗议者在政府大楼外聚众闹事直至午夜。"
+          },
+          {
+            "sentence": "The fans rabbled when the concert was suddenly canceled.",
+            "sentence_zh": "音乐会被突然取消时，粉丝们聚众闹事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用拨火棍搅动",
+        "examples": [
+          {
+            "sentence": "He rabbled the campfire to keep it burning brightly.",
+            "sentence_zh": "他用拨火棍搅动营火使其持续明亮燃烧。"
+          },
+          {
+            "sentence": "Grandma rabbled the coal stove every morning.",
+            "sentence_zh": "奶奶每天早晨都用拨火棍搅动煤炉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rabble-rouser",
+        "meaning": "煽动者",
+        "examples": [
+          {
+            "sentence": "The rabble-rouser was arrested for inciting violence.",
+            "sentence_zh": "煽动者因煽动暴力而被捕。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rabble together",
+        "meaning": "草率聚集",
+        "examples": [
+          {
+            "sentence": "We rabbled together some furniture for the impromptu party.",
+            "sentence_zh": "我们为即兴派对草率聚集了一些家具。"
+          }
+        ]
+      }
+    ],
+    "teach": "rabble这个词就像火锅里的乱炖🍲！当它表示'乌合之众'时，想想双十一凌晨的剁手党👛（a shopping rabble）；'长柄耙'用途如同吃火锅用的漏勺🥄（kitchen rabble）；'聚众闹事'就像微信群突然炸锅💥（rabble in chat）。记住：带'r'的词常表混乱—riot(暴乱)、rumor(谣言)、rabble(暴民)，简称3R危机⚠️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热爆了'→人群热爆了变成rabble",
+        "易混词：mob(有组织的暴民) vs rabble(无组织的乌合之众)",
+        "记忆法：rabb(兔)+le(了)→兔子多了也成灾"
+      ]
+    }
+  },
+  {
+    "word": "rabid",
+    "etymology": {
+      "breakdown": [
+        "rab",
+        "id"
+      ],
+      "meaning_connection": "词根rab=愤怒/疯狂（源自拉丁语rabies），后缀-id表性质→原指狂犬病的狂暴状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "狂怒的",
+        "examples": [
+          {
+            "sentence": "The rabid fan smashed his phone when his idol announced dating news.",
+            "sentence_zh": "当偶像公布恋情时，这位狂怒的粉丝砸碎了手机。"
+          },
+          {
+            "sentence": "She became rabid after seeing spoilers for her favorite drama.",
+            "sentence_zh": "看到最爱电视剧的剧透后，她变得狂怒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "狂热的",
+        "examples": [
+          {
+            "sentence": "Rabid collectors queue overnight for limited edition sneakers.",
+            "sentence_zh": "狂热的收藏家为限量版球鞋彻夜排队。"
+          },
+          {
+            "sentence": "His rabid devotion to hotpot makes him drive 3 hours for authentic broth.",
+            "sentence_zh": "他对火锅的狂热让他驱车三小时只为一口正宗锅底。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "极端的",
+        "examples": [
+          {
+            "sentence": "The rabid nationalist refused to use any foreign-brand smartphones.",
+            "sentence_zh": "这位极端民族主义者拒绝使用任何外国品牌手机。"
+          },
+          {
+            "sentence": "Rabid anti-fans organized a blacklist campaign against the actor.",
+            "sentence_zh": "极端黑粉组织了针对该演员的抵制活动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rabid fan",
+        "meaning": "狂热粉丝",
+        "examples": [
+          {
+            "sentence": "Rabid fans of the boyband crashed the ticketing website in 3 seconds.",
+            "sentence_zh": "该男团的狂热粉丝3秒内挤爆了购票网站。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rabid nationalism",
+        "meaning": "极端民族主义",
+        "examples": [
+          {
+            "sentence": "The film subtly criticizes rabid nationalism through sci-fi allegory.",
+            "sentence_zh": "这部电影通过科幻寓言隐晦批判极端民族主义。"
+          }
+        ]
+      }
+    ],
+    "teach": "rabid本质上是个'疯狗模式'🐶💥！词源来自狂犬病(rabies)，想象被疯狗追着咬的狂暴状态→现在形容饭圈毒唯的疯狂打榜🧎、追星族接机时的尖叫📢。说人'疯魔'可以用go rabid like a werewolf（像狼人发狂），'极端主义'叫rabid ideology🌪️。记住：遇到rabid行为请保持安全距离！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热病的'→狂热到发烧",
+        "易混词：rapid(快速) vs rabid(疯狂)"
+      ]
+    }
+  },
+  {
+    "word": "rabidly",
+    "etymology": {
+      "breakdown": [
+        "rabid",
+        "ly"
+      ],
+      "meaning_connection": "词根rabid=狂暴的（源自拉丁语rabere'发怒'），后缀-ly构成副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "狂暴地",
+        "examples": [
+          {
+            "sentence": "The dog chased the mailman rabidly, foaming at the mouth.",
+            "sentence_zh": "那狗口吐白沫地狂暴追赶邮递员。"
+          },
+          {
+            "sentence": "Fans were cheering rabidly when Jay Chou appeared on stage.",
+            "sentence_zh": "周杰伦登台时粉丝们疯狂欢呼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "偏激地",
+        "examples": [
+          {
+            "sentence": "He rabidly opposes any form of online censorship.",
+            "sentence_zh": "他极端反对任何形式的网络审查。"
+          },
+          {
+            "sentence": "The activist campaigned rabidly against genetically modified food.",
+            "sentence_zh": "该活动家激烈反对转基因食品。"
+          }
+        ]
+      }
+    ],
+    "teach": "rabidly是'疯狗模式'🐕💨！想想被踩到尾巴的猫（rabidly scratching），或者饭圈撕逼时（rabidly defending idols）。搭配：rabidly enthusiastic（狂热的）像双十一剁手族，rabidly anti-（极端反对）像不吃香菜党🚫🌿。地道说法叫'go bananas'（字面是猴子抢香蕉🍌，实际指暴怒）",
+    "recite": {
+      "tips": [
+        "谐音梗：'来病的'→狂犬病发作的样子",
+        "易混词：rapidly（快速地）少了b就变温顺了"
+      ]
+    }
+  },
+  {
+    "word": "rabies",
+    "etymology": {
+      "breakdown": [
+        "rab",
+        "ies"
+      ],
+      "meaning_connection": "词根rab=疯狂/愤怒（拉丁语rabere），-ies表疾病状态→字面意思是'疯狂病'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "狂犬病",
+        "examples": [
+          {
+            "sentence": "The stray dog was foaming at the mouth, showing classic signs of rabies.",
+            "sentence_zh": "那只流浪狗口吐白沫，表现出典型的狂犬病症状。"
+          },
+          {
+            "sentence": "Ancient Chinese medical texts described rabies as 'mad dog disease' over 2000 years ago.",
+            "sentence_zh": "两千多年前的中医典籍就将狂犬病描述为'疯犬病'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rabies vaccine",
+        "meaning": "狂犬疫苗",
+        "examples": [
+          {
+            "sentence": "After being bitten by a monkey at Mount Emei, I needed five rounds of rabies vaccines.",
+            "sentence_zh": "在峨眉山被猴子咬伤后，我打了五针狂犬疫苗。"
+          }
+        ]
+      }
+    ],
+    "teach": "rabies其实是史上最早的'疯狗挑战'🐶💥！古罗马人发现患者怕水就叫它'恐水症'💧，而《左传》记载'国人逐瘛狗'就是最早的防疫措施。要说'被疯狗追'英语说chased by a rabid dog，而'打疫苗'叫get jabbed（像戳奶茶盖🧋）。记住：rabies患者不是吸血鬼，但都会流口水🤤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐毙死'→被锐利犬牙咬毙命",
+        "易混词对比：rabid（adj.疯狂的） vs rabbit（n.兔子）",
+        "记忆tip：rabies六个字母刚好对应发病六阶段：咬伤→潜伏→恐水→抽搐→瘫痪→死亡"
+      ]
+    }
   }
 ]

@@ -182,5 +182,99 @@
         "记忆法：XYL=拼音'香芋里'（其实一点不香）"
       ]
     }
+  },
+  {
+    "word": "xenophobia",
+    "etymology": {
+      "breakdown": [
+        "xeno",
+        "phobia"
+      ],
+      "meaning_connection": "词根xeno=外来者/陌生人（源自希腊语xenos），phobia=恐惧症→字面意思'对外来者的恐惧'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "对外国人的无端恐惧与憎恶",
+        "examples": [
+          {
+            "sentence": "The rise of xenophobia during the pandemic led to attacks on Asian restaurants.",
+            "sentence_zh": "疫情期间排外情绪上升，导致亚洲餐馆遭受袭击。"
+          },
+          {
+            "sentence": "His xenophobia made him refuse to use TikTok because it's Chinese-owned.",
+            "sentence_zh": "他的排外心理使他拒绝使用中国公司旗下的TikTok。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "对陌生人的病态恐惧",
+        "examples": [
+          {
+            "sentence": "The hermit's xenophobia kept him from accepting even food deliveries.",
+            "sentence_zh": "这位隐士的恐生人症使他连外卖都不愿接收。"
+          },
+          {
+            "sentence": "In extreme cases, xenophobia can manifest as panic attacks when seeing foreigners.",
+            "sentence_zh": "严重情况下，恐外症患者见到外国人时会恐慌发作。"
+          }
+        ]
+      }
+    ],
+    "teach": "xenophobia是'外星人恐惧症'👽？其实xeno-指所有'外来事物'。古雅典人用xenia表示待客之道🏛️，现代却变成排外情绪。说'排外行为'用xenophobic act🚫，'文化包容'是cultural inclusion🌍。记住：对待xenophobia要像对待榴莲——你可以不喜欢，但别阻止别人吃！",
+    "recite": {
+      "tips": [
+        "视觉联想：把xeno看作'谢娜'，phobia是'恐惧'→'谢娜恐惧症'（当然这只是记忆法）",
+        "易混词对比：xenophobia（排外） vs. claustrophobia（幽闭恐惧）",
+        "词根扩展：xenophile（崇外者）是它的反义词"
+      ]
+    }
+  },
+  {
+    "word": "xylophone",
+    "etymology": {
+      "breakdown": [
+        "xylo",
+        "phone"
+      ],
+      "meaning_connection": "词根xylo=木头，phone=声音→会发出木头声音的乐器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "木琴",
+        "examples": [
+          {
+            "sentence": "The kindergarten teacher plays 'Two Tigers' on a rainbow-colored xylophone.",
+            "sentence_zh": "幼儿园老师用彩虹色木琴演奏《两只老虎》。"
+          },
+          {
+            "sentence": "His xylophone solo sounds like dancing chopsticks.",
+            "sentence_zh": "他的木琴独奏像跳舞的筷子发出的声音。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "play the xylophone",
+        "meaning": "演奏木琴",
+        "examples": [
+          {
+            "sentence": "Pandas at Chengdu base can play the xylophone for apples.",
+            "sentence_zh": "成都基地的熊猫会为苹果表演木琴。"
+          }
+        ]
+      }
+    ],
+    "teach": "xylophone是'木头好声音'🎵！古希腊人用木琴(xylo)驱赶恶魔😈，现在抖音网红用它在火锅店表演🍲。说'音乐天赋'叫have rhythm in one's bones（骨子里的节奏感），'乱弹琴'叫hit all the wrong notes。记住：敲木琴就像在键盘上蹦迪⌨️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛龙舟'→赛龙舟(xylophone)时敲木琴助威",
+        "易混词：xylophone（木琴）vs. saxophone（萨克斯）都是phone结尾"
+      ]
+    }
   }
 ]

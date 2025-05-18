@@ -295,5 +295,305 @@
         "易混词对比：tagging（临时标记）vs labelling（系统标记）"
       ]
     }
+  },
+  {
+    "word": "labile",
+    "etymology": {
+      "breakdown": [
+        "lab",
+        "ile"
+      ],
+      "meaning_connection": "词根lab=滑动（同lapse），-ile表易于...的性质→像在滑坡上一样不稳定"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不安定的",
+        "examples": [
+          {
+            "sentence": "The labile mood of cryptocurrency markets gives investors sleepless nights.",
+            "sentence_zh": "加密货币市场的不安定情绪让投资者夜不能寐。"
+          },
+          {
+            "sentence": "His labile temper is like a volcano that may erupt anytime.",
+            "sentence_zh": "他不安定的脾气就像随时可能爆发的火山。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "易发生变化的",
+        "examples": [
+          {
+            "sentence": "The political situation in that region remains labile as popcorn in a microwave.",
+            "sentence_zh": "该地区政治局势如微波炉里的爆米花般易变。"
+          },
+          {
+            "sentence": "Teenagers' fashion preferences are notoriously labile.",
+            "sentence_zh": "青少年的时尚偏好是出了名的易变。"
+          }
+        ]
+      }
+    ],
+    "teach": "labile是化学家最爱用的'渣男词'💔！它描述那些像碳酸饮料气泡🥤一样转瞬即逝的物质（labile compounds），也形容翻脸比手机APP更新还快的人🌪️。搭配'labil mood'（情绪过山车🎢）或'labil equilibrium'（比豆腐渣工程还不稳的平衡）。地道说法：'wishy-washy'（形容人摇摆不定）",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷暴来了'→情绪像雷暴一样不稳定",
+        "易混词：volatile（挥发性的）/ fragile（脆弱的）",
+        "记忆tip：lab（实验室）+ ile（容易）→实验室里容易炸瓶的物质"
+      ]
+    }
+  },
+  {
+    "word": "labor",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'labor'（辛苦/劳作），与法语'labour'同源。英语保留'苦干'核心含义，后引申出'分娩'等特殊用法。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "劳动",
+        "examples": [
+          {
+            "sentence": "The Great Wall stands as a monument to ancient Chinese labor.",
+            "sentence_zh": "长城是古代中国劳动的不朽丰碑。"
+          },
+          {
+            "sentence": "Labor Day reminds us to honor delivery riders under the sun.",
+            "sentence_zh": "劳动节提醒我们致敬烈日下的外卖骑手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "努力",
+        "examples": [
+          {
+            "sentence": "Her labor finally paid off with a Peking University admission.",
+            "sentence_zh": "她的努力最终换来了北大录取通知书。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "劳工",
+        "examples": [
+          {
+            "sentence": "The tech company provides dormitories for its labors.",
+            "sentence_zh": "这家科技公司为劳工提供宿舍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "分娩",
+        "examples": [
+          {
+            "sentence": "The panda in the zoo went into labor at midnight.",
+            "sentence_zh": "动物园的熊猫在深夜开始了分娩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "苦干",
+        "examples": [
+          {
+            "sentence": "Migrant workers labor in cities to build skyscrapers.",
+            "sentence_zh": "农民工在城市苦干建造摩天大楼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使厌烦",
+        "examples": [
+          {
+            "sentence": "The professor labored the students with endless formulas.",
+            "sentence_zh": "教授用无穷无尽的公式使学生们厌烦。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "labor union",
+        "meaning": "工会",
+        "examples": [
+          {
+            "sentence": "The labor union negotiated for better meal subsidies.",
+            "sentence_zh": "工会谈判争取更好的餐补。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "manual labor",
+        "meaning": "体力劳动",
+        "examples": [
+          {
+            "sentence": "College students doing manual labor learn to value takeout riders.",
+            "sentence_zh": "参加体力劳动的大学生学会珍惜外卖骑手。"
+          }
+        ]
+      }
+    ],
+    "teach": "labor这词简直是人类奋斗史📜！从古埃及建金字塔的labor🏗️，到现代码农的mental labor💻。最神奇的是'分娩'义项——毕竟生孩子是最原始的labor嘛👶！说'加班狗'用work like a dog🐕，'血汗工厂'叫sweatshop💦。记住：你的labor决定你吃沙县还是米其林🍚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累不咯'→labor就是问累不累",
+        "易混词对比：labor（持续苦干）vs. work（泛指工作）"
+      ]
+    }
+  },
+  {
+    "word": "laboratory",
+    "etymology": {
+      "breakdown": [
+        "labor",
+        "atory"
+      ],
+      "meaning_connection": "词根labor=劳动，后缀-atory=进行...的场所→需要持续劳动研究的场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "实验室",
+        "examples": [
+          {
+            "sentence": "The viral sample exploded in the BSL-4 laboratory.",
+            "sentence_zh": "病毒样本在生物安全四级实验室里炸了。"
+          },
+          {
+            "sentence": "Her laboratory coat has Hello Kitty prints.",
+            "sentence_zh": "她的实验服上印着凯蒂猫图案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "研究室",
+        "examples": [
+          {
+            "sentence": "The AI laboratory at Tsinghua looks like a spaceship.",
+            "sentence_zh": "清华大学的AI研究室像个太空飞船。"
+          },
+          {
+            "sentence": "We turned our garage into a cryptocurrency laboratory.",
+            "sentence_zh": "我们把车库改造成了加密货币研究室。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "化工厂",
+        "examples": [
+          {
+            "sentence": "The perfume laboratory produces 10 tons of rose essence annually.",
+            "sentence_zh": "这家香水化工厂年产10吨玫瑰精油。"
+          },
+          {
+            "sentence": "They disguised the drug laboratory as a fertilizer plant.",
+            "sentence_zh": "他们把毒品化工厂伪装成化肥厂。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "language laboratory",
+        "meaning": "语言实验室",
+        "examples": [
+          {
+            "sentence": "Our language laboratory has VR equipment for immersion practice.",
+            "sentence_zh": "我们的语言实验室配有VR设备进行沉浸练习。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "laboratory animal",
+        "meaning": "实验动物",
+        "examples": [
+          {
+            "sentence": "The transgenic mice became celebrities in the laboratory animal circle.",
+            "sentence_zh": "这只转基因小鼠成了实验动物界的网红。"
+          }
+        ]
+      }
+    ],
+    "teach": "lab其实是laboratory的'瘦身版'💊！最早的实验室是炼金术士的厨房🍳（想想《哈利波特》的魔药课）。说'做实验'地道表达是run tests like a mad scientist（像疯狂科学家般做实验）🧪，'实验失败'叫blow up the lab（炸实验室）💥。记住：每个实验室都有三种人——天才、怪人和咖啡成瘾者☕！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来剥了脱衣'→在实验室来剥了(labora)样本脱衣(tory)检查",
+        "易混词对比：lavatory（厕所）和laboratory（实验室）别走错门！",
+        "记忆tip：lab+or+atory，想象'or'代表选择——在实验室总要做出选择"
+      ]
+    }
+  },
+  {
+    "word": "laborious",
+    "etymology": {
+      "breakdown": [
+        "labor",
+        "ious"
+      ],
+      "meaning_connection": "词根labor=劳动，-ious=充满...的→充满劳动的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "艰苦的",
+        "examples": [
+          {
+            "sentence": "The laborious climb up Mount Tai was rewarded with breathtaking sunrise.",
+            "sentence_zh": "艰苦攀登泰山后，壮丽日出是对我们最好的回报。"
+          },
+          {
+            "sentence": "Writing a 50,000-word thesis in three days is truly laborious.",
+            "sentence_zh": "三天写五万字论文实在是艰苦卓绝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "费劲的",
+        "examples": [
+          {
+            "sentence": "Deciphering his handwriting is more laborious than solving calculus problems.",
+            "sentence_zh": "辨认他的字迹比解微积分题还费劲。"
+          },
+          {
+            "sentence": "The laborious process of applying for a visa made her reconsider traveling abroad.",
+            "sentence_zh": "申请签证的费劲过程让她重新考虑是否出国旅行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "勤劳的",
+        "examples": [
+          {
+            "sentence": "The laborious ants stored enough food for the entire winter.",
+            "sentence_zh": "勤劳的蚂蚁们为整个冬天储备了充足食物。"
+          },
+          {
+            "sentence": "Her laborious efforts in practicing calligraphy won her first prize in the competition.",
+            "sentence_zh": "她练习书法时的勤劳付出让她在比赛中获得一等奖。"
+          }
+        ]
+      }
+    ],
+    "teach": "laborious就像搬砖🧱三连：1) 古罗马奴隶在labor（劳动）中建造斗兽场💦 2) 视觉联想：labor+ious=头上冒汗的码农拼命debug💻 3) 搭配：laborious task（苦差事）/ laborious worker（老黄牛）4) 地道说法：说'累成狗'用dog-tired🐶 5) 记住：想成功就要laborious，但别labor到秃头👨🦲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累吧？累死！'→laborious的工作让人累死",
+        "易混词对比：laborious（主观感受的劳累）vs. arduous（客观环境的艰难）",
+        "记忆tip：拆解labor+ious，想象打工人(labor)在办公室里(ious)加班"
+      ]
+    }
   }
 ]

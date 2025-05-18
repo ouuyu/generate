@@ -275,5 +275,312 @@
         "易混词对比：habit（个人习惯） vs custom（社会习俗）"
       ]
     }
+  },
+  {
+    "word": "habitable",
+    "etymology": {
+      "breakdown": [
+        "habit",
+        "able"
+      ],
+      "meaning_connection": "词根habit=居住（同habitat），后缀-able表示'能够'→字面意思'能够居住的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "适于居住的",
+        "examples": [
+          {
+            "sentence": "Scientists are searching for habitable planets with bubble tea resources.",
+            "sentence_zh": "科学家正在寻找拥有奶茶资源的宜居行星。"
+          },
+          {
+            "sentence": "The igloo made by Inuit is surprisingly habitable in extreme cold.",
+            "sentence_zh": "因纽特人建造的冰屋在极寒中出奇地适宜居住。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可居住的",
+        "examples": [
+          {
+            "sentence": "This tiny apartment is barely habitable for a family of pandas.",
+            "sentence_zh": "这小公寓几乎无法让熊猫一家居住。"
+          },
+          {
+            "sentence": "After renovating, the old warehouse became perfectly habitable.",
+            "sentence_zh": "翻新后，这个旧仓库变得完全可居住了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "habitable zone",
+        "meaning": "宜居带（天文术语）",
+        "examples": [
+          {
+            "sentence": "Earth happens to be in the Goldilocks habitable zone of our solar system.",
+            "sentence_zh": "地球恰好位于太阳系适居带的'金发姑娘区域'。"
+          }
+        ]
+      }
+    ],
+    "teach": "habitable其实是'宅'的最高境界🏠！词根habit=居住（想象宅男habitual lifestyle🛋️），后缀-able=能够→能让人宅得舒服的地方！说'蜗居'用shoebox apartment👟，形容'房子小但温馨'叫cozy as a hamster's nest🐹。记住：你的卧室再乱，只要WiFi稳定就是habitable！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨比特币'→比特币矿场不适合居住(not habitable)",
+        "易混词对比：habitable（可住人） vs. habitual（习惯性的）",
+        "记忆tip：把habit+able看成'养成习惯的能力'→住久了就习惯了"
+      ]
+    }
+  },
+  {
+    "word": "habitat",
+    "etymology": {
+      "breakdown": [
+        "habit",
+        "at"
+      ],
+      "meaning_connection": "habit=居住，-at=地方→居住的地方"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "栖息地",
+        "examples": [
+          {
+            "sentence": "Pandas' natural habitat is bamboo forests in Sichuan.",
+            "sentence_zh": "熊猫的天然栖息地是四川的竹林。"
+          },
+          {
+            "sentence": "The new aquarium recreates tropical fish habitats with 4D effects.",
+            "sentence_zh": "新水族馆用4D特效还原热带鱼的栖息环境。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "居留地",
+        "examples": [
+          {
+            "sentence": "This valley served as the habitat for ancient tribes.",
+            "sentence_zh": "这个山谷曾是古代部落的居留地。"
+          },
+          {
+            "sentence": "Urban foxes are changing their habitats to rooftops.",
+            "sentence_zh": "城市狐狸正把居留地转移到楼顶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "自生地",
+        "examples": [
+          {
+            "sentence": "The Gobi Desert is the natural habitat of camel thorns.",
+            "sentence_zh": "戈壁是骆驼刺的自生地。"
+          },
+          {
+            "sentence": "Scientists discovered a new mushroom habitat in subway tunnels.",
+            "sentence_zh": "科学家在地铁隧道发现新的蘑菇自生地。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "聚集处",
+        "examples": [
+          {
+            "sentence": "Tokyo's Akihabara is a habitat for anime lovers worldwide.",
+            "sentence_zh": "东京秋叶原是全球动漫迷的聚集处。"
+          },
+          {
+            "sentence": "The app became a digital habitat for meme creators.",
+            "sentence_zh": "这个APP成了表情包创作者的数码聚集处。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "natural habitat",
+        "meaning": "自然栖息地",
+        "examples": [
+          {
+            "sentence": "Zoos try to simulate animals' natural habitats.",
+            "sentence_zh": "动物园尽力模拟动物的自然栖息地。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "habitat loss",
+        "meaning": "栖息地丧失",
+        "examples": [
+          {
+            "sentence": "Habitat loss is the main threat to Siberian tigers.",
+            "sentence_zh": "栖息地丧失是东北虎面临的主要威胁。"
+          }
+        ]
+      }
+    ],
+    "teach": "habitat就像生物界的房产证🏠！北极熊的habitat是冰原❄️，你家猫咪的habitat是快递纸箱📦。说'无家可归'可以用habitatless（像被拆家的哈士奇🐺），'抢地盘'叫compete for habitat（像大学生抢自习室📚）。记住：你的habitat决定了你是国宝还是流浪猫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈比塔'→哈比人住的塔",
+        "易混词：habitat（栖息地）vs habit（习惯）→ 兔子的habitat决定了它的eating habit"
+      ]
+    }
+  },
+  {
+    "word": "habitation",
+    "etymology": {
+      "breakdown": [
+        "habit",
+        "ation"
+      ],
+      "meaning_connection": "词根habit=居住，-ation表状态→居住的状态或场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "居住",
+        "examples": [
+          {
+            "sentence": "The cave shows signs of ancient human habitation with leftover fire pits.",
+            "sentence_zh": "洞穴里留有火坑痕迹，显示古人类曾在此居住。"
+          },
+          {
+            "sentence": "Panda habitation requires abundant bamboo and quiet environment.",
+            "sentence_zh": "熊猫的居住需要充足竹子和安静环境。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "住所",
+        "examples": [
+          {
+            "sentence": "Her tiny habitation in Shanghai is decorated with 100 potted plants.",
+            "sentence_zh": "她在上海的迷你住所里摆放着上百盆绿植。"
+          },
+          {
+            "sentence": "The floating habitation on the river has a rooftop hotpot station.",
+            "sentence_zh": "河上的漂浮住所配有天台火锅区。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "long-term habitation",
+        "meaning": "长期居住",
+        "examples": [
+          {
+            "sentence": "Mars long-term habitation remains a sci-fi dream for now.",
+            "sentence_zh": "火星长期居住目前仍是科幻梦想。"
+          }
+        ]
+      }
+    ],
+    "teach": "habitation是'宅'的最高级形态🏠！词根habit本指修道士的道袍（因为要常住修道院），后来演变成'居住习惯'。要说'蜗居'可以用shoebox habitation（鞋盒住所），'豪宅'则是luxury habitation💎。记住：从habit（习惯）到habitation（住所），就像从'宅男'升级成'房东'👑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨比忒省'→嗨着比宅着更省钱的居住方式",
+        "易混词：habitat（动物栖息地）vs habitation（人类住所）",
+        "记忆链：habit→habitat→habitation 居住范围逐渐扩大"
+      ]
+    }
+  },
+  {
+    "word": "habitual",
+    "etymology": {
+      "breakdown": [
+        "habit",
+        "ual"
+      ],
+      "meaning_connection": "habit=习惯，-ual=形容词后缀→与习惯相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "习惯的",
+        "examples": [
+          {
+            "sentence": "His habitual morning routine includes scrolling Douyin while brushing teeth.",
+            "sentence_zh": "他习惯性的晨间流程包括一边刷牙一边刷抖音。"
+          },
+          {
+            "sentence": "The habitual tea drinker carries a thermos everywhere like a security blanket.",
+            "sentence_zh": "这位习惯性喝茶的人走到哪都带着保温杯，就像安全毯一样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "惯常的",
+        "examples": [
+          {
+            "sentence": "The CEO's habitual late-night meetings became legend in the company.",
+            "sentence_zh": "CEO惯常的深夜会议成了公司传奇。"
+          },
+          {
+            "sentence": "Her habitual seat by the window was respected by all colleagues.",
+            "sentence_zh": "她惯常的靠窗座位受到所有同事的尊重。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "平常的",
+        "examples": [
+          {
+            "sentence": "Such delays are habitual during Spring Festival travel season.",
+            "sentence_zh": "这种延误在春运期间是平常事。"
+          },
+          {
+            "sentence": "His habitual modesty made him refuse all interview requests.",
+            "sentence_zh": "他平常的谦逊使他拒绝了所有采访请求。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "habitual criminal",
+        "meaning": "惯犯",
+        "examples": [
+          {
+            "sentence": "The pickpocket was identified as a habitual criminal with 50+ offenses.",
+            "sentence_zh": "这名扒手被确认为有50+次违法记录的惯犯。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "habitual behavior",
+        "meaning": "习惯性行为",
+        "examples": [
+          {
+            "sentence": "Nail-biting is his habitual behavior when watching suspense movies.",
+            "sentence_zh": "咬指甲是他看悬疑片时的习惯性行为。"
+          }
+        ]
+      }
+    ],
+    "teach": "habitual本质是'习惯成自然'🔄！就像北方人habitually吃饺子蘸醋🥟，广东人habitually喝早茶🫖。要说'老样子'可以用good old habitual（老习惯），'改不掉的习惯'叫hard-to-break habitual就像手机依赖症📱。记住：当你说someone is habitual at...时，相当于说'这人DNA里刻着这个'🧬！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈比球'→哈比人打的球赛变成习惯",
+        "易混词对比：habitual(惯常的) vs habitat(栖息地)→考拉habitually睡在habitat里",
+        "记忆tip：habit+ual=习惯成自然ual（拼音'有啊'）"
+      ]
+    }
   }
 ]

@@ -237,5 +237,299 @@
         "易混词对比：gabby（话多）vs. grabby（贪婪的）"
       ]
     }
+  },
+  {
+    "word": "gable",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'gafl'（三角墙），后经古法语进入英语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "山形墙",
+        "examples": [
+          {
+            "sentence": "The red-brick house had a steep gable covered with ivy.",
+            "sentence_zh": "那栋红砖房的陡峭山形墙上爬满了常春藤。"
+          },
+          {
+            "sentence": "Santa Claus got stuck in the chimney because the gable was too narrow.",
+            "sentence_zh": "圣诞老人卡在烟囱里因为山形墙太窄了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "人字板",
+        "examples": [
+          {
+            "sentence": "The carpenter measured the angle of the gable carefully.",
+            "sentence_zh": "木匠仔细测量了人字板的角度。"
+          },
+          {
+            "sentence": "During the typhoon, a loose gable board sounded like ghost knocking.",
+            "sentence_zh": "台风天松脱的人字板听起来像鬼敲门。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gable roof",
+        "meaning": "人字屋顶",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese architecture rarely uses gable roofs.",
+            "sentence_zh": "中国传统建筑很少使用人字屋顶。"
+          }
+        ]
+      }
+    ],
+    "teach": "gable是建筑界的鸡冠头🐔！北欧维京人最早用它挡风雪❄️，后来成了《安徒生童话》里标配的屋顶造型🏠。要说'老房子'可以叫gabled house，'歪斜的山墙'叫crazy gable比萨斜塔看了都摇头🤪。记住：gable就是给房子戴的三角帽！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖吧'→盖房子就要盖gable",
+        "易混词对比：gable（三角墙） vs gambol（蹦跳）"
+      ]
+    }
+  },
+  {
+    "word": "gabled",
+    "etymology": {
+      "breakdown": [
+        "gable",
+        "ed"
+      ],
+      "meaning_connection": "词根gable=山形墙，-ed表形容词属性→原指建筑特征，后引申材料制作方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有山形墙的",
+        "examples": [
+          {
+            "sentence": "The gabled roofs of Amsterdam look like chocolate bar wrappers.",
+            "sentence_zh": "阿姆斯特丹的山形屋顶像巧克力包装纸。"
+          },
+          {
+            "sentence": "Our gabled cottage won first prize in the village cuteness contest.",
+            "sentence_zh": "我们带山形墙的小屋获评全村最萌建筑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "人字板制作的",
+        "examples": [
+          {
+            "sentence": "This gabled birdhouse mimics the Great Hall of the People.",
+            "sentence_zh": "这个用人字板制作的鸟屋神似人民大会堂。"
+          },
+          {
+            "sentence": "Traditional gabled wooden bridges are disappearing in Zhejiang.",
+            "sentence_zh": "传统人字板木桥正在浙江逐渐消失。"
+          }
+        ]
+      }
+    ],
+    "teach": "gabled是建筑界的比心手势♥️！欧洲山形墙(gable)最初为排雪❄️，中国'人字板'因形得名🧑🤝🧑。要说'尖屋顶'可戏称wizard hat（巫师帽），搭配用：gabled dormer（老虎窗）和gabled facade（正脸墙）。记住：看见gabled就想象房屋在给你发爱心💘！",
+    "recite": {
+      "tips": [
+        "谐音梗：'给伯乐'→伯乐相马住gabled屋",
+        "易混词对比：gabled vs gambrel（双坡屋顶）"
+      ]
+    }
+  },
+  {
+    "word": "gadfly",
+    "etymology": {
+      "breakdown": [
+        "gad",
+        "fly"
+      ],
+      "meaning_connection": "古英语gad指'尖刺'，与fly结合形容刺痛的飞行昆虫"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "牛虻",
+        "examples": [
+          {
+            "sentence": "The gadfly's bite made the cow kick violently.",
+            "sentence_zh": "牛虻的叮咬让母牛剧烈踢蹬。"
+          },
+          {
+            "sentence": "Greek philosophers compared Socrates to a gadfly stinging the lazy horse of Athens.",
+            "sentence_zh": "希腊哲学家将苏格拉底比作叮咬雅典这匹懒马的牛虻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "讨厌鬼",
+        "examples": [
+          {
+            "sentence": "That paparazzo is a real gadfly who keeps asking invasive questions.",
+            "sentence_zh": "那个狗仔简直是个烦人精，不停追问隐私问题。"
+          },
+          {
+            "sentence": "My little brother became a gadfly during my online meeting.",
+            "sentence_zh": "我弟弟在我开视频会议时变成了烦人精。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political gadfly",
+        "meaning": "政治刺头",
+        "examples": [
+          {
+            "sentence": "The blogger acts as a political gadfly exposing corruption.",
+            "sentence_zh": "这位博主是揭露腐败的政治刺头。"
+          }
+        ]
+      }
+    ],
+    "teach": "gadfly是自带'嗡嗡攻击'的词汇🐝！苏格拉底自称雅典的牛虻，专叮思想懒惰者（像你刷短视频时的状态📱）。说某人annoying as a gadfly比'烦死了'更生动。搭配：social gadfly（社交场合的讨厌鬼）💢，human gadfly（人形跟屁虫）。记住：牛虻的刺痛能惊醒昏睡的牛，毒舌的吐槽能点醒装睡的人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖得慌'→牛虻多得盖得慌",
+        "易混词：butterfly（无害的蝴蝶）/gadfly（讨厌的虻）"
+      ]
+    }
+  },
+  {
+    "word": "gadget",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "19世纪中期出现，可能源于法语方言词gâchette（机械装置的触发机关）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小配件",
+        "examples": [
+          {
+            "sentence": "The new kitchen gadget can peel apples in 3 seconds.",
+            "sentence_zh": "这个新厨房小配件能在3秒内削好苹果。"
+          },
+          {
+            "sentence": "His keychain has 10 different mini gadgets.",
+            "sentence_zh": "他的钥匙串上有10种不同的迷你小配件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小玩意",
+        "examples": [
+          {
+            "sentence": "The spy used a gadget disguised as a lipstick.",
+            "sentence_zh": "间谍使用了一个伪装成口红的小玩意。"
+          },
+          {
+            "sentence": "Children love the bubble-blowing gadget in Happy Meal.",
+            "sentence_zh": "孩子们喜欢开心乐园餐里的吹泡泡小玩意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "诡计",
+        "examples": [
+          {
+            "sentence": "The magician's gadget was actually a hidden mirror.",
+            "sentence_zh": "魔术师的诡计其实是面隐藏的镜子。"
+          },
+          {
+            "sentence": "The hacker used a gadget to bypass the firewall.",
+            "sentence_zh": "黑客用诡计绕过了防火墙。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tech gadget",
+        "meaning": "科技小玩意",
+        "examples": [
+          {
+            "sentence": "The latest tech gadget is a ring that measures UV exposure.",
+            "sentence_zh": "最新的科技小玩意是能测紫外线强度的戒指。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gadget freak",
+        "meaning": "小玩意发烧友",
+        "examples": [
+          {
+            "sentence": "As a gadget freak, he owns 7 smartwatches.",
+            "sentence_zh": "作为小玩意发烧友，他拥有7块智能手表。"
+          }
+        ]
+      }
+    ],
+    "teach": "gadget是007的百宝箱💼！从间谍相机📸到开瓶器🍾都算gadget（发音像'夹个它'就很形象）。说'没用的小玩意'叫doodad，'黑科技产品'是must-have gadget。就像多啦A梦的口袋，每一个gadget都可能改变世界🌍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖着它'→用gadget盖着秘密",
+        "易混词：device更正式，gadget带可爱属性"
+      ]
+    }
+  },
+  {
+    "word": "gadgetry",
+    "etymology": {
+      "breakdown": [
+        "gadget",
+        "ry"
+      ],
+      "meaning_connection": "gadget（小工具）+后缀-ry（表总称）→小工具集合"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小配件",
+        "examples": [
+          {
+            "sentence": "The spy's coat was lined with high-tech gadgetry.",
+            "sentence_zh": "间谍的外套内衬满是高科技小配件。"
+          },
+          {
+            "sentence": "Apple Store showcases the latest iPhone gadgetry.",
+            "sentence_zh": "苹果商店展示最新iPhone配件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小玩意",
+        "examples": [
+          {
+            "sentence": "His desk is a museum of useless gadgetry.",
+            "sentence_zh": "他的桌子像无用小玩意博物馆。"
+          },
+          {
+            "sentence": "Japanese capsule toys are delightful gadgetry.",
+            "sentence_zh": "日本扭蛋玩具是有趣的小玩意。"
+          }
+        ]
+      }
+    ],
+    "teach": "gadgetry是科技松鼠病的解药💊！就像哆啦A梦的次元袋👜（装满神奇道具），或钢铁侠的工作台⚡（布满酷炫设备）。说'买没用的东西'用retail therapy（购物疗法），'科技发烧友'叫tech geek。记住：gadgetry就是让直男心跳加速的玩具总动员！🚀🔧🎮",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖着追'→盖着(gad)追(get)新潮小玩意(ry)",
+        "易混词：gadget（单个小工具）vs gadgetry（小工具集合）",
+        "记忆法：把-ry想象成'人鱼'→美人鱼收集海底小玩意"
+      ]
+    }
   }
 ]

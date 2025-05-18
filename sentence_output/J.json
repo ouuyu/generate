@@ -299,5 +299,262 @@
         "易混词：jacket（夹克）和jack（千斤顶）就像外套和修车工"
       ]
     }
+  },
+  {
+    "word": "jackal",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自波斯语shaghal，通过突厥语传入欧洲，指代这种犬科动物。英语中16世纪开始用于比喻'卑劣的跟从者'。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "豺（动物）",
+        "examples": [
+          {
+            "sentence": "A golden jackal was spotted near the Great Wall, causing tourists to panic.",
+            "sentence_zh": "长城附近发现一只金豺，引发游客恐慌。"
+          },
+          {
+            "sentence": "Jackals often follow lions to scavenge leftovers, just like some influencers chase trending topics.",
+            "sentence_zh": "豺常尾随狮子捡剩食，就像某些网红追热点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "帮凶",
+        "examples": [
+          {
+            "sentence": "The corrupt official's jackals took bribes in WeChat red packets.",
+            "sentence_zh": "贪官的帮凶们收取微信红包贿赂。"
+          },
+          {
+            "sentence": "Those keyboard warriors are nothing but internet jackals.",
+            "sentence_zh": "那些键盘侠不过是网络帮凶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "走狗",
+        "examples": [
+          {
+            "sentence": "He became a jackal for foreign powers, selling state secrets for crypto coins.",
+            "sentence_zh": "他成为外国势力的走狗，用国家机密换加密货币。"
+          },
+          {
+            "sentence": "The celebrity's jackals attacked critics on social media.",
+            "sentence_zh": "明星的走狗们在社交媒体攻击批评者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "当走狗",
+        "examples": [
+          {
+            "sentence": "He jackals for the mafia, delivering threatening Douyin videos.",
+            "sentence_zh": "他给黑帮当走狗，发送威胁性抖音视频。"
+          },
+          {
+            "sentence": "Stop jackaling for those scam call centers!",
+            "sentence_zh": "别给那些诈骗电话中心当走狗了！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "play the jackal",
+        "meaning": "充当爪牙",
+        "examples": [
+          {
+            "sentence": "The assistant played the jackal to frame his boss's rival.",
+            "sentence_zh": "那个助理充当爪牙陷害老板的竞争对手。"
+          }
+        ]
+      }
+    ],
+    "teach": "jackal是动物界的'狗头军师'🦊！在《狮子王》里它们跟着刀疤搞事情，现实里比喻那些给权贵'提鞋'的跟班👞。要说'舔狗'可以叫bootlicker，但jackal更恶劣——就像抢红包的职场马屁精💰。记住：当jackal的下场往往和《狂飙》里的唐小龙一样⚖️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'捷克哦'→捷克(jackal)的走狗行为让人说'哦no'",
+        "易混词：hyena（鬣狗，更强调贪婪）vs jackal（更强调卑劣）"
+      ]
+    }
+  },
+  {
+    "word": "jackboot",
+    "etymology": {
+      "breakdown": [
+        "jack",
+        "boot"
+      ],
+      "meaning_connection": "jack可能源自人名Jack（普通士兵的代称），boot即靴子→士兵穿的长筒军靴"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "长统靴（尤指军用）",
+        "examples": [
+          {
+            "sentence": "The museum displayed a Prussian officer's jackboot with 50cm shafts.",
+            "sentence_zh": "博物馆展出了一双筒高50厘米的普鲁士军官长统靴。"
+          },
+          {
+            "sentence": "His jackboots left deep prints in the snow during winter training.",
+            "sentence_zh": "冬训时他的长统靴在雪地上留下深深的脚印。"
+          }
+        ]
+      }
+    ],
+    "teach": "jackboot是'铁靴统治'👢的象征：纳粹军官穿着它踏遍欧洲🗺️，现在比喻高压统治（under the jackboot）。搭配'polished jackboots'（锃亮军靴）和'jackboot tactics'（铁腕手段）。地道表达'jackboot journalism'指强硬的新闻报道风格💥——像军靴一样碾过事实！",
+    "recite": {
+      "tips": [
+        "视觉联想：jack+boot=杰克船长的海盗靴🏴‍☠️",
+        "易混词对比：combat boots（作战靴）更轻便，jackboot特指高筒硬底"
+      ]
+    }
+  },
+  {
+    "word": "jackdaw",
+    "etymology": {
+      "breakdown": [
+        "jack",
+        "daw"
+      ],
+      "meaning_connection": "jack可能源自人名Jack，daw为中古英语'乌鸦'→因其体型较小（像叫Jack的乌鸦）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "寒鸦（鸦科小型鸟类，学名Corvus monedula）",
+        "examples": [
+          {
+            "sentence": "A jackdaw stole my grandmother's silver thimble to decorate its nest.",
+            "sentence_zh": "一只寒鸦偷走了祖母的银顶针装饰它的巢。"
+          },
+          {
+            "sentence": "Jackdaws in London's parks have learned to open chip packets with their beaks.",
+            "sentence_zh": "伦敦公园里的寒鸦学会了用喙撕开薯片包装。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "as clever as a jackdaw",
+        "meaning": "像寒鸦一样聪明（指会偷闪亮物品的机智）",
+        "examples": [
+          {
+            "sentence": "The pickpocket was as clever as a jackdaw, snatching phones without being noticed.",
+            "sentence_zh": "那个扒手像寒鸦一样机灵，偷手机时神不知鬼不觉。"
+          }
+        ]
+      }
+    ],
+    "teach": "jackdaw是鸟中小偷🦅💎！它们偷银器的癖好让莎士比亚在《奥赛罗》都写过'我的钱袋像jackdaw的巢'💰。要形容'偷拿小东西'可以说jackdaw habit（寒鸦习惯），'收集癖'叫jackdaw hoard，记住它们和乌鸦的区别：寒鸦戴灰围脖🧣，乌鸦穿黑西装🤵！",
+    "recite": {
+      "tips": [
+        "视觉记忆：jack(夹克)+daw(音'盗')→穿夹克的小偷鸟",
+        "易混词：crow（乌鸦体型较大），magpie（喜鹊尾巴更长）",
+        "冷知识：寒鸦是极少数能通过'镜子测试'认出自我的鸟类"
+      ]
+    }
+  },
+  {
+    "word": "jacket",
+    "etymology": {
+      "breakdown": [
+        "jack",
+        "et"
+      ],
+      "meaning_connection": "源自中古法语jaquet（短外套），词尾-et表'小'，原指农民穿的短款外衣"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "夹克",
+        "examples": [
+          {
+            "sentence": "His neon pink jacket made him look like a walking traffic cone.",
+            "sentence_zh": "他的荧光粉夹克让他像个行走的交通锥。"
+          },
+          {
+            "sentence": "The delivery rider's jacket has 10 pockets for takeout orders.",
+            "sentence_zh": "外卖骑手的夹克有10个口袋装订单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "护套",
+        "examples": [
+          {
+            "sentence": "The dumbbell's rubber jacket prevents floor scratches.",
+            "sentence_zh": "哑铃的橡胶护套防止刮伤地板。"
+          },
+          {
+            "sentence": "All charging cables come with anti-bite jackets for pets.",
+            "sentence_zh": "所有充电线都配有防宠物啃咬护套。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给...穿夹克",
+        "examples": [
+          {
+            "sentence": "The stylist jacketed the panda mascot in a qipao design.",
+            "sentence_zh": "造型师给熊猫吉祥物穿了件旗袍式夹克。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给...装护套",
+        "examples": [
+          {
+            "sentence": "They jacketed the pipeline with thermal insulation layers.",
+            "sentence_zh": "他们给管道装了隔热护套。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "book jacket",
+        "meaning": "书皮",
+        "examples": [
+          {
+            "sentence": "The book jacket summary made me buy this useless self-help book.",
+            "sentence_zh": "书皮简介让我买了这本无用的自助书。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "life jacket",
+        "meaning": "救生衣",
+        "examples": [
+          {
+            "sentence": "Tourists must wear life jackets when bamboo rafting.",
+            "sentence_zh": "游客竹筏漂流时必须穿救生衣。"
+          }
+        ]
+      }
+    ],
+    "teach": "jacket是'夹'出来的时尚史🧥！最初农民穿短款jack-et（小杰克装）干农活🌾，现在变成程序员标配格子衫👨‍💻。说'穿外套'别用wear jacket（太书面），老外常说throw on a jacket（随手套件外套）。羽绒服叫puffer jacket像充气面包🍞，而'人靠衣装'英语是The tailor makes the man（裁缝造人）✂️。",
+    "recite": {
+      "tips": [
+        "谐音梗：'截克它'→拦截冷空气要靠夹克",
+        "易混词：vest（无袖夹克）vs sweater（毛衣）",
+        "记忆法：字母J像挂钩→挂外套的衣钩"
+      ]
+    }
   }
 ]
