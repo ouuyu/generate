@@ -4548,5 +4548,293 @@
         "记忆tip：联想幼儿园老师叮嘱'别和陌生人nap（午睡）'"
       ]
     }
+  },
+  {
+    "word": "kidding",
+    "etymology": {
+      "breakdown": [
+        "kid",
+        "ing"
+      ],
+      "meaning_connection": "kid原指小山羊，动词化表示'开玩笑'（像小羊般嬉戏），-ing后缀构成名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "开玩笑",
+        "examples": [
+          {
+            "sentence": "When I said your WeChat red packet was empty, I was just kidding!",
+            "sentence_zh": "我说你微信红包是空的只是在开玩笑啦！"
+          },
+          {
+            "sentence": "His constant kidding about my Singlish accent finally went too far.",
+            "sentence_zh": "他总拿我的新加坡式英语口音开玩笑，这次实在过分了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "山羊产羔",
+        "examples": [
+          {
+            "sentence": "Spring is the kidding season on Tibetan plateau farms.",
+            "sentence_zh": "春季是青藏高原农场山羊产羔的季节。"
+          },
+          {
+            "sentence": "The farmer recorded each kidding event in his notebook.",
+            "sentence_zh": "农夫在笔记本上记录每次山羊产羔的情况。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "no kidding",
+        "meaning": "说真的（反语）",
+        "examples": [
+          {
+            "sentence": "You won the lottery? No kidding!",
+            "sentence_zh": "你中彩票了？真的假的！"
+          }
+        ]
+      }
+    ],
+    "teach": "kidding是羊羊双关语🐑：既指山羊生宝宝（像产房护士接生👶），也指人类开玩笑（像微信发'我瘦了20斤'的凡尔赛文学😂）。搭配'you're kidding me'比'真的吗'更地道，'just kidding'比'开玩笑的'更自然。记住：遇到kidding先判断场景——在农场可能是真羊，在办公室绝对是假话！",
+    "recite": {
+      "tips": [
+        "谐音梗：'ki定'→ki定(kidding)是在玩羊了个羊",
+        "易混词对比：kidding(玩笑) vs kidding(产羔) → 后者只见于农牧业文本"
+      ]
+    }
+  },
+  {
+    "word": "kidnapped",
+    "etymology": {
+      "breakdown": [
+        "kid",
+        "nap",
+        "ped"
+      ],
+      "meaning_connection": "kid=小孩，nap=偷窃（古义），-ped=被动→原指偷小孩的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "绑架",
+        "examples": [
+          {
+            "sentence": "The billionaire's son was kidnapped for a ransom of 100 durians.",
+            "sentence_zh": "富豪之子被绑架勒索100个榴莲。"
+          },
+          {
+            "sentence": "Pirates kidnapped the crew and demanded bubble tea supplies.",
+            "sentence_zh": "海盗绑架船员索要奶茶原料。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "get kidnapped",
+        "meaning": "遭绑架",
+        "examples": [
+          {
+            "sentence": "The panda almost got kidnapped by a fanboy in the zoo.",
+            "sentence_zh": "这只熊猫差点在动物园被狂热粉丝绑架。"
+          }
+        ]
+      }
+    ],
+    "teach": "kidnapped本质是'偷娃行动'👶！词源里nap不是'打盹'而是'偷窃'（像猫偷鱼🐱→catnap）。电影《历劫孤星》原名取自史蒂文森小说，就像孙悟空被绑架炼丹⚗️。说'遭遇绑架'用get snatched更地道，记住：看到kid+nap就要警惕'偷小孩警报'🚨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'记得别跑'→被绑架时记得别跑",
+        "易混词：kidnap(动词)/kidnapping(名词)"
+      ]
+    }
+  },
+  {
+    "word": "kidnapper",
+    "etymology": {
+      "breakdown": [
+        "kid",
+        "nap",
+        "per"
+      ],
+      "meaning_connection": "kid=小孩，nap=偷窃（古义），per=执行者→原指偷小孩的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "拐子",
+        "examples": [
+          {
+            "sentence": "The kidnapper used lollipops to lure children in 1980s cartoons.",
+            "sentence_zh": "80年代动画片里的拐子总用棒棒糖诱拐小孩。"
+          },
+          {
+            "sentence": "Villagers caught the kidnapper who pretended to be a lost traveler.",
+            "sentence_zh": "村民抓住了伪装成迷路旅客的拐子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绑架者",
+        "examples": [
+          {
+            "sentence": "The kidnapper demanded 100 Bitcoins as ransom.",
+            "sentence_zh": "绑架者索要100个比特币作为赎金。"
+          },
+          {
+            "sentence": "Police disguised as delivery men arrested the kidnapper.",
+            "sentence_zh": "警察伪装成外卖小哥逮捕了绑架者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "child kidnapper",
+        "meaning": "儿童拐卖者",
+        "examples": [
+          {
+            "sentence": "The child kidnapper was sentenced to death under new laws.",
+            "sentence_zh": "根据新法规，这名儿童拐卖者被判处死刑。"
+          }
+        ]
+      }
+    ],
+    "teach": "kidnapper本质是'偷娃专业户'👶🚨：kid+nap字面是'偷小孩'（中世纪nap=偷窃），就像黄鼠狼偷鸡🐔。说'人贩子'用child trafficker，'被绑架'叫get kidnapped就像快递被错签📦。记住三个K：Keep away from strangers, Kids!",
+    "recite": {
+      "tips": [
+        "谐音梗：'开的破'→绑架者开的破面包车",
+        "易混词对比：kidnap(v.)/kidnapper(n.)",
+        "联想记忆：kid+nap→小孩午睡时被偷走"
+      ]
+    }
+  },
+  {
+    "word": "kidnapping",
+    "etymology": {
+      "breakdown": [
+        "kid",
+        "nap",
+        "ing"
+      ],
+      "meaning_connection": "'kid'原指小山羊→引申为儿童，'nap'指偷窃，字面意思是'偷小孩'→演变为现代'绑架'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "绑架",
+        "examples": [
+          {
+            "sentence": "The CEO's kidnapping shocked the business community when he was taken during a hot pot dinner.",
+            "sentence_zh": "该CEO在吃火锅时遭绑架震惊商界。"
+          },
+          {
+            "sentence": "Kidnapping for ransom is extremely rare in cities with ubiquitous surveillance cameras.",
+            "sentence_zh": "在监控摄像头遍布的城市，绑架勒索极为罕见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "诱拐",
+        "examples": [
+          {
+            "sentence": "The child kidnapping case was solved within 48 hours thanks to WeChat's location sharing.",
+            "sentence_zh": "借助微信位置共享功能，这起儿童诱拐案48小时内告破。"
+          },
+          {
+            "sentence": "Panda kidnapping sounds cute but is actually a serious crime.",
+            "sentence_zh": "熊猫诱拐听起来可爱但实属重罪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "attempted kidnapping",
+        "meaning": "绑架未遂",
+        "examples": [
+          {
+            "sentence": "The live-streamer foiled an attempted kidnapping by hitting the criminal with her selfie stick.",
+            "sentence_zh": "该主播用自拍杆击退歹徒，阻止了一起绑架未遂。"
+          }
+        ]
+      }
+    ],
+    "teach": "kidnapping本意是'偷山羊崽'🐐→后来成了'拐小孩'👶！古代海盗绑架叫'press-ganging'，现代说法是'express kidnapping'（短时绑架）就像快递抢劫📦。记住：'被绑票'说taken hostage，'绑匪'叫kidnapper比说bad guy更准确⚖️。重要提示：遇到绑架要像拒绝垃圾分类一样坚决说不！🚫",
+    "recite": {
+      "tips": [
+        "谐音梗：'开的尿频'→绑匪开车时尿频容易暴露",
+        "易混词：kidnapping(绑架)/hijacking(劫持)",
+        "记忆法：KID+NAPPING→小孩(kid)打盹(napping)时最危险"
+      ]
+    }
+  },
+  {
+    "word": "kidney",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语cwið（内脏）+ eg（岛），字面意思是'身体内部的岛屿'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "肾脏",
+        "examples": [
+          {
+            "sentence": "Hotpot lovers should be careful with their kidneys due to high purine content.",
+            "sentence_zh": "火锅爱好者需注意高嘌呤对肾脏的影响。"
+          },
+          {
+            "sentence": "The panda donated part of its bamboo supply to help the zookeeper's kidney treatment.",
+            "sentence_zh": "熊猫捐出部分竹子供饲养员治疗肾脏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "个性",
+        "examples": [
+          {
+            "sentence": "The Sichuan grandma had the kidney to challenge the spicy-eating champion.",
+            "sentence_zh": "这位四川奶奶有挑战吃辣冠军的胆量。"
+          },
+          {
+            "sentence": "It takes real kidney to ride a bike during Beijing's rush hour.",
+            "sentence_zh": "在北京高峰期骑单车需要十足的勇气。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kidney bean",
+        "meaning": "芸豆",
+        "examples": [
+          {
+            "sentence": "The secret ingredient in this mapo tofu is fermented kidney beans.",
+            "sentence_zh": "这份麻婆豆腐的秘诀是加入了发酵芸豆。"
+          }
+        ]
+      }
+    ],
+    "teach": "kidney是人体里的'劳模'💪：每天过滤180升血液（相当于900杯奶茶🧋）。英国俚语说'have the kidney'表示有胆量，就像四川人面对变态辣时的勇气🌶️。'肾虚'叫kidney deficiency要喝枸杞茶🍵，而kidney bean形状神似腰子🫘。记住：你的kidney决定你能熬多久的夜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'记得你'→熬夜伤肾要记得护肾",
+        "易混词对比：liver（肝）vs kidney（肾）"
+      ]
+    }
   }
 ]

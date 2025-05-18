@@ -4142,5 +4142,261 @@
         "易混词：calendar（日历）是纸📅，calender是轧纸的机器"
       ]
     }
+  },
+  {
+    "word": "calf",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语cealf，与德语Kalb同源，原指幼年偶蹄动物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小牛",
+        "examples": [
+          {
+            "sentence": "The farmer bottle-feeds the calf like a giant milk tea.",
+            "sentence_zh": "农夫像喂超大杯奶茶般用奶瓶喂养小牛。"
+          },
+          {
+            "sentence": "Moo-ve over! This calf is learning to TikTok dance.",
+            "sentence_zh": "让开点！这头小牛正在学跳抖音舞蹈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小牛皮",
+        "examples": [
+          {
+            "sentence": "Her designer bag is made of Italian calf leather.",
+            "sentence_zh": "她的名牌包采用意大利小牛皮制成。"
+          },
+          {
+            "sentence": "Calfskin gloves are as soft as steamed milk pudding.",
+            "sentence_zh": "小牛皮手套柔软得像双皮奶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "腓肠（小腿后侧肌肉）",
+        "examples": [
+          {
+            "sentence": "After climbing Mount Tai, my calves screamed louder than the monkeys.",
+            "sentence_zh": "爬完泰山后，我的腓肠肌比山上的猴子叫得还响。"
+          },
+          {
+            "sentence": "Yoga pants highlight her toned calves like two steamed buns.",
+            "sentence_zh": "瑜伽裤让她结实的腓肠肌像两只馒头般突出。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "calf love",
+        "meaning": "初恋（字面：小牛式的爱）",
+        "examples": [
+          {
+            "sentence": "Their calf love began during mahjong classes.",
+            "sentence_zh": "他们的初恋始于麻将培训班。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "golden calf",
+        "meaning": "金钱崇拜（典出《圣经》金牛犊）",
+        "examples": [
+          {
+            "sentence": "Some influencers worship the golden calf on Xiaohongshu.",
+            "sentence_zh": "某些小红书博主崇拜金钱至上的价值观。"
+          }
+        ]
+      }
+    ],
+    "teach": "calf是动物界和人体最萌的跨界明星🐄！当它指小牛时，会让人想起蒙牛广告里喝奶的萌物🥛；变成小牛皮就身价倍增，堪比爱马仕铂金包💼；作为腓肠肌时，又是健身博主最爱秀的'第二心脏'💪。记住：说人腿粗别说fat calves，要说'strong like earthquake-proof columns'（结实如抗震柱）更礼貌哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡夫'→卡夫（calf）酸奶的小牛logo",
+        "易混词：cafe（咖啡馆）vs calf（别在咖啡馆点小牛饮料）",
+        "视觉联想：把小腿肌肉想成两个倒扣的椰子🥥"
+      ]
+    }
+  },
+  {
+    "word": "calibrate",
+    "etymology": {
+      "breakdown": [
+        "calibre",
+        "ate"
+      ],
+      "meaning_connection": "源自法语'calibre'（口径），后缀-ate表动作→原指测量枪管口径，后引申为精密调整"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "测定口径",
+        "examples": [
+          {
+            "sentence": "Ancient gunsmiths calibrated cannons using lead balls.",
+            "sentence_zh": "古代工匠用铅弹测定火炮口径。"
+          },
+          {
+            "sentence": "The sniper calibrated his rifle barrel with laser precision.",
+            "sentence_zh": "狙击手用激光精度测定步枪口径。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "校准",
+        "examples": [
+          {
+            "sentence": "Techs calibrate those smart scales with 10kg rice bags.",
+            "sentence_zh": "工程师用10kg米袋校准智能体重秤。"
+          },
+          {
+            "sentence": "My Apple Watch needs calibrating after it counted 300 steps while I was sleeping.",
+            "sentence_zh": "我的苹果手表需要校准——它在我睡觉时计了300步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使标准化",
+        "examples": [
+          {
+            "sentence": "The new law calibrates food safety standards across provinces.",
+            "sentence_zh": "新法规使各省食品安全标准统一化。"
+          },
+          {
+            "sentence": "WeChat calibrates emoji sizes on different phones.",
+            "sentence_zh": "微信统一了不同手机上的表情包尺寸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "调整",
+        "examples": [
+          {
+            "sentence": "Grandma calibrated her TV settings to maximum brightness.",
+            "sentence_zh": "奶奶把电视亮度调到最高。"
+          },
+          {
+            "sentence": "I'm calibrating my expectations after seeing the rent price.",
+            "sentence_zh": "看到租金后我正在调整心理预期。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "calibrate against",
+        "meaning": "对照校准",
+        "examples": [
+          {
+            "sentence": "The lab calibrated their thermometers against the national standard.",
+            "sentence_zh": "实验室以国标为参照校准温度计。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "self-calibrating",
+        "meaning": "自动校准",
+        "examples": [
+          {
+            "sentence": "Tesla's self-calibrating cameras adjust to weather conditions.",
+            "sentence_zh": "特斯拉的自校准摄像头会随天气调整。"
+          }
+        ]
+      }
+    ],
+    "teach": "calibrate是科技界的强迫症患者🧐！它最初来自炮兵测量炮管口径（'枪管有多粗？来颗铅弹试试'💥），如今连你家的智能马桶都需定期calibrate。说'调教设备'用calibrate the gadget，'调整预期'是calibrate expectations。记住：精准如米其林大厨摆盘🍣，粗糙如食堂大妈打菜🥄——全看calibration水平！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开力不累的'→开足马力(cali-)还不累的(-brate)，需要精准校准",
+        "易混词：adjust（粗调）vs calibrate（精调）",
+        "记忆法：CALIBRATE=C.A.L.I.（精确得像加州理工） + BRATE（像刹车般精准停止）"
+      ]
+    }
+  },
+  {
+    "word": "calibrated",
+    "etymology": {
+      "breakdown": [
+        "calibre",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "来自法语'calibre'(口径)，-ate表动词后缀，-ed表过去分词→原指测量枪管口径，引申为精确调整"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "校准",
+        "examples": [
+          {
+            "sentence": "The atomic clock is calibrated to lose only 1 second every 100 million years.",
+            "sentence_zh": "原子钟经过校准后，每1亿年只会误差1秒。"
+          },
+          {
+            "sentence": "My grandma's vintage radio needs to be calibrated weekly like feeding a pet.",
+            "sentence_zh": "奶奶的古董收音机需要每周校准，就像喂养宠物一样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "使标准化",
+        "examples": [
+          {
+            "sentence": "All COVID test kits must be calibrated against WHO standards.",
+            "sentence_zh": "所有新冠检测试剂盒都必须以世卫标准进行标准化。"
+          },
+          {
+            "sentence": "The AI's moral compass is being calibrated with 5000 ethical dilemmas.",
+            "sentence_zh": "正在用5000个道德困境案例来标准化该AI的道德准则。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "calibrated instrument",
+        "meaning": "校准仪器",
+        "examples": [
+          {
+            "sentence": "A poorly calibrated speedometer once made me think my e-bike could fly.",
+            "sentence_zh": "没校准好的时速表曾让我以为自己的电动车能起飞。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "precisely calibrated",
+        "meaning": "精确校准的",
+        "examples": [
+          {
+            "sentence": "The dumpling robot's folding is precisely calibrated to 18 pleats like a master chef.",
+            "sentence_zh": "包饺子机器人的折褶被精确校准到18道，如同大厨手法。"
+          }
+        ]
+      }
+    ],
+    "teach": "calibrated是强迫症患者的福音🧐！它的鼻祖是意大利炮管测量器📏，现在连奶茶甜度都能被calibrated（标准糖≈20g）。说'调得准'可以用dialed in🔧（原指调收音机），'乱调整'叫jury-rigged🦑。记住：当你校准体重秤时，其实是在对抗地心引力🌍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开力不累的'→校准仪器开足马力不累的",
+        "易混词：calculate（计算）/ calibrate（校准）",
+        "记忆术：Cali（加州）+brated（像rated评分）→加州硅谷最爱标定数据"
+      ]
+    }
   }
 ]

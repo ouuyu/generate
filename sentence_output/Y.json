@@ -4571,5 +4571,331 @@
         "易混词对比：youngster（真年轻人）vs youngish（假装年轻）"
       ]
     }
+  },
+  {
+    "word": "youngster",
+    "etymology": {
+      "breakdown": [
+        "young",
+        "ster"
+      ],
+      "meaning_connection": "young表'年轻的'，后缀-ster表示'与...相关的人'→原指幼兽，后泛指年轻人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小孩",
+        "examples": [
+          {
+            "sentence": "The youngsters were chasing fireflies in the yard like tiny explorers.",
+            "sentence_zh": "孩子们像小小探险家般在院子里追逐萤火虫。"
+          },
+          {
+            "sentence": "This playground is specially designed for youngsters under 8.",
+            "sentence_zh": "这个游乐场专为8岁以下小孩设计。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "年轻人",
+        "examples": [
+          {
+            "sentence": "Tech-savvy youngsters are developing AI plugins for WeChat.",
+            "sentence_zh": "精通技术的年轻人正在为微信开发AI插件。"
+          },
+          {
+            "sentence": "Many youngsters nowadays prefer bubble tea over coffee.",
+            "sentence_zh": "现今许多年轻人更喜欢奶茶而非咖啡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "少年",
+        "examples": [
+          {
+            "sentence": "The bicycle race attracted youngsters from all over the country.",
+            "sentence_zh": "这场自行车赛吸引了全国各地的少年参加。"
+          },
+          {
+            "sentence": "As a youngster, he practiced calligraphy every morning.",
+            "sentence_zh": "少年时期他每天早晨练习书法。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bright youngster",
+        "meaning": "聪慧的年轻人",
+        "examples": [
+          {
+            "sentence": "This bright youngster invented a solar-powered phone charger at 15.",
+            "sentence_zh": "这位聪慧的少年15岁就发明了太阳能手机充电器。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "youngster at heart",
+        "meaning": "心态年轻的人",
+        "examples": [
+          {
+            "sentence": "My 70-year-old grandma is still a youngster at heart who loves TikTok dances.",
+            "sentence_zh": "我70岁的奶奶心态仍然年轻，热爱跳抖音舞蹈。"
+          }
+        ]
+      }
+    ],
+    "teach": "youngster其实是'幼兽'演变来的🐣！中世纪英语用youngster指小动物，后来才形容人。要说'小屁孩'可以戏称ankle-biter（咬脚踝的小狗）🐶，'年轻有为'叫whiz kid（神童）✨。记住：每个oldster都曾是youngster，就像珍珠奶茶里的珍珠迟早会沉底🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'养狮的'→动物园养狮子的都是youngster",
+        "易混词对比：youth指青年群体（更正式），youngster带亲切感",
+        "记忆tip：young+ster=年轻的人，就像'小鲜肉'"
+      ]
+    }
+  },
+  {
+    "word": "your",
+    "etymology": {
+      "breakdown": [
+        "you",
+        "r"
+      ],
+      "meaning_connection": "you的属格形式，-r为古英语属格后缀演变而来"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "pron.",
+        "meaning": "你的",
+        "examples": [
+          {
+            "sentence": "Your WeChat red packet made my phone vibrate like crazy!",
+            "sentence_zh": "你的微信红包让我的手机震得像抽风。"
+          },
+          {
+            "sentence": "Is this your spicy hotpot or a volcano eruption?",
+            "sentence_zh": "这是你的麻辣火锅还是火山喷发？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "pron.",
+        "meaning": "你们的",
+        "examples": [
+          {
+            "sentence": "Your group selfie with the Great Wall background is epic!",
+            "sentence_zh": "你们以长城为背景的集体自拍太壮观了。"
+          },
+          {
+            "sentence": "Did your whole dormitory order stinky tofu again?",
+            "sentence_zh": "你们整个宿舍又点臭豆腐了？"
+          }
+        ]
+      }
+    ],
+    "teach": "your其实是'油腻'的亲戚🧴！中世纪英语拼作'youre'，就像现在说'你滴'（your）奶茶要少糖🍵。北方人说'恁的'=your，广东话'你哋'=your guys👬。记住：当老外说'your mom jokes'时，快用'你妈喊你回家吃饭'反击🍚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'油耳'→你的(your)耳朵需要掏掏了",
+        "易混词对比：you're（你是）和your（你的）就像'有虫'和'油虫'"
+      ]
+    }
+  },
+  {
+    "word": "yours",
+    "etymology": {
+      "breakdown": [
+        "your",
+        "s"
+      ],
+      "meaning_connection": "your（你的）+ 表名词所有格的-s后缀→'属于你的东西'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "pron.",
+        "meaning": "你的(东西)",
+        "examples": [
+          {
+            "sentence": "This WeChat red envelope is yours, not mine.",
+            "sentence_zh": "这个微信红包是你的，不是我的。"
+          },
+          {
+            "sentence": "The last dumpling on the plate is definitely yours!",
+            "sentence_zh": "盘子里最后一个饺子绝对是你的！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "pron.",
+        "meaning": "你们的(东西)",
+        "examples": [
+          {
+            "sentence": "Are these shared bikes yours, classmates?",
+            "sentence_zh": "同学们，这些共享单车是你们的吗？"
+          },
+          {
+            "sentence": "The KTV room with Peking opera singing must be yours!",
+            "sentence_zh": "传出京剧唱腔的KTV包间肯定是你们的！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yours sincerely",
+        "meaning": "谨上（正式信件结尾）",
+        "examples": [
+          {
+            "sentence": "Yours sincerely, the guy who ate your hotpot order by mistake.",
+            "sentence_zh": "谨上，那个错吃了你火锅订单的人。"
+          }
+        ]
+      }
+    ],
+    "teach": "yours就像快递柜取件码📦！当老外说'The seat is yours'，相当于说'这位置是您的'👑。想幽默拒绝可以说'My wallet is yours, but my girlfriend isn't'💸。记住：中文说'这是你的'英语要说'This is yours'，漏了s会变成'这是你'(This is you)的社死现场😂！",
+    "recite": {
+      "tips": [
+        "谐音梗：'要死'→你的东西(yours)要死守住",
+        "易混词对比：your（你的形容词） vs yours（你的名词）"
+      ]
+    }
+  },
+  {
+    "word": "yourself",
+    "etymology": {
+      "breakdown": [
+        "your",
+        "self"
+      ],
+      "meaning_connection": "your表示'你的'，self表示'自己'→组合成'你自己'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "pron.",
+        "meaning": "你自己",
+        "examples": [
+          {
+            "sentence": "Believe in yourself and you can achieve anything!",
+            "sentence_zh": "相信自己，你能做到任何事！"
+          },
+          {
+            "sentence": "Did you make this cake by yourself? It looks amazing!",
+            "sentence_zh": "这蛋糕是你自己做的吗？看起来太棒了！"
+          }
+        ]
+      }
+    ],
+    "teach": "yourself就像一面魔法镜子🪄！当你说'Be yourself'时就像在说'做最真实的自己'🎭（就像火锅就要涮最爱的毛肚！）。'Treat yourself'是'犒劳自己'🍰（比如加班后买杯奶茶）。记住：yourself是你的专属VIP卡💳，想怎么用就怎么用！",
+    "recite": {
+      "tips": [
+        "谐音梗：'油self'→给自己的车加油（yourself）",
+        "易混词对比：yourself（你自己） vs. yourselves（你们自己）"
+      ]
+    }
+  },
+  {
+    "word": "youth",
+    "etymology": {
+      "breakdown": [
+        "you",
+        "th"
+      ],
+      "meaning_connection": "古英语geoguþ，与young同源，-th为抽象名词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "年轻（状态）",
+        "examples": [
+          {
+            "sentence": "Her yoga practice keeps the glow of youth at 50.",
+            "sentence_zh": "五十岁的她通过瑜伽保持着年轻的光彩。"
+          },
+          {
+            "sentence": "The grandma's laughter was full of contagious youth.",
+            "sentence_zh": "奶奶的笑声充满感染力十足的年轻活力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "青年时代",
+        "examples": [
+          {
+            "sentence": "In his youth, Jack Ma cycled 40km daily to practice English.",
+            "sentence_zh": "马云青年时代每天骑车40公里练习英语。"
+          },
+          {
+            "sentence": "The spicy hotpot reminded her of reckless youth in Chongqing.",
+            "sentence_zh": "麻辣火锅让她想起在重庆莽撞的青年时代。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "青年们（集体）",
+        "examples": [
+          {
+            "sentence": "The WeChat group gathers tech-savvy youth nationwide.",
+            "sentence_zh": "这个微信群聚集了全国精通科技的青年们。"
+          },
+          {
+            "sentence": "China's youth are creating new emoji combinations daily.",
+            "sentence_zh": "中国的青年们每天创造新的表情包组合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "青春（特质）",
+        "examples": [
+          {
+            "sentence": "The movie captures the restless youth of post-00s generation.",
+            "sentence_zh": "这部电影捕捉了00后躁动不安的青春。"
+          },
+          {
+            "sentence": "Bubble tea has become the liquid youth of Asian teenagers.",
+            "sentence_zh": "奶茶已成为亚洲青少年的液态青春。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in one's youth",
+        "meaning": "在某人年轻时",
+        "examples": [
+          {
+            "sentence": "In her youth, she could eat three spicy crayfish at once.",
+            "sentence_zh": "她年轻时能同时吃三只麻辣小龙虾。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "waste one's youth",
+        "meaning": "虚度青春",
+        "examples": [
+          {
+            "sentence": "Don't waste your youth staring at Douyin all day.",
+            "sentence_zh": "别整天刷抖音虚度青春。"
+          }
+        ]
+      }
+    ],
+    "teach": "youth就像奶茶里的珍珠🧋——Q弹易逝！古人用'韶华'形容青春⏳，现代人说'forever young'就像美颜滤镜📸。吐槽'中年危机'叫midlife crisis，'装嫩'是try-hard youth👶。记住：你的youth余额比手机流量消耗得更快！",
+    "recite": {
+      "tips": [
+        "谐音梗：'尤瑟'→尤瑟王(King Arthur)永远年轻",
+        "对比记忆：youth（抽象青春）vs youngster（具体年轻人）",
+        "联想：U形枕→年轻人的午睡神器"
+      ]
+    }
   }
 ]

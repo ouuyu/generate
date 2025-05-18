@@ -4503,5 +4503,316 @@
         "易混词：hydrogen（氢）是-gen家族小弟"
       ]
     }
+  },
+  {
+    "word": "halon",
+    "etymology": {
+      "breakdown": [
+        "hal",
+        "on"
+      ],
+      "meaning_connection": "词根hal=卤素，后缀-on常用于化学物质命名→含卤素的化合物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "卤代烷灭火剂",
+        "examples": [
+          {
+            "sentence": "The server room was protected by halon gas fire suppression system.",
+            "sentence_zh": "机房采用卤代烷气体灭火系统保护。"
+          },
+          {
+            "sentence": "Old aircraft still use halon despite its ozone depletion effect.",
+            "sentence_zh": "尽管会破坏臭氧层，老式飞机仍在使用卤代烷。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "halon extinguisher",
+        "meaning": "卤代烷灭火器",
+        "examples": [
+          {
+            "sentence": "Museum curators prefer halon extinguishers to protect artifacts.",
+            "sentence_zh": "博物馆馆长偏爱用卤代烷灭火器保护文物。"
+          }
+        ]
+      }
+    ],
+    "teach": "halon是灭火剂中的灭霸💜！它像化学界的冰箱制冷剂🧊，能瞬间让火焰'凉凉'❄️。搭配说'discharge halon（释放卤代烷）'，地道表达是'ozone killer（臭氧杀手）'。注意：它虽然高效但已逐渐被淘汰，就像会破坏环境的超级英雄🦸♂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨咯'→灭火时气体'嗨咯'一声喷出来",
+        "易混词：halogen（卤素）是halon的原材料",
+        "记忆tip：hal+on=卤素开关，关上就灭火"
+      ]
+    }
+  },
+  {
+    "word": "halt",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语healtian（跛行）→因瘸腿需停顿→停止"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "停止",
+        "examples": [
+          {
+            "sentence": "The subway came to a halt when a panda was spotted on the tracks.",
+            "sentence_zh": "地铁因铁轨上出现熊猫而紧急停止。"
+          },
+          {
+            "sentence": "The CEO called a halt to the meeting for milk tea delivery.",
+            "sentence_zh": "CEO因奶茶外卖到了叫停会议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "立定",
+        "examples": [
+          {
+            "sentence": "The soldier's perfect halt impressed the drill instructor.",
+            "sentence_zh": "士兵标准的立定姿势让教官印象深刻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "休息",
+        "examples": [
+          {
+            "sentence": "During the hiking halt, we found wild strawberries.",
+            "sentence_zh": "徒步休息时我们发现了野草莓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使停止",
+        "examples": [
+          {
+            "sentence": "The traffic police halted the overloaded tuk-tuk with mooncakes.",
+            "sentence_zh": "交警拦停了超载月饼的三轮车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使立定",
+        "examples": [
+          {
+            "sentence": "The sergeant halted the recruits in front of the hotpot restaurant.",
+            "sentence_zh": "中士让新兵们在火锅店前立定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "立定",
+        "examples": [
+          {
+            "sentence": "The squad halted precisely at the finish line.",
+            "sentence_zh": "小队在终点线精确立定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "停止",
+        "examples": [
+          {
+            "sentence": "The printing press halted due to a paper jam.",
+            "sentence_zh": "印刷机因卡纸而停止。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "蹒跚",
+        "examples": [
+          {
+            "sentence": "The injured cat halted toward the vet's office.",
+            "sentence_zh": "受伤的猫蹒跚走向宠物医院。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "踌躇",
+        "examples": [
+          {
+            "sentence": "She halted before confessing her love for spicy crayfish.",
+            "sentence_zh": "她在表白爱吃麻辣小龙虾前踌躇了一下。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "有缺点",
+        "examples": [
+          {
+            "sentence": "His argument halts in logical consistency.",
+            "sentence_zh": "他的论点在逻辑一致性上有缺陷。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "call a halt",
+        "meaning": "叫停",
+        "examples": [
+          {
+            "sentence": "The teacher called a halt to the meme-sharing during class.",
+            "sentence_zh": "老师叫停了课堂上的表情包分享。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "grind to a halt",
+        "meaning": "逐渐停止",
+        "examples": [
+          {
+            "sentence": "The city ground to a halt during the snowstorm.",
+            "sentence_zh": "暴风雪中城市逐渐陷入停滞。"
+          }
+        ]
+      }
+    ],
+    "teach": "halt是个'急刹车'单词🚦！它像交警的停车手势✋（come to a halt），军训时的'立定'口令💂（military halt），还藏着'瘸腿走路'的古老基因🦽（原义）。说'完全瘫痪'用grind to a halt就像火锅店突然停电🍲，而'叫停'call a halt像班主任没收手机📵。记住：halt比stop更突然，自带'咔嚓'定格音效！",
+    "recite": {
+      "tips": [
+        "谐音梗：'耗他'→耗到他停止(halt)",
+        "易混词：halt强调突发停止，pause是短暂停顿"
+      ]
+    }
+  },
+  {
+    "word": "halter",
+    "etymology": {
+      "breakdown": [
+        "halt",
+        "er"
+      ],
+      "meaning_connection": "古英语'healtian'表示'跛行'，后引申为'停止'，-er表工具→最初指限制马匹行动的工具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "缰绳",
+        "examples": [
+          {
+            "sentence": "The cowboy adjusted the halter on his restless horse.",
+            "sentence_zh": "牛仔给焦躁的马匹调整缰绳。"
+          },
+          {
+            "sentence": "She braided a floral halter for her pony with rainbow ribbons.",
+            "sentence_zh": "她用彩虹丝带给小马编了条花式缰绳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "笼头",
+        "examples": [
+          {
+            "sentence": "The camel's ornate halter jingled as it walked through the desert.",
+            "sentence_zh": "骆驼华丽的笼头在沙漠中行走时叮当作响。"
+          },
+          {
+            "sentence": "Never approach a horse from behind when it's wearing a halter.",
+            "sentence_zh": "马匹戴笼头时切勿从后方接近。"
+          }
+        ]
+      }
+    ],
+    "teach": "halter是马界的'蓝牙耳机'🎧！古罗马战马戴青铜笼头就像现代AirPods🐎，而绞刑架（halter）其实是'终极脖套'💀。搭配：'tighten the halter'（收紧笼头）比喻加强控制，'escape the halter'（挣脱缰绳）指摆脱束缚。地道说法：'on a short halter'（短缰绳）形容被严格管控。记住：给生活套halter不如策马奔腾🌅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'薅特'→薅住特(halter)别暴躁的马",
+        "易混词对比：halt（停止）vs halter（让马停止的工具）",
+        "联想：hal+ter→'哈尔的移动城堡'里会咬人的马具"
+      ]
+    }
+  },
+  {
+    "word": "halting",
+    "etymology": {
+      "breakdown": [
+        "halt",
+        "ing"
+      ],
+      "meaning_connection": "源自古英语'haltian'（跛行），-ing表形容词→描述动作不连贯的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "跛的",
+        "examples": [
+          {
+            "sentence": "The halting steps of the injured panda touched millions online.",
+            "sentence_zh": "受伤熊猫蹒跚的脚步感动了数百万网友。"
+          },
+          {
+            "sentence": "With halting gait, the duck continued chasing bread crumbs.",
+            "sentence_zh": "跛脚的鸭子仍坚持一瘸一拐追面包屑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "犹豫的",
+        "examples": [
+          {
+            "sentence": "His halting Mandarin made the livestream audience cheer for his effort.",
+            "sentence_zh": "他结结巴巴的普通话让直播观众为他的努力喝彩。"
+          },
+          {
+            "sentence": "The AI gave halting replies when asked about love.",
+            "sentence_zh": "被问到爱情时，AI给出了犹豫不决的回答。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "halting speech",
+        "meaning": "结巴的讲话",
+        "examples": [
+          {
+            "sentence": "The toddler's halting speech sounds like buffering videos.",
+            "sentence_zh": "幼儿结巴的说话像卡顿的缓冲视频。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "halting progress",
+        "meaning": "缓慢进展",
+        "examples": [
+          {
+            "sentence": "My halting progress in yoga resembles a lagging smartphone.",
+            "sentence_zh": "我的瑜伽进步缓慢得像台卡顿的智能手机。"
+          }
+        ]
+      }
+    ],
+    "teach": "halting是卡顿的现实版！想象你的5G变成2G📶（halting connection），或《甄嬛传》加载到关键处转圈圈🌀（halting video）。说'结巴'别用stammer，试试halting speech更高级。搭配halting steps形容社恐走进聚会现场👟，halting English描述老外说'吃了吗'时的萌态🤪。记住：所有卡顿的人生，都是值得收藏的缓冲片段！",
+    "recite": {
+      "tips": [
+        "谐音梗：'耗听'→信号耗听导致卡顿",
+        "易混词：halt（停止）vs halting（进行中的卡顿）",
+        "联想：Windows蓝屏画面=halting system"
+      ]
+    }
   }
 ]

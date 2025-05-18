@@ -4629,5 +4629,327 @@
         "易混词对比：idler（人/物） vs. idle（形容词）"
       ]
     }
+  },
+  {
+    "word": "idly",
+    "etymology": {
+      "breakdown": [
+        "idle",
+        "ly"
+      ],
+      "meaning_connection": "词根idle=空闲的，后缀-ly表副词形式→从'空闲状态'引申出两种含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "懒惰地",
+        "examples": [
+          {
+            "sentence": "The cat stretched idly on the windowsill, ignoring the mouse below.",
+            "sentence_zh": "猫咪懒洋洋地在窗台上伸懒腰，对下面的老鼠视而不见。"
+          },
+          {
+            "sentence": "He scrolled through his phone idly while pretending to work.",
+            "sentence_zh": "他假装工作时懒散地刷着手机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "空闲地",
+        "examples": [
+          {
+            "sentence": "Grandparents chat idly under the ginkgo tree every afternoon.",
+            "sentence_zh": "爷爷奶奶们每天下午在银杏树下悠闲聊天。"
+          },
+          {
+            "sentence": "I watched clouds drift idly across the blue sky.",
+            "sentence_zh": "我望着云朵在蓝天上悠闲地飘过。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sit idly by",
+        "meaning": "袖手旁观",
+        "examples": [
+          {
+            "sentence": "We can't sit idly by while the pandemic spreads.",
+            "sentence_zh": "疫情蔓延时我们不能袖手旁观。"
+          }
+        ]
+      }
+    ],
+    "teach": "idly是摸鱼党的哲学🌊！古英语idle原指'空转的磨坊'⚙️，现在形容周末躺平刷剧的状态🛋️。要说'闲得发慌'可以用twiddle one's thumbs（玩大拇指），'虚度光阴'叫fiddle around。记住：老板眼中idly=偷懒，你眼中idly=养生！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱抖腿'→闲着没事就爱抖腿",
+        "易混词对比：idly（悠闲地） vs. ideally（理想地）",
+        "记忆tip：i+dle→'I躺着'就是懒散状态"
+      ]
+    }
+  },
+  {
+    "word": "idol",
+    "etymology": {
+      "breakdown": [
+        "idol"
+      ],
+      "meaning_connection": "源自希腊语eidōlon（形象/幻影），经拉丁语idolum进入英语，原指被崇拜的雕像。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "偶像（被崇拜的人）",
+        "examples": [
+          {
+            "sentence": "Jay Chou became the idol of millions by mixing Chinese elements with hip-hop.",
+            "sentence_zh": "周杰伦通过将中国风与嘻哈结合成为千万人的偶像。"
+          },
+          {
+            "sentence": "The tech CEO is treated like an idol by fresh graduates.",
+            "sentence_zh": "这位科技公司CEO被应届毕业生当作偶像崇拜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "崇拜物（物理对象）",
+        "examples": [
+          {
+            "sentence": "The golden calf in the Bible is a classic example of an idol.",
+            "sentence_zh": "圣经中的金牛犊是崇拜物的典型例子。"
+          },
+          {
+            "sentence": "Ancient people worshipped stone idols as deities.",
+            "sentence_zh": "古人将石制崇拜物当作神明供奉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "宠儿（受宠的人/物）",
+        "examples": [
+          {
+            "sentence": "The panda cub quickly became the zoo's new idol.",
+            "sentence_zh": "这只熊猫幼崽迅速成为动物园的新宠儿。"
+          },
+          {
+            "sentence": "As the youngest Nobel laureate, she's the media's current idol.",
+            "sentence_zh": "作为最年轻的诺奖得主，她是媒体当下的宠儿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "幻象（虚假形象）",
+        "examples": [
+          {
+            "sentence": "Don't chase the idol of perfection in relationships.",
+            "sentence_zh": "不要追逐关系中完美的幻象。"
+          },
+          {
+            "sentence": "The idol of eternal youth is promoted by many beauty ads.",
+            "sentence_zh": "许多美容广告鼓吹青春永驻的幻象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "谬论（错误观念）",
+        "examples": [
+          {
+            "sentence": "The idol of racial superiority has caused countless tragedies.",
+            "sentence_zh": "种族优越论的谬论造成了无数悲剧。"
+          },
+          {
+            "sentence": "Breaking the idol of 'women must marry young' is progress.",
+            "sentence_zh": "打破'女性必须早婚'的谬论就是进步。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "teen idol",
+        "meaning": "青少年偶像",
+        "examples": [
+          {
+            "sentence": "The teen idol's concert tickets sold out in 3 seconds.",
+            "sentence_zh": "这位青少年偶像的演唱会门票3秒售罄。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "idol worship",
+        "meaning": "偶像崇拜",
+        "examples": [
+          {
+            "sentence": "Modern idol worship often happens on social media platforms.",
+            "sentence_zh": "现代偶像崇拜常发生在社交平台上。"
+          }
+        ]
+      }
+    ],
+    "teach": "idol是追星族的圣杯🏆！从古希腊神像到现代爱豆，人类永远需要精神图腾。'本命 idol'叫one's ultimate bias，'塌房'是idol scandal💥。当说'she's my idol'时，可能暗含'她完美得不真实'的潜台词——就像泡面包装上的牛肉🐂，你懂的！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱抖'→爱豆(idol)在舞台上抖光彩",
+        "易混词对比：ideal（理想的） vs idol（偶像）→你的ideal可能是别人的idol",
+        "记忆tip：idol开头字母i像个人在举手欢呼"
+      ]
+    }
+  },
+  {
+    "word": "idolatrous",
+    "etymology": {
+      "breakdown": [
+        "idol",
+        "atr",
+        "ous"
+      ],
+      "meaning_connection": "idol=偶像，-atr=行为者后缀，-ous=形容词后缀→像对待偶像般狂热的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "崇拜偶像的",
+        "examples": [
+          {
+            "sentence": "The idolatrous fans camped outside the hotel for weeks.",
+            "sentence_zh": "狂热的粉丝在酒店外扎营数周。"
+          },
+          {
+            "sentence": "Idolatrous practices were carved on these ancient totems.",
+            "sentence_zh": "这些古老图腾上刻着偶像崇拜的仪式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "盲目崇拜的",
+        "examples": [
+          {
+            "sentence": "His idolatrous devotion to the CEO resembled religious fervor.",
+            "sentence_zh": "他对CEO的盲目崇拜近乎宗教狂热。"
+          },
+          {
+            "sentence": "The startup's idolatrous culture treated its founder like a demigod.",
+            "sentence_zh": "这家初创公司把创始人当作半神盲目崇拜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "idolatrous worship",
+        "meaning": "偶像崇拜",
+        "examples": [
+          {
+            "sentence": "The documentary exposed idolatrous worship in celebrity culture.",
+            "sentence_zh": "这部纪录片揭露了名人文化中的偶像崇拜现象。"
+          }
+        ]
+      }
+    ],
+    "teach": "idolatrous本质是'爱豆拉仇视'🤳！古希腊人真的会为雕像(idol)打架，就像现在粉丝为爱豆刷榜💻。说'无脑吹'可用brown-nose(舔棕鼻子)，'脑残粉'叫stan(来自Eminem歌曲)🎤。记住：当你的喜欢变成idolatrous，爱豆放屁都是香的💨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱豆来抽丝'→追星族抽丝剥茧研究偶像",
+        "易混词对比：idle(空闲的) vs idol(偶像)",
+        "记忆tip：想象把idol(偶像)和atrocious(恶劣的)结合→过度的崇拜是可怕的"
+      ]
+    }
+  },
+  {
+    "word": "idolatry",
+    "etymology": {
+      "breakdown": [
+        "idol",
+        "atry"
+      ],
+      "meaning_connection": "idol（偶像）+ -atry（崇拜行为）→原指宗教偶像崇拜，后引申为过度迷恋"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "偶像崇拜",
+        "examples": [
+          {
+            "sentence": "The K-pop fandom's idolatry sometimes leads to airport crowding incidents.",
+            "sentence_zh": "韩流粉丝的偶像崇拜有时会导致机场拥堵事件。"
+          },
+          {
+            "sentence": "Ancient Greeks practiced idolatry by building temples for their gods.",
+            "sentence_zh": "古希腊人通过为众神建造庙宇来践行偶像崇拜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "邪神崇拜",
+        "examples": [
+          {
+            "sentence": "The missionary condemned the local tribe's idolatry of stone deities.",
+            "sentence_zh": "传教士谴责当地部落对石像邪神的崇拜。"
+          },
+          {
+            "sentence": "Biblical stories often warn against the idolatry of golden calves.",
+            "sentence_zh": "圣经故事常警告崇拜金牛犊的邪神行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "盲目崇拜",
+        "examples": [
+          {
+            "sentence": "His idolatry of the entrepreneur made him invest all his savings in the scam.",
+            "sentence_zh": "他对企业家的盲目崇拜导致他把积蓄全投进了骗局。"
+          },
+          {
+            "sentence": "The teacher warned against idolatry of foreign cultures without critical thinking.",
+            "sentence_zh": "老师警告不要不加批判地盲目崇拜外国文化。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "celebrity idolatry",
+        "meaning": "名人崇拜",
+        "examples": [
+          {
+            "sentence": "Celebrity idolatry among teenagers often leads to excessive spending on merch.",
+            "sentence_zh": "青少年间的名人崇拜常导致过度消费周边产品。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "idolatry of wealth",
+        "meaning": "拜金主义",
+        "examples": [
+          {
+            "sentence": "The film criticizes modern society's idolatry of wealth.",
+            "sentence_zh": "这部电影批判了现代社会对金钱的崇拜。"
+          }
+        ]
+      }
+    ],
+    "teach": "idolatry是追星族的专业术语📸！最初指给神像贴金箔的宗教行为💰，现在形容为爱豆打榜的疯狂行为🤯。古代人崇拜石像叫idolatry，现代人给主播刷火箭也叫idolatry🚀。记住：对奶茶的执着也算一种idolatry🧋（就像周杰伦的珍珠奶茶瘾）！说'脑残粉'可以用blind idolatry，'理性追星'则是reasonable admiration。",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱豆来捶'→爱豆来了粉丝捶胸顿足地崇拜",
+        "易混词对比：idol（偶像） vs ideal（理想）",
+        "记忆tip：拆解为idol+try→尝试成为偶像"
+      ]
+    }
   }
 ]

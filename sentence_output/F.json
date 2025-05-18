@@ -4871,5 +4871,341 @@
         "易混词：fairy（善良精灵）vs. witch（女巫）"
       ]
     }
+  },
+  {
+    "word": "fairyland",
+    "etymology": {
+      "breakdown": [
+        "fairy",
+        "land"
+      ],
+      "meaning_connection": "由fairy（仙女）和land（土地）组成，字面意思是仙女居住的地方。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "仙境",
+        "examples": [
+          {
+            "sentence": "The morning mist made the bamboo forest look like a fairyland.",
+            "sentence_zh": "晨雾让竹林看起来像个仙境。"
+          },
+          {
+            "sentence": "Disneyland is designed to be a modern fairyland for children.",
+            "sentence_zh": "迪士尼乐园被设计成孩子们的现代仙境。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "乐园",
+        "examples": [
+          {
+            "sentence": "The newly opened water park is a fairyland for summer fun.",
+            "sentence_zh": "新开的水上乐园是夏日乐趣的乐园。"
+          },
+          {
+            "sentence": "Book lovers consider the library a fairyland of knowledge.",
+            "sentence_zh": "爱书的人认为图书馆是知识的乐园。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "like fairyland",
+        "meaning": "像仙境一样",
+        "examples": [
+          {
+            "sentence": "The ice sculptures made the whole square look like fairyland.",
+            "sentence_zh": "冰雕让整个广场看起来像仙境一样。"
+          }
+        ]
+      }
+    ],
+    "teach": "fairyland就是仙女(fairy)的宅基地🏡！想象迪士尼城堡被棉花糖云☁️托着的样子就是标准fairyland。要说'美得像仙境'可以说out of this world（字面：不属于这个世界），'梦幻场景'叫fairy-tale scene🧚♀️。记住：只要滤镜够厚，你家阳台也是fairyland！",
+    "recite": {
+      "tips": [
+        "谐音梗：'非礼land'→仙女禁止非礼的领地",
+        "易混词对比：wonderland（奇境）更侧重奇妙，fairyland更侧重梦幻"
+      ]
+    }
+  },
+  {
+    "word": "faith",
+    "etymology": {
+      "breakdown": [
+        "fid",
+        "th"
+      ],
+      "meaning_connection": "词根fid=信任（同源词confide），-th为名词后缀→最初指对神的绝对信任"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "信心",
+        "examples": [
+          {
+            "sentence": "The grandma had unshakable faith in her herbal remedies.",
+            "sentence_zh": "老奶奶对自己的草药偏方有着不可动摇的信心。"
+          },
+          {
+            "sentence": "Chinese parents often have blind faith in exam-oriented education.",
+            "sentence_zh": "中国家长常对应试教育抱有盲目信心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "信任",
+        "examples": [
+          {
+            "sentence": "Douyin's algorithm wins users' faith by accurate recommendations.",
+            "sentence_zh": "抖音算法通过精准推荐赢得用户信任。"
+          },
+          {
+            "sentence": "Breaking faith with your teammates is worse than losing the game.",
+            "sentence_zh": "失去队友信任比输掉比赛更糟糕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "忠实",
+        "examples": [
+          {
+            "sentence": "The Husky kept faith with its owner despite being fed expired dog food.",
+            "sentence_zh": "这只哈士奇即使被喂过期狗粮也保持忠实。"
+          },
+          {
+            "sentence": "In ancient times, ministers swore faith to the emperor with their lives.",
+            "sentence_zh": "古时大臣用性命向皇帝宣誓效忠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "保证",
+        "examples": [
+          {
+            "sentence": "The farmer gave his faith that the melons were pesticide-free.",
+            "sentence_zh": "瓜农保证这些西瓜没有打农药。"
+          },
+          {
+            "sentence": "I'll take your words on faith without a contract.",
+            "sentence_zh": "我不要合同，就凭你口头保证。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keep faith with",
+        "meaning": "对...守信",
+        "examples": [
+          {
+            "sentence": "The delivery guy kept faith with his promise to arrive before the Spring Festival Gala.",
+            "sentence_zh": "快递小哥信守承诺在春晚开始前送达。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in good faith",
+        "meaning": "真诚地",
+        "examples": [
+          {
+            "sentence": "She shared her steamed buns in good faith, not knowing they were stuffed with wasabi.",
+            "sentence_zh": "她真诚地分享包子，不知道里面是芥末馅。"
+          }
+        ]
+      }
+    ],
+    "teach": "faith这词藏着中国式信任哲学🤝：从拜佛烧香时的虔诚🙏（religious faith），到相信拼多多真能砍到免费手机📱（blind faith），再到兄弟借钱不打欠条的义气🍻（keep faith）。说'我信你'英文是'I take your word on faith'，'背信弃义'叫break faith like 吕布叛变🎭。记住：faith就是你的社会信用分！",
+    "recite": {
+      "tips": [
+        "谐音梗：'费事'→建立faith最费事",
+        "对比记忆：faith（情感信任）vs. trust（理性信任）vs. loyalty（行为忠诚）",
+        "联想：fid词根→confide（倾诉）→有faith才能confide"
+      ]
+    }
+  },
+  {
+    "word": "faithful",
+    "etymology": {
+      "breakdown": [
+        "faith",
+        "ful"
+      ],
+      "meaning_connection": "词根faith=信仰/信任，后缀-ful表充满...的→充满信任的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "忠实的",
+        "examples": [
+          {
+            "sentence": "My golden retriever has been my faithful companion for 12 years.",
+            "sentence_zh": "我的金毛犬已是我12年的忠实伙伴。"
+          },
+          {
+            "sentence": "The AI assistant gave a faithful translation of the ancient poem.",
+            "sentence_zh": "AI助手对这首古诗进行了忠实翻译。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "详确的",
+        "examples": [
+          {
+            "sentence": "The documentary provides a faithful account of the pandemic.",
+            "sentence_zh": "这部纪录片详实记录了疫情经过。"
+          },
+          {
+            "sentence": "This app keeps faithful records of your sleep patterns.",
+            "sentence_zh": "该应用详细记录您的睡眠模式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可靠的",
+        "examples": [
+          {
+            "sentence": "This faithful old printer survived three office relocations.",
+            "sentence_zh": "这台可靠的旧打印机经历了三次办公室搬迁。"
+          },
+          {
+            "sentence": "For hiking in Tibet, you need a faithful oxygen meter.",
+            "sentence_zh": "在西藏徒步需要可靠的血氧仪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "信徒",
+        "examples": [
+          {
+            "sentence": "The temple welcomes both tourists and faithful.",
+            "sentence_zh": "该寺庙同时欢迎游客和信徒。"
+          },
+          {
+            "sentence": "Apple's faithful eagerly await each new product launch.",
+            "sentence_zh": "苹果信徒热切期待每次新品发布。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remain faithful to",
+        "meaning": "对...保持忠诚",
+        "examples": [
+          {
+            "sentence": "The chef remains faithful to traditional Sichuan recipes.",
+            "sentence_zh": "这位厨师坚持传统川菜配方。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "the faithful",
+        "meaning": "信众群体",
+        "examples": [
+          {
+            "sentence": "The stadium was packed with the faithful of the pop star.",
+            "sentence_zh": "体育馆挤满了这位明星的忠实粉丝。"
+          }
+        ]
+      }
+    ],
+    "teach": "faithful就像宗教奶茶三兄弟🧋：1) 当'忠实的'时是珍珠（核心品质）💎 2) 当'详确的'时是布丁（细致绵密）📝 3) 当'信徒'时是奶盖（顶层群体）🙏。历史梗：中世纪骑士戒指刻'faithful unto death'💍。搭配：faithful reproduction（精准复刻）/ faithful customer（老主顾）。吐槽'假忠诚'说lip service（嘴上效忠）🗣️",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥丝ful'→胖粉丝(faithful)最忠诚",
+        "易混词：faithful(持续的) vs. loyal(立场性的)",
+        "记忆tip：faith+ful=装满了信仰"
+      ]
+    }
+  },
+  {
+    "word": "faithfully",
+    "etymology": {
+      "breakdown": [
+        "faith",
+        "ful",
+        "ly"
+      ],
+      "meaning_connection": "词根faith=信念/忠诚，-ful表形容词后缀，-ly表副词后缀→以忠诚的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "忠实地",
+        "examples": [
+          {
+            "sentence": "The translator faithfully reproduced the subtle wordplay in Mo Yan's novels.",
+            "sentence_zh": "译者忠实地再现了莫言小说中微妙的文字游戏。"
+          },
+          {
+            "sentence": "My dog waits faithfully by the door every day at 6pm.",
+            "sentence_zh": "我的狗每天傍晚六点都忠实地守在门边。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "诚心诚意地",
+        "examples": [
+          {
+            "sentence": "She faithfully promised to finish all the hotpot ingredients.",
+            "sentence_zh": "她诚心诚意地承诺会吃完所有火锅食材。"
+          },
+          {
+            "sentence": "The craftsman faithfully followed the 800-year-old technique.",
+            "sentence_zh": "匠人诚心诚意地遵循着这项八百年历史的工艺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "深信着地",
+        "examples": [
+          {
+            "sentence": "He faithfully believes spicy food cures all illnesses.",
+            "sentence_zh": "他深信着辣味食物能治百病。"
+          },
+          {
+            "sentence": "Generations have faithfully passed down this lunar calendar wisdom.",
+            "sentence_zh": "世世代代人们深信着传承这份农历智慧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yours faithfully",
+        "meaning": "您忠实的（正式信件结尾）",
+        "examples": [
+          {
+            "sentence": "British formal letters often end with 'Yours faithfully' when you don't know the recipient.",
+            "sentence_zh": "英式正式信件在不认识收件人时常用'您忠实的'结尾。"
+          }
+        ]
+      }
+    ],
+    "teach": "faithfully是'铁憨憨式忠诚'🤖：就像《三国演义》里关羽对刘备的忠义💮，或像你家Wi-Fi永远只认一个密码🔑。说'死忠粉'叫die-hard fan（比faithfully更狂热），'精诚所至'可以用devotedly。记住：快递小哥风雨无阻送餐→deliver faithfully🚴♂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥死力'→用肥死力气(faithfully)完成任务",
+        "易混词对比：faithfully（主观忠诚）vs accurately（客观精确）",
+        "记忆tip：把faith想成'发誓th'→发誓要做到的事就要faithfully完成"
+      ]
+    }
   }
 ]

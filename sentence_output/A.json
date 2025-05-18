@@ -4591,5 +4591,293 @@
         "易混词对比：abrupt（突然的）vs aborted（中断的）"
       ]
     }
+  },
+  {
+    "word": "abortion",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "ort",
+        "ion"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根ort表示'出生'，后缀-ion表名词→字面意思'离开出生状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "流产",
+        "examples": [
+          {
+            "sentence": "The debate on abortion laws sparked nationwide protests.",
+            "sentence_zh": "关于流产法律的辩论引发了全国性抗议。"
+          },
+          {
+            "sentence": "In some ancient cultures, abortion was performed with herbal mixtures.",
+            "sentence_zh": "某些古代文化中，人们用草药混合物实施流产。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "堕胎",
+        "examples": [
+          {
+            "sentence": "The clinic provides confidential abortion services.",
+            "sentence_zh": "该诊所提供保密的堕胎服务。"
+          },
+          {
+            "sentence": "Religious views on abortion vary greatly across denominations.",
+            "sentence_zh": "不同教派对堕胎的宗教观点差异很大。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "失败",
+        "examples": [
+          {
+            "sentence": "The startup's abortion left investors with heavy losses.",
+            "sentence_zh": "这家初创企业的失败让投资者损失惨重。"
+          },
+          {
+            "sentence": "His political campaign ended in abortion due to scandal.",
+            "sentence_zh": "他的政治竞选因丑闻而失败告终。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "夭折",
+        "examples": [
+          {
+            "sentence": "The abortion of their travel plans disappointed everyone.",
+            "sentence_zh": "旅行计划的夭折让大家都很失望。"
+          },
+          {
+            "sentence": "Many Renaissance artworks were abortions due to lack of funding.",
+            "sentence_zh": "许多文艺复兴时期的艺术作品因资金不足而夭折。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中止",
+        "examples": [
+          {
+            "sentence": "The abortion of nuclear talks caused international concern.",
+            "sentence_zh": "核谈判的中止引发了国际关注。"
+          },
+          {
+            "sentence": "Unexpected weather led to the abortion of the space launch.",
+            "sentence_zh": "意外天气导致太空发射中止。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "induced abortion",
+        "meaning": "人工流产",
+        "examples": [
+          {
+            "sentence": "The hospital specializes in safe induced abortion procedures.",
+            "sentence_zh": "该医院专门从事安全的人工流产手术。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "abortion of justice",
+        "meaning": "司法不公",
+        "examples": [
+          {
+            "sentence": "The lawyer called the verdict an abortion of justice.",
+            "sentence_zh": "律师称该判决是司法不公。"
+          }
+        ]
+      }
+    ],
+    "teach": "abortion如同被退回的快递📦：古罗马用这个词形容'早产'（premature birth），现在既可指生理上的终止妊娠🏥，也可比喻计划的中道崩殂💔。说'计划泡汤'可以用abortion of plans，'半途而废的项目'叫aborted project。记住：无论是婴儿还是梦想，premature ending都让人痛心😢",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊剥生'→啊，剥脱了生命",
+        "易混词对比：abortion（中止） vs adoption（领养）"
+      ]
+    }
+  },
+  {
+    "word": "abortive",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "ort",
+        "ive"
+      ],
+      "meaning_connection": "前缀ab-表示'偏离'，词根ort=诞生（同origin），-ive为形容词后缀→偏离出生状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "流产的",
+        "examples": [
+          {
+            "sentence": "The vet explained the abortive pregnancy of the panda.",
+            "sentence_zh": "兽医解释了熊猫流产的妊娠情况。"
+          },
+          {
+            "sentence": "Ancient medical texts recorded abortive herbal remedies.",
+            "sentence_zh": "古代医书记载了流产用的草药疗法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "失败的",
+        "examples": [
+          {
+            "sentence": "Their abortive attempt to invent flying cars became an internet meme.",
+            "sentence_zh": "他们发明飞行汽车失败的尝试成了网络梗图。"
+          },
+          {
+            "sentence": "The abortive coup was stopped within 3 hours.",
+            "sentence_zh": "这场失败的政变在3小时内就被平息。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abortive effort",
+        "meaning": "徒劳的努力",
+        "examples": [
+          {
+            "sentence": "Writing a novel on a smartphone was an abortive effort.",
+            "sentence_zh": "用手机写小说是徒劳的努力。"
+          }
+        ]
+      }
+    ],
+    "teach": "abortive是'夭折的梦想'💔：拉丁语里oriri（诞生）加上'ab'就变成'生不出来'🤰。要说'项目黄了'可以说go down the drain（进下水道），'计划泡汤'叫fall through就像煮破的饺子🥟。记住：你的abortive计划可能变成下次成功的肥料！💩→🌱",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅不踢我'→流产的鹅蛋没人踢",
+        "易混词对比：abortive（中途失败） vs futile（彻底无用）"
+      ]
+    }
+  },
+  {
+    "word": "about",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bout"
+      ],
+      "meaning_connection": "前缀a-表示'在...状态'，古英语būtan意为'在...之外'→原指空间上的环绕关系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "prep.",
+        "meaning": "在...周围",
+        "examples": [
+          {
+            "sentence": "The dragon dancers spun about the temple square.",
+            "sentence_zh": "舞龙队伍绕着庙宇广场旋转。"
+          },
+          {
+            "sentence": "She tied a red ribbon about the gift box.",
+            "sentence_zh": "她在礼物盒周围系上红丝带。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "prep.",
+        "meaning": "大约",
+        "examples": [
+          {
+            "sentence": "The Great Wall is about 21,196 kilometers long.",
+            "sentence_zh": "长城大约有21196公里长。"
+          },
+          {
+            "sentence": "We'll arrive in about three dumplings' worth of time.",
+            "sentence_zh": "我们大约吃三个饺子的时间就能到。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "prep.",
+        "meaning": "有关",
+        "examples": [
+          {
+            "sentence": "This podcast is about AI replacing English teachers.",
+            "sentence_zh": "这个播客讨论AI替代英语老师的话题。"
+          },
+          {
+            "sentence": "Her thesis is about the history of mahjong.",
+            "sentence_zh": "她的论文研究麻将的历史。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "四处",
+        "examples": [
+          {
+            "sentence": "Pandas wander about lazily after eating bamboo.",
+            "sentence_zh": "熊猫吃完竹子后懒散地四处走动。"
+          },
+          {
+            "sentence": "Tourists were looking about for the best photo spot.",
+            "sentence_zh": "游客们四处寻找最佳拍照点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "在附近",
+        "examples": [
+          {
+            "sentence": "Is there any bubble tea shop about?",
+            "sentence_zh": "这附近有奶茶店吗？"
+          },
+          {
+            "sentence": "The guard asked if there were suspicious people about.",
+            "sentence_zh": "保安询问附近是否有可疑人员。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "how about",
+        "meaning": "...怎么样",
+        "examples": [
+          {
+            "sentence": "How about hotpot for our team building?",
+            "sentence_zh": "团建吃火锅怎么样？"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "be about to",
+        "meaning": "即将",
+        "examples": [
+          {
+            "sentence": "The steamed buns are about to burst open!",
+            "sentence_zh": "包子马上就要破皮了！"
+          }
+        ]
+      }
+    ],
+    "teach": "about这个词就像孙悟空的金箍棒🦸‍♂️！当它表示'大约'时像菜市场砍价（about 50 yuan💰）；'周围'时像大妈跳广场舞的动线🕺；'关于'时像八卦大妈聊邻居家事🗣️。记住：说'附近有厕所吗'用地道表达'Is there a loo about?' 🚽，迷路时记住'look about'比'look around'更英式！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅包它'→鹅(about)把东西包在周围",
+        "易混词：around强调动态环绕，about侧重静态周边"
+      ]
+    }
   }
 ]

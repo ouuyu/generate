@@ -4798,5 +4798,283 @@
         "拆解记忆：wander（游荡）+ lust（欲望）= 行走的荷尔蒙"
       ]
     }
+  },
+  {
+    "word": "wane",
+    "etymology": {
+      "breakdown": [
+        "wan",
+        "e"
+      ],
+      "meaning_connection": "古英语wanian表示减少，与拉丁语vanus（空）同源，-e为古英语动词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "减少",
+        "examples": [
+          {
+            "sentence": "The wane of DVD sales mirrors streaming's rise.",
+            "sentence_zh": "DVD销量的减少反映了流媒体的崛起。"
+          },
+          {
+            "sentence": "A sudden wane in WeChat usage shocked Tencent.",
+            "sentence_zh": "微信使用量的突然减少震惊了腾讯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "衰微",
+        "examples": [
+          {
+            "sentence": "The wane of Confucian classics in modern education is debated.",
+            "sentence_zh": "儒学经典在现代教育中的衰微引发争议。"
+          },
+          {
+            "sentence": "Teahouses face wane as young prefer milk tea shops.",
+            "sentence_zh": "随着年轻人偏爱奶茶店，传统茶馆面临衰微。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "月亏",
+        "examples": [
+          {
+            "sentence": "Mooncakes are traditionally eaten during the wane.",
+            "sentence_zh": "传统上月饼在月亏时食用。"
+          },
+          {
+            "sentence": "The wane phase is considered unlucky for weddings.",
+            "sentence_zh": "月亏期被认为不宜举办婚礼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变小",
+        "examples": [
+          {
+            "sentence": "Snowball fights wane as global warming worsens.",
+            "sentence_zh": "随着全球变暖加剧，打雪仗活动逐渐变小。"
+          },
+          {
+            "sentence": "Her enthusiasm waned after 100 failed job applications.",
+            "sentence_zh": "在100次求职失败后她的热情变小了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "衰落",
+        "examples": [
+          {
+            "sentence": "Karaoke bars are waning in first-tier cities.",
+            "sentence_zh": "KTV在一线城市正逐渐衰落。"
+          },
+          {
+            "sentence": "Paper map sales waned with smartphone navigation.",
+            "sentence_zh": "纸质地图销售随着手机导航而衰落。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on the wane",
+        "meaning": "在衰退中",
+        "examples": [
+          {
+            "sentence": "Fax machines are on the wane worldwide.",
+            "sentence_zh": "传真机在全球范围内处于衰退中。"
+          },
+          {
+            "sentence": "His influence is on the wane after the scandal.",
+            "sentence_zh": "丑闻后他的影响力正在衰退。"
+          }
+        ]
+      }
+    ],
+    "teach": "wane像个月亮emoji🌘+倒计时沙漏⏳！古人看月亏(wane)以为天狗吃月亮🐶，现在说'势力衰退'用on the wane就像退潮的浪花🌊。记住：'wane与wax相对'就像阴阳符号☯️，'公司衰退'说The company's fortune is waning比破产委婉💸。地道说法：'过气网红'叫waning star！",
+    "recite": {
+      "tips": [
+        "谐音梗：'萎呢'→植物萎呢(wane)就是衰败了",
+        "易混词对比：wane(自然衰退) vs decline(主动下降)",
+        "记忆口诀：W-A-N-E=月亮在Whisper(低语)、Attenuate(减弱)、Narrow(变窄)、Evaporate(蒸发)"
+      ]
+    }
+  },
+  {
+    "word": "wangle",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "19世纪英国俚语，可能源自'wankle'(古英语'不稳定的')或'waggle'(摇摆)，暗示不诚实手段的灵活运用"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "设法脱身",
+        "examples": [
+          {
+            "sentence": "The influencer wangled out of the scandal by posting cute cat videos.",
+            "sentence_zh": "网红通过发布萌猫视频从丑闻中巧妙脱身。"
+          },
+          {
+            "sentence": "He wangled through the crowd like an eel escaping from a fishing net.",
+            "sentence_zh": "他像逃网的鳗鱼般从人群中扭身挤出。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "用诡计获得",
+        "examples": [
+          {
+            "sentence": "She wangled front-row tickets by pretending to be a famous critic's assistant.",
+            "sentence_zh": "她假扮著名评论家的助手，用诡计搞到了前排票。"
+          },
+          {
+            "sentence": "The student wangled extra exam time with a fabricated doctor's note.",
+            "sentence_zh": "学生用伪造的医生证明骗取了额外考试时间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用计获得",
+        "examples": [
+          {
+            "sentence": "He wangled a free upgrade by complimenting the airline manager's tie.",
+            "sentence_zh": "他通过夸赞航空公司经理的领带，套路到了免费升舱。"
+          },
+          {
+            "sentence": "My grandma wangled three extra meat buns at the supermarket tasting counter.",
+            "sentence_zh": "我奶奶在超市试吃柜台多蹭了三个肉包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "哄骗",
+        "examples": [
+          {
+            "sentence": "The toddler wangled ice cream before dinner by doing puppy-eye blinks.",
+            "sentence_zh": "小孩用小狗眨眼攻势哄骗到饭前冰淇淋。"
+          },
+          {
+            "sentence": "They wangled the password out of the new intern with free milk tea.",
+            "sentence_zh": "他们用免费奶茶从实习生那儿套出了密码。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "欺诈行为",
+        "examples": [
+          {
+            "sentence": "The fake influencer's '10 million followers' was a complete wangle.",
+            "sentence_zh": "假网红的'千万粉丝'纯属造假行为。"
+          },
+          {
+            "sentence": "Pulling off this wangle required 5 accomplices and a Photoshop expert.",
+            "sentence_zh": "实施这起骗局需要5个同伙和1个PS高手。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wangle one's way",
+        "meaning": "挤过/混入",
+        "examples": [
+          {
+            "sentence": "He wangled his way backstage with a borrowed staff badge.",
+            "sentence_zh": "他借来的工作证混进了后台。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wangle sth out of sb",
+        "meaning": "从某人处骗取某物",
+        "examples": [
+          {
+            "sentence": "She wangled concert tickets out of her ex-boyfriend's cousin.",
+            "sentence_zh": "她从前任男友的表哥那儿骗到了演唱会门票。"
+          }
+        ]
+      }
+    ],
+    "teach": "wangle是'忽悠学'专业术语🎭！就像狐狸用尾巴骗乌鸦开口🧀（wangle food），或打工人用猫图骗领导批假🐱（wangle leave）。英国小偷用这个词时就像成都人讲'豁胖'—既指'扭着屁股挤地铁'🚇（physical wangle），也指'用火锅贿赂HR'🍲（social wangle）。说'骗到好处'用pull off a wangle，'小聪明'叫wangle tactics，记住：能用emoji解决的问题，绝不wangle！🤹‍♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'忘够'→骗子忘带够(wangle)证据",
+        "易混词对比：wrangle(争吵) vs wangle(哄骗)，差个a就像少颗门牙的骗子",
+        "记忆tip：把'w'想成扭动的蛇形走位"
+      ]
+    }
+  },
+  {
+    "word": "waning",
+    "etymology": {
+      "breakdown": [
+        "wan",
+        "ing"
+      ],
+      "meaning_connection": "词根wan=减少/衰弱（古英语wann），-ing表进行状态→逐渐减少的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "减弱",
+        "examples": [
+          {
+            "sentence": "The waning of pandemic restrictions brought back night markets.",
+            "sentence_zh": "疫情限制的减弱让夜市重现街头。"
+          },
+          {
+            "sentence": "We observed a waning of public interest in the celebrity scandal.",
+            "sentence_zh": "我们注意到公众对明星丑闻的关注度在减弱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "月亏",
+        "examples": [
+          {
+            "sentence": "Mid-Autumn Festival lanterns glow brightest during the waning moon.",
+            "sentence_zh": "中秋花灯在月亏时分显得格外明亮。"
+          },
+          {
+            "sentence": "Ancient sailors feared the waning of the moon when navigating.",
+            "sentence_zh": "古代水手在月亏时航行总会提心吊胆。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on the wane",
+        "meaning": "在衰退中",
+        "examples": [
+          {
+            "sentence": "DVD sales are on the wane since streaming became popular.",
+            "sentence_zh": "自从流媒体盛行后，DVD销量就在持续衰退。"
+          }
+        ]
+      }
+    ],
+    "teach": "waning是月亮在减肥🌙！古人看月缺叫'waning moon'就像被天狗啃了的月饼🥮，而'兴趣减弱'说waning interest就像手机电量下降📉。搭配：说'势力衰退'用power is waning，'月亏期'叫waning phase。记住：不是所有衰退都糟糕，月亏之后就有新月！✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'萎宁'→枯萎安宁=逐渐衰弱",
+        "易混词对比：wane（减弱）vs wax（月盈/增长）像跷跷板两端"
+      ]
+    }
   }
 ]

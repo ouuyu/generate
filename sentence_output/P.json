@@ -4789,5 +4789,304 @@
         "易混词对比：paintjob（非专业喷漆）vs paintwork（专业漆面）"
       ]
     }
+  },
+  {
+    "word": "pair",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'paria'（相等的事物），经古法语'paire'进入英语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "一双（指匹配的两件物品）",
+        "examples": [
+          {
+            "sentence": "The museum displays a pair of Tang Dynasty porcelain chickens.",
+            "sentence_zh": "博物馆展出一对唐代瓷鸡。"
+          },
+          {
+            "sentence": "I need to buy new chopsticks because I broke a pair yesterday.",
+            "sentence_zh": "我需要买新筷子因为昨天摔坏了一双。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一对（指人或动物）",
+        "examples": [
+          {
+            "sentence": "The panda pair at the zoo finally had a cub after 10 years.",
+            "sentence_zh": "动物园的熊猫夫妇经过十年终于有了宝宝。"
+          },
+          {
+            "sentence": "That dancing pair won all the douyin challenges.",
+            "sentence_zh": "那对跳舞的搭档赢下了所有抖音挑战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一副（指配套使用的物品）",
+        "examples": [
+          {
+            "sentence": "My grandma's antique pair of glasses are now in a museum.",
+            "sentence_zh": "我奶奶的古董眼镜现在在博物馆里。"
+          },
+          {
+            "sentence": "This pair of headphones comes with free cloud music membership.",
+            "sentence_zh": "这副耳机附赠网易云音乐会员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成对",
+        "examples": [
+          {
+            "sentence": "The app pairs your phone with smart home devices in seconds.",
+            "sentence_zh": "这个APP能在几秒内让你的手机和智能家居设备配对。"
+          },
+          {
+            "sentence": "The teacher paired the talkative student with the quiet one.",
+            "sentence_zh": "老师把话多的学生和安静的学生配成一对。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "成对",
+        "examples": [
+          {
+            "sentence": "These socks automatically pair themselves in the washing machine.",
+            "sentence_zh": "这些袜子在洗衣机里会自动成对。"
+          },
+          {
+            "sentence": "The birds pair for life like Chinese mandarin ducks.",
+            "sentence_zh": "这些鸟像中国鸳鸯一样终身成对。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pair up",
+        "meaning": "组队",
+        "examples": [
+          {
+            "sentence": "Let's pair up for the English speaking competition!",
+            "sentence_zh": "我们组队参加英语演讲比赛吧！"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in pairs",
+        "meaning": "成双地",
+        "examples": [
+          {
+            "sentence": "The dumplings are served in pairs for good luck.",
+            "sentence_zh": "饺子成双上桌图个吉利。"
+          }
+        ]
+      }
+    ],
+    "teach": "pair是个'强迫症单词'👫！从古代'一双玉璧定姻缘'到现代'蓝牙配对'📱，它总在撮合东西。说'天生一对'叫a perfect pair（像火锅配冰啤🍲🍺），'单身狗'可以说I lost my pair。搭配秘籍：pair with（红酒配奶酪🍷🧀），pair off（相亲成功💑）。记住：看到pair就自动×2！",
+    "recite": {
+      "tips": [
+        "谐音梗：'配啊'→成双配对当然要喊'配啊'",
+        "易混词：pare（削皮） vs pair（成对）→削苹果皮时别把苹果削成一对",
+        "记忆tip：把字母a想象成两个牵手的火柴人"
+      ]
+    }
+  },
+  {
+    "word": "paired",
+    "etymology": {
+      "breakdown": [
+        "pair",
+        "ed"
+      ],
+      "meaning_connection": "pair源自拉丁语'paria'（相等物），-ed表形容词后缀→'使成对的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "成对的",
+        "examples": [
+          {
+            "sentence": "The paired chopsticks in this restaurant have panda carvings.",
+            "sentence_zh": "这家餐厅的成对筷子刻有熊猫图案。"
+          },
+          {
+            "sentence": "Scientists observed paired chromosomes under microscope.",
+            "sentence_zh": "科学家在显微镜下观察到成对的染色体。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "配对的",
+        "examples": [
+          {
+            "sentence": "The app helps find paired socks from laundry chaos.",
+            "sentence_zh": "这个APP能从洗衣混乱中找出配对的袜子。"
+          },
+          {
+            "sentence": "Their paired dance moves won the TikTok challenge.",
+            "sentence_zh": "他们配对的舞步赢得了抖音挑战赛。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paired with",
+        "meaning": "与...配对",
+        "examples": [
+          {
+            "sentence": "Zongzi paired with yogurt is a controversial but trending combo.",
+            "sentence_zh": "粽子配酸奶是有争议但流行的新搭配。"
+          }
+        ]
+      }
+    ],
+    "teach": "paired是个'强迫症友好词'👯♀️！就像火锅必点的鸳鸯锅🥘（paired pots），或是拆快递时的'剪刀石头布'✂️（paired tools）。说'绝配'可以用perfectly paired，吐槽'乱点鸳鸯谱'叫randomly paired。记住：看到paired就自动脑补抖音情侣变装视频💑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派对的'→派对上成对的装饰",
+        "易混词：paired（被动配对）vs coupled（主动耦合）"
+      ]
+    }
+  },
+  {
+    "word": "pairing",
+    "etymology": {
+      "breakdown": [
+        "pair",
+        "ing"
+      ],
+      "meaning_connection": "pair源自拉丁语paria（相等物），-ing表动作过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "配对",
+        "examples": [
+          {
+            "sentence": "The Bluetooth pairing failed because my AirPods were in my brother's pocket.",
+            "sentence_zh": "蓝牙配对失败了，因为我的AirPods在我弟弟口袋里。"
+          },
+          {
+            "sentence": "Wine pairing with spicy hotpot is a Sichuan specialty.",
+            "sentence_zh": "葡萄酒配麻辣火锅是四川特色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "成对组合",
+        "examples": [
+          {
+            "sentence": "The dance competition announced random pairing of contestants.",
+            "sentence_zh": "舞蹈比赛宣布了随机选手配对组合。"
+          },
+          {
+            "sentence": "This socks pairing app helps lonely socks find their mates.",
+            "sentence_zh": "这个袜子配对应用帮助落单袜子找回伴侣。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pairing code",
+        "meaning": "配对码",
+        "examples": [
+          {
+            "sentence": "The smart lock displays a 6-digit pairing code when first used.",
+            "sentence_zh": "智能锁首次使用时显示6位数配对码。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pairing mode",
+        "meaning": "配对模式",
+        "examples": [
+          {
+            "sentence": "Hold the button for 3 seconds to enter pairing mode.",
+            "sentence_zh": "长按按钮3秒进入配对模式。"
+          }
+        ]
+      }
+    ],
+    "teach": "pairing就像月老牵红线🧶+程序员写代码💻！古代'对食'是太监宫女配对🍚，现代变成手机蓝牙握手🤝。说'天生一对'用perfect pairing，'乱点鸳鸯谱'叫forced pairing。科技宅最懂：没有配对码(pairing code)的智能家居，比单身狗还孤独🐶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'配嗯'→配对时发出的确认声",
+        "易混词：paring（削皮）vs pairing（配对）"
+      ]
+    }
+  },
+  {
+    "word": "paisley",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自苏格兰小镇Paisley，因当地盛产这种独特花纹的纺织品而得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "佩斯利花纹（涡旋纹图案）",
+        "examples": [
+          {
+            "sentence": "The vintage scarf featured classic paisley patterns in emerald green.",
+            "sentence_zh": "这条复古围巾以翡翠绿呈现经典佩斯利花纹。"
+          },
+          {
+            "sentence": "Designers often use paisley as inspiration for modern cheongsam designs.",
+            "sentence_zh": "设计师常以佩斯利纹为灵感创作现代旗袍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "佩斯利花纹的",
+        "examples": [
+          {
+            "sentence": "His paisley tie clashed hilariously with his striped shirt.",
+            "sentence_zh": "他的佩斯利花纹领带与条纹衬衫形成了滑稽的冲突。"
+          },
+          {
+            "sentence": "The influencer wore paisley leggings to the traditional tea ceremony.",
+            "sentence_zh": "这位网红穿着佩斯利花纹打底裤参加传统茶道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paisley print",
+        "meaning": "佩斯利印花",
+        "examples": [
+          {
+            "sentence": "Paisley print face masks became a surprise hit during the pandemic.",
+            "sentence_zh": "疫情期间佩斯利印花口罩意外走红。"
+          }
+        ]
+      }
+    ],
+    "teach": "佩斯利花纹就像咖喱味的中国结🍛：起源于波斯但被苏格兰Paisley镇发扬光大，这种'腰果花纹'实际是印度生命之树的变形🌳。说'花里胡哨'可以用paisley overload（佩斯利过量），'复古风潮'叫paisley revival🌀。记住：每个佩斯利漩涡里都藏着一段东西方贸易史！",
+    "recite": {
+      "tips": [
+        "视觉记忆：像打翻的腰果酸奶+中国如意纹混合体",
+        "易混词：parsley（香菜）→ 记住'香菜纹'不可能成为时尚经典"
+      ]
+    }
   }
 ]

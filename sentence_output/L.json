@@ -4791,5 +4791,364 @@
         "联想：lamen(拉面)+tation→为最后一碗拉面被吃掉而哀叹"
       ]
     }
+  },
+  {
+    "word": "lamina",
+    "etymology": {
+      "breakdown": [
+        "lam",
+        "ina"
+      ],
+      "meaning_connection": "词根lam表示'薄片'，后缀-ina表'小'→原指小薄片"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "薄板",
+        "examples": [
+          {
+            "sentence": "The craftsman carved peony patterns on the wooden lamina.",
+            "sentence_zh": "工匠在木质薄板上雕刻牡丹花纹。"
+          },
+          {
+            "sentence": "Solar panels consist of multiple silicon laminae.",
+            "sentence_zh": "太阳能板由多块硅薄板组成。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "薄片",
+        "examples": [
+          {
+            "sentence": "Peel the ginger into translucent laminae for hotpot dipping.",
+            "sentence_zh": "把姜切成透光薄片作火锅蘸料。"
+          },
+          {
+            "sentence": "The archaeologist found golden laminae in the Han Dynasty tomb.",
+            "sentence_zh": "考古学家在汉墓中发现金质薄片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "薄层",
+        "examples": [
+          {
+            "sentence": "Apply a lamina of honey on the roasted sweet potatoes.",
+            "sentence_zh": "在烤红薯上涂薄层蜂蜜。"
+          },
+          {
+            "sentence": "The mooncake has a lamina of salted egg yolk inside.",
+            "sentence_zh": "月饼内含薄层咸蛋黄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "叶片",
+        "examples": [
+          {
+            "sentence": "Bamboo laminae rustled in the summer breeze.",
+            "sentence_zh": "竹叶在夏风中沙沙作响。"
+          },
+          {
+            "sentence": "The lotus lamina repels water like an umbrella.",
+            "sentence_zh": "荷叶像雨伞般防水。"
+          }
+        ]
+      }
+    ],
+    "teach": "lamina是'薄'界天花板💎！从故宫金箔（gold lamina）到涮火锅的羊肉卷（meat lamina）🍲，再到能托住水珠的荷叶（leaf lamina）☔，薄到极致就是美。记住：'薄如蝉翼'叫as thin as a lamina，'层层叠叠'叫lamina upon lamina🗂️。下次吃烤鸭记得数数面皮有几lamina！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉面呐'→兰州拉面的薄片",
+        "易混词：layer（普通层）vs lamina（专业薄层）",
+        "记忆法：lamina=la（拉） + mina（米娜）→拉着米娜数叶片"
+      ]
+    }
+  },
+  {
+    "word": "laminate",
+    "etymology": {
+      "breakdown": [
+        "lamina",
+        "ate"
+      ],
+      "meaning_connection": "词根lamina=薄片，后缀-ate表动作→使成薄片"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "制成薄板",
+        "examples": [
+          {
+            "sentence": "The factory laminates bamboo into flooring material.",
+            "sentence_zh": "这家工厂将竹子压制成地板材料。"
+          },
+          {
+            "sentence": "Laminating dough creates the flaky layers in croissants.",
+            "sentence_zh": "将面团压成薄片造就了可颂面包的酥皮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "制成箔",
+        "examples": [
+          {
+            "sentence": "Aluminum is laminated into foil for kitchen use.",
+            "sentence_zh": "铝被压制成箔片用于厨房。"
+          },
+          {
+            "sentence": "Gold leaf is laminated to 0.1mm thickness for gilding.",
+            "sentence_zh": "金箔被压制成0.1毫米厚度用于镀金。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "分成薄片",
+        "examples": [
+          {
+            "sentence": "The sedimentary rock laminates naturally over centuries.",
+            "sentence_zh": "沉积岩经过数百年自然分化为薄层。"
+          },
+          {
+            "sentence": "When dry, the clay laminates like phyllo dough.",
+            "sentence_zh": "干燥时，这种黏土会像酥皮面团般分层。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "薄板状的",
+        "examples": [
+          {
+            "sentence": "Some fungi have laminate gills under their caps.",
+            "sentence_zh": "某些菌类伞盖下有薄板状菌褶。"
+          },
+          {
+            "sentence": "The laminate structure of plywood makes it durable.",
+            "sentence_zh": "胶合板的薄板状结构使其坚固耐用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "层积塑胶板",
+        "examples": [
+          {
+            "sentence": "The countertop is made of waterproof laminate.",
+            "sentence_zh": "这操作台由防水塑胶层压板制成。"
+          },
+          {
+            "sentence": "Modern laminate mimics wood grain convincingly.",
+            "sentence_zh": "现代层压板能逼真模仿木纹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "薄片制品",
+        "examples": [
+          {
+            "sentence": "The ID card is protected by a clear laminate.",
+            "sentence_zh": "身份证外覆有透明薄片保护层。"
+          },
+          {
+            "sentence": "Ancient armor sometimes used metal laminates.",
+            "sentence_zh": "古代铠甲有时使用金属薄片制品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "laminated glass",
+        "meaning": "夹层玻璃",
+        "examples": [
+          {
+            "sentence": "Car windshields use laminated glass for safety.",
+            "sentence_zh": "汽车挡风玻璃采用夹层玻璃保障安全。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "laminate flooring",
+        "meaning": "复合地板",
+        "examples": [
+          {
+            "sentence": "Chinese households favor laminate flooring for easy maintenance.",
+            "sentence_zh": "中国家庭偏爱易于打理的复合地板。"
+          }
+        ]
+      }
+    ],
+    "teach": "laminate就是'千层饼'式操作🥞！从敦煌壁画用的金箔🧈到故宫地板的复合板🏯，人类自古爱分层。视觉记忆：想象把奥利奥夹心压成100层🍪→这就是laminate！说'质量差'可用cheap laminate（劣质压合板），'压膜'叫thermal lamination。记住：凡是用'压制大法'制造的物品，基本都逃不开这个词🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉面呢'→拉面师傅把面团压成薄片(laminates dough)",
+        "易混词：delaminate（脱层）是它的反义词",
+        "记忆tip：所有释义都围绕'薄片'核心概念"
+      ]
+    }
+  },
+  {
+    "word": "laminated",
+    "etymology": {
+      "breakdown": [
+        "lamina",
+        "ted"
+      ],
+      "meaning_connection": "词根lamina=薄片，-ted表被动→'被制成薄片状'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "用薄片层压制成",
+        "examples": [
+          {
+            "sentence": "The laminated ID card survived a washing machine disaster.",
+            "sentence_zh": "层压制成的身份证在洗衣机浩劫中幸存。"
+          },
+          {
+            "sentence": "Laminated dough creates the magical layers in croissants.",
+            "sentence_zh": "层压面团造就了可颂面包的魔法酥层。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "切成薄片",
+        "examples": [
+          {
+            "sentence": "Laminated garlic cooks faster in hot pot broth.",
+            "sentence_zh": "切成薄片的大蒜在火锅汤底中熟得更快。"
+          },
+          {
+            "sentence": "The chef demonstrated laminated carrot cutting technique.",
+            "sentence_zh": "厨师演示了胡萝卜薄片切割技法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "由薄片迭成/覆盖的",
+        "examples": [
+          {
+            "sentence": "The laminated roof withstood the hailstorm perfectly.",
+            "sentence_zh": "由薄片迭成的屋顶完美抵御了冰雹。"
+          },
+          {
+            "sentence": "Ancient armor often used laminated leather layers.",
+            "sentence_zh": "古代铠甲常采用迭层皮革制作。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "laminated glass",
+        "meaning": "夹层玻璃",
+        "examples": [
+          {
+            "sentence": "Bank windows use laminated glass for safety.",
+            "sentence_zh": "银行窗户使用夹层玻璃确保安全。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "laminated wood",
+        "meaning": "胶合板",
+        "examples": [
+          {
+            "sentence": "IKEA furniture often uses eco-friendly laminated wood.",
+            "sentence_zh": "宜家家具常采用环保胶合板。"
+          }
+        ]
+      }
+    ],
+    "teach": "laminated其实是千层饼哲学🍰！就像驴打滚要层层糯米夹豆沙，这个单词核心就是'叠罗汉'：学生证塑封(laminated ID)像三明治🥪，胶合板(laminated wood)像威化饼干🍪，连防弹玻璃都是玻璃+胶片叠叠乐🔫→'脆脆鲨'变'防弹鲨'！记住：任何东西叠100层都能进化，比如你的错题本📚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累懵的'→被层层叠叠搞累懵了",
+        "易混词对比：laminated(被动层压) vs layered(主动分层)",
+        "记忆tip：想象给对象发消息被已读不回，消息气泡越叠越高(laminated texts💬)"
+      ]
+    }
+  },
+  {
+    "word": "lamp",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希腊语lampas（火炬），经过拉丁语lampa进入英语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "灯",
+        "examples": [
+          {
+            "sentence": "The programmer's desk lamp stayed on all night like a loyal guard.",
+            "sentence_zh": "程序员的台灯像忠诚的卫兵般彻夜亮着。"
+          },
+          {
+            "sentence": "Aladdin rubbed the magic lamp and ordered takeout instead of a genie.",
+            "sentence_zh": "阿拉丁擦神灯点的却是外卖而不是精灵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "照亮",
+        "examples": [
+          {
+            "sentence": "The sunrise lamped the Great Wall with golden light.",
+            "sentence_zh": "朝阳用金光点亮了长城。"
+          },
+          {
+            "sentence": "Smart street lamps now lamp the roads while monitoring air quality.",
+            "sentence_zh": "智慧路灯在照亮道路的同时监测空气质量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lamp post",
+        "meaning": "路灯杆",
+        "examples": [
+          {
+            "sentence": "The panda clung to the lamp post like it was a bamboo tree.",
+            "sentence_zh": "熊猫抱着路灯杆像抱着竹子一样。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "desk lamp",
+        "meaning": "台灯",
+        "examples": [
+          {
+            "sentence": "Her USB-charged desk lamp went dark during final exams - the ultimate betrayal.",
+            "sentence_zh": "她USB充电的台灯在期末考试时灭了——这背叛太彻底。"
+          }
+        ]
+      }
+    ],
+    "teach": "lamp的前世今生💡：古代人用油灯照明时绝对想不到，现代人会对智能音箱喊'关灯'🗣️。视觉记忆：lamp的m像灯泡的钨丝，p是插头🔌。说'灯光昏暗'用dim lamp，'开灯'是switch on the lamp。最惨莫过于：Your brain lamp isn't working（你脑子不转啦）😂",
+    "recite": {
+      "tips": [
+        "谐音梗：'冷铺'→没灯的冷铺位",
+        "易混词：lamb（小羊）别写成烤全羊",
+        "记忆tip：lam(p)=拉姆（《海贼王》角色）举着灯"
+      ]
+    }
   }
 ]

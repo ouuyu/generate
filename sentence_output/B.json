@@ -4533,5 +4533,259 @@
         "易混词：sack（粗布大袋）/ pouch（小 pouch）"
       ]
     }
+  },
+  {
+    "word": "bagel",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自意第绪语beygl，可能来自德语böugel（环状物）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "百吉饼（先蒸后烤的发面圈）",
+        "examples": [
+          {
+            "sentence": "New Yorkers debate whether to eat bagels with cream cheese or lox.",
+            "sentence_zh": "纽约人争论百吉饼该配奶油奶酪还是熏鲑鱼。"
+          },
+          {
+            "sentence": "The perfect bagel should have a shiny crust and chewy interior.",
+            "sentence_zh": "完美的百吉饼应该有闪亮外皮和韧性内芯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "（体育比赛中）零蛋",
+        "examples": [
+          {
+            "sentence": "The team got a bagel in yesterday's baseball game - 15:0!",
+            "sentence_zh": "昨天的棒球赛中该队吞了零蛋——15比0！"
+          },
+          {
+            "sentence": "After three sets, the scoreboard showed two bagels for the rookie.",
+            "sentence_zh": "三局过后，记分牌显示这位新手吃了两个零蛋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bagel shop",
+        "meaning": "百吉饼专卖店",
+        "examples": [
+          {
+            "sentence": "The 24-hour bagel shop near Columbia University is a student sanctuary.",
+            "sentence_zh": "哥伦比亚大学旁的24小时百吉饼店是学生的圣地。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "score a bagel",
+        "meaning": "得零分",
+        "examples": [
+          {
+            "sentence": "Even Messi once scored a bagel in his early career.",
+            "sentence_zh": "连梅西早年职业生涯也曾吃过零蛋。"
+          }
+        ]
+      }
+    ],
+    "teach": "bagel是'犹太甜甜圈'🥯：二战时犹太移民把它带到美国，现在纽约bagel比星巴克还多☕！体育俚语说'吃bagel'就像举着鸭蛋🦆（got a bagel）。要地道吐槽'难吃'可以说tastes like cardboard（纸板味），'超赞'叫to die for。记住：百吉饼要圈着吃，零蛋要哭着咽！",
+    "recite": {
+      "tips": [
+        "谐音梗：'背个O'→比赛后背个大零蛋回家",
+        "易混词对比：bagel vs. donut（后者是油炸甜圈）",
+        "记忆法：bagel=圆环形状+0分=完美闭环"
+      ]
+    }
+  },
+  {
+    "word": "baggage",
+    "etymology": {
+      "breakdown": [
+        "bag",
+        "age"
+      ],
+      "meaning_connection": "bag指袋子，-age表集合→原指'袋装物品的集合'，后专指旅行携带的行李"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "行李",
+        "examples": [
+          {
+            "sentence": "The panda keeper's baggage contained 20kg of bamboo shoots.",
+            "sentence_zh": "熊猫饲养员的行李里有20公斤竹笋。"
+          },
+          {
+            "sentence": "Her Louis Vuitton baggage got stuck in the airport conveyor belt.",
+            "sentence_zh": "她的路易威登行李箱卡在了机场传送带上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "emotional baggage",
+        "meaning": "情感包袱",
+        "examples": [
+          {
+            "sentence": "Breaking up over WeChat leaves less emotional baggage.",
+            "sentence_zh": "用微信分手留下的情感包袱更少。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "excess baggage",
+        "meaning": "超重行李",
+        "examples": [
+          {
+            "sentence": "My excess baggage was full of hotpot condiments.",
+            "sentence_zh": "我的超重行李里全是火锅底料。"
+          }
+        ]
+      }
+    ],
+    "teach": "baggage本尊是'包祖宗'🎒！中世纪旅行者真的背着麻袋(bag)赶路🐎，现代人拖着智能行李箱就像遛电子宠物🤖。说'前任是情感行李'叫ex-baggage（双关ex伴侣+行李），'轻装上阵'说travel light🍃。记住：人生就像机场传送带，有些baggage终会迷失方向！",
+    "recite": {
+      "tips": [
+        "谐音梗：'掰个鸡'→掰个鸡腿塞进行李袋",
+        "易混词：luggage（更正式）/ baggage（更口语）"
+      ]
+    }
+  },
+  {
+    "word": "bagger",
+    "etymology": {
+      "breakdown": [
+        "bag",
+        "er"
+      ],
+      "meaning_connection": "词根bag=袋子，后缀-er表人或工具→与装袋相关的人或机器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "装袋工",
+        "examples": [
+          {
+            "sentence": "The supermarket bagger can pack 30 items per minute with both hands.",
+            "sentence_zh": "超市装袋工能双手并用每分钟打包30件商品。"
+          },
+          {
+            "sentence": "As a teenage bagger, he secretly gave free plastic bags to grandma shoppers.",
+            "sentence_zh": "当装袋工少年时，他偷偷给买菜老奶奶多塞免费塑料袋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "装袋机",
+        "examples": [
+          {
+            "sentence": "The automatic bagger at Ikea swallows furniture like a hungry hippo.",
+            "sentence_zh": "宜家的自动装袋机像河马吞食般吸入家具。"
+          },
+          {
+            "sentence": "This rice bagger machine has packaged enough grains to fill 10 swimming pools.",
+            "sentence_zh": "这台大米装袋机已包装的粮食能填满10个游泳池。"
+          }
+        ]
+      }
+    ],
+    "teach": "bagger是超市隐形英雄🦸！想象装袋工像玩俄罗斯方块🧩般整理商品，装袋机则像贪吃蛇🐍狂吞货物。说'累成狗'可以叫dog-tired，'机械重复'叫same old grind。记住：没bagger，你的薯片早就撒一地了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白鸽'→超市白鸽(bagger)叼袋子",
+        "易混词：bugger(讨厌鬼) vs bagger(装袋工)"
+      ]
+    }
+  },
+  {
+    "word": "baggy",
+    "etymology": {
+      "breakdown": [
+        "bag",
+        "y"
+      ],
+      "meaning_connection": "词根bag=袋子，后缀-y表示'具有...特征的'→像袋子一样的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "袋状的",
+        "examples": [
+          {
+            "sentence": "The puffer fish inflated into a baggy balloon when threatened.",
+            "sentence_zh": "河豚受威胁时会鼓成袋状气球。"
+          },
+          {
+            "sentence": "Her baggy sweater could fit three watermelons inside.",
+            "sentence_zh": "她的宽松毛衣能塞下三个西瓜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "松垂的",
+        "examples": [
+          {
+            "sentence": "Hip-hop dancers love those baggy pants that look like falling parachutes.",
+            "sentence_zh": "街舞爱好者钟爱那些像降落伞般松垂的裤子。"
+          },
+          {
+            "sentence": "After losing weight, his skin became baggy like a deflated balloon.",
+            "sentence_zh": "减肥后他的皮肤变得像泄气气球般松垂。"
+          }
+        ]
+      }
+    ],
+    "teach": "baggy是时尚界的'空气感'担当👖！90年代MJ的月球漫步全靠baggy裤子制造漂浮特效🚀，如今oversize风格就是当代'行走的睡袋'🛌。说'衣服太垮'用drown in clothes（被衣服淹没），'显瘦穿搭'叫slim-fit vs baggy。记住：穿baggy衣服时，别人永远猜不出你午饭偷藏了几个包子🥟！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白给'→衣服太baggy像白送的一样宽大",
+        "易混词对比：loose（普通宽松） vs baggy（有袋状轮廓）",
+        "记忆tip：想象把快递袋穿在身上📦"
+      ]
+    }
+  },
+  {
+    "word": "bagpipe",
+    "etymology": {
+      "breakdown": [
+        "bag",
+        "pipe"
+      ],
+      "meaning_connection": "字面意思为'袋子+管子'，源自其羊皮气囊(bag)与吹奏管(pipe)的结构组合"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "风笛",
+        "examples": [
+          {
+            "sentence": "The melancholic sound of bagpipes echoed through the Scottish highlands.",
+            "sentence_zh": "风笛的忧郁声响回荡在苏格兰高地。"
+          },
+          {
+            "sentence": "He practiced bagpipes daily, much to his neighbors' dismay.",
+            "sentence_zh": "他每天练习风笛，让邻居们苦不堪言。"
+          }
+        ]
+      }
+    ],
+    "teach": "bagpipe是音乐界的'尖叫鸡'🐔！这种用羊皮气囊(bag)供气的乐器，在苏格兰如同重庆火锅般不可或缺🌶️。著名搭配：'play the bagpipe'(演奏风笛)像给气球放气🎈，'bagpipe music'能让你瞬间穿越到《勇敢传说》🏰。苏格兰人说'风笛手'就叫piper，比说'吹袋人'优雅多了！",
+    "recite": {
+      "tips": [
+        "视觉联想法：想象抱着会唱歌的血压计💉(气囊+管子的造型)",
+        "易混词对比：bagpipe(乐器) vs. panpipe(排箫)"
+      ]
+    }
   }
 ]
