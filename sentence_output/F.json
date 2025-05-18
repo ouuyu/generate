@@ -6149,5 +6149,292 @@
         "联想记忆：FALL+EN=已经（-en）落下（fall）"
       ]
     }
+  },
+  {
+    "word": "fallibility",
+    "etymology": {
+      "breakdown": [
+        "fall",
+        "ibility"
+      ],
+      "meaning_connection": "词根fall=犯错（同源词false），-ibility表性质→可能犯错的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "易错性",
+        "examples": [
+          {
+            "sentence": "The fallibility of human memory was proven in the psychology experiment.",
+            "sentence_zh": "人类记忆的易错性在这个心理学实验中得到证实。"
+          },
+          {
+            "sentence": "AI chatbots still can't overcome their fallibility in understanding sarcasm.",
+            "sentence_zh": "AI聊天机器人仍无法克服理解反讽时的易错性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "可误性",
+        "examples": [
+          {
+            "sentence": "The philosopher emphasized the fallibility of all scientific theories.",
+            "sentence_zh": "这位哲学家强调所有科学理论的可误性。"
+          },
+          {
+            "sentence": "Ancient maps charmingly demonstrate the fallibility of early navigation.",
+            "sentence_zh": "古代地图迷人地展示了早期航海的可误性。"
+          }
+        ]
+      }
+    ],
+    "teach": "fallibility是人类的出厂设置⚙️！就像你妈总记错你生日🎂（human fallibility），或导航把你带进死胡同🗺️（system fallibility）。搭配说'admit fallibility'（承认会犯错）比'I'm wrong'高级多了，地道表达用'to err is human'（犯错乃人之常情）。记住：连Siri都会犯错，何况你我？🤖💥🧠",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛力不理'→佛祖也无力(fallibility)不理众生犯错",
+        "易混词：fallibility（易错性） vs. feasibility（可行性）",
+        "联想：fall（跌倒）+ability（能力）→容易跌倒的能力"
+      ]
+    }
+  },
+  {
+    "word": "fallible",
+    "etymology": {
+      "breakdown": [
+        "fall",
+        "ible"
+      ],
+      "meaning_connection": "词根fall=犯错（同false），-ible=能够→能够犯错的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "易错的",
+        "examples": [
+          {
+            "sentence": "The autocomplete function is fallible when typing in dialect.",
+            "sentence_zh": "输入方言时，自动补全功能是容易出错的。"
+          },
+          {
+            "sentence": "Even AI translators are fallible with ancient poems.",
+            "sentence_zh": "即便是AI翻译也会在古诗上犯错。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可能犯错的",
+        "examples": [
+          {
+            "sentence": "All fallible humans make typos when texting fast.",
+            "sentence_zh": "所有可能犯错的人类在快速打字时都会打错字。"
+          },
+          {
+            "sentence": "The witness admitted being fallible about the license plate number.",
+            "sentence_zh": "目击者承认对车牌号可能记错。"
+          }
+        ]
+      }
+    ],
+    "teach": "fallible是'饭粒伯'👨🦳：总把饭粒掉衣服上的老教授，完美演绎'易犯错'特性！拉丁词根fall=跌倒（所以有fall down），人类就像总踩香蕉皮🍌的滑稽角色🤹。说'人非圣贤'用to err is human比fallible更文雅，但吐槽队友时大喊'You're so fallible!'更带感💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛雷伯'→佛陀也会累伯(fallible)犯错",
+        "对比记忆：fallible（会犯错） vs. infallible（绝对可靠）",
+        "联想：APP经常fallible需要打补丁💊"
+      ]
+    }
+  },
+  {
+    "word": "falling",
+    "etymology": {
+      "breakdown": [
+        "fall",
+        "ing"
+      ],
+      "meaning_connection": "动词fall(落下)+ing后缀构成形容词，描述正在下落的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "落下的",
+        "examples": [
+          {
+            "sentence": "The falling leaves created a golden carpet in the Forbidden City.",
+            "sentence_zh": "飘落的银杏叶为故宫铺就金色地毯。"
+          },
+          {
+            "sentence": "She caught a falling star-shaped cookie with her mouth.",
+            "sentence_zh": "她用嘴接住了正在下落的星星饼干。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "坠落的",
+        "examples": [
+          {
+            "sentence": "The falling satellite looked like a fire dragon in the night sky.",
+            "sentence_zh": "坠落的卫星在夜空中如火龙划过。"
+          },
+          {
+            "sentence": "Rescuers rushed to the site of the falling drone.",
+            "sentence_zh": "救援人员冲向无人机坠落地点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "下降的",
+        "examples": [
+          {
+            "sentence": "The falling temperature made hotpot sales skyrocket.",
+            "sentence_zh": "下降的气温使火锅销量暴涨。"
+          },
+          {
+            "sentence": "Investors panicked at the falling stock prices.",
+            "sentence_zh": "投资者因股价下跌而恐慌。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "falling in love",
+        "meaning": "坠入爱河",
+        "examples": [
+          {
+            "sentence": "They blamed the mooncake for making them start falling in love.",
+            "sentence_zh": "他们怪月饼让他们开始坠入爱河。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "falling star",
+        "meaning": "流星",
+        "examples": [
+          {
+            "sentence": "Making a wish on a falling star is more reliable than转发锦鲤.",
+            "sentence_zh": "对流星许愿比转发锦鲤更靠谱。"
+          }
+        ]
+      }
+    ],
+    "teach": "falling是牛顿的苹果🍎+林黛玉的眼泪💧+股市韭菜的哀嚎📉三合一！物理学家看到的是自由落体运动，文青看到的是'花谢花飞飞满天'，打工人看到的是工资条数字falling。记住：'股价跳水'说nosedive比falling更生动，'落叶'要说fluttering leaves才诗意！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛零'→佛像从零坠落",
+        "易混词对比：fallen(已完成坠落) vs falling(正在坠落)"
+      ]
+    }
+  },
+  {
+    "word": "fallopian",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "以16世纪意大利解剖学家Gabriele Falloppio命名，他首次详细描述了输卵管结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "输卵管",
+        "examples": [
+          {
+            "sentence": "The egg travels through the fallopian tube to reach the uterus.",
+            "sentence_zh": "卵子通过输卵管进入子宫。"
+          },
+          {
+            "sentence": "Blocked fallopian tubes are a common cause of infertility.",
+            "sentence_zh": "输卵管堵塞是不孕症的常见原因。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "喇叭管",
+        "examples": [
+          {
+            "sentence": "The antique microscope had a fallopian tube-shaped eyepiece.",
+            "sentence_zh": "这台古董显微镜配有喇叭管状目镜。"
+          },
+          {
+            "sentence": "Some musical instruments use fallopian tubes as resonance chambers.",
+            "sentence_zh": "某些乐器使用喇叭管作为共振腔。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fallopian tube",
+        "meaning": "输卵管",
+        "examples": [
+          {
+            "sentence": "The surgeon carefully repaired the damaged fallopian tube.",
+            "sentence_zh": "外科医生仔细修复了受损的输卵管。"
+          }
+        ]
+      }
+    ],
+    "teach": "输卵管(fallopian)其实是文艺复兴时期的'网红名'👨⚕️！以发现者Falloppio命名，就像现代用'爱迪生'命名电灯泡💡。医学俚语叫'egg highway'(蛋蛋高速公路)🥚→想象卵子坐着滑梯通过粉红色隧道🎢。搭配：blocked tubes(堵塞管)/ectopic pregnancy(宫外孕)。地道表达：'生育系统'说baby-making factory比reproductive system更生动🏭！",
+    "recite": {
+      "tips": [
+        "视觉联想：字母F像输卵管形状🧬",
+        "易混词：phallus(阴茎)/fallopian(输卵管)→首字母区分",
+        "记忆口诀：Falloppio的管道，运送生命的隧道"
+      ]
+    }
+  },
+  {
+    "word": "fallout",
+    "etymology": {
+      "breakdown": [
+        "fall",
+        "out"
+      ],
+      "meaning_connection": "字面意思是'落下来'，原指核爆炸后放射性尘埃的沉降，后引申为事件的附带结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "原子尘的降下",
+        "examples": [
+          {
+            "sentence": "The government monitored the fallout patterns after the nuclear test.",
+            "sentence_zh": "政府监测了核试验后的原子尘降下模式。"
+          },
+          {
+            "sentence": "Farmers were warned about radioactive fallout contaminating crops.",
+            "sentence_zh": "农民们收到警告，放射性尘埃可能污染农作物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "附带结果",
+        "examples": [
+          {
+            "sentence": "The political fallout from the scandal lasted for years.",
+            "sentence_zh": "丑闻带来的政治余波持续了多年。"
+          },
+          {
+            "sentence": "The economic fallout of the pandemic affected small businesses the most.",
+            "sentence_zh": "疫情的经济连锁反应对小企业打击最大。"
+          }
+        ]
+      }
+    ],
+    "teach": "fallout就像拆盲盒的后果🎁：核弹爆炸后尘埃落下☢️叫fallout，现在更多指'社交核爆'后的余波💥（比如朋友圈吵架）。搭配：1) deal with the fallout 处理后果 2) minimize fallout 减少影响。地道说法用'collateral damage'表示意外伤害💔。记住：每次发朋友圈都可能产生fallout！🕊️☢️💥",
+    "recite": {
+      "tips": [
+        "视觉记忆：fall（落下）+out（外面）= 外面落下的东西",
+        "对比：fallout vs. outcome（前者意外结果，后者泛指结果）",
+        "场景联想：核爆蘑菇云→朋友圈吵架→都产生fallout"
+      ]
+    }
   }
 ]

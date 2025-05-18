@@ -5804,5 +5804,336 @@
         "易混词对比：Jew（犹太人）vs Jesuit（耶稣会士）"
       ]
     }
+  },
+  {
+    "word": "jet",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'jeter'(投掷)，后引申出喷射与黑色矿物两个分支含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "喷射流",
+        "examples": [
+          {
+            "sentence": "The dragon's breath came out in a jet of blue fire.",
+            "sentence_zh": "巨龙的吐息形成一道蓝色火柱喷射而出。"
+          },
+          {
+            "sentence": "Meteor showers are caused by jets of cosmic dust.",
+            "sentence_zh": "流星雨是宇宙尘埃流喷射造成的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "喷嘴",
+        "examples": [
+          {
+            "sentence": "The barista adjusted the milk jet on the espresso machine.",
+            "sentence_zh": "咖啡师调整了意式咖啡机上的牛奶喷嘴。"
+          },
+          {
+            "sentence": "Never point the jet of a pressure washer at people.",
+            "sentence_zh": "切勿将高压清洗机的喷口对准人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "煤玉",
+        "examples": [
+          {
+            "sentence": "Victorian mourning jewelry was often made of jet.",
+            "sentence_zh": "维多利亚时期的丧服首饰常用煤玉制作。"
+          },
+          {
+            "sentence": "This fossilized jet bead comes from the Silk Road.",
+            "sentence_zh": "这颗煤玉珠子来自丝绸之路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "喷射",
+        "examples": [
+          {
+            "sentence": "The octopus jetted away in a cloud of ink.",
+            "sentence_zh": "章鱼喷出墨雾后飞速游走。"
+          },
+          {
+            "sentence": "Water jetted 30 meters high from the broken pipe.",
+            "sentence_zh": "水从破裂的管道中喷出30米高。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "黑而发亮的",
+        "examples": [
+          {
+            "sentence": "Her jet hair shone like polished obsidian.",
+            "sentence_zh": "她乌黑发亮的头发如同打磨过的黑曜石。"
+          },
+          {
+            "sentence": "The panther's jet coat rippled with muscle.",
+            "sentence_zh": "黑豹油光发亮的皮毛下肌肉起伏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jet black",
+        "meaning": "漆黑",
+        "examples": [
+          {
+            "sentence": "The traditional inkstick produces jet black calligraphy.",
+            "sentence_zh": "传统墨锭能写出漆黑的书法。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jet lag",
+        "meaning": "时差反应",
+        "examples": [
+          {
+            "sentence": "After flying to New York, I suffered from severe jet lag for days.",
+            "sentence_zh": "飞抵纽约后，我时差反应严重持续数日。"
+          }
+        ]
+      }
+    ],
+    "teach": "jet是单词界的'黑白双煞'🎭！作动词时像高压水枪🚿（jet water），作名词时既可以是飞机引擎的咆哮💨（jet engine），也可以是《哈利波特》里斯内普教授的头发🖤（jet black）。搭配jet lag时差反应就像身体在说：'我的生物钟还在故宫晒太阳呢！'🌞➡️🌙 记住：喷射用jet，漆黑用jet，时差jet lag别拼错！",
+    "recite": {
+      "tips": [
+        "谐音梗：'捷特'→特快喷射(jet)",
+        "易混词对比：jet vs. jam（喷射vs.卡住）"
+      ]
+    }
+  },
+  {
+    "word": "jetsam",
+    "etymology": {
+      "breakdown": [
+        "jet",
+        "sam"
+      ],
+      "meaning_connection": "jet源自法语'jeter'表示'投掷'，-sam为名词后缀，字面意思为'被扔出去的东西'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "投弃货物",
+        "examples": [
+          {
+            "sentence": "Pirates often threw jetsam overboard when being chased by navy ships.",
+            "sentence_zh": "海盗被海军追击时常把货物抛入海中。"
+          },
+          {
+            "sentence": "The captain ordered jetsam to lighten the ship during the storm.",
+            "sentence_zh": "暴风雨中船长下令弃货以减轻船重。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "漂流到海岸的货物",
+        "examples": [
+          {
+            "sentence": "Beachcombers search for valuable jetsam after typhoons.",
+            "sentence_zh": "台风过后，海滩拾荒者会寻找值钱的漂流货物。"
+          },
+          {
+            "sentence": "This antique vase was originally jetsam from a sunken merchant ship.",
+            "sentence_zh": "这个古董花瓶原本是沉没商船的漂流物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "flotsam and jetsam",
+        "meaning": "漂流残骸与弃货（常比喻无用杂物）",
+        "examples": [
+          {
+            "sentence": "His room was filled with flotsam and jetsam from thrift stores.",
+            "sentence_zh": "他的房间堆满了二手店淘来的零碎杂物。"
+          }
+        ]
+      }
+    ],
+    "teach": "jetsam是'海上断舍离'的产物🌊！想象泰坦尼克号把家具扔下船就成了jetsam（而flotsam是船自己散架的残骸）。海盗抛货叫jetsam，你扔前任礼物叫trash🗑️。搭配'jetsam hunter'指专业海滩寻宝人，'emotional jetsam'则比喻心灵垃圾🧠。记住：主动扔的=jetsam，被动飘的=flotsam！",
+    "recite": {
+      "tips": [
+        "谐音梗：'捷森'→快递捷森(jetsam)扔包裹",
+        "易混词对比：flotsam（被动漂浮物）vs jetsam（主动投弃物）",
+        "记忆口诀：Jettison（投弃）变jetsam，主动丢弃要记牢"
+      ]
+    }
+  },
+  {
+    "word": "jettison",
+    "etymology": {
+      "breakdown": [
+        "jet",
+        "ison"
+      ],
+      "meaning_connection": "来自法语'getaison'（抛掷动作），词根jet=投掷，-ison为古法语后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "投弃行为",
+        "examples": [
+          {
+            "sentence": "The jettison of cargo saved the sinking ship during the typhoon.",
+            "sentence_zh": "台风中投弃货物的行为拯救了正在下沉的船只。"
+          },
+          {
+            "sentence": "SpaceX's jettison of rocket stages is precisely timed.",
+            "sentence_zh": "SpaceX火箭的分离投弃行为经过精确计时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "投弃的货物",
+        "examples": [
+          {
+            "sentence": "The beach was littered with jettison from the container ship.",
+            "sentence_zh": "海滩上散落着集装箱船投弃的货物。"
+          },
+          {
+            "sentence": "Fishermen recovered valuable jettison floating near the reef.",
+            "sentence_zh": "渔民在礁石附近打捞到有价值的投弃货物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "emergency jettison",
+        "meaning": "紧急抛投",
+        "examples": [
+          {
+            "sentence": "The pilot activated emergency jettison of fuel tanks.",
+            "sentence_zh": "飞行员启动了燃油箱的紧急抛投程序。"
+          }
+        ]
+      }
+    ],
+    "teach": "jettison是'断舍离'的暴力版💥！古代商船遇险时，船长会喊'Jet-tison!'把茶叶丝绸扔下海🧳（像现代人清理微信收藏夹📁）。搭配'cargo jettison'像分手时扔前任礼物🎁，'data jettison'则是手机清内存🤳。记住：当你说要jettison旧物时，其实在cosplay加勒比海盗🏴‍☠️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'接替神'→接替神明决定扔什么",
+        "易混词：abandon（完全放弃）vs jettison（策略性舍弃）",
+        "记忆tip：JET（喷射）+TISON（踢走）= 喷出去踢走"
+      ]
+    }
+  },
+  {
+    "word": "jetty",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'jeter（投掷）'，指向外突出的建筑物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "突堤",
+        "examples": [
+          {
+            "sentence": "Fishermen cast their lines from the jetty at dawn.",
+            "sentence_zh": "渔民黎明时分在突堤上抛竿垂钓。"
+          },
+          {
+            "sentence": "The kids were jumping off the jetty into the sea.",
+            "sentence_zh": "孩子们正从突堤上跳入海中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "防波堤",
+        "examples": [
+          {
+            "sentence": "The jetty protected the harbor from typhoon waves.",
+            "sentence_zh": "防波堤使港口免受台风巨浪侵袭。"
+          },
+          {
+            "sentence": "Seagulls love perching on the concrete jetty.",
+            "sentence_zh": "海鸥喜欢停歇在混凝土防波堤上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "码头",
+        "examples": [
+          {
+            "sentence": "The cruise ship slowly approached the passenger jetty.",
+            "sentence_zh": "游轮缓缓驶向客运码头。"
+          },
+          {
+            "sentence": "We bought freshly caught squid at the fishing jetty.",
+            "sentence_zh": "我们在渔码头买了刚捕获的鱿鱼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "黑玉般的",
+        "examples": [
+          {
+            "sentence": "Her jetty hair shone under the stage lights.",
+            "sentence_zh": "她乌黑发亮的头发在舞台灯光下闪耀。"
+          },
+          {
+            "sentence": "The panther's jetty coat looked like liquid obsidian.",
+            "sentence_zh": "黑豹乌黑发亮的皮毛如同流动的黑曜石。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "伸出",
+        "examples": [
+          {
+            "sentence": "The new balcony jetties out over the street.",
+            "sentence_zh": "新阳台向街道上方伸出。"
+          },
+          {
+            "sentence": "His chin jettied forward defiantly.",
+            "sentence_zh": "他挑衅地向前伸出下巴。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jetty boat",
+        "meaning": "码头工作船",
+        "examples": [
+          {
+            "sentence": "The jetty boat transfers supplies to anchored ships.",
+            "sentence_zh": "码头工作船为停泊船只转运补给。"
+          }
+        ]
+      }
+    ],
+    "teach": "jetty就是个海陆两栖单词🌊🏗️！作名词时像条伸进海里的舌头👅（防波堤），当形容词时变身黑寡妇的晚礼服🕷️（乌黑发亮），作动词时宛如长颈鹿伸脖子🦒（伸出）。搭配说'jetty light'（堤岸灯）和'jetty black'（墨黑色），吐槽某人固执可以说'stubborn as a concrete jetty'（像混凝土码头般顽固）💪⚓",
+    "recite": {
+      "tips": [
+        "视觉记忆：j+etty→' jet（喷射）'+'ty（堤）'→喷水堤坝",
+        "易混词对比：pier（观光码头）vs jetty（功能型堤岸）"
+      ]
+    }
   }
 ]

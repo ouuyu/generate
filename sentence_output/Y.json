@@ -5724,5 +5724,65 @@
         "记忆法：Y-U-P=Young Urban Professional的缩写"
       ]
     }
+  },
+  {
+    "word": "Yugoslav",
+    "etymology": {
+      "breakdown": [
+        "Yugo",
+        "slav"
+      ],
+      "meaning_connection": "Yugo=南方的（源自俄语юг），slav=斯拉夫人→'南方的斯拉夫人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "南斯拉夫的",
+        "examples": [
+          {
+            "sentence": "The Yugoslav football team once defeated the USA in the Olympics.",
+            "sentence_zh": "南斯拉夫足球队曾在奥运会上击败美国队。"
+          },
+          {
+            "sentence": "This museum exhibits Yugoslav cinema posters from the 1980s.",
+            "sentence_zh": "该博物馆展出了1980年代的南斯拉夫电影海报。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "南斯拉夫人的",
+        "examples": [
+          {
+            "sentence": "My Yugoslav neighbor makes the best ajvar pepper spread.",
+            "sentence_zh": "我的南斯拉夫邻居会做最美味的茄子辣椒酱。"
+          },
+          {
+            "sentence": "Yugoslav immigrants contributed to Chicago's jazz scene.",
+            "sentence_zh": "南斯拉夫移民为芝加哥爵士乐发展作出贡献。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "former Yugoslav",
+        "meaning": "前南斯拉夫的",
+        "examples": [
+          {
+            "sentence": "The breakup of former Yugoslav republics created new borders.",
+            "sentence_zh": "前南斯拉夫共和国的解体产生了新的边界。"
+          }
+        ]
+      }
+    ],
+    "teach": "Yugoslav是历史课本里的'分手大师'💔：这个单词就像被掰开的乐高积木🧩（Yugo+slav），曾经团结的南斯拉夫如今分成7个国家🌍。要说'巴尔干半岛'地道说法是Balkans buffet（因为民族像自助餐一样多样），'复杂的'叫Balkanization（巴尔干化）🍛。记住：现在的塞尔维亚人仍会怀念Yugoslav times就像怀念童年玩具！",
+    "recite": {
+      "tips": [
+        "谐音梗：'油锅斯拉夫'→南斯拉夫当年是欧洲的'热油锅'",
+        "易混词：Slavic（斯拉夫语系的）"
+      ]
+    }
   }
 ]

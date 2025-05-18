@@ -5596,5 +5596,293 @@
         "易混词：cue（提示）vs queue（队列）→ 多出来的ue就像排队的人"
       ]
     }
+  },
+  {
+    "word": "questioning",
+    "etymology": {
+      "breakdown": [
+        "quest",
+        "ion",
+        "ing"
+      ],
+      "meaning_connection": "词根quest=寻求（源自拉丁语quaerere），-ion表名词，-ing表进行状态→持续寻求答案的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "审问",
+        "examples": [
+          {
+            "sentence": "The detective's intense questioning made the suspect sweat like a marathon runner.",
+            "sentence_zh": "侦探的激烈审问让嫌疑人汗如雨下。"
+          },
+          {
+            "sentence": "During the questioning, the lawyer kept tapping his pen like a woodpecker.",
+            "sentence_zh": "审讯过程中，律师的笔像啄木鸟般不停敲击。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "质问",
+        "examples": [
+          {
+            "sentence": "The professor welcomed questioning from students, even about his terrible tie choice.",
+            "sentence_zh": "教授欢迎学生质疑，哪怕是对他糟糕领带品味的质问。"
+          },
+          {
+            "sentence": "Her public questioning of the policy went viral like hotpot broth boiling over.",
+            "sentence_zh": "她对政策的公开质问像沸腾的火锅汤底般迅速传播。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "line of questioning",
+        "meaning": "询问路线",
+        "examples": [
+          {
+            "sentence": "The journalist's line of questioning was sharper than a Sichuan pepper.",
+            "sentence_zh": "记者的提问路线比四川花椒还辛辣。"
+          }
+        ]
+      }
+    ],
+    "teach": "questioning本质是'追根究底'🔍：想象古罗马法庭用quest（寻求）真相⚖️，现代刑警用questioning就像玩'谁是卧底'🐺。说'打破砂锅问到底'可用grilling（烧烤式盘问），'审问技巧'叫questioning techniques就像火锅要掌握火候🔥。记住：好的questioning能让真相像火锅里的肉丸一样浮出水面！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快审停'→快速审问喊停",
+        "易混词对比：inquire（礼貌询问）vs questioning（强势质问）"
+      ]
+    }
+  },
+  {
+    "word": "questionnaire",
+    "etymology": {
+      "breakdown": [
+        "question",
+        "naire"
+      ],
+      "meaning_connection": "question=问题，后缀-naire来自法语表示'与...相关的事物'→问题的集合"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "调查表",
+        "examples": [
+          {
+            "sentence": "The hospital handed out questionnaires about bubble tea addiction.",
+            "sentence_zh": "医院发放了关于奶茶成瘾的调查表。"
+          },
+          {
+            "sentence": "This 20-page questionnaire asks if you'd marry your pet.",
+            "sentence_zh": "这份20页的调查表询问你是否愿意和宠物结婚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "问卷",
+        "examples": [
+          {
+            "sentence": "Teachers designed a questionnaire about students' sleeping hours.",
+            "sentence_zh": "老师设计了关于学生睡眠时间的问卷。"
+          },
+          {
+            "sentence": "Filling out online questionnaires has become a new part-time job.",
+            "sentence_zh": "填写网络问卷已成为新型兼职。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "complete a questionnaire",
+        "meaning": "完成问卷",
+        "examples": [
+          {
+            "sentence": "You'll get 5 yuan for completing this questionnaire.",
+            "sentence_zh": "完成这份问卷可获得5元奖励。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "design a questionnaire",
+        "meaning": "设计问卷",
+        "examples": [
+          {
+            "sentence": "The AI can design questionnaires automatically based on your needs.",
+            "sentence_zh": "该AI能根据需求自动设计问卷。"
+          }
+        ]
+      }
+    ],
+    "teach": "questionnaire是社恐人士的噩梦📝！它的法语血统让它比普通form更优雅💃（就像法棍和馒头的区别🥖）。'设计问卷'叫craft questions就像串烧烤🍢，'发问卷'叫distribute如同撒传单🪂。记住：所有问卷最终都会变成'最后5个问题，马上结束'的谎言🤥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快生奶啊'→调查问卷催生数据",
+        "易混词对比：quiz(小测验) vs questionnaire(长问卷)"
+      ]
+    }
+  },
+  {
+    "word": "quibble",
+    "etymology": {
+      "breakdown": [
+        "quib",
+        "ble"
+      ],
+      "meaning_connection": "拟声词quib模仿鸭子嘎嘎叫→暗指无意义的争吵，后缀-ble表反复动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "遁词",
+        "examples": [
+          {
+            "sentence": "His excuse was just a legal quibble about parking duration.",
+            "sentence_zh": "他的借口不过是关于停车时长的法律遁词。"
+          },
+          {
+            "sentence": "The politician's answer full of quibbles went viral on Weibo.",
+            "sentence_zh": "政客充满遁词的回答在微博上疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "双关语",
+        "examples": [
+          {
+            "sentence": "The shampoo ad used a clever quibble: 'Our formula won't lather you down!'",
+            "sentence_zh": "洗发水广告用了巧妙双关：'我们的配方不会让你失望（泡沫）！'"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "吹毛求疵",
+        "examples": [
+          {
+            "sentence": "My mom quibbles about my WeChat emoji choices during family chats.",
+            "sentence_zh": "妈妈在家庭群里对我用的微信表情吹毛求疵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "争吵",
+        "examples": [
+          {
+            "sentence": "Netizens quibbled for 3 days about whether pineapple belongs on pizza.",
+            "sentence_zh": "网友为菠萝该不该放披萨上争吵了三天。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "说模棱两可的话",
+        "examples": [
+          {
+            "sentence": "The celebrity quibbled when asked about his relationship status.",
+            "sentence_zh": "被问及感情状况时，这位明星说了模棱两可的话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "对...诡辩",
+        "examples": [
+          {
+            "sentence": "Lawyers quibbled the definition of 'overnight' in the contract.",
+            "sentence_zh": "律师们就合同中'过夜'的定义进行诡辩。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quibble over",
+        "meaning": "为...斤斤计较",
+        "examples": [
+          {
+            "sentence": "Couples often quibble over whose turn to do the dishes.",
+            "sentence_zh": "情侣常为轮到谁洗碗斤斤计较。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quibble away",
+        "meaning": "用诡辩逃避",
+        "examples": [
+          {
+            "sentence": "He quibbled away the plagiarism accusation with wordplay.",
+            "sentence_zh": "他用文字游戏诡辩逃避抄袭指控。"
+          }
+        ]
+      }
+    ],
+    "teach": "quibble本质是语言打地鼠游戏🎮！当甲方说'字要大'时设计师反问'比月球大？'就是quibble式诡辩🤺，像周星驰电影里的无厘头台词'其实我是个演员（死跑龙套的）'🍜。想吐槽别人抬杠可以说'Stop splitting hairs!（别揪头发丝了）'，搭配'quibble like a lawyer（像律师般咬文嚼字）🧐'更地道。记住：所有不解决问题的辩论都是quibble！",
+    "recite": {
+      "tips": [
+        "谐音梗：'亏不？'→吵架时总问'你亏不？'",
+        "易混词：squabble（大声争吵）/ quibble（文字游戏式争吵）",
+        "记忆tip：quibble的qu-开头总带着question的较劲感"
+      ]
+    }
+  },
+  {
+    "word": "quiche",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语，原指'蛋糕'，现特指法式咸派"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "乳蛋饼（法式咸派）",
+        "examples": [
+          {
+            "sentence": "The spinach quiche at this Parisian café tastes like cloud with cheese.",
+            "sentence_zh": "这家巴黎咖啡馆的菠菜乳蛋饼吃起来像会拉丝的芝士云朵。"
+          },
+          {
+            "sentence": "She brought a lobster quiche to the potluck that disappeared in 3 minutes.",
+            "sentence_zh": "她带的龙虾乳蛋饼在聚餐会上三分钟就被抢光。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quiche Lorraine",
+        "meaning": "洛林乳蛋饼（培根经典款）",
+        "examples": [
+          {
+            "sentence": "Authentic quiche Lorraine uses gruyère cheese from the French Alps.",
+            "sentence_zh": "正宗的洛林乳蛋饼使用法国阿尔卑斯的格鲁耶尔奶酪。"
+          },
+          {
+            "sentence": "My failed quiche Lorraine looked like a pancake wearing bacon pajamas.",
+            "sentence_zh": "我失败的洛林乳蛋饼看起来像穿着培根睡衣的煎饼。"
+          }
+        ]
+      }
+    ],
+    "teach": "quiche是法国人发明的'馅饼界爱马仕'🧅！中世纪德国人管洛林地区叫'蛋糕之地'，后来法国人用这个梗发明了quiche Lorraine🍴。说'黑暗料理'可以用culinary disaster，夸好吃要说to die for（'好吃到升天'）。记住：优雅地吃quiche要配长相思白葡萄酒，粗暴吃法叫shovel into mouth🚜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'跪谢'→吃到美味乳蛋饼当场跪谢",
+        "易混词对比：quiche vs. frittata（意式煎饼不放饼皮）",
+        "记忆tip：想象Q弹的蛋饼在说'cheese～'拍照"
+      ]
+    }
   }
 ]

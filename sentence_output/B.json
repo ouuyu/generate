@@ -5629,5 +5629,322 @@
         "记忆tip：字母a像面包裂缝，k像烤箱烤架"
       ]
     }
+  },
+  {
+    "word": "baker",
+    "etymology": {
+      "breakdown": [
+        "bak(e)",
+        "er"
+      ],
+      "meaning_connection": "词根bak源于古英语'bacan'(烤制)，后缀-er表示职业执行者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "面包师",
+        "examples": [
+          {
+            "sentence": "The baker wakes up at 3am to prepare fresh baguettes for breakfast crowds.",
+            "sentence_zh": "面包师凌晨三点起床为早餐人群准备新鲜法棍。"
+          },
+          {
+            "sentence": "A viral video shows a Beijing baker crafting mahjong-themed mooncakes.",
+            "sentence_zh": "爆红视频里一位北京面包师正在制作麻将主题月饼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "baker's dozen",
+        "meaning": "十三件",
+        "examples": [
+          {
+            "sentence": "She bought a baker's dozen of xiaolongbao to share with colleagues.",
+            "sentence_zh": "她买了13个小笼包和同事分享。"
+          },
+          {
+            "sentence": "The idiom comes from medieval bakers adding extra bread to avoid punishment for shortweight.",
+            "sentence_zh": "这个习语源自中世纪面包师为免于缺斤少两的惩罚而多放一个面包。"
+          }
+        ]
+      }
+    ],
+    "teach": "baker其实是'焙客'🔥：中世纪面包师多给一个面包(baker's dozen)就像外卖小哥塞筷子🥢，'开面包店'叫run a bakery就像经营奶茶加盟店🧋。记住：好的baker能让法棍敲出编钟声🎵，差的baker做出来的像板砖🪨！地道说法'烘焙新手'叫pasty-faced beginner（面团脸初学者）。",
+    "recite": {
+      "tips": [
+        "谐音梗：'焙壳'→面包师烤焙面包壳",
+        "易混词：baker(人) vs. bakery(店) vs. dough(生面团)"
+      ]
+    }
+  },
+  {
+    "word": "bakery",
+    "etymology": {
+      "breakdown": [
+        "bake",
+        "ery"
+      ],
+      "meaning_connection": "词根bake=烘焙，后缀-ery表场所→烘焙的场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "面包店",
+        "examples": [
+          {
+            "sentence": "The aroma of freshly baked croissants draws crowds to this French bakery every morning.",
+            "sentence_zh": "每天早晨，新鲜出炉的可颂香气吸引人群来到这家法式面包店。"
+          },
+          {
+            "sentence": "We bought a giant panda-shaped birthday cake from the bakery near the subway station.",
+            "sentence_zh": "我们在地铁站旁的面包店买了超大熊猫造型生日蛋糕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bakery products",
+        "meaning": "烘焙产品",
+        "examples": [
+          {
+            "sentence": "This supermarket's bakery products section always sells out mooncakes during Mid-Autumn Festival.",
+            "sentence_zh": "中秋节期间这家超市的烘焙区月饼总是售罄。"
+          }
+        ]
+      }
+    ],
+    "teach": "bakery其实是'焙客乐园'🍞！中世纪欧洲面包师曾因面包缺斤少两被砍手⚔️（史上最严食品安全法）。买面包时说'I'll take the lot'（全包了）超霸气，'边角料'叫bakery scraps是隐藏福利🥐。记住：闻到bakery香味时，你的钱包和体重总有一个要遭殃💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焙客瑞'→焙客(bake)云集的祥瑞之地",
+        "易混词：bakery(店铺) vs. baker(面包师)"
+      ]
+    }
+  },
+  {
+    "word": "baking",
+    "etymology": {
+      "breakdown": [
+        "bak",
+        "ing"
+      ],
+      "meaning_connection": "词根bak来自古英语'bacan'（烤），-ing表动作或结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "烘焙",
+        "examples": [
+          {
+            "sentence": "The smell of baking mooncakes filled the whole apartment complex.",
+            "sentence_zh": "烘焙月饼的香气弥漫在整个小区。"
+          },
+          {
+            "sentence": "She turned her baking hobby into a successful online shop selling pineapple buns.",
+            "sentence_zh": "她把烘焙爱好变成了卖菠萝包的网红店铺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一次烘焙的量",
+        "examples": [
+          {
+            "sentence": "This recipe makes two bakings of red bean paste buns.",
+            "sentence_zh": "这个配方能做两炉豆沙包。"
+          },
+          {
+            "sentence": "We need three bakings to prepare enough cookies for the school event.",
+            "sentence_zh": "我们需要烤三炉饼干才够学校活动用。"
+          }
+        ]
+      }
+    ],
+    "teach": "baking是让面粉'浴火重生'🔥的魔法：中世纪欧洲用'bake'指'太阳烤大地'🌞（现说sunbaking）。说'烘焙小白'用baking newbie，'翻车现场'叫baking disaster（比如把老婆饼烤成碳饼💀）。记住：人生就像烤箱，火候到了自然香！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焙可以'→烘焙可以(baking)治愈心情",
+        "易混词对比：baking（烘焙过程） vs bakery（面包店）"
+      ]
+    }
+  },
+  {
+    "word": "balaclava",
+    "etymology": {
+      "breakdown": [
+        "Balaclava"
+      ],
+      "meaning_connection": "源自克里米亚战争期间的巴拉克拉瓦战役（1854），英军在此首次广泛使用这种御寒头套"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "巴拉克拉法帽（仅露双眼的羊毛头套）",
+        "examples": [
+          {
+            "sentence": "Bank robbers in movies always wear black balaclavas, but real criminals just use socks.",
+            "sentence_zh": "电影里银行劫匪总戴黑色巴拉克拉法帽，其实真罪犯只用袜子套头。"
+          },
+          {
+            "sentence": "Her homemade balaclava made her look like a rebellious teletubby.",
+            "sentence_zh": "她自制的巴拉克拉法帽让她像只叛逆的天线宝宝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "thermal balaclava",
+        "meaning": "保暖头套",
+        "examples": [
+          {
+            "sentence": "Harbin ice sculptors wear thermal balaclavas under their helmets.",
+            "sentence_zh": "哈尔滨冰雕师在头盔下戴着保暖头套。"
+          }
+        ]
+      }
+    ],
+    "teach": "这帽子是'社恐神器'🎭！名字来自克里米亚战争，英军冻得发明了这种'脸基尼'始祖🧶。现代版是滑雪必备（ski balaclava），但戴它取快递会被当成《鱿鱼游戏》群众演员🐙。搭配：'套上头套'叫pull on a balaclava，'露鼻款'叫nose-hole style。地道说法：'蒙面人'叫balaclava bandit（头套大盗）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'扒拉可乐娃'→扒开可乐的娃戴头套",
+        "易混词：vs. bandana（三角巾）",
+        "记忆法：想象把'巴拉巴拉'小魔仙的围巾拉到头顶🧣"
+      ]
+    }
+  },
+  {
+    "word": "balance",
+    "etymology": {
+      "breakdown": [
+        "bi",
+        "lanx"
+      ],
+      "meaning_connection": "前缀bi-表示'双'，词根lanx指'盘子'→原指双盘天平，引申为'平衡'概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "平衡",
+        "examples": [
+          {
+            "sentence": "Tai Chi masters can stand on one leg with perfect balance.",
+            "sentence_zh": "太极大师能单脚站立保持完美平衡。"
+          },
+          {
+            "sentence": "The panda's wobbling walk is actually a sophisticated balance system.",
+            "sentence_zh": "熊猫摇摇晃晃的行走其实是精密的平衡系统。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "差额",
+        "examples": [
+          {
+            "sentence": "My Alipay balance can't even afford a spicy hotpot now.",
+            "sentence_zh": "我的支付宝余额现在连顿麻辣火锅都吃不起。"
+          },
+          {
+            "sentence": "The bank teller checked my account balance in 3 seconds.",
+            "sentence_zh": "银行柜员3秒钟就查完了我的账户余额。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "平衡",
+        "examples": [
+          {
+            "sentence": "Bamboo bikes balance better on mountain roads.",
+            "sentence_zh": "竹制自行车在山路上平衡性更佳。"
+          },
+          {
+            "sentence": "The dancer balanced on pointe for 10 seconds.",
+            "sentence_zh": "舞者用足尖平衡站立了10秒钟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "相等",
+        "examples": [
+          {
+            "sentence": "Debits and credits must balance in accounting books.",
+            "sentence_zh": "会计账簿中借贷必须相等。"
+          },
+          {
+            "sentence": "The two sides' arguments balanced in the debate competition.",
+            "sentence_zh": "辩论赛双方论点势均力敌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "称重",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine pharmacists balance herbs with copper scales.",
+            "sentence_zh": "中药师用铜秤称量药材。"
+          },
+          {
+            "sentence": "She balanced the durian carefully to avoid prickles.",
+            "sentence_zh": "她小心地称量榴莲以防被刺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "权衡",
+        "examples": [
+          {
+            "sentence": "WeChat team balances user privacy and convenience.",
+            "sentence_zh": "微信团队在用户隐私与便利间权衡。"
+          },
+          {
+            "sentence": "He's balancing job offers like choosing hotpot ingredients.",
+            "sentence_zh": "他权衡工作offer像在选火锅食材。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "balance sheet",
+        "meaning": "资产负债表",
+        "examples": [
+          {
+            "sentence": "Startups' balance sheets often look like spicy hotpot - red everywhere.",
+            "sentence_zh": "初创公司的资产负债表常像麻辣火锅——满盘通红。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "work-life balance",
+        "meaning": "工作生活平衡",
+        "examples": [
+          {
+            "sentence": "Chinese tech workers now chase work-life balance like chasing the last subway.",
+            "sentence_zh": "中国科技从业者追求工作生活平衡像赶末班地铁。"
+          }
+        ]
+      }
+    ],
+    "teach": "balance是个杂技演员🤹！作为名词像走钢丝（keep balance），作为动词像菜市场大妈称荔枝（balance fruits）。古代商人用天平(bi-lanx)称盐🧂，现代人用支付宝看余额💸。说'月光族'叫live paycheck to paycheck，'精打细算'叫keep the books balanced。记住：人生就像火锅，要balance辣度与鲜度🌶️🍄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白兰寺'→白兰寺的秤(balance)最准",
+        "易混词：balance（动态平衡） vs equilibrium（静态平衡）",
+        "记忆法：BI+LANX=双盘子=天平"
+      ]
+    }
   }
 ]

@@ -5913,5 +5913,249 @@
         "对比记忆：talkative（健谈的）是褒义，talky带贬义"
       ]
     }
+  },
+  {
+    "word": "tall",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语getæl'迅捷的'，后演变为描述高度的形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "高的",
+        "examples": [
+          {
+            "sentence": "The tall skyscrapers in Shanghai look like giant light sabers at night.",
+            "sentence_zh": "上海的高楼群夜晚像巨型光剑。"
+          },
+          {
+            "sentence": "My tall basketball idol could dunk without jumping.",
+            "sentence_zh": "我那位高人一头的篮球偶像不用起跳就能扣篮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "长的",
+        "examples": [
+          {
+            "sentence": "She ordered a tall latte that could last through three meetings.",
+            "sentence_zh": "她点了杯能撑过三场会议的长杯拿铁。"
+          },
+          {
+            "sentence": "The tall stack of paperwork made the intern cry.",
+            "sentence_zh": "那摞长长的文件堆让实习生哭了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "夸大的",
+        "examples": [
+          {
+            "sentence": "His tall story about wrestling a panda went viral.",
+            "sentence_zh": "他和大熊猫摔跤的夸张故事传遍了网络。"
+          },
+          {
+            "sentence": "That's a tall claim for someone who sleeps 12 hours daily.",
+            "sentence_zh": "对每天睡12小时的人来说这说法太夸张。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "夸大地",
+        "examples": [
+          {
+            "sentence": "He described his cooking skills tall, until we saw burnt noodles.",
+            "sentence_zh": "他夸大地描述厨艺，直到我们看到煮糊的面条。"
+          },
+          {
+            "sentence": "She talked tall about her marathon time, which was actually taxi-assisted.",
+            "sentence_zh": "她夸大地谈论马拉松成绩，实际坐了出租车。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "stand tall",
+        "meaning": "昂首挺胸",
+        "examples": [
+          {
+            "sentence": "Chinese athletes stand tall at the Olympic podium.",
+            "sentence_zh": "中国运动员在奥运领奖台上昂首挺立。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tall order",
+        "meaning": "艰巨任务",
+        "examples": [
+          {
+            "sentence": "Finishing this project in one day is a tall order.",
+            "sentence_zh": "一天完成这项目是个艰巨任务。"
+          }
+        ]
+      }
+    ],
+    "teach": "tall的'高'就像姚明的身高🏀，'长'像火锅店排队队伍🍲，'夸张'像直播带货的主播📢。记住：描述实物高度用tall，抽象高度用high（如high level）。说'吹牛'可以用tall tale，而'身高焦虑'叫height complex🤥。你的tall梦想和tall订单之间，可能就差一杯tall美式提神！",
+    "recite": {
+      "tips": [
+        "谐音梗：'托→高个子需要托运行李箱",
+        "易混词对比：high（抽象高度）/tall（具体高度）",
+        "记忆法：tall=头(t)全部(all)在上的"
+      ]
+    }
+  },
+  {
+    "word": "tallis",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希伯来语טַלִּית (tallit)，指'披巾'或'罩袍'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "犹太教男人晨祷时的披巾",
+        "examples": [
+          {
+            "sentence": "The rabbi adjusted his tallis before reciting the morning blessings.",
+            "sentence_zh": "拉比在诵读晨祷祝福前整理了披巾。"
+          },
+          {
+            "sentence": "Silver threads gleamed on the blue-striped tallis during the ceremony.",
+            "sentence_zh": "仪式上蓝条纹披巾的银线闪烁着微光。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "prayer tallis",
+        "meaning": "祈祷披巾",
+        "examples": [
+          {
+            "sentence": "Grandfather's prayer tallis smelled faintly of cedar from its storage box.",
+            "sentence_zh": "祖父的祈祷披巾带着储物盒淡淡的雪松气息。"
+          }
+        ]
+      }
+    ],
+    "teach": "tallis就像犹太教界的'信仰Wi-Fi接收器'📶！这带流苏的披巾（tzitzit）实际是古代'可穿戴设备'🧥，每根绳子代表613条诫命。搭配'晨祷三件套'叫tefillin（经文盒）+tallis+kittel（白袍），说'披歪了'用adjust the tallis like fixing a skewed tie👔。记住：这可不是普通围巾，是带着千年密码的'信仰盾牌'🛡️！",
+    "recite": {
+      "tips": [
+        "视觉联想：tallis的流苏像老式电话线☎️→连接神明的'热线'",
+        "易混词：tallis（披巾） vs. tallith（同词不同拼写）"
+      ]
+    }
+  },
+  {
+    "word": "tallish",
+    "etymology": {
+      "breakdown": [
+        "tall",
+        "ish"
+      ],
+      "meaning_connection": "词根tall=高的，后缀-ish表'稍微...的'→比高矮之间微妙的灰色地带"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "稍高的",
+        "examples": [
+          {
+            "sentence": "The tallish bamboo in my grandma's courtyard always bends in typhoons.",
+            "sentence_zh": "奶奶院里稍高的竹子遇到台风总会弯腰。"
+          },
+          {
+            "sentence": "He feels tallish among Japanese salarymen but short in the NBA.",
+            "sentence_zh": "他在日本上班族中显得稍高，但在NBA里就矮了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "身材较高的",
+        "examples": [
+          {
+            "sentence": "The tallish model couldn't reach the top shelf either without a stool.",
+            "sentence_zh": "这位身材较高的模特不踩凳子也够不到顶层架子。"
+          },
+          {
+            "sentence": "All my tallish relatives duck when entering ancient Chinese buildings.",
+            "sentence_zh": "我所有身材较高的亲戚进古建筑时都得低头。"
+          }
+        ]
+      }
+    ],
+    "teach": "tallish是'薛定谔的身高'📏：比average高但够不到tall标准，就像奶茶店的'少糖'选项🍬。形容人用lanky（细高如豆芽）更生动，说'高得刚好'可以用just-right height。记住：在荷兰叫average，在越南就是tallish！🌍",
+    "recite": {
+      "tips": [
+        "谐音梗：'拖累洗'→拖把杆稍高(tallish)总撞到晾衣架",
+        "对比记忆：tall→tallish→short，就像大杯→中杯→小杯"
+      ]
+    }
+  },
+  {
+    "word": "tallow",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'teolh'，与德语'Talg'同源，专指动物脂肪经熔炼后的产物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "动物脂油",
+        "examples": [
+          {
+            "sentence": "Traditional mooncake recipes sometimes use tallow for flaky crusts.",
+            "sentence_zh": "传统月饼配方有时用动物脂油制作酥皮。"
+          },
+          {
+            "sentence": "The candle flickered because it was made of beef tallow.",
+            "sentence_zh": "蜡烛闪烁不定因为是用牛脂制作的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "涂脂油于",
+        "examples": [
+          {
+            "sentence": "Grandma tallowed the wooden chopping board to prevent cracking.",
+            "sentence_zh": "奶奶给木砧板涂脂油防裂。"
+          },
+          {
+            "sentence": "Ancient sailors tallowed their boots before storms.",
+            "sentence_zh": "古代水手会在暴风雨前给靴子涂脂油。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tallow tree",
+        "meaning": "乌桕树（产工业用油脂）",
+        "examples": [
+          {
+            "sentence": "The wax coating on your chocolate might come from tallow trees.",
+            "sentence_zh": "你巧克力上的蜡涂层可能源自乌桕树。"
+          }
+        ]
+      }
+    ],
+    "teach": "tallow其实是古代版凡士林💡！中世纪欧洲用它做蜡烛🕯️（比电费便宜）、防水皮革👢（古人版踢不烂），甚至当润唇膏💋。现在火锅店牛油锅底叫beef tallow hotpot，而'油光满面'可以说shiny like tallowed leather～记住：tallow就是动物界的橄榄油🐄！",
+    "recite": {
+      "tips": [
+        "视觉联想：'tall+ow'→高大的牛(ow)挤出油脂",
+        "易混词对比：lard（猪油） vs tallow（牛/羊油）"
+      ]
+    }
   }
 ]

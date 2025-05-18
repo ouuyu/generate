@@ -5547,5 +5547,246 @@
         "易混词对比：male(男性) vs mail(邮件)，记住'e'是电子邮箱"
       ]
     }
+  },
+  {
+    "word": "mailbag",
+    "etymology": {
+      "breakdown": [
+        "mail",
+        "bag"
+      ],
+      "meaning_connection": "合成词，mail=邮件，bag=袋子→字面意思为'装邮件的袋子'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "邮袋",
+        "examples": [
+          {
+            "sentence": "The postman's mailbag was bursting with Lunar New Year cards.",
+            "sentence_zh": "邮递员的邮袋里塞满了农历新年贺卡。"
+          },
+          {
+            "sentence": "Santa's magic mailbag can hold all the children's wish letters.",
+            "sentence_zh": "圣诞老人的魔法邮袋能装下所有孩子的许愿信。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "mailbag是邮差界的LV👜！英国维多利亚时期邮袋要过秤⚖️（超重加钱），现代快递小哥的'祖传编织袋'其实是它的远亲。用'爆仓'说overflowing mailbag，'清空邮袋'叫empty the mailbag就像618后拆快递📦。记住：每个mailbag里都装着等工资的期待💌！",
+    "recite": {
+      "tips": [
+        "视觉联想：mail+bag=美团外卖保温袋+快递编织袋的混血儿",
+        "易混词对比：mailbox（邮箱）是固定的，mailbag（邮袋）是可移动的"
+      ]
+    }
+  },
+  {
+    "word": "mailbox",
+    "etymology": {
+      "breakdown": [
+        "mail",
+        "box"
+      ],
+      "meaning_connection": "mail=邮件，box=盒子→装邮件的盒子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "邮筒",
+        "examples": [
+          {
+            "sentence": "The red mailbox on the corner looks like a giant lipstick.",
+            "sentence_zh": "拐角处的红色邮筒像支巨型口红。"
+          },
+          {
+            "sentence": "Grandpa still sends handwritten letters via mailbox every week.",
+            "sentence_zh": "爷爷每周仍通过邮筒寄手写信件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "邮箱",
+        "examples": [
+          {
+            "sentence": "Our apartment's mailbox got jammed by takeout menus.",
+            "sentence_zh": "我们公寓的邮箱被外卖传单塞爆了。"
+          },
+          {
+            "sentence": "The key to the mailbox is attached to a panda keychain.",
+            "sentence_zh": "邮箱钥匙挂在熊猫钥匙扣上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电子邮箱",
+        "examples": [
+          {
+            "sentence": "My work mailbox receives 200 emails before lunch break.",
+            "sentence_zh": "我的工作邮箱午休前就收到200封邮件。"
+          },
+          {
+            "sentence": "Her mailbox automatically sorts spam into the 'junk food' folder.",
+            "sentence_zh": "她的电子邮箱自动把垃圾邮件分到'垃圾食品'文件夹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "overflowing mailbox",
+        "meaning": "爆满的邮箱",
+        "examples": [
+          {
+            "sentence": "After vacation, dealing with an overflowing mailbox is scarier than horror movies.",
+            "sentence_zh": "度假后处理爆满的邮箱比恐怖片还吓人。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "mailbox money",
+        "meaning": "被动收入",
+        "examples": [
+          {
+            "sentence": "His mailbox money from rent lets him travel like a retired emperor.",
+            "sentence_zh": "房租带来的被动收入让他像退休皇帝般旅行。"
+          }
+        ]
+      }
+    ],
+    "teach": "mailbox是时光隧道📮→实体邮箱装着外婆的手写信✉️，电子邮箱塞满老板的夺命连环call📧。说'邮箱爆炸'用mailbox avalanche，'查邮件'叫hit refresh like a woodpecker（像啄木鸟般狂刷新）。记住：无论哪种mailbox，都是现代人的压力收纳盒！💌📥💣",
+    "recite": {
+      "tips": [
+        "谐音梗：'没尔不可'→没邮箱(mailbox)尔不可活",
+        "实体vs虚拟：mailbox (物理存在) vs inbox (纯数字)",
+        "记忆法：mail+box=装信的盒子→邮筒也是铁盒子"
+      ]
+    }
+  },
+  {
+    "word": "mailed",
+    "etymology": {
+      "breakdown": [
+        "mail",
+        "ed"
+      ],
+      "meaning_connection": "源自古法语'maille'(锁子甲)+后缀-ed→形容'披甲的'状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "披甲的",
+        "examples": [
+          {
+            "sentence": "The museum displayed a mailed glove from the Crusades.",
+            "sentence_zh": "博物馆展出了十字军东征时期的铁甲手套。"
+          },
+          {
+            "sentence": "His mailed fist crashed through the wooden shield.",
+            "sentence_zh": "他披甲的铁拳击穿了木盾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "装甲的",
+        "examples": [
+          {
+            "sentence": "The mailed train transported gold bars securely.",
+            "sentence_zh": "装甲列车安全运输金条。"
+          },
+          {
+            "sentence": "Modern tanks evolved from medieval mailed wagons.",
+            "sentence_zh": "现代坦克由中世纪的装甲马车演化而来。"
+          }
+        ]
+      }
+    ],
+    "teach": "mailed其实是中世纪网购梗🛡️：古代骑士的'mail'指锁子甲(像金属渔网衣)，现代邮件(mail)取其'保护'含义📮。说'全副武装'叫armed to teeth(武装到牙齿)，'轻装上阵'叫travel light🚶♂️。记住：mailed不是'已邮寄'，是穿成不锈钢粽子啦！⚔️🧵⛓️",
+    "recite": {
+      "tips": [
+        "谐音梗：'没熬的'→没熬夜打铁做不出mailed铠甲",
+        "易混词对比：mailed(装甲的) vs. mailed(邮寄的过去式)"
+      ]
+    }
+  },
+  {
+    "word": "mailer",
+    "etymology": {
+      "breakdown": [
+        "mail",
+        "er"
+      ],
+      "meaning_connection": "mail=邮件，后缀-er表'人或工具'→处理邮件的人或物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "邮寄者",
+        "examples": [
+          {
+            "sentence": "The mystery mailer always sends postcards with pandas.",
+            "sentence_zh": "这位神秘的邮寄者总寄带熊猫的明信片。"
+          },
+          {
+            "sentence": "As a frequent mailer, she knows all post office staff by name.",
+            "sentence_zh": "作为常寄件人，她能叫出邮局所有员工名字。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "邮船",
+        "examples": [
+          {
+            "sentence": "The last ocean mailer between Shanghai and San Francisco retired in 1970.",
+            "sentence_zh": "上海到旧金山的最后一艘远洋邮船于1970年退役。"
+          },
+          {
+            "sentence": "This antique mailer now serves as a floating museum in Sydney.",
+            "sentence_zh": "这艘古董邮船现在是悉尼的浮动博物馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "邮件包装材料",
+        "examples": [
+          {
+            "sentence": "The bubble mailer protected my porcelain teapot perfectly.",
+            "sentence_zh": "气泡信封完美保护了我的陶瓷茶壶。"
+          },
+          {
+            "sentence": "Recycled paper mailers are gaining popularity on Taobao.",
+            "sentence_zh": "淘宝上再生纸邮件袋越来越受欢迎。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "direct mailer",
+        "meaning": "直邮广告",
+        "examples": [
+          {
+            "sentence": "The furniture store's direct mailer featured a giant panda.",
+            "sentence_zh": "家具店的直邮广告上印着大熊猫。"
+          }
+        ]
+      }
+    ],
+    "teach": "mailer是快递江湖的三种身份🏷️：当'邮寄者'时像顺丰小哥🚚（a thoughtful mailer），当'邮船'时像《泰坦尼克号》的远房亲戚🚢（ocean mailer），当'包装袋'时是网购党的守护神📦（bubble mailer）。快递员说'包装破了'用burst mailer，'环保包装'叫eco-mailer🌱。记住：你的双十一战利品都在mailer里躺过！",
+    "recite": {
+      "tips": [
+        "谐音梗：'美乐'→快递员美乐(mailer)天天送快乐",
+        "易混词：mailer(处理邮件的人/物) vs. mailbox(收件箱)"
+      ]
+    }
   }
 ]

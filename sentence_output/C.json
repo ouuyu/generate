@@ -5250,5 +5250,342 @@
         "记忆tip：想象用iPhone的calligraphic字体写情书💌"
       ]
     }
+  },
+  {
+    "word": "calligraphy",
+    "etymology": {
+      "breakdown": [
+        "calli",
+        "graphy"
+      ],
+      "meaning_connection": "词根calli=美丽，graphy=书写→'优美的书写'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "笔迹",
+        "examples": [
+          {
+            "sentence": "The doctor's calligraphy looks like ECG waveforms.",
+            "sentence_zh": "医生的笔迹看起来像心电图波形。"
+          },
+          {
+            "sentence": "Her calligraphy on love letters made his heart flutter.",
+            "sentence_zh": "她情书上的笔迹让他的心怦怦跳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "书法",
+        "examples": [
+          {
+            "sentence": "Wang Xizhi's calligraphy is worth millions per character.",
+            "sentence_zh": "王羲之的书法单字价值数百万元。"
+          },
+          {
+            "sentence": "During Spring Festival, streets are filled with red paper and golden calligraphy.",
+            "sentence_zh": "春节期间，街上到处都是红纸金字书法。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Chinese calligraphy",
+        "meaning": "中国书法",
+        "examples": [
+          {
+            "sentence": "Learning Chinese calligraphy requires liters of ink and tons of patience.",
+            "sentence_zh": "学习中国书法需要成升的墨水和成吨的耐心。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "calligraphy brush",
+        "meaning": "毛笔",
+        "examples": [
+          {
+            "sentence": "His calligraphy brush danced like a drunken dragon on paper.",
+            "sentence_zh": "他的毛笔像醉龙般在纸上舞动。"
+          }
+        ]
+      }
+    ],
+    "teach": "calligraphy是'美丽写'✍️：古代书法家练字能写穿木板🗡️（王羲之墨池传说）。想夸人'字好看'说'Your handwriting is like printed fonts!' 而'鬼画符'叫chicken scratch（鸡抓痕）🐔。记住：好的calligraphy能让菜单价格翻倍💰！搭配：1) practice calligraphy like doing yoga 2) digital calligraphy tablet",
+    "recite": {
+      "tips": [
+        "谐音梗：'咖喱给力'→印度咖喱给(calli)力(gry)的书写",
+        "易混词：typography（印刷排版）",
+        "记忆tip：calli联想'call（呼叫）'+igraphy联想'Instagram（图片）'→呼叫美图"
+      ]
+    }
+  },
+  {
+    "word": "calling",
+    "etymology": {
+      "breakdown": [
+        "call",
+        "ing"
+      ],
+      "meaning_connection": "动词call（呼唤）+-ing名词后缀，最初指'神的召唤'，后延伸出职业与召集含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "天职/职业",
+        "examples": [
+          {
+            "sentence": "Teaching is not just a job but a calling for her.",
+            "sentence_zh": "对她来说教书不仅是工作更是天职。"
+          },
+          {
+            "sentence": "Many doctors feel their calling during the pandemic.",
+            "sentence_zh": "疫情期间许多医生感受到职业使命。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "行业",
+        "examples": [
+          {
+            "sentence": "In the calling of catering, midnight food preparation is common.",
+            "sentence_zh": "在餐饮行业，深夜备餐是常事。"
+          },
+          {
+            "sentence": "The tech calling attracts those who love innovation.",
+            "sentence_zh": "科技行业吸引热爱创新的人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "呼唤",
+        "examples": [
+          {
+            "sentence": "The calling of cranes echoes over the wetland.",
+            "sentence_zh": "鹤的鸣叫声回荡在湿地上空。"
+          },
+          {
+            "sentence": "We heard the distant calling of mountain goats.",
+            "sentence_zh": "我们听见远处山羊的呼唤声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "召集",
+        "examples": [
+          {
+            "sentence": "The general issued a calling of all reserves.",
+            "sentence_zh": "将军下达了召集所有预备役的命令。"
+          },
+          {
+            "sentence": "The emergency calling brought volunteers within hours.",
+            "sentence_zh": "紧急召集令让志愿者几小时内到位。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "calling card",
+        "meaning": "名片/特征标记",
+        "examples": [
+          {
+            "sentence": "His witty humor became his calling card in negotiations.",
+            "sentence_zh": "他的机智幽默成了谈判中的个人标志。"
+          }
+        ]
+      }
+    ],
+    "teach": "calling是'被call选中的人'📞！中世纪认为职业是神的召唤(divine calling)👼，现在说'找到人生方向'叫find one's calling。'这行不适合我'说This calling isn't for me🚫，就像外卖小哥发现恐高送不了高层🏢。记住：你的calling决定你是穿白大褂👨⚕️还是拿锅铲👨🍳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'靠领'→靠(call)职业(ing)领工资",
+        "对比记忆：vocation（更强调使命感）vs occupation（中性职业）",
+        "联想：手机来电(call)和职业选择都需要'接听'"
+      ]
+    }
+  },
+  {
+    "word": "callous",
+    "etymology": {
+      "breakdown": [
+        "call",
+        "ous"
+      ],
+      "meaning_connection": "词根call=硬皮（同callus老茧），-ous表性质→原指皮肤硬化，引申为情感'硬化'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "麻木的",
+        "examples": [
+          {
+            "sentence": "His callous reaction to the orphan's story shocked everyone.",
+            "sentence_zh": "他对孤儿遭遇的麻木反应令众人震惊。"
+          },
+          {
+            "sentence": "The CEO's callous dismissal of layoffs went viral on Douyin.",
+            "sentence_zh": "CEO对裁员事件的冷漠回应在抖音疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "坚硬的",
+        "examples": [
+          {
+            "sentence": "Farmers develop callous hands from harvesting corn.",
+            "sentence_zh": "农民因收割玉米而双手结满老茧。"
+          },
+          {
+            "sentence": "The callous texture of this durian shell can puncture tires.",
+            "sentence_zh": "这榴莲壳的坚硬质地能扎破轮胎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使生茧",
+        "examples": [
+          {
+            "sentence": "Years of guitar playing calloused his fingertips.",
+            "sentence_zh": "多年吉他演奏使他的指尖生茧。"
+          },
+          {
+            "sentence": "Barefoot running gradually calloused her soles.",
+            "sentence_zh": "赤足跑步让她的脚底渐渐结茧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "callous disregard",
+        "meaning": "冷酷漠视",
+        "examples": [
+          {
+            "sentence": "The landlord showed callous disregard for tenants' safety.",
+            "sentence_zh": "房东对租户安全表现出冷酷漠视。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "callous attitude",
+        "meaning": "无情态度",
+        "examples": [
+          {
+            "sentence": "His callous attitude towards stray animals angered netizens.",
+            "sentence_zh": "他对流浪动物的无情态度激怒网友。"
+          }
+        ]
+      }
+    ],
+    "teach": "callous是'茧化'三重奏🎵：物理上像脚底老茧👣，情感上像冻僵的腊肉❄️。中文说'铁石心肠'英文叫hard-hearted，搭配'冷酷老板'用callous boss。记住：当你连续刷抖音12小时，手机都会长出callous（茧）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'咖喱丝'→咖喱洒手上不洗会结茧",
+        "易混词对比：callus（n.老茧） vs. callous（a.冷酷的）",
+        "记忆口诀：Callus长手上，callous长心上"
+      ]
+    }
+  },
+  {
+    "word": "calloused",
+    "etymology": {
+      "breakdown": [
+        "call",
+        "ous",
+        "ed"
+      ],
+      "meaning_connection": "词根call=硬皮（拉丁语callum），-ous表形容词特性，-ed表过去分词→像脚底板变硬的老茧"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "粗糙的",
+        "examples": [
+          {
+            "sentence": "The farmer's calloused hands could crush walnuts barehanded.",
+            "sentence_zh": "农夫粗糙的双手能徒手捏碎核桃。"
+          },
+          {
+            "sentence": "Her calloused fingertips from guzheng practice created unique fingerprints.",
+            "sentence_zh": "她因练古筝而粗糙的指尖形成了独特的指纹纹路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "起老茧的",
+        "examples": [
+          {
+            "sentence": "Rock climbers develop calloused palms like crocodile skin.",
+            "sentence_zh": "攀岩者的手掌会生出鳄鱼皮般的老茧。"
+          },
+          {
+            "sentence": "The Peking opera performer's calloused feet could walk on broken glass.",
+            "sentence_zh": "这位京剧演员长茧的双脚能踩碎玻璃行走。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "(使)硬结",
+        "examples": [
+          {
+            "sentence": "Years of kung fu training had calloused his knuckles into iron hammers.",
+            "sentence_zh": "多年武术训练使他的指关节硬结如铁锤。"
+          },
+          {
+            "sentence": "The leather was calloused by exposure to desert winds.",
+            "sentence_zh": "皮革因暴露在沙漠风中而变硬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "(使)冷酷无情",
+        "examples": [
+          {
+            "sentence": "War had calloused his heart to human suffering.",
+            "sentence_zh": "战争使他对人类的苦难变得冷酷无情。"
+          },
+          {
+            "sentence": "Too much online trolling can callouse one's empathy.",
+            "sentence_zh": "过多的网络喷子行为会让人变得冷漠无情。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "calloused over",
+        "meaning": "结痂硬化",
+        "examples": [
+          {
+            "sentence": "The wound calloused over but left a moon-shaped scar.",
+            "sentence_zh": "伤口结痂硬化后留下月牙形疤痕。"
+          }
+        ]
+      }
+    ],
+    "teach": "calloused是'硬核'的代名词💪！古罗马角斗士用橄榄油+沙子打磨出老茧护甲🤺，现代版就是健身房老铁的手掌茧子。要说'手糙'可形容为sandpaper hands（砂纸手），'心硬'叫hard-boiled like an egg（像煮老的蛋）。记住：你的吉他茧(calloused fingers)是音乐战士的勋章🎸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开了丝'→皮肤开丝(calloused)变砂纸",
+        "易混词：callous/callus（前者形容词/动词，后者名词指老茧）",
+        "联想：call+ous→打电话(call)太多拇指起茧(ous)"
+      ]
+    }
   }
 ]

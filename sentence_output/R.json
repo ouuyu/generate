@@ -5737,5 +5737,330 @@
         "视觉联想：字母R像衣架挂着-ment长袍"
       ]
     }
+  },
+  {
+    "word": "rain",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语regn, 原始日耳曼语*regnaz"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "雨",
+        "examples": [
+          {
+            "sentence": "The sound of rain on bamboo leaves is a classic Chinese aesthetic.",
+            "sentence_zh": "雨打竹叶声是经典的中式意境。"
+          },
+          {
+            "sentence": "We canceled the picnic because of the sudden rain.",
+            "sentence_zh": "因为突然下雨我们取消了野餐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "下雨",
+        "examples": [
+          {
+            "sentence": "The constant rain made the Great Wall look like an ink painting.",
+            "sentence_zh": "连绵下雨让长城看起来像水墨画。"
+          },
+          {
+            "sentence": "The rain in Seattle inspired many tech startups.",
+            "sentence_zh": "西雅图的下雨催生了许多科技创业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "雨天",
+        "examples": [
+          {
+            "sentence": "A rainy day is perfect for hotpot and mahjong.",
+            "sentence_zh": "雨天最适合吃火锅打麻将。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "下雨",
+        "examples": [
+          {
+            "sentence": "It's raining cats and dogs during the plum rain season.",
+            "sentence_zh": "梅雨季节天天下倾盆大雨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使大量落下",
+        "examples": [
+          {
+            "sentence": "The protesters rained flower petals on the soldiers.",
+            "sentence_zh": "抗议者们向士兵们抛洒花瓣雨。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rain or shine",
+        "meaning": "风雨无阻",
+        "examples": [
+          {
+            "sentence": "The delivery guys work rain or shine.",
+            "sentence_zh": "外卖小哥风雨无阻地工作。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rain down",
+        "meaning": "倾泻而下",
+        "examples": [
+          {
+            "sentence": "Confetti rained down on the Spring Festival gala performers.",
+            "sentence_zh": "彩纸屑在春晚表演者头上倾泻而下。"
+          }
+        ]
+      }
+    ],
+    "teach": "rain是天气界的顶流🌧️！古人说'好雨知时节'（timely rain），现代人说'雨神萧敬腾'（Rain God）。'下红包雨'叫red packet rain💴，'被骂到狗血淋头'是get rained on with curses🐶。记住：rain cats and dogs不是动物雨，是暴雨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'润'→雨水滋润大地",
+        "易混词：reign（统治）和rain同音不同命",
+        "记忆法：把r看作云☁️，a是雨滴💧，i是闪电⚡"
+      ]
+    }
+  },
+  {
+    "word": "rainbow",
+    "etymology": {
+      "breakdown": [
+        "rain",
+        "bow"
+      ],
+      "meaning_connection": "雨(rain)后天空出现的弓形(bow)色带"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "彩虹",
+        "examples": [
+          {
+            "sentence": "After the summer rain, children chased the rainbow with their selfie sticks.",
+            "sentence_zh": "夏雨过后，孩子们举着自拍杆追彩虹。"
+          },
+          {
+            "sentence": "The double rainbow over the Great Wall went viral on Weibo.",
+            "sentence_zh": "长城上出现的双彩虹在微博疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "五彩缤纷的",
+        "examples": [
+          {
+            "sentence": "Her rainbow hair matched the colors of hotpot ingredients.",
+            "sentence_zh": "她的七彩发色像火锅食材般五彩缤纷。"
+          },
+          {
+            "sentence": "The night market was decorated with rainbow lanterns for Mid-Autumn Festival.",
+            "sentence_zh": "中秋节的夜市挂满了五彩灯笼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rainbow coalition",
+        "meaning": "多元联盟",
+        "examples": [
+          {
+            "sentence": "The rainbow coalition of food delivery riders organized a flash mob.",
+            "sentence_zh": "外卖骑手的多元联盟组织了快闪活动。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "chase rainbows",
+        "meaning": "追求虚无",
+        "examples": [
+          {
+            "sentence": "Trying to get a verified WeChat account without real followers is chasing rainbows.",
+            "sentence_zh": "没有真实粉丝却想认证微信公众号纯属白日做梦。"
+          }
+        ]
+      }
+    ],
+    "teach": "彩虹是天空的emoji🌈！古希腊人以为彩虹是女神Iris的围巾🧣，中文'虹'字里的'虫'是因为古人以为彩虹是双头龙🐉。说'五彩斑斓'可以用every color of the rainbow，吐槽'不切实际'就说pie in the sky（天上掉馅饼）。记住：看到rainbow要赶紧拍照，不然就像WiFi信号一样会消失📶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'润钵'→雨水滋润的彩虹钵",
+        "易混词：rainbow（自然现象）vs. prism（棱镜分光）",
+        "记忆法：记住RAIN+BOW=雨后出现的彩色弓箭"
+      ]
+    }
+  },
+  {
+    "word": "raincoat",
+    "etymology": {
+      "breakdown": [
+        "rain",
+        "coat"
+      ],
+      "meaning_connection": "复合词，rain=雨，coat=外套→防雨的外套"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "雨衣",
+        "examples": [
+          {
+            "sentence": "The yellow raincoat made the child look like a walking duckling.",
+            "sentence_zh": "黄色雨衣让这孩子像只行走的小鸭子。"
+          },
+          {
+            "sentence": "He forgot his raincoat and ended up looking like a soaked panda.",
+            "sentence_zh": "他忘了带雨衣，结果淋成了落汤熊猫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "foldable raincoat",
+        "meaning": "折叠雨衣",
+        "examples": [
+          {
+            "sentence": "This foldable raincoat can fit in your pocket like a magic trick.",
+            "sentence_zh": "这件折叠雨衣能像魔术般塞进口袋。"
+          }
+        ]
+      }
+    ],
+    "teach": "raincoat是英国人的第二皮肤☔！19世纪苏格兰人用橡胶发明雨衣时，被吐槽'穿着像移动的浴缸'🛁。搭配：'暴雨级防护'叫monsoon-proof raincoat，'塑料雨衣'说poncho就像垃圾袋时尚🗑️。记住：没带raincoat的下场就是变成'人形洒水车'💦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'润扣他'→雨水润(rain)透衣服扣(coat)住他",
+        "易混词：waterproof jacket（防水夹克，不一定长款）"
+      ]
+    }
+  },
+  {
+    "word": "raindrop",
+    "etymology": {
+      "breakdown": [
+        "rain",
+        "drop"
+      ],
+      "meaning_connection": "复合词，rain(雨)+drop(滴)→直接描述雨滴的物理形态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "雨滴",
+        "examples": [
+          {
+            "sentence": "Each raindrop made a perfect circle in the lake like nature's stamps.",
+            "sentence_zh": "每颗雨滴在湖面印出完美圆圈，像大自然的印章。"
+          },
+          {
+            "sentence": "The raindrop on my window traced a path like a drunken spider.",
+            "sentence_zh": "窗上的雨滴像醉酒的蜘蛛般蜿蜒滑落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "雨点",
+        "examples": [
+          {
+            "sentence": "Morning raindrops glittered on spiderwebs like diamond necklaces.",
+            "sentence_zh": "晨间的雨点在蛛网上闪烁如钻石项链。"
+          },
+          {
+            "sentence": "The sudden raindrops sent street vendors scrambling for cover.",
+            "sentence_zh": "骤降的雨点让摊贩们慌忙找地方躲雨。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "raindrop size",
+        "meaning": "雨滴大小",
+        "examples": [
+          {
+            "sentence": "Meteorologists measure raindrop size with laser devices.",
+            "sentence_zh": "气象学家用激光设备测量雨滴大小。"
+          }
+        ]
+      }
+    ],
+    "teach": "raindrop是天空的眼泪💧还是云朵的快递？古人以为雨滴是天使的针脚（rain+drop=天使缝补天空的线头🧵）。说'倾盆大雨'叫rain cats and dogs🐱🐶，'毛毛雨'是spitting rain。记住：每颗raindrop都是未完成的跳水动作💦！",
+    "recite": {
+      "tips": [
+        "视觉记忆：把d看成雨伞☔，整个单词就像雨打在伞上的声音",
+        "易混词：teardrop(泪滴) vs raindrop(雨滴)"
+      ]
+    }
+  },
+  {
+    "word": "rainfall",
+    "etymology": {
+      "breakdown": [
+        "rain",
+        "fall"
+      ],
+      "meaning_connection": "复合词，字面意思为'雨(rain)落下(fall)'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "降雨",
+        "examples": [
+          {
+            "sentence": "The sudden rainfall turned Chengdu's streets into instant rivers.",
+            "sentence_zh": "突如其来的降雨瞬间让成都的街道变成了河流。"
+          },
+          {
+            "sentence": "Cherry blossoms danced in the April rainfall like pink snowflakes.",
+            "sentence_zh": "樱花在四月的降雨中起舞，宛如粉色的雪花。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "降雨量",
+        "examples": [
+          {
+            "sentence": "Annual rainfall in Beijing is equivalent to 500 million Olympic swimming pools.",
+            "sentence_zh": "北京的年降雨量相当于5亿个奥运标准泳池的水量。"
+          },
+          {
+            "sentence": "Meteorologists measure rainfall with devices resembling upside-down umbrellas.",
+            "sentence_zh": "气象学家用形似倒置雨伞的装置测量降雨量。"
+          }
+        ]
+      }
+    ],
+    "teach": "rainfall其实是天空在刷存在感☔️！古人用'雨师'称呼雨神🌧️，现代人说'下猫下狗'(It's raining cats and dogs)表示暴雨。要知道：1) 梅雨季叫plum rains不是真的下李子🍑 2) '人工降雨'是cloud seeding就像给云朵打疫苗💉 3) 吐槽天气差可以说'More rain than a waterproof phone can handle'（雨大到防水手机都扛不住）🌂☔️",
+    "recite": {
+      "tips": [
+        "谐音梗：'润发哦'→周润发(rainfall)在雨中甩头发",
+        "易混词：rainfall（自然降水）vs. precipitation（所有形式降水含雪/冰雹）",
+        "记忆法：rain+fall=雨落下→联想微信'下雨了'表情包"
+      ]
+    }
   }
 ]

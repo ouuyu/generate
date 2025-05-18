@@ -5789,5 +5789,279 @@
         "记忆tip：想象被踢出(nominate反义)群聊的尴尬表情包💢"
       ]
     }
+  },
+  {
+    "word": "igneous",
+    "etymology": {
+      "breakdown": [
+        "ign",
+        "eous"
+      ],
+      "meaning_connection": "词根ign=火（同ignite点燃），-eous表性质→如火的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "火的",
+        "examples": [
+          {
+            "sentence": "The igneous glow of molten lava fascinated volcanologists.",
+            "sentence_zh": "熔岩的火红光晕让火山学家着迷。"
+          },
+          {
+            "sentence": "His igneous temper reminded people of a dragon's breath.",
+            "sentence_zh": "他火爆的脾气让人联想到龙息喷吐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "似火的",
+        "examples": [
+          {
+            "sentence": "The sunset painted igneous streaks across the sky.",
+            "sentence_zh": "夕阳在天空画出火焰般的条纹。"
+          },
+          {
+            "sentence": "Her igneous red dress turned heads at the party.",
+            "sentence_zh": "她火红的礼服在派对上引人注目。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "火成的",
+        "examples": [
+          {
+            "sentence": "Granite is a classic igneous rock formed from cooled magma.",
+            "sentence_zh": "花岗岩是由冷却岩浆形成的典型火成岩。"
+          },
+          {
+            "sentence": "The geologist identified the specimen as igneous in origin.",
+            "sentence_zh": "地质学家鉴定该样本为火成岩来源。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "igneous rock",
+        "meaning": "火成岩",
+        "examples": [
+          {
+            "sentence": "Basalt columns are nature's art made of igneous rock.",
+            "sentence_zh": "玄武岩柱是大自然用火成岩创作的艺术品。"
+          }
+        ]
+      }
+    ],
+    "teach": "igneous是地质学家的打火石🔥！词根ign-藏在ignite（点燃）里，就像火锅底料遇到火星💥。说'脾气火爆'可用igneous temper（火成岩般的脾气），'火红晚霞'叫igneous sunset。搭配记忆：igneous=ign+eous→'IG火舞'（IG网红跳火舞）💃🌋",
+    "recite": {
+      "tips": [
+        "谐音梗：'一个牛S'→火成岩硬度牛S级",
+        "易混词对比：igneous（火成）vs aqueous（水成）",
+        "记忆口诀：IGN开头必带火，石头岩浆二选一"
+      ]
+    }
+  },
+  {
+    "word": "ignominiously",
+    "etymology": {
+      "breakdown": [
+        "ig",
+        "nomin",
+        "ious",
+        "ly"
+      ],
+      "meaning_connection": "前缀ig-=否定(in-变体)，词根nomin=名称/名声，-ious=形容词后缀，-ly=副词后缀→'失去名声地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "耻辱地",
+        "examples": [
+          {
+            "sentence": "The corrupt official was ignominiously dragged out of his mansion.",
+            "sentence_zh": "贪官被当众从豪宅里拖出来，场面十分耻辱。"
+          },
+          {
+            "sentence": "Their team lost ignominiously by 20 points in the finals.",
+            "sentence_zh": "他们队在决赛中以20分之差耻辱落败。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "屈辱地",
+        "examples": [
+          {
+            "sentence": "The emperor ignominiously surrendered his sword to the rebels.",
+            "sentence_zh": "皇帝屈辱地向叛军交出了佩剑。"
+          },
+          {
+            "sentence": "He had to ignominiously ask for his job back after badmouthing the company.",
+            "sentence_zh": "在诋毁公司后，他不得不屈辱地请求复职。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "丢脸地",
+        "examples": [
+          {
+            "sentence": "The influencer ignominiously deleted the post after being fact-checked.",
+            "sentence_zh": "该网红在被事实核查后丢脸地删除了帖子。"
+          },
+          {
+            "sentence": "My dad ignominiously slipped on a banana peel during his speech.",
+            "sentence_zh": "我爸爸演讲时踩到香蕉皮丢脸地滑倒了。"
+          }
+        ]
+      }
+    ],
+    "teach": "ignominiously是社死现场三件套💥：词根nomin=名声（如nominate提名），前缀ig-=反向操作←相当于给名声打马赛克🤡。古代罗马战败将军要ignominiously钻过'轭门'（yoke）投降🏛️。说'公开处刑'可用public humiliation，'社会性死亡'叫faceplant。搭配：ignominious defeat（惨败）/ ignominious retreat（溃逃）🚩💨",
+    "recite": {
+      "tips": [
+        "谐音梗：'一个No面子'→极其丢脸",
+        "易混词对比：infamously（恶名昭彰地）强调坏名声，ignominiously强调羞耻感",
+        "记忆tip：想象IG网红(o)被当众揭穿(nomin)时(i)的窘相(ously)"
+      ]
+    }
+  },
+  {
+    "word": "ignominy",
+    "etymology": {
+      "breakdown": [
+        "ig",
+        "nomin",
+        "y"
+      ],
+      "meaning_connection": "前缀ig-=in-表否定，词根nomin=name名称，后缀-y表状态→'失去名誉的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "耻辱",
+        "examples": [
+          {
+            "sentence": "The politician resigned in ignominy after the bribery scandal.",
+            "sentence_zh": "这位政客在受贿丑闻后耻辱辞职。"
+          },
+          {
+            "sentence": "Getting fired for stealing office supplies brought him great ignominy.",
+            "sentence_zh": "因偷窃办公用品被解雇给他带来巨大耻辱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无耻行为",
+        "examples": [
+          {
+            "sentence": "Cheating in the marathon was an ignominy that haunted him for life.",
+            "sentence_zh": "马拉松作弊成为困扰他一生的无耻行为。"
+          },
+          {
+            "sentence": "The CEO's ignominy of embezzling pension funds shocked the nation.",
+            "sentence_zh": "这位CEO侵吞养老基金的无耻行为震惊全国。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不体面",
+        "examples": [
+          {
+            "sentence": "Wearing pajamas to the opera was considered an ignominy in high society.",
+            "sentence_zh": "在上流社会，穿睡衣听歌剧被视为不体面。"
+          },
+          {
+            "sentence": "The ignominy of his drunken speech at the wedding became viral online.",
+            "sentence_zh": "他在婚礼上醉酒致辞的不体面行为在网上疯传。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "suffer ignominy",
+        "meaning": "蒙受耻辱",
+        "examples": [
+          {
+            "sentence": "The athlete suffered ignominy after testing positive for banned substances.",
+            "sentence_zh": "该运动员在禁药检测阳性后蒙受耻辱。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bring ignominy upon",
+        "meaning": "带来耻辱",
+        "examples": [
+          {
+            "sentence": "The fraud scandal brought ignominy upon the entire company.",
+            "sentence_zh": "欺诈丑闻给整个公司带来耻辱。"
+          }
+        ]
+      }
+    ],
+    "teach": "ignominy是社死现场💀的学术说法！词源是'失去名字(ig+nomin)'，相当于现代'全网封杀'🚫。古罗马会让罪犯戴'耻辱面具'🎭（ignominious mask），如今我们说'social suicide'指类似行为。搭配'drag through the mud'（拖进泥潭）比'丢脸'更传神。记住：这词自带BGM《一剪梅》❄️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一个No名'→一个没有名字(ignominy)的耻辱之人",
+        "易混词对比：infamy（恶名）更侧重'恶'，ignominy更侧重'耻'",
+        "记忆tip：IG（instagram）+NO+ME=在社交平台被除名"
+      ]
+    }
+  },
+  {
+    "word": "ignoramus",
+    "etymology": {
+      "breakdown": [
+        "ignore",
+        "amus"
+      ],
+      "meaning_connection": "源自拉丁语'ignoramus'（我们不知道），17世纪英国法律术语指'无足够法律知识的陪审员'，amus为拉丁语第一人称复数词尾"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不学无术的人",
+        "examples": [
+          {
+            "sentence": "The professor sighed at the ignoramus who asked if pandas were a type of bear.",
+            "sentence_zh": "教授对着那个问'熊猫是不是熊科动物'的不学无术者叹了口气。"
+          },
+          {
+            "sentence": "That ignoramus keeps microwaving metal takeout boxes despite warnings.",
+            "sentence_zh": "那个蠢材无视警告，坚持用微波炉加热金属外卖盒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无知识的人",
+        "examples": [
+          {
+            "sentence": "The village ignoramus thought WiFi was a new kind of fertilizer.",
+            "sentence_zh": "村里那个无知者以为WiFi是新型化肥。"
+          },
+          {
+            "sentence": "Don't be an ignoramus who confuses 'dim sum' with 'sushi'.",
+            "sentence_zh": "别当那种把'点心'和'寿司'搞混的门外汉。"
+          }
+        ]
+      }
+    ],
+    "teach": "ignoramus其实是古代法庭的'无知者免责金牌'⚖️：英国法官用这个词骂陪审团'朕不知'(ignoramus)！现代用来形容'把抖音当百科全书📚的民科'。搭配'blissful ignoramus'(快乐的白痴)比说'文盲'更损，地道说法叫know-nothing（啥都不懂先生）🤡。记住：真正的ignoramus是那些把无知当个性的人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一个no睿智'→一个不聪明的人",
+        "对比记忆：ignorant（adj.无知的）是它的形容词形式",
+        "联想：IG（忽略）+ NO（不）+ RAM（内存）→ 内存不足的笨蛋电脑💻"
+      ]
+    }
   }
 ]

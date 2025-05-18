@@ -5733,5 +5733,302 @@
         "易混词：obsolete(adj.)表已淘汰的，obsolescence(n.)表淘汰过程"
       ]
     }
+  },
+  {
+    "word": "obsolescent",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "sole",
+        "scent"
+      ],
+      "meaning_connection": "前缀ob-表示'相反'，词根sole来自拉丁语solere（习惯于），-scent表进行状态→与习惯相反的状态，逐渐被淘汰"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "在逐步废弃的",
+        "examples": [
+          {
+            "sentence": "DVD players are becoming obsolescent in the streaming era.",
+            "sentence_zh": "流媒体时代DVD播放器正逐步被淘汰。"
+          },
+          {
+            "sentence": "The obsolescent payphone still stands like a nostalgic monument.",
+            "sentence_zh": "那座逐渐废弃的投币电话亭仍像怀旧纪念碑般矗立着。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obsolescent technology",
+        "meaning": "淘汰中的技术",
+        "examples": [
+          {
+            "sentence": "Typewriters are now considered obsolescent technology.",
+            "sentence_zh": "打字机现在被视为淘汰中的技术。"
+          }
+        ]
+      }
+    ],
+    "teach": "obsolescent就像被遗忘的诺基亚📱：这个词本身都快要过时了！它描述那些像BP机📟、软盘💾一样慢慢退出历史舞台的事物。搭配'planned obsolescence'（计划报废）食用更佳，比如某水果公司🍏被吐槽的'电池门'。说'过时货'可以用dinosaur tech（恐龙科技）...毕竟连emoji都在更新换代呢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶不锁链声'→淘汰的旧锁链叮当作响",
+        "易混对比：obsolete（已废弃的）vs obsolescent（将废弃的）",
+        "记忆tip：想象手机系统更新提示🔔→你的旧版本正在变成obsolescent"
+      ]
+    }
+  },
+  {
+    "word": "obsolete",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "sol",
+        "ete"
+      ],
+      "meaning_connection": "前缀ob-表示'对抗'，词根sol表示'习惯'，-ete为形容词后缀→原指'与习惯相悖的'，进而演变为'被淘汰的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "荒废的",
+        "examples": [
+          {
+            "sentence": "The abandoned factory stands obsolete like a dinosaur skeleton.",
+            "sentence_zh": "废弃的工厂如同恐龙骨架般荒废着。"
+          },
+          {
+            "sentence": "My gym membership card became obsolete after three years of dust.",
+            "sentence_zh": "积灰三年的健身卡早已荒废。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "成废物的",
+        "examples": [
+          {
+            "sentence": "DVD players are nearly obsolete in the streaming era.",
+            "sentence_zh": "DVD播放器在流媒体时代几乎成了废物。"
+          },
+          {
+            "sentence": "The startup's prototype became obsolete before launch.",
+            "sentence_zh": "这个创业公司的原型机还没上市就成了废物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "陈旧的",
+        "examples": [
+          {
+            "sentence": "Her knowledge of social media was obsolete like Windows 98.",
+            "sentence_zh": "她的社交媒体知识陈旧得像Windows98系统。"
+          },
+          {
+            "sentence": "The textbook's information about Pluto is sadly obsolete.",
+            "sentence_zh": "课本里关于冥王星的信息可悲地过时了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "老式的",
+        "examples": [
+          {
+            "sentence": "His flip phone looks charmingly obsolete among smartphones.",
+            "sentence_zh": "他的翻盖手机在智能机堆里显得可爱地老式。"
+          },
+          {
+            "sentence": "The teacher's overhead projector is an obsolete relic.",
+            "sentence_zh": "老师的投影仪是老式文物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "废词",
+        "examples": [
+          {
+            "sentence": "'Thou' is now considered an obsolete in modern English.",
+            "sentence_zh": "'Thou'在现代英语中被视为废词。"
+          },
+          {
+            "sentence": "Dictionary publishers debate which words to label as obsolete.",
+            "sentence_zh": "词典出版商常争论哪些词该标记为废词。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "废物",
+        "examples": [
+          {
+            "sentence": "The museum displays technological obsoletes like fax machines.",
+            "sentence_zh": "博物馆展示传真机等技术废物。"
+          },
+          {
+            "sentence": "E-waste recycling centers handle tons of digital obsoletes daily.",
+            "sentence_zh": "电子垃圾回收中心每天处理成吨的数字废物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "render obsolete",
+        "meaning": "使过时",
+        "examples": [
+          {
+            "sentence": "Smartphones rendered digital cameras largely obsolete.",
+            "sentence_zh": "智能手机使数码相机基本过时。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "planned obsolescence",
+        "meaning": "计划性淘汰",
+        "examples": [
+          {
+            "sentence": "Some accuse tech companies of planned obsolescence in product design.",
+            "sentence_zh": "有人指责科技公司在产品设计中采用计划性淘汰策略。"
+          }
+        ]
+      }
+    ],
+    "teach": "obsolete就像科技坟场里的墓碑🪦！古罗马人用'obsolete'形容被新习惯淘汰的旧俗，就像我们用'祖传代码'形容老旧程序💻。要说'过时货'可以叫dinosaur tech（恐龙科技），'淘汰速度'叫obsolescence rate就像手机系统更新倒计时⏳。记住：今天的神器明天的obsolete！",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶不收了'→快递小哥拒收obsolete物品",
+        "易混词对比：obsolescent（即将被淘汰的） vs obsolete（已淘汰的）"
+      ]
+    }
+  },
+  {
+    "word": "obstacle",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "st",
+        "acle"
+      ],
+      "meaning_connection": "前缀ob-表示'对抗'，词根st表示'站立'，后缀-acle表'相关事物'→直译为'挡在面前的东西'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "物理障碍",
+        "examples": [
+          {
+            "sentence": "The Great Wall was originally built as a military obstacle against nomadic tribes.",
+            "sentence_zh": "长城最初是作为抵御游牧民族的军事障碍而建。"
+          },
+          {
+            "sentence": "We used mahjong tables as temporary obstacles during the flash mob dance.",
+            "sentence_zh": "我们在快闪舞蹈中用麻将桌当临时障碍物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抽象阻碍",
+        "examples": [
+          {
+            "sentence": "The language barrier became the biggest obstacle for his Douyin international debut.",
+            "sentence_zh": "语言障碍成为他抖音国际首秀的最大阻碍。"
+          },
+          {
+            "sentence": "Her fear of live-streaming was the final obstacle to becoming a KOL.",
+            "sentence_zh": "她对直播的恐惧是成为网红的最后阻碍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obstacle race",
+        "meaning": "障碍赛",
+        "examples": [
+          {
+            "sentence": "The company team-building included an obstacle race with spicy hot pot ingredients.",
+            "sentence_zh": "公司团建包含用火锅食材设置的障碍赛。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "overcome obstacles",
+        "meaning": "克服障碍",
+        "examples": [
+          {
+            "sentence": "She overcame cultural obstacles by learning to use chopsticks with KFC chicken wings.",
+            "sentence_zh": "她用KFC鸡翅练习筷子克服了文化障碍。"
+          }
+        ]
+      }
+    ],
+    "teach": "obstacle其实是'绊脚石'🪨的学术说法！古代罗马人用'ob-'对抗敌人就像长城挡匈奴🏰，现代人用'obstacle course'指综艺里的指压板跑道🦶。说'巨大障碍'可以用Chinese wall（原指金融防火墙），'扫清障碍'叫remove roadblocks就像城管清理共享单车🚲。记住：每个obstacle都是你人生游戏里的NPC！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不撕头壳'→遇到obstacle别撕头发",
+        "易混词：object（物体）/obstruct（阻挡）",
+        "记忆法：想象OB主播(st)被(acle)限流→事业障碍"
+      ]
+    }
+  },
+  {
+    "word": "obstetric",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "stet",
+        "ric"
+      ],
+      "meaning_connection": "ob-表示'在...前'，stet源自拉丁语'stare'（站立），-ric为形容词后缀→原指'站在产妇面前的人'，后专指产科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "产科的",
+        "examples": [
+          {
+            "sentence": "The obstetric ward smells like disinfectant and baby powder.",
+            "sentence_zh": "产科病房飘着消毒水与爽身粉的味道。"
+          },
+          {
+            "sentence": "She bought obstetric forceps shaped like panda heads for the delivery room.",
+            "sentence_zh": "她为产房购买了熊猫头造型的产科钳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "分娩的",
+        "examples": [
+          {
+            "sentence": "The obstetric complications delayed her return to work.",
+            "sentence_zh": "分娩并发症推迟了她返岗的时间。"
+          },
+          {
+            "sentence": "Traditional Chinese obstetric practices include postpartum ginger baths.",
+            "sentence_zh": "传统中式分娩护理包含产后姜汤沐浴。"
+          }
+        ]
+      }
+    ],
+    "teach": "obstetric是'生命的交通警察'👮‍♂️！词根stet=站立（如station），古代接生婆总站在(ob-)产妇面前迎接新生命🚼。搭配'obstetric miracle'（产科奇迹）形容高龄产妇，'obstetric violence'指分娩暴力。记住：产科医生就像火锅店服务员——总在问'加麻加辣吗？'🌶️🤱💉",
+    "recite": {
+      "tips": [
+        "视觉联想：ob（圆圈）+stetric（街景）→产房门口的禁止通行标志",
+        "易混词对比：obstetric（产科）vs pediatric（儿科）→前者管进医院，后者管出院后"
+      ]
+    }
   }
 ]
