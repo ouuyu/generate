@@ -10241,5 +10241,280 @@
         "易混词对比：latest（最新的）vs last（上一个）"
       ]
     }
+  },
+  {
+    "word": "lasting",
+    "etymology": {
+      "breakdown": [
+        "last",
+        "ing"
+      ],
+      "meaning_connection": "来自动词last（持续）+后缀-ing表示状态→持续的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "永久的",
+        "examples": [
+          {
+            "sentence": "The Great Wall is a lasting symbol of Chinese civilization.",
+            "sentence_zh": "长城是中华文明永恒的象征。"
+          },
+          {
+            "sentence": "Their love created a lasting legend in the village.",
+            "sentence_zh": "他们的爱情在村里留下了永久的传说。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "持久的",
+        "examples": [
+          {
+            "sentence": "Huawei's lasting innovation surprises the world every year.",
+            "sentence_zh": "华为持久的创新能力每年都让世界惊艳。"
+          },
+          {
+            "sentence": "The secret to Sichuan hotpot's lasting popularity is its numbing spice.",
+            "sentence_zh": "四川火锅持久受欢迎的秘诀在于它的麻辣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "厚实斜纹织物",
+        "examples": [
+          {
+            "sentence": "The tailor recommended lasting for making winter qipaos.",
+            "sentence_zh": "裁缝推荐用厚实斜纹织物制作冬季旗袍。"
+          },
+          {
+            "sentence": "This kind of lasting is often used in traditional Mongolian boots.",
+            "sentence_zh": "这种厚实斜纹织物常用于传统蒙古靴。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lasting impression",
+        "meaning": "深刻印象",
+        "examples": [
+          {
+            "sentence": "Peking duck left a lasting impression on foreign visitors.",
+            "sentence_zh": "北京烤鸭给外国游客留下了深刻印象。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "lasting friendship",
+        "meaning": "持久友谊",
+        "examples": [
+          {
+            "sentence": "Their lasting friendship began with a shared love for spicy crayfish.",
+            "sentence_zh": "他们持久的友谊始于对麻辣小龙虾的共同热爱。"
+          }
+        ]
+      }
+    ],
+    "teach": "lasting就像老干妈辣酱🌶️——既指'持久的'辣味（lasting spiciness），又指'永恒的'国民地位！说到'永恒'，中国人会用'海枯石烂'🌊⛰️，而老外说'till the cows come home'🐄（等牛回家）。搭配建议：lasting beauty（持久美丽）就像故宫的红墙，lasting value（永恒价值）好比青铜器🗿。记住：不是所有last都指'最后'，加上-ing就成了'持续'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉丝停'→拉丝能停就不是lasting（形容芝士拉丝持久）",
+        "对比记忆：lasting vs. temporary（临时的）像普洱茶vs.袋泡茶",
+        "联想：'last+ing'=最后的ing状态→持续到最后"
+      ]
+    }
+  },
+  {
+    "word": "lastly",
+    "etymology": {
+      "breakdown": [
+        "last",
+        "ly"
+      ],
+      "meaning_connection": "形容词last（最后的）+副词后缀-ly"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "最后",
+        "examples": [
+          {
+            "sentence": "Lastly, the chef added gold flakes to the mooncake - because why not?",
+            "sentence_zh": "最后，厨师往月饼上撒了金箔——毕竟土豪不需要理由。"
+          },
+          {
+            "sentence": "We checked the venue, the outfits, and lastly, whether the hotpot delivery would arrive on time.",
+            "sentence_zh": "我们确认了场地、服装，最后还核对了火锅外卖能否准时送达。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "终于",
+        "examples": [
+          {
+            "sentence": "After 3 hours of buffering, the livestream lastly started...just as my phone died.",
+            "sentence_zh": "经过三小时卡顿，直播终于开始了…正好我手机没电了。"
+          },
+          {
+            "sentence": "The AI assistant lastly understood my Sichuan-accented English - with 89% accuracy.",
+            "sentence_zh": "这个AI助手终于听懂了我的川普英语——准确率89%。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "last but not least",
+        "meaning": "最后但同样重要",
+        "examples": [
+          {
+            "sentence": "Last but not least, we thank the programmer who made this app crash only 5 times today.",
+            "sentence_zh": "最后但同样重要的，我们要感谢今天只让APP崩溃了5次的程序员。"
+          }
+        ]
+      }
+    ],
+    "teach": "lastly其实是'老司机压轴'🚗！古英语中last指'鞋楦'（做鞋的模具），因为要最后才定型👞。说'终于搞定了'可以欢呼at long last，吐槽'最后环节'用grand finale就像火锅收尾必煮泡面🍜。记住：用lastly时要自带BGM《难忘今宵》🎤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉丝体'→芝士最后拉丝瞬间",
+        "对比记忆：lastly（正式总结）vs. finally（时间顺序）"
+      ]
+    }
+  },
+  {
+    "word": "lat",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "缩写自拉脱维亚语'lats'，源自国名Latvia（拉脱维亚）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "拉特(拉脱维亚货币单位)",
+        "examples": [
+          {
+            "sentence": "A cup of coffee costs about 3 lats in Riga.",
+            "sentence_zh": "在里加一杯咖啡约需3拉特。"
+          },
+          {
+            "sentence": "The souvenir shop only accepts lats, not euros.",
+            "sentence_zh": "这家纪念品店只收拉特不收欧元。"
+          }
+        ]
+      }
+    ],
+    "teach": "lat就像波罗的海的独角兽🦄——全球唯拉脱维亚使用的货币，1拉特≈1.4欧元💶。搭配说'赚拉特'用earn lats（像赚金币💰），'换货币'叫exchange lats。冷知识：拉特硬币上有自由女神像🗽的拉脱维亚版！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉特'→'拉'脱维亚'特'有货币",
+        "易混词对比：lat vs let（让）"
+      ]
+    }
+  },
+  {
+    "word": "latch",
+    "etymology": {
+      "breakdown": [
+        "læccan"
+      ],
+      "meaning_connection": "源自古英语'læccan'（抓住），模拟抓住门框的动作演化出门闩含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "门闩",
+        "examples": [
+          {
+            "sentence": "The wooden latch on the chicken coop is chewed by rabbits.",
+            "sentence_zh": "鸡舍的木门闩被兔子啃坏了。"
+          },
+          {
+            "sentence": "His invention replaces traditional latches with fingerprint recognition.",
+            "sentence_zh": "他的发明用指纹识别取代了传统门闩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "上闩",
+        "examples": [
+          {
+            "sentence": "The screen door latches automatically when typhoon comes.",
+            "sentence_zh": "台风来时纱门会自动上闩。"
+          },
+          {
+            "sentence": "Ancient city gates latched at sundown for safety.",
+            "sentence_zh": "古城门会在日落时上闩保安全。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "抓住",
+        "examples": [
+          {
+            "sentence": "The panda latched onto the bamboo shoot with its paw.",
+            "sentence_zh": "熊猫用爪子紧紧抓住竹笋。"
+          },
+          {
+            "sentence": "Her mind latched onto the idea of opening a milk tea franchise.",
+            "sentence_zh": "她满脑子都是开奶茶加盟店的想法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "闩上",
+        "examples": [
+          {
+            "sentence": "Grandma latched the courtyard gate with trembling hands.",
+            "sentence_zh": "奶奶用颤抖的手闩上院门。"
+          },
+          {
+            "sentence": "Remember to latch the windows before the sandstorm hits.",
+            "sentence_zh": "沙尘暴来临前记得闩好窗户。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "latch on to",
+        "meaning": "紧紧抓住",
+        "examples": [
+          {
+            "sentence": "The startup latched on to the live-streaming trend",
+            "sentence_zh": "这家初创公司紧紧抓住直播带货的潮流"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "latch onto someone",
+        "meaning": "缠住某人",
+        "examples": [
+          {
+            "sentence": "The lost puppy latched onto the delivery guy",
+            "sentence_zh": "迷路的小狗紧紧跟着快递小哥"
+          }
+        ]
+      }
+    ],
+    "teach": "latch就像执着的考拉🐨！物理上它是门闩（bamboo latch），抽象时变成'死磕'（latch onto ideas）。说'抓住机会'可以用latch onto chances，就像考拉抱树干🌿。地道表达：'门没闩'叫the latch is off，'门已锁'说latched and locked🔒。记住：latch带着原始社会的安全感记忆！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来迟'→来迟了赶紧闩门",
+        "易混词：latch vs. lock（latch是插销式，lock是旋转式）",
+        "记忆法：想象门闩(latch)的'L'形造型"
+      ]
+    }
   }
 ]

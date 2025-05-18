@@ -9772,5 +9772,282 @@
         "视觉联想：字母G像凹陷的脸颊，aunt（阿姨）饿瘦了→gaunt"
       ]
     }
+  },
+  {
+    "word": "gauntlet",
+    "etymology": {
+      "breakdown": [
+        "gant",
+        "let"
+      ],
+      "meaning_connection": "源自古法语'gantelet'，指骑士的金属手套，-let表小称后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "铁手套",
+        "examples": [
+          {
+            "sentence": "The knight's gauntlet clanged when he picked up his sword.",
+            "sentence_zh": "骑士拾起剑时铁手套发出铿锵声。"
+          },
+          {
+            "sentence": "Medieval gauntlets often had intricate engravings of dragons.",
+            "sentence_zh": "中世纪铁手套常雕刻着精美的龙纹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "长手套",
+        "examples": [
+          {
+            "sentence": "Her velvet gauntlet reached halfway up her forearm at the royal ball.",
+            "sentence_zh": "宫廷舞会上她的丝绒长手套覆盖了小臂。"
+          },
+          {
+            "sentence": "Motorcycle gauntlets protect riders' hands from wind chill.",
+            "sentence_zh": "摩托车长手套为骑手阻挡寒风。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "夹击",
+        "examples": [
+          {
+            "sentence": "The protesters ran the gauntlet of police barriers.",
+            "sentence_zh": "抗议者穿越了警察设置的重重障碍。"
+          },
+          {
+            "sentence": "Celebrities often face the gauntlet of paparazzi cameras.",
+            "sentence_zh": "明星常要面对狗仔队镜头的围堵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "throw down the gauntlet",
+        "meaning": "挑战",
+        "examples": [
+          {
+            "sentence": "The startup threw down the gauntlet to tech giants with their new AI.",
+            "sentence_zh": "这家初创公司用新AI技术向科技巨头发起挑战。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "run the gauntlet",
+        "meaning": "穿越危险",
+        "examples": [
+          {
+            "sentence": "New employees must run the gauntlet of three rounds of interviews.",
+            "sentence_zh": "新员工要经过三轮面试的考验。"
+          }
+        ]
+      }
+    ],
+    "teach": "gauntlet是手套界的变形金刚🤖！中世纪骑士丢铁手套(throw down the gauntlet)等于下战书⚔️，现代人run the gauntlet(穿越障碍)就像挤早高峰地铁🚇。搭配'armored gauntlet'指游戏里的护手甲🎮，说'白手套'要用white gloves可别搞混！记住：遇到挑战就像接住对方扔来的金属手套🧤",
+    "recite": {
+      "tips": [
+        "谐音梗：'钢特累'→戴铁手套(gauntlet)特别累",
+        "易混词：glove(普通手套) vs gauntlet(防护手套)"
+      ]
+    }
+  },
+  {
+    "word": "gauss",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自德国数学家Carl Friedrich Gauss的姓氏，19世纪被用作磁感应强度单位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "高斯（磁场强度单位）",
+        "examples": [
+          {
+            "sentence": "The Earth's magnetic field measures about 0.5 gauss at the surface.",
+            "sentence_zh": "地球表面磁场强度约为0.5高斯。"
+          },
+          {
+            "sentence": "MRI machines generate magnetic fields up to 70,000 gauss.",
+            "sentence_zh": "核磁共振仪能产生高达7万高斯的磁场。"
+          }
+        ]
+      }
+    ],
+    "teach": "gauss其实是'磁场界的爱马仕'🧲！这个单位来自数学王子高斯（他的头像曾被印在德国10马克纸币上💵）。1高斯≈冰箱贴的磁场强度，而核磁共振的磁场相当于70,000个冰箱贴叠加！搭配说'strong gauss field'（强高斯场）或'gauss meter'（高斯计），吐槽弱磁场可以说'weaker than a fridge magnet'（比冰箱贴还弱）🧊⚡🧠",
+    "recite": {
+      "tips": [
+        "谐音梗：'高势'→高斯的磁场势能很高",
+        "易混词对比：gauss vs. tesla（1特斯拉=10,000高斯）"
+      ]
+    }
+  },
+  {
+    "word": "Gaussian",
+    "etymology": {
+      "breakdown": [
+        "Gauss",
+        "ian"
+      ],
+      "meaning_connection": "源自数学家卡尔·弗里德里希·高斯（Carl Friedrich Gauss），-ian表示'与...相关的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "高斯的",
+        "examples": [
+          {
+            "sentence": "The Gaussian distribution is also known as the bell curve.",
+            "sentence_zh": "高斯分布也被称为钟形曲线。"
+          },
+          {
+            "sentence": "Gaussian blur is a popular effect in photo editing apps.",
+            "sentence_zh": "高斯模糊是照片编辑应用中的常见效果。"
+          }
+        ]
+      }
+    ],
+    "teach": "Gaussian其实是数学界的超级英雄🦸♂️！高斯分布就像你朋友圈的点赞数统计📊——少数人获得大量赞（曲线高峰），多数人默默无闻（长尾）。PS修图用的'高斯模糊'就像近视眼摘掉眼镜👓看世界。搭配说'Gaussian noise'（电子设备背景杂音）就像收音机里的炒菜声🍳，'Gaussian elimination'（线性代数算法）则是数学家的消消乐🧮。记住：所有带'高斯'的都和优雅的数学魔法有关✨！",
+    "recite": {
+      "tips": [
+        "视觉联想：高斯分布曲线像一座平滑的山丘⛰️",
+        "易混词对比：Gaussian vs. Cauchy（后者有更厚的'尾巴'）"
+      ]
+    }
+  },
+  {
+    "word": "gauze",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自阿拉伯语gazz（生丝），经法语gaze传入英语，原指轻薄透明的丝织物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "薄纱",
+        "examples": [
+          {
+            "sentence": "The bride's veil was made of ethereal silk gauze.",
+            "sentence_zh": "新娘的头纱由飘逸的真丝薄纱制成。"
+          },
+          {
+            "sentence": "Sheer gauze curtains fluttered in the summer breeze.",
+            "sentence_zh": "透明的薄纱窗帘在夏风中飘动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "纱布",
+        "examples": [
+          {
+            "sentence": "The nurse changed the gauze on my skinned knee.",
+            "sentence_zh": "护士帮我膝盖擦伤处更换了纱布。"
+          },
+          {
+            "sentence": "Keep first-aid gauze in your hiking backpack.",
+            "sentence_zh": "徒步背包里要常备急救纱布。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "金属网",
+        "examples": [
+          {
+            "sentence": "The speaker cover uses stainless steel gauze for protection.",
+            "sentence_zh": "扬声器罩采用不锈钢金属网防护。"
+          },
+          {
+            "sentence": "Industrial gauze filters impurities from the liquid.",
+            "sentence_zh": "工业金属网过滤液体中的杂质。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gauze mask",
+        "meaning": "纱布口罩",
+        "examples": [
+          {
+            "sentence": "During sandstorms, gauze masks become hot commodities.",
+            "sentence_zh": "沙尘暴天气时纱布口罩成为抢手货。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wire gauze",
+        "meaning": "金属丝网",
+        "examples": [
+          {
+            "sentence": "The chemistry lab uses wire gauze to support beakers.",
+            "sentence_zh": "化学实验室用金属丝网支撑烧杯。"
+          }
+        ]
+      }
+    ],
+    "teach": "gauze的千年变装秀🎭：从阿拉伯丝绸→欧洲贵妇面纱👰→现代医用纱布🩹！遇到'金属网'别懵，就像烧烤架也是gauze的一种🍢。要说'包扎伤口'用dress with gauze，'透明到像没穿'说as sheer as gauze。记住：gauze家族三件套——遮脸、疗伤、当滤网！",
+    "recite": {
+      "tips": [
+        "谐音梗：'搞事'→用纱布(gauze)包扎搞事留下的伤口",
+        "易混词：gauze（网状物） vs gaze（凝视）"
+      ]
+    }
+  },
+  {
+    "word": "gauzy",
+    "etymology": {
+      "breakdown": [
+        "gauze",
+        "y"
+      ],
+      "meaning_connection": "词根gauze=薄纱，后缀-y表形容词性质→如纱般轻薄"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "纱似的",
+        "examples": [
+          {
+            "sentence": "The dancer's gauzy skirt floated like morning mist.",
+            "sentence_zh": "舞者的纱裙如晨雾般轻盈飘动。"
+          },
+          {
+            "sentence": "Mosquito nets made of gauzy fabric are common in tropical areas.",
+            "sentence_zh": "热带地区常见薄纱制成的蚊帐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "薄的",
+        "examples": [
+          {
+            "sentence": "She wore a gauzy blouse that barely blocked the summer sun.",
+            "sentence_zh": "她穿着几乎挡不住夏日阳光的薄衬衫。"
+          },
+          {
+            "sentence": "The artist used gauzy watercolor layers to create ethereal effects.",
+            "sentence_zh": "画家用轻薄的水彩层次营造空灵效果。"
+          }
+        ]
+      }
+    ],
+    "teach": "gauzy是'纱界玻尿酸'💉——中世纪欧洲贵族为显瘦，往礼服里塞20层gauze（薄纱）👗，现代网红滤镜叫gauzy effect（朦胧美）。说'薄如蝉翼'用as gauzy as cicada wings🦋，'透视装'是gauzy outfit👁️。记住：gauzy的东西就像你的年终奖——看着有，一摸就穿！",
+    "recite": {
+      "tips": [
+        "谐音梗：'搞Z'→搞Z杯奶茶要薄(gauzy)杯壁",
+        "易混词对比：gauzy（轻透薄） vs. fuzzy（毛茸茸）"
+      ]
+    }
   }
 ]

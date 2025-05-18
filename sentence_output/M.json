@@ -9830,5 +9830,305 @@
         "记忆tip：迪士尼反派的名字（如Maleficent）都带mal前缀"
       ]
     }
+  },
+  {
+    "word": "malicious",
+    "etymology": {
+      "breakdown": [
+        "mal",
+        "icious"
+      ],
+      "meaning_connection": "词根mal=坏的/恶的（拉丁语malus），后缀-icious=充满...的→充满恶意的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "怀恶意的",
+        "examples": [
+          {
+            "sentence": "The hacker left a malicious comment that crashed my phone.",
+            "sentence_zh": "黑客留下的恶意评论让我的手机死机了。"
+          },
+          {
+            "sentence": "Her malicious gossip spread faster than 5G across the office.",
+            "sentence_zh": "她的恶意八卦在办公室里传播得比5G还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "恶毒的",
+        "examples": [
+          {
+            "sentence": "The villain's malicious laugh echoed through the haunted house.",
+            "sentence_zh": "反派的恶毒笑声在鬼屋里回荡。"
+          },
+          {
+            "sentence": "That was the most malicious durian prank I've ever seen.",
+            "sentence_zh": "那是我见过最恶毒的榴莲恶作剧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "malicious software",
+        "meaning": "恶意软件",
+        "examples": [
+          {
+            "sentence": "Never click links that promise free VIP membership - it's probably malicious software.",
+            "sentence_zh": "千万别点那些送VIP会员的链接——多半是恶意软件。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "malicious intent",
+        "meaning": "恶意企图",
+        "examples": [
+          {
+            "sentence": "Posting someone's ugly selfie without permission shows malicious intent.",
+            "sentence_zh": "未经允许发布他人的丑自拍就是恶意企图。"
+          }
+        ]
+      }
+    ],
+    "teach": "malicious是'满满的恶意'💢：词根mal在法语里是'坏'（比如《Maleficent》沉睡魔咒里的女巫名），-icious后缀就像火锅红油里泡着的辣椒🌶️。说人'蔫儿坏'可以用malicious smile（阴笑），遇到键盘侠可以说'Stop being so malicious!'（别这么恶毒！）记住：当你看到mal开头单词，就像看到火锅里的魔鬼椒——准没好事！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂乐死'→骂人还乐死，真恶毒",
+        "易混词对比：malice（名词恶意） vs malicious（形容词恶毒的）",
+        "联想记忆：mal+icious=麦当劳(mal)的冰激凌(icious)里有虫→恶毒的"
+      ]
+    }
+  },
+  {
+    "word": "maliciously",
+    "etymology": {
+      "breakdown": [
+        "mal",
+        "icious",
+        "ly"
+      ],
+      "meaning_connection": "词根mal=坏的（拉丁语malus），-icious=充满...性质的，-ly=副词后缀→充满坏心眼的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有敌意地",
+        "examples": [
+          {
+            "sentence": "The rival company maliciously spread rumors about our mooncake formula.",
+            "sentence_zh": "竞争对手公司恶意散播我们月饼配方的谣言。"
+          },
+          {
+            "sentence": "He smiled maliciously while hiding the TV remote control.",
+            "sentence_zh": "他藏起电视遥控器时露出充满敌意的笑容。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "恶意地",
+        "examples": [
+          {
+            "sentence": "Someone maliciously replaced all emojis in the document with eggplants.",
+            "sentence_zh": "有人恶意把文档里所有表情包都替换成了茄子。"
+          },
+          {
+            "sentence": "The hacker acted maliciously by encrypting files and demanding 100 hotpot coupons.",
+            "sentence_zh": "黑客恶意加密文件并索要100张火锅券作为赎金。"
+          }
+        ]
+      }
+    ],
+    "teach": "maliciously是'妈见打'行为👊！词根mal是拉丁语'坏'（像malaria疟疾=坏空气）。视觉化：就像给同事奶茶偷偷加酱油🍵→这种行为就叫act maliciously。地道表达'使坏'说pull a fast one，'蓄意破坏'叫sabotage源于工人扔木鞋(sabot)进机器👞。记住：但凡用maliciously修饰的动作，都该被发配到蚂蚁森林种树🌲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没理射死'→不讲理地(maliciously)射死",
+        "易混词对比：malicious（adj.） vs. malevolent（更文绉绉的'恶毒'）",
+        "记忆tip：拆解成'mal（坏）+ice（冰）→像暗中使绊子让人滑倒的坏冰"
+      ]
+    }
+  },
+  {
+    "word": "malign",
+    "etymology": {
+      "breakdown": [
+        "mal",
+        "ign"
+      ],
+      "meaning_connection": "词根mal=坏的/恶意的，后缀-ign表性质/行为→本质就是'带着恶意行事'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有害的",
+        "examples": [
+          {
+            "sentence": "The malign effects of熬夜 are worse than drinking boba every day.",
+            "sentence_zh": "熬夜的有害影响比每天喝奶茶更严重。"
+          },
+          {
+            "sentence": "That malign app drained my phone battery like a vampire.",
+            "sentence_zh": "那个有害应用像吸血鬼一样耗光了我的手机电量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "恶性的",
+        "examples": [
+          {
+            "sentence": "Doctors removed a malign tumor with robot-assisted surgery.",
+            "sentence_zh": "医生用机器人辅助手术切除了恶性肿瘤。"
+          },
+          {
+            "sentence": "The malign gossip spread faster than 5G signals.",
+            "sentence_zh": "恶性的谣言传播得比5G信号还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有恶意的",
+        "examples": [
+          {
+            "sentence": "Her malign smile made me check my wallet immediately.",
+            "sentence_zh": "她恶意的笑容让我立刻检查钱包。"
+          },
+          {
+            "sentence": "That malign comment deserved a WeChat 'dislike' button.",
+            "sentence_zh": "那条恶意评论值得微信有个'踩'按钮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "诽谤",
+        "examples": [
+          {
+            "sentence": "The influencer was sued for maligning a hotpot restaurant with fake reviews.",
+            "sentence_zh": "该网红因用虚假评论诽谤火锅店被起诉。"
+          },
+          {
+            "sentence": "Never malign your ex on social media — use stand-up comedy instead.",
+            "sentence_zh": "别在社交媒体诽谤前任——用脱口秀吐槽更解气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "说坏话",
+        "examples": [
+          {
+            "sentence": "He maligned bubble tea as 'sugar poison' but drinks it secretly.",
+            "sentence_zh": "他把奶茶说成'糖毒药'却偷偷喝。"
+          },
+          {
+            "sentence": "Stop maligning my idol — her acting is at least better than AI anchors!",
+            "sentence_zh": "别说我偶像坏话——她演技至少比AI主播强！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "malign influence",
+        "meaning": "不良影响",
+        "examples": [
+          {
+            "sentence": "TikTok denies any malign influence on teenagers' attention spans.",
+            "sentence_zh": "TikTok否认对青少年注意力持续时间有不良影响。"
+          }
+        ]
+      }
+    ],
+    "teach": "malign是'妈见打'型词汇👊！词根mal来自拉丁语'坏'，就像《甄嬛传》里的反派🔪（malign character）。'恶性'释义时像癌细胞分裂⚠️（malign tumor），'诽谤'时像朋友圈匿名吐槽💢（malign secretly）。说'恶意评论'用toxic comments，'造谣'叫spread rumors。记住：带mal-的词没好事，比如malaria（疟疾）和malpractice（玩忽职守）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卖烂'→卖烂水果(malign)害人",
+        "易混词对比：malignant（恶性的） vs. benign（良性的）",
+        "记忆tip：mal+ign=恶意点火(ignite)"
+      ]
+    }
+  },
+  {
+    "word": "malignancy",
+    "etymology": {
+      "breakdown": [
+        "mal",
+        "ign",
+        "ancy"
+      ],
+      "meaning_connection": "词根mal=坏的，ign=火（引申为性质），-ancy表状态→像邪恶之火燃烧的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "恶意",
+        "examples": [
+          {
+            "sentence": "The malignancy in his smile made everyone uncomfortable at the meeting.",
+            "sentence_zh": "他笑容中的恶意让会议上的每个人都不自在。"
+          },
+          {
+            "sentence": "Her eyes showed pure malignancy when discussing her rival.",
+            "sentence_zh": "谈论竞争对手时，她眼中流露出纯粹的恶意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "邪恶",
+        "examples": [
+          {
+            "sentence": "Ancient legends often portray dragons as creatures of malignancy.",
+            "sentence_zh": "古代传说常将龙描绘成邪恶的生物。"
+          },
+          {
+            "sentence": "The dark wizard's malignancy corrupted the entire forest.",
+            "sentence_zh": "黑巫师的邪恶腐蚀了整个森林。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "恶性肿瘤",
+        "examples": [
+          {
+            "sentence": "Early detection significantly improves outcomes with malignancies.",
+            "sentence_zh": "早期检测能显著改善恶性肿瘤的治疗效果。"
+          },
+          {
+            "sentence": "The biopsy confirmed the tumor was a malignancy.",
+            "sentence_zh": "活检确认该肿瘤是恶性的。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "biological malignancy",
+        "meaning": "生物恶性",
+        "examples": [
+          {
+            "sentence": "Scientists are studying the mechanisms behind biological malignancy.",
+            "sentence_zh": "科学家正在研究生物恶性背后的机制。"
+          }
+        ]
+      }
+    ],
+    "teach": "malignancy是'坏'到骨子里的词🔥！词根mal来自拉丁语'malus'（坏），像漫威里的Malekith（麻辣鸡丝）就是邪恶代表👹。医学上形容恶性肿瘤就像《工作细胞》里的癌细胞暴走💀，日常生活说'恶意'可以用sheer malice（注意不是mall里的ice cream🍦）。搭配：social malignancy（社会顽疾）/ moral malignancy（道德败坏）",
+    "recite": {
+      "tips": [
+        "谐音梗：'没脸跟谁'→恶性肿瘤让病人没脸见人",
+        "易混词对比：benign（良性） vs malignant（恶性）像天使😇与恶魔😈",
+        "记忆tip：mal开头常表'坏'（malware恶意软件/malpractice渎职）"
+      ]
+    }
   }
 ]

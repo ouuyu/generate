@@ -10160,5 +10160,355 @@
         "记忆法：把't'想成喷出的口水轨迹💦"
       ]
     }
+  },
+  {
+    "word": "ranting",
+    "etymology": {
+      "breakdown": [
+        "rant",
+        "ing"
+      ],
+      "meaning_connection": "rant源自古荷兰语'randten'（胡言乱语），-ing表现在分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "夸夸其谈",
+        "examples": [
+          {
+            "sentence": "The influencer kept ranting about blockchain while eating spicy crayfish.",
+            "sentence_zh": "那个网红一边吃麻辣小龙虾一边滔滔不绝地讲区块链。"
+          },
+          {
+            "sentence": "His ranting TED Talk surprisingly got 10 million views.",
+            "sentence_zh": "他那场夸夸其谈的TED演讲竟获得千万观看。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "大叫大嚷地以…说教",
+        "examples": [
+          {
+            "sentence": "The grandma was ranting Confucian classics at the square-dancing team.",
+            "sentence_zh": "老太太对着广场舞队伍大声用《论语》说教。"
+          },
+          {
+            "sentence": "He's ranting cybersecurity rules like a human loudspeaker.",
+            "sentence_zh": "他像人形喇叭般嚷着网络安全条例。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "气愤地大叫大嚷",
+        "examples": [
+          {
+            "sentence": "The customer was ranting about expired coupons at the milk tea shop.",
+            "sentence_zh": "顾客在奶茶店为过期优惠券气得大吼大叫。"
+          },
+          {
+            "sentence": "Dad's ranting over my game ranking scared the cat off the sofa.",
+            "sentence_zh": "爸爸对着我的游戏段位怒吼，把猫都吓跑了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "不停地大声抱怨",
+        "examples": [
+          {
+            "sentence": "Tourists were ranting about the Great Wall's crowdedness while taking selfies.",
+            "sentence_zh": "游客们边自拍边抱怨长城太拥挤。"
+          },
+          {
+            "sentence": "The streamer kept ranting about lagging during the boss fight.",
+            "sentence_zh": "主播打BOSS时不断抱怨网络延迟。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ranting and raving",
+        "meaning": "大吵大闹",
+        "examples": [
+          {
+            "sentence": "The auntie was ranting and raving when her WeChat red packet expired.",
+            "sentence_zh": "大妈发现微信红包过期时大吵大闹。"
+          }
+        ]
+      }
+    ],
+    "teach": "ranting就像愤怒的四川火锅🌶️：1)历史梗：莎士比亚在《李尔王》里让角色rant暴风雨般的台词⚡2)视觉化：像被踩到尾巴的猫🐱炸毛咆哮3)搭配：rant on TikTok（抖音开喷）/ rant about 5G（怒斥5G辐射）4)地道说法：'嘴炮王者'叫keyboard warrior⌨️5)精髓：音量越大，道理越小📢",
+    "recite": {
+      "tips": [
+        "谐音梗：'燃听'→燃烧听觉的ranting",
+        "易混词：vent（理性宣泄） vs rant（无脑咆哮）",
+        "记忆tip：rant=跑调(ran)的T(T发音)→像唱歌走调还特别大声"
+      ]
+    }
+  },
+  {
+    "word": "rap",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词，模拟敲击声，最早记录于14世纪"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "轻敲",
+        "examples": [
+          {
+            "sentence": "The teacher's rap on the desk silenced the class.",
+            "sentence_zh": "老师在桌上的轻敲让全班安静下来。"
+          },
+          {
+            "sentence": "I woke up to the gentle rap of raindrops on my window.",
+            "sentence_zh": "我被雨滴轻轻敲打窗户的声音唤醒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拍击",
+        "examples": [
+          {
+            "sentence": "The rap of the drum signaled the start of the performance.",
+            "sentence_zh": "鼓的拍击声标志着表演的开始。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "责骂",
+        "examples": [
+          {
+            "sentence": "He got a rap for coming home late.",
+            "sentence_zh": "他因为晚回家而受到责骂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无价值的东西",
+        "examples": [
+          {
+            "sentence": "That movie was a rap, not worth the ticket price.",
+            "sentence_zh": "那部电影毫无价值，不值得票价。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "轻敲",
+        "examples": [
+          {
+            "sentence": "She rapped her fingers impatiently on the table.",
+            "sentence_zh": "她不耐烦地用手指轻敲桌子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "厉声说出",
+        "examples": [
+          {
+            "sentence": "The officer rapped out orders to his team.",
+            "sentence_zh": "军官厉声向他的团队下达命令。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "叱责",
+        "examples": [
+          {
+            "sentence": "The teacher rapped the student for cheating.",
+            "sentence_zh": "老师叱责学生作弊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抢走",
+        "examples": [
+          {
+            "sentence": "The thief rapped the purse and ran away.",
+            "sentence_zh": "小偷抢走钱包逃跑了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使着迷",
+        "examples": [
+          {
+            "sentence": "The melody rapped me completely.",
+            "sentence_zh": "这首旋律让我完全着迷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "敲击",
+        "examples": [
+          {
+            "sentence": "Someone is rapping at the door.",
+            "sentence_zh": "有人在敲门。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "发敲击声",
+        "examples": [
+          {
+            "sentence": "The branches rapped against the window in the wind.",
+            "sentence_zh": "树枝在风中敲打着窗户。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "交谈",
+        "examples": [
+          {
+            "sentence": "We rapped for hours about music.",
+            "sentence_zh": "我们聊了好几个小时音乐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "同情",
+        "examples": [
+          {
+            "sentence": "I can rap with you on this issue.",
+            "sentence_zh": "在这个问题上我能理解你。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rap out",
+        "meaning": "急促地说出",
+        "examples": [
+          {
+            "sentence": "He rapped out the answer without thinking.",
+            "sentence_zh": "他不假思索地快速给出了答案。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "take the rap",
+        "meaning": "背黑锅",
+        "examples": [
+          {
+            "sentence": "He had to take the rap for his friend's mistake.",
+            "sentence_zh": "他不得不为朋友的错误背黑锅。"
+          }
+        ]
+      }
+    ],
+    "teach": "rap就像一个声音魔术师🎤！从敲桌子（rap the table）到说唱音乐（rap music），这个词跨越了几个世纪。'背黑锅'叫take the rap，就像替兄弟挨骂的义气👊。说'别责备我'可以说Don't rap me for this，就像躲避家长唠叨的机智小孩🙉。记住：rap的节奏就是生活的节拍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐破'→说唱歌手尖锐地突破常规",
+        "易混词对比：rap（敲击/说唱） vs. wrap（包裹）",
+        "视觉联想：想象法官的小锤子敲击声就是rap"
+      ]
+    }
+  },
+  {
+    "word": "rapacious",
+    "etymology": {
+      "breakdown": [
+        "rap",
+        "acious"
+      ],
+      "meaning_connection": "词根rap=抢夺（来自拉丁语rapere），后缀-acious=充满…的→像饿狼般抢夺的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "强夺的",
+        "examples": [
+          {
+            "sentence": "The rapacious warlord seized villagers' last sacks of rice.",
+            "sentence_zh": "那个强夺的军阀抢走了村民最后的几袋米。"
+          },
+          {
+            "sentence": "Pirates made rapacious raids along the ancient Maritime Silk Road.",
+            "sentence_zh": "海盗在古代海上丝绸之路上进行掠夺性袭击。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "贪欲的",
+        "examples": [
+          {
+            "sentence": "His rapacious desire for power ruined family relationships.",
+            "sentence_zh": "他对权力的贪欲毁了家庭关系。"
+          },
+          {
+            "sentence": "The rapacious collector bought all the antique teapots at the auction.",
+            "sentence_zh": "那个贪得无厌的收藏家在拍卖会上买走了所有古董茶壶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "贪婪的",
+        "examples": [
+          {
+            "sentence": "Rapacious corporations exploit natural resources without considering sustainability.",
+            "sentence_zh": "贪婪的企业不考虑可持续性就开采自然资源。"
+          },
+          {
+            "sentence": "The rapacious child grabbed all the mooncakes at the Mid-Autumn Festival party.",
+            "sentence_zh": "那个贪婪的孩子在中秋晚会上抓走了所有的月饼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rapacious appetite",
+        "meaning": "贪得无厌的胃口",
+        "examples": [
+          {
+            "sentence": "The tech giant has a rapacious appetite for acquiring startups.",
+            "sentence_zh": "这家科技巨头对收购初创公司有着贪得无厌的胃口。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rapacious capitalism",
+        "meaning": "掠夺性资本主义",
+        "examples": [
+          {
+            "sentence": "Some scholars criticize rapacious capitalism for widening wealth gaps.",
+            "sentence_zh": "一些学者批评掠夺性资本主义加剧了贫富差距。"
+          }
+        ]
+      }
+    ],
+    "teach": "rapacious是'饿狼式贪婪'🐺💸：词根rap-藏在rape（掠夺）和raptor（猛禽）里，就像霸王龙抢食🦖！形容贪官叫corrupt太普通，说rapacious official才犀利。'薅羊毛'可说rapacious coupon hunting（券猎行为），'吃相难看'是rapacious eating style🍗。记住：看到疯狂扫货的大妈，这就是rapacious的最好示范！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热赔事儿'→贪婪导致赔钱事儿",
+        "易混词：rapid（快速）vs rapacious（贪婪）→抢得快不如抢得狠",
+        "联想：raptor（猛禽）+acious=像恐龙般贪婪"
+      ]
+    }
   }
 ]

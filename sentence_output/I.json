@@ -10282,5 +10282,356 @@
         "对比：imbue(深度渗透) vs inspire(短暂激励)"
       ]
     }
+  },
+  {
+    "word": "imitate",
+    "etymology": {
+      "breakdown": [
+        "imit",
+        "ate"
+      ],
+      "meaning_connection": "词根imit来自拉丁语imitari，意为'复制'，-ate为动词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "模仿（行为）",
+        "examples": [
+          {
+            "sentence": "The baby panda tries to imitate its mother's bamboo-eating technique.",
+            "sentence_zh": "熊猫宝宝试图模仿妈妈吃竹子的技巧。"
+          },
+          {
+            "sentence": "TikTok teens imitate influencers' dance moves frame by frame.",
+            "sentence_zh": "抖音少年们逐帧模仿网红的舞蹈动作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "效法（榜样）",
+        "examples": [
+          {
+            "sentence": "Mao Zedong encouraged people to imitate Lei Feng's spirit.",
+            "sentence_zh": "毛泽东号召人们效法雷锋精神。"
+          },
+          {
+            "sentence": "Young entrepreneurs imitate Jack Ma's perseverance.",
+            "sentence_zh": "年轻创业者们效法马云的坚持精神。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "冒充（身份）",
+        "examples": [
+          {
+            "sentence": "The scammer imitated bank staff to steal passwords.",
+            "sentence_zh": "诈骗者冒充银行工作人员窃取密码。"
+          },
+          {
+            "sentence": "Some livestreamers imitate celebrities to gain followers.",
+            "sentence_zh": "有些主播冒充名人来涨粉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "仿造（物品）",
+        "examples": [
+          {
+            "sentence": "This factory imitates LV patterns on wholesale market bags.",
+            "sentence_zh": "这家工厂在批发市场包袋上仿造LV花纹。"
+          },
+          {
+            "sentence": "Some tech companies imitate iPhone designs shamelessly.",
+            "sentence_zh": "某些科技公司厚颜无耻地仿造iPhone设计。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "imitate someone's style",
+        "meaning": "模仿某人的风格",
+        "examples": [
+          {
+            "sentence": "Many bloggers imitate Li Jiaqi's shouting style in livestreams.",
+            "sentence_zh": "许多博主在直播中模仿李佳琦的喊麦风格。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "poorly imitated",
+        "meaning": "拙劣模仿",
+        "examples": [
+          {
+            "sentence": "The knock-off sneakers are poorly imitated with glue stains everywhere.",
+            "sentence_zh": "山寨球鞋仿造拙劣，到处是胶水痕迹。"
+          }
+        ]
+      }
+    ],
+    "teach": "模仿是人类的天性🐒！从婴儿学语到山寨手机，imitate就像复印机🖨️（copy behavior）和cosplay服👘（imitate appearance）的结合体。'东施效颦'叫bad imitation，'高仿包'说成knock-off。记住：模仿马云说话用imitate，仿造支付宝界面就得吃官司⚖️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一米贴'→贴着一米距离模仿",
+        "易混词对比：simulate（模拟系统）/ duplicate（完全复制）"
+      ]
+    }
+  },
+  {
+    "word": "imitation",
+    "etymology": {
+      "breakdown": [
+        "imit",
+        "ation"
+      ],
+      "meaning_connection": "词根imit=模仿，后缀-ation=过程/结果→模仿行为或产物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "模仿",
+        "examples": [
+          {
+            "sentence": "The toddler's imitation of a panda chewing bamboo went viral on Douyin.",
+            "sentence_zh": "宝宝模仿熊猫吃竹子的视频在抖音爆红。"
+          },
+          {
+            "sentence": "AI voice imitation can now perfectly replicate your grandma's accent.",
+            "sentence_zh": "AI语音模仿已能完美复刻你奶奶的口音。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "效法",
+        "examples": [
+          {
+            "sentence": "The imitation of Japanese convenience store systems revolutionized Chinese retail.",
+            "sentence_zh": "效法日本便利店系统彻底改变了中国零售业。"
+          },
+          {
+            "sentence": "Many startups failed in blind imitation of Silicon Valley models.",
+            "sentence_zh": "许多初创公司因盲目效法硅谷模式而失败。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "冒充",
+        "examples": [
+          {
+            "sentence": "The imitation of police uniforms is strictly prohibited in China.",
+            "sentence_zh": "在中国严禁冒充警察制服。"
+          },
+          {
+            "sentence": "WeChat cracks down on accounts doing imitation of official channels.",
+            "sentence_zh": "微信严厉打击冒充官方渠道的账号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赝品",
+        "examples": [
+          {
+            "sentence": "The imitation Rolex from the night market stopped working after a shower.",
+            "sentence_zh": "夜市买的劳力士赝品洗个澡就不走了。"
+          },
+          {
+            "sentence": "Taobao's AI can spot 99% of imitation designer handbags.",
+            "sentence_zh": "淘宝AI能识别99%的设计师包包赝品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "imitation leather",
+        "meaning": "人造革",
+        "examples": [
+          {
+            "sentence": "This vegan brand uses imitation leather made from mushrooms.",
+            "sentence_zh": "这个素食品牌使用蘑菇制成的人造革。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in imitation of",
+        "meaning": "模仿...",
+        "examples": [
+          {
+            "sentence": "The architecture was built in imitation of the Forbidden City.",
+            "sentence_zh": "该建筑是模仿故宫建造的。"
+          }
+        ]
+      }
+    ],
+    "teach": "imitation是人类祖传技能🐒！从猴子模仿人类抽烟（viral monkey videos）到莆田仿制鞋👟，再到AI克隆你的声音🤖。有趣的是，'赝品'英文叫knockoff（敲下来的仿品），'山寨'说fake太直白，用imitation更优雅。搭配'imitation crab'（蟹肉棒）时记得它比真蟹肉早出道30年🦀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一米贴深'→赝品贴太近就像一米距离",
+        "易混词对比：imitation（模仿产物）vs. simulation（模拟过程）",
+        "记忆口诀：模仿是学习之母，赝品是正品之敌"
+      ]
+    }
+  },
+  {
+    "word": "imitative",
+    "etymology": {
+      "breakdown": [
+        "imit",
+        "ative"
+      ],
+      "meaning_connection": "词根imit=模仿，后缀-ative表特性→具有模仿特性的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "喜模仿的",
+        "examples": [
+          {
+            "sentence": "The imitative parrot recreated the sound of a boiling kettle perfectly.",
+            "sentence_zh": "这只爱模仿的鹦鹉完美复刻了水壶沸腾的声音。"
+          },
+          {
+            "sentence": "Children's imitative behavior often surprises their parents.",
+            "sentence_zh": "孩子们爱模仿的行为常让父母惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "伪造的",
+        "examples": [
+          {
+            "sentence": "The museum discovered the imitative Van Gogh was painted in 2020.",
+            "sentence_zh": "博物馆发现这幅伪造的梵高画作完成于2020年。"
+          },
+          {
+            "sentence": "Police cracked down on an imitative luxury bag workshop.",
+            "sentence_zh": "警方捣毁了一个伪造奢侈包袋的作坊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "仿制的",
+        "examples": [
+          {
+            "sentence": "This imitative porcelain copies the glaze technique of Ming Dynasty.",
+            "sentence_zh": "这件仿制瓷器复刻了明代的施釉工艺。"
+          },
+          {
+            "sentence": "The Terracotta Warriors souvenir is an imitative miniature.",
+            "sentence_zh": "这个兵马俑纪念品是微缩仿制品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "摹拟的",
+        "examples": [
+          {
+            "sentence": "The imitative flight simulator provides ultra-realistic scenarios.",
+            "sentence_zh": "这个摹拟飞行器提供超真实场景。"
+          },
+          {
+            "sentence": "Doctors train with imitative surgical robots before operations.",
+            "sentence_zh": "医生在手术前用摹拟机器人训练。"
+          }
+        ]
+      }
+    ],
+    "teach": "imitative是'戏精本精'🎭！从鹦鹉学舌到AI换脸，人类靠模仿进化至今。说'山寨货'用knockoff（原指敲门赶走正品🚪），'高仿'叫dead ringer（原指赛马中极其相似的马🐎）。记住：模仿是最高级的拍马屁——就像熊猫玩偶cos真熊猫🐼，连黑眼圈都要1:1复刻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一米提壶'→提壶(imit)灌顶式模仿",
+        "对比记忆：imitative(主动模仿) vs. imitation(模仿产物)",
+        "联想：Imagine+Creative=模仿需要想象力"
+      ]
+    }
+  },
+  {
+    "word": "imitator",
+    "etymology": {
+      "breakdown": [
+        "imit",
+        "ator"
+      ],
+      "meaning_connection": "词根imit=模仿（来自拉丁语imitari），后缀-ator表示'做某事的人'→模仿行为执行者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "模仿者",
+        "examples": [
+          {
+            "sentence": "The street performer was a brilliant imitator of Jackie Chan's kung fu moves.",
+            "sentence_zh": "这位街头艺人是成龙功夫动作的出色模仿者。"
+          },
+          {
+            "sentence": "Her talent show act as a Beyoncé imitator went viral on Douyin.",
+            "sentence_zh": "她模仿碧昂丝的才艺表演在抖音上疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "临摹者",
+        "examples": [
+          {
+            "sentence": "The museum displayed both Van Gogh's Sunflowers and its best imitator's version.",
+            "sentence_zh": "博物馆同时展出了梵高的《向日葵》和最佳临摹者的版本。"
+          },
+          {
+            "sentence": "As a student of Chinese painting, he first learned by being an imitator of Qi Baishi's shrimp works.",
+            "sentence_zh": "作为国画学生，他最初通过临摹齐白石的虾作品来学习。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "仿造者",
+        "examples": [
+          {
+            "sentence": "Police seized a group of luxury watch imitators in Guangzhou.",
+            "sentence_zh": "警方在广州查获一批豪华手表的仿造者。"
+          },
+          {
+            "sentence": "The imitation Terracotta Warriors made by skilled imitators still couldn't match the original's artistic value.",
+            "sentence_zh": "技艺高超的仿造者制作的仿制兵马俑仍无法匹敌原件的艺术价值。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "伪造者",
+        "examples": [
+          {
+            "sentence": "The bank detected the currency imitator through watermark examination.",
+            "sentence_zh": "银行通过水印检测发现了货币伪造者。"
+          },
+          {
+            "sentence": "Famous painting imitators sometimes create 'provenance' stories to deceive collectors.",
+            "sentence_zh": "名画伪造者有时会编造'流传经历'来欺骗收藏家。"
+          }
+        ]
+      }
+    ],
+    "teach": "imitator是'人类复读机'🦜：从抖音模仿达人到文物造假大师都归它管！古罗马时期就有演员专业imitator（imitari）贵族言行🎭。说'山寨货'用knockoff比fake更地道，'模仿明星'叫do an impression。记住：当imitator不可耻，可耻的是模仿特朗普发型还收费💇♂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一米个头'→一米个头的imitator模仿姚明",
+        "易混词对比：imitator（行为模仿者）vs. simulator（设备模拟器）",
+        "记忆口诀：imi（模仿）+tator（人）= 专业cosplayer"
+      ]
+    }
   }
 ]

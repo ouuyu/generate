@@ -10223,5 +10223,321 @@
         "记忆法：结尾双p就像连续两次敲击动作"
       ]
     }
+  },
+  {
+    "word": "tapping",
+    "etymology": {
+      "breakdown": [
+        "tap",
+        "ing"
+      ],
+      "meaning_connection": "词根tap=轻敲/钻孔，后缀-ing表动作结果→原指敲击行为，引申出液体抽取等衍生义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "轻敲声",
+        "examples": [
+          {
+            "sentence": "The constant tapping of rain on the window kept me awake.",
+            "sentence_zh": "雨点持续敲打窗户的声音让我无法入睡。"
+          },
+          {
+            "sentence": "He recognized her by the unique tapping rhythm of her high heels.",
+            "sentence_zh": "他通过她高跟鞋独特的敲击节奏认出了她。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "开孔",
+        "examples": [
+          {
+            "sentence": "Maple syrup production requires precise tapping of tree trunks.",
+            "sentence_zh": "枫糖浆生产需要在树干上精准开孔。"
+          },
+          {
+            "sentence": "The plumber demonstrated professional tapping techniques on the copper pipe.",
+            "sentence_zh": "水管工展示了在铜管上开孔的专业技巧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "导出液体",
+        "examples": [
+          {
+            "sentence": "Ancient beer brewing involved tapping the fermentation vat at just the right moment.",
+            "sentence_zh": "古代啤酒酿造需要在恰当时机导出发酵罐中的液体。"
+          },
+          {
+            "sentence": "The bartender's graceful tapping of the draft beer impressed everyone.",
+            "sentence_zh": "酒保导出扎啤酒液的优雅动作让众人赞叹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "分支",
+        "examples": [
+          {
+            "sentence": "The hacker used phone line tapping to intercept data.",
+            "sentence_zh": "黑客通过电话线分支拦截数据。"
+          },
+          {
+            "sentence": "Network tapping requires specialized hardware for traffic monitoring.",
+            "sentence_zh": "网络分支需要专门硬件来监测流量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "shoulder tapping",
+        "meaning": "拍肩邀请（非正式招募）",
+        "examples": [
+          {
+            "sentence": "I got this job through shoulder tapping at a tech meetup.",
+            "sentence_zh": "我是在技术聚会上被拍肩邀请获得这份工作的。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tapping into",
+        "meaning": "开发利用",
+        "examples": [
+          {
+            "sentence": "TikTok succeeds by tapping into users' creativity.",
+            "sentence_zh": "抖音通过开发利用用户的创意获得成功。"
+          }
+        ]
+      }
+    ],
+    "teach": "tapping是个万能开关🔛！轻敲声就像微信消息提醒💬（message tapping），开孔像给椰子树插吸管🥥（coconut tapping），导出液体像抽奶茶珍珠🧋（bubble tea tapping），网络分支像路由器分线器📡（Wi-Fi tapping）。要说'窃听'叫wire tapping像在电话线上开小窗🕵️♂️。记住：任何'引出'动作都可能是tapping在搞鬼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太拼'→开孔(tapping)作业太拼了",
+        "易混词对比：tap（单次轻敲） vs tapping（持续/专业动作）",
+        "联想：所有tapping动作都像在开'资源阀门'"
+      ]
+    }
+  },
+  {
+    "word": "tar",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语teoru，与德语Teer同源，原指从松木提取的粘稠物质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "焦油",
+        "examples": [
+          {
+            "sentence": "The Great Wall used sticky rice and tar as ancient mortar.",
+            "sentence_zh": "长城使用糯米和焦油作为古代粘合剂。"
+          },
+          {
+            "sentence": "Tar pits trapped prehistoric animals like natural flypaper.",
+            "sentence_zh": "焦油坑像天然粘蝇纸般困住史前动物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "水手",
+        "examples": [
+          {
+            "sentence": "Old tars tell stories about fishing near Diaoyu Islands.",
+            "sentence_zh": "老水手们讲述在钓鱼岛附近捕鱼的故事。"
+          },
+          {
+            "sentence": "A tar in Qing Dynasty navy invented the first diving suit.",
+            "sentence_zh": "清代海军一名水手发明了最早的潜水服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "涂以焦油",
+        "examples": [
+          {
+            "sentence": "They tarred the roof to prevent leaks during plum rain season.",
+            "sentence_zh": "他们给屋顶涂焦油以防梅雨季节漏水。"
+          },
+          {
+            "sentence": "The villagers tarred and feathered the thief as punishment.",
+            "sentence_zh": "村民给小偷涂焦油粘羽毛作为惩罚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "玷污",
+        "examples": [
+          {
+            "sentence": "Fake news tarred the reputation of this century-old pharmacy.",
+            "sentence_zh": "虚假新闻玷污了这家百年药店的声誉。"
+          },
+          {
+            "sentence": "The scandal tarred his image as a martial arts master.",
+            "sentence_zh": "丑闻玷污了他作为武术大师的形象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "焦油的",
+        "examples": [
+          {
+            "sentence": "Tar smell from road construction reminded her of childhood.",
+            "sentence_zh": "道路施工的焦油味道让她想起童年。"
+          },
+          {
+            "sentence": "The tar residue turned her white sneakers black.",
+            "sentence_zh": "焦油残留物把她的白球鞋染黑了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tar and feather",
+        "meaning": "严惩（原指涂焦油粘羽毛的私刑）",
+        "examples": [
+          {
+            "sentence": "Netizens want to tar and feather the food safety violator.",
+            "sentence_zh": "网友想严惩食品安全违规者。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jack tar",
+        "meaning": "水手昵称",
+        "examples": [
+          {
+            "sentence": "Jack Tars sang shanties while mending fishing nets.",
+            "sentence_zh": "水手们补渔网时唱着船歌。"
+          }
+        ]
+      }
+    ],
+    "teach": "tar是史上最忙的单词🏗️：当名词是黑乎乎的焦油（像糊锅底的火锅底料🍲），当动词能物理涂沥青（road workers tar roads）也能抽象抹黑（tabloids tar celebrities）；最搞笑是'水手'义项源自他们常接触焦油防水！用'tarred with the same brush'表示'一丘之貉'，说人黑心可以用'heart black as tar'🐦‍⬛",
+    "recite": {
+      "tips": [
+        "谐音梗：'塔啊'→雷峰塔用tar防水",
+        "易混词：tarp（防水布）比tar多字母p就像多铺了层布"
+      ]
+    }
+  },
+  {
+    "word": "tarantula",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自意大利南部城市Taranto，当地曾认为被这种蜘蛛咬伤会引发狂躁舞蹈（塔兰泰拉舞）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "鸟蛛",
+        "examples": [
+          {
+            "sentence": "The pet tarantula escaped and caused chaos in the dormitory.",
+            "sentence_zh": "宠物鸟蛛逃出笼子，在宿舍引发骚乱。"
+          },
+          {
+            "sentence": "His tarantula collection includes 50 species with rainbow colors.",
+            "sentence_zh": "他的鸟蛛收藏包含50种彩虹颜色的品种。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "狼蛛",
+        "examples": [
+          {
+            "sentence": "Australian wolf spiders are often mistaken for tarantulas.",
+            "sentence_zh": "澳大利亚狼蛛常被误认为狼蛛。"
+          },
+          {
+            "sentence": "The documentary showed a tarantula hunting scorpions at night.",
+            "sentence_zh": "纪录片展示了狼蛛夜间捕猎蝎子的场景。"
+          }
+        ]
+      }
+    ],
+    "teach": "tarantula其实是中世纪'舞蹈瘟疫'的背锅侠🕷️：当时意大利人认为被它咬伤要跳塔兰泰拉舞💃才能解毒！现代梗是《哈利波特》里罗恩的恐怖宠物Aragog。养狼蛛的人叫tarantula keeper（像养毛茸茸的八腿猫🐈⬛），怕蜘蛛却说'I have arachnophobia'（蜘蛛恐惧症）。记住：它虽然吓人但毒性还不如蜜蜂🐝！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太乱涂啦'→狼蛛在墙上乱爬像涂鸦",
+        "易混词：scorpion（蝎子）有尾巴，tarantula没有"
+      ]
+    }
+  },
+  {
+    "word": "tardiness",
+    "etymology": {
+      "breakdown": [
+        "tard",
+        "i",
+        "ness"
+      ],
+      "meaning_connection": "词根tard=慢（法语tardif），-ness表名词性质→像树懒🦥移动的速度"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "缓慢",
+        "examples": [
+          {
+            "sentence": "The tardiness of this sloth makes watching paint dry seem exciting.",
+            "sentence_zh": "这只树懒的缓慢动作让看油漆变干都显得刺激。"
+          },
+          {
+            "sentence": "His tardiness in replying texts is legendary – archaeologists could excavate his messages.",
+            "sentence_zh": "他回微信的缓慢程度堪称传奇——考古学家都能发掘他未回的短信。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "迟到",
+        "examples": [
+          {
+            "sentence": "Her chronic tardiness to meetings inspired a new office term: 'Beijing time +30min'.",
+            "sentence_zh": "她长期的会议迟到催生了新办公室术语：'北京时间+30分钟'。"
+          },
+          {
+            "sentence": "The professor's tolerance for tardiness vanished when students arrived after his vintage teapot collection presentation.",
+            "sentence_zh": "当学生在古董茶具展示环节迟到时，教授对迟到的容忍瞬间消失。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "habitual tardiness",
+        "meaning": "习惯性迟到",
+        "examples": [
+          {
+            "sentence": "His habitual tardiness made him the perfect test subject for the company's new 'latecomer detention chair'.",
+            "sentence_zh": "他的习惯性迟到使他成为公司新款'迟到者留置椅'的完美测试对象。"
+          }
+        ]
+      }
+    ],
+    "teach": "tardiness其实是社畜の痛😩！古罗马用'拖堂教授'（Tardus Maximus）嘲笑动作慢的人🐢。说'慢性子'可用human sloth（人形树懒），'拖延症'叫procrastination就像追着deadline跑的表情包💨。记住：地铁早高峰时的tardiness会导致连环白眼攻击🙄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'他的腻死'→他的迟到腻死人了",
+        "易混词：lateness仅指时间晚，tardiness强调恼人的拖延感",
+        "记忆tip：TARDIS（神秘博士电话亭）虽慢但能穿越时空，你的tardiness只能穿越老板的怒火"
+      ]
+    }
   }
 ]

@@ -9814,5 +9814,329 @@
         "记忆tip：把字母e想象成倾倒的毒药瓶"
       ]
     }
+  },
+  {
+    "word": "bang",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词起源，模仿突然的撞击声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "重击",
+        "examples": [
+          {
+            "sentence": "The door shut with a bang that woke the whole dormitory.",
+            "sentence_zh": "门砰地一声关上，吵醒了整个宿舍楼。"
+          },
+          {
+            "sentence": "He gave the malfunctioning vending machine a furious bang.",
+            "sentence_zh": "他愤怒地猛捶了一拳出故障的自动贩卖机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "突然巨响",
+        "examples": [
+          {
+            "sentence": "Fireworks exploded with deafening bangs during Lunar New Year.",
+            "sentence_zh": "春节的烟花发出震耳欲聋的爆响声。"
+          },
+          {
+            "sentence": "The balloon burst with a tiny bang that scared the cat.",
+            "sentence_zh": "气球发出吓到猫咪的轻微爆裂声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "刘海",
+        "examples": [
+          {
+            "sentence": "Her straight-across bang perfectly frames her forehead.",
+            "sentence_zh": "她齐平的刘海完美修饰了前额。"
+          },
+          {
+            "sentence": "Many K-pop idols sport see-through bangs as a trendy hairstyle.",
+            "sentence_zh": "许多韩流偶像留着若隐若现的刘海作为潮流发型。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "发巨响",
+        "examples": [
+          {
+            "sentence": "Pots and pans banged loudly in the canteen kitchen.",
+            "sentence_zh": "食堂后厨的锅碗瓢盆哐当作响。"
+          },
+          {
+            "sentence": "Thunder banged overhead as the storm approached.",
+            "sentence_zh": "暴风雨来临时雷声在头顶炸响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "重击",
+        "examples": [
+          {
+            "sentence": "He banged his fist on the table to emphasize his point.",
+            "sentence_zh": "他拳头重重捶桌以强调观点。"
+          },
+          {
+            "sentence": "The toddler keeps banging toys against the floor.",
+            "sentence_zh": "幼童不停把玩具往地上猛敲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "砰然地",
+        "examples": [
+          {
+            "sentence": "The textbook fell bang onto my foot.",
+            "sentence_zh": "教科书砰地砸在我脚上。"
+          },
+          {
+            "sentence": "She shut the dictionary bang in the middle of his speech.",
+            "sentence_zh": "他在发言时她砰地合上了词典。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "直接地",
+        "examples": [
+          {
+            "sentence": "Walk bang straight to find the hidden milk tea shop.",
+            "sentence_zh": "径直往前走就能找到那家隐藏奶茶店。"
+          },
+          {
+            "sentence": "The rocket went bang up into the sky.",
+            "sentence_zh": "火箭笔直冲上云霄。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bang on",
+        "meaning": "完全正确",
+        "examples": [
+          {
+            "sentence": "Your analysis of the meme trend is bang on.",
+            "sentence_zh": "你对这个表情包趋势的分析完全正确。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go over with a bang",
+        "meaning": "大获成功",
+        "examples": [
+          {
+            "sentence": "The livestream shopping event went over with a bang.",
+            "sentence_zh": "这场直播带货活动大获成功。"
+          }
+        ]
+      }
+    ],
+    "teach": "bang是英语里的'Duang'特效💥！作为名词时像《猫和老鼠》里的平底锅砸头👊（got a bang on the head）；作动词时像春节摔炮在地上炸响🧨（banged the firecracker）；作刘海义时像抖音里的'空气刘海挑战'💇；作副词时像美团骑手精准送达🍔（arrived bang on time）。说'完全正确'可以用bang on，就像射击十环🎯！",
+    "recite": {
+      "tips": [
+        "谐音梗：'梆！'→模拟撞击声",
+        "易混词：bang vs. bangs（前者多指声音，后者专指刘海）",
+        "记忆tip：所有含义都围绕'突然/直接'的核心概念"
+      ]
+    }
+  },
+  {
+    "word": "banger",
+    "etymology": {
+      "breakdown": [
+        "bang",
+        "er"
+      ],
+      "meaning_connection": "bang表示'砰的声响'，-er表'人或物'→泛指能发出巨响的人/物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "敲打的人",
+        "examples": [
+          {
+            "sentence": "The banger in the construction site wakes me up at 6am daily.",
+            "sentence_zh": "工地上的敲打工人每天六点准时吵醒我。"
+          },
+          {
+            "sentence": "That metal banger is actually a performance artist.",
+            "sentence_zh": "那个敲打金属的人其实是位行为艺术家。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "砰然作响的东西",
+        "examples": [
+          {
+            "sentence": "My old printer works like a banger when processing thick paper.",
+            "sentence_zh": "我的旧打印机处理厚纸时像放炮一样响。"
+          },
+          {
+            "sentence": "The door slammed shut with the force of a banger.",
+            "sentence_zh": "门关上的声音像鞭炮一样响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "香肠",
+        "examples": [
+          {
+            "sentence": "British bangers and mash is essentially sausages with potato puree.",
+            "sentence_zh": "英式香肠配土豆泥本质就是香肠怼土豆。"
+          },
+          {
+            "sentence": "These vegan bangers taste suspiciously like the real thing.",
+            "sentence_zh": "这些素香肠尝起来可疑地像真肉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "鞭炮",
+        "examples": [
+          {
+            "sentence": "Kids were throwing bangers into the pond to scare fish.",
+            "sentence_zh": "孩子们往池塘里扔鞭炮吓鱼。"
+          },
+          {
+            "sentence": "The banger left a burn mark on my new jacket.",
+            "sentence_zh": "鞭炮在我的新外套上留了个焦痕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "旧汽车",
+        "examples": [
+          {
+            "sentence": "My first car was a banger that cost less than a iPhone.",
+            "sentence_zh": "我的第一辆车是台比iPhone还便宜的破车。"
+          },
+          {
+            "sentence": "That banger finally died on the way to Mount Tai.",
+            "sentence_zh": "那辆破车终于在去泰山的路上报废了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "banger of a...",
+        "meaning": "极好的...（反语用法）",
+        "examples": [
+          {
+            "sentence": "This is a banger of a Monday with 3 meetings before lunch.",
+            "sentence_zh": "这周一'真棒'，午饭前要开三个会。"
+          }
+        ]
+      }
+    ],
+    "teach": "banger是英国最魔幻的单词💥！既能指香肠🌭（因为煎炸时会bang响），又能指破车🚗（开起来像放鞭炮）。英国人说'absolute banger'可能夸神曲🎵或骂烂车🗑️。要吐槽'这破电脑'：This laptop's a proper banger! 搭配记忆：bangers and mash（香肠土豆泥）🚜 + bang for the buck（物超所值）💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'崩哥'→专门制造巨响的哥",
+        "易混词：burger（汉堡）vs banger（香肠）"
+      ]
+    }
+  },
+  {
+    "word": "banging",
+    "etymology": {
+      "breakdown": [
+        "bang",
+        "ing"
+      ],
+      "meaning_connection": "动词bang（猛击）+后缀-ing表动作结果→消音器内发生的爆炸动作结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "消音器内爆炸",
+        "examples": [
+          {
+            "sentence": "The mechanic warned me about potential banging in old mufflers.",
+            "sentence_zh": "机修工提醒我老旧消音器可能出现内部爆炸。"
+          },
+          {
+            "sentence": "That banging sound in your exhaust pipe? Definitely not a good drum solo.",
+            "sentence_zh": "排气管里的爆炸声？肯定不是即兴架子鼓表演。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "banging是消音器的'放屁声'💥！就像你憋了个巨响的喷嚏🤧（muffled explosion），专业术语叫backfire（回火）。改装车迷说'消音器炸了'叫blow a muffler💨，'突突声'用popping形容更准确。记住：突突声≈放屁，爆炸声≈窜稀！🤯",
+    "recite": {
+      "tips": [
+        "谐音梗：'崩哽'→消音器崩得哽咽了",
+        "易混词：banging(爆炸声)/clanking(金属撞击声)",
+        "联想记忆：消音器像吃坏肚子的肠道"
+      ]
+    }
+  },
+  {
+    "word": "Bangladeshi",
+    "etymology": {
+      "breakdown": [
+        "Bangladesh",
+        "i"
+      ],
+      "meaning_connection": "国名Bangladesh（孟加拉国）+后缀-i（表'...的/人'）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "孟加拉国人",
+        "examples": [
+          {
+            "sentence": "The Bangladeshis won their independence in 1971 after a nine-month war.",
+            "sentence_zh": "孟加拉国人经过九个月战争在1971年赢得独立。"
+          },
+          {
+            "sentence": "Many Bangladeshis work in the Middle East as migrant workers.",
+            "sentence_zh": "许多孟加拉国人作为劳务工在中东工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "孟加拉国的",
+        "examples": [
+          {
+            "sentence": "Bangladeshi taka is among the most colorful banknotes in the world.",
+            "sentence_zh": "孟加拉国塔卡是全球设计最缤纷的货币之一。"
+          },
+          {
+            "sentence": "The Bangladeshi cricket team defeated Australia in 2023.",
+            "sentence_zh": "孟加拉国板球队在2023年击败了澳大利亚队。"
+          }
+        ]
+      }
+    ],
+    "teach": "孟加拉国人就像'世界裁缝'👕：全球80%快时尚服装出自他们之手！记住Bangladeshi=国家名+字母i（就像Pakistani/pakistani）。说'孟加拉湾'用Bay of Bengal🌊，当地特色叫'孟加拉虎'是Royal Bengal Tiger🐅。搭配：Bangladeshi cuisine（超辣咖喱）、Bangladeshi diaspora（海外孟侨）。地道吐槽：'忙得像达卡三轮车'（as busy as Dhaka rickshaws）🚲💨",
+    "recite": {
+      "tips": [
+        "谐音梗：'帮哥拉弟洗'→帮孟加拉兄弟洗莎丽（传统服饰）",
+        "对比记忆：Bangladeshi（人/形容词） vs Bengal（地区名）",
+        "字母密码：'BGD'是孟加拉国车牌代号"
+      ]
+    }
   }
 ]

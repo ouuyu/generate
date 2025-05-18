@@ -10187,5 +10187,331 @@
         "记忆法：nefarious=哪吒（Ne Zha）+furious（愤怒的）→闹海小魔童"
       ]
     }
+  },
+  {
+    "word": "negate",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "ate"
+      ],
+      "meaning_connection": "词根neg=否定（同源词negative），-ate为动词后缀→字面意义'使否定'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "否定",
+        "examples": [
+          {
+            "sentence": "The spokesperson negated rumors about company bankruptcy with TikTok-style humor.",
+            "sentence_zh": "发言人用抖音式幽默否定了公司破产的传言。"
+          },
+          {
+            "sentence": "Her raised eyebrow silently negated his ridiculous proposal.",
+            "sentence_zh": "她挑起的眉毛无声否定了他的荒谬提议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "否认",
+        "examples": [
+          {
+            "sentence": "The celebrity livestreamed to negate plastic surgery allegations while eating hotpot.",
+            "sentence_zh": "该明星边吃火锅边直播否认整容指控。"
+          },
+          {
+            "sentence": "No amount of evidence could negate his WeChat chat history.",
+            "sentence_zh": "再多证据也无法否认他的微信聊天记录。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "取消",
+        "examples": [
+          {
+            "sentence": "The new policy negated all VIP membership privileges overnight.",
+            "sentence_zh": "新政策一夜之间取消了所有VIP会员特权。"
+          },
+          {
+            "sentence": "A single typo negated three hours' worth of online shopping coupons.",
+            "sentence_zh": "一个错别字取消了价值三小时的网购优惠券。"
+          }
+        ]
+      }
+    ],
+    "teach": "negate是'怼怼侠'💢！词根neg就是'不'的祖安版——当你说'这不是钱的问题'时(negate the money issue)💰，当明星否认绯闻时(negate rumors)📢，当系统取消你的订单时(negate orders)🛒。搭配'negate the effect'像拆东墙补西墙🧱，'negate oneself'堪比社交时的'当我没说'🙊。记住：negate就像手机撤回键，但会留下'对方已否认'的痕迹📱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个特'→那个特(negate)爱否认",
+        "易混词：negative（adj.消极的）vs negate（v.否定）",
+        "记忆tip：把negate拆成'no gate'→没有门→全盘否定"
+      ]
+    }
+  },
+  {
+    "word": "negation",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "ation"
+      ],
+      "meaning_connection": "词根neg=否认/拒绝，后缀-ation表名词→'否认的行为或结果'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "否定",
+        "examples": [
+          {
+            "sentence": "Shaking head is a universal gesture of negation.",
+            "sentence_zh": "摇头是表达否定的全球通用动作。"
+          },
+          {
+            "sentence": "His essay contained three clear negations of the theory.",
+            "sentence_zh": "他的论文包含了对该理论的三处明确否定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "反面",
+        "examples": [
+          {
+            "sentence": "The villain represents the negation of all heroic values.",
+            "sentence_zh": "这个反派角色代表了所有英雄价值观的反面。"
+          },
+          {
+            "sentence": "In photography, the negation of light creates dramatic shadows.",
+            "sentence_zh": "在摄影中，光的反面能制造出戏剧性的阴影。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不存在",
+        "examples": [
+          {
+            "sentence": "The negation of evidence doesn't equal proof of innocence.",
+            "sentence_zh": "证据的不存在不等于无罪的证明。"
+          },
+          {
+            "sentence": "Buddhism teaches that negation of desire leads to enlightenment.",
+            "sentence_zh": "佛教教导欲望的不存在能通向觉悟。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in negation of",
+        "meaning": "对...的否定",
+        "examples": [
+          {
+            "sentence": "The protest was held in negation of the new policy.",
+            "sentence_zh": "这次抗议活动是对新政策的否定。"
+          }
+        ]
+      }
+    ],
+    "teach": "negation就像语言界的'灭霸'🖐️！它能把任何事物变成相反面：'是'变'否'⚡（logical negation），'有'变'无'🕳️（negation of existence）。搭配用'in negation of'就像举起反对牌🚫，说'完全不同意'可以甩出'utter negation'这个王炸💥。记住：否定之神neg-开头的还有negative和neglect哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个神'→那个神(negation)专管否定",
+        "易混词对比：denial（主观否认） vs negation（客观否定）",
+        "记忆tip：neg-开头三兄弟：negative（负面）neglect（忽视）negation（否定）"
+      ]
+    }
+  },
+  {
+    "word": "negative",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "ative"
+      ],
+      "meaning_connection": "词根neg=否定，-ative为形容词后缀，原指'拒绝的行为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "否定语",
+        "examples": [
+          {
+            "sentence": "Her response was a firm negative wrapped in polite words.",
+            "sentence_zh": "她的回应是包裹着礼貌用语的坚定否定。"
+          },
+          {
+            "sentence": "The politician's speech contained more negatives than solutions.",
+            "sentence_zh": "这位政客的演讲中否定词比解决方案还多。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "底片",
+        "examples": [
+          {
+            "sentence": "Grandma keeps negatives of all family photos in an iron box.",
+            "sentence_zh": "奶奶把所有家庭照片的底片保存在铁盒里。"
+          },
+          {
+            "sentence": "The museum displays the original negative of this historic moment.",
+            "sentence_zh": "博物馆展出了这一历史时刻的原版底片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "负数",
+        "examples": [
+          {
+            "sentence": "Temperatures in Mohe often hit double-digit negatives.",
+            "sentence_zh": "漠河气温经常达到两位数负数。"
+          },
+          {
+            "sentence": "The financial report showed a shocking negative this quarter.",
+            "sentence_zh": "财报显示本季度出现惊人负数。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "否定的",
+        "examples": [
+          {
+            "sentence": "She gave a negative shake to the marriage proposal.",
+            "sentence_zh": "她对求婚给出了否定摇头。"
+          },
+          {
+            "sentence": "The teacher's negative feedback crushed his confidence.",
+            "sentence_zh": "老师的否定评价击碎了他的信心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "消极的",
+        "examples": [
+          {
+            "sentence": "His negative attitude is affecting the whole team.",
+            "sentence_zh": "他的消极态度正在影响整个团队。"
+          },
+          {
+            "sentence": "Don't let negative comments ruin your dumpling-making mood.",
+            "sentence_zh": "别让消极评论破坏你包饺子的心情。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "阴性的",
+        "examples": [
+          {
+            "sentence": "The nucleic acid test came back negative after quarantine.",
+            "sentence_zh": "隔离后核酸检测呈阴性。"
+          },
+          {
+            "sentence": "All crew members tested negative before boarding.",
+            "sentence_zh": "全体机组人员登机前检测为阴性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in the negative",
+        "meaning": "否定地",
+        "examples": [
+          {
+            "sentence": "The committee voted in the negative on the hotpot funding proposal.",
+            "sentence_zh": "委员会对火锅资金提案投了反对票。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "negative equity",
+        "meaning": "负资产",
+        "examples": [
+          {
+            "sentence": "Many homeowners fell into negative equity during the crisis.",
+            "sentence_zh": "危机期间许多房主陷入负资产状态。"
+          }
+        ]
+      }
+    ],
+    "teach": "negative是个矛盾体🤯！数学上它是-1➖，摄影里却是成像起点📸（底片），疫情中阴性报告能让人欢呼🏥。说人'太negative'指总唱反调🎤，核酸检测negative却是好消息😷。搭配：negative energy（负能量）/ negative space（留白）。地道说法：'别那么down in the dumps'（别垂头丧气）",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个TV'→那个TV总播负面新闻",
+        "易混词：negative vs. passive（被动≠消极）",
+        "记忆法：底片（负片）→数学负数→态度消极，都是'反向存在'"
+      ]
+    }
+  },
+  {
+    "word": "negatively",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "ative",
+        "ly"
+      ],
+      "meaning_connection": "词根neg=否定（来自拉丁语negare），-ative为形容词后缀，-ly构成副词→'以否定方式'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "否定地",
+        "examples": [
+          {
+            "sentence": "The teacher shook her head negatively when I asked if I could submit the homework after the holiday.",
+            "sentence_zh": "当我询问假期后能否补交作业时，老师否定地摇了摇头。"
+          },
+          {
+            "sentence": "The test strip reacted negatively, confirming the absence of COVID-19.",
+            "sentence_zh": "检测条呈阴性反应，确认未感染新冠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "消极地",
+        "examples": [
+          {
+            "sentence": "Commenting negatively on social media affects mental health more than people realize.",
+            "sentence_zh": "在社交媒体上发表消极评论对心理健康的影响超乎人们想象。"
+          },
+          {
+            "sentence": "The stock market responded negatively to the new regulations.",
+            "sentence_zh": "股市对新规作出消极反应。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "negatively charged",
+        "meaning": "带负电的",
+        "examples": [
+          {
+            "sentence": "The balloon became negatively charged after rubbing it against wool.",
+            "sentence_zh": "用羊毛摩擦后气球带上了负电。"
+          }
+        ]
+      }
+    ],
+    "teach": "negatively是负面情绪界的emoji☹️！它的词根neg就像拒绝三连手势🙅（古罗马法庭用negare表示否决）。搭配'影响'说impact negatively就像往奶茶里挤柠檬汁🍋（变酸），而charged negatively则是物理老师的闪电梗⚡。记住：老板说'Not bad'时如果挑眉就是negatively哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个题我乐'→那个题我乐(negative-ly)观不起来",
+        "易混词对比：negatively（态度消极）vs. passively（行为被动）"
+      ]
+    }
   }
 ]

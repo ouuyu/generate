@@ -10016,5 +10016,345 @@
         "易混词：academic（adj.）vs academy（n.）"
       ]
     }
+  },
+  {
+    "word": "academician",
+    "etymology": {
+      "breakdown": [
+        "academy",
+        "ian"
+      ],
+      "meaning_connection": "源自柏拉图创办的雅典学园(Academy)，-ian表示'属于...的人'→原指学园成员，后演变为学术头衔"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "学会会员",
+        "examples": [
+          {
+            "sentence": "As an academician of the Royal Society, he has access to rare manuscripts.",
+            "sentence_zh": "作为皇家学会会员，他能接触到珍贵手稿。"
+          },
+          {
+            "sentence": "The youngest academician in the history of the institute is only 32.",
+            "sentence_zh": "该研究所史上最年轻的学会会员年仅32岁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "院士",
+        "examples": [
+          {
+            "sentence": "Chinese academicians receive a special stipend from the government.",
+            "sentence_zh": "中国院士享受政府特殊津贴。"
+          },
+          {
+            "sentence": "The submarine was designed under the guidance of five academicians.",
+            "sentence_zh": "这艘潜艇由五位院士指导设计。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "学究",
+        "examples": [
+          {
+            "sentence": "The old academician still uses a abacus for calculations.",
+            "sentence_zh": "这位老学究仍用算盘计算。"
+          },
+          {
+            "sentence": "Don't be such an academician, emojis won't ruin the Chinese language!",
+            "sentence_zh": "别这么学究，表情包不会毁掉汉语！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大学生",
+        "examples": [
+          {
+            "sentence": "Oxford academicians wear distinctive gowns during examinations.",
+            "sentence_zh": "牛津大学生在考试时会穿特殊长袍。"
+          },
+          {
+            "sentence": "The academicians' protest against tuition hikes went viral.",
+            "sentence_zh": "大学生反对学费上涨的抗议活动引发热议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "学者",
+        "examples": [
+          {
+            "sentence": "This academician has published 30 papers about dumpling culture.",
+            "sentence_zh": "这位学者已发表30篇关于饺子文化的论文。"
+          },
+          {
+            "sentence": "The academician's lecture made quantum physics sound like TikTok trends.",
+            "sentence_zh": "这位学者的讲座让量子物理听起来像抖音热梗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "academician of",
+        "meaning": "...的院士/会员",
+        "examples": [
+          {
+            "sentence": "She became an academician of the Chinese Academy of Sciences at 45.",
+            "sentence_zh": "她45岁成为中国科学院院士。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "academician's robe",
+        "meaning": "院士服",
+        "examples": [
+          {
+            "sentence": "The golden tassel on his academician's robe symbolizes supreme honor.",
+            "sentence_zh": "他院士服上的金色流苏象征至高荣誉。"
+          }
+        ]
+      }
+    ],
+    "teach": "academician是学术界的爱马仕👜！最初来自柏拉图开补习班的地方（雅典学园），现在指两院院士👨‍🎓。要说'书呆子'可叫pedant（比academician更贬义），'学术新星'用rising scholar✨。记住：穿院士服(academician's robe)比穿Supreme更拉风！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱开没戏院'→爱开学术会议(没戏院)的院士",
+        "易混词：academic(学术的) / academy(学院)",
+        "记忆法：把-ian后缀想象成博士帽🎓"
+      ]
+    }
+  },
+  {
+    "word": "academy",
+    "etymology": {
+      "breakdown": [
+        "academ",
+        "y"
+      ],
+      "meaning_connection": "源自希腊语Akadēmeia（柏拉图讲学的橄榄园名），后缀-y表场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "（高等）学院",
+        "examples": [
+          {
+            "sentence": "The Beijing Film Academy has produced many famous directors.",
+            "sentence_zh": "北京电影学院培养出众多著名导演。"
+          },
+          {
+            "sentence": "She received her PhD from the Academy of Fine Arts Vienna.",
+            "sentence_zh": "她获得维也纳美术学院的博士学位。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "专科院校",
+        "examples": [
+          {
+            "sentence": "The naval academy trains future aircraft carrier captains.",
+            "sentence_zh": "这所海军院校培养未来的航母舰长。"
+          },
+          {
+            "sentence": "Police academies now include WeChat fraud prevention courses.",
+            "sentence_zh": "如今的警察专科院校开设微信反诈课程。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "学会/研究院",
+        "examples": [
+          {
+            "sentence": "The Chinese Academy of Sciences launched a moon rover project.",
+            "sentence_zh": "中国科学院启动了月球车项目。"
+          },
+          {
+            "sentence": "He was elected to the Royal Academy of Engineering.",
+            "sentence_zh": "他入选英国皇家工程院。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "academy award",
+        "meaning": "奥斯卡奖",
+        "examples": [
+          {
+            "sentence": "Crouching Tiger, Hidden Dragon won 4 Academy Awards.",
+            "sentence_zh": "《卧虎藏龙》获得四项奥斯卡奖。"
+          }
+        ]
+      }
+    ],
+    "teach": "academy其实是'阿卡德米'橄榄园🏛️：柏拉图在雅典城外种橄榄树教学，如今变成你考研的学校📚。'野鸡大学'叫diploma mill（文凭工厂），'学霸'用academic weapon（学术武器）更潮！记住：真正的academy要像袁隆平院士那样把论文写在大地上🌾",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱开得米'→学院爱开（academy）学分",
+        "易混词：college（大学下属学院）vs academy（独立专业院校）"
+      ]
+    }
+  },
+  {
+    "word": "accede",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "ced",
+        "e"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根ced表示'走'，-e为动词后缀→原义'走向某处'，引申为'同意加入'和'继任'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "同意",
+        "examples": [
+          {
+            "sentence": "After three hours of hotpot negotiation, the CEO finally acceded to the employees' request.",
+            "sentence_zh": "经过三小时火锅谈判，CEO终于同意员工请求。"
+          },
+          {
+            "sentence": "The panda conservation center acceded to netizens' demand for live-streaming.",
+            "sentence_zh": "熊猫基地同意网友们的直播要求。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "正式加入",
+        "examples": [
+          {
+            "sentence": "China acceded to the World Trade Organization in 2001 with dragon-style fireworks.",
+            "sentence_zh": "中国在2001年以龙形烟花秀正式加入世贸组织。"
+          },
+          {
+            "sentence": "The tech giant acceded to the open-source alliance last week.",
+            "sentence_zh": "该科技巨头上周正式加入开源联盟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "就任",
+        "examples": [
+          {
+            "sentence": "The new dean acceded to the throne... I mean, office with a viral TikTok speech.",
+            "sentence_zh": "新院长以一段爆红的抖音演讲就任。"
+          },
+          {
+            "sentence": "When the queen acceded to the throne in 1952, instant noodles hadn't been invented yet.",
+            "sentence_zh": "女王1952年登基时，方便面还没被发明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "继任",
+        "examples": [
+          {
+            "sentence": "The AI robot will accede to the position of chief editor after Old Wang retires.",
+            "sentence_zh": "老王退休后，AI机器人将继任主编职位。"
+          },
+          {
+            "sentence": "In ancient China, the youngest son often acceded to the family's spice business.",
+            "sentence_zh": "在古代中国，幼子常继任家族香料生意。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accede to",
+        "meaning": "同意/加入",
+        "examples": [
+          {
+            "sentence": "Baidu Maps acceded to adding spicy hotpot restaurants filter.",
+            "sentence_zh": "百度地图同意增加麻辣火锅店筛选功能。"
+          }
+        ]
+      }
+    ],
+    "teach": "accede是'走上去'的贵族版👑：当国王'走'上王位(accede to the throne)，就像坐上共享单车🚲突然变成龙椅；'同意'时像被迫接过老妈递的秋裤👖(accede to requests)；'加入WTO'像跳上全球化的电动滑板车🛴。记住：所有含义都带'被迫营业'的微妙感！说'勉强同意'可用grudgingly accede，继任时记得说'accede to office'别用错throne哦～",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿死的'→饿死的(accede)乞丐终于同意吃饭",
+        "易混词：access是进入，accede是同意进入",
+        "记忆法：A+CC(催催)+EDE(议定)→同意催出来的决议"
+      ]
+    }
+  },
+  {
+    "word": "accelerate",
+    "etymology": {
+      "breakdown": [
+        "ad",
+        "celer",
+        "ate"
+      ],
+      "meaning_connection": "前缀ad-表示'朝向'，词根celer表示'速度'，-ate为动词后缀→朝速度方向运动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "加速",
+        "examples": [
+          {
+            "sentence": "Tesla's ludicrous mode can accelerate from 0 to 100km/h in 2.1 seconds.",
+            "sentence_zh": "特斯拉狂暴模式可在2.1秒内从0加速到100公里/小时。"
+          },
+          {
+            "sentence": "The DJ accelerated the beat until everyone started jumping.",
+            "sentence_zh": "DJ加快节奏直到所有人都开始蹦跳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "促进",
+        "examples": [
+          {
+            "sentence": "TikTok's algorithm accelerates the spread of memes globally.",
+            "sentence_zh": "抖音算法促进表情包在全球传播。"
+          },
+          {
+            "sentence": "The new policy accelerates the development of AI industry.",
+            "sentence_zh": "新政策促进人工智能产业发展。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accelerate growth",
+        "meaning": "加速增长",
+        "examples": [
+          {
+            "sentence": "Bubble tea shops use social media to accelerate brand growth.",
+            "sentence_zh": "奶茶店用社交媒体加速品牌增长。"
+          }
+        ]
+      }
+    ],
+    "teach": "accelerate像踩油门🚗：物理加速如高铁提速（bullet train accelerates），抽象促进如直播间点赞暴涨（gifts accelerate）🎁。说'开挂加速'可用hit the gas pedal，'飞速发展'说grow at warp speed🛸。记住：你的学习进度也该accelerate啦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞了轮胎'→加速前先塞轮胎",
+        "易混词对比：accelerate（主动加速）vs. speed up（普通加快）",
+        "联想：celer→Celebrity（明星）需要加速成名"
+      ]
+    }
   }
 ]

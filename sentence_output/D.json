@@ -9625,5 +9625,312 @@
         "记忆tip：DEAF+EN=把聋(DEAF)的状态'摁'(EN)进去"
       ]
     }
+  },
+  {
+    "word": "deafening",
+    "etymology": {
+      "breakdown": [
+        "deafen",
+        "ing"
+      ],
+      "meaning_connection": "动词deafen（使聋）+-ing→形容噪音大到让人暂时失聪的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "震耳欲聋的",
+        "examples": [
+          {
+            "sentence": "The deafening roar of rocket launches can be heard miles away.",
+            "sentence_zh": "火箭发射时震耳欲聋的轰鸣声几英里外都听得见。"
+          },
+          {
+            "sentence": "Square dancing aunties create deafening noise with their speakers.",
+            "sentence_zh": "广场舞大妈的音响制造出震耳欲聋的噪音。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deafening silence",
+        "meaning": "反常的寂静（强调对比）",
+        "examples": [
+          {
+            "sentence": "After the scandal broke, there was a deafening silence from the celebrity.",
+            "sentence_zh": "丑闻爆发后，该明星反常地保持沉默。"
+          }
+        ]
+      }
+    ],
+    "teach": "deafening是噪音界的灭霸👂💥！想象你站在《中国好声音》评委转椅背后喊'选我选我'🎤，或者凌晨三点听邻居装修电钻声🔧——这种能让耳朵罢工的动静就叫deafening。搭配'震楼神器'说ear-splitting noise，吐槽噪音用'我的耳朵要怀孕了'(My ears are begging for mercy)🤯，记住：超过80分贝的声音都配得上这词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'大夫宁'→噪音大得大夫让你吃安眠药",
+        "易混词对比：loud（普通大声）vs deafening（伤害性巨响）",
+        "场景记忆：KTV里唱《青藏高原》破音现场"
+      ]
+    }
+  },
+  {
+    "word": "deafeningly",
+    "etymology": {
+      "breakdown": [
+        "deafen",
+        "ing",
+        "ly"
+      ],
+      "meaning_connection": "动词deafen（使聋）+-ing（构成形容词）+ -ly（构成副词）→ 字面意思是'以使人耳聋的方式'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "震耳欲聋地",
+        "examples": [
+          {
+            "sentence": "The fireworks exploded deafeningly above the Forbidden City.",
+            "sentence_zh": "烟花在紫禁城上空震耳欲聋地炸响。"
+          },
+          {
+            "sentence": "He sneezed deafeningly during the silent meditation session.",
+            "sentence_zh": "他在静坐冥想时打了个震耳欲聋的喷嚏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非常吵闹地",
+        "examples": [
+          {
+            "sentence": "The kindergarteners laughed deafeningly at the panda video.",
+            "sentence_zh": "幼儿园小朋友们看着熊猫视频笑得非常吵闹。"
+          },
+          {
+            "sentence": "The mahjong tiles clattered deafeningly at 3 a.m.",
+            "sentence_zh": "凌晨三点麻将牌哗啦哗啦响得非常吵闹。"
+          }
+        ]
+      }
+    ],
+    "teach": "deafeningly是'聋式音量'🎧💥！想象广场舞大妈们把音响调到最大声就是deafeningly loud（聋式响度）。要说'吵死了'可以吼：'My neighbors are being deafeningly social at midnight!'🌃🐉 搭配：deafeningly silent（反常的寂静，比如考试时全班突然安静）和deafeningly obvious（明显到炸，就像春晚的广告植入）",
+    "recite": {
+      "tips": [
+        "谐音梗：'大夫宁离'→大夫宁可离开(deafeningly)因为太吵",
+        "对比记忆：loudly是正常音量，deafeningly是音量犯罪"
+      ]
+    }
+  },
+  {
+    "word": "deafness",
+    "etymology": {
+      "breakdown": [
+        "deaf",
+        "ness"
+      ],
+      "meaning_connection": "形容词deaf（聋的）+名词后缀-ness表状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "耳聋",
+        "examples": [
+          {
+            "sentence": "The musician's deafness didn't stop him from composing masterpieces.",
+            "sentence_zh": "这位音乐家的耳聋并未阻止他创作杰作。"
+          },
+          {
+            "sentence": "Noise-induced deafness is common among factory workers.",
+            "sentence_zh": "噪音性耳聋在工厂工人中很常见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "充耳不闻",
+        "examples": [
+          {
+            "sentence": "His deafness to complaints caused the customer to leave angrily.",
+            "sentence_zh": "他对投诉充耳不闻导致顾客愤然离去。"
+          },
+          {
+            "sentence": "Political deafness to public opinion often leads to protests.",
+            "sentence_zh": "对民意的政治性漠视常引发抗议活动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "selective deafness",
+        "meaning": "选择性失聪（假装听不见）",
+        "examples": [
+          {
+            "sentence": "Teenagers often develop selective deafness when parents ask them to clean their rooms.",
+            "sentence_zh": "当父母要求整理房间时，青少年常会突发'选择性耳聋'。"
+          }
+        ]
+      }
+    ],
+    "teach": "deafness是'耳朵罢工'👂❌：物理耳聋像坏掉的AirPods，心理性耳聋像开启'家长语音过滤模式'🙉。搭配'suffer from deafness'比直接说更地道，吐槽'装聋作哑'可以说turn a deaf ear🐘。记住：真正的deafness是当女朋友说'我没事'时，你真当没事！",
+    "recite": {
+      "tips": [
+        "谐音梗：'大夫呢？'→耳聋患者找大夫",
+        "易混词对比：deafen（动词）使聋 vs deafness（名词状态）"
+      ]
+    }
+  },
+  {
+    "word": "deal",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'dǣlan'表示'分配'，与德语'theilen'同源，核心概念始终围绕'分配行为'展开"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "交易",
+        "examples": [
+          {
+            "sentence": "The TikTok influencer closed a six-figure brand deal.",
+            "sentence_zh": "这位抖音网红达成六位数的品牌交易。"
+          },
+          {
+            "sentence": "We shook hands on the deal after hotpot negotiation.",
+            "sentence_zh": "在火锅谈判后我们握手成交。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "协定",
+        "examples": [
+          {
+            "sentence": "The new climate deal affects all livestream sellers.",
+            "sentence_zh": "新气候协定影响所有直播卖家。"
+          },
+          {
+            "sentence": "They made a deal to split the bubble tea profits.",
+            "sentence_zh": "他们达成协定平分奶茶利润。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "数量",
+        "examples": [
+          {
+            "sentence": "She ate a great deal of xiaolongbao yesterday.",
+            "sentence_zh": "她昨天吃了超多小笼包。"
+          },
+          {
+            "sentence": "We downloaded a good deal of Douyin videos.",
+            "sentence_zh": "我们下载了大量抖音视频。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "松木板",
+        "examples": [
+          {
+            "sentence": "The mahjong table was made of fragrant deal.",
+            "sentence_zh": "这张麻将桌用香杉木板制成。"
+          },
+          {
+            "sentence": "Carriers loaded deals onto the cargo ship.",
+            "sentence_zh": "搬运工把松木板装进货轮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "处理",
+        "examples": [
+          {
+            "sentence": "Can you deal with this angry customer?",
+            "sentence_zh": "你能处理这个愤怒的顾客吗？"
+          },
+          {
+            "sentence": "She's dealing with 100+ fan messages daily.",
+            "sentence_zh": "她每天要处理上百条粉丝留言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "做生意",
+        "examples": [
+          {
+            "sentence": "Our company deals in imported durians.",
+            "sentence_zh": "我们公司从事进口榴莲生意。"
+          },
+          {
+            "sentence": "He's been dealing with Japanese anime merch.",
+            "sentence_zh": "他一直在经营日本动漫周边。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "发牌",
+        "examples": [
+          {
+            "sentence": "The host dealt the cards for a poker game.",
+            "sentence_zh": "庄家为扑克游戏发牌。"
+          },
+          {
+            "sentence": "Deal me in for the next mahjong round!",
+            "sentence_zh": "下一局麻将记得发牌给我！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给予",
+        "examples": [
+          {
+            "sentence": "The judge dealt him 3 years in prison.",
+            "sentence_zh": "法官判处他三年有期徒刑。"
+          },
+          {
+            "sentence": "Life has dealt her many spicy hotpots.",
+            "sentence_zh": "生活给予她许多麻辣火锅。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deal with",
+        "meaning": "处理",
+        "examples": [
+          {
+            "sentence": "This guidebook deals with all visa issues.",
+            "sentence_zh": "本指南处理所有签证问题。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "big deal",
+        "meaning": "大事",
+        "examples": [
+          {
+            "sentence": "Losing 5G signal isn't a big deal for pandas.",
+            "sentence_zh": "对熊猫来说失去5G信号不算大事。"
+          }
+        ]
+      }
+    ],
+    "teach": "deal就像火锅鸳鸯锅🍲：'交易'是红汤辣锅（business deals），'处理'是白汤清锅（deal with problems），'发牌'像涮毛肚七上八下🎴，而'松木板'根本是锅底燃料🪵！要砍价说'It's a steal!'（这太划算），被坑了喊'raw deal'（亏本买卖）。记住：人生就像发牌，关键看你怎么deal with它！💸♠️🪓",
+    "recite": {
+      "tips": [
+        "谐音梗：'抵噢'→抵(deal)押物品才能做生意",
+        "易混词：steal偷窃 vs deal交易"
+      ]
+    }
   }
 ]
