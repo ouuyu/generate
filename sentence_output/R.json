@@ -9476,5 +9476,361 @@
         "易混词对比：range（范围） vs arrange（安排）"
       ]
     }
+  },
+  {
+    "word": "rangy",
+    "etymology": {
+      "breakdown": [
+        "range",
+        "y"
+      ],
+      "meaning_connection": "词根range=范围/排列，后缀-y表特性→具有广阔范围特性的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "适于远行的",
+        "examples": [
+          {
+            "sentence": "The rangy camel caravan crossed the Gobi Desert effortlessly.",
+            "sentence_zh": "这支适于远行的骆驼商队轻松穿越了戈壁沙漠。"
+          },
+          {
+            "sentence": "Mongolian horses are naturally rangy with great stamina.",
+            "sentence_zh": "蒙古马天生适于远行且耐力惊人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "广阔的",
+        "examples": [
+          {
+            "sentence": "The rangy grasslands of Inner Mongolia stretch to the horizon.",
+            "sentence_zh": "内蒙古广阔的草原一直延伸到地平线。"
+          },
+          {
+            "sentence": "His rangy backyard could fit three basketball courts.",
+            "sentence_zh": "他家后院广阔得能放下三个篮球场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "四肢修长的",
+        "examples": [
+          {
+            "sentence": "The rangy supermodel looked like a walking clothes hanger.",
+            "sentence_zh": "那位四肢修长的超模就像移动的衣架。"
+          },
+          {
+            "sentence": "Basketball players are usually rangy with wingspans over 2 meters.",
+            "sentence_zh": "篮球运动员通常四肢修长，臂展超过两米。"
+          }
+        ]
+      }
+    ],
+    "teach": "rangy是'长腿欧巴'专用认证🏃！想象长颈鹿🦒在非洲草原漫步（适于远行），IKEA仓库般的大学宿舍（广阔的），还有你家猫主子伸懒腰时的大长腿🐈（四肢修长）。搭配说'rangy vehicle'指越野车，'rangy limbs'形容超模腿。地道表达'leggy'专夸大长腿，但rangy更强调实用性的修长！",
+    "recite": {
+      "tips": [
+        "谐音梗：'润肌'→润肌乳液让你四肢修长",
+        "易混词：range（范围）→rangy（有范围特性的）",
+        "视觉联想：字母y像伸展开的双臂"
+      ]
+    }
+  },
+  {
+    "word": "rank",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'ranc'（排/列），可能与德文'Ring'（环形）同源，本义指'连续排列'，后衍生出等级、气味等多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "等级",
+        "examples": [
+          {
+            "sentence": "The panda keeper holds senior rank at Chengdu Research Base.",
+            "sentence_zh": "这位熊猫饲养员在成都基地拥有高级职称。"
+          },
+          {
+            "sentence": "Her Douyin account reached the top rank in food vlogging.",
+            "sentence_zh": "她的抖音账号登上美食博主排行榜首位。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "队伍",
+        "examples": [
+          {
+            "sentence": "Tourists formed a rank outside the Forbidden City at dawn.",
+            "sentence_zh": "游客们破晓时在故宫外排成长队。"
+          },
+          {
+            "sentence": "The Terracotta Warriors stand in battle ranks for millennia.",
+            "sentence_zh": "兵马俑以战斗队形屹立千年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "恶臭的",
+        "examples": [
+          {
+            "sentence": "The stinky tofu shop emitted a rank odor through the alley.",
+            "sentence_zh": "臭豆腐店的刺鼻气味弥漫整个胡同。"
+          },
+          {
+            "sentence": "His socks after hiking Mount Hua were absolutely rank.",
+            "sentence_zh": "他爬完华山后的袜子简直臭不可闻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "十足的",
+        "examples": [
+          {
+            "sentence": "That's rank nonsense about pandas being lazy!",
+            "sentence_zh": "说熊猫懒惰纯属胡说八道！"
+          },
+          {
+            "sentence": "The influencer's apology was rank hypocrisy.",
+            "sentence_zh": "这个网红的道歉完全是虚情假意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "排列",
+        "examples": [
+          {
+            "sentence": "The museum ranks the bronzeware by dynasty.",
+            "sentence_zh": "博物馆按朝代排列青铜器。"
+          },
+          {
+            "sentence": "WeChat ranks friends by interaction frequency secretly.",
+            "sentence_zh": "微信会暗中根据互动频率排列好友。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "列为",
+        "examples": [
+          {
+            "sentence": "Hangzhou ranks among the top 3 livable cities in China.",
+            "sentence_zh": "杭州位列中国宜居城市前三名。"
+          },
+          {
+            "sentence": "His new album didn't rank on Billboard.",
+            "sentence_zh": "他的新专辑未登上公告牌排行榜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pull rank",
+        "meaning": "滥用职权",
+        "examples": [
+          {
+            "sentence": "The manager pulled rank to get Spring Festival train tickets.",
+            "sentence_zh": "经理动用职权搞到了春运火车票。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rank and file",
+        "meaning": "普通成员",
+        "examples": [
+          {
+            "sentence": "The rank and file employees protested against the overtime policy.",
+            "sentence_zh": "基层员工集体反对加班政策。"
+          }
+        ]
+      }
+    ],
+    "teach": "rank就像榴莲👑：既有'等级'的高贵感（military rank军衔），又有'恶臭'的致命气息（rank smell）🤢。英国议会里'cross the ranks'指叛变⚔️，而'rank outsider'却是冷门选手🏇。记住：当你说'she ranked first'时是荣耀，但'his breath is rank'就社死了💀！实用搭配：'top-rank service'顶级服务，'rank growth'疯长的杂草🌿",
+    "recite": {
+      "tips": [
+        "谐音梗：'软壳'→螃蟹软壳时最臭(rank)",
+        "易混词对比：rank(等级) vs. bank(银行)→你的存款(bank)决定社会等级(rank)"
+      ]
+    }
+  },
+  {
+    "word": "ranked",
+    "etymology": {
+      "breakdown": [
+        "rank",
+        "ed"
+      ],
+      "meaning_connection": "rank源自古法语'ranc'(排/列)，-ed表过去/完成态→保持行列的完成状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "排列",
+        "examples": [
+          {
+            "sentence": "The museum ranked the terracotta warriors by height.",
+            "sentence_zh": "博物馆按身高排列兵马俑。"
+          },
+          {
+            "sentence": "She ranked her lipsticks from darkest to lightest.",
+            "sentence_zh": "她把口红从深到浅排列。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "使成横排",
+        "examples": [
+          {
+            "sentence": "Ducks ranked along the riverbank like little soldiers.",
+            "sentence_zh": "鸭子们像小士兵般沿河岸排成横排。"
+          },
+          {
+            "sentence": "The bikes ranked neatly outside the subway station.",
+            "sentence_zh": "共享单车在地铁站外整齐排成横排。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ranked first",
+        "meaning": "位列第一",
+        "examples": [
+          {
+            "sentence": "Hunan cuisine ranked first in spicy food popularity.",
+            "sentence_zh": "湘菜在辣味美食人气榜位列第一。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "highly ranked",
+        "meaning": "高排位",
+        "examples": [
+          {
+            "sentence": "This douyin influencer is highly ranked in livestream sales.",
+            "sentence_zh": "这位抖音达人在直播带货中排名很高。"
+          }
+        ]
+      }
+    ],
+    "teach": "ranked是强迫症的最爱🌀！就像军训时教官吼'排整齐！'（rank yourselves），或火锅店按辣度排名🌶️（ranked by spiciness）。说'名列前茅'用top-ranked就像金牌榜🥇，'垫底'叫bottom-ranked像扫尾的春运车厢🚂。记住：任何需要排队的地方，都是ranked的战场！",
+    "recite": {
+      "tips": [
+        "谐音梗：'软壳的'→螃蟹软壳时被迫排队(ranked)",
+        "易混词：ranked（已排序）vs ranking（正在排序）"
+      ]
+    }
+  },
+  {
+    "word": "ranking",
+    "etymology": {
+      "breakdown": [
+        "rank",
+        "ing"
+      ],
+      "meaning_connection": "词根rank=排列/等级，后缀-ing构成名词/形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "等级",
+        "examples": [
+          {
+            "sentence": "The university's ranking dropped after the canteen scandal.",
+            "sentence_zh": "该校在食堂丑闻后等级排名下滑。"
+          },
+          {
+            "sentence": "Hotpot restaurant rankings in Chengdu change faster than fashion trends.",
+            "sentence_zh": "成都火锅店排行榜更新得比时尚潮流还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地位",
+        "examples": [
+          {
+            "sentence": "His ranking as a douyin influencer surprised his mom.",
+            "sentence_zh": "他作为抖音网红的地位让他妈妈大吃一惊。"
+          },
+          {
+            "sentence": "The ranking of instant noodles reflects a nation's midnight cravings.",
+            "sentence_zh": "方便面的地位反映了一个国家的深夜食欲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "上级的",
+        "examples": [
+          {
+            "sentence": "The ranking officer always gets first dibs on military base dumplings.",
+            "sentence_zh": "上级军官总能优先享用军营饺子。"
+          },
+          {
+            "sentence": "Ranking cadres have access to the special parking lot.",
+            "sentence_zh": "上级干部可使用专用停车场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "头等的",
+        "examples": [
+          {
+            "sentence": "This ranking tea costs more per gram than designer handbags.",
+            "sentence_zh": "这种头等茶叶每克价比名牌包还贵。"
+          },
+          {
+            "sentence": "She booked ranking seats for the Spring Festival Gala.",
+            "sentence_zh": "她订到了春晚的头等座位。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "world ranking",
+        "meaning": "世界排名",
+        "examples": [
+          {
+            "sentence": "China's badminton world ranking is higher than its soccer team's.",
+            "sentence_zh": "中国羽毛球的世界排名比足球队高得多。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "high-ranking",
+        "meaning": "高级别的",
+        "examples": [
+          {
+            "sentence": "The high-ranking meeting was interrupted by a fire drill.",
+            "sentence_zh": "这场高级别会议被消防演习打断了。"
+          }
+        ]
+      }
+    ],
+    "teach": "ranking就像游戏天梯榜🎮：清朝科举'金榜题名'叫palace examination ranking👑，现代'鄙视链'本质也是ranking battle🔝。说'顶级配置'用top-ranking specs💻，'垫底玩家'叫bottom-ranking noob😭。记住：你的外卖会员等级(food delivery ranking)决定能否优先抢到红包🧧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'人坑'→掉排名坑里了",
+        "易混词：rating(评分) vs ranking(排名)"
+      ]
+    }
   }
 ]

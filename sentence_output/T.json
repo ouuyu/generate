@@ -9593,5 +9593,344 @@
         "易混词：tapa vs tapestry（挂毯）→前者树皮造，后者羊毛织"
       ]
     }
+  },
+  {
+    "word": "tape",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'tæppe'，原指窄幅织物，后衍生出'记录载体'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "带子",
+        "examples": [
+          {
+            "sentence": "The red tape on the gift box made it look like a giant candy.",
+            "sentence_zh": "礼盒上的红丝带让它看起来像颗巨型糖果。"
+          },
+          {
+            "sentence": "Athletes break through the finish line tape like superheroes.",
+            "sentence_zh": "运动员冲过终点线的样子像超级英雄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "录音带",
+        "examples": [
+          {
+            "sentence": "My dad's love letters to mom were hidden in his Michael Jackson tapes.",
+            "sentence_zh": "爸爸给妈妈的情书藏在他的迈克尔·杰克逊录音带里。"
+          },
+          {
+            "sentence": "Rewinding tapes with a pencil was the TikTok of the 90s.",
+            "sentence_zh": "用铅笔卷录音带是90后的抖音挑战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "卷尺",
+        "examples": [
+          {
+            "sentence": "The tailor's tape measure accidentally recorded my food baby.",
+            "sentence_zh": "裁缝的卷尺不小心量到了我的'食物宝宝'（吃撑的肚子）。"
+          },
+          {
+            "sentence": "IKEA hackers use tape measures like Jedi use lightsabers.",
+            "sentence_zh": "宜家改造达人用卷尺就像绝地用光剑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用胶带固定",
+        "examples": [
+          {
+            "sentence": "Students tape cheat sheets to their thighs like secret agents.",
+            "sentence_zh": "学生把作弊纸条贴在大腿上像特工藏密件。"
+          },
+          {
+            "sentence": "Grandma taped the broken photo frame with Hello Kitty stickers.",
+            "sentence_zh": "奶奶用Hello Kitty贴纸修补相框。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "录音",
+        "examples": [
+          {
+            "sentence": "The journalist taped the confession while eating spicy hotpot.",
+            "sentence_zh": "记者边录口供边吃麻辣火锅。"
+          },
+          {
+            "sentence": "Karaoke masters still tape their performances on cassettes.",
+            "sentence_zh": "卡拉OK高手仍用磁带录制表演。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "red tape",
+        "meaning": "繁文缛节",
+        "examples": [
+          {
+            "sentence": "Getting a visa involves cutting through miles of red tape.",
+            "sentence_zh": "办签证就像穿越红色胶带迷宫。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tape up",
+        "meaning": "包扎",
+        "examples": [
+          {
+            "sentence": "Basketball players tape up their fingers like mummies.",
+            "sentence_zh": "篮球运动员把手指包得像木乃伊。"
+          }
+        ]
+      }
+    ],
+    "teach": "tape是跨越千年的时空旅者⏳：从捆木乃伊的亚麻带→中世纪束腰的缎带→录音带的黄金时代💽→现在快递箱的透明胶带📦。说'官方拖延'用red tape（原指英国政府红绸带文件），'临时修补'叫quick tape job🩹。记住：人生就像录音带，关键是要找准AB面！",
+    "recite": {
+      "tips": [
+        "谐音梗：'贴谱'→贴(tape)谱的胶带",
+        "易混词：tape(磁带) vs tap(水龙头)",
+        "记忆tip：所有带状物都可以联想tape"
+      ]
+    }
+  },
+  {
+    "word": "taped",
+    "etymology": {
+      "breakdown": [
+        "tape",
+        "ed"
+      ],
+      "meaning_connection": "tape(磁带/胶带) + 过去分词后缀-ed → 表被动完成状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "录播的",
+        "examples": [
+          {
+            "sentence": "The Spring Festival Gala we watched was actually a taped version.",
+            "sentence_zh": "我们看的春晚其实是录播版本。"
+          },
+          {
+            "sentence": "Taped interviews save anchors from live mistakes.",
+            "sentence_zh": "录播采访能让主持人避免直播失误。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "压胶的",
+        "examples": [
+          {
+            "sentence": "Her taped sneakers survived the marathon without falling apart.",
+            "sentence_zh": "她那双压胶运动鞋跑完马拉松都没开胶。"
+          },
+          {
+            "sentence": "This taped waterproof jacket costs 3 times more than regular ones.",
+            "sentence_zh": "这件压胶防水夹克比普通款贵三倍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pre-taped",
+        "meaning": "预先录制的",
+        "examples": [
+          {
+            "sentence": "All celebrity greetings in the show were pre-taped.",
+            "sentence_zh": "节目中所有明星祝福都是预录的。"
+          }
+        ]
+      }
+    ],
+    "teach": "taped是科技与手工的缝合怪🤖✂️！当指'录播'时，是电子胶带（tape）留下的数字指纹🎥；当指'压胶'时，是流水线上热压的物理胶痕👟。说'这是录的'地道表达是It's canned（字面：罐装的），搭配taped seams（压胶缝线）和taped confession（录影口供）🧾。记住：无论电子还是物理，tape都能让东西牢固不散架！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒破的'→压胶(taped)鞋忒破的才需要",
+        "易混词对比：taped(已完成) vs. taping(进行中)"
+      ]
+    }
+  },
+  {
+    "word": "taper",
+    "etymology": {
+      "breakdown": [
+        "tap",
+        "er"
+      ],
+      "meaning_connection": "源自古英语'tæppe'（细绳）+后缀'-er'→最初指编织细绳的工人，后引申出'逐渐变细'的意象"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "带子操作工",
+        "examples": [
+          {
+            "sentence": "The medieval taper could weave 10 meters of ribbon per day.",
+            "sentence_zh": "中世纪的带子工每天能编织10米丝带。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小蜡烛",
+        "examples": [
+          {
+            "sentence": "Buddhist monks use bamboo-tapered candles in temples.",
+            "sentence_zh": "佛教僧人在寺庙使用竹芯小蜡烛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "渐弱",
+        "examples": [
+          {
+            "sentence": "The music ended with a graceful taper into silence.",
+            "sentence_zh": "音乐以优雅的渐弱结束于寂静中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "尖细的",
+        "examples": [
+          {
+            "sentence": "Her taper fingers flew across the guzheng strings.",
+            "sentence_zh": "她纤细的手指在古筝琴弦上飞舞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "(使)逐渐减少",
+        "examples": [
+          {
+            "sentence": "The factory will taper production before the holiday.",
+            "sentence_zh": "工厂将在节日前逐渐减少产量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "taper off",
+        "meaning": "逐渐停止",
+        "examples": [
+          {
+            "sentence": "The typhoon finally tapered off after 36 hours.",
+            "sentence_zh": "台风在36小时后终于逐渐减弱。"
+          }
+        ]
+      }
+    ],
+    "teach": "taper是'细界'变形金刚🤖！当蜡烛🕯️时细得像针灸银针，当动词时像减肥体重曲线📉（taper diet）。'逐渐减少'说tapering比decrease更优雅，比如'双十一快递量正在tapering off'。记住：所有带'尖/细/渐'概念都能用它！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒破'→忒破的绳子需要taper修理",
+        "对比记忆：taper vs. paper（纸是平的，taper是尖的）"
+      ]
+    }
+  },
+  {
+    "word": "tapered",
+    "etymology": {
+      "breakdown": [
+        "taper",
+        "ed"
+      ],
+      "meaning_connection": "taper源自古英语'tapur'（蜡烛芯），指逐渐变细的形状，-ed表形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "锥形的",
+        "examples": [
+          {
+            "sentence": "The tapered design of bamboo shoots inspired bullet train noses.",
+            "sentence_zh": "竹笋的锥形设计启发了高铁车头造型。"
+          },
+          {
+            "sentence": "Her tapered jeans perfectly matched the vintage sneakers.",
+            "sentence_zh": "她的锥形牛仔裤与复古球鞋绝配。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "尖削的",
+        "examples": [
+          {
+            "sentence": "The pagoda's tapered roof pierced through the morning mist.",
+            "sentence_zh": "佛塔尖削的屋顶刺破晨雾。"
+          },
+          {
+            "sentence": "Barbers create tapered haircuts using special thinning scissors.",
+            "sentence_zh": "理发师用打薄剪打造尖削发型渐变。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "渐缩的",
+        "examples": [
+          {
+            "sentence": "The tapered thread on screwdrivers prevents slipping.",
+            "sentence_zh": "螺丝刀渐缩的螺纹能防滑。"
+          },
+          {
+            "sentence": "Marathon runners adopt tapered training before competitions.",
+            "sentence_zh": "马拉松选手赛前采用渐缩式训练。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tapered leg",
+        "meaning": "锥形裤腿",
+        "examples": [
+          {
+            "sentence": "Tapered leg pants are back in fashion this year.",
+            "sentence_zh": "锥形裤腿今年再度流行。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tapered end",
+        "meaning": "渐细端头",
+        "examples": [
+          {
+            "sentence": "The magic wand's tapered end sparkled with fairy dust.",
+            "sentence_zh": "魔法杖渐细的端头闪烁着仙尘。"
+          }
+        ]
+      }
+    ],
+    "teach": "tapered是几何界的'瘦身教练'📐！从毛笔的笔锋✍️到东方明珠的塔尖🗼，再到你喝奶茶的吸管🥤（tapered straw），所有由粗变细的造型都叫tapered。搭配说'tapered cut'（锥形剪裁）比说'上宽下窄'更专业，形容身材可以用'tapered waist'（蜂腰）🍯。记住：看到吃剩的甜筒冰淇淋🍦，那就是活生生的tapered！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒坡的'→特别带坡度的(tapered)",
+        "易混词：tapered vs. sharpened（前者自然渐变，后者人为削尖）",
+        "记忆法：联想'太极'的阴阳鱼尾部渐细线条"
+      ]
+    }
   }
 ]

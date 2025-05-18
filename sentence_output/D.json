@@ -8997,5 +8997,350 @@
         "记忆tip：想象DDL是头顶悬着的刀🔪"
       ]
     }
+  },
+  {
+    "word": "deaden",
+    "etymology": {
+      "breakdown": [
+        "dead",
+        "en"
+      ],
+      "meaning_connection": "词根dead=死亡，后缀-en=使...→字面意思'使死亡'，引申为'使减弱/麻木'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使减弱",
+        "examples": [
+          {
+            "sentence": "The soundproof panels deaden the noise of construction outside.",
+            "sentence_zh": "隔音板减弱了外面施工的噪音。"
+          },
+          {
+            "sentence": "Drinking hot ginger tea can deaden the bitterness of Chinese herbal medicine.",
+            "sentence_zh": "喝热姜茶能减弱中药的苦味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使麻木",
+        "examples": [
+          {
+            "sentence": "The dentist used a gel to deaden my gums before the procedure.",
+            "sentence_zh": "牙医在操作前用凝胶使我的牙龈麻木。"
+          },
+          {
+            "sentence": "Years of overtime work had deadened his sense of taste for life.",
+            "sentence_zh": "多年的加班使他对生活的感觉变得麻木。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "减弱",
+        "examples": [
+          {
+            "sentence": "The thunder gradually deadened as the storm moved away.",
+            "sentence_zh": "随着暴风雨远去，雷声逐渐减弱。"
+          },
+          {
+            "sentence": "The pain in his knee deadened after applying tiger balm.",
+            "sentence_zh": "涂抹虎标万金油后，他膝盖的疼痛减弱了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deaden the blow",
+        "meaning": "减轻打击",
+        "examples": [
+          {
+            "sentence": "The company offered free coffee to deaden the blow of salary cuts.",
+            "sentence_zh": "公司提供免费咖啡以减轻降薪带来的打击。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "deaden the sound",
+        "meaning": "消音",
+        "examples": [
+          {
+            "sentence": "Musicians use special foam to deaden the sound in rehearsal rooms.",
+            "sentence_zh": "音乐家在排练室使用特殊泡沫材料来消音。"
+          }
+        ]
+      }
+    ],
+    "teach": "deaden像给世界打麻醉剂💉！当它表示'减弱'时，就像给广场舞音响插上消音器🔇（deaden noise）；表示'麻木'时，像火锅吃到舌头发木🥵（deaden senses）。搭配'deaden the pain'就像用老干妈麻痹加班痛苦🌶️，地道说法'deaf to'表示充耳不闻👂❌。记住：deaden=dead+en，把东西'弄死'就安静了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'跌蹬'→声音跌蹬(deaden)两下就减弱了",
+        "易混词：deadline是截止日期，deaden是使麻木",
+        "联想：DEAD+EN=使...死亡→功能减弱"
+      ]
+    }
+  },
+  {
+    "word": "deadlock",
+    "etymology": {
+      "breakdown": [
+        "dead",
+        "lock"
+      ],
+      "meaning_connection": "字面意思是'死锁'→dead表示'完全停止的'，lock表示'锁定'，比喻完全无法移动的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "僵局",
+        "examples": [
+          {
+            "sentence": "The Brexit negotiations reached a political deadlock.",
+            "sentence_zh": "英国脱欧谈判陷入政治僵局。"
+          },
+          {
+            "sentence": "Two sumo wrestlers were in a deadlock for 3 minutes.",
+            "sentence_zh": "两名相扑选手僵持了3分钟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "停顿",
+        "examples": [
+          {
+            "sentence": "Traffic came to a deadlock after the panda crossing incident.",
+            "sentence_zh": "熊猫过马路事件导致交通完全停顿。"
+          },
+          {
+            "sentence": "The elevator was in deadlock between floors.",
+            "sentence_zh": "电梯在楼层之间停顿了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使停顿",
+        "examples": [
+          {
+            "sentence": "A crashed truck deadlocked the morning commute.",
+            "sentence_zh": "一辆撞毁的卡车使早高峰完全停顿。"
+          },
+          {
+            "sentence": "The system was deadlocked by conflicting commands.",
+            "sentence_zh": "系统因冲突指令而停顿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "相持不下",
+        "examples": [
+          {
+            "sentence": "Both teams deadlocked at 2-2 until the penalty shootout.",
+            "sentence_zh": "两队2-2相持不下直到点球大战。"
+          },
+          {
+            "sentence": "The debate deadlocked on the issue of pineapple pizza.",
+            "sentence_zh": "关于菠萝披萨的辩论相持不下。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "break the deadlock",
+        "meaning": "打破僵局",
+        "examples": [
+          {
+            "sentence": "A meme finally broke the deadlock in our group chat.",
+            "sentence_zh": "一个表情包终于打破了群聊的僵局。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in deadlock",
+        "meaning": "处于僵持状态",
+        "examples": [
+          {
+            "sentence": "The robot vacuum is in deadlock after eating my socks.",
+            "sentence_zh": "扫地机器人吃了我的袜子后卡住了。"
+          }
+        ]
+      }
+    ],
+    "teach": "deadlock就像两个熊猫抢一根竹子🐼🎋：谁都不让步就会卡住！技术宅用它描述'死锁'就像两列地铁互相等对方先开🚇💥，要说'卡住了'老外会说at a standstill，'解套'叫break the impasse。记住：遇到deadlock时，要像处理卡住的ATM机💰那样——先深呼吸再找客服！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆的牢靠'→卡得死死的",
+        "对比记忆：deadlock(完全卡住) vs bottleneck(局部阻塞)"
+      ]
+    }
+  },
+  {
+    "word": "deadly",
+    "etymology": {
+      "breakdown": [
+        "dead",
+        "ly"
+      ],
+      "meaning_connection": "词根dead=死亡，后缀-ly构成形容词/副词→'如死亡般的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "致命的",
+        "examples": [
+          {
+            "sentence": "The panda keeper avoided the deadly bamboo splinters.",
+            "sentence_zh": "熊猫饲养员避开了致命的竹子碎片。"
+          },
+          {
+            "sentence": "Zombie movies always feature some deadly virus.",
+            "sentence_zh": "僵尸片总会出现某种致命病毒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "致死的",
+        "examples": [
+          {
+            "sentence": "This mushroom is beautiful but deadly.",
+            "sentence_zh": "这种蘑菇美丽却致死。"
+          },
+          {
+            "sentence": "The duelists chose deadly pistols.",
+            "sentence_zh": "决斗者选用了致死的手枪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非常",
+        "examples": [
+          {
+            "sentence": "The hotpot was deadly spicy for foreigners.",
+            "sentence_zh": "对外国人来说这火锅非常辣。"
+          },
+          {
+            "sentence": "She's deadly serious about collecting rubber ducks.",
+            "sentence_zh": "她对收集橡皮鸭非常认真。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "如死一般地",
+        "examples": [
+          {
+            "sentence": "The classroom fell deadly silent during the exam.",
+            "sentence_zh": "考试时教室如死一般寂静。"
+          },
+          {
+            "sentence": "His face turned deadly pale seeing the ghost.",
+            "sentence_zh": "看到鬼魂时他脸色如死一般苍白。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deadly weapon",
+        "meaning": "致命武器",
+        "examples": [
+          {
+            "sentence": "The court ruled the durian as a deadly weapon.",
+            "sentence_zh": "法庭判定榴莲为致命武器。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "deadly boring",
+        "meaning": "无聊透顶",
+        "examples": [
+          {
+            "sentence": "The meeting was deadly boring until someone brought bubble tea.",
+            "sentence_zh": "会议无聊透顶直到有人带了奶茶。"
+          }
+        ]
+      }
+    ],
+    "teach": "deadly是死亡体验卡💀：作形容词时像眼镜蛇的毒牙🐍（deadly poison），作副词时要么夸张到死（deadly serious），要么安静如坟场⚰️（deadly silent）。记住：说'无聊死了'用deadly boring比very boring更地道，就像用emoji💤比打字'困'更有表现力！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆的力'→呆滞的力量很致命",
+        "易混词对比：deadly（致命/非常） vs. deathly（死一般的，只形容状态）",
+        "记忆tip：'非常'义项联想→'deadly cute=可爱到让人窒息'"
+      ]
+    }
+  },
+  {
+    "word": "deadman",
+    "etymology": {
+      "breakdown": [
+        "dead",
+        "man"
+      ],
+      "meaning_connection": "字面意思'死人'→比喻像尸体般固定不动的支撑物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "固定桩（木桩/水泥桩）",
+        "examples": [
+          {
+            "sentence": "Workers buried deadmen along the highway to stabilize the slope.",
+            "sentence_zh": "工人们沿高速公路埋设固定桩以稳固斜坡。"
+          },
+          {
+            "sentence": "The ancient bridge used stone deadmen as underwater anchors.",
+            "sentence_zh": "这座古桥用石桩作为水下锚固点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "临时支撑物",
+        "examples": [
+          {
+            "sentence": "The circus tent was secured with deadmen made of sandbags.",
+            "sentence_zh": "马戏团帐篷用沙袋做的临时重物固定。"
+          },
+          {
+            "sentence": "Archaeologists use deadmen to prevent excavation collapses.",
+            "sentence_zh": "考古学家用临时支撑防止挖掘现场坍塌。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deadman anchor",
+        "meaning": "固定锚桩",
+        "examples": [
+          {
+            "sentence": "The deadman anchor saved the truck from sliding off the cliff.",
+            "sentence_zh": "固定锚桩防止了卡车滑落悬崖。"
+          }
+        ]
+      }
+    ],
+    "teach": "deadman是土木工程界的'躺平族'💀！就像僵尸🧟♂️一动不动地当固定桩，工地版'死侍'能扛住十级台风🌀。说'临时支撑'可以叫makeshift prop（就像用泡面桶垫桌脚🍜），记住这词在《盗墓笔记》里出现过——那些固定青铜树的铜桩就是deadmen！⚰️",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆的man'→呆呆站着的男人",
+        "易混词对比：sandbag（沙袋临时压重物） vs deadman（永久性埋桩）"
+      ]
+    }
   }
 ]

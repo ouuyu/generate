@@ -9649,5 +9649,339 @@
         "易混词：image（静态图像）/imaging（成像过程）"
       ]
     }
+  },
+  {
+    "word": "imagining",
+    "etymology": {
+      "breakdown": [
+        "imagine",
+        "ing"
+      ],
+      "meaning_connection": "词根image=图像，-ine动词后缀表'使...化'，-ing表进行时→将事物图像化的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "想象",
+        "examples": [
+          {
+            "sentence": "He's imagining himself as a Kung Fu master while brushing his teeth.",
+            "sentence_zh": "他刷牙时想象自己是个功夫大师。"
+          },
+          {
+            "sentence": "The kid kept imagining the mooncake box as a spaceship.",
+            "sentence_zh": "小孩不断把月饼盒想象成宇宙飞船。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "料想",
+        "examples": [
+          {
+            "sentence": "I was imagining you'd bring stinky tofu to the party.",
+            "sentence_zh": "我料想你会带臭豆腐来派对。"
+          },
+          {
+            "sentence": "They're imagining the new boss will cancel overtime.",
+            "sentence_zh": "他们料想新老板会取消加班。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "误认为",
+        "examples": [
+          {
+            "sentence": "Stop imagining every notification is your crush texting you!",
+            "sentence_zh": "别把每个通知都误认为是暗恋对象发消息！"
+          },
+          {
+            "sentence": "She's imagining the AI chatbot has real feelings.",
+            "sentence_zh": "她误认为AI聊天机器人有真实情感。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "just imagining",
+        "meaning": "纯属想象",
+        "examples": [
+          {
+            "sentence": "Relax, I was just imagining worst-case scenarios.",
+            "sentence_zh": "放轻松，我只是在想象最坏情况。"
+          }
+        ]
+      }
+    ],
+    "teach": "imagining是大脑的PS软件💻！古人认为'心眼'能成像（image-in），就像用华为P图🖼️。'白日做梦'叫pipe dream（管道梦），'想太多'是overthink就像火锅涮太久会老🥘。记住：当你说'I can't imagine...'时，其实正在imagine呢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一美镜ing'→照镜子时想象自己是一美",
+        "易混对比：imaging（医学成像）vs imagining（主观想象）",
+        "记忆tip：ING=正在，所以imagine+ing=正在开脑洞"
+      ]
+    }
+  },
+  {
+    "word": "imam",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自阿拉伯语 إمام (imām)，意为'领袖'或'引导者'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "阿訇",
+        "examples": [
+          {
+            "sentence": "The imam leads the Friday prayer at the mosque.",
+            "sentence_zh": "阿訇在清真寺主持周五的礼拜。"
+          },
+          {
+            "sentence": "During Ramadan, the imam's recitations move many to tears.",
+            "sentence_zh": "斋月期间，阿訇的诵经常使许多人感动落泪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "伊玛目",
+        "examples": [
+          {
+            "sentence": "The Shi'a community regards Ali as the first rightful Imam.",
+            "sentence_zh": "什叶派社区将阿里视为第一位合法的伊玛目。"
+          },
+          {
+            "sentence": "As an Imam, he not only guides prayers but also resolves disputes.",
+            "sentence_zh": "作为伊玛目，他不仅引导祈祷，还调解纠纷。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "imam这个词就像清真寺的Wi-Fi信号塔📡！既是带领礼拜的'人类GPS'🧭（lead prayers），更是精神世界的'终身班主任'👨🏫。搭配说'Friday Imam'就像周末版主播🎤，'Visiting Imam'则是信仰界的'飞常准'✈️。地道说法'He's the Imam of my heart'相当于'他是我的人生导师'💖。记住：阿訇用知识导航，伊玛目用智慧照亮！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨妈母'→姨母般慈爱的宗教导师",
+        "易混词对比：iman（信仰） vs imam（导师）",
+        "记忆tip：中间双a像清真寺的两座宣礼塔"
+      ]
+    }
+  },
+  {
+    "word": "imbalance",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "balance"
+      ],
+      "meaning_connection": "前缀im-表否定，balance=平衡→字面即'不平衡'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不平衡",
+        "examples": [
+          {
+            "sentence": "The imbalance between work and life turns office workers into pandas with dark circles.",
+            "sentence_zh": "工作与生活的不平衡让打工人变成黑眼圈熊猫。"
+          },
+          {
+            "sentence": "There's a hilarious imbalance in my wallet: 10 membership cards but only 2 bucks.",
+            "sentence_zh": "我钱包存在搞笑的不平衡：10张会员卡但只有两块钱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不均衡",
+        "examples": [
+          {
+            "sentence": "The imbalance of spicy hotpot distribution causes family arguments.",
+            "sentence_zh": "火锅辣度分配不均衡引发家庭矛盾。"
+          },
+          {
+            "sentence": "China's chopstick production shows regional imbalance - southern factories make 60% more.",
+            "sentence_zh": "中国筷子生产呈现地域不均衡——南方工厂多产60%。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "trade imbalance",
+        "meaning": "贸易逆差",
+        "examples": [
+          {
+            "sentence": "The mooncake trade imbalance occurs when Aunt Li receives 5 boxes but gives none.",
+            "sentence_zh": "当李阿姨收到5盒月饼却一盒不回送时，就产生了月饼贸易逆差。"
+          }
+        ]
+      }
+    ],
+    "teach": "imbalance是强迫症的天敌😫！就像跷跷板上的大象和蚂蚁🐘🐜（visual analogy）。历史上最著名不平衡是'波士顿倾茶事件'，本质是贸易imbalance导致的🍵。说'严重失衡'用gross imbalance，吐槽'营养不均'叫dietary imbalance🥦🍔。记住：你的花呗和余额失衡时，就叫financial imbalance💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬掰冷食'→硬掰会导致冷食分配imbalance",
+        "易混词：unbalance（多指精神失衡）vs imbalance（客观不平衡）",
+        "记忆tip：im+balance=姨妈(im)称体重发现balance不平衡"
+      ]
+    }
+  },
+  {
+    "word": "imbecile",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "becile"
+      ],
+      "meaning_connection": "前缀im-表否定，词根becile源自拉丁语bacillum(拐杖)→字面'无支撑的'，引申为'心智不健全'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "低能的",
+        "examples": [
+          {
+            "sentence": "The imbecile plan to invade Russia in winter made historians facepalm.",
+            "sentence_zh": "这个冬季入侵俄罗斯的低能计划让历史学家无语扶额。"
+          },
+          {
+            "sentence": "Using a hairdryer to defrost the fridge is imbecile behavior.",
+            "sentence_zh": "用吹风机给冰箱除霜是低能行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "愚钝的",
+        "examples": [
+          {
+            "sentence": "His imbecile grin suggested he didn't understand the sarcasm.",
+            "sentence_zh": "他愚钝的笑容表明没听出讽刺意味。"
+          },
+          {
+            "sentence": "Asking 'Is it spicy?' for the 10th time at a Sichuan restaurant is imbecile.",
+            "sentence_zh": "在川菜馆第十次问'这个辣吗'属实愚钝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "虚弱的",
+        "examples": [
+          {
+            "sentence": "The imbecile patient could barely lift a teacup.",
+            "sentence_zh": "这位虚弱的病人连茶杯都端不起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "低能者",
+        "examples": [
+          {
+            "sentence": "The villain in the movie was portrayed as a dangerous imbecile.",
+            "sentence_zh": "电影中的反派被塑造成危险的智障者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蠢人",
+        "examples": [
+          {
+            "sentence": "Only an imbecile would microwave a metal lunchbox.",
+            "sentence_zh": "只有蠢人才会用微波炉加热金属饭盒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "imbecilic argument",
+        "meaning": "愚蠢的论点",
+        "examples": [
+          {
+            "sentence": "Flat-Earth theory is the most imbecilic argument in scientific history.",
+            "sentence_zh": "地平说是科学史上最愚蠢的论点。"
+          }
+        ]
+      }
+    ],
+    "teach": "imbecile最初是医学术语🏥，像'拄拐都站不稳'的虚弱状态🩼，现在多用于吐槽'脑子像被门夹过'的行为🤦。搭配：imbecilic stunt（作死行为）/imbecile-proof design（防呆设计）。说'蠢得像法棍'可以叫imbecile as a baguette🥖，因为法棍硬得能敲晕人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬不行'→智商硬伤",
+        "对比：idiot(天生愚笨) vs imbecile(后天智障)"
+      ]
+    }
+  },
+  {
+    "word": "imbecility",
+    "etymology": {
+      "breakdown": [
+        "in",
+        "bacillum"
+      ],
+      "meaning_connection": "前缀in-表否定 + 拉丁词根bacillum(拐杖)→原指'无支撑的'，引申为'智力缺陷'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "低能",
+        "examples": [
+          {
+            "sentence": "The villain's plan failed due to pure imbecility.",
+            "sentence_zh": "反派的计划纯粹因低能而失败。"
+          },
+          {
+            "sentence": "No amount of money can compensate for such imbecility.",
+            "sentence_zh": "再多的钱也无法弥补这种低能。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "愚钝",
+        "examples": [
+          {
+            "sentence": "His imbecility in math class became a campus legend.",
+            "sentence_zh": "他在数学课上的愚钝成了校园传说。"
+          },
+          {
+            "sentence": "The teacher sighed at the imbecility of the repeated mistakes.",
+            "sentence_zh": "老师对重复错误的愚钝感到叹息。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "愚蠢言行",
+        "examples": [
+          {
+            "sentence": "The celebrity's latest imbecility went viral on Weibo.",
+            "sentence_zh": "该明星最近的愚蠢言行在微博疯传。"
+          },
+          {
+            "sentence": "Drunk imbecility often leads to morning regrets.",
+            "sentence_zh": "酒后的愚蠢言行常导致次日懊悔。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "imbecility其实是'拐杖失业'🚑：拉丁语in(无)+bacillum(拐杖)→形容人'站不稳'就像没拐杖🧑🦯。要说'蠢哭了'用facepalm moment🤦，'猪队友'叫imbecile partner🐷。记住：当你说别人imbecility时，小心镜子里的自己！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬背西里提'→硬背化学元素周期表的行为很imbecility",
+        "易混词对比：stupidity(普通愚蠢) / imbecility(医学级智力缺陷)"
+      ]
+    }
   }
 ]

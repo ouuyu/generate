@@ -9641,5 +9641,311 @@
         "记忆锚点：后缀-age联想'年纪'→浪费积累的岁月痕迹"
       ]
     }
+  },
+  {
+    "word": "waste",
+    "etymology": {
+      "breakdown": [
+        "was",
+        "te"
+      ],
+      "meaning_connection": "源自古英语'wæste'（荒芜），与德语'wüste'同源，最初指未被开垦的土地🌵"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "浪费",
+        "examples": [
+          {
+            "sentence": "Leaving lights on is a criminal waste of electricity in this era.",
+            "sentence_zh": "在这个时代还开长明灯简直是犯罪级的电力浪费。"
+          },
+          {
+            "sentence": "Bubble tea half-drunk and thrown away? What a waste of pearls!",
+            "sentence_zh": "奶茶喝一半就扔掉？太浪费珍珠了！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "废物",
+        "examples": [
+          {
+            "sentence": "The tech company turns e-waste into art installations.",
+            "sentence_zh": "这家科技公司把电子废物变成艺术装置。"
+          },
+          {
+            "sentence": "Food waste bins in Shanghai smell worse than durians in summer.",
+            "sentence_zh": "上海的湿垃圾桶夏天比榴莲还销魂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "荒地",
+        "examples": [
+          {
+            "sentence": "Nuclear test sites become eternal wastes in the desert.",
+            "sentence_zh": "核试验场成了沙漠中永恒的荒地。"
+          },
+          {
+            "sentence": "The Martian landscape looks like an extreme version of Qinghai-Tibet wastes.",
+            "sentence_zh": "火星地貌像青藏荒地的终极版。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "废弃的",
+        "examples": [
+          {
+            "sentence": "Waste paper bundles can magically become toilet paper.",
+            "sentence_zh": "废纸捆能神奇地变身卫生纸。"
+          },
+          {
+            "sentence": "That waste electronics market is the Avengers base of repair uncles.",
+            "sentence_zh": "那个废电子市场是维修大叔们的复联基地。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "浪费",
+        "examples": [
+          {
+            "sentence": "Don't waste your youth chasing unattainable KPI.",
+            "sentence_zh": "别把青春浪费在追不上的KPI上。"
+          },
+          {
+            "sentence": "I wasted three hours debugging before finding the missing semicolon.",
+            "sentence_zh": "我浪费三小时debug最后发现缺了个分号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "消耗",
+        "examples": [
+          {
+            "sentence": "His body is wasting away from overwork.",
+            "sentence_zh": "他的身体因过劳正逐渐消瘦。"
+          },
+          {
+            "sentence": "The battery wastes faster when playing Genshin Impact.",
+            "sentence_zh": "玩原神时电池消耗速度堪比泄洪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go to waste",
+        "meaning": "被浪费",
+        "examples": [
+          {
+            "sentence": "Leftover hotpot shouldn't go to waste - make it into midnight noodles!",
+            "sentence_zh": "火锅底料别浪费，宵夜煮面美滋滋。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "waste one's breath",
+        "meaning": "白费口舌",
+        "examples": [
+          {
+            "sentence": "Don't waste your breath explaining blockchain to my grandma.",
+            "sentence_zh": "别白费口舌给我奶奶解释区块链。"
+          }
+        ]
+      }
+    ],
+    "teach": "waste这个词就像垃圾分类♻️：既能形容你618买的多余快递（waste money），又能描述你春节长的膘（waist和waste发音梗）。说'浪费生命'用地道表达叫'burn daylight'☀️，而'废物利用'叫'upcycle'就像把奶茶杯改造成花盆🌱。记住：你的时间不是垃圾，除非你把它当垃圾！",
+    "recite": {
+      "tips": [
+        "谐音梗：'胃死它'→浪费食物把胃撑死",
+        "易混词：waist(腰) vs waste(浪费)，记住'爱花钱的腰会waste'",
+        "联想：W-A-S-T-E → Why Always Spend Time Empty?"
+      ]
+    }
+  },
+  {
+    "word": "wasted",
+    "etymology": {
+      "breakdown": [
+        "waste",
+        "ed"
+      ],
+      "meaning_connection": "源自waste（浪费）+-ed（形容词后缀），字面即'被浪费的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "浪费的",
+        "examples": [
+          {
+            "sentence": "The wasted food could have fed 200 stray cats.",
+            "sentence_zh": "这些被浪费的食物足够喂饱200只流浪猫。"
+          },
+          {
+            "sentence": "His wasted talent breaks my heart like smashed watermelons.",
+            "sentence_zh": "他被浪费的才华让我心碎得像被砸开的西瓜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go to waste",
+        "meaning": "被浪费",
+        "examples": [
+          {
+            "sentence": "Don't let these hotpot ingredients go to waste!",
+            "sentence_zh": "别让这些火锅食材浪费掉！"
+          }
+        ]
+      },
+      {
+        "type": "idiom",
+        "form": "wasted opportunity",
+        "meaning": "错失良机",
+        "examples": [
+          {
+            "sentence": "Not buying Bitcoin in 2010 was my most wasted opportunity.",
+            "sentence_zh": "2010年没买比特币是我最痛心的错失良机。"
+          }
+        ]
+      }
+    ],
+    "teach": "wasted是吃货最痛心的词🍲！古英语waste本指'荒原'，后来演变成'挥霍'就像把火锅汤底倒掉🌪️。说'浪费钱'可以用money down the drain（冲进下水道），'虚度光阴'叫wasted youth就像放过期的自热小火锅⌛。记住：看到wasted就想起你去年双十一没用的健身卡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'未吃完的'→wasted就是没吃完倒掉的食物",
+        "易混词对比：waist（腰）和wasted（浪费）→ 腰围变粗因为wasted food"
+      ]
+    }
+  },
+  {
+    "word": "wasteful",
+    "etymology": {
+      "breakdown": [
+        "waste",
+        "ful"
+      ],
+      "meaning_connection": "waste（浪费）+ -ful（形容词后缀表'充满...的'）→ 充满浪费的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "浪费的",
+        "examples": [
+          {
+            "sentence": "Leaving all the office lights on overnight is extremely wasteful.",
+            "sentence_zh": "整晚不关办公室的灯是极其浪费的行为。"
+          },
+          {
+            "sentence": "Her wasteful habit of ordering three milk teas just to take selfies annoyed her frugal boyfriend.",
+            "sentence_zh": "她为了拍照点三杯奶茶的浪费习惯惹恼了节俭的男友。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不经济的",
+        "examples": [
+          {
+            "sentence": "Printing single-sided documents is both wasteful and environmentally unfriendly.",
+            "sentence_zh": "单面打印文件既不经济又不环保。"
+          },
+          {
+            "sentence": "The wasteful design of this smartphone charger consumes 30% more energy than necessary.",
+            "sentence_zh": "这款手机充电器的不经济设计比实际需要多消耗30%的电量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wasteful spending",
+        "meaning": "挥霍性支出",
+        "examples": [
+          {
+            "sentence": "The mayor was criticized for wasteful spending on golden statues.",
+            "sentence_zh": "市长因斥资建造金像的挥霍行为受到批评。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wasteful of",
+        "meaning": "浪费...的",
+        "examples": [
+          {
+            "sentence": "It's wasteful of your talent to just play mobile games all day.",
+            "sentence_zh": "整天玩手机游戏是在浪费你的才华。"
+          }
+        ]
+      }
+    ],
+    "teach": "wasteful这词自带心疼特效💔！想象古罗马贵族用玫瑰花瓣铺满浴池🌹（极度wasteful），现代版就是奶茶只喝一口就扔掉🧋。说'挥霍无度'可以用burn money like paper（烧钱如烧纸），'精打细算'就是pinch pennies（捏紧硬币）。记住：当你说someone is wasteful时，对方脸上会出现'你妈看到你倒掉饭菜'的表情👀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂屎头ful'→喂狗粮时浪费得满地都是（慎用）",
+        "易混词对比：wasteful（主观浪费的） vs. inefficient（客观低效的）",
+        "联想记忆：waste+ful=装满浪费的垃圾桶🗑️"
+      ]
+    }
+  },
+  {
+    "word": "wastefully",
+    "etymology": {
+      "breakdown": [
+        "waste",
+        "ful",
+        "ly"
+      ],
+      "meaning_connection": "词根waste=浪费，-ful表'充满…的'，-ly表副词后缀→充满浪费的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "挥霍地",
+        "examples": [
+          {
+            "sentence": "The billionaire wastefully bought 99 iPhones just to play Fruit Ninja.",
+            "sentence_zh": "那位亿万富翁挥霍地买了99部iPhone只为了玩水果忍者。"
+          },
+          {
+            "sentence": "She wastefully ordered every dessert on the menu while on a diet.",
+            "sentence_zh": "她一边减肥一边挥霍地点了菜单上所有甜品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "浪费地",
+        "examples": [
+          {
+            "sentence": "The tap was left wastefully running for 3 hours in the dormitory.",
+            "sentence_zh": "宿舍水龙头被浪费地开了整整3小时。"
+          },
+          {
+            "sentence": "He printed 100 pages wastefully just to get one discount coupon.",
+            "sentence_zh": "他为了一张优惠券浪费地打印了100页纸。"
+          }
+        ]
+      }
+    ],
+    "teach": "wastefully是'撒钱模式'💸的学术说法！古英语'waste'本指荒地🌵，后来变成'把资源变荒地'就是浪费。说'烧钱'用burn money like firecrackers🧨，'月光族'叫wage slave👛。记住：当你说'I wastefully ate 10 burgers'时，你其实在给汉堡王写情书🍔！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂死他富丽'→用喂食(waste)展示富贵(ful)丽(ly)",
+        "易混词：wastefully vs. tastelessly（后者指没品位的）",
+        "联想：ful尾巴像扫把→把财富扫光"
+      ]
+    }
   }
 ]

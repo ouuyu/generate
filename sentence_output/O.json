@@ -9348,5 +9348,347 @@
         "易混词对比：incident(小事件) vs occurring(更正式)"
       ]
     }
+  },
+  {
+    "word": "ocean",
+    "etymology": {
+      "breakdown": [
+        "ocean"
+      ],
+      "meaning_connection": "源自希腊语ōkeanos（俄刻阿诺斯），指环绕地球的大河"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "海洋",
+        "examples": [
+          {
+            "sentence": "The Pacific Ocean could fit all continents combined with room to spare.",
+            "sentence_zh": "太平洋大得能装下所有大陆还有富余。"
+          },
+          {
+            "sentence": "Her tears formed a tiny ocean on the exam paper.",
+            "sentence_zh": "她的眼泪在考卷上汇成微型海洋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "广阔",
+        "examples": [
+          {
+            "sentence": "An ocean of stars twinkled above the Gobi Desert.",
+            "sentence_zh": "戈壁沙漠上空闪烁着星辰的海洋。"
+          },
+          {
+            "sentence": "The influencer faced an ocean of criticism after the livestream.",
+            "sentence_zh": "直播结束后这位网红面对如潮批评。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "许多",
+        "examples": [
+          {
+            "sentence": "She has an ocean of unread novels in her Kindle.",
+            "sentence_zh": "她Kindle里有海量未读小说。"
+          },
+          {
+            "sentence": "The app provides oceans of free sticker options.",
+            "sentence_zh": "这个APP提供巨量免费表情贴纸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一大片",
+        "examples": [
+          {
+            "sentence": "An ocean of sunflowers stretched to the horizon.",
+            "sentence_zh": "向日葵花海一直延伸到地平线。"
+          },
+          {
+            "sentence": "The parking lot became an ocean of shared bikes during rush hour.",
+            "sentence_zh": "高峰期的停车场变成共享单车海洋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ocean of",
+        "meaning": "大量的",
+        "examples": [
+          {
+            "sentence": "The new policy generated an ocean of complaints on Weibo.",
+            "sentence_zh": "新政策在微博引发滔天怨言。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "drop in the ocean",
+        "meaning": "沧海一粟",
+        "examples": [
+          {
+            "sentence": "My salary is just a drop in the ocean compared to housing prices.",
+            "sentence_zh": "相比房价我的工资只是沧海一粟。"
+          }
+        ]
+      }
+    ],
+    "teach": "ocean是地球的蓝色眼泪💧！在古希腊人眼中，俄刻阿诺斯(Okeanos)是环绕大地的神河🌊。说'量多'可以用oceans of（oceans of memes表情包海量），'微不足道'叫a drop in the ocean（就像往奶茶里加一滴珍珠😂）。记住：当你说my love is an ocean时，可能是在抄《泰坦尼克号》歌词🚢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噢神'→海洋在古人看来神圣如神",
+        "易混对比：sea（小规模海域）vs ocean（浩瀚大洋）",
+        "记忆tip：把字母O看作地球，cean读音似'深'→地球深处的就是海洋"
+      ]
+    }
+  },
+  {
+    "word": "oceanic",
+    "etymology": {
+      "breakdown": [
+        "ocean",
+        "ic"
+      ],
+      "meaning_connection": "词根ocean=海洋，后缀-ic表'与...相关的'→原指与海洋相关的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "海洋的",
+        "examples": [
+          {
+            "sentence": "The oceanic currents affect global climate like nature's air conditioner.",
+            "sentence_zh": "洋流像大自然的空调般影响全球气候。"
+          },
+          {
+            "sentence": "Her dress had oceanic blue patterns that swayed like waves.",
+            "sentence_zh": "她的裙子带着海浪般摆动的海洋蓝花纹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "产于海洋的",
+        "examples": [
+          {
+            "sentence": "This oceanic plant is now used in expensive skincare products.",
+            "sentence_zh": "这种海洋植物现被用于昂贵护肤品中。"
+          },
+          {
+            "sentence": "The sushi chef only uses oceanic ingredients flown in daily.",
+            "sentence_zh": "寿司师傅只用每日空运的海洋食材。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "在海洋中生活的",
+        "examples": [
+          {
+            "sentence": "Dolphins are highly intelligent oceanic creatures.",
+            "sentence_zh": "海豚是高智商的海洋生物。"
+          },
+          {
+            "sentence": "The documentary captured rare oceanic species near hydrothermal vents.",
+            "sentence_zh": "纪录片拍摄到热泉口附近的稀有海洋物种。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "广阔的",
+        "examples": [
+          {
+            "sentence": "Standing on the plateau, I felt an oceanic sense of freedom.",
+            "sentence_zh": "站在高原上，我感受到海洋般广阔的自由。"
+          },
+          {
+            "sentence": "His oceanic knowledge of ancient history amazed the professors.",
+            "sentence_zh": "他对古代史的广博学识令教授们惊叹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "oceanic climate",
+        "meaning": "海洋性气候",
+        "examples": [
+          {
+            "sentence": "Britain's oceanic climate makes umbrellas best-selling souvenirs.",
+            "sentence_zh": "英国的海洋性气候使雨伞成为畅销纪念品。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "oceanic feeling",
+        "meaning": "浩瀚感（心理学）",
+        "examples": [
+          {
+            "sentence": "Meditation sometimes brings that oceanic feeling of boundlessness.",
+            "sentence_zh": "冥想有时会带来无边无际的浩瀚感。"
+          }
+        ]
+      }
+    ],
+    "teach": "oceanic是海王🌊的形容词！从《海底总动员》的珊瑚礁🏝️到《泰坦尼克号》的深海残骸⚓，所有海洋相关都能用它形容。说'知识渊博'可以讲oceanic knowledge（海洋般知识），'巨大压力'叫oceanic pressure（深海压力）。记住：当你说'I feel oceanic'时，要么是看到了绝美海景🌅，要么是论文写不完了在感叹任务浩瀚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噢！see啊！nic'→看到海洋美景的感叹",
+        "易混词对比：oceanic(adj.) vs. ocean(n.) vs. maritime(航海相关的)"
+      ]
+    }
+  },
+  {
+    "word": "oceanographer",
+    "etymology": {
+      "breakdown": [
+        "ocean",
+        "graph",
+        "er"
+      ],
+      "meaning_connection": "ocean=海洋，graph=记录/写，-er=人→记录研究海洋的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "海洋学家",
+        "examples": [
+          {
+            "sentence": "The oceanographer discovered glowing plankton near Hainan Island.",
+            "sentence_zh": "这位海洋学家在海南岛附近发现了发光浮游生物。"
+          },
+          {
+            "sentence": "As an oceanographer, she spends 200 days a year chasing typhoons.",
+            "sentence_zh": "作为海洋学家，她每年有200天在追台风。"
+          }
+        ]
+      }
+    ],
+    "teach": "oceanographer是'海的段子手'🌊📝：他们用CTD仪给海洋'量体温'🌡️，研究鲸鱼放屁影响气候的课题🐋💨（真事！）。搭配说marine biologist（海洋生物学家）就像奶茶和珍珠的关系🧋，地道表达叫wave chaser（追浪人）。记住：他们上班不是度假，是在解码蓝色星球的摩斯密码！",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶现哥拉佛'→偶尔现身的哥斯拉在佛前研究海洋",
+        "易混词：geographer（地理学家）研究陆地，oceanographer专攻海洋"
+      ]
+    }
+  },
+  {
+    "word": "oceanographic",
+    "etymology": {
+      "breakdown": [
+        "ocean",
+        "graph",
+        "ic"
+      ],
+      "meaning_connection": "ocean=海洋，graph=记录/描绘，-ic=形容词后缀→描绘海洋的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "海洋学的",
+        "examples": [
+          {
+            "sentence": "The oceanographic research vessel discovered glowing jellyfish near thermal vents.",
+            "sentence_zh": "这艘海洋学研究船在热泉口发现了发光水母。"
+          },
+          {
+            "sentence": "Her oceanographic thesis on coral bleaching went viral on Douyin.",
+            "sentence_zh": "她关于珊瑚白化的海洋学论文在抖音上爆红。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "oceanographic survey",
+        "meaning": "海洋勘测",
+        "examples": [
+          {
+            "sentence": "The South China Sea oceanographic survey used AI-powered submersibles.",
+            "sentence_zh": "这次南海海洋勘测使用了人工智能潜水器。"
+          },
+          {
+            "sentence": "Oceanographic surveys help predict tsunami risks.",
+            "sentence_zh": "海洋勘测有助于预测海啸风险。"
+          }
+        ]
+      }
+    ],
+    "teach": "oceanographic是'海底捞'科学版🌊！古希腊人认为海洋(graph)是大地边缘的环形河(ocean)，现代海洋学家却用ROV机器人拍抖音🤖。说'深海探索'用plunge into the abyss（跳入深渊），'沿海研究'叫littoral studies就像赶海🌴。记住：-graphic结尾的词都像摄影机🎥在记录世界！",
+    "recite": {
+      "tips": [
+        "拆解记忆：ocean+graph+ic=海洋+画+的→画海洋的",
+        "易混词对比：geographic（地理的）vs oceanographic（海洋的）",
+        "联想：'偶现no graph IC'→偶然发现没有图表集成电路(IC)的海洋"
+      ]
+    }
+  },
+  {
+    "word": "oceanography",
+    "etymology": {
+      "breakdown": [
+        "ocean",
+        "graphy"
+      ],
+      "meaning_connection": "词根ocean=海洋，后缀graphy=记录/科学→研究海洋的科学"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "海洋学",
+        "examples": [
+          {
+            "sentence": "Jacques Cousteau revolutionized oceanography with his underwater documentaries.",
+            "sentence_zh": "雅克·库斯托用他的水下纪录片革新了海洋学。"
+          },
+          {
+            "sentence": "Chinese oceanography teams discovered hydrothermal vents in the Indian Ocean.",
+            "sentence_zh": "中国海洋学研究团队在印度洋发现了热液喷口。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "physical oceanography",
+        "meaning": "物理海洋学",
+        "examples": [
+          {
+            "sentence": "Physical oceanography explains why tsunami waves behave differently in deep water.",
+            "sentence_zh": "物理海洋学能解释为何海啸波在深水区表现不同。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "oceanography equipment",
+        "meaning": "海洋学设备",
+        "examples": [
+          {
+            "sentence": "The new oceanography equipment can withstand pressure at 10,000 meters deep.",
+            "sentence_zh": "新型海洋学设备可承受万米深度的压力。"
+          }
+        ]
+      }
+    ],
+    "teach": "海洋学(oceanography)是研究'海底捞'的学科🌊！这个词其实由'海洋+写画'组成——古代水手在羊皮纸上(graphy)画海浪🌊的粗糙记录就是最早海洋学。现代海洋学家用ROV机器人🤖探测热泉就像外卖员送海底捞火锅到深海。搭配说'marine research'(海洋研究)或'deep-sea exploration'(深海探测)，吐槽研究辛苦可以说'This job is all wet!'💦",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶现那龟飞'→海洋学研究偶然发现海龟飞翔(其实是洋流作用)",
+        "易混词对比：oceanology(更偏实用技术) vs oceanography(理论科学)",
+        "记忆tip：把-graphy想象成在海洋(ocean)画图纸"
+      ]
+    }
   }
 ]

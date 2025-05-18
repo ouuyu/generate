@@ -9642,5 +9642,341 @@
         "记忆tip：想象EF字母组合成橡皮擦形状"
       ]
     }
+  },
+  {
+    "word": "effect",
+    "etymology": {
+      "breakdown": [
+        "ef",
+        "fect"
+      ],
+      "meaning_connection": "前缀ex-(出)+facere(做)→'做出来的结果'，后演变为'效果'与'实行'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "结果",
+        "examples": [
+          {
+            "sentence": "The butterfly effect explains how a sneeze in Wuhan may cause a typhoon in Tokyo.",
+            "sentence_zh": "蝴蝶效应解释了武汉的喷嚏如何引发东京的台风。"
+          },
+          {
+            "sentence": "The domino effect of housing prices affects every Chinese family.",
+            "sentence_zh": "房价的骨牌效应影响着每个中国家庭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "影响",
+        "examples": [
+          {
+            "sentence": "Douyin's algorithm has a huge effect on teenagers' attention span.",
+            "sentence_zh": "抖音算法对青少年注意力持续时间有巨大影响。"
+          },
+          {
+            "sentence": "The placebo effect works even when patients know it's fake medicine.",
+            "sentence_zh": "即使患者知道是假药，安慰剂效应依然有效。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "效果",
+        "examples": [
+          {
+            "sentence": "The special effects in Wandering Earth cost 50 million yuan.",
+            "sentence_zh": "《流浪地球》的特效花费了五千万元。"
+          },
+          {
+            "sentence": "She used Meitu App to add panda eye effects to her selfie.",
+            "sentence_zh": "她用美图app给自拍添加了熊猫眼特效。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "实行",
+        "examples": [
+          {
+            "sentence": "The government will effect new policies on online education next month.",
+            "sentence_zh": "政府将于下月实行在线教育新政策。"
+          },
+          {
+            "sentence": "Alibaba effected a major organizational restructuring last year.",
+            "sentence_zh": "阿里巴巴去年实行了重大组织架构调整。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take effect",
+        "meaning": "生效",
+        "examples": [
+          {
+            "sentence": "The new traffic rules will take effect during Spring Festival travel rush.",
+            "sentence_zh": "新交规将在春运期间生效。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in effect",
+        "meaning": "实际上",
+        "examples": [
+          {
+            "sentence": "The shared bike deposit is in effect an interest-free loan to the company.",
+            "sentence_zh": "共享单车押金实际上是给公司的无息贷款。"
+          }
+        ]
+      }
+    ],
+    "teach": "effect是个戏精单词🎭！当名词时像《流浪地球》的科幻特效🎬（special effects），当动词时像政府发布红头文件📜（effect policies）。记住：'cause and effect'就像火锅与拉肚子的关系🌶️💊，'side effect'就像喝奶茶必长胖的诅咒🍵🐷。要吐槽'没效果'可以说：It's like using a fan to blow away smog. 🌀🏙️",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱肥可'→爱发胖可(effect)能是奶茶的副作用",
+        "对比记忆：affect（影响v.）是动作，effect（结果n.）是结局",
+        "联想：Effective（有效）就是effect+ive，像特效药💊"
+      ]
+    }
+  },
+  {
+    "word": "effective",
+    "etymology": {
+      "breakdown": [
+        "ef",
+        "fect",
+        "ive"
+      ],
+      "meaning_connection": "前缀ef-=出(ex的变体)，词根fect=做(facere的变体)，-ive表性质→'能做出来的'引申出有效性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有效的",
+        "examples": [
+          {
+            "sentence": "TikTok's algorithm is highly effective at predicting user preferences.",
+            "sentence_zh": "抖音算法能高效预测用户偏好。"
+          },
+          {
+            "sentence": "This cough syrup becomes effective within 15 minutes.",
+            "sentence_zh": "这种止咳糖浆15分钟内起效。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有力的",
+        "examples": [
+          {
+            "sentence": "The lawyer made an effective argument with emoji evidence.",
+            "sentence_zh": "律师用表情包证据进行了有力论证。"
+          },
+          {
+            "sentence": "Her effective speech moved the audience to tears.",
+            "sentence_zh": "她有力的演讲让听众落泪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "实际的",
+        "examples": [
+          {
+            "sentence": "The effective control of the island belongs to fishermen.",
+            "sentence_zh": "该岛的实际控制权在渔民手中。"
+          },
+          {
+            "sentence": "His effective income is higher than the official data.",
+            "sentence_zh": "他的实际收入高于官方数据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "有生力量",
+        "examples": [
+          {
+            "sentence": "The general concentrated his effective near the Great Wall.",
+            "sentence_zh": "将军在长城附近集结有生力量。"
+          },
+          {
+            "sentence": "Veterans form the effective of this e-sports team.",
+            "sentence_zh": "老将构成这支电竞战队的有生力量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "effective immediately",
+        "meaning": "立即生效",
+        "examples": [
+          {
+            "sentence": "The new traffic rules are effective immediately.",
+            "sentence_zh": "新交规立即生效。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cost-effective",
+        "meaning": "性价比高",
+        "examples": [
+          {
+            "sentence": "Shared bicycles are cost-effective for short trips.",
+            "sentence_zh": "共享单车对短途出行性价比极高。"
+          }
+        ]
+      }
+    ],
+    "teach": "effective是'药到病除'💊+'一拳超人'👊的混合体！词根fect=做(如factory工厂)，所以effective就是'能做成的'→ 像连花清瘟对抗病毒🦠(effective medicine)，像王冰冰的治愈微笑☀️(effective charm)。说'效果显著'用highly effective就像火锅辣度🌶️，'性价比高'说cost-effective就像拼多多真香定律💰",
+    "recite": {
+      "tips": [
+        "谐音梗：'一飞可提屋'→有效(effective)到能提起整个屋子",
+        "易混词：efficient侧重效率，effective侧重效果"
+      ]
+    }
+  },
+  {
+    "word": "effectively",
+    "etymology": {
+      "breakdown": [
+        "effect",
+        "ive",
+        "ly"
+      ],
+      "meaning_connection": "effect（效果）+ -ive（形容词后缀）+ -ly（副词后缀）→ 产生效果地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有效地",
+        "examples": [
+          {
+            "sentence": "The new algorithm effectively reduces TikTok's buffering time by 80%.",
+            "sentence_zh": "新算法将抖音的缓冲时间有效减少了80%。"
+          },
+          {
+            "sentence": "Bamboo toothbrushes clean teeth effectively while being eco-friendly.",
+            "sentence_zh": "竹制牙刷在环保的同时也能有效清洁牙齿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有力地",
+        "examples": [
+          {
+            "sentence": "The Great Wall effectively defended against nomadic invasions for centuries.",
+            "sentence_zh": "长城有力防御了游牧民族数个世纪的侵袭。"
+          },
+          {
+            "sentence": "Her speech effectively convinced investors to fund the panda conservation project.",
+            "sentence_zh": "她的演讲有力说服了投资者资助熊猫保护项目。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "实际上",
+        "examples": [
+          {
+            "sentence": "The shared bicycle system has effectively become the fifth transportation in cities.",
+            "sentence_zh": "共享单车系统实际上已成为城市第五大交通工具。"
+          },
+          {
+            "sentence": "By working remotely, she's effectively created a home office in her tea house.",
+            "sentence_zh": "通过远程办公，她实际上在茶室里打造了家庭办公室。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "more effectively",
+        "meaning": "更有效地",
+        "examples": [
+          {
+            "sentence": "AI helps doctors diagnose diseases more effectively.",
+            "sentence_zh": "人工智能帮助医生更有效地诊断疾病。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "effectively immediately",
+        "meaning": "立即生效",
+        "examples": [
+          {
+            "sentence": "The new traffic rules apply effectively immediately.",
+            "sentence_zh": "新交通规则立即生效。"
+          }
+        ]
+      }
+    ],
+    "teach": "effectively像超级英雄的三种形态🦸：1) 效率模式（用高压水枪灭火🚒）2) 力量模式（像李小龙出拳👊）3) 隐身模式（实际上是老板的小号💼）。搭配'work effectively'像用太极推手完成工作☯️，'communicate effectively'像用摩斯密码发微信📶。说'没啥用'可以吐槽：as useful as a screen door on a submarine（像潜艇装纱门一样没用）🤦♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'一飞踢我'→被李小龙一飞踢我(effectively)制服",
+        "易混词对比：efficiently（高效率）vs effectively（有效果）",
+        "记忆tip：把-ive看成小火箭，带着效果(effect)升空"
+      ]
+    }
+  },
+  {
+    "word": "effectiveness",
+    "etymology": {
+      "breakdown": [
+        "effect",
+        "ive",
+        "ness"
+      ],
+      "meaning_connection": "effect（效果）+ive（形容词后缀）+ness（名词后缀）→产生效果的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "效力",
+        "examples": [
+          {
+            "sentence": "The effectiveness of this cough syrup lasts exactly 4 hours - like an alarm clock.",
+            "sentence_zh": "这款止咳糖浆的效力精准维持4小时——跟闹钟一样准时。"
+          },
+          {
+            "sentence": "Dragon beard candy's effectiveness in impressing dates is scientifically proven.",
+            "sentence_zh": "龙须糖在约会时的效力已经过科学验证。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "有效性",
+        "examples": [
+          {
+            "sentence": "The effectiveness of bubble tea as breakfast is still under debate.",
+            "sentence_zh": "奶茶作为早餐的有效性仍存在争议。"
+          },
+          {
+            "sentence": "We measured the effectiveness of spicy hotpot in clearing sinuses.",
+            "sentence_zh": "我们测量了麻辣火锅通鼻窦的有效性。"
+          }
+        ]
+      }
+    ],
+    "teach": "effectiveness就像手机信号格📶：满格时是'特效药💊'（high effectiveness），一格时是'安慰剂🍬'（low effectiveness）。说'效果拔群'用knockout effectiveness（KO级效果），'中看不中用'叫dragon beard effectiveness（龙须糖效果——好看但吃不饱）。记住：真正的effectiveness要像扫码支付一样立竿见影！💸✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'一发动全身'→效果(effectiveness)连锁反应",
+        "易混词：efficiency是效率，effectiveness是效果",
+        "记忆诀：想象微信'特效表情'的effectiveness让你笑出声"
+      ]
+    }
   }
 ]

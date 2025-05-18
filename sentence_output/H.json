@@ -9179,5 +9179,255 @@
         "易混词：long for更诗意，hanker更接地气"
       ]
     }
+  },
+  {
+    "word": "hangman",
+    "etymology": {
+      "breakdown": [
+        "hang",
+        "man"
+      ],
+      "meaning_connection": "复合词，hang=悬挂，man=人→执行悬挂死刑的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "绞刑吏",
+        "examples": [
+          {
+            "sentence": "In medieval Europe, the hangman wore a black hood to remain anonymous.",
+            "sentence_zh": "中世纪的欧洲，刽子手戴着黑头罩以隐藏身份。"
+          },
+          {
+            "sentence": "The villagers avoided eye contact with the hangman at the market.",
+            "sentence_zh": "村民们赶集时都避免与行刑者对视。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "刽子手",
+        "examples": [
+          {
+            "sentence": "Shakespeare's plays often feature a hangman as a symbol of fate.",
+            "sentence_zh": "莎士比亚戏剧常用刽子手象征命运。"
+          },
+          {
+            "sentence": "The hangman's knot was specially designed for quick execution.",
+            "sentence_zh": "刽子手结是专为快速行刑设计的绳结。"
+          }
+        ]
+      }
+    ],
+    "teach": "hangman是史上最黑暗的'手艺人'💀！这个单词自带阴森BGM：词源直白得像刑具——hang（挂）+man（人）=挂人的专家。西方刽子手常穿条纹衫（像病号服👔），因为中世纪认为这能驱邪。玩猜词游戏'Hangman'时，每错一次就画根绞刑架骨头🦴。搭配：hangman's fracture（刽子手骨折，一种颈椎伤），hangman's holiday（刽子手的假期，指没行刑的工作日）。地道说法：'紧张得像绞索上的死囚'叫 sweating like a condemned man at the gallows。",
+    "recite": {
+      "tips": [
+        "谐音梗：'行吗？'→刽子手问犯人'行刑吗？'",
+        "易混词对比：hangar（飞机库）vs hangman（别把飞机库管理员当刽子手！）",
+        "记忆tip：联想《哈利波特》处决巴克比克的刽子手沃尔顿"
+      ]
+    }
+  },
+  {
+    "word": "hankering",
+    "etymology": {
+      "breakdown": [
+        "hanker",
+        "ing"
+      ],
+      "meaning_connection": "动词hanker(渴望)来自荷兰语'hankeren'，-ing构成名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "渴望",
+        "examples": [
+          {
+            "sentence": "I have a hankering for Chongqing hotpot after watching that food vlog.",
+            "sentence_zh": "看完那个美食视频后，我对重庆火锅产生了强烈渴望。"
+          },
+          {
+            "sentence": "His hankering for adventure led him to climb Mount Everest.",
+            "sentence_zh": "他对冒险的渴望促使他攀登珠穆朗玛峰。"
+          }
+        ]
+      }
+    ],
+    "teach": "hankering比want更馋😋！这个词来自荷兰水手对家乡食物的思念🌭，就像你对奶茶的瘾（a hankering for bubble tea）。形容'特别想吃'可以说have a hankering for就像猫咪盯着鱼干🐟，用'itch'替代也行但没那么馋～记住：深夜刷到烧烤视频时的感觉就叫hankering！🍢🔥🍖",
+    "recite": {
+      "tips": [
+        "谐音梗：'很渴呢'→对奶茶很渴呢(hankering)",
+        "对比区分：hankering（强烈冲动）vs. desire（普通欲望）",
+        "记忆tip：想象汉堡(hamburger)+渴望(hankering)=对汉堡的渴望"
+      ]
+    }
+  },
+  {
+    "word": "hankie",
+    "etymology": {
+      "breakdown": [
+        "hank",
+        "ie"
+      ],
+      "meaning_connection": "缩写自handkerchief（手帕），-ie为昵称后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "手帕",
+        "examples": [
+          {
+            "sentence": "Grandma still keeps embroidered hankies in her mahjong drawer.",
+            "sentence_zh": "奶奶的麻将抽屉里仍珍藏着绣花手帕。"
+          },
+          {
+            "sentence": "He waved a red hankie like a bullfighter during the concert.",
+            "sentence_zh": "他在演唱会像斗牛士般挥舞红手帕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cry into one's hankie",
+        "meaning": "用手帕擦泪",
+        "examples": [
+          {
+            "sentence": "K-drama fans always cry into their hankies during final episodes.",
+            "sentence_zh": "韩剧粉看到大结局时总用手帕抹泪。"
+          }
+        ]
+      }
+    ],
+    "teach": "hankie是手帕界的emoji🧸！中世纪贵族用镶金边手帕炫富💎，现代人用纸巾说'没带hankie'就像手机没电📵。搭配：'pass the hankie'（递手帕），'hankie headband'（用手帕扎头发）。说'老土'可以吐槽：'so last-century hankie'（上世纪的老古董）💨🧵💧",
+    "recite": {
+      "tips": [
+        "谐音梗：'汗可依'→出汗可依(hankie)赖的小毛巾",
+        "对比：hankie（小方巾） vs. scarf（大围巾）"
+      ]
+    }
+  },
+  {
+    "word": "hanky",
+    "etymology": {
+      "breakdown": [
+        "hank",
+        "y"
+      ],
+      "meaning_connection": "词根hank=卷/束，后缀-y表小→原指'小卷布'，16世纪演变为手帕的俚语表达"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "手帕",
+        "examples": [
+          {
+            "sentence": "Grandma always carries a lace hanky in her cheongsam sleeve.",
+            "sentence_zh": "奶奶的旗袍袖子里总藏着蕾丝手帕。"
+          },
+          {
+            "sentence": "Magicians pull rabbits from hats, but my uncle pulls stinky hankies from his nose.",
+            "sentence_zh": "魔术师从帽子里变兔子，我叔叔却从鼻子里拽出臭手帕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hanky panky",
+        "meaning": "鬼把戏/暧昧行为",
+        "examples": [
+          {
+            "sentence": "The teacher caught students doing hanky panky behind the textbooks.",
+            "sentence_zh": "老师发现学生在课本后面搞小动作。"
+          },
+          {
+            "sentence": "No hanky panky allowed during company retreats!",
+            "sentence_zh": "公司团建时禁止任何暧昧行为！"
+          }
+        ]
+      }
+    ],
+    "teach": "hanky其实是handkerchief的傲娇小名👛！维多利亚时期淑女用抛手帕(hanky drop)暗示约会💘，现代人却说hanky panky表示'不可描述'😏。实用搭配：'哭湿手帕'叫sob into a hanky，'叠手帕'像折豆腐块叫fold hanky neatly。记住：带蕾丝边的叫hanky，擦鼻涕的叫tissue！",
+    "recite": {
+      "tips": [
+        "谐音梗：'汗可溢'→汗多了用hanky擦",
+        "易混词对比：hanky(小资手帕) vs. tissue(糙汉纸巾)"
+      ]
+    }
+  },
+  {
+    "word": "Hanoverian",
+    "etymology": {
+      "breakdown": [
+        "Hanover",
+        "ian"
+      ],
+      "meaning_connection": "源自德国城市汉诺威(Hanover)，后缀-ian表示'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "汉诺威人",
+        "examples": [
+          {
+            "sentence": "The Hanoverians celebrated their traditional harvest festival with lederhosen and beer steins.",
+            "sentence_zh": "汉诺威人穿着皮裤举着啤酒杯庆祝传统丰收节。"
+          },
+          {
+            "sentence": "As a Hanoverian, he could trace his family history back to the 18th century.",
+            "sentence_zh": "作为汉诺威人，他的家族史可追溯到18世纪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "汉诺威的",
+        "examples": [
+          {
+            "sentence": "The Hanoverian architecture features colorful half-timbered houses.",
+            "sentence_zh": "汉诺威建筑以彩色半木结构房屋为特色。"
+          },
+          {
+            "sentence": "This Hanoverian dialect sounds like a mix of Dutch and German.",
+            "sentence_zh": "这种汉诺威方言听起来像荷兰语和德语的混合体。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Hanoverian dynasty",
+        "meaning": "汉诺威王朝",
+        "examples": [
+          {
+            "sentence": "The Hanoverian dynasty ruled Britain from 1714 to 1901.",
+            "sentence_zh": "汉诺威王朝从1714年至1901年统治英国。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Hanoverian horse",
+        "meaning": "汉诺威马",
+        "examples": [
+          {
+            "sentence": "Hanoverian horses are often seen in Olympic equestrian events.",
+            "sentence_zh": "汉诺威马常见于奥运马术比赛。"
+          }
+        ]
+      }
+    ],
+    "teach": "Hanoverian是个自带GPS的词🗺️！它不仅能指汉诺威人（像穿着巴伐利亚皮裤的德国大叔👨），还能形容汉诺威特产（比如奥运会上优雅的汉诺威马🏇）。最酷的是英国曾有个汉诺威王朝🇬🇧，因为乔治一世是德国汉诺威选帝侯！说'纯正汉诺威口音'要说thick Hanoverian accent，就像火锅分微辣中辣一样🌶️。",
+    "recite": {
+      "tips": [
+        "谐音梗：'汗诺威'→出汗(hān)的诺威(Hanover)人",
+        "易混词：Hamburger（汉堡）vs Hanoverian（汉诺威）",
+        "记忆法：记住'Hanover+ian'就像'北京+人'"
+      ]
+    }
   }
 ]
