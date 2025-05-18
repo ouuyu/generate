@@ -3471,5 +3471,248 @@
         "联想：所有sag开头的词都往下走→sagacious（睿智的）除外，这是例外！"
       ]
     }
+  },
+  {
+    "word": "saga",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'saga'，原指北欧维京人的口述历史，后来引申为长篇英雄故事。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "传说",
+        "examples": [
+          {
+            "sentence": "The saga of the Monkey King has been passed down for centuries.",
+            "sentence_zh": "美猴王的传说已经流传了几个世纪。"
+          },
+          {
+            "sentence": "Every family reunion involves retelling the saga of Grandpa's wartime adventures.",
+            "sentence_zh": "每次家庭聚会都会重述爷爷的战争冒险传说。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "英雄传奇",
+        "examples": [
+          {
+            "sentence": "The Avengers movies are essentially modern superhero sagas.",
+            "sentence_zh": "复仇者联盟电影本质上是现代超级英雄传奇。"
+          },
+          {
+            "sentence": "Chinese wuxia novels often follow the saga of a martial arts master.",
+            "sentence_zh": "中国武侠小说经常讲述武术大师的英雄传奇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "冒险故事",
+        "examples": [
+          {
+            "sentence": "My backpacking trip through Asia turned into an unexpected saga.",
+            "sentence_zh": "我的亚洲背包旅行变成了一个意外的冒险故事。"
+          },
+          {
+            "sentence": "Getting my driver's license was a three-month saga of failed tests.",
+            "sentence_zh": "我考驾照的经历是一个持续三个月、屡败屡战的冒险故事。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "family saga",
+        "meaning": "家族传奇",
+        "examples": [
+          {
+            "sentence": "The TV drama 'The Story of Yanxi Palace' is essentially a royal family saga.",
+            "sentence_zh": "电视剧《延禧攻略》本质上是一个皇室家族传奇。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "saga continues",
+        "meaning": "故事未完待续",
+        "examples": [
+          {
+            "sentence": "After three sequels, the Fast & Furious saga continues.",
+            "sentence_zh": "拍了三部续集后，《速度与激情》的故事仍在上演。"
+          }
+        ]
+      }
+    ],
+    "teach": "saga这个词就像维京人的Netflix📜！最初是北欧勇士围着篝火🍖讲述的冒险故事（想象雷神托尔喝着蜜酒讲故事🍺），现在可以形容任何长篇大论——包括你闺蜜吐槽相亲的3小时语音🗣️。要说'又臭又长的故事'可以用saga of the century，想形容'史诗级连续剧'就说never-ending saga。记住：所有让你翻白眼'还没讲完？'的故事都是saga！🎭⚔️🍿",
+    "recite": {
+      "tips": [
+        "谐音梗：'三个啊'→讲完三个啊(saga)字都还没完的长故事",
+        "易混词对比：saga(英雄故事) vs. legend(神话传说)",
+        "联想记忆：漫威宇宙就是modern saga"
+      ]
+    }
+  },
+  {
+    "word": "sagacious",
+    "etymology": {
+      "breakdown": [
+        "sag",
+        "acious"
+      ],
+      "meaning_connection": "词根sag=感知/智慧（同sage智者），-acious表'多...的'→充满智慧的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "睿智的（指深谋远虑）",
+        "examples": [
+          {
+            "sentence": "The sagacious old man predicted the stock market crash three years in advance.",
+            "sentence_zh": "这位睿智的老人提前三年预言了股市崩盘。"
+          },
+          {
+            "sentence": "Her sagacious advice saved the company from bankruptcy.",
+            "sentence_zh": "她睿智的建议让公司免于破产。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "聪明的（指快速判断）",
+        "examples": [
+          {
+            "sentence": "The sagacious child solved the Rubik's cube in 30 seconds.",
+            "sentence_zh": "这个聪明的孩子在30秒内解开了魔方。"
+          },
+          {
+            "sentence": "Sagacious investors bought Bitcoin when it was $100.",
+            "sentence_zh": "精明的投资者在比特币100美元时买入。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "贤明的（指道德智慧）",
+        "examples": [
+          {
+            "sentence": "King Wen of Zhou was considered a sagacious ruler in Chinese history.",
+            "sentence_zh": "周文王被认为是中国历史上的贤明君主。"
+          },
+          {
+            "sentence": "The sagacious monk mediated the conflict with ancient proverbs.",
+            "sentence_zh": "这位贤明的僧人用古老谚语调解了冲突。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "伶俐的（指机敏反应）",
+        "examples": [
+          {
+            "sentence": "The sagacious parrot imitated 20 different bird calls.",
+            "sentence_zh": "这只伶俐的鹦鹉模仿了20种不同的鸟叫声。"
+          },
+          {
+            "sentence": "Her sagacious reply to the journalist's trap question went viral.",
+            "sentence_zh": "她对记者陷阱问题的机敏回应在网上疯传。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sagacious decision",
+        "meaning": "明智决定",
+        "examples": [
+          {
+            "sentence": "Choosing to study AI in 2010 was a sagacious decision.",
+            "sentence_zh": "2010年选择学习AI是个明智决定。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sagacious investor",
+        "meaning": "精明投资者",
+        "examples": [
+          {
+            "sentence": "Sagacious investors diversify their portfolios like chefs balance flavors.",
+            "sentence_zh": "精明的投资者分散投资组合就像厨师平衡口味。"
+          }
+        ]
+      }
+    ],
+    "teach": "sagacious是智慧界的爱马仕🧠！词根sag-和'sage（智者）'同源，就像诸葛亮能借东风🌪️（sagacious strategy）。说人'大智若愚'可用'wise as an owl but pretends to be a pigeon'🦉+🐦。记住：sagacious比smart更'老狐狸'，比wise更'活学活用'！搭配'sagacious choice'（神选择）或'sagacious af'（网络梗，表示机智到炸）",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒给谁看'→聪明人(sagacious)晒智慧要给懂的人看",
+        "易混词：sensible（理智的）≠sagacious（睿智的），就像计算器≠人工智能"
+      ]
+    }
+  },
+  {
+    "word": "sagacity",
+    "etymology": {
+      "breakdown": [
+        "sag",
+        "acity"
+      ],
+      "meaning_connection": "词根sag=敏锐的（如sagacious），后缀-acity表性质→像猎犬嗅探般的敏锐智慧"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "睿智",
+        "examples": [
+          {
+            "sentence": "The old fisherman's sagacity in reading tides saved the village from tsunami.",
+            "sentence_zh": "老渔民解读潮汐的睿智使村庄免于海啸。"
+          },
+          {
+            "sentence": "Her sagacity in choosing stocks rivals Warren Buffett's.",
+            "sentence_zh": "她选股的睿智堪比巴菲特。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "聪敏",
+        "examples": [
+          {
+            "sentence": "The crow demonstrated surprising sagacity by using traffic to crack nuts.",
+            "sentence_zh": "乌鸦利用车流砸开坚果，展现出惊人的聪敏。"
+          },
+          {
+            "sentence": "Pandas' sagacity in pretending to be cubs ensures lifelong care from humans.",
+            "sentence_zh": "熊猫假装幼崽的聪敏确保了人类的终身照料。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with sagacity",
+        "meaning": "睿智地",
+        "examples": [
+          {
+            "sentence": "The diplomat handled the crisis with the sagacity of a chess grandmaster.",
+            "sentence_zh": "外交官像国际象棋大师般睿智地处理危机。"
+          }
+        ]
+      }
+    ],
+    "teach": "sagacity其实是'狗鼻子智商'🐽！词根sag和嗅探(sniff)同源，古人认为智慧就像猎犬追踪气味🎯。说'大智若愚'可用wise as an owl🦉，但真智者往往像狐狸般sagacious🦊。搭配：show sagacity（展现智慧）/sagacity of age（岁月沉淀的智慧）。记住：真正的sagacity是知道火锅先涮毛肚！🍲",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒咖city'→晒咖啡的城市人最睿智",
+        "易混词：sanity（神志正常）vs sagacity（智慧超凡）",
+        "记忆tip：联想sage（智者）的-acity后缀"
+      ]
+    }
   }
 ]

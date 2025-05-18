@@ -3412,5 +3412,263 @@
         "谐音梗：'背啃'→专啃猪背肉"
       ]
     }
+  },
+  {
+    "word": "bacterial",
+    "etymology": {
+      "breakdown": [
+        "bacter",
+        "ium",
+        "al"
+      ],
+      "meaning_connection": "词根bacter=小棒（细菌形状），-ium表名词后缀，-al表形容词性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "细菌的",
+        "examples": [
+          {
+            "sentence": "The bacterial growth in expired yogurt looks like modern art.",
+            "sentence_zh": "过期酸奶中的细菌菌落看起来像现代艺术。"
+          },
+          {
+            "sentence": "Bacterial infection from undercooked hotpot is no joke.",
+            "sentence_zh": "火锅没涮熟导致的细菌感染可不是闹着玩的。"
+          }
+        ]
+      }
+    ],
+    "teach": "bacterial其实是'细菌界的高富帅'🔬！词根bacter本意是'小棍'（因为杆状细菌长得像火柴棍），想象成百万细菌在你手机屏幕上开运动会🏃♂️。'细菌感染'说bacterial infection，'抑菌'叫bacterial resistance就像打地鼠游戏👾。记住：细菌们可比你的健身计划更有毅力！",
+    "recite": {
+      "tips": [
+        "谐音梗：'掰开揉'→把细菌掰开揉碎做研究",
+        "易混词对比：bacterial（细菌的） vs. viral（病毒的） vs. fungal（真菌的）"
+      ]
+    }
+  },
+  {
+    "word": "bacteriological",
+    "etymology": {
+      "breakdown": [
+        "bacterio",
+        "log",
+        "ical"
+      ],
+      "meaning_connection": "bacterio=细菌（来自希腊语bakterion小棍棒，因早期观察到的细菌呈杆状），-log=学科，-ical=形容词后缀→研究细菌的学科相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "细菌学的",
+        "examples": [
+          {
+            "sentence": "The bacteriological experiment requires wearing full protective gear.",
+            "sentence_zh": "这项细菌学实验需要穿戴全套防护装备。"
+          },
+          {
+            "sentence": "This bacteriological research paper explains why stinky tofu smells so unique.",
+            "sentence_zh": "这篇细菌学论文解释了臭豆腐为何具有独特气味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "细菌学上的",
+        "examples": [
+          {
+            "sentence": "From a bacteriological perspective, kimchi fermentation is a war between microbes.",
+            "sentence_zh": "从细菌学角度看，泡菜发酵是微生物之间的战争。"
+          },
+          {
+            "sentence": "The bacteriological characteristics of this strain make it perfect for making yogurt.",
+            "sentence_zh": "该菌株的细菌学特性使其特别适合制作酸奶。"
+          }
+        ]
+      }
+    ],
+    "teach": "bacteriological这个词像显微镜🔬下的细菌培养皿🧫！词根bacterio来自希腊语'小棍棒'（古人最早观察到的细菌形状），而-log就像抖音里的知识博主📚在讲解。说'细菌战'叫germ warfare，'益生菌'是probiotics。记住：所有以-ology结尾的词都像开启了一扇学术之门🚪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'掰开特饿逻辑'→掰开细菌饿死它们的逻辑",
+        "易混词对比：bacterial（细菌的） vs. bacteriological（细菌学的）"
+      ]
+    }
+  },
+  {
+    "word": "bacteriologist",
+    "etymology": {
+      "breakdown": [
+        "bacterio",
+        "logist"
+      ],
+      "meaning_connection": "词根bacterio=细菌，logist=研究...的人→研究细菌的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "细菌学家",
+        "examples": [
+          {
+            "sentence": "The bacteriologist discovered a new strain in spicy hotpot broth.",
+            "sentence_zh": "这位细菌学家在麻辣火锅汤底中发现新菌株。"
+          },
+          {
+            "sentence": "Like Sherlock Holmes with microbes, the bacteriologist solved the yogurt contamination case.",
+            "sentence_zh": "这位细菌学家像微生物界的福尔摩斯，破解了酸奶污染案。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chief bacteriologist",
+        "meaning": "首席细菌学家",
+        "examples": [
+          {
+            "sentence": "The chief bacteriologist wears petri dish earrings to work.",
+            "sentence_zh": "首席细菌学家戴着培养皿耳环上班。"
+          }
+        ]
+      }
+    ],
+    "teach": "细菌学家就是微生物界的福尔摩斯🔬！他们整天和菌群斗智斗勇，像在玩'大家来找茬'🔍（spot the bacteria）。实验室必备两件套：咖啡和消毒液☕🧴。说'专业过硬'叫know one's onions（字面意思：懂洋葱，因早期细菌研究常用洋葱皮），工作状态堪称'菌'临天下🧫！",
+    "recite": {
+      "tips": [
+        "拆解记忆：bacteria(细菌)+ologist(专家)=细菌专家",
+        "易混词对比：biologist（生物学家）范围更广"
+      ]
+    }
+  },
+  {
+    "word": "bacteriology",
+    "etymology": {
+      "breakdown": [
+        "bacterio",
+        "logy"
+      ],
+      "meaning_connection": "词根bacterio=细菌（来自希腊语βακτήριον），-logy=学科（来自希腊语λογία）→研究细菌的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "细菌学",
+        "examples": [
+          {
+            "sentence": "Louis Pasteur founded modern bacteriology while studying beer fermentation.",
+            "sentence_zh": "巴斯德在研究啤酒发酵时创立了现代细菌学。"
+          },
+          {
+            "sentence": "Bacteriology labs always smell like a mix of yogurt and disappointment.",
+            "sentence_zh": "细菌学实验室总散发着酸奶混合着绝望的气味。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "medical bacteriology",
+        "meaning": "医学细菌学",
+        "examples": [
+          {
+            "sentence": "During the pandemic, medical bacteriology became as popular as K-pop.",
+            "sentence_zh": "疫情期间，医学细菌学变得和K-pop一样热门。"
+          }
+        ]
+      }
+    ],
+    "teach": "细菌学是微生物界的八卦周刊📚！你知道吗？第一个发现细菌的列文虎克其实是个卖布的👔，他用自制显微镜看布料时意外发现了'小动物'（animalcules）。要形容'研究入迷'可以说go down the bacteria rabbit hole🕳️，'培养细菌'叫culture bacteria就像养电子宠物🐣。记住：你的手机屏幕比马桶圈细菌更多🚽！",
+    "recite": {
+      "tips": [
+        "拆解记忆：bacteria（细菌）+ology（学科）",
+        "易混词对比：biology（生物学）vs bacteriology（细菌学）",
+        "视觉联想：把-logy记成'逻辑'→用逻辑研究细菌"
+      ]
+    }
+  },
+  {
+    "word": "bad",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语bæddel（阴柔男子），后演变为广义的'坏'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "坏的",
+        "examples": [
+          {
+            "sentence": "That expired stinky tofu smells really bad.",
+            "sentence_zh": "那块过期的臭豆腐闻起来糟透了。"
+          },
+          {
+            "sentence": "My phone battery is so bad it dies during weixin video calls.",
+            "sentence_zh": "我的手机电池太差，微信视频时总会关机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "坏",
+        "examples": [
+          {
+            "sentence": "There's good and bad in every takeout order.",
+            "sentence_zh": "每份外卖都有好有坏。"
+          },
+          {
+            "sentence": "The movie exaggerated the battle between good and bad.",
+            "sentence_zh": "这部电影夸大了善恶之争。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "坏地",
+        "examples": [
+          {
+            "sentence": "The baozi was wrapped so bad that the filling leaked out.",
+            "sentence_zh": "包子包得太差，馅料都漏出来了。"
+          },
+          {
+            "sentence": "He sang so bad that neighbor's cat started howling.",
+            "sentence_zh": "他唱得太难听，连邻居的猫都开始嚎叫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go bad",
+        "meaning": "变质",
+        "examples": [
+          {
+            "sentence": "The milk went bad because someone left it outside.",
+            "sentence_zh": "牛奶因为被人放在外面而变质了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "not bad",
+        "meaning": "不错",
+        "examples": [
+          {
+            "sentence": "The new hotpot place near campus is not bad at all.",
+            "sentence_zh": "学校附近新开的火锅店相当不错。"
+          }
+        ]
+      }
+    ],
+    "teach": "bad这个词就像火锅里的花椒🌶️——适量提香，过量灾难！最早指'阴柔男子'（bæddel），现在说'演技差'叫bad acting就像水煮鱼没放辣椒🌶️。要说'糟透了'可以用train wreck（火车事故现场），'不太糟'说not too shabby（不寒酸）。记住：当你的外卖小哥说'not bad'，其实在疯狂暗示要五星好评⭐！",
+    "recite": {
+      "tips": [
+        "谐音梗：'败的'→东西败坏了",
+        "易混词：bad（主观差） vs. poor（客观差）",
+        "记忆法：bad字母倒过来是dab（轻触），轻轻一碰就坏"
+      ]
+    }
   }
 ]

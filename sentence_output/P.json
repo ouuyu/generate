@@ -3616,5 +3616,316 @@
         "易混词对比：pain（痛苦） vs pane（窗格玻璃） vs pen（钢笔）"
       ]
     }
+  },
+  {
+    "word": "pained",
+    "etymology": {
+      "breakdown": [
+        "pain",
+        "ed"
+      ],
+      "meaning_connection": "pain（疼痛）+ -ed（形容词后缀）→ 从'疼痛'引申出情感上的痛苦"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "痛的",
+        "examples": [
+          {
+            "sentence": "The pained expression on his face suggested his toothache was worsening.",
+            "sentence_zh": "他脸上痛苦的表情暗示牙痛正在加剧。"
+          },
+          {
+            "sentence": "She walked with a pained gait after the marathon.",
+            "sentence_zh": "马拉松赛后她走路时带着疼痛的步态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "苦恼的",
+        "examples": [
+          {
+            "sentence": "His pained silence spoke volumes about the failed startup.",
+            "sentence_zh": "他苦恼的沉默诉说着创业失败的种种。"
+          },
+          {
+            "sentence": "The pained parents waited outside the ICU.",
+            "sentence_zh": "忧心忡忡的父母在重症监护室外等待。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "伤感情的",
+        "examples": [
+          {
+            "sentence": "She gave him a pained look when he mentioned her ex.",
+            "sentence_zh": "当他提起她前任时，她投来受伤的眼神。"
+          },
+          {
+            "sentence": "Their pained reunion was like a K-drama plot.",
+            "sentence_zh": "他们伤感的重逢堪比韩剧剧情。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "表示怨恨的",
+        "examples": [
+          {
+            "sentence": "\"You forgot our anniversary again,\" she said in a pained voice.",
+            "sentence_zh": "「你又忘了我们的纪念日，」她带着怨怼的语气说道。"
+          },
+          {
+            "sentence": "His pained remarks about the divorce went viral on Weibo.",
+            "sentence_zh": "他关于离婚的怨怼言论在微博上疯传。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pained expression",
+        "meaning": "痛苦表情",
+        "examples": [
+          {
+            "sentence": "The panda's pained expression while eating spicy hotpot became a meme.",
+            "sentence_zh": "熊猫吃麻辣火锅时的痛苦表情成了表情包。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pained dignity",
+        "meaning": "强忍痛苦的尊严",
+        "examples": [
+          {
+            "sentence": "He maintained pained dignity after losing the esports final.",
+            "sentence_zh": "输掉电竞决赛后，他保持着强忍痛苦的尊严。"
+          }
+        ]
+      }
+    ],
+    "teach": "pained是'痛'的演技派🎭！物理疼痛像被容嬷嬷扎针💉（pained groan），心理痛苦像双十一没抢到优惠券😭（pained sigh）。'伤感情'时像看到闺蜜用前男友同款手机壳📱（pained smile），'怨恨'时像发现同事偷吃你冰箱里的粽子🥢（pained glare）。记住：pained=痛到需要奥斯卡提名！",
+    "recite": {
+      "tips": [
+        "谐音梗：'配你的'→疼痛配你的表情",
+        "易混词对比：painful（令人疼痛的） vs pained（感到疼痛的）",
+        "记忆tip：pain+ed=已经痛到变形"
+      ]
+    }
+  },
+  {
+    "word": "painful",
+    "etymology": {
+      "breakdown": [
+        "pain",
+        "ful"
+      ],
+      "meaning_connection": "词根pain=痛苦，后缀-ful表'充满...的'→充满痛苦的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "痛苦的",
+        "examples": [
+          {
+            "sentence": "The breakup was so painful that he ate three hotpots in a row.",
+            "sentence_zh": "分手太痛苦了，他连吃了三顿火锅。"
+          },
+          {
+            "sentence": "Watching my team lose is more painful than stubbing my toe.",
+            "sentence_zh": "看我支持的球队输球比脚趾撞到桌角还痛苦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "困难的",
+        "examples": [
+          {
+            "sentence": "The final exam was a painful experience for all meme-lovers.",
+            "sentence_zh": "期末考试对所有表情包爱好者来说都是艰难体验。"
+          },
+          {
+            "sentence": "Getting up at 5am is painfully difficult for night owls.",
+            "sentence_zh": "对夜猫子而言，清晨5点起床异常困难。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "令人烦恼的",
+        "examples": [
+          {
+            "sentence": "The constant notifications from that app are painfully annoying.",
+            "sentence_zh": "那个应用持续的通知提醒烦得令人发指。"
+          },
+          {
+            "sentence": "His painfully slow typing drove his teammates crazy.",
+            "sentence_zh": "他慢得令人抓狂的打字速度让队友崩溃。"
+          }
+        ]
+      }
+    ],
+    "teach": "painful就像踩乐高积木🦶：物理疼痛（脚底）、心理痛苦（钱包）、精神折磨（收拾残局）三重暴击！古人云'痛定思痛'，英语说'no pain no gain'💪。想吐槽'太难受了'可以说'It hurts my soul'，形容'尴尬到脚趾抠地'用cringe-worthy更传神🤦‍♂️。记住：人生就像榴莲，painful but delicious！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赔你否'→痛苦到拒绝赔偿",
+        "易混词对比：painful(主观感受)/sore(身体部位疼痛)",
+        "记忆tip：把ful想成'full'→充满pain的感觉"
+      ]
+    }
+  },
+  {
+    "word": "painfully",
+    "etymology": {
+      "breakdown": [
+        "pain",
+        "ful",
+        "ly"
+      ],
+      "meaning_connection": "pain（疼痛）+ -ful（充满...的）+ -ly（副词后缀）→ 充满疼痛地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "痛苦地",
+        "examples": [
+          {
+            "sentence": "The athlete smiled painfully while holding his broken ankle.",
+            "sentence_zh": "运动员抱着骨折的脚踝痛苦地微笑。"
+          },
+          {
+            "sentence": "She laughed painfully when recalling her cringy teenage diaries.",
+            "sentence_zh": "想起中二时期的日记时，她痛苦地笑了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "苦恼地",
+        "examples": [
+          {
+            "sentence": "The programmer rubbed his temples painfully after debugging for 8 hours.",
+            "sentence_zh": "连续调试8小时后，程序员苦恼地揉着太阳穴。"
+          },
+          {
+            "sentence": "He watched painfully as his dumpling sank in the hotpot.",
+            "sentence_zh": "他苦恼地看着饺子沉入火锅底。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "费力地",
+        "examples": [
+          {
+            "sentence": "The toddler painfully dragged the giant panda plush upstairs.",
+            "sentence_zh": "小宝宝费力地把巨型熊猫玩偶拖上楼。"
+          },
+          {
+            "sentence": "We progressed painfully through the crowded Comic Con.",
+            "sentence_zh": "我们在拥挤的漫展上费力前行。"
+          }
+        ]
+      }
+    ],
+    "teach": "painfully就像吃重庆火锅时咬到花椒🌶️——可以是真的疼（摔断腿）、心里苦（被甩）、或单纯费劲（挤早高峰地铁）！要说'尴尬到脚趾抠地'可以用painfully awkward，'龟速前进'说painfully slow。记住这个三味一体词：肉体疼用'痛苦'，心里苦用'苦恼'，动作慢用'费力'！💔🐌💦",
+    "recite": {
+      "tips": [
+        "谐音梗：'赔衣服里'→衣服里藏私房钱被发现后赔（pain）衣服里（fully）",
+        "对比记忆：painfully（主观感受） vs. painfully（客观描述）"
+      ]
+    }
+  },
+  {
+    "word": "painkiller",
+    "etymology": {
+      "breakdown": [
+        "pain",
+        "kill",
+        "er"
+      ],
+      "meaning_connection": "字面组合'杀死疼痛的东西'，-er表示'执行动作的工具'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "解痛药",
+        "examples": [
+          {
+            "sentence": "The dentist prescribed a painkiller shaped like tiny pandas.",
+            "sentence_zh": "牙医开了一种小熊猫形状的解痛药。"
+          },
+          {
+            "sentence": "This herbal painkiller uses ingredients from Tibetan plateau.",
+            "sentence_zh": "这款草药解痛药采用青藏高原的原料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "止痛片",
+        "examples": [
+          {
+            "sentence": "Office workers often keep painkillers in their pencil cases.",
+            "sentence_zh": "上班族常把止痛片放在笔袋里。"
+          },
+          {
+            "sentence": "The bubble tea flavored painkiller went viral on Xiaohongshu.",
+            "sentence_zh": "奶茶味的止痛片在小红书上爆火。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "止痛药",
+        "examples": [
+          {
+            "sentence": "Chinese athletes can't use certain painkillers during competitions.",
+            "sentence_zh": "中国运动员比赛期间禁用某些止痛药。"
+          },
+          {
+            "sentence": "This ancient painkiller recipe was found in a Tang Dynasty tomb.",
+            "sentence_zh": "这个古法止痛药配方出土于唐代墓葬。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take painkillers",
+        "meaning": "服用止痛药",
+        "examples": [
+          {
+            "sentence": "After the dumpling eating contest, he had to take painkillers for his stomach.",
+            "sentence_zh": "吃完饺子大赛后，他不得不为胃部服用止痛药。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "over-the-counter painkiller",
+        "meaning": "非处方止痛药",
+        "examples": [
+          {
+            "sentence": "The panda-themed over-the-counter painkiller sells well in zoo gift shops.",
+            "sentence_zh": "熊猫主题的非处方止痛药在动物园礼品店很畅销。"
+          }
+        ]
+      }
+    ],
+    "teach": "painkiller其实是'疼痛刺客'🗡️！古埃及人用鳄鱼粪便💩当止痛药（真·痛上加痛），现代人嗑布洛芬就像吃糖豆🍬。'痛到裂开'说feel like being hit by a truck🚚，'嗑药'俚语叫pop pills💊。记住：你的painkiller可能比前任更懂止痛！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呸！可辣'→止痛药苦到呸呸呸",
+        "易混词：painkiller（药）vs. pain reliever（更正式）",
+        "记忆tip：想象kill疼痛的小人儿在打架"
+      ]
+    }
   }
 ]

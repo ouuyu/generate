@@ -3379,5 +3379,329 @@
         "记忆tip：想象胆囊是奶茶店，结石就是沉底的珍珠（但医生不建议你吸出来）"
       ]
     }
+  },
+  {
+    "word": "galore",
+    "etymology": {
+      "breakdown": [
+        "go",
+        "leór"
+      ],
+      "meaning_connection": "源自爱尔兰语'go leór'=足够，经苏格兰英语演变为表示'大量'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "丰富地",
+        "examples": [
+          {
+            "sentence": "The night market had snacks galore under colorful lanterns.",
+            "sentence_zh": "夜市在华丽的灯笼下有着丰富的小吃。"
+          },
+          {
+            "sentence": "During Double 11, discounts appear galore on Taobao.",
+            "sentence_zh": "双十一期间淘宝上大量出现折扣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "丰富",
+        "examples": [
+          {
+            "sentence": "The galore of cherry blossoms attracts tourists worldwide.",
+            "sentence_zh": "樱花的丰富吸引了全世界的游客。"
+          },
+          {
+            "sentence": "A galore of memes flooded Weibo after the TV series aired.",
+            "sentence_zh": "电视剧播出后大量表情包涌入微博。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大量",
+        "examples": [
+          {
+            "sentence": "The galore of delivery packages piled up at dormitory entrances.",
+            "sentence_zh": "宿舍门口堆积着大量快递包裹。"
+          },
+          {
+            "sentence": "Street vendors offer a galore of phone accessories.",
+            "sentence_zh": "街边小贩提供大量的手机配件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in galore",
+        "meaning": "大量存在",
+        "examples": [
+          {
+            "sentence": "Bubble tea shops in galore make choosing difficult.",
+            "sentence_zh": "大量存在的奶茶店让人选择困难。"
+          }
+        ]
+      }
+    ],
+    "teach": "galore是狂欢节彩带🎊！源自爱尔兰人说'够啦够啦(go leór)'的豪迈，现在形容像火锅店菜品🍲那样丰富。说'物资充足'叫aplenty，但galore更带节日感！记住：奶茶店优惠券多到溢出来时就用'coupons galore'🧋，搭配'美食遍地'说food galore like hotpot ingredients🍢",
+    "recite": {
+      "tips": [
+        "谐音梗：'割咯肉'→割一堆肉(galore)涮火锅",
+        "对比：aplenty(充足但克制) vs galore(多到夸张)"
+      ]
+    }
+  },
+  {
+    "word": "galosh",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'galoche'，指中世纪木底鞋，后演变为防水橡胶套鞋"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "橡胶套鞋",
+        "examples": [
+          {
+            "sentence": "British gentlemen still wear galoshes over leather shoes in rainy seasons.",
+            "sentence_zh": "英国绅士雨季仍会在皮鞋外穿橡胶套鞋。"
+          },
+          {
+            "sentence": "The vintage galoshes in museum look like duck bills.",
+            "sentence_zh": "博物馆里的复古套鞋像鸭嘴般可爱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pair of galoshes",
+        "meaning": "一双套鞋",
+        "examples": [
+          {
+            "sentence": "My grandma keeps a pair of red galoshes from 1960s.",
+            "sentence_zh": "我奶奶珍藏着一双1960年代的红色套鞋。"
+          }
+        ]
+      }
+    ],
+    "teach": "galosh是雨靴界的贵族👑！维多利亚时期绅士穿它保护高级皮鞋👞（就像手机防尘袋📱），现代人却说'穿着像唐老鸭'🦆。搭配'暴雨天'说heavy downpour，'防水神器'叫rainproof gear。记住：当英国人说'mind your galoshes'，其实在提醒你'别踩到狗屎'💩！",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬乐靴'→穿套鞋在雨中尬舞",
+        "易混词对比：boots(常规靴子) vs galoshes(外穿套鞋)"
+      ]
+    }
+  },
+  {
+    "word": "galvanic",
+    "etymology": {
+      "breakdown": [
+        "galvan",
+        "ic"
+      ],
+      "meaning_connection": "源自意大利生物学家Luigi Galvani（发现生物电现象），后缀-ic表形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "电流的",
+        "examples": [
+          {
+            "sentence": "The galvanic reaction between different metals accelerated corrosion.",
+            "sentence_zh": "不同金属间的电流反应加速了腐蚀。"
+          },
+          {
+            "sentence": "Galvanic cells power many emergency devices.",
+            "sentence_zh": "原电池为许多应急设备供电。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "使人震惊的",
+        "examples": [
+          {
+            "sentence": "Her galvanic speech made everyone sit up straight.",
+            "sentence_zh": "她震撼的演讲让所有人正襟危坐。"
+          },
+          {
+            "sentence": "The CEO's resignation had a galvanic effect on the stock price.",
+            "sentence_zh": "CEO的辞职对股价产生了震撼性影响。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "galvanic skin response",
+        "meaning": "皮肤电反应",
+        "examples": [
+          {
+            "sentence": "Lie detectors measure galvanic skin response changes.",
+            "sentence_zh": "测谎仪通过检测皮肤电反应变化工作。"
+          }
+        ]
+      }
+    ],
+    "teach": "galvanic是'触电般刺激'⚡！源自科学家Galvani用青蛙腿做实验的趣闻（死蛙腿碰到金属会抽搐）。说'震撼消息'可用galvanic news像被电击🧠，'激发行动'叫galvanize into action像特斯拉线圈放电🌀。记住：物理电流和心灵震撼都让你'虎躯一震'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'give电nic'→给(give)你电流很nic(e)",
+        "易混词：volcanic（火山）vs galvanic（电流）"
+      ]
+    }
+  },
+  {
+    "word": "galvanize",
+    "etymology": {
+      "breakdown": [
+        "galvan",
+        "ize"
+      ],
+      "meaning_connection": "源自意大利科学家Luigi Galvani（发现生物电现象），后缀-ize表'使...化'→最初指电刺激肌肉反应，引申出'通电'和'刺激'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "通电",
+        "examples": [
+          {
+            "sentence": "Scientists galvanized the frog legs to observe neuromuscular reactions.",
+            "sentence_zh": "科学家给青蛙腿通电以观察神经肌肉反应。"
+          },
+          {
+            "sentence": "The antique doorbell still galvanizes visitors with mild shocks.",
+            "sentence_zh": "这个古董门铃仍会用微弱的电流刺激访客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "镀锌",
+        "examples": [
+          {
+            "sentence": "Galvanized nails won't rust even in humid climates.",
+            "sentence_zh": "镀锌钉子即便在潮湿气候中也不会生锈。"
+          },
+          {
+            "sentence": "The rooftop water tank is galvanized for corrosion protection.",
+            "sentence_zh": "屋顶水箱经过镀锌处理以防腐蚀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使震惊",
+        "examples": [
+          {
+            "sentence": "The AI revolution galvanized the education sector.",
+            "sentence_zh": "AI革命使教育界大为震动。"
+          },
+          {
+            "sentence": "His resignation speech galvanized the whole company.",
+            "sentence_zh": "他的离职演说震撼了整个公司。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "galvanize into action",
+        "meaning": "促使采取行动",
+        "examples": [
+          {
+            "sentence": "The climate report galvanized governments into action.",
+            "sentence_zh": "气候报告促使各国政府立即采取行动。"
+          }
+        ]
+      }
+    ],
+    "teach": "galvanize是'电击三连'⚡：1) 物理通电→像皮卡丘的十万伏特⚡ 2) 化学镀锌→给钢铁穿防锈雨衣🧥 3) 精神震撼→如同被雷神之锤砸醒🔨 搭配：galvanized steel（镀锌钢）/ galvanizing speech（震撼演说） 说'惊到下巴掉'用mind-blowing，比如'这个魔术太mind-blowing了！'",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖尔玩腻子'→盖尔用腻子(galvanize)给铁锅镀锌",
+        "易混词对比：galvanize（电/锌/震撼） vs. generalize（概括）",
+        "记忆tip：GAL=希腊神话盖亚(大地)+VAN=面包车→大地之车载着闪电与金属"
+      ]
+    }
+  },
+  {
+    "word": "galvanized",
+    "etymology": {
+      "breakdown": [
+        "galvan",
+        "ize",
+        "ed"
+      ],
+      "meaning_connection": "源自意大利科学家Luigi Galvani（发现生物电现象），-ize表'使...化'，-ed表过去式/分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "电镀锌",
+        "examples": [
+          {
+            "sentence": "The galvanized steel bucket survived 10 years in grandma's courtyard.",
+            "sentence_zh": "这个镀锌铁桶在奶奶院子里坚持了10年。"
+          },
+          {
+            "sentence": "Your bicycle chain needs to be galvanized against rust.",
+            "sentence_zh": "你的自行车链条需要镀锌防锈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "激励",
+        "examples": [
+          {
+            "sentence": "The coach's speech galvanized the team like lightning striking a rod.",
+            "sentence_zh": "教练的演讲像闪电击中铁棒般激励了全队。"
+          },
+          {
+            "sentence": "TikTok videos about rural teachers galvanized millions to donate books.",
+            "sentence_zh": "乡村教师的抖音视频激励了数百万人捐书。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "galvanized steel",
+        "meaning": "镀锌钢材",
+        "examples": [
+          {
+            "sentence": "Galvanized steel trash cans are mandatory in typhoon-prone areas.",
+            "sentence_zh": "台风多发地区必须使用镀锌钢垃圾桶。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "galvanize into action",
+        "meaning": "激励行动",
+        "examples": [
+          {
+            "sentence": "The drowning puppy video galvanized netizens into rescue missions.",
+            "sentence_zh": "溺水小狗的视频激励网民展开救援行动。"
+          }
+        ]
+      }
+    ],
+    "teach": "galvanized是'雷电法王'⚡的遗产：科学家Galvani用电刺激死蛙腿跳舞🐸，后来既指给金属'通电'镀锌（像给铁皮穿上雨衣🧥），也指让人'触电般'行动起来！说'热血沸腾'可用galvanized spirit，'防锈处理'叫galvanized coating。记住：被galvanized的人就像5G满格的手机📶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖房那只'→镀锌(galvanized)的钢用于盖房",
+        "易混词对比：glisten（闪光）和galvanize都有光但不同"
+      ]
+    }
   }
 ]

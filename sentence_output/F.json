@@ -3587,5 +3587,352 @@
         "记忆tip：想象F形状的柴枝交叉捆绑"
       ]
     }
+  },
+  {
+    "word": "fail",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'faillir'（缺失），最终来自拉丁语'fallere'（欺骗/犯错）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "失败",
+        "examples": [
+          {
+            "sentence": "The rocket launch failed due to a software bug.",
+            "sentence_zh": "由于软件故障，火箭发射失败了。"
+          },
+          {
+            "sentence": "He failed three times before inventing the lightbulb.",
+            "sentence_zh": "他失败了三次才发明出电灯泡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "缺乏",
+        "examples": [
+          {
+            "sentence": "The crops failed during the drought.",
+            "sentence_zh": "干旱期间农作物歉收。"
+          },
+          {
+            "sentence": "Her speech failed in logical coherence.",
+            "sentence_zh": "她的演讲缺乏逻辑连贯性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "中断",
+        "examples": [
+          {
+            "sentence": "The old man's memory is beginning to fail.",
+            "sentence_zh": "老人的记忆力开始衰退了。"
+          },
+          {
+            "sentence": "The engine failed at 3000 meters altitude.",
+            "sentence_zh": "引擎在海拔3000米处失灵了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "忘记",
+        "examples": [
+          {
+            "sentence": "I failed to bring my lucky red underwear for the exam.",
+            "sentence_zh": "我忘记带幸运红内裤来考试了。"
+          },
+          {
+            "sentence": "She never fails to water her virtual farm in Ant Forest.",
+            "sentence_zh": "她从不忘记给蚂蚁森林的虚拟树浇水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使失望",
+        "examples": [
+          {
+            "sentence": "The sequel failed all fans' expectations.",
+            "sentence_zh": "续集让所有粉丝大失所望。"
+          },
+          {
+            "sentence": "Don't fail me when I need you most!",
+            "sentence_zh": "别在我最需要你的时候让我失望！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不及格",
+        "examples": [
+          {
+            "sentence": "Getting an F means epic fail in American schools.",
+            "sentence_zh": "在美国学校拿F意味着史诗级不及格。"
+          },
+          {
+            "sentence": "His essay was such a fail that the teacher used it as anti-example.",
+            "sentence_zh": "他的论文不及格到被老师当作反面教材。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fail-safe",
+        "meaning": "故障保护机制",
+        "examples": [
+          {
+            "sentence": "Elevators have multiple fail-safe systems.",
+            "sentence_zh": "电梯配备多重故障保护系统。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "without fail",
+        "meaning": "必定",
+        "examples": [
+          {
+            "sentence": "He checks WeChat moments without fail every morning.",
+            "sentence_zh": "他每天早上必定查看微信朋友圈。"
+          }
+        ]
+      }
+    ],
+    "teach": "fail这词就像考试时的橡皮擦📝，越擦心越慌💔！古罗马角斗士失败时会听到'拇指向下👎'，现代人说'epic fail'就像B站弹幕吐槽。'不及格'说bomb the test（考炸了），'全面失败'叫complete failure就像火锅煮成浆糊🍲。记住：每个fail都是表情包素材🎭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'废哦'→考试废哦(fail)了",
+        "易混词：fault（过错）/false（错误的）",
+        "联想：fail→fall（倒下）+ill（生病）= 又病又倒=失败"
+      ]
+    }
+  },
+  {
+    "word": "failed",
+    "etymology": {
+      "breakdown": [
+        "fail",
+        "ed"
+      ],
+      "meaning_connection": "fail表示失败，-ed后缀表示已完成的状态→描述已经发生失败结果的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "已失败的",
+        "examples": [
+          {
+            "sentence": "The failed mooncake startup now sells stinky tofu.",
+            "sentence_zh": "这个失败的月饼创业项目现在改卖臭豆腐。"
+          },
+          {
+            "sentence": "His failed attempt to grow a beard became a meme on Douyin.",
+            "sentence_zh": "他失败的蓄须尝试在抖音上成了表情包。"
+          }
+        ]
+      }
+    ],
+    "teach": "failed就像游戏里的'菜狗'称号🐶！从秦始皇求仙药失败💊到你的减肥计划崩盘🍔，所有未达标事项都能用它。说'彻底失败'用epic fail（史诗级翻车），'勉强及格'叫barely passed就像60分踩线过🎯。记住：每个failed都是新梗的素材库！",
+    "recite": {
+      "tips": [
+        "谐音梗：'废了的'→直接联想字面意思",
+        "对比记忆：failed（已完成失败） vs failing（正在失败中）"
+      ]
+    }
+  },
+  {
+    "word": "failing",
+    "etymology": {
+      "breakdown": [
+        "fail",
+        "ing"
+      ],
+      "meaning_connection": "词根fail=失败，-ing表状态或结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "失败",
+        "examples": [
+          {
+            "sentence": "The TikTok influencer turned her baking failing into a comedy series.",
+            "sentence_zh": "这位抖音博主把烘焙失败做成了搞笑系列视频。"
+          },
+          {
+            "sentence": "Ancient Chinese alchemists' failing to make gold led to the invention of gunpowder.",
+            "sentence_zh": "古代炼丹师炼金失败反而发明了火药。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "缺点",
+        "examples": [
+          {
+            "sentence": "His biggest failing is never remembering to charge his power bank.",
+            "sentence_zh": "他最大的缺点是永远记不得给充电宝充电。"
+          },
+          {
+            "sentence": "The smartphone's only failing is its panda-themed OS that can't be changed.",
+            "sentence_zh": "这款手机唯一的缺点是无法更换熊猫主题系统。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "prep.",
+        "meaning": "如果没有...",
+        "examples": [
+          {
+            "sentence": "Failing fresh cilantro, coriander powder can be used in hotpot dip.",
+            "sentence_zh": "如果没有新鲜香菜，火锅蘸料可以用香菜粉代替。"
+          },
+          {
+            "sentence": "Failing a parking space, delivery guys often balance food on electric bikes.",
+            "sentence_zh": "如果没有停车位，外卖小哥常把餐盒悬放在电动车上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "失败的",
+        "examples": [
+          {
+            "sentence": "The failing light of sunset reminded him to finish his livestream.",
+            "sentence_zh": "逐渐暗下去的落日提醒他该结束直播了。"
+          },
+          {
+            "sentence": "A failing street lamp kept blinking like a disco ball during the night market.",
+            "sentence_zh": "一盏故障的路灯在夜市里像迪斯科球般闪烁不停。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "without failing",
+        "meaning": "必定",
+        "examples": [
+          {
+            "sentence": "My grandma waters her chili plants without failing every dawn.",
+            "sentence_zh": "我奶奶每天黎明必定给她的辣椒浇水。"
+          }
+        ]
+      }
+    ],
+    "teach": "failing就像人生盲盒🎁：当名词是'翻车现场'（cake failing变成煎饼），当介词是'Plan B'（failing milk tea→喝豆浆🥛），当形容词是'电量不足'的手机📱（failing battery）。要说'屡败屡战'用'keep trying despite failings'，'致命缺点'说'fatal failing'像没WiFi的奶茶店💔！",
+    "recite": {
+      "tips": [
+        "谐音梗：'废灵'→废柴的灵魂(failing)缺点",
+        "易混词对比：failing（持续性的） vs failure（具体失败事件）",
+        "记忆tip：fail+ing=正在失败/失败的状态"
+      ]
+    }
+  },
+  {
+    "word": "failure",
+    "etymology": {
+      "breakdown": [
+        "fail",
+        "ure"
+      ],
+      "meaning_connection": "词根fail=失败，后缀-ure表状态/结果→失败的状态或结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "失败",
+        "examples": [
+          {
+            "sentence": "The Tang Dynasty poet Li Bai saw exam failure as a chance to travel.",
+            "sentence_zh": "唐代诗人李白将科举失败视为游历的机会。"
+          },
+          {
+            "sentence": "Failure is the mother of hot pot—you can always add more spices!",
+            "sentence_zh": "失败是火锅之母——你永远可以再加点调料！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "失败者",
+        "examples": [
+          {
+            "sentence": "In e-sports, being called a 'failure' just means you need better teammates.",
+            "sentence_zh": "在电竞中被称为'失败者'只意味着你需要更好的队友。"
+          },
+          {
+            "sentence": "The movie tells how a 'failure' became the king of street food.",
+            "sentence_zh": "这部电影讲述一个'失败者'如何成为街头小吃之王。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不足",
+        "examples": [
+          {
+            "sentence": "The failure of chili oil caused the dish to lose its soul.",
+            "sentence_zh": "辣椒油的不足让这道菜失去了灵魂。"
+          },
+          {
+            "sentence": "A failure of imagination makes all vacations look the same on朋友圈.",
+            "sentence_zh": "想象力的不足让所有假期在朋友圈看起来都一样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "破产",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop's failure taught them not to sell durian flavor.",
+            "sentence_zh": "奶茶店的破产教会他们不要卖榴莲口味。"
+          },
+          {
+            "sentence": "After the company's failure, the boss started a popular food truck.",
+            "sentence_zh": "公司破产后，老板开起了网红餐车。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "failure to",
+        "meaning": "未能",
+        "examples": [
+          {
+            "sentence": "His failure to grab the last red envelope caused family drama.",
+            "sentence_zh": "他未能抢到最后一个红包引发了家庭矛盾。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "heart failure",
+        "meaning": "心脏衰竭",
+        "examples": [
+          {
+            "sentence": "Eating 10 spicy crayfish almost gave me heart failure!",
+            "sentence_zh": "连吃10只麻辣小龙虾差点让我心脏衰竭！"
+          }
+        ]
+      }
+    ],
+    "teach": "failure是人生调味瓶🌶️：1) 英语'败北'叫eat humble pie（吃谦卑派）🍰 2) 想象failure像打翻的奶茶→珍珠散落是新的开始🧋 3) 搭配：epic failure（史诗级翻车）/ glorious failure（光荣失败） 4) 地道说法：'不是失败是数据收集'→'It's not failure, it's data collection'📊 5) 记住：每个failure都是你人生简历的二维码，扫出来可能是个惊喜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥油了'→减肥失败长出肥油",
+        "易混词：fault（过错）/ flaw（缺陷）",
+        "记忆法：fail+ure= fail得很ure（哎呦）"
+      ]
+    }
   }
 ]

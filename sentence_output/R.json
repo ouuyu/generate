@@ -3481,5 +3481,263 @@
         "联想：radio+ologist=用辐射写日志的人"
       ]
     }
+  },
+  {
+    "word": "radiological",
+    "etymology": {
+      "breakdown": [
+        "radio",
+        "log",
+        "ical"
+      ],
+      "meaning_connection": "radio=辐射（来自拉丁语radius射线），log=学科（如biology生物学），-ical=形容词后缀→研究辐射的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "放射学的",
+        "examples": [
+          {
+            "sentence": "The radiological protection suit makes doctors look like astronauts.",
+            "sentence_zh": "放射防护服让医生看起来像宇航员。"
+          },
+          {
+            "sentence": "Radiological examinations require patients to hold still like statues.",
+            "sentence_zh": "放射学检查要求患者像雕像般保持静止。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "radiological diagnosis",
+        "meaning": "放射诊断",
+        "examples": [
+          {
+            "sentence": "AI-assisted radiological diagnosis is revolutionizing hospitals.",
+            "sentence_zh": "AI辅助放射诊断正在革新医院体系。"
+          }
+        ]
+      }
+    ],
+    "teach": "radiological其实是'光之学术'✨！X光发现者伦琴曾用老婆的手骨照片求婚💍（史上最硬核情书）。说'拍片子'叫get a scan，'防护服'叫lead apron（铅围裙）🧥。记住：radio+logy=用辐射写日记的科学家📖☢️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达逻辑'→用雷达(radio)研究辐射的逻辑(log)",
+        "易混词：radiology（放射学）/radiography（放射照相术）"
+      ]
+    }
+  },
+  {
+    "word": "radiology",
+    "etymology": {
+      "breakdown": [
+        "radio",
+        "logy"
+      ],
+      "meaning_connection": "radio=辐射/放射（源自拉丁语radius'光线'），-logy=学科（源自希腊语logos'研究'）→研究辐射的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "辐射学",
+        "examples": [
+          {
+            "sentence": "The museum's radiology exhibit explains how microwaves heat food.",
+            "sentence_zh": "博物馆的辐射学展区解释了微波加热食物的原理。"
+          },
+          {
+            "sentence": "Space radiology helps us understand cosmic background radiation.",
+            "sentence_zh": "太空辐射学帮助我们理解宇宙背景辐射。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "放射学",
+        "examples": [
+          {
+            "sentence": "Modern radiology allows doctors to see broken bones in 3D.",
+            "sentence_zh": "现代放射学让医生能三维查看骨折情况。"
+          },
+          {
+            "sentence": "The CT scanner is the Ferrari of radiology equipment.",
+            "sentence_zh": "CT扫描仪是放射学设备中的法拉利。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "diagnostic radiology",
+        "meaning": "诊断放射学",
+        "examples": [
+          {
+            "sentence": "Diagnostic radiology revealed a tiny tumor smaller than a rice grain.",
+            "sentence_zh": "诊断放射学发现了比米粒还小的肿瘤。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "interventional radiology",
+        "meaning": "介入放射学",
+        "examples": [
+          {
+            "sentence": "The interventional radiology team fixed my artery using X-ray guidance.",
+            "sentence_zh": "介入放射学团队在X光引导下修复了我的动脉。"
+          }
+        ]
+      }
+    ],
+    "teach": "radiology其实是'光之学术'✨！当年伦琴发现X光时，他夫人手骨的影像吓得人们以为见了鬼👻（史上第一张X光片）。说'做检查'地道表达是get scanned就像超市扫码💳，搭配'放射科医生'叫radiologist（别和radio主持人搞混哦）。记住：你的体检报告就是radiologist写的'光之诗'📜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达老鸡'→用雷达(radio)找老母鸡（放射科找病灶）",
+        "易混词对比：radiology（放射学） vs radioactivity（放射性）",
+        "记忆法：radio（广播）+logy（学科）= 用'广播'方式看身体的学科"
+      ]
+    }
+  },
+  {
+    "word": "radiometric",
+    "etymology": {
+      "breakdown": [
+        "radio",
+        "metr",
+        "ic"
+      ],
+      "meaning_connection": "radio=辐射，metr=测量，-ic=形容词后缀→与辐射测量相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "辐射度的",
+        "examples": [
+          {
+            "sentence": "The radiometric purity of lab equipment determines nuclear experiment accuracy.",
+            "sentence_zh": "实验室设备的辐射度纯度决定核实验精确度。"
+          },
+          {
+            "sentence": "This radiometric camera can detect invisible gamma rays.",
+            "sentence_zh": "这台辐射度相机能探测不可见的伽马射线。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "放射性测量的",
+        "examples": [
+          {
+            "sentence": "Carbon-14 dating relies on precise radiometric techniques.",
+            "sentence_zh": "碳14测年法依赖精确的放射性测量技术。"
+          },
+          {
+            "sentence": "Geologists use radiometric data to predict volcanic activity.",
+            "sentence_zh": "地质学家用放射性测量数据预测火山活动。"
+          }
+        ]
+      }
+    ],
+    "teach": "radiometric像科学家的魔法棒🧙♂️：radio（辐射）是看不见的能量⚡，-metric（测量）像孙悟空的火眼金睛👁️。说'辐射超标'地道表达是hotter than a reactor core（比反应堆核心还热），搭配说radiometric calibration（辐射校准）就像给X光机调焦距📊。记住：这词专治各种'量子玄学'！",
+    "recite": {
+      "tips": [
+        "视觉拆解：radio（收音机📻）+ metric（米尺📏）= 测量电磁波的尺子",
+        "易混词对比：radioactive（放射性的）侧重物质属性，radiometric（辐射度的）侧重测量技术"
+      ]
+    }
+  },
+  {
+    "word": "radionuclide",
+    "etymology": {
+      "breakdown": [
+        "radio",
+        "nucl",
+        "ide"
+      ],
+      "meaning_connection": "radio=放射(源自拉丁语radius'光线')，nucl=核(源自拉丁语nucleus'果核')，-ide=化学物质后缀→放射性原子核"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "放射性核素",
+        "examples": [
+          {
+            "sentence": "Technetium-99m is the most widely used radionuclide in medical imaging.",
+            "sentence_zh": "锝-99m是医学影像中使用最广泛的放射性核素。"
+          },
+          {
+            "sentence": "The Fukushima accident released dangerous radionuclides like cesium-137.",
+            "sentence_zh": "福岛事故释放了铯-137等危险放射性核素。"
+          }
+        ]
+      }
+    ],
+    "teach": "radionuclide是元素周期表的夜光贴纸✨！就像漫威宇宙的伽马射线💥制造了绿巨人，这些不安分的原子核会自发发光发热。医疗领域用它当'核素侦探'🔍（如PET-CT扫描），核事故时却变成'放射性小恶魔'☢️。搭配记忆：'radioactive decay（放射性衰变）'像核素在跳减肥操，'half-life（半衰期）'是它们的保质期⌛",
+    "recite": {
+      "tips": [
+        "拆解记忆：radio（收音机）+nucleus（核）→会'广播'放射线的原子核",
+        "对比记忆：isotope（同位素）是安静版本，radionuclide是狂暴版本"
+      ]
+    }
+  },
+  {
+    "word": "radiotherapy",
+    "etymology": {
+      "breakdown": [
+        "radio",
+        "therapy"
+      ],
+      "meaning_connection": "radio=辐射（源自拉丁语radius'射线'），therapy=治疗（源自希腊语therapeia'照料'）→用辐射线治疗"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "放射疗法",
+        "examples": [
+          {
+            "sentence": "The panda at Beijing Zoo received radiotherapy for its tumor.",
+            "sentence_zh": "北京动物园的大熊猫接受了肿瘤放射治疗。"
+          },
+          {
+            "sentence": "Modern radiotherapy can precisely target cancer cells like a cosmic GPS.",
+            "sentence_zh": "现代放射疗法能像宇宙GPS般精准锁定癌细胞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "undergo radiotherapy",
+        "meaning": "接受放射治疗",
+        "examples": [
+          {
+            "sentence": "After eating 99 hotpot meals, his stomach had to undergo radiotherapy.",
+            "sentence_zh": "连吃99顿火锅后，他的胃不得不接受放射治疗。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "radiotherapy machine",
+        "meaning": "放射治疗仪",
+        "examples": [
+          {
+            "sentence": "The new radiotherapy machine looks like a Transformer from sci-fi movies.",
+            "sentence_zh": "新放射治疗仪长得像科幻电影里的变形金刚。"
+          }
+        ]
+      }
+    ],
+    "teach": "放疗其实是'太阳拳疗法'☀️！居里夫人发现镭时，人们还用它做夜光手表⌚（危险操作！）。搭配'质子治疗'叫proton therapy🤖，'放疗副作用'说radiation burns就像晒伤🌡️。记住：放疗不是奥特曼打怪兽，是医生用辐射精准消灭癌细胞！💥⚡",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达扫佛腿'→用雷达(radio)扫描般的治疗(therapy)",
+        "易混词对比：chemotherapy（化疗）是化学攻击，radiotherapy是物理攻击"
+      ]
+    }
   }
 ]

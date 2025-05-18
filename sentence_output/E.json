@@ -3543,5 +3543,318 @@
         "联想记忆：ward=wardrobe（衣柜），想象衣柜门朝东开"
       ]
     }
+  },
+  {
+    "word": "easy",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语esi，与古法语aisie（舒适）同源，可能与拉丁语adjacens（邻近的）有关联"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "容易的",
+        "examples": [
+          {
+            "sentence": "Making dumplings is easy once you master the folding technique.",
+            "sentence_zh": "一旦掌握包饺子手法，其实很容易。"
+          },
+          {
+            "sentence": "The math problem was so easy that even the class hamster solved it.",
+            "sentence_zh": "这道数学题简单到连班级仓鼠都会解。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "缓缓的",
+        "examples": [
+          {
+            "sentence": "We took an easy pace along the Great Wall to enjoy the view.",
+            "sentence_zh": "我们在长城上缓步而行欣赏景色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "舒适的",
+        "examples": [
+          {
+            "sentence": "The hammock provided an easy resting place after hiking.",
+            "sentence_zh": "远足后吊床提供了舒适的休息处。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "从容的",
+        "examples": [
+          {
+            "sentence": "Her easy manner made the job interview feel like chatting with friends.",
+            "sentence_zh": "她从容的态度让面试像朋友闲聊般轻松。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "宽容的",
+        "examples": [
+          {
+            "sentence": "The teacher was easy on students who forgot their homework during Mid-Autumn Festival.",
+            "sentence_zh": "老师对中秋节忘带作业的学生很宽容。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "流畅的",
+        "examples": [
+          {
+            "sentence": "The calligrapher's brush moved with easy strokes across the paper.",
+            "sentence_zh": "书法家的毛笔在纸上流畅挥毫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "随便的",
+        "examples": [
+          {
+            "sentence": "He maintained an easy attitude toward the dress code at the tech company.",
+            "sentence_zh": "他对科技公司的着装要求持随便态度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "疲软的",
+        "examples": [
+          {
+            "sentence": "The stock market showed easy trading after the holiday.",
+            "sentence_zh": "假期后股市呈现疲软交易状态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "容易地",
+        "examples": [
+          {
+            "sentence": "The puzzle came apart easy when I stopped forcing it.",
+            "sentence_zh": "当我不再硬掰时，拼图很易就分开了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "慢慢地",
+        "examples": [
+          {
+            "sentence": "Grandpa walked easy with his new mahjong buddies in the park.",
+            "sentence_zh": "爷爷和麻将新朋友们在公园里慢步而行。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take it easy",
+        "meaning": "放松",
+        "examples": [
+          {
+            "sentence": "After finishing the project, the team decided to take it easy with hotpot.",
+            "sentence_zh": "项目结束后团队决定用火锅放松一下。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "easy on the eyes",
+        "meaning": "养眼的",
+        "examples": [
+          {
+            "sentence": "The new tea shop's minimalist design is easy on the eyes.",
+            "sentence_zh": "新茶饮店的极简设计很养眼。"
+          }
+        ]
+      }
+    ],
+    "teach": "easy就像太极☯️：既可以是'小菜一碟'的容易（as easy as hotpot），也能形容'慢动作'的从容（easy pace）。记住：'别紧张'说take it easy就像葛优躺🛋️，形容美人用easy on the eyes像欣赏水墨画🎨。当老板说'业绩easy'时...那绝对是骗人的！💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'易洗'→容易洗的衣服穿得easy",
+        "对比记忆：simple指结构简单，easy强调难度低",
+        "联想：字母e像微笑嘴角，a像放松的躺椅，sy谐音'随意'"
+      ]
+    }
+  },
+  {
+    "word": "easygoing",
+    "etymology": {
+      "breakdown": [
+        "easy",
+        "going"
+      ],
+      "meaning_connection": "easy（容易的）+ going（进行中）→ 形容像顺流而下般轻松的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "脾气随和的",
+        "examples": [
+          {
+            "sentence": "My easygoing boss approved my leave request during project crunch time.",
+            "sentence_zh": "我随和的老板在项目冲刺期批准了我的休假。"
+          },
+          {
+            "sentence": "The panda keeper's easygoing nature helps calm anxious cubs.",
+            "sentence_zh": "熊猫饲养员随和的性格有助于安抚焦虑的幼崽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "逍遥自在的",
+        "examples": [
+          {
+            "sentence": "Retired uncles play easygoing chess in Beijing hutongs all day.",
+            "sentence_zh": "退休大叔们整天在北京胡同里下逍遥棋。"
+          },
+          {
+            "sentence": "Her easygoing travel style involves getting lost intentionally.",
+            "sentence_zh": "她逍遥的旅行方式包含故意迷路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "悠闲的",
+        "examples": [
+          {
+            "sentence": "Chengdu's easygoing tea culture attracts stressed-out tech workers.",
+            "sentence_zh": "成都悠闲的茶文化吸引压力山大的科技从业者。"
+          },
+          {
+            "sentence": "The easygoing pace of island life cured his insomnia.",
+            "sentence_zh": "岛上悠闲的生活节奏治好了他的失眠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "懒散的",
+        "examples": [
+          {
+            "sentence": "His easygoing attitude towards deadlines drove the project manager crazy.",
+            "sentence_zh": "他对截止日期的懒散态度让项目经理抓狂。"
+          },
+          {
+            "sentence": "The easygoing cat ignores all its owner's training attempts.",
+            "sentence_zh": "这只懒散的猫无视主人的所有训练尝试。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "easygoing personality",
+        "meaning": "随和个性",
+        "examples": [
+          {
+            "sentence": "Her easygoing personality makes her the perfect roommate.",
+            "sentence_zh": "她随和的个性使其成为完美室友。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "easygoing lifestyle",
+        "meaning": "闲适生活方式",
+        "examples": [
+          {
+            "sentence": "Many young people envy his easygoing lifestyle in Dali.",
+            "sentence_zh": "许多年轻人羡慕他在大理的闲适生活。"
+          }
+        ]
+      }
+    ],
+    "teach": "easygoing就像成都的熊猫🐼：当它正面时是'佛系'生活态度（easygoing vibe），负面时是拖延症晚期（easygoing = lazy）！地道说法'放鸽子'叫flake out，'慢生活'说slow living。记住：当easygoing遇上deadline，就会变成panic buying🛒！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一醉够'→喝醉后变得随和",
+        "易混词对比：carefree（无忧无虑） vs easygoing（主观选择）",
+        "联想记忆：想象树懒🦥喝奶茶☕️的样子"
+      ]
+    }
+  },
+  {
+    "word": "eat",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语etan，与德语essen同源，原始印欧语词根*ed-表示'咬，吃'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt./vi.",
+        "meaning": "吃",
+        "examples": [
+          {
+            "sentence": "The panda eats bamboo while scrolling Douyin with its paws.",
+            "sentence_zh": "熊猫一边吃竹子一边用爪子刷抖音。"
+          },
+          {
+            "sentence": "We're eating hotpot until 3AM like true Chongqingers.",
+            "sentence_zh": "我们像真正的重庆人一样吃火锅到凌晨三点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "腐蚀",
+        "examples": [
+          {
+            "sentence": "Acid rain eats ancient stone carvings like malatang eats stomach lining.",
+            "sentence_zh": "酸雨腐蚀古代石刻就像麻辣烫腐蚀胃黏膜。"
+          },
+          {
+            "sentence": "Rust is eating the shared bike's chain.",
+            "sentence_zh": "锈迹正在腐蚀共享单车的链条。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eat up",
+        "meaning": "吃光",
+        "examples": [
+          {
+            "sentence": "The kids ate up all the Zibo barbecue skewers in 5 minutes.",
+            "sentence_zh": "孩子们五分钟就吃光了所有淄博烤串。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "eat one's words",
+        "meaning": "食言",
+        "examples": [
+          {
+            "sentence": "The CEO had to eat his words after the product flopped.",
+            "sentence_zh": "产品失败后CEO不得不收回之前说的话。"
+          }
+        ]
+      }
+    ],
+    "teach": "eat是宇宙通用动词🌍！从北京烤鸭到硅谷沙拉🥗都适用。古人云'食色性也'，但腐蚀金属时eat就变暗黑模式⚡️。说'吃货'是foodie，'吃土'叫broke as a joke。记住：当你的钱被双11吃掉时，和硫酸吃金属是同一个eat！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一特'→特意吃一顿",
+        "易混词对比：bite（咬） / chew（嚼） / swallow（咽）"
+      ]
+    }
   }
 ]

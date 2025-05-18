@@ -3479,5 +3479,259 @@
         "记忆法：联想日历四个彩色标记季度"
       ]
     }
+  },
+  {
+    "word": "quartermaster",
+    "etymology": {
+      "breakdown": [
+        "quarter",
+        "master"
+      ],
+      "meaning_connection": "quarter原指'四分之一'（古罗马军队分四部分驻扎），master指管理者→分管部队后勤的长官"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "军需官",
+        "examples": [
+          {
+            "sentence": "The quartermaster distributed winter coats before the blizzard hit.",
+            "sentence_zh": "暴风雪来临前，军需官分发了冬装大衣。"
+          },
+          {
+            "sentence": "Every Qing Dynasty army had a quartermaster keeping track of arrows and gunpowder.",
+            "sentence_zh": "清代每支军队都设有记录箭矢火药的军需官。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "后勤官",
+        "examples": [
+          {
+            "sentence": "Modern quartermasters coordinate drone deliveries to frontline troops.",
+            "sentence_zh": "现代后勤官协调无人机向前线部队运送物资。"
+          },
+          {
+            "sentence": "The navy quartermaster ensured all life jackets were properly stored.",
+            "sentence_zh": "海军后勤官确保所有救生衣正确存放。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quartermaster general",
+        "meaning": "军需总监",
+        "examples": [
+          {
+            "sentence": "The quartermaster general approved the new bulletproof vest design.",
+            "sentence_zh": "军需总监批准了新防弹衣设计方案。"
+          }
+        ]
+      }
+    ],
+    "teach": "quartermaster是军队的'哆啦A梦'🎒！中世纪时他们管着四分之一(quarter)军需物资，现在变成行走的仓库管理员📦。说'克扣军饷'叫skim the supplies，'紧急补给'说resupply run🚚。记住：当quartermaster比当炊事班班长还操心，毕竟要管从子弹到卫生纸的所有东西！💸🧻⚔️",
+    "recite": {
+      "tips": [
+        "谐音梗：'阔特妈死特'→阔气的特派妈妈死后(quartermaster)继承军需库",
+        "易混词：headmaster（校长）只管书本，quartermaster管命根子"
+      ]
+    }
+  },
+  {
+    "word": "quartet",
+    "etymology": {
+      "breakdown": [
+        "quart",
+        "et"
+      ],
+      "meaning_connection": "词根quart=四（来自拉丁语quartus），后缀-et表小型事物→原指四人小组，后特指四重奏"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "四重奏",
+        "examples": [
+          {
+            "sentence": "The guzheng quartet performed a modern version of 'Ambush from Ten Sides'.",
+            "sentence_zh": "古筝四重奏演奏了现代版《十面埋伏》。"
+          },
+          {
+            "sentence": "They formed a Peking opera quartet mixing sheng-dan-jing-chou roles.",
+            "sentence_zh": "他们组成了生旦净丑混搭的京剧四重唱。"
+          }
+        ]
+      }
+    ],
+    "teach": "quartet是音乐界的'四大天王'🎤！想象四个声部像火锅四宫格🍲（清汤/麻辣/菌菇/番茄），计算机术语用quartet表示4位字节就像用四格漫画表示数据📊。搭配：string quartet（弦乐四重奏），jazz quartet（爵士四重奏）。说'完美配合'可以用in perfect harmony，就像四重奏的黄金比例♋♌♍♎",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸他特'→夸他特别会四重奏",
+        "易混词：trio（三重奏） vs. quintet（五重奏）",
+        "记忆法：quart（夸脱）=1/4加仑→quartet=四分之一乐队"
+      ]
+    }
+  },
+  {
+    "word": "quartile",
+    "etymology": {
+      "breakdown": [
+        "quart",
+        "ile"
+      ],
+      "meaning_connection": "词根quart=四分之一（来自拉丁语quartus），-ile表属性→统计学中把数据分成四等分的数值"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "四分位数",
+        "examples": [
+          {
+            "sentence": "The third quartile of China's GDP per capita is about $10,000.",
+            "sentence_zh": "中国人均GDP的第三四分位数约1万美元。"
+          },
+          {
+            "sentence": "TikTok users in the top quartile spend over 2 hours daily.",
+            "sentence_zh": "TikTok使用时长前25%的用户每天超2小时。"
+          }
+        ]
+      }
+    ],
+    "teach": "quartile就是数据界的'分月饼'🥮！想象把100个月饼分成4份，第一刀切下的25个叫Q1（第一四分位数）。在统计学里，它就像高考分数线📊：Q3是'985线'，Q2是'本科线'。说'你的收入在Q4'比直接炫富优雅多了💸。搭配：fall into the upper quartile（位列前25%）、interquartile range（四分位距）",
+    "recite": {
+      "tips": [
+        "谐音梗：'快抬噢'→数据快抬(quartile)到前25%",
+        "易混词：quantile（分位数，不限定四等分）",
+        "记忆法：quart-开头联想到quarter（四分之一）"
+      ]
+    }
+  },
+  {
+    "word": "quarto",
+    "etymology": {
+      "breakdown": [
+        "quart",
+        "o"
+      ],
+      "meaning_connection": "词根quart=四（来自拉丁语quartus），后缀-o表名词→指纸张折叠四次形成的尺寸"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "四开（纸张尺寸）",
+        "examples": [
+          {
+            "sentence": "Shakespeare's First Folio was printed in quarto size.",
+            "sentence_zh": "莎士比亚第一对开本采用四开尺寸印刷。"
+          },
+          {
+            "sentence": "This ancient map is a rare quarto edition.",
+            "sentence_zh": "这幅古地图是珍贵的四开版本。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "四开本书籍",
+        "examples": [
+          {
+            "sentence": "The library's special collection includes 300 quartos from the 16th century.",
+            "sentence_zh": "图书馆特藏包含300本16世纪的四开本书籍。"
+          },
+          {
+            "sentence": "Poetry collections were often published as quartos in Renaissance Europe.",
+            "sentence_zh": "文艺复兴时期欧洲的诗集常以四开本形式出版。"
+          }
+        ]
+      }
+    ],
+    "teach": "quarto是古代文豪的'朋友圈尺寸'📜！想象把A4纸对折两次（quart=四），就是莎士比亚同款四开本📚。'对开本'叫folio像摊开的报纸🗞️，'八开本'叫octavo像现代平装书📖。搭配：rare quarto editions（珍本四开书）、quarto paper（四开纸）。'小册子'的地道说法是chapbook，像古代抖音短视频🎭。文化冷知识：四开本曾是盗版书商最爱的尺寸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'跨脱'→跨时代脱页的四开本",
+        "易混词对比：quarto（四开）vs. folio（对开）vs. octavo（八开）"
+      ]
+    }
+  },
+  {
+    "word": "quartz",
+    "etymology": {
+      "breakdown": [
+        "quarz"
+      ],
+      "meaning_connection": "源自德语Quarz，可能与斯拉夫语系'硬'相关，形容其矿物特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "石英",
+        "examples": [
+          {
+            "sentence": "The countertop sparkles with embedded quartz crystals.",
+            "sentence_zh": "台面因镶嵌石英晶体而闪闪发光。"
+          },
+          {
+            "sentence": "Quartz watches are more accurate than mechanical ones.",
+            "sentence_zh": "石英表比机械表走时更精准。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quartz crystal",
+        "meaning": "石英晶体",
+        "examples": [
+          {
+            "sentence": "This healing necklace contains rose quartz crystals.",
+            "sentence_zh": "这条养生项链含有玫瑰石英晶体。"
+          }
+        ]
+      }
+    ],
+    "teach": "quartz是地球的钻石糖💎！电子表的'心跳'来自石英震动（32,768次/秒📈），《星际迷航》里的水晶外星人也是石英族👽。说'坚硬如石'用hard as quartz crystal，'透明纯净'叫clear like mountain quartz🏔️。记住：你手机里的芯片可离不开这闪亮小石头！",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸儿子'→夸儿子(quartz)成绩硬核",
+        "易混词：quartz vs. diamond（后者是碳结构）",
+        "记忆法：Q开头矿物→Q=Quality（优质矿物）"
+      ]
+    }
+  },
+  {
+    "word": "quartzite",
+    "etymology": {
+      "breakdown": [
+        "quartz",
+        "ite"
+      ],
+      "meaning_connection": "quartz（石英）+-ite（表示矿物）→ 像钻石一样硬的石英岩💎"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "石英岩",
+        "examples": [
+          {
+            "sentence": "The Great Wall sections near Beijing are built with quartzite that sparkles like crushed diamonds.",
+            "sentence_zh": "北京附近的长城段采用会像碎钻般闪光的石英岩建造。"
+          },
+          {
+            "sentence": "Her quartzite countertop survived three years of hotpot parties without scratches.",
+            "sentence_zh": "她家的石英岩台面历经三年火锅聚会仍无划痕。"
+          }
+        ]
+      }
+    ],
+    "teach": "quartzite是地质界的硬汉💪！它由普通石英砂'修仙'亿万年而成，硬度仅次于钻石🔨。装修界叫它'火锅克星'（hotpot-proof stone），搭配'土豪金水龙头'（gold faucet）最显贵。记住：它和quartz的区别就像钻石和玻璃💎➔🥃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阔气在特'→土豪专属石材",
+        "对比记忆：quartz（石英）是面粉，quartzite（石英岩）是压缩饼干"
+      ]
+    }
   }
 ]

@@ -3508,5 +3508,284 @@
         "记忆法：想象把键盘(keyboard)拍扁(pad)就成了keypad"
       ]
     }
+  },
+  {
+    "word": "keystone",
+    "etymology": {
+      "breakdown": [
+        "key",
+        "stone"
+      ],
+      "meaning_connection": "字面含义是'关键石头'，源于建筑学中拱顶最中央的承重石"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "拱顶石",
+        "examples": [
+          {
+            "sentence": "The cathedral collapsed when thieves stole its keystone.",
+            "sentence_zh": "盗贼偷走拱顶石后，大教堂轰然倒塌。"
+          },
+          {
+            "sentence": "Modern architects still study Roman keystone techniques.",
+            "sentence_zh": "现代建筑师仍在研究古罗马的拱顶石技术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "楔石",
+        "examples": [
+          {
+            "sentence": "The keystone in this archway bears the emperor's seal.",
+            "sentence_zh": "拱门楔石上刻着皇帝的玉玺印记。"
+          },
+          {
+            "sentence": "Masons test apprentices by having them carve keystones.",
+            "sentence_zh": "石匠通过让学徒雕刻楔石来考验其手艺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "重点",
+        "examples": [
+          {
+            "sentence": "Trust is the keystone of any relationship.",
+            "sentence_zh": "信任是所有关系的核心重点。"
+          },
+          {
+            "sentence": "The keystone of his argument was disproven by new evidence.",
+            "sentence_zh": "他论点的重点被新证据推翻。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keystone species",
+        "meaning": "关键物种",
+        "examples": [
+          {
+            "sentence": "Pandas are considered a keystone species in bamboo forests.",
+            "sentence_zh": "熊猫被认为是竹林生态系统的关键物种。"
+          }
+        ]
+      }
+    ],
+    "teach": "keystone就像建筑界的C位担当💎！古罗马人发现抽掉拱顶中央这块石头，整个建筑就会塌方（物理意义上的'塌房'🏛️）。现在说'重点'用keystone，就像说'这篇论文的keystone在第3段'📜。搭配：keystone habit（核心习惯）/ keystone client（关键客户）。地道说法：'That's the keystone!'（这才是重点！）记住：没有keystone，拱门会垮；没有重点，演讲会垮🎤",
+    "recite": {
+      "tips": [
+        "谐音梗：'钥匙通'→钥匙形状的石头通向成功",
+        "易混词：cornerstone（基石）侧重基础，keystone侧重核心"
+      ]
+    }
+  },
+  {
+    "word": "keystroke",
+    "etymology": {
+      "breakdown": [
+        "key",
+        "stroke"
+      ],
+      "meaning_connection": "'key'指键盘按键，'stroke'指击打动作→组合表示'敲击键盘'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "键击",
+        "examples": [
+          {
+            "sentence": "The programmer's keystrokes sounded like a machine gun during debugging.",
+            "sentence_zh": "程序员调试时的键击声像机关枪一样密集。"
+          },
+          {
+            "sentence": "Her keystroke rhythm was as unique as a fingerprint.",
+            "sentence_zh": "她的击键节奏独特得像指纹一样。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keystroke logging",
+        "meaning": "键盘记录",
+        "examples": [
+          {
+            "sentence": "Beware of public computers that might have keystroke logging software.",
+            "sentence_zh": "小心公共场所可能装有键盘记录软件的电脑。"
+          },
+          {
+            "sentence": "The IT department detected unauthorized keystroke logging on the CEO's computer.",
+            "sentence_zh": "IT部门检测到CEO电脑上有未经授权的键盘记录程序。"
+          }
+        ]
+      }
+    ],
+    "teach": "keystroke是码农的钢琴曲🎹！每个程序员每年约敲击500万次键盘（相当于弹奏《野蜂飞舞》1000遍🐝）。'键盘侠'叫keyboard warrior，'手速快'可以说lightning keystrokes⚡。记住：你的keystrokes决定了你是复制粘贴侠还是真·极客！",
+    "recite": {
+      "tips": [
+        "谐音梗：'ki死戳'→疯狂戳键盘",
+        "易混词对比：keystroke（单次击键） vs. typing（连续打字）"
+      ]
+    }
+  },
+  {
+    "word": "keyword",
+    "etymology": {
+      "breakdown": [
+        "key",
+        "word"
+      ],
+      "meaning_connection": "字面组合'关键+词'，源自打字机时代用关键字母定位文件，现指计算机检索核心词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "关键词",
+        "examples": [
+          {
+            "sentence": "SEO experts research trending keywords to boost website traffic.",
+            "sentence_zh": "SEO专家研究热门关键词来提升网站流量。"
+          },
+          {
+            "sentence": "Her resume included all the keywords from the job description.",
+            "sentence_zh": "她的简历包含了职位描述中的所有关键词。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "long-tail keyword",
+        "meaning": "长尾关键词",
+        "examples": [
+          {
+            "sentence": "'Best Sichuan hotpot near Beijing CBD' is a typical long-tail keyword.",
+            "sentence_zh": "'北京CBD附近最佳四川火锅'是典型的长尾关键词。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "keyword stuffing",
+        "meaning": "关键词堆砌",
+        "examples": [
+          {
+            "sentence": "The article was penalized for obvious keyword stuffing.",
+            "sentence_zh": "这篇文章因明显的关键词堆砌被处罚。"
+          }
+        ]
+      }
+    ],
+    "teach": "keyword就像密码锁的齿纹🗝️：在1940年代图书馆用关键词卡片检索📇，如今抖音用keyword给你推猫视频🐱。'热搜关键词'叫trending keywords，'精准匹配'叫exact match。记住：人生也需要keyword——你的核心竞争力就是你的个人关键词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'可以我的'→可以我的(keyword)密码才能进",
+        "易混词对比：password（密码）vs keyword（关键词）",
+        "记忆tip：想象键盘(key)上最重要的词(word)"
+      ]
+    }
+  },
+  {
+    "word": "khaki",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自波斯语'khak'（尘土），经印度斯坦语传入英语，原指'灰尘颜色的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "卡其色的",
+        "examples": [
+          {
+            "sentence": "The khaki backpack perfectly matches his military-style outfit.",
+            "sentence_zh": "卡其色背包与他整套军旅风穿搭绝配。"
+          },
+          {
+            "sentence": "Her khaki phone case looks like a mini desert camouflage.",
+            "sentence_zh": "她的卡其色手机壳像迷你沙漠迷彩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "土黄色的",
+        "examples": [
+          {
+            "sentence": "The ancient wall was painted in khaki tones to blend with the Gobi Desert.",
+            "sentence_zh": "古城墙被刷成土黄色以融入戈壁沙漠。"
+          },
+          {
+            "sentence": "Pandas' fur sometimes turns khaki after rolling in loess soil.",
+            "sentence_zh": "熊猫在黄土里打滚后绒毛会变成土黄色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "卡其色",
+        "examples": [
+          {
+            "sentence": "Khaki became trendy after appearing in streetwear shows.",
+            "sentence_zh": "卡其色在街拍秀场亮相后迅速走红。"
+          },
+          {
+            "sentence": "The designer mixed khaki with neon green for a futuristic look.",
+            "sentence_zh": "设计师将卡其色与荧光绿混搭出未来感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "卡其色军服",
+        "examples": [
+          {
+            "sentence": "British soldiers in khakis were called 'the peanut butter army' by locals.",
+            "sentence_zh": "当地人称穿卡其军服的英军为'花生酱军队'。"
+          },
+          {
+            "sentence": "The museum displayed a khaki worn during the Boxer Rebellion.",
+            "sentence_zh": "博物馆展出了一件义和团运动时期的卡其军服。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "khaki pants",
+        "meaning": "卡其裤",
+        "examples": [
+          {
+            "sentence": "Tech CEOs love wearing khaki pants with black turtlenecks.",
+            "sentence_zh": "科技公司CEO们最爱黑色高领衫配卡其裤。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "khaki green",
+        "meaning": "军绿色",
+        "examples": [
+          {
+            "sentence": "The new electric scooter comes in khaki green for outdoor lovers.",
+            "sentence_zh": "新款电动车为户外爱好者推出军绿色版本。"
+          }
+        ]
+      }
+    ],
+    "teach": "khaki其实是'吃土色'🏜️！源自波斯士兵的尘土色军服（跟美团骑手撞衫了！）。要说'高级灰'用elephant gray🐘，'军事风'叫military chic💂。记住：穿khaki时别真躺沙子里——除非你想cosplay骆驼🐫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡壳'→卡其色外套卡在自动门里",
+        "易混词对比：beige（米黄） vs khaki（带绿调的黄）",
+        "记忆口诀：KHAKI=Kissed Her After Keeping Invisible（穿了卡其色隐身衣后亲到了她）"
+      ]
+    }
   }
 ]

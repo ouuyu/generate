@@ -3448,5 +3448,360 @@
         "易混词：price(明码标价) vs value(内在价值)"
       ]
     }
+  },
+  {
+    "word": "valued",
+    "etymology": {
+      "breakdown": [
+        "valu",
+        "ed"
+      ],
+      "meaning_connection": "词根valu=价值(value)，-ed表示被动或已完成状态→被赋予价值的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "经估价的",
+        "examples": [
+          {
+            "sentence": "The valued antique vase was insured for 1 million RMB.",
+            "sentence_zh": "这只经鉴定的古董花瓶投保了100万元。"
+          },
+          {
+            "sentence": "All valued items must pass customs appraisal.",
+            "sentence_zh": "所有估价物品必须通过海关鉴定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "贵重的",
+        "examples": [
+          {
+            "sentence": "Her WeChat collection includes valued stickers from 2014.",
+            "sentence_zh": "她的微信收藏包含2014年的珍贵表情包。"
+          },
+          {
+            "sentence": "The most valued possession in his dorm is a signed basketball.",
+            "sentence_zh": "他宿舍里最贵重的物品是一个签名篮球。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "受尊重的",
+        "examples": [
+          {
+            "sentence": "As a valued customer, you get free hotpot ingredients monthly.",
+            "sentence_zh": "作为尊贵客户，您每月可获得免费火锅食材。"
+          },
+          {
+            "sentence": "Mr. Wang is the most valued teacher in our cram school.",
+            "sentence_zh": "王老师是我们补习班最受尊敬的老师。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "highly valued",
+        "meaning": "高度重视的",
+        "examples": [
+          {
+            "sentence": "Punctuality is highly valued in Japanese culture.",
+            "sentence_zh": "守时在日本文化中备受重视。"
+          }
+        ]
+      }
+    ],
+    "teach": "valued就像古董鉴定节目📺：'估价'环节专家给青花瓷贴标签🏷️（valued at 1 million），'贵重'如大熊猫🐼（valued national treasure），'受尊重'好比老干妈在留学生心中地位🌶️。说'心头好'用treasured possession，'镇店之宝'叫most valued item💎。记住：被value过的-ed东西才叫valued！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外流德'→外资流出德国因为资产太valued",
+        "易混词：valuable(有价值的) / valued(被赋予价值的)"
+      ]
+    }
+  },
+  {
+    "word": "valueless",
+    "etymology": {
+      "breakdown": [
+        "value",
+        "less"
+      ],
+      "meaning_connection": "核心词value（价值）+后缀-less（无...的）→字面指'没有价值的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无价值的",
+        "examples": [
+          {
+            "sentence": "The counterfeit banknotes were declared valueless by the central bank.",
+            "sentence_zh": "这些假钞被央行宣布为无价值废纸。"
+          },
+          {
+            "sentence": "His collection of expired coupons is completely valueless now.",
+            "sentence_zh": "他收藏的过期优惠券现在毫无价值。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不值钱的",
+        "examples": [
+          {
+            "sentence": "These valueless pebbles became precious when the influencer promoted them as 'healing stones'.",
+            "sentence_zh": "当网红把这些不值钱的石子宣传为'治愈宝石'后，它们身价倍增。"
+          },
+          {
+            "sentence": "Don't waste time on valueless arguments about zodiac signs.",
+            "sentence_zh": "别在关于星座的不值钱争论上浪费时间。"
+          }
+        ]
+      }
+    ],
+    "teach": "valueless就像被榨干的奶茶杯🥤+过期的游戏金币🎮+秃头的盲盒📦三合一！18世纪伦敦曾把烂茶叶泡水染色当'中国红茶'卖，堪称史上最valueless骗局。说'毫无价值'可以吐槽：'This idea is worth less than a used mask'(比用过的口罩还不值钱)。搭配→valueless promises(空头支票)/valueless NFTs(空气币) 💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'外流了屎'→外流的屎黄金变valueless",
+        "易混词对比：priceless（无价的）是valueless的反义词",
+        "记忆tip：value+less=价值溜走了"
+      ]
+    }
+  },
+  {
+    "word": "valve",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语valva（折叠门），因阀门开合原理类似门扇转动。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "活瓣",
+        "examples": [
+          {
+            "sentence": "The surgeon replaced my heart valve with one from a pig.",
+            "sentence_zh": "医生用猪的心脏瓣膜替换了我的病变瓣膜。"
+          },
+          {
+            "sentence": "Dragonflies have special valves to control blood flow in their wings.",
+            "sentence_zh": "蜻蜓翅膀里有特殊的活瓣结构调控血液流动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "阀",
+        "examples": [
+          {
+            "sentence": "I nearly flooded my apartment trying to fix the water valve.",
+            "sentence_zh": "修水管阀门时差点把公寓淹了。"
+          },
+          {
+            "sentence": "The steam valve on the hot pot hissed like an angry cat.",
+            "sentence_zh": "火锅的蒸汽阀发出像发怒猫咪般的嘶嘶声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "装阀",
+        "examples": [
+          {
+            "sentence": "The factory valves all pipelines to prevent gas leaks.",
+            "sentence_zh": "工厂给所有管道都装了阀门防止气体泄漏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "用阀调节",
+        "examples": [
+          {
+            "sentence": "Smart toilets valve water flow automatically.",
+            "sentence_zh": "智能马桶自动用阀门调节水流。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "safety valve",
+        "meaning": "安全阀",
+        "examples": [
+          {
+            "sentence": "Online gaming serves as a safety valve for work stress.",
+            "sentence_zh": "网络游戏是工作压力的安全阀。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "valve gear",
+        "meaning": "阀门装置",
+        "examples": [
+          {
+            "sentence": "The antique train's valve gear fascinated the engineering students.",
+            "sentence_zh": "那辆古董火车的阀门装置让工科生着迷。"
+          }
+        ]
+      }
+    ],
+    "teach": "valve是工业社会的关节🦴！心脏瓣膜像精密旋转门🚪（heart valve），火锅减压阀是吃货保命装置🍲（steam valve）。说'发泄情绪'用blow off steam（放蒸汽），'关键控制点'叫control valve就像奶茶店糖度调节阀🧋。记住：所有valve都在控制'流动'，无论是血液、啤酒还是你的怒火！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阀舞'→阀门跳舞控制流量",
+        "易混词：value（价值）与valve（阀门）差一个字母，就像金库(value)和保险柜阀门(valve)的关系"
+      ]
+    }
+  },
+  {
+    "word": "vamp",
+    "etymology": {
+      "breakdown": [
+        "vam",
+        "p"
+      ],
+      "meaning_connection": "词源争议：可能来自古法语'avant pied'（鞋前部），或拟声词'vam'（突然出现的声音）+后缀'-p'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "鞋面",
+        "examples": [
+          {
+            "sentence": "The red silk vamp made her cheongsam shoes stand out.",
+            "sentence_zh": "红色绸缎鞋面让她的旗袍鞋格外醒目。"
+          },
+          {
+            "sentence": "Traditional cloth shoes often have embroidered vamps.",
+            "sentence_zh": "传统布鞋常有刺绣鞋面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "荡妇",
+        "examples": [
+          {
+            "sentence": "In 1920s novels, vamps were always smoking with long cigarette holders.",
+            "sentence_zh": "在20年代小说里，荡妇总用长烟嘴抽烟。"
+          },
+          {
+            "sentence": "That movie portrayed her as a vamp seducing wealthy men.",
+            "sentence_zh": "那部电影把她塑造成勾引富豪的荡妇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "修补",
+        "examples": [
+          {
+            "sentence": "Grandma vamps old quilts with colorful patches.",
+            "sentence_zh": "奶奶用彩色布片修补旧被子。"
+          },
+          {
+            "sentence": "He vamps his sneakers with duct tape every summer.",
+            "sentence_zh": "他每年夏天都用胶带修补运动鞋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "拼凑",
+        "examples": [
+          {
+            "sentence": "We vamped a tent from bamboo and plastic sheets.",
+            "sentence_zh": "我们用竹子和塑料布拼凑出帐篷。"
+          },
+          {
+            "sentence": "The chef vamps a new dish with leftover ingredients.",
+            "sentence_zh": "厨师用剩余食材拼凑出新菜式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "捏造",
+        "examples": [
+          {
+            "sentence": "He vamps an excuse about metro breakdown.",
+            "sentence_zh": "他捏造了地铁故障的借口。"
+          },
+          {
+            "sentence": "The student vamps the experimental data.",
+            "sentence_zh": "学生捏造实验数据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "勾引(男子)",
+        "examples": [
+          {
+            "sentence": "She vamps her boss with deliberate coffee spills.",
+            "sentence_zh": "她故意打翻咖啡来勾引上司。"
+          },
+          {
+            "sentence": "In the drama, the maid vamps the young master with folk songs.",
+            "sentence_zh": "剧中丫鬟用民谣勾引少爷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "即席伴奏",
+        "examples": [
+          {
+            "sentence": "The pianist vamps while the singer forgets lyrics.",
+            "sentence_zh": "歌手忘词时钢琴师即席伴奏。"
+          },
+          {
+            "sentence": "Jazz bands often vamp during improvisational sections.",
+            "sentence_zh": "爵士乐队常在即兴段落即时伴奏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "勾引男子",
+        "examples": [
+          {
+            "sentence": "She vamps at the bar with exaggerated eyelash flutters.",
+            "sentence_zh": "她在酒吧用夸张的眨眼勾引男人。"
+          },
+          {
+            "sentence": "In vintage films, women vamp by slowly crossing legs.",
+            "sentence_zh": "在老电影里，女人用慢动作交叉双腿来勾引。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vamp up",
+        "meaning": "临时拼凑",
+        "examples": [
+          {
+            "sentence": "They vamped up a wedding arch with spare curtains.",
+            "sentence_zh": "他们用备用窗帘临时搭了婚礼拱门。"
+          }
+        ]
+      }
+    ],
+    "teach": "vamp是'鞋面'还是'狐狸精'？👠 这要追溯到1920年代：当时蛇蝎美人Theda Bara总穿露鞋面的高跟鞋👁️，媒体就用vamp称呼这类女性。修补鞋面(vamp shoes)和勾引男人(vamp men)都需要'缝缝补补'的功夫🧵。记住：说人'很vamp'等于中文的'狐狸精'🦊，说'vamp it up'就是'临时凑合'。",
+    "recite": {
+      "tips": [
+        "谐音梗：'外膜破'→鞋面(vamp)外膜破了要修补",
+        "易混词：vamp vs vampire（后者是吸血鬼）",
+        "记忆场景：想象补鞋匠(vamp)突然变成夜店撩人高手"
+      ]
+    }
   }
 ]
