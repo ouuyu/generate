@@ -15333,5 +15333,323 @@
         "易混词对比：accumulate（主动累积） vs accrued（自然增长）"
       ]
     }
+  },
+  {
+    "word": "accumulate",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cumul",
+        "ate"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cumul=堆积，-ate为动词后缀→不断朝某处堆积"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "积聚（财富/知识等）",
+        "examples": [
+          {
+            "sentence": "Jack Ma accumulated wisdom by teaching English for years.",
+            "sentence_zh": "马云通过多年执教英语积累了智慧。"
+          },
+          {
+            "sentence": "Squirrels accumulate nuts like programmers collect GitHub stars.",
+            "sentence_zh": "松鼠囤积坚果就像程序员收集GitHub星标。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "自然堆积",
+        "examples": [
+          {
+            "sentence": "Dust accumulates faster in a programmer's room than code commits.",
+            "sentence_zh": "程序员房间积灰的速度比代码提交还快。"
+          },
+          {
+            "sentence": "Snow accumulated to 1 meter during the Harbin Ice Festival.",
+            "sentence_zh": "哈尔滨冰雪节期间积雪厚达1米。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accumulate experience",
+        "meaning": "积累经验",
+        "examples": [
+          {
+            "sentence": "New drivers accumulate experience by scraping parked cars.",
+            "sentence_zh": "新手司机通过刮蹭停车来积累经验。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accumulated debt",
+        "meaning": "累积债务",
+        "examples": [
+          {
+            "sentence": "His accumulated debt could buy 8888 stinky tofu snacks.",
+            "sentence_zh": "他的累积债务能买8888份臭豆腐。"
+          }
+        ]
+      }
+    ],
+    "teach": "accumulate就像你的蚂蚁森林🌲：每天'偷能量'是微观积累(ac-)，长成大树是宏观结果(cumulate)。说'存钱'用accumulate savings像松鼠屯粮🐿️，'欠债累累'叫accumulated debt像滚雪球🏔️。记住：成功是复利的，就像用余额宝攒钱💰，每天进步1%！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿Q没累'→阿Q不断积累精神胜利法",
+        "易混词：assemble（组装）vs accumulate（堆积）"
+      ]
+    }
+  },
+  {
+    "word": "accumulated",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cumul",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'，cumul=堆积(如cumulus积云)，-ate动词后缀，-ed形容词后缀→逐渐堆积形成的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "累计的",
+        "examples": [
+          {
+            "sentence": "The accumulated mileage on this shared bike equals 3 trips to the moon.",
+            "sentence_zh": "这辆共享单车的累计里程相当于往返月球3次。"
+          },
+          {
+            "sentence": "Check the accumulated screen time before blaming your kid.",
+            "sentence_zh": "责怪孩子前先看看屏幕使用时间累计值。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "累积的",
+        "examples": [
+          {
+            "sentence": "The accumulated stress finally exploded during the final exam week.",
+            "sentence_zh": "累积的压力终于在期末考试周爆发。"
+          },
+          {
+            "sentence": "Her accumulated knowledge of TCM surprised the foreign doctors.",
+            "sentence_zh": "她累积的中医知识让外国医生惊叹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "达到（某数量）的",
+        "examples": [
+          {
+            "sentence": "The accumulated votes surpassed 100 million in 3 hours.",
+            "sentence_zh": "三小时内累计票数突破1亿。"
+          },
+          {
+            "sentence": "The accumulated rainfall reached the annual average in just one week.",
+            "sentence_zh": "一周累计降雨量就达到年均值。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accumulated experience",
+        "meaning": "累积经验",
+        "examples": [
+          {
+            "sentence": "His accumulated experience in livestreaming made him an instant hit.",
+            "sentence_zh": "直播的累积经验让他一夜爆红。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accumulated deficit",
+        "meaning": "累计亏损",
+        "examples": [
+          {
+            "sentence": "The accumulated deficit was offset by sudden popularity of bubble tea.",
+            "sentence_zh": "奶茶突然走红抵消了累计亏损。"
+          }
+        ]
+      }
+    ],
+    "teach": "accumulated就像松鼠囤松果🐿️！古罗马会计用cumulus(小石堆)记账🧮，攒够一堆就升级成大堆。说'积少成多'用snowball effect(滚雪球效应)，'老本行'叫accumulated expertise(看家本领)。记住：你的蚂蚁森林能量就是完美的accumulated过程🌱→🌳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿Q没了的'→阿Q的累计债务没了",
+        "对比记忆：accumulate(动态堆积过程) vs. cumulative(静态累计结果)",
+        "联想：AC米兰球迷(cu-mu-lated)累积的呐喊声"
+      ]
+    }
+  },
+  {
+    "word": "accumulating",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cumul",
+        "ate",
+        "ing"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cumul表示'堆积'，-ate是动词后缀，-ing构成现在分词→持续向某处堆积"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "累积",
+        "examples": [
+          {
+            "sentence": "My unread emails are accumulating like dumplings in a steamer.",
+            "sentence_zh": "我的未读邮件像蒸笼里的饺子一样越积越多。"
+          },
+          {
+            "sentence": "Snow kept accumulating on the Great Wall, creating a spectacular view.",
+            "sentence_zh": "积雪在长城上不断堆积，形成壮观的景象。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accumulating wealth",
+        "meaning": "积累财富",
+        "examples": [
+          {
+            "sentence": "He focuses on accumulating wealth through smart investments.",
+            "sentence_zh": "他专注于通过明智投资积累财富。"
+          }
+        ]
+      }
+    ],
+    "teach": "accumulating就像松鼠囤松果🐿️！想象你的支付宝余额像滚雪球❄️越滚越大，这就是compound interest（复利）的魔法✨。说'攒钱'可以用piggy bank（储钱罐），'月光族'叫hand-to-mouth。记住：每天存10元，一年就是3650元+火锅自由🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿Q没累停'→阿Q不断(accumulating)攒钱",
+        "对比记忆：accumulate侧重过程，collection强调结果"
+      ]
+    }
+  },
+  {
+    "word": "accumulation",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cumul",
+        "ation"
+      ],
+      "meaning_connection": "前缀ac-表加强，词根cumul=堆积，-ation为名词后缀→强调不断堆积的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "积聚（过程）",
+        "examples": [
+          {
+            "sentence": "The accumulation of subway cards reflects 10 years of urban commuting.",
+            "sentence_zh": "地铁卡的积聚记录着十年城市通勤史。"
+          },
+          {
+            "sentence": "Snow accumulation reached 2 meters during the blizzard.",
+            "sentence_zh": "暴风雪期间的积雪厚度达两米。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "累积物",
+        "examples": [
+          {
+            "sentence": "Her desk is buried under an accumulation of unfinished bubble tea cups.",
+            "sentence_zh": "她的书桌埋在未喝完的奶茶杯累积物下。"
+          },
+          {
+            "sentence": "The museum displays accumulations of ancient copper coins.",
+            "sentence_zh": "博物馆展出古代铜钱的累积物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "capital accumulation",
+        "meaning": "资本积累",
+        "examples": [
+          {
+            "sentence": "Early-stage capital accumulation often determines startup success.",
+            "sentence_zh": "早期资本积累常决定创业成败。"
+          }
+        ]
+      }
+    ],
+    "teach": "accumulation就像松鼠囤松果🐿️：从古罗马仓库(cumulus)到现代'剁手族'购物车🛒，人类本质是积累动物。'积少成多'说成snowball effect（滚雪球效应），'堆积如山'叫pile up like hotpot ingredients🍲。记住：你的脂肪也是energy accumulation哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿Q没来审'→阿Q没来审核(accumulation)堆积的文件",
+        "易混词：collection（精选收集）vs accumulation（自然堆积）"
+      ]
+    }
+  },
+  {
+    "word": "accumulative",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cumul",
+        "ative"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cumul来自拉丁语cumulus(堆积)，后缀-ative表性质→持续堆积的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "积聚而成的",
+        "examples": [
+          {
+            "sentence": "The accumulative wisdom of Chinese medicine spans millennia.",
+            "sentence_zh": "中医的积聚智慧跨越数千年。"
+          },
+          {
+            "sentence": "Dumpling-making skills require accumulative experience like folded pleats.",
+            "sentence_zh": "包饺子技术需要像褶皱般层层积累的经验。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "累积的",
+        "examples": [
+          {
+            "sentence": "Compound interest shows magic through accumulative growth.",
+            "sentence_zh": "复利通过累积增长展现魔力。"
+          },
+          {
+            "sentence": "The Great Wall stands as an accumulative effort of dynasties.",
+            "sentence_zh": "长城是历代王朝累积努力的成果。"
+          }
+        ]
+      }
+    ],
+    "teach": "这个词就像滚雪球⛄️：前缀ac-是助推的手，cumul是越滚越大的雪球，-ative则是雪地上的轨迹。古代商人用算盘🧮记录accumulative profits（累计利润），现代打工人用年假计算器📅看accumulative leave days（累计休假）。说'积少成多'可以用Rome wasn't built in a day（罗马非一日建成）💒",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊！球没了提五'→啊！雪球累积到第五圈时没了",
+        "对比记忆：cumulative（强调结果总量）vs accumulative（强调持续过程）",
+        "联想：支付宝年度账单就是你的accumulative spending可视化📊"
+      ]
+    }
   }
 ]

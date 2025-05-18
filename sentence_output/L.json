@@ -15701,5 +15701,376 @@
         "易混对比：lying（躺/说谎）vs laying（放置进行时）"
       ]
     }
+  },
+  {
+    "word": "layman",
+    "etymology": {
+      "breakdown": [
+        "lay",
+        "man"
+      ],
+      "meaning_connection": "古英语中的'leah'表示普通人，'man'指人→原指非神职人员的普通人。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "俗人（对神职人员而言）",
+        "examples": [
+          {
+            "sentence": "The priest explained Buddhist scriptures in layman's terms.",
+            "sentence_zh": "僧侣用俗人能理解的方式讲解佛经。"
+          },
+          {
+            "sentence": "Medieval churches had separate doors for clergy and laymen.",
+            "sentence_zh": "中世纪教堂为神职人员和俗人设置了不同的门。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "门外汉",
+        "examples": [
+          {
+            "sentence": "This quantum physics book is definitely not for laymen.",
+            "sentence_zh": "这本量子物理书绝对不是给门外汉看的。"
+          },
+          {
+            "sentence": "As a layman in finance, I can't tell a bull from a bear market.",
+            "sentence_zh": "作为金融门外汉，我分不清牛市和熊市。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "普通人",
+        "examples": [
+          {
+            "sentence": "The safety manual should be accessible to every layman.",
+            "sentence_zh": "安全手册应当让每个普通人都能理解。"
+          },
+          {
+            "sentence": "Laymen's opinions matter in urban planning too.",
+            "sentence_zh": "普通人的意见在城市规划中也很重要。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in layman's terms",
+        "meaning": "用通俗语言",
+        "examples": [
+          {
+            "sentence": "Let me explain blockchain in layman's terms: it's like a digital Lego ledger.",
+            "sentence_zh": "让我用大白话解释区块链：就像数字乐高账本。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "layman's knowledge",
+        "meaning": "基础常识",
+        "examples": [
+          {
+            "sentence": "My layman's knowledge of TCM comes from period dramas.",
+            "sentence_zh": "我对中医的常识都来自古装剧。"
+          }
+        ]
+      }
+    ],
+    "teach": "layman其实是'躺平人'🛏️：词源来自'躺'(lay)在教堂长椅的普通信徒，与'站'(stand)着布道的神职人员相对。现代指'小白'就像看电竞直播刷'666'的观众🎮，专业术语叫jargon（黑话）。搭配'用大白话说'(in layman's terms)和'常识'(layman's knowledge)，形容菜鸟可以说wet behind the ears（耳朵没干的新生儿）👶🍼",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷门'→被专业术语'雷'到的门外汉",
+        "易混词对比：layman(外行) vs. amateur(业余爱好者)"
+      ]
+    }
+  },
+  {
+    "word": "layoff",
+    "etymology": {
+      "breakdown": [
+        "lay",
+        "off"
+      ],
+      "meaning_connection": "字面意思是'放下离开'，源自工业时代让工人暂时离开产线的做法"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "临时解雇",
+        "examples": [
+          {
+            "sentence": "The tech giant announced layoffs right before Chinese New Year.",
+            "sentence_zh": "这家科技巨头在春节前宣布了裁员。"
+          },
+          {
+            "sentence": "Many laid-off workers started selling hotpot ingredients online.",
+            "sentence_zh": "许多被裁员工开始在网上卖火锅食材。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "操作停止",
+        "examples": [
+          {
+            "sentence": "The factory had a 3-day layoff for equipment maintenance.",
+            "sentence_zh": "工厂因设备维护停工三天。"
+          },
+          {
+            "sentence": "During the layoff period, workers played mahjong in the break room.",
+            "sentence_zh": "停工期间工人们在休息室打麻将。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "活动停止期间",
+        "examples": [
+          {
+            "sentence": "The hiking club had a winter layoff due to heavy snow.",
+            "sentence_zh": "因大雪徒步俱乐部冬季暂停活动。"
+          },
+          {
+            "sentence": "Panda Base has an annual 2-week layoff for bamboo forest recovery.",
+            "sentence_zh": "熊猫基地每年有为期两周的闭园期用于竹林恢复。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mass layoff",
+        "meaning": "大规模裁员",
+        "examples": [
+          {
+            "sentence": "The mass layoff turned the office into a ghost town overnight.",
+            "sentence_zh": "大规模裁员让办公室一夜变成鬼城。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "temporary layoff",
+        "meaning": "暂时停工",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop had a temporary layoff during road construction.",
+            "sentence_zh": "奶茶店因道路施工暂时停业。"
+          }
+        ]
+      }
+    ],
+    "teach": "layoff就像人生强制'中场休息'⏸️：源自福特汽车让工人轮流停工的操作，现代版就是'毕业快乐'🎓（互联网黑话）。说'被裁'地道表达是get the axe（拿到斧头），'公司瘦身'叫downsizing。记住：layoff不是终点，可能是开火锅店的新起点！🍲💼🚀",
+    "recite": {
+      "tips": [
+        "谐音梗：'累哦服'→被裁后穿着累赘的制服(服)走了",
+        "易混词对比：layoff(暂时解雇) vs. fire(永久解雇)",
+        "联想：lay(放置)+off(离开)=把工作暂时放下"
+      ]
+    }
+  },
+  {
+    "word": "layout",
+    "etymology": {
+      "breakdown": [
+        "lay",
+        "out"
+      ],
+      "meaning_connection": "字面意思是'摆放出来'，lay表示放置，out表示向外→引申为各种布局设计"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "布局",
+        "examples": [
+          {
+            "sentence": "The feng shui master criticized the layout of my gaming setup.",
+            "sentence_zh": "风水大师批评了我电竞桌的布局。"
+          },
+          {
+            "sentence": "Tokyo's subway layout confuses even Google Maps.",
+            "sentence_zh": "东京地铁布局复杂到连谷歌地图都会迷路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "陈列",
+        "examples": [
+          {
+            "sentence": "The museum's dinosaur skeleton layout terrified children.",
+            "sentence_zh": "博物馆的恐龙骨架陈列吓哭了小朋友。"
+          },
+          {
+            "sentence": "IKEA's furniture layout makes you want to buy everything.",
+            "sentence_zh": "宜家的家具陈列让人想买下所有东西。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "规划图",
+        "examples": [
+          {
+            "sentence": "The architect spilled coffee on the city park layout.",
+            "sentence_zh": "建筑师把咖啡洒在了城市公园规划图上。"
+          },
+          {
+            "sentence": "This mall layout looks like a giant Pac-Man game.",
+            "sentence_zh": "这个商场规划图像个巨型吃豆人游戏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "页面布局",
+        "examples": [
+          {
+            "sentence": "WeChat's clean layout is why grandma can use it.",
+            "sentence_zh": "微信简洁的页面布局让奶奶也能轻松使用。"
+          },
+          {
+            "sentence": "The magazine changed its layout to look more like TikTok.",
+            "sentence_zh": "这本杂志把页面布局改得像抖音界面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "版面编排",
+        "examples": [
+          {
+            "sentence": "The newspaper's layout won a design award for its emoji usage.",
+            "sentence_zh": "这家报纸因表情符号的版面编排获得设计大奖。"
+          },
+          {
+            "sentence": "Her thesis layout made the professors cry tears of joy.",
+            "sentence_zh": "她论文的版面编排让教授感动落泪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "page layout",
+        "meaning": "页面版式",
+        "examples": [
+          {
+            "sentence": "The page layout of this textbook looks like a meme generator.",
+            "sentence_zh": "这本教材的页面版式看起来像个表情包生成器。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "store layout",
+        "meaning": "店铺陈列",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop's layout guides you to the counter like a runway.",
+            "sentence_zh": "这家奶茶店的陈列像T台一样把你引向柜台。"
+          }
+        ]
+      }
+    ],
+    "teach": "layout就像乐高说明书📐：1) 中世纪城堡设计图是最早的layout（城堡厕所位置很重要💩）2) 想象你在摆火锅食材🥘→肉放左边，菜放右边就是layout 3) 实用搭配：'magazine layout/键帽布局(keycap layout)' 4) 吐槽'乱糟糟'说hot mess比disorganized更地道 5) 完美layout就像强迫症患者的天堂✨🧹📏",
+    "recite": {
+      "tips": [
+        "谐音梗：'累熬特'→设计layout累到特别熬人",
+        "易混词：outlay(支出)是花钱，layout是摆放",
+        "记忆tip：所有以-lay结尾的词都跟'放'有关（relay转播/overlay覆盖）"
+      ]
+    }
+  },
+  {
+    "word": "laze",
+    "etymology": {
+      "breakdown": [
+        "lazy",
+        "e"
+      ],
+      "meaning_connection": "源自lazy（懒惰的），-e为动词化后缀，字面意思即'变得懒惰'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "偷懒",
+        "examples": [
+          {
+            "sentence": "Pandas laze around eating bamboo 14 hours a day.",
+            "sentence_zh": "熊猫每天花14小时懒洋洋地吃竹子。"
+          },
+          {
+            "sentence": "The cat lazed in the sunspot ignoring its toy.",
+            "sentence_zh": "猫咪在阳光里偷懒，对玩具视而不见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "消磨",
+        "examples": [
+          {
+            "sentence": "We lazed the afternoon away playing Animal Crossing.",
+            "sentence_zh": "我们玩《动物森友会》消磨了整个下午。"
+          },
+          {
+            "sentence": "He lazed his summer vacation scrolling Douyin.",
+            "sentence_zh": "他刷抖音消磨了整个暑假。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "懒散",
+        "examples": [
+          {
+            "sentence": "The Sunday morning laze was broken by a delivery robot.",
+            "sentence_zh": "周日早晨的懒散被送货机器人打断了。"
+          },
+          {
+            "sentence": "His face showed pure laze under the kotatsu.",
+            "sentence_zh": "他在暖桌下露出纯粹的懒散表情。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "laze about",
+        "meaning": "无所事事",
+        "examples": [
+          {
+            "sentence": "Dragonflies laze about on lotus leaves in summer.",
+            "sentence_zh": "夏日蜻蜓在荷叶上无所事事。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "laze around",
+        "meaning": "闲逛",
+        "examples": [
+          {
+            "sentence": "Tourists laze around the West Lake drinking longjing tea.",
+            "sentence_zh": "游客们喝着龙井茶在西湖边闲逛。"
+          }
+        ]
+      }
+    ],
+    "teach": "laze是社畜的终极梦想💤！词源来自lazy就像葛优躺表情包🛋️，'偷懒模式'叫laze mode（参考手机省电模式🔋）。说'懒癌发作'用地道表达couch potato（沙发土豆🥔），搭配'周末躺平'weekend lazing或'带薪摸鱼'paid lazing。记住：合理laze是养生，过度laze会变月半！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累子'→累成狗的儿子只想laze",
+        "易混词对比：laze（主动偷懒） vs. idle（被动闲置）",
+        "记忆tip：LA-ZE→'拉-Z'→拉开Z字型睡袋开睡"
+      ]
+    }
   }
 ]

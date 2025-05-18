@@ -15729,5 +15729,318 @@
         "易混词对比：electician（选美评委）vs electrician（电工）"
       ]
     }
+  },
+  {
+    "word": "electricity",
+    "etymology": {
+      "breakdown": [
+        "electr",
+        "ic",
+        "ity"
+      ],
+      "meaning_connection": "词根electr源自希腊语'elektron'（琥珀，摩擦生电的物质），-ic表性质，-ity表状态→带电的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电",
+        "examples": [
+          {
+            "sentence": "The static electricity made my hair stand up like a hedgehog.",
+            "sentence_zh": "静电让我的头发像刺猬一样竖起来。"
+          },
+          {
+            "sentence": "Benjamin Franklin discovered electricity with a kite and a key.",
+            "sentence_zh": "本杰明·富兰克林用风筝和钥匙发现了电。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电流",
+        "examples": [
+          {
+            "sentence": "The electricity in this circuit flows like spicy hotpot broth.",
+            "sentence_zh": "这个电路里的电流流动得像麻辣火锅汤底。"
+          },
+          {
+            "sentence": "Never touch exposed electricity unless you want a free perm.",
+            "sentence_zh": "除非想要免费烫发，否则别碰裸露的电流。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电学",
+        "examples": [
+          {
+            "sentence": "Studying electricity feels harder than assembling IKEA furniture.",
+            "sentence_zh": "学习电学比组装宜家家具还难。"
+          },
+          {
+            "sentence": "The professor made electricity as exciting as douyin videos.",
+            "sentence_zh": "这位教授把电学讲得像抖音视频一样有趣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "热情",
+        "examples": [
+          {
+            "sentence": "The concert had electricity that could power a small city.",
+            "sentence_zh": "这场演唱会的热情足以点亮一座小城。"
+          },
+          {
+            "sentence": "Her smile sent electricity through the room.",
+            "sentence_zh": "她的笑容让整个房间充满电流般的悸动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电力供应",
+        "examples": [
+          {
+            "sentence": "The electricity was cut off during my livestream shopping spree.",
+            "sentence_zh": "我正在直播间抢购时断电了。"
+          },
+          {
+            "sentence": "Villagers finally got electricity, now they binge-watch xianxia dramas.",
+            "sentence_zh": "村民们终于通上电，现在他们狂追仙侠剧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "conduct electricity",
+        "meaning": "导电",
+        "examples": [
+          {
+            "sentence": "Bamboo chopsticks conduct electricity as well as metal ones.",
+            "sentence_zh": "竹筷子和金属筷子一样导电。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "electricity bill",
+        "meaning": "电费单",
+        "examples": [
+          {
+            "sentence": "My electricity bill looks scarier than a horror movie after buying a mining rig.",
+            "sentence_zh": "买了矿机后我的电费单比恐怖片还吓人。"
+          }
+        ]
+      }
+    ],
+    "teach": "electricity是宙斯的私生子⚡：古希腊人发现摩擦琥珀(electrum)能吸纸屑，以为是众神之力。现代'没电了'说power's out，'电费贵'叫high voltage bill💸。记住：物理电流像火锅汤♨，抽象热情像爱豆舞台🌟，断电时刻像手机1%⚡",
+    "recite": {
+      "tips": [
+        "谐音梗：'来客吹city'→来电吹空调的都市生活",
+        "易混词：electronic（电子的）≠electric（电的）",
+        "视觉联想：闪电emoji+电表转盘+蹦迪现场闪光灯"
+      ]
+    }
+  },
+  {
+    "word": "electrification",
+    "etymology": {
+      "breakdown": [
+        "electr",
+        "fic",
+        "ation"
+      ],
+      "meaning_connection": "词根electr=电（来自希腊语elektron琥珀摩擦生电），-fic=使...化（来自facere做），-ation=名词后缀→使带电的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "起电",
+        "examples": [
+          {
+            "sentence": "The electrification of balloons by rubbing them on hair always amuses children.",
+            "sentence_zh": "用气球摩擦头发产生的起电现象总能让孩子们发笑。"
+          },
+          {
+            "sentence": "Ancient Greeks observed electrification when polishing amber with wool.",
+            "sentence_zh": "古希腊人用羊毛打磨琥珀时观察到了起电现象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "带电",
+        "examples": [
+          {
+            "sentence": "The electrification of clouds leads to spectacular lightning shows.",
+            "sentence_zh": "云层带电会导致壮观的闪电表演。"
+          },
+          {
+            "sentence": "Modern escalators prevent accidental electrification of handrails.",
+            "sentence_zh": "现代扶梯会防止扶手意外带电。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电气化",
+        "examples": [
+          {
+            "sentence": "China's railway electrification rate exceeds 70% nationwide.",
+            "sentence_zh": "中国铁路电气化率已超过70%。"
+          },
+          {
+            "sentence": "The electrification of rural kitchens reduces coal smoke emissions.",
+            "sentence_zh": "农村厨房的电气化减少了煤烟排放。"
+          }
+        ]
+      }
+    ],
+    "teach": "electrification是电力时代的文明印记⚡！最早希腊人发现琥珀(electr)摩擦能吸纸屑🧻，现在高铁电气化让复兴号比诸葛亮木牛流马快百倍🚄。说'全电生活'用fully electrified lifestyle，吐槽'又停电'说power's dead again🕯️。记住：从静电到特高压，人类一直在与电共舞💃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来可吹飞开心'→电气化(electrification)让风扇转起来",
+        "易混词对比：electric（电的）/ electronic（电子的）"
+      ]
+    }
+  },
+  {
+    "word": "electrified",
+    "etymology": {
+      "breakdown": [
+        "electr",
+        "ify",
+        "ed"
+      ],
+      "meaning_connection": "词根electr=电（源自希腊语ēlektron琥珀摩擦生电），-ify表'使...化'，-ed表过去式/分词→'使带电化'引申出'使兴奋'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使电气化",
+        "examples": [
+          {
+            "sentence": "The entire Qinghai-Tibet railway was electrified in 2021.",
+            "sentence_zh": "青藏铁路全线于2021年实现电气化。"
+          },
+          {
+            "sentence": "Electric scooters are electrifying last-mile delivery services.",
+            "sentence_zh": "电动滑板车正在使最后一公里配送服务电气化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使兴奋",
+        "examples": [
+          {
+            "sentence": "The audience was electrified by the Peking Opera face-changing performance.",
+            "sentence_zh": "京剧变脸表演让观众兴奋不已。"
+          },
+          {
+            "sentence": "Douyin's new AI filter electrified the whole internet.",
+            "sentence_zh": "抖音的新AI滤镜让全网沸腾。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "electrified fence",
+        "meaning": "电网围栏",
+        "examples": [
+          {
+            "sentence": "Panda bases use electrified fences to prevent escapes.",
+            "sentence_zh": "熊猫基地用电网围栏防止熊猫逃跑。"
+          }
+        ]
+      }
+    ],
+    "teach": "electrified是'史诗级充电宝'⚡！本义像给高铁通电（electrified railway），比喻义像直播带货主播打鸡血💥（electrified the crowd）。说'超兴奋'用地道表达buzzing like a fridge（像冰箱压缩机一样嗡嗡亢奋）🧊。电力三件套：electrified system（电气系统）/electrified atmosphere（火爆气氛）/get electrified（嗨起来）",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来就发抖'→通电(electrified)后颤抖",
+        "易混词对比：electric（电的）vs electronic（电子的）"
+      ]
+    }
+  },
+  {
+    "word": "electrify",
+    "etymology": {
+      "breakdown": [
+        "electr",
+        "ify"
+      ],
+      "meaning_connection": "词根electr=电(源自希腊语'琥珀'，摩擦生电)，后缀-ify表示'使...化'→字面意思是'使带电'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "通电",
+        "examples": [
+          {
+            "sentence": "The engineers electrified the new subway line with colorful LED lights.",
+            "sentence_zh": "工程师们用彩色LED灯为新地铁线路通电。"
+          },
+          {
+            "sentence": "Be careful! The whole fence is electrified to prevent pandas from escaping.",
+            "sentence_zh": "小心！整个围栏都通了电以防熊猫逃跑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使电气化",
+        "examples": [
+          {
+            "sentence": "China is electrifying its rural bus fleets to reduce emissions.",
+            "sentence_zh": "中国正在将乡村公交车队电气化以减少排放。"
+          },
+          {
+            "sentence": "The ancient town was electrified while preserving its Ming Dynasty architecture.",
+            "sentence_zh": "这座古镇在保留明代建筑的同时实现了电气化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使兴奋",
+        "examples": [
+          {
+            "sentence": "The announcement of free hotpot electrified the whole office.",
+            "sentence_zh": "免费火锅的通知让整个办公室都沸腾了。"
+          },
+          {
+            "sentence": "Her live-streaming performance electrified millions of viewers.",
+            "sentence_zh": "她的直播表演让数百万观众为之疯狂。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "electrify the audience",
+        "meaning": "引爆全场",
+        "examples": [
+          {
+            "sentence": "The idol group's opening song electrified the audience instantly.",
+            "sentence_zh": "这个偶像团体的开场曲瞬间引爆全场。"
+          }
+        ]
+      }
+    ],
+    "teach": "electrify是'来电'💡的终极版！从爱迪生给灯泡通电⚡，到中国高铁电气化🚄，再到爱豆让粉丝'触电'般疯狂🤯（electrifying performance）。搭配：'electrify the crowd'(嗨翻人群)/'electrified vehicle'(电动车辆)。说'激动人心'可以叫hair-raising，就像被电到炸毛的猫🐱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来就飞'→通了电(electrify)就起飞",
+        "易混词对比：electric(电的)/electronic(电子的)",
+        "记忆tip：想象皮卡丘用十万伏特给手机充电"
+      ]
+    }
   }
 ]

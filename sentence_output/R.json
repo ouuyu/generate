@@ -15305,5 +15305,290 @@
         "记忆口诀：Rotten（腐烂）+Aunt（阿姨）+Unwashed（未洗）=RAUNCHY"
       ]
     }
+  },
+  {
+    "word": "ravage",
+    "etymology": {
+      "breakdown": [
+        "rav",
+        "age"
+      ],
+      "meaning_connection": "词根rav来自古法语'ravir'(掠夺)，-age表行为结果→原指暴力抢夺行为，引申为破坏状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "破坏",
+        "examples": [
+          {
+            "sentence": "The typhoon left ravage across coastal villages.",
+            "sentence_zh": "台风在沿海村庄留下满目疮痍。"
+          },
+          {
+            "sentence": "Archaeologists found traces of ancient war ravage.",
+            "sentence_zh": "考古学家发现了古代战争破坏的痕迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蹂躏",
+        "examples": [
+          {
+            "sentence": "The museum exhibits photos of Nazi ravage during WWII.",
+            "sentence_zh": "博物馆展出二战时期纳粹蹂躏的影像。"
+          },
+          {
+            "sentence": "Poems described the ravage of locust swarms.",
+            "sentence_zh": "诗歌描绘了蝗虫群蹂躏的景象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "毁坏",
+        "examples": [
+          {
+            "sentence": "Wild boars ravaged the organic farm overnight.",
+            "sentence_zh": "野猪一夜间毁坏了有机农场。"
+          },
+          {
+            "sentence": "Sandstorms ravaged the ancient Silk Road cities.",
+            "sentence_zh": "沙尘暴曾毁坏丝绸之路古城。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "掠夺",
+        "examples": [
+          {
+            "sentence": "Pirates ravaged merchant ships for spices.",
+            "sentence_zh": "海盗为抢夺香料劫掠商船。"
+          },
+          {
+            "sentence": "The invaders ravaged libraries for rare manuscripts.",
+            "sentence_zh": "入侵者掠夺图书馆的珍贵手稿。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ravage of time",
+        "meaning": "岁月侵蚀",
+        "examples": [
+          {
+            "sentence": "The terracotta warriors show ravage of time.",
+            "sentence_zh": "兵马俑显现出岁月的侵蚀。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "ravage through",
+        "meaning": "横扫破坏",
+        "examples": [
+          {
+            "sentence": "Tornado ravaged through Texas last night.",
+            "sentence_zh": "龙卷风昨夜横扫得克萨斯州。"
+          }
+        ]
+      }
+    ],
+    "teach": "ravage是破坏界的霸王龙🦖！当哥斯拉横冲直撞叫ravage cities，蝗虫过境叫ravage crops🌾。中文说'一片狼藉'，英文说'leave ravage'就像拆家的哈士奇🐶。记住：程度比damage猛烈，接近devastate！搭配'war ravage'战争疮痍，'time ravage'岁月痕迹💔",
+    "recite": {
+      "tips": [
+        "谐音梗：'热围巾'→掠夺者(ravage)抢走你的围巾",
+        "易混词：ravage(暴力破坏) vs sabotage(暗中破坏)",
+        "记忆法：RAV四个字母倒过来就是VAR(足球视频裁判)→裁判红牌破坏比赛"
+      ]
+    }
+  },
+  {
+    "word": "ravaged",
+    "etymology": {
+      "breakdown": [
+        "rav",
+        "age",
+        "ed"
+      ],
+      "meaning_connection": "词根rav=抢夺（同rape），-age表行为结果，-ed表过去时→掠夺后的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "毁坏",
+        "examples": [
+          {
+            "sentence": "The typhoon ravaged the coastal villages like a drunken dragon.",
+            "sentence_zh": "台风像醉酒的巨龙般摧毁了沿海村落。"
+          },
+          {
+            "sentence": "Her face was ravaged by years of excessive skincare experiments.",
+            "sentence_zh": "她因多年过度护肤实验而面容受损。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "蹂躏",
+        "examples": [
+          {
+            "sentence": "Genghis Khan's army ravaged across Eurasia with mobile BBQ grills.",
+            "sentence_zh": "成吉思汗大军带着移动烤架蹂躏欧亚大陆。"
+          },
+          {
+            "sentence": "The raccoons ravaged my vegetable garden like tiny bandits.",
+            "sentence_zh": "浣熊像小土匪般蹂躏了我的菜园。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "劫掠",
+        "examples": [
+          {
+            "sentence": "Pirates ravaged the merchant ships for spices and memes.",
+            "sentence_zh": "海盗为香料和梗图劫掠商船。"
+          },
+          {
+            "sentence": "The museum was ravaged by thieves who only stole dinosaur fossils.",
+            "sentence_zh": "博物馆遭劫掠，盗贼只偷恐龙化石。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be ravaged by",
+        "meaning": "遭受...破坏",
+        "examples": [
+          {
+            "sentence": "The buffet was ravaged by hungry programmers in 3 minutes.",
+            "sentence_zh": "自助餐在三分钟内被饥饿的程序员扫荡一空。"
+          }
+        ]
+      }
+    ],
+    "teach": "ravaged是破坏界的灭霸👊！词源和rape同源，想象维京海盗边抢边rap🎤（RAVage！）。说'毁容'可叫ravaged face就像被猫抓过的沙发🛋️，'经济崩溃'是economy ravaged如同双11后的钱包💸。记住：比damage更暴力，比destroy更有故事性！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热威忌'→热带风暴+威士忌→狂暴破坏",
+        "对比记忆：damage（局部损伤） vs ravage（全面摧毁）"
+      ]
+    }
+  },
+  {
+    "word": "rave",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'rāfian'，意为'胡言乱语'，与中世纪狂喜仪式有关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "狂吼",
+        "examples": [
+          {
+            "sentence": "The football fan's rave could be heard three blocks away.",
+            "sentence_zh": "那个足球迷的狂吼三条街外都听得见。"
+          },
+          {
+            "sentence": "His drunken rave about aliens disturbed the midnight diners.",
+            "sentence_zh": "他关于外星人的醉酒狂吼扰乱了深夜食客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "狂暴",
+        "examples": [
+          {
+            "sentence": "The storm's rave tore down the lantern festival decorations.",
+            "sentence_zh": "风暴的狂暴撕毁了元宵节装饰。"
+          },
+          {
+            "sentence": "Her social media post became a rave of conflicting comments.",
+            "sentence_zh": "她的社交媒体帖子变成了一场狂暴的争论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "愤怒地说",
+        "examples": [
+          {
+            "sentence": "The customer raved about the expired milk tea for 20 minutes.",
+            "sentence_zh": "顾客为过期的奶茶愤怒地说了20分钟。"
+          },
+          {
+            "sentence": "He's raving like a spicy hotpot boiling over.",
+            "sentence_zh": "他愤怒的样子像火锅烧开了在冒泡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "叫嚷",
+        "examples": [
+          {
+            "sentence": "KTV singers raved the lyrics with more passion than accuracy.",
+            "sentence_zh": "KTV歌者们用激情而非准确度叫嚷着歌词。"
+          },
+          {
+            "sentence": "The street vendor raved his promotion through a loudspeaker.",
+            "sentence_zh": "街头小贩用喇叭叫嚷着他的促销广告。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "咆哮",
+        "examples": [
+          {
+            "sentence": "The delivery guy raved when the elevator broke down again.",
+            "sentence_zh": "电梯再次故障时快递小哥咆哮起来。"
+          },
+          {
+            "sentence": "My mom raved like a lioness when she saw my test score.",
+            "sentence_zh": "妈妈看到我考试成绩时像母狮般咆哮。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rave review",
+        "meaning": "狂热好评",
+        "examples": [
+          {
+            "sentence": "The new hotpot place got rave reviews for its flaming spicy level.",
+            "sentence_zh": "新开的火锅店因其爆辣程度获得狂热好评。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rave about",
+        "meaning": "热情赞扬",
+        "examples": [
+          {
+            "sentence": "She's been raving about that bubble tea brand for weeks.",
+            "sentence_zh": "她连续几周都在热情赞扬那家奶茶品牌。"
+          }
+        ]
+      }
+    ],
+    "teach": "rave这个词就像火锅辣度表🌶️：从'微辣'的抱怨(rant)到'变态辣'的咆哮(rave)! 其实rave culture源自80年代锐舞派对💃，现在说'疯狂安利'用rave about，比如'向全世界rave螺蛳粉'。记住：四川人吵架像rave review，重庆司机聊天像rave party🗣️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞舞'→锐舞(rave)派对",
+        "对比记忆：rant是抱怨，rave是咆哮升级版"
+      ]
+    }
   }
 ]

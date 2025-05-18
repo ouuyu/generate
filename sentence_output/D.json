@@ -15079,5 +15079,263 @@
         "记忆tip：想象法官法槌敲下时喊'Decidedly!'"
       ]
     }
+  },
+  {
+    "word": "decider",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "cid",
+        "er"
+      ],
+      "meaning_connection": "前缀de-表'彻底'，词根cid=切/杀（如decide原指'斩断犹豫'），后缀-er表'执行者'→'做出最终切割的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "决定者",
+        "examples": [
+          {
+            "sentence": "The CEO is the ultimate decider of TikTok's global strategy.",
+            "sentence_zh": "CEO是抖音全球战略的最终决定者。"
+          },
+          {
+            "sentence": "In ancient China, the emperor acted as the decider of life and death.",
+            "sentence_zh": "在古代中国，皇帝是生杀大权的决定者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "决赛",
+        "examples": [
+          {
+            "sentence": "The World Cup decider between Argentina and France broke streaming records.",
+            "sentence_zh": "阿根廷对法国的世界杯决赛打破了直播记录。"
+          },
+          {
+            "sentence": "We'll host the esports decider in Chengdu's panda-themed stadium.",
+            "sentence_zh": "我们将在成都熊猫主题体育馆举办电竞决赛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "裁决者",
+        "examples": [
+          {
+            "sentence": "The AI decider in autonomous cars must choose between two bad options.",
+            "sentence_zh": "自动驾驶汽车中的AI裁决者必须在两难中抉择。"
+          },
+          {
+            "sentence": "Ancient oracle bones served as deciders of state affairs.",
+            "sentence_zh": "古代甲骨文曾是国事的裁决者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "final decider",
+        "meaning": "终极裁决",
+        "examples": [
+          {
+            "sentence": "The popularity vote will be the final decider of this idol competition.",
+            "sentence_zh": "人气投票将是本次选秀的终极裁决。"
+          }
+        ]
+      }
+    ],
+    "teach": "decider是人生剪刀手✂️！词根cid=砍（如suicide自杀），职场decider像火锅店老板决定加几斤毛肚🥘（final decider），体育decider像世界杯点球大战⚽（penalty decider）。吐槽'做决定难'可说It's a brain burner🔥，重要决定叫game-changer🎮。记住：每个decider手里都拿着命运剪刀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'敌塞的'→决赛时敌人塞给你的(decider)压力",
+        "易混词：decider（人/赛事）vs. decision（决定本身）",
+        "记忆法：CID=刑警（抓人），DE=彻底，ER=人→彻底抓主意的人"
+      ]
+    }
+  },
+  {
+    "word": "deciding",
+    "etymology": {
+      "breakdown": [
+        "decide",
+        "ing"
+      ],
+      "meaning_connection": "动词decide（决定）加-ing后缀形成形容词/名词形式，表示'决定性的'或'判定过程'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "决定性的",
+        "examples": [
+          {
+            "sentence": "The deciding moment came when the chef tasted his own hotpot.",
+            "sentence_zh": "当厨师尝到自己煮的火锅时，决定性时刻到来了。"
+          },
+          {
+            "sentence": "In the NBA finals, the deciding game often happens in game 7.",
+            "sentence_zh": "NBA总决赛中，决胜局通常发生在第七场。"
+          }
+        ]
+      }
+    ],
+    "teach": "deciding就像火锅里的最后一颗肉丸🥘：要么成功捞起（胜利），要么碎在锅里（失败）。体育比赛叫'决胜局'是deciding game，就像吃鸡游戏的决赛圈🎮。搭配：deciding factor（关键因素）/ deciding vote（决定性一票）。说'一锤定音'可以用call the deciding shot🎯",
+    "recite": {
+      "tips": [
+        "联想记忆：'敌赛定'→决定比赛胜负的",
+        "易混对比：decided（明确的）vs deciding（决定性的）"
+      ]
+    }
+  },
+  {
+    "word": "deciduous",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "cid",
+        "uous"
+      ],
+      "meaning_connection": "前缀de-表'向下'，词根cid源自cadere表'落下'，-uous为形容词后缀→描述'会掉落的'特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "每年落叶的",
+        "examples": [
+          {
+            "sentence": "The maple trees in Fragrant Hills are deciduous, creating crimson carpets every autumn.",
+            "sentence_zh": "香山的枫树是落叶树种，每年秋天铺就红毯。"
+          },
+          {
+            "sentence": "Pandas prefer deciduous bamboo forests where they can sunbathe in winter.",
+            "sentence_zh": "大熊猫偏爱落叶竹林，冬天能晒太阳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "非永久性的",
+        "examples": [
+          {
+            "sentence": "Children's deciduous teeth are like little pearls waiting to be collected by the tooth fairy.",
+            "sentence_zh": "孩子的乳牙像等待牙仙子收集的小珍珠。"
+          },
+          {
+            "sentence": "The expo's deciduous structures will be recycled into eco-bricks.",
+            "sentence_zh": "世博会的临时建筑将被回收成生态砖。"
+          }
+        ]
+      }
+    ],
+    "teach": "deciduous其实是'树届社畜'🌳💼：秋天准时'离职'(落叶)躺平，春天又'返聘'(发芽)🌱。记住它和evergreen(常绿)就像996和自由职业者🕶️。搭配：deciduous forest(落叶林)是四季时装秀👗，baby teeth(乳牙)叫deciduous teeth就像会'辞职'的牙齿🦷。",
+    "recite": {
+      "tips": [
+        "谐音梗：'滴谁丢啊死'→叶子滴溜溜掉下",
+        "易混词对比：deciduous(主动脱落) vs. persistent(宿存)",
+        "记忆tip：de(掉)+cid(落)=双倍掉落"
+      ]
+    }
+  },
+  {
+    "word": "decimal",
+    "etymology": {
+      "breakdown": [
+        "decim",
+        "al"
+      ],
+      "meaning_connection": "词根decim=十（源自拉丁语decem），后缀-al表形容词→与十相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "十进位的",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese mathematicians used decimal system earlier than Europeans.",
+            "sentence_zh": "中国数学家使用十进制的时间早于欧洲人。"
+          },
+          {
+            "sentence": "The decimal clock dividing day into 10 hours was a French Revolution invention.",
+            "sentence_zh": "将一天分为10小时的十进制时钟是法国大革命的发明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "小数的",
+        "examples": [
+          {
+            "sentence": "Pi expressed in decimal form begins with 3.14159...",
+            "sentence_zh": "圆周率的小数形式以3.14159...开头。"
+          },
+          {
+            "sentence": "The teacher circled the decimal point in red ink.",
+            "sentence_zh": "老师用红笔圈出了小数点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "十进制",
+        "examples": [
+          {
+            "sentence": "The metric system is based on decimal for easy conversion.",
+            "sentence_zh": "公制采用十进制以便于换算。"
+          },
+          {
+            "sentence": "Counting on fingers evolved into the decimal system.",
+            "sentence_zh": "十进制源自人类用十指计数的传统。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小数",
+        "examples": [
+          {
+            "sentence": "Recurring decimals drive math students crazy.",
+            "sentence_zh": "循环小数让数学系学生抓狂。"
+          },
+          {
+            "sentence": "The stock price fell to single-digit decimals.",
+            "sentence_zh": "股价跌到了个位数的小数值。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "decimal point",
+        "meaning": "小数点",
+        "examples": [
+          {
+            "sentence": "Misplacing a decimal point once caused NASA spacecraft crash.",
+            "sentence_zh": "小数点错位曾导致NASA航天器坠毁。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "decimal place",
+        "meaning": "小数位",
+        "examples": [
+          {
+            "sentence": "Bitcoin can be divided to 8 decimal places.",
+            "sentence_zh": "比特币可分割到8位小数。"
+          }
+        ]
+      }
+    ],
+    "teach": "decimal是数学界的十指姑娘🖐️🤚！古代玛雅人用二十进制（脚趾也算），我们坚持十进制就像坚持用筷子🥢而不用叉子。说'零头'用odd cents（比如3.14中的0.14），'四舍五入'叫round off🌐。记住：你的身高用decimal表示会比'一米八'精确得多！🧮",
+    "recite": {
+      "tips": [
+        "谐音梗：'得喜馍'→得到小数点就像得到喜馍（北方面食）",
+        "对比：decimal（十进制） vs. binary（二进制）",
+        "记忆法：deci（十）+ mal（谐音'馍'）→十个馍的分配需要小数计算"
+      ]
+    }
   }
 ]

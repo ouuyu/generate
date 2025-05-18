@@ -14796,5 +14796,272 @@
         "联想：ISM结尾三巨头→capitalism/socialism/communism"
       ]
     }
+  },
+  {
+    "word": "caped",
+    "etymology": {
+      "breakdown": [
+        "cape",
+        "ed"
+      ],
+      "meaning_connection": "cape（斗篷）+ -ed（形容词后缀）→ 披着斗篷的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "披斗篷的",
+        "examples": [
+          {
+            "sentence": "The caped hero flew across the night sky like a giant bat.",
+            "sentence_zh": "披斗篷的英雄像巨大蝙蝠般划过夜空。"
+          },
+          {
+            "sentence": "At Comic-Con, you'll see hundreds of caped cosplayers everywhere.",
+            "sentence_zh": "在漫展上，随处可见数百名披斗篷的coser。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "caped crusader",
+        "meaning": "披斗篷的正义战士（常指蝙蝠侠）",
+        "examples": [
+          {
+            "sentence": "Kids love to imitate the caped crusader's deep voice.",
+            "sentence_zh": "孩子们爱模仿披斗篷战士的低沉嗓音。"
+          }
+        ]
+      }
+    ],
+    "teach": "caped是超级英雄的入场券🦸！词源可追溯到吸血鬼德古拉的拉风造型🧛♂️，现代被蝙蝠侠发扬光大🦇。说'装逼'可用all caped up（字面：全副斗篷装备），'中二病发作'叫caped phase（斗篷期）。记住：没有斗篷的超级英雄就像没有辣椒的火锅🌶️——莫得灵魂！",
+    "recite": {
+      "tips": [
+        "视觉记忆：字母d像垂下的斗篷下摆",
+        "易混词：cape（斗篷）vs. cap（帽子）"
+      ]
+    }
+  },
+  {
+    "word": "capitalist",
+    "etymology": {
+      "breakdown": [
+        "capital",
+        "ist"
+      ],
+      "meaning_connection": "词根capital=资本，-ist表示'...主义者'→拥有或支持资本体系的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "资本家",
+        "examples": [
+          {
+            "sentence": "The capitalist invested in 20 bubble tea startups last year.",
+            "sentence_zh": "这位资本家去年投资了20家奶茶创业公司。"
+          },
+          {
+            "sentence": "During the Gold Rush, every miner dreamed of becoming a capitalist.",
+            "sentence_zh": "淘金热时期，每个矿工都梦想成为资本家。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "资本主义者",
+        "examples": [
+          {
+            "sentence": "As a staunch capitalist, he carries Adam Smith's book everywhere.",
+            "sentence_zh": "作为坚定的资本主义者，他走到哪都带着亚当·斯密的著作。"
+          },
+          {
+            "sentence": "Silicon Valley capitalists debate free markets over avocado toast.",
+            "sentence_zh": "硅谷的资本主义者们边吃牛油果吐司边辩论自由市场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "资本主义的",
+        "examples": [
+          {
+            "sentence": "The capitalist system runs on coffee and ambition.",
+            "sentence_zh": "资本主义体系靠咖啡和野心运转。"
+          },
+          {
+            "sentence": "Hong Kong's capitalist economy never sleeps, just like its neon signs.",
+            "sentence_zh": "香港的资本主义经济就像霓虹灯一样永不眠。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "venture capitalist",
+        "meaning": "风险投资人",
+        "examples": [
+          {
+            "sentence": "The venture capitalist exchanged business cards using a golden cardholder.",
+            "sentence_zh": "这位风险投资人用金质名片夹交换名片。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "crony capitalist",
+        "meaning": "裙带资本家",
+        "examples": [
+          {
+            "sentence": "The novel satirizes crony capitalists who profit from policy loopholes.",
+            "sentence_zh": "这部小说讽刺了从政策漏洞获利的裙带资本家。"
+          }
+        ]
+      }
+    ],
+    "teach": "capitalist本质是'资本侠'💰：词根capital来自拉丁语caput（头），因为牲畜是古代重要资本🐄！说'暴发户'用nouveau riche（法语'新贵'），'割韭菜'叫exploit consumers就像收割机⚡。记住：马克思写《资本论》用的羽毛笔和capitalist签合同的万宝龙是同一个'资本'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶乐死他'→资本家开香槟庆祝",
+        "易混词对比：capital（资本）vs. capitol（国会大厦）",
+        "记忆tip：把-ist想象成举着钞票的小人"
+      ]
+    }
+  },
+  {
+    "word": "capitalistic",
+    "etymology": {
+      "breakdown": [
+        "capital",
+        "ist",
+        "ic"
+      ],
+      "meaning_connection": "capital（资本）+ -ist（主义者）+ -ic（形容词后缀）→ 资本主义的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "资本主义的",
+        "examples": [
+          {
+            "sentence": "The debate on capitalistic systems versus socialist systems never ends.",
+            "sentence_zh": "关于资本主义制度与社会主义制度的辩论从未停止。"
+          },
+          {
+            "sentence": "Some argue that capitalistic economies foster innovation more effectively.",
+            "sentence_zh": "有人认为资本主义经济更能有效促进创新。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "资本家的",
+        "examples": [
+          {
+            "sentence": "His capitalistic approach to business prioritizes profit over social good.",
+            "sentence_zh": "他资本家式的商业手法将利润置于社会公益之上。"
+          },
+          {
+            "sentence": "The novel satirizes the capitalistic elite's lavish lifestyles.",
+            "sentence_zh": "这部小说讽刺了资本家精英的奢靡生活方式。"
+          }
+        ]
+      }
+    ],
+    "teach": "capitalistic就像金融区的摩天大楼🏙️：词根capital本指'牛脑袋'🐂（古罗马用牛做财富计量），-ist后缀像华尔街之狼🐺，-ic变身形容词就像西装革履的银行家💼。说'血汗工厂'用sweatshop，'割韭菜'说milking the masses🌾。记住：当capitalistic出现时，空气中都是金钱的味道💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶乐死迪克'→开香槟庆祝的资本家",
+        "易混词对比：capital（资本）vs. capitol（国会大厦）"
+      ]
+    }
+  },
+  {
+    "word": "capitalization",
+    "etymology": {
+      "breakdown": [
+        "capital",
+        "ize",
+        "ation"
+      ],
+      "meaning_connection": "capital源自拉丁语caput（头），-ize表示'使…化'，-ation为名词后缀→字面意思是'使成为资本的行为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "资本化",
+        "examples": [
+          {
+            "sentence": "The capitalization of TikTok's popularity created huge market value.",
+            "sentence_zh": "抖音流行度的资本化创造了巨大市值。"
+          },
+          {
+            "sentence": "Startups often struggle with the capitalization of intellectual property.",
+            "sentence_zh": "初创企业常为知识产权的资本化犯难。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "资本总额",
+        "examples": [
+          {
+            "sentence": "Tencent's market capitalization equals 3 years of Macau's GDP.",
+            "sentence_zh": "腾讯的资本总额相当于澳门3年的GDP。"
+          },
+          {
+            "sentence": "Comparing the capitalization of Chinese and US tech giants is staggering.",
+            "sentence_zh": "中美科技巨头的资本总额对比令人咋舌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大写字母使用",
+        "examples": [
+          {
+            "sentence": "In English, capitalization of proper nouns is like putting a VIP badge on words.",
+            "sentence_zh": "英语中专有名词的大写如同给单词挂VIP胸牌。"
+          },
+          {
+            "sentence": "The random capitalization in millennials' texts actually follows secret rules.",
+            "sentence_zh": "千禧一代文字中随意的大写其实遵循着隐秘规则。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "market capitalization",
+        "meaning": "市值",
+        "examples": [
+          {
+            "sentence": "Moutai's market capitalization once surpassed all Russian companies combined.",
+            "sentence_zh": "茅台的市值曾超过所有俄罗斯公司总和。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "capitalization rate",
+        "meaning": "资本化率",
+        "examples": [
+          {
+            "sentence": "Calculating capitalization rate is like measuring how fast your money makes babies.",
+            "sentence_zh": "计算资本化率就像测量你的钱生钱速度。"
+          }
+        ]
+      }
+    ],
+    "teach": "capitalization是金钱和字母的变形金刚🤖！当指'资本化'时，就像把李子柒的视频流量变成螺蛳粉销量💰；作为'市值'时，堪比用所有奶茶杯叠成珠穆朗玛峰🗻；而'大写字母'功能，堪比给重要单词戴皇冠👑。搭配'market cap'（市值黑话）和'cap table'（股权架构），说'套现'要用monetize不要直译！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶塔rization'→开香槟庆祝资本化",
+        "易混词对比：capital（资本）vs. capitol（国会大厦）",
+        "记忆tip：所有含义都源自'头等重要'的概念"
+      ]
+    }
   }
 ]

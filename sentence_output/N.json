@@ -15537,5 +15537,421 @@
         "易混词：neutral（中立）/neuter（中性）"
       ]
     }
+  },
+  {
+    "word": "neutral",
+    "etymology": {
+      "breakdown": [
+        "neutr",
+        "al"
+      ],
+      "meaning_connection": "词根neutr=两者都不（neither），后缀-al表性质→原指不偏袒任何一方"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "中立者",
+        "examples": [
+          {
+            "sentence": "Switzerland served as a neutral during both World Wars.",
+            "sentence_zh": "瑞士在两次世界大战中都担任中立者角色。"
+          },
+          {
+            "sentence": "The debate moderator must be a strict neutral.",
+            "sentence_zh": "辩论主持人必须是严格的中立者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中立国",
+        "examples": [
+          {
+            "sentence": "Costa Rica is famous for being a permanent neutral.",
+            "sentence_zh": "哥斯达黎加以永久中立国闻名。"
+          },
+          {
+            "sentence": "The treaty recognized the small nation as a neutral.",
+            "sentence_zh": "该条约承认这个小国为中立国。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "非彩色",
+        "examples": [
+          {
+            "sentence": "The designer used beige as the perfect neutral for the background.",
+            "sentence_zh": "设计师用米色作为背景的完美非彩色。"
+          },
+          {
+            "sentence": "Her wardrobe consists mostly of neutrals with occasional bright accents.",
+            "sentence_zh": "她的衣橱主要以非彩色为主，偶尔有亮色点缀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "空档",
+        "examples": [
+          {
+            "sentence": "Remember to shift into neutral at red lights.",
+            "sentence_zh": "等红灯时记得换到空档。"
+          },
+          {
+            "sentence": "The car rolled downhill because it was left in neutral.",
+            "sentence_zh": "汽车因为停在空档而滑下山坡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "中立的",
+        "examples": [
+          {
+            "sentence": "Journalists should maintain a neutral stance when reporting.",
+            "sentence_zh": "记者报道时应保持中立立场。"
+          },
+          {
+            "sentence": "The teacher gave neutral feedback to avoid favoritism.",
+            "sentence_zh": "老师给出中立反馈以避免偏袒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "中性的",
+        "examples": [
+          {
+            "sentence": "The pH test showed the solution was perfectly neutral.",
+            "sentence_zh": "pH测试显示溶液完全中性。"
+          },
+          {
+            "sentence": "This shampoo is pH neutral for sensitive scalps.",
+            "sentence_zh": "这款洗发水pH值中性，适合敏感头皮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无色的",
+        "examples": [
+          {
+            "sentence": "Oxygen is a neutral gas with no color or smell.",
+            "sentence_zh": "氧气是无色无味的气体。"
+          },
+          {
+            "sentence": "The mineral water appears completely neutral in the glass.",
+            "sentence_zh": "矿泉水在玻璃杯中看起来完全无色。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remain neutral",
+        "meaning": "保持中立",
+        "examples": [
+          {
+            "sentence": "During family arguments, I always remain neutral.",
+            "sentence_zh": "家庭争吵时我总是保持中立。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "neutral tone",
+        "meaning": "中性语气",
+        "examples": [
+          {
+            "sentence": "Customer service should use neutral tones in difficult situations.",
+            "sentence_zh": "客服在棘手情况下应使用中性语气。"
+          }
+        ]
+      }
+    ],
+    "teach": "neutral就像太极图☯️里的那条S线！既是瑞士手表⌚的精准中立（neutral country），又是你手机里的'无色模式'📱（neutral color）。说'保持中立'地道表达是sit on the fence（骑在围墙上），'不表态'叫plead the fifth（援引第五修正案）。记住：当你说'it's neutral'时，可能是在讨论国际政治🌍、汽车档位🚗或染发剂💇！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛戳'→牛魔王戳戳你保持中立",
+        "易混词：neutral vs. natural（中性 vs 自然）",
+        "记忆法：NEU(牛)+TRAL(戳)→牛魔王用三叉戟保持中立"
+      ]
+    }
+  },
+  {
+    "word": "neutrality",
+    "etymology": {
+      "breakdown": [
+        "neutr",
+        "al",
+        "ity"
+      ],
+      "meaning_connection": "词根neutr=既不也不（如neutron中子），-al形容词后缀，-ity名词后缀→处于中间状态的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "中立",
+        "examples": [
+          {
+            "sentence": "Switzerland's neutrality during WWII made it a haven for refugees.",
+            "sentence_zh": "二战期间瑞士的中立立场使其成为难民庇护所。"
+          },
+          {
+            "sentence": "The UN requires strict neutrality from peacekeeping forces.",
+            "sentence_zh": "联合国要求维和部队保持严格中立。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不偏不倚",
+        "examples": [
+          {
+            "sentence": "Judge Bao's neutrality in legends became a symbol of justice.",
+            "sentence_zh": "传说中的包公不偏不倚成为正义象征。"
+          },
+          {
+            "sentence": "The AI assistant maintains perfect neutrality in political debates.",
+            "sentence_zh": "这个AI助手在政治辩论中保持绝对中立。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中间状态",
+        "examples": [
+          {
+            "sentence": "The pH value of 7 represents chemical neutrality.",
+            "sentence_zh": "pH值7代表化学上的中性状态。"
+          },
+          {
+            "sentence": "His facial expression stayed at neutrality despite the shocking news.",
+            "sentence_zh": "尽管听到惊人消息，他表情仍维持在无喜无怒的中间状态。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "armed neutrality",
+        "meaning": "武装中立",
+        "examples": [
+          {
+            "sentence": "Sweden maintained armed neutrality during the Cold War.",
+            "sentence_zh": "瑞典在冷战期间保持武装中立。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "network neutrality",
+        "meaning": "网络中立",
+        "examples": [
+          {
+            "sentence": "The debate over network neutrality affects all Internet users.",
+            "sentence_zh": "关于网络中立的辩论影响所有网民。"
+          }
+        ]
+      }
+    ],
+    "teach": "neutrality就像火锅里的清汤锅底🍲——不站辣党🌶️也不站麻党🧂！瑞士靠着neutrality躲过两次世界大战⚔️（历史梗），就像微信群里的和事佬🤝（视觉化）。说'保持中立'用observe strict neutrality，'假装中立'叫lip-service neutrality（地道表达）。记住：当你说'I prefer neutrality'时，其实已经在选边站了😉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛吹了题'→牛吹大了题目就保持中立",
+        "易混词：neutrality（中立性） vs. indifference（冷漠）"
+      ]
+    }
+  },
+  {
+    "word": "neutralization",
+    "etymology": {
+      "breakdown": [
+        "neutral",
+        "ize",
+        "ation"
+      ],
+      "meaning_connection": "词根neutral=中立的，-ize表'使...化'，-ation表行为结果→使事物中立化的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "中立化",
+        "examples": [
+          {
+            "sentence": "The neutralization of the disputed area prevented further conflicts.",
+            "sentence_zh": "争议地区的中立化避免了进一步冲突。"
+          },
+          {
+            "sentence": "Switzerland's neutralization during wars is famous worldwide.",
+            "sentence_zh": "瑞士在战争时期的中立化举世闻名。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中立状态",
+        "examples": [
+          {
+            "sentence": "The robot maintained perfect neutralization when processing moral dilemmas.",
+            "sentence_zh": "该机器人在处理道德困境时保持完美中立状态。"
+          },
+          {
+            "sentence": "Journalists should strive for neutralization in their reports.",
+            "sentence_zh": "记者应在报道中追求中立状态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中和",
+        "examples": [
+          {
+            "sentence": "Vinegar can achieve neutralization when mixed with baking soda.",
+            "sentence_zh": "醋与小苏打混合可达到中和效果。"
+          },
+          {
+            "sentence": "The neutralization reaction produced a spectacular fizzing sound.",
+            "sentence_zh": "中和反应产生了壮观的嘶嘶声。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acid-base neutralization",
+        "meaning": "酸碱中和",
+        "examples": [
+          {
+            "sentence": "The acid-base neutralization experiment made our chemistry class smell like pickles.",
+            "sentence_zh": "酸碱中和实验让我们的化学教室闻起来像泡菜。"
+          }
+        ]
+      }
+    ],
+    "teach": "neutralization就像国际关系里的瑞士巧克力🍫+化学课上的泡泡浴🛁！当美苏冷战时的中立国就像火锅里的清汤锅底🍲（great power neutralization），而化学中和反应就像用奶茶解辣🥛（acid neutralization）。记住：'保持中立'说maintain neutrality，'完全中和'叫complete neutralization，就像吃完麻辣烫后来杯酸奶刚好中和🌶️🥛！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛吹来这绳'→牛被吹来用绳(neutralization)固定住",
+        "易混词对比：neutrality(中立性) VS neutralization(中立化过程)",
+        "记忆口诀：中立化三件套——不站队、不表态、当和事佬"
+      ]
+    }
+  },
+  {
+    "word": "neutralize",
+    "etymology": {
+      "breakdown": [
+        "neutr",
+        "al",
+        "ize"
+      ],
+      "meaning_connection": "词根neutr=中立（如neutral），-al表形容词，-ize表动词化→使变得中立"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使中立",
+        "examples": [
+          {
+            "sentence": "Switzerland neutralized its military during WWII like a chameleon changing colors.",
+            "sentence_zh": "瑞士在二战期间使军队中立化，如同变色龙改变颜色。"
+          },
+          {
+            "sentence": "The UN tried to neutralize the conflict zone by deploying peacekeepers.",
+            "sentence_zh": "联合国试图通过部署维和部队使冲突地区中立化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成中立地带",
+        "examples": [
+          {
+            "sentence": "The DMZ neutralizes the border between the Koreas like a buffer zone.",
+            "sentence_zh": "非军事区使朝韩边界成为中立地带，如同缓冲区间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使中和",
+        "examples": [
+          {
+            "sentence": "Baking soda can neutralize stomach acid just like a fire extinguisher puts out flames.",
+            "sentence_zh": "小苏打可以中和胃酸，如同灭火器扑灭火焰。"
+          },
+          {
+            "sentence": "The perfume neutralized the durian smell in my fridge magically.",
+            "sentence_zh": "香水神奇地中和了我冰箱里的榴莲味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抵销",
+        "examples": [
+          {
+            "sentence": "His kindness neutralized her anger like sunshine melting ice.",
+            "sentence_zh": "他的善良抵消了她的怒气，如同阳光融化冰雪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "中立化",
+        "examples": [
+          {
+            "sentence": "The chemical solution neutralizes after 5 minutes of stirring.",
+            "sentence_zh": "化学溶液搅拌5分钟后会中立化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变无效",
+        "examples": [
+          {
+            "sentence": "The vaccine's effect neutralizes if not stored properly.",
+            "sentence_zh": "疫苗若保存不当会失效。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "中和",
+        "examples": [
+          {
+            "sentence": "Vinegar and baking soda neutralize violently in volcano science experiments.",
+            "sentence_zh": "醋和小苏打在火山实验中会剧烈中和。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "neutralize the threat",
+        "meaning": "消除威胁",
+        "examples": [
+          {
+            "sentence": "Antivirus software neutralizes computer threats like a digital bodyguard.",
+            "sentence_zh": "杀毒软件消除电脑威胁，如同数字保镖。"
+          }
+        ]
+      }
+    ],
+    "teach": "neutralize就像化学课上的酸碱中和实验🧪+国际象棋里的和局♟️！瑞士永久中立国是现实版neutralize🌍，而'消除威胁'叫neutralize the threat就像灭霸打响指💥。搭配：neutralize odors（除臭）/ neutralize advantages（抵消优势）。说'没效果了'可以用gone neutral🚦，就像交通灯变黄了。",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛吹了iz'→牛吹大了就需要中和(neutralize)一下",
+        "易混词：naturalize（归化）vs neutralize（中和）",
+        "记忆tip：NEUTRAL+IZE=让吵架的双方变成中立(neutral)状态"
+      ]
+    }
   }
 ]
