@@ -1,0 +1,92 @@
+[
+  {
+    "word": "a",
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "第一个字母 A",
+        "examples": [
+          {
+            "sentence": "The word 'apple' starts with the letter 'a'.",
+            "sentence_zh": "单词 'apple' 以字母 'a' 开头。"
+          },
+          {
+            "sentence": "In the alphabet, 'a' is the first letter.",
+            "sentence_zh": "在字母表中，'a' 是第一个字母。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "art.",
+        "meaning": "一个",
+        "examples": [
+          {
+            "sentence": "I saw a bird in the tree.",
+            "sentence_zh": "我看见树上有一只鸟。"
+          },
+          {
+            "sentence": "She wants a cup of coffee.",
+            "sentence_zh": "她想要一杯咖啡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "第一的",
+        "examples": [
+          {
+            "sentence": "He won the first prize in the competition.",
+            "sentence_zh": "他在比赛中赢得了第一名。"
+          },
+          {
+            "sentence": "She was the first to arrive at the meeting.",
+            "sentence_zh": "她是第一个到达会议的人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "a lot of",
+        "meaning": "大量的",
+        "examples": [
+          {
+            "sentence": "There are a lot of books on the shelf.",
+            "sentence_zh": "书架上有大量的书。"
+          },
+          {
+            "sentence": "She has a lot of friends at school.",
+            "sentence_zh": "她在学校有很多朋友。"
+          }
+        ]
+      },
+      {
+        "type": "collocation",
+        "form": "a bit",
+        "meaning": "一点儿",
+        "examples": [
+          {
+            "sentence": "I'm feeling a bit tired today.",
+            "sentence_zh": "我今天感觉有点儿累。"
+          },
+          {
+            "sentence": "Could you turn the volume down a bit?",
+            "sentence_zh": "你能把音量调低一点儿吗？"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aaah",
+    "meanings": [
+      {
+        "part_of_speech": "abbr.",
+        "meaning": "American Association for the Advancement of the Humanities 美国人权促进会",
+        "examples": []
+      }
+    ],
+    "usages": []
+  }
+]

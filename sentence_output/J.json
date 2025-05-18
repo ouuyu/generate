@@ -1,0 +1,155 @@
+[
+  {
+    "word": "jab",
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "刺",
+        "examples": [
+          {
+            "sentence": "He jabbed the knife into the table.",
+            "sentence_zh": "他用刀刺向桌子。"
+          },
+          {
+            "sentence": "The boxer jabbed at his opponent's face.",
+            "sentence_zh": "拳击手向对手的脸上猛刺。"
+          },
+          {
+            "sentence": "She jabbed me with her elbow to get my attention.",
+            "sentence_zh": "她用肘轻轻戳了我一下，以引起我的注意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "戳",
+        "examples": [
+          {
+            "sentence": "The child jabbed his finger into the cake.",
+            "sentence_zh": "孩子用手指戳了戳蛋糕。"
+          },
+          {
+            "sentence": "Stop jabbing at the screen with your pen!",
+            "sentence_zh": "别用笔戳屏幕了！"
+          },
+          {
+            "sentence": "She jabbed the needle through the fabric.",
+            "sentence_zh": "她把针戳穿布料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "猛击",
+        "examples": [
+          {
+            "sentence": "The fighter jabbed his rival with a quick left hook.",
+            "sentence_zh": "拳击手用一记快速的左勾拳猛击对手。"
+          },
+          {
+            "sentence": "He jabbed the ball into the net with precision.",
+            "sentence_zh": "他精准地将球猛击入网。"
+          },
+          {
+            "sentence": "She jabbed the umbrella into the ground in frustration.",
+            "sentence_zh": "她沮丧地把伞猛击向地面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "刺",
+        "examples": [
+          {
+            "sentence": "The nurse gave me a quick jab in the arm.",
+            "sentence_zh": "护士迅速在我手臂上刺了一针。"
+          },
+          {
+            "sentence": "He felt a sharp jab in his side.",
+            "sentence_zh": "他感到腰间一阵刺痛。"
+          },
+          {
+            "sentence": "The cactus has tiny jabs that can be painful.",
+            "sentence_zh": "仙人掌有细小的刺，可能会很痛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "戳",
+        "examples": [
+          {
+            "sentence": "A playful jab in the ribs made him laugh.",
+            "sentence_zh": "顽皮地戳了一下他的肋骨，让他笑了起来。"
+          },
+          {
+            "sentence": "She gave him a light jab with her finger.",
+            "sentence_zh": "她用手指轻轻戳了他一下。"
+          },
+          {
+            "sentence": "The jab of the pencil left a mark on the paper.",
+            "sentence_zh": "铅笔的戳刺在纸上留下了痕迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "猛击",
+        "examples": [
+          {
+            "sentence": "The boxer's quick jab stunned his opponent.",
+            "sentence_zh": "拳击手快速的猛击让对手晕眩。"
+          },
+          {
+            "sentence": "A well-placed jab can win a match.",
+            "sentence_zh": "一记恰到好处的猛击可以赢得比赛。"
+          },
+          {
+            "sentence": "He dodged the opponent's jab and countered.",
+            "sentence_zh": "他躲过对手的猛击并反击。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jab at",
+        "meaning": "向...猛刺",
+        "examples": [
+          {
+            "sentence": "He jabbed at the door with his key.",
+            "sentence_zh": "他用钥匙猛刺门锁。"
+          },
+          {
+            "sentence": "The cat jabbed at the toy with its paw.",
+            "sentence_zh": "猫用爪子猛刺玩具。"
+          },
+          {
+            "sentence": "She jabbed at the air with her finger to emphasize her point.",
+            "sentence_zh": "她用手指猛刺空气，以强调她的观点。"
+          }
+        ]
+      },
+      {
+        "type": "collocation",
+        "form": "quick jab",
+        "meaning": "快速的刺击",
+        "examples": [
+          {
+            "sentence": "The nurse administered a quick jab to the patient.",
+            "sentence_zh": "护士给病人快速打了一针。"
+          },
+          {
+            "sentence": "A quick jab to the ribs made him double over.",
+            "sentence_zh": "快速刺向肋骨的一击让他弯下了腰。"
+          },
+          {
+            "sentence": "The boxer's quick jab was his signature move.",
+            "sentence_zh": "拳击手快速的刺击是他的标志性动作。"
+          }
+        ]
+      }
+    ]
+  }
+]

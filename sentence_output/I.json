@@ -1,0 +1,130 @@
+[
+  {
+    "word": "I",
+    "meanings": [
+      {
+        "part_of_speech": "pron.",
+        "meaning": "我",
+        "examples": [
+          {
+            "sentence": "I am going to the store.",
+            "sentence_zh": "我要去商店。"
+          },
+          {
+            "sentence": "I think it's a good idea.",
+            "sentence_zh": "我认为这是个好主意。"
+          },
+          {
+            "sentence": "I love reading books.",
+            "sentence_zh": "我喜欢读书。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电流",
+        "examples": [
+          {
+            "sentence": "The circuit carries a current I.",
+            "sentence_zh": "电路承载电流I。"
+          },
+          {
+            "sentence": "I is measured in amperes.",
+            "sentence_zh": "电流I以安培为单位测量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中断",
+        "examples": [
+          {
+            "sentence": "The system experienced an I during operation.",
+            "sentence_zh": "系统在运行期间经历了中断。"
+          },
+          {
+            "sentence": "An I can cause data loss.",
+            "sentence_zh": "中断可能导致数据丢失。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "指令",
+        "examples": [
+          {
+            "sentence": "The program executes the I sequentially.",
+            "sentence_zh": "程序按顺序执行指令。"
+          },
+          {
+            "sentence": "Each I is encoded in binary.",
+            "sentence_zh": "每条指令都用二进制编码。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "指示符",
+        "examples": [
+          {
+            "sentence": "The register stores the I for the next step.",
+            "sentence_zh": "寄存器存储下一步的指示符。"
+          },
+          {
+            "sentence": "The I helps identify the current state.",
+            "sentence_zh": "指示符有助于识别当前状态。"
+          }
+        ]
+      }
+    ],
+    "usages": []
+  },
+  {
+    "word": "iambic",
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "短长格",
+        "examples": [
+          {
+            "sentence": "The poet used iambic meter to create a rhythmic flow in the verses.",
+            "sentence_zh": "诗人使用短长格韵律在诗节中创造出节奏感。"
+          },
+          {
+            "sentence": "Iambic pentameter is a common metrical pattern in English poetry.",
+            "sentence_zh": "五步抑扬格是英语诗歌中常见的韵律模式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抑扬格",
+        "examples": [
+          {
+            "sentence": "Shakespeare's sonnets are famous for their use of iambic rhythms.",
+            "sentence_zh": "莎士比亚的十四行诗以其抑扬格韵律著称。"
+          },
+          {
+            "sentence": "The iambic pattern alternates between unstressed and stressed syllables.",
+            "sentence_zh": "抑扬格模式在非重读音节和重读音节之间交替。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抑扬格诗",
+        "examples": [
+          {
+            "sentence": "He composed a beautiful piece of iambic for the literary competition.",
+            "sentence_zh": "他为文学比赛创作了一首优美的抑扬格诗。"
+          },
+          {
+            "sentence": "The anthology includes several examples of early English iambic.",
+            "sentence_zh": "这本选集收录了几首早期英语抑扬格诗的范例。"
+          }
+        ]
+      }
+    ],
+    "usages": []
+  }
+]

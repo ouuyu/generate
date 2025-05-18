@@ -1,0 +1,123 @@
+[
+  {
+    "word": "dab",
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "少量",
+        "examples": [
+          {
+            "sentence": "She put a dab of butter on her toast.",
+            "sentence_zh": "她在吐司上放了一点黄油。"
+          },
+          {
+            "sentence": "He only used a dab of paint to fix the scratch.",
+            "sentence_zh": "他只用了少量油漆修补刮痕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "轻拍",
+        "examples": [
+          {
+            "sentence": "She gave the dog a gentle dab on the head.",
+            "sentence_zh": "她轻轻拍了拍狗的头。"
+          },
+          {
+            "sentence": "He felt a dab on his shoulder and turned around.",
+            "sentence_zh": "他感到有人轻拍他的肩膀，于是转过身去。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "比目鱼",
+        "examples": [
+          {
+            "sentence": "We caught a few dabs during our fishing trip.",
+            "sentence_zh": "我们在钓鱼之旅中钓到几条比目鱼。"
+          },
+          {
+            "sentence": "Dabs are commonly found in shallow coastal waters.",
+            "sentence_zh": "比目鱼常见于浅海沿岸水域。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "熟手",
+        "examples": [
+          {
+            "sentence": "She's a dab at playing the piano.",
+            "sentence_zh": "她是个弹钢琴的熟手。"
+          },
+          {
+            "sentence": "He's a dab in fixing cars and always helps his friends.",
+            "sentence_zh": "他是个修车熟手，总是帮助朋友。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "轻拍",
+        "examples": [
+          {
+            "sentence": "She dabbed her eyes with a tissue.",
+            "sentence_zh": "她用纸巾轻拍眼睛。"
+          },
+          {
+            "sentence": "He dabbed the wound gently with antiseptic.",
+            "sentence_zh": "他轻轻用消毒剂轻拍伤口。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "轻擦",
+        "examples": [
+          {
+            "sentence": "She dabbed some perfume on her wrists.",
+            "sentence_zh": "她在手腕上轻擦了一些香水。"
+          },
+          {
+            "sentence": "He dabbed the paint onto the canvas with a sponge.",
+            "sentence_zh": "他用海绵将颜料轻擦在画布上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dab at",
+        "meaning": "轻拍或轻擦某物",
+        "examples": [
+          {
+            "sentence": "She dabbed at her lips with a napkin.",
+            "sentence_zh": "她用纸巾轻擦嘴唇。"
+          },
+          {
+            "sentence": "He dabbed at the stain on his shirt with a wet cloth.",
+            "sentence_zh": "他用湿布轻擦衬衫上的污渍。"
+          }
+        ]
+      },
+      {
+        "type": "collocation",
+        "form": "a dab hand",
+        "meaning": "某方面的能手",
+        "examples": [
+          {
+            "sentence": "She's a dab hand at baking cakes.",
+            "sentence_zh": "她是个烘焙蛋糕的能手。"
+          },
+          {
+            "sentence": "He's a dab hand at solving technical problems.",
+            "sentence_zh": "他是个解决技术问题的能手。"
+          }
+        ]
+      }
+    ]
+  }
+]

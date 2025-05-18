@@ -1,0 +1,152 @@
+[
+  {
+    "word": "pace",
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "速度",
+        "examples": [
+          {
+            "sentence": "The runner increased his pace in the final lap.",
+            "sentence_zh": "赛跑者在最后一圈加快了速度。"
+          },
+          {
+            "sentence": "The pace of technological change is accelerating.",
+            "sentence_zh": "技术变革的速度正在加快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "步调",
+        "examples": [
+          {
+            "sentence": "She tried to match her pace with that of her walking partner.",
+            "sentence_zh": "她试图让自己的步调与同伴保持一致。"
+          },
+          {
+            "sentence": "The teacher adjusted the pace of the lesson to the students' understanding.",
+            "sentence_zh": "老师根据学生的理解能力调整了课程的步调。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "步法",
+        "examples": [
+          {
+            "sentence": "The instructor taught the students the correct pace for the dance.",
+            "sentence_zh": "教练教学生们正确的舞蹈步法。"
+          },
+          {
+            "sentence": "The horse's pace was smooth and steady.",
+            "sentence_zh": "这匹马的步法平稳且均匀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "踱步",
+        "examples": [
+          {
+            "sentence": "He paced back and forth in the waiting room nervously.",
+            "sentence_zh": "他在等候室里紧张地来回踱步。"
+          },
+          {
+            "sentence": "The lion paced inside its cage.",
+            "sentence_zh": "狮子在笼子里来回踱步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "缓慢走",
+        "examples": [
+          {
+            "sentence": "She paced slowly along the beach, enjoying the sunset.",
+            "sentence_zh": "她沿着海滩缓慢行走，欣赏着日落。"
+          },
+          {
+            "sentence": "The old man paced down the street with his cane.",
+            "sentence_zh": "老人拄着拐杖沿着街道缓慢行走。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用步测",
+        "examples": [
+          {
+            "sentence": "He paced the length of the garden to estimate its size.",
+            "sentence_zh": "他用步测法测量花园的长度以估算其大小。"
+          },
+          {
+            "sentence": "The surveyor paced out the boundaries of the property.",
+            "sentence_zh": "测量员用步测法测量了地产的边界。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "踱步于",
+        "examples": [
+          {
+            "sentence": "She paced the room while thinking about the problem.",
+            "sentence_zh": "她在房间里踱步，思考着这个问题。"
+          },
+          {
+            "sentence": "The captain paced the deck of the ship.",
+            "sentence_zh": "船长在甲板上踱步。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keep pace with",
+        "meaning": "与...保持同步",
+        "examples": [
+          {
+            "sentence": "It's hard to keep pace with the rapid changes in technology.",
+            "sentence_zh": "很难跟上技术的快速变化。"
+          },
+          {
+            "sentence": "She walked faster to keep pace with her taller friend.",
+            "sentence_zh": "她加快步伐以跟上她个子更高的朋友。"
+          }
+        ]
+      },
+      {
+        "type": "collocation",
+        "form": "at a steady pace",
+        "meaning": "以稳定的速度",
+        "examples": [
+          {
+            "sentence": "The construction work is progressing at a steady pace.",
+            "sentence_zh": "建设工作正在以稳定的速度进行。"
+          },
+          {
+            "sentence": "He ran at a steady pace throughout the marathon.",
+            "sentence_zh": "他在整个马拉松比赛中以稳定的速度奔跑。"
+          }
+        ]
+      },
+      {
+        "type": "idiom",
+        "form": "put through one's paces",
+        "meaning": "测试某人的能力",
+        "examples": [
+          {
+            "sentence": "The new employee was put through his paces during the training session.",
+            "sentence_zh": "新员工在培训期间接受了能力测试。"
+          },
+          {
+            "sentence": "The coach put the team through its paces before the big game.",
+            "sentence_zh": "教练在大赛前测试了队伍的能力。"
+          }
+        ]
+      }
+    ]
+  }
+]

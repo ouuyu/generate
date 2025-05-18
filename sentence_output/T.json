@@ -1,0 +1,38 @@
+[
+  {
+    "word": "ta",
+    "meanings": [
+      {
+        "part_of_speech": "interj.",
+        "meaning": "谢谢",
+        "examples": [
+          {
+            "sentence": "Ta for the lovely gift!",
+            "sentence_zh": "谢谢这份可爱的礼物！"
+          },
+          {
+            "sentence": "Ta very much for your help.",
+            "sentence_zh": "非常感谢你的帮助。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "terminal adapter",
+        "meaning": "终端适配器",
+        "examples": [
+          {
+            "sentence": "The ta connects the computer to the network.",
+            "sentence_zh": "终端适配器将计算机连接到网络。"
+          },
+          {
+            "sentence": "You need a ta to interface with the mainframe.",
+            "sentence_zh": "你需要一个终端适配器来与主机连接。"
+          }
+        ]
+      }
+    ]
+  }
+]

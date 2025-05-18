@@ -1,0 +1,91 @@
+[
+  {
+    "word": "xenon",
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "氙",
+        "examples": [
+          {
+            "sentence": "Xenon is a noble gas used in certain types of lighting.",
+            "sentence_zh": "氙是一种用于某些类型照明的惰性气体。"
+          },
+          {
+            "sentence": "The headlights of luxury cars often use xenon for brighter illumination.",
+            "sentence_zh": "豪华汽车的前灯通常使用氙气以获得更明亮的照明。"
+          },
+          {
+            "sentence": "Scientists study xenon to understand more about inert gases.",
+            "sentence_zh": "科学家研究氙以更多地了解惰性气体。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "xenon lamp",
+        "meaning": "氙气灯",
+        "examples": [
+          {
+            "sentence": "The theater was lit by powerful xenon lamps.",
+            "sentence_zh": "剧院由强大的氙气灯照明。"
+          },
+          {
+            "sentence": "Xenon lamps are preferred for their long lifespan and brightness.",
+            "sentence_zh": "氙气灯因其长寿命和亮度而受到青睐。"
+          }
+        ]
+      },
+      {
+        "type": "collocation",
+        "form": "xenon arc",
+        "meaning": "氙弧",
+        "examples": [
+          {
+            "sentence": "The xenon arc produces a light that closely resembles natural sunlight.",
+            "sentence_zh": "氙弧产生的光非常类似于自然阳光。"
+          },
+          {
+            "sentence": "Xenon arcs are used in solar simulators for testing materials.",
+            "sentence_zh": "氙弧用于太阳能模拟器中测试材料。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "xenophobia",
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "无端畏惧和憎恨外国人/陌生人",
+        "examples": [
+          {
+            "sentence": "Xenophobia often leads to discrimination against immigrants.",
+            "sentence_zh": "对外国人的恐惧常常导致对移民的歧视。"
+          },
+          {
+            "sentence": "The rise of xenophobia in some countries has caused social tensions.",
+            "sentence_zh": "一些国家对外国人恐惧情绪的上升导致了社会紧张。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "对外国人的畏惧和憎恨",
+        "examples": [
+          {
+            "sentence": "His xenophobia made him reluctant to travel abroad.",
+            "sentence_zh": "他对国外人的憎恨使他不太愿意出国旅行。"
+          },
+          {
+            "sentence": "The politician's speeches were filled with xenophobia.",
+            "sentence_zh": "那位政治家的演讲充满了对外国人的憎恨。"
+          }
+        ]
+      }
+    ],
+    "usages": []
+  }
+]

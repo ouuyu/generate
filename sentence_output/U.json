@@ -1,0 +1,115 @@
+[
+  {
+    "word": "ubiquitous",
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无所不在的",
+        "examples": [
+          {
+            "sentence": "The internet has become ubiquitous in modern life.",
+            "sentence_zh": "互联网在现代生活中已经无处不在。"
+          },
+          {
+            "sentence": "Smartphones are so ubiquitous that almost everyone owns one.",
+            "sentence_zh": "智能手机如此普及，几乎每个人都拥有一部。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "到处存在的",
+        "examples": [
+          {
+            "sentence": "Air pollution is ubiquitous in many big cities.",
+            "sentence_zh": "空气污染在许多大城市中到处存在。"
+          },
+          {
+            "sentence": "The sound of birds is ubiquitous in the countryside.",
+            "sentence_zh": "鸟叫声在乡村中到处可闻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "普遍存在的",
+        "examples": [
+          {
+            "sentence": "Stress seems to be a ubiquitous problem among students.",
+            "sentence_zh": "压力似乎是学生中普遍存在的问题。"
+          },
+          {
+            "sentence": "The belief in democracy is ubiquitous in free societies.",
+            "sentence_zh": "对民主的信仰在自由社会中普遍存在。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "collocation",
+        "form": "ubiquitous presence",
+        "meaning": "无处不在的存在",
+        "examples": [
+          {
+            "sentence": "The company's ubiquitous presence in the market makes it a dominant player.",
+            "sentence_zh": "该公司在市场上无处不在的存在使其成为主导者。"
+          },
+          {
+            "sentence": "The ubiquitous presence of security cameras raises privacy concerns.",
+            "sentence_zh": "监控摄像头无处不在的存在引发了隐私问题。"
+          }
+        ]
+      },
+      {
+        "type": "idiom",
+        "form": "ubiquitous as the air",
+        "meaning": "像空气一样无处不在",
+        "examples": [
+          {
+            "sentence": "In the digital age, information has become as ubiquitous as the air.",
+            "sentence_zh": "在数字时代，信息已变得像空气一样无处不在。"
+          },
+          {
+            "sentence": "Her influence in the company is as ubiquitous as the air.",
+            "sentence_zh": "她在公司的影响力像空气一样无处不在。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ubiquity",
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "到处存在",
+        "examples": [
+          {
+            "sentence": "The ubiquity of smartphones has changed how we communicate.",
+            "sentence_zh": "智能手机的普遍存在改变了我们的交流方式。"
+          },
+          {
+            "sentence": "The ubiquity of fast food restaurants in urban areas is remarkable.",
+            "sentence_zh": "城市地区快餐店的普遍存在令人瞩目。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "普遍存在",
+        "examples": [
+          {
+            "sentence": "The ubiquity of social media makes it hard to escape digital distractions.",
+            "sentence_zh": "社交媒体的普遍存在使得难以摆脱数字干扰。"
+          },
+          {
+            "sentence": "The ubiquity of plastic waste is a major environmental concern.",
+            "sentence_zh": "塑料废物的普遍存在是一个重大的环境问题。"
+          }
+        ]
+      }
+    ],
+    "usages": []
+  }
+]

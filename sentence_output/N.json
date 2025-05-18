@@ -1,0 +1,115 @@
+[
+  {
+    "word": "nab",
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "捉住",
+        "examples": [
+          {
+            "sentence": "The police nabbed the thief as he was leaving the store.",
+            "sentence_zh": "小偷离开商店时被警察捉住了。"
+          },
+          {
+            "sentence": "She managed to nab the last ticket for the concert.",
+            "sentence_zh": "她设法捉住了音乐会的最后一张票。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "逮捕",
+        "examples": [
+          {
+            "sentence": "The suspect was nabbed by the authorities yesterday.",
+            "sentence_zh": "嫌疑人昨天被当局逮捕了。"
+          },
+          {
+            "sentence": "He was nabbed for speeding on the highway.",
+            "sentence_zh": "他因在高速公路上超速行驶而被逮捕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "抢夺",
+        "examples": [
+          {
+            "sentence": "The robber nabbed her purse and ran away.",
+            "sentence_zh": "劫匪抢夺了她的钱包后逃跑了。"
+          },
+          {
+            "sentence": "He nabbed the opportunity to speak with the CEO.",
+            "sentence_zh": "他抢夺了与CEO交谈的机会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "collocation",
+        "form": "nab a seat",
+        "meaning": "抢占座位",
+        "examples": [
+          {
+            "sentence": "I arrived early to nab a seat at the front.",
+            "sentence_zh": "我早早到达以抢占前排座位。"
+          },
+          {
+            "sentence": "She quickly nabbed a seat near the window.",
+            "sentence_zh": "她迅速抢占了一个靠窗的座位。"
+          }
+        ]
+      },
+      {
+        "type": "collocation",
+        "form": "nab the chance",
+        "meaning": "抓住机会",
+        "examples": [
+          {
+            "sentence": "He nabbed the chance to work abroad.",
+            "sentence_zh": "他抓住了出国工作的机会。"
+          },
+          {
+            "sentence": "Don't hesitate to nab the chance when it comes.",
+            "sentence_zh": "机会来临时不要犹豫，要抓住它。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nadir",
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "天底",
+        "examples": [
+          {
+            "sentence": "The nadir is the point in the celestial sphere directly opposite the zenith.",
+            "sentence_zh": "天底是天球上正对天顶的点。"
+          },
+          {
+            "sentence": "Astronomers sometimes use the nadir to calibrate their instruments.",
+            "sentence_zh": "天文学家有时用天底来校准他们的仪器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "最低点",
+        "examples": [
+          {
+            "sentence": "After losing his job, he felt he had reached the nadir of his life.",
+            "sentence_zh": "失业后，他感到自己已跌至人生的最低谷。"
+          },
+          {
+            "sentence": "The company's profits hit their nadir during the economic crisis.",
+            "sentence_zh": "在经济危机期间，该公司的利润跌至最低点。"
+          }
+        ]
+      }
+    ],
+    "usages": []
+  }
+]
