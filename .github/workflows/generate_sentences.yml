@@ -1,7 +1,8 @@
 name: Generate Sentences
 
 on:
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch: # Allows manual triggering  schedule:
+    - cron: '0 */6 * * *' # Runs every 5 hours
 
 jobs:
   generate:
@@ -31,7 +32,7 @@ jobs:
           for letter in {A..Z}
           do
             echo "Generating $letter.json"
-            timeout 1m node sentence/generate_sentences.js -i word.xlsx -l $letter -o sentence_output/$letter.json &
+            timeout 5h node sentence/generate_sentences.js -i word.xlsx -l $letter -o sentence_output/$letter.json &
             sleep 1
           done
           wait
