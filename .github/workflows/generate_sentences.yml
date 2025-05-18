@@ -31,7 +31,7 @@ jobs:
           for letter in {A..Z}
           do
             echo "Generating $letter.json"
-            timeout 1m node sentence/generate_sentences.js -i word.xlsx -l $letter -o sentence_output/$letter.json & || exit 0
+            timeout 1m node sentence/generate_sentences.js -i word.xlsx -l $letter -o sentence_output/$letter.json &
             sleep 1
           done
           wait
