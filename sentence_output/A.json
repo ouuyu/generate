@@ -8309,5 +8309,249 @@
         "记忆法：ABS（防抱死）+TRACTION（牵引）= 把具体特征'防抱死'地牵引走"
       ]
     }
+  },
+  {
+    "word": "abstractly",
+    "etymology": {
+      "breakdown": [
+        "abstract",
+        "ly"
+      ],
+      "meaning_connection": "abstract源自拉丁语abstractus（抽离的），-ly将形容词转为副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "抽象地",
+        "examples": [
+          {
+            "sentence": "The artist explained his painting abstractly by referring to cosmic vibrations.",
+            "sentence_zh": "艺术家用宇宙振动这类抽象概念解释他的画作。"
+          },
+          {
+            "sentence": "Blockchain is often discussed abstractly before people actually understand it.",
+            "sentence_zh": "区块链在人们真正理解前常被抽象地讨论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "理论上地",
+        "examples": [
+          {
+            "sentence": "The professor could talk abstractly about economics for hours without mentioning real cases.",
+            "sentence_zh": "教授能理论化地谈论经济学数小时而不提实际案例。"
+          },
+          {
+            "sentence": "Xi'an's city planning was first considered abstractly before implementation.",
+            "sentence_zh": "西安的城市规划在实施前首先进行了理论化考量。"
+          }
+        ]
+      }
+    ],
+    "teach": "abstractly就像在云端讨论火锅🍲——只谈'辣度的量子波动'却不实际涮毛肚！它的祖先abstractus本指'抽离的'，就像程序员脱发（ab-）后剩下的理论（tract）🤓。搭配：think abstractly（抽象思考）/ argue abstractly（空谈）。说'纸上谈兵'可用armchair general🪑，记住这三个哲学状态：具体→抽象→饿(•_•)→(╯°□°)╯",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不识字捶特例'→抽象派艺术家不爱具体案例",
+        "对比记忆：abstractly（抽象地）vs practically（实际地）"
+      ]
+    }
+  },
+  {
+    "word": "abstruse",
+    "etymology": {
+      "breakdown": [
+        "abs",
+        "trus",
+        "e"
+      ],
+      "meaning_connection": "前缀abs-表示'远离'，词根trus同'推'(如intrude中的trude)，字面意思是'被推远的'→引申为'难以触及理解的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "难解的",
+        "examples": [
+          {
+            "sentence": "The quantum physics lecture was so abstruse that even the professor got confused.",
+            "sentence_zh": "这场量子物理讲座深奥到连教授自己都糊涂了。"
+          },
+          {
+            "sentence": "My grandma thinks smartphone settings are abstruse hieroglyphics.",
+            "sentence_zh": "我奶奶觉得智能手机设置像难解的象形文字。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "深奥的",
+        "examples": [
+          {
+            "sentence": "The abstruse Buddhist sutras require years of study to comprehend.",
+            "sentence_zh": "这些深奥的佛经需要多年研习才能理解。"
+          },
+          {
+            "sentence": "His explanation made the simple math problem sound abstruse.",
+            "sentence_zh": "他的解释让这道简单数学题听起来深奥难懂。"
+          }
+        ]
+      }
+    ],
+    "teach": "abstruse就像被黑洞吸走的知识🕳️！拉丁语原意是'被推远的'，就像程序员看天书代码💻（abstruse algorithm），或广东人听温州话🗣️（abstruse dialect）。记住：说'看不懂'别再用difficult，来句'This is totally abstruse!'瞬间提升逼格✨。搭配：abstruse theory（玄妙理论）/ abstruse writing（晦涩文章）",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不识字'→因为深奥所以爱不识字",
+        "易混词：obscure（模糊的）vs abstruse（需要专业知识的难懂）",
+        "记忆法：ABS（防抱死系统）+ TRU（true）+ SE（色）→ 真正的色彩都藏在深奥处"
+      ]
+    }
+  },
+  {
+    "word": "absurd",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "surd"
+      ],
+      "meaning_connection": "前缀ab-表示'偏离'，词根surd来自拉丁语'surdus'(聋的/不协调的)→原指'听不见的音调'，引申为'违背常理'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "荒谬的",
+        "examples": [
+          {
+            "sentence": "It's absurd to charge 50 yuan for a bowl of plain rice.",
+            "sentence_zh": "一碗白米饭卖50元简直荒谬。"
+          },
+          {
+            "sentence": "The AI suggested an absurd plan to conquer humans with durians.",
+            "sentence_zh": "这个AI提出了用榴莲征服人类的荒谬计划。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不合理的",
+        "examples": [
+          {
+            "sentence": "Wearing a winter coat in Hainan is absurd.",
+            "sentence_zh": "在海南穿羽绒服是不合理的。"
+          },
+          {
+            "sentence": "His absurd demand was to get paid while sleeping.",
+            "sentence_zh": "他要求睡觉时也要领工资，这很不合理。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可笑的",
+        "examples": [
+          {
+            "sentence": "The panda's absurd attempt to climb upside down amused visitors.",
+            "sentence_zh": "熊猫倒立爬树的可笑尝试逗乐了游客。"
+          },
+          {
+            "sentence": "His absurd imitation of a chicken dance went viral.",
+            "sentence_zh": "他模仿鸡跳舞的滑稽动作走红网络。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "荒诞",
+        "examples": [
+          {
+            "sentence": "Kafka's works explore the absurd of modern life.",
+            "sentence_zh": "卡夫卡的作品探讨现代生活的荒诞。"
+          },
+          {
+            "sentence": "The theater of absurd often uses illogical plots.",
+            "sentence_zh": "荒诞剧常采用不合逻辑的情节。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the absurd",
+        "meaning": "荒诞事物",
+        "examples": [
+          {
+            "sentence": "Philosophy students debate about the meaning of the absurd.",
+            "sentence_zh": "哲学系学生正在辩论荒诞的意义。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "absurd humor",
+        "meaning": "荒诞幽默",
+        "examples": [
+          {
+            "sentence": "British absurd humor often involves talking penguins.",
+            "sentence_zh": "英式荒诞幽默常出现会说话的企鹅。"
+          }
+        ]
+      }
+    ],
+    "teach": "absurd就像你妈觉得你冷🧥！词源是'聋音'(surd)加'ab'偏离→像五音不全还非要唱《青藏高原》🎤。搭配'theater of absurd'就像看甲方改需求第20版💢，地道说法'sounds like bs'（扯淡）比'absurd'更犀利。记住：当现实比段子还离谱时，这就是absurd时刻🤡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不死的'→荒谬的爱像僵尸片🧟",
+        "易混词：ridiculous（可笑程度更强）",
+        "视觉记忆：想象驴唇不对马嘴的对话💬"
+      ]
+    }
+  },
+  {
+    "word": "absurdity",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "surd",
+        "ity"
+      ],
+      "meaning_connection": "前缀ab-表'偏离'，词根surd来自拉丁语'surdus'(聋的/无意义的)，-ity为名词后缀→原指'听不见的胡话'，引申为'荒谬'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "荒谬",
+        "examples": [
+          {
+            "sentence": "The absurdity of requiring 5 years of experience for an entry-level job went viral on Douyin.",
+            "sentence_zh": "要求应届生有5年工作经历的荒谬条件在抖音上疯传。"
+          },
+          {
+            "sentence": "AI recognizing a banana as a telephone shows the absurdity of early algorithms.",
+            "sentence_zh": "早期算法把香蕉识别成电话的荒谬令人捧腹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "荒谬言行",
+        "examples": [
+          {
+            "sentence": "His claim that \"earth is flat\" became the biggest absurdity in the science conference.",
+            "sentence_zh": "他'地球是平的'宣言成了科学大会上最荒谬的言行。"
+          },
+          {
+            "sentence": "Internet celebrities' absurdities sometimes get more attention than real news.",
+            "sentence_zh": "网红的荒谬言行有时比真新闻更吸睛。"
+          }
+        ]
+      }
+    ],
+    "teach": "absurdity这词自带喜剧效果🎭！词根surd本指'聋子说的话'，就像你戴降噪耳机时误解别人指令🤦♂️（视觉化：把'加班是福报'听成'加班是蝙蝠'）。搭配'utter absurdity'(极度荒谬)就像老板说'自愿996'，地道说法是'that's bananas!'🍌🤪。记住：当现实比段子更荒诞时，就用absurdity怼它！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿伯说敌意'→阿伯充满敌意的荒谬言论",
+        "对比记忆：absurdity(荒谬事件) vs. irony(讽刺)"
+      ]
+    }
   }
 ]

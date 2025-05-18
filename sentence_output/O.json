@@ -8253,5 +8253,138 @@
         "易混词对比：obstruction（人为阻塞） vs occlusion（自然闭合）"
       ]
     }
+  },
+  {
+    "word": "occultism",
+    "etymology": {
+      "breakdown": [
+        "oc",
+        "cult",
+        "ism"
+      ],
+      "meaning_connection": "前缀oc-表示'覆盖'，词根cult=耕作/崇拜，-ism表主义→原指'被隐藏的崇拜仪式'，现指研究超自然现象的学说"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神秘学",
+        "examples": [
+          {
+            "sentence": "His interest in occultism began after reading about ancient Egyptian rituals.",
+            "sentence_zh": "他对神秘学的兴趣始于阅读古埃及仪式文献后。"
+          },
+          {
+            "sentence": "The bookstore's occultism section has crystal balls next to AI prophecy books.",
+            "sentence_zh": "书店神秘学区的水晶球与AI预言书籍摆在一起。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "modern occultism",
+        "meaning": "现代神秘学",
+        "examples": [
+          {
+            "sentence": "Modern occultism combines tarot cards with big data analysis.",
+            "sentence_zh": "现代神秘学将塔罗牌与大数分析相结合。"
+          }
+        ]
+      }
+    ],
+    "teach": "occultism是'暗中搞cult'的学问🔮！词根cult本指耕作（agriculture），后来变成'膜拜'（cult崇拜），加上oc-前缀就像给玄学盖上黑布🌑。想吐槽'神神叨叨'可以说woo-woo stuff，研究星座叫dabble in occultism就像用罗盘点外卖🍔。记住：真正的神秘学大师，连自家WiFi密码都算不出来！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬咖提神'→研究神秘学需要熬夜喝咖啡",
+        "易混词对比：culture（文化）vs. occult（神秘）"
+      ]
+    }
+  },
+  {
+    "word": "occupancy",
+    "etymology": {
+      "breakdown": [
+        "oc",
+        "cup",
+        "ancy"
+      ],
+      "meaning_connection": "前缀oc-表示'朝向'，词根cup表示'拿取'，后缀-ancy表状态→原指'拿取某物的状态'，引申为'占有'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "占有",
+        "examples": [
+          {
+            "sentence": "The occupancy rate of panda-themed hotels reaches 99% during holidays.",
+            "sentence_zh": "节假日期间熊猫主题酒店的占有率达99%。"
+          },
+          {
+            "sentence": "Ancient emperors marked territory occupancy with stone tablets.",
+            "sentence_zh": "古代帝王用石碑标记领土占有。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "居住",
+        "examples": [
+          {
+            "sentence": "His occupancy of the riverside villa sparked neighborhood envy.",
+            "sentence_zh": "他对河滨别墅的居住引发了邻里嫉妒。"
+          },
+          {
+            "sentence": "The apartment's occupancy certificate was printed on red paper for good luck.",
+            "sentence_zh": "该公寓的居住证用红纸印刷以求吉利。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "占用",
+        "examples": [
+          {
+            "sentence": "Illegal occupancy of bicycle lanes by food delivery scooters is common.",
+            "sentence_zh": "外卖电动车非法占用自行车道很常见。"
+          },
+          {
+            "sentence": "The library implements a 30-minute occupancy limit for popular seats.",
+            "sentence_zh": "图书馆对热门座位实行30分钟占用限制。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "occupancy rate",
+        "meaning": "入住率/占用率",
+        "examples": [
+          {
+            "sentence": "Hotpot restaurants maintain 120% occupancy rate on weekends.",
+            "sentence_zh": "火锅店周末保持120%的翻台率。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dual occupancy",
+        "meaning": "双人居住",
+        "examples": [
+          {
+            "sentence": "The dormitory strictly prohibits dual occupancy of single rooms.",
+            "sentence_zh": "宿舍严禁单人间双人居住。"
+          }
+        ]
+      }
+    ],
+    "teach": "occupancy就像抢红包大战🧧！古罗马人用'cup'（拿）这个词根时绝对想不到，现在连厕所隔间都要显示'occupancy status'🚽（占用状态）。说'房子空着'用地道表达是'vacant possession'（真空状态），而'鸠占鹊巢'可以叫'illegal occupancy'🦜。记住：看到occupancy就想到三个场景——抢演唱会座位🎤、争麻将桌🀄、占共享单车🚲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥卡配你'→奥卡(occupancy)配你住豪宅",
+        "易混词对比：occupation（职业）≠ occupancy（占用）"
+      ]
+    }
   }
 ]

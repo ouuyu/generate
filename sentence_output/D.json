@@ -7997,5 +7997,262 @@
         "记忆tip：想象把'日'(day)和'光'(light)两个乐高积木拼在一起"
       ]
     }
+  },
+  {
+    "word": "daytime",
+    "etymology": {
+      "breakdown": [
+        "day",
+        "time"
+      ],
+      "meaning_connection": "复合词，字面意义为'白昼的时间'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "白天",
+        "examples": [
+          {
+            "sentence": "Owls sleep during daytime and hunt at night.",
+            "sentence_zh": "猫头鹰白天睡觉夜间捕猎。"
+          },
+          {
+            "sentence": "The daytime temperature in Turpan can melt car dashboards.",
+            "sentence_zh": "吐鲁番白天的温度能融化汽车仪表盘。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "日间",
+        "examples": [
+          {
+            "sentence": "Daytime TV dramas are popular with retirees.",
+            "sentence_zh": "日间连续剧在退休人群中很受欢迎。"
+          },
+          {
+            "sentence": "Her WeChat steps count reaches 20,000 by daytime.",
+            "sentence_zh": "到日间结束时她的微信步数已达两万步。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "daytime running lights",
+        "meaning": "日间行车灯",
+        "examples": [
+          {
+            "sentence": "Many new energy vehicles automatically turn on daytime running lights.",
+            "sentence_zh": "许多新能源车会自动开启日间行车灯。"
+          }
+        ]
+      }
+    ],
+    "teach": "daytime其实是太阳的'营业时间'☀️！古人用日晷计时就是最早的daytime tracker⏳。说'熬夜工作'叫burn the midnight oil（烧午夜油灯），而'睡午觉'是take a siesta就像手机开省电模式🔋。记住：你的daytime效率决定能刷多少短视频！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嘚太木'→白天嘚瑟太木讷",
+        "易混词对比：daytime(自然光时段) vs. daylight(日光本身)"
+      ]
+    }
+  },
+  {
+    "word": "daze",
+    "etymology": {
+      "breakdown": [
+        "daze"
+      ],
+      "meaning_connection": "源自古挪威语 'dasa'（疲惫），像被雷神锤子砸中后晕乎乎的状态⚡"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使茫然",
+        "examples": [
+          {
+            "sentence": "The sudden math problem dazed the TikTok-addicted student.",
+            "sentence_zh": "突然出现的数学题让沉迷抖音的学生一脸茫然。"
+          },
+          {
+            "sentence": "Her reply 'I only eat organic wifi' dazed everyone.",
+            "sentence_zh": "她回答'我只吃有机WIFI'让所有人懵圈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使眼花缭乱",
+        "examples": [
+          {
+            "sentence": "The neon lights in Tokyo's Shinjuku district dazed the tourists.",
+            "sentence_zh": "东京新宿区的霓虹灯让游客眼花缭乱。"
+          },
+          {
+            "sentence": "K-pop stage effects dazed the audience like laser disco balls.",
+            "sentence_zh": "韩团舞台特效像激光球般晃晕观众。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "迷乱",
+        "examples": [
+          {
+            "sentence": "He walked out of the exam room in a jetlag-like daze.",
+            "sentence_zh": "他走出考场时像倒时差般神志不清。"
+          },
+          {
+            "sentence": "The stock market crash left investors in a financial daze.",
+            "sentence_zh": "股市暴跌让投资者陷入财务眩晕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in a daze",
+        "meaning": "恍惚中",
+        "examples": [
+          {
+            "sentence": "She scrolled Douyin in a daze until 3am.",
+            "sentence_zh": "她恍惚中刷抖音到凌晨三点。"
+          }
+        ]
+      }
+    ],
+    "teach": "daze是当代打工人常态🤯！就像被老板连环夺命call轰炸后的呆滞脸，或看完《信条》走出影院的懵圈状🌀。搭配'in caffeine daze'（咖啡因上头）、'metaverse daze'（元宇宙眩晕），吐槽加班可以说'My brain is dazed like expired yogurt'（我脑子像过期的酸奶般混沌）🧠💫",
+    "recite": {
+      "tips": [
+        "谐音梗：'嘚瑟'→太嘚瑟容易daze",
+        "对比记忆：daze（长时间迷糊） vs dazzle（瞬间耀眼）"
+      ]
+    }
+  },
+  {
+    "word": "dazed",
+    "etymology": {
+      "breakdown": [
+        "daze",
+        "ed"
+      ],
+      "meaning_connection": "来自古英语'dwæs'（愚蠢的），daze表'使眩晕'，-ed构成形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "头昏的",
+        "examples": [
+          {
+            "sentence": "He looked dazed after spinning 50 times in the team-building game.",
+            "sentence_zh": "团建游戏转了50圈后，他看起来晕头转向。"
+          },
+          {
+            "sentence": "The tourist was dazed by the summer heat at the Great Wall.",
+            "sentence_zh": "长城上的酷暑让这位游客头晕目眩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "眼花的",
+        "examples": [
+          {
+            "sentence": "The strobe lights left her dazed and disoriented.",
+            "sentence_zh": "闪光灯让她眼花缭乱找不到方向。"
+          },
+          {
+            "sentence": "After 12-hour gaming, his vision became dazed.",
+            "sentence_zh": "连续打游戏12小时后，他的视线变得模糊。"
+          }
+        ]
+      }
+    ],
+    "teach": "dazed是'懵圈三连'🤯的最佳诠释！就像被鲁班七号连续击中⚡（get dazed by attacks），或像拆完双11快递后的大脑宕机📦。搭配：dazed look（懵圈脸）/ dazed smile（茫然傻笑）。地道说法：out of it（神志不清）。记住：当你的表情像🦝被车灯照到的浣熊，你就是dazed本zed！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嘚瑟的'→太嘚瑟容易头晕",
+        "易混词对比：dazzled（因强光目眩） vs dazed（因冲击恍惚）",
+        "联想：D字头地铁坐反方向→晕(daze)+懵(ed)"
+      ]
+    }
+  },
+  {
+    "word": "dazedly",
+    "etymology": {
+      "breakdown": [
+        "daze",
+        "ed",
+        "ly"
+      ],
+      "meaning_connection": "词根daze=眩晕，-ed表形容词化，-ly表副词化→字面意思是'以眩晕的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "头昏眼花地",
+        "examples": [
+          {
+            "sentence": "After spinning 20 times in the team-building game, he walked dazedly like a drunk panda.",
+            "sentence_zh": "团建游戏转完20圈后，他像醉酒熊猫般头昏眼花地走路。"
+          },
+          {
+            "sentence": "She stared dazedly at her calculus exam, as if the numbers were dancing.",
+            "sentence_zh": "她头昏眼花地盯着微积分试卷，仿佛数字在跳舞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "眼花缭乱地",
+        "examples": [
+          {
+            "sentence": "Tourists looked dazedly at the neon lights of Hong Kong's night view.",
+            "sentence_zh": "游客们眼花缭乱地看着香港夜景的霓虹灯。"
+          },
+          {
+            "sentence": "The child blinked dazedly at the Christmas tree overloaded with decorations.",
+            "sentence_zh": "孩子眼花缭乱地眨眼看挂满装饰的圣诞树。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "茫然地",
+        "examples": [
+          {
+            "sentence": "\"Do you understand?\" The teacher asked, but the students only shook their heads dazedly.",
+            "sentence_zh": "老师问\"明白了吗？\"，学生们只茫然地摇头。"
+          },
+          {
+            "sentence": "He stood dazedly at the subway transfer hub, holding a map upside down.",
+            "sentence_zh": "他茫然地站在地铁换乘中心，倒拿着地图。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "stare dazedly",
+        "meaning": "茫然凝视",
+        "examples": [
+          {
+            "sentence": "The programmer stared dazedly at the bug-filled screen for 3 hours.",
+            "sentence_zh": "程序员对着满是bug的屏幕茫然凝视了三小时。"
+          }
+        ]
+      }
+    ],
+    "teach": "dazedly是当代青年三连表情包🤯💫😵：熬夜后头昏眼花地(dazedly)起床，看到爱豆演唱会时眼花缭乱地(dazedly)尖叫，被老板提问时茫然地(dazedly)装懂。搭配'春节被催婚的茫然脸'用dazedly smile，'看到工资条'说dazedly shocked。记住这个单词就像脑袋被驴踢了的眩晕感！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆子的'→呆子般地(dazedly)晃悠",
+        "易混词对比：dazedly(眩晕状) vs. drowsily(困倦状)",
+        "记忆tip：想象头顶有星星旋转的漫画特效"
+      ]
+    }
   }
 ]

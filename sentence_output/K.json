@@ -8099,5 +8099,307 @@
         "记忆诀：KIT=Keep Important Tools"
       ]
     }
+  },
+  {
+    "word": "kitchen",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'cycene'，最初指烹饪的场所，现代英语保留原始含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "厨房",
+        "examples": [
+          {
+            "sentence": "The aroma of hot pot filled the tiny Beijing apartment kitchen.",
+            "sentence_zh": "火锅的香气充满了这间北京小公寓的厨房。"
+          },
+          {
+            "sentence": "Grandma's kitchen always has jars of homemade pickled vegetables.",
+            "sentence_zh": "奶奶的厨房总摆着几罐自制泡菜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "全套炊具",
+        "examples": [
+          {
+            "sentence": "The newlyweds received a copper kitchen as wedding gift.",
+            "sentence_zh": "新婚夫妇收到一套铜制炊具作为结婚礼物。"
+          },
+          {
+            "sentence": "This German-brand kitchen comes with lifetime warranty.",
+            "sentence_zh": "这套德国品牌炊具提供终身保修服务。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kitchen sink",
+        "meaning": "厨房水槽/无所不包",
+        "examples": [
+          {
+            "sentence": "Her speech threw everything but the kitchen sink at the issue.",
+            "sentence_zh": "她的演讲对这个问题无所不谈。"
+          }
+        ]
+      }
+    ],
+    "teach": "厨房就是吃货的作战指挥部👨🍳！英语说'too many cooks spoil the broth'（厨子多坏汤）就像火锅局七个人调蘸料🍲。'厨房英语'叫kitchen English（临时抱佛脚学的英语），'黑暗料理'是kitchen nightmare👻。记住：人生就像厨房——要么掌勺，要么洗碗！",
+    "recite": {
+      "tips": [
+        "谐音梗：'可以称'→厨房里可以称食材",
+        "易混词：chicken（鸡）vs kitchen（有t才是做饭地）",
+        "记忆法：kit+chen→成套炊具像乐高积木可以拼接"
+      ]
+    }
+  },
+  {
+    "word": "kitchenette",
+    "etymology": {
+      "breakdown": [
+        "kitchen",
+        "ette"
+      ],
+      "meaning_connection": "法语后缀-ette表示'小型的'，字面意思就是'迷你厨房'，最早出现在1920年代美国公寓广告中"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小厨房",
+        "examples": [
+          {
+            "sentence": "The Tokyo micro-apartment's kitchenette fits just a rice cooker and mini-fridge.",
+            "sentence_zh": "这间东京超小公寓的迷你厨房仅能放下电饭煲和小冰箱。"
+          },
+          {
+            "sentence": "Airbnb listings often highlight 'kitchenette' to mean two hotplates and a sink.",
+            "sentence_zh": "爱彼迎房源常标榜'小厨房'，实际只有两个电磁炉加一个水槽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "房间内用作厨房的一部分",
+        "examples": [
+          {
+            "sentence": "Her studio's kitchenette is just a corner with foldable countertop.",
+            "sentence_zh": "她开间里的厨房区只是个带折叠台面的角落。"
+          },
+          {
+            "sentence": "The dorm kitchenette shares space with laundry machines - don't confuse the chopsticks with clothes pegs!",
+            "sentence_zh": "宿舍烹饪区和洗衣机共享空间——当心别把筷子和晾衣夹搞混！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "efficiency kitchenette",
+        "meaning": "高效迷你厨房",
+        "examples": [
+          {
+            "sentence": "Ikea's efficiency kitchenette solutions are perfect for tiny homes.",
+            "sentence_zh": "宜家的高效迷你厨房方案特别适合极小户型。"
+          }
+        ]
+      }
+    ],
+    "teach": "kitchenette是'厨房界的拇指姑娘'🧚♀️！想象把整个厨房塞进外卖箱📦就是它。在纽约，拥有kitchenette的公寓租金能贵出20%💸，但实际可能只够煮泡面🍜。记住：studio apartment标配叫kitchenette，豪宅里的才配叫gourmet kitchen👨🍳。吐槽空间小时可以说'My kitchen is a kitchenette with extra steps'（套用瑞克和莫蒂梗）",
+    "recite": {
+      "tips": [
+        "谐音梗：'可以切net'→在迷你厨房里连网络都要切开用",
+        "易混词对比：kitchen vs kitchenette（就像iPad vs iPad mini）",
+        "记忆tip：后缀-ette都表示'小'：cigarette（小烟卷）、diskette（小磁盘）"
+      ]
+    }
+  },
+  {
+    "word": "kitchenware",
+    "etymology": {
+      "breakdown": [
+        "kitchen",
+        "ware"
+      ],
+      "meaning_connection": "复合词，kitchen=厨房，ware=器具→字面意思为'厨房器具'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "厨房用具",
+        "examples": [
+          {
+            "sentence": "Her TikTok showcases Japanese kitchenware that makes perfect onigiri.",
+            "sentence_zh": "她的抖音展示了能做完美饭团的日本厨具。"
+          },
+          {
+            "sentence": "Modern kitchenware turns cooking into a sci-fi experience with touch screens.",
+            "sentence_zh": "现代厨具让烹饪变成带触摸屏的科幻体验。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "smart kitchenware",
+        "meaning": "智能厨具",
+        "examples": [
+          {
+            "sentence": "Xiaomi's smart kitchenware can remind you when the soup is ready.",
+            "sentence_zh": "小米智能厨具能在汤煮好时提醒你。"
+          }
+        ]
+      }
+    ],
+    "teach": "kitchenware是厨具界的复仇者联盟🦸！从奶奶的擀面杖到智能炒菜机🤖，都是它的成员。说'锅碗瓢盆'英文叫pots and pans，但高端厨具得说premium kitchenware✨。记住：好的kitchenware让你从'黑暗料理'升级到'中华小当家'👨‍🍳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啃碗儿'→厨房用具总被啃（误）",
+        "易混词对比：kitchenware（厨具）vs. tableware（餐具）"
+      ]
+    }
+  },
+  {
+    "word": "kite",
+    "etymology": {
+      "breakdown": [
+        "kit",
+        "e"
+      ],
+      "meaning_connection": "源自古英语'cyta'，可能模拟风筝的声响。现代词义像风筝🪁般从具体物体延伸到飘忽不定的行为。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "风筝",
+        "examples": [
+          {
+            "sentence": "Children in Weifang paint dragon patterns on their kites.",
+            "sentence_zh": "潍坊的孩子们在风筝上绘制龙纹。"
+          },
+          {
+            "sentence": "The kite got stuck in a hotpot restaurant's chimney.",
+            "sentence_zh": "风筝卡在了火锅店的烟囱里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "筝帆（船用三角帆）",
+        "examples": [
+          {
+            "sentence": "The fishing boat's kite sail flapped in the typhoon.",
+            "sentence_zh": "渔船的筝帆在台风中剧烈摆动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "空头支票",
+        "examples": [
+          {
+            "sentence": "He was arrested for passing kites worth 1 million yuan.",
+            "sentence_zh": "他因流通百万空头支票被捕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "骗子",
+        "examples": [
+          {
+            "sentence": "The stock market kite disappeared with investors' money.",
+            "sentence_zh": "那个股市骗子卷款消失了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "像风筝一样飞",
+        "examples": [
+          {
+            "sentence": "The paper kited over the Forbidden City's rooftops.",
+            "sentence_zh": "纸片像风筝般飘过故宫屋顶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "轻快地移动",
+        "examples": [
+          {
+            "sentence": "Delivery drivers kited through Beijing's hutongs.",
+            "sentence_zh": "快递员在北京胡同里轻快穿行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "使用空头支票",
+        "examples": [
+          {
+            "sentence": "The fraudster kited across three provinces.",
+            "sentence_zh": "诈骗犯在三省连环使用空头支票。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使上升",
+        "examples": [
+          {
+            "sentence": "The DJ kited the balloon into the night sky.",
+            "sentence_zh": "DJ把气球放飞到夜空中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "骗钱",
+        "examples": [
+          {
+            "sentence": "He kited 50,000 yuan from his mahjong buddies.",
+            "sentence_zh": "他从牌友那儿骗了五万元。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fly a kite",
+        "meaning": "放风筝/试探舆论",
+        "examples": [
+          {
+            "sentence": "The government flew a kite about new housing policies.",
+            "sentence_zh": "政府就新住房政策放出试探气球。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "high as a kite",
+        "meaning": "极度兴奋/嗑药状态",
+        "examples": [
+          {
+            "sentence": "After winning the lottery, he was high as a kite for weeks.",
+            "sentence_zh": "中奖后他嗨得像风筝飘了好几天。"
+          }
+        ]
+      }
+    ],
+    "teach": "kite是'诈骗界风筝侠'🪁💸！从潍坊国际风筝节到华尔街金融骗局，这词完美演绎'升天与坠落'：放风筝叫fly a kite，但'放鸽子'却是stand someone up。说人'飘了'用high as a kite，'空头支票'叫kite check就像断线的风筝🎈。记住：诚信做人，否则你的信誉会像kite一样——fly away!",
+    "recite": {
+      "tips": [
+        "谐音梗：'开特'→开空头支票特(kite)别快",
+        "易混词：kite vs. kit（工具包）→ 骗子(kite)偷工具包(kit)"
+      ]
+    }
   }
 ]

@@ -8479,5 +8479,299 @@
         "对比记忆：editorial（adj. 编辑的）→ editorially（adv. 编辑地）"
       ]
     }
+  },
+  {
+    "word": "editorship",
+    "etymology": {
+      "breakdown": [
+        "editor",
+        "ship"
+      ],
+      "meaning_connection": "editor=编辑，后缀-ship表身份/职位→编辑的职位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "编辑的职位",
+        "examples": [
+          {
+            "sentence": "She accepted the editorship of Vogue China with great excitement.",
+            "sentence_zh": "她激动地接受了《Vogue服饰与美容》主编职位。"
+          },
+          {
+            "sentence": "His editorship at the newspaper lasted shorter than a TikTok trend.",
+            "sentence_zh": "他在报社的主编任期比抖音热门还短。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "编辑工作",
+        "examples": [
+          {
+            "sentence": "The editorship involves more overtime hours than a programmer's job.",
+            "sentence_zh": "这份编辑工作加班时间比程序员还长。"
+          },
+          {
+            "sentence": "Her editorship of the cookbook made her an expert at spotting typos in recipes.",
+            "sentence_zh": "编辑食谱的工作让她成了发现菜谱错字的专家。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take up editorship",
+        "meaning": "担任编辑职务",
+        "examples": [
+          {
+            "sentence": "The novelist will take up editorship of a literary magazine next month.",
+            "sentence_zh": "这位小说家下月将担任文学杂志编辑。"
+          }
+        ]
+      }
+    ],
+    "teach": "editorship就像文字守门员🧤！后缀-ship让你想到船长(captain)的权威，编辑就是内容的船长⛵️。网络梗：'小编的命也是命'道尽编辑辛酸。搭配：hold editorship（握紧红笔就像握住权杖👑）/ resign editorship（辞职信写得比校对稿还快✍️）。地道说法：'改稿改到秃'叫edit oneself bald💇♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'挨踢的ship'→被作者踢来踢去的编辑船",
+        "易混词对比：editorship（职位）vs. editorial（社论）"
+      ]
+    }
+  },
+  {
+    "word": "educate",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "duc",
+        "ate"
+      ],
+      "meaning_connection": "前缀e-表示'向外'，词根duc表示'引导'，-ate为动词后缀→原义'向外引导'，引申为'教育'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "教育",
+        "examples": [
+          {
+            "sentence": "Confucius educated his disciples under the apricot tree.",
+            "sentence_zh": "孔子在杏树下教育弟子。"
+          },
+          {
+            "sentence": "The viral TikTok video accidentally educated millions about quantum physics.",
+            "sentence_zh": "这个爆火的抖音视频意外让数百万人了解了量子物理。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "培养",
+        "examples": [
+          {
+            "sentence": "Peking duck chefs spend years educating their palate.",
+            "sentence_zh": "北京烤鸭师傅要花多年培养味觉。"
+          },
+          {
+            "sentence": "The program educates children's musical sensitivity through ancient instruments.",
+            "sentence_zh": "该项目通过古乐器培养孩子的音乐敏感性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "训练",
+        "examples": [
+          {
+            "sentence": "Guide dogs are educated to recognize 200+ commands.",
+            "sentence_zh": "导盲犬被训练识别200多种指令。"
+          },
+          {
+            "sentence": "This AI is educated with millions of douyin videos.",
+            "sentence_zh": "该AI用数百万条抖音视频进行训练。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "educate oneself",
+        "meaning": "自学",
+        "examples": [
+          {
+            "sentence": "He educated himself to code by watching Bilibili tutorials.",
+            "sentence_zh": "他通过看B站教程自学编程。"
+          }
+        ]
+      }
+    ],
+    "teach": "educate本质是'往外引'🧭：就像从井里(duc)打水(e-)，把知识从脑袋里引出来！古代老师用戒尺📏教育(educate)，现代人用短视频🎵被教育。'没文化'说not educated就像'没联网'的旧手机📱，'素质教育'叫holistic education好比火锅底料要调平衡🍲",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱抖课'→爱抖(educate)音上课",
+        "易混词：education(教育体系) vs. training(技能训练)"
+      ]
+    }
+  },
+  {
+    "word": "educated",
+    "etymology": {
+      "breakdown": [
+        "educate",
+        "ed"
+      ],
+      "meaning_connection": "educate（教育）源自拉丁语educare（抚养），-ed表形容词'被...的'→'被教育过的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "受过教育的",
+        "examples": [
+          {
+            "sentence": "An educated guess saved the Apollo 13 astronauts.",
+            "sentence_zh": "受过教育的大胆猜测拯救了阿波罗13号宇航员。"
+          },
+          {
+            "sentence": "Douyin now offers free courses for educated youth in rural areas.",
+            "sentence_zh": "抖音如今为农村受过教育的青年提供免费课程。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有教养的",
+        "examples": [
+          {
+            "sentence": "The educated panda in the zoo knows how to bow for bamboo.",
+            "sentence_zh": "动物园里有教养的熊猫懂得鞠躬讨要竹子。"
+          },
+          {
+            "sentence": "Her educated manners impressed everyone at the hot pot party.",
+            "sentence_zh": "她得体的举止给火锅局上的所有人留下深刻印象。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "well-educated",
+        "meaning": "受过良好教育的",
+        "examples": [
+          {
+            "sentence": "Didi drivers are often well-educated part-time philosophers.",
+            "sentence_zh": "滴滴司机常常是受过良好教育的兼职哲学家。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "self-educated",
+        "meaning": "自学的",
+        "examples": [
+          {
+            "sentence": "Many self-educated programmers become tech giants.",
+            "sentence_zh": "许多自学成才的程序员最终成为科技巨头。"
+          }
+        ]
+      }
+    ],
+    "teach": "educated是'被知识腌入味'的咸鱼🎓！古罗马贵族用educare（原义'牵引'）比喻培养后代🐎，就像现在的'鸡娃'。形容'文化人'说book-smart（书本聪明），'装文化'叫put on airs🎭。搭配：educated choice（明智选择）/ educated accent（文雅口音）。记住：真正的educated是火锅局能聊量子力学也能讲段子🤓🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱纠待的'→等待被知识纠正的人",
+        "易混词：educated（后天教养）vs. intelligent（先天聪明）"
+      ]
+    }
+  },
+  {
+    "word": "educating",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "duc",
+        "ate",
+        "ing"
+      ],
+      "meaning_connection": "前缀e-表示'向外'，词根duc表示'引导'，-ate为动词后缀，-ing表进行时→将知识向外引导的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "教育",
+        "examples": [
+          {
+            "sentence": "The viral video of a teacher educating students with rap lyrics won China's 'Most Innovative Educator' award.",
+            "sentence_zh": "一位教师用说唱歌词教育学生的爆红视频获得了中国'最具创新力教育者'奖。"
+          },
+          {
+            "sentence": "Museums are educating visitors through interactive WeChat mini-programs.",
+            "sentence_zh": "博物馆正通过微信小程序互动功能教育参观者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "训练",
+        "examples": [
+          {
+            "sentence": "AI companies are educating their algorithms with billions of Douyin videos.",
+            "sentence_zh": "人工智能公司正在用数十亿条抖音视频训练算法。"
+          },
+          {
+            "sentence": "The national football team is being educated with new VR technology.",
+            "sentence_zh": "国足正用新型VR技术进行训练。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "培养",
+        "examples": [
+          {
+            "sentence": "Tech giants are educating the next generation of programmers through online hackathons.",
+            "sentence_zh": "科技巨头通过在线黑客马拉松培养新一代程序员。"
+          },
+          {
+            "sentence": "This program focuses on educating children's tea ceremony etiquette.",
+            "sentence_zh": "该项目专注于培养儿童的茶道礼仪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "educating the public",
+        "meaning": "公众教育",
+        "examples": [
+          {
+            "sentence": "Health QR code campaigns are educating the public about pandemic prevention.",
+            "sentence_zh": "健康码行动正在对公众进行防疫教育。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "self-educating",
+        "meaning": "自我教育",
+        "examples": [
+          {
+            "sentence": "Many young Chinese are self-educating through Bilibili's free courses.",
+            "sentence_zh": "许多中国年轻人通过B站的免费课程进行自我教育。"
+          }
+        ]
+      }
+    ],
+    "teach": "educating本质是'领出来'🚶→把知识从大脑里引导出来！古代孔子周游列国就是移动educating📚，现代网课老师则是赛博educating💻。说'补习班'用cram school（填鸭学校），'素质教育'叫all-round education🍃。记住：好老师像火锅汤底，能把各种食材educate出美味🥢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱丢开听'→爱丢开(educate)手机认真听讲",
+        "易混词：education（教育体系）vs. educating（教育行为）",
+        "记忆链：e(出)+duc(引导)=把智慧引导出来"
+      ]
+    }
   }
 ]

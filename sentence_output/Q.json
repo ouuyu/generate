@@ -7893,5 +7893,263 @@
         "记忆tip：quint-开头词都含'五'：quintet（五重奏）、quintessence（第五元素）"
       ]
     }
+  },
+  {
+    "word": "quip",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能源自拉丁语'quippe'（确实），后演变为讽刺性评论"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "妙语",
+        "examples": [
+          {
+            "sentence": "The stand-up comedian's quip about subway crowds went viral on Weibo.",
+            "sentence_zh": "脱口秀演员关于地铁拥挤的妙语在微博疯传。"
+          },
+          {
+            "sentence": "His quip 'I'm on a seafood diet - I see food and eat it' made the whole canteen laugh.",
+            "sentence_zh": "他的妙语'我在进行海鲜减肥法——看见食物就吃'让整个食堂哄堂大笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "遁辞",
+        "examples": [
+          {
+            "sentence": "When asked about the scandal, the celebrity responded with a clever quip.",
+            "sentence_zh": "当被问及丑闻时，该明星用机灵的遁辞回应。"
+          },
+          {
+            "sentence": "The politician's quip about 'alternative facts' became an internet meme.",
+            "sentence_zh": "政客关于'另类事实'的遁辞成了网络梗图。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "讽刺",
+        "examples": [
+          {
+            "sentence": "Lu Xun's essays are full of sharp quips about old society.",
+            "sentence_zh": "鲁迅杂文中充满对旧社会的犀利讽刺。"
+          },
+          {
+            "sentence": "The cartoon used a historical quip to mock modern bureaucracy.",
+            "sentence_zh": "这幅漫画用历史典故的讽刺来嘲弄现代官僚主义。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "说讽刺话",
+        "examples": [
+          {
+            "sentence": "Netizens quipped that the new policy was like 'using a cannon to shoot mosquitoes'.",
+            "sentence_zh": "网友讽刺新政策是'用大炮打蚊子'。"
+          },
+          {
+            "sentence": "She quipped 'Working overtime is my cardio' while drinking her fifth coffee.",
+            "sentence_zh": "她喝着第五杯咖啡讽刺道：'加班就是我的有氧运动'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "嘲弄",
+        "examples": [
+          {
+            "sentence": "The talk show host quipped about the CEO's awkward dance moves.",
+            "sentence_zh": "脱口秀主持人嘲弄了CEO尴尬的舞步。"
+          },
+          {
+            "sentence": "Students quipped the school motto should be 'WiFi unavailable during exams'.",
+            "sentence_zh": "学生们嘲弄说校训应该是'考试期间WiFi不可用'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make a quip",
+        "meaning": "说俏皮话",
+        "examples": [
+          {
+            "sentence": "Wang Jianlin made a quip about 'small targets' that sparked nationwide discussions.",
+            "sentence_zh": "王健林关于'小目标'的俏皮话引发全民热议。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quick quip",
+        "meaning": "机敏应答",
+        "examples": [
+          {
+            "sentence": "The spokesperson's quick quip defused the tense interview.",
+            "sentence_zh": "发言人的机敏应答化解了紧张采访气氛。"
+          }
+        ]
+      }
+    ],
+    "teach": "quip就像语言界的辣椒面🌶️——少量提味，过量呛人！莎士比亚在《哈姆雷特》里就爱用quip（比如'脆弱啊，你的名字是女人'）。要夸人幽默可以说'sharp wit'（机锋），被怼了可以回'Nice quip, bro'（好吐槽啊兄弟）。记住：高手quip像周星驰电影🎬，菜鸟quip像群聊里的尴尬表情包🤡",
+    "recite": {
+      "tips": [
+        "谐音梗：'亏呸'→说亏心话被呸(quip)",
+        "易混词对比：quip(俏皮讽刺) vs sarcasm(更尖锐的讽刺)",
+        "记忆tip：quip开头字母q像歪嘴笑的表情"
+      ]
+    }
+  },
+  {
+    "word": "quirk",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "16世纪首次记录，词源不明，可能与中古低地德语'twirk'(急转)相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "古怪举动",
+        "examples": [
+          {
+            "sentence": "His quirk of collecting expired coupons makes him the office legend.",
+            "sentence_zh": "他收集过期优惠券的怪癖使他成为办公室传奇。"
+          },
+          {
+            "sentence": "The professor's quirk was lecturing in slippers during winter.",
+            "sentence_zh": "这位教授的怪癖是冬天穿着拖鞋讲课。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "俏皮话",
+        "examples": [
+          {
+            "sentence": "The comedian's quirks about subway crowds went viral on Douyin.",
+            "sentence_zh": "喜剧演员关于地铁拥挤的俏皮话在抖音上疯传。"
+          },
+          {
+            "sentence": "Her wedding speech was full of self-deprecating quirks.",
+            "sentence_zh": "她的婚礼致辞充满了自嘲的俏皮话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "急转",
+        "examples": [
+          {
+            "sentence": "The mountain road has dangerous quirks that challenge drivers.",
+            "sentence_zh": "这条山路有考验司机的危险急转弯。"
+          },
+          {
+            "sentence": "A sudden quirk in the plot surprised all moviegoers.",
+            "sentence_zh": "剧情的突然急转让所有观众都惊讶不已。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "by a quirk of fate",
+        "meaning": "命运使然",
+        "examples": [
+          {
+            "sentence": "By a quirk of fate, they met again at the same hotpot restaurant after 10 years.",
+            "sentence_zh": "命运使然，十年后他们在同一家火锅店重逢。"
+          }
+        ]
+      }
+    ],
+    "teach": "quirk是'怪趣三体人'👽！当指古怪行为时，就像同事非要倒着喝奶茶🧋(quirk)；作为俏皮话时，堪比脱口秀演员的爆梗段子🎤(witty quirks)；表示急转时，就像秋名山车神的漂移过弯🏎️(road quirks)。记住：quirk的精髓在于'意外感'，就像拆盲盒永远猜不到款式！",
+    "recite": {
+      "tips": [
+        "谐音梗：'缺课'→总缺课的人必有quirks",
+        "易混词：queer(奇怪的)侧重整体气质，quirk侧重具体行为"
+      ]
+    }
+  },
+  {
+    "word": "quirky",
+    "etymology": {
+      "breakdown": [
+        "quirk",
+        "y"
+      ],
+      "meaning_connection": "词根quirk（突然转折/怪癖）+形容词后缀-y→原指事物突然转向的特性，后衍生出'古怪的'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "诡诈的",
+        "examples": [
+          {
+            "sentence": "The merchant's quirky smile made customers suspect his scales were rigged.",
+            "sentence_zh": "商人诡诈的笑容让顾客怀疑他的秤动了手脚。"
+          },
+          {
+            "sentence": "Her quirky negotiation tactics involved pretending to faint.",
+            "sentence_zh": "她假装晕倒的诡诈谈判策略令人咂舌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "突兀的",
+        "examples": [
+          {
+            "sentence": "The skyscraper's quirky angles clash with the traditional courtyard houses.",
+            "sentence_zh": "摩天大楼突兀的角度与传统四合院格格不入。"
+          },
+          {
+            "sentence": "His quirky interruption came right during the wedding vows.",
+            "sentence_zh": "他在婚礼宣誓时突然的插话十分突兀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "古怪的",
+        "examples": [
+          {
+            "sentence": "The professor collects quirky items like dinosaur-shaped teapots.",
+            "sentence_zh": "教授收集恐龙造型茶壶之类的古怪物品。"
+          },
+          {
+            "sentence": "WeChat's quirky 'shake' feature was inspired by a karaoke remote.",
+            "sentence_zh": "微信'摇一摇'的古怪功能灵感来自KTV遥控器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "离奇的",
+        "examples": [
+          {
+            "sentence": "The movie's plot takes a quirky turn when the moon turns into cheese.",
+            "sentence_zh": "当月亮变成奶酪时，电影剧情发生了离奇转折。"
+          },
+          {
+            "sentence": "A quirky law in Beijing once banned walking pet lobsters.",
+            "sentence_zh": "北京曾有条离奇法规禁止遛宠物龙虾。"
+          }
+        ]
+      }
+    ],
+    "teach": "quirky像混搭了火锅味的月饼🌶️🥮！它最初形容突然转弯（像重庆的魔幻立交桥），现在形容'怪得可爱'的事物。说'性格古怪'用quirky personality（比weird更萌），'神转折'叫quirky twist。记住：重庆轻轨穿楼而过的名场面就是最quirky的交通设计！🚝🏢🤪",
+    "recite": {
+      "tips": [
+        "谐音梗：'快克y'→快克感冒药(y)吃多了行为quirky",
+        "易混词：weird（纯怪异）vs quirky（怪但有趣）",
+        "联想：quirky→query（疑问）+ kinky（古怪）= 令人疑惑的古怪"
+      ]
+    }
   }
 ]

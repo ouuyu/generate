@@ -8631,5 +8631,209 @@
         "场景联想：超市防盗门滴滴响→shoplifting（商店盗窃）属于larceny"
       ]
     }
+  },
+  {
+    "word": "larch",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自德语Lärche，最终可能来自原始印欧语词根表示'灵活'（因其木材特性）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "落叶松属植物",
+        "examples": [
+          {
+            "sentence": "The golden larch forests in autumn look like a giant overturned honey jar.",
+            "sentence_zh": "秋天的落叶松林像打翻的蜂蜜罐。"
+          },
+          {
+            "sentence": "We built a treehouse using larch wood that withstands Siberian winters.",
+            "sentence_zh": "我们用能抵御西伯利亚寒冬的落叶松木建造树屋。"
+          }
+        ]
+      }
+    ],
+    "teach": "larch是植物界的变色龙🦎！秋天会像银杏一样金灿灿掉落针叶🌲（唯一会落叶的针叶树）。在俄罗斯被称作'西伯利亚守卫者'，因为它的树脂曾被用作天然创可贴🩹。搭配说'larch tea'（落叶松茶治感冒）或'larch honey'（松树蜜），地道吐槽'as stubborn as larch wood'（形容人倔得像落叶松木）💪",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉齿'→拉锯时松木的锯齿痕迹",
+        "对比：pine（松树）全年常绿 vs larch季节性秃头"
+      ]
+    }
+  },
+  {
+    "word": "larder",
+    "etymology": {
+      "breakdown": [
+        "lard",
+        "er"
+      ],
+      "meaning_connection": "词源lard=猪油（古法语lard），-er表场所→原指储存腌制猪肉的地方，后泛指食品储藏室"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "食物橱",
+        "examples": [
+          {
+            "sentence": "The antique larder in my grandma's kitchen still smells of smoked hams.",
+            "sentence_zh": "奶奶厨房里的古董食物橱仍散发着烟熏火腿的香气。"
+          },
+          {
+            "sentence": "We keep all the mooncakes in the wooden larder during Mid-Autumn Festival.",
+            "sentence_zh": "中秋节期间我们把所有月饼都存放在木制食物橱里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "家用食品",
+        "examples": [
+          {
+            "sentence": "Our larder was fully stocked before the typhoon hit.",
+            "sentence_zh": "台风来袭前我们备足了家用食品。"
+          },
+          {
+            "sentence": "The quarantine notice made everyone rush to replenish their larders.",
+            "sentence_zh": "隔离通知让所有人蜂拥补充家用食品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "食物储藏室",
+        "examples": [
+          {
+            "sentence": "The secret passage behind the larder led to an underground wine cellar.",
+            "sentence_zh": "食物储藏室后的密道通向地下酒窖。"
+          },
+          {
+            "sentence": "Modern restaurants often replace traditional larders with walk-in refrigerators.",
+            "sentence_zh": "现代餐厅常用步入式冰柜替代传统食物储藏室。"
+          }
+        ]
+      }
+    ],
+    "teach": "larder是古代版冰箱🧊+美团优选🛒的结合体！中世纪城堡的larder里挂满腊肠像肉林🌭，现代人却说'My larder is empty'表示穷到吃土💸。记住两个搭配：'well-stocked larder'（库存充足）、'raid the larder'（扫荡存粮）。说'断粮了'可以幽默地用'larder's crying'（食品柜在哭泣）😢🍗🥓",
+    "recite": {
+      "tips": [
+        "谐音梗：'辣的'→四川人的larder里全是辣的",
+        "易混词对比：pantry（干粮储藏室） vs larder（肉类储藏室）",
+        "记忆tip：想象larder=lar(腊肉)+der(的)→放腊肉的地方"
+      ]
+    }
+  },
+  {
+    "word": "large",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语largus，表示'丰富的'或'慷慨的'，逐渐演变为形容物理尺寸和抽象概念上的'大'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "（物理尺寸）大的",
+        "examples": [
+          {
+            "sentence": "The giant panda at Chengdu base weighs as large as a motorcycle.",
+            "sentence_zh": "成都基地的大熊猫体重堪比摩托车。"
+          },
+          {
+            "sentence": "Her eyes were as large as mooncakes when she saw the hotpot buffet.",
+            "sentence_zh": "看到火锅自助餐时，她的眼睛瞪得像月饼一样大。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "大量的",
+        "examples": [
+          {
+            "sentence": "Douyin creators need large amounts of bubble tea for inspiration.",
+            "sentence_zh": "抖音创作者需要大量奶茶获取灵感。"
+          },
+          {
+            "sentence": "A large number of bike-sharing users forgot where they parked.",
+            "sentence_zh": "大量共享单车用户忘记停车位置。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "（心胸）宽大的",
+        "examples": [
+          {
+            "sentence": "The monk has a large tolerance for modern memes.",
+            "sentence_zh": "这位僧人对现代梗图有着宽广的包容心。"
+          },
+          {
+            "sentence": "Her large heart forgave the stolen last dumpling.",
+            "sentence_zh": "她宽大的心胸原谅了被偷吃的最后一个饺子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "（知识）广博的",
+        "examples": [
+          {
+            "sentence": "The professor's large knowledge covers from AI to zongzi wrapping.",
+            "sentence_zh": "教授广博的知识从人工智能涵盖到粽子包法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "大大地",
+        "examples": [
+          {
+            "sentence": "Moutai stock rose large after the Spring Festival gala appearance.",
+            "sentence_zh": "茅台股票在春晚亮相后大幅上涨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "夸大地",
+        "examples": [
+          {
+            "sentence": "He always talks large about his chili pepper tolerance.",
+            "sentence_zh": "他总是夸大自己吃辣的能力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "at large",
+        "meaning": "未被捕获的",
+        "examples": [
+          {
+            "sentence": "The runaway red panda is still at large in the campus.",
+            "sentence_zh": "逃跑的小熊猫仍在校园里逍遥法外。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "by and large",
+        "meaning": "大体上",
+        "examples": [
+          {
+            "sentence": "By and large, spicy hotpot wins over Cantonese soup in Sichuan.",
+            "sentence_zh": "大体而言，在四川麻辣火锅胜过广式煲汤。"
+          }
+        ]
+      }
+    ],
+    "teach": "large是个'膨胀系'词汇🎈！从蒙古包的large规模（物理大）到马爸爸的large财富（大量），再到弥勒佛的large肚子（宽大）📏。说'吹牛'可以用talk large就像气球充气💨，而逍遥法外的罪犯叫at large就像广场舞大妈占领街道👵。记住：'大体上'要说by and large，就像评价火锅'总体上很辣'🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉锯'→拉锯(large)战规模很大",
+        "易混词：large侧重尺寸，big更口语化，great带感情色彩"
+      ]
+    }
   }
 ]
