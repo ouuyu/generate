@@ -13647,5 +13647,391 @@
         "易混词对比：waiving（放弃）是'挥别'→挥手(waive)告别"
       ]
     }
+  },
+  {
+    "word": "wavy",
+    "etymology": {
+      "breakdown": [
+        "wave",
+        "y"
+      ],
+      "meaning_connection": "词根wave=波浪，后缀-y表形容词性质→像波浪的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有波浪的",
+        "examples": [
+          {
+            "sentence": "The wavy lines in this artwork represent ocean currents.",
+            "sentence_zh": "这件艺术品中的波浪线代表洋流。"
+          },
+          {
+            "sentence": "Her new wavy hairstyle makes her look like a mermaid.",
+            "sentence_zh": "她的新波浪发型让她看起来像美人鱼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "多浪的",
+        "examples": [
+          {
+            "sentence": "Wavy seas forced the fishing boats to return early.",
+            "sentence_zh": "多浪的海面迫使渔船提前返航。"
+          },
+          {
+            "sentence": "Surfers love wavy conditions at Silver Dragon Bay.",
+            "sentence_zh": "冲浪者喜欢银龙湾的多浪天气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "波浪状的",
+        "examples": [
+          {
+            "sentence": "The wavy pattern on this porcelain mimics flowing water.",
+            "sentence_zh": "这件瓷器上的波浪纹模仿流水。"
+          },
+          {
+            "sentence": "Wavy potato chips are more fun to eat than straight ones.",
+            "sentence_zh": "波浪状薯片比直片的吃起来更有趣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "波动的",
+        "examples": [
+          {
+            "sentence": "The wavy signal caused our video call to freeze.",
+            "sentence_zh": "波动的信号导致我们的视频通话卡顿。"
+          },
+          {
+            "sentence": "His wavy performance made the coach nervous.",
+            "sentence_zh": "他波动的表现让教练很紧张。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不稳定的",
+        "examples": [
+          {
+            "sentence": "The wavy stock market made investors anxious.",
+            "sentence_zh": "不稳定的股市让投资者焦虑。"
+          },
+          {
+            "sentence": "Their wavy relationship finally ended last month.",
+            "sentence_zh": "他们不稳定的关系终于在上个月结束。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wavy lines",
+        "meaning": "波浪线",
+        "examples": [
+          {
+            "sentence": "Elementary students practice drawing wavy lines in art class.",
+            "sentence_zh": "小学生在美术课上练习画波浪线。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wavy hair",
+        "meaning": "波浪发",
+        "examples": [
+          {
+            "sentence": "Many Korean idols have perfectly styled wavy hair.",
+            "sentence_zh": "很多韩国偶像都有精心打理的波浪发型。"
+          }
+        ]
+      }
+    ],
+    "teach": "wavy就像被海王的三叉戟戳过的痕迹🌊！物理波浪如方便面🍜（wavy noodles），抽象波动如股市心电图📈（wavy market）。要说'发型很浪'是beach waves（海滩波浪卷），'情绪起伏'像过山车🎢叫emotional waves。记住：看见-y结尾就知是形容词体质！",
+    "recite": {
+      "tips": [
+        "谐音梗：'威武'→波浪(wavy)起来很威武",
+        "易混词：wavy vs. waxy（蜡质的）→波浪(wavy)会流动，蜡像(waxy)不能动"
+      ]
+    }
+  },
+  {
+    "word": "wax",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'weax'，与德语'Wachs'同源，本指蜂蜡，后衍生出'增长'等抽象含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "蜡",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese used wax to seal imperial decrees.",
+            "sentence_zh": "中国古代用蜡密封圣旨。"
+          },
+          {
+            "sentence": "The wax in Hot Pot solidifies when it cools.",
+            "sentence_zh": "火锅里的牛油冷却后会凝固成蜡状。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一阵发怒",
+        "examples": [
+          {
+            "sentence": "He's in a wax because someone ate his stinky tofu.",
+            "sentence_zh": "他正大发雷霆因为有人偷吃了他的臭豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "增加",
+        "examples": [
+          {
+            "sentence": "The wax of electric scooter users surprised officials.",
+            "sentence_zh": "电动车用户数量的激增让官员吃惊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变大",
+        "examples": [
+          {
+            "sentence": "Her popularity waxed after the livestream selling durians.",
+            "sentence_zh": "直播卖榴莲后她的人气大增。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "月亮渐满",
+        "examples": [
+          {
+            "sentence": "Mid-Autumn moon waxes to its fullest.",
+            "sentence_zh": "中秋节的月亮逐渐变圆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "上蜡",
+        "examples": [
+          {
+            "sentence": "Barbers still wax moustaches for retro style.",
+            "sentence_zh": "理发师仍会给胡子打蜡做复古造型。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wax and wane",
+        "meaning": "盛衰交替",
+        "examples": [
+          {
+            "sentence": "Peking opera's popularity waxes and wanes like the moon.",
+            "sentence_zh": "京剧的流行程度如月有阴晴圆缺。"
+          }
+        ]
+      }
+    ],
+    "teach": "wax是'月亮脸'🌝的变身大师！当它作名词是火锅底料里的牛油蜡🧈，作动词就成了美妆博主给腿毛打蜡的惨叫😱（wax legs）。'气得冒蜡'就是in a wax🔥，'月满西楼'说the moon waxes🌕。要记住：wax的'增长'义来自月亮变胖的视觉联想，就像你过年后的体重曲线📈！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外克斯'→外星人(wax)用蜡做标本",
+        "易混对比：wax（主动增长） vs wane（衰减）"
+      ]
+    }
+  },
+  {
+    "word": "waxed",
+    "etymology": {
+      "breakdown": [
+        "wax",
+        "ed"
+      ],
+      "meaning_connection": "wax=蜡，-ed表被动完成→被蜡处理过的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "上过蜡的",
+        "examples": [
+          {
+            "sentence": "The waxed wooden floor reflected the lantern light like a mirror.",
+            "sentence_zh": "打过蜡的木地板像镜子般反射着灯笼光。"
+          },
+          {
+            "sentence": "Her waxed leather boots shone brighter than her phone screen.",
+            "sentence_zh": "她上过蜡的皮靴比手机屏幕还亮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "防水的",
+        "examples": [
+          {
+            "sentence": "The waxed paper bag survived the sudden downpour.",
+            "sentence_zh": "防水纸袋在暴雨中安然无恙。"
+          },
+          {
+            "sentence": "Ancient Chinese used waxed cloth to protect precious paintings.",
+            "sentence_zh": "古人用防水布保护珍贵画作。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "waxed cotton",
+        "meaning": "蜡棉布",
+        "examples": [
+          {
+            "sentence": "Fishermen's waxed cotton jackets smell like the ocean.",
+            "sentence_zh": "渔民的蜡棉夹克带着海的味道。"
+          }
+        ]
+      }
+    ],
+    "teach": "waxed是'蜡'力战士🧙！古人用蜂蜡防水就像给手机贴膜📱，故宫金砖地面其实也打蜡（故宫工匠秘方叫'烫蜡'）。说'完全防水'可用as waterproof as waxed canvas（像蜡帆布般防水），'闪亮如新'说shinier than a waxed BMW。记住：waxed的东西都像抹了猪刚鬣的油头✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外刻丝'→外表刻着蜡丝纹路",
+        "易混词对比：waive（放弃）vs waxed（打蜡的）"
+      ]
+    }
+  },
+  {
+    "word": "waxen",
+    "etymology": {
+      "breakdown": [
+        "wax",
+        "en"
+      ],
+      "meaning_connection": "wax（蜡）+后缀-en（由...制成）→如蜡制成的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "蜡的",
+        "examples": [
+          {
+            "sentence": "The waxen seals on ancient documents often bore royal emblems.",
+            "sentence_zh": "古籍上的蜡封常带有皇室徽章印记。"
+          },
+          {
+            "sentence": "She sculpted waxen flowers that looked deceptively real.",
+            "sentence_zh": "她雕刻的蜡质花朵能以假乱真。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "像蜡一样软的",
+        "examples": [
+          {
+            "sentence": "His fingers touched the waxen clay that melted under body heat.",
+            "sentence_zh": "他的手指碰到像蜡般柔软的黏土，遇体温就软化。"
+          },
+          {
+            "sentence": "The waxen cheese spread easily on warm toast.",
+            "sentence_zh": "蜡质软酪在热吐司上极易涂抹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无生气的",
+        "examples": [
+          {
+            "sentence": "The waxen expression on his face suggested deep exhaustion.",
+            "sentence_zh": "他脸上蜡像般的表情透出极度疲惫。"
+          },
+          {
+            "sentence": "After the all-nighter, her movements were waxen and slow.",
+            "sentence_zh": "通宵后她的动作如蜡像般迟缓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "苍白的",
+        "examples": [
+          {
+            "sentence": "Moonlight cast a waxen glow on her anxious face.",
+            "sentence_zh": "月光给她焦虑的脸庞镀上蜡色苍白。"
+          },
+          {
+            "sentence": "The patient's waxen complexion worried the doctors.",
+            "sentence_zh": "病人蜡黄的脸色令医生们担忧。"
+          }
+        ]
+      }
+    ],
+    "teach": "waxen是'蜡人张'的魔法🕯️！它描述脸色苍白如故宫里的蜡像🧟，物体柔软似火锅牛油块🍲。搭配'waxen figure'(蜡像)和'waxen complexion'(蜡黄面色)，说'面如死灰'可叫deathly waxen。记住：看到这个单词就想象自己被做成杜莎夫人蜡像馆的新展品！💀👻",
+    "recite": {
+      "tips": [
+        "谐音梗：'外科生'→外科生用蜡(waxen)做解剖模型",
+        "易混词对比：weaken（削弱）vs waxen（蜡制的）",
+        "联想：蜡像馆里苍白的'蜡恩(waxen)'公主"
+      ]
+    }
+  },
+  {
+    "word": "waxing",
+    "etymology": {
+      "breakdown": [
+        "wax",
+        "ing"
+      ],
+      "meaning_connection": "wax（蜡）+ -ing（动名词后缀）→ 表示与蜡相关的动作或过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "上蜡",
+        "examples": [
+          {
+            "sentence": "The waxing of the wooden floor gave it a glossy finish.",
+            "sentence_zh": "给木地板上蜡后显得光亮如新。"
+          },
+          {
+            "sentence": "The car waxing service costs extra but protects the paint.",
+            "sentence_zh": "汽车打蜡服务需要额外付费，但能保护车漆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蜡膜形成",
+        "examples": [
+          {
+            "sentence": "The waxing of the cheese prevents mold during aging.",
+            "sentence_zh": "奶酪表面的蜡膜形成能防止陈化过程中发霉。"
+          }
+        ]
+      }
+    ],
+    "teach": "waxing就像给物品穿雨衣🌧️！古埃及人最早用蜂蜡保存木乃伊⚰️（历史梗）。汽车打蜡叫car waxing，脱毛蜜蜡叫hair removal wax（会痛到怀疑人生😱）。搭配：'wax on/wax off'是《功夫小子》经典台词🎬，'moon waxing'指月亮渐盈🌒。记住：waxing和waning（渐亏）是反义词就像体重秤的左右摇摆⚖️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外省'→外省(waxing)车要常打蜡",
+        "易混词对比：wax（蜡）vs wane（减弱）",
+        "视觉联想：想象给冲浪板打蜡🏄能防滑"
+      ]
+    }
   }
 ]

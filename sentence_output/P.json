@@ -13532,5 +13532,273 @@
         "易混词对比：lover（中性）/mistress（贬义）/paramour（文学性）"
       ]
     }
+  },
+  {
+    "word": "paranoia",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "noia"
+      ],
+      "meaning_connection": "希腊语para=反常的，noia=思想→字面意思'异常思维'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "偏执狂",
+        "examples": [
+          {
+            "sentence": "His paranoia made him install 8 surveillance cameras in his 20㎡ apartment.",
+            "sentence_zh": "他的偏执让他在20平米的公寓里装了8个监控摄像头。"
+          },
+          {
+            "sentence": "The CEO's paranoia about competitors led to midnight WeChat inspections.",
+            "sentence_zh": "CEO对竞争对手的偏执导致半夜微信查岗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "多疑症",
+        "examples": [
+          {
+            "sentence": "Her paranoia manifested as checking her boyfriend's Douyin likes 30 times a day.",
+            "sentence_zh": "她的多疑症表现为每天检查男友抖音点赞30次。"
+          },
+          {
+            "sentence": "The influencer's paranoia makes her believe every comment is a hater in disguise.",
+            "sentence_zh": "网红的被害妄想让她认为每条评论都是黑粉伪装。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tech paranoia",
+        "meaning": "科技焦虑症",
+        "examples": [
+          {
+            "sentence": "Tech paranoia makes him cover his laptop camera with 3 layers of tape.",
+            "sentence_zh": "科技焦虑症让他用三层胶带盖住笔记本摄像头。"
+          }
+        ]
+      }
+    ],
+    "teach": "paranoia是'被迫害妄想症'👀💢！就像总怀疑外卖小哥偷喝你的奶茶🥤，或坚信微信群'收到'接龙是在密谋反对你🤳。现代版paranoia包括：1) 觉得手机在监听聊天后推送广告🎧 2) 怀疑健身APP的步数排名是公司监视手段🏃。要说'瞎操心'可以用spinning yarns（编故事），记住：偶尔的paranoia叫警惕，过度的叫'该吃药了'💊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派来闹呀'→被迫害幻想总觉得有人派来闹",
+        "易混词对比：paranoia（病理性的）vs suspicion（普通怀疑）",
+        "联想记忆：para（旁边）+ no（没有）+ ia（病）→ 总觉得旁边有人但其实没有的病"
+      ]
+    }
+  },
+  {
+    "word": "paranoiac",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "noia",
+        "ac"
+      ],
+      "meaning_connection": "前缀para-=超出，词根noia=思考（来自希腊语nous），后缀-ac=关于→思维超出正常范围的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "偏执狂的",
+        "examples": [
+          {
+            "sentence": "His paranoiac insistence that his phone was tapped turned out to be true.",
+            "sentence_zh": "他偏执地坚持手机被监听，结果居然是真的。"
+          },
+          {
+            "sentence": "The CEO's paranoiac secrecy about the new product fueled rumors.",
+            "sentence_zh": "CEO对新产品的偏执保密反而助长了谣言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "偏执狂患者",
+        "examples": [
+          {
+            "sentence": "The detective novel features a genius paranoiac who predicts crimes.",
+            "sentence_zh": "这部侦探小说主角是个能预言犯罪的天才偏执狂。"
+          },
+          {
+            "sentence": "Some historians believe Van Gogh may have been a creative paranoiac.",
+            "sentence_zh": "部分历史学家认为梵高可能是位有创造力的偏执症患者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paranoiac delusion",
+        "meaning": "偏执妄想",
+        "examples": [
+          {
+            "sentence": "His belief that colleagues were stealing his ideas was a classic paranoiac delusion.",
+            "sentence_zh": "他坚信同事偷窃创意的想法是典型的偏执妄想。"
+          }
+        ]
+      }
+    ],
+    "teach": "paranoiac是'被迫害妄想症'的学术说法🕵️♂️！就像总怀疑外卖小哥在汤里下毒（实际只是忘了放葱花）🌡️。网络梗'总有刁民想害朕'完美诠释paranoiac心态👑。搭配：paranoiac suspicion（疑神疑鬼）、paranoiac fantasy（被害幻想）。说'被迫害妄想'可以用persecution complex这个地道表达🧠。记住：偶尔的paranoiac可能是侦探，长期的paranoiac需要心理医生！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕了闹一客'→怕了吵闹的客人所以变得偏执",
+        "易混词对比：paranoid（更口语化） vs paranoiac（临床术语）",
+        "记忆tip：para(旁)+noia(脑)→旁边长了个胡思乱想的脑子"
+      ]
+    }
+  },
+  {
+    "word": "paranoid",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "noid"
+      ],
+      "meaning_connection": "前缀para-=旁侧的，词根noid=思想→源于希腊语'在思想边缘游走'的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "患妄想狂的",
+        "examples": [
+          {
+            "sentence": "After watching too many spy movies, he became paranoid about his phone being tapped.",
+            "sentence_zh": "看了太多谍战片后，他变得疑神疑鬼总怀疑手机被监听。"
+          },
+          {
+            "sentence": "The paranoid cat hides whenever the vacuum cleaner roars.",
+            "sentence_zh": "那只患被害妄想症的猫每次吸尘器轰鸣时就躲起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "患偏执狂的",
+        "examples": [
+          {
+            "sentence": "Her paranoid obsession with cleanliness made her wipe doorknobs 10 times a day.",
+            "sentence_zh": "她对清洁的偏执强迫症让她每天要擦门把手10次。"
+          },
+          {
+            "sentence": "The CEO's paranoid leadership style created a culture of mutual surveillance.",
+            "sentence_zh": "这位CEO偏执狂式的领导风格催生出互相监视的企业文化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "患妄想狂的人",
+        "examples": [
+          {
+            "sentence": "The conspiracy theorist was classic paranoid who saw government plots everywhere.",
+            "sentence_zh": "那个阴谋论者是典型的妄想狂，觉得到处都有政府阴谋。"
+          },
+          {
+            "sentence": "In the novel, the paranoid kept changing passwords every hour.",
+            "sentence_zh": "小说里那个被害妄想症患者每小时都要改密码。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paranoid about",
+        "meaning": "对...过度猜疑",
+        "examples": [
+          {
+            "sentence": "Millennials are paranoid about privacy leaks when using apps.",
+            "sentence_zh": "千禧一代对APP隐私泄露过度敏感。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "paranoid schizophrenia",
+        "meaning": "偏执型精神分裂",
+        "examples": [
+          {
+            "sentence": "The artist's paranoid schizophrenia fueled his surreal paintings.",
+            "sentence_zh": "画家的偏执型精神分裂催生了他那些超现实画作。"
+          }
+        ]
+      }
+    ],
+    "teach": "paranoid是'被迫害妄想症'专业户👁️！词源来自希腊语'在思想边缘'(para+noid)，就像总怀疑外卖小哥在汤里下毒🤯。网络时代人人都有点paranoid：觉得手机在偷听聊天（其实真会😅），'被害妄想'叫seeing ghosts everywhere（哪都有鬼），'被迫害妄想'说法的极致是tin foil hat（锡纸防脑控帽🧢）。记住：适度paranoid保安全，过度就是'总有刁民想害朕'👑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派来的闹的'→派来的人总在闹，肯定有阴谋",
+        "易混词对比：paranoid(被害妄想) vs. phobia(恐惧症)"
+      ]
+    }
+  },
+  {
+    "word": "paranormal",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "normal"
+      ],
+      "meaning_connection": "前缀para-=超越（如parallel平行但不相交），normal=正常的→超越正常认知的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "超自然的",
+        "examples": [
+          {
+            "sentence": "The TikTok video claiming paranormal activity was debunked as a filter prank.",
+            "sentence_zh": "那个声称拍到灵异现象的抖音视频被揭穿是滤镜恶搞。"
+          },
+          {
+            "sentence": "Many UFO sightings turn out to be drones, not paranormal phenomena.",
+            "sentence_zh": "多数不明飞行物目击事件最终证实是无人机，而非超自然现象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "科学无法解释的",
+        "examples": [
+          {
+            "sentence": "Some quantum physics effects seem paranormal until properly understood.",
+            "sentence_zh": "某些量子物理效应在未被理解前看似超出科学解释范围。"
+          },
+          {
+            "sentence": "The placebo effect was once considered paranormal by doctors.",
+            "sentence_zh": "安慰剂效应曾被医生认为是科学无法解释的现象。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paranormal investigation",
+        "meaning": "灵异调查",
+        "examples": [
+          {
+            "sentence": "That viral paranormal investigation livestream used 5G cameras and AI analysis.",
+            "sentence_zh": "那场爆红的灵异调查直播运用了5G摄像机和人工智能分析。"
+          }
+        ]
+      }
+    ],
+    "teach": "paranormal就是'科学的盲区'🔭！就像古人以为闪电是雷公发怒⚡（现已知是物理现象），未来科技会让今天的'超自然'变普通💡。搭配说'paranormal activity'（灵异事件）比ghost更学术，'paranormal romance'（超自然恋爱）是吸血鬼小说专用词🧛♂️。地道吐槽：'That's not paranormal, just bad wifi!'（不是闹鬼，是WiFi太差！）",
+    "recite": {
+      "tips": [
+        "谐音梗：'派拉蒙'→电影公司拍的(para)正常(normal)鬼片",
+        "易混词：abnormal（反常的）是科学可解释的，paranormal是科学暂未解释的"
+      ]
+    }
   }
 ]

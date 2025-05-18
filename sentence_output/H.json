@@ -13206,5 +13206,293 @@
         "记忆法：拆解har-ness→'硬核(hard)网络(net)'需要约束装置"
       ]
     }
+  },
+  {
+    "word": "harnessing",
+    "etymology": {
+      "breakdown": [
+        "harness",
+        "ing"
+      ],
+      "meaning_connection": "harness源自古法语'harnois'（装备），ing表进行时/动名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给（马等）装上挽具",
+        "examples": [
+          {
+            "sentence": "The cowboy was harnessing a mustang with rainbow-colored straps.",
+            "sentence_zh": "牛仔正用彩虹色皮带给野马套挽具。"
+          },
+          {
+            "sentence": "Harnessing reindeer for Santa's sleigh takes 47 precise steps.",
+            "sentence_zh": "为圣诞老人的雪橇驯鹿上挽具需要47个精确步骤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "治理, 利用",
+        "examples": [
+          {
+            "sentence": "China is harnessing AI to predict traffic jams before they happen.",
+            "sentence_zh": "中国正利用AI预测交通堵塞的发生。"
+          },
+          {
+            "sentence": "Harnessing nuclear fusion is like trying to bottle a tiny sun.",
+            "sentence_zh": "可控核聚变就像试图把微型太阳装进瓶子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "harnessing the wind",
+        "meaning": "风能利用",
+        "examples": [
+          {
+            "sentence": "Dutch windmills were early examples of harnessing the wind.",
+            "sentence_zh": "荷兰风车是早期风能利用的典范。"
+          }
+        ]
+      }
+    ],
+    "teach": "harnessing是'给马穿JK制服'🐎→既指实体马具又指抽象驯服！古人用缰绳(harness)控制马匹，现代程序员用代码'驯服'算法🤖。说'利用资源'可用harness代替use更专业，比如harnessing big data（驯服大数据）。'物尽其用'叫fully harness，就像把奶茶喝到最后一粒珍珠🥤。记住：从蒙古马鞍到可控核聚变，都是harnessing的进化史！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈尼sing'→哈尼（honey）在给马唱安眠曲驯服它",
+        "易混词对比：harness vs. utilize（前者强调控制性利用）",
+        "记忆tip：想象给特斯拉汽车套马具的画面"
+      ]
+    }
+  },
+  {
+    "word": "harp",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语hearpe，与古德语harfa同源，模拟拨弦声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "竖琴",
+        "examples": [
+          {
+            "sentence": "The angel statue held a golden harp in its hands.",
+            "sentence_zh": "天使雕像手持金色竖琴。"
+          },
+          {
+            "sentence": "She practiced the harp for 6 hours daily to prepare for the audition.",
+            "sentence_zh": "她每天练习竖琴6小时准备试镜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "弹奏竖琴",
+        "examples": [
+          {
+            "sentence": "In the park, an old man was harping under the willow tree.",
+            "sentence_zh": "公园里，一位老者在柳树下弹奏竖琴。"
+          },
+          {
+            "sentence": "When she harps, stray cats would gather around her balcony.",
+            "sentence_zh": "她弹竖琴时，流浪猫会聚集到阳台周围。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "喋喋不休",
+        "examples": [
+          {
+            "sentence": "My mom keeps harping about my messy room like broken CD.",
+            "sentence_zh": "我妈像卡碟的CD一样喋喋不休我杂乱的房间。"
+          },
+          {
+            "sentence": "The boss harped on the sales data for 2 hours straight.",
+            "sentence_zh": "老板就销售数据连续唠叨了两小时。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "harp on",
+        "meaning": "反复提及",
+        "examples": [
+          {
+            "sentence": "Don't harp on your ex at every dinner party.",
+            "sentence_zh": "别在每次聚餐时都提你前任。"
+          }
+        ]
+      }
+    ],
+    "teach": "harp是天使乐器也是唐僧紧箍咒👼！古希腊人相信竖琴声能治愈忧郁症🎵，但'harp on'却让人头痛欲裂🤯。说人唠叨用'harp on'比唐僧念经更形象，搭配'broken record'（老唱片）效果翻倍🎶。记住：优雅时是harp，烦人时是harp on！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈啤'→喝哈啤时有人喋喋不休(harp on)",
+        "易混词：harp vs sharp（尖锐的）→竖琴弦要调得sharp"
+      ]
+    }
+  },
+  {
+    "word": "harpist",
+    "etymology": {
+      "breakdown": [
+        "harp",
+        "ist"
+      ],
+      "meaning_connection": "harp=竖琴，-ist=从事...的人→演奏竖琴的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "竖琴师",
+        "examples": [
+          {
+            "sentence": "The blind harpist played a melody that moved everyone to tears.",
+            "sentence_zh": "盲人竖琴师演奏的旋律让所有人感动落泪。"
+          },
+          {
+            "sentence": "As the royal harpist, she performs for the queen every full moon.",
+            "sentence_zh": "作为皇室竖琴师，她每月满月时为女王演奏。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "harpist是'神仙职业'🧚♀️！古希腊传说中奥菲斯用竖琴感动冥王（最古老的爱豆💫），现实中的竖琴师就像《哈利波特》里的弗立维教授🪄。搭配说lead harpist（首席竖琴师）比CEO还稀有，'弹得差'叫fingers like sausages（像香肠的手指🌭）。记住：当harpist比当摇滚明星难十倍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈啤士'→喝哈啤的竖琴武士",
+        "易混词对比：harpist（演奏者）vs. harp（乐器本体）"
+      ]
+    }
+  },
+  {
+    "word": "harpoon",
+    "etymology": {
+      "breakdown": [
+        "har",
+        "poon"
+      ],
+      "meaning_connection": "来自法语harpon（钩子），词源可能与古日耳曼语'harpō'（钩子）相关，-oon为工具后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "鱼叉",
+        "examples": [
+          {
+            "sentence": "The whaler's harpoon had rusted after years at sea.",
+            "sentence_zh": "捕鲸者的鱼叉在海上多年后已生锈。"
+          },
+          {
+            "sentence": "In Moby Dick, the harpoon symbolizes man's struggle against nature.",
+            "sentence_zh": "在《白鲸记》中，鱼叉象征人类与自然的对抗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用鱼叉叉",
+        "examples": [
+          {
+            "sentence": "The fisherman harpooned the tuna with perfect aim.",
+            "sentence_zh": "渔民精准地用鱼叉刺中金枪鱼。"
+          },
+          {
+            "sentence": "In the Arctic, indigenous people still harpoon seals for survival.",
+            "sentence_zh": "在北极，原住民仍为生存用鱼叉捕猎海豹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用鱼叉捕获",
+        "examples": [
+          {
+            "sentence": "They harpooned three whales during the expedition.",
+            "sentence_zh": "他们在远征中用鱼叉捕获了三头鲸鱼。"
+          },
+          {
+            "sentence": "Modern eco-tourism forbids harpooning dolphins.",
+            "sentence_zh": "现代生态旅游禁止用鱼叉捕捉海豚。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "harpoon gun",
+        "meaning": "鱼叉枪",
+        "examples": [
+          {
+            "sentence": "The underwater photographer carries a harpoon gun for defense.",
+            "sentence_zh": "水下摄影师携带鱼叉枪用于自卫。"
+          }
+        ]
+      }
+    ],
+    "teach": "harpoon是人类最早的'外卖工具'🍣！维京人用鲸鱼油当'古代充电宝'🔋（whale oil lamps），因纽特人用海象牙做鱼叉杆🦷。现在说'精准打击'可以用harpoon metaphorically，比如：Her comment harpooned his ego（她的话像鱼叉刺中他的自尊）。搭配harpoon a deal（搞定交易）或emotional harpoon（言语中伤）都超生动！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈噗'→哈(har)一声噗(poon)地刺进鱼身",
+        "易混词：spear（普通长矛） vs harpoon（带绳鱼叉）"
+      ]
+    }
+  },
+  {
+    "word": "harpsichord",
+    "etymology": {
+      "breakdown": [
+        "harp",
+        "si",
+        "chord"
+      ],
+      "meaning_connection": "harp=竖琴，chord=琴弦，-si为连接成分→形似竖琴但用羽管拨弦的乐器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "羽管键琴",
+        "examples": [
+          {
+            "sentence": "Bach's Goldberg Variations were originally composed for harpsichord.",
+            "sentence_zh": "巴赫的《哥德堡变奏曲》最初为羽管键琴创作。"
+          },
+          {
+            "sentence": "The museum's 17th-century harpsichord still produces crystal-clear tones.",
+            "sentence_zh": "博物馆的17世纪羽管键琴仍能发出清透的音色。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "play the harpsichord",
+        "meaning": "演奏羽管键琴",
+        "examples": [
+          {
+            "sentence": "She plays the harpsichord in period costumes for Baroque concerts.",
+            "sentence_zh": "她穿着古装在巴洛克音乐会上演奏羽管键琴。"
+          }
+        ]
+      }
+    ],
+    "teach": "harpsichord是钢琴的曾祖父🎹！它的拨弦原理就像用鹅毛笔挠痒痒🪶（quill plucking），音色像八音盒旋转时的叮咚声🎼。现代人把它当'音乐活化石'，但巴洛克时期这可是最潮电音💃🏻！搭配说法：'调音'叫tune a harpsichord，'弱音效果'用buff stop。想装文艺青年就说：'这琴的声音像月光下的威尼斯运河'🌙",
+    "recite": {
+      "tips": [
+        "谐音梗：' harp si 靠的'→竖琴（harp）靠羽毛（si）发声的",
+        "易混词：harpsichord(拨弦) vs. piano(击弦)",
+        "记忆tip：想象天使竖琴(harp)和数学正弦(sine)曲线组成的琴弦(chord)"
+      ]
+    }
   }
 ]

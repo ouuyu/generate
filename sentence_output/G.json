@@ -13175,5 +13175,339 @@
         "对比记忆：generate（动）→generated（形）→generation（名）像祖孙三代👨👦👦"
       ]
     }
+  },
+  {
+    "word": "generating",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "ate",
+        "ing"
+      ],
+      "meaning_connection": "词根gener=产生/种族（同gene），-ate表动词，-ing表进行时/形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "产生的",
+        "examples": [
+          {
+            "sentence": "The generating station powers entire neighborhoods with wind energy.",
+            "sentence_zh": "这座发电站用风能为整个社区供电。"
+          },
+          {
+            "sentence": "Her speech had a generating effect on the audience's enthusiasm.",
+            "sentence_zh": "她的演讲对观众的热情产生了激发效果。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "生成的",
+        "examples": [
+          {
+            "sentence": "The AI's generating content sometimes includes hilarious mistranslations.",
+            "sentence_zh": "AI生成的内容有时包含搞笑的误译。"
+          },
+          {
+            "sentence": "We studied the generating process of rainbows in physics class.",
+            "sentence_zh": "我们在物理课上研究了彩虹的生成过程。"
+          }
+        ]
+      }
+    ],
+    "teach": "generating就像个永动机⚡！从gene（基因）家族来的它，既能造电⚡（power generating），又能产梗🌐（meme generating）。搭配'income generating'（创收的）和'idea generating'（创意迸发的），说'凭空捏造'可以用cooked-up替代generated。记住：你的每个念头都是大脑在generating！💡🧠🎭",
+    "recite": {
+      "tips": [
+        "谐音梗：'真那挺'→真那挺能generating",
+        "对比generate（动词）vs generative（有生产力的）"
+      ]
+    }
+  },
+  {
+    "word": "generation",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "ation"
+      ],
+      "meaning_connection": "词根gener=生产/种族，后缀-ation表行为结果→原指'生育行为'，后衍生出'代际'概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "一代（时间维度）",
+        "examples": [
+          {
+            "sentence": "Gen Z spends 3 generations' worth of time on douyin daily.",
+            "sentence_zh": "Z世代每天在抖音上消耗三代人的时间量。"
+          },
+          {
+            "sentence": "This recipe has been passed down for 5 generations like secret kungfu.",
+            "sentence_zh": "这个食谱像武功秘籍一样传承了五代人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一世（家族辈分）",
+        "examples": [
+          {
+            "sentence": "Three generations live under one roof: grandma telling TikTok dances are too loud.",
+            "sentence_zh": "三世同堂：奶奶总抱怨抖音舞蹈太吵。"
+          },
+          {
+            "sentence": "The Wang family tree records 12 generations since Ming Dynasty.",
+            "sentence_zh": "王氏家谱记录了自明朝以来的12代人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "产生（能量/物质）",
+        "examples": [
+          {
+            "sentence": "China's wind power generation equals 200 million pandas pedaling bicycles.",
+            "sentence_zh": "中国风力发电量相当于2亿只熊猫骑自行车。"
+          },
+          {
+            "sentence": "The meme generation speed on weibo breaks records every hour.",
+            "sentence_zh": "微博上的表情包产生速度每小时都在破纪录。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "generation gap",
+        "meaning": "代沟",
+        "examples": [
+          {
+            "sentence": "The generation gap between them is wider than the Yangtze River when it comes to online dating.",
+            "sentence_zh": "谈到网恋时他们的代沟比长江还宽。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "next-generation",
+        "meaning": "新一代的",
+        "examples": [
+          {
+            "sentence": "Huawei's next-generation chips are smaller than a chili pepper seed.",
+            "sentence_zh": "华为新一代芯片比辣椒籽还小。"
+          }
+        ]
+      }
+    ],
+    "teach": "generation本质是'生产流水线'🏭：1) 古罗马人用gener（生育）计算家族辈分👨👩👧👦 2) 想象不同世代就像手机系统更新📱→60后是DOS系统，00后是鸿蒙系统 3) 搭配：'代购'叫generation shopping，'发电站'power generation plant 4) 吐槽'老古董'说he's from the dinosaur generation🦖 5) 记住：时间/家族/能量三线生产！",
+    "recite": {
+      "tips": [
+        "谐音梗：'攒呢睿审'→攒够一代人的智慧才能通过世代审查",
+        "易混词：generate（动词）vs generation（名词）",
+        "记忆链：gen（基因）→generation（代际遗传）"
+      ]
+    }
+  },
+  {
+    "word": "generational",
+    "etymology": {
+      "breakdown": [
+        "generate",
+        "ion",
+        "al"
+      ],
+      "meaning_connection": "词根generate=产生，-ion表名词后缀，-al表形容词后缀→与产生/代际相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "生殖的",
+        "examples": [
+          {
+            "sentence": "The ancient text recorded generational rituals for fertility.",
+            "sentence_zh": "古籍记载了祈求生育的生殖仪式。"
+          },
+          {
+            "sentence": "Geneticists study generational traits in fruit flies.",
+            "sentence_zh": "遗传学家研究果蝇的生殖特征。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "世代的",
+        "examples": [
+          {
+            "sentence": "Generational shifts in pop culture reflect changing values.",
+            "sentence_zh": "流行文化中的世代更迭反映价值观变迁。"
+          },
+          {
+            "sentence": "The Qing Dynasty spanned 12 generational successions.",
+            "sentence_zh": "清朝共经历12代皇位更迭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "代与代之间的",
+        "examples": [
+          {
+            "sentence": "Generational conflicts often arise from tech literacy gaps.",
+            "sentence_zh": "数字鸿沟常导致代际冲突。"
+          },
+          {
+            "sentence": "Peking opera faces generational transmission challenges.",
+            "sentence_zh": "京剧面临代际传承的挑战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "一代的",
+        "examples": [
+          {
+            "sentence": "This generational cohort witnessed the internet revolution.",
+            "sentence_zh": "这代人生经历了互联网革命。"
+          },
+          {
+            "sentence": "The Terracotta Warriors show generational craftsmanship.",
+            "sentence_zh": "兵马俑展现了一代匠人的工艺水平。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "生育的",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine emphasizes generational health.",
+            "sentence_zh": "中医重视生育健康调理。"
+          },
+          {
+            "sentence": "The policy aims to improve generational well-being.",
+            "sentence_zh": "该政策旨在提升生育福祉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "generational gap",
+        "meaning": "代沟",
+        "examples": [
+          {
+            "sentence": "Douyin dances reveal generational gaps in aesthetics.",
+            "sentence_zh": "抖音舞蹈暴露出审美代沟。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "generational wealth",
+        "meaning": "世代财富",
+        "examples": [
+          {
+            "sentence": "Compound interest builds generational wealth.",
+            "sentence_zh": "复利能积累世代财富。"
+          }
+        ]
+      }
+    ],
+    "teach": "generational就像家族火锅👨👩👧👦！'生殖'是往锅里下新食材🍲（generation X→Y），'代际'是不同食材的层次（60后→00后🥢）。要说'代沟太大'可以用like Mars and Venus（火星金星），'传家宝'叫generational heirloom💎。记住：这词既是生物学试管🧪，也是社会学的时光机⏳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'捡那婶闹'→捡到那婶婶闹世代纠纷",
+        "易混词对比：general（普通的）vs generational（世代的）"
+      ]
+    }
+  },
+  {
+    "word": "generative",
+    "etymology": {
+      "breakdown": [
+        "gener",
+        "ative"
+      ],
+      "meaning_connection": "词根gener=产生/种族（源自拉丁语genus），后缀-ative表性质→与创造/生产相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "生殖的",
+        "examples": [
+          {
+            "sentence": "The study focuses on the generative organs of tropical plants.",
+            "sentence_zh": "这项研究聚焦热带植物的生殖器官。"
+          },
+          {
+            "sentence": "Rabbit's high generative capacity amazed Darwin.",
+            "sentence_zh": "兔子的高生殖能力曾让达尔文惊叹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "生产的",
+        "examples": [
+          {
+            "sentence": "Generative AI like ChatGPT can produce original articles.",
+            "sentence_zh": "诸如ChatGPT之类的生成式AI能创作原创文章。"
+          },
+          {
+            "sentence": "The factory's generative power reaches 10,000 phones per hour.",
+            "sentence_zh": "该工厂的生产能力达每小时1万部手机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "有生殖力的",
+        "examples": [
+          {
+            "sentence": "Queen bees remain generative for several years.",
+            "sentence_zh": "蜂王的生殖力可维持数年。"
+          },
+          {
+            "sentence": "Ancient tribes worshipped generative symbols.",
+            "sentence_zh": "原始部落崇拜具有生殖力的图腾。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "generative power",
+        "meaning": "生产力",
+        "examples": [
+          {
+            "sentence": "China's generative power in electronics is globally recognized.",
+            "sentence_zh": "中国在电子领域的生产力得到全球认可。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "generative grammar",
+        "meaning": "生成语法",
+        "examples": [
+          {
+            "sentence": "Chomsky's generative grammar revolutionized linguistics.",
+            "sentence_zh": "乔姆斯基的生成语法革新了语言学。"
+          }
+        ]
+      }
+    ],
+    "teach": "generative是生命与科技的混血儿🧬！当它指'生殖'时，像熊猫妈妈疯狂生崽🐼（generative capacity）；指'生产'时，像义乌小商品市场爆单🚀（generative power）；在AI时代，它变身'生成式'魔法✨（generative art）。说'高产'可以用fertile像黑土地，而'创意爆发'叫brainchild像突然当爹🤯！",
+    "recite": {
+      "tips": [
+        "谐音梗：'健那提'→健那提(generative)维生素增强生殖力",
+        "对比记忆：generous（慷慨的）少个o就变'能生的'",
+        "词根联想：gener=generate（产生）+ative→能生的"
+      ]
+    }
   }
 ]

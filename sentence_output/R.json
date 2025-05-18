@@ -13534,5 +13534,281 @@
         "记忆tip：把-ification后缀想象成'合法化证书'"
       ]
     }
+  },
+  {
+    "word": "rather",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语hrathor（更快），原指'更快做出选择'，后衍生出'宁可'和程度副词用法"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "宁可",
+        "examples": [
+          {
+            "sentence": "I'd rather eat stinky tofu than durian.",
+            "sentence_zh": "我宁可吃臭豆腐也不要吃榴莲。"
+          },
+          {
+            "sentence": "She'd rather walk 20,000 steps daily than go to the gym.",
+            "sentence_zh": "她宁可每天走2万步也不去健身房。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "稍微",
+        "examples": [
+          {
+            "sentence": "The milk tea is rather sweet for my taste.",
+            "sentence_zh": "这杯奶茶对我来说稍微甜了点。"
+          },
+          {
+            "sentence": "His Mandarin has a rather strong Sichuan accent.",
+            "sentence_zh": "他的普通话带点四川口音。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "相当",
+        "examples": [
+          {
+            "sentence": "The AI-generated poem is rather impressive.",
+            "sentence_zh": "这首AI生成的诗相当惊艳。"
+          },
+          {
+            "sentence": "It's rather ironic that the weather app crashed during a typhoon.",
+            "sentence_zh": "天气应用在台风天崩溃相当讽刺。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "or rather",
+        "meaning": "更确切地说",
+        "examples": [
+          {
+            "sentence": "He's a foodie, or rather, a hotpot specialist.",
+            "sentence_zh": "他是个吃货，更确切地说是火锅专家。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "would rather...than...",
+        "meaning": "宁愿...也不...",
+        "examples": [
+          {
+            "sentence": "Gen Z would rather lie flat than work overtime.",
+            "sentence_zh": "Z世代宁愿躺平也不加班。"
+          }
+        ]
+      }
+    ],
+    "teach": "rather是个纠结精🤔！当它表示'宁可'时像在火锅店选鸳鸯锅还是九宫格🔥（would rather），'稍微'时像给奶茶调甜度🧋（rather sweet），'相当'时像看到熊猫幼崽的惊叹🐼（rather cute）。地道表达：'宁可吃土'说would rather eat dirt，搭配rather annoying（相当烦人）和rather not say（宁可不说）",
+    "recite": {
+      "tips": [
+        "谐音梗：'辣舌'→吃火锅时'宁可(rather)辣舌也不停筷'",
+        "易混词对比：fairly表积极肯定，rather带负面倾向"
+      ]
+    }
+  },
+  {
+    "word": "ratify",
+    "etymology": {
+      "breakdown": [
+        "rat",
+        "ify"
+      ],
+      "meaning_connection": "词根rat=计算/判断（同rational），-ify表'使...化'→经过计算后的正式确认"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "正式批准",
+        "examples": [
+          {
+            "sentence": "The National People's Congress ratified the new data security law.",
+            "sentence_zh": "全国人民代表大会正式批准了新数据安全法。"
+          },
+          {
+            "sentence": "After three rounds of voting, the treaty was finally ratified.",
+            "sentence_zh": "经过三轮投票，条约终于获得正式批准。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "认可",
+        "examples": [
+          {
+            "sentence": "The boss ratified our team's WeChat mini-program proposal.",
+            "sentence_zh": "老板认可了我们团队的微信小程序提案。"
+          },
+          {
+            "sentence": "Parental consent must be ratified by notarization.",
+            "sentence_zh": "家长同意书必须经过公证认可。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ratify an agreement",
+        "meaning": "核准协议",
+        "examples": [
+          {
+            "sentence": "The two companies are drinking milk tea to celebrate ratifying the agreement.",
+            "sentence_zh": "两家公司正在喝奶茶庆祝协议核准。"
+          }
+        ]
+      }
+    ],
+    "teach": "ratify就像皇帝盖章玉玺📜！词根rat-和'计算'有关（比如rational），所以ratify是经过精密计算后的正式批准。古代朝廷'批红'叫imperial ratification，现在'签劳动合同'叫ratify employment contract。要说'官方认证'可以用stamp of approval这个地道表达。记住：ratify是比approve更官方的'盖章'💼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热帖飞'→热门帖子飞过审核(ratify)",
+        "易混词对比：certify（专业认证） vs ratify（官方批准）",
+        "记忆tip：老鼠(rat)拿着印章(-ify)在批准文件"
+      ]
+    }
+  },
+  {
+    "word": "rating",
+    "etymology": {
+      "breakdown": [
+        "rat",
+        "ing"
+      ],
+      "meaning_connection": "词根rat=计算/判断（如ratio），后缀-ing表行为结果→原指计算得出的数值评价"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "等级",
+        "examples": [
+          {
+            "sentence": "Douban ratings decide whether I waste 2 hours on a movie.",
+            "sentence_zh": "豆瓣评分决定我是否浪费两小时看部电影。"
+          },
+          {
+            "sentence": "The hotel's 5-star rating comes with free foot massage service.",
+            "sentence_zh": "这家五星级酒店提供免费足浴服务。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "额定功率",
+        "examples": [
+          {
+            "sentence": "Check the power rating before plugging in your rice cooker abroad.",
+            "sentence_zh": "在国外使用电饭煲前先查看额定功率。"
+          },
+          {
+            "sentence": "The new GPU has a thermal rating exceeding most hairdryers.",
+            "sentence_zh": "新显卡的热功耗超过多数吹风机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "责骂",
+        "examples": [
+          {
+            "sentence": "He got a severe rating for forgetting his wife's birthday.",
+            "sentence_zh": "他因忘记妻子生日被狠狠责骂。"
+          },
+          {
+            "sentence": "The teacher's rating sounded like a rap battle.",
+            "sentence_zh": "老师的训斥听起来像场说唱对战。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "credit rating",
+        "meaning": "信用评级",
+        "examples": [
+          {
+            "sentence": "My credit rating dropped after buying 12 concert tickets.",
+            "sentence_zh": "买了12张演唱会票后我的信用评级下降了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "TV ratings",
+        "meaning": "电视收视率",
+        "examples": [
+          {
+            "sentence": "The春晚收视率碾压所有综艺节目。",
+            "sentence_zh": "Spring Festival Gala ratings crush all variety shows."
+          }
+        ]
+      }
+    ],
+    "teach": "rating是当代互联网生存指南📊！给爱豆打call叫fan rating🌟，被老板骂是boss rating🗣️，电脑配置看power rating⚡。说'差评如潮'用地道表达a barrage of one-star ratings（一星暴雨）💥，'好评炸裂'叫rating through the roof（屋顶都掀了）🚀。记住：你的人生rating由自己定义！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累停'→评分累到系统宕机",
+        "易混词：ratio（比率） vs rating（评级）",
+        "记忆锚点：美团外卖小哥的评分决定他哭还是笑"
+      ]
+    }
+  },
+  {
+    "word": "ratio",
+    "etymology": {
+      "breakdown": [
+        "rat",
+        "io"
+      ],
+      "meaning_connection": "词根rat=计算，-io表名词后缀→原指'计算得出的关系'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "比",
+        "examples": [
+          {
+            "sentence": "The golden ratio appears in Peking Opera facial designs.",
+            "sentence_zh": "黄金比例出现在京剧脸谱设计中。"
+          },
+          {
+            "sentence": "We maintain a 1:1 ratio of dumplings to eaters at family reunions.",
+            "sentence_zh": "家庭聚会时我们保持饺子与食客1:1的比例。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "比率",
+        "examples": [
+          {
+            "sentence": "The teacher-student ratio in this cram school is scarier than a horror movie.",
+            "sentence_zh": "这所补习班的师生比率比恐怖片还吓人。"
+          },
+          {
+            "sentence": "Douyin calculates engagement ratio by likes per 1000 views.",
+            "sentence_zh": "抖音按每千次播放的点赞数计算互动比率。"
+          }
+        ]
+      }
+    ],
+    "teach": "ratio其实是'睿shuo'🧮！古希腊用绳子打结(rat-)记录比例，现在说'被碾压'叫got ratioed（点赞比惨败）💥。搭配：'男女比例'说gender ratio像火锅鸳鸯锅🍲，'压缩比'compression ratio像捏干脆面🤏。记住：当你的微博被ratioed时，尴尬程度≈用筷子夹不起汤圆！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累瘦'→计算比率(ratio)累到瘦",
+        "易混词：rate（速率）vs ratio（比例）就像单车速度vs前后齿轮比"
+      ]
+    }
   }
 ]

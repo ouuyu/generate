@@ -13445,5 +13445,373 @@
         "记忆tip：ac+com（一起）+plice（plice音似'place'）→一起在犯罪现场的人"
       ]
     }
+  },
+  {
+    "word": "accomplish",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "compl",
+        "ish"
+      ],
+      "meaning_connection": "前缀ac-表示'加强'，词根compl表示'填满'（来自拉丁语complere），-ish为动词后缀→原指'完全填满'，引申为'圆满完成'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "完成",
+        "examples": [
+          {
+            "sentence": "She accomplished her PhD thesis while binge-watching The Untamed.",
+            "sentence_zh": "她一边刷《陈情令》一边完成了博士论文。"
+          },
+          {
+            "sentence": "The construction crew accomplished the skyscraper 3 months ahead of schedule.",
+            "sentence_zh": "施工队提前三个月完成了摩天大楼建设。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "达到",
+        "examples": [
+          {
+            "sentence": "The athlete accomplished speeds rivaling high-speed trains.",
+            "sentence_zh": "该运动员达到了媲美高铁的速度。"
+          },
+          {
+            "sentence": "This app helps users accomplish their daily step goals.",
+            "sentence_zh": "这款应用帮助用户达到每日步数目标。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "实现",
+        "examples": [
+          {
+            "sentence": "Zhang Guimei accomplished her dream of founding a free girls' school.",
+            "sentence_zh": "张桂梅实现了创办免费女子高中的梦想。"
+          },
+          {
+            "sentence": "The Mars rover accomplishment proves China's space technology breakthrough.",
+            "sentence_zh": "火星车登陆实现了中国航天技术的突破。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使完美",
+        "examples": [
+          {
+            "sentence": "The chef accomplished the dish with a sprinkle of Sichuan peppercorns.",
+            "sentence_zh": "厨师撒上花椒使这道菜臻于完美。"
+          },
+          {
+            "sentence": "Her piano performance was accomplished by flawless emotional expression.",
+            "sentence_zh": "她对情感的完美演绎使钢琴演奏趋于完美。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accomplish nothing",
+        "meaning": "一事无成",
+        "examples": [
+          {
+            "sentence": "Scrolling Douyin for 5 hours accomplishes nothing but sore thumbs.",
+            "sentence_zh": "刷五小时抖音只会拇指酸痛一事无成。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accomplish miracles",
+        "meaning": "创造奇迹",
+        "examples": [
+          {
+            "sentence": "The doctors accomplished miracles during the pandemic.",
+            "sentence_zh": "疫情期间医生们创造了医学奇迹。"
+          }
+        ]
+      }
+    ],
+    "teach": "accomplish就像通关游戏🎮：每完成(complete)一个任务就点亮一颗星⭐！古人说'功德圆满'就是accomplishment的终极形态🙏。要说'搞定'可以用nailed it，'大功告成'说mission accomplished就像航天控制中心欢呼🚀。记住：你的每个小目标都是人生进度条的一次加载！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿婆拎柿'→阿婆拎着柿子完成采购",
+        "易混词：complete侧重过程结束，accomplish强调目标达成",
+        "记忆锚点：联想电脑进度条100%的'叮'声"
+      ]
+    }
+  },
+  {
+    "word": "accomplished",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "com",
+        "plish",
+        "ed"
+      ],
+      "meaning_connection": "前缀ac-表强调，com-表'完全'，plish同ple指'填充'，-ed表完成态→彻底完成的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "完成的",
+        "examples": [
+          {
+            "sentence": "The accomplished skyscraper now dominates Shanghai's skyline.",
+            "sentence_zh": "已完成的摩天大楼成为上海天际线新地标。"
+          },
+          {
+            "sentence": "With the accomplished mission, astronauts waved from their capsule.",
+            "sentence_zh": "任务完成后，宇航员在返回舱内挥手致意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "实现的",
+        "examples": [
+          {
+            "sentence": "Her accomplished dream was to open a panda-themed cafe.",
+            "sentence_zh": "她实现了开熊猫主题咖啡馆的梦想。"
+          },
+          {
+            "sentence": "The accomplished plan brought hotpot to Mars astronauts.",
+            "sentence_zh": "这个实现的计划让火星宇航员吃上了火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有造诣的",
+        "examples": [
+          {
+            "sentence": "The accomplished pianist could play Jay Chou's songs blindfolded.",
+            "sentence_zh": "这位造诣深厚的钢琴家能蒙眼弹奏周杰伦的曲子。"
+          },
+          {
+            "sentence": "As an accomplished calligrapher, he wrote Spring Festival couplets with his toes.",
+            "sentence_zh": "作为书法大家，他甚至能用脚写春联。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "熟练的",
+        "examples": [
+          {
+            "sentence": "The accomplished chef could make 100 dumplings in 3 minutes.",
+            "sentence_zh": "这位熟练的厨师能在3分钟内包100个饺子。"
+          },
+          {
+            "sentence": "Her accomplished driving skills saved the car from falling off the cliff.",
+            "sentence_zh": "她精湛的车技让车辆免于坠崖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "善社交的",
+        "examples": [
+          {
+            "sentence": "The accomplished host had everyone laughing with Peking opera memes.",
+            "sentence_zh": "这位八面玲珑的主人用京剧梗逗得全场大笑。"
+          },
+          {
+            "sentence": "His accomplished manners impressed the investors during the hotpot negotiation.",
+            "sentence_zh": "他在火锅宴谈生意时展现的圆融举止令投资人印象深刻。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accomplished fact",
+        "meaning": "既成事实",
+        "examples": [
+          {
+            "sentence": "The viral TikTok dance became an accomplished fact before the censors noticed.",
+            "sentence_zh": "这段魔性舞蹈在审查员发现前已成为既成事实。"
+          }
+        ]
+      }
+    ],
+    "teach": "accomplished就像满汉全席🍲：'完成'是最后那道佛跳墙，'造诣'是雕冬瓜的手艺🔪，'社交力'是能让广东人和四川人同桌吃鸳鸯锅🤝。形容大牛不要说'good'，要说'He's an accomplished...'（比如accomplished toilet paper folder形容折厕纸都折出花的大神🧻），搭配'accomplished liar'（说谎面不改色）比'good liar'杀伤力强十倍💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊！康破历史'→完成大业",
+        "易混对比：completed（单纯完成） vs accomplished（含成就感的完成）",
+        "记忆锚点：把单词拆成AC+COM+PLISH→AC米兰球队(AC)完全(com)实现了(plish)夺冠"
+      ]
+    }
+  },
+  {
+    "word": "accomplishment",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "com",
+        "pli",
+        "sh",
+        "ment"
+      ],
+      "meaning_connection": "前缀ac-加强语气，com-表'完全'，词根pli源自拉丁语'plere'表'填满'，-ment表名词→完全填满的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "成就",
+        "examples": [
+          {
+            "sentence": "Landing on Mars was considered the greatest scientific accomplishment of the century.",
+            "sentence_zh": "登陆火星被视为本世纪最伟大的科学成就。"
+          },
+          {
+            "sentence": "Her viral dance video on Douyin became an unexpected accomplishment.",
+            "sentence_zh": "她在抖音上爆红的舞蹈视频成了意外成就。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "完成",
+        "examples": [
+          {
+            "sentence": "The accomplishment of this skyscraper took only 19 days with modular construction.",
+            "sentence_zh": "采用模块化建造，这座摩天大楼仅用19天便告完成。"
+          },
+          {
+            "sentence": "After the accomplishment of the project, the team celebrated with hotpot.",
+            "sentence_zh": "项目完成后，团队用火锅庆祝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sense of accomplishment",
+        "meaning": "成就感",
+        "examples": [
+          {
+            "sentence": "Finishing a 1000-piece Lego set gives kids tremendous sense of accomplishment.",
+            "sentence_zh": "拼完1000块的乐高能给孩子巨大成就感。"
+          }
+        ]
+      }
+    ],
+    "teach": "accomplishment是'啊！看破历史'🏆：词根pli藏着'填满'的秘密（就像奶茶杯加满珍珠🧋）。说'小成就'用small wins（像集齐奶茶杯盖的小确幸），'重大突破'叫milestone（如高铁速度突破🚄）。记住：每个accomplishment都是人生进度条的百分比📊！搭配'骄人成就'说remarkable accomplishment，'低调完成'用quiet accomplishment。",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿婆啃葡萄'→阿婆啃葡萄(ac-com-pli)时完成刺绣",
+        "对比记忆：achievement侧重结果，accomplishment强调过程完成"
+      ]
+    }
+  },
+  {
+    "word": "accord",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cord"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cord=心→'同心'引申出和谐、一致的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "一致",
+        "examples": [
+          {
+            "sentence": "The couple reached an accord on naming their cat 'Dumpling'.",
+            "sentence_zh": "这对夫妻就猫咪取名'饺子'达成一致。"
+          },
+          {
+            "sentence": "His actions are in perfect accord with Confucian values.",
+            "sentence_zh": "他的行为完全符合儒家价值观。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "协定",
+        "examples": [
+          {
+            "sentence": "The Paris Climate Accord was signed by 195 countries.",
+            "sentence_zh": "195个国家签署了《巴黎气候协定》。"
+          },
+          {
+            "sentence": "The labor accord guarantees free hot pot for overtime workers.",
+            "sentence_zh": "该劳动协定保障加班员工免费享用火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给予",
+        "examples": [
+          {
+            "sentence": "The emperor accorded the hero three golden ingots.",
+            "sentence_zh": "皇帝赐予英雄三块金元宝。"
+          },
+          {
+            "sentence": "We accorded the VIP customer a 24-hour butler service.",
+            "sentence_zh": "我们为VIP客户提供24小时管家服务。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "符合",
+        "examples": [
+          {
+            "sentence": "His colorful outfit doesn't accord with the funeral atmosphere.",
+            "sentence_zh": "他花哨的着装与葬礼氛围不相符。"
+          },
+          {
+            "sentence": "The spicy flavor accords perfectly with Sichuanese tastes.",
+            "sentence_zh": "麻辣口味与四川人的喜好完美契合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "of one's own accord",
+        "meaning": "自愿地",
+        "examples": [
+          {
+            "sentence": "She quit her job of her own accord to sell stinky tofu.",
+            "sentence_zh": "她自愿辞职去卖臭豆腐。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accord with",
+        "meaning": "与...一致",
+        "examples": [
+          {
+            "sentence": "The survey results accord with our WeChat data analysis.",
+            "sentence_zh": "调查结果与我们的微信数据分析一致。"
+          }
+        ]
+      }
+    ],
+    "teach": "accord是'同心结'💞：古罗马人认为心意相通(cord=心)才能达成协议🤝。'达成一致'说reach an accord就像火锅局定鸳鸯锅🍲，'主动做某事'用of one's own accord就像自愿加班吃宵夜🍢。记住：国际accord像联名款球鞋👟，个人accord像情侣装👫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅考的'→鹅厂(腾讯)考核的accord标准",
+        "易混词：concord也表示和谐，但多指人际关系"
+      ]
+    }
   }
 ]
