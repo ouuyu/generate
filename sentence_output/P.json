@@ -11945,5 +11945,330 @@
         "记忆tip：把digm记成'diagram'(图表)→范式就是系统图表"
       ]
     }
+  },
+  {
+    "word": "paradigmatic",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "digm",
+        "atic"
+      ],
+      "meaning_connection": "前缀para-=旁侧（如parallel平行），词根digm=展示/模式（同digit数字的排列模式），-atic为形容词后缀→原指'作为示范展示的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "模范的",
+        "examples": [
+          {
+            "sentence": "The Confucius Temple is a paradigmatic example of traditional Chinese architecture.",
+            "sentence_zh": "孔庙是中国传统建筑的典范之作。"
+          },
+          {
+            "sentence": "Her paradigmatic leadership style is studied in MBA courses.",
+            "sentence_zh": "她模范式的领导风格被列入MBA课程研究。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "例证的",
+        "examples": [
+          {
+            "sentence": "The panda's dietary habits serve as a paradigmatic case of bamboo adaptation.",
+            "sentence_zh": "熊猫的饮食习惯是适应竹子的典型例证。"
+          },
+          {
+            "sentence": "This legal precedent became paradigmatic for similar cases nationwide.",
+            "sentence_zh": "该法律判例成为全国同类案件的例证标杆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "纵聚合的",
+        "examples": [
+          {
+            "sentence": "In linguistics, 'cat' and 'dog' form a paradigmatic relationship as nouns.",
+            "sentence_zh": "语言学中'猫'和'狗'构成名词的纵聚合关系。"
+          },
+          {
+            "sentence": "The paradigmatic axis helps analyze word substitution possibilities.",
+            "sentence_zh": "纵聚合轴有助于分析词语替换可能性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "词形变化的",
+        "examples": [
+          {
+            "sentence": "Old English had complex paradigmatic inflections for gender.",
+            "sentence_zh": "古英语存在复杂的性别词形变化体系。"
+          },
+          {
+            "sentence": "Latin verbs' paradigmatic tables fill entire textbook pages.",
+            "sentence_zh": "拉丁语动词的词形变化表能占满整页教材。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paradigmatic shift",
+        "meaning": "范式转变",
+        "examples": [
+          {
+            "sentence": "Smartphones caused a paradigmatic shift in photography.",
+            "sentence_zh": "智能手机引发了摄影技术的范式转变。"
+          }
+        ]
+      }
+    ],
+    "teach": "paradigmatic就像语法界的乐高大师🧩！当它表示'模范'时，堪比孔子学院的金牌教师🏅（paradigmatic teacher）；'例证'时像大熊猫充当外交官🐼（paradigmatic case）；'纵聚合'时变身词语连连看玩家🔠（paradigmatic relations）；'词形变化'时又成了拉丁语动词的变形金刚🤖。记住：遇到复杂概念就说'This is paradigmatic!' 瞬间提升专业度💼",
+    "recite": {
+      "tips": [
+        "视觉记忆：把-digm-想象成digital（数字的）+ paradigm（范式）的组合",
+        "易混词对比：paradigm（范式名词） vs paradigmatic（形容词）"
+      ]
+    }
+  },
+  {
+    "word": "paradise",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "dise"
+      ],
+      "meaning_connection": "源自波斯语'pairidaeza'（围墙花园），希腊语演变为'paradeisos'→指封闭的理想乐土"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "天堂",
+        "examples": [
+          {
+            "sentence": "The old fisherman believed his loyal dog would wait for him in paradise.",
+            "sentence_zh": "老渔夫相信他的忠犬会在天堂等他。"
+          },
+          {
+            "sentence": "Buddhist temples often depict paradise with golden lotuses.",
+            "sentence_zh": "佛寺常用金色莲花描绘极乐世界。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "乐园",
+        "examples": [
+          {
+            "sentence": "Sanya is considered a tropical paradise for northerners in winter.",
+            "sentence_zh": "对北方人来说三亚是冬季的热带乐园。"
+          },
+          {
+            "sentence": "The newly opened water park became children's screaming paradise.",
+            "sentence_zh": "新开的水上乐园成了孩子们的尖叫乐园。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "伊甸园",
+        "examples": [
+          {
+            "sentence": "The painting shows Adam and Eve being driven out of paradise.",
+            "sentence_zh": "这幅画描绘亚当夏娃被逐出伊甸园的场景。"
+          },
+          {
+            "sentence": "Some scientists believe the real Garden of Eden was in Mesopotamia.",
+            "sentence_zh": "有科学家认为真正的伊甸园位于美索不达米亚。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paradise on earth",
+        "meaning": "人间仙境",
+        "examples": [
+          {
+            "sentence": "Jiuzhaigou Valley is often called paradise on earth.",
+            "sentence_zh": "九寨沟常被称为人间仙境。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fool's paradise",
+        "meaning": "虚幻乐境",
+        "examples": [
+          {
+            "sentence": "Living on borrowed money is just a fool's paradise.",
+            "sentence_zh": "靠借钱生活不过是虚幻的乐境。"
+          }
+        ]
+      }
+    ],
+    "teach": "paradise其实是'怕热待死'❄️：源自波斯贵族避暑的围墙花园(pairidaeza)🌳。'996社畜'说office is my paradise是黑色幽默😈，地道表达'人间天堂'用Eden on earth🍎。搭配'购物天堂'叫shopper's paradise💸，'吃货天堂'是foodie paradise🍲。记住：你的paradise可能只是别人的ordinary day！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派乐迪斯'→迪士尼(Disney)是孩子的paradise",
+        "易混词对比：paradise vs. heaven（前者可指人间乐土，后者专指天国）"
+      ]
+    }
+  },
+  {
+    "word": "paradox",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "dox"
+      ],
+      "meaning_connection": "前缀para=超越/矛盾（如paranormal），词根dox=观点（如orthodox）→'超越常规的观点'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "似非而是的论点",
+        "examples": [
+          {
+            "sentence": "'Less is more' is a classic paradox in design theory.",
+            "sentence_zh": "'少即是多'是设计理论中的经典悖论。"
+          },
+          {
+            "sentence": "The paradox that standing is more tiring than walking confused the intern.",
+            "sentence_zh": "站着比走路更累这个反论让实习生很困惑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "自相矛盾的话",
+        "examples": [
+          {
+            "sentence": "His claim of being a 'liar who always tells the truth' was a clever paradox.",
+            "sentence_zh": "他自称'永远说真话的骗子'是个巧妙的自相矛盾。"
+          },
+          {
+            "sentence": "The fortune cookie read: 'This statement is false' — a perfect paradox.",
+            "sentence_zh": "幸运饼干上写着'本声明是假的'——完美的矛盾句。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "悖论",
+        "examples": [
+          {
+            "sentence": "The grandfather paradox in time travel asks: what if you kill your own ancestor?",
+            "sentence_zh": "祖父悖论提出：如果你穿越回去杀死祖父会怎样？"
+          },
+          {
+            "sentence": "Chinese 'white horse is not horse' debate is one of the earliest logical paradoxes.",
+            "sentence_zh": "中国的'白马非马'辩论是最早的逻辑悖论之一。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "怪人怪事",
+        "examples": [
+          {
+            "sentence": "The billionaire who wears second-hand clothes is a living paradox.",
+            "sentence_zh": "穿二手衣服的亿万富翁本身就是个矛盾体。"
+          },
+          {
+            "sentence": "It's a paradox that the healthiest cafeteria is in a tobacco company.",
+            "sentence_zh": "烟草公司里有最健康的食堂，真是件怪事。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paradox of choice",
+        "meaning": "选择悖论",
+        "examples": [
+          {
+            "sentence": "The paradox of choice explains why we feel anxious when facing 50 milk tea flavors.",
+            "sentence_zh": "选择悖论解释了为何面对50种奶茶口味我们会焦虑。"
+          }
+        ]
+      }
+    ],
+    "teach": "paradox就像薛定谔的猫🐱又死又活！庄子说'子非鱼'是哲学悖论🤔，现代版是'我在说谎'这句话。记住'减肥越减越肥'叫diet paradox🍔，'熬夜看养生视频'叫health paradox📱。形容矛盾现象可以说'It's a Catch-22'（第22条军规式困境）💼",
+    "recite": {
+      "tips": [
+        "谐音梗：'派来的克斯'→派来的特工(para-dox)总说矛盾的话",
+        "对比：paradox（真矛盾）vs. irony（表面矛盾）",
+        "记忆法：para（旁边）+ dox（观点）→ 在主流观点旁唱反调"
+      ]
+    }
+  },
+  {
+    "word": "paradoxical",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "dox",
+        "ical"
+      ],
+      "meaning_connection": "前缀para-=超出，词根dox=观点，-ical为形容词后缀→超出常规观点的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "似非而是的",
+        "examples": [
+          {
+            "sentence": "It's paradoxical that the quietest student won the debate championship.",
+            "sentence_zh": "最安静的学生赢得辩论冠军，真是似非而是。"
+          },
+          {
+            "sentence": "The paradoxical effect of the diet made her crave more desserts.",
+            "sentence_zh": "这个节食法产生了似非而是的效果，让她更想吃甜点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "矛盾的",
+        "examples": [
+          {
+            "sentence": "His paradoxical statement about hating cats but owning three confused everyone.",
+            "sentence_zh": "他关于讨厌猫却养了三只的矛盾说法让所有人困惑。"
+          },
+          {
+            "sentence": "The politician's paradoxical promises caused public distrust.",
+            "sentence_zh": "政客自相矛盾的承诺引发了公众不信任。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "诡论的",
+        "examples": [
+          {
+            "sentence": "The paradoxical riddle stumped even the philosophy professor.",
+            "sentence_zh": "这个诡论谜题连哲学教授都难住了。"
+          },
+          {
+            "sentence": "Zeno's paradoxical arrow theory still puzzles students today.",
+            "sentence_zh": "芝诺的诡论箭矢理论至今仍让学生困惑。"
+          }
+        ]
+      }
+    ],
+    "teach": "paradoxical就像量子猫🐱⚛️：既死又活！它源自希腊'超出观点'的思维游戏，比如'这句话是假的'这样的语义悖论🌀。搭配'paradoxical effect'(反效果)、'paradoxical sleep'(快速眼动期💤)。地道说法叫'catch-22 situation'(进退两难)，就像想吃火锅又怕胖时的纠结🤯！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕热多吸抠'→怕热却多吸热气的矛盾行为",
+        "易混词对比：ironic(讽刺的) VS paradoxical(矛盾的)"
+      ]
+    }
   }
 ]

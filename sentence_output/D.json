@@ -11561,5 +11561,315 @@
         "易混词：decadence侧重文化衰落，debauchery强调行为放荡"
       ]
     }
+  },
+  {
+    "word": "debenture",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "bent",
+        "ure"
+      ],
+      "meaning_connection": "前缀de-表'向下'，词根bent来自拉丁语bendere'弯曲'，-ure表状态→原指书面承诺（需签字画押的弯曲状），后专指债券"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "公司债券",
+        "examples": [
+          {
+            "sentence": "Tesla issued debentures to fund its Shanghai Gigafactory.",
+            "sentence_zh": "特斯拉发行公司债券为上海超级工厂融资。"
+          },
+          {
+            "sentence": "Debenture holders earn interest like landlords collecting rent.",
+            "sentence_zh": "公司债券持有人获取利息，如同房东收租。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "退税凭单",
+        "examples": [
+          {
+            "sentence": "Tourists can claim VAT refund with airport debentures.",
+            "sentence_zh": "游客凭机场退税凭单可申报增值税退税。"
+          },
+          {
+            "sentence": "The pink debenture looks like a lottery ticket but for tax money.",
+            "sentence_zh": "粉色退税凭单看着像彩票，中的却是税款。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "debenture stock",
+        "meaning": "债券股",
+        "examples": [
+          {
+            "sentence": "British rail companies famously use debenture stock.",
+            "sentence_zh": "英国铁路公司以发行债券股著称。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "convertible debenture",
+        "meaning": "可转换债券",
+        "examples": [
+          {
+            "sentence": "Tech startups love convertible debentures - like turning IOUs into gold.",
+            "sentence_zh": "科技初创钟爱可转换债券，如同欠条变黄金。"
+          }
+        ]
+      }
+    ],
+    "teach": "debenture本质是'高级欠条'💸：中世纪商人按手印(de-bend)借钱，演变成今日债券📜。视觉记忆：把债券想象成'会下金蛋的纸'🥚📄，退税单则是'政府红包'🧧。搭配说'issue debentures'(发债)/'debenture holder'(债主)，吐槽收益低可说earning peanut interest🥜。金融精英必备词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'抵板凳'→用债券抵板凳债（闽南语梗）",
+        "易混词：bond(担保债券) vs debenture(无担保债券)",
+        "记忆法：debt+enture=债务冒险"
+      ]
+    }
+  },
+  {
+    "word": "debilitate",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "bil",
+        "it",
+        "ate"
+      ],
+      "meaning_connection": "前缀de-表'去除'，词根bil=力量(同ability)，-it为连接成分，-ate表动词→'使失去力量'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使衰弱",
+        "examples": [
+          {
+            "sentence": "The tropical disease debilitated his body within 72 hours.",
+            "sentence_zh": "这种热带病在72小时内就使他身体衰弱。"
+          },
+          {
+            "sentence": "Continuous all-nighters debilitate your brain like a phone at 1% battery.",
+            "sentence_zh": "持续熬夜会让大脑衰弱得像只剩1%电量的手机。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "debilitating disease",
+        "meaning": "使人衰弱的疾病",
+        "examples": [
+          {
+            "sentence": "Parkinson's is a debilitating disease that affects motor functions.",
+            "sentence_zh": "帕金森是影响运动功能的致衰性疾病。"
+          }
+        ]
+      }
+    ],
+    "teach": "debilitate=把你(de)的'逼力'(bil)吃掉(ate)💪➡️🦠！像被吸血鬼吸干能量🧛♂️，或像打王者荣耀连跪20场后的精神状态🎮。搭配：debilitating heat（令人虚脱的高温）💦、debilitating fear（令人瘫软的恐惧）。地道表达说'累成狗'是I'm totally debilitated🐶💤",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟逼力忒痛'→弟弟逼你用力结果忒痛导致衰弱",
+        "易混词：delicate（脆弱的）vs. debilitate（使衰弱）",
+        "联想：DE前缀+BIL力量=拆卸你的力量装甲"
+      ]
+    }
+  },
+  {
+    "word": "debilitated",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "bil",
+        "it",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "前缀de-表示'向下/去除'，词根bil=力量，-ate动词后缀，-ed表过去分词→力量被抽走的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "疲惫不堪的",
+        "examples": [
+          {
+            "sentence": "The marathon runner collapsed in a debilitated heap at the finish line.",
+            "sentence_zh": "马拉松选手在终点线精疲力竭地瘫倒在地。"
+          },
+          {
+            "sentence": "After three consecutive night shifts, his debilitated face resembled a panda's.",
+            "sentence_zh": "连续三天夜班后，他疲惫的脸活像熊猫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "操劳过度的",
+        "examples": [
+          {
+            "sentence": "The debilitated programmer survived on energy drinks and instant noodles.",
+            "sentence_zh": "那个操劳过度的程序员靠功能饮料和泡面续命。"
+          },
+          {
+            "sentence": "Her debilitated hands trembled after knitting 10 sweaters in a week.",
+            "sentence_zh": "一周织完10件毛衣后，她过度劳累的手不停颤抖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "使非常虚弱（debilitate的过去式）",
+        "examples": [
+          {
+            "sentence": "The tropical disease debilitated his immune system for months.",
+            "sentence_zh": "热带疾病使他的免疫系统虚弱了数月之久。"
+          },
+          {
+            "sentence": "Being bedridden for weeks debilitated his muscles dramatically.",
+            "sentence_zh": "卧床数周让他的肌肉严重萎缩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "使非常虚弱（debilitate的过去分词）",
+        "examples": [
+          {
+            "sentence": "The boxer was so debilitated that he couldn't lift his gloves.",
+            "sentence_zh": "拳击手虚弱到连拳套都举不起来。"
+          },
+          {
+            "sentence": "Debilitated by chemotherapy, she still managed to finish her novel.",
+            "sentence_zh": "虽然化疗让她极度虚弱，她仍坚持完成了小说。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "physically debilitated",
+        "meaning": "身体虚弱的",
+        "examples": [
+          {
+            "sentence": "The physically debilitated elderly need stairlift installations.",
+            "sentence_zh": "身体虚弱的老人需要安装爬楼机。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "mentally debilitated",
+        "meaning": "精神萎靡的",
+        "examples": [
+          {
+            "sentence": "After the stock market crash, many investors were mentally debilitated.",
+            "sentence_zh": "股市暴跌后，许多投资者精神萎靡不振。"
+          }
+        ]
+      }
+    ],
+    "teach": "debilitated像被抽干电池的奥特曼💡！词根bil=力量（像大力水手的菠菜💪），前缀de-表示'掏空'→就像熬夜后身体被掏空的打工人🥱。形容'累成狗'说dog-tired，'精疲力尽'叫running on fumes。记住：当你debilitated时，连手机电量焦虑都会加重📉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'地板理的'→躺在地板上理的(debi)气力都没了",
+        "易混词：delicate（精致的）vs. debilitated（虚弱的）"
+      ]
+    }
+  },
+  {
+    "word": "debilitating",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "bil",
+        "it",
+        "ate",
+        "ing"
+      ],
+      "meaning_connection": "前缀de-表示'去除'，词根bil=力量，-ate动词后缀，-ing现在分词→'抽走力量'的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "使人极度虚弱",
+        "examples": [
+          {
+            "sentence": "The patient suffered from a debilitating disease that left her bedridden for months.",
+            "sentence_zh": "患者罹患使人极度虚弱的疾病，导致卧床数月。"
+          },
+          {
+            "sentence": "Heatwaves can have debilitating effects on outdoor workers.",
+            "sentence_zh": "热浪可能对户外工作者造成使人极度虚弱的影响。"
+          }
+        ]
+      }
+    ],
+    "teach": "debilitating就像手机只剩1%电量📱⚡：词根bil=力量(拉丁语bilis)，前缀de-像抽走充电线🔌。说'精疲力尽'可以讲I'm running on fumes（靠油箱余气开车），'病恹恹'叫under the weather⛈️。记住：被debilitate的人就像被拔了插头的电器！",
+    "recite": {
+      "tips": [
+        "谐音梗：'底比利挺'→底部的比利挺不住(虚弱倒下)",
+        "易混词对比：delicate（脆弱的） vs debilitating（使人虚弱的）",
+        "联想记忆：DE前缀+BIL(力量)=削弱力量"
+      ]
+    }
+  },
+  {
+    "word": "debility",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "bil",
+        "ity"
+      ],
+      "meaning_connection": "前缀de-表'去除'，词根bil源自拉丁语'力量'，后缀-ity表状态→力量被剥夺的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "衰弱",
+        "examples": [
+          {
+            "sentence": "The Great Wall crumbled into debility after centuries of erosion.",
+            "sentence_zh": "长城在数世纪风化侵蚀后逐渐衰败。"
+          },
+          {
+            "sentence": "Post-pandemic debility made him pant after climbing two flights of stairs.",
+            "sentence_zh": "疫情后的虚弱让他爬两层楼梯就气喘。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "体弱",
+        "examples": [
+          {
+            "sentence": "Pandas' digestive debility forces them to eat 40kg bamboo daily.",
+            "sentence_zh": "熊猫消化系统的脆弱迫使它们每天进食40公斤竹子。"
+          },
+          {
+            "sentence": "The debility of newborn deer is like a wobbling cotton candy.",
+            "sentence_zh": "新生小鹿的孱弱如同摇晃的棉花糖。"
+          }
+        ]
+      }
+    ],
+    "teach": "debility是'掉电模式'🔋：词根bil=电池(battery)电量，前缀de-=掉电📉。形容体弱可以说like a noodle（软得像面条），养生达人叫convalescent（康复者）。记住：熬夜刷剧后的你=human debility prototype🧟♂️！搭配：recover from debility（从虚弱中恢复）/mental debility（精神萎靡）",
+    "recite": {
+      "tips": [
+        "谐音梗：'底壁裂体'→地基墙壁裂开导致建筑衰弱",
+        "易混词：vs.ability（能力）正好相反",
+        "记忆法：de+bility→'的'+'bility'→'的能力'被削弱"
+      ]
+    }
   }
 ]

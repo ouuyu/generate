@@ -11852,5 +11852,303 @@
         "记忆tip：把-cess-想成'塞子'，拔掉塞子就能accessible"
       ]
     }
+  },
+  {
+    "word": "accession",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cess",
+        "ion"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cess表示'行走'，-ion是名词后缀→原指'走近'的动作，引申出多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "到达（重要地位）",
+        "examples": [
+          {
+            "sentence": "The museum celebrated the accession of the Ming Dynasty vase with champagne.",
+            "sentence_zh": "博物馆用香槟庆祝明代花瓶的正式入藏。"
+          },
+          {
+            "sentence": "His accession to the presidency was marked by fireworks over the Potomac River.",
+            "sentence_zh": "就任总统时，波托马克河上空燃放了烟花。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "即位",
+        "examples": [
+          {
+            "sentence": "Queen Elizabeth II's accession took place in 1952 after her father's death.",
+            "sentence_zh": "伊丽莎白二世于1952年父亲逝世后即位。"
+          },
+          {
+            "sentence": "The accession ceremony of the new emperor will be broadcast live on Douyin.",
+            "sentence_zh": "新帝王的加冕仪式将在抖音直播。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "增加",
+        "examples": [
+          {
+            "sentence": "The recent accession of 30,000 e-books has overwhelmed the library's server.",
+            "sentence_zh": "新增的3万本电子书压垮了图书馆服务器。"
+          },
+          {
+            "sentence": "China's accession to the WTO brought significant economic growth.",
+            "sentence_zh": "中国加入世贸组织带来显著经济增长。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "同意",
+        "examples": [
+          {
+            "sentence": "The boss gave his accession to our proposal after seeing the meme-filled PPT.",
+            "sentence_zh": "老板看到充满表情包的PPT后同意了我们的提案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发作（疾病）",
+        "examples": [
+          {
+            "sentence": "The sudden accession of fever forced him to cancel the hotpot party.",
+            "sentence_zh": "突然发烧迫使他取消了火锅聚会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "vt.",
+        "form": "accession",
+        "meaning": "登记入册",
+        "examples": [
+          {
+            "sentence": "The librarian accessioned the new books with QR code stickers.",
+            "sentence_zh": "图书管理员用二维码贴纸登记新书入库。"
+          },
+          {
+            "sentence": "This Terracotta Warrior was accessioned into the museum's collection in 2020.",
+            "sentence_zh": "这尊兵马俑于2020年登记入藏该博物馆。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accession number",
+        "meaning": "入藏编号",
+        "examples": [
+          {
+            "sentence": "The accession number of this dinosaur fossil is like its ID card in the museum.",
+            "sentence_zh": "这块恐龙化石的入藏编号就像它在博物馆的身份证。"
+          }
+        ]
+      }
+    ],
+    "teach": "accession是职场升级打怪全记录📈！从'到达'新岗位（accession to power）到'登记'固定资产（accession the equipment），就像游戏存档点💾。英国人说'王位继承'用accession，就像《权力的游戏》铁王座🗡️；'同意'某方案时相当于微信点'👍'（give accession）。记住：accession的每个意思都在描述'重要进展'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞神'→把文物爱惜地塞进神(accession)圣的博物馆",
+        "易混词对比：accession vs. concession（前者是'获得'，后者是'让步'）",
+        "记忆口诀：A+CCESS+ION→A级成功(ccess)行动(ion)"
+      ]
+    }
+  },
+  {
+    "word": "accessory",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cess",
+        "ory"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'，词根cess表'行走'（如process），-ory表'相关'→原指'伴随主物移动的物品'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "附件（如手机配件）",
+        "examples": [
+          {
+            "sentence": "Her AirPods case has a cute panda accessory dangling from it.",
+            "sentence_zh": "她的AirPods充电盒上挂着一个熊猫造型的可爱配件。"
+          },
+          {
+            "sentence": "The gaming chair comes with lumbar support accessories.",
+            "sentence_zh": "这款电竞椅配有腰部支撑附件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "从犯（法律术语）",
+        "examples": [
+          {
+            "sentence": "The driver was charged as an accessory to the robbery.",
+            "sentence_zh": "司机被指控为抢劫案从犯。"
+          },
+          {
+            "sentence": "Hiding stolen goods makes you an accessory after the fact.",
+            "sentence_zh": "藏匿赃物会使你成为事后从犯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "附属的（非主要）",
+        "examples": [
+          {
+            "sentence": "The accessory buildings include a tea house and a bike shed.",
+            "sentence_zh": "附属建筑包括一个茶室和自行车棚。"
+          },
+          {
+            "sentence": "Accessory minerals in this rock give it a sparkly effect.",
+            "sentence_zh": "岩石中的附属矿物使其产生闪光效果。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fashion accessories",
+        "meaning": "时尚配饰",
+        "examples": [
+          {
+            "sentence": "Her collection of fashion accessories could fill a museum.",
+            "sentence_zh": "她的时尚配饰收藏多到可以填满博物馆。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accessory before the fact",
+        "meaning": "事前从犯",
+        "examples": [
+          {
+            "sentence": "Providing the burglary tools made him an accessory before the fact.",
+            "sentence_zh": "提供入室盗窃工具使他成为事前从犯。"
+          }
+        ]
+      }
+    ],
+    "teach": "accessory就像火锅的配菜🍲：当名词是'毛肚黄喉'（美味配件），当形容词就是'鸳鸯锅的清汤那边'（次要部分）🧐。法律意义下秒变'帮凶'，就像给盗贼把风的同伙👥。记住：买手机壳说'I need iPhone accessories'，指控同伙用'accessory to murder'⚖️。三连记忆法：配件→帮凶→附属的！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞手雷'→从犯爱塞手雷给主犯",
+        "易混词：assistant（助手）是合法帮手，accessory（从犯）是非法共谋"
+      ]
+    }
+  },
+  {
+    "word": "accident",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cid",
+        "ent"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cid表示'落下'（同incident的cid），-ent表名词→原指'突然降临的事件'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "意外事件",
+        "examples": [
+          {
+            "sentence": "Finding a 100-yuan bill was a happy accident during my jog.",
+            "sentence_zh": "跑步时捡到百元大钞是个愉快的意外。"
+          },
+          {
+            "sentence": "The invention of microwave oven was a kitchen accident.",
+            "sentence_zh": "微波炉的发明源自厨房里的意外事件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "机遇",
+        "examples": [
+          {
+            "sentence": "Some great business ideas come by pure accident.",
+            "sentence_zh": "某些绝妙的商业点子纯属机缘巧合。"
+          },
+          {
+            "sentence": "Their love story began with a train delay accident.",
+            "sentence_zh": "他们的爱情始于一次列车晚点的机缘。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "事故",
+        "examples": [
+          {
+            "sentence": "The electric bike accident taught me to always wear a helmet.",
+            "sentence_zh": "那次电动车事故让我学会永远戴头盔。"
+          },
+          {
+            "sentence": "Nuclear power plants must prevent radiation accidents.",
+            "sentence_zh": "核电站必须防范辐射事故。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "次要方面",
+        "examples": [
+          {
+            "sentence": "The color is just an accident of this antique vase.",
+            "sentence_zh": "颜色只是这个古董花瓶的次要特征。"
+          },
+          {
+            "sentence": "Grammar should be substance, not accident in language learning.",
+            "sentence_zh": "语法应是语言学习的本质而非次要方面。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "by accident",
+        "meaning": "偶然地",
+        "examples": [
+          {
+            "sentence": "I discovered the hidden gem restaurant by accident.",
+            "sentence_zh": "我偶然发现了这家宝藏餐厅。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accident waiting to happen",
+        "meaning": "隐患",
+        "examples": [
+          {
+            "sentence": "That overloaded elevator is an accident waiting to happen.",
+            "sentence_zh": "那部超载的电梯就是个定时炸弹。"
+          }
+        ]
+      }
+    ],
+    "teach": "accident本质是'天上掉馅饼'或'祸从天降'☄️！亚里士多德说它是'非本质属性'（比如手机颜色是accident，能刷抖音才是本质）。说'纯属意外'用happy accident就像抽中奶茶免单🎁，'隐患'叫accident waiting to happen就像没系安全带的过山车🎢。记住：by accident≈踩狗屎运🐶💩！",
+    "recite": {
+      "tips": [
+        "谐音梗：'挨磕心的'→事故让人心里挨磕",
+        "易混词对比：incident（小事件）vs accident（意外事件）",
+        "记忆tip：cid词根家族三兄弟：accident（意外），incident（事件），coincidence（巧合）"
+      ]
+    }
   }
 ]

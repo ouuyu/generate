@@ -11323,5 +11323,292 @@
         "联想：Can + nibble（小口咬）+ alistic = 能小口咬人的"
       ]
     }
+  },
+  {
+    "word": "cannibal",
+    "etymology": {
+      "breakdown": [
+        "can(n)",
+        "ibal"
+      ],
+      "meaning_connection": "源自加勒比语'caniba'（哥伦布记录的食人族称呼），-ibal可能为后缀变形"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "食人者",
+        "examples": [
+          {
+            "sentence": "The legendary Hansel and Gretel met a cannibal witch in the gingerbread house.",
+            "sentence_zh": "传说中的汉赛尔与格莱特在姜饼屋遇到了食人女巫。"
+          },
+          {
+            "sentence": "Some Pacific island tribes were historically mistaken for cannibals by explorers.",
+            "sentence_zh": "历史上某些太平洋岛部落曾被探险家误认为食人族。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "吃同类的动物",
+        "examples": [
+          {
+            "sentence": "Female mantises sometimes become cannibals by eating their mates after mating.",
+            "sentence_zh": "雌螳螂交配后偶尔会吃掉配偶成为同类相食者。"
+          },
+          {
+            "sentence": "Hamster mothers may turn into cannibals when under extreme stress.",
+            "sentence_zh": "仓鼠妈妈在极度压力下可能会同类相食。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "食同类的",
+        "examples": [
+          {
+            "sentence": "The cannibal fish in this aquarium require separate tanks.",
+            "sentence_zh": "这个水族馆里食同类的鱼需要分缸饲养。"
+          },
+          {
+            "sentence": "Scientists observed cannibal behavior among stressed locusts.",
+            "sentence_zh": "科学家观察到压力下的蝗虫出现同类相食行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "吃人肉的",
+        "examples": [
+          {
+            "sentence": "Cannibal rituals described in ancient texts may be exaggerated.",
+            "sentence_zh": "古籍中描述的食人仪式可能存在夸张。"
+          },
+          {
+            "sentence": "The cannibal tribe in the movie was actually vegetarian actors.",
+            "sentence_zh": "电影里的食人部落演员们现实中都是素食者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cannibal instinct",
+        "meaning": "同类相食本能",
+        "examples": [
+          {
+            "sentence": "The cannibal instinct emerges when food is extremely scarce.",
+            "sentence_zh": "当食物极度匮乏时会出现同类相食本能。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cannibal culture",
+        "meaning": "食人文化",
+        "examples": [
+          {
+            "sentence": "Anthropologists debate whether cannibal culture truly existed.",
+            "sentence_zh": "人类学家争论食人文化是否真实存在过。"
+          }
+        ]
+      }
+    ],
+    "teach": "cannibal其实是'卡尼巴尔'🍖：哥伦布把加勒比人(Carib)错听成食人族(Caniba)导致世纪误会🤭！现代用'社畜吃社畜'形容内卷叫corporate cannibalism🏢💼，'自食其力'幽默说法是self-cannibalization👅。记住：真正的cannibal在自然界比人类多得多🐟🐜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开你包'→食人族打开包裹看你",
+        "易混词对比：cannon（加农炮）vs cannibal（别把大炮和食人族搞混）",
+        "联想：CAN + NI + BAL → '能不能'吃掉你"
+      ]
+    }
+  },
+  {
+    "word": "cannibalize",
+    "etymology": {
+      "breakdown": [
+        "cannibal",
+        "ize"
+      ],
+      "meaning_connection": "源自加勒比语'Caniba'（食人族），-ize表动词化→从字面'吃同类'引申出资源拆借的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "同类相食",
+        "examples": [
+          {
+            "sentence": "Some spiders cannibalize their mates after mating.",
+            "sentence_zh": "某些蜘蛛会在交配后吃掉配偶。"
+          },
+          {
+            "sentence": "The documentary showed how stressed mice cannibalized their offspring.",
+            "sentence_zh": "纪录片展示了压力下的老鼠如何吞食幼崽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "拆用配件",
+        "examples": [
+          {
+            "sentence": "The repair shop cannibalized three broken iPhones to make one functional device.",
+            "sentence_zh": "维修店拆解了三台坏iPhone拼出一台能用的。"
+          },
+          {
+            "sentence": "During WWII, Germany cannibalized civilian factories for tank parts.",
+            "sentence_zh": "二战期间德国拆用民用工厂零件生产坦克。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "调拨人员",
+        "examples": [
+          {
+            "sentence": "The tech giant cannibalized its gaming division to boost AI research.",
+            "sentence_zh": "这家科技巨头从游戏部门调拨人员加强AI研发。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "拆用配件",
+        "examples": [
+          {
+            "sentence": "Old bicycles in the village often cannibalize for spare parts.",
+            "sentence_zh": "村里的旧自行车常被拆取零件使用。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cannibalize sales",
+        "meaning": "蚕食同类产品销量",
+        "examples": [
+          {
+            "sentence": "The new smartphone model may cannibalize sales of its predecessor.",
+            "sentence_zh": "新款智能手机可能会蚕食旧款的销量。"
+          }
+        ]
+      }
+    ],
+    "teach": "cannibalize是职场'狼性文化'🐺的完美代言词！从亚马逊部落吃人传统👹（字面义），到现代企业拆东墙补西墙🧱（比喻义）。说'拆零件'就像乐高毁灭者👾（cannibalize old toys），'调人手'堪比西游记妖怪抓和尚👨‍🦲（cannibalize staff）。记住：当老板说'资源整合'，可能正在cannibalize其他项目！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看你掰'→看你把零件掰下来用",
+        "易混词对比：cannibal（食人族） vs. cannabis（大麻）"
+      ]
+    }
+  },
+  {
+    "word": "cannily",
+    "etymology": {
+      "breakdown": [
+        "can",
+        "ily"
+      ],
+      "meaning_connection": "词根can=知道/能力（同canny），-ily副词后缀→源自苏格兰语'精明能干的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "精明地",
+        "examples": [
+          {
+            "sentence": "The street vendor cannily adjusted prices according to tourists' accents.",
+            "sentence_zh": "小贩根据游客口音精明地调整价格。"
+          },
+          {
+            "sentence": "She cannily invested in Bitcoin before it went mainstream.",
+            "sentence_zh": "她在比特币成为主流前精明地进行了投资。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "机灵地",
+        "examples": [
+          {
+            "sentence": "The panda cannily rolled away when the keeper tried to take back its bamboo.",
+            "sentence_zh": "当饲养员想收回竹子时，熊猫机灵地滚走了。"
+          },
+          {
+            "sentence": "He cannily pretended network lag to avoid answering the awkward question.",
+            "sentence_zh": "他机灵地假装网络延迟来回避尴尬问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "节约地",
+        "examples": [
+          {
+            "sentence": "My grandma cannily reuses delivery boxes as storage containers.",
+            "sentence_zh": "我奶奶节约地把快递盒改造成收纳箱。"
+          },
+          {
+            "sentence": "They cannily traveled during off-peak seasons to save 60% on costs.",
+            "sentence_zh": "他们节约地在淡季出行省下了60%费用。"
+          }
+        ]
+      }
+    ],
+    "teach": "cannily是苏格兰祖传抠门智慧🏴󠁧󠁢󠁳󠁣󠁴󠁿！就像用优惠券吃米其林（cannily save money），或是假装没看见老板微信（cannily avoid work）😜。搭配'spend cannily'（精明消费）和'laugh cannily'（心机一笑）。说'精打细算'可以叫'penny-wise'，就像松鼠囤坚果🐿️。记住：cannily=街头智慧+抠门美学+奥斯卡演技！",
+    "recite": {
+      "tips": [
+        "谐音梗：'砍你利'→砍价高手利落省钱",
+        "易混词：canny（adj.）vs cannily（adv.）"
+      ]
+    }
+  },
+  {
+    "word": "canning",
+    "etymology": {
+      "breakdown": [
+        "can",
+        "ing"
+      ],
+      "meaning_connection": "词根can=容器/罐头，-ing表行为过程→制造容器的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "罐头制造",
+        "examples": [
+          {
+            "sentence": "The canning of spicy crayfish transformed Hunan cuisine globally.",
+            "sentence_zh": "麻辣小龙虾的罐头制造让湘菜走向世界。"
+          },
+          {
+            "sentence": "Ancient canning techniques preserved military rations for Genghis Khan's cavalry.",
+            "sentence_zh": "古代罐头制造技术为成吉思汗骑兵保存军粮。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "home canning",
+        "meaning": "家庭自制罐头",
+        "examples": [
+          {
+            "sentence": "Her home canning of durian caused a neighborhood evacuation.",
+            "sentence_zh": "她家庭自制的榴莲罐头导致小区紧急疏散。"
+          }
+        ]
+      }
+    ],
+    "teach": "canning是'金属棺材'的浪漫说法⚰️→1810年拿破仑悬赏发明食物保存法才有了罐头，而现代'黑暗罐头'代表是鲱鱼罐头🧨。搭配：industrial canning（工业罐头）/ canning season（罐头生产季）；吐槽难吃罐头说'tastes like it survived the apocalypse'（像末日幸存食物）🥫🤢👑",
+    "recite": {
+      "tips": [
+        "谐音梗：'看宁'→看宁（canning）波海鲜罐头制作",
+        "易混词：canning(制造) vs canned(已罐装的)"
+      ]
+    }
   }
 ]

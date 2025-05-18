@@ -11521,5 +11521,301 @@
         "记忆tip：UN（联合国）+ committed→联合国不站队任何国家"
       ]
     }
+  },
+  {
+    "word": "uncommon",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "common"
+      ],
+      "meaning_connection": "前缀un-表示否定，词根common表示'普通的'→原指'不普通的'，引申出'非凡的'和'罕有的'两种含义。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不寻常的",
+        "examples": [
+          {
+            "sentence": "It's uncommon to see pandas dancing in the wild.",
+            "sentence_zh": "看到野生大熊猫跳舞是很不寻常的。"
+          },
+          {
+            "sentence": "Her uncommon love for stinky tofu surprises everyone.",
+            "sentence_zh": "她对臭豆腐不寻常的热爱让所有人惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "非凡的",
+        "examples": [
+          {
+            "sentence": "The chef showed uncommon skill in carving radishes.",
+            "sentence_zh": "这位厨师在雕刻萝卜上展现了非凡的技艺。"
+          },
+          {
+            "sentence": "His uncommon memory helps him recite 1000 digits of π.",
+            "sentence_zh": "他非凡的记忆力让他能背诵圆周率1000位。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "罕有的",
+        "examples": [
+          {
+            "sentence": "This is an uncommon edition of Chairman Mao's poetry collection.",
+            "sentence_zh": "这是毛主席诗词集的稀有版本。"
+          },
+          {
+            "sentence": "Snow in Guangzhou is an uncommon sight.",
+            "sentence_zh": "在广州下雪是罕有的景象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不平常地",
+        "examples": [
+          {
+            "sentence": "She sings uncommon beautifully for a beginner.",
+            "sentence_zh": "作为初学者，她不平常地唱得很好。"
+          },
+          {
+            "sentence": "The durian smells uncommon strong this season.",
+            "sentence_zh": "这个季节的榴莲闻起来不平常地浓烈。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "uncommon courage",
+        "meaning": "非凡的勇气",
+        "examples": [
+          {
+            "sentence": "The firefighters showed uncommon courage in the blaze.",
+            "sentence_zh": "消防员在火灾中展现了非凡的勇气。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncommon就像火锅里的榴莲🍲！当形容'不寻常'时像看到熊猫骑自行车🚴‍♂️（uncommon sight）；说'非凡'时像大妈跳广场舞拿世界冠军🏆（uncommon talent）；'罕有'时像在北京看到极光🌌（uncommon phenomenon）。记住：'common'是街边烤红薯，'uncommon'就是米其林三星烤红薯！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看门'→看门的狗狗(common)突然会算微积分就uncommon了",
+        "易混词对比：rare（天然稀有） vs uncommon（相对少见）",
+        "其他 tip：把un-想成'不'的小帽子🧢"
+      ]
+    }
+  },
+  {
+    "word": "uncommonly",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "common",
+        "ly"
+      ],
+      "meaning_connection": "前缀un-表'否定'，common指'普通的'，-ly构成副词→原指'不普通地'，引申为'极其/罕见地'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非常，极其",
+        "examples": [
+          {
+            "sentence": "The AI-generated artwork was uncommonly precise in mimicking Van Gogh's style.",
+            "sentence_zh": "这幅AI生成的作品模仿梵高风格精确得令人发指。"
+          },
+          {
+            "sentence": "She's uncommonly good at solving Rubik's cubes while blindfolded.",
+            "sentence_zh": "她蒙眼解魔方的能力简直逆天。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "罕见地，难得地",
+        "examples": [
+          {
+            "sentence": "Pandas are uncommly seen in the wild nowadays.",
+            "sentence_zh": "如今野生大熊猫已难得一见。"
+          },
+          {
+            "sentence": "He uncommonly wears formal suits except for job interviews.",
+            "sentence_zh": "除了面试他极少穿正装。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非凡地",
+        "examples": [
+          {
+            "sentence": "The 12-year-old prodigy played Liszt uncommonly well.",
+            "sentence_zh": "这个12岁神童演奏李斯特的曲子非凡地出色。"
+          },
+          {
+            "sentence": "This uncommonly brave journalist exposed the truth at all costs.",
+            "sentence_zh": "这位非凡勇敢的记者不惜代价揭露真相。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "uncommonly beautiful",
+        "meaning": "美得超凡",
+        "examples": [
+          {
+            "sentence": "The aurora borealis last night was uncommonly beautiful.",
+            "sentence_zh": "昨晚的极光美得摄人心魄。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "uncommonly difficult",
+        "meaning": "难得离谱",
+        "examples": [
+          {
+            "sentence": "This year's gaokao math paper was uncommonly difficult.",
+            "sentence_zh": "今年高考数学卷难得离谱。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncommonly是'不普通'的究极体💥！就像火锅里的变态辣🌶️（uncommonly spicy），比'very'更带劲！说'极其聪明'可以用uncommonly smart，就像爱因斯坦的大脑🧠；说'罕见天气'用uncommonly warm winter，就像北极穿短袖☀️。搭配推荐：uncommonly delicious（香到犯规）/uncommonly stupid（蠢出天际）。地道表达：'难得糊涂'可以说uncommonly confused🤪",
+    "recite": {
+      "tips": [
+        "谐音梗：'安康茉莉'→安康的茉莉花(uncommonly)罕见开放",
+        "对比记忆：rarely侧重频率低，uncommonly强调程度异常",
+        "拆解记忆：un(不)+common(普通)= 不普通 → 非常/罕见"
+      ]
+    }
+  },
+  {
+    "word": "uncommunicative",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "communicat",
+        "ive"
+      ],
+      "meaning_connection": "前缀un-表示否定，词根communicat来自communicate（交流），后缀-ive表示性质→'不具备交流性质的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不爱说话的",
+        "examples": [
+          {
+            "sentence": "The panda keeper found the new cub surprisingly uncommunicative during feeding time.",
+            "sentence_zh": "熊猫饲养员发现新来的幼崽在喂食时异常沉默。"
+          },
+          {
+            "sentence": "My AI speaker becomes uncommunicative when I ask about its salary.",
+            "sentence_zh": "当我询问智能音箱的工资时，它突然变得沉默寡言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "沉默寡言的",
+        "examples": [
+          {
+            "sentence": "The terracotta warriors remain uncommunicative despite tourists' selfie requests.",
+            "sentence_zh": "兵马俑面对游客的自拍要求依然一言不发。"
+          },
+          {
+            "sentence": "He's as uncommunicative as a locked WeChat account after 10PM.",
+            "sentence_zh": "他沉默得像晚上十点后的被锁微信账号。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncommunicative是社恐人士的隐身衣🧥！想象把微信'消息免打扰'和'朋友圈三天可见'穿在身上🤫。说人'闷葫芦'用clam up like a oyster🦪，'突然沉默'叫go quiet like a switched-off mic🎤。记住：这个词=社牛(social butterfly)的反义词=语言界的省电模式🔋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'安康没开口'→保持安康就不开口",
+        "易混词对比：taciturn（天性沉默） vs uncommunicative（可能因情境沉默）",
+        "记忆法：拆解成UN（联合国）+ communicate（通讯）+ive→联合国通讯中断的状态"
+      ]
+    }
+  },
+  {
+    "word": "uncompetitive",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "compet",
+        "itive"
+      ],
+      "meaning_connection": "前缀un-表否定，词根compet=竞争，后缀-ive表性质→不具备竞争性质的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无竞争力的",
+        "examples": [
+          {
+            "sentence": "The uncompetitive state-owned factory finally closed after losing 99% market share.",
+            "sentence_zh": "这家缺乏竞争力的国企工厂在失去99%市场份额后终于倒闭。"
+          },
+          {
+            "sentence": "Their uncompetitive pricing made the durian cakes sell slower than expired tofu.",
+            "sentence_zh": "缺乏竞争力的定价让这些榴莲蛋糕卖得比过期豆腐还慢。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncompetitive就像斗地主拿了一手电话号码牌📞🤦‍♂️！这个词诞生于1980年代新自由主义时期，专门形容被政府过度保护的企业🐑💸。要吐槽'毫无竞争力'可以说couldn't compete with a potato（连土豆都比不过）🥔🚀，反义词是cutthroat（割喉式竞争）🔪。记住：当你的产品比诺基亚3310还uncompetitive时，就该转型了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看别提提我'→俺（un）看别提（peti）提我（tive）的烂产品",
+        "易混词对比：incompetent（无能力的） vs uncompetitive（无竞争力的）",
+        "记忆tip：想象奥运会上UN代表队的运动员在吃火锅看比赛🍲🥇"
+      ]
+    }
+  },
+  {
+    "word": "uncompleted",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "complete",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，complete表示完成，-ed为形容词后缀→字面意思为'未完成的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "未完成的",
+        "examples": [
+          {
+            "sentence": "The uncompleted skyscraper looks like a giant concrete skeleton.",
+            "sentence_zh": "那栋未完成的摩天大楼像巨型水泥骨架。"
+          },
+          {
+            "sentence": "Her uncompleted PhD thesis became a family legend.",
+            "sentence_zh": "她未完成的博士论文成了家族传说。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "uncompleted是拖延症患者的墓志铭⚰️！就像永远建不完的'烂尾楼'🏗️，或收藏夹里吃灰的网课📚。说'半途而废'可以吐槽为half-baked（半生不熟的），形容未完成项目用pending更专业📊。记住：complete是完整披萨🍕，uncomplete就是被偷吃的那一块！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺看破了的'→其实根本没完成",
+        "易混词对比：incomplete（不完整） vs uncompleted（未完成）",
+        "记忆tip：想象游戏里灰掉的[UNCOMPLETED]任务图标🎮"
+      ]
+    }
   }
 ]

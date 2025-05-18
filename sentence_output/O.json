@@ -11564,5 +11564,376 @@
         "记忆口诀：突破防线(fence)是攻击，越过底线即冒犯"
       ]
     }
+  },
+  {
+    "word": "off",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'of'表示离开/分离，与德语'ab'同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "关着的",
+        "examples": [
+          {
+            "sentence": "The 'We're off' sign on the hotpot restaurant made me cry.",
+            "sentence_zh": "火锅店'已打烊'的牌子让我泪流满面。"
+          },
+          {
+            "sentence": "Keep the microphone off during online classes.",
+            "sentence_zh": "上网课时保持麦克风关闭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不再生效的",
+        "examples": [
+          {
+            "sentence": "The discount coupon is off after New Year's Eve.",
+            "sentence_zh": "优惠券除夕后就失效了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "休假的",
+        "examples": [
+          {
+            "sentence": "She's off every Wednesday to walk her corgi.",
+            "sentence_zh": "她每周三休假遛柯基犬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "走开",
+        "examples": [
+          {
+            "sentence": "Off you go! The last subway is coming!",
+            "sentence_zh": "快走吧！末班地铁要来了！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "...掉",
+        "examples": [
+          {
+            "sentence": "The kid tore the wrapper off in 2 seconds.",
+            "sentence_zh": "小孩两秒就撕掉了包装纸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "prep.",
+        "meaning": "离开",
+        "examples": [
+          {
+            "sentence": "He fell off the shared bike while texting.",
+            "sentence_zh": "他边骑车边发微信，从共享单车上摔了下来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "离开",
+        "examples": [
+          {
+            "sentence": "The train will off in 3 minutes.",
+            "sentence_zh": "列车将于3分钟后离站。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "关闭状态",
+        "examples": [
+          {
+            "sentence": "Switch the AC from on to off.",
+            "sentence_zh": "把空调从开启调到关闭状态。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "off work",
+        "meaning": "下班",
+        "examples": [
+          {
+            "sentence": "I'm off work at 6, let's grab mala tang!",
+            "sentence_zh": "我六点下班，一起去吃麻辣烫吧！"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "take off",
+        "meaning": "脱掉/起飞",
+        "examples": [
+          {
+            "sentence": "The plane took off 3 hours late due to fog.",
+            "sentence_zh": "由于大雾，飞机延误三小时起飞。"
+          }
+        ]
+      }
+    ],
+    "teach": "off就像个万能开关🔘！当它表示'关闭'时像被妈妈拔掉Wi-Fi路由器📶；'休假'时像熊猫瘫在树上🎋；'离开'时像逃离996的打工仔🏃；说'kill off'是团灭反派就像吃鸡游戏👾。搭配记：'off day'=状态不好（像手机剩1%电量）⚡，'show off'=炫耀（像开屏的孔雀）🦚",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗷呜'→狼人杀被票出局时'嗷呜'一声就off了",
+        "对比记忆：off（彻底离开）vs away（暂时离开）"
+      ]
+    }
+  },
+  {
+    "word": "offend",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fend"
+      ],
+      "meaning_connection": "前缀of-表示'对抗'，词根fend表示'打击'→原指发起攻击行为，后引申出物理/精神层面的冒犯"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "犯罪",
+        "examples": [
+          {
+            "sentence": "The hacker offended against cybersecurity laws by stealing WeChat data.",
+            "sentence_zh": "黑客因窃取微信数据触犯了网络安全法。"
+          },
+          {
+            "sentence": "Drunk driving offends the traffic regulations in all countries.",
+            "sentence_zh": "酒驾在任何国家都属于违反交规的犯罪行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "冒犯",
+        "examples": [
+          {
+            "sentence": "His comment about Sichuan cuisine offended all chili lovers.",
+            "sentence_zh": "他关于川菜的评论冒犯了所有嗜辣者。"
+          },
+          {
+            "sentence": "Wearing shoes indoors may offend Japanese hosts.",
+            "sentence_zh": "在室内穿鞋可能冒犯日本主人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "违反",
+        "examples": [
+          {
+            "sentence": "The advertisement offends community guidelines by using inappropriate memes.",
+            "sentence_zh": "这则广告因使用不当表情包违反社区准则。"
+          },
+          {
+            "sentence": "Smoking in elevators offends public health regulations.",
+            "sentence_zh": "在电梯内吸烟违反公共卫生条例。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "进攻",
+        "examples": [
+          {
+            "sentence": "The basketball team kept offending before the final whistle.",
+            "sentence_zh": "篮球队在终场哨响前持续进攻。"
+          },
+          {
+            "sentence": "Ancient armies would offend at dawn for tactical advantage.",
+            "sentence_zh": "古代军队常选黎明时分发起进攻以获战术优势。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "offend against",
+        "meaning": "违犯",
+        "examples": [
+          {
+            "sentence": "Content creators should never offend against platform policies.",
+            "sentence_zh": "内容创作者绝不应违犯平台政策。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "be offended by",
+        "meaning": "因...感到被冒犯",
+        "examples": [
+          {
+            "sentence": "Grandma was offended by the emoji-only message.",
+            "sentence_zh": "奶奶因纯表情符号信息感到被冒犯。"
+          }
+        ]
+      }
+    ],
+    "teach": "offend就像社交地雷💣：当它表示'冒犯'时，堪比在重庆火锅店说'微辣谢谢'🌶️（deeply offended）；作为'犯罪'时像在长城刻字被全网怒骂🗿（offend the law）；'进攻'时如王者荣耀偷塔行为🎮（keep offending）。要说道歉，老外常说'No offense'就像先说'我有个朋友'再吐槽🤣",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶犯的'→偶尔犯错就offend了",
+        "易混词对比：offend（冒犯） vs. defend（防御）就像矛与盾的关系"
+      ]
+    }
+  },
+  {
+    "word": "offended",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fend",
+        "ed"
+      ],
+      "meaning_connection": "前缀of-表'对抗'，词根fend=击打→原指'被攻击后的状态'，引申为'情感受伤'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不舒服",
+        "examples": [
+          {
+            "sentence": "He felt offended when his girlfriend ate the last dumpling without sharing.",
+            "sentence_zh": "当女友独吞最后一个饺子时，他感到很不舒服。"
+          },
+          {
+            "sentence": "The strong durian smell left her offended for hours.",
+            "sentence_zh": "浓烈的榴莲味让她几小时都浑身不自在。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "生气",
+        "examples": [
+          {
+            "sentence": "Millennials get offended when called 'post-90s' elders.",
+            "sentence_zh": "当被称作'90后老阿姨'时，千禧一代会很生气。"
+          },
+          {
+            "sentence": "She was offended by the 'Are you pregnant?' question.",
+            "sentence_zh": "'你怀孕了吗？'这个问题让她火冒三丈。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "easily offended",
+        "meaning": "易怒的",
+        "examples": [
+          {
+            "sentence": "Never joke about balding with easily offended uncles.",
+            "sentence_zh": "千万别和易怒大叔开秃头玩笑。"
+          }
+        ]
+      }
+    ],
+    "teach": "offended就像被踩到尾巴的猫🐱！古罗马角斗士被刺伤(of+fend)才会露出这种表情😤。说'玻璃心'用snowflake（雪花❄️），'别往心里去'说don't take it to heart💔。记住：当同事偷喝你奶茶时，你的offended表情就是最佳抗议！",
+    "recite": {
+      "tips": [
+        "谐音梗：'藕粉的'→吃藕粉被烫到很生气",
+        "易混词对比：offensive（冒犯人的） vs offended（被冒犯的）"
+      ]
+    }
+  },
+  {
+    "word": "offender",
+    "etymology": {
+      "breakdown": [
+        "of",
+        "fend",
+        "er"
+      ],
+      "meaning_connection": "前缀of-表示'反对'，fend源自拉丁语'fendere'表示'打击'，-er表人→原指'主动攻击者'，后泛指各类冒犯者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "罪犯",
+        "examples": [
+          {
+            "sentence": "The serial offender was finally caught stealing durians.",
+            "sentence_zh": "这个连环罪犯最终在偷榴莲时被捕。"
+          },
+          {
+            "sentence": "First-time offenders may receive community service.",
+            "sentence_zh": "初犯者可能被判社区服务。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无礼的人",
+        "examples": [
+          {
+            "sentence": "That loud talker in the cinema is a public offender.",
+            "sentence_zh": "电影院里大声说话的人是公共场合的无礼者。"
+          },
+          {
+            "sentence": "Phone addicts become social offenders during family dinners.",
+            "sentence_zh": "手机成瘾者在家庭聚餐时成为社交无礼者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "得罪人的人",
+        "examples": [
+          {
+            "sentence": "As a blunt HR manager, she's often an unintentional offender.",
+            "sentence_zh": "作为直言不讳的HR经理，她经常无意中得罪人。"
+          },
+          {
+            "sentence": "My dad became a cooking offender by adding cilantro to every dish.",
+            "sentence_zh": "我爸爸因每道菜都加香菜成了得罪家人的人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "repeat offender",
+        "meaning": "惯犯",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop banned the repeat offender who kept stealing straws.",
+            "sentence_zh": "奶茶店禁入了持续偷吸管的惯犯。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sex offender",
+        "meaning": "性犯罪者",
+        "examples": [
+          {
+            "sentence": "The dating app has strict policies against registered sex offenders.",
+            "sentence_zh": "该交友软件对登记在案的性犯罪者有严格限制。"
+          }
+        ]
+      }
+    ],
+    "teach": "offender就像游戏里的红名玩家⚔️！罪犯是法律红名（law offender），无礼者是社交红名（social offender），得罪人的是亲友圈红名（family offender）。说'惯犯'用repeat offender就像游戏连杀提示🎮，而'性犯罪者'sex offender会像开挂玩家被全区封禁🚫。记住：当个green name玩家最安全🌿！",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶犯的'→偶尔犯事的人",
+        "易混词对比：offender(主动冒犯者) vs. victim(受害者)",
+        "记忆法：offend+er=冒犯行为+人=冒犯者"
+      ]
+    }
   }
 ]

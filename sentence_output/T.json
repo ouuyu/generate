@@ -12065,5 +12065,286 @@
         "联想：地图上形状像在'舔'澳大利亚的冰淇淋🍦"
       ]
     }
+  },
+  {
+    "word": "tassel",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'tassel'（扣子装饰），可能来自拉丁语'taxillus'（小骰子），因流苏形似骰子垂挂的装饰物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "流苏",
+        "examples": [
+          {
+            "sentence": "The crimson tassels on her graduation cap danced in the wind like tiny flames.",
+            "sentence_zh": "她毕业帽上的绯红流苏如小火苗在风中舞动。"
+          },
+          {
+            "sentence": "Traditional Chinese opera headdresses often feature intricate tassel designs.",
+            "sentence_zh": "传统戏曲头饰常带有精巧的流苏设计。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "穗",
+        "examples": [
+          {
+            "sentence": "Golden tassels of wheat swayed in the autumn breeze.",
+            "sentence_zh": "金黄的麦穗在秋风中摇曳。"
+          },
+          {
+            "sentence": "The corn's tassels indicated it was ready for harvest.",
+            "sentence_zh": "玉米的穗丝表明已到收获时节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "装缨于",
+        "examples": [
+          {
+            "sentence": "The craftsman tasseled the ceremonial banner with silk threads.",
+            "sentence_zh": "匠人用丝线为仪仗旗装上缨穗。"
+          },
+          {
+            "sentence": "She tasseled her DIY handbag for bohemian flair.",
+            "sentence_zh": "她给自己DIY的手包加装流苏以增添波西米亚风情。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "摘下...穗",
+        "examples": [
+          {
+            "sentence": "Farmers tasseled the maize carefully to prevent damage.",
+            "sentence_zh": "农民们小心地摘除玉米穗以防损伤。"
+          },
+          {
+            "sentence": "The botanist tasseled the experimental crops for cross-pollination.",
+            "sentence_zh": "植物学家为实验作物摘穗以进行交叉授粉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "抽穗",
+        "examples": [
+          {
+            "sentence": "The barley began to tassel earlier than usual this year.",
+            "sentence_zh": "今年大麦抽穗比往年早。"
+          },
+          {
+            "sentence": "When rice plants tassel, the paddies turn into golden oceans.",
+            "sentence_zh": "当水稻抽穗时，稻田就变成了金色的海洋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tassel loafers",
+        "meaning": "流苏乐福鞋",
+        "examples": [
+          {
+            "sentence": "His tassel loafers clicked rhythmically on the marble floor.",
+            "sentence_zh": "他的流苏乐福鞋在大理石地面上发出有节奏的咔嗒声。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tassel removal",
+        "meaning": "去穗处理",
+        "examples": [
+          {
+            "sentence": "Tassel removal is crucial for optimizing corn yields.",
+            "sentence_zh": "去穗处理对优化玉米产量至关重要。"
+          }
+        ]
+      }
+    ],
+    "teach": "tassel是装饰界的章鱼哥🐙！当名词时像故宫灯笼下的红流苏🏮（imperial tassels），当动词'装缨'时像给球鞋挂潮牌吊坠👟（tassel sneakers），'抽穗'时像稻田集体比心💚（rice tasseling）。说'俗气装饰'用地道表达cheesy bling，记住：tassel=头上会跳舞的小尾巴！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太骚'→太骚(tassel)的流苏",
+        "易混词对比：tassel(装饰性穗) vs. stalk(植物茎秆)"
+      ]
+    }
+  },
+  {
+    "word": "taste",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语taster（触摸、尝试），最终源自拉丁语taxare（触摸、评估）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "味道",
+        "examples": [
+          {
+            "sentence": "The taste of durian is like a passionate argument - people either love it or hate it.",
+            "sentence_zh": "榴莲的味道就像一场激烈的争论——人们要么爱它要么恨它。"
+          },
+          {
+            "sentence": "This Sichuan hotpot has a numbing taste that makes your lips dance.",
+            "sentence_zh": "这个四川火锅有一种让你的嘴唇跳舞的麻辣味道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "品味",
+        "examples": [
+          {
+            "sentence": "Her taste in fashion is as unpredictable as Beijing's weather.",
+            "sentence_zh": "她的时尚品味就像北京的天气一样不可预测。"
+          },
+          {
+            "sentence": "The billionaire's taste for luxury yachts matches his appetite for steamed buns.",
+            "sentence_zh": "这位亿万富翁对豪华游艇的品味与他吃包子的胃口相当。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "味觉",
+        "examples": [
+          {
+            "sentence": "COVID made him lose his taste, now even chili feels like plain tofu.",
+            "sentence_zh": "新冠让他失去了味觉，现在连辣椒吃起来都像白豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "体验",
+        "examples": [
+          {
+            "sentence": "Getting stuck in a Beijing subway during rush hour gives you a taste of canned sardines.",
+            "sentence_zh": "在高峰期被堵在北京地铁里让你体验一把沙丁鱼罐头的感觉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "尝",
+        "examples": [
+          {
+            "sentence": "Taste this mooncake - it's filled with durian and stinky tofu!",
+            "sentence_zh": "尝尝这个月饼——它是榴莲和臭豆腐馅的！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "有某种味道",
+        "examples": [
+          {
+            "sentence": "This milk tea tastes like someone forgot the tea.",
+            "sentence_zh": "这杯奶茶喝起来像是有人忘了放茶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "taste of",
+        "meaning": "体验",
+        "examples": [
+          {
+            "sentence": "Working at a tech startup gives you a taste of sleeping at the office.",
+            "sentence_zh": "在科技创业公司工作让你体验在办公室睡觉的感觉。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "acquired taste",
+        "meaning": "后天养成的喜好",
+        "examples": [
+          {
+            "sentence": "Peking opera is an acquired taste, like stinky tofu for foreigners.",
+            "sentence_zh": "京剧是后天养成的喜好，就像臭豆腐对外国人来说一样。"
+          }
+        ]
+      }
+    ],
+    "teach": "taste就像你的美食朋友圈🍜！当古人说'品味'时，他们真的在舔艺术品👅（词源是'触摸'）。'没品味'说tasteless像白开水💧，'重口味'说strong taste像重庆火锅🌶️。记住：人生就像自助餐，关键要有good taste选对菜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒酸它'→尝到柠檬说taste好酸",
+        "对比：tasty（美味的） vs. tasteful（有品位的）",
+        "记忆口诀：尝一尝(taste)，判一判，是美味还是文艺范"
+      ]
+    }
+  },
+  {
+    "word": "tasteful",
+    "etymology": {
+      "breakdown": [
+        "taste",
+        "ful"
+      ],
+      "meaning_connection": "taste（品味）+ -ful（充满…的）→ 充满品味的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有鉴赏力的",
+        "examples": [
+          {
+            "sentence": "Her tasteful selection of Ming Dynasty furniture impressed the antique dealers.",
+            "sentence_zh": "她对明代家具的鉴赏力令古董商们印象深刻。"
+          },
+          {
+            "sentence": "The curator's tasteful eye spotted the counterfeit painting immediately.",
+            "sentence_zh": "馆长犀利的鉴赏力立即发现了这幅赝品画作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "趣味高雅的",
+        "examples": [
+          {
+            "sentence": "The teahouse plays tasteful guqin music instead of pop songs.",
+            "sentence_zh": "这家茶馆播放高雅的古琴曲而非流行音乐。"
+          },
+          {
+            "sentence": "His tasteful joke about Tang poetry made everyone chuckle appreciatively.",
+            "sentence_zh": "他关于唐诗的高雅玩笑引得众人会心一笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "雅观的",
+        "examples": [
+          {
+            "sentence": "The tasteful packaging of mooncakes uses recycled rice paper.",
+            "sentence_zh": "月饼的雅观包装采用了再生宣纸。"
+          },
+          {
+            "sentence": "She designed a tasteful qipao with subtle cloud patterns.",
+            "sentence_zh": "她设计了一件带有淡雅云纹的雅观旗袍。"
+          }
+        ]
+      }
+    ],
+    "teach": "tasteful就像米其林三星餐厅🍽️：1) 历史上法国贵族用'taste'评判食物是否够格进凡尔赛宫👑 2) 想象把审美比作火锅蘸料——tasteful就是调配完美的海鲜酱+沙茶酱比例🌶️ 3) 实用搭配：tasteful decor（雅致装修）/ tasteful humor（高雅幽默）4) 吐槽'俗气'说tacky like neon dinosaurs🦖 5) 记住这三个境界：识货→雅致→脱俗✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒舒服'→忒舒服(tasteful)的审美体验",
+        "易混词对比：tasty（美味的）vs tasteful（雅致的）",
+        "记忆tip：把-ful想象成装满品味的福袋🎁"
+      ]
+    }
   }
 ]

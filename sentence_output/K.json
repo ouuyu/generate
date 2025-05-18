@@ -11649,5 +11649,348 @@
         "记忆法：know+ing=正在知道→持续积累知识"
       ]
     }
+  },
+  {
+    "word": "knowingly",
+    "etymology": {
+      "breakdown": [
+        "know",
+        "ing",
+        "ly"
+      ],
+      "meaning_connection": "know（知道）+ -ing（现在分词）+ -ly（副词后缀）→ 带着知晓的状态做某事"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "会意地",
+        "examples": [
+          {
+            "sentence": "They smiled knowingly when the teacher mentioned 'secret Santa'.",
+            "sentence_zh": "老师提到'神秘圣诞老人'时，他们会意地笑了。"
+          },
+          {
+            "sentence": "She winked knowingly as I struggled with the chopsticks.",
+            "sentence_zh": "当我用筷子手忙脚乱时，她会意地眨了眨眼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "心照不宣地",
+        "examples": [
+          {
+            "sentence": "The couple nodded knowingly when their child denied eating the last mooncake.",
+            "sentence_zh": "当孩子否认吃了最后一块月饼时，夫妇俩心照不宣地点了点头。"
+          },
+          {
+            "sentence": "Office workers exchanged knowingly glances during the boring meeting.",
+            "sentence_zh": "无聊的会议期间，上班族们心照不宣地交换眼神。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "故意地",
+        "examples": [
+          {
+            "sentence": "He knowingly left his homework at home to avoid reciting the text.",
+            "sentence_zh": "他故意把作业忘在家里以免背诵课文。"
+          },
+          {
+            "sentence": "The cat knowingly pushed the cup off the table while maintaining eye contact.",
+            "sentence_zh": "猫咪在保持眼神接触的同时，故意把杯子推下桌子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "老练地",
+        "examples": [
+          {
+            "sentence": "The street vendor knowingly adjusted the price when seeing tourists approach.",
+            "sentence_zh": "看到游客走近，摊主老练地调整了价格。"
+          },
+          {
+            "sentence": "She knowingly navigated through the crowded subway during rush hour.",
+            "sentence_zh": "她老练地在高峰时段穿梭于拥挤的地铁中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "smile knowingly",
+        "meaning": "心知肚明地微笑",
+        "examples": [
+          {
+            "sentence": "The grandma smiled knowingly when the kids claimed the cookies disappeared by themselves.",
+            "sentence_zh": "当孩子们声称饼干自己消失了时，奶奶心知肚明地笑了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "act knowingly",
+        "meaning": "故意行事",
+        "examples": [
+          {
+            "sentence": "The hacker acted knowingly to bypass the firewall.",
+            "sentence_zh": "黑客故意绕过防火墙行事。"
+          }
+        ]
+      }
+    ],
+    "teach": "knowingly就像熊猫表情包🐼：当它'会意地'笑时，像看穿你偷吃火锅的室友；'心照不宣'时像春节亲戚问你工资时的对视🧧；'故意'时像猫咪打翻水杯还盯着你🐱；'老练'时像菜市场砍价高手的大妈。地道说法：'装傻'叫play dumb（如：He's playing dumb but actually knows everything）",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹铃里'→闹铃响了还故意( knowingly )赖床",
+        "易混词对比：knowingly（故意）vs deliberately（蓄意，程度更深）",
+        "记忆tip：想象微信'微笑'表情那个心知肚明的弧度"
+      ]
+    }
+  },
+  {
+    "word": "knowingness",
+    "etymology": {
+      "breakdown": [
+        "know",
+        "ing",
+        "ness"
+      ],
+      "meaning_connection": "know=知道，-ing表状态或性质，-ness将形容词转化为名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "知道",
+        "examples": [
+          {
+            "sentence": "Her knowingness of internet memes makes her the queen of social media.",
+            "sentence_zh": "她对网络梗的了解让她成为社交媒体女王。"
+          },
+          {
+            "sentence": "The professor's knowingness of ancient Chinese history amazed all his students.",
+            "sentence_zh": "教授对中国古代历史的了解让所有学生惊叹。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "knowingness就像你手机里的'已读'标记📩！古英语中'know'本指性关系(现代仍保留'biblical knowing说法)，后来才变成'知晓'🧠。搭配有：feign knowingness(装懂)/exude knowingness(浑身散发学识)。说'门儿清'可以用streetwise knowingness🛣️。记住：真正的knowingness是连'疯狂星期四文学'都懂！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹英格斯'→闹市里的英国绅士(假装knowingness)",
+        "易混词对比：knowledge(客观知识) vs knowingness(主观认知)"
+      ]
+    }
+  },
+  {
+    "word": "knowledge",
+    "etymology": {
+      "breakdown": [
+        "know",
+        "ledge"
+      ],
+      "meaning_connection": "know表示'知道'，-ledge为古英语后缀表状态→认知的集合体"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "系统性知识",
+        "examples": [
+          {
+            "sentence": "The Forbidden City holds centuries of traditional Chinese knowledge.",
+            "sentence_zh": "紫禁城承载着数百年的中国传统知识体系。"
+          },
+          {
+            "sentence": "TikTok's algorithm is protected as core technical knowledge.",
+            "sentence_zh": "抖音算法作为核心技术知识受到保护。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "学问造诣",
+        "examples": [
+          {
+            "sentence": "Professor Wang's knowledge of Dunhuang murals amazed the livestream audience.",
+            "sentence_zh": "王教授对敦煌壁画的学问让直播间观众惊叹。"
+          },
+          {
+            "sentence": "Street vendors often possess surprising knowledge of herbal medicine.",
+            "sentence_zh": "街头商贩常拥有惊人的草药学问。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "个人认知",
+        "examples": [
+          {
+            "sentence": "To my knowledge, this hotpot restaurant has 3 Michelin stars.",
+            "sentence_zh": "据我所知，这家火锅店拥有三颗米其林星星。"
+          },
+          {
+            "sentence": "Our knowledge of the new boss is limited to her love of stinky tofu.",
+            "sentence_zh": "我们对新老板的认识仅限于她爱吃臭豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "知晓状态",
+        "examples": [
+          {
+            "sentence": "The stolen Terracotta Warrior was returned without the thief's knowledge.",
+            "sentence_zh": "被盗兵马俑在小偷不知情的情况下被归还。"
+          },
+          {
+            "sentence": "She started the viral meme with full knowledge of its potential.",
+            "sentence_zh": "她发起这个病毒式传播的梗时完全知道其潜力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "common knowledge",
+        "meaning": "常识",
+        "examples": [
+          {
+            "sentence": "That pandas prefer bamboo is common knowledge in China.",
+            "sentence_zh": "熊猫爱吃竹子在中国是常识。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "to the best of one's knowledge",
+        "meaning": "据某人所知",
+        "examples": [
+          {
+            "sentence": "To the best of my knowledge, no one has ever eaten 50 xiaolongbao in one sitting.",
+            "sentence_zh": "据我所知，还没人能一顿吃下50个小笼包。"
+          }
+        ]
+      }
+    ],
+    "teach": "knowledge其实是'脑力积木'🧠：孔子说'知之为知之'就是true knowledge✔️。现代梗说'知识都学杂了'叫half-baked knowledge（半生不熟的知识）🍳。记住：common knowledge（常识）就像知道奶茶要加珍珠🥤，而tacit knowledge（隐性知识）好比老师傅揉面的手感👨🍳。你的knowledge决定你能在知乎装到什么level💎！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹了智'→脑子里闹腾的智慧",
+        "易混词：knowledge侧重系统性认知，information则是零散信息"
+      ]
+    }
+  },
+  {
+    "word": "knowledgeable",
+    "etymology": {
+      "breakdown": [
+        "knowledge",
+        "able"
+      ],
+      "meaning_connection": "knowledge（知识）+ -able（能够...的）→ 能够掌握知识的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有知识的",
+        "examples": [
+          {
+            "sentence": "The street food vendor is surprisingly knowledgeable about French wines.",
+            "sentence_zh": "这个街边摊贩对法国葡萄酒的了解出人意料。"
+          },
+          {
+            "sentence": "Our tour guide was so knowledgeable that he could date every brick in the Forbidden City.",
+            "sentence_zh": "我们的导游知识渊博到能说出故宫每块砖的年代。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "聪明的",
+        "examples": [
+          {
+            "sentence": "The panda keeper made a knowledgeable decision to hide bamboo in puzzle feeders.",
+            "sentence_zh": "熊猫饲养员聪明地把竹子藏进了益智喂食器里。"
+          },
+          {
+            "sentence": "She gave me a knowledgeable wink when I struggled with the Chinese tea ceremony steps.",
+            "sentence_zh": "当我在茶道步骤上犯难时，她给了我一个心领神会的眼神。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "knowledgeable about",
+        "meaning": "精通...的",
+        "examples": [
+          {
+            "sentence": "Grandma is surprisingly knowledgeable about K-pop dance moves.",
+            "sentence_zh": "奶奶对K-pop舞蹈动作的了解令人惊讶。"
+          }
+        ]
+      }
+    ],
+    "teach": "knowledgeable本质是'知识多到能溢出来'💡！就像行走的百科全书📚，既可以是故宫里能说出每片瓦故事的导游🏯，也可以是菜市场精通30种辣椒的大妈🌶️。说'懂王'别用know-it-all（贬义），要用walking library📖。搭配：knowledgeable investor（懂行投资者）/ knowledgeable in ancient poetry（精通古诗）。记住：真正的knowledgeable是火锅局能聊量子物理也能教你怎么涮毛肚七上八下🥢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'脑力节爆了'→知识多到脑子过节放烟花",
+        "易混对比：knowledgeable（持续积累的知识） vs intelligent（天生的聪明）"
+      ]
+    }
+  },
+  {
+    "word": "knowledgeably",
+    "etymology": {
+      "breakdown": [
+        "knowledge",
+        "able",
+        "ly"
+      ],
+      "meaning_connection": "knowledge（知识）+ able（能够...的）+ ly（副词后缀）→ 能够运用知识地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有知识地",
+        "examples": [
+          {
+            "sentence": "The tour guide explained the Terracotta Warriors knowledgeably, revealing details even textbooks omit.",
+            "sentence_zh": "导游知识渊博地讲解兵马俑，连教科书省略的细节都娓娓道来。"
+          },
+          {
+            "sentence": "She knowledgeably debunked the myth about sharks needing to keep swimming to survive.",
+            "sentence_zh": "她以专业知识驳斥了鲨鱼必须不停游动才能存活的谬误。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "聪明地",
+        "examples": [
+          {
+            "sentence": "The grandma knowledgeably used Douyin to promote her handmade pickles.",
+            "sentence_zh": "奶奶聪明地利用抖音推广自制酱菜。"
+          },
+          {
+            "sentence": "He knowledgeably turned his gaming skills into a lucrative live-streaming career.",
+            "sentence_zh": "他机智地将游戏技能转化为利润丰厚的直播事业。"
+          }
+        ]
+      }
+    ],
+    "teach": "knowledgeably就像行走的百科全书📚+诸葛亮的神算🧠！想象周杰伦一边弹钢琴一边讲解巴洛克音乐史🎹（demonstrate knowledgeably），或者李子柒用流体力学原理完美控制酱油发酵过程🍶（act knowledgeably）。搭配：speak knowledgeably like a TED speaker（像TED讲者般侃侃而谈），choose knowledgeably like a Michelin guide inspector（像米其林评审般慧眼识珠）。说'半桶水'可用Jack of all trades, master of none🌊",
+    "recite": {
+      "tips": [
+        "谐音梗：'脑力杰宝莉'→靠脑力(knowledge)杰出的宝莉",
+        "对比记忆：knowledgeably（知行合一） vs. intelligently（纯智商高）"
+      ]
+    }
   }
 ]

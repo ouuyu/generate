@@ -12189,5 +12189,241 @@
         "联想：MINI汽车+ent→迷你危机逼近"
       ]
     }
+  },
+  {
+    "word": "imminently",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "min",
+        "ent",
+        "ly"
+      ],
+      "meaning_connection": "前缀im-表'进入'，词根min源自拉丁语minere'突出'，-ent表形容词后缀，-ly构成副词→字面意为'即将突出显现的状态'，引申为迫切紧急"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "迫切地",
+        "examples": [
+          {
+            "sentence": "The vaccine needs to be distributed imminently before the outbreak worsens.",
+            "sentence_zh": "迫切需要在该疫情恶化前分发疫苗。"
+          },
+          {
+            "sentence": "He packed his luggage imminently upon hearing the typhoon warning.",
+            "sentence_zh": "听到台风警报后他立刻匆忙收拾行李。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "紧急地",
+        "examples": [
+          {
+            "sentence": "Ambulances arrived imminently after the highway pile-up.",
+            "sentence_zh": "高速连环撞车后救护车紧急赶到。"
+          },
+          {
+            "sentence": "The president imminently recalled all diplomats from the war zone.",
+            "sentence_zh": "总统紧急召回了战区所有外交官。"
+          }
+        ]
+      }
+    ],
+    "teach": "imminently是'死神来了'⏳既视感！古罗马人用minere形容火山喷发前的地面凸起🌋，现在说deadline is imminent就像头顶悬着达摩克利斯之剑⚔️。搭配'imminently dangerous'（火烧眉毛的危险），'imminently available'（即刻到位）。说'十万火急'可以用hair-on-fire urgent🧯，记住：当事情imminent时，你的反应速度得比5G还快🚨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨妈能替你'→姨妈期能替你请假的需求很迫切",
+        "易混词对比：eminently（杰出地）vs imminently（紧迫地）→前者是'高'后者是'急'",
+        "记忆tip：想象手机弹出'系统即将崩溃'的imminent warning弹窗💥"
+      ]
+    }
+  },
+  {
+    "word": "immobile",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mob",
+        "ile"
+      ],
+      "meaning_connection": "前缀im-表否定，词根mob=移动，-ile为形容词后缀→字面意思'不能移动的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不动的",
+        "examples": [
+          {
+            "sentence": "The marble statue remained immobile despite the earthquake.",
+            "sentence_zh": "尽管发生地震，大理石雕像依然纹丝不动。"
+          },
+          {
+            "sentence": "Pandas often stay immobile while chewing bamboo.",
+            "sentence_zh": "大熊猫啃竹子时经常一动不动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "固定的",
+        "examples": [
+          {
+            "sentence": "The immobile crane became a landmark in the construction site.",
+            "sentence_zh": "固定不动的起重机成了工地标志物。"
+          },
+          {
+            "sentence": "Her immobile phone number lasted 20 years.",
+            "sentence_zh": "她固定的电话号码用了20年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "静止的",
+        "examples": [
+          {
+            "sentence": "The lake was immobile like a giant mirror at dawn.",
+            "sentence_zh": "黎明时湖面静止如巨大的镜子。"
+          },
+          {
+            "sentence": "Tai Chi masters can stand immobile for hours.",
+            "sentence_zh": "太极大师能静止站立数小时。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keep sth. immobile",
+        "meaning": "保持某物固定",
+        "examples": [
+          {
+            "sentence": "The dentist asked me to keep my jaw immobile.",
+            "sentence_zh": "牙医要求我保持下颌不动。"
+          }
+        ]
+      }
+    ],
+    "teach": "immobile是'我摸壁'🧊→冻住的状态！想象被点穴的武林高手🤜，或手机欠费停机的图标📵。说'僵住'可以用frozen stiff（冻硬了），'固定装置'叫immobilizer就像汽车方向盘锁🔒。记住：im+mobile=不能动，好比被粘鼠板困住的仓鼠🐹！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨摸壁'→阿姨摸墙静止不动",
+        "易混词：mobile(移动的) vs immobile(不动的)像开关两极"
+      ]
+    }
+  },
+  {
+    "word": "immobility",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mob",
+        "il",
+        "ity"
+      ],
+      "meaning_connection": "前缀im-=否定，词根mob=移动(move)，-il为连接成分，-ity表状态→不能移动的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不动性",
+        "examples": [
+          {
+            "sentence": "The immobility of the Forbidden City's stone lions symbolizes imperial power.",
+            "sentence_zh": "故宫石狮的不动性象征皇权威严。"
+          },
+          {
+            "sentence": "Panda's immobility during bamboo chewing is actually strategic energy conservation.",
+            "sentence_zh": "熊猫啃竹子时的不动性其实是战略性节能。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "固定",
+        "examples": [
+          {
+            "sentence": "The immobility of smartphone in selfie sticks ruins spontaneous moments.",
+            "sentence_zh": "自拍杆上手机的固定性破坏了即兴瞬间。"
+          },
+          {
+            "sentence": "Traditional Chinese landscape painting emphasizes the immobility of mountains against flowing water.",
+            "sentence_zh": "中国传统山水画强调山体固定与流水的对比。"
+          }
+        ]
+      }
+    ],
+    "teach": "immobility就像被点穴的武林高手🕴️！词根mob是'移动'(如mobile phone)，加im变'不能动'→想象被粘鼠板困住的老鼠🧀️。说'僵住'可用freeze like a statue🗿，'固定装置'叫fixation device。记住：im+mob=动弹不得，就像早高峰挤地铁的你🚇！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨摸玻璃'→阿姨摸玻璃(immobility)冻僵了",
+        "易混词对比：mobility(移动性) vs immobility",
+        "拆解记忆：im(不)+mob(动)+ility(状态)"
+      ]
+    }
+  },
+  {
+    "word": "immobilize",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "mobil",
+        "ize"
+      ],
+      "meaning_connection": "前缀im-表示'否定'，词根mobil表示'移动'，后缀-ize表示'使...化'→字面意思'使不能移动'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使不动",
+        "examples": [
+          {
+            "sentence": "The spider's venom can immobilize small insects in seconds.",
+            "sentence_zh": "蜘蛛的毒液能在几秒内使小昆虫动弹不得。"
+          },
+          {
+            "sentence": "Fear immobilized her when she saw the giant panda sneaking into her yard.",
+            "sentence_zh": "看到大熊猫溜进院子时，恐惧使她呆立原地。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使固定",
+        "examples": [
+          {
+            "sentence": "Archaeologists immobilized the fragile artifact with special foam.",
+            "sentence_zh": "考古学家用特殊泡沫固定这件易碎文物。"
+          },
+          {
+            "sentence": "The magician immobilized the floating table with invisible wires.",
+            "sentence_zh": "魔术师用隐形细线固定了悬浮的桌子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "immobilize capital",
+        "meaning": "冻结资金",
+        "examples": [
+          {
+            "sentence": "The sudden policy change immobilized billions in foreign investment.",
+            "sentence_zh": "政策突变冻结了数十亿外资。"
+          }
+        ]
+      }
+    ],
+    "teach": "immobilize就像被点穴🤚！武侠片里'葵花点穴手'就是immobilize的终极版🔐。金融圈说'freeze assets'（冻结资产）就像把钞票关进冰箱❄️。记住：im+mobil=汽车(mobile)装刹车🚗💨→立刻静止！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一摸别来撕'→摸到就被定住（别来撕扯）",
+        "易混词对比：immobile(adj.不动的) / immobilize(vt.使不动)"
+      ]
+    }
   }
 ]

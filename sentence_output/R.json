@@ -12039,5 +12039,338 @@
         "记忆链：rare（稀少）+fy（使...化）= 变得稀薄 → 引申出纯化/崇高"
       ]
     }
+  },
+  {
+    "word": "rarefy",
+    "etymology": {
+      "breakdown": [
+        "rare",
+        "fy"
+      ],
+      "meaning_connection": "词根rare=稀疏的，后缀-fy=使...化→使变得稀疏"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使稀少",
+        "examples": [
+          {
+            "sentence": "Overhunting has rarefied pandas in this region.",
+            "sentence_zh": "过度捕猎使该地区熊猫变得稀少。"
+          },
+          {
+            "sentence": "The pandemic rarefied the crowds in shopping malls.",
+            "sentence_zh": "疫情使商场人群变得稀少。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使稀薄",
+        "examples": [
+          {
+            "sentence": "High-altitude training rarefies oxygen supply to muscles.",
+            "sentence_zh": "高原训练使肌肉获得的氧气变得稀薄。"
+          },
+          {
+            "sentence": "The vacuum pump rarefies air in the chamber.",
+            "sentence_zh": "真空泵使舱内空气变得稀薄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使纯化",
+        "examples": [
+          {
+            "sentence": "Alchemists tried to rarefy base metals into gold.",
+            "sentence_zh": "炼金术士试图将贱金属精炼成黄金。"
+          },
+          {
+            "sentence": "This process rarefies crude oil into high-grade fuel.",
+            "sentence_zh": "该工艺将原油精炼成高级燃料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变稀少",
+        "examples": [
+          {
+            "sentence": "Traditional crafts rarefy as machines take over.",
+            "sentence_zh": "随着机器接管，传统工艺逐渐稀少。"
+          },
+          {
+            "sentence": "Vampire bats rarefy in urban areas.",
+            "sentence_zh": "吸血蝙蝠在城区变得稀少。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变稀薄",
+        "examples": [
+          {
+            "sentence": "The atmosphere rarefies with altitude.",
+            "sentence_zh": "大气随着海拔升高而变得稀薄。"
+          },
+          {
+            "sentence": "The perfume scent rarefies after three hours.",
+            "sentence_zh": "香水气味三小时后变得稀薄。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rarefied air",
+        "meaning": "稀薄空气/高端领域",
+        "examples": [
+          {
+            "sentence": "Mountaineers need oxygen tanks in rarefied air.",
+            "sentence_zh": "登山者在稀薄空气中需要氧气瓶。"
+          },
+          {
+            "sentence": "Few can breathe in the rarefied air of quantum physics.",
+            "sentence_zh": "鲜有人能在量子物理的高端领域呼吸自如。"
+          }
+        ]
+      }
+    ],
+    "teach": "rarefy就像空气炸锅🔥：既能稀薄化（rarefy oxygen）像高原反应时喘不过气😵，又能精炼（rarefy metals）像提纯茅台酒🍶！说'稀缺资源'用rarefied resources就像最后一块月饼🥮，'高端圈子'叫rarefied circles相当于神仙开会☁️。记住：稀薄用thin太普通，学霸都用rarefy！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热来飞'→热气稀薄(rarefy)才能飞热气球",
+        "易混词：rarely(很少) vs rarefy(使变少)"
+      ]
+    }
+  },
+  {
+    "word": "rarely",
+    "etymology": {
+      "breakdown": [
+        "rare",
+        "ly"
+      ],
+      "meaning_connection": "词根rare=稀疏的，副词后缀-ly表方式→以稀少的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "很少地",
+        "examples": [
+          {
+            "sentence": "Gen Zers rarely use cash after mobile payment became popular.",
+            "sentence_zh": "移动支付普及后，Z世代很少使用现金。"
+          },
+          {
+            "sentence": "Pandas rarely give birth to twins, making it big news when it happens.",
+            "sentence_zh": "大熊猫很少产下双胞胎，一旦发生即成大新闻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "罕有地",
+        "examples": [
+          {
+            "sentence": "Snow rarely appears in tropical Hainan Island.",
+            "sentence_zh": "热带海南岛罕有降雪。"
+          },
+          {
+            "sentence": "He rarely showed his excitement during the chess competition.",
+            "sentence_zh": "他在象棋比赛中罕有地表现出兴奋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rarely if ever",
+        "meaning": "几乎从不",
+        "examples": [
+          {
+            "sentence": "This traditional recipe is rarely if ever seen in modern restaurants.",
+            "sentence_zh": "这道传统菜式在现代餐馆几乎绝迹。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rarely or never",
+        "meaning": "极少或从未",
+        "examples": [
+          {
+            "sentence": "Rural elders rarely or never order takeout food.",
+            "sentence_zh": "农村老人极少或从未点过外卖。"
+          }
+        ]
+      }
+    ],
+    "teach": "rarely就像大熊猫的作息🐼：一天睡10小时（'很少'活动）+ 野外仅剩1864只（'罕有'存在）！用'once in a blue moon'形容罕见事件🌕，'像中彩票一样稀罕'说as rare as hen's teeth🦷。搭配：rarely seen（难得一见）/ rarely spoken（绝口不提）",
+    "recite": {
+      "tips": [
+        "谐音梗：'热了离'→天气热了(rar)就离(ely)开空调房→'很少'出门",
+        "易混词对比：rarely（频率低）vs. hardly（几乎不）",
+        "记忆tip：把字母r想象成稀有宝石💎，a-e-l-y像稀薄(aery)的空气"
+      ]
+    }
+  },
+  {
+    "word": "rarity",
+    "etymology": {
+      "breakdown": [
+        "rar",
+        "ity"
+      ],
+      "meaning_connection": "词根rar=稀疏，-ity表性质→原指物质密度低，后引申为事物稀缺性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "稀罕",
+        "examples": [
+          {
+            "sentence": "Pandas are considered a rarity in the animal kingdom.",
+            "sentence_zh": "大熊猫被视为动物界的稀罕存在。"
+          },
+          {
+            "sentence": "Her willingness to work overtime without pay is a true rarity.",
+            "sentence_zh": "她自愿无偿加班实属稀罕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "珍奇",
+        "examples": [
+          {
+            "sentence": "The museum displays Ming Dynasty rarities from imperial collections.",
+            "sentence_zh": "博物馆展出来自皇室收藏的明代珍奇。"
+          },
+          {
+            "sentence": "This limited-edition Mahjong set is a collector's rarity.",
+            "sentence_zh": "这套限量版麻将牌是收藏家的珍奇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "稀薄",
+        "examples": [
+          {
+            "sentence": "The rarity of oxygen makes climbing Mount Everest dangerous.",
+            "sentence_zh": "氧气的稀薄使得攀登珠穆朗玛峰十分危险。"
+          },
+          {
+            "sentence": "Scientists study the rarity of atmosphere on Mars.",
+            "sentence_zh": "科学家研究火星大气的稀薄状态。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "extreme rarity",
+        "meaning": "极度稀有",
+        "examples": [
+          {
+            "sentence": "Blue mooncakes are of extreme rarity in the market.",
+            "sentence_zh": "蓝色月饼在市场上极度稀有。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rarity value",
+        "meaning": "稀缺价值",
+        "examples": [
+          {
+            "sentence": "The rarity value of this stamp tripled after the artist's death.",
+            "sentence_zh": "该邮票在作者去世后稀缺价值翻了三倍。"
+          }
+        ]
+      }
+    ],
+    "teach": "rarity就像SSR卡牌🎴！当描述'稀罕'时堪比春运抢到票🎫（a happy rarity），说'珍奇'时如同发现野生东北虎🐅（natural rarity），指'稀薄'时像减肥人士碗里的米饭🍚（painful rarity）。记住：遇到rarity要拍照发朋友圈📸，因为下次可能见不到啦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赖热体'→赖着不走的发热体质很罕见",
+        "对比记忆：vs. reality→现实(reality)中稀有(rarity)才珍贵",
+        "联想：稀有度就像奶茶店的限量款，售罄(sold out)即永恒"
+      ]
+    }
+  },
+  {
+    "word": "rascal",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古法语'rasque'（贱民）+后缀'-al'，原指社会底层人群，后演变为对调皮/不守规矩者的称呼"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "流氓",
+        "examples": [
+          {
+            "sentence": "The market inspector caught a rascal selling counterfeit mahjong tiles.",
+            "sentence_zh": "市场监管员抓到一个贩卖假冒麻将牌的流氓。"
+          },
+          {
+            "sentence": "That rascal tried to sell me a 'genuine' Terracotta Warrior made last week.",
+            "sentence_zh": "那个无赖想卖给我一个上周刚做的'真品'兵马俑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "淘气鬼",
+        "examples": [
+          {
+            "sentence": "My little rascal hid all the TV remotes inside the rice cooker.",
+            "sentence_zh": "我家小淘气鬼把电视遥控器都藏进了电饭煲。"
+          },
+          {
+            "sentence": "The kindergarten teacher sighed as her rascals turned the classroom into a noodle fight arena.",
+            "sentence_zh": "当淘气鬼们把教室变成面条大战现场时，幼儿园老师叹了口气。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "old rascal",
+        "meaning": "老滑头",
+        "examples": [
+          {
+            "sentence": "The 80-year-old rascal still wins at mahjong by pretending to fall asleep.",
+            "sentence_zh": "这个80岁的老滑头仍会靠装睡赢麻将。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "little rascal",
+        "meaning": "小捣蛋",
+        "examples": [
+          {
+            "sentence": "Our cat is a little rascal who steals chopsticks during dinner.",
+            "sentence_zh": "我家猫是小捣蛋，总在晚饭时偷筷子。"
+          }
+        ]
+      }
+    ],
+    "teach": "rascal其实是'可爱反派'🤡！在西方像《猫和老鼠》的Jerry🐭，在中国就像偷仙丹的孙悟空🐒。说人'调皮'可用mischievous imp（淘气小妖精），'老油条'叫wily old fox🦊。记住：说孩子是rascal要眨眼睛😉，说大人则要握紧拳头👊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉屎抠'→随地大小便的rascal",
+        "易混词：villain（真恶人） vs rascal（可原谅的捣蛋鬼）",
+        "记忆法：rascal=ras(惹事)+cal(call)→整天惹事被点名"
+      ]
+    }
   }
 ]
