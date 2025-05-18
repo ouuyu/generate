@@ -14144,5 +14144,330 @@
         "记忆tip：想象手风琴师像拉手风琴一样拉开外卖盒🍱"
       ]
     }
+  },
+  {
+    "word": "accost",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cost"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'，词根cost源自拉丁语costa'肋骨'→原指'贴近身体搭话'，引申为主动接触"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "打招呼",
+        "examples": [
+          {
+            "sentence": "The AI robot accosted visitors with a blinking heart-shaped LED.",
+            "sentence_zh": "人工智能机器人用闪烁的心形LED灯向游客打招呼。"
+          },
+          {
+            "sentence": "Tour guides in Huangshan accost hikers with '吃了吗?'",
+            "sentence_zh": "黄山的导游用'吃了吗？'和徒步者打招呼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "搭讪",
+        "examples": [
+          {
+            "sentence": "He was accosted by a live-streamer holding a selfie stick near Wangfujing.",
+            "sentence_zh": "他在王府井附近被举着自拍杆的主播搭讪。"
+          },
+          {
+            "sentence": "Scammers accost tourists with 'free tea ceremony' offers.",
+            "sentence_zh": "骗子用'免费茶道体验'的说辞搭讪游客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "勾引",
+        "examples": [
+          {
+            "sentence": "The femme fatale accosted him with a deliberately dropped silk fan.",
+            "sentence_zh": "蛇蝎美人用故意掉落的绸扇实施勾引。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accost sb. with sth.",
+        "meaning": "用某物搭讪某人",
+        "examples": [
+          {
+            "sentence": "Tea sellers accost tourists with 'authentic Pu'er' samples.",
+            "sentence_zh": "茶商用'正宗普洱'样品搭讪游客。"
+          }
+        ]
+      }
+    ],
+    "teach": "accost是社牛专用词💬！想象你走在南京路，突然有人拍肩说'小姐姐办卡吗'——这就是标准accost名场面🤳。它像《新白娘子传奇》里白素贞'偶遇'许仙的套路🌂，也像地铁口'游泳健身了解一下'的传单攻击🗂️。记住：正常打招呼用greet，带目的性的才用accost！",
+    "recite": {
+      "tips": [
+        "谐音梗：'挨可osti'→挨近了可OST响起（偶像剧搭讪BGM）",
+        "易混词对比：approach（中性靠近）/accost（主动接触）"
+      ]
+    }
+  },
+  {
+    "word": "account",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "count"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根count源自拉丁语computare（计算）→原指'算账行为'，引申出'解释/报告'等抽象含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "报告",
+        "examples": [
+          {
+            "sentence": "The journalist gave a vivid account of the panda's escape from the zoo.",
+            "sentence_zh": "记者生动报告了熊猫逃出动物园的经过。"
+          },
+          {
+            "sentence": "Her travel account on Xiaohongshu got 100k likes in one hour.",
+            "sentence_zh": "她的小红书旅行报告一小时获赞10万。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "解释",
+        "examples": [
+          {
+            "sentence": "No reasonable account was given for the missing hotpot ingredients.",
+            "sentence_zh": "火锅食材消失一事没有得到合理解释。"
+          },
+          {
+            "sentence": "His account of being late involved a traffic jam and a UFO sighting.",
+            "sentence_zh": "他对迟到的解释包括堵车和目击UFO。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "利润",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop turns a good account despite the pandemic.",
+            "sentence_zh": "这家奶茶店疫情期间仍有可观利润。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "账目",
+        "examples": [
+          {
+            "sentence": "The mahjong parlor keeps two sets of accounts: one for tax, one for real.",
+            "sentence_zh": "这家麻将馆记两套账：一套给税务局看，一套真实的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "解释",
+        "examples": [
+          {
+            "sentence": "The CEO had to account for the company's TikTok dance challenge failure.",
+            "sentence_zh": "CEO不得不解释公司抖音舞蹈挑战失败的原因。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "占（比例）",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot accounts for 78% of Chengdu's happiness index.",
+            "sentence_zh": "麻辣火锅占成都幸福指数的78%。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "认为",
+        "examples": [
+          {
+            "sentence": "I account him the most creative hotpot ingredient inventor in Sichuan.",
+            "sentence_zh": "我认为他是四川最有创意的火锅食材发明家。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take into account",
+        "meaning": "考虑",
+        "examples": [
+          {
+            "sentence": "The exam difficulty takes into account students' online class fatigue.",
+            "sentence_zh": "考试难度考虑了学生的网课疲劳。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "on account of",
+        "meaning": "由于",
+        "examples": [
+          {
+            "sentence": "The meeting was cancelled on account of the CEO's obsession with Wordle.",
+            "sentence_zh": "会议因CEO沉迷猜单词游戏而取消。"
+          }
+        ]
+      }
+    ],
+    "teach": "account就像会计手里的算盘🧮！当'账目'讲时像查看支付宝年度账单💸（check account）；'解释'时像给女朋友说明微信异性好友👫（account for）；'利润'像奶茶店老板数硬币💰（good account）。记住：'占比例'用account for，就像火锅里毛肚占你预算的80%🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅抗塔'→游戏里鹅(account)抗塔要计算伤害",
+        "易混词：count（计算）vs account（账目/解释）"
+      ]
+    }
+  },
+  {
+    "word": "accountability",
+    "etymology": {
+      "breakdown": [
+        "account",
+        "ability"
+      ],
+      "meaning_connection": "account（账目/解释）+ ability（能力）→ 能解释清楚的能力"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "负有责任",
+        "examples": [
+          {
+            "sentence": "CEOs should take accountability for company scandals like expired ingredients.",
+            "sentence_zh": "CEO应为过期食材等公司丑闻承担责任。"
+          },
+          {
+            "sentence": "The new policy strengthens officials' accountability for air quality.",
+            "sentence_zh": "新政策强化了官员对空气质量的责任。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "可说明性",
+        "examples": [
+          {
+            "sentence": "Blockchain technology provides perfect accountability for every transaction.",
+            "sentence_zh": "区块链技术为每笔交易提供完美的可追溯性。"
+          },
+          {
+            "sentence": "The lack of financial accountability caused the charity's collapse.",
+            "sentence_zh": "财务不透明导致了该慈善机构的崩溃。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "public accountability",
+        "meaning": "公共问责",
+        "examples": [
+          {
+            "sentence": "Livestreamed government meetings enhance public accountability.",
+            "sentence_zh": "政务直播会议增强了公共问责。"
+          }
+        ]
+      }
+    ],
+    "teach": "accountability就像火锅店的小票🧾！古罗马商人要account（解释）每枚硬币的去向，现在官员得account（说明）公款用途💸。搭配'hold sb accountable'（追责）就像找老板讨要缺斤少两的羊肉钱，'avoid accountability'（逃避责任）就像用假名字订外卖🍔。记住：没有accountability的社会就像没有小票的火锅店——迟早要糊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅啃桃bility'→鹅厂（腾讯）啃桃子时也要讲责任",
+        "易混词：responsibility（常规责任） vs accountability（必须解释的责任）",
+        "联想：会计(accountant)必须保持账目透明(accountability)"
+      ]
+    }
+  },
+  {
+    "word": "accountable",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "count",
+        "able"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，count源自拉丁语computare（计算），-able表能力→需被计算/说明的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "负有责任的",
+        "examples": [
+          {
+            "sentence": "CEOs are accountable for company scandals like spoiled pickles in a jar.",
+            "sentence_zh": "CEO需为公司丑闻负责，就像泡菜罐里变质的那根要牵连整罐。"
+          },
+          {
+            "sentence": "The delivery app makes riders accountable for food temperature.",
+            "sentence_zh": "外卖平台要求骑手对餐品温度负责。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可说明的",
+        "examples": [
+          {
+            "sentence": "All government spending should be publicly accountable.",
+            "sentence_zh": "所有政府支出都应可被公开说明。"
+          },
+          {
+            "sentence": "Her weird Duanwu Festival costume choices were hardly accountable.",
+            "sentence_zh": "她端午节穿的那套诡异汉服实在难以解释。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hold sb accountable",
+        "meaning": "追究责任",
+        "examples": [
+          {
+            "sentence": "Netizens demanded to hold the influencer accountable for fake reviews.",
+            "sentence_zh": "网友要求追究网红刷假评价的责任。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accountable to",
+        "meaning": "对...负责",
+        "examples": [
+          {
+            "sentence": "The new policy makes officials accountable to public opinion.",
+            "sentence_zh": "新政策要求官员对舆情负责。"
+          }
+        ]
+      }
+    ],
+    "teach": "accountable是'秋后算账'📜型词汇！古代英国征税官(count)要把账本(ac-count)给人检查(able)💷，演变出'责任'概念。吐槽'这锅我不背'可说Not my circus, not my monkeys🎪🐒。搭配：accountable officer（第一责任人）/accountable period（追溯期）。记住：能被count的才叫accountable！🧮",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅啃糖不乐'→鹅因偷吃糖被问责(accountable)所以不乐",
+        "易混词：responsible（主动责任）vs accountable（被动追责）",
+        "记忆tip：联想会计(accountant)被审计时的战战兢兢"
+      ]
+    }
   }
 ]

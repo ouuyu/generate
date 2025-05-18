@@ -14514,5 +14514,337 @@
         "易混词对比：fatwa(宗教裁决) vs fatwah(错误拼写)"
       ]
     }
+  },
+  {
+    "word": "fault",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语faute，原指'缺失'，后引申为'错误'与'地质断层'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "过错",
+        "examples": [
+          {
+            "sentence": "The CEO took the fault for the failed product launch like a boss.",
+            "sentence_zh": "CEO像大佬一样承担了产品发布失败的责任。"
+          },
+          {
+            "sentence": "It's my fault for trusting a cat to guard the fish.",
+            "sentence_zh": "让猫看管鱼是我的过错。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "故障",
+        "examples": [
+          {
+            "sentence": "The subway delay was caused by a signal fault.",
+            "sentence_zh": "地铁延误是由信号故障引起的。"
+          },
+          {
+            "sentence": "My coffee machine developed a fault right before Monday morning.",
+            "sentence_zh": "我的咖啡机在周一早晨前突然出了故障。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "挑剔",
+        "examples": [
+          {
+            "sentence": "She faulted the mooncake for having too few egg yolks.",
+            "sentence_zh": "她挑剔月饼里的蛋黄太少。"
+          },
+          {
+            "sentence": "You can't fault his dedication to collecting limited edition sneakers.",
+            "sentence_zh": "你无法挑剔他对收藏限量版球鞋的热忱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "产生断层",
+        "examples": [
+          {
+            "sentence": "The earthquake occurred where tectonic plates faulted.",
+            "sentence_zh": "地震发生在构造板块产生断层的地方。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "find fault with",
+        "meaning": "找茬",
+        "examples": [
+          {
+            "sentence": "My mom always finds fault with my room organization.",
+            "sentence_zh": "我妈总是对我的房间整理百般挑剔。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "at fault",
+        "meaning": "负有责任",
+        "examples": [
+          {
+            "sentence": "The delivery app was at fault for losing my spicy crayfish.",
+            "sentence_zh": "外卖app对丢失我的麻辣小龙虾负有责任。"
+          }
+        ]
+      }
+    ],
+    "teach": "fault这词像颗坏掉的核桃🌰——外表硬壳（地质断层）包裹着'错误'内核。地质学家用它描述地球的'皱纹'🗺️，程序员却用它指'代码的皱纹'💻。说'全是你的错'可以吼'It's all your fault!'，但优雅甩锅要说'The fault lies elsewhere'（锅在天边）🍳。记住：find fault with someone就像在珍珠奶茶里找珍珠——总能挑出毛病！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛特'→佛祖特别(fault)爱挑弟子毛病",
+        "易混词：fault（过错）vs. false（虚假）",
+        "联想记忆：电脑故障(fault)时想摔键盘的冲动叫'faul-temper'（谐音foul temper）"
+      ]
+    }
+  },
+  {
+    "word": "faultless",
+    "etymology": {
+      "breakdown": [
+        "fault",
+        "less"
+      ],
+      "meaning_connection": "fault=错误/断层，-less=没有→'毫无错误的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "完美的",
+        "examples": [
+          {
+            "sentence": "Her faultless Mandarin surprised the Peking Opera master.",
+            "sentence_zh": "她完美的京片子让京剧大师都惊讶。"
+          },
+          {
+            "sentence": "The AI generated a faultless imitation of Van Gogh's style.",
+            "sentence_zh": "AI生成了一幅完美模仿梵高风格的作品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无缺点的",
+        "examples": [
+          {
+            "sentence": "This faultless jade pendant was passed down for 5 generations.",
+            "sentence_zh": "这块无瑕玉佩已传承了五代人。"
+          },
+          {
+            "sentence": "His faultless table manners come from strict childhood training.",
+            "sentence_zh": "他无可挑剔的餐桌礼仪源于严格的童年训练。"
+          }
+        ]
+      }
+    ],
+    "teach": "faultless其实是'佛系完美'🧘♂️：想象少林寺扫地僧的功夫(fault-less kungfu)毫无破绽！说'完美表现'用faultless performance就像冬奥会谷爱凌的1620°转体🏂，'零失误'叫no-fault就像微信支付系统💳。记住：真正的faultless就像四川火锅的锅底——捞不出渣！🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛他乐死'→修行到无(fault)乐(less)境界",
+        "易混词对比：flawless更侧重天生完美，faultless强调后天无错"
+      ]
+    }
+  },
+  {
+    "word": "faultlessly",
+    "etymology": {
+      "breakdown": [
+        "fault",
+        "less",
+        "ly"
+      ],
+      "meaning_connection": "fault（缺点）+ less（无...的）+ ly（副词后缀）→ 字面意为'无缺点地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "完美地",
+        "examples": [
+          {
+            "sentence": "The Peking opera performer sang faultlessly despite the pouring rain.",
+            "sentence_zh": "尽管大雨倾盆，京剧演员的唱腔依然完美无瑕。"
+          },
+          {
+            "sentence": "She recreated the Terracotta Warriors' hairstyle faultlessly for the history project.",
+            "sentence_zh": "她为历史作业完美复刻了兵马俑的发型。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "无缺点地",
+        "examples": [
+          {
+            "sentence": "The AI chatbot answered all sensitive questions faultlessly.",
+            "sentence_zh": "这个AI聊天机器人毫无差错地回答了所有敏感问题。"
+          },
+          {
+            "sentence": "He translated the ancient poem faultlessly within three minutes.",
+            "sentence_zh": "他在三分钟内毫无瑕疵地翻译了这首古诗。"
+          }
+        ]
+      }
+    ],
+    "teach": "faultlessly就像故宫的榫卯结构⚡——没有一颗钉子（fault）却屹立600年！古人用'白璧无瑕'形容完美，而程序员会用'zero bug'🐛。搭配：perform faultlessly（表现完美）/ cook faultlessly（厨艺精湛）。地道说法：nail it（搞定得完美）💅。记住：做到faultlessly的人，连强迫症都挑不出毛病！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛特累死'→修成佛（fault-less）特累死",
+        "易混词：flawlessly（近义词，但更常用于形容外表）",
+        "记忆tip：想象考试全对时老师画的'无缺点的'大红勾✅"
+      ]
+    }
+  },
+  {
+    "word": "faulty",
+    "etymology": {
+      "breakdown": [
+        "fault",
+        "y"
+      ],
+      "meaning_connection": "词根fault=错误，-y表形容词性→'有错误的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有过失的",
+        "examples": [
+          {
+            "sentence": "The faulty driver caused the panda-shaped bus to crash into a milk tea shop.",
+            "sentence_zh": "有过失的司机导致熊猫巴士撞进了奶茶店。"
+          },
+          {
+            "sentence": "Even the smartest AI can make faulty judgments sometimes.",
+            "sentence_zh": "即使最聪明的人工智能有时也会做出有过失的判断。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有缺点的",
+        "examples": [
+          {
+            "sentence": "My faulty phone keeps autocorrecting 'dumplings' to 'ex-girlfriend'.",
+            "sentence_zh": "我有缺点的手机总把'饺子'自动纠错成'前女友'。"
+          },
+          {
+            "sentence": "The faulty design made the Great Wall slide look like a giant dragon's water slide.",
+            "sentence_zh": "有缺点的设计让长城滑梯像条巨龙水滑梯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不完美的",
+        "examples": [
+          {
+            "sentence": "Her faulty Mandarin sounded like a rap battle between Siri and Google Translate.",
+            "sentence_zh": "她不完美的中文听起来像Siri和谷歌翻译的rap对战。"
+          },
+          {
+            "sentence": "The faulty mooncake filling ratio caused a national debate.",
+            "sentence_zh": "不完美的月饼馅料比例引发了全国争论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "应受责备的",
+        "examples": [
+          {
+            "sentence": "The faulty decision to use chili oil as eye drops went viral.",
+            "sentence_zh": "把辣椒油当眼药水的应受责备决定火了。"
+          },
+          {
+            "sentence": "His faulty karaoke song choice ruined the company's annual party.",
+            "sentence_zh": "他应受责备的K歌选曲毁了公司年会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "faulty goods",
+        "meaning": "瑕疵商品",
+        "examples": [
+          {
+            "sentence": "The panda-shaped faulty goods became collector's items.",
+            "sentence_zh": "熊猫造型的瑕疵商品成了收藏品。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "faulty reasoning",
+        "meaning": "错误推理",
+        "examples": [
+          {
+            "sentence": "His faulty reasoning concluded that all cats are secretly spies.",
+            "sentence_zh": "他的错误推理得出所有猫都是间谍的结论。"
+          }
+        ]
+      }
+    ],
+    "teach": "faulty就像你家的Wi-Fi信号📶：时断时续（有缺点）、总在关键时刻掉链子（有过失）、永远差一格满格（不完美）、还总被老妈骂（应受责备）😤。说'这锅我背'用地道表达take the blame，'甩锅'叫pass the buck。记住：连故宫的龙都有掉鳞片的时候，谁还没个faulty时刻呢🐉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛踢'→佛像被踢了说明做工有缺点",
+        "易混词对比：faulty（形容词） vs. fault（名词）"
+      ]
+    }
+  },
+  {
+    "word": "faun",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'Faunus'，罗马神话中的农牧神"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "(半人半羊的)农牧神",
+        "examples": [
+          {
+            "sentence": "The marble faun in the museum has goat horns and human legs.",
+            "sentence_zh": "博物馆里的大理石农牧神雕像长着羊角和人类的腿。"
+          },
+          {
+            "sentence": "Narnia's Mr. Tumnus is the most famous faun in literature.",
+            "sentence_zh": "《纳尼亚传奇》里的图姆努斯先生是文学史上最著名的农牧神。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "faun dance",
+        "meaning": "农牧神之舞",
+        "examples": [
+          {
+            "sentence": "Debussy's 'Afternoon of a Faun' depicts a magical faun dance.",
+            "sentence_zh": "德彪西的《牧神午后》描绘了神奇的农牧神之舞。"
+          }
+        ]
+      }
+    ],
+    "teach": "faun是古希腊罗马版的'羊男'🐏：上半身像吴彦祖，下半身像喜羊羊！《纳尼亚传奇》里的图姆努斯先生就是带围巾的文艺版faun🧣。要说'半人半兽'可以用centaur（人马），但faun特指羊腿神。记住：遇到faun请递红酒🍷——他们和酒神 Dionysus 是同事！",
+    "recite": {
+      "tips": [
+        "谐音梗：'放羊'→农牧神专业户",
+        "易混词对比：faun(羊腿) vs satyr(马腿)",
+        "记忆法：FAUN = Fantastic Animal Under Nature"
+      ]
+    }
   }
 ]

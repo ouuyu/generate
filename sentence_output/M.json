@@ -13688,5 +13688,347 @@
         "记忆链：man(人)+ia(病)→人疯了"
       ]
     }
+  },
+  {
+    "word": "maniac",
+    "etymology": {
+      "breakdown": [
+        "mania",
+        "ac"
+      ],
+      "meaning_connection": "词根mania=疯狂，后缀-ac=与...相关的→与疯狂相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "发狂的",
+        "examples": [
+          {
+            "sentence": "The maniac laughter from the haunted house scared all visitors.",
+            "sentence_zh": "鬼屋里传出的狂笑吓坏了所有游客。"
+          },
+          {
+            "sentence": "He drove at a maniac speed through the crowded market.",
+            "sentence_zh": "他以疯狂的速度开车穿过拥挤的市场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "癫狂的",
+        "examples": [
+          {
+            "sentence": "The artist's maniac obsession with perfection ruined his health.",
+            "sentence_zh": "这位艺术家对完美的癫狂执着毁了他的健康。"
+          },
+          {
+            "sentence": "Her maniac dancing at the party became legendary.",
+            "sentence_zh": "她在派对上的癫狂舞姿成为了传奇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "狂人",
+        "examples": [
+          {
+            "sentence": "Elon Musk is considered a tech maniac by many.",
+            "sentence_zh": "埃隆·马斯克被许多人视为科技狂人。"
+          },
+          {
+            "sentence": "The fitness maniac does 500 push-ups before breakfast.",
+            "sentence_zh": "这位健身狂人早餐前要做500个俯卧撑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "疯子",
+        "examples": [
+          {
+            "sentence": "The maniac screaming on the subway was escorted out by police.",
+            "sentence_zh": "在地铁上尖叫的疯子被警察带走了。"
+          },
+          {
+            "sentence": "Ancient Greeks believed poets were maniacs touched by gods.",
+            "sentence_zh": "古希腊人认为诗人是被神灵触碰的疯子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "computer maniac",
+        "meaning": "电脑狂人",
+        "examples": [
+          {
+            "sentence": "My roommate is a computer maniac who codes 18 hours a day.",
+            "sentence_zh": "我的室友是个每天编程18小时的电脑狂人。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "maniac driver",
+        "meaning": "疯狂司机",
+        "examples": [
+          {
+            "sentence": "That maniac driver weaved through traffic like in Fast & Furious.",
+            "sentence_zh": "那个疯狂司机像在《速度与激情》里一样在车流中穿梭。"
+          }
+        ]
+      }
+    ],
+    "teach": "maniac是'疯人院'跑出来的单词🏥！词根mania是希腊月亮女神塞勒涅(Selene)的名字🌙，古希腊人认为月光会让人发狂（lunatic也这么来的）。说'疯狂粉丝'用fanatic（比mania更严重），'工作狂'叫workaholic🥴。记住：天才和maniac只有一线之隔，就像特斯拉和爱迪生的电流之战⚡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂你癌'→骂到得癌症的疯狂程度",
+        "易混词对比：mania（名词：狂热） vs. maniac（形容词/名词：疯狂的/狂人）",
+        "联想：MANIAC = 男人(man) + 我(I) + 交流(AC)→疯狂的男人和我交流"
+      ]
+    }
+  },
+  {
+    "word": "maniacal",
+    "etymology": {
+      "breakdown": [
+        "mania",
+        "cal"
+      ],
+      "meaning_connection": "词根mania=疯狂，后缀-cal=与...相关→与疯狂相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "躁狂的",
+        "examples": [
+          {
+            "sentence": "The artist's maniacal laughter echoed through the studio as he painted.",
+            "sentence_zh": "画家创作时躁狂的笑声在工作室里回荡。"
+          },
+          {
+            "sentence": "His maniacal energy during the marathon worried his friends.",
+            "sentence_zh": "他在马拉松比赛中躁狂的精力让朋友们很担心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "狂乱的",
+        "examples": [
+          {
+            "sentence": "The crowd erupted into maniacal cheering when their team scored.",
+            "sentence_zh": "当他们的队伍得分时，人群爆发出狂乱的欢呼。"
+          },
+          {
+            "sentence": "She had a maniacal look in her eyes after pulling an all-nighter.",
+            "sentence_zh": "通宵后她眼中流露出狂乱的神色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "狂热的",
+        "examples": [
+          {
+            "sentence": "His maniacal devotion to collecting sneakers filled his entire apartment.",
+            "sentence_zh": "他对收集运动鞋的狂热迷恋填满了整个公寓。"
+          },
+          {
+            "sentence": "The fans showed maniacal support for their favorite idol group.",
+            "sentence_zh": "粉丝们对他们最爱的偶像团体表现出了狂热的支持。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "疯狂的",
+        "examples": [
+          {
+            "sentence": "The villain's maniacal plan to take over the world was foiled.",
+            "sentence_zh": "反派统治世界的疯狂计划被挫败了。"
+          },
+          {
+            "sentence": "They went on a maniacal shopping spree during the Double Eleven sales.",
+            "sentence_zh": "他们在双十一期间进行了疯狂的购物狂欢。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "maniacal laughter",
+        "meaning": "疯狂大笑",
+        "examples": [
+          {
+            "sentence": "The Joker's maniacal laughter sent chills down everyone's spine.",
+            "sentence_zh": "小丑的疯狂大笑让所有人脊背发凉。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "maniacal energy",
+        "meaning": "疯狂精力",
+        "examples": [
+          {
+            "sentence": "The toddler had maniacal energy after eating too much candy.",
+            "sentence_zh": "吃了太多糖果后，这个小孩表现出疯狂的精力。"
+          }
+        ]
+      }
+    ],
+    "teach": "maniacal就像被十杯咖啡因轰炸的松鼠🐿️！'狂'字辈四兄弟：医学上的躁狂(mania)💊，追星族的狂热(fandom)🌟，反派的疯狂(villain)😈，还有双十一剁手的狂乱(shopping)🛒。'疯到极致'英语说barking mad(狗叫式疯)🐶，'轻度疯狂'用eccentric(古怪)。记住：从mania到maniacal，程度就像从奶茶到十杯浓缩咖啡☕！",
+    "recite": {
+      "tips": [
+        "谐音梗：'买你癌壳'→疯狂购物买买买",
+        "易混词对比：manic(轻躁狂) vs maniacal(极疯狂)"
+      ]
+    }
+  },
+  {
+    "word": "maniacally",
+    "etymology": {
+      "breakdown": [
+        "maniac",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根maniac源自希腊语'μανία'(mania)=疯狂，-al形容词后缀，-ly副词后缀→像疯子一样地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "疯狂地",
+        "examples": [
+          {
+            "sentence": "The programmer coded maniacally for 72 hours before the product launch.",
+            "sentence_zh": "产品发布前程序员疯狂编码了72小时。"
+          },
+          {
+            "sentence": "Fans screamed maniacally when Jay Chou appeared on stage.",
+            "sentence_zh": "周杰伦登台时粉丝们疯狂尖叫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "狂躁地",
+        "examples": [
+          {
+            "sentence": "He laughed maniacally while playing the villain in the drama.",
+            "sentence_zh": "他在剧中扮演反派时狂躁大笑。"
+          },
+          {
+            "sentence": "The stock broker typed maniacally during the market crash.",
+            "sentence_zh": "股市暴跌时证券经纪狂躁地敲击键盘。"
+          }
+        ]
+      }
+    ],
+    "teach": "maniacally是'疯批本疯'🧟♂️！词源来自希腊神话中酒神Dionysus引发的mania（癫狂）。就像双十一剁手族👛（shop maniacally），或大妈抢鸡蛋时的战斗状态🥚。说'疯了一样工作'可用work like a maniac，'笑出鸡叫'是cackle maniacally🐔。记住：-ally结尾的副词往往自带戏剧效果！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂你二可厉'→骂人骂到疯癫",
+        "对比记忆：manically（机械地）vs maniacally（疯狂地）",
+        "联想：mania（狂热）+ call（召唤）+ y→召唤疯狂状态"
+      ]
+    }
+  },
+  {
+    "word": "manic",
+    "etymology": {
+      "breakdown": [
+        "man",
+        "ic"
+      ],
+      "meaning_connection": "词根man=疯狂（与mania同源），-ic表形容词性质→像疯子般的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "躁狂的",
+        "examples": [
+          {
+            "sentence": "His manic laughter scared the delivery guy away.",
+            "sentence_zh": "他狂躁的笑声吓跑了外卖小哥。"
+          },
+          {
+            "sentence": "The manic energy in the live-streaming room was contagious.",
+            "sentence_zh": "直播间里躁动的情绪极具传染性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "躁狂者",
+        "examples": [
+          {
+            "sentence": "That manic kept shouting 'double 11 discounts' at the mall.",
+            "sentence_zh": "那个躁狂者在商场不停喊着'双十一打折'。"
+          },
+          {
+            "sentence": "Some tech geniuses are considered creative manics.",
+            "sentence_zh": "某些科技天才被视为创造力爆棚的狂人。"
+          }
+        ]
+      }
+    ],
+    "teach": "manic其实是'蛮力克'💥！古希腊认为mania是月神赐予的疯狂力量🌕，现代形容双十一剁手族的manic buying（狂买症）。说'疯忙'用manically busy，'躁动狗'叫manic dog🐶。记住：你的购物车和这个单词一样——全是'狂'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂你克'→躁狂者骂人克制不住",
+        "易混词对比：manic(病态狂躁) vs. enthusiastic(热情积极)"
+      ]
+    }
+  },
+  {
+    "word": "manically",
+    "etymology": {
+      "breakdown": [
+        "manic",
+        "ally"
+      ],
+      "meaning_connection": "词根manic=疯狂的（来自希腊语mania），后缀-ally构成副词形式→形容像躁狂症发作般的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "急躁地",
+        "examples": [
+          {
+            "sentence": "He refreshed the stock app manically during the market crash.",
+            "sentence_zh": "股市暴跌时他疯狂刷新股票软件。"
+          },
+          {
+            "sentence": "The panda keeper manically checked bamboo supplies before the quarantine.",
+            "sentence_zh": "隔离前熊猫饲养员焦躁地检查竹子供量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "狂躁地",
+        "examples": [
+          {
+            "sentence": "KTV singers manically switched songs when the boss entered.",
+            "sentence_zh": "老板进门时KTV歌者狂躁地切歌。"
+          },
+          {
+            "sentence": "TikTok creators manically produced content during the viral challenge.",
+            "sentence_zh": "抖音创作者在挑战赛期间疯狂产出内容。"
+          }
+        ]
+      }
+    ],
+    "teach": "manically是'卷王模式'🌀：词源mania是希腊神话疯神名，现代形容996打工人赶DDL的状态⏰。搭配'笑到狂躁'说laugh manically，'疯狂打字'是type manically。地道表达用'像嗑了炫迈'形容manically（like on mental skittles）🍬🚀💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂你靠力'→狂躁骂人要用力",
+        "对比记忆：manically（失控的）vs methodically（有条理的）"
+      ]
+    }
   }
 ]

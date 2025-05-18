@@ -14167,5 +14167,322 @@
         "易混词：symbiosis（共生）是win-win，parasitism是win-lose"
       ]
     }
+  },
+  {
+    "word": "parasitic",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "sit",
+        "ic"
+      ],
+      "meaning_connection": "前缀para=旁边，词根sit=坐/居住，-ic表性质→'坐在旁边的'，引申为不劳而获的寄生关系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "寄生的",
+        "examples": [
+          {
+            "sentence": "The dodder plant is a classic parasitic organism that sucks nutrients from its host.",
+            "sentence_zh": "菟丝子是典型的寄生植物，从宿主身上吸取养分。"
+          },
+          {
+            "sentence": "Some influencers lead parasitic lifestyles by exploiting their wealthy partners.",
+            "sentence_zh": "某些网红通过依附富裕伴侣过着寄生生活。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "由寄生虫引起的",
+        "examples": [
+          {
+            "sentence": "Malaria is a parasitic disease transmitted by mosquitoes.",
+            "sentence_zh": "疟疾是由蚊子传播的寄生虫疾病。"
+          },
+          {
+            "sentence": "The doctor prescribed medication for his parasitic infection.",
+            "sentence_zh": "医生为他的寄生虫感染开了药。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parasitic capacitance",
+        "meaning": "寄生电容",
+        "examples": [
+          {
+            "sentence": "Engineers minimize parasitic capacitance in circuit design.",
+            "sentence_zh": "工程师在电路设计中尽量减少寄生电容。"
+          }
+        ]
+      }
+    ],
+    "teach": "parasitic本质是'霸占沙发客'🛋️！就像《异形》抱脸虫👽黏在宿主脸上，或像总蹭同事午饭的摸鱼王🐟。说'吸血鬼上司'用parasitic boss，'啃老族'叫parasitic adult（比mom's basement更专业）。记住：前缀para-总在搞事情→parallel平行/paranoid疑心/paradox矛盾！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍软西瓜'→寄生虫把宿主拍软了",
+        "易混词对比：symbiotic（互利共生） vs parasitic（单方吸血）"
+      ]
+    }
+  },
+  {
+    "word": "parasitical",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "sit",
+        "ical"
+      ],
+      "meaning_connection": "前缀para-表示'在旁边'，词根sit源自希腊语sitos(食物)，-ical为形容词后缀→原指'在食物旁边获取营养的'，引申为寄生行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "寄生的",
+        "examples": [
+          {
+            "sentence": "The dodder plant's parasitical vines suck nutrients from host plants like vampire tentacles.",
+            "sentence_zh": "菟丝子的寄生藤蔓像吸血鬼触手般从宿主植物吸取养分。"
+          },
+          {
+            "sentence": "Some influencers live a parasitical lifestyle by mooching off their wealthy friends.",
+            "sentence_zh": "某些网红通过蹭富豪朋友过着寄生生活。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "由寄生虫引起的",
+        "examples": [
+          {
+            "sentence": "The patient suffered from parasitical diarrhea after eating undercooked snails.",
+            "sentence_zh": "患者食用未煮熟的螺肉后出现寄生虫性腹泻。"
+          },
+          {
+            "sentence": "Malaria is a typical parasitical disease transmitted by mosquitoes.",
+            "sentence_zh": "疟疾是典型的由蚊虫传播的寄生虫疾病。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parasitical relationship",
+        "meaning": "寄生关系",
+        "examples": [
+          {
+            "sentence": "The bond between remoras and sharks exemplifies a classic parasitical relationship in nature.",
+            "sentence_zh": "印鱼与鲨鱼的关系展现了自然界经典的寄生关系。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "parasitical infection",
+        "meaning": "寄生虫感染",
+        "examples": [
+          {
+            "sentence": "Travelers to tropical areas should beware of possible parasitical infections.",
+            "sentence_zh": "前往热带地区的旅行者需警惕可能的寄生虫感染。"
+          }
+        ]
+      }
+    ],
+    "teach": "parasitical是职场吸血鬼🧛和生物寄生体的共同标签！古罗马食客(clientes)傍贵族蹭饭就是早期寄生(para+sit)，现代版就像总让你代购却不给钱的亲戚👨👦。说'吃白食'可用freeloader，'寄生虫生活'叫sponge off others🧽。记住：你的前任像藤壶(barnacle)般黏人？那就是parasitical love！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍若吸铁扣'→像吸铁石一样吸附的寄生关系",
+        "易混词对比：parasitic(更常用) vs parasitical(更学术)",
+        "记忆法：想象para(旁边)+sit(坐)→坐在你旁边吃你食物的人"
+      ]
+    }
+  },
+  {
+    "word": "parasitism",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "sit",
+        "ism"
+      ],
+      "meaning_connection": "前缀para=旁侧，词根sit=食物（希腊语sitos），-ism表状态→在宿主身旁获取食物的生存方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "寄生关系",
+        "examples": [
+          {
+            "sentence": "The mistletoe's parasitism on apple trees reduces fruit yield by 30%.",
+            "sentence_zh": "槲寄生对苹果树的寄生关系导致果实减产30%。"
+          },
+          {
+            "sentence": "Her thesis on panda gut parasites revealed unknown parasitism patterns.",
+            "sentence_zh": "她关于熊猫肠道寄生虫的论文揭示了未知的寄生模式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "寄生习惯",
+        "examples": [
+          {
+            "sentence": "The influencer's parasitism on trending topics annoyed netizens.",
+            "sentence_zh": "该网红蹭热点的寄生习惯引发网友反感。"
+          },
+          {
+            "sentence": "Corporate parasitism often disguises itself as 'strategic partnership'.",
+            "sentence_zh": "企业寄生习惯常伪装成'战略合作'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "寄生状态",
+        "examples": [
+          {
+            "sentence": "The zombie-ant fungus keeps its host in active parasitism for weeks.",
+            "sentence_zh": "僵尸蚂蚁真菌使宿主保持活跃寄生状态数周。"
+          },
+          {
+            "sentence": "His cryptocurrency wallet remains in parasitism mode, earning interest automatically.",
+            "sentence_zh": "他的加密货币钱包保持寄生状态自动赚取利息。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "social parasitism",
+        "meaning": "社会性寄生",
+        "examples": [
+          {
+            "sentence": "Paying parents' WeChat red packets as rent is modern social parasitism.",
+            "sentence_zh": "把父母的微信红包当房租是现代版社会性寄生。"
+          }
+        ]
+      }
+    ],
+    "teach": "parasitism是生物界的'白嫖术'🦠！就像《三体》智子寄生人类科技🔮，现实中有'职场寄生虫'总蹭同事外卖🍱（office parasitism）。说'啃老族'用adult baby更犀利，而'宿主受害'叫host deprivation🌡️。记住：做独立韭菜，拒当寄生兽！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍热sit嗯'→拍热座位不肯起(像寄生虫)",
+        "易混词：symbiosis(共生)是win-win，parasitism是win-lose",
+        "联想：para(旁边)+site(网站)→寄生在热门网站蹭流量"
+      ]
+    }
+  },
+  {
+    "word": "parasol",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "sol"
+      ],
+      "meaning_connection": "前缀para-=防（如parachute降落伞），词根sol=太阳→'遮阳之物'，后引申为航空器的伞状结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "阳伞",
+        "examples": [
+          {
+            "sentence": "The geisha's cherry-blossom parasol fluttered in Kyoto's wind.",
+            "sentence_zh": "艺伎的樱花阳伞在京都的风中飘摇。"
+          },
+          {
+            "sentence": "Beach vendors rent out rainbow parasols that look like giant lollipops.",
+            "sentence_zh": "沙滩小贩出租像巨型棒棒糖的彩虹阳伞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "伞翼机",
+        "examples": [
+          {
+            "sentence": "The paramotor with a yellow parasol took off from the grassland.",
+            "sentence_zh": "搭载黄色伞翼的动力伞从草原起飞。"
+          },
+          {
+            "sentence": "Modern parasols for aviation are made from space-age materials.",
+            "sentence_zh": "现代航空伞翼采用航天材料制造。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paper parasol",
+        "meaning": "纸伞",
+        "examples": [
+          {
+            "sentence": "The cocktail came with a tiny paper parasol stabbed in a pineapple cube.",
+            "sentence_zh": "鸡尾酒上插着刺穿菠萝块的小纸伞。"
+          }
+        ]
+      }
+    ],
+    "teach": "parasol是太阳的盾牌🛡️！欧洲贵妇用蕾丝阳伞(parasol)防雀斑→就像移动防晒霜🧴，而伞翼机(parasol)则是飞行员的空中荷叶🪂。搭配：'撑阳伞'要说deploy a parasol（像展开降落伞），'收伞'用fold up。地道说法：'晒成炭'叫tan like a rotisserie chicken🍗",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍热骚'→拍打热浪的骚气阳伞",
+        "易混词：umbrella（雨伞）vs parasol（阳伞）",
+        "记忆法：para(防护)+sol(太阳)=防日神器"
+      ]
+    }
+  },
+  {
+    "word": "paratroop",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "troop"
+      ],
+      "meaning_connection": "前缀para-表示'降落伞'（源自parachute），troop表示'部队'→字面意思是'用降落伞的部队'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "伞兵部队",
+        "examples": [
+          {
+            "sentence": "The paratroop descended like blossoming flowers in the night sky.",
+            "sentence_zh": "伞兵部队像绽放的花朵般降落在夜空中。"
+          },
+          {
+            "sentence": "D-Day's success relied heavily on the paratroop securing key bridges.",
+            "sentence_zh": "诺曼底登陆的成功很大程度上依赖伞兵部队控制关键桥梁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paratroop regiment",
+        "meaning": "伞兵团",
+        "examples": [
+          {
+            "sentence": "The 101st Airborne is the most famous paratroop regiment in history.",
+            "sentence_zh": "101空降师是历史上最著名的伞兵团。"
+          }
+        ]
+      }
+    ],
+    "teach": "paratroop其实是'天降神兵'🪂！二战时德军管伞兵叫Fallschirmjäger（直译'降落伞猎人')，而英国用paratroop这个词就像把士兵装进外卖盒空投📦。要说'空降作战'叫airborne operation，'跳伞新手'戏称cherry jumper🍒。记住：para+troop=会飞的步兵！",
+    "recite": {
+      "tips": [
+        "视觉联想：para像降落伞形状，troop像列队的小人👥👥👥",
+        "易混词对比：parachute（降落伞）vs paratrooper（伞兵个人）"
+      ]
+    }
   }
 ]

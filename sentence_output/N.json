@@ -14320,5 +14320,327 @@
         "对比记忆：network（n.网络）→ networked（adj.联网的）"
       ]
     }
+  },
+  {
+    "word": "networking",
+    "etymology": {
+      "breakdown": [
+        "net",
+        "work",
+        "ing"
+      ],
+      "meaning_connection": "net表示'网'，work表示'工作'，-ing表进行状态→原指网络连接工作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "连网",
+        "examples": [
+          {
+            "sentence": "The networking speed determines how fast you can stream 4K videos.",
+            "sentence_zh": "连网速度决定你能多快播放4K视频。"
+          },
+          {
+            "sentence": "Our office networking crashed right before the video conference.",
+            "sentence_zh": "我们的办公室联网在视频会议前崩溃了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "建网",
+        "examples": [
+          {
+            "sentence": "5G networking requires installing millions of base stations.",
+            "sentence_zh": "5G建网需要安装数百万个基站。"
+          },
+          {
+            "sentence": "The networking of smart home devices is surprisingly complex.",
+            "sentence_zh": "智能家居设备的建网出人意料地复杂。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "social networking",
+        "meaning": "社交网络",
+        "examples": [
+          {
+            "sentence": "WeChat is the ultimate social networking tool in China.",
+            "sentence_zh": "微信是中国终极的社交网络工具。"
+          }
+        ]
+      }
+    ],
+    "teach": "networking就像织毛衣🧶！计算机连网是给路由器'织网线'（ethernet cables），而社交建网是给人类'织关系'（guanxi）。当网络卡顿时，中国人会说'网速像蜗牛爬'🐌（slow as a snail），专业说法是'带宽不足'（bandwidth throttling）。记住：好的networking让你抢红包都快人一步💰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'耐特蜗行'→网络卡顿时耐着性子蜗行",
+        "易混词对比：network（网络） vs. net（网） vs. web（网状物）"
+      ]
+    }
+  },
+  {
+    "word": "neural",
+    "etymology": {
+      "breakdown": [
+        "neur",
+        "al"
+      ],
+      "meaning_connection": "词根neur=神经/肌腱（希腊语neuron），后缀-al表形容词属性→与神经系统相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "神经的",
+        "examples": [
+          {
+            "sentence": "The doctor drew a neural network diagram resembling spicy hotpot ingredients.",
+            "sentence_zh": "医生画了一张类似火锅配料的神经网络图。"
+          },
+          {
+            "sentence": "Her research focuses on neural pathways in octopus brains.",
+            "sentence_zh": "她的研究专注于章鱼大脑中的神经通路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "神经系统的",
+        "examples": [
+          {
+            "sentence": "Tai Chi has proven benefits for neural system health.",
+            "sentence_zh": "太极拳对神经系统健康有显著益处。"
+          },
+          {
+            "sentence": "Neural plasticity allows us to learn subway routes in new cities.",
+            "sentence_zh": "神经系统的可塑性让我们能记住新城市的地铁线路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "神经中枢的",
+        "examples": [
+          {
+            "sentence": "The neural control center works like Beijing's traffic command system.",
+            "sentence_zh": "神经中枢就像北京的交通指挥中心般运作。"
+          },
+          {
+            "sentence": "Alcohol affects neural coordination more than singing KTV off-key.",
+            "sentence_zh": "酒精对神经中枢协调性的影响比唱K跑调更严重。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "neural network",
+        "meaning": "神经网络",
+        "examples": [
+          {
+            "sentence": "The AI's neural network mimics how we memorize hotpot recipes.",
+            "sentence_zh": "这个AI的神经网络模仿人类记忆火锅配方的方式。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "neural pathway",
+        "meaning": "神经通路",
+        "examples": [
+          {
+            "sentence": "Spicy food creates unique neural pathways in Sichuan people's brains.",
+            "sentence_zh": "辛辣食物在四川人的大脑中形成独特的神经通路。"
+          }
+        ]
+      }
+    ],
+    "teach": "neural其实是'脑力劳动者'💡！古希腊人认为神经(neur)像弓弦般控制身体🏹，现代人用neural network点外卖比老妈记菜谱还快🤖。说'烧脑'用brain-burning就像火锅辣到神经颤抖🌶️，'死记硬背'叫rote learning像给神经通路铺水泥🛣️。记住：你的neural系统比5G网络更复杂！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛揉'→牛魔王揉太阳穴缓解神经痛",
+        "易混词：neutral（中立的）vs neural（神经的）→ 中立派(neutral)不站队，神经派(neural)管大脑"
+      ]
+    }
+  },
+  {
+    "word": "neurological",
+    "etymology": {
+      "breakdown": [
+        "neuro",
+        "log",
+        "ical"
+      ],
+      "meaning_connection": "词根neuro=神经，-log=学科，-ical=形容词后缀→研究神经的学科相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "神经病学上的",
+        "examples": [
+          {
+            "sentence": "The doctor specializes in neurological disorders like Parkinson's disease.",
+            "sentence_zh": "这位医生专攻帕金森症等神经病学疾病。"
+          },
+          {
+            "sentence": "This fMRI scan reveals fascinating neurological activity during mahjong games.",
+            "sentence_zh": "这份核磁共振扫描揭示了打麻将时有趣的神经活动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "neurological examination",
+        "meaning": "神经学检查",
+        "examples": [
+          {
+            "sentence": "The neurologist performed a neurological examination with a reflex hammer.",
+            "sentence_zh": "神经科医生用叩诊锤进行了神经学检查。"
+          }
+        ]
+      }
+    ],
+    "teach": "neurological就像大脑的电路维修工🧠⚡！词根neuro来自希腊神话的雅典娜——她不仅掌管智慧还发明了神经网络（大雾）。做'神经检查'叫run neurological tests就像检测5G信号📶，抱怨'脑子短路'可以说my wiring's faulty（我线路故障了）🔧。记住：你的每个emoji选择都是神经突触在狂欢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛啊逻辑扣'→神经学大牛(neuro)的逻辑(log)被扣(ical)在实验室",
+        "易混词对比：neurological（神经学的） vs psychological（心理学的）"
+      ]
+    }
+  },
+  {
+    "word": "neurologist",
+    "etymology": {
+      "breakdown": [
+        "neuro",
+        "logist"
+      ],
+      "meaning_connection": "neuro=神经（源自希腊语neuron），-logist=学者/专家（源自logos=研究）→研究神经系统的专家"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神经病学者",
+        "examples": [
+          {
+            "sentence": "The neurologist published groundbreaking research on dopamine pathways.",
+            "sentence_zh": "这位神经病学者发表了关于多巴胺通路的突破性研究。"
+          },
+          {
+            "sentence": "As a neurologist, she deciphers brain signals like reading emoji codes.",
+            "sentence_zh": "作为神经病学者，她解读脑信号就像破译表情密码。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "神经科医师",
+        "examples": [
+          {
+            "sentence": "The neurologist diagnosed my sleep disorder with a marshmallow test.",
+            "sentence_zh": "神经科医师用棉花糖测试诊断了我的睡眠障碍。"
+          },
+          {
+            "sentence": "This neurologist prescribes music therapy along with medications.",
+            "sentence_zh": "这位神经科医师开药方时还会搭配音乐治疗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pediatric neurologist",
+        "meaning": "儿童神经科医师",
+        "examples": [
+          {
+            "sentence": "The pediatric neurologist uses Lego blocks to explain brain functions.",
+            "sentence_zh": "儿童神经科医师用乐高积木讲解大脑功能。"
+          }
+        ]
+      }
+    ],
+    "teach": "neurologist是'神经黑客'💻！他们像《黑客帝国》里的Neo一样解码神经信号🔌。古埃及人认为心脏才是思考器官💓，直到希腊医生发现神经(neuro)才是真boss！'神经痛'说nerve pain太普通，地道说法是feel like my nerves are throwing a rave（神经在开狂欢派对）🎉。记住：遇到neurologist就问'Doctor, is my WiFi signal strong?'📶",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛老哥治他'→神经问题找牛老哥(neuro-logist)",
+        "易混词：psychologist（心理学家）研究mind，neurologist研究nerves",
+        "拆解记忆：neuro（神经）+logist（专家）= 神经系统的福尔摩斯🕵️"
+      ]
+    }
+  },
+  {
+    "word": "neurology",
+    "etymology": {
+      "breakdown": [
+        "neuro",
+        "logy"
+      ],
+      "meaning_connection": "neuro=神经（来自希腊语neuron），-logy=学科（来自希腊语logia）→研究神经的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神经病学",
+        "examples": [
+          {
+            "sentence": "The hospital's neurology department has an MRI machine shaped like a spaceship.",
+            "sentence_zh": "这家医院的神经科有台飞船形状的核磁共振仪。"
+          },
+          {
+            "sentence": "Studying neurology feels like decoding the body's WiFi signals.",
+            "sentence_zh": "学习神经病学就像破译人体的WiFi信号。"
+          }
+        ]
+      }
+    ],
+    "teach": "neurology是研究'脑回路'的学科🧠！就像程序员debug代码💻，神经科医生在debug神经系统。古希腊人认为神经(nervus)像琴弦🎻，现代发现它们其实是生物电线⚡。说'脑子短路'是have a screw loose，'神经大条'叫thick-skinned。记住：你的每个emoji表情都由神经学控制！🤯🤔😉",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛啊老鸡'→神经学家研究牛（neuro）和老鸡（logy）的反射弧",
+        "易混词：neurology（神经病学） vs nephrology（肾脏病学）"
+      ]
+    }
+  },
+  {
+    "word": "neuromuscular",
+    "etymology": {
+      "breakdown": [
+        "neuro",
+        "muscul",
+        "ar"
+      ],
+      "meaning_connection": "neuro=神经（源自希腊语neuron），muscul=肌肉（源自拉丁语musculus，原意为'小老鼠'因肌肉运动形似🐭），-ar=形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "神经肌肉的",
+        "examples": [
+          {
+            "sentence": "Pilates improves neuromuscular coordination like a WiFi booster for your brain-body connection.",
+            "sentence_zh": "普拉提改善神经肌肉协调性，就像给脑体连接装WiFi增强器。"
+          },
+          {
+            "sentence": "The gymnast's neuromuscular control allows her to land as softly as a cat.",
+            "sentence_zh": "这位体操运动员的神经肌肉控制力让她能像猫一样轻盈落地。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "neuromuscular其实是'神经鼠'联姻🐭⚡！neuro（神经）像电网，muscular（肌肉）像发电厂，合体就是脑控肌肉的超级英雄🦸。说'手脚不协调'可调侃为neuromuscular discoordination（神经肌肉迪斯科失调），专业健身叫neuromuscular training（撸铁时你的神经在举哑铃💪）",
+    "recite": {
+      "tips": [
+        "拆解记忆：neuro（神经科医生）+ muscular（猛男）= 神经肌肉猛男",
+        "易混词对比：neurotic（神经质的）是情绪，neuromuscular是生理"
+      ]
+    }
   }
 ]

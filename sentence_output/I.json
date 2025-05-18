@@ -14208,5 +14208,349 @@
         "易混词对比：impactive(有冲击力的) vs impacted(被卡住的)"
       ]
     }
+  },
+  {
+    "word": "impair",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pair"
+      ],
+      "meaning_connection": "前缀im-表否定，词根pair来自拉丁语pejor(更坏)→使变得更差"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "损害",
+        "examples": [
+          {
+            "sentence": "Staring at screens for 12 hours straight impaired his vision like a foggy camera lens.",
+            "sentence_zh": "连续12小时盯着屏幕损害了他的视力，就像起了雾的相机镜头。"
+          },
+          {
+            "sentence": "The scandal impaired the company's reputation as badly as a panda rolling in mud.",
+            "sentence_zh": "这起丑闻损害了公司声誉，就像熊猫在泥地里打滚般狼狈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "减少",
+        "examples": [
+          {
+            "sentence": "The new tax policy impaired his disposable income to bubble tea level.",
+            "sentence_zh": "新税收政策让他的可支配收入降到奶茶级。"
+          },
+          {
+            "sentence": "Traffic jams impaired the delivery speed to that of a snail courier.",
+            "sentence_zh": "堵车把送货速度削弱到蜗牛快递的水平。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "削弱",
+        "examples": [
+          {
+            "sentence": "Sleep deprivation impaired her focus like a phone with 1% battery.",
+            "sentence_zh": "睡眠不足削弱了她的注意力，就像只剩1%电量的手机。"
+          },
+          {
+            "sentence": "The injury impaired the athlete's performance as much as running with flip-flops.",
+            "sentence_zh": "这次受伤削弱了运动员的表现，好比穿着人字拖跑步。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "visually impaired",
+        "meaning": "视力受损的",
+        "examples": [
+          {
+            "sentence": "The app's voice navigation helps visually impaired users order spicy hotpot safely.",
+            "sentence_zh": "该应用的语音导航帮助视障用户安全点麻辣火锅。"
+          }
+        ]
+      }
+    ],
+    "teach": "impair是隐形的破坏王👑！就像奶茶里的珍珠堵吸管🌀（impair flow），或像忘记关后台APP耗电量🔋（impair battery）。要说'严重损害'可以用cripple这个词，就像被踩瘪的易拉罐🥤。搭配：impair judgment（削弱判断力）/ impair mobility（影响行动）💊记住：所有让事物变糟的行为都叫impair！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派啊'→硬派作风反而impair团队合作",
+        "易混词对比：impact(影响)可能是中性，impair绝对是负面",
+        "记忆tip：想象im(否定)+pair(成对)→让好事成不了双"
+      ]
+    }
+  },
+  {
+    "word": "impaired",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pair",
+        "ed"
+      ],
+      "meaning_connection": "前缀im-表示否定，词根pair源自拉丁语'pejorare'（使变坏），-ed构成形容词→'被变坏的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "受损的",
+        "examples": [
+          {
+            "sentence": "The Great Wall's impaired sections are being restored with 3D printing tech.",
+            "sentence_zh": "长城的受损部分正用3D打印技术修复。"
+          },
+          {
+            "sentence": "His impaired hearing made him miss the fire alarm.",
+            "sentence_zh": "受损的听力使他没听到火警警报。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "visually impaired",
+        "meaning": "视力受损的",
+        "examples": [
+          {
+            "sentence": "Beijing subway provides tactile guides for the visually impaired.",
+            "sentence_zh": "北京地铁为视障人士提供盲道指引。"
+          }
+        ]
+      }
+    ],
+    "teach": "impaired就像被熊孩子玩坏的乐高🚧！词根pair本指'变坏'，加个im-就变成'被搞砸的'（比如熬夜后你的impaired brain🧠）。说'残疾'用differently abled更礼貌，而'喝高了'可以说impaired driver🚗💨。记住：impaired的东西就像没信号的手机📱——还能用但不好使！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派儿的'→硬派作风导致身体受损",
+        "易混词对比：impair（v.损坏） vs. repair（v.修理）→一对反义词"
+      ]
+    }
+  },
+  {
+    "word": "impairment",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pair",
+        "ment"
+      ],
+      "meaning_connection": "前缀im-表'否定'，词根pair来自拉丁语pejorare（变坏），后缀-ment表状态→使变坏的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "削弱",
+        "examples": [
+          {
+            "sentence": "Sleep deprivation causes cognitive impairment similar to being drunk.",
+            "sentence_zh": "睡眠剥夺会导致类似醉酒状态的认知削弱。"
+          },
+          {
+            "sentence": "The impairment of iPhone signal in elevators inspired many memes.",
+            "sentence_zh": "电梯里iPhone信号的削弱催生了许多表情包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "减少",
+        "examples": [
+          {
+            "sentence": "Huawei faced revenue impairment due to chip restrictions.",
+            "sentence_zh": "华为因芯片限制面临营收减少。"
+          },
+          {
+            "sentence": "The impairment of subway passengers during epidemics surprised officials.",
+            "sentence_zh": "疫情期间地铁乘客的减少让官员们惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "损害",
+        "examples": [
+          {
+            "sentence": "Squatting to play phones causes knee joint impairment.",
+            "sentence_zh": "蹲着玩手机会导致膝关节损害。"
+          },
+          {
+            "sentence": "Air pollution leads to lung function impairment.",
+            "sentence_zh": "空气污染会导致肺功能损害。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "损伤",
+        "examples": [
+          {
+            "sentence": "The car accident caused permanent visual impairment.",
+            "sentence_zh": "车祸造成了永久性视力损伤。"
+          },
+          {
+            "sentence": "Binge-watching dramas may lead to hearing impairment from earphone overuse.",
+            "sentence_zh": "刷剧时耳机使用过度可能导致听力损伤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "危害",
+        "examples": [
+          {
+            "sentence": "WeChat addiction causes social skill impairment.",
+            "sentence_zh": "微信成瘾会危害社交能力。"
+          },
+          {
+            "sentence": "The impairment to panda habitats worries conservationists.",
+            "sentence_zh": "对熊猫栖息地的危害让环保人士担忧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cognitive impairment",
+        "meaning": "认知损伤",
+        "examples": [
+          {
+            "sentence": "Alzheimer's patients show progressive cognitive impairment.",
+            "sentence_zh": "阿尔茨海默症患者会出现渐进性认知损伤。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "asset impairment",
+        "meaning": "资产减值",
+        "examples": [
+          {
+            "sentence": "The real estate company announced huge asset impairment this quarter.",
+            "sentence_zh": "该房地产公司本季度宣布巨额资产减值。"
+          }
+        ]
+      }
+    ],
+    "teach": "impairment就像手机掉水里📱→先是信号削弱📶（signal impairment），然后电量减少🔋（battery impairment），最终主板损害💥（hardware impairment）。想表达'熬夜毁容'可以说moonlight impairment🌙，'外卖危害健康'是takeout impairment🛵。记住：所有impairment都会让你emo😭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派门特'→硬汉也有损伤时刻",
+        "易混词对比：impairment（渐进损伤）vs. injury（突发伤害）",
+        "记忆tip：im（不）+ pair（配对）= 不能完美配对了就是受损"
+      ]
+    }
+  },
+  {
+    "word": "impala",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自祖鲁语'impala'，直接进入英语体系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "黑斑羚",
+        "examples": [
+          {
+            "sentence": "The impala leaped 3 meters high when escaping from cheetahs in National Geographic documentaries.",
+            "sentence_zh": "在国家地理纪录片里，黑斑羚为躲避猎豹能跃起3米高。"
+          },
+          {
+            "sentence": "Impala's zigzag running inspired the design of soccer dribbling moves.",
+            "sentence_zh": "黑斑羚的之字形跑动启发了足球带球动作设计。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "impala其实是动物界的博尔特🐆！它们弹跳高度相当于两层楼，所以丰田有款车就叫Impala（但跑得没真羚羊快）🚗。记住两个搭配：'graceful as an impala'（优雅如黑斑羚），'impala alert system'（指羚羊般灵敏的预警系统）。说'跑得快'可以叫'zoom like an impala'，就像外卖小哥抢单时的速度🏃💨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬怕啦'→硬核羚羊什么都不怕",
+        "易混词对比：impala vs. antelope（后者是羚羊统称）",
+        "记忆法：把i-m-pala记成'I'm 怕啦'→看到猎豹时的内心OS"
+      ]
+    }
+  },
+  {
+    "word": "impale",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pale"
+      ],
+      "meaning_connection": "前缀im-表示'进入'，词根pale源自拉丁语'palus'（木桩）→ 原指用尖桩刺穿，引申出物理/精神的双重伤害"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "刺穿",
+        "examples": [
+          {
+            "sentence": "The vampire hunter impaled the garlic bread through Dracula's heart.",
+            "sentence_zh": "吸血鬼猎人用蒜蓉面包刺穿了德古拉的心脏。"
+          },
+          {
+            "sentence": "Kebabs are made by impaling meat and vegetables on skewers.",
+            "sentence_zh": "烤肉串就是把肉和蔬菜穿在签子上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使绝望",
+        "examples": [
+          {
+            "sentence": "Her criticism impaled his confidence like a spear.",
+            "sentence_zh": "她的批评像长矛般刺穿了他的信心。"
+          },
+          {
+            "sentence": "The rejection letter impaled all his hopes of studying abroad.",
+            "sentence_zh": "拒信彻底击碎了他的留学梦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "钉住",
+        "examples": [
+          {
+            "sentence": "Butterflies in the museum were impaled with tiny silver pins.",
+            "sentence_zh": "博物馆里的蝴蝶标本被小银针固定着。"
+          },
+          {
+            "sentence": "He impaled the parking ticket angrily on his car antenna.",
+            "sentence_zh": "他把罚单狠狠钉在车天线上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impale on",
+        "meaning": "穿刺在...上",
+        "examples": [
+          {
+            "sentence": "The witch threatened to impale the hero on a cactus.",
+            "sentence_zh": "女巫威胁要把英雄插在仙人掌上。"
+          }
+        ]
+      }
+    ],
+    "teach": "impale是'痛'到极致的词💘！物理上像糖葫芦师傅串山楂🍡（impale fruits），精神上像被老板钉在KPI耻辱柱上📌（impale with criticism）。说'心碎'可以讲impaled heart比broken heart更惨烈，搭配：impale the evidence（钉死证据）/impaled by debt（债务缠身）。记住：被impale的人就像支付宝里的蚂蚁花呗——透心凉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派哦'→硬派(impale)穿刺酷刑",
+        "易混词：pierce（浅刺）vs impale（贯穿）",
+        "联想：I'm+pal（朋友）+e→朋友拿刀捅你"
+      ]
+    }
   }
 ]

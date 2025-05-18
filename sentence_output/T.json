@@ -14243,5 +14243,290 @@
         "易混对比：taxed（被动负重）vs taxing（令人疲惫的主动状态）"
       ]
     }
+  },
+  {
+    "word": "taxi",
+    "etymology": {
+      "breakdown": [
+        "tax",
+        "i"
+      ],
+      "meaning_connection": "tax=收费（源自拉丁语taxare），-i为后缀→原指'计费车辆'，1907年首次用于伦敦街头"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "出租车",
+        "examples": [
+          {
+            "sentence": "The pink taxi in Bangkok is actually a tuk-tuk with air conditioning.",
+            "sentence_zh": "曼谷的粉色出租车其实是带空调的突突车。"
+          },
+          {
+            "sentence": "He paid the taxi fare with 15 Starbucks gift cards.",
+            "sentence_zh": "他用15张星巴克礼品卡支付了出租车费。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "乘出租车",
+        "examples": [
+          {
+            "sentence": "We taxied to the airport with three suitcases full of hotpot ingredients.",
+            "sentence_zh": "我们带着三箱火锅食材乘出租车去机场。"
+          },
+          {
+            "sentence": "After getting lost in the hutong, they finally taxied back to the hotel.",
+            "sentence_zh": "在胡同迷路后，他们最终乘出租车回到酒店。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用出租车送",
+        "examples": [
+          {
+            "sentence": "The hotel taxied the guests to the Great Wall before sunrise.",
+            "sentence_zh": "酒店用出租车在日出前将客人送往长城。"
+          },
+          {
+            "sentence": "She taxied her drunk friend home in a Didi minivan.",
+            "sentence_zh": "她用滴滴面包车送醉酒朋友回家。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "taxi stand",
+        "meaning": "出租车候客站",
+        "examples": [
+          {
+            "sentence": "The panda-themed taxi stand in Chengdu is always crowded with tourists.",
+            "sentence_zh": "成都的熊猫主题出租车站总是挤满游客。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "taxi driver",
+        "meaning": "出租车司机",
+        "examples": [
+          {
+            "sentence": "The taxi driver knew every spicy hotpot spot within 10km.",
+            "sentence_zh": "这位出租车司机知道10公里内所有麻辣火锅店。"
+          }
+        ]
+      }
+    ],
+    "teach": "taxi其实是移动ATM机💸：1907年伦敦的taximeter cabriolet（计程马车）缩写而来，现在用'打滴滴'叫hail a taxi🚖。要说'拼车'叫ride-sharing就像火锅鸳鸯锅🍲，'黑车'是gypsy cab（吉普赛出租）。记住：taxi作动词时像外卖小哥送餐🍱，主语可以是人或车！",
+    "recite": {
+      "tips": [
+        "谐音梗：'泰克西'→泰国(taxi)的突突车司机",
+        "对比记忆：cab（美式）vs taxi（英式）就像汉堡🍔vs炸鱼薯条🍟"
+      ]
+    }
+  },
+  {
+    "word": "taxicab",
+    "etymology": {
+      "breakdown": [
+        "taxi",
+        "cab"
+      ],
+      "meaning_connection": "taxi源自法语'taximètre'（计价器），cab源自'cabriolet'（轻型马车）→ 带计价器的载客马车"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "出租车",
+        "examples": [
+          {
+            "sentence": "The neon-lit taxicabs in Tokyo look like mobile karaoke booths.",
+            "sentence_zh": "东京霓虹灯下的出租车像移动KTV包厢。"
+          },
+          {
+            "sentence": "He paid the taxicab fare with 37 coins from his piggy bank.",
+            "sentence_zh": "他用存钱罐里的37枚硬币付了出租车费。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hail a taxicab",
+        "meaning": "拦出租车",
+        "examples": [
+          {
+            "sentence": "Tourists desperately hail taxicabs near the Forbidden City during rush hour.",
+            "sentence_zh": "高峰期的故宫附近，游客们拼命拦出租车。"
+          }
+        ]
+      }
+    ],
+    "teach": "taxicab是'两栖动物'🚖：前半截taxi来自希腊语'taxis'（排列），后半截cab是'马车'的曾用名🐎。伦敦黑色出租车叫'black cab'，纽约黄色出租车叫'yellow cab'。要吐槽打车贵可以说'This fare could buy 100 bubble teas!'（这车费够买100杯奶茶！）💰☕️🚦记住：招手叫车时得像招财猫一样积极！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太贵可不'→坐taxicab时总嫌太贵可不",
+        "易混词：cab（单指车厢）vs taxicab（完整车辆）"
+      ]
+    }
+  },
+  {
+    "word": "taxidermist",
+    "etymology": {
+      "breakdown": [
+        "taxi",
+        "derm",
+        "ist"
+      ],
+      "meaning_connection": "taxi源自希腊语'taxis'=排列，derm=皮肤，-ist表示人→'整理动物皮肤的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "动物标本剥制师",
+        "examples": [
+          {
+            "sentence": "The taxidermist made the extinct dodo look alive with glass eyes.",
+            "sentence_zh": "标本师用玻璃眼珠让已灭绝的渡渡鸟看起来栩栩如生。"
+          },
+          {
+            "sentence": "A skilled taxidermist can preserve your pet cat forever... if you dare.",
+            "sentence_zh": "技艺高超的标本师能永久保存你的宠物猫...如果你敢的话。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "museum taxidermist",
+        "meaning": "博物馆标本师",
+        "examples": [
+          {
+            "sentence": "The museum taxidermist is fixing the polar bear's loose fur.",
+            "sentence_zh": "博物馆标本师正在修补北极熊标本脱落的毛发。"
+          }
+        ]
+      }
+    ],
+    "teach": "taxidermist是'动物僵尸法师'🧙♂️！最早维多利亚时代贵族把猎物做成标本🏰（就像现代人晒朋友圈）。搭配说'master taxidermist'比老干妈还辣🌶️，吐槽标本恐怖可以说'looks like taxidermy gone wrong'（翻车标本）。记住：他们让死亡‘永生’的本事堪比唐僧肉🍖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太可惜的密室'→标本师的工作室充满遗憾",
+        "易混词：taxi司机载活人，taxidermist‘载’动物灵魂"
+      ]
+    }
+  },
+  {
+    "word": "taxing",
+    "etymology": {
+      "breakdown": [
+        "tax",
+        "ing"
+      ],
+      "meaning_connection": "词根tax=征税/负担，-ing表形容词化，原指'征税的'，引申为'让人像被征税般有负担的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "繁重的",
+        "examples": [
+          {
+            "sentence": "Writing a 10,000-word thesis in three days is mentally taxing.",
+            "sentence_zh": "三天写万字论文简直让人脑力透支。"
+          },
+          {
+            "sentence": "The taxing hiking trail made our legs feel like jelly.",
+            "sentence_zh": "费力的登山步道让我们的腿软得像果冻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "费力的",
+        "examples": [
+          {
+            "sentence": "Teaching toddlers to fold origami is physically taxing.",
+            "sentence_zh": "教幼儿折纸在体力上相当费力。"
+          },
+          {
+            "sentence": "Debugging Python code at 3AM is a taxing experience.",
+            "sentence_zh": "凌晨三点调试Python代码是种折磨。"
+          }
+        ]
+      }
+    ],
+    "teach": "taxing其实是'掏心'💔体验：就像双十一剁手后看账单📉（taxing finances），996加班到灵魂出窍👻（taxing work）。搭配'taxing journey'形容春运挤火车，'taxing relationship'指让人心累的恋爱💔。地道说法叫'brain-draining'（脑细胞死光光），记住：任何让你像被收税般肉痛的都能用taxing！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太克星'→太克星(taxing)的任务克死你",
+        "易混词对比：exhausting（精疲力尽） vs taxing（持续压力）"
+      ]
+    }
+  },
+  {
+    "word": "taxman",
+    "etymology": {
+      "breakdown": [
+        "tax",
+        "man"
+      ],
+      "meaning_connection": "tax=税，man=人→字面意思是'收税的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "收税员",
+        "examples": [
+          {
+            "sentence": "The taxman knocked on my door right after I got my year-end bonus.",
+            "sentence_zh": "我刚拿到年终奖，收税员就来敲门了。"
+          },
+          {
+            "sentence": "Ancient Chinese taxmen would carry abacuses to calculate grain taxes.",
+            "sentence_zh": "古代中国收税员会带着算盘计算粮食税。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "税收检查员",
+        "examples": [
+          {
+            "sentence": "The taxman discovered three undeclared Starbucks gold cards in his audit.",
+            "sentence_zh": "税收检查员在审计中发现三张未申报的星巴克金卡。"
+          },
+          {
+            "sentence": "A good taxman can smell unreported crypto earnings from miles away.",
+            "sentence_zh": "优秀的税收检查员能嗅到数英里外未申报的加密货币收益。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the taxman cometh",
+        "meaning": "税务稽查来了（源自《圣经》句式）",
+        "examples": [
+          {
+            "sentence": "When your WeChat red packets exceed 50,000 yuan, the taxman cometh!",
+            "sentence_zh": "当你的微信红包超过5万元时，税务稽查就来了！"
+          }
+        ]
+      }
+    ],
+    "teach": "taxman是'人间清醒器'💸！英国披头士乐队有首歌就叫《Taxman》吐槽高税收，歌词说'19%留给我的都是侮辱'🎸。说'避税'用tax evasion像在玩猫鼠游戏🐭，'被查税'叫get audited比相亲还紧张😅。记住：taxman来之前，你的钱是你的；taxman来之后...你懂的！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太渴死慢'→收税员追缴速度太慢渴死纳税人",
+        "易混词：taxi driver是开出租的，taxman是开你钱包的"
+      ]
+    }
   }
 ]

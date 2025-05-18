@@ -14345,5 +14345,326 @@
         "易混词对比：legally侧重程序合法，lawfully强调行为正当"
       ]
     }
+  },
+  {
+    "word": "lawfulness",
+    "etymology": {
+      "breakdown": [
+        "law",
+        "ful",
+        "ness"
+      ],
+      "meaning_connection": "law（法律）+ ful（充满…的）+ ness（状态）→ 充满法律的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "法制",
+        "examples": [
+          {
+            "sentence": "The lawfulness of a society is reflected in its citizens' daily behaviors.",
+            "sentence_zh": "一个社会的法制体现在其公民的日常行为中。"
+          },
+          {
+            "sentence": "Ancient China emphasized the lawfulness through strict codes like the Tang Code.",
+            "sentence_zh": "古代中国通过《唐律》等严格法典强调法制。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "合法",
+        "examples": [
+          {
+            "sentence": "The lawfulness of the new policy was questioned by legal experts.",
+            "sentence_zh": "这项新政策的合法性受到法律专家的质疑。"
+          },
+          {
+            "sentence": "Before starting a business, checking its lawfulness is as crucial as tasting soup before serving.",
+            "sentence_zh": "创业前检查合法性就像上菜前尝汤一样重要。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "question the lawfulness",
+        "meaning": "质疑合法性",
+        "examples": [
+          {
+            "sentence": "Netizens quickly questioned the lawfulness of the celebrity's tax evasion.",
+            "sentence_zh": "网民迅速质疑该明星逃税的合法性。"
+          }
+        ]
+      }
+    ],
+    "teach": "lawfulness是法律界的'健康码'📜：绿色✅表示合法（lawful），红色❌就是违法（unlawful）。英国最早的《大宪章》就像法律界的'火锅底料'🍲——1215年就定下了lawfulness的基调。说'游走法律边缘'用地道表达'walk the line'🚶♂️，搭配'uphold lawfulness'（维护法制）和'verify lawfulness'（核实合法性）。记住：lawfulness决定社会这锅火锅会不会煮糊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牢房累死'→没有lawfulness就得住牢房",
+        "易混词对比：lawfulness（合法性）vs. legality（法律性）",
+        "记忆tip：把law-ful-ness拆解成'法律(law)+充满(ful)+状态(ness)'"
+      ]
+    }
+  },
+  {
+    "word": "lawgiver",
+    "etymology": {
+      "breakdown": [
+        "law",
+        "give",
+        "er"
+      ],
+      "meaning_connection": "law（法律）+ give（给予）+ -er（人）→ '给予法律的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "立法者",
+        "examples": [
+          {
+            "sentence": "Hammurabi is considered the first lawgiver in human history.",
+            "sentence_zh": "汉谟拉比被认为是人类历史上第一位立法者。"
+          },
+          {
+            "sentence": "Modern lawgivers need to understand both technology and ethics.",
+            "sentence_zh": "现代立法者需要同时理解科技与伦理。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "制定法律者",
+        "examples": [
+          {
+            "sentence": "The lawgivers are debating the new data privacy regulations.",
+            "sentence_zh": "法律制定者们正在辩论新的数据隐私法规。"
+          },
+          {
+            "sentence": "In ancient Athens, Solon was the most famous lawgiver.",
+            "sentence_zh": "在古希腊，梭伦是最著名的法律制定者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "divine lawgiver",
+        "meaning": "神圣立法者",
+        "examples": [
+          {
+            "sentence": "Moses is often depicted as a divine lawgiver in religious texts.",
+            "sentence_zh": "在宗教典籍中，摩西常被描绘为神圣立法者。"
+          }
+        ]
+      }
+    ],
+    "teach": "lawgiver其实是'法律外卖员'📜！古代立法者像摩西发'十戒快递'（divine lawgiver），现代立法者像程序员写'社会代码'💻（digital lawgiver）。要说'立法大佬'可称legal architect，'临时法规'叫stopgap law🚧。记住：每个lawgiver都是拿着法槌的编剧✍️，而我们都是他剧本里的群众演员！",
+    "recite": {
+      "tips": [
+        "谐音梗：'老哥稳'→老哥稳(lawgiver)坐立法台",
+        "易混词对比：lawmaker（较中性） vs lawgiver（更具权威色彩）",
+        "记忆tip：想象法官袍下藏着外卖箱，里面装满法律条文"
+      ]
+    }
+  },
+  {
+    "word": "lawless",
+    "etymology": {
+      "breakdown": [
+        "law",
+        "less"
+      ],
+      "meaning_connection": "law=法律，less=缺少→缺少法律约束的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "非法的",
+        "examples": [
+          {
+            "sentence": "The lawless online gambling ring was busted by Tencent's security team.",
+            "sentence_zh": "腾讯安全团队捣毁了非法的网络赌博团伙。"
+          },
+          {
+            "sentence": "Selling counterfeit Forbidden City souvenirs is a lawless act.",
+            "sentence_zh": "贩卖假冒故宫纪念品属于非法行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "违法的",
+        "examples": [
+          {
+            "sentence": "Cycling with a sheep on your back is lawless in Beijing.",
+            "sentence_zh": "在北京背着绵羊骑自行车是违法的。"
+          },
+          {
+            "sentence": "The lawless street vendors kept reappearing like mushrooms after rain.",
+            "sentence_zh": "那些违法摊贩像雨后春笋般不断冒出来。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lawless zone",
+        "meaning": "法外之地",
+        "examples": [
+          {
+            "sentence": "Some online forums became lawless zones for pirated movie sharing.",
+            "sentence_zh": "某些网络论坛成了盗版电影分享的法外之地。"
+          }
+        ]
+      }
+    ],
+    "teach": "lawless就像孙猴子大闹天宫🐒！词尾-less就像被撕掉的法律文书📜（law+less=法律缺失）。说'黑市'叫lawless market像美团外卖的黑作坊🍱，'无法无天'说running wild就像广场舞大妈霸占篮球场🏀。记住：less结尾常表否定，比如careless（粗心）就是care+less=缺少小心！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牢乐死'→坐牢还乐死，真是无法无天",
+        "易混词对比：lawful（合法的）vs lawless（非法的）像健康码绿码和红码"
+      ]
+    }
+  },
+  {
+    "word": "lawlessness",
+    "etymology": {
+      "breakdown": [
+        "law",
+        "less",
+        "ness"
+      ],
+      "meaning_connection": "law=法律，-less=缺乏...的，-ness=状态→缺乏法律约束的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不服从法律",
+        "examples": [
+          {
+            "sentence": "The pirate bay was famous for its proud lawlessness.",
+            "sentence_zh": "那个海盗湾以公然不服从法律而臭名昭著。"
+          },
+          {
+            "sentence": "Some crypto enthusiasts mistake lawlessness for freedom.",
+            "sentence_zh": "有些加密币爱好者把不服从法律错当自由。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不受法律制约",
+        "examples": [
+          {
+            "sentence": "The dark web's lawlessness attracts both activists and criminals.",
+            "sentence_zh": "暗网不受法律制约的特性同时吸引活动家和罪犯。"
+          },
+          {
+            "sentence": "Wild west towns were often symbols of lawlessness before sheriffs arrived.",
+            "sentence_zh": "在警长到来前，西部小镇常是不受法律制约的象征。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "目无法纪",
+        "examples": [
+          {
+            "sentence": "The riot escalated into pure lawlessness with looting everywhere.",
+            "sentence_zh": "骚乱升级为彻头彻尾的目无法纪，到处发生抢劫。"
+          },
+          {
+            "sentence": "Gangster movies often romanticize lawlessness with fancy suits and cigars.",
+            "sentence_zh": "黑帮电影常用华服雪茄浪漫化目无法纪的行为。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "descend into lawlessness",
+        "meaning": "陷入无政府状态",
+        "examples": [
+          {
+            "sentence": "After the zombie outbreak, the city quickly descended into lawlessness.",
+            "sentence_zh": "僵尸爆发后，城市迅速陷入无政府状态。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "zone of lawlessness",
+        "meaning": "法外之地",
+        "examples": [
+          {
+            "sentence": "Some online games deliberately create zones of lawlessness for players to vent.",
+            "sentence_zh": "有些网游故意设置法外之地供玩家发泄。"
+          }
+        ]
+      }
+    ],
+    "teach": "lawlessness就像火锅里的罂粟壳🌶️——看似刺激实则危险！它和anarchy（无政府主义）是孪生兄弟👬，但后者是哲学主张，前者纯属混乱。说'无法无天'美国人用run amok（马来语借词），英国人说like the Wild West🤠。记住：law+less+ness=法律缺失症候群⚖️💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'牢less腻死'→没有(lawless)牢房腻死人",
+        "易混词对比：lawful（合法）vs. lawless（非法）就像健康码绿码vs.红码"
+      ]
+    }
+  },
+  {
+    "word": "lawmaker",
+    "etymology": {
+      "breakdown": [
+        "law",
+        "maker"
+      ],
+      "meaning_connection": "合成词：law（法律）+ maker（制定者）→ 制造法律的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "立法者",
+        "examples": [
+          {
+            "sentence": "The lawmakers debated for 8 hours about panda conservation funding.",
+            "sentence_zh": "立法者们就大熊猫保护基金议案辩论了8小时。"
+          },
+          {
+            "sentence": "As a lawmaker, she proposed the 'No Spicy Hotpot in elevators' bill.",
+            "sentence_zh": "作为立法者，她提出了'禁止在电梯里吃麻辣火锅'的法案。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "federal lawmaker",
+        "meaning": "联邦立法者",
+        "examples": [
+          {
+            "sentence": "Federal lawmakers are discussing a nationwide bubble tea tax.",
+            "sentence_zh": "联邦立法者正在讨论全国奶茶税。"
+          },
+          {
+            "sentence": "The federal lawmaker wore a tie with tiny dumplings pattern to the session.",
+            "sentence_zh": "这位联邦立法者戴着有小笼包图案的领带出席会议。"
+          }
+        ]
+      }
+    ],
+    "teach": "lawmaker其实是'法律制造机'⚖️：他们像火锅店制定'微辣中辣变态辣'标准一样制定法律🌶️。要说'政策出台'可以用roll out new policies（像铺红毯），'法律漏洞'叫loophole（像火锅漏勺🥄）。记住：好的lawmaker应该像鸳鸯锅——兼顾清汤派和红油派！",
+    "recite": {
+      "tips": [
+        "谐音梗：'老美客'→立法者常和老美客人打交道",
+        "易混词对比：lawyer（律师）是打官司的，lawmaker（立法者）是定规矩的",
+        "联想记忆：maker像麦当劳的'麦'，法律(law)的麦当劳→制定法律快餐的人"
+      ]
+    }
   }
 ]

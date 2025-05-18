@@ -13486,5 +13486,367 @@
         "易混词：canvass（拉选票）比canvas多一个s，就像政治家多一套说辞"
       ]
     }
+  },
+  {
+    "word": "canvass",
+    "etymology": {
+      "breakdown": [
+        "canvas",
+        "s"
+      ],
+      "meaning_connection": "源自canvas（帆布），原指筛子上的帆布网，引申为'仔细筛选'，后发展为'详细检查'和'拉票'等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "细查",
+        "examples": [
+          {
+            "sentence": "The police conducted a thorough canvass of the crime scene.",
+            "sentence_zh": "警方对犯罪现场进行了彻底细查。"
+          },
+          {
+            "sentence": "The journalist's canvass revealed new evidence.",
+            "sentence_zh": "记者的仔细调查发现了新证据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "讨论",
+        "examples": [
+          {
+            "sentence": "After much canvass, the committee reached a decision.",
+            "sentence_zh": "经过大量讨论，委员会做出了决定。"
+          },
+          {
+            "sentence": "The novel became a hot topic of canvass in literary circles.",
+            "sentence_zh": "这部小说成为文学界热议的讨论话题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "游说",
+        "examples": [
+          {
+            "sentence": "The political canvass lasted until midnight.",
+            "sentence_zh": "政治游说一直持续到午夜。"
+          },
+          {
+            "sentence": "Door-to-door canvass is common during elections.",
+            "sentence_zh": "挨家挨户游说在选举期间很常见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "彻底检查",
+        "examples": [
+          {
+            "sentence": "The auditor canvassed the company's financial records.",
+            "sentence_zh": "审计员彻底检查了公司的财务记录。"
+          },
+          {
+            "sentence": "We need to canvass all possible solutions.",
+            "sentence_zh": "我们需要彻底检查所有可能的解决方案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "向...拉票或拉生意",
+        "examples": [
+          {
+            "sentence": "The candidate canvassed the neighborhood for votes.",
+            "sentence_zh": "候选人在社区拉票。"
+          },
+          {
+            "sentence": "Sales reps canvass potential clients every day.",
+            "sentence_zh": "销售代表每天都在向潜在客户拉生意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "讨论",
+        "examples": [
+          {
+            "sentence": "The panel canvassed the issue for hours.",
+            "sentence_zh": "小组讨论了这个问题数小时。"
+          },
+          {
+            "sentence": "Let's canvass this proposal at the next meeting.",
+            "sentence_zh": "让我们在下一次会议上讨论这个提案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "游说",
+        "examples": [
+          {
+            "sentence": "Volunteers are canvassing for environmental protection.",
+            "sentence_zh": "志愿者们正在为环境保护进行游说。"
+          },
+          {
+            "sentence": "She canvassed vigorously during the campaign.",
+            "sentence_zh": "她在竞选期间积极游说。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "canvass for",
+        "meaning": "为...游说",
+        "examples": [
+          {
+            "sentence": "Students canvassed for better campus facilities.",
+            "sentence_zh": "学生们为改善校园设施而游说。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "canvass opinion",
+        "meaning": "征求意见",
+        "examples": [
+          {
+            "sentence": "The mayor canvassed public opinion before making the decision.",
+            "sentence_zh": "市长在做出决定前征求了公众意见。"
+          }
+        ]
+      }
+    ],
+    "teach": "canvass就像政治版的'海底捞'🦸：最初指用帆布筛子精细过滤（检查），后来变成政客挨家挨户'捞选票'🗳️。'游说'就像推销员敲门问'办卡吗？'（Can I interest you in...），而'讨论'就像火锅局七嘴八舌涮毛肚🍲。记住：canvass for votes就像追星打call，canvass opinion则是朋友圈求点赞👍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看我去'→看我去(canvass)拉票",
+        "易混词：canvas（画布）vs. canvass（游说）→多一个s像多张嘴在说话",
+        "记忆法：想象政客拿着帆布(canvas)做的投票箱到处跑"
+      ]
+    }
+  },
+  {
+    "word": "canvasser",
+    "etymology": {
+      "breakdown": [
+        "canvas",
+        "er"
+      ],
+      "meaning_connection": "原指在帆布(canvas)上拉票(因早期选举海报印在帆布上)，-er表执行者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "游说者",
+        "examples": [
+          {
+            "sentence": "The canvasser knocked on doors with a smile brighter than LED billboards.",
+            "sentence_zh": "这个游说者敲门时的笑容比LED广告牌还亮。"
+          },
+          {
+            "sentence": "Political canvassers in Taiwan often hand out free tissues with slogans.",
+            "sentence_zh": "台湾的政治游说者常发印有标语的免费面巾纸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "检票员",
+        "examples": [
+          {
+            "sentence": "The subway canvasser caught someone using a panda photo as transit card.",
+            "sentence_zh": "地铁检票员抓到有人用熊猫照片当交通卡。"
+          },
+          {
+            "sentence": "Election canvassers counted ballots until their fingers turned purple.",
+            "sentence_zh": "选票检票员计票到手指发紫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "兜揽生意的人",
+        "examples": [
+          {
+            "sentence": "Insurance canvassers near hospitals are more persistent than mosquitoes.",
+            "sentence_zh": "医院附近的保险兜揽者比蚊子还执着。"
+          },
+          {
+            "sentence": "The tea merchant canvasser convinced me to buy pu'er older than my grandma.",
+            "sentence_zh": "茶叶推销员说服我买了比我奶奶还老的普洱茶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "door-to-door canvasser",
+        "meaning": "挨家拜访的推销员",
+        "examples": [
+          {
+            "sentence": "A door-to-door canvasser sold me a knife that can't even cut tomatoes.",
+            "sentence_zh": "上门的推销员卖给我连番茄都切不了的刀。"
+          }
+        ]
+      }
+    ],
+    "teach": "canvasser其实是古代职场刺客🗡️！最早指拖着帆布(canvas)海报的政治说客，现在进化成：1)选举时像复读机🗣️的拉票者 2)地铁里瞪眼如监控👀的查票员 3)健身房门口'游泳健身了解一下'的推销狂魔💪。说'别理推销员'用地道表达：Just ghost them（像对付鬼魂无视他们）👻",
+    "recite": {
+      "tips": [
+        "谐音梗：'看瓦斯'→推销员检查瓦斯(canvasser)顺便卖保险",
+        "易混词对比：counselor（顾问）vs canvasser（推销员）",
+        "记忆tip：想象canvas(帆布)+er→举着广告牌的人"
+      ]
+    }
+  },
+  {
+    "word": "canvassing",
+    "etymology": {
+      "breakdown": [
+        "canvas",
+        "ing"
+      ],
+      "meaning_connection": "源自canvas（帆布），原指用帆布筛矿，引申为'仔细检查'，后演变为政治领域的'游说'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "政治游说",
+        "examples": [
+          {
+            "sentence": "Volunteers are canvassing neighborhoods with panda-shaped brochures.",
+            "sentence_zh": "志愿者们正带着熊猫造型的宣传册在社区游说。"
+          },
+          {
+            "sentence": "Politicians canvassing in rural areas often ride electric tricycles.",
+            "sentence_zh": "在农村游说的政客们常骑电动三轮车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "民意调查",
+        "examples": [
+          {
+            "sentence": "The AI company is canvassing public opinion about robot chefs.",
+            "sentence_zh": "这家AI公司正在调查民众对机器人厨师的看法。"
+          },
+          {
+            "sentence": "Students canvassing dormitory WiFi complaints use meme questionnaires.",
+            "sentence_zh": "调查宿舍WiFi问题的学生们使用表情包问卷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "详细检查",
+        "examples": [
+          {
+            "sentence": "Archaeologists are canvassing the site with metal detectors shaped like duck bills.",
+            "sentence_zh": "考古学家正用鸭嘴造型的金属探测器详细勘察遗址。"
+          },
+          {
+            "sentence": "The chef canvassed every ingredient like checking election ballots.",
+            "sentence_zh": "主厨检查食材就像核对选票般仔细。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "door-to-door canvassing",
+        "meaning": "挨家挨户游说",
+        "examples": [
+          {
+            "sentence": "Candidates wearing dinosaur costumes do door-to-door canvassing in kindergartens.",
+            "sentence_zh": "穿着恐龙服装的候选人在幼儿园进行挨家挨户游说。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "canvassing for support",
+        "meaning": "寻求支持",
+        "examples": [
+          {
+            "sentence": "The panda conservation program is canvassing for support through douyin challenges.",
+            "sentence_zh": "熊猫保护计划通过抖音挑战赛寻求支持。"
+          }
+        ]
+      }
+    ],
+    "teach": "canvassing就像政治版的'海底捞'🎤：既要像服务员热情游说（door-to-door canvassing），又要像店长收集反馈（canvassing opinions），最后还得像质检员检查火锅底料（canvassing documents）！说'拉票'可以用hit the campaign trail🚶，'民意调查'说成take the pulse把脉💓。记住：好的canvassing就像火锅——料要足，火要猛，还要不断搅动！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看我醒醒'→选举季政客让你醒醒(canvassing)",
+        "对比：survey像无人机航拍，canvassing像上门查水表"
+      ]
+    }
+  },
+  {
+    "word": "canyon",
+    "etymology": {
+      "breakdown": [
+        "can",
+        "yon"
+      ],
+      "meaning_connection": "源自西班牙语cañón（管子），因峡谷形似被水流切割的管道"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "峡谷",
+        "examples": [
+          {
+            "sentence": "Zhangjiajie's canyon looks like a giant dragon's spine.",
+            "sentence_zh": "张家界的峡谷犹如巨龙的脊背。"
+          },
+          {
+            "sentence": "Tourists gasp when seeing the Grand Canyon for the first time.",
+            "sentence_zh": "游客初见科罗拉多大峡谷时无不惊叹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "海底悬崖",
+        "examples": [
+          {
+            "sentence": "The submarine explored a canyon teeming with bioluminescent creatures.",
+            "sentence_zh": "潜水器探索着充满荧光生物的深海悬崖。"
+          },
+          {
+            "sentence": "Mariana Trench has the deepest underwater canyon on Earth.",
+            "sentence_zh": "马里亚纳海沟拥有地球最深的海底峡谷。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "canyon wall",
+        "meaning": "峡谷绝壁",
+        "examples": [
+          {
+            "sentence": "Climbers use drones to scout canyon walls in advance.",
+            "sentence_zh": "攀岩者用无人机提前侦察峡谷绝壁。"
+          }
+        ]
+      }
+    ],
+    "teach": "canyon是地球的皱纹🌋！科罗拉多大峡谷能装下30个珠峰🗻，而海底峡谷比陆地版深5倍🌊。'峡谷徒步'叫canyon hiking要带够自热火锅🍲，形容'巨大差距'说wider than the Grand Canyon（比大峡谷还宽）。记住：所有canyon都是地球的土豪金VIP皱纹！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开业呢'→峡谷景区天天开业呢",
+        "易混词对比：canyon（自然形成） vs. gorge（更狭窄陡峭）"
+      ]
+    }
   }
 ]

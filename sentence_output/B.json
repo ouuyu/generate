@@ -13794,5 +13794,318 @@
         "记忆tip：想象菜市场大妈把'bargain'和'gain'（获利）串在秤杆上"
       ]
     }
+  },
+  {
+    "word": "barge",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'barca'（小船），经古法语进入英语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "驳船",
+        "examples": [
+          {
+            "sentence": "The barge loaded with watermelons got stuck under the bridge.",
+            "sentence_zh": "装满西瓜的驳船卡在桥下了。"
+          },
+          {
+            "sentence": "We took a dinner cruise on a converted barge along the Huangpu River.",
+            "sentence_zh": "我们在黄浦江上乘坐改装驳船享受晚餐游。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用船运输",
+        "examples": [
+          {
+            "sentence": "They barged the stolen bicycles across the canal.",
+            "sentence_zh": "他们用船把偷来的自行车运过运河。"
+          },
+          {
+            "sentence": "Ancient Egyptians barged pyramid stones along the Nile.",
+            "sentence_zh": "古埃及人用船沿尼罗河运输金字塔石料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "蹒跚",
+        "examples": [
+          {
+            "sentence": "The drunk man barged through the night market like a wounded bear.",
+            "sentence_zh": "醉汉像受伤的熊一样蹒跚穿过夜市。"
+          },
+          {
+            "sentence": "After the marathon, runners barged to the rest area.",
+            "sentence_zh": "马拉松赛后选手们蹒跚着走向休息区。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "闯入",
+        "examples": [
+          {
+            "sentence": "The paparazzo barged into the celebrity's hotpot private room.",
+            "sentence_zh": "狗仔队闯入了明星的火锅包间。"
+          },
+          {
+            "sentence": "Never barge in when your roommate is practicing guzheng.",
+            "sentence_zh": "室友练古筝时千万别突然闯入。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "barge in",
+        "meaning": "强行闯入",
+        "examples": [
+          {
+            "sentence": "The delivery guy barged in with durian pizzas during our meeting.",
+            "sentence_zh": "快递员带着榴莲披萨在我们开会时突然闯入。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "barge through",
+        "meaning": "挤过人群",
+        "examples": [
+          {
+            "sentence": "Tourists barged through the crowded Terracotta Warriors pit.",
+            "sentence_zh": "游客们在拥挤的兵马俑坑中挤来挤去。"
+          }
+        ]
+      }
+    ],
+    "teach": "barge这词简直是'横冲直撞'代言人！🚢 当它做名词时是慢吞吞的驳船，像极了早高峰的地铁🚇；做动词时突然暴躁——运输时像外卖小哥闯红灯🏍️（barge goods），走路时像被广场舞大妈撞到的大爷👴（barge along），闯入时像突然查寝的辅导员👩🏫（barge in）。搭配学：'barge pole'（十米长杆）引申为'避之不及'，比如'I wouldn't touch it with a barge pole'（倒贴钱都不要）",
+    "recite": {
+      "tips": [
+        "谐音梗：'八哥'→八哥鸟(barge)乱入会议室",
+        "易混词：barge(笨重移动) vs. dart(快速闪动)"
+      ]
+    }
+  },
+  {
+    "word": "baritone",
+    "etymology": {
+      "breakdown": [
+        "bary",
+        "tonos"
+      ],
+      "meaning_connection": "希腊词根bary=重的/低的，tonos=音调→指介于男高音与男低音之间的中低音域"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "男中音",
+        "examples": [
+          {
+            "sentence": "His voice naturally sits in the baritone range like warm chocolate.",
+            "sentence_zh": "他的嗓音天生属于男中音域，像温热的巧克力般醇厚。"
+          },
+          {
+            "sentence": "Baritone is the most common male voice type in karaoke songs.",
+            "sentence_zh": "男中音是KTV歌曲中最常见的男声类型。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "男中音歌手",
+        "examples": [
+          {
+            "sentence": "The baritone stole the show with his rendition of 'Despacito'.",
+            "sentence_zh": "这位男中音歌手用《慢慢来》的演绎惊艳全场。"
+          },
+          {
+            "sentence": "As a baritone, he can't hit those high notes in Jay Chou's songs.",
+            "sentence_zh": "作为男中音歌手，他唱不了周杰伦歌曲里的超高音。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "低音铜管乐器",
+        "examples": [
+          {
+            "sentence": "The marching band's baritone player almost swallowed his mouthpiece.",
+            "sentence_zh": "军乐队的低音号手差点把吹嘴吞下去。"
+          },
+          {
+            "sentence": "This antique baritone was used in 1930s Shanghai jazz clubs.",
+            "sentence_zh": "这把古董低音号曾用于1930年代上海爵士俱乐部。"
+          }
+        ]
+      }
+    ],
+    "teach": "baritone是声音里的拿铁咖啡☕️：比卡布奇诺（男高音）浓厚，比美式（男低音）轻盈！在乐器界它像低音号界的'扫地僧'🗿，明明很重要却常被忽略。说'嗓音低沉'可用gravelly voice（砂砾嗓），'唱不上去'叫voice crack（破音）。记住：当你想唱《孤勇者》但破音时——这就是baritone的忧伤🎤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'把力透'→把力气透出来才能唱男中音",
+        "易混词对比：bass（男低音） vs baritone（男中音）像摩天大楼与普通住宅的区别"
+      ]
+    }
+  },
+  {
+    "word": "barium",
+    "etymology": {
+      "breakdown": [
+        "baryta",
+        "ium"
+      ],
+      "meaning_connection": "源自baryta（重土），-ium表示金属元素→因钡的矿石重晶石（barite）密度大而得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "钡",
+        "examples": [
+          {
+            "sentence": "Barium meals are used in medical imaging of the digestive tract.",
+            "sentence_zh": "钡餐用于消化道医学成像。"
+          },
+          {
+            "sentence": "The green color in fireworks often comes from barium compounds.",
+            "sentence_zh": "烟花中的绿色通常来自钡化合物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "barium sulfate",
+        "meaning": "硫酸钡",
+        "examples": [
+          {
+            "sentence": "Barium sulfate is the chalky liquid you drink before X-rays.",
+            "sentence_zh": "做X光前喝的白垩状液体就是硫酸钡。"
+          }
+        ]
+      }
+    ],
+    "teach": "钡(barium)是元素界的'重量级演员'⚖️！它的名字来自希腊语'barys'(重)，因为钡盐比石头还沉🗿。做胃镜喝的钡餐就像给消化道'刷大白'🧑‍🎨，而烟花里的钡能让夜空变翡翠绿🎆。记住：钡很重但能让你'轻松'检查肠胃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白鲤鱼'→吞了钡餐的白鲤鱼在X光下游动",
+        "易混词：vs. calcium（钙）→ 钡重钙轻"
+      ]
+    }
+  },
+  {
+    "word": "bark",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'barc'，模拟犬吠声与树皮质感的拟声词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "树皮",
+        "examples": [
+          {
+            "sentence": "The artist carved poetry on birch bark with a laser pen.",
+            "sentence_zh": "艺术家用激光笔在白桦树皮上刻诗。"
+          },
+          {
+            "sentence": "Traditional Chinese medicine uses cinnamon bark as a remedy.",
+            "sentence_zh": "中药使用桂皮入药。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "吠声",
+        "examples": [
+          {
+            "sentence": "The corgi's bark sounds like a squeaky toy.",
+            "sentence_zh": "柯基的吠声像吱吱叫的玩具。"
+          },
+          {
+            "sentence": "His warning bark scared away the delivery robot.",
+            "sentence_zh": "它的警示吠声吓跑了送货机器人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "吠叫",
+        "examples": [
+          {
+            "sentence": "The AI guard dog barks when detecting strangers.",
+            "sentence_zh": "这只电子看门狗检测到陌生人就会吠叫。"
+          },
+          {
+            "sentence": "Barking dogs seldom bite during online arguments.",
+            "sentence_zh": "网络骂战中叫得凶的很少真行动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "喊出",
+        "examples": [
+          {
+            "sentence": "The coach barked orders through a holographic megaphone.",
+            "sentence_zh": "教练通过全息喇叭喊出指令。"
+          },
+          {
+            "sentence": "She barked the password to her smart home system.",
+            "sentence_zh": "她向智能家居系统喊出密码。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "剥树皮",
+        "examples": [
+          {
+            "sentence": "Illegally barking ancient trees carries heavy fines.",
+            "sentence_zh": "非法剥古树树皮会被重罚。"
+          },
+          {
+            "sentence": "The craftsman barked the willow branches for basket weaving.",
+            "sentence_zh": "匠人剥去柳条树皮准备编篮。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bark up the wrong tree",
+        "meaning": "错怪对象",
+        "examples": [
+          {
+            "sentence": "If you think I ate your mooncake, you're barking up the wrong tree!",
+            "sentence_zh": "要是你觉得我偷吃了你的月饼，那可真是冤枉人了！"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bark worse than one's bite",
+        "meaning": "雷声大雨点小",
+        "examples": [
+          {
+            "sentence": "The new manager barks worse than his bite.",
+            "sentence_zh": "新经理凶起来像老虎，其实是个Hello Kitty。"
+          }
+        ]
+      }
+    ],
+    "teach": "bark是狗与树的量子纠缠🐕🌳！当狗子bark时像抖音主播开麦🎤，剥树皮bark时像给大树脱毛衣🧥。说人'barking mad'不是骂狗，是说对方疯得冒泡💥。记住：狗吠用at（bark at strangers），剥皮用off（bark off the skin），吐槽用'His bark is worse than his bite'形容键盘侠⌨️",
+    "recite": {
+      "tips": [
+        "谐音梗：'扒壳'→给树扒壳(bark)就是剥树皮",
+        "易混词：bare（光秃秃的） vs bark（树皮）"
+      ]
+    }
   }
 ]

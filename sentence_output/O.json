@@ -13866,5 +13866,324 @@
         "易混词对比：branch侧重结构划分，offshoot强调自然衍生"
       ]
     }
+  },
+  {
+    "word": "offshore",
+    "etymology": {
+      "breakdown": [
+        "off",
+        "shore"
+      ],
+      "meaning_connection": "'off'表示'离开'，'shore'指'海岸'→原义为'离开海岸的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "海面的",
+        "examples": [
+          {
+            "sentence": "The offshore breeze carried the scent of seaweed.",
+            "sentence_zh": "海面的微风带来了海藻的气息。"
+          },
+          {
+            "sentence": "Offshore clouds looked like giant cotton candy.",
+            "sentence_zh": "海面上的云朵像巨型棉花糖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "吹向海面的",
+        "examples": [
+          {
+            "sentence": "The offshore wind made kite-surfing impossible.",
+            "sentence_zh": "吹向海面的风让风筝冲浪无法进行。"
+          },
+          {
+            "sentence": "Fishermen hate offshore winds that push boats landward.",
+            "sentence_zh": "渔民讨厌把船吹向岸边的离岸风。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "近海的",
+        "examples": [
+          {
+            "sentence": "China's offshore oil platforms resemble iron islands.",
+            "sentence_zh": "中国的近海石油平台像钢铁岛屿。"
+          },
+          {
+            "sentence": "The offshore wind farm powers 200,000 households.",
+            "sentence_zh": "这座近海风电场为20万户家庭供电。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "向海面",
+        "examples": [
+          {
+            "sentence": "The cargo ship drifted offshore during the typhoon.",
+            "sentence_zh": "货轮在台风中向海面漂去。"
+          },
+          {
+            "sentence": "Dolphins were swimming offshore beyond the waves.",
+            "sentence_zh": "海豚正在波浪之外的向海面游动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "offshore account",
+        "meaning": "离岸账户",
+        "examples": [
+          {
+            "sentence": "Setting up offshore accounts is like financial hide-and-seek.",
+            "sentence_zh": "开设离岸账户就像金融捉迷藏。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go offshore",
+        "meaning": "出海",
+        "examples": [
+          {
+            "sentence": "Fishermen go offshore before dawn with baozi in their pockets.",
+            "sentence_zh": "渔民们揣着包子在黎明前出海。"
+          }
+        ]
+      }
+    ],
+    "teach": "offshore就像职场双面人🤹：当形容词时是'近海打工人'（offshore drilling近海钻井），当副词秒变'逃离996的叛徒'（move offshore迁往海外）。金融圈黑话叫tax haven避税天堂🏝️，渔民却说'今日offshore=鱼获自由'🐟。记住：风往海里吹叫offshore wind，但你的钱offshore了可能就回不来了💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥夫扫'→奥夫(off)在扫(shore)海面上的落叶🍂",
+        "对比记忆：onshore（陆上的）是offshore的反义词"
+      ]
+    }
+  },
+  {
+    "word": "offside",
+    "etymology": {
+      "breakdown": [
+        "off",
+        "side"
+      ],
+      "meaning_connection": "字面意思为'在侧面之外'，足球术语源自19世纪英国，原指球员站位超出合理区域"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "外侧",
+        "examples": [
+          {
+            "sentence": "The truck's offside mirror got scratched in the narrow alley.",
+            "sentence_zh": "卡车的右侧后视镜在窄巷中被刮花了。"
+          },
+          {
+            "sentence": "British drivers sit on the offside of the vehicle.",
+            "sentence_zh": "英国驾驶员坐在车辆的外侧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "越位",
+        "examples": [
+          {
+            "sentence": "The referee raised his flag for offside just as Messi scored.",
+            "sentence_zh": "梅西刚进球裁判就举旗示意越位。"
+          },
+          {
+            "sentence": "VAR technology helps determine marginal offside decisions.",
+            "sentence_zh": "视频助理裁判技术帮助判定毫米级越位。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "offside trap",
+        "meaning": "造越位战术",
+        "examples": [
+          {
+            "sentence": "The Italian team's perfect offside trap frustrated their opponents.",
+            "sentence_zh": "意大利队的完美造越位战术让对手束手无策。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "offside lane",
+        "meaning": "外侧车道",
+        "examples": [
+          {
+            "sentence": "Cyclists should avoid the offside lane during rush hour.",
+            "sentence_zh": "自行车骑行者应避开高峰期的外侧车道。"
+          }
+        ]
+      }
+    ],
+    "teach": "offside是足球场上的'社死瞬间'⚽！当球员像偷吃零食被抓包的小孩🙈一样站在不该站的位置，裁判就会吹哨举旗🚩。记住这个足球梗：'越位就像早恋，老师（裁判）总能逮到你！' 说'明显的越位'用stonewall offside（石墙般明显的），'争议判罚'叫tight offside call（紧贴线的判定）",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥夫赛的'→奥夫在赛场(offside)总越位",
+        "易混词对比：offside(越位) vs. outside(外部)",
+        "视觉联想：把越位线想象成火锅店的排队线🍲，插队就会被赶出去"
+      ]
+    }
+  },
+  {
+    "word": "offspring",
+    "etymology": {
+      "breakdown": [
+        "off",
+        "spring"
+      ],
+      "meaning_connection": "原指'从某物跳出来的东西'→像春天(spring)植物迸发新芽，比喻生命延续"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "子孙",
+        "examples": [
+          {
+            "sentence": "The panda's offspring clung to its back like a living backpack.",
+            "sentence_zh": "熊猫幼崽像活体背包一样挂在妈妈背上。"
+          },
+          {
+            "sentence": "Confucius' offspring have preserved his teachings for 80 generations.",
+            "sentence_zh": "孔子后代将他的学说保存了80代。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "后代",
+        "examples": [
+          {
+            "sentence": "These AI robots are considered the offspring of human intelligence.",
+            "sentence_zh": "这些AI机器人被视为人类智慧的产物。"
+          },
+          {
+            "sentence": "The offspring of this cultural fusion can be seen in modern Hanfu designs.",
+            "sentence_zh": "这种文化融合的产物体现在现代汉服设计中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "direct offspring",
+        "meaning": "直系后代",
+        "examples": [
+          {
+            "sentence": "The emperor's direct offspring still live in the Forbidden City area.",
+            "sentence_zh": "皇帝的直系后代仍居住在紫禁城周边。"
+          }
+        ]
+      }
+    ],
+    "teach": "offspring其实是'弹出来的小东西'🤸：想象弹簧(spring)弹出新生命→既指人类熊孩子👶，也指创意产物💡（比如iPhone是乔布斯的offspring）。说'多子多孙'用numerous offspring，吐槽熊孩子是terrible offspring🐻。记住：你的每个抖音视频都是创意的offspring！",
+    "recite": {
+      "tips": [
+        "谐音梗：'藕粉丝蹦'→莲藕的粉丝(offspring)蹦出水面",
+        "易混词对比：descendant（强调血缘传承）vs offspring（更泛指）"
+      ]
+    }
+  },
+  {
+    "word": "offstage",
+    "etymology": {
+      "breakdown": [
+        "off",
+        "stage"
+      ],
+      "meaning_connection": "字面意义为'舞台之外'，off表示'离开'，stage指'舞台'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "台后",
+        "examples": [
+          {
+            "sentence": "The lead actress burst into tears as soon as she reached the offstage area.",
+            "sentence_zh": "女主角一到达后台区域就突然哭了起来。"
+          },
+          {
+            "sentence": "The offstage is where all the real drama happens during a theater performance.",
+            "sentence_zh": "剧场表演时，真正的戏剧性场面都发生在台后。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "幕内",
+        "examples": [
+          {
+            "sentence": "The mysterious voice came from the offstage left.",
+            "sentence_zh": "那个神秘的声音来自左侧幕内。"
+          },
+          {
+            "sentence": "Stagehands are busiest in the offstage during scene changes.",
+            "sentence_zh": "换景时，舞台工作人员在幕内最忙碌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "台后的",
+        "examples": [
+          {
+            "sentence": "Their offstage romance surprised all the fans.",
+            "sentence_zh": "他们台后的恋情让所有粉丝都感到惊讶。"
+          },
+          {
+            "sentence": "The documentary reveals the offstage lives of Peking Opera performers.",
+            "sentence_zh": "这部纪录片揭示了京剧演员的台后生活。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "幕内的",
+        "examples": [
+          {
+            "sentence": "The offstage crew wore black to remain invisible in the shadows.",
+            "sentence_zh": "幕内工作人员穿着黑色衣服，以便在阴影中保持隐形。"
+          },
+          {
+            "sentence": "An offstage microphone captured the actor's whispered lines.",
+            "sentence_zh": "一个幕内麦克风捕捉到了演员的低语台词。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "offstage left/right",
+        "meaning": "舞台左侧/右侧幕后区域",
+        "examples": [
+          {
+            "sentence": "The prop master waits offstage right with the fake sword.",
+            "sentence_zh": "道具师拿着假剑在舞台右侧幕后等待。"
+          }
+        ]
+      }
+    ],
+    "teach": "offstage是舞台的'后台朋友圈'📸：就像微信仅好友可见（offstage life），这里藏着演员打喷嚏🤧、提词器卡纸的真相！要说'台前幕后'用'on and off stage'，'穿帮'叫go wrong offstage🎭。记住：人生如戏，你的offstage才是真实演技！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥夫斯泰格'→奥夫(off)在斯泰格(stage)后面",
+        "易混词对比：backstage更强调工作区域，offstage侧重不可见区域"
+      ]
+    }
   }
 ]
