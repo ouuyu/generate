@@ -7818,5 +7818,304 @@
         "易混词：illogical（adj.）→ illogically（adv.）"
       ]
     }
+  },
+  {
+    "word": "illuminate",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lumin",
+        "ate"
+      ],
+      "meaning_connection": "前缀il-表示'加强'，词根lumin表示'光'，-ate为动词后缀→原指'使发光'，引申出物理照明和抽象说明两层含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "照明",
+        "examples": [
+          {
+            "sentence": "The Great Wall is illuminated with golden lights during Mid-Autumn Festival.",
+            "sentence_zh": "中秋节期间长城会被金色灯光照亮。"
+          },
+          {
+            "sentence": "Fireflies illuminated the bamboo forest like floating LEDs.",
+            "sentence_zh": "萤火虫像漂浮的LED灯般照亮了竹林。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用灯装饰",
+        "examples": [
+          {
+            "sentence": "Shanghai's Bund is magnificently illuminated for Christmas.",
+            "sentence_zh": "上海外滩为圣诞节用灯光装饰得璀璨夺目。"
+          },
+          {
+            "sentence": "The wedding hall was illuminated with thousands of crystal pendants.",
+            "sentence_zh": "婚礼大厅用数千水晶吊灯装饰得灯火辉煌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "阐明",
+        "examples": [
+          {
+            "sentence": "The professor illuminated the concept with Douyin viral videos.",
+            "sentence_zh": "教授用抖音热门视频阐明了这个概念。"
+          },
+          {
+            "sentence": "Xi Jinping Thought illuminates China's development path.",
+            "sentence_zh": "习近平新时代中国特色社会主义思想阐明了中国发展道路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "照亮",
+        "examples": [
+          {
+            "sentence": "Smart street lamps automatically illuminate when detecting pedestrians.",
+            "sentence_zh": "智能路灯检测到行人时会自动照亮。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "illuminate with",
+        "meaning": "用...照亮/装饰",
+        "examples": [
+          {
+            "sentence": "The temple was illuminated with 10,000 LED lotus lamps.",
+            "sentence_zh": "寺庙用万盏LED莲花灯装饰。"
+          }
+        ]
+      }
+    ],
+    "teach": "illuminate是自带圣光✨的单词！物理上像故宫夜游的激光投影🏮（illuminate buildings），抽象上像老师用奶茶配方讲解化学🧋（illuminate knowledge）。要形容'恍然大悟'可以说the light bulb goes on💡，'灯光秀'叫light show。记住：从元宵花灯到思想火花，都是illuminate的不同打开方式！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一路明'→一路明(illuminate)灯到家",
+        "易混词对比：illuminate（主动照亮） vs luminous（自发光的）",
+        "记忆tip： lumin-词根家族：luminous（发光的），luminary（发光体→杰出人物）"
+      ]
+    }
+  },
+  {
+    "word": "illuminated",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lumin",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "前缀il-表示'加强'，词根lumin=光，-ate动词后缀，-ed表被动→被光明笼罩的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "被照明的",
+        "examples": [
+          {
+            "sentence": "The Forbidden City looks magical when illuminated at night.",
+            "sentence_zh": "夜晚被照亮的紫禁城如梦似幻。"
+          },
+          {
+            "sentence": "Her face was softly illuminated by the phone screen.",
+            "sentence_zh": "她的脸庞被手机屏幕温柔照亮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "受启发的",
+        "examples": [
+          {
+            "sentence": "He felt illuminated after reading Laozi's philosophy.",
+            "sentence_zh": "读完老子哲学后他豁然开朗。"
+          },
+          {
+            "sentence": "The teacher's words illuminated generations of students.",
+            "sentence_zh": "老师的话语启迪了一代代学子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "加了灯饰的",
+        "examples": [
+          {
+            "sentence": "The illuminated Christmas tree attracted crowds taking selfies.",
+            "sentence_zh": "装饰灯光的圣诞树引来拍照人群。"
+          },
+          {
+            "sentence": "During Mid-Autumn Festival, illuminated lanterns float on the West Lake.",
+            "sentence_zh": "中秋时节西湖上漂浮着彩灯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "加了彩饰的",
+        "examples": [
+          {
+            "sentence": "The illuminated manuscript features golden peonies.",
+            "sentence_zh": "这份彩饰手稿绘制着金线牡丹。"
+          },
+          {
+            "sentence": "Monks spent years creating illuminated Buddhist texts.",
+            "sentence_zh": "僧侣们耗时多年制作彩绘佛经。"
+          }
+        ]
+      }
+    ],
+    "teach": "illuminated就像光的三重奏💡：物理照明（路灯）、精神开悟（顿悟）、艺术装饰（宫灯）！中世纪抄写员用金粉illuminate手稿，就像现在手机屏照亮你的脸📱。搭配：illuminated signs（霓虹招牌）/illuminated mind（开窍）。说'茅塞顿开'可以用the scales fall from one's eyes👁️✨，比灯泡emoji更生动！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一路明你的'→一路照亮你的人生",
+        "对比记忆：illuminate（动词）像打手电筒，illuminated（形容词）像被聚光灯追着跑"
+      ]
+    }
+  },
+  {
+    "word": "illuminating",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lumin",
+        "ate",
+        "ing"
+      ],
+      "meaning_connection": "前缀il-表强化，词根lumin=光，-ate动词后缀，-ing形容词后缀→像被光照亮般使人明白的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有启发性的",
+        "examples": [
+          {
+            "sentence": "The documentary about Dunhuang frescoes was truly illuminating for art students.",
+            "sentence_zh": "这部关于敦煌壁画的纪录片对艺术生极具启发性。"
+          },
+          {
+            "sentence": "His WeChat post comparing emojis across cultures proved unexpectedly illuminating.",
+            "sentence_zh": "他那篇对比不同文化表情包的微信文章意外地发人深省。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "illuminating discussion",
+        "meaning": "富有启发的讨论",
+        "examples": [
+          {
+            "sentence": "The livestream about AI generated an illuminating discussion among netizens.",
+            "sentence_zh": "这场关于人工智能的直播引发了网民们富有启发的讨论。"
+          }
+        ]
+      }
+    ],
+    "teach": "illuminating是'颅内发光'💡！就像古人用灯笼照亮书卷📜（古代真正的'开光'），现代人用emoji点亮对话💬（'顿悟'表情）。搭配：illuminating lecture（神仙网课），illuminating moment（灵光乍现）。说'醍醐灌顶'可以用enlightening，但illuminating更强调持续照亮🧠✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'一路明'→知识一路明(illuminating)",
+        "易混词对比：luminous（物理发光）vs illuminating（思想发光）",
+        "记忆tip：想象灯泡emoji在脑壳里亮起来"
+      ]
+    }
+  },
+  {
+    "word": "illumination",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lumin",
+        "ation"
+      ],
+      "meaning_connection": "前缀il-表示'加强'，词根lumin=光（同luminous发光的），-ation为名词后缀→'给予光明'的过程或结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "照明",
+        "examples": [
+          {
+            "sentence": "The LED illumination in this library mimics natural sunlight.",
+            "sentence_zh": "该图书馆的LED照明模拟自然阳光。"
+          },
+          {
+            "sentence": "Fireflies provided magical illumination in the summer nights of my childhood.",
+            "sentence_zh": "萤火虫为我童年的夏夜带来魔法般的照明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "阐明",
+        "examples": [
+          {
+            "sentence": "The professor's illumination of quantum theory made Schrödinger's cat finally make sense.",
+            "sentence_zh": "教授对量子理论的阐释终于让薛定谔的猫说得通了。"
+          },
+          {
+            "sentence": "Her TED talk provided brilliant illumination on the psychology of meme sharing.",
+            "sentence_zh": "她的TED演讲精彩阐明了表情包分享的心理学机制。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "启发",
+        "examples": [
+          {
+            "sentence": "The ancient Chinese poetry gave him sudden illumination about life.",
+            "sentence_zh": "中国古诗突然给予他关于生命的启发。"
+          },
+          {
+            "sentence": "After 3 cups of boba tea, she had an illumination to solve the coding problem.",
+            "sentence_zh": "三杯奶茶下肚后，她突然获得解决编程问题的启发。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "stage illumination",
+        "meaning": "舞台灯光",
+        "examples": [
+          {
+            "sentence": "The Peking Opera uses dramatic stage illumination to highlight facial expressions.",
+            "sentence_zh": "京剧用夸张的舞台灯光突出面部表情。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sudden illumination",
+        "meaning": "顿悟",
+        "examples": [
+          {
+            "sentence": "His sudden illumination came when he was eating hotpot at 2am.",
+            "sentence_zh": "他的顿悟发生在凌晨两点吃火锅时。"
+          }
+        ]
+      }
+    ],
+    "teach": "illumination是知识界的'发光'💡！中世纪修士抄经用的金粉叫illumination（真·字面发光），现代网红说'我被illumination了'等于中文'我悟了'🤯。搭配'spiritual illumination'（精神启迪）比'鸡汤'高级，说'脑子通电'可以叫mental illumination⚡。记住：从物理照明到智慧闪光，全靠lumin这根词根！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一路明'→一路明(illumination)灯照前程",
+        "易混词对比：illuminate(动词) vs illumination(名词)",
+        "联想记忆：lumin=路灯(luminance亮度)+ation→照明过程"
+      ]
+    }
   }
 ]

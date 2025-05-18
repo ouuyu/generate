@@ -7787,5 +7787,244 @@
         "对比记忆：nearby（具体附近）vs. nearly（几乎）"
       ]
     }
+  },
+  {
+    "word": "nearer",
+    "etymology": {
+      "breakdown": [
+        "near",
+        "er"
+      ],
+      "meaning_connection": "词根near=接近，后缀-er表比较级→距离上更接近的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "较近的",
+        "examples": [
+          {
+            "sentence": "The nearer KFC is just 50 steps from my office, yet I still order delivery.",
+            "sentence_zh": "较近的肯德基离我办公室仅50步，但我依然选择外卖。"
+          },
+          {
+            "sentence": "She chose the nearer seat to charge her phone during the blind date.",
+            "sentence_zh": "相亲时她选了较近的座位给手机充电。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nearer to",
+        "meaning": "更接近于",
+        "examples": [
+          {
+            "sentence": "Your WeChat steps ranking is nearer to first place after cheating with a shake counter.",
+            "sentence_zh": "用了摇步器后，你的微信步数排名更接近第一名了。"
+          }
+        ]
+      }
+    ],
+    "teach": "nearer其实在玩'大家来找茬'🔍！比如奶茶店排队时，'较近的'队伍可能是假象（实际移动更慢）🐢。说'快到了'可以用getting nearer like外卖小哥的GPS📍，搭配'nearer the bone, the sweeter the meat'表示'越接近核心越精彩'🍖。记住：物理距离用nearer，心理距离用closer！",
+    "recite": {
+      "tips": [
+        "谐音梗：'泥儿啊'→踩到较近的泥儿啊",
+        "易混词对比：nearer强调物理距离 vs closer可表情感亲密"
+      ]
+    }
+  },
+  {
+    "word": "nearest",
+    "etymology": {
+      "breakdown": [
+        "near",
+        "est"
+      ],
+      "meaning_connection": "词根near=接近，后缀-est表最高级→物理/抽象意义上最近的距离"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "物理距离最近的",
+        "examples": [
+          {
+            "sentence": "The nearest KFC is 50 meters from the Terracotta Warriors.",
+            "sentence_zh": "距离兵马俑最近的肯德基只有50米。"
+          },
+          {
+            "sentence": "She lives in the nearest apartment to the Spicy Hot Pot Museum.",
+            "sentence_zh": "她住在离麻辣火锅博物馆最近的公寓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "关系最亲密的",
+        "examples": [
+          {
+            "sentence": "My nearest colleague always shares her homemade dumplings with me.",
+            "sentence_zh": "和我最亲密的同事总会分享她包的饺子。"
+          },
+          {
+            "sentence": "During the quarantine, my nearest relative was my cat.",
+            "sentence_zh": "隔离期间，和我最亲密的是我的猫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nearest and dearest",
+        "meaning": "至亲好友",
+        "examples": [
+          {
+            "sentence": "I only video-call my nearest and dearest during Mid-Autumn Festival.",
+            "sentence_zh": "中秋节我只和至亲好友视频通话。"
+          }
+        ]
+      }
+    ],
+    "teach": "nearest就像手机地图上的📍标记：物理上可以指离你最近的奶茶店（nearest bubble tea shop），感情上则是那个随时能借你充电宝的人💕。说'就在隔壁'用just round the corner比用nearest更地道，而'远亲不如近邻'英文就叫Love your nearest neighbor🧑‍🤝‍🧑。记住：你的'最近'可能是一碗螺蛳粉的距离！",
+    "recite": {
+      "tips": [
+        "谐音梗：'腻了est'→腻了(nearest)总找最近的那家外卖",
+        "对比记忆：nearer是较近，nearest是最近，就像奶茶的中杯大杯超大杯🥤"
+      ]
+    }
+  },
+  {
+    "word": "nearly",
+    "etymology": {
+      "breakdown": [
+        "near",
+        "ly"
+      ],
+      "meaning_connection": "词根near表示'接近'，后缀-ly构成副词→保持接近的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "几乎",
+        "examples": [
+          {
+            "sentence": "The AI nearly passed the Turing test last Thursday.",
+            "sentence_zh": "这个AI上周四几乎通过了图灵测试。"
+          },
+          {
+            "sentence": "I nearly swallowed my bubble tea pearl during the meeting.",
+            "sentence_zh": "开会时我差点把珍珠奶茶的珍珠吞下去。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "密切地",
+        "examples": [
+          {
+            "sentence": "The two companies are nearly connected in blockchain development.",
+            "sentence_zh": "这两家公司在区块链开发上密切关联。"
+          },
+          {
+            "sentence": "She watched the livestream nearly to catch every detail of the product launch.",
+            "sentence_zh": "她密切观看直播以捕捉产品发布的每个细节。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nearly there",
+        "meaning": "即将完成",
+        "examples": [
+          {
+            "sentence": "Our project is nearly there, just need to fix this last bug.",
+            "sentence_zh": "我们的项目即将完成，只需修复最后一个bug。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "not nearly",
+        "meaning": "远不及",
+        "examples": [
+          {
+            "sentence": "My coding speed is not nearly as fast as our CTO's.",
+            "sentence_zh": "我的编程速度远不及我们CTO的快。"
+          }
+        ]
+      }
+    ],
+    "teach": "nearly就像玩吃鸡时'差一枪'🔫被反杀的感觉！古人用'near the mark'表示射箭接近靶心🎯，现在说'nearly finished'就像外卖小哥还有500米就到你家门口🏍️。'密切'义项时像火锅鸳鸯锅中间隔板——汤底互通但又不完全相同🥘。记住：说'差点迟到'用nearly missed比almost更地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'腻了离'→腻了离(nearly)分手还差一点点",
+        "易混词对比：nearly（主观接近） vs. almost（客观接近）"
+      ]
+    }
+  },
+  {
+    "word": "nearness",
+    "etymology": {
+      "breakdown": [
+        "near",
+        "ness"
+      ],
+      "meaning_connection": "形容词near（接近的）+名词后缀-ness→表示'接近的状态或性质'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "接近",
+        "examples": [
+          {
+            "sentence": "The nearness of the Mid-Autumn Festival makes mooncake sales skyrocket.",
+            "sentence_zh": "中秋节的临近使月饼销量飙升。"
+          },
+          {
+            "sentence": "Ducks can sense the nearness of earthquakes.",
+            "sentence_zh": "鸭子能感知地震的临近。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "密切",
+        "examples": [
+          {
+            "sentence": "The nearness between this panda keeper and the cubs is heartwarming.",
+            "sentence_zh": "这位饲养员与熊猫幼崽的密切关系令人暖心。"
+          },
+          {
+            "sentence": "WeChat maintains the nearness of families across continents.",
+            "sentence_zh": "微信维持着跨洲家庭的密切联系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "近似",
+        "examples": [
+          {
+            "sentence": "The nearness of these two dialects causes frequent misunderstandings.",
+            "sentence_zh": "这两种方言的近似导致频繁误解。"
+          },
+          {
+            "sentence": "AI achieves 95% nearness to human speech patterns.",
+            "sentence_zh": "人工智能实现95%近似人类语音模式。"
+          }
+        ]
+      }
+    ],
+    "teach": "nearness就像火锅社交学🍲：物理'接近'是鸳鸯锅的距离📏，情感'密切'是互相夹菜的温度❤️，文化'近似'是油碟配方的默契🤝。要形容'关系铁'可以说thick as thieves（亲密如贼），'形影不离'叫joined at the hip👯。记住：好的nearness就像毛肚涮7秒——多1秒就老了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'泥儿腻死'→泥土(near)太腻(ness)导致植物死",
+        "易混词对比：nearness（抽象接近）vs proximity（物理临近）",
+        "记忆tip：'ness'结尾总在描述某种状态（如happiness）"
+      ]
+    }
   }
 ]

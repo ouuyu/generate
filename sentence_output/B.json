@@ -7622,5 +7622,299 @@
         "记忆tip：想象ist后缀是气球上的小人"
       ]
     }
+  },
+  {
+    "word": "ballot",
+    "etymology": {
+      "breakdown": [
+        "ball",
+        "ot"
+      ],
+      "meaning_connection": "词根ball=球，-ot表小东西→原指用小球投票（古希腊将小球投入瓮中计票）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "投票",
+        "examples": [
+          {
+            "sentence": "The Oscar ballot process is more complex than IKEA instructions.",
+            "sentence_zh": "奥斯卡投票流程比宜家说明书还复杂。"
+          },
+          {
+            "sentence": "We'll decide the team lunch by secret ballot - hotpot vs BBQ.",
+            "sentence_zh": "我们将用无记名投票决定团队午餐吃火锅还是烧烤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "投票用纸",
+        "examples": [
+          {
+            "sentence": "The ballot had QR codes for scanning like WeChat Pay.",
+            "sentence_zh": "选票上有像微信支付一样的二维码。"
+          },
+          {
+            "sentence": "He spilled tea on his ballot and had to request a new one.",
+            "sentence_zh": "他把茶洒在选票上，不得不申请更换。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抽签",
+        "examples": [
+          {
+            "sentence": "The ballot for concert tickets was like winning the lottery.",
+            "sentence_zh": "演唱会门票抽签就像中彩票。"
+          },
+          {
+            "sentence": "We used ballot to decide who gets the last milk tea.",
+            "sentence_zh": "我们用抽签决定谁喝最后一杯奶茶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "投票",
+        "examples": [
+          {
+            "sentence": "Citizens ballot at booths with facial recognition tech.",
+            "sentence_zh": "市民在带人脸识别技术的投票站投票。"
+          },
+          {
+            "sentence": "Foreign residents can't ballot in national elections.",
+            "sentence_zh": "外国居民不能参与国家选举投票。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "抽签",
+        "examples": [
+          {
+            "sentence": "We'll ballot for the order of presentations.",
+            "sentence_zh": "我们将抽签决定演示顺序。"
+          },
+          {
+            "sentence": "Students balloted to choose dormitory rooms.",
+            "sentence_zh": "学生们抽签选择宿舍房间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "投票选出",
+        "examples": [
+          {
+            "sentence": "The committee balloted Zhang Wei as their representative.",
+            "sentence_zh": "委员会投票选出张伟作为代表。"
+          },
+          {
+            "sentence": "They balloted the most popular hotpot base.",
+            "sentence_zh": "他们投票选出最受欢迎的火锅底料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "拉选票",
+        "examples": [
+          {
+            "sentence": "He balloted neighbors with free baozi samples.",
+            "sentence_zh": "他用免费包子样品拉邻居选票。"
+          },
+          {
+            "sentence": "Candidates ballot by livestreaming on Douyin now.",
+            "sentence_zh": "候选人现在通过抖音直播拉票。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ballot box",
+        "meaning": "投票箱",
+        "examples": [
+          {
+            "sentence": "The panda-shaped ballot box became viral.",
+            "sentence_zh": "熊猫造型的投票箱走红网络。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "postal ballot",
+        "meaning": "邮寄选票",
+        "examples": [
+          {
+            "sentence": "Grandma submitted her postal ballot with a steamed bun recipe.",
+            "sentence_zh": "奶奶随邮寄选票附上了馒头食谱。"
+          }
+        ]
+      }
+    ],
+    "teach": "ballot是'球球作战'🏀：古希腊用黑白球投票（白球=赞成，黑球=反对）。现代投票就像拆盲盒📦——你永远不知道下一个领导会不会像火锅里的花椒一样麻！'拉票'说canvass，'计票'叫count ballots就像数珍珠奶茶里的珍珠🧋。记住：你的ballot决定明天食堂有没有小龙虾！🦞",
+    "recite": {
+      "tips": [
+        "谐音梗：'掰了头'→掰(bal)开投票箱头(lot)",
+        "易混词：vote（泛指投票行为）/ballot（具体投票方式）",
+        "记忆tip：ball+lot→用球(ball)抽签(lot)"
+      ]
+    }
+  },
+  {
+    "word": "balloting",
+    "etymology": {
+      "breakdown": [
+        "ballot",
+        "ing"
+      ],
+      "meaning_connection": "ballot源自意大利语ballotta（小球），古时用小球投票，-ing表进行时"
+    },
+    "meanings": [
+      {
+        "part_of_peech": "n.",
+        "meaning": "投票过程",
+        "examples": [
+          {
+            "sentence": "Live-streamed balloting prevents tampering with vote counts.",
+            "sentence_zh": "直播投票过程可防止篡改票数。"
+          },
+          {
+            "sentence": "The WeChat mini-program simplifies class monitor balloting.",
+            "sentence_zh": "微信小程序简化了班委投票流程。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "secret balloting",
+        "meaning": "无记名投票",
+        "examples": [
+          {
+            "sentence": "The hotpot restaurant selection was decided by secret balloting.",
+            "sentence_zh": "火锅店选择通过无记名投票决定。"
+          }
+        ]
+      }
+    ],
+    "teach": "balloting其实是'丢小球'🎲！14世纪威尼斯人用金球(ballotta)投赞成票，用银球投反对票💰。'内定人选'叫fixed balloting（就像奶茶店的'隐藏菜单'🧋），'计票'叫count ballots好比双十一算优惠券🧮。记住：真正的balloting应该像刮彩票一样刺激！",
+    "recite": {
+      "tips": [
+        "谐音梗：'菠萝听'→用菠萝(ballot)听民意",
+        "易混词：vote（普通投票）vs ballot（正式选举）"
+      ]
+    }
+  },
+  {
+    "word": "ballpoint",
+    "etymology": {
+      "breakdown": [
+        "ball",
+        "point"
+      ],
+      "meaning_connection": "ball指笔尖的小钢珠，point指书写尖端→通过钢珠滚动出墨的笔"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "圆珠笔",
+        "examples": [
+          {
+            "sentence": "The leaked ballpoint ruined my Panda Express coupon.",
+            "sentence_zh": "漏墨的圆珠笔毁了我的熊猫快餐优惠券。"
+          },
+          {
+            "sentence": "Her contract was signed with a ¥2 ballpoint from Miniso.",
+            "ssentence_zh": "她的合同是用名创优品两元圆珠笔签的。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ballpoint pen",
+        "meaning": "圆珠笔（完整说法）",
+        "examples": [
+          {
+            "sentence": "That ballpoint pen outlasted three relationships.",
+            "sentence_zh": "那支圆珠笔的寿命超过了三段恋爱。"
+          }
+        ]
+      }
+    ],
+    "teach": "ballpoint是笔界的仓鼠跑轮🐹！小钢珠(ball)像在跑马拉松滚动出墨，比毛笔省墨汁🖋️，比钢笔抗摔💥。搭配'偷笔贼'叫pen thief，'没墨了'说This pen died like my ex💔。记住：每个ballpoint里都住着个996转钢珠的打工人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'剥葡萄'→用圆珠笔剥葡萄皮",
+        "易混词：fountain pen（钢笔）要吸墨，像老人家喝茶🍵"
+      ]
+    }
+  },
+  {
+    "word": "ballroom",
+    "etymology": {
+      "breakdown": [
+        "ball",
+        "room"
+      ],
+      "meaning_connection": "ball源自古法语'bal'（舞蹈），room即房间→专用于跳舞的场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "舞厅",
+        "examples": [
+          {
+            "sentence": "The chandelier in the ballroom reflected disco lights like a diamond waterfall.",
+            "sentence_zh": "舞厅的水晶吊灯将迪斯科灯光折射成钻石瀑布。"
+          },
+          {
+            "sentence": "TikTok's viral dance challenges turned my living room into a mini ballroom.",
+            "sentence_zh": "抖音热门舞蹈挑战把我的客厅变成了迷你舞厅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "跳舞场",
+        "examples": [
+          {
+            "sentence": "The square becomes an open-air ballroom for retired aunties every evening.",
+            "sentence_zh": "这个广场每晚都变成退休阿姨们的露天跳舞场。"
+          },
+          {
+            "sentence": "His dance moves turned the subway platform into an impromptu ballroom.",
+            "sentence_zh": "他的舞步把地铁站台变成了即兴跳舞场。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ballroom dance",
+        "meaning": "交际舞",
+        "examples": [
+          {
+            "sentence": "Learning ballroom dance is as popular as square dancing among Chinese seniors.",
+            "sentence_zh": "在中国老年人中，学习交际舞和广场舞一样流行。"
+          }
+        ]
+      }
+    ],
+    "teach": "ballroom其实是'球房'🏰：中世纪贵族在网球厅(ball=网球的古称)办舞会🎭，后来专指舞厅。要说'尬舞'叫bust a move，'舞池霸主'是dance floor dominator💃。记住：从凡尔赛宫到广场舞，人类对ballroom的热爱永不消退！",
+    "recite": {
+      "tips": [
+        "谐音梗：'暴龙'→舞厅里跳得像暴龙",
+        "易混词对比：bedroom是睡觉房，ballroom是跳舞房"
+      ]
+    }
   }
 ]

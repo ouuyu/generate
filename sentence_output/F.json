@@ -8151,5 +8151,338 @@
         "易混词对比：famous（因成就出名）/notorious（因坏事出名）"
       ]
     }
+  },
+  {
+    "word": "famously",
+    "etymology": {
+      "breakdown": [
+        "famous",
+        "ly"
+      ],
+      "meaning_connection": "形容词famous（著名的）+副词后缀-ly→以著名的方式引申出'极好地'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "极好地",
+        "examples": [
+          {
+            "sentence": "The AI assistant performed famously in handling the crisis.",
+            "sentence_zh": "这个AI助手在处理危机时表现得极为出色。"
+          },
+          {
+            "sentence": "My grandma's spicy crayfish recipe worked famously at the potluck.",
+            "sentence_zh": "我奶奶的麻辣小龙虾食谱在聚餐会上大获成功。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非常令人满意地",
+        "examples": [
+          {
+            "sentence": "The live-streaming sales event ended famously with record-breaking numbers.",
+            "sentence_zh": "这场直播带货以破纪录的数字圆满收官。"
+          },
+          {
+            "sentence": "The panda breeding program has progressed famously this year.",
+            "sentence_zh": "今年大熊猫繁育计划进展得非常令人满意。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "get along famously",
+        "meaning": "相处极为融洽",
+        "examples": [
+          {
+            "sentence": "The tech team gets along famously with the marketing department.",
+            "sentence_zh": "技术团队与市场部相处得极为融洽。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go down famously",
+        "meaning": "大受欢迎",
+        "examples": [
+          {
+            "sentence": "The new milk tea flavor went down famously with Gen Z consumers.",
+            "sentence_zh": "新奶茶口味在Z世代消费者中大受欢迎。"
+          }
+        ]
+      }
+    ],
+    "teach": "famously就像火锅里的毛肚🥢——要么'七上八下'涮得极好(perform famously)，要么'一涮没'直接翻车😂。英国王室用'get along famously'形容婆媳和睦👑，程序员用'code runs famously'夸代码丝滑💻。记住：当你说'sleep famously'时，指的是睡得像雷神打呼⚡，绝不是睡成死猪🐷！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥猫乐死'→肥猫乐死(famously)表现极好",
+        "对比记忆：famous（adj.著名的）→ famously（adv.极好地）",
+        "场景联想：获得奥运金牌→perform famously"
+      ]
+    }
+  },
+  {
+    "word": "fan",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自古英语'fann'（簸谷工具），后引申为扇风装置和狂热支持者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "风扇",
+        "examples": [
+          {
+            "sentence": "The vintage brass fan in grandma's house still works perfectly.",
+            "sentence_zh": "奶奶家的复古黄铜风扇至今运转良好。"
+          },
+          {
+            "sentence": "His gaming PC has seven cooling fans glowing like a spaceship.",
+            "sentence_zh": "他的游戏主机装了七个散热风扇，亮起来像太空船。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "狂热爱好者",
+        "examples": [
+          {
+            "sentence": "K-pop fans organized flash mobs in Chengdu's Chunxi Road.",
+            "sentence_zh": "韩流粉丝在成都春熙路策划了快闪活动。"
+          },
+          {
+            "sentence": "As a die-hard fan of Spicy Hot Pot, she collects chili-shaped earrings.",
+            "sentence_zh": "作为火锅死忠粉，她收集辣椒形状的耳环。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "煽动",
+        "examples": [
+          {
+            "sentence": "The rumor fanned panic buying of salt in 2011.",
+            "sentence_zh": "谣言煽动了2011年的抢盐风波。"
+          },
+          {
+            "sentence": "His speech fanned the flames of nationalism.",
+            "sentence_zh": "他的演讲煽动了民族主义情绪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "吹拂",
+        "examples": [
+          {
+            "sentence": "The willow branches were fanned by the evening breeze.",
+            "sentence_zh": "柳枝被晚风吹拂摇曳。"
+          },
+          {
+            "sentence": "She fanned her red face with a mahjong scorecard.",
+            "sentence_zh": "她用麻将计分卡给涨红的脸扇风。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "成扇形展开",
+        "examples": [
+          {
+            "sentence": "The peacock's tail fanned out like a jeweled screen.",
+            "sentence_zh": "孔雀尾羽如宝石屏风般展开。"
+          },
+          {
+            "sentence": "Police fanned across the square during the festival.",
+            "sentence_zh": "节日期间警力在广场呈扇形分布。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fan the flames",
+        "meaning": "火上浇油",
+        "examples": [
+          {
+            "sentence": "His Weibo post fanned the flames of the celebrity scandal.",
+            "sentence_zh": "他的微博博文给明星丑闻火上浇油。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fan club",
+        "meaning": "粉丝后援会",
+        "examples": [
+          {
+            "sentence": "The idol's fan club rented LED trucks for birthday ads.",
+            "sentence_zh": "该偶像的粉丝后援会租了LED车庆生。"
+          }
+        ]
+      }
+    ],
+    "teach": "fan是个精分单词💥！当名词时：既能是拯救夏天的救命风扇🌀（electric fan），也能是让明星上热搜的疯狂粉丝🌟（BTS fan）。当动词时：既能温柔如扇子舞小姐姐🌬️（fan herself gently），也能危险如键盘侠煽动网络暴力🔥（fan hatred）。地道表达：'脑残粉'叫stan（来自Eminem歌曲），'蹭热度'是jump on the bandwagon🎪。记住：没有fan的夏天会融化，没有fan的明星会过气！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭'→追星族都是干饭人",
+        "易混词：fan vs. fun（追星可能并不fun）",
+        "记忆法：风扇叶片=粉丝团体=都在转圈圈"
+      ]
+    }
+  },
+  {
+    "word": "fanatic",
+    "etymology": {
+      "breakdown": [
+        "fanat",
+        "ic"
+      ],
+      "meaning_connection": "词根fanat源自拉丁语fanaticus（神殿中的疯狂信徒），后缀-ic表性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "狂热者",
+        "examples": [
+          {
+            "sentence": "The football fanatic painted his whole body in team colors.",
+            "sentence_zh": "那个足球狂热者把全身涂成球队应援色。"
+          },
+          {
+            "sentence": "Tech fanatics camped outside Apple Store for the new iPhone release.",
+            "sentence_zh": "科技狂热者们在新款iPhone发售时在苹果店外扎营。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "盲信者",
+        "examples": [
+          {
+            "sentence": "The cult leader surrounded himself with fanatics who never questioned him.",
+            "sentence_zh": "邪教头目身边围绕着从不质疑他的盲信者。"
+          },
+          {
+            "sentence": "Historical records show how fanatics burned books they didn't understand.",
+            "sentence_zh": "历史记载显示盲信者曾焚烧他们不理解的书藉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "狂热的",
+        "examples": [
+          {
+            "sentence": "Her fanatic devotion to K-pop led her to learn Korean in 3 months.",
+            "sentence_zh": "她对K-pop的狂热喜爱促使她三个月内学会了韩语。"
+          },
+          {
+            "sentence": "The fanatic collector spent $10,000 on limited edition sneakers.",
+            "sentence_zh": "那个狂热收藏家花了一万美元买限量版球鞋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "盲信的",
+        "examples": [
+          {
+            "sentence": "Fanatic beliefs often prevent people from seeing obvious facts.",
+            "sentence_zh": "盲信的信念常使人看不清明显事实。"
+          },
+          {
+            "sentence": "His fanatic support for the politician continued despite the scandals.",
+            "sentence_zh": "尽管丑闻缠身，他仍对那位政客保持盲信支持。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fanatic about",
+        "meaning": "对...狂热",
+        "examples": [
+          {
+            "sentence": "She's fanatic about organizing her books by color gradient.",
+            "sentence_zh": "她狂热地按渐变色排列书籍。"
+          }
+        ]
+      }
+    ],
+    "teach": "fanatic是'发烧友'的究极形态🔥！词源是古罗马神殿里手舞足蹈的祭司（想象跳大神的张牙舞爪画面🤪）。现在说'脑残粉'可以用fanatic或stan（来自Eminem歌曲）。搭配：fanatic collector（骨灰级藏家）/ fanatic believer（死忠信徒）。记住：healthy enthusiasm是爱好，fanaticism可能变邪教⚠️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发哪题克'→发烧友遇到难题就崩溃",
+        "易混词：enthusiast(积极爱好者) vs fanatic(走火入魔者)",
+        "记忆tip：fanatic比fan多'atic'，就像狂热者比普通粉丝多三倍疯狂"
+      ]
+    }
+  },
+  {
+    "word": "fanatical",
+    "etymology": {
+      "breakdown": [
+        "fan",
+        "atic",
+        "al"
+      ],
+      "meaning_connection": "拉丁语fanum（神庙）+后缀-atic（狂热者）→原指宗教狂热份子，-al表形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "狂热的",
+        "examples": [
+          {
+            "sentence": "The fanatical basketball fan tattooed Jordan's logo on his forehead.",
+            "sentence_zh": "那位狂热篮球迷把乔丹标志纹在额头上。"
+          },
+          {
+            "sentence": "Her fanatical devotion to bubble tea led her to open a museum.",
+            "sentence_zh": "她对奶茶的狂热喜爱促使她开了家博物馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "盲信的",
+        "examples": [
+          {
+            "sentence": "Fanatical belief in conspiracy theories made him buy 1000 tinfoil hats.",
+            "sentence_zh": "对阴谋论的盲信让他买了1000顶锡纸帽。"
+          },
+          {
+            "sentence": "The cult leader exploited fanatical followers to sell magic beans.",
+            "sentence_zh": "邪教首领利用盲信者售卖魔法豆。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fanatical about",
+        "meaning": "对...狂热",
+        "examples": [
+          {
+            "sentence": "He's fanatical about collecting limited edition sneakers.",
+            "sentence_zh": "他对收集限量版球鞋极其狂热。"
+          }
+        ]
+      }
+    ],
+    "teach": "fanatical是'饭圈化'的鼻祖🍚！词源fan-（神庙）暗示这词原本形容宗教狂热份子⛪，现在可以形容任何'打call打到缺氧'的行为🎤。要说'脑残粉'可以用fanboy/fangirl，'走火入魔'叫go off the deep end。记住：适度fan是粉丝，过度fan就变丧尸🧟！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发呐啼哭'→狂热粉丝见到偶像又发呐喊又啼哭",
+        "易混词对比：enthusiastic（积极的） vs fanatical（过激的）"
+      ]
+    }
   }
 ]

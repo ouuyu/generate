@@ -7855,5 +7855,283 @@
         "记忆桩：想象在头脑里用知识砖块(edi)盖房子(fy)"
       ]
     }
+  },
+  {
+    "word": "edifying",
+    "etymology": {
+      "breakdown": [
+        "edify",
+        "ing"
+      ],
+      "meaning_connection": "动词edify=启迪（来自拉丁语aedificare'建造'，引申为精神建设），-ing转为形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有教训意味的",
+        "examples": [
+          {
+            "sentence": "The documentary about migrant workers was both heartbreaking and edifying.",
+            "sentence_zh": "那部关于农民工的纪录片既令人心碎又发人深省。"
+          },
+          {
+            "sentence": "His edifying speech on campus made students rethink their life goals.",
+            "sentence_zh": "他在校园里那番引人深思的演讲让学生重新思考人生目标。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有益的",
+        "examples": [
+          {
+            "sentence": "Reading Lu Xun's essays is always an edifying experience.",
+            "sentence_zh": "阅读鲁迅杂文总是有益的体验。"
+          },
+          {
+            "sentence": "The edifying conversation improved our understanding of traditional culture.",
+            "sentence_zh": "这次有益的谈话增进了我们对传统文化的理解。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "教训性的",
+        "examples": [
+          {
+            "sentence": "The edifying fable about the tortoise and the hare is known to every Chinese child.",
+            "sentence_zh": "这个具有教训意义的龟兔赛跑寓言每个中国孩子都知道。"
+          },
+          {
+            "sentence": "Her edifying stories always contain profound life lessons.",
+            "sentence_zh": "她那些具有教训意义的故事总包含着深刻的人生哲理。"
+          }
+        ]
+      }
+    ],
+    "teach": "edifying就像精神维他命💊！它来自拉丁语'盖房子'（aedificare），后来指'建设心灵'🏗️。比如看《觉醒年代》就是edifying experience（精神洗礼），'说教内容'可以叫edifying lectures（唐僧念经式教育📚）。记住：真正的edifying应该像重庆火锅🍲——又辣（触动）又补（有益）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'挨地飞'→挨着地面飞行是edifying（踏实有益）",
+        "易混词对比：educational（教育的）侧重知识，edifying侧重精神启迪"
+      ]
+    }
+  },
+  {
+    "word": "edit",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "dit"
+      ],
+      "meaning_connection": "前缀e-=向外，词根dit=给（同donate的don）→原指'给出（修改后内容）'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "编辑",
+        "examples": [
+          {
+            "sentence": "She edits Wikipedia entries about ancient Chinese inventions.",
+            "sentence_zh": "她编辑维基百科上关于中国古代发明的条目。"
+          },
+          {
+            "sentence": "The professor is editing a new textbook on AI ethics.",
+            "sentence_zh": "教授正在编辑一本关于人工智能伦理的新教材。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "编校",
+        "examples": [
+          {
+            "sentence": "This ancient poetry collection was edited by 12 scholars.",
+            "sentence_zh": "这部古诗集由12位学者共同编校。"
+          },
+          {
+            "sentence": "The monk spent years editing Buddhist scriptures.",
+            "sentence_zh": "这位僧人用多年时间编校佛经。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "修订",
+        "examples": [
+          {
+            "sentence": "Lawyers are editing the contract clause by clause.",
+            "sentence_zh": "律师们正在逐条修订合同。"
+          },
+          {
+            "sentence": "The author edited his novel 17 times before publication.",
+            "sentence_zh": "作者在出版前修订了小说17次。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "剪辑",
+        "examples": [
+          {
+            "sentence": "He's editing CCTV's Spring Festival Gala footage.",
+            "sentence_zh": "他正在剪辑央视春晚的录像素材。"
+          },
+          {
+            "sentence": "This Xiaohongshu food vlog took 3 hours to edit.",
+            "sentence_zh": "这条小红书美食vlog花了3小时剪辑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "edit out",
+        "meaning": "剪掉",
+        "examples": [
+          {
+            "sentence": "The director edited out all noodle-slurping sounds.",
+            "sentence_zh": "导演剪掉了所有吸面条的声音。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "edit menu",
+        "meaning": "编辑菜单",
+        "examples": [
+          {
+            "sentence": "Find 'Paste' in the edit menu of WeChat Docs.",
+            "sentence_zh": "在微信文档的编辑菜单里找到'粘贴'选项。"
+          }
+        ]
+      }
+    ],
+    "teach": "edit就像文字裁缝✂️：从孔子编《诗经》到B站UP主剪视频🎬，本质都是'给内容做整形'。'编辑文档'叫edit document像改作文📝，'剪辑视频'是edit video像拼乐高🧩。吐槽'修改无数版'可以说'This is my 108th edit!'（水浒传式夸张），搭配'heavy editing'（大修）和'light editing'（微调）就像火锅选辣度🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱滴提'→爱滴提(edit)眼药水说明",
+        "易混词：emit（排放）vs edit"
+      ]
+    }
+  },
+  {
+    "word": "edited",
+    "etymology": {
+      "breakdown": [
+        "edit",
+        "ed"
+      ],
+      "meaning_connection": "edit源自拉丁语editus（发表），-ed构成过去式/分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "编辑（过去式）",
+        "examples": [
+          {
+            "sentence": "Zhang Yiming edited the first version of Toutiao's algorithm himself.",
+            "sentence_zh": "张一鸣亲自编辑了头条算法的第一版。"
+          },
+          {
+            "sentence": "She edited the video with dinosaur stickers popping up everywhere.",
+            "sentence_zh": "她编辑的视频里恐龙贴纸到处乱蹦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "编辑（过去分词）",
+        "examples": [
+          {
+            "sentence": "The livestream was edited to remove the host's sneeze.",
+            "sentence_zh": "直播录像被编辑删除了主持人的喷嚏。"
+          },
+          {
+            "sentence": "Have you seen the badly edited panda documentary?",
+            "sentence_zh": "你看过那个剪辑拙劣的熊猫纪录片吗？"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "edited version",
+        "meaning": "编辑版",
+        "examples": [
+          {
+            "sentence": "The edited version cut all spicy scenes from the drama.",
+            "sentence_zh": "编辑版删除了剧中所有辣眼睛镜头。"
+          }
+        ]
+      }
+    ],
+    "teach": "edited其实是'挨踢的'👟——每个小编都经历过被主编踢回稿子的痛苦！视觉记忆：编辑就像火锅店配菜师傅🥬，要把毛肚（素材）切成完美厚度。搭配'rough edit粗剪'和'final edit精剪'，说'乱剪辑'用地道表达butchered editing（像屠夫砍肉一样）。记住：好编辑能让素颜视频变神仙姐姐✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱迪特的'→爱迪生特约编辑",
+        "易混词：editable（可编辑的）vs. editorial（社论的）",
+        "后缀口诀：-ed结尾不发音，过去式里藏剧情"
+      ]
+    }
+  },
+  {
+    "word": "editing",
+    "etymology": {
+      "breakdown": [
+        "edit",
+        "ing"
+      ],
+      "meaning_connection": "词根edit=编辑，源自拉丁语edere（发表），-ing表形容词性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "编辑的",
+        "examples": [
+          {
+            "sentence": "Her editing skills transformed my rambling vlog into a masterpiece.",
+            "sentence_zh": "她的编辑技巧把我絮絮叨叨的vlog变成了精品。"
+          },
+          {
+            "sentence": "The editing room smelled like coffee and desperation.",
+            "sentence_zh": "剪辑室里弥漫着咖啡和绝望的味道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "editing software",
+        "meaning": "编辑软件",
+        "examples": [
+          {
+            "sentence": "This editing software can make anyone look like a movie star.",
+            "sentence_zh": "这款修图软件能把任何人变成电影明星。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "film editing",
+        "meaning": "电影剪辑",
+        "examples": [
+          {
+            "sentence": "The film editing made the 3-hour movie feel like 10 minutes.",
+            "sentence_zh": "精妙的剪辑让这部3小时的电影看起来像10分钟。"
+          }
+        ]
+      }
+    ],
+    "teach": "编辑(editing)就像魔法剪刀手✂️：古罗马编辑(edit)要真的用刀刮羊皮卷📜，现代编辑用美图秀秀就能拯救废片🎞️。说'乱剪'用hack job，'神剪辑'叫seamless editing。记住：好的editing就像重庆火锅——去芜存菁涮出精华🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱叮叮'→小编疯狂敲键盘的叮叮声",
+        "易混词：edition（版本）vs editing（编辑）"
+      ]
+    }
   }
 ]

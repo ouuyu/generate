@@ -7456,5 +7456,264 @@
         "联想：扑克牌的5点叫quin-spot"
       ]
     }
+  },
+  {
+    "word": "quince",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "该词无明确词根拆解，直接忽略"
+    },
+    "meanings": [],
+    "usages": [],
+    "teach": "（检测到无效医学术语，跳过幽默教学模块）",
+    "recite": {
+      "tips": []
+    }
+  },
+  {
+    "word": "quinine",
+    "etymology": {
+      "breakdown": [
+        "quin(a)",
+        "ine"
+      ],
+      "meaning_connection": "词根quina来自西班牙语'quina-quina'(树皮)，指金鸡纳树；后缀-ine用于生物碱命名→从金鸡纳树皮提取的生物碱"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "奎宁（抗疟疾药物）",
+        "examples": [
+          {
+            "sentence": "The bitter taste of tonic water comes from quinine.",
+            "sentence_zh": "汤力水的苦味来自添加的奎宁。"
+          },
+          {
+            "sentence": "During colonial times, quinine was more precious than gold in tropical areas.",
+            "sentence_zh": "殖民时期，奎宁在热带地区比黄金还珍贵。"
+          }
+        ]
+      }
+    ],
+    "teach": "奎宁是'树皮上的救星'🌳：西班牙殖民者发现秘鲁原住民嚼金鸡纳树皮治疟疾，后来提炼出quinine（发音像'苦您呢'😖确实巨苦）。鸡尾酒'金汤力'最初是英国水手为吞药发明的🍸，搭配说'quinine cocktail'或'tonic and gin'。记住：没有奎宁，热带探险就像不带防晒去沙漠🏜️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'亏您呢'→喝奎宁苦到亏",
+        "易混词：quinine（药物）vs. quinoa（藜麦）"
+      ]
+    }
+  },
+  {
+    "word": "quintessence",
+    "etymology": {
+      "breakdown": [
+        "quint",
+        "essence"
+      ],
+      "meaning_connection": "来自拉丁语quinta essentia（第五元素），中世纪哲学家认为这是构成天体的完美物质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "精萃",
+        "examples": [
+          {
+            "sentence": "The pu'er tea from 500-year-old trees is considered the quintessence of Yunnan tea culture.",
+            "sentence_zh": "五百年古树普洱被视作云南茶文化的精萃。"
+          },
+          {
+            "sentence": "This perfume captures the quintessence of cherry blossoms in spring.",
+            "sentence_zh": "这款香水捕捉了春日樱花的精萃。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "精华",
+        "examples": [
+          {
+            "sentence": "The book distills the quintessence of Sun Tzu's Art of War into modern management.",
+            "sentence_zh": "这本书将《孙子兵法》的精华提炼为现代管理学。"
+          },
+          {
+            "sentence": "Her performance was the quintessence of Peking Opera artistry.",
+            "sentence_zh": "她的表演展现了京剧艺术的精华。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "典范",
+        "examples": [
+          {
+            "sentence": "The Forbidden City is the quintessence of traditional Chinese architecture.",
+            "sentence_zh": "紫禁城是中华传统建筑的典范。"
+          },
+          {
+            "sentence": "His calligraphy works are regarded as the quintessence of elegance.",
+            "sentence_zh": "他的书法作品被视为典雅的典范。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the quintessence of",
+        "meaning": "...的精华",
+        "examples": [
+          {
+            "sentence": "Huangshan Mountain is the quintessence of Chinese landscape painting inspiration.",
+            "sentence_zh": "黄山是中国山水画灵感的精华所在。"
+          }
+        ]
+      }
+    ],
+    "teach": "quintessence本质是'第五元素'✨，比金木水火土还高级！就像火锅底料里的牛油是灵魂🍲（the quintessence of hotpot），说'浓缩精华'可以用distilled quintessence💧。搭配'文化瑰宝'说cultural quintessence，'提取精华'说extract the quintessence像熬制高汤🍜。记住：夸米其林餐厅别说delicious，要说quintessence of gastronomy!",
+    "recite": {
+      "tips": [
+        "谐音梗：'葵花宝典'→武林quintessence（武侠梗）",
+        "易混词：essence（本质）vs quintessence（极致精华）",
+        "记忆法：quin(五)+essence→五星级精华🌟"
+      ]
+    }
+  },
+  {
+    "word": "quintessential",
+    "etymology": {
+      "breakdown": [
+        "quint",
+        "essence",
+        "tial"
+      ],
+      "meaning_connection": "quint=第五（源自五行理论第五元素以太），essence=精华，-tial=形容词后缀→指事物最纯粹的精华"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "精萃的",
+        "examples": [
+          {
+            "sentence": "The quintessential flavor of Sichuan cuisine comes from its unique pepper blend.",
+            "sentence_zh": "川菜的精萃风味源自其独特的椒麻配方。"
+          },
+          {
+            "sentence": "This perfume captures the quintessential scent of cherry blossoms in Kyoto.",
+            "sentence_zh": "这款香水捕捉了京都樱花的精萃芳香。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "精髓的",
+        "examples": [
+          {
+            "sentence": "Bruce Lee's philosophy represents the quintessential martial arts spirit.",
+            "sentence_zh": "李小龙的哲学代表着武术的精髓精神。"
+          },
+          {
+            "sentence": "The Forbidden City showcases the quintessential elements of Chinese architecture.",
+            "sentence_zh": "紫禁城展现了中国建筑的精髓元素。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "典范的",
+        "examples": [
+          {
+            "sentence": "Her performance was the quintexample of Peking Opera artistry.",
+            "sentence_zh": "她的表演是京剧艺术的典范。"
+          },
+          {
+            "sentence": "This teahouse is the quintessential embodiment of Song Dynasty aesthetics.",
+            "sentence_zh": "这家茶馆是宋代美学的典范体现。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the quintessential...",
+        "meaning": "典型的...",
+        "examples": [
+          {
+            "sentence": "Hotpot is the quintessential Chongqing winter food.",
+            "sentence_zh": "火锅是典型的重庆冬日美食。"
+          }
+        ]
+      }
+    ],
+    "teach": "quintessential其实是'五行级别的高级'🌌！源自中世纪认为以太(quintessence)是超越四大元素的终极物质。说'完美典范'可以用the quintessential就像说'五粮液里的飞天茅台'🍶，'提取精华'叫distill the quintessence就像熬制广式老火靓汤🍲。记住：当你说quintessential时，就是在给事物颁发五星级认证✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啃他先瘦'→想瘦就要啃(quint)精髓(essential)食物",
+        "易混词对比：essential是必要，quintessential是终极形态"
+      ]
+    }
+  },
+  {
+    "word": "quintessentially",
+    "etymology": {
+      "breakdown": [
+        "quint",
+        "essence",
+        "tial",
+        "ly"
+      ],
+      "meaning_connection": "源自拉丁语quinta essentia（第五元素），中世纪认为这是构成天体的完美物质→引申为'最纯粹的代表'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "典型地",
+        "examples": [
+          {
+            "sentence": "The scene of elders playing mahjong is quintessentially Chinese.",
+            "sentence_zh": "老人打麻将的场景非常中国。"
+          },
+          {
+            "sentence": "Her outfit was quintessentially 90s - denim jacket with scrunchie.",
+            "sentence_zh": "她的穿搭极具90年代特色——牛仔外套配发圈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "标准地",
+        "examples": [
+          {
+            "sentence": "This textbook quintessentially represents British pronunciation.",
+            "sentence_zh": "这本教科书完美展现了英式发音标准。"
+          },
+          {
+            "sentence": "The Forbidden City is quintessentially imperial architecture.",
+            "sentence_zh": "紫禁城是标准皇家建筑典范。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quintessentially + adj.",
+        "meaning": "极致地...",
+        "examples": [
+          {
+            "sentence": "The latte art was quintessentially Instagrammable.",
+            "sentence_zh": "这杯拉花咖啡堪称ins风标杆。"
+          }
+        ]
+      }
+    ],
+    "teach": "这个词自带贵族血统👑！源于中世纪炼金师寻找的'第五元素'（比金木水火土还高级）✨。比如'典型英式'说quintessentially British就像下午茶配司康饼☕️🍪，'标准普通话'就是quintessentially Putonghua如新闻联播腔📺。搭配：quintessential example（教科书范例）/ quintessential style（标杆风格）。说'太典型了'可以用：It's so quintessential it hurts! 💫",
+    "recite": {
+      "tips": [
+        "谐音梗：'困踢神仙腿'→困了还踢出标准神仙腿法",
+        "易混词：essentially（本质上）vs quintessentially（典型到极致）",
+        "联想：五根手指（quint）中最完美（essential）的那根"
+      ]
+    }
   }
 ]

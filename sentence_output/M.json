@@ -7455,5 +7455,287 @@
         "易混词：minority（少数）就像火锅里的清汤锅"
       ]
     }
+  },
+  {
+    "word": "make",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语macian，与德语machen同源，原始印欧语词根mag-表示'揉捏成型'，后引申出广泛的生产类含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "制造",
+        "examples": [
+          {
+            "sentence": "This factory makes 10,000 chopsticks per minute.",
+            "sentence_zh": "这家工厂每分钟生产一万双筷子。"
+          },
+          {
+            "sentence": "She makes her own clothes from Douyin tutorials.",
+            "sentence_zh": "她跟着抖音教程自制衣服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使得",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot makes me sweat like a marathon runner.",
+            "sentence_zh": "麻辣火锅让我汗如雨下。"
+          },
+          {
+            "sentence": "TikTok makes time disappear faster than instant noodles.",
+            "sentence_zh": "抖音让时间消失得比泡面还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "构成",
+        "examples": [
+          {
+            "sentence": "Five elements make up traditional Chinese medicine theory.",
+            "sentence_zh": "五行构成了中医理论。"
+          },
+          {
+            "sentence": "These ingredients make the secret sauce of stinky tofu.",
+            "sentence_zh": "这些配料构成了臭豆腐的秘制酱汁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "到达",
+        "examples": [
+          {
+            "sentence": "We finally made the Great Wall after 3 subway transfers.",
+            "sentence_zh": "换乘三次地铁后终于到达长城。"
+          },
+          {
+            "sentence": "Can you make the 7am high-speed rail to Shanghai?",
+            "sentence_zh": "你能赶上七点去上海的高铁吗？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "开始",
+        "examples": [
+          {
+            "sentence": "The concert makes at 8pm sharp, no 'Chinese time' allowed.",
+            "sentence_zh": "音乐会八点准时开始，不准有'中国式迟到'。"
+          },
+          {
+            "sentence": "Spring Festival travel makes with chaotic joy every year.",
+            "sentence_zh": "春运每年都在混乱的喜悦中开始。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make up",
+        "meaning": "弥补/化妆",
+        "examples": [
+          {
+            "sentence": "She makes up with BB cream and red lipstick.",
+            "sentence_zh": "她用BB霜和正红色口红化妆。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "make sense",
+        "meaning": "说得通",
+        "examples": [
+          {
+            "sentence": "Bubble tea for breakfast makes perfect sense to me.",
+            "sentence_zh": "早餐喝奶茶对我来说非常合理。"
+          }
+        ]
+      }
+    ],
+    "teach": "make是英语界的'老干妈'🌶️——万能百搭！从'制造'手机（make phones）到'构成'团队（make a team），再到'使得'老板加薪（make boss raise salary）。搭配make money like printing（印钞般赚钱）或make waves（兴风作浪）。记住：当你说'I made it!'时，就像抢到最后一杯奶茶🥤那样骄傲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'妹渴'→妹妹渴了快make水",
+        "易混词对比：do（执行动作） vs make（创造结果）"
+      ]
+    }
+  },
+  {
+    "word": "maker",
+    "etymology": {
+      "breakdown": [
+        "make",
+        "er"
+      ],
+      "meaning_connection": "动词make制造+后缀-er表人→原始含义为'制造物品的人'，引申为造物主"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "制造者",
+        "examples": [
+          {
+            "sentence": "The maker of this hand-pulled noodle shop starts kneading dough at 4am.",
+            "sentence_zh": "这家拉面店的制作者凌晨四点就开始揉面。"
+          },
+          {
+            "sentence": "As a maker of traditional bamboo fans, he was featured in CCTV's documentary.",
+            "sentence_zh": "作为传统竹扇的制作者，他登上了央视纪录片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "上帝",
+        "examples": [
+          {
+            "sentence": "The church's stained glass depicts the Maker holding a lotus flower.",
+            "sentence_zh": "教堂彩绘玻璃描绘持莲的造物主。"
+          },
+          {
+            "sentence": "Ancient poets often referred to the Maker as the \"Great Architect\".",
+            "sentence_zh": "古代诗人常称造物主为\"大建筑师\"。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "policy maker",
+        "meaning": "政策制定者",
+        "examples": [
+          {
+            "sentence": "The policy makers are discussing new regulations for livestreaming sales.",
+            "sentence_zh": "政策制定者正在讨论直播带货的新规。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "drama maker",
+        "meaning": "闹事者",
+        "examples": [
+          {
+            "sentence": "That influencer is known as a drama maker in the entertainment circle.",
+            "sentence_zh": "那位网红是娱乐圈著名的搞事精。"
+          }
+        ]
+      }
+    ],
+    "teach": "maker是万物背后的神秘甲方👔！从街边煎饼果子maker🥞到宇宙maker🌌都适用。网络热梗\"人类群星闪耀时，maker在改bug\"形容造化弄人🐞。说'手工达人'用craft maker像夸人'人形3D打印机'🖨️，而'幕后黑手'可以叫scheme maker🎭。记住：奶茶店老板是bubble tea maker，而月老是love maker！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没课'→大学maker（制造者）今天没课",
+        "易混词对比：maker（制造者） vs. marker（马克笔）",
+        "记忆tip：Maker的'M'像工厂屋顶，-aker发音同'acre（英亩）'→工厂占地一英亩"
+      ]
+    }
+  },
+  {
+    "word": "makeshift",
+    "etymology": {
+      "breakdown": [
+        "make",
+        "shift"
+      ],
+      "meaning_connection": "字面意思为'临时制作的移动'→指在紧急情况下快速制作的替代品"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "权宜之计",
+        "examples": [
+          {
+            "sentence": "Using a stack of books as a monitor stand is a classic makeshift.",
+            "sentence_zh": "用一摞书当显示器支架是经典的权宜之计。"
+          },
+          {
+            "sentence": "The camping tent made of bedsheets was their romantic makeshift.",
+            "sentence_zh": "用床单搭的露营帐篷是他们浪漫的临时方案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "临时代用品",
+        "examples": [
+          {
+            "sentence": "During the quarantine, my yoga mat became a makeshift office chair.",
+            "sentence_zh": "隔离期间，我的瑜伽垫成了临时办公椅。"
+          },
+          {
+            "sentence": "The villagers used bamboo as a makeshift water pipe.",
+            "sentence_zh": "村民们用竹子当临时水管。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "权宜的",
+        "examples": [
+          {
+            "sentence": "They reached a makeshift agreement before the formal contract was ready.",
+            "sentence_zh": "在正式合同准备好前他们达成了权宜协议。"
+          },
+          {
+            "sentence": "The makeshift solution saved the livestreaming from interruption.",
+            "sentence_zh": "这个权宜之计避免了直播中断。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "临时代用的",
+        "examples": [
+          {
+            "sentence": "The parking lot was converted into a makeshift testing site.",
+            "sentence_zh": "停车场被改造成临时检测点。"
+          },
+          {
+            "sentence": "Her handbag served as a makeshift grocery basket.",
+            "sentence_zh": "她的手提包充当了临时菜篮子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "makeshift hospital",
+        "meaning": "临时医院",
+        "examples": [
+          {
+            "sentence": "The sports stadium was turned into a makeshift hospital during the pandemic.",
+            "sentence_zh": "疫情期间体育场被改造成临时医院。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "makeshift family",
+        "meaning": "临时家庭",
+        "examples": [
+          {
+            "sentence": "The stranded travelers formed a makeshift family sharing hotpot together.",
+            "sentence_zh": "滞留旅客们组成了共享火锅的临时家庭。"
+          }
+        ]
+      }
+    ],
+    "teach": "makeshift是人类智慧的急转弯🚗💨！源自工业革命时期工厂临时改造设备(make+shift)，就像用自拍杆当痒痒挠🤳。说'将就着用'可以叫jury-rig（陪审团式临时组装），'凑合过'是make do with。记住：每个makeshift背后都有个被逼急的发明家💡！搭配：makeshift kitchen（临时厨房）/ makeshift love（凑合的感情）",
+    "recite": {
+      "tips": [
+        "谐音梗：'没客服'→快递柜变成没客服时的临时储物柜",
+        "易混词对比：improvised（即兴创作的） vs makeshift（被迫凑合的）",
+        "记忆口诀：make+shift=临时工转正前的工作状态"
+      ]
+    }
   }
 ]
