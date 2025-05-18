@@ -1301,5 +1301,300 @@
         "易混词：backer（支持者）vs. banker（银行家）→ 多一个e就像多一只手支援"
       ]
     }
+  },
+  {
+    "word": "backfire",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "fire"
+      ],
+      "meaning_connection": "字面意思是'反向的火'，最初指内燃机异常燃烧现象，后引申为'事与愿违'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "逆火",
+        "examples": [
+          {
+            "sentence": "The vintage motorcycle made a loud backfire sound that scared pigeons away.",
+            "sentence_zh": "这辆复古摩托车发出的逆火声吓跑了鸽子。"
+          },
+          {
+            "sentence": "Firefighters wear special masks to protect against backfire in coal mines.",
+            "sentence_zh": "消防员佩戴特殊面罩以防煤矿中的逆火。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "回火",
+        "examples": [
+          {
+            "sentence": "The blacksmith explained how backfire helps temper steel blades.",
+            "sentence_zh": "铁匠解释回火如何帮助淬炼钢刀。"
+          },
+          {
+            "sentence": "A well-controlled backfire can actually prevent forest wildfires.",
+            "sentence_zh": "控制得当的回火反而能预防森林大火。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "事与愿违",
+        "examples": [
+          {
+            "sentence": "His attempt to show off backfired when he spilled tea on the CEO.",
+            "sentence_zh": "他想炫耀却弄巧成拙，把茶洒在了CEO身上。"
+          },
+          {
+            "sentence": "The marketing campaign backfired and caused a boycott instead.",
+            "sentence_zh": "营销活动适得其反引发了抵制。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "发生意外",
+        "examples": [
+          {
+            "sentence": "The surprise party backfired when the birthday girl got locked outside.",
+            "sentence_zh": "当寿星被锁在门外时，惊喜派对出了意外。"
+          },
+          {
+            "sentence": "Their plan to arrive early backfired due to unexpected traffic.",
+            "sentence_zh": "他们提前到达的计划因意外堵车而泡汤。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backfire on someone",
+        "meaning": "对某人产生反效果",
+        "examples": [
+          {
+            "sentence": "The prank backfired on him when his own phone got stolen.",
+            "sentence_zh": "恶作剧反而害了他自己的手机被偷。"
+          }
+        ]
+      }
+    ],
+    "teach": "backfire就像放屁时想偷偷溜走却发出巨响💨！这个词完美诠释'搬起石头砸自己的脚'——字面是发动机逆火(像老式拖拉机突突响🚜)，比喻义就像你精心准备的告白视频突然播放了尴尬童年照🌚。搭配'backfire badly'(惨烈翻车)比说fail更生动，要说'完全搞砸'可以吐槽：That went over like a lead balloon!(像铅气球一样坠落了)。记住：人生处处有backfire，比如在螺蛳粉店约会🤡",
+    "recite": {
+      "tips": [
+        "谐音梗：'白克发'→白准备反而克(backfire)了发型",
+        "易混词对比：backlash(强烈反对) vs backfire(意外反效果)",
+        "联想记忆：发动机'倒车放屁'(back+fire)"
+      ]
+    }
+  },
+  {
+    "word": "backgammon",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "gammon"
+      ],
+      "meaning_connection": "源自中古英语'back'(背部)+'gammon'(游戏)，因棋子需'背对背'移动而得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "巴加门15子棋",
+        "examples": [
+          {
+            "sentence": "We played backgammon with handmade wooden pieces in the teahouse.",
+            "sentence_zh": "我们在茶馆用手工木制棋子玩巴加门棋。"
+          },
+          {
+            "sentence": "Ancient Persian merchants carried backgammon sets along the Silk Road.",
+            "sentence_zh": "古波斯商人沿着丝绸之路携带巴加门棋具。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "play backgammon",
+        "meaning": "玩巴加门棋",
+        "examples": [
+          {
+            "sentence": "Grandpa taught me to play backgammon using sunflower seeds as counters.",
+            "sentence_zh": "爷爷用葵花籽当筹码教我玩巴加门棋。"
+          }
+        ]
+      }
+    ],
+    "teach": "这个棋牌名其实是'背猪游戏'🐗🎲！波斯战士用棋盘模拟战场，掷骰子声像野猪冲锋（gammon原意是猪腿肉）。现代玩家说'被打回老家'叫get sent to the bar🏠，'绝杀'叫gammon就像川渝麻将的'刮风下雨'🌪️。记住：它比围棋更古老，比象棋更看脸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白壳没门'→白色棋子没退路",
+        "易混词：chess（国际象棋）/go（围棋）"
+      ]
+    }
+  },
+  {
+    "word": "background",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "ground"
+      ],
+      "meaning_connection": "字面组合'背后的地面'→引申为事物背后的环境或历史"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "背景",
+        "examples": [
+          {
+            "sentence": "The influencer blurred her messy bedroom background in the live stream.",
+            "sentence_zh": "网红在直播时虚化了杂乱的卧室背景。"
+          },
+          {
+            "sentence": "Matching your Zoom background to your outfit is the new office etiquette.",
+            "sentence_zh": "让Zoom背景与着装相配已成为新的办公礼仪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "背景资料",
+        "examples": [
+          {
+            "sentence": "The reporter checked the celebrity's educational background on Baidu Baike.",
+            "sentence_zh": "记者在百度百科核查了该名人的教育背景资料。"
+          },
+          {
+            "sentence": "Before the meeting, we shared background materials via DingTalk.",
+            "sentence_zh": "会前我们通过钉钉共享了背景资料。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "background music",
+        "meaning": "背景音乐",
+        "examples": [
+          {
+            "sentence": "Hotpot restaurants always play overly loud background music.",
+            "sentence_zh": "火锅店的背景音乐总是响得过分。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "background check",
+        "meaning": "背景调查",
+        "examples": [
+          {
+            "sentence": "The HR did a thorough background check through his WeChat Moments.",
+            "sentence_zh": "HR通过他的微信朋友圈进行了彻底的背景调查。"
+          }
+        ]
+      }
+    ],
+    "teach": "background就像你的人生BGM🎵！古代画师会在人物背后画山水当背景🏞️，现代人用美颜APP虚化背景🤳。说'有背景'是well-connected（像微信好友满5000人），'查背景'叫dig into one's past（像翻别人十年前QQ空间🍃）。记住：好的background能让你C位出道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'百科广的'→背景资料要百科那么广",
+        "易混词对比：backdrop（实体背景幕布）vs background（抽象背景）",
+        "记忆tip：把ground（地面）当作画布，back（后面）就是背景"
+      ]
+    }
+  },
+  {
+    "word": "backhand",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "hand"
+      ],
+      "meaning_connection": "字面'背后的手'→ 反手动作的物理特征"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "手背拍",
+        "examples": [
+          {
+            "sentence": "The teacher gave a playful backhand tap to the misbehaving student's head.",
+            "sentence_zh": "老师用手背轻轻拍了下捣蛋学生的脑袋。"
+          },
+          {
+            "sentence": "In some cultures, a backhand compliment is considered rude.",
+            "sentence_zh": "在某些文化中，用手背致意被视为粗鲁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "反手抽击",
+        "examples": [
+          {
+            "sentence": "Li Na's powerful backhand became her signature move in tennis.",
+            "sentence_zh": "李娜标志性的强力反手抽击成为她的制胜法宝。"
+          },
+          {
+            "sentence": "The badminton coach demonstrated a perfect backhand clear.",
+            "sentence_zh": "羽毛球教练展示了完美的反手高远球。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "左斜手写体",
+        "examples": [
+          {
+            "sentence": "Victorian love letters often used elegant backhand script.",
+            "sentence_zh": "维多利亚时代的情书常用优雅的左斜体书写。"
+          },
+          {
+            "sentence": "Her backhand calligraphy looks like dancing ink on paper.",
+            "sentence_zh": "她的左斜书法如同墨迹在纸上起舞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "反手抽击",
+        "examples": [
+          {
+            "sentence": "He backhanded the ping-pong ball with such spin that it curved mid-air.",
+            "sentence_zh": "他反手抽出的乒乓球带着诡异旋转，在空中划出弧线。"
+          },
+          {
+            "sentence": "The tennis rookie accidentally backhanded the ball into the referee's face.",
+            "sentence_zh": "网球新手不慎将球反手抽到了裁判脸上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backhand compliment",
+        "meaning": "明褒暗贬",
+        "examples": [
+          {
+            "sentence": "Calling her 'surprisingly competent' was clearly a backhand compliment.",
+            "sentence_zh": "说她'出乎意料地能干'明显是句明褒暗贬的话。"
+          }
+        ]
+      }
+    ],
+    "teach": "backhand是'反手美学'🤺：网球反手抽击像武士挥刀🗡️，左斜字体像醉酒写的书法🍷。要说'阴阳怪气'叫backhanded remark（反手话），'反手技能点满'说master backhand就像小龙女左右互搏🧶。记住：人生就像打反手球，有时候背对目标反而打得更好！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白砍的'→武林高手白砍(backhand)的反手刀法",
+        "对比记忆：forehand（正手） vs backhand"
+      ]
+    }
   }
 ]

@@ -1384,5 +1384,291 @@
         "易混词对比：abridge也有'删节'意思，但专指书籍内容缩减"
       ]
     }
+  },
+  {
+    "word": "abbreviation",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "brevi",
+        "ation"
+      ],
+      "meaning_connection": "前缀ab-表示'加强'，词根brevi来自拉丁语brevis（短），后缀-ation表名词→'使之变短'的过程或结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "缩写词",
+        "examples": [
+          {
+            "sentence": "The abbreviation 'ASAP' actually makes people work slower.",
+            "sentence_zh": "缩写词'ASAP'（尽快）反而让人干活更慢。"
+          },
+          {
+            "sentence": "In China, 'awsl' is the most emotional abbreviation in bullet comments.",
+            "sentence_zh": "在中国，'awsl'（啊我死了）是弹幕中最有情绪的缩写词。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "缩写形式",
+        "examples": [
+          {
+            "sentence": "The abbreviation 'Dr.' can mean both doctor and debtor in legal documents.",
+            "sentence_zh": "缩写形式'Dr.'在法律文件中可能指医生或债务人。"
+          },
+          {
+            "sentence": "Chinese netizens created the abbreviation 'yyds' to worship their idols.",
+            "sentence_zh": "中国网民发明缩写形式'yyds'（永远滴神）来膜拜偶像。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "缩短",
+        "examples": [
+          {
+            "sentence": "The abbreviation of meeting time made everyone secretly cheer.",
+            "sentence_zh": "会议时间的缩短让所有人暗中欢呼。"
+          },
+          {
+            "sentence": "High-speed rail caused the abbreviation of travel time between cities.",
+            "sentence_zh": "高铁使得城市间旅行时间大幅缩短。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "common abbreviation",
+        "meaning": "常见缩写",
+        "examples": [
+          {
+            "sentence": "ATM is the most confusing common abbreviation for elders.",
+            "sentence_zh": "对老人来说，ATM是最令人困惑的常见缩写。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "text message abbreviation",
+        "meaning": "短信缩写",
+        "examples": [
+          {
+            "sentence": "Gen Z invented text message abbreviations like 'tbh' to save thumb energy.",
+            "sentence_zh": "Z世代发明了'tbh'（说实话）等短信缩写来节省拇指力气。"
+          }
+        ]
+      }
+    ],
+    "teach": "abbreviation是懒人界的诺贝尔奖🏆！古罗马人最早用SPQR（元老院与罗马人民）缩写偷懒，现代人用'BRB'（马上回来）假装礼貌开溜🚪。要吐槽'缩写太多看不懂'可以说：This is alphabet soup!（字母汤），搭配'解码缩写'用crack the code，'自创缩写'叫coin new abbreviations。记住：所有缩写都是当代摩斯密码💬！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不锐危审'→爱用不尖锐的危险缩写要审查",
+        "易混词：abbreviation（整体缩短）vs acronym（首字母缩写词如NASA）",
+        "记忆tip：把长单词abbreviation本身缩写为'abbr.'就是最佳示范"
+      ]
+    }
+  },
+  {
+    "word": "abdicate",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "dic",
+        "ate"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根dic表示'宣布'，-ate为动词后缀→原指正式宣布离开王位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "正式放弃（权力/责任）",
+        "examples": [
+          {
+            "sentence": "The CEO abdicated his controlling shares during the scandal.",
+            "sentence_zh": "丑闻期间该CEO正式放弃了控股股权。"
+          },
+          {
+            "sentence": "Britain's King Edward VIII abdicated the throne for love in 1936.",
+            "sentence_zh": "英国国王爱德华八世1936年为爱放弃王位。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "退位",
+        "examples": [
+          {
+            "sentence": "When the Queen abdicates, the Crown Prince will succeed.",
+            "sentence_zh": "女王退位后，皇太子将继位。"
+          },
+          {
+            "sentence": "The emperor abdicated after losing the watermelon-throwing battle.",
+            "sentence_zh": "皇帝在输掉西瓜大战后退位了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "退出（比赛/竞争）",
+        "examples": [
+          {
+            "sentence": "Three players abdicated from the spicy hotpot challenge.",
+            "sentence_zh": "三名选手退出了变态辣火锅挑战赛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "辞职",
+        "examples": [
+          {
+            "sentence": "The minister abdicated after the emoji usage scandal.",
+            "sentence_zh": "该部长因表情包使用丑闻辞职。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abdicate responsibility",
+        "meaning": "推卸责任",
+        "examples": [
+          {
+            "sentence": "Good leaders never abdicate responsibility for team failures.",
+            "sentence_zh": "优秀的领导者从不为团队失败推卸责任。"
+          }
+        ]
+      }
+    ],
+    "teach": "abdicate是'王者的撤退'👑→源自拉丁语'ab+dicare'（宣布离开）。英国史上'不爱江山爱美人'的爱德华八世就是典型case🤵。搭配说'abdicate the throne'像卸下王者荣耀账号🗡️，'abdicate responsibility'就像打游戏甩锅给队友🎮。记住：普通辞职用quit，帝王退位才用abdicate！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不D凯特'→英国王子宣布不娶凯特（搞笑版历史）",
+        "对比记忆：resign（普通辞职） vs abdicate（帝王级辞职）",
+        "联想：AB迪拜卡→土豪用金卡宣布退位💳"
+      ]
+    }
+  },
+  {
+    "word": "abdication",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "dic",
+        "ation"
+      ],
+      "meaning_connection": "前缀ab-表示'远离'，词根dic表示'说'（如dictate），-ation为名词后缀→原指'宣布离开'，后特指君主放弃权力"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "逊位",
+        "examples": [
+          {
+            "sentence": "The abdication of Edward VIII caused a constitutional crisis in 1936.",
+            "sentence_zh": "爱德华八世的逊位引发了1936年宪政危机。"
+          },
+          {
+            "sentence": "Japanese emperors' abdication ceremonies involve ancient Shinto rituals.",
+            "sentence_zh": "日本天皇的逊位仪式包含古老的神道教礼仪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "弃权",
+        "examples": [
+          {
+            "sentence": "His sudden abdication from the chess tournament shocked all players.",
+            "sentence_zh": "他在国际象棋比赛中的突然弃权震惊了所有选手。"
+          },
+          {
+            "sentence": "The athlete's abdication of her medal sparked doping suspicions.",
+            "sentence_zh": "该运动员放弃奖牌的行为引发兴奋剂质疑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "辞职",
+        "examples": [
+          {
+            "sentence": "The CEO's abdication letter cited 'pursuing TikTok fame' as reason.",
+            "sentence_zh": "该CEO的辞职信将'追求抖音成名'列为理由。"
+          },
+          {
+            "sentence": "After the milk tea scandal, three ministers announced their abdication.",
+            "sentence_zh": "奶茶丑闻后，三位部长宣布辞职。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "letter of abdication",
+        "meaning": "退位诏书",
+        "examples": [
+          {
+            "sentence": "Qianlong Emperor's abdication letter is displayed in the Palace Museum.",
+            "sentence_zh": "乾隆皇帝的退位诏书现陈列于故宫博物院。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "abdication of responsibility",
+        "meaning": "推卸责任",
+        "examples": [
+          {
+            "sentence": "Blaming the pandemic for all mistakes is pure abdication of responsibility.",
+            "sentence_zh": "把所有错误归咎于疫情纯属推卸责任。"
+          }
+        ]
+      }
+    ],
+    "teach": "abdication是'权力的游戏'终结技⚔️！英国女王伊丽莎白二世差点用这招（后来改叫'退位'更优雅）。说'甩锅'可以叫abdication of responsibility，就像《甄嬛传》里皇后说'臣妾做不到啊'😭。记住：皇帝退位用abdicate，你辞职用quit——除非你是想cosplay亨利八世👑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不D卡神'→俺不屑打卡当神仙(abdication)",
+        "易混词对比：abdication(主动放弃) vs. dethronement(被废黜)",
+        "记忆tip：ab-away + dic-speak = 宣布离开权力"
+      ]
+    }
+  },
+  {
+    "word": "abdomen",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语abdomen，原指'隐藏的部分'，因腹部藏有内脏器官"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "腹部",
+        "examples": [
+          {
+            "sentence": "The Tibetan singing bowl's vibrations made his abdomen tingle like carbonated water.",
+            "sentence_zh": "西藏颂钵的震动让他的腹部像汽水般滋滋发麻。"
+          },
+          {
+            "sentence": "Pandas often roll on their abdomens after eating bamboo, looking like furry dumplings.",
+            "sentence_zh": "熊猫吃完竹子常滚肚皮，像会动的芝麻汤圆。"
+          }
+        ]
+      }
+    ],
+    "teach": "abdomen是人体'隐藏的行李箱🧳'！古罗马解剖学家发现这里装着'五脏庙'🍲（liver像卤煮，stomach像火锅）。健身狂魔说'练出six-pack'指腹肌像啤酒罐🥫，'啤酒肚'叫beer belly。记住：马甲线是abdominal muscles，但别学程序员久坐变成keyboard abdomen⌨️！",
+    "recite": {
+      "tips": [
+        "视觉联想：abdomen→'ab(绝对)+do(做)+men(人)'→猛男绝对要练的部位",
+        "易混词对比：belly(口语化腹部) vs abdomen(解剖学术语)"
+      ]
+    }
   }
 ]

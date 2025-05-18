@@ -1500,5 +1500,262 @@
         "易混词：acquire强调努力获得，gain侧重结果增加"
       ]
     }
+  },
+  {
+    "word": "gainer",
+    "etymology": {
+      "breakdown": [
+        "gain",
+        "er"
+      ],
+      "meaning_connection": "词根gain=获得，-er表人→直译为'获得东西的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "获得者",
+        "examples": [
+          {
+            "sentence": "The lucky gainer of the lottery built a duck-shaped villa.",
+            "sentence_zh": "彩票获得者建了座鸭子造型的别墅。"
+          },
+          {
+            "sentence": "As the gainer of three gold medals, he donated them to a museum.",
+            "sentence_zh": "作为三块金牌的获得者，他把奖牌捐给了博物馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "得利者",
+        "examples": [
+          {
+            "sentence": "The real gainers in this business deal are the lawyers.",
+            "sentence_zh": "这笔交易真正的得利者是律师们。"
+          },
+          {
+            "sentence": "Surprisingly, the small shops became gainers during the pandemic.",
+            "sentence_zh": "出人意料的是，小商店成为疫情期间的得利者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "胜利者",
+        "examples": [
+          {
+            "sentence": "The underdog team turned out to be the ultimate gainer.",
+            "sentence_zh": "不被看好的队伍最终成为胜利者。"
+          },
+          {
+            "sentence": "In e-sports competitions, the gainer usually gets a golden mouse.",
+            "sentence_zh": "电竞比赛中胜利者通常会获得金色鼠标。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "net gainer",
+        "meaning": "净获利方",
+        "examples": [
+          {
+            "sentence": "After calculating taxes, we're still the net gainer.",
+            "sentence_zh": "计算税款后我们仍是净获利方。"
+          }
+        ]
+      }
+    ],
+    "teach": "gainer是人生赢家👑的终极表达！古罗马胜利者会获得月桂冠(gainer's laurel)🌿，现代版就像双十一剁手后晒战绩📦。搭配'biggest gainer'像股市涨停板📈，说'意外获利'用surprise gainer就像抽中SSR卡🎮。记住：真正的gainer永远是收租的房东🏠！",
+    "recite": {
+      "tips": [
+        "谐音梗：'给哪儿'→利润给哪儿，gainer就在哪儿",
+        "易混对比：winner（比赛胜者）vs gainer（实际获利者）",
+        "记忆法：gain+er=收割机(er)般的获利能力"
+      ]
+    }
+  },
+  {
+    "word": "gainful",
+    "etymology": {
+      "breakdown": [
+        "gain",
+        "ful"
+      ],
+      "meaning_connection": "gain表示'获得'，-ful为形容词后缀→'能带来获得的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有利益的",
+        "examples": [
+          {
+            "sentence": "Selling bubble tea near schools proved to be a gainful business.",
+            "sentence_zh": "在学校附近卖奶茶被证明是桩有利可图的生意。"
+          },
+          {
+            "sentence": "His gainful smile suggested the stock market rally benefited him greatly.",
+            "sentence_zh": "他意味深长的笑容暗示股市上涨让他赚得盆满钵满。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "唯利是图的",
+        "examples": [
+          {
+            "sentence": "The gainful merchant even tried to sell umbrellas during a solar eclipse.",
+            "sentence_zh": "这个唯利是图的商人甚至在日食时试图卖伞。"
+          },
+          {
+            "sentence": "Her gainful nature made her charge friends for WeChat red packet tutorials.",
+            "sentence_zh": "她唯利是图的本性使得她向朋友收取微信红包使用教程费。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gainful employment",
+        "meaning": "有酬工作",
+        "examples": [
+          {
+            "sentence": "Delivering takeout is his first gainful employment after graduation.",
+            "sentence_zh": "送外卖是他毕业后的第一份有酬工作。"
+          }
+        ]
+      }
+    ],
+    "teach": "gainful是'赚头十足'的形容词版💸！古时候gain指战利品，现代指股票收益📈。说人'唯利是图'可用money-grubbing（抠钱状），'暴利行业'叫cash cow（现金奶牛）🐄。记住：gainful smile可能是老板要发奖金，也可能是黄牛在倒票🎫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'给富'→给富人(gainful)打工才有钱途",
+        "易混词对比：profitable（客观有利可图） vs gainful（常带主观牟利色彩）"
+      ]
+    }
+  },
+  {
+    "word": "gainfully",
+    "etymology": {
+      "breakdown": [
+        "gain",
+        "ful",
+        "ly"
+      ],
+      "meaning_connection": "词根gain=获得，-ful表充满，-ly变副词→充满收获地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有利益地",
+        "examples": [
+          {
+            "sentence": "She invested gainfully in tech start-ups before the AI boom.",
+            "sentence_zh": "她在人工智能热潮前有利益地投资了科技初创公司。"
+          },
+          {
+            "sentence": "The antique vase was gainfully resold at triple its purchase price.",
+            "sentence_zh": "这个古董花瓶以三倍购入价被有利益地转售。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有收入地",
+        "examples": [
+          {
+            "sentence": "After graduation, he worked gainfully as a livestream host selling farm products.",
+            "sentence_zh": "毕业后他有收入地从事农产品直播带货工作。"
+          },
+          {
+            "sentence": "Many retirees remain gainfully employed as consultants in China.",
+            "sentence_zh": "在中国许多退休人员仍有收入地担任顾问工作。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gainfully employed",
+        "meaning": "有稳定收入的",
+        "examples": [
+          {
+            "sentence": "The new policy encourages stay-at-home moms to become gainfully employed.",
+            "sentence_zh": "新政策鼓励家庭主妇获得有稳定收入的工作。"
+          }
+        ]
+      }
+    ],
+    "teach": "gainfully就像存钱罐🐷被硬币塞满的叮当声💰！中世纪商人用gain（利润）称重白银⚖️，-ful后缀表示'多到溢出来'。要说'赚外快'可以用moonlighting（月光下偷偷干活🌙），'稳定高收入'叫handsome salary。记住：gainfully工作就是为了实现火锅自由🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'给富力'→给富力(gainfully)工作才能变富",
+        "易混词对比：profitably（偏重利润）vs gainfully（强调持续收入）",
+        "记忆tip：把-ful想象成装钱的钱包"
+      ]
+    }
+  },
+  {
+    "word": "gaining",
+    "etymology": {
+      "breakdown": [
+        "gain",
+        "ing"
+      ],
+      "meaning_connection": "词根gain表示'获得'，后缀-ing构成名词形式，原指通过开槽获得材料或空间"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "单向开槽（机械加工术语）",
+        "examples": [
+          {
+            "sentence": "The gaining process creates precise grooves for circuit boards.",
+            "sentence_zh": "单向开槽工艺为电路板制作精确沟槽。"
+          },
+          {
+            "sentence": "This CNC machine specializes in aluminum gaining with 0.01mm tolerance.",
+            "sentence_zh": "该数控机床专攻0.01毫米精度的铝材单向开槽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "材料切除（木工术语）",
+        "examples": [
+          {
+            "sentence": "Traditional Japanese joinery uses manual gaining techniques.",
+            "sentence_zh": "传统日本木工采用手工开料技法。"
+          },
+          {
+            "sentence": "The artisan demonstrated gaining with chisel and mallet.",
+            "sentence_zh": "工匠演示了用凿子和木槌进行材料切除。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gaining tool",
+        "meaning": "开槽工具",
+        "examples": [
+          {
+            "sentence": "This antique gaining tool is displayed in the Carpenter's Museum.",
+            "sentence_zh": "这件古董开槽工具陈列在木匠博物馆。"
+          }
+        ]
+      }
+    ],
+    "teach": "gaining其实是'搞赢'机械的秘诀🔧！就像吃豆人游戏里Pac-Man gaining能量豆一样，机械通过开槽'获得'精准空间🎯。木工说'开料'就像给木头做针灸（wood acupuncture），搭配gaining saw就像用光剑切黄油🧈。记住：gaining不是赚钱，是赚空间！",
+    "recite": {
+      "tips": [
+        "谐音梗：'给硬'→给硬物开槽",
+        "易混词对比：gaining（开槽）vs grooving（开沟）"
+      ]
+    }
   }
 ]

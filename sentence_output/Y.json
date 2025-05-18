@@ -1475,5 +1475,259 @@
         "记忆：想象歪头单挑眉说yeah的表情🤨"
       ]
     }
+  },
+  {
+    "word": "year",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自原始日耳曼语'jērą'，与季节循环相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "年",
+        "examples": [
+          {
+            "sentence": "The WeChat annual report revealed I spent 2 years' worth of time scrolling moments.",
+            "sentence_zh": "微信年度报告显示我刷朋友圈的时间累计长达两年。"
+          },
+          {
+            "sentence": "Chinese zodiac has 12 animal signs representing each year.",
+            "sentence_zh": "中国生肖用12种动物代表每一年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "年度",
+        "examples": [
+          {
+            "sentence": "This year's hottest new year gift was ChatGPT subscription cards.",
+            "sentence_zh": "今年最热门的新年礼物是ChatGPT会员卡。"
+          },
+          {
+            "sentence": "The Year of Dragon always sees a baby boom in China.",
+            "sentence_zh": "龙年总是会出现生育高峰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "年龄",
+        "examples": [
+          {
+            "sentence": "When asked about her year, the actress said 'Just like fine wine'.",
+            "sentence_zh": "当被问及年龄时，这位女演员说'就像美酒一样'。"
+          },
+          {
+            "sentence": "Panda years count differently - 1 human year equals 3 panda years.",
+            "sentence_zh": "熊猫的年龄计算方式不同——人类1年相当于熊猫3年。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "year after year",
+        "meaning": "年复一年",
+        "examples": [
+          {
+            "sentence": "My mom makes zongzi year after year for Dragon Boat Festival.",
+            "sentence_zh": "我妈妈年复一年地为端午节包粽子。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "all year round",
+        "meaning": "全年无休",
+        "examples": [
+          {
+            "sentence": "Hainan coconut sellers work all year round thanks to the tropical climate.",
+            "sentence_zh": "得益于热带气候，海南的椰商全年无休。"
+          }
+        ]
+      }
+    ],
+    "teach": "year其实是'爷儿'👴→时间老爷子！古代玛雅人用52年为一个周期（就像我们的甲子），现代人说'年龄'会委婉讲vintage years🍷。'又老一岁'说turn another year wiser,'年度总结'叫year in review就像晒年度歌单🎵。记住：你的year决定你能领多少压岁钱🧧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爷儿'→时间老爷子(year)又溜达了一圈",
+        "易混对比：year vs. ear（年份和耳朵）→多出的y就像日历翻页"
+      ]
+    }
+  },
+  {
+    "word": "yearbook",
+    "etymology": {
+      "breakdown": [
+        "year",
+        "book"
+      ],
+      "meaning_connection": "复合词year+book，字面意思为'记录一年的书籍'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "年鉴",
+        "examples": [
+          {
+            "sentence": "The university yearbook features graduates' quirky photos and quotes.",
+            "sentence_zh": "大学年鉴收录了毕业生们的搞怪照片和语录。"
+          },
+          {
+            "sentence": "Check the economic yearbook for GDP growth data like reading a comic book.",
+            "sentence_zh": "查经济年鉴看GDP数据就像看漫画书一样有趣。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "school yearbook",
+        "meaning": "毕业纪念册",
+        "examples": [
+          {
+            "sentence": "Signing classmates' yearbooks is more emotional than writing final exams.",
+            "sentence_zh": "给同学毕业册签名比写期末考试卷更让人动情。"
+          },
+          {
+            "sentence": "Her yearbook quote 'I'll be TikTok famous' actually came true.",
+            "sentence_zh": "她年鉴留言'我会成为抖音网红'居然成真了。"
+          }
+        ]
+      }
+    ],
+    "teach": "yearbook是时光胶囊💊：美国高中生会花半年时间制作毕业册，就像把青春装订成书📚。'年鉴式记忆'叫yearbook memory，'黑历史照片'说成cringe yearbook pics（比如你的杀马特造型😅）。记住：你的yearbook可能比你的简历更真实！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噎不渴'→年鉴太厚噎住都渴不了",
+        "易混词：yearbook（年鉴）vs textbook（教科书）"
+      ]
+    }
+  },
+  {
+    "word": "yearling",
+    "etymology": {
+      "breakdown": [
+        "year",
+        "ling"
+      ],
+      "meaning_connection": "year表示'年'，后缀-ling表'小/幼'→字面意思'一年大的小东西'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "一岁崽（动物）",
+        "examples": [
+          {
+            "sentence": "The panda yearling clumsily rolled down the hill like a fuzzy black-and-white ball.",
+            "sentence_zh": "熊猫幼崽像颗毛绒黑白球笨拙地滚下山坡。"
+          },
+          {
+            "sentence": "Kentucky Derby only allows yearling horses to participate.",
+            "sentence_zh": "肯塔基德比赛马仅允许一岁马参赛。"
+          }
+        ]
+      }
+    ],
+    "teach": "yearling是动物界的'本命年'🐎！古英语用-ling造词超爱卖萌（duckling小鸭崽🧒）。赛马届的yearling身价堪比比特币💎，而熊猫yearling的破坏力堪比哈士奇🐾。搭配'yearling sale（周岁马拍卖）'和'yearling weight（一岁体重）'，说'幼兽'别用baby animal，地道说法是greenhorn（字面意思是绿角兽）",
+    "recite": {
+      "tips": [
+        "谐音梗：'爷儿灵'→爷养的一岁崽特别机灵",
+        "易混词对比：yearn（渴望）+ ling = 渴望长大的崽",
+        "记忆tip：年终奖=year-end bonus，年崽子=year+ling"
+      ]
+    }
+  },
+  {
+    "word": "yearly",
+    "etymology": {
+      "breakdown": [
+        "year",
+        "ly"
+      ],
+      "meaning_connection": "year表示'年'，后缀-ly构成形容词或副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "每年的",
+        "examples": [
+          {
+            "sentence": "The yearly AI conference gathers tech giants in Shenzhen.",
+            "sentence_zh": "年度人工智能大会在深圳聚集科技巨头。"
+          },
+          {
+            "sentence": "Her yearly bonus equals three months' salary.",
+            "sentence_zh": "她的年度奖金相当于三个月工资。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "一年一度的",
+        "examples": [
+          {
+            "sentence": "The yearly Lantern Festival parade features giant pandas.",
+            "sentence_zh": "一年一度的元宵节巡游以巨型熊猫为特色。"
+          },
+          {
+            "sentence": "We prepare special mooncakes for our yearly family reunion.",
+            "sentence_zh": "我们为一年一度的家庭团聚准备特别月饼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "一年一次",
+        "examples": [
+          {
+            "sentence": "The app updates yearly with zodiac animal themes.",
+            "sentence_zh": "这个应用每年更新一次生肖主题。"
+          },
+          {
+            "sentence": "He travels to Tibet yearly like clockwork.",
+            "sentence_zh": "他像钟表般一年一次前往西藏旅行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "每年",
+        "examples": [
+          {
+            "sentence": "The Great Wall Marathon is held yearly in May.",
+            "sentence_zh": "长城马拉松每年五月举办。"
+          },
+          {
+            "sentence": "We audit the accounts yearly before Spring Festival.",
+            "sentence_zh": "我们在春节前每年审计账目。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yearly basis",
+        "meaning": "按年度计算",
+        "examples": [
+          {
+            "sentence": "Douyin influencers are paid on a yearly basis.",
+            "sentence_zh": "抖音网红的收入按年度计算。"
+          }
+        ]
+      }
+    ],
+    "teach": "yearly就像你的支付宝年度账单📊！古人用结绳记年🧶，现代人说'annually'更正式，而'yearly'自带烟火气🎆。'年度报告'叫yearly report像年终总结PPT💻，'年更博主'是yearly uploader比熊猫还稀有🐼。记住：凡是带-ly的都可以当形容词或副词，就像瑞士军刀有两面刃🔪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'耶了'→过年喊'耶了'(yearly)",
+        "易混词对比：yearly(强调规律性) vs annual(正式场合)"
+      ]
+    }
   }
 ]

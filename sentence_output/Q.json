@@ -1405,5 +1405,341 @@
         "易混词对比：shaking（人为摇晃）vs quaking（自然颤动）"
       ]
     }
+  },
+  {
+    "word": "qualification",
+    "etymology": {
+      "breakdown": [
+        "qualify",
+        "ation"
+      ],
+      "meaning_connection": "源自qualify（使合格）+名词后缀-ation→使某事物具备资格的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "资格",
+        "examples": [
+          {
+            "sentence": "A PhD is not the only qualification for being a good teacher.",
+            "sentence_zh": "博士学位并非成为好老师的唯一资格。"
+          },
+          {
+            "sentence": "Her dual qualifications in law and economics make her stand out.",
+            "sentence_zh": "她法律与经济学的双重资格令其脱颖而出。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "条件",
+        "examples": [
+          {
+            "sentence": "The job has three key qualifications: patience, creativity, and love for spicy food.",
+            "sentence_zh": "该职位有三个关键条件：耐心、创造力和爱吃辣。"
+          },
+          {
+            "sentence": "Meeting the height qualification is essential for roller coaster riders.",
+            "sentence_zh": "达到身高条件是乘坐过山车的基本要求。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "限制",
+        "examples": [
+          {
+            "sentence": "The contract has an important qualification about working hours.",
+            "sentence_zh": "合同中关于工作时间有重要限制条款。"
+          },
+          {
+            "sentence": "His praise came with the qualification 'for a beginner'.",
+            "sentence_zh": "他的称赞带着'对新手而言'的限制条件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "professional qualification",
+        "meaning": "专业资格",
+        "examples": [
+          {
+            "sentence": "Obtaining a barber's professional qualification requires 300 haircuts.",
+            "sentence_zh": "获得理发师专业资格需要完成300次剪发。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "without qualification",
+        "meaning": "无保留地",
+        "examples": [
+          {
+            "sentence": "I recommend this hotpot restaurant without qualification!",
+            "sentence_zh": "我毫无保留地推荐这家火锅店！"
+          }
+        ]
+      }
+    ],
+    "teach": "qualification就像游戏里的成就系统🎮！获得'英语六级'资格证是解锁外企副本的钥匙🔑，'身高180cm'这种条件是相亲市场的硬通货💑，而'最终解释权归本店所有'这种限制条款就像奶茶店的'不提供去冰选项'🚫。记住：当HR说'We have some qualifications'时，可能要开始讨价还价了💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸了非开心'→获得资格认证后夸了非开心",
+        "易混词对比：quality（质量）是静态属性，qualification（资格）是认证结果",
+        "记忆tip：把-quali-想成'夸你'，被认可才能获得资格"
+      ]
+    }
+  },
+  {
+    "word": "qualified",
+    "etymology": {
+      "breakdown": [
+        "qual",
+        "ify",
+        "ed"
+      ],
+      "meaning_connection": "词根qual=质量/特性，-ify表'使成为'，-ed表形容词→使具备某种特性的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有资格的",
+        "examples": [
+          {
+            "sentence": "Only qualified pilots can fly the C919 aircraft.",
+            "sentence_zh": "只有有资格的飞行员才能驾驶C919客机。"
+          },
+          {
+            "sentence": "She became qualified to teach after 3 years of training.",
+            "sentence_zh": "经过三年培训后她获得了教学资格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "合格的",
+        "examples": [
+          {
+            "sentence": "This Xiaomi phone comes with qualified fast-charging accessories.",
+            "sentence_zh": "这款小米手机配备合格的快充配件。"
+          },
+          {
+            "sentence": "All dumplings in this shop use qualified flour.",
+            "sentence_zh": "这家店的饺子全部使用合格面粉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有限制的",
+        "examples": [
+          {
+            "sentence": "They gave only qualified approval to the new policy.",
+            "sentence_zh": "他们对新政策仅给予有限制的认可。"
+          },
+          {
+            "sentence": "The contract comes with qualified rights for users.",
+            "sentence_zh": "该合同为用户提供有限制的权利。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "highly qualified",
+        "meaning": "高度合格的",
+        "examples": [
+          {
+            "sentence": "Huawei employs highly qualified engineers from top universities.",
+            "sentence_zh": "华为雇佣来自顶尖院校的高度合格工程师。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "qualified for",
+        "meaning": "有...资格",
+        "examples": [
+          {
+            "sentence": "Are you qualified for the discounted student metro card?",
+            "sentence_zh": "你有资格办理学生地铁卡优惠吗？"
+          }
+        ]
+      }
+    ],
+    "teach": "qualified就像考试60分🎓——及格了但没完全及格！古罗马qualis本指'某种程度'就像现在'勉强过关'的微信表情😅。说'专业大牛'要用highly qualified（像清华学霸📚），'限制版'叫qualified rights（像会员试用期⏳）。记住：老板说you're qualified时，可能暗示'你也就刚达标'🤏！",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸你飞的'→被夸飞行技术好说明qualified",
+        "易混词：qualified（达标）vs. certified（持证）",
+        "联想：qual-开头都是'质量相关'（quality/qualify/qualification）"
+      ]
+    }
+  },
+  {
+    "word": "qualifier",
+    "etymology": {
+      "breakdown": [
+        "qual",
+        "ify",
+        "er"
+      ],
+      "meaning_connection": "词根qual=质量/特性，-ify表'使成为'，-er表'人/物'→使具备资格的人或成分"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "取得资格的人",
+        "examples": [
+          {
+            "sentence": "She became the youngest qualifier for the Math Olympics.",
+            "sentence_zh": "她成为数学奥赛最年轻的入围选手。"
+          },
+          {
+            "sentence": "All qualifiers will receive a golden dumpling trophy.",
+            "sentence_zh": "所有晋级者将获得金色饺子奖杯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "限定语",
+        "examples": [
+          {
+            "sentence": "'Very' in 'very spicy hotpot' acts as a qualifier.",
+            "sentence_zh": "'非常'在'非常辣的火锅'中作限定成分。"
+          },
+          {
+            "sentence": "Chinese often use 'little' as a humble qualifier.",
+            "sentence_zh": "中文常用'小'作为谦逊限定词。"
+          }
+        ]
+      }
+    ],
+    "teach": "qualifier是'有料认证章'🏅！想象古代科举考生通过乡试成为qualifier（举人），就像现代人通过普通话考试📜。语法中的qualifier就像火锅里的'微辣/变态辣'标签🌶️。搭配：'main qualifier'（主审考官），'tone qualifier'（语气修饰词）。说'勉强及格'可用'scrape through as a qualifier'，像用最后一粒米通过体重秤🐷🎯",
+    "recite": {
+      "tips": [
+        "谐音梗：'快理发呀'→理发师资格证持证上岗(qualifier)",
+        "对比：qualifier(达标者) vs. quality(质量)",
+        "联想：Quali-开头四字母和quality相同"
+      ]
+    }
+  },
+  {
+    "word": "qualify",
+    "etymology": {
+      "breakdown": [
+        "qual",
+        "ify"
+      ],
+      "meaning_connection": "词根qual=性质/类别，后缀-ify表'使...化'→使具备某种性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "取得资格",
+        "examples": [
+          {
+            "sentence": "She qualified as a pilot after 2,000 flight hours.",
+            "sentence_zh": "她在累积2000飞行小时后取得飞行员资格。"
+          },
+          {
+            "sentence": "Our esports team just qualified for the World Championship.",
+            "sentence_zh": "我们的电竞战队刚刚获得世锦赛参赛资格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "有资格",
+        "examples": [
+          {
+            "sentence": "Only users over 18 qualify to play this game.",
+            "sentence_zh": "仅18岁以上用户有资格玩这款游戏。"
+          },
+          {
+            "sentence": "Your WeChat Pay balance qualifies for the lucky draw.",
+            "sentence_zh": "你的微信零钱余额有资格参与抽奖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使有资格",
+        "examples": [
+          {
+            "sentence": "A TOEFL score of 110 qualifies you for Harvard's English program.",
+            "sentence_zh": "托福110分能使你有资格申请哈佛英语项目。"
+          },
+          {
+            "sentence": "This internship qualifies students for extra credit.",
+            "sentence_zh": "这次实习使学生能获得额外学分。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使合格",
+        "examples": [
+          {
+            "sentence": "The training course qualifies employees to operate heavy machinery.",
+            "sentence_zh": "该培训课程使员工合格操作重型机械。"
+          },
+          {
+            "sentence": "This certification qualifies the product for EU export.",
+            "sentence_zh": "该认证使产品具备出口欧盟的合格资质。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "限定",
+        "examples": [
+          {
+            "sentence": "He qualified his praise with 'but the design could be better'.",
+            "sentence_zh": "他用'但设计还能更好'限定了自己的赞美。"
+          },
+          {
+            "sentence": "The contract qualifies the rights of both parties.",
+            "sentence_zh": "合同限定了双方的权利范围。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "qualify as",
+        "meaning": "作为...合格",
+        "examples": [
+          {
+            "sentence": "This doesn't qualify as a valid ID in China.",
+            "sentence_zh": "这在中国不能作为有效身份证件。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "qualify for",
+        "meaning": "有...资格",
+        "examples": [
+          {
+            "sentence": "Do I qualify for the new energy vehicle subsidy?",
+            "sentence_zh": "我有资格领取新能源车补贴吗？"
+          }
+        ]
+      }
+    ],
+    "teach": "qualify就像通关文牒📜！古代举人考中叫'取得资格'（qualify），现代人考驾照也是同样道理🚗。说'勉强合格'可以用barely qualify就像60分飘过🎓，而'顶级资格'叫gold-qualified像奥运金牌🏅。搭配记忆：qualify for优惠券就像抢美团红包🧧，qualify as专家认证就像拿到小红书达人标志💄",
+    "recite": {
+      "tips": [
+        "谐音梗：'快立飞'→快立飞(qualify)考取飞行执照",
+        "易混词：quality(质量)是静态名词，qualify是动态过程",
+        "记忆口诀：qual(质量)+ify(化)=把质量提高到合格线"
+      ]
+    }
   }
 ]

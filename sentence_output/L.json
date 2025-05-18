@@ -1436,5 +1436,309 @@
         "对比：lace（n.蕾丝）和lacing（n.系带行为）"
       ]
     }
+  },
+  {
+    "word": "lack",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'lac'（不足），与荷兰语'lak'同源，最初表示缺口或缺失状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "缺乏",
+        "examples": [
+          {
+            "sentence": "The lack of chili sauce made the hotpot taste like bathwater.",
+            "sentence_zh": "缺少辣椒酱的火锅尝起来像洗脚水。"
+          },
+          {
+            "sentence": "His presentation suffered from a severe lack of memes.",
+            "sentence_zh": "他的汇报因严重缺乏表情包而翻车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无",
+        "examples": [
+          {
+            "sentence": "There's a complete lack of sincerity in his 'read receipts'.",
+            "sentence_zh": "他的'已读不回'透着十足的无诚意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不足",
+        "examples": [
+          {
+            "sentence": "The lack of sleep turned her into a zombie during meetings.",
+            "sentence_zh": "睡眠不足让她在开会时变成行尸走肉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "缺乏",
+        "examples": [
+          {
+            "sentence": "This instant noodles lacks the promised beef chunks.",
+            "sentence_zh": "这泡面里缺乏包装承诺的牛肉粒。"
+          },
+          {
+            "sentence": "Young people today lack the patience to watch buffering videos.",
+            "sentence_zh": "当代年轻人完全缺乏等待视频缓冲的耐心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "需要",
+        "examples": [
+          {
+            "sentence": "Your resume lacks relevant internship experience.",
+            "sentence_zh": "你的简历需要相关实习经历。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "缺乏",
+        "examples": [
+          {
+            "sentence": "Modern relationships often lack deep communication.",
+            "sentence_zh": "现代恋爱关系常常缺乏深度交流。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "for lack of",
+        "meaning": "因缺少",
+        "examples": [
+          {
+            "sentence": "They canceled the camping for lack of bug spray.",
+            "sentence_zh": "他们因缺少驱蚊液取消了露营。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "no lack of",
+        "meaning": "不缺乏",
+        "examples": [
+          {
+            "sentence": "There's no lack of keyboard warriors on Weibo.",
+            "sentence_zh": "微博上从不缺乏键盘侠。"
+          }
+        ]
+      }
+    ],
+    "teach": "lack是个自带叹气声的单词😮💨！就像奶茶忘记加珍珠🧋（lack bubbles），或程序员发际线后移👨💻（lack hair）。要说'缺钱'可以用'tight on funds'像勒紧的裤腰带👖，'缺德'叫'scruple-free'像没有刹车的共享单车🚲。记住：当你的钱包lack money时，连扫码声音都特别轻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来克'→来克星顿(lack)总是缺少咖啡因",
+        "易混词对比：lack（客观缺少）vs want（主观想要）",
+        "记忆tip：把lack倒过来就是'kcal'→缺乏卡路里"
+      ]
+    }
+  },
+  {
+    "word": "lackadaisical",
+    "etymology": {
+      "breakdown": [
+        "lack",
+        "a",
+        "daisy",
+        "ical"
+      ],
+      "meaning_connection": "源自18世纪感叹词lack-a-day（哎呀天哪），后与daisy（雏菊）结合，-ical表性质→原指多愁善感，现引申为懒散"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "懒洋洋的",
+        "examples": [
+          {
+            "sentence": "The panda's lackadaisical chewing of bamboo went viral on Douyin.",
+            "sentence_zh": "熊猫懒洋洋啃竹子的视频在抖音爆红。"
+          },
+          {
+            "sentence": "His lackadaisical attitude towards final exams shocked his parents.",
+            "sentence_zh": "他对期末考的懒散态度震惊了父母。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "愁闷的",
+        "examples": [
+          {
+            "sentence": "The poet wrote lackadaisical verses after drinking chrysanthemum wine.",
+            "sentence_zh": "诗人饮完菊花酒后写下愁闷的诗句。"
+          },
+          {
+            "sentence": "Her lackadaisical sigh echoed through the empty teahouse.",
+            "sentence_zh": "她愁闷的叹息在空荡的茶馆里回响。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lackadaisical about",
+        "meaning": "对...漫不经心",
+        "examples": [
+          {
+            "sentence": "Don't be lackadaisical about submitting your health code.",
+            "sentence_zh": "提交健康码时可别漫不经心。"
+          }
+        ]
+      }
+    ],
+    "teach": "lackadaisical是'懒癌晚期'🧟‍♂️！源于古人看到凋谢的雏菊(daisy)说'哎呀(lack-a-day)'🌼，现在形容像被抽走骨头的火锅粉条🍜。搭配用：lackadaisical student（躺平学生），lackadaisical pace（龟速）。地道说法：couch potato（沙发土豆）比lackadaisical更生活化。记住：这词自带黛玉葬花BGM！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉开带子咳'→病恹恹拉开衣服带子咳嗽",
+        "易混词对比：lethargic（昏睡的） vs lackadaisical（慵懒的）",
+        "记忆tip：想象黛玉(lacka)+雏菊(daisical)=葬花忧郁"
+      ]
+    }
+  },
+  {
+    "word": "lackey",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语laquais（仆人），可能与西班牙语lacayo有关，原指穿制服的男仆"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "仆人",
+        "examples": [
+          {
+            "sentence": "The Victorian mansion had lackeys in striped waistcoats serving champagne.",
+            "sentence_zh": "维多利亚式豪宅里穿着条纹马甲的仆人正在端香槟。"
+          },
+          {
+            "sentence": "A Disneyland lackey helped Cinderella find her lost glass slipper.",
+            "sentence_zh": "迪士尼乐园的侍从帮灰姑娘找回了丢失的水晶鞋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "马屁精",
+        "examples": [
+          {
+            "sentence": "The CEO's lackeys always laugh three seconds earlier at his jokes.",
+            "sentence_zh": "CEO的马屁精们总是比其他人早三秒笑他的冷笑话。"
+          },
+          {
+            "sentence": "Those influencer's lackeys flooded the comments with emoji rainbows.",
+            "sentence_zh": "那个网红的马屁精们在评论区刷满了彩虹emoji。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "奉承",
+        "examples": [
+          {
+            "sentence": "He lackeyed the professor by carrying her Starbucks order every morning.",
+            "sentence_zh": "他每天早晨给教授带星巴克来奉承她。"
+          },
+          {
+            "sentence": "The intern lackeyed the manager by memorizing his coffee preferences.",
+            "sentence_zh": "实习生记住了经理的咖啡喜好来讨好他。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political lackey",
+        "meaning": "政治跟班",
+        "examples": [
+          {
+            "sentence": "The senator brought five political lackeys to carry his briefcases.",
+            "sentence_zh": "参议员带了五个政治跟班来替他拿公文包。"
+          }
+        ]
+      }
+    ],
+    "teach": "lackey是职场生存学大师🎓！最初指穿金纽扣制服的仆人👔（想象《唐顿庄园》的托马斯），现在形容拍马屁比博尔特跑得还快的人🏃。要说'马屁精'可以用ass-kisser（更粗俗）或bootlicker（舔靴者👢），'高级跟班'叫right-hand man。记住：当lackey不如当boss，除非你能像韦小宝把马屁拍成艺术！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来跪'→lackey就是来跪舔的",
+        "易混词对比：servant（中性）- lackey（贬义）",
+        "记忆tip：结尾的-ey发音像'诶'→听到马屁精说话就想'诶～又来了'"
+      ]
+    }
+  },
+  {
+    "word": "lacking",
+    "etymology": {
+      "breakdown": [
+        "lack",
+        "ing"
+      ],
+      "meaning_connection": "动词lack（缺乏）加上-ing形成形容词，直指'处于缺乏状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "缺乏的",
+        "examples": [
+          {
+            "sentence": "His resume is painfully lacking in work experience.",
+            "sentence_zh": "他的简历惨淡地缺乏工作经验。"
+          },
+          {
+            "sentence": "The new housing project is lacking basic facilities like grocery stores.",
+            "sentence_zh": "新住宅项目缺乏超市等基本设施。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不足的",
+        "examples": [
+          {
+            "sentence": "The investigation was criticized for lacking thoroughness.",
+            "sentence_zh": "调查因不够彻底而受到批评。"
+          },
+          {
+            "sentence": "Her explanation was lacking in convincing details.",
+            "sentence_zh": "她的解释缺少令人信服的细节。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be lacking in",
+        "meaning": "在...方面欠缺",
+        "examples": [
+          {
+            "sentence": "This instant noodle flavor is seriously lacking in authenticity.",
+            "sentence_zh": "这款泡面口味严重缺乏正宗风味。"
+          }
+        ]
+      }
+    ],
+    "teach": "lacking就像泡面里消失的调料包🍜！古人说'巧妇难为无米之炊'，现代人说'这方案很lacking'（缺斤少两⚖️）。要说'缺钱'可以吐槽funds are lacking，形容'缺心眼'就说social skills are lacking。记住：当你的奶茶缺珍珠时，它就是个lacking boba tea🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来颗硬'→缺乏(lacking)软糖只剩硬糖",
+        "易混词对比：missing（丢失的） vs lacking（不足的）"
+      ]
+    }
   }
 ]

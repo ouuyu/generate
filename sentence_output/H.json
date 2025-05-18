@@ -1463,5 +1463,257 @@
         "记忆法：记住haddock的'd'像鱼背上那道黑线"
       ]
     }
+  },
+  {
+    "word": "haemoglobin",
+    "etymology": {
+      "breakdown": [
+        "haemo",
+        "globin"
+      ],
+      "meaning_connection": "haemo=血（希腊语haima），globin=球蛋白→血液中的球状蛋白"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "血红蛋白",
+        "examples": [
+          {
+            "sentence": "Haemoglobin gives blood its signature red color like a natural food dye.",
+            "sentence_zh": "血红蛋白让血液呈现标志性红色，如同天然食用色素。"
+          },
+          {
+            "sentence": "Pandas' haemoglobin can still carry oxygen in bamboo-induced oxygen debt.",
+            "sentence_zh": "即便因吃竹子造成氧债，熊猫的血红蛋白仍能携氧。"
+          }
+        ]
+      }
+    ],
+    "teach": "haemoglobin是人体内的快递小哥🚴♂️！它每天运送3000亿个氧分子到全身，像美团骑手送外卖🍱（oxygen delivery）。缺铁时就像电动车没电→贫血（iron-deficiency）。要说'血气方刚'英文是full of beans🌰，而'脸色苍白'叫as pale as ghost👻。记住：你的血红蛋白决定你是精力充沛还是只想躺平！",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑魔玻璃瓶'→装着黑色魔力的血液玻璃瓶",
+        "易混词：hemoglobin（美式拼写少了a）",
+        "记忆tip：haemo（血）+globe（球）+in（里面）→血液里的红球"
+      ]
+    }
+  },
+  {
+    "word": "haemorrhage",
+    "etymology": {
+      "breakdown": [
+        "haemo",
+        "rrhage"
+      ],
+      "meaning_connection": "词根haemo=血（来自希腊语haima），-rrhage表示'过度流出'→字面意思是'血液过度流出'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大出血",
+        "examples": [
+          {
+            "sentence": "The surgeon worked frantically to stop the cerebral haemorrhage.",
+            "sentence_zh": "外科医生拼命阻止脑部大出血。"
+          },
+          {
+            "sentence": "Postpartum haemorrhage remains a major cause of maternal mortality.",
+            "sentence_zh": "产后大出血仍是孕产妇死亡的主要原因。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "溢血",
+        "examples": [
+          {
+            "sentence": "The eye haemorrhage made his sclera look terrifyingly red.",
+            "sentence_zh": "眼睛溢血使他的眼白呈现骇人的红色。"
+          },
+          {
+            "sentence": "Subconjunctival haemorrhage often occurs after intense coughing.",
+            "sentence_zh": "结膜下溢血常发生在剧烈咳嗽后。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "brain haemorrhage",
+        "meaning": "脑溢血",
+        "examples": [
+          {
+            "sentence": "Standing up too quickly may cause minor brain haemorrhage in extreme cases.",
+            "sentence_zh": "极端情况下，起身过猛可能导致轻微脑溢血。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "haemorrhage money",
+        "meaning": "资金大量流失",
+        "examples": [
+          {
+            "sentence": "The startup haemorrhaged money after the failed marketing campaign.",
+            "sentence_zh": "营销活动失败后，这家初创企业资金大量流失。"
+          }
+        ]
+      }
+    ],
+    "teach": "haemorrhage是血の暴走🚑！古希腊医生看到伤口'哗啦'流血时创造了这个词💉，现代人用它形容资金流失就像《大富翁》破产💸。记住：鼻出血叫nosebleed，但内脏出血必须用haemorrhage。搭配'brain haemorrhage'比说'脑子漏水'专业多了🧠，资金流失说'bleeding money'不如'haemorrhaging cash'带感！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨！摸黑急'→大出血时慌乱摸黑急救",
+        "易混词对比：bleed（缓慢出血）vs haemorrhage（喷射状出血）",
+        "记忆tip：想象字母h是输液架，a是血袋，emo是表情包'我裂开了'"
+      ]
+    }
+  },
+  {
+    "word": "haemorrhagic",
+    "etymology": {
+      "breakdown": [
+        "haemo",
+        "rrhag",
+        "ic"
+      ],
+      "meaning_connection": "词根haemo=血，rrhag=破裂/流出，-ic表形容词→血液流出的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "体内出血的",
+        "examples": [
+          {
+            "sentence": "The patient showed haemorrhagic spots under the skin like strawberry jam stains.",
+            "sentence_zh": "患者皮下出现如草莓酱般的出血点。"
+          },
+          {
+            "sentence": "Haemorrhagic fever turns organs into leaky watermelon sponges.",
+            "sentence_zh": "出血热会让器官变成漏水的西瓜海绵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "出血引起的",
+        "examples": [
+          {
+            "sentence": "The haemorrhagic shock made her palms as pale as mooncakes.",
+            "sentence_zh": "失血性休克让她的手掌苍白如月饼。"
+          },
+          {
+            "sentence": "Doctors used durian-smelling coagulants to control haemorrhagic symptoms.",
+            "sentence_zh": "医生用榴莲味凝血剂控制出血症状。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "haemorrhagic stroke",
+        "meaning": "出血性中风",
+        "examples": [
+          {
+            "sentence": "Eating too much hotpot may increase risk of haemorrhagic stroke.",
+            "sentence_zh": "火锅过量可能增加出血性中风风险。"
+          }
+        ]
+      }
+    ],
+    "teach": "haemorrhagic是医学界的'番茄酱事故'🍅！词根haemo=血（想象吸血鬼喝血袋🩸），rrhag=破裂（像爆裂的消防栓💦）。说'大出血'可以用bleed like a stuck pig🐷，'止血'叫stanch bleeding就像堵奶茶漏杯🧋。记住：这个词拼写就像打翻的血瓶——满地都是字母r！",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑魔雷击'→黑暗魔法导致大出血",
+        "易混词对比：haemorrhoid（痔疮）也是出血，但部位尴尬😅"
+      ]
+    }
+  },
+  {
+    "word": "hag",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语hægesse（女巫），与德语Hexe同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "女巫",
+        "examples": [
+          {
+            "sentence": "The Halloween decoration featured a cackling hag stirring a cauldron.",
+            "sentence_zh": "万圣节装饰中有一个搅动大锅咯咯笑的女巫。"
+          },
+          {
+            "sentence": "In the fairy tale, the kind princess befriended a misunderstood hag.",
+            "sentence_zh": "童话里善良的公主与被误解的女巫成了朋友。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "丑老太婆",
+        "examples": [
+          {
+            "sentence": "The grumpy hag next door always yells at kids stepping on her lawn.",
+            "sentence_zh": "隔壁暴躁的老太婆总对踩草坪的小孩大吼。"
+          },
+          {
+            "sentence": "He called his ex-wife an old hag during their argument.",
+            "sentence_zh": "吵架时他称前妻是个丑老太婆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "沼地",
+        "examples": [
+          {
+            "sentence": "The peat hag emitted an eerie glow at dusk.",
+            "sentence_zh": "黄昏时泥炭沼地泛着诡异微光。"
+          },
+          {
+            "sentence": "Hikers avoided the treacherous hag full of quicksand.",
+            "sentence_zh": "徒步者避开了充满流沙的危险沼地。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "砍",
+        "examples": [
+          {
+            "sentence": "The lumberjack hagged the oak tree with rhythmic swings.",
+            "sentence_zh": "伐木工有节奏地挥斧砍橡树。"
+          },
+          {
+            "sentence": "He hagged through the frozen meat with brute force.",
+            "sentence_zh": "他靠蛮力砍开冻肉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hag-ridden",
+        "meaning": "被梦魇困扰的",
+        "examples": [
+          {
+            "sentence": "The CEO looked hag-ridden after three nights without sleep.",
+            "sentence_zh": "连续三晚失眠后CEO看起来像被梦魇缠身。"
+          }
+        ]
+      }
+    ],
+    "teach": "hag是女巫届的灭霸🧙♀️！中世纪时她们被想象成骑扫帚的丑老太婆🧹，现代英语中'hag'比'witch'更带侮辱性。要说'凶巴巴的老阿姨'可以说old battle-axe🪓，'糟老头子'对应词是codger👴。记住：看到hag要躲开，除非是万圣节讨糖🍬！",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑格'→穿黑袍的女巫",
+        "易混词：hag vs witch（后者更中性）"
+      ]
+    }
   }
 ]

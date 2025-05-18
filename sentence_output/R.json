@@ -1498,5 +1498,257 @@
         "易混词：rack（架子）vs wrack（毁坏）"
       ]
     }
+  },
+  {
+    "word": "racket",
+    "etymology": {
+      "breakdown": [
+        "rac",
+        "et"
+      ],
+      "meaning_connection": "词根rac可能与击打动作相关（拟声词源），-et表小工具→原指小型打击工具，后引申为球拍和喧闹声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "球拍",
+        "examples": [
+          {
+            "sentence": "Her pink tennis racket matched her lucky sweatband.",
+            "sentence_zh": "她的粉色网球拍与幸运护腕配套。"
+          },
+          {
+            "sentence": "Badminton rackets in ancient China were made of stretched sheepskin.",
+            "sentence_zh": "中国古代的羽毛球拍用拉伸的羊皮制成。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "喧闹",
+        "examples": [
+          {
+            "sentence": "The mahjong racket next door sounded like a popcorn machine.",
+            "sentence_zh": "隔壁的麻将喧闹声像爆米花机。"
+          },
+          {
+            "sentence": "Morning market vendors compete in a cheerful racket.",
+            "sentence_zh": "早市商贩们用欢快的喧闹声招揽顾客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂乱无章",
+        "examples": [
+          {
+            "sentence": "My desk is a racket of tangled earphones and sticky notes.",
+            "sentence_zh": "我的书桌是耳机线和便利贴的杂乱战场。"
+          },
+          {
+            "sentence": "The traffic during holiday was absolute racket.",
+            "sentence_zh": "假日交通完全杂乱无章。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "喧闹",
+        "examples": [
+          {
+            "sentence": "Neighborhood kids were racketing with firecrackers.",
+            "sentence_zh": "小区孩子们放鞭炮喧闹不止。"
+          },
+          {
+            "sentence": "Parrots racketed in their cages at the pet market.",
+            "sentence_zh": "宠物市场的鹦鹉在笼中喧闹不休。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用球拍打",
+        "examples": [
+          {
+            "sentence": "She racketed the shuttlecock straight to her opponent's nose.",
+            "sentence_zh": "她用球拍把羽毛球直击对手鼻子。"
+          },
+          {
+            "sentence": "Ping-pong beginners often racket the ball to the ceiling.",
+            "sentence_zh": "乒乓球初学者常把球打到天花板上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make a racket",
+        "meaning": "制造噪音",
+        "examples": [
+          {
+            "sentence": "Delivery robots make less racket than midnight food couriers.",
+            "sentence_zh": "送餐机器人比深夜外卖员制造的噪音小。"
+          }
+        ]
+      }
+    ],
+    "teach": "racket是动静结合的矛盾体🎭！当球拍时安静如鸡毛毽子🏸（tennis racket），当噪音时吵得像广场舞音响🔊（make a racket）。有趣的是：网球拍最初是手掌演变而来，而'喧闹'义来自黑帮敲诈时制造的噪音💸。说'太吵了'可以吐槽：Sounds like a panda kindergarten!（吵得像熊猫幼儿园）",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐可疼'→锐利的球拍打疼手",
+        "易混词：rocket（火箭）vs racket（球拍）→ 火箭安静升空，球拍吵闹击球"
+      ]
+    }
+  },
+  {
+    "word": "racketeer",
+    "etymology": {
+      "breakdown": [
+        "racket",
+        "eer"
+      ],
+      "meaning_connection": "racket原指'喧闹声'，后引申为'非法勾当'；-eer表示'从事者'→从事非法勾当的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "敲诈者",
+        "examples": [
+          {
+            "sentence": "The noodle shop owner paid protection money to local racketeers.",
+            "sentence_zh": "面馆老板向当地敲诈者交纳保护费。"
+          },
+          {
+            "sentence": "Those racketeers disguised themselves as community volunteers.",
+            "sentence_zh": "那些敲诈者伪装成社区志愿者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "骗子",
+        "examples": [
+          {
+            "sentence": "The so-called feng shui master turned out to be a racketeer.",
+            "sentence_zh": "那个所谓风水大师原来是个骗子。"
+          },
+          {
+            "sentence": "Online racketeers often use celebrity photos to scam fans.",
+            "sentence_zh": "网络骗子常用明星照片诈骗粉丝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "诈骗钱财",
+        "examples": [
+          {
+            "sentence": "They racketeered elderly people by selling fake health products.",
+            "sentence_zh": "他们通过销售假保健品诈骗老年人。"
+          },
+          {
+            "sentence": "The corrupt official was found racketeering with construction permits.",
+            "sentence_zh": "该贪官被发现利用建筑许可诈骗钱财。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "racketeering charges",
+        "meaning": "诈骗指控",
+        "examples": [
+          {
+            "sentence": "The CEO faced racketeering charges for pyramid selling.",
+            "sentence_zh": "该CEO因传销面临诈骗指控。"
+          }
+        ]
+      }
+    ],
+    "teach": "racketeer是黑帮电影标配角色💸！词源来自racket（原指网球拍🎾，后变成'非法生意'的黑话）。视觉记忆：想象黑帮用球拍(racket)接住砸来的钱袋💰。搭配：run a racket（经营非法勾当）/ protection racket（收保护费）。地道说法：'骗局'叫scam或grift，'割韭菜'可说fleecing the sheep🐑。记住：遇到racketeer快跑，除非你在看《教父》！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来克踢儿'→来克(rack)你钱包的踢儿(eer)",
+        "易混词对比：rack（架子） vs racket（喧闹/诈骗）",
+        "记忆tip：R（坏人）+ ACK（阿珂游戏角色）+ EER（恶人）→诈骗三人组"
+      ]
+    }
+  },
+  {
+    "word": "raconteur",
+    "etymology": {
+      "breakdown": [
+        "racont",
+        "eur"
+      ],
+      "meaning_connection": "来自法语raconter（讲述）+ -eur（表人）→ 字面意思是'会讲故事的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "说书者",
+        "examples": [
+          {
+            "sentence": "The teahouse raconteur made Journey to the West come alive with sound effects.",
+            "sentence_zh": "茶馆说书人用音效让《西游记》活灵活现。"
+          },
+          {
+            "sentence": "Ancient raconteurs were human audiobooks before printing existed.",
+            "sentence_zh": "古代的评书人在印刷术出现前就是真人有声书。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "擅长讲故事的人",
+        "examples": [
+          {
+            "sentence": "Our history teacher is such a raconteur that even dates become dramatic episodes.",
+            "sentence_zh": "历史老师太会讲故事，连年份都能变成戏剧情节。"
+          },
+          {
+            "sentence": "Every family has that one raconteur who turns grocery shopping into an adventure tale.",
+            "sentence_zh": "每个家族都有个能把买菜讲成冒险故事的能手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "健谈者",
+        "examples": [
+          {
+            "sentence": "The French CEO was a natural raconteur who charmed investors with baguette metaphors.",
+            "sentence_zh": "那位法国CEO是天生的演说家，用法棍面包的比喻迷住了投资人。"
+          },
+          {
+            "sentence": "Avoid sitting next to a raconteur at hotpot dinners - your meat will overcook!",
+            "sentence_zh": "火锅局千万别挨着话痨坐——你的肉会煮老！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "born raconteur",
+        "meaning": "天生的演说家",
+        "examples": [
+          {
+            "sentence": "Li Jiaqi proves being a born raconteur is key to live-streaming sales.",
+            "sentence_zh": "李佳琦证明天生会侃是直播带货的关键。"
+          }
+        ]
+      }
+    ],
+    "teach": "raconteur是法语来的'故事王'🎭！想象在凡尔赛宫里边嗑瓜子边听段子🥜（就像现在听播客）。说某人'特能唠'可以用chatty Cathy🐤，但raconteur更高级——相当于《百家讲坛》易中天级别🎓。搭配'spin a yarn'（编故事）和'hold court'（掌控全场），记住：不会讲故事的网红不是好销售💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来侃特'→来侃特别能说(raconteur)",
+        "对比：storyteller侧重内容，raconteur强调讲述魅力",
+        "记忆法：想象法语腔说'来康泰'故事"
+      ]
+    }
   }
 ]

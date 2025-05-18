@@ -1470,5 +1470,352 @@
         "联想：TACIT=Totally Avoid Communicating In Talk"
       ]
     }
+  },
+  {
+    "word": "tacitly",
+    "etymology": {
+      "breakdown": [
+        "tac",
+        "it",
+        "ly"
+      ],
+      "meaning_connection": "词根tac=沉默（同taciturn），-it为连接成分，-ly构成副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "肃静地",
+        "examples": [
+          {
+            "sentence": "The monks walked tacitly through the bamboo forest at dawn.",
+            "sentence_zh": "僧侣们在黎明时分肃静地穿过竹林。"
+          },
+          {
+            "sentence": "Snowflakes fell tacitly on the ancient temple's roof.",
+            "sentence_zh": "雪花肃静地落在古寺屋顶上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "沉默地",
+        "examples": [
+          {
+            "sentence": "He tacitly agreed by not objecting to the WeChat group decision.",
+            "sentence_zh": "他未在微信群提出反对，沉默地同意了决定。"
+          },
+          {
+            "sentence": "The veteran tacitly passed down his mahjong skills to his grandson.",
+            "sentence_zh": "老人沉默地将麻将技艺传授给孙子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tacitly approve",
+        "meaning": "默许",
+        "examples": [
+          {
+            "sentence": "The boss tacitly approved employees' napping during lunch break.",
+            "sentence_zh": "老板默许了员工午休时小睡的行为。"
+          }
+        ]
+      }
+    ],
+    "teach": "tacitly是'沉默如金'💰的高级说法！就像图书馆管理员🤫用眼神制止喧哗，或微信群里'收到不回复'的潜规则📱。要说'心照不宣'可以用tacit understanding（火锅好友之间抢着买单时的默契🍲）。记住：真正的东方智慧往往藏在tacitly中！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太息的'→叹息着沉默",
+        "易混词对比：tacitly（主动沉默）vs. silently（客观无声）",
+        "场景记忆：想象朱自清《荷塘月色》中'悄悄地披了大衫'的画面"
+      ]
+    }
+  },
+  {
+    "word": "tack",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'tache'，意为'钉子'或'固定物'，后引申出多种用途"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "平头钉",
+        "examples": [
+          {
+            "sentence": "The bulletin board was secured with colorful tacks.",
+            "sentence_zh": "公告板用彩色平头钉固定着。"
+          },
+          {
+            "sentence": "She accidentally stepped on a tack and jumped like a kangaroo.",
+            "sentence_zh": "她不小心踩到平头钉，像袋鼠一样跳了起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大头钉",
+        "examples": [
+          {
+            "sentence": "He used tacks to pin the map to the wall.",
+            "sentence_zh": "他用大头钉把地图钉在墙上。"
+          },
+          {
+            "sentence": "The teacher's desk was covered in tacks holding student artwork.",
+            "sentence_zh": "老师的桌子上满是固定学生艺术作品的大头钉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "粗缝针脚",
+        "examples": [
+          {
+            "sentence": "She quickly sewed the hem with large tacks before the party.",
+            "sentence_zh": "她在派对前用粗针脚快速缝好了裙边。"
+          },
+          {
+            "sentence": "The tailor used tack stitches to temporarily hold the fabric in place.",
+            "sentence_zh": "裁缝用粗缝针脚暂时固定布料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "行动方针",
+        "examples": [
+          {
+            "sentence": "The company changed tack after the new CEO took over.",
+            "sentence_zh": "新CEO上任后，公司改变了行动方针。"
+          },
+          {
+            "sentence": "Let's try a different tack to solve this problem.",
+            "sentence_zh": "让我们尝试用不同的方法来解决问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "食物",
+        "examples": [
+          {
+            "sentence": "After hiking all day, we were ready for some hearty tack.",
+            "sentence_zh": "徒步一整天后，我们准备好享用一些丰盛的食物。"
+          },
+          {
+            "sentence": "The sailors stored enough tack for their long voyage.",
+            "sentence_zh": "水手们为长途航行储备了足够的食物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "以大头针钉住",
+        "examples": [
+          {
+            "sentence": "She tacked the poster up with four silver tacks.",
+            "sentence_zh": "她用四个银色大头针钉住了海报。"
+          },
+          {
+            "sentence": "He tacked the fabric to the mannequin for fitting.",
+            "sentence_zh": "他把布料钉在人台上进行试衣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "附加",
+        "examples": [
+          {
+            "sentence": "The writer tacked a happy ending onto the story.",
+            "sentence_zh": "作家给故事附加了一个快乐的结局。"
+          },
+          {
+            "sentence": "They tacked an extra clause to the contract at the last minute.",
+            "sentence_zh": "他们在最后一刻给合同附加了一个额外条款。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tack on",
+        "meaning": "附加",
+        "examples": [
+          {
+            "sentence": "The hotel tacked on a service charge without notice.",
+            "sentence_zh": "酒店未经通知附加了一项服务费。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "change tack",
+        "meaning": "改变策略",
+        "examples": [
+          {
+            "sentence": "When plan A failed, we had to change tack.",
+            "sentence_zh": "当A计划失败时，我们不得不改变策略。"
+          }
+        ]
+      }
+    ],
+    "teach": "tack是个万能小帮手🧷！它可以是让你惨叫的图钉(ouch!)，也可以是裁缝的临时针脚🧵，甚至是改变人生的策略转折🔄。有趣的是，'tack'作为食物时就像船员的'救命粮食'⚓(hard tack)。说'附加条款'就像'强行加菜'—'tack on conditions'就像在麻辣烫里被迫加香菜🌿。记住：小小的tack，大大的用途！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太磕'→太磕(tack)牙的老饼干",
+        "易混词对比：tack vs. tag (一个是钉，一个是标签)"
+      ]
+    }
+  },
+  {
+    "word": "tacking",
+    "etymology": {
+      "breakdown": [
+        "tack",
+        "ing"
+      ],
+      "meaning_connection": "词根tack=固定/附加（源自古法语'taquer'），-ing表行为→原指用钉子固定船帆，法律引申为'将抵押权益附加到优先顺序'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "抵押优先清偿",
+        "examples": [
+          {
+            "sentence": "The court ruled that tacking was permissible in this mortgage dispute.",
+            "sentence_zh": "法院裁定在此次抵押纠纷中允许优先清偿。"
+          },
+          {
+            "sentence": "Tacking gives earlier lenders priority over subsequent creditors.",
+            "sentence_zh": "优先清偿制度使早期贷款方优于后续债权人。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "tacking就像法律界的'插队通行证'🎟️！想象古罗马战船⚓用tack（钉子）固定船帆时，先钉的钉子永远在最底层。现代法律用它表示'抵押权的先来后到'💸。搭配说'assert tacking rights'（主张优先权）或'challenge tacking'（质疑优先顺序），吐槽'霸王条款'可用highway robbery（拦路抢劫）🗡️。记住：先钉的钉子永不松动！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太钉'→太早钉(tacking)的钉子最牢固",
+        "易混词对比：tacking（优先清偿）vs. stacking（叠加权益）"
+      ]
+    }
+  },
+  {
+    "word": "tackle",
+    "etymology": {
+      "breakdown": [
+        "tack",
+        "le"
+      ],
+      "meaning_connection": "古英语'tæcel'指绳索装置，-le表工具后缀，原指渔网滑轮组，后引申为各种工具和动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "滑车装置",
+        "examples": [
+          {
+            "sentence": "The fishing boat's tackle snapped during the storm.",
+            "sentence_zh": "渔船的滑车装置在暴风雨中断裂了。"
+          },
+          {
+            "sentence": "He repaired the window using a makeshift tackle from shoelaces.",
+            "sentence_zh": "他用鞋带做的临时滑轮装置修好了窗户。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "体育装备",
+        "examples": [
+          {
+            "sentence": "His football tackle included custom-made knee pads.",
+            "sentence_zh": "他的橄榄球装备包含定制护膝。"
+          },
+          {
+            "sentence": "The camping tackle took up half our trunk space.",
+            "sentence_zh": "露营装备占了我们后备箱一半空间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "处理难题",
+        "examples": [
+          {
+            "sentence": "WeChat's team tackled the server crash within minutes.",
+            "sentence_zh": "微信团队在几分钟内处理好了服务器崩溃问题。"
+          },
+          {
+            "sentence": "She tackled the 100-page contract like a professional lawyer.",
+            "sentence_zh": "她像专业律师般处理了这份100页的合同。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "擒抱拦截",
+        "examples": [
+          {
+            "sentence": "The defender tackled the striker before he could shoot.",
+            "sentence_zh": "后卫在射手起脚前将其拦截。"
+          },
+          {
+            "sentence": "My cat tackles my slippers every morning.",
+            "sentence_zh": "我的猫每天早晨都会擒抱我的拖鞋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "扭倒对抗",
+        "examples": [
+          {
+            "sentence": "Two players were tackling fiercely on the field.",
+            "sentence_zh": "两名球员在场上激烈扭倒对抗。"
+          },
+          {
+            "sentence": "The sumo wrestlers tackled like two giant pandas wrestling.",
+            "sentence_zh": "相扑选手像两只打架的大熊猫般扭倒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fishing tackle",
+        "meaning": "钓具组合",
+        "examples": [
+          {
+            "sentence": "His luxury fishing tackle costs more than my laptop.",
+            "sentence_zh": "他的豪华钓具比我的笔记本电脑还贵。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tackle box",
+        "meaning": "工具箱",
+        "examples": [
+          {
+            "sentence": "The handyman's tackle box contained 30 types of screwdrivers.",
+            "sentence_zh": "维修工的工具箱里有30种螺丝刀。"
+          }
+        ]
+      }
+    ],
+    "teach": "tackle这词活脱是个体育生🏈！作为名词时像多啦A梦的四次元口袋🎒（装着fishing tackle钓具）；当动词时又变成解决问题的灭霸👊（tackle problems）。足球解说最爱喊'Beautiful tackle!'就像外卖小哥飞身拦电梯🚪。要吐槽工作量大就说'It's too much to tackle'（像被100个快递盒淹没📦）",
+    "recite": {
+      "tips": [
+        "谐音梗：'太抠'→太抠(tackle)的人连装备都自己修",
+        "易混词：handle是手柄，tackle是整套装备"
+      ]
+    }
   }
 ]

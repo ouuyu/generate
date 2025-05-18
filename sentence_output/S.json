@@ -1312,5 +1312,344 @@
         "记忆法：sacr（神圣）+mental（精神的）=双重神圣"
       ]
     }
+  },
+  {
+    "word": "sacred",
+    "etymology": {
+      "breakdown": [
+        "sacr",
+        "ed"
+      ],
+      "meaning_connection": "词根sacr=神圣（同sacrifice中的sacr），-ed表形容词后缀→与神相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "神圣的",
+        "examples": [
+          {
+            "sentence": "The giant panda is considered a sacred animal in Sichuan province.",
+            "sentence_zh": "大熊猫在四川省被视为神圣的动物。"
+          },
+          {
+            "sentence": "Eating hotpot is almost a sacred ritual for Chongqing people.",
+            "sentence_zh": "吃火锅对重庆人而言几乎是神圣的仪式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "献给上帝的",
+        "examples": [
+          {
+            "sentence": "The monks chanted in the sacred halls of Shaolin Temple.",
+            "sentence_zh": "僧人们在少林寺供奉佛祖的殿堂诵经。"
+          },
+          {
+            "sentence": "They composed sacred music for the newly built cathedral.",
+            "sentence_zh": "他们为新建成的大教堂创作献给上帝的圣乐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "庄严的",
+        "examples": [
+          {
+            "sentence": "The sacred oath was sworn on the Constitution.",
+            "sentence_zh": "宪法宣誓仪式庄严隆重。"
+          },
+          {
+            "sentence": "There's a sacred silence in the Forbidden City at dawn.",
+            "sentence_zh": "黎明时分的紫禁城有种庄严的寂静。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "祭祀的",
+        "examples": [
+          {
+            "sentence": "Archaeologists found sacred bronze vessels from Shang Dynasty.",
+            "sentence_zh": "考古学家发现了商朝祭祀用的青铜器。"
+          },
+          {
+            "sentence": "The sacred fire has been kept burning for 3000 years in Confucius Temple.",
+            "sentence_zh": "孔庙的祭祀圣火已持续燃烧三千年。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sacred cow",
+        "meaning": "不可批评的事物",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot is the sacred cow of Chongqing cuisine.",
+            "sentence_zh": "麻辣火锅是重庆美食中不可批评的存在。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hold sacred",
+        "meaning": "视...为神圣",
+        "examples": [
+          {
+            "sentence": "Chinese people hold the Great Wall sacred as a cultural symbol.",
+            "sentence_zh": "中国人将长城视为神圣的文化象征。"
+          }
+        ]
+      }
+    ],
+    "teach": "sacred这个词自带圣光✨！它来自古罗马sacrum（圣物）→想象玉皇大帝的凌霄殿🏯（sacred palace）。说'不可侵犯'像护食熊猫🐼（sacred animal），'祭祀用具'像三星堆青铜面具🎭（sacred artifacts）。搭配：sacred duty（神圣职责）比保护火锅配方还重要！地道说法：'holy moly!'表示震惊（比'我的老天爷'更嬉皮）🙏",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛过雷的'→神圣光芒赛过雷电⚡",
+        "易混词：sacred vs. holy（holy侧重宗教性，sacred更广）",
+        "记忆法：sacr（祭祀）+ed=需要被'祭ED'的东西"
+      ]
+    }
+  },
+  {
+    "word": "sacredness",
+    "etymology": {
+      "breakdown": [
+        "sacr",
+        "ed",
+        "ness"
+      ],
+      "meaning_connection": "词根sacr=神圣（同sacred），-ed表形容词性，-ness名词后缀→神圣的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神圣不可侵犯性",
+        "examples": [
+          {
+            "sentence": "The sacredness of the Terracotta Warriors is protected by Chinese law.",
+            "sentence_zh": "兵马俑的神圣不可侵犯性受中国法律保护。"
+          },
+          {
+            "sentence": "Buddhist monks uphold the sacredness of their vows with devotion.",
+            "sentence_zh": "僧侣们以虔诚维护戒律的神圣性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sense of sacredness",
+        "meaning": "神圣感",
+        "examples": [
+          {
+            "sentence": "The Forbidden City gives visitors a strong sense of sacredness.",
+            "sentence_zh": "紫禁城让游客产生强烈的神圣感。"
+          }
+        ]
+      }
+    ],
+    "teach": "sacredness是'神仙气质'✨！词根sacr藏在sacrifice（牺牲）里——古人把最珍贵的祭品献给神明🐂。要表达'圣洁光环'可以用divine aura🌞，吐槽'装神圣'说holier-than-thou（自命清高）。记住：故宫的红墙🧱+少林寺的晨钟🔔=最中国的sacredness！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒神的丝'→神圣如晒佛经金丝",
+        "易混词：sacredness（抽象神圣性） vs. sanctuary（具体圣地）",
+        "记忆链：sacred→sacrifice→saint→sacredness"
+      ]
+    }
+  },
+  {
+    "word": "sacrifice",
+    "etymology": {
+      "breakdown": [
+        "sacr",
+        "i",
+        "fic",
+        "e"
+      ],
+      "meaning_connection": "词根sacr=神圣，fic=做→'做神圣的事'，后衍生出为神圣目的放弃某物的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "牺牲",
+        "examples": [
+          {
+            "sentence": "Parental sacrifice is like silent WiFi signals - invisible but powering everything.",
+            "sentence_zh": "父母的牺牲如同无形的WiFi信号，看不见却支撑着一切。"
+          },
+          {
+            "sentence": "The vaccine developer made huge personal sacrifices during the pandemic.",
+            "sentence_zh": "疫情期间疫苗研发者做出了巨大个人牺牲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "祭品",
+        "examples": [
+          {
+            "sentence": "Ancient Shang dynasty sacrifices included bronze vessels filled with rice wine.",
+            "sentence_zh": "商朝祭品包含盛满米酒的青铜器。"
+          },
+          {
+            "sentence": "The sacrificial lamb symbolizes innocence in many cultures.",
+            "sentence_zh": "在许多文化中，祭品羔羊象征纯洁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "牺牲",
+        "examples": [
+          {
+            "sentence": "She sacrificed her weekend to debug the code.",
+            "sentence_zh": "她牺牲周末来调试代码。"
+          },
+          {
+            "sentence": "No one should sacrifice health for overtime pay.",
+            "sentence_zh": "没人该为加班费牺牲健康。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "贱卖",
+        "examples": [
+          {
+            "sentence": "Shops often sacrifice old models before new iPhone releases.",
+            "sentence_zh": "苹果新机发布前商家常贱卖旧型号。"
+          },
+          {
+            "sentence": "Never sacrifice your collectibles when moving house!",
+            "sentence_zh": "搬家时千万别贱卖你的收藏品！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "献祭",
+        "examples": [
+          {
+            "sentence": "The tribe still sacrifices to the river god annually.",
+            "sentence_zh": "这个部落仍每年向河神献祭。"
+          },
+          {
+            "sentence": "In this game, you can sacrifice to summon dragons.",
+            "sentence_zh": "在这游戏里你可以献祭召唤神龙。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make sacrifices",
+        "meaning": "做出牺牲",
+        "examples": [
+          {
+            "sentence": "Startup founders often make family sacrifices.",
+            "sentence_zh": "创业者常做出家庭牺牲。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sacrifice fly",
+        "meaning": "牺牲打（棒球术语）",
+        "examples": [
+          {
+            "sentence": "His sacrifice fly brought the winning run home.",
+            "sentence_zh": "他的牺牲打带回了制胜分。"
+          }
+        ]
+      }
+    ],
+    "teach": "sacrifice是'神圣(sacr)操作(fic)'⚡：古罗马人用羊祭祀→现代人用头发祭祀加班之神💻。'血亏甩卖'叫sacrificial sale（祭祀式大甩卖），'自我牺牲'说take one for the team就像王者荣耀坦克扛伤害🛡️。记住：你点的外卖可能牺牲了厨师的发际线！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒哭发丝'→晒哭头发丝(sacrifice)做牺牲",
+        "易混词：sacred（神圣的） vs sacrifice（牺牲）",
+        "记忆法：SACR（神圣）+ I（我）+ FICE（face脸）→为神圣'不要脸'地奉献"
+      ]
+    }
+  },
+  {
+    "word": "sacrificed",
+    "etymology": {
+      "breakdown": [
+        "sacri",
+        "fice",
+        "ed"
+      ],
+      "meaning_connection": "词根sacri=神圣的，fice=做，-ed表过去→为神圣目的而做出的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "被处死的（宗教仪式）",
+        "examples": [
+          {
+            "sentence": "The sacrificed lamb was part of the ancient ritual.",
+            "sentence_zh": "被处死的羔羊是古代仪式的一部分。"
+          },
+          {
+            "sentence": "Archaeologists found sacrificed animals in the temple ruins.",
+            "sentence_zh": "考古学家在神庙废墟中发现被献祭的动物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "牺牲",
+        "examples": [
+          {
+            "sentence": "Many revolutionary martyrs sacrificed their lives for freedom.",
+            "sentence_zh": "许多革命先烈为自由献出生命。"
+          },
+          {
+            "sentence": "She sacrificed sleep to finish the Terracotta Warrior report.",
+            "sentence_zh": "她牺牲睡眠完成兵马俑报告。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "献出",
+        "examples": [
+          {
+            "sentence": "Farmers sacrificed the first harvest to the gods of earth.",
+            "sentence_zh": "农民将首次收获献给土地神。"
+          },
+          {
+            "sentence": "He sacrificed his salary to build a school in his hometown.",
+            "sentence_zh": "他献出薪水在家乡建学校。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sacrificed to",
+        "meaning": "献祭给",
+        "examples": [
+          {
+            "sentence": "In ancient times, jade objects were often sacrificed to heaven.",
+            "sentence_zh": "古时常将玉器献祭给上天。"
+          }
+        ]
+      }
+    ],
+    "teach": "sacrificed是'杀鸡儆猴'🐔→'祭猴'的神操作！词根sacri藏着祭祀的秘密🧙♂️，比如sacred（神圣的）和sacrilege（亵渎）。现代人说'肝项目'就是sacrifice sleep💤，'割肉抛股票'叫sacrifice profits💸。要记住：所有sacrifice最终都会变成你的勋章🎖️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛克发热的'→赛克(sacri)发热(fice)的(ed)祭品",
+        "易混对比：sacred（神圣的） vs. sacrifice（牺牲）"
+      ]
+    }
   }
 ]

@@ -1226,5 +1226,321 @@
         "记忆法：Obelix（高卢英雄）总搬方尖碑"
       ]
     }
+  },
+  {
+    "word": "obese",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "ese"
+      ],
+      "meaning_connection": "前缀ob-表示'过度'，词尾-ese可能来源于拉丁语edere（吃）→字面意思是'吃得过多'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "肥胖的",
+        "examples": [
+          {
+            "sentence": "The panda at the zoo is adorably obese, rolling like a fuzzy black-and-white boulder.",
+            "sentence_zh": "动物园里那只熊猫胖得可爱，像颗毛绒绒的黑白巨石滚来滚去。"
+          },
+          {
+            "sentence": "Fast food chains are contributing to the obese population in urban areas.",
+            "sentence_zh": "快餐连锁店加剧了城市人口的肥胖问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "obese其实是'欧·暴食'🍔！古罗马贵族用ob-前缀表达'过度'（比如obscene淫秽的），暴饮暴食就会变成'行走的汤圆'🍡。说人胖要委婉可用'plus-size'（加大码），爆梗说法是'built for comfort not for speed'（为舒适不为速度打造）🐷。记住：obese比fat更学术，但比'肥宅快乐体'残酷！",
+    "recite": {
+      "tips": [
+        "谐音梗：'欧必死'→欧洲必死宅男易肥胖",
+        "易混词对比：plump（丰满） vs obese（病态肥胖）"
+      ]
+    }
+  },
+  {
+    "word": "obesity",
+    "etymology": {
+      "breakdown": [
+        "obes",
+        "ity"
+      ],
+      "meaning_connection": "词根obes=肥胖，源自拉丁语obesus（吃胖的），-ity表状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "肥胖",
+        "examples": [
+          {
+            "sentence": "The panda's adorable obesity comes from eating 20kg bamboo daily.",
+            "sentence_zh": "熊猫每天吃20公斤竹子导致的可爱肥胖。"
+          },
+          {
+            "sentence": "Childhood obesity can be reduced by cutting sugary drinks.",
+            "sentence_zh": "减少含糖饮料可降低儿童肥胖率。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abdominal obesity",
+        "meaning": "腹部肥胖",
+        "examples": [
+          {
+            "sentence": "Office workers often develop abdominal obesity from sitting too long.",
+            "sentence_zh": "上班族久坐常出现腹部肥胖。"
+          }
+        ]
+      }
+    ],
+    "teach": "obesity其实是古罗马的'凡尔赛'🍔！拉丁语obesus原指'吃得太好'(ob+esus=彻底+吃)。现代人用'beer belly'形容啤酒肚🍺，'muffin top'指赘肉溢出像纸杯蛋糕🧁。记住：BMI≥30才算obesity，别随便对女生说这个词哦💣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'欧巴身体'→韩剧欧巴发福了",
+        "易混词对比：plump（微胖）/obese（病态肥胖）"
+      ]
+    }
+  },
+  {
+    "word": "obey",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "ey"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根ey来自拉丁语audire（听）→原指'侧耳倾听'，引申为'服从'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "服从",
+        "examples": [
+          {
+            "sentence": "Pandas obey their keepers only when bamboo is involved.",
+            "sentence_zh": "熊猫只有在涉及竹子时才服从饲养员。"
+          },
+          {
+            "sentence": "The AI assistant obeys voice commands like a digital butler.",
+            "sentence_zh": "AI助手像数字管家般服从语音指令。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "遵从",
+        "examples": [
+          {
+            "sentence": "All drivers must obey traffic lights, even at 3am.",
+            "sentence_zh": "所有司机都必须遵从交通信号灯，凌晨三点也不例外。"
+          },
+          {
+            "sentence": "WeChat mini programs obey strict privacy regulations.",
+            "sentence_zh": "微信小程序遵从严格的隐私规定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "顺从",
+        "examples": [
+          {
+            "sentence": "Cats rarely obey their owners' calls unless hungry.",
+            "sentence_zh": "猫咪很少顺从主人的呼唤——除非饿了。"
+          },
+          {
+            "sentence": "The robot vacuum obediently obeys its scheduled cleaning routine.",
+            "sentence_zh": "扫地机器人顺从地执行预定清扫程序。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "服从",
+        "examples": [
+          {
+            "sentence": "Soldiers must obey without question in emergencies.",
+            "sentence_zh": "紧急情况下士兵必须无条件服从。"
+          },
+          {
+            "sentence": "The self-driving car failed to obey when encountering a chicken crossing.",
+            "sentence_zh": "自动驾驶汽车遇到横穿马路的鸡群时未能服从指令。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obey orders",
+        "meaning": "服从命令",
+        "examples": [
+          {
+            "sentence": "Delivery riders obey navigation orders even leading to dead ends.",
+            "sentence_zh": "外卖骑手即使导航至死胡同也服从指令。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "obey the law",
+        "meaning": "遵守法律",
+        "examples": [
+          {
+            "sentence": "Bicycle-sharing users should obey parking laws.",
+            "sentence_zh": "共享单车用户应遵守停车法规。"
+          }
+        ]
+      }
+    ],
+    "teach": "obey是'耳朵竖起来👂'的古代版！古罗马奴隶主对obey(ob+audire)的原意就是'给我竖起耳朵听好'👂→现代演变成打工人听老板话💼。说'绝对服从'用jump when someone says jump（让跳就跳），'阳奉阴违'叫lip service（嘴上服从）。记住：obey的本质是耳朵决定屁股——听谁的就坐谁的板凳！🪑",
+    "recite": {
+      "tips": [
+        "谐音梗：'欧贝'→欧洲宝贝(obey)最听妈妈话",
+        "易混词：comply（更正式）/submit（带屈服感）"
+      ]
+    }
+  },
+  {
+    "word": "obfuscate",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "fus",
+        "cate"
+      ],
+      "meaning_connection": "前缀ob-表示'反向/遮蔽'，词根fus源自拉丁语'fuscus'(黑暗)，-ate为动词后缀→原指使变暗，后引申为'使混乱'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "弄暗",
+        "examples": [
+          {
+            "sentence": "The villain obfuscated the surveillance camera with black spray.",
+            "sentence_zh": "反派用黑色喷漆弄暗了监控摄像头。"
+          },
+          {
+            "sentence": "Thick fog obfuscated the neon signs of Hong Kong.",
+            "sentence_zh": "浓雾弄暗了香港的霓虹招牌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使模糊",
+        "examples": [
+          {
+            "sentence": "The politician obfuscated the truth with 10,000-word speeches.",
+            "sentence_zh": "政客用万字长文使真相模糊。"
+          },
+          {
+            "sentence": "Some apps deliberately obfuscate their user agreements.",
+            "sentence_zh": "某些应用故意使用户协议模糊化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使迷惑",
+        "examples": [
+          {
+            "sentence": "The escape room designer obfuscated clues with red herrings.",
+            "sentence_zh": "密室设计师用虚假线索使玩家迷惑。"
+          },
+          {
+            "sentence": "AI-generated comments can obfuscate real public opinion.",
+            "sentence_zh": "AI生成评论可能使真实民意变得迷惑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obfuscate the issue",
+        "meaning": "混淆问题",
+        "examples": [
+          {
+            "sentence": "Debaters who can't win often obfuscate the issue.",
+            "sentence_zh": "辩不过的人常会混淆问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "obfuscate是语言界的烟雾弹💨！就像火锅蒸汽模糊了眼镜片👓（obfuscate vision），或老板用'赋能闭环'黑话迷惑打工人🤯（obfuscate meaning）。搭配：'obfuscate code'程序员防抄袭的祖传秘方💻，'obfuscate trail'侦探片经典套路🕵️。地道说法叫'throw dust in eyes'（往眼里扬沙）比confuse更形象！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不肥，吃得'→用废话迷惑人",
+        "易混词：obscure（客观模糊） vs obfuscate（主观迷惑）",
+        "记忆桩：想象用黑布袋(ob-)罩住保险箱(fus-)的密码锁(-cate)"
+      ]
+    }
+  },
+  {
+    "word": "obfuscation",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "fus",
+        "cation"
+      ],
+      "meaning_connection": "前缀ob-表示'反对'，词根fus来自fundere表示'倾倒'，-ation为名词后缀→原指'故意倾倒使混乱'，引申出'制造困惑'的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "困惑",
+        "examples": [
+          {
+            "sentence": "The teacher's explanation only added obfuscation to the math problem.",
+            "sentence_zh": "老师的解释反而让这道数学题更令人困惑。"
+          },
+          {
+            "sentence": "Political speeches are often full of deliberate obfuscation.",
+            "sentence_zh": "政治演讲常常充满刻意制造的困惑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "模糊",
+        "examples": [
+          {
+            "sentence": "The artist used smoke to create visual obfuscation in the photo.",
+            "sentence_zh": "艺术家用烟雾在照片中制造视觉模糊效果。"
+          },
+          {
+            "sentence": "The fog caused complete obfuscation of the road signs.",
+            "sentence_zh": "浓雾导致路牌完全模糊不清。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deliberate obfuscation",
+        "meaning": "故意混淆",
+        "examples": [
+          {
+            "sentence": "The contract's fine print was a masterpiece of deliberate obfuscation.",
+            "sentence_zh": "合同的细则堪称故意混淆的杰作。"
+          }
+        ]
+      }
+    ],
+    "teach": "obfuscation就像往咖啡里倒酱油☕️🤢！中世纪律师用拉丁文制造法律'obfuscation'来多收咨询费💸，现代版就是手机套餐的'套餐细则仅供参考'📱。要说'故弄玄虚'可以用smoke and mirrors（烟雾和镜子戏法），'清晰明了'就是crystal clear💎。记住：当领导说'我们正在优化流程'时，八成在搞obfuscation！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不肥事深'→故意把事情搞深奥",
+        "易混词对比：obfuscation（故意模糊） vs. confusion（自然困惑）",
+        "记忆法：想象往眼镜上抹凡士林导致视线模糊👓"
+      ]
+    }
   }
 ]

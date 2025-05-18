@@ -1365,5 +1365,352 @@
         "记忆法：想象用iPhone(icon)砸玻璃(clast)"
       ]
     }
+  },
+  {
+    "word": "iconoclastic",
+    "etymology": {
+      "breakdown": [
+        "icono",
+        "clast",
+        "ic"
+      ],
+      "meaning_connection": "词根icono=偶像/图像（来自希腊语eikōn），clast=打破（来自希腊语klan），-ic=形容词后缀→字面意为'打破偶像的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "反对偶像崇拜的",
+        "examples": [
+          {
+            "sentence": "The iconoclastic movement in the 8th century destroyed countless religious statues.",
+            "sentence_zh": "8世纪的圣像破坏运动摧毁了无数宗教雕像。"
+          },
+          {
+            "sentence": "His iconoclastic speech compared celebrity worship to ancient pagan rituals.",
+            "sentence_zh": "他反对偶像崇拜的演讲将明星崇拜比作古代异教仪式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "打破旧习的",
+        "examples": [
+          {
+            "sentence": "Elon Musk's iconoclastic approach reshaped the auto industry.",
+            "sentence_zh": "埃隆·马斯克打破常规的做法重塑了汽车行业。"
+          },
+          {
+            "sentence": "The startup's iconoclastic culture allows employees to nap in hammocks.",
+            "sentence_zh": "这家初创公司打破传统的文化允许员工在吊床上小憩。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "iconoclastic spirit",
+        "meaning": "反传统精神",
+        "examples": [
+          {
+            "sentence": "Post-90s generation shows iconoclastic spirit by job-hopping frequently.",
+            "sentence_zh": "90后通过频繁跳槽展现反传统精神。"
+          }
+        ]
+      }
+    ],
+    "teach": "iconoclastic本质是'砸神像的大锤子🔨'！最初指拜占庭帝国摧毁圣像的运动（历史梗），现在形容像李子柒颠覆传统农耕形象🌾的创新者。搭配'iconoclastic idea'（破旧立新的点子）或'iconoclastic reform'（颠覆性改革）。说'打破常规'可译为'think outside the pagoda'（字面：在佛塔外思考）🚫🛕💡",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱啃老快撕铁'→反传统的年轻人啃老还撕掉传统",
+        "易混词：ironic（讽刺的）vs iconoclastic（反传统的）",
+        "记忆法：把单词拆解为'I con（反对）+ last（最后）+ ic（...的）→反对最后留下的传统'"
+      ]
+    }
+  },
+  {
+    "word": "iconographic",
+    "etymology": {
+      "breakdown": [
+        "icono",
+        "graph",
+        "ic"
+      ],
+      "meaning_connection": "词根icono=图像（来自希腊语eikōn），graph=写/记录，-ic=形容词后缀→与图像记录相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "图像材料的",
+        "examples": [
+          {
+            "sentence": "The Dunhuang frescoes provide rich iconographic resources for studying Tang Dynasty costumes.",
+            "sentence_zh": "敦煌壁画为研究唐代服饰提供了丰富的图像材料。"
+          },
+          {
+            "sentence": "This app collects iconographic data from 1,000+ historical sites.",
+            "sentence_zh": "该应用收集了来自1000多处历史遗址的图像材料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "肖像学的",
+        "examples": [
+          {
+            "sentence": "Her thesis analyzes the iconographic differences between Guanyin statues in Fujian and Zhejiang.",
+            "sentence_zh": "她的论文分析了福建与浙江观音像的肖像学差异。"
+          },
+          {
+            "sentence": "The museum's iconographic research revealed hidden patterns in Ming Dynasty portraits.",
+            "sentence_zh": "博物馆的肖像学研究揭示了明代画像中的隐藏规律。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "肖像的",
+        "examples": [
+          {
+            "sentence": "The Terracotta Warriors show astonishing iconographic precision in facial details.",
+            "sentence_zh": "兵马俑在面部细节上展现出惊人的肖像精确度。"
+          },
+          {
+            "sentence": "WeChat's iconographic emoji set has become a new cultural phenomenon.",
+            "sentence_zh": "微信的肖像表情包已成为新的文化现象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "图示法的象征",
+        "examples": [
+          {
+            "sentence": "The panda has evolved into an iconographic symbol of Chinese diplomacy.",
+            "sentence_zh": "熊猫已演变为中国外交的图示法象征。"
+          },
+          {
+            "sentence": "Moutai's red ribbon packaging carries deep iconographic meanings.",
+            "sentence_zh": "茅台酒的红色飘带包装承载着深厚的图示法象征。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "iconographic analysis",
+        "meaning": "图像志分析",
+        "examples": [
+          {
+            "sentence": "The iconographic analysis of Journey to the West murals took 3 years to complete.",
+            "sentence_zh": "对《西游记》壁画的图像志分析耗时3年完成。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "iconographic tradition",
+        "meaning": "图像传统",
+        "examples": [
+          {
+            "sentence": "Chinese New Year pictures continue an unbroken iconographic tradition since the Song Dynasty.",
+            "sentence_zh": "年画延续了自宋代以来未曾中断的图像传统。"
+          }
+        ]
+      }
+    ],
+    "teach": "iconographic就像文化DNA检测仪🧬！当学者研究佛像手势变化时（iconographic study），就像在破译千年表情包密码🤳；说'熊猫是外交icon'时，等于承认它是最萌国礼🐼。搭配'iconographic symbols'就像打开故宫文创大礼盒🎁，而'visual vocabulary'则是它的地道说法——毕竟人类70%记忆靠图像👀！",
+    "recite": {
+      "tips": [
+        "拆解记忆：icon(偶像)+graph(写)+ic→给偶像画像的",
+        "易混词：iconic（标志性的）侧重代表性，iconographic侧重图像分析"
+      ]
+    }
+  },
+  {
+    "word": "iconography",
+    "etymology": {
+      "breakdown": [
+        "icono",
+        "graphy"
+      ],
+      "meaning_connection": "词根icono=图像/偶像，graphy=记录/描绘→对图像的系统性研究"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "图像材料",
+        "examples": [
+          {
+            "sentence": "The museum's Buddhist iconography includes a 3D-printed lotus throne.",
+            "sentence_zh": "该博物馆的佛教图像材料包含3D打印的莲花宝座。"
+          },
+          {
+            "sentence": "Dianping uses food iconography to make reviews more appetizing.",
+            "sentence_zh": "大众点评用食物图像材料让评价更诱人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "图示法",
+        "examples": [
+          {
+            "sentence": "IKEA's furniture assembly iconography saves 60% translation costs.",
+            "sentence_zh": "宜家的家具组装图示法节省60%翻译成本。"
+          },
+          {
+            "sentence": "The subway map iconography in Tokyo uses color-coded anime characters.",
+            "sentence_zh": "东京地铁的图示法采用彩色动漫角色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "肖像研究",
+        "examples": [
+          {
+            "sentence": "Her PhD thesis on Tang Dynasty makeup iconography went viral.",
+            "sentence_zh": "她关于唐代妆容肖像研究的博士论文爆红网络。"
+          },
+          {
+            "sentence": "The iconography of Confucius evolved from scholar to meme template.",
+            "sentence_zh": "孔子的肖像研究经历了从学者到表情包模板的演变。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political iconography",
+        "meaning": "政治图像学",
+        "examples": [
+          {
+            "sentence": "The red star remains powerful in China's political iconography.",
+            "sentence_zh": "红星在中国的政治图像学中始终保有强大影响力。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "digital iconography",
+        "meaning": "数字图标体系",
+        "examples": [
+          {
+            "sentence": "WeChat's 'red envelope' has become global digital iconography.",
+            "sentence_zh": "微信红包已成为全球数字图标体系的一部分。"
+          }
+        ]
+      }
+    ],
+    "teach": "iconography是图像的考古学⛏️！就像三星堆面具背后的文化密码🔐（ancient iconography），或是地铁标识的视觉语言🚇（modern iconography）。说'图像资料丰富'可用iconography-rich，'文化符号'叫cultural icon。记住：当你在研究表情包发展史时，你已经是iconography专家了！🤳📚🖼️",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱看哪graphy'→爱看哪个图像学",
+        "对比记忆：iconology（图像意义学）更抽象，iconography更具体"
+      ]
+    }
+  },
+  {
+    "word": "icy",
+    "etymology": {
+      "breakdown": [
+        "ice",
+        "y"
+      ],
+      "meaning_connection": "词根ice=冰，后缀-y表形容词性质→像冰一样的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "冰的",
+        "examples": [
+          {
+            "sentence": "The bartender served cocktails with icy diamonds from Antarctica.",
+            "sentence_zh": "调酒师用南极冰钻调制鸡尾酒。"
+          },
+          {
+            "sentence": "Her engagement ring sparkled like an icy morning in Harbin.",
+            "sentence_zh": "她的订婚戒指像哈尔滨的冰晨般闪耀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "冰冷的",
+        "examples": [
+          {
+            "sentence": "The watermelon turned icy after 3 hours in the fridge.",
+            "sentence_zh": "西瓜冷藏三小时后变得透心凉。"
+          },
+          {
+            "sentence": "His fingers were icy from building snowmen without gloves.",
+            "sentence_zh": "他徒手堆雪人导致手指冻得发僵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "冷淡的",
+        "examples": [
+          {
+            "sentence": "She gave him an icy stare when he mentioned her ex.",
+            "sentence_zh": "当他提到她前任时，她投来寒冰般的目光。"
+          },
+          {
+            "sentence": "The customer service representative's tone was icy cold.",
+            "sentence_zh": "客服代表的语气冷若冰霜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "滑溜的",
+        "examples": [
+          {
+            "sentence": "The icy sidewalk caused 5 people to slip in 10 minutes.",
+            "sentence_zh": "结冰的人行道十分钟内滑倒五人。"
+          },
+          {
+            "sentence": "Drivers should beware of icy bridges in winter mornings.",
+            "sentence_zh": "冬季清晨需警惕打滑的桥梁路面。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "icy wind",
+        "meaning": "刺骨寒风",
+        "examples": [
+          {
+            "sentence": "The icy wind from Siberia makes Beijing feel like a freezer.",
+            "sentence_zh": "西伯利亚的寒风吹得北京像冰柜。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "icy relationship",
+        "meaning": "冰冷关系",
+        "examples": [
+          {
+            "sentence": "After the quarrel, there was an icy relationship between the roommates.",
+            "sentence_zh": "争吵后室友间的关系降至冰点。"
+          }
+        ]
+      }
+    ],
+    "teach": "icy是行走的制冷剂❄️！物理上形容哈尔滨冰雕🏒（icy sculptures），体温上描述广东人第一次见雪的反应🥶（icy hands），人际关系可比《甄嬛传》冷宫戏👑（icy silence），路面状况让你跳起企鹅舞🐧（icy road）。记住：说'心凉了半截'用icy shock，'冷暴力'叫icy treatment！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱惜'→爱惜(icy)身体别着凉",
+        "易混词对比：ice冰（名词） vs icy冰的（形容词）",
+        "记忆口诀：I See You→看见冰雪(icy)要小心"
+      ]
+    }
   }
 ]

@@ -1536,5 +1536,364 @@
         "记忆法：PAC（和平）+T（条）=和平条约"
       ]
     }
+  },
+  {
+    "word": "pad",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能源自中古荷兰语'pedde'（软垫），或拟声词（脚步声）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "衬垫",
+        "examples": [
+          {
+            "sentence": "The panda sat on a bamboo pad while eating.",
+            "sentence_zh": "熊猫坐在竹垫上进食。"
+          },
+          {
+            "sentence": "Kneeling pads save your knees when mopping floors.",
+            "sentence_zh": "跪垫能保护你拖地时的膝盖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "印色盒",
+        "examples": [
+          {
+            "sentence": "The calligrapher dipped his seal into the red ink pad.",
+            "sentence_zh": "书法家将印章蘸入朱砂印泥。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小路",
+        "examples": [
+          {
+            "sentence": "We found a secret pad through the bamboo forest.",
+            "sentence_zh": "我们发现了一条穿过竹林的隐秘小径。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "填补",
+        "examples": [
+          {
+            "sentence": "She padded her resume with imaginary internships.",
+            "sentence_zh": "她用虚构的实习经历充实简历。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "走",
+        "examples": [
+          {
+            "sentence": "The cat padded silently across the roof.",
+            "sentence_zh": "猫咪轻轻走过屋顶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "夸大",
+        "examples": [
+          {
+            "sentence": "He padded the expenses report by 30%.",
+            "sentence_zh": "他把开支报告夸大了30%。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "步行",
+        "examples": [
+          {
+            "sentence": "Barefoot kids padded along the riverbank.",
+            "sentence_zh": "赤脚孩子们沿着河岸轻步行走。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "launch pad",
+        "meaning": "发射台",
+        "examples": [
+          {
+            "sentence": "The rocket stood ready on the launch pad.",
+            "sentence_zh": "火箭已在发射台上准备就绪。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pad out",
+        "meaning": "填充",
+        "examples": [
+          {
+            "sentence": "He padded out the speech with unnecessary details.",
+            "sentence_zh": "他用不必要的细节拉长了演讲。"
+          }
+        ]
+      }
+    ],
+    "teach": "pad是个'变形金刚'单词🤖！当衬垫时像瑜伽垫🧘（exercise pad），当印泥时像盖章用的朱砂印台🖍️，当小路时像熊猫走过的竹林小径🎋，'走'的释义来自猫咪肉垫的拟声词🐾。'注水简历'叫pad a resume，就像给毛绒玩具塞棉花🧸。记住：所有含义都离不开'填充+柔软'的核心！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍垫'→拍打垫子(pad)",
+        "对比记忆：mat（硬质垫子） vs pad（软质衬垫）"
+      ]
+    }
+  },
+  {
+    "word": "padded",
+    "etymology": {
+      "breakdown": [
+        "pad",
+        "ed"
+      ],
+      "meaning_connection": "词根pad表'软垫'，-ed构成形容词→'装了垫料的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有装填垫料的",
+        "examples": [
+          {
+            "sentence": "The panda leaned against the padded wall of its enclosure.",
+            "sentence_zh": "熊猫靠在兽舍的软垫墙上。"
+          },
+          {
+            "sentence": "Her new headphones came with padded ear cushions.",
+            "sentence_zh": "她的新耳机配有加垫耳罩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "脚底有厚肉的",
+        "examples": [
+          {
+            "sentence": "Cats have naturally padded paws for silent hunting.",
+            "sentence_zh": "猫咪天生有肉垫脚掌便于潜行捕猎。"
+          },
+          {
+            "sentence": "The camel's padded feet prevent sinking in desert sand.",
+            "sentence_zh": "骆驼的厚肉脚掌防止陷入沙漠。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "padded room",
+        "meaning": "软包房间（防自伤）",
+        "examples": [
+          {
+            "sentence": "The psychiatric ward has specially designed padded rooms.",
+            "sentence_zh": "精神科病房设有特制软包房间。"
+          }
+        ]
+      }
+    ],
+    "teach": "padded是'肉感十足'的单词🐾！从猫咪的jiojio肉垫🐱到故宫文物包装的丝绵衬垫🏺，再到小红书博主推荐的'踩屎感'拖鞋💩，万物皆可padded！说'软fufu'用plush更萌，说'厚实'用cushioned更专业。记住：看到padded就想象疯狂星期四的炸鸡腿🍗——外面脆里面嫩！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍的'→拍的照片(padded)都有美颜柔焦",
+        "易混词：cushioned(强调减震)/padded(强调填充)"
+      ]
+    }
+  },
+  {
+    "word": "padding",
+    "etymology": {
+      "breakdown": [
+        "pad",
+        "ing"
+      ],
+      "meaning_connection": "词根pad来自古英语'padda'(软垫)，-ing表名词性质→原指填充材料，后衍生出抽象含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "垫充材料",
+        "examples": [
+          {
+            "sentence": "The sofa's memory foam padding molds to your body shape.",
+            "sentence_zh": "沙发的记忆棉垫料会贴合你的身形。"
+          },
+          {
+            "sentence": "Remove the shoulder padding from this jacket for a slimmer look.",
+            "sentence_zh": "拆掉这件外套的肩垫会更显瘦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "废话填充",
+        "examples": [
+          {
+            "sentence": "His essay contained 30% useful content and 70% meaningless padding.",
+            "sentence_zh": "他的论文30%是有用内容，70%是凑字数的废话。"
+          },
+          {
+            "sentence": "TV hosts often use laughter as padding during awkward moments.",
+            "sentence_zh": "主持人常用尬笑填补冷场时刻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "虚报费用",
+        "examples": [
+          {
+            "sentence": "The actor was caught adding fake massage sessions as padding to his expense report.",
+            "sentence_zh": "该演员在报销单里虚报按摩服务费被抓包。"
+          },
+          {
+            "sentence": "Corporate travel budgets often include 15% padding for unexpected costs.",
+            "sentence_zh": "企业差旅预算通常包含15%的虚报额度。"
+          }
+        ]
+      }
+    ],
+    "teach": "padding就像泡面里的脱水蔬菜包🍜——有用的垫料让沙发更舒服（cotton padding），没用的废话像综艺注水时长⏳（word padding），虚报费用则是给钱包打玻尿酸💉（expense padding）。搭配：'shoulder padding'（垫肩）是80年代权力套装的灵魂，'kill the padding'（删废话）是编辑的日常。说'注水内容'可以用fluff content🐇，记住：好的padding像bra，该丰满时丰满，该隐形时隐形！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍定'→拍定(padding)沙发垫料",
+        "易混词：cushion（装饰性软垫） vs padding（功能性填充物）"
+      ]
+    }
+  },
+  {
+    "word": "paddle",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'padel'，可能源自原始日耳曼语，与荷兰语'peddel'同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "桨",
+        "examples": [
+          {
+            "sentence": "The kayak paddle snapped in half during the rapids.",
+            "sentence_zh": "激流中皮划艇的桨断成了两截。"
+          },
+          {
+            "sentence": "She decorated her paddle with neon stickers for night rowing.",
+            "sentence_zh": "她给桨贴上荧光贴纸方便夜间划船。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "划桨动作",
+        "examples": [
+          {
+            "sentence": "His powerful paddle sent the canoe flying forward.",
+            "sentence_zh": "他有力的划桨动作让独木舟飞速前进。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "明轮翼",
+        "examples": [
+          {
+            "sentence": "The steamboat's paddle churned the muddy river water.",
+            "sentence_zh": "蒸汽船的明轮翼搅动着浑浊的河水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "划桨",
+        "examples": [
+          {
+            "sentence": "We paddled leisurely around the West Lake at sunset.",
+            "sentence_zh": "日落时分我们在西湖悠闲地划桨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "戏水",
+        "examples": [
+          {
+            "sentence": "Children were paddling in the fountain despite the 'No Wading' sign.",
+            "sentence_zh": "孩子们无视禁止戏水的标志在喷泉里踩水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "涉水",
+        "examples": [
+          {
+            "sentence": "Tourists paddled through the shallow stream in waterproof boots.",
+            "sentence_zh": "游客们穿着防水靴在浅溪中涉水而过。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用桨划",
+        "examples": [
+          {
+            "sentence": "He paddled the rubber dinghy across the reservoir.",
+            "sentence_zh": "他用桨划着橡皮艇横穿水库。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "划船运送",
+        "examples": [
+          {
+            "sentence": "Fishermen paddle tourists to the island for 50 yuan per trip.",
+            "sentence_zh": "渔民划船运送游客到岛上，每次收费50元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "搅，拌",
+        "examples": [
+          {
+            "sentence": "The chef paddled the hot pot broth with a wooden spoon.",
+            "sentence_zh": "厨师用木勺搅拌火锅汤底。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paddle one's own canoe",
+        "meaning": "自力更生",
+        "examples": [
+          {
+            "sentence": "After graduation, she decided to paddle her own canoe in Shanghai.",
+            "sentence_zh": "毕业后她决定在上海自力更生。"
+          }
+        ]
+      }
+    ],
+    "teach": "paddle是个水上全能选手🏊！当桨用时像哪吒的风火轮🛶（dragon boat paddle），戏水时像唐老鸭冲浪🦆（paddle in puddles），搅拌时像巫师调魔药🧙♂️（paddle the soup）。说'自己划船'叫paddle your own canoe，'玩水'叫paddle about。记住：只要有水的地方，就有paddle的用武之地！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍抖'→拍水抖腿式划桨",
+        "易混词：pedal（踏板） vs paddle（桨）",
+        "记忆tip：想象字母d像划桨的动作"
+      ]
+    }
   }
 ]

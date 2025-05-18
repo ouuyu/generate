@@ -1435,5 +1435,324 @@
         "记忆tip：结尾-ed像手铐的两个圈"
       ]
     }
+  },
+  {
+    "word": "jailer",
+    "etymology": {
+      "breakdown": [
+        "jail",
+        "er"
+      ],
+      "meaning_connection": "jail=监狱，-er表示'从事...的人'→从事监狱工作的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "看守监狱的人",
+        "examples": [
+          {
+            "sentence": "The jailer checks each cell with a flashlight at midnight.",
+            "sentence_zh": "狱卒午夜时会用手电筒检查每个牢房。"
+          },
+          {
+            "sentence": "In ancient China, jailers often wore black uniforms with '狱' characters.",
+            "sentence_zh": "中国古代狱卒常穿带有'狱'字的黑色制服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "狱卒",
+        "examples": [
+          {
+            "sentence": "The kind jailer secretly passed steamed buns to political prisoners.",
+            "sentence_zh": "善良的狱卒偷偷给政治犯送馒头。"
+          },
+          {
+            "sentence": "Modern jailers need psychological training to handle inmates.",
+            "sentence_zh": "现代狱卒需要接受心理学培训来管理囚犯。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chief jailer",
+        "meaning": "典狱长",
+        "examples": [
+          {
+            "sentence": "The chief jailer holds the keys to all maximum-security cells.",
+            "sentence_zh": "典狱长掌管所有重刑犯牢房的钥匙。"
+          }
+        ]
+      }
+    ],
+    "teach": "jailer这职业比熊猫饲养员还难当🐼！中世纪狱卒真用骨头当钥匙🔑（历史趣闻），现代狱卒要会玩'猫鼠游戏'🐭（视觉类比）。说'铁饭碗'叫iron rice bowl，但狱卒的饭碗可能装的是牢饭🍚！搭配：jailer's duty（狱警职责）、jailer's logbook（值班日志）。记住：当jailer不如当...呃...任何人！👮♂️🔒🚔",
+    "recite": {
+      "tips": [
+        "谐音梗：'接乐'→接乐(jailer)监狱段子手",
+        "易混词对比：waiter(服务员)和jailer都是-er结尾职业",
+        "字形记忆：jail(监狱)+er(人)=监狱人"
+      ]
+    }
+  },
+  {
+    "word": "jailhouse",
+    "etymology": {
+      "breakdown": [
+        "jail",
+        "house"
+      ],
+      "meaning_connection": "复合词，jail（监狱）+house（房屋）→字面意思为'监狱房屋'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "监狱",
+        "examples": [
+          {
+            "sentence": "The old jailhouse has been turned into a museum in Shanghai.",
+            "sentence_zh": "这座老监狱已被改造成上海的博物馆。"
+          },
+          {
+            "sentence": "He wrote a novel about his jailhouse experiences during the Cultural Revolution.",
+            "sentence_zh": "他写了一本关于文革期间监狱经历的小说。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jailhouse lawyer",
+        "meaning": "监狱律师（指在狱中自学法律知识的犯人）",
+        "examples": [
+          {
+            "sentence": "The jailhouse lawyer helped other inmates with their appeals.",
+            "sentence_zh": "这位监狱律师帮助其他囚犯处理上诉。"
+          }
+        ]
+      }
+    ],
+    "teach": "jailhouse比普通prison更有画面感🏚️：想象铁窗+砖房的老派监狱。美国有首著名民歌《Jailhouse Rock》🎸（猫王主演监狱摇摆舞电影）。说'蹲监狱'可以用do time⏳（直译'做时间'），'出狱'叫get out of the slammer（slammer也是俚语监狱）。记住：不是所有house都温馨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'接好锁'→监狱(jailhouse)要接好锁",
+        "易混词对比：prison（正式监狱）vs jail（拘留所/小型监狱）"
+      ]
+    }
+  },
+  {
+    "word": "jam",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拟声词，模拟挤压时'jam!'的声音，后来引申出各种挤压相关含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "果酱",
+        "examples": [
+          {
+            "sentence": "My grandma's strawberry jam tastes better than any store-bought ones.",
+            "sentence_zh": "我奶奶做的草莓酱比任何商店买的都好吃。"
+          },
+          {
+            "sentence": "The English tradition of having jam with scones is becoming popular in China too.",
+            "sentence_zh": "英式司康饼配果酱的传统在中国也流行起来了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拥塞之物",
+        "examples": [
+          {
+            "sentence": "There was a traffic jam of shared bikes near the subway station.",
+            "sentence_zh": "地铁站附近出现了共享单车的交通拥塞。"
+          },
+          {
+            "sentence": "The printer jam was caused by using wrinkled paper.",
+            "sentence_zh": "打印机卡纸是因为使用了皱巴巴的纸张。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "困境",
+        "examples": [
+          {
+            "sentence": "The company is in a financial jam after the failed product launch.",
+            "sentence_zh": "产品发布失败后，公司陷入了财务困境。"
+          },
+          {
+            "sentence": "Forgot your wallet? Now you're really in a jam!",
+            "sentence_zh": "忘记带钱包了？这下你可真麻烦了！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "挤进",
+        "examples": [
+          {
+            "sentence": "We managed to jam eight people into the tiny KTV room.",
+            "sentence_zh": "我们硬是把八个人塞进了那个小小的KTV包间。"
+          },
+          {
+            "sentence": "She jammed all her winter clothes into one suitcase.",
+            "sentence_zh": "她把所有冬装都塞进了一个行李箱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使塞满",
+        "examples": [
+          {
+            "sentence": "The delivery guy jammed the package into the already full mailbox.",
+            "sentence_zh": "快递员把包裹塞进了已经满满的邮箱里。"
+          },
+          {
+            "sentence": "Tourists jammed the ancient town during the holiday.",
+            "sentence_zh": "假期里游客挤满了这座古镇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "压碎",
+        "examples": [
+          {
+            "sentence": "Be careful not to jam your fingers in the elevator door.",
+            "sentence_zh": "小心别让电梯门夹到手指。"
+          },
+          {
+            "sentence": "The machine jammed the plastic bottles into compact cubes.",
+            "sentence_zh": "机器把塑料瓶压碎成紧实的立方体。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "堵塞",
+        "examples": [
+          {
+            "sentence": "The printer keeps jamming when I try to print double-sided.",
+            "sentence_zh": "我尝试双面打印时打印机老是卡纸。"
+          },
+          {
+            "sentence": "The drain jammed because of too much hair.",
+            "sentence_zh": "下水道因为太多头发堵塞了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "拥挤",
+        "examples": [
+          {
+            "sentence": "People were jamming into the subway during rush hour.",
+            "sentence_zh": "高峰期人们挤进地铁。"
+          },
+          {
+            "sentence": "Fans jammed outside the concert venue hoping to get autographs.",
+            "sentence_zh": "粉丝们拥挤在演唱会场地外希望得到签名。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "traffic jam",
+        "meaning": "交通堵塞",
+        "examples": [
+          {
+            "sentence": "The traffic jam on Beijing's 3rd Ring Road lasted three hours.",
+            "sentence_zh": "北京三环路上的交通堵塞持续了三小时。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jam session",
+        "meaning": "即兴演奏会",
+        "examples": [
+          {
+            "sentence": "The jazz musicians had an amazing jam session until 3am.",
+            "sentence_zh": "爵士乐手们即兴演奏到凌晨三点。"
+          }
+        ]
+      }
+    ],
+    "teach": "jam这个词像被压扁的三明治🥪！当果酱时甜如初恋🍓（strawberry jam）；当堵塞时苦似早高峰🚗（traffic jam）；当困境时堪比忘带手机出门📵（in a jam）。记住：'塞车'是traffic jam，'即兴演奏'叫jam session，'夹到手指'说got jammed就像被门咬了一口😫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'酱母'→果酱(jam)是妈妈的发明",
+        "易混词对比：jam vs. jelly（jam含果肉，jelly是纯果汁凝冻）"
+      ]
+    }
+  },
+  {
+    "word": "Jamaican",
+    "etymology": {
+      "breakdown": [
+        "Jamaica",
+        "an"
+      ],
+      "meaning_connection": "源自加勒比土著语'Xaymaca'（意为'泉水之岛'），后缀-an表示'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "牙买加的",
+        "examples": [
+          {
+            "sentence": "The Jamaican bobsled team became legendary at the Winter Olympics.",
+            "sentence_zh": "牙买加雪车队在冬奥会上成为传奇。"
+          },
+          {
+            "sentence": "Jamaican Blue Mountain coffee is the champagne of beans.",
+            "sentence_zh": "牙买加蓝山咖啡是咖啡豆中的香槟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "牙买加人的",
+        "examples": [
+          {
+            "sentence": "Jamaican sprinters dominate the 100m world records.",
+            "sentence_zh": "牙买加短跑运动员统治着百米世界纪录。"
+          },
+          {
+            "sentence": "The Jamaican patois sounds like musical English.",
+            "sentence_zh": "牙买加方言听起来像音乐般的英语。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Jamaican me crazy",
+        "meaning": "双关语（'让我疯狂'谐音'牙买加'）",
+        "examples": [
+          {
+            "sentence": "This reggae beat is Jamaican me crazy!",
+            "sentence_zh": "这雷鬼节奏让我嗨到疯狂！"
+          }
+        ]
+      }
+    ],
+    "teach": "Jamaican是加勒比海最炫民族风💃！这个单词藏着雷鬼之父Bob Marley的脏辫👨🏿🦱，蓝山咖啡的醇香☕，还有博尔特闪电般的速度⚡。说'超带感'可以用irie（牙买加俚语），夸人厉害叫'big up'🍍。记住：听到'ya mon'就知道是正宗牙买加味！",
+    "recite": {
+      "tips": [
+        "谐音梗：'炸没看'→牙买加(Jamaican)风景美到炸裂没看够",
+        "易混词：Jamaica（国家名） vs. Japanese（日本人）"
+      ]
+    }
   }
 ]

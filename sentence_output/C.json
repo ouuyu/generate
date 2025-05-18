@@ -1233,5 +1233,287 @@
         "易混对比：giggle（少女偷笑）vs cackle（大妈式豪笑）"
       ]
     }
+  },
+  {
+    "word": "cackle",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词，模仿禽类或刺耳笑声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "咯咯声",
+        "examples": [
+          {
+            "sentence": "The cackle of hens echoed through the morning market.",
+            "sentence_zh": "母鸡的咯咯声在早市上回荡。"
+          },
+          {
+            "sentence": "His cackle sounded like a malfunctioning printer.",
+            "sentence_zh": "他的咯咯笑像卡纸的打印机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "高笑声",
+        "examples": [
+          {
+            "sentence": "The villain's cackle sent shivers down my spine.",
+            "sentence_zh": "反派的尖笑让我脊背发凉。"
+          },
+          {
+            "sentence": "Her cackle could be heard three tables away in the hotpot restaurant.",
+            "sentence_zh": "在火锅店里隔三桌都能听见她的尖笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "闲谈",
+        "examples": [
+          {
+            "sentence": "The tea house was full of the cackle of retired uncles.",
+            "sentence_zh": "茶馆里满是退休大爷的闲谈声。"
+          },
+          {
+            "sentence": "Her cackle with neighbors lasted longer than the Spring Festival Gala.",
+            "sentence_zh": "她和邻居的闲聊比春晚时间还长。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "咯咯地叫",
+        "examples": [
+          {
+            "sentence": "The geese cackled angrily at the delivery robot.",
+            "sentence_zh": "大鹅对着送货机器人愤怒地咯咯叫。"
+          },
+          {
+            "sentence": "Chickens cackle loudly after laying eggs, like announcing a major achievement.",
+            "sentence_zh": "母鸡下蛋后大声咯咯叫，像在宣布重大成果。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "咯咯地笑",
+        "examples": [
+          {
+            "sentence": "The aunties cackled while watching the dating show.",
+            "sentence_zh": "阿姨们看相亲节目时咯咯直笑。"
+          },
+          {
+            "sentence": "He cackled like a villain when his meme went viral.",
+            "sentence_zh": "他的表情包爆红时，他像反派般咯咯笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "喋喋不休",
+        "examples": [
+          {
+            "sentence": "The livestream host cackled nonstop about double eleven discounts.",
+            "sentence_zh": "主播喋喋不休地讲双十一优惠。"
+          },
+          {
+            "sentence": "My math teacher cackled through the entire class like a human radio.",
+            "sentence_zh": "数学老师整节课喋喋不休像人形收音机。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cut the cackle",
+        "meaning": "停止废话",
+        "examples": [
+          {
+            "sentence": "The boss said 'cut the cackle' when we discussed milk tea brands.",
+            "sentence_zh": "我们讨论奶茶品牌时老板叫停废话。"
+          }
+        ]
+      }
+    ],
+    "teach": "cackle是声音界的三合一咖啡☕️！禽类叫时像故障的电子鸡🐔（hen's cackle），反派笑时像被门夹的鸭子🎭（villain's cackle），大妈聊天像自动播放的语音方阵📢（aunties' cackle）。形容'吵死了'可说enough to wake the dead，'突然安静'像cut the cackle关掉菜市场喇叭📯。记住：所有惹人烦的噪音，都能用cackle形容！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开扣'→阿姨们开扣(cackle)聊八卦",
+        "易混对比：giggle(窃笑) vs cackle(尖笑)",
+        "联想：卡壳(cackle)的收音机→喋喋不休"
+      ]
+    }
+  },
+  {
+    "word": "cacophonous",
+    "etymology": {
+      "breakdown": [
+        "caco",
+        "phon",
+        "ous"
+      ],
+      "meaning_connection": "前缀caco-表示'坏的'，词根phon表示'声音'，后缀-ous表性质→字面意思'声音糟糕的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "发音不和谐的",
+        "examples": [
+          {
+            "sentence": "The cacophonous mix of construction noise and car horns made my headache worse.",
+            "sentence_zh": "施工噪音和汽车喇叭的不和谐混合让我的头痛加剧。"
+          },
+          {
+            "sentence": "His cacophonous attempt at singing Peking opera scared the neighbor's cat.",
+            "sentence_zh": "他唱京剧时刺耳的声音吓跑了邻居的猫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "粗腔横调的",
+        "examples": [
+          {
+            "sentence": "The cacophonous debate in parliament sounded like a poultry market.",
+            "sentence_zh": "议会里粗腔横调的辩论听起来像家禽市场。"
+          },
+          {
+            "sentence": "That cacophonous heavy metal band actually uses farm tools as instruments.",
+            "sentence_zh": "那支粗腔横调的重金属乐队真的用农具当乐器。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cacophonous laughter",
+        "meaning": "刺耳的笑声",
+        "examples": [
+          {
+            "sentence": "Her cacophonous laughter during the serious meeting was like nails on a chalkboard.",
+            "sentence_zh": "她在严肃会议中刺耳的笑声像指甲刮黑板。"
+          }
+        ]
+      }
+    ],
+    "teach": "cacophonous是'噪声污染'的学术版🗣️！想象用指甲刮铁锅（caco）+ 麦克风啸叫（phon）= 终极噪音炸弹💣。说'难听'可以吐槽'Sounds like a cacophonous symphony of dying robots'（像机器人临终交响乐）。搭配'cacophonous crowd'（嘈杂人群）和'cacophonous city'（喧嚣都市）超实用！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开咖啡呢死'→咖啡馆噪音致死",
+        "易混词：euphonious（悦耳的）就像'优phone'",
+        "记忆tip：把caco想成'卡壳'，phon是'phone'，打电话卡壳就是噪音"
+      ]
+    }
+  },
+  {
+    "word": "cacophony",
+    "etymology": {
+      "breakdown": [
+        "caco",
+        "phony"
+      ],
+      "meaning_connection": "词根caco=坏的（来自希腊语kakos），phony=声音（来自希腊语phone）→字面意思就是'坏声音'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不愉快的音调",
+        "examples": [
+          {
+            "sentence": "The cacophony of nails on a chalkboard made everyone cringe.",
+            "sentence_zh": "指甲刮黑板的刺耳声音让所有人都不寒而栗。"
+          },
+          {
+            "sentence": "His attempt at opera singing resulted in pure cacophony.",
+            "sentence_zh": "他尝试演唱歌剧，结果完全是不堪入耳的音调。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不协和音",
+        "examples": [
+          {
+            "sentence": "The avant-garde composer deliberately used cacophony in the symphony.",
+            "sentence_zh": "这位前卫作曲家在交响乐中刻意使用了不协和音。"
+          },
+          {
+            "sentence": "The cacophony of car horns during rush hour was unbearable.",
+            "sentence_zh": "高峰时段汽车喇叭的不协和音简直让人无法忍受。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂音",
+        "examples": [
+          {
+            "sentence": "The cacophony of the construction site next door ruined my Zoom meeting.",
+            "sentence_zh": "隔壁建筑工地的杂音毁掉了我的Zoom会议。"
+          },
+          {
+            "sentence": "A sudden cacophony of fireworks startled the sleeping baby.",
+            "sentence_zh": "突然爆发的烟花杂音惊醒了熟睡的婴儿。"
+          }
+        ]
+      }
+    ],
+    "teach": "cacophony就是'卡卡疯你'🎵！想象你邻居家小孩同时弹钢琴、吹小号和尖叫（完美的cacophony三重奏🎻📯👶）。古希腊人用kakos+phone造这个词时，绝对听过广场舞神曲《最炫民族风》💃。搭配'urban cacophony'形容城市噪音🗼，'cacophony of opinions'形容七嘴八舌🗣️。要吐槽'太吵了'可以说：'That's not music, that's audio terrorism!'（这不是音乐，是声音恐怖袭击！）🔊💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'开咖啡呢'→咖啡厅里各种杂音",
+        "易混词对比：symphony（交响乐）是cacophony的反义词",
+        "联想记忆：caco-开头总是不好的，如cacography（拙劣书法）"
+      ]
+    }
+  },
+  {
+    "word": "cactus",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "直接来自拉丁语cactus，原指古希腊人用于形容带刺植物的词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "仙人掌",
+        "examples": [
+          {
+            "sentence": "The cactus in my dorm survived 3 months without water, just like my love life.",
+            "sentence_zh": "我宿舍的仙人掌三个月不浇水还活着，就像我的感情生活一样顽强。"
+          },
+          {
+            "sentence": "She collects cactus-shaped USB drives, calling them 'the least prickly cacti'.",
+            "sentence_zh": "她收集仙人掌造型的U盘，称之为'最不扎人的仙人掌'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cactus juice",
+        "meaning": "仙人掌汁",
+        "examples": [
+          {
+            "sentence": "The cocktail with cactus juice turned my tongue slightly blue - totally Instagram worthy!",
+            "sentence_zh": "含仙人掌汁的鸡尾酒让我的舌头微微发蓝——绝对值得发朋友圈！"
+          }
+        ]
+      }
+    ],
+    "teach": "仙人掌是植物界的骆驼🐫，能储存2000升水💧！在墨西哥，仙人掌既是国菜（凉拌仙人掌丝）又是围墙🌵。说'耐旱'可以叫cactus-like resilience（仙人掌般的韧性），'顽固不化'叫stubborn as a saguaro（像巨人柱仙人掌一样倔）。记住：碰仙人掌要像对待前任——保持距离！🤚",
+    "recite": {
+      "tips": [
+        "谐音梗：'开个特色'→仙人掌开花很特色",
+        "易混词：cactus vs. succulent（多肉植物更圆润）",
+        "记忆tip：把'cat猫'藏在中间→猫被仙人掌扎到会炸毛"
+      ]
+    }
   }
 ]
