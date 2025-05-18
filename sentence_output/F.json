@@ -11704,5 +11704,337 @@
         "易混词对比：fascism(极权) vs. socialism(社会主义)"
       ]
     }
+  },
+  {
+    "word": "fascist",
+    "etymology": {
+      "breakdown": [
+        "fasces",
+        "ist"
+      ],
+      "meaning_connection": "源自拉丁语'fasces'（束棒，古罗马权威象征），后缀-ist表示'践行者'→原指墨索里尼政党成员，后泛指极权主义者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "法西斯主义者",
+        "examples": [
+          {
+            "sentence": "The museum exhibits reveal how fascists manipulated ancient symbols for propaganda.",
+            "sentence_zh": "博物馆展品揭示了法西斯主义者如何利用古代符号进行宣传。"
+          },
+          {
+            "sentence": "Historians debate whether certain modern leaders qualify as neo-fascists.",
+            "sentence_zh": "历史学家们争论某些现代领导人是否属于新法西斯主义者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "法西斯党员",
+        "examples": [
+          {
+            "sentence": "Original fascists in Italy wore black shirts as uniforms.",
+            "sentence_zh": "意大利早期的法西斯党员以黑衫作为制服。"
+          },
+          {
+            "sentence": "My grandfather fought against fascists during WWII.",
+            "sentence_zh": "我的祖父在二战期间与法西斯党员作战。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fascist regime",
+        "meaning": "法西斯政权",
+        "examples": [
+          {
+            "sentence": "The film depicts life under a fascist regime with chilling accuracy.",
+            "sentence_zh": "这部电影以令人不寒而栗的准确度描绘了法西斯政权下的生活。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fascist salute",
+        "meaning": "法西斯式敬礼",
+        "examples": [
+          {
+            "sentence": "The raised-arm gesture was banned as a fascist salute in many countries.",
+            "sentence_zh": "许多国家将举臂姿势作为法西斯式敬礼予以禁止。"
+          }
+        ]
+      }
+    ],
+    "teach": "fascist这个词自带'捆绑套餐'🧶：源自古罗马执政官卫队手持的'束棒'（fasces），就像绑在一起的柴棍→象征'团结即力量'（后被扭曲）。如今说someone's being fascist形容ta像班主任查手机📵般专制。搭配fascist haircut指军训式平头✂️，'思想极端'可说fascist mindset就像高压锅🚫不能泄气。记住：这词自带历史重量⚖️慎用！",
+    "recite": {
+      "tips": [
+        "视觉联想：束棒(fasces)像捆起来的筷子🥢→强行统一",
+        "易混词：fanatic（狂热者）不带政治体制含义",
+        "记忆口诀：'法西斯，捆棒子，独裁统治没路子'"
+      ]
+    }
+  },
+  {
+    "word": "fashion",
+    "etymology": {
+      "breakdown": [
+        "fash",
+        "ion"
+      ],
+      "meaning_connection": "词根fash源自拉丁语'facere'=制作，-ion表名词→原指'制作方式'，引申出'流行样式'与'塑造形态'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "流行",
+        "examples": [
+          {
+            "sentence": "Bubble tea became a fashion among Parisian teenagers.",
+            "sentence_zh": "奶茶在巴黎青少年中成为流行。"
+          },
+          {
+            "sentence": "The fashion for neon colors reminds me of 1980s disco balls.",
+            "sentence_zh": "霓虹色的流行让我想起80年代的迪斯科球。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "风尚",
+        "examples": [
+          {
+            "sentence": "Hanfu fashion is reviving traditional aesthetics.",
+            "sentence_zh": "汉服风尚正在复兴传统美学。"
+          },
+          {
+            "sentence": "The minimalist fashion rejects excessive packaging.",
+            "sentence_zh": "极简主义风尚拒绝过度包装。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "时样",
+        "examples": [
+          {
+            "sentence": "Her qipao incorporates modern fashion elements.",
+            "sentence_zh": "她的旗袍融合了现代时样元素。"
+          },
+          {
+            "sentence": "This year's fashion features panda-inspired patterns.",
+            "sentence_zh": "今年时样以熊猫图案为特色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "形成",
+        "examples": [
+          {
+            "sentence": "The river fashioned stunning gorges over millennia.",
+            "sentence_zh": "河流用数千年时间形成了壮丽的峡谷。"
+          },
+          {
+            "sentence": "Social media is fashioning new communication norms.",
+            "sentence_zh": "社交媒体正在形成新的交流规范。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "制作",
+        "examples": [
+          {
+            "sentence": "The artisan fashioned a dragon from melted copper.",
+            "sentence_zh": "匠人用熔化的铜制作了一条龙。"
+          },
+          {
+            "sentence": "She fashioned her old jeans into a trendy bag.",
+            "sentence_zh": "她把旧牛仔裤改造成时髦包包。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in fashion",
+        "meaning": "流行中",
+        "examples": [
+          {
+            "sentence": "Lion dance is back in fashion during Spring Festival.",
+            "sentence_zh": "舞狮在春节期间重新流行起来。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "out of fashion",
+        "meaning": "过时",
+        "examples": [
+          {
+            "sentence": "Fax machines are now completely out of fashion.",
+            "sentence_zh": "传真机现在已经完全过时了。"
+          }
+        ]
+      }
+    ],
+    "teach": "fashion是轮回的摩天轮🎡！唐代的齐胸襦裙在21世纪T台复活👘，动词用法更神奇：黄河'fashion'出壶口瀑布🏞️，北京大妈用广场舞'fashion'新社交方式💃。说'过气网红'用has-been，'爆款'叫must-have🛍️。记住：时尚就是用旧东西造新潮流！",
+    "recite": {
+      "tips": [
+        "谐音梗：'翻新'→时尚的本质就是不断翻新(fashion)",
+        "易混词：v.s. vogue（更强调短暂潮流）"
+      ]
+    }
+  },
+  {
+    "word": "fashionable",
+    "etymology": {
+      "breakdown": [
+        "fashion",
+        "able"
+      ],
+      "meaning_connection": "fashion（时尚） + -able（能…的）→能被时尚接受的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "时髦的",
+        "examples": [
+          {
+            "sentence": "Her cheongsam with LED lights is the most fashionable outfit at the tech conference.",
+            "sentence_zh": "她带LED灯的旗袍是科技论坛最时髦的装扮。"
+          },
+          {
+            "sentence": "Wearing socks with sandals suddenly became fashionable last summer.",
+            "sentence_zh": "去年夏天突然流行起凉鞋配袜子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "上流社会的",
+        "examples": [
+          {
+            "sentence": "The fashionable crowd only drinks tea harvested by trained monkeys.",
+            "sentence_zh": "上流社会人士只喝经过训练的猴子采摘的茶叶。"
+          },
+          {
+            "sentence": "That fashionable spa charges ¥8888 for a cucumber facial.",
+            "sentence_zh": "那家高端水疗中心做黄瓜面膜收费8888元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "流行的",
+        "examples": [
+          {
+            "sentence": "It's fashionable to complain about 996 work schedule while secretly working overtime.",
+            "sentence_zh": "现在流行一边抱怨996一边偷偷加班。"
+          },
+          {
+            "sentence": "Taking selfies with AI-generated backgrounds is fashionable among Gen-Z.",
+            "sentence_zh": "和AI生成的背景自拍在Z世代中很流行。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fashionable society",
+        "meaning": "上流社交圈",
+        "examples": [
+          {
+            "sentence": "The nouveau riche tried desperately to enter fashionable society.",
+            "sentence_zh": "暴发户拼命想挤进上流社交圈。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fashionable hour",
+        "meaning": "社交黄金时段",
+        "examples": [
+          {
+            "sentence": "At the fashionable hour, the cafe is full of influencers taking photos.",
+            "sentence_zh": "在社交黄金时段，咖啡馆里全是摆拍的网红。"
+          }
+        ]
+      }
+    ],
+    "teach": "fashionable本质是'跟风能力'🌀！300年前巴黎贵族用鲸骨裙撑（上流社会版）→50年前喇叭裤（时髦版）→现在元宇宙穿搭（流行版）。说'过时了'用地道表达so last season（上季的），搭配'假装时尚'叫fashion victim👗，真时尚达人都说It's très chic（法语：超时髦）🥖☕️",
+    "recite": {
+      "tips": [
+        "谐音梗：'翻新哪宝'→翻新哪个宝贝能变fashionable",
+        "易混词：fashionable（主观审美）vs popular（客观流行）",
+        "记忆tip：把-able看作'能力'，有时尚敏感度才能叫fashionable"
+      ]
+    }
+  },
+  {
+    "word": "fashionably",
+    "etymology": {
+      "breakdown": [
+        "fashion",
+        "able",
+        "ly"
+      ],
+      "meaning_connection": "词根fashion=流行式样，-able表'可…的'，-ly变副词→'可按流行方式地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "时髦地",
+        "examples": [
+          {
+            "sentence": "She arrived fashionably late in a qipao-inspired cocktail dress.",
+            "sentence_zh": "她穿着旗袍改良小礼服'时髦地'迟到了。"
+          },
+          {
+            "sentence": "The influencer eats stinky tofu fashionably with gold chopsticks.",
+            "sentence_zh": "这位网红用金筷子'时髦地'吃着臭豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "按照流行地",
+        "examples": [
+          {
+            "sentence": "This TikTok cafe is decorated fashionably with neon lights and mahjong tiles.",
+            "sentence_zh": "这家抖音网红店'按流行趋势'用霓虹灯和麻将牌装饰。"
+          },
+          {
+            "sentence": "He mixes Chinese tea ceremony with fashionably slow pouring techniques.",
+            "sentence_zh": "他将茶道与'流行的'慢冲泡技术相结合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fashionably late",
+        "meaning": "刻意迟到显时髦",
+        "examples": [
+          {
+            "sentence": "Celebrities love being fashionably late to gala events.",
+            "sentence_zh": "明星们最爱在晚会'时髦地迟到'。"
+          }
+        ]
+      }
+    ],
+    "teach": "fashionably其实是'卷王行为指南'📈！18世纪法国贵族故意让钟表走快（谓之'时髦时间'⏰），如今说'迟到五分钟最时髦'就叫fashionably late。要吐槽'装时髦'可说try-hard（用力过猛），夸人'潮到风湿'用trendsetter👑。记住：真正的fashionably是穿汉服骑共享单车！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发神经啵'→为了时髦发神经",
+        "易混词：fashionably（态度）/trendy（物品）"
+      ]
+    }
   }
 ]

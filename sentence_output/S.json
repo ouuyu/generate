@@ -11127,5 +11127,324 @@
         "易混词对比：sanguine（血色乐观） vs. sardonic（讽刺的）"
       ]
     }
+  },
+  {
+    "word": "sanitary",
+    "etymology": {
+      "breakdown": [
+        "sanit",
+        "ary"
+      ],
+      "meaning_connection": "词根sanit=健康，-ary表性质→与健康相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "卫生的",
+        "examples": [
+          {
+            "sentence": "Hot pot restaurants must meet strict sanitary standards for dipping sauces.",
+            "sentence_zh": "火锅店的蘸料必须符合严格的卫生标准。"
+          },
+          {
+            "sentence": "The sanitary design of this bidet prevents bacterial growth.",
+            "sentence_zh": "这款智能马桶的卫生设计能防止细菌滋生。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "公共厕所",
+        "examples": [
+          {
+            "sentence": "Tourists were amazed by the high-tech sanitarise in Shanghai.",
+            "sentence_zh": "游客对上海的高科技公共厕所惊叹不已。"
+          },
+          {
+            "sentence": "The park sanitary has won awards for its lotus-shaped design.",
+            "sentence_zh": "这座公园公厕因其莲花造型获得设计大奖。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sanitary napkin",
+        "meaning": "卫生巾",
+        "examples": [
+          {
+            "sentence": "Vending machines for sanitary napkins are now common in universities.",
+            "sentence_zh": "卫生巾自动贩卖机如今在大学里很常见。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sanitary inspection",
+        "meaning": "卫生检查",
+        "examples": [
+          {
+            "sentence": "The restaurant passed the sanitary inspection with flying colors.",
+            "sentence_zh": "这家餐厅以优异成绩通过了卫生检查。"
+          }
+        ]
+      }
+    ],
+    "teach": "sanitary是'健康(sanit)值爆表'的单词🚽！古罗马人用sanitas表示健康（现在变成矿泉水品牌了💧）。说'这厕所真干净'老外会说spotless loo（loo是英式俚语），'公共卫生间'叫public convenience就像共享单车一样方便🚲。记住：当你看到-sanit-这个词根，不是矿泉水就是消毒液🧴！",
+    "recite": {
+      "tips": [
+        "谐音梗：'三粒桃李'→三粒桃李牌消毒液很卫生",
+        "易混词对比：sanitary（卫生的）vs. sanity（神志清醒）",
+        "记忆tip：把-ary结尾想成'A级卫生标准'"
+      ]
+    }
+  },
+  {
+    "word": "sanitation",
+    "etymology": {
+      "breakdown": [
+        "sanit",
+        "ation"
+      ],
+      "meaning_connection": "词根sanit=健康，后缀-ation表行为/结果→与健康相关的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "环境卫生",
+        "examples": [
+          {
+            "sentence": "Street food vendors must follow strict sanitation rules in Singapore.",
+            "sentence_zh": "新加坡街头小吃摊必须遵守严格的环境卫生规定。"
+          },
+          {
+            "sentence": "The sanitation of this shared kitchen is worse than my college dorm.",
+            "sentence_zh": "这个共享厨房的环境卫生比我大学宿舍还差。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "卫生设备",
+        "examples": [
+          {
+            "sentence": "Japanese toilets are the Rolls-Royce of sanitation.",
+            "sentence_zh": "日本马桶堪称卫生设备中的劳斯莱斯。"
+          },
+          {
+            "sentence": "The village finally got proper sanitation last year.",
+            "sentence_zh": "这个村庄去年终于有了像样的卫生设备。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "下水道设施",
+        "examples": [
+          {
+            "sentence": "Ancient Roman sanitation included advanced sewer systems.",
+            "sentence_zh": "古罗马的下水道设施包含先进的排水系统。"
+          },
+          {
+            "sentence": "The sanitation under this street smells like durian.",
+            "sentence_zh": "这条街的下水道设施闻起来像榴莲。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sanitation worker",
+        "meaning": "环卫工人",
+        "examples": [
+          {
+            "sentence": "Sanitation workers in orange vests are the unsung heroes of cities.",
+            "sentence_zh": "穿橙色背心的环卫工人是城市无名英雄。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sanitation facilities",
+        "meaning": "卫生设施",
+        "examples": [
+          {
+            "sentence": "The music festival's temporary sanitation facilities collapsed on day two.",
+            "sentence_zh": "音乐节的临时卫生设施第二天就崩溃了。"
+          }
+        ]
+      }
+    ],
+    "teach": "sanitation其实是'扫内行'🧹：古罗马的Cloaca Maxima大下水道比某些现代设施还先进🚽。说'脏乱差'可以用pigsty（猪圈），'干净得像医院'说hospital-clean🏥。记住：好的sanitation能让你家马桶和罗马皇帝用同款技术！",
+    "recite": {
+      "tips": [
+        "谐音梗：'三妮太神'→三妮搞卫生太神奇",
+        "易混对比：sanitation（公共卫生）vs hygiene（个人卫生）",
+        "记忆tip：把-tion想象成'行'字，sanit-行=健康行动"
+      ]
+    }
+  },
+  {
+    "word": "sanitized",
+    "etymology": {
+      "breakdown": [
+        "sanit",
+        "ize",
+        "ed"
+      ],
+      "meaning_connection": "词根sanit=健康（来自拉丁语sanitas），-ize表'使...化'，-ed表过去式/分词→使健康化的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使清洁",
+        "examples": [
+          {
+            "sentence": "The kindergarten sanitized all plush toys after the flu outbreak.",
+            "sentence_zh": "流感爆发后幼儿园给所有毛绒玩具做了清洁消毒。"
+          },
+          {
+            "sentence": "Sanitized chopsticks in hotpot restaurants always smell like chlorine.",
+            "sentence_zh": "火锅店消毒后的筷子总带着漂白水味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "进行消毒",
+        "examples": [
+          {
+            "sentence": "Hospitals sanitized CT machines with UV light during COVID-19.",
+            "sentence_zh": "疫情期间医院用紫外线给CT机消毒。"
+          },
+          {
+            "sentence": "My mom sanitized every delivery package with alcohol spray.",
+            "sentence_zh": "我妈用酒精喷雾给每个快递包裹消毒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "审查",
+        "examples": [
+          {
+            "sentence": "The censors sanitized the documentary about campus life.",
+            "sentence_zh": "审查人员净化了这部校园生活纪录片的内容。"
+          },
+          {
+            "sentence": "History textbooks are often sanitized versions of events.",
+            "sentence_zh": "历史教科书常是经过内容净化的事件版本。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sanitized version",
+        "meaning": "净化版",
+        "examples": [
+          {
+            "sentence": "This is a sanitized version of the original rap lyrics.",
+            "sentence_zh": "这是原版说唱歌词的净化版本。"
+          }
+        ]
+      }
+    ],
+    "teach": "sanitized是个'洁癖狂魔'🧼！既指物理消毒（比如给手机喷酒精），也指内容净化（像B站弹幕审核🔍）。有趣的是，古罗马人用醋消毒伤口🍷，而现代人用84消毒液。说'过度消毒'可以叫germaphobic cleaning，'敏感词'叫redacted words。记住：被sanitized过的东西，就像被美颜相机拍过的自拍🤳——干净但可能失真！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒那台子的'→晒（消毒）那台子的",
+        "易混词对比：sterilize（彻底灭菌） vs sanitize（一般清洁）",
+        "记忆tip：SANI（日本卫浴品牌）+tize=卫浴品牌式清洁"
+      ]
+    }
+  },
+  {
+    "word": "sanity",
+    "etymology": {
+      "breakdown": [
+        "san",
+        "ity"
+      ],
+      "meaning_connection": "词根san=健康，-ity表性质→健康的精神状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神智健全",
+        "examples": [
+          {
+            "sentence": "Working from home during lockdown made many people question their sanity.",
+            "sentence_zh": "封锁期间居家办公让许多人怀疑自己是否神智健全。"
+          },
+          {
+            "sentence": "The judge ruled the defendant was of sound sanity when committing the crime.",
+            "sentence_zh": "法官裁定被告犯罪时神智健全。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "头脑清楚",
+        "examples": [
+          {
+            "sentence": "Her sanity in emergencies earned her the nickname 'Human GPS'.",
+            "sentence_zh": "她在紧急情况下的头脑清楚为她赢得了'人肉导航'的绰号。"
+          },
+          {
+            "sentence": "Maintaining sanity while proofreading 50-page contracts is a superpower.",
+            "sentence_zh": "校对50页合同时保持头脑清楚简直是超能力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "通情达理",
+        "examples": [
+          {
+            "sentence": "The landlord's sanity was shown when he lowered rent during the pandemic.",
+            "sentence_zh": "房东在疫情期间降低租金，显得十分通情达理。"
+          },
+          {
+            "sentence": "Her proposal brought sanity to the chaotic meeting.",
+            "sentence_zh": "她的提议给混乱的会议带来了通情达理的氛围。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lose one's sanity",
+        "meaning": "失去理智",
+        "examples": [
+          {
+            "sentence": "Watching 100 TikTok dances in a row made me lose my sanity.",
+            "sentence_zh": "连续看100个抖音舞蹈让我失去理智。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sanity check",
+        "meaning": "合理性检验",
+        "examples": [
+          {
+            "sentence": "Doing a sanity check before submitting your thesis can save your degree.",
+            "sentence_zh": "提交论文前做合理性检查能挽救你的学位。"
+          }
+        ]
+      }
+    ],
+    "teach": "sanity其实是'理智值'🧠！古罗马人认为健康(san)的身体才有健全精神，就像电脑需要杀毒软件🖥️。说'发神经'地道表达是lose one's marbles（丢了弹珠），'保持清醒'叫keep sane就像熬夜时的咖啡续命☕。记住：你的sanity决定你能忍受多少工作群消息！",
+    "recite": {
+      "tips": [
+        "谐音梗：'散脑子'→脑子散了就失去sanity",
+        "易混词对比：sanity（神智健全）vs. sanity（卫生设施→sanitation）"
+      ]
+    }
   }
 ]

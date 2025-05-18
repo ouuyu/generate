@@ -10927,5 +10927,300 @@
         "记忆tip：想象用hardboard给猫咪搭城堡，普通纸板会被挠穿🐱⚔️"
       ]
     }
+  },
+  {
+    "word": "harden",
+    "etymology": {
+      "breakdown": [
+        "hard",
+        "en"
+      ],
+      "meaning_connection": "词根hard表示'坚硬的'，后缀-en表示'使变得...'→字面意思是'使变硬'，后引申出态度或情感的'硬化'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使变硬",
+        "examples": [
+          {
+            "sentence": "The cold weather hardened the clay sculpture within hours.",
+            "sentence_zh": "寒冷天气让泥塑几小时内就变硬了。"
+          },
+          {
+            "sentence": "Bakers use egg wash to harden the crust of mooncakes.",
+            "sentence_zh": "师傅用蛋液让月饼皮变硬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使坚强",
+        "examples": [
+          {
+            "sentence": "Military training hardened both his body and willpower.",
+            "sentence_zh": "军训让他的身体和意志都变坚强了。"
+          },
+          {
+            "sentence": "Living abroad for years hardened her independence.",
+            "sentence_zh": "多年海外生活让她的独立性变得坚不可摧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使冷酷",
+        "examples": [
+          {
+            "sentence": "The betrayal hardened his heart like frozen dumplings.",
+            "sentence_zh": "那次背叛让他的心像冻饺子一样冷酷。"
+          },
+          {
+            "sentence": "Years in the stock market hardened her emotions.",
+            "sentence_zh": "多年股市沉浮让她的情感变得冷酷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变硬",
+        "examples": [
+          {
+            "sentence": "The cement hardens faster in summer heat.",
+            "sentence_zh": "水泥在夏日高温下硬化更快。"
+          },
+          {
+            "sentence": "Wait until the glue hardens before moving the furniture.",
+            "sentence_zh": "等胶水变硬再移动家具。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变冷酷",
+        "examples": [
+          {
+            "sentence": "His expression hardened when hearing the bad news.",
+            "sentence_zh": "听到坏消息时他的表情变得冷酷。"
+          },
+          {
+            "sentence": "She hardened after witnessing workplace injustice.",
+            "sentence_zh": "目睹职场不公后她变得冷酷。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "harden off",
+        "meaning": "（植物）耐寒锻炼",
+        "examples": [
+          {
+            "sentence": "Seedlings need to be hardened off before transplanting outdoors.",
+            "sentence_zh": "移栽户外前幼苗需进行耐寒锻炼。"
+          }
+        ]
+      }
+    ],
+    "teach": "harden就像冰箱冷冻室❄️：能让饺子皮变硬（harden dough），也能让心冻成'冷酷火锅底料'🌶️。健身教练说'harden your core'是练马甲线💪，HR说'harden your heart'是拒绝加薪💸。记住：物理变硬像水泥，心理变硬像甲方爸爸的脸😎！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈登'→NBA球星哈登肌肉硬化",
+        "易混词对比：harden vs. soften（硬化vs软化）",
+        "记忆口诀：加-en变硬汉，减-en变软萌"
+      ]
+    }
+  },
+  {
+    "word": "hardened",
+    "etymology": {
+      "breakdown": [
+        "hard",
+        "en",
+        "ed"
+      ],
+      "meaning_connection": "词根hard表示'坚硬'，后缀-en表'使...化'，-ed表完成状态→字面意思是'被变硬的'，引申为'坚定的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "变硬的",
+        "examples": [
+          {
+            "sentence": "The hardened lava formed bizarre shapes at Wudalianchi Volcano.",
+            "sentence_zh": "五大连池火山变硬的熔岩形成了怪异形状。"
+          },
+          {
+            "sentence": "My grandma's hands are hardened from decades of making dumplings.",
+            "sentence_zh": "奶奶的手因几十年包饺子而变得粗糙坚硬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "坚定的",
+        "examples": [
+          {
+            "sentence": "Hardened fans queued overnight for Jay Chou's concert tickets.",
+            "sentence_zh": "坚定的粉丝们通宵排队购买周杰伦演唱会门票。"
+          },
+          {
+            "sentence": "After surviving three startups, she became a hardened entrepreneur.",
+            "sentence_zh": "经历三家创业公司后，她成为了意志坚定的创业者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hardened criminal",
+        "meaning": "惯犯",
+        "examples": [
+          {
+            "sentence": "The detective specialized in tracking hardened criminals.",
+            "sentence_zh": "这位侦探专长追踪惯犯。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hardened attitude",
+        "meaning": "强硬态度",
+        "examples": [
+          {
+            "sentence": "His hardened attitude softened after tasting authentic Sichuan hotpot.",
+            "sentence_zh": "在尝过正宗四川火锅后，他的强硬态度软化了。"
+          }
+        ]
+      }
+    ],
+    "teach": "hardened就像被捶打的铁匠铺金属🔨！物理上描述的是'冻硬的冰棍🍦'或'水泥硬化'🏗️；精神层面形容'考研二战生的眼神👓'或'广场舞大妈的执着💃'。要说'死硬派'用die-hard比hardened更地道，比如'他是个星战死忠粉'→He's a die-hard Star Wars fan。搭配'hardened heart'（铁石心肠）和'hardened steel'（淬火钢）都超常用！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈登的'→NBA球星哈登的(hardened)肌肉💪",
+        "易混词对比：hardened（后天形成的坚定） vs. rigid（天生僵硬的）",
+        "记忆tip：想象被社会毒打后'硬化'的打工人表情包🤯"
+      ]
+    }
+  },
+  {
+    "word": "hardener",
+    "etymology": {
+      "breakdown": [
+        "harden",
+        "er"
+      ],
+      "meaning_connection": "动词harden表示'使变硬'，后缀-er表示'...的工具/物质'→使物体硬化的物质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "硬化剂",
+        "examples": [
+          {
+            "sentence": "The nail polish hardener makes my DIY manicure last longer.",
+            "sentence_zh": "指甲油硬化剂让我自己做的美甲保持更久。"
+          },
+          {
+            "sentence": "Epoxy hardener turns the sticky resin into a rock-solid material.",
+            "sentence_zh": "环氧树脂硬化剂将粘稠液体变成岩石般坚固的材料。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "concrete hardener",
+        "meaning": "混凝土硬化剂",
+        "examples": [
+          {
+            "sentence": "Workers are spraying concrete hardener on the newly paved road.",
+            "sentence_zh": "工人正在新铺的路面喷洒混凝土硬化剂。"
+          }
+        ]
+      }
+    ],
+    "teach": "hardener就像美颜相机里的'定型喷雾'💨！古埃及人用蜂蜡+树脂当最早硬化剂制作木乃伊👑，现代人用它加固一切——从美甲💅到三峡大坝🏗️。'加固关系'叫harden ties，'顽固不化'可说hard as epoxy（像环氧树脂一样硬）🧱。记住：没有hardener，你的DIY作品会软得像面条🍜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈德娜'→哈德娜(hardener)小姐专门硬化东西",
+        "对比记忆：softener（柔顺剂）是hardener的反义词"
+      ]
+    }
+  },
+  {
+    "word": "hardening",
+    "etymology": {
+      "breakdown": [
+        "hard",
+        "en",
+        "ing"
+      ],
+      "meaning_connection": "词根hard表示'坚硬的'，-en是动词后缀表示'使...化'，-ing构成名词→使物体变硬的过程或结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "硬化",
+        "examples": [
+          {
+            "sentence": "The hardening of arteries is a major health concern for the elderly.",
+            "sentence_zh": "动脉硬化是老年人主要的健康问题。"
+          },
+          {
+            "sentence": "Cement hardening process is like a countdown for construction workers.",
+            "sentence_zh": "水泥硬化过程对建筑工人来说就像倒计时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "淬火",
+        "examples": [
+          {
+            "sentence": "The sword gained its legendary sharpness after repeated hardening.",
+            "sentence_zh": "这把剑经过反复淬火后获得了传奇般的锋利度。"
+          },
+          {
+            "sentence": "Traditional blacksmiths judge hardening quality by the sound of the metal.",
+            "sentence_zh": "传统铁匠通过金属声音判断淬火质量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "work hardening",
+        "meaning": "加工硬化",
+        "examples": [
+          {
+            "sentence": "The spoon bent but didn't break due to work hardening.",
+            "sentence_zh": "这把勺子弯曲但未断裂是因为加工硬化。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hardening of the heart",
+        "meaning": "心肠变硬",
+        "examples": [
+          {
+            "sentence": "Years of betrayal led to the hardening of his heart.",
+            "sentence_zh": "多年的背叛使他的心肠逐渐变硬。"
+          }
+        ]
+      }
+    ],
+    "teach": "hardening其实就是'钢铁是怎样炼成的'⚒️！物理淬火时金属发出'滋滋'声像烧烤🍖（metal hardening），而动脉硬化就像水管结水垢🚰（artery hardening）。搭配：'态度强硬'说harden one's stance，'冷处理'叫cold hardening。记住：你的意志力需要hardening，但心脏最好不要！💔",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈丁宁'→哈尔滨的宁(níng)天 hardening（结冰）",
+        "易混词对比：hardening（过程） vs hardness（硬度）",
+        "联想：游戏角色升级时全身闪光💥就是hardening特效"
+      ]
+    }
   }
 ]

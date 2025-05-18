@@ -11247,5 +11247,318 @@
         "记忆tip：把-accept-想象成接住飞盘，-able表示能接住"
       ]
     }
+  },
+  {
+    "word": "acceptably",
+    "etymology": {
+      "breakdown": [
+        "accept",
+        "able",
+        "ly"
+      ],
+      "meaning_connection": "词根accept=接受，-able表示'能够...的'，-ly将形容词转为副词→'能够被接受地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "可欣然接受地",
+        "examples": [
+          {
+            "sentence": "The spicy hotpot was acceptably delicious for my Sichuanese colleague.",
+            "sentence_zh": "对我的四川同事来说，这火锅辣度可欣然接受。"
+          },
+          {
+            "sentence": "His apology was acceptably sincere with a box of durian mooncakes.",
+            "sentence_zh": "他附赠榴莲月饼的道歉诚意令人欣然接受。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "承受得住地",
+        "examples": [
+          {
+            "sentence": "This budget hotel's beds are acceptably firm for backpackers.",
+            "sentence_zh": "这家廉价旅馆的床对背包客来说还算承受得住。"
+          },
+          {
+            "sentence": "The 996 workload was acceptably bearable with triple overtime pay.",
+            "sentence_zh": "三倍加班费让996工作制变得承受得住。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "能合人意地",
+        "examples": [
+          {
+            "sentence": "The AI-generated report performed acceptably in the meeting.",
+            "sentence_zh": "AI生成的报告在会议上表现能合人意。"
+          },
+          {
+            "sentence": "Her Putonghua is acceptably fluent with a Cantonese accent.",
+            "sentence_zh": "她带粤语腔的普通话能合人意地流畅。"
+          }
+        ]
+      }
+    ],
+    "teach": "acceptably就像食堂阿姨的手👩🍳：抖掉三块肉算'能合人意'（acceptably good），菜里有虫但没头算'承受得住'（acceptably edible），突然多给鸡腿就是'欣然接受'（acceptably generous）！搭配'acceptably priced'说性价比，'acceptably late'形容中国式准时⏰。记住：当你说'just acceptably'时，其实在疯狂暗示'不够好'😏",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞葡萄粒'→品质爱塞葡萄粒(acceptably)还算能接受",
+        "对比记忆：acceptable（adj.）→ acceptably（adv.）就像'勉强及格'和'勉强及格地'"
+      ]
+    }
+  },
+  {
+    "word": "acceptance",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cept",
+        "ance"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cept表示'拿取'，后缀-ance表状态→拿过来的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "接受",
+        "examples": [
+          {
+            "sentence": "The acceptance of digital yuan is growing faster than hotpot orders.",
+            "sentence_zh": "数字人民币的接受度比火锅订单增长还快。"
+          },
+          {
+            "sentence": "His acceptance speech went viral with emoji reactions.",
+            "sentence_zh": "他的获奖感言因表情包反应而爆红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "接纳",
+        "examples": [
+          {
+            "sentence": "Panda cub's acceptance into the wild requires bamboo survival training.",
+            "sentence_zh": "熊猫幼崽被野外接纳需要竹子生存训练。"
+          },
+          {
+            "sentence": "The club's acceptance criteria include knowing three mahjong tricks.",
+            "sentence_zh": "该社团的接纳标准包括会三种麻将技巧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "承认",
+        "examples": [
+          {
+            "sentence": "The acceptance of his theory came after 100 roast duck dinners.",
+            "sentence_zh": "他的理论在被承认前经历了100顿烤鸭宴。"
+          },
+          {
+            "sentence": "WeChat pay's global acceptance surprises even dumplings.",
+            "sentence_zh": "微信支付的全球承认连饺子都惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "同意",
+        "examples": [
+          {
+            "sentence": "Her nod of acceptance triggered fireworks in his heart.",
+            "sentence_zh": "她点头的同意让他心里放起了烟花。"
+          },
+          {
+            "sentence": "The contract needs CEO's chop for final acceptance.",
+            "sentence_zh": "合同需要CEO盖章表示最终同意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "容忍",
+        "examples": [
+          {
+            "sentence": "Beijing drivers show amazing acceptance of traffic jams.",
+            "sentence_zh": "北京司机对堵车展现出惊人的容忍。"
+          },
+          {
+            "sentence": "His acceptance of spicy food impressed Sichuan grandmas.",
+            "sentence_zh": "他对辣食的容忍让四川奶奶们惊叹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "相信",
+        "examples": [
+          {
+            "sentence": "The acceptance of 5G myths requires great imagination.",
+            "sentence_zh": "相信5G谣言需要极大的想象力。"
+          },
+          {
+            "sentence": "Children's acceptance of tooth fairy stories is adorable.",
+            "sentence_zh": "孩子们对牙仙故事的相信很可爱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acceptance rate",
+        "meaning": "接受率",
+        "examples": [
+          {
+            "sentence": "Tsinghua's acceptance rate is lower than finding a taxi in rain.",
+            "sentence_zh": "清华的录取率比雨天打车还难。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "social acceptance",
+        "meaning": "社会接纳",
+        "examples": [
+          {
+            "sentence": "Cosplay gains social acceptance faster than expected.",
+            "sentence_zh": "Cosplay获得社会接纳的速度超乎预期。"
+          }
+        ]
+      }
+    ],
+    "teach": "acceptance是人生必修课📚：从古代'接圣旨'的acceptance（接受）👑，到现代'扫码收款'的acceptance（接纳）💰，再到'我妈终于接受我单身'的acceptance（容忍）🙏。记住：'勉强接受'叫grudging acceptance（像被迫吃香菜）🌿，'无条件接受'说take as it comes（像对待北京天气）☔️。你的acceptance水平决定你能吞下多少人生麻辣烫！🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'一颗葡萄干丝'→像接受零食一样接受现实",
+        "易混词：reception（接待）vs acceptance（接受）",
+        "记忆tip：想成'AC米兰球迷接受球队表现'的表情"
+      ]
+    }
+  },
+  {
+    "word": "accepted",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cept",
+        "ed"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cept表示'拿取'，-ed表被动→'被拿取的状态'引申为'被承认的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "公认的",
+        "examples": [
+          {
+            "sentence": "Peking duck is an accepted symbol of Chinese culinary culture.",
+            "sentence_zh": "北京烤鸭是中国饮食文化公认的代表。"
+          },
+          {
+            "sentence": "The theory wasn't accepted until the scientist released TikTok videos to explain it.",
+            "sentence_zh": "直到科学家发布抖音视频解释，该理论才被公认。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "一般承认的",
+        "examples": [
+          {
+            "sentence": "It's an accepted fact that pandas spend 14 hours a day eating.",
+            "sentence_zh": "大熊猫每天进食14小时是普遍承认的事实。"
+          },
+          {
+            "sentence": "Using emojis in work emails has become accepted practice.",
+            "sentence_zh": "在工作邮件中使用表情符号已成为普遍接受的做法。"
+          }
+        ]
+      }
+    ],
+    "teach": "accepted就像盖了章的合同📜：词根cept是'拿'（比如receipt收据），加上ac-变成'接住认可'🤲。要说'公认标准'用gold standard（黄金标准），'勉强接受'叫grudgingly accepted🐻。记住：被accepted就像火锅蘸料里必须有香油+蒜末！🧄🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'A-cep-ted'→A-cep（诶，接住！）-ted（特德大叔认可了）",
+        "易混词对比：acceptable（可接受的） vs accepted（已接受的）"
+      ]
+    }
+  },
+  {
+    "word": "acceptor",
+    "etymology": {
+      "breakdown": [
+        "accept",
+        "or"
+      ],
+      "meaning_connection": "accept表示'接受'，后缀-or表示'人或物'→接受的人或物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "接受者",
+        "examples": [
+          {
+            "sentence": "The Nobel Prize acceptor burst into tears during the ceremony.",
+            "sentence_zh": "诺贝尔奖接受者在颁奖典礼上突然落泪。"
+          },
+          {
+            "sentence": "As a gift acceptor, she always writes thank-you notes.",
+            "sentence_zh": "作为礼物接受者，她总是会写感谢便签。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "承兑人",
+        "examples": [
+          {
+            "sentence": "The bank serves as the acceptor of this international draft.",
+            "sentence_zh": "该银行是这张国际汇票的承兑人。"
+          },
+          {
+            "sentence": "The acceptor must pay the bill upon maturity.",
+            "sentence_zh": "承兑人必须在票据到期时付款。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "接收器",
+        "examples": [
+          {
+            "sentence": "The satellite's acceptor collects signals from space.",
+            "sentence_zh": "卫星接收器收集来自太空的信号。"
+          },
+          {
+            "sentence": "This wireless charger has a built-in energy acceptor.",
+            "sentence_zh": "这款无线充电器内置能量接收器。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acceptor atom",
+        "meaning": "受主原子（半导体术语）",
+        "examples": [
+          {
+            "sentence": "Boron acts as an acceptor atom in silicon chips.",
+            "sentence_zh": "硼在硅芯片中作为受主原子起作用。"
+          }
+        ]
+      }
+    ],
+    "teach": "acceptor是个'接盘侠'🤲：既可以是领奖时哭成泪人的接受者🎭（Nobel acceptor），也可以是银行里苦逼的票据承兑人💸（bill acceptor），还能化身科技宅的电子接收器📡（signal acceptor）。记住：当有人说'I'm no acceptor'，可能是在拒绝当冤大头🙅♂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱塞破铜'→接收器爱塞破铜烂铁",
+        "易混词对比：acceptor（接收者）vs. accessor（装饰配件）"
+      ]
+    }
   }
 ]

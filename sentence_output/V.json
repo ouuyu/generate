@@ -11440,5 +11440,335 @@
         "易混词对比：ventilate（主动通风）vs. aerate（注入空气）"
       ]
     }
+  },
+  {
+    "word": "ventilated",
+    "etymology": {
+      "breakdown": [
+        "vent",
+        "il",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根vent=风/空气（拉丁语ventus），-il为连接元素，-ate动词后缀，-ed表形容词→'被通风的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "通风的",
+        "examples": [
+          {
+            "sentence": "The newly opened IKEA store has perfectly ventilated smoking rooms.",
+            "sentence_zh": "新开的宜家商场配有通风极佳的吸烟室。"
+          },
+          {
+            "sentence": "This bamboo hat is surprisingly well-ventilated for summer use.",
+            "sentence_zh": "这顶竹斗篷意外地通风透气，适合夏季使用。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "well-ventilated",
+        "meaning": "通风良好的",
+        "examples": [
+          {
+            "sentence": "Hotpot restaurants must be well-ventilated to prevent chili smoke suffocation.",
+            "sentence_zh": "火锅店必须保持良好通风以防辣椒烟雾呛人。"
+          }
+        ]
+      }
+    ],
+    "teach": "ventilated其实是'闻啼雷ted'🧊：词根vent藏着罗马风神Ventus的喷嚏💨，-ate后缀像开窗动作（想象地铁通风口吹起裙摆💃）。说'闷死了'用stuffy as a sauna（像蒸桑拿），'透气面料'叫breathable fabric。记住：ventilated的空间才能让螺蛳粉味道快速消散！🍜💨",
+    "recite": {
+      "tips": [
+        "谐音梗：'闻体雷ted'→闻到体味需要雷击般的通风",
+        "易混词对比：ventilate（通风） vs. veteran（老兵）→老兵需要通风好的房间",
+        "联想：vent（通风口）+ late（晚）= 通风太晚就会闷热"
+      ]
+    }
+  },
+  {
+    "word": "ventilation",
+    "etymology": {
+      "breakdown": [
+        "vent",
+        "il",
+        "ation"
+      ],
+      "meaning_connection": "词根vent=风（同wind），-il表小，-ation表行为→'制造微风的行为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "通风",
+        "examples": [
+          {
+            "sentence": "The ancient Hutong houses use clever cross-ventilation designs.",
+            "sentence_zh": "北京老胡同房屋采用巧妙的穿堂风设计。"
+          },
+          {
+            "sentence": "Masks with better ventilation are selling like hotcakes.",
+            "sentence_zh": "透气性更好的口罩正在热卖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "空气流通",
+        "examples": [
+          {
+            "sentence": "Poor ventilation turns gyms into saunas in summer.",
+            "sentence_zh": "空气流通不畅让健身房在夏天变成桑拿房。"
+          },
+          {
+            "sentence": "The new subway line features smart ventilation systems.",
+            "sentence_zh": "新地铁线配备了智能空气循环系统。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "公开讨论",
+        "examples": [
+          {
+            "sentence": "The scandal finally got proper ventilation on Weibo.",
+            "sentence_zh": "这桩丑闻终于在微博上得到充分讨论。"
+          },
+          {
+            "sentence": "Healthy societies need ventilation of different opinions.",
+            "sentence_zh": "健康社会需要不同观点的公开交流。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "natural ventilation",
+        "meaning": "自然通风",
+        "examples": [
+          {
+            "sentence": "Traditional siheyuan courtyards rely on natural ventilation.",
+            "sentence_zh": "传统四合院依靠自然通风。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "give ventilation to",
+        "meaning": "公开表达",
+        "examples": [
+          {
+            "sentence": "The forum gives ventilation to grassroots voices.",
+            "sentence_zh": "这个论坛让草根声音得以表达。"
+          }
+        ]
+      }
+    ],
+    "teach": "ventilation是'会呼吸的单词'💨！从秦始皇陵的铜雁排风装置🗿，到当代新风系统🌪️，人类始终在和闷热斗智斗勇。'公开讨论'的义项像开窗换气🌬️，把憋着的话放出来。搭配说'闷死了'用stuffy as a coffin（棺材般闷），'透气面料'叫breathable fabric。记住：好通风=好心情😌+好空气🍃+好社会🗣️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闻铁来神'→闻到铁锈味才想起要通风",
+        "易混词：ventilate(v.)/vent(n.通风口)"
+      ]
+    }
+  },
+  {
+    "word": "ventilator",
+    "etymology": {
+      "breakdown": [
+        "vent",
+        "il",
+        "ator"
+      ],
+      "meaning_connection": "词根vent=风/空气（来自拉丁语ventus），-il为连接成分，-ator表'执行某功能的器具'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "通风设备",
+        "examples": [
+          {
+            "sentence": "The ancient Romans built aqueducts that doubled as ventilators for underground tunnels.",
+            "sentence_zh": "古罗马人建造的水渠兼作地下隧道的通风设备。"
+          },
+          {
+            "sentence": "Mall escalators act like giant ventilators pulling hot air upwards.",
+            "sentence_zh": "商场扶梯像巨大的通风设备将热空气向上抽送。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "送风机",
+        "examples": [
+          {
+            "sentence": "Dragon boat festival fans were the original handheld ventilators in Chinese history.",
+            "sentence_zh": "端午节蒲扇堪称中国历史上最早的手持送风机。"
+          },
+          {
+            "sentence": "The ventilator in spicy hotpot restaurants saves people from chili fumes.",
+            "sentence_zh": "火锅店的送风机把人们从辣椒烟气中解救出来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "换气扇",
+        "examples": [
+          {
+            "sentence": "Every Chinese kitchen needs a ventilator to battle stir-fry smoke.",
+            "sentence_zh": "每个中式厨房都需要换气扇来对抗爆炒油烟。"
+          },
+          {
+            "sentence": "The broken ventilator turned the bathroom into a sauna.",
+            "sentence_zh": "坏掉的换气扇把浴室变成了桑拿房。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ceiling ventilator",
+        "meaning": "吊顶换气扇",
+        "examples": [
+          {
+            "sentence": "The humming ceiling ventilator sounds like a giant mosquito.",
+            "sentence_zh": "嗡嗡响的吊顶换气扇活像只巨型蚊子。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "industrial ventilator",
+        "meaning": "工业排风机",
+        "examples": [
+          {
+            "sentence": "Workers call the industrial ventilator 'the lung of the workshop'.",
+            "sentence_zh": "工人们把工业排风机称作'车间的肺'。"
+          }
+        ]
+      }
+    ],
+    "teach": "ventilator其实是'人工肺'💨！古罗马人最早用ventilator给矿井换气（词根vent=风），现代人用它对抗雾霾😷和火锅烟气🌶️。说'通风差'用地道表达stuffy as a tomb（闷如墓穴），搭配'开换气扇'叫flip the ventilator switch就像启动太空舱生命维持系统🚀。记住：没有ventilator的厨房就像没有排烟的烧烤摊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闻体雷特'→闻到体味就雷击般打开ventilator",
+        "易混词：ventilator（设备）vs ventilation（通风行为）",
+        "记忆tip：vent+ilator→'风来了'机器"
+      ]
+    }
+  },
+  {
+    "word": "ventral",
+    "etymology": {
+      "breakdown": [
+        "ventr",
+        "al"
+      ],
+      "meaning_connection": "词根ventr=腹部（拉丁文venter），-al表形容词后缀→与腹部相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "腹部的",
+        "examples": [
+          {
+            "sentence": "The ventral scales of a snake help it crawl smoothly.",
+            "sentence_zh": "蛇的腹鳞帮助它顺畅爬行。"
+          },
+          {
+            "sentence": "Doctors made a ventral incision for the appendectomy.",
+            "sentence_zh": "医生在腹部切口进行阑尾手术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "腹面的",
+        "examples": [
+          {
+            "sentence": "The ventral side of leaves often appears paler.",
+            "sentence_zh": "叶片的腹面通常颜色较浅。"
+          },
+          {
+            "sentence": "Frogs show distinct patterns on their ventral surfaces.",
+            "sentence_zh": "青蛙的腹面有独特花纹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "腹鳍",
+        "examples": [
+          {
+            "sentence": "The fish uses its ventral fins for precise maneuvering.",
+            "sentence_zh": "鱼用腹鳍进行精确转向。"
+          },
+          {
+            "sentence": "Damaged ventral fins affect a shark's balance.",
+            "sentence_zh": "受损的腹鳍会影响鲨鱼平衡。"
+          }
+        ]
+      }
+    ],
+    "teach": "ventral是动物界的'下半身'👖！就像猫咪露肚皮是ventral surrender（腹部投降）🐱，鱼类的ventral fins相当于泳裤🏊。记住：背(dorsal)是天，腹(ventral)是地，中间夹着吃货的胃🍔。说'肚子痛'可以幽默地用ventral distress警报🚨",
+    "recite": {
+      "tips": [
+        "谐音梗：'吻臭'→亲到鱼腹鳍(ventral)会吻到腥臭味",
+        "对比记忆：dorsal（背侧）vs ventral（腹侧）像汉堡的上下两片面包"
+      ]
+    }
+  },
+  {
+    "word": "ventricle",
+    "etymology": {
+      "breakdown": [
+        "ventr",
+        "icle"
+      ],
+      "meaning_connection": "词根ventr=腹部/中空，后缀-icle表'小'→原指'小腹部'，后指中空器官"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "心室",
+        "examples": [
+          {
+            "sentence": "The left ventricle pumps oxygen-rich blood to your entire body like a supercharged Douyin delivery guy.",
+            "sentence_zh": "左心室像超级充电的抖音送货员，将富氧血液泵向全身。"
+          },
+          {
+            "sentence": "Doctors found his right ventricle was dancing cha-cha on the ultrasound.",
+            "sentence_zh": "医生发现他的右心室在超声下跳着恰恰舞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "脑室",
+        "examples": [
+          {
+            "sentence": "CSF fluid flows through brain ventricles like hotpot broth in a 9-grid pot.",
+            "sentence_zh": "脑脊液在脑室中流动，就像九宫格火锅里的汤底。"
+          },
+          {
+            "sentence": "The fourth ventricle is shaped like a diamond, proving even brains love bling.",
+            "sentence_zh": "第四脑室形如钻石，证明连大脑也爱blingbling。"
+          }
+        ]
+      }
+    ],
+    "teach": "ventricle是人体里的'两室一厅'🏠！心室像蹦迪的蹦床💃（ventricular fibrillation=室颤），脑室像火锅汤底格子🍲（lateral ventricles=侧脑室）。说'心跳爆炸'用地道表达my heart's doing breakdancing，'脑回路清奇'叫ventricular creativity。记住：你的ventricle比一线城市房价还能折腾！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闻特热口'→闻到特别热的火锅(vtricle)脑室",
+        "易混词：ventricle（室） vs vestibule（前厅）"
+      ]
+    }
   }
 ]

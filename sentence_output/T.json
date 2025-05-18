@@ -11463,5 +11463,355 @@
         "易混词：tarred（被动涂抹） vs. tart（酸涩的）"
       ]
     }
+  },
+  {
+    "word": "tarry",
+    "etymology": {
+      "breakdown": [
+        "tar",
+        "ry"
+      ],
+      "meaning_connection": "词根tar=焦油，-ry表状态→原指被焦油黏住的状态，引申出'停留'与'焦油相关'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "耽搁",
+        "examples": [
+          {
+            "sentence": "Don't tarry or we'll miss the last metro to Daxing Airport.",
+            "sentence_zh": "别耽搁，否则会错过最后一班去大兴机场的地铁。"
+          },
+          {
+            "sentence": "He tarried at the snack street until all vendors closed.",
+            "sentence_zh": "他在小吃街耽搁到所有摊贩收摊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "逗留",
+        "examples": [
+          {
+            "sentence": "Tourists often tarry at the Great Wall to watch sunset.",
+            "sentence_zh": "游客常在长城逗留观赏日落。"
+          },
+          {
+            "sentence": "The panda tarried in the bamboo forest for 8 hours straight.",
+            "sentence_zh": "这只熊猫在竹林里连续逗留了8小时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "逗留",
+        "examples": [
+          {
+            "sentence": "Our tarry in Chengdu included three hotpot meals per day.",
+            "sentence_zh": "我们在成都的逗留包含每天三顿火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "涂了焦油的",
+        "examples": [
+          {
+            "sentence": "The tarry ropes smelled strongly on the fishing boat.",
+            "sentence_zh": "渔船上涂了焦油的绳索气味浓烈。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tarry a while",
+        "meaning": "稍作停留",
+        "examples": [
+          {
+            "sentence": "Let's tarry a while to enjoy this Chongqing night view.",
+            "sentence_zh": "我们稍作停留欣赏重庆夜景吧。"
+          }
+        ]
+      }
+    ],
+    "teach": "tarry是'拖延症患者之歌'🎵！作动词时像被故宫红墙黏住的游客🧱（tarry for photos），作名词像在奶茶店无限续杯的闺蜜👭（a long tarry）。焦油(tar)和拖延(tarry)的联姻就像：'拖延时感觉脚底粘了焦油'🕳️。说'磨洋工'可以用dillydally，'赖着不走'叫overstay one's welcome。",
+    "recite": {
+      "tips": [
+        "谐音梗：'太累'→因为逗留(tarry)太久感觉太累",
+        "易混词：delay强调被动延迟，tarry带自愿停留意味"
+      ]
+    }
+  },
+  {
+    "word": "tart",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语tarte（馅饼），可能受'尖锐'含义影响衍生出酸味与刻薄意"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "酸的",
+        "examples": [
+          {
+            "sentence": "The tart flavor of hawthorn candies makes kids pucker their lips.",
+            "sentence_zh": "山楂糖的酸味让孩子们噘起嘴唇。"
+          },
+          {
+            "sentence": "This yogurt has a pleasantly tart aftertaste like biting into fresh loquats.",
+            "sentence_zh": "这款酸奶带着枇杷般的清新酸味余韵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "辛辣的",
+        "examples": [
+          {
+            "sentence": "Her tart commentary on idol dramas went viral on Bilibili.",
+            "sentence_zh": "她对偶像剧的辛辣评论在B站疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "尖酸的",
+        "examples": [
+          {
+            "sentence": "The professor's tart reply to the plagiarist became a meme.",
+            "sentence_zh": "教授对抄袭者的尖酸回复成了表情包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "妖艳打扮",
+        "examples": [
+          {
+            "sentence": "She tarted herself up with neon-colored wigs for the cosplay contest.",
+            "sentence_zh": "她戴着荧光假发妖艳打扮参加漫展比赛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "果馅饼",
+        "examples": [
+          {
+            "sentence": "The durian tart in this Guangzhou teahouse is to die for.",
+            "sentence_zh": "这家广州茶楼的榴莲蛋挞好吃到爆炸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "妓女",
+        "examples": [
+          {
+            "sentence": "Victorian novels often depict tarts wearing crimson petticoats.",
+            "sentence_zh": "维多利亚时代小说常描写穿绯红衬裙的妓女。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tart up",
+        "meaning": "艳俗装扮",
+        "examples": [
+          {
+            "sentence": "They tarted up the food stall with LED dragons for the night market.",
+            "sentence_zh": "他们用LED龙灯把小吃摊装扮得花里胡哨迎接夜市。"
+          }
+        ]
+      }
+    ],
+    "teach": "tart是味觉界的容嬷嬷👵：既指酸掉牙的柠檬挞🍋（sour tart），也指扎心的毒舌评论🗡️（tart remark）。英国俚语'打扮得像果馅饼'（tart up）指过度浓妆艳抹💄，而'樱桃挞'（cherry tart）在19世纪却是妓女黑话🍒！记住：当tart作动词时，画面感堪比抖音变装特效🎬。",
+    "recite": {
+      "tips": [
+        "谐音梗：'挞特'→蛋挞特别酸",
+        "易混词：sour（单纯酸味）/tart（带刺激性的酸）",
+        "记忆链：tart→蛋挞→酸到皱眉→说话也酸"
+      ]
+    }
+  },
+  {
+    "word": "tartan",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语tiretaine(粗羊毛布)，经苏格兰盖尔语演变，现特指苏格兰传统格子图案"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "格子呢",
+        "examples": [
+          {
+            "sentence": "The bagpiper's kilt was made of authentic Scottish tartan.",
+            "sentence_zh": "风笛手的苏格兰裙由正宗格子呢制成。"
+          },
+          {
+            "sentence": "Grandma's tartan blanket smells like whisky and peat.",
+            "sentence_zh": "奶奶的格子呢毯子带着威士忌和泥煤的味道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "方格花纹",
+        "examples": [
+          {
+            "sentence": "Starbucks' holiday cups feature cheerful red and green tartan designs.",
+            "sentence_zh": "星巴克节日杯采用红绿相间的欢乐方格花纹。"
+          },
+          {
+            "sentence": "The cat curled up on the tartan-patterned pillow.",
+            "sentence_zh": "猫咪蜷缩在方格花纹的抱枕上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "单桅小帆船",
+        "examples": [
+          {
+            "sentence": "The tartan with its distinctive sail appeared on the horizon.",
+            "sentence_zh": "带着独特船帆的单桅小帆船出现在地平线上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "格子呢的",
+        "examples": [
+          {
+            "sentence": "His tartan tie clashed terribly with his striped shirt.",
+            "sentence_zh": "他的格子呢领带与条纹衬衫严重撞衫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tartan army",
+        "meaning": "苏格兰球迷群体（因常穿格子呢服装得名）",
+        "examples": [
+          {
+            "sentence": "The Tartan Army sang folk songs throughout the football match.",
+            "sentence_zh": "苏格兰球迷们在整场足球赛中高唱民谣。"
+          }
+        ]
+      }
+    ],
+    "teach": "tartan是苏格兰的视觉身份证🏴！每个氏族都有专属格子图案，就像微信红包皮肤🎨。'穿错格子'曾经会引发家族战争⚔️，现在却是程序员最爱的衬衫图案💻。说'花里胡哨'可以用tartan-like，苏格兰威士忌+格子呢=绝配🥃🧣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'他弹'→他弹(tartan)着格子呢吉他",
+        "易混词对比：plaid(美式说法)/tartan(英式特指苏格兰格子)"
+      ]
+    }
+  },
+  {
+    "word": "tartar",
+    "etymology": {
+      "breakdown": [
+        "tartar"
+      ],
+      "meaning_connection": "源自波斯语'tātār'（游牧民族），中世纪欧洲将蒙古人统称Tartar，因发音类似Tartarus（地狱）产生负面联想；化学/牙科含义来自拉丁语'tartarum'（沉淀物）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "酒石（葡萄酒沉淀）",
+        "examples": [
+          {
+            "sentence": "The aged port wine had tartar crystals at the bottom of the bottle.",
+            "sentence_zh": "陈年波特酒瓶底有酒石结晶。"
+          },
+          {
+            "sentence": "Cream of tartar is actually a byproduct of winemaking.",
+            "sentence_zh": "塔塔粉其实是酿酒副产品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "牙垢",
+        "examples": [
+          {
+            "sentence": "The dentist scraped tartar off my teeth with a metal hook.",
+            "sentence_zh": "牙医用金属钩刮除我的牙垢。"
+          },
+          {
+            "sentence": "Electric toothbrushes reduce tartar buildup by 20%.",
+            "sentence_zh": "电动牙刷能减少20%牙垢堆积。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "鞑靼人",
+        "examples": [
+          {
+            "sentence": "Genghis Khan's army included many Tartar warriors.",
+            "sentence_zh": "成吉思汗的军队包含许多鞑靼战士。"
+          },
+          {
+            "sentence": "Tartar cuisine features horse meat and fermented dairy.",
+            "sentence_zh": "鞑靼饮食以马肉和发酵乳制品为特色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "鞑靼的",
+        "examples": [
+          {
+            "sentence": "The Tartar bow was the AK-47 of the Middle Ages.",
+            "sentence_zh": "鞑靼弓堪称中世纪的AK-47。"
+          },
+          {
+            "sentence": "She wore a traditional Tartar hat with silver embroidery.",
+            "sentence_zh": "她戴着有银线刺绣的传统鞑靼帽。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tartar sauce",
+        "meaning": "鞑靼酱（美乃滋+酸黄瓜酱）",
+        "examples": [
+          {
+            "sentence": "Fish and chips always taste better with tartar sauce.",
+            "sentence_zh": "炸鱼薯条配鞑靼酱更美味。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cream of tartar",
+        "meaning": "酒石酸氢钾（烘焙用）",
+        "examples": [
+          {
+            "sentence": "Add cream of tartar to stabilize egg whites for soufflé.",
+            "sentence_zh": "制作舒芙蕾时加入塔塔粉稳定蛋白。"
+          }
+        ]
+      }
+    ],
+    "teach": "tartar是个跨界王👑：在牙医诊所见它（牙垢☠️），在厨房见它（塔塔粉🍰），历史课还见它（鞑靼人🏹）。中世纪欧洲人觉得蒙古人像地狱恶魔，把Tartar和Tartarus（地狱）挂钩。说'牙结石严重'可以吐槽'My teeth grew the Great Wall of Tartar🗿'，'凶悍的人'叫tartar like a bulldog🦮。记住：tartar的本质都是'沉淀'——无论牙齿、红酒还是历史！",
+    "recite": {
+      "tips": [
+        "谐音梗：'他特恶'→鞑靼人凶恶形象",
+        "易混词：tartar vs. tapir（貘，完全不同的动物）",
+        "牙医梗：约会前check牙齿tartar，否则可能单身到Tartar（地狱）"
+      ]
+    }
   }
 ]

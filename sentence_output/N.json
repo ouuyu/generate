@@ -11399,5 +11399,330 @@
         "记忆tip：把negotiate拆解成'not(不)+go(走)+ate(吃)'→不吃亏才让走"
       ]
     }
+  },
+  {
+    "word": "negotiating",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "oti",
+        "ate",
+        "ing"
+      ],
+      "meaning_connection": "neg=否定，oti=闲暇（拉丁语negotium指'不闲暇'→做生意），-ate动词后缀，-ing名词化→从'忙碌做生意'演变为'谈判'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "谈判",
+        "examples": [
+          {
+            "sentence": "The negotiating between China and the US lasted 12 hours with unlimited coffee supply.",
+            "sentence_zh": "中美谈判持续12小时，期间咖啡无限续杯。"
+          },
+          {
+            "sentence": "Street food price negotiating is an essential skill in night markets.",
+            "sentence_zh": "夜市砍价是吃货必备技能。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "negotiating table",
+        "meaning": "谈判桌",
+        "examples": [
+          {
+            "sentence": "The two CEOs finally came to the negotiating table after 3 months of WeChat arguments.",
+            "sentence_zh": "经过三个月微信互怼后，两位CEO终于坐上了谈判桌。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "negotiating power",
+        "meaning": "议价能力",
+        "examples": [
+          {
+            "sentence": "Having 10 job offers significantly increases your negotiating power.",
+            "sentence_zh": "手握10个offer会让你的议价能力暴增。"
+          }
+        ]
+      }
+    ],
+    "teach": "谈判的本质就是'砍价艺术'🗡️：古罗马商人negotium（不闲）时总在讨价还价💸。记住'我有底线'的地道说法是That's my final offer（就像淘宝最后改价），'僵局'叫reach an impasse（如同卡在加载99%的进度条⏳）。谈判高手都像火锅店老板——永远给你留片毛肚的商量余地🥢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个谁挨踢'→谈判时那个谁总被踢皮球",
+        "易混词：bargaining（更侧重砍价），negotiating（正式商务谈判）",
+        "记忆tip：联想'nego（那个）+ti（提）+ate（吃）+ing（中）'→谈判中提条件才能吃到肉"
+      ]
+    }
+  },
+  {
+    "word": "negotiation",
+    "etymology": {
+      "breakdown": [
+        "neg",
+        "oti",
+        "ation"
+      ],
+      "meaning_connection": "词根neg=否定，oti=闲暇→原指'在忙碌中抽身处理事务'，后演变为'通过协商解决分歧'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "谈判",
+        "examples": [
+          {
+            "sentence": "The tea house became their secret negotiation spot during the trade war.",
+            "sentence_zh": "这家茶馆成为贸易战期间他们的秘密谈判地点。"
+          },
+          {
+            "sentence": "Panda diplomats are experts in bamboo-based negotiations.",
+            "sentence_zh": "熊猫外交官们精通以竹笋为基础的谈判艺术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "磋商",
+        "examples": [
+          {
+            "sentence": "After three rounds of midnight negotiations, they finally agreed on the hotpot ingredient ratio.",
+            "sentence_zh": "经过三轮深夜磋商，他们终于就火锅食材比例达成一致。"
+          },
+          {
+            "sentence": "WeChat group negotiations saved their marriage during lockdown.",
+            "sentence_zh": "微信群磋商在封控期间挽救了他们的婚姻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "交涉",
+        "examples": [
+          {
+            "sentence": "The delivery rider's negotiation skills convinced the保安 to open the gate.",
+            "sentence_zh": "外卖骑手的交涉技巧说服了保安打开大门。"
+          },
+          {
+            "sentence": "Her negotiation with the AI客服 lasted longer than the Great Wall.",
+            "sentence_zh": "她与AI客服的交涉时间比长城还长。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "collective negotiation",
+        "meaning": "集体协商",
+        "examples": [
+          {
+            "sentence": "The annual collective negotiation determines how many mooncakes each employee gets.",
+            "sentence_zh": "年度集体协商决定着每位员工能分到多少月饼。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "negotiation table",
+        "meaning": "谈判桌",
+        "examples": [
+          {
+            "sentence": "They brought Sichuan peppercorns to the negotiation table to break the ice.",
+            "sentence_zh": "他们带着花椒上谈判桌来打破僵局。"
+          }
+        ]
+      }
+    ],
+    "teach": "谈判的本质是'否定'(neg)对方的立场直到双方腿软(oti)🤺！古代商人用算盘谈判，现代人用表情包协商📱。'讨价还价'说haggle like a grandma（像大妈砍价），'达成协议'叫reach a baozi agreement（包子协议🥟）。记住：所有negotiation最终都是为了能愉快地干饭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个谁爱省'→谈判就是和那个爱省钱的人(négotiation)较量",
+        "易混词：consultation（咨询）没有对抗性，negotiation总带着火药味💥"
+      ]
+    }
+  },
+  {
+    "word": "negotiator",
+    "etymology": {
+      "breakdown": [
+        "negoti",
+        "ator"
+      ],
+      "meaning_connection": "词根negotium=商业交易（ne-否定 + otium闲暇），后缀-ator表示执行者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "磋商者",
+        "examples": [
+          {
+            "sentence": "The tea merchant was a skilled negotiator in ancient Silk Road trades.",
+            "sentence_zh": "这位茶商曾是古丝绸之路上老练的磋商者。"
+          },
+          {
+            "sentence": "As a mom negotiator, she successfully made her toddler eat broccoli.",
+            "sentence_zh": "作为资深磋商专家，她成功让娃吃下了西蓝花。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "交涉者",
+        "examples": [
+          {
+            "sentence": "The hostage negotiator communicated via WeChat voice messages.",
+            "sentence_zh": "人质交涉者通过微信语音进行沟通。"
+          },
+          {
+            "sentence": "Panda caretakers often act as negotiators between quarreling cubs.",
+            "sentence_zh": "熊猫饲养员常要当打架幼崽的和事佬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "议定者",
+        "examples": [
+          {
+            "sentence": "The marriage negotiator helped draft the betrothal agreement.",
+            "sentence_zh": "婚约议定者协助拟定了彩礼协议。"
+          },
+          {
+            "sentence": "Village elders served as negotiators for land boundary disputes.",
+            "sentence_zh": "村中长者曾是地界纠纷的议定者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chief negotiator",
+        "meaning": "首席谈判代表",
+        "examples": [
+          {
+            "sentence": "The chief negotiator used hotpot diplomacy to break the deadlock.",
+            "sentence_zh": "首席代表用火锅外交打破了僵局。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "trade negotiator",
+        "meaning": "贸易协商者",
+        "examples": [
+          {
+            "sentence": "Chinese trade negotiators secured durian import agreements with Thailand.",
+            "sentence_zh": "中方贸易协商者拿下了泰国榴莲进口协议。"
+          }
+        ]
+      }
+    ],
+    "teach": "negotiator其实是'砍价侠'💸！古代罗马商人(negotiator)在集市讨价还价时，会把硬币(negotium)摔得叮当响🗣️。要说'谈判高手'可以叫silver-tongued（银舌头），'达成协议'叫cut a deal就像切西瓜🔪。记住：优秀的negotiator能让对方自愿掏出最后一个铜板！",
+    "recite": {
+      "tips": [
+        "谐音梗：'那个谁调解'→那个谁(nego)在调解(tiator)",
+        "易混词对比：mediator（调停者）vs negotiator（利益协商者）",
+        "记忆tip：想象菜市场大妈砍价时说'你这个价要negotiate一下啦！'"
+      ]
+    }
+  },
+  {
+    "word": "negro",
+    "etymology": {
+      "breakdown": [
+        "negro"
+      ],
+      "meaning_connection": "源自西班牙语/葡萄牙语'negro'（黑色），与nigr/niger（拉丁语'黑'）同源。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "黑人（历史用语）",
+        "examples": [
+          {
+            "sentence": "The term 'negro spiritual' refers to sacred folk songs created by enslaved Africans.",
+            "sentence_zh": "Negro spiritual指被奴役非洲人创造的宗教民歌。"
+          },
+          {
+            "sentence": "Early 20th century census forms included 'Negro' as a racial category.",
+            "sentence_zh": "20世纪初人口普查表格中将'Negro'列为种族类别。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "黑人的（历史用语）",
+        "examples": [
+          {
+            "sentence": "The Negro Leagues were baseball leagues for African-American players.",
+            "sentence_zh": "Negro Leagues是为非裔美国球员设立的棒球联盟。"
+          },
+          {
+            "sentence": "Harlem Renaissance was a golden age of Negro literature.",
+            "sentence_zh": "哈莱姆文艺复兴是黑人文学的黄金时代。"
+          }
+        ]
+      }
+    ],
+    "teach": "⚠️这个词像过期的罐头🥫：negro本是中性词（西班牙语'黑色'），但在英语中已严重过时，现用Black/African-American。'黑人的'说Black culture（✔️），不说negro culture（❌）。就像中文里' negro '相当于'黑种人'这种陈旧表达🌍。要夸黑人文化？说'Afro-style is lit!'（非裔风格超赞）🔥",
+    "recite": {
+      "tips": [
+        "词源警示：与niger/nigrum同源，但现代英语中这些词都涉及敏感历史",
+        "易混词：negro(过时) vs melanin(黑色素，科技术语)",
+        "记忆法：看到negro要像看到老式种族隔离标志🚫那样警惕"
+      ]
+    }
+  },
+  {
+    "word": "neigh",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词起源，直接模仿马匹嘶鸣的声音"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "马嘶声",
+        "examples": [
+          {
+            "sentence": "The loud neigh from the stable woke up the whole village.",
+            "sentence_zh": "马厩传来的响亮嘶鸣惊醒了全村人。"
+          },
+          {
+            "sentence": "Her imitation of a horse's neigh won the talent show.",
+            "sentence_zh": "她模仿的马嘶声在才艺比赛中获胜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "马嘶",
+        "examples": [
+          {
+            "sentence": "The black stallion neighed proudly when it saw the mare.",
+            "sentence_zh": "黑骏马见到母马时骄傲地嘶鸣。"
+          },
+          {
+            "sentence": "My stomach neighed louder than a hungry horse during the meeting.",
+            "sentence_zh": "会议中我的肚子比饿马叫得还响。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "neigh是马界的表情包🗣️！就像人类说'啊啊啊'，马用'neigh'表达：'本马饿了🌾'、'有美女马经过💘'、'铲屎官迟到了⏰'。记住：当你的肚子neigh时，就该去海底捞了🍲！搭配：make a horse neigh（让马嘶叫）/ neigh like a pro（专业级嘶鸣）。地道说法：'饿成马叫'说hungry enough to neigh🐎",
+    "recite": {
+      "tips": [
+        "谐音梗：'内个'→马儿说'内个草给我留点'",
+        "易混词对比：nay(反对) vs neigh(马嘶)",
+        "记忆tip：想象一匹马边嘶鸣边比'耶'✌️(n-eigh)"
+      ]
+    }
   }
 ]
