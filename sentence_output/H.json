@@ -6489,5 +6489,301 @@
         "易混词：handgun（手枪）vs shotgun（霰弹枪）→ 就像奶茶杯vs啤酒桶"
       ]
     }
+  },
+  {
+    "word": "handhold",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "hold"
+      ],
+      "meaning_connection": "字面组合'手+握持'，最早指攀岩时的着力点，后引申出抽象含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "掌握",
+        "examples": [
+          {
+            "sentence": "The smartphone tutorial gives beginners a firm handhold in the digital world.",
+            "sentence_zh": "这个智能手机教程为初学者提供进入数字世界的扎实掌握。"
+          },
+          {
+            "sentence": "Her mentorship provided crucial handholds for my startup journey.",
+            "sentence_zh": "她的指导为我的创业之路提供了关键性掌握。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "握住",
+        "examples": [
+          {
+            "sentence": "The toddler's tiny handhold on my finger felt like a warm dumpling.",
+            "sentence_zh": "宝宝握住我手指的触感像握着温热的小笼包。"
+          },
+          {
+            "sentence": "Mountain climbers use special chalk to strengthen their handholds.",
+            "sentence_zh": "攀岩者使用防滑镁粉来增强对岩点的握住力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "把柄",
+        "examples": [
+          {
+            "sentence": "The leaked emails became a political handhold for opponents.",
+            "sentence_zh": "被泄露的邮件成了政敌攻击的把柄。"
+          },
+          {
+            "sentence": "Never give your ex a handhold in arguments by oversharing.",
+            "sentence_zh": "吵架时别过度分享给对方留下把柄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "线索",
+        "examples": [
+          {
+            "sentence": "The antique dealer found a handhold to trace the vase's origin.",
+            "sentence_zh": "古董商找到追溯花瓶渊源的线索。"
+          },
+          {
+            "sentence": "Detectives discovered a crucial handhold in the suspect's WeChat history.",
+            "sentence_zh": "刑警从嫌疑人的微信记录中发现关键线索。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lose handhold",
+        "meaning": "失控",
+        "examples": [
+          {
+            "sentence": "The stock market lost handhold during the crypto crash.",
+            "sentence_zh": "加密货币崩盘期间股市完全失控。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "give sb. a handhold",
+        "meaning": "给予支持",
+        "examples": [
+          {
+            "sentence": "Mentors should give fresh graduates handholds to enter the industry.",
+            "sentence_zh": "导师应当给予应届生进入行业的支持。"
+          }
+        ]
+      }
+    ],
+    "teach": "handhold是职场生存的攀岩钉🧗！原始义是岩壁凸起（physical handhold），现代人抓的是KPI把柄（political handhold）。当你说'get a handhold'就像抓住奶茶杯防烫圈🧋，而'lose handhold'堪比手机贴膜起泡时的崩溃📱。搭配'mental handhold'指心灵支柱，比如火锅就是四川人的精神handhold🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊好的'→焊好的(handhold)把手很牢固",
+        "易混词对比：handhold（着力点）vs. handle（把手）",
+        "记忆口诀：一手(hand)掌握(hold)全局"
+      ]
+    }
+  },
+  {
+    "word": "handicap",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "i",
+        "cap"
+      ],
+      "meaning_connection": "源自17世纪'hand in cap'游戏（三人抽签时需把手放进帽子🎩），后演变为'不利条件'，就像比赛前被强行塞了只考拉🐨在手里"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "障碍",
+        "examples": [
+          {
+            "sentence": "The Great Wall was both a military advantage and a transport handicap.",
+            "sentence_zh": "长城既是军事优势也是运输障碍。"
+          },
+          {
+            "sentence": "Pandas' bamboo-only diet is an evolutionary handicap.",
+            "sentence_zh": "大熊猫纯竹子饮食是进化上的障碍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不利条件",
+        "examples": [
+          {
+            "sentence": "Having no smartphone is a serious handicap when ordering spicy crayfish.",
+            "sentence_zh": "点麻辣小龙虾时没智能手机是重大不利条件。"
+          },
+          {
+            "sentence": "His northern accent became a comedy handicap in southern stand-up shows.",
+            "sentence_zh": "他的北方口音成了南方脱口秀的不利条件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "妨碍",
+        "examples": [
+          {
+            "sentence": "The panda costume severely handicapped his escape speed.",
+            "sentence_zh": "熊猫玩偶服严重妨碍了他的逃跑速度。"
+          },
+          {
+            "sentence": "Fog handicapped the delivery drones' navigation systems.",
+            "sentence_zh": "大雾妨碍了快递无人机的导航系统。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mental handicap",
+        "meaning": "智力障碍",
+        "examples": [
+          {
+            "sentence": "The special Olympics celebrate athletes with mental handicaps.",
+            "sentence_zh": "特奥会为智力障碍运动员喝彩。"
+          }
+        ]
+      }
+    ],
+    "teach": "handicap其实是'帽中手'🎩✋：源自古代赌马前把赌金放帽子里（hand in cap），后来给快马加铅块制造'不利条件'。说'拖后腿'可叫ankle weight（脚踝配重），'猪队友'叫human handicap👬🐷。记住：人生就像吃鸡游戏，handicap是系统随机给你的平底锅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喊弟开趴'→弟弟的派对总是障碍重重",
+        "易混词：disadvantage（先天不足） vs handicap（后天限制）"
+      ]
+    }
+  },
+  {
+    "word": "handicapped",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "i",
+        "cap"
+      ],
+      "meaning_connection": "源自古英语'hand in cap'游戏（参与者将赌注放入帽子中），后演变为对不利条件的比喻"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "残疾的",
+        "examples": [
+          {
+            "sentence": "The new subway line features elevators for handicapped passengers.",
+            "sentence_zh": "新地铁线为残障乘客配备了专用电梯。"
+          },
+          {
+            "sentence": "She trains guide dogs to assist the visually handicapped.",
+            "sentence_zh": "她训练导盲犬帮助视力障碍人士。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有生理缺陷的",
+        "examples": [
+          {
+            "sentence": "The museum offers tactile exhibits for the physically handicapped.",
+            "sentence_zh": "博物馆为肢体缺陷者提供可触摸展品。"
+          },
+          {
+            "sentence": "Special Olympics empower the mentally handicapped through sports.",
+            "sentence_zh": "特奥会通过运动赋予智力缺陷者力量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "visually handicapped",
+        "meaning": "视力障碍的",
+        "examples": [
+          {
+            "sentence": "Audio books are essential for the visually handicapped.",
+            "sentence_zh": "有声书对视障人士至关重要。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "handicapped parking",
+        "meaning": "残疾人车位",
+        "examples": [
+          {
+            "sentence": "Using handicapped parking without permit will result in fine.",
+            "sentence_zh": "无证占用残障车位将面临罚款。"
+          }
+        ]
+      }
+    ],
+    "teach": "handicapped背后藏着中世纪帽子戏法🎩：原指'手在帽中'的赌博游戏（hand-in-cap），输家处于不利位置就像残疾人面临的障碍🏁。现代更推荐用'people with disabilities'（就像说'奶茶续命族'比'肥宅'礼貌）。搭配handicapped access（无障碍设施）和differently abled（换个说法更尊重）🤝",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得开瓶盖'→手脚不便需要帮助",
+        "易混词对比：disabled（更通用）vs impaired（部分功能受损）"
+      ]
+    }
+  },
+  {
+    "word": "handicapper",
+    "etymology": {
+      "breakdown": [
+        "hand",
+        "i",
+        "cap",
+        "er"
+      ],
+      "meaning_connection": "源自'hand in cap'（手在帽中）的中世纪抽签仪式→演变为'阻碍'（handicap）+ 表'人'的后缀-er"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "赛马/高尔夫等比赛中设定障碍的裁判",
+        "examples": [
+          {
+            "sentence": "The handicapper assigned 10kg extra weight to the favorite horse.",
+            "sentence_zh": "裁判给热门赛马额外加了10公斤负重。"
+          },
+          {
+            "sentence": "As a golf handicapper, he adjusts scores to level the playing field.",
+            "sentence_zh": "作为高尔夫裁判员，他通过调整分数来平衡比赛。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chief handicapper",
+        "meaning": "首席让分裁判",
+        "examples": [
+          {
+            "sentence": "The chief handicapper at Macau Jockey Club uses complex algorithms.",
+            "sentence_zh": "澳门赛马会的首席裁判运用复杂算法计算让分。"
+          }
+        ]
+      }
+    ],
+    "teach": "handicapper其实是'公平使者'⚖️：源自中世纪'手在帽中'抽签决定让分的传统🎩。现代赛马中他们像考试出题人📝，用负重让强者'带娃参赛'（就像你边加班边带娃🤱）。说'黑哨裁判'用biased referee，'严格裁判'叫strict handicapper。记住：他们的目标是让比赛像火锅局——人人有肉吃🥩！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊滴卡牌'→裁判焊死(handicap)你的好牌",
+        "易混词：handicraft（手工艺）vs handicapper",
+        "联想：handicap+per(人)=制造障碍的人"
+      ]
+    }
   }
 ]

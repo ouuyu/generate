@@ -6348,5 +6348,289 @@
         "对比：dotted line（点线）vs dashed line（短线）"
       ]
     }
+  },
+  {
+    "word": "dashing",
+    "etymology": {
+      "breakdown": [
+        "dash",
+        "ing"
+      ],
+      "meaning_connection": "词根dash=猛冲（拟声词源），-ing表形容词→像冲刺般充满活力的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "闯劲足的",
+        "examples": [
+          {
+            "sentence": "The dashing entrepreneur sold ice cream in Antarctica.",
+            "sentence_zh": "这位闯劲十足的企业家在南极卖过冰淇淋。"
+          },
+          {
+            "sentence": "Her dashing spirit made her start a business at 16.",
+            "sentence_zh": "她闯劲十足，16岁就开始创业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有力的",
+        "examples": [
+          {
+            "sentence": "He made a dashing speech that moved the audience.",
+            "sentence_zh": "他发表了有力演说，打动了听众。"
+          },
+          {
+            "sentence": "The dashing waves crushed against the seawall.",
+            "sentence_zh": "有力的海浪重重拍打在防波堤上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make a dashing appearance",
+        "meaning": "闪亮登场",
+        "examples": [
+          {
+            "sentence": "The CEO made a dashing appearance at the product launch.",
+            "sentence_zh": "CEO在产品发布会上闪亮登场。"
+          }
+        ]
+      }
+    ],
+    "teach": "dashing是'带闪电⚡'的形容词！原指战马冲锋(dash)的气势💨，现在形容人像《狂飙》高启强般有魄力🚗，说'行动派'用a dashing go-getter，反义词是wishy-washy（优柔寡断）。记住：当代dashing标准是能同时抢到演唱会票和茅台！🎫🍷",
+    "recite": {
+      "tips": [
+        "谐音梗：'带薪'→带薪(dashing)摸鱼的人其实最没闯劲",
+        "易混词：rushing（匆忙的）缺少dashing的自信感",
+        "记忆锚点：Dash跑车+ing=拉风状态"
+      ]
+    }
+  },
+  {
+    "word": "dastardly",
+    "etymology": {
+      "breakdown": [
+        "dastard",
+        "ly"
+      ],
+      "meaning_connection": "词根dastard（14世纪指'胆小鬼'）+后缀-ly（表性质）→形容像懦夫般的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "卑劣的",
+        "examples": [
+          {
+            "sentence": "The dastardly villain kicked a puppy in the movie.",
+            "sentence_zh": "电影里那个卑劣的反派居然踢小狗。"
+          },
+          {
+            "sentence": "His dastardly plan involved stealing grandma's mahjong money.",
+            "sentence_zh": "他的卑劣计划包括偷奶奶的麻将钱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "懦弱的",
+        "examples": [
+          {
+            "sentence": "The dastardly knight hid behind children during the battle.",
+            "sentence_zh": "那个懦弱的骑士在战斗中躲在孩童身后。"
+          },
+          {
+            "sentence": "Posting hate comments anonymously is a dastardly act.",
+            "sentence_zh": "匿名发布恶意评论是懦夫行为。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dastardly deed",
+        "meaning": "卑劣行径",
+        "examples": [
+          {
+            "sentence": "The celebrity's dastardly deed of faking donations shocked fans.",
+            "sentence_zh": "该明星诈捐的卑劣行径震惊粉丝。"
+          }
+        ]
+      }
+    ],
+    "teach": "dastardly这词自带BGM🎵——迪士尼反派专属形容词！想象乌苏拉偷走小美人鱼嗓音🐙（dastardly trick），或灰姑娘后妈撕裙子👗（dastardly behavior）。说人'怂爆了'可以用yellow-bellied（黄肚皮=胆小鬼），'阴险招数'叫underhanded tactics。记住：所有往奶茶里加香菜的人都该被叫dastardly！🤢⚔️👎",
+    "recite": {
+      "tips": [
+        "谐音梗：'打死他弟'→懦夫连弟弟都敢欺负",
+        "易混词：bastard（私生子）≠dastard（懦夫）",
+        "记忆法：da+star（大明星）+dly→大明星躲ly（拼音'里'）= 遇事躲起来的懦夫"
+      ]
+    }
+  },
+  {
+    "word": "data",
+    "etymology": {
+      "breakdown": [
+        "datum"
+      ],
+      "meaning_connection": "拉丁语datum的复数形式，原意为'给予的东西'→演变为现代意义的'数据'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "资料",
+        "examples": [
+          {
+            "sentence": "The museum's dinosaur data includes T-rex tooth measurements.",
+            "sentence_zh": "博物馆的恐龙资料包含霸王龙牙齿尺寸记录。"
+          },
+          {
+            "sentence": "Ancient Chinese astronomers left precise celestial data on oracle bones.",
+            "sentence_zh": "中国古代天文学家在甲骨文中留下了精确的天文资料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "数据",
+        "examples": [
+          {
+            "sentence": "Douyin's algorithm analyzes 500TB of user data per second.",
+            "sentence_zh": "抖音算法每秒分析500TB用户数据。"
+          },
+          {
+            "sentence": "Scientists found interesting patterns in panda mating data.",
+            "sentence_zh": "科学家从大熊猫交配数据中发现有趣规律。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "big data",
+        "meaning": "大数据",
+        "examples": [
+          {
+            "sentence": "Huawei uses big data to optimize 5G tower placement.",
+            "sentence_zh": "华为运用大数据优化5G基站布局。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "data mining",
+        "meaning": "数据挖掘",
+        "examples": [
+          {
+            "sentence": "Alibaba's data mining reveals that mooncake sales peak at 3AM.",
+            "sentence_zh": "阿里巴巴的数据挖掘显示月饼销量在凌晨3点达到高峰。"
+          }
+        ]
+      }
+    ],
+    "teach": "data其实是'数字时代的甲骨文'📜！罗马人用datum记账，现代人用data刷抖音📱。要说'数据量太大'可以吐槽'Its data tsunami!'🌊，'数据造假'叫cooking the books就像给外卖刷好评🍔。记住：你的data轨迹决定了某宝给你推秋裤还是比基尼👖👙！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得他'→得到(得)他的(data)数据",
+        "易混词对比：data(数据集) vs date(日期/约会)"
+      ]
+    }
+  },
+  {
+    "word": "databank",
+    "etymology": {
+      "breakdown": [
+        "data",
+        "bank"
+      ],
+      "meaning_connection": "data=数据（源自拉丁语datum'给予的东西'），bank=银行/库→存储数据的仓库"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "数据库",
+        "examples": [
+          {
+            "sentence": "China's facial recognition databank contains over 1 billion entries.",
+            "sentence_zh": "中国的人脸识别数据库包含超10亿条数据。"
+          },
+          {
+            "sentence": "The museum built a databank of Tang Dynasty poetry written on bamboo slips.",
+            "sentence_zh": "该博物馆建立了竹简唐诗数据库。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "genetic databank",
+        "meaning": "基因库",
+        "examples": [
+          {
+            "sentence": "Pandas' genetic databank helps prevent inbreeding.",
+            "sentence_zh": "大熊猫基因库有助于防止近亲繁殖。"
+          }
+        ]
+      }
+    ],
+    "teach": "databank是数字时代的藏经阁📚！就像少林寺藏经阁存放武功秘籍🥋，现代databank存着你的购物记录（比如拼多多的砍一刀数据🔪）。搭配说'scan the databank'（检索数据库）或'leak the databank'（数据库泄漏）。'数据量太大'可以说data tsunami🌊，比database更专业的说法就是databank💾",
+    "recite": {
+      "tips": [
+        "谐音梗：'待她搬空'→数据库被搬空(databank)",
+        "对比记忆：database（常用）vs databank（专业库）"
+      ]
+    }
+  },
+  {
+    "word": "database",
+    "etymology": {
+      "breakdown": [
+        "data",
+        "base"
+      ],
+      "meaning_connection": "data=数据（拉丁语datum的复数），base=基础→存储数据的基础设施"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "数据库",
+        "examples": [
+          {
+            "sentence": "The Douyin algorithm feeds you videos based on its massive database.",
+            "sentence_zh": "抖音算法根据其海量数据库为你推送视频。"
+          },
+          {
+            "sentence": "Archaeologists found a terracotta warrior database in Qin Shi Huang's tomb.",
+            "sentence_zh": "考古学家在秦始皇陵发现了兵马俑数据库。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "relational database",
+        "meaning": "关系型数据库",
+        "examples": [
+          {
+            "sentence": "WeChat uses relational databases to store your chat history.",
+            "sentence_zh": "微信使用关系型数据库存储聊天记录。"
+          }
+        ]
+      }
+    ],
+    "teach": "database其实是数字时代的粮仓🏚️！古代用竹简记录数据📜（base），现代用服务器存数据💾（data）。吐槽'内存不足'说my brain is full like an unindexed database（像没索引的数据库一样脑子塞爆），'查资料'叫query the database就像在火锅店翻菜单🍲。记住：你的大脑就是个生物数据库！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得TA背时'→得TA背时(database)记错数据",
+        "对比记忆：dataset是数据集，database是管理系统"
+      ]
+    }
   }
 ]

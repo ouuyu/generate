@@ -6674,5 +6674,331 @@
         "联想记忆：vas+ec（谐音'挨刀'）+tomy（'切开'）"
       ]
     }
+  },
+  {
+    "word": "vasodilator",
+    "etymology": {
+      "breakdown": [
+        "vaso",
+        "dilat",
+        "or"
+      ],
+      "meaning_connection": "vaso=血管（拉丁语vas），dilat=扩张（来自dilate的变体），-or=施动者→让血管扩张的（物质或神经）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "血管扩张的",
+        "examples": [
+          {
+            "sentence": "The vasodilator effect of this herb was recorded in ancient Chinese medical texts.",
+            "sentence_zh": "这种草药的血管扩张效果在古代中医典籍中就有记载。"
+          },
+          {
+            "sentence": "Nitroglycerin is a classic vasodilator drug used in emergencies.",
+            "sentence_zh": "硝酸甘油是急救中使用的经典血管扩张药物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "血管扩张神经",
+        "examples": [
+          {
+            "sentence": "Scientists are mapping vasodilators in the autonomic nervous system.",
+            "sentence_zh": "科学家们正在绘制自主神经系统中的血管扩张神经图谱。"
+          },
+          {
+            "sentence": "Damage to vasodilators may cause chronic migraines.",
+            "sentence_zh": "血管扩张神经受损可能导致慢性偏头痛。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vasodilator nerve",
+        "meaning": "血管舒张神经",
+        "examples": [
+          {
+            "sentence": "The vasodilator nerves around temples are particularly sensitive to stress.",
+            "sentence_zh": "太阳穴附近的血管舒张神经对压力特别敏感。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vasodilator substance",
+        "meaning": "血管扩张物质",
+        "examples": [
+          {
+            "sentence": "Chili peppers contain natural vasodilator substances.",
+            "sentence_zh": "辣椒中含有天然的血管扩张物质。"
+          }
+        ]
+      }
+    ],
+    "teach": "vasodilator就像血管里的交通指挥员🚦！当它作形容词时，好比给血管做'马杀鸡'💆（vasodilator massage）；作名词时，像神经系统的'油门踏板'🚗（step on vasodilators）。'脸红心跳'本质就是vasodilators在工作💘！说'血管堵了'叫vasoconstriction，就像早高峰的北京三环🚧。记住：血管版'开闸泄洪'就是vasodilation！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哇塞得乐透'→血管哇塞(vaso)乐透(dilator)变通畅",
+        "易混词对比：vasoconstrictor（血管收缩剂）是它的死对头"
+      ]
+    }
+  },
+  {
+    "word": "vassal",
+    "etymology": {
+      "breakdown": [
+        "vas",
+        "al"
+      ],
+      "meaning_connection": "词根vas=仆人（源自凯尔特语），后缀-al表性质→原指仆人身份，后特指封建依附关系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "(封建时代的)封臣",
+        "examples": [
+          {
+            "sentence": "The vassal swore allegiance to his lord with a hand on the Bible.",
+            "sentence_zh": "封臣手按圣经向领主宣誓效忠。"
+          },
+          {
+            "sentence": "Game of Thrones depicts complex vassal-lord relationships vividly.",
+            "sentence_zh": "《权力的游戏》生动展现了复杂的封臣-领主关系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "奴仆",
+        "examples": [
+          {
+            "sentence": "The merchant treated his clerks like vassals in 19th century London.",
+            "sentence_zh": "19世纪伦敦的商人把职员当作奴仆对待。"
+          },
+          {
+            "sentence": "Modern corporations should not create digital vassals through excessive overtime.",
+            "sentence_zh": "现代企业不该通过过度加班制造数字奴工。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "臣属的",
+        "examples": [
+          {
+            "sentence": "The vassal state had to pay tribute in gold and silk annually.",
+            "sentence_zh": "这个臣属国每年需进贡黄金和丝绸。"
+          },
+          {
+            "sentence": "Her vassal attitude towards the celebrity shocked her friends.",
+            "sentence_zh": "她对那位明星的臣服态度让朋友们震惊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "奴仆的",
+        "examples": [
+          {
+            "sentence": "He spoke in a vassal tone when answering the CEO's questions.",
+            "sentence_zh": "他回答CEO问题时带着奴仆般的语气。"
+          },
+          {
+            "sentence": "The vassal service in some luxury hotels borders on humiliation.",
+            "sentence_zh": "某些奢华酒店的奴仆式服务近乎羞辱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vassal state",
+        "meaning": "附庸国",
+        "examples": [
+          {
+            "sentence": "Ancient China had many vassal states paying tributes.",
+            "sentence_zh": "古代中国有许多进贡的附庸国。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vassal contract",
+        "meaning": "封臣契约",
+        "examples": [
+          {
+            "sentence": "The vassal contract was sealed with a wax dragon emblem.",
+            "sentence_zh": "这份封臣契约用龙形蜡章封缄。"
+          }
+        ]
+      }
+    ],
+    "teach": "vassal是'中世纪打工人'🏰！封建领主用土地换效忠，就像现代用股权绑定员工💼。英语说'绝对服从'用vassal-like obedience，'卑微如仆'可说as humble as a vassal。趣闻：英国至今保留'兰开斯特公国'，女王在该领地法律身份仍是领主(overlord)👑！记忆三要素：跪地效忠🤝+土地契约📜+年度进贡💰",
+    "recite": {
+      "tips": [
+        "谐音梗：'哇塞'→看到领主封地时惊呼",
+        "易混对比：servant（普通仆人） vs vassal（有契约关系的封臣）",
+        "联想：V形鞠躬+ass（驴→劳役）+al（全部）→全部劳役的人"
+      ]
+    }
+  },
+  {
+    "word": "vast",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语vastus，表示'荒废的、巨大的'，16世纪进入英语后保留'巨大空间'的核心概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "巨大的（物理空间）",
+        "examples": [
+          {
+            "sentence": "The vast Gobi Desert makes camel the best taxi there.",
+            "sentence_zh": "广袤的戈壁沙漠让骆驼成为最佳出租车。"
+          },
+          {
+            "sentence": "Builders used drones to survey the vast construction site.",
+            "sentence_zh": "施工方用无人机勘察巨大的工地。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "大量的（抽象概念）",
+        "examples": [
+          {
+            "sentence": "TikTok's vast user database could fill 10 million USB drives.",
+            "sentence_zh": "抖音庞大的用户数据库能装满1000万个U盘。"
+          },
+          {
+            "sentence": "She gained vast experience selling spicy strips on Taobao.",
+            "sentence_zh": "她在淘宝卖辣条积累了海量经验。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vast majority",
+        "meaning": "绝大多数",
+        "examples": [
+          {
+            "sentence": "The vast majority of microplastics come from takeaway containers.",
+            "sentence_zh": "绝大多数微塑料来自外卖餐盒。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vast difference",
+        "meaning": "天壤之别",
+        "examples": [
+          {
+            "sentence": "There's a vast difference between real and AI-generated influencers.",
+            "sentence_zh": "真实网红和AI网红有云泥之别。"
+          }
+        ]
+      }
+    ],
+    "teach": "vast是宇宙级形容词🌌！想象把撒哈拉沙漠铺平（物理vast），或者把双11销售额换成硬币（抽象vast）。说'差距悬殊'用vast as Mars and Earth（火星地球之差）🚀🌍，'海量数据'说ocean of data更生动🌊。记住：当你说China's vast market时，老外会自动脑补14亿吃货的战斗力🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哇！寺塔'→看到vast的寺庙群惊呼",
+        "易混词：huge强调体积，vast侧重空间延伸",
+        "记忆法：VAST=Very Astronomical Space Territory（超天文级空间）"
+      ]
+    }
+  },
+  {
+    "word": "vastly",
+    "etymology": {
+      "breakdown": [
+        "vast",
+        "ly"
+      ],
+      "meaning_connection": "词根vast=广阔，-ly为副词后缀→表示'以广阔的方式'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "广大地",
+        "examples": [
+          {
+            "sentence": "The Gobi Desert spreads vastly across northern China.",
+            "sentence_zh": "戈壁沙漠广袤地延伸在中国北部。"
+          },
+          {
+            "sentence": "His knowledge extends vastly beyond the textbook.",
+            "sentence_zh": "他的知识广博地超出了课本范围。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "许多",
+        "examples": [
+          {
+            "sentence": "Pandas consume vastly more bamboo than their body weight daily.",
+            "sentence_zh": "大熊猫每天进食的竹叶数量远超自身体重。"
+          },
+          {
+            "sentence": "The new policy benefits vastly more rural students.",
+            "sentence_zh": "新政策使数量众多的农村学生受益。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "巨大",
+        "examples": [
+          {
+            "sentence": "The AI industry has grown vastly in the past five years.",
+            "sentence_zh": "人工智能产业在过去五年取得巨大发展。"
+          },
+          {
+            "sentence": "Her cooking skills improved vastly after watching Douyin tutorials.",
+            "sentence_zh": "看了抖音教程后，她的厨艺突飞猛进。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vastly different",
+        "meaning": "天差地别",
+        "examples": [
+          {
+            "sentence": "The taste of authentic Sichuan hotpot is vastly different from overseas versions.",
+            "sentence_zh": "正宗四川火锅与海外版本的味道天差地别。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vastly superior",
+        "meaning": "遥遥领先",
+        "examples": [
+          {
+            "sentence": "Huawei's 5G technology is vastly superior in rural coverage.",
+            "sentence_zh": "华为5G技术在乡村覆盖方面遥遥领先。"
+          }
+        ]
+      }
+    ],
+    "teach": "vastly就像宇宙膨胀🌌！从蒙古草原到淘宝双11成交额📈，凡是'大'到吓人的都用它。说'差距大'就像饺子与披萨的体型差异🥟🍕（vastly different），夸人进步快要说leaps and bounds（巨大飞跃）。记住：看到vastly就想象你在内蒙古飙车🚗💨，油门踩到底那种感觉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瓦斯力'→瓦斯爆炸威力巨大",
+        "易混词对比：vastly(程度) vs. vastly(范围)"
+      ]
+    }
   }
 ]

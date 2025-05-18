@@ -6424,5 +6424,343 @@
         "联想记忆：OB（对抗）+STREET（街道）+PER（每）+OUS（的）=每条街都在对抗噪音"
       ]
     }
+  },
+  {
+    "word": "obstruct",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "struct"
+      ],
+      "meaning_connection": "前缀ob-表示'对抗'，词根struct表示'建造'→原指建造障碍物对抗，引申出各种阻碍含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "阻隔",
+        "examples": [
+          {
+            "sentence": "The Great Wall was built to obstruct nomadic invasions.",
+            "sentence_zh": "长城是为阻隔游牧民族入侵而建。"
+          },
+          {
+            "sentence": "Fog obstructed the view of Oriental Pearl Tower.",
+            "sentence_zh": "大雾阻隔了东方明珠塔的视野。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "妨碍",
+        "examples": [
+          {
+            "sentence": "Don't obstruct firefighters during emergencies.",
+            "sentence_zh": "紧急情况时不要妨碍消防员工作。"
+          },
+          {
+            "sentence": "Illegal parking obstructs bicycle lane users.",
+            "sentence_zh": "违停车辆妨碍自行车道使用者通行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "阻塞",
+        "examples": [
+          {
+            "sentence": "A collapsed tree obstructed the subway entrance.",
+            "sentence_zh": "倒下的树木阻塞了地铁入口。"
+          },
+          {
+            "sentence": "Too many WeChat files obstruct phone storage.",
+            "sentence_zh": "过量微信文件会阻塞手机存储空间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "遮没",
+        "examples": [
+          {
+            "sentence": "The skyscraper obstructs our sunset view.",
+            "sentence_zh": "摩天大楼遮没了我们的落日景观。"
+          },
+          {
+            "sentence": "His hat obstructed my cinema screen.",
+            "sentence_zh": "他的帽子遮没了我看的电影屏幕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "设障碍",
+        "examples": [
+          {
+            "sentence": "Protesters obstructed by laying down on the road.",
+            "sentence_zh": "抗议者通过躺卧在马路上设障碍。"
+          },
+          {
+            "sentence": "The goalkeeper obstructed by spreading his arms wide.",
+            "sentence_zh": "守门员张开双臂设障碍防守。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obstruct justice",
+        "meaning": "妨碍司法",
+        "examples": [
+          {
+            "sentence": "Destroying evidence is a serious crime of obstructing justice.",
+            "sentence_zh": "销毁证据是严重的妨碍司法犯罪行为。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "obstruct the view",
+        "meaning": "遮挡视线",
+        "examples": [
+          {
+            "sentence": "Please don't hold umbrellas up during concerts as it obstructs others' view.",
+            "sentence_zh": "音乐会期间请勿高举雨伞以免遮挡他人视线。"
+          }
+        ]
+      }
+    ],
+    "teach": "obstruct就像交通锥筒🚧+太极拳☯️组合：物理上它是早高峰地铁限流栅栏（obstruct passage），法律上是离婚藏房产证的丈夫（obstruct justice），自然界是熊猫宝宝挡镜头的圆屁股（obstruct the view）🐼。说'故意添堵'可以用throw a wrench in the works🔧，记住：所有带ob-的词都自带对抗属性！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不死撞它'→设障碍(obstruct)就要硬刚",
+        "易混词：obstruct（人为阻碍）vs block（物理阻断）",
+        "记忆术：OB（欧巴）+STRUCT（结构）→欧巴用身体结构挡住你"
+      ]
+    }
+  },
+  {
+    "word": "obstructed",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "struct",
+        "ed"
+      ],
+      "meaning_connection": "前缀ob-表示'反对'，词根struct表示'建造'，后缀-ed表形容词→原指建筑障碍物阻挡，引申出'阻塞的'状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "阻塞的",
+        "examples": [
+          {
+            "sentence": "The obstructed drain caused bubble tea pearls to float in the street.",
+            "sentence_zh": "堵塞的下水道让奶茶珍珠漂满了整条街。"
+          },
+          {
+            "sentence": "An obstructed view at the concert made him watch through his phone screen.",
+            "sentence_zh": "演唱会视线被挡，他只能通过手机屏幕观看。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "梗阻的",
+        "examples": [
+          {
+            "sentence": "The doctor found obstructed blood vessels in the CT scan.",
+            "sentence_zh": "医生在CT扫描中发现血管梗阻。"
+          },
+          {
+            "sentence": "Eating too much hotpot may lead to obstructed intestines.",
+            "sentence_zh": "火锅吃太多可能导致肠梗阻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不通的",
+        "examples": [
+          {
+            "sentence": "The obstructed WeChat message showed a red exclamation mark.",
+            "sentence_zh": "未送达的微信消息显示红色感叹号。"
+          },
+          {
+            "sentence": "His obstructed nose made him sound like Doraemon.",
+            "sentence_zh": "不通气的鼻子让他说话像哆啦A梦。"
+          }
+        ]
+      }
+    ],
+    "teach": "obstructed是'堵王'👑！血管堵了叫obstructed vessels🚧，就像北京早高峰的东三环；消息发不出叫obstructed message📵，堪比在电梯里找信号；鼻子不通叫obstructed nose🤧，活像被捏住鼻子的唐老鸭。地道说法'堵成狗'可以说backed up like a traffic jam🐕🚗，记住：所有堵心事的终极形态都是obstructed！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不死追的'→追到堵车路口不死心",
+        "易混词对比：obstructed（被动阻塞） vs obstacle（障碍物名词）",
+        "记忆tip：ob+struct=反对建造→搞破坏导致堵塞"
+      ]
+    }
+  },
+  {
+    "word": "obstruction",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "struct",
+        "ion"
+      ],
+      "meaning_connection": "前缀ob-表示'反对/阻挡'，词根struct表示'建造'，后缀-ion表名词→'建造阻挡物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "障碍物",
+        "examples": [
+          {
+            "sentence": "The Great Wall was originally built as a military obstruction against nomads.",
+            "sentence_zh": "长城最初是作为抵御游牧民族的军事障碍而建。"
+          },
+          {
+            "sentence": "A fallen tree became an obstruction on the hiking trail after typhoon.",
+            "sentence_zh": "台风过后，倒下的树木成为徒步路线上的障碍物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "妨碍行为",
+        "examples": [
+          {
+            "sentence": "Throwing banana peels on soccer fields is considered obstruction.",
+            "sentence_zh": "在足球场扔香蕉皮被视为妨碍行为。"
+          },
+          {
+            "sentence": "The CEO was charged with obstruction of justice for deleting WeChat messages.",
+            "sentence_zh": "该CEO因删除微信消息被控妨碍司法公正。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "阻塞物",
+        "examples": [
+          {
+            "sentence": "The plumber found a Barbie doll causing obstruction in the pipe.",
+            "sentence_zh": "水管工发现管道阻塞物是个芭比娃娃。"
+          },
+          {
+            "sentence": "Hairballs are common obstructions in cats' digestive systems.",
+            "sentence_zh": "毛球是猫咪消化系统中常见的阻塞物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obstruction of justice",
+        "meaning": "妨碍司法",
+        "examples": [
+          {
+            "sentence": "The celebrity's live-streaming confession actually caused obstruction of justice.",
+            "sentence_zh": "该明星的直播坦白实际上构成了妨碍司法。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "intestinal obstruction",
+        "meaning": "肠梗阻",
+        "examples": [
+          {
+            "sentence": "Eating too many stinky tofu may lead to intestinal obstruction.",
+            "sentence_zh": "过量食用臭豆腐可能导致肠梗阻。"
+          }
+        ]
+      }
+    ],
+    "teach": "obstruction就像人生路上的共享单车乱停放🚲！古罗马用'ob-'前缀+struct(建筑)造出这个词，就像用砖头堵门🧱。说'故意妨碍'可以用throw a monkey wrench（扔猴子扳手🔧），'清除障碍'叫remove obstacles就像清理单车。记住：所有拦路虎都是obstruction，包括你妈查你手机📱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不死戳神'→我不死但戳到神(ob-struct-ion)成了障碍",
+        "易混词对比：obstacle(天然障碍) vs obstruction(人为阻碍)",
+        "记忆口诀：ob反对+struct结构=反对建造的东西"
+      ]
+    }
+  },
+  {
+    "word": "obstructionism",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "struct",
+        "ion",
+        "ism"
+      ],
+      "meaning_connection": "前缀ob-表示'对抗'，词根struct表示'建造'，-ion表名词，-ism表主义→原指建筑障碍物，引申为'蓄意阻挠的主义'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "妨碍议程的手段",
+        "examples": [
+          {
+            "sentence": "The senator's obstructionism delayed the vote for three weeks.",
+            "sentence_zh": "参议员的阻挠手段使投票延迟了三周。"
+          },
+          {
+            "sentence": "Using 200 amendments is classic obstructionism in parliament.",
+            "sentence_zh": "提出200条修正案是议会经典的议程妨碍手段。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蓄意阻挠",
+        "examples": [
+          {
+            "sentence": "The union accused management of obstructionism in negotiations.",
+            "sentence_zh": "工会指责资方在谈判中蓄意阻挠。"
+          },
+          {
+            "sentence": "Her obstructionism took the form of constantly asking for more data.",
+            "sentence_zh": "她的蓄意阻挠表现为不断索要更多数据。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political obstructionism",
+        "meaning": "政治阻挠",
+        "examples": [
+          {
+            "sentence": "The filibuster is a tool of political obstructionism in the US.",
+            "sentence_zh": "冗长辩论是美国政治阻挠的工具。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bureaucratic obstructionism",
+        "meaning": "官僚主义阻挠",
+        "examples": [
+          {
+            "sentence": "Startups often face bureaucratic obstructionism when applying for licenses.",
+            "sentence_zh": "初创公司在申请执照时常遭遇官僚主义阻挠。"
+          }
+        ]
+      }
+    ],
+    "teach": "obstructionism就像打麻将时疯狂碰牌却不和牌🀄️——纯属搅局！这个词诞生于19世纪美国国会，当时政客们用'马拉松演讲'（filibuster）当人肉路障🛑。要说'故意拖后腿'可以叫foot-dragging（脚底抹油），'官僚踢皮球'是pass the buck💼。记住：-ism结尾的词常是'主义'，但这个是'捣蛋主义'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不死戳神'→坚持阻挠到底",
+        "易混词对比：obstruction（单次阻碍） vs obstructionism（系统性阻挠）",
+        "记忆口诀：ob（反对）+struct（建造）= 反对建设就是阻挠"
+      ]
+    }
   }
 ]

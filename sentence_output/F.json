@@ -7005,5 +7005,341 @@
         "易混词：modify（修改）是中性词，falsify带恶意"
       ]
     }
+  },
+  {
+    "word": "falsity",
+    "etymology": {
+      "breakdown": [
+        "fal",
+        "sity"
+      ],
+      "meaning_connection": "词根fal=欺骗（同false），-ity表性质→欺骗的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "虚伪",
+        "examples": [
+          {
+            "sentence": "His smile was a mask of falsity that fooled no one.",
+            "sentence_zh": "他的微笑是虚伪的面具，骗不了任何人。"
+          },
+          {
+            "sentence": "The influencer's falsity was exposed when her 'natural' photos were proven to be heavily edited.",
+            "sentence_zh": "当这位网红的'自然'照片被证实经过重度修图后，她的虚伪暴露无遗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "错误",
+        "examples": [
+          {
+            "sentence": "Ancient maps often contained geographical falsities due to limited exploration.",
+            "sentence_zh": "古代地图由于探索有限常包含地理错误。"
+          },
+          {
+            "sentence": "The textbook had to be recalled because of scientific falsities about dinosaur feathers.",
+            "sentence_zh": "这本教科书因有关恐龙羽毛的科学错误而被召回。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不忠实",
+        "examples": [
+          {
+            "sentence": "The falsity of his promises became clear when he missed his daughter's graduation.",
+            "sentence_zh": "当他错过女儿毕业典礼时，他的承诺不忠实质显露无遗。"
+          },
+          {
+            "sentence": "Historical records reveal the falsity of the minister's loyalty to the emperor.",
+            "sentence_zh": "历史记载揭示了这位大臣对皇帝不忠实的真相。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "谎言",
+        "examples": [
+          {
+            "sentence": "The politician's speech was full of falsities wrapped in patriotic rhetoric.",
+            "sentence_zh": "这位政客的演讲充满包裹在爱国辞令中的谎言。"
+          },
+          {
+            "sentence": "She could spot the falsity in his alibi immediately.",
+            "sentence_zh": "她立刻识破了他不在场证明中的谎言。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "prove the falsity",
+        "meaning": "证明虚假",
+        "examples": [
+          {
+            "sentence": "The viral rumor was finally proved the falsity by fact-checkers.",
+            "sentence_zh": "这个病毒式传播的谣言最终被事实核查员证明是虚假的。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "falsity of heart",
+        "meaning": "虚情假意",
+        "examples": [
+          {
+            "sentence": "The emperor saw through the falsity of heart in his advisors' flattery.",
+            "sentence_zh": "皇帝看穿了谋士们奉承中的虚情假意。"
+          }
+        ]
+      }
+    ],
+    "teach": "falsity就像洋葱🧅，层层剥开都是假：1) 词源上来自古罗马测谎仪式⚖️，证人要舔铁块，说真话唾液正常，说谎会口干舌燥（所以false和falter同源）；2) 视觉记忆：把false尾巴翘起来变成falsity，就像狐狸露出假尾巴🦊；3) 实用搭配：blatant falsity（厚颜无耻的谎言）、sugar-coated falsity（糖衣谎言）；4) 地道说法：'假到离谱'用whopping falsity（像打喷嚏一样明显的假）🤥；5) 记住：所有falsity最终都会像泡面广告里的牛肉——消失不见！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛say题'→佛祖说这是假命题",
+        "易混词：false（adj.假的）vs falsify（v.伪造）",
+        "记忆tip：把'sity'想成'city'→虚假之城"
+      ]
+    }
+  },
+  {
+    "word": "falter",
+    "etymology": {
+      "breakdown": [
+        "falt",
+        "er"
+      ],
+      "meaning_connection": "古英语'falt'表示'摇晃'，-er表反复动作→原指不稳定的摇摆状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "支吾地说",
+        "examples": [
+          {
+            "sentence": "The politician faltered 'I... uh...' when asked about the scandal.",
+            "sentence_zh": "当被问及丑闻时，政客支吾着说'我...呃...'。"
+          },
+          {
+            "sentence": "She faltered her apology while clutching her bubble tea nervously.",
+            "sentence_zh": "她紧握奶茶紧张地支吾出道歉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "支吾",
+        "examples": [
+          {
+            "sentence": "His voice faltered like a buffering video when confessing.",
+            "sentence_zh": "他表白时声音支吾得像卡顿的视频。"
+          },
+          {
+            "sentence": "The live-streamer's explanation faltered under viewers' questions.",
+            "sentence_zh": "主播的解释在观众提问下开始支吾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "蹒跚地走",
+        "examples": [
+          {
+            "sentence": "The panda mascot faltered after wearing the heavy costume for 5 hours.",
+            "sentence_zh": "穿了5小时沉重玩偶服后，熊猫吉祥物走路开始蹒跚。"
+          },
+          {
+            "sentence": "Tourists faltered up the Great Wall with sore legs.",
+            "sentence_zh": "游客们腿酸得在长城上蹒跚而行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "颤抖",
+        "examples": [
+          {
+            "sentence": "There was a noticeable falter in the singer's high note.",
+            "sentence_zh": "歌手的高音处有明显颤抖。"
+          },
+          {
+            "sentence": "The falter of chopsticks revealed his first-date nervousness.",
+            "sentence_zh": "颤抖的筷子暴露了他初次约会的紧张。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "without falter",
+        "meaning": "坚定不移地",
+        "examples": [
+          {
+            "sentence": "She recited the ancient poem without falter.",
+            "sentence_zh": "她一字不差地背出了古诗。"
+          }
+        ]
+      }
+    ],
+    "teach": "falter是社恐人士的标配单词🙊！当你说不出'我爱你'时就像卡带的录音机📼（falter speech），当你在重庆爬坡时像醉酒的大熊猫🐼（falter walk）。搭配'声音颤抖'说voice falters就像5G变2G，地道表达'怂了'可说get cold feet❄️。记住：颤抖的语音消息+凌乱的步伐=falter三件套！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛特'→佛祖特别(falter)结巴",
+        "易混词：stammer是纯口吃，falter含犹豫感",
+        "联想：FAL+TER→发(T)抖的阿尔(FAL)在特(TER)别场合"
+      ]
+    }
+  },
+  {
+    "word": "faltering",
+    "etymology": {
+      "breakdown": [
+        "falter",
+        "ing"
+      ],
+      "meaning_connection": "源自古英语'fealtrian'表示绊倒，-ing构成现在分词/形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "犹豫的",
+        "examples": [
+          {
+            "sentence": "His faltering voice revealed his nervousness during the blind date.",
+            "sentence_zh": "相亲时他支吾的声音暴露了紧张。"
+          },
+          {
+            "sentence": "The faltering decision-making caused them to miss the hot stock.",
+            "sentence_zh": "犹豫不决的决策让他们错过了暴涨股票。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "蹒跚的",
+        "examples": [
+          {
+            "sentence": "The faltering toddler looked like a drunken little panda.",
+            "sentence_zh": "蹒跚学步的幼儿像只醉酒的小熊猫。"
+          },
+          {
+            "sentence": "Faltering steps on icy roads require hot pot for recovery.",
+            "sentence_zh": "冰面上踉跄的步伐需要火锅治愈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "支吾的",
+        "examples": [
+          {
+            "sentence": "His faltering excuse sounded like a buffering video.",
+            "sentence_zh": "他支支吾吾的借口像卡顿的视频。"
+          },
+          {
+            "sentence": "The faltering confession was cuter than a stuttering puppy.",
+            "sentence_zh": "结结巴巴的告白比口吃的小狗还可爱。"
+          }
+        ]
+      }
+    ],
+    "teach": "faltering是'人生卡顿时刻'⏸️：既像第一次约会的手足无措💘，又像双十一抢购时的网页崩溃💻，还像试图用方言点奶茶的外地人🥤。搭配'faltering steps'(魔鬼步伐)和'faltering economy'(经济过山车🎢)，说'怂了'可以用got cold feet🦶。记住：所有faltering终将被火锅治愈！🍲",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛特ring'→佛祖特赐的戒指让人犹豫要不要戴",
+        "易混词：stuttering（口吃）VS faltering（犹豫）"
+      ]
+    }
+  },
+  {
+    "word": "fame",
+    "etymology": {
+      "breakdown": [
+        "fa",
+        "me"
+      ],
+      "meaning_connection": "词根fa=说（同fable/寓言），-me表结果→'被众人传说的结果'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "名望",
+        "examples": [
+          {
+            "sentence": "The scientist achieved fame for discovering a new tea-preservation method.",
+            "sentence_zh": "这位科学家因发现新的茶叶保鲜法获得名望。"
+          },
+          {
+            "sentence": "Her TikTok fame grew overnight after her panda-cooking video went viral.",
+            "sentence_zh": "她的熊猫做饭视频走红后，抖音名望一夜暴涨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "名声",
+        "examples": [
+          {
+            "sentence": "The restaurant's fame for spicy hotpot attracts tourists globally.",
+            "sentence_zh": "这家餐厅的麻辣火锅名声吸引了全球游客。"
+          },
+          {
+            "sentence": "Bad fame spread when the celebrity was caught eating durian in subway.",
+            "sentence_zh": "当这位明星被拍到在地铁吃榴莲时，坏名声传开了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "传说",
+        "examples": [
+          {
+            "sentence": "The fame of the Great Wall being visible from the moon is actually a myth.",
+            "sentence_zh": "长城能从月球上看到的传说其实是个谬误。"
+          },
+          {
+            "sentence": "Local fames about the healing power of this spring water persist for centuries.",
+            "sentence_zh": "关于这处泉水治愈功效的传说已流传数世纪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rise to fame",
+        "meaning": "成名",
+        "examples": [
+          {
+            "sentence": "The spicy crayfish chef rose to fame through food bloggers' reviews.",
+            "sentence_zh": "这位麻辣小龙虾厨师通过美食博主的点评成名。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fade into fame",
+        "meaning": "淡出名声",
+        "examples": [
+          {
+            "sentence": "Many child stars fade into fame after changing careers to livestreaming.",
+            "sentence_zh": "许多童星转行直播后逐渐淡出名声。"
+          }
+        ]
+      }
+    ],
+    "teach": "fame就像火锅的香气🥘！古罗马人认为名声(fama)是长了翅膀的女神👼，会到处传播消息（所以词根fa=说）。说'一夜爆红'叫shoot to fame像火箭🚀，'过气明星'用has-been就像凉掉的麻辣烫🌶️。记住：好fame是老火靓汤，坏fame是臭豆腐——香臭自知！",
+    "recite": {
+      "tips": [
+        "谐音梗：'费墨'→古人用很多墨水(fame)记载名声",
+        "易混词：fame（名声）/ flame（火焰）→ 名声如火易熄灭",
+        "记忆tip：名望三要素=被说(fa)的多(me)+时间检验"
+      ]
+    }
   }
 ]

@@ -6593,5 +6593,343 @@
         "联想记忆：absent（缺席）+ mind（头脑）= 头脑旷工"
       ]
     }
+  },
+  {
+    "word": "absolute",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "sol",
+        "ute"
+      ],
+      "meaning_connection": "前缀ab-表示'脱离'，词根sol表示'松开'，-ute为形容词后缀→原指'不受束缚的状态'，引申出多种极端含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "绝对的",
+        "examples": [
+          {
+            "sentence": "The Forbidden City represents absolute imperial power in ancient China.",
+            "sentence_zh": "紫禁城象征着古代中国绝对的皇权。"
+          },
+          {
+            "sentence": "TikTok algorithms require absolute precision in content recommendation.",
+            "sentence_zh": "抖音算法需要内容推荐的绝对精确。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "专制的",
+        "examples": [
+          {
+            "sentence": "The CEO's absolute control over the company led to its downfall.",
+            "sentence_zh": "CEO对公司的专制控制导致了其衰落。"
+          },
+          {
+            "sentence": "Absolute rulers often build grandiose palaces like Versailles.",
+            "sentence_zh": "专制统治者常建造凡尔赛宫般的宏伟宫殿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "完全的",
+        "examples": [
+          {
+            "sentence": "After three nights of overtime, she was in absolute exhaustion.",
+            "sentence_zh": "连续三晚加班后，她处于完全精疲力尽的状态。"
+          },
+          {
+            "sentence": "The concert created absolute chaos at the subway station.",
+            "sentence_zh": "演唱会给地铁站造成了完全的混乱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "独立的",
+        "examples": [
+          {
+            "sentence": "Hong Kong maintains absolute autonomy in currency issuance.",
+            "sentence_zh": "香港在货币发行上保持独立自主权。"
+          },
+          {
+            "sentence": "This research institute has absolute academic freedom.",
+            "sentence_zh": "该研究所拥有独立的学术自由。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绝对事物",
+        "examples": [
+          {
+            "sentence": "In philosophy, the pursuit of the absolute is eternal.",
+            "sentence_zh": "在哲学中，对绝对事物的追求是永恒的。"
+          },
+          {
+            "sentence": "Einstein believed even time isn't an absolute.",
+            "sentence_zh": "爱因斯坦认为连时间都不是绝对事物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "absolute power",
+        "meaning": "绝对权力",
+        "examples": [
+          {
+            "sentence": "The Ming Dynasty emperors held absolute power through the secret police.",
+            "sentence_zh": "明朝皇帝通过锦衣卫掌握绝对权力。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "absolute zero",
+        "meaning": "绝对零度",
+        "examples": [
+          {
+            "sentence": "Quantum computers operate at temperatures near absolute zero.",
+            "sentence_zh": "量子计算机在接近绝对零度的温度下运行。"
+          }
+        ]
+      }
+    ],
+    "teach": "absolute是宇宙级霸道总裁💼！物理学里有绝对零度❄️（-273.15℃），哲学里有绝对真理🔭，奶茶店有'绝对甜度'🍭（其实糖分超标）。搭配'absolute authority'像秦始皇统一度量衡⚖️，说'绝对不行'用absolutely not像交警开罚单🚨。记住：当你说absolute时，就像在发'圣旨'📜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不收了'→爱到绝对程度就收不住",
+        "易混词对比：absolute（绝对的） vs obsolete（过时的）→绝对≠过期"
+      ]
+    }
+  },
+  {
+    "word": "absolutely",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "sol",
+        "ute",
+        "ly"
+      ],
+      "meaning_connection": "前缀ab-表示'脱离'，词根sol表示'解开'，-ute为形容词后缀，-ly副词后缀→原义'完全解开的'，引申为'绝对地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "完全地",
+        "examples": [
+          {
+            "sentence": "The AI-generated artwork is absolutely indistinguishable from human creations.",
+            "sentence_zh": "这幅AI生成的艺术作品与人类创作完全无法区分。"
+          },
+          {
+            "sentence": "After the typhoon, the beach was absolutely clean with zero litter.",
+            "sentence_zh": "台风过后，海滩干净得完全看不到垃圾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "绝对地",
+        "examples": [
+          {
+            "sentence": "You're absolutely the best dumpling maker in our village!",
+            "sentence_zh": "你绝对是咱们村包饺子最好吃的人！"
+          },
+          {
+            "sentence": "It's absolutely forbidden to use smartphones during military training.",
+            "sentence_zh": "军训期间绝对禁止使用智能手机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "确确实实地",
+        "examples": [
+          {
+            "sentence": "The viral hotpot restaurant absolutely deserves its five-star rating.",
+            "sentence_zh": "这家网红火锅店确确实实配得上五星评分。"
+          },
+          {
+            "sentence": "I absolutely saw a panda-shaped cloud yesterday afternoon!",
+            "sentence_zh": "我昨天下午确确实实看到了熊猫形状的云朵！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "absolutely not",
+        "meaning": "绝对不行",
+        "examples": [
+          {
+            "sentence": "Can I pay with WeChat? Absolutely not! This is 1980s theme cafe!",
+            "sentence_zh": "能用微信支付吗？绝对不行！这可是80年代主题咖啡馆！"
+          }
+        ]
+      }
+    ],
+    "teach": "absolutely是英语里的'绝对领域'💥！英国女王每次说'Absolutely!'都像在盖皇家认证章👑。搭配'absolutely delicious'夸美食比'very good'强100倍🍲，'absolutely stunning'夸人美到窒息💘。东北话版叫'杠杠滴'，emoji三件套：💯(绝对)+✨(彻底)+🤯(震惊)",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不释手理'→爱到绝对不放手",
+        "易混词对比：absolutely(主观绝对) vs. completely(客观完全)"
+      ]
+    }
+  },
+  {
+    "word": "absolution",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "solut",
+        "ion"
+      ],
+      "meaning_connection": "前缀ab-表示'远离'，词根solut来自solvere（解开），-ion是名词后缀→字面意义'解开束缚'，引申为赦免"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "免罪",
+        "examples": [
+          {
+            "sentence": "The priest granted absolution after hearing his confession about stealing baozi.",
+            "sentence_zh": "神父听闻他偷包子的忏悔后给予免罪。"
+          },
+          {
+            "sentence": "In wuxia novels, absolution often comes with drinking three jars of wine.",
+            "sentence_zh": "武侠小说里，免罪常要喝下三坛酒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赦免",
+        "examples": [
+          {
+            "sentence": "The emperor's absolution turned the prisoner into a Peking Opera performer.",
+            "sentence_zh": "皇帝的赦免让囚犯变成了京剧演员。"
+          },
+          {
+            "sentence": "During Spring Festival, children receive absolution for breaking dishes.",
+            "sentence_zh": "春节期间，孩子们打碎碗碟会得到赦免。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "免除",
+        "examples": [
+          {
+            "sentence": "The absolution of homework made students cheer like winning the lottery.",
+            "sentence_zh": "作业的免除让学生们像中奖般欢呼。"
+          },
+          {
+            "sentence": "With doctor's note, he got absolution from spicy hotpot diet.",
+            "sentence_zh": "凭着医生证明，他获得免除麻辣火锅饮食的特权。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "grant absolution",
+        "meaning": "给予赦免",
+        "examples": [
+          {
+            "sentence": "The judge granted absolution after seeing the defendant's perfect douyin dance.",
+            "sentence_zh": "法官看到被告完美的抖音舞蹈后给予赦免。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "seek absolution",
+        "meaning": "寻求宽恕",
+        "examples": [
+          {
+            "sentence": "He burnt joss sticks to seek absolution for eating his roommate's durian.",
+            "sentence_zh": "他烧香拜佛寻求宽恕偷吃室友榴莲的罪过。"
+          }
+        ]
+      }
+    ],
+    "teach": "absolution是'免罪金牌'🏅！中世纪用钱买赎罪券就是商业版absolution💸，现代版像是领导说'下不为例'的免责声明📜。搭配'grant absolution'像发免死金牌，'seek absolution'像写检讨书。说'被原谅'可以讲'off the hook'（像鱼脱钩🎣）。记住：absolution就是灵魂的'清空回收站'🗑️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不收了'→爱(ab)不收了(solution)你的罪",
+        "易混词：solution（解决方案）少了ab就变不成赦免",
+        "记忆法：想象AB型血(SOLUTION)的人获得免抽血特权"
+      ]
+    }
+  },
+  {
+    "word": "absolutism",
+    "etymology": {
+      "breakdown": [
+        "absolute",
+        "ism"
+      ],
+      "meaning_connection": "absolute(绝对的) + -ism(主义)→极端强调绝对权力的政治理论"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "专制主义",
+        "examples": [
+          {
+            "sentence": "The Qing Dynasty's absolutism was reflected in the emperor's 'I am the state' declaration.",
+            "sentence_zh": "清朝的专制主义体现在皇帝'朕即国家'的宣言中。"
+          },
+          {
+            "sentence": "French absolutism reached its peak with Louis XIV's Versailles palace.",
+            "sentence_zh": "法国的专制主义随着路易十四的凡尔赛宫达到顶峰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "专制政体论",
+        "examples": [
+          {
+            "sentence": "Hobbes' Leviathan is often seen as a defense of political absolutism.",
+            "sentence_zh": "霍布斯的《利维坦》常被视为对政治专制政体论的辩护。"
+          },
+          {
+            "sentence": "The debate between absolutism and constitutionalism shaped modern Europe.",
+            "sentence_zh": "专制政体论与宪政主义的争论塑造了现代欧洲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绝对主义",
+        "examples": [
+          {
+            "sentence": "Moral absolutism doesn't allow for gray areas in ethical decisions.",
+            "sentence_zh": "道德绝对主义不允许伦理决策中存在灰色地带。"
+          },
+          {
+            "sentence": "His artistic absolutism rejected all commercial considerations.",
+            "sentence_zh": "他的艺术绝对主义排斥所有商业考量。"
+          }
+        ]
+      }
+    ],
+    "teach": "absolutism就是'朕即WiFi'👑！就像古代皇帝掌握所有密码（绝对权力），连妃嫔发朋友圈都要审批📜。搭配说'royal absolutism'（君主专制）像火锅店垄断辣椒供应🌶️，而'moral absolutism'（道德绝对主义）像强迫所有人香菜必须涮3秒⏱️。吐槽专制可以说'one-man show'（独角戏），记住这三个emoji密码：👑⚖️🚫",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不守礼ISM'→不讲道理的主义",
+        "易混词：authoritarianism(威权主义)程度较轻"
+      ]
+    }
   }
 ]

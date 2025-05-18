@@ -6613,5 +6613,312 @@
         "易混词对比：ilk vs. kin（前者强调类别相似，后者强调血缘关系）"
       ]
     }
+  },
+  {
+    "word": "ill",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语illr（坏的），与evil同源，最初表示道德上的败坏，后引申出健康和社会层面的负面含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "疾病",
+        "examples": [
+          {
+            "sentence": "The panda recovered quickly from its mysterious ill.",
+            "sentence_zh": "这只熊猫从神秘疾病中迅速康复。"
+          },
+          {
+            "sentence": "Traditional Chinese medicine treats ill with herbal remedies.",
+            "sentence_zh": "中医用草药治疗疾病。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "坏事",
+        "examples": [
+          {
+            "sentence": "The villagers believed the landslide was caused by supernatural ills.",
+            "sentence_zh": "村民们认为山体滑坡是超自然的坏事导致的。"
+          },
+          {
+            "sentence": "Modern technology can't solve all social ills.",
+            "sentence_zh": "现代技术无法解决所有社会弊病。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "生病的",
+        "examples": [
+          {
+            "sentence": "The ill kitten sneezed five times in a row.",
+            "sentence_zh": "生病的小猫一连打了五个喷嚏。"
+          },
+          {
+            "sentence": "He took sick leave because he felt ill after eating stinky tofu.",
+            "sentence_zh": "他因吃完臭豆腐后感到不适而请了病假。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "邪恶的",
+        "examples": [
+          {
+            "sentence": "The ill intentions behind the scam were finally exposed.",
+            "sentence_zh": "骗局背后的邪恶意图最终被揭露。"
+          },
+          {
+            "sentence": "Dragons in Western stories often represent ill forces.",
+            "sentence_zh": "西方故事中的龙常代表邪恶势力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有害地",
+        "examples": [
+          {
+            "sentence": "The chemical reacts ill with plastic containers.",
+            "sentence_zh": "该化学品与塑料容器接触会产生有害反应。"
+          },
+          {
+            "sentence": "Gossiping ill affects team morale.",
+            "sentence_zh": "说闲话会损害团队士气。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ill at ease",
+        "meaning": "不自在",
+        "examples": [
+          {
+            "sentence": "Freshmen often feel ill at ease during orientation week.",
+            "sentence_zh": "新生在迎新周常感到不自在。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "speak ill of",
+        "meaning": "说坏话",
+        "examples": [
+          {
+            "sentence": "It's bad manners to speak ill of others behind their backs.",
+            "sentence_zh": "背后说人坏话是没教养的表现。"
+          }
+        ]
+      }
+    ],
+    "teach": "ill这个词就像中药房的百子柜🌿！当表示'生病'时像感冒冲剂🤧（fall ill）；表示'邪恶'时像武侠剧里的毒药☠️（ill deeds）；作名词时像装了各种社会病的集装箱📦（social ills）。地道说法：'病恹恹'叫under the weather，'祸不单行'是ills never come singly。记住：ill的三副面孔→身体病/道德病/运气病！",
+    "recite": {
+      "tips": [
+        "谐音梗：'医噢'→生病就要看医生（ill）",
+        "易混词：sick（更口语化）/ill（更正式）",
+        "记忆tip：ill字母倒过来是'li'→'离'开健康状态"
+      ]
+    }
+  },
+  {
+    "word": "illegal",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "leg",
+        "al"
+      ],
+      "meaning_connection": "前缀il-表示'否定'，词根leg表示'法律'，后缀-al表性质→'不合法的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "违法的",
+        "examples": [
+          {
+            "sentence": "Parking on the sidewalk is illegal in most cities.",
+            "sentence_zh": "在大多数城市，人行道上停车是违法的。"
+          },
+          {
+            "sentence": "Downloading pirated movies is like stealing digital candy - sweet but illegal.",
+            "sentence_zh": "下载盗版电影就像偷数字糖果——甜蜜但违法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不合规定的",
+        "examples": [
+          {
+            "sentence": "Using a VPN to bypass school Wi-Fi restrictions is technically illegal.",
+            "sentence_zh": "用VPN绕过校园网限制在技术上不合规定。"
+          },
+          {
+            "sentence": "That 'creative' tax deduction was ruled illegal by the audit.",
+            "sentence_zh": "那次'创意'减税被审计判定为不合规定。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "illegal immigrant",
+        "meaning": "非法移民",
+        "examples": [
+          {
+            "sentence": "The documentary explored the struggles of illegal immigrants.",
+            "sentence_zh": "这部纪录片探讨了非法移民的困境。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "illegal parking",
+        "meaning": "违章停车",
+        "examples": [
+          {
+            "sentence": "My bike got towed due to illegal parking near the subway.",
+            "sentence_zh": "我的自行车因在地铁口违章停放被拖走了。"
+          }
+        ]
+      }
+    ],
+    "teach": "illegal其实是'法外狂徒'的官方认证🏷️！词根leg来自拉丁语lex（法律），加上否定前缀il-就像给法律条款打❌。老外说'That's not cricket'（这不板球）表示违规，就像我们说'这不讲武德'🤺。记住：illegal activity比breaking rules更严重，就像无证驾驶和忘系安全带的区别🚓！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一雷勾'→一雷勾(illegal)动天地，违法遭雷劈⚡",
+        "易混词对比：illegible（字迹难辨的）和illegal发音相似但意思不同"
+      ]
+    }
+  },
+  {
+    "word": "illegality",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "leg",
+        "al",
+        "ity"
+      ],
+      "meaning_connection": "前缀il-表否定，词根leg=法律，-al形容词后缀，-ity名词后缀→'不合法'的行为或状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "非法行为",
+        "examples": [
+          {
+            "sentence": "Parking on double yellow lines is an illegality punishable by a fine.",
+            "sentence_zh": "在双黄线上停车是可被罚款的非法行为。"
+          },
+          {
+            "sentence": "The CEO turned a blind eye to accounting illegalities in the company.",
+            "sentence_zh": "CEO对公司里的会计违规行为视而不见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "犯规",
+        "examples": [
+          {
+            "sentence": "The footballer's elbow strike was ruled an illegality by the referee.",
+            "sentence_zh": "裁判判定该足球运动员的肘击动作属于犯规。"
+          },
+          {
+            "sentence": "In chess, moving two pieces simultaneously is considered an illegality.",
+            "sentence_zh": "在国际象棋中，同时移动两枚棋子被视为犯规。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "technical illegality",
+        "meaning": "技术性违规",
+        "examples": [
+          {
+            "sentence": "The cyclist was disqualified for a technical illegality in his bike's gear ratio.",
+            "sentence_zh": "该自行车手因车辆齿轮比的技术性违规被取消资格。"
+          }
+        ]
+      }
+    ],
+    "teach": "illegality是法律界的'红灯区'🚨！词根leg就是'法律'（像legal合法），加个否定前缀il-秒变'法外狂徒'😈。说'游走法律边缘'叫skirt the law（像穿短裙擦边），'明显违法'叫blatant illegality就像深夜酒驾还开远光灯💡。记住：-ity结尾多是抽象名词，像reality（现实）和stupidity（愚蠢）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一雷劈你踢'→违法遭雷劈⚡",
+        "易混词对比：illegality（违法事实） vs illegalness（违法性质）",
+        "记忆tip：ILL+LEGAL=生病的(il)法律(legal)状态"
+      ]
+    }
+  },
+  {
+    "word": "illegally",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "legal",
+        "ly"
+      ],
+      "meaning_connection": "前缀il-表示否定（同in-），词根legal=法律，后缀-ly表副词→'不合法地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非法地",
+        "examples": [
+          {
+            "sentence": "The smuggled durians were illegally imported without quarantine.",
+            "sentence_zh": "这些走私榴莲未经检疫非法入境。"
+          },
+          {
+            "sentence": "Parking illegally in bike lanes is a daily battle in megacities.",
+            "sentence_zh": "在自行车道非法停车是特大城市的日常矛盾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "违法地",
+        "examples": [
+          {
+            "sentence": "Streaming movies illegally may lead to copyright lawsuits.",
+            "sentence_zh": "违法盗播电影可能引发版权诉讼。"
+          },
+          {
+            "sentence": "He was fined for illegally modifying his electric scooter.",
+            "sentence_zh": "他因违法改装电动滑板车被罚款。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "illegally obtained",
+        "meaning": "非法获取的",
+        "examples": [
+          {
+            "sentence": "The court rejected evidence that was illegally obtained.",
+            "sentence_zh": "法院排除了非法获取的证据。"
+          }
+        ]
+      }
+    ],
+    "teach": "illegally就像法律界的红牌🚨！它来自'legal'的反面装扮（il-+legal+ly），就像把警服反过来穿变成囚服👮↔️👖。当你说'下载美剧'用illegally downloaded，就像在说'这是用海盗湾VPN偷运来的'🏴‍☠️。实用搭配：illegally parked（违停）/ illegally copied（盗版）。地道表达：'打法律擦边球'叫bend the law🦴",
+    "recite": {
+      "tips": [
+        "谐音梗：'一雷劈雷'→违法遭雷劈",
+        "易混词对比：illegal（adj.）是形容词，illegally（adv.）是副词"
+      ]
+    }
   }
 ]

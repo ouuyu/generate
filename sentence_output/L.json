@@ -6888,5 +6888,317 @@
         "易混词：landlord（房东）只管房子，landowner拥有土地"
       ]
     }
+  },
+  {
+    "word": "landscape",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "scape"
+      ],
+      "meaning_connection": "land=土地，scape=状态/景象→字面意思是'土地呈现的样子'，16世纪从荷兰语landschap引入英语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "风景",
+        "examples": [
+          {
+            "sentence": "The karst landscape in Guilin looks like giant broccoli.",
+            "sentence_zh": "桂林的喀斯特地貌像巨型西兰花。"
+          },
+          {
+            "sentence": "Her phone wallpaper is a landscape of lavender fields.",
+            "sentence_zh": "她的手机壁纸是薰衣草田风景。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "山水画",
+        "examples": [
+          {
+            "sentence": "This Song Dynasty landscape is sold for 50 million RMB.",
+            "sentence_zh": "这幅宋代山水画以五千万人民币成交。"
+          },
+          {
+            "sentence": "He practices Chinese landscape painting with VR glasses.",
+            "sentence_zh": "他戴着VR眼镜练习中国山水画。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "从事景观美化",
+        "examples": [
+          {
+            "sentence": "She landscapes for luxury hotels using sustainable plants.",
+            "sentence_zh": "她用可持续植物为豪华酒店做景观设计。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "美化景观",
+        "examples": [
+          {
+            "sentence": "They landscaped the rooftop with mini rice terraces.",
+            "sentence_zh": "他们在屋顶用迷你梯田美化景观。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cultural landscape",
+        "meaning": "文化景观",
+        "examples": [
+          {
+            "sentence": "The Great Wall is both a military and cultural landscape.",
+            "sentence_zh": "长城既是军事景观也是文化景观。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "landscape mode",
+        "meaning": "横屏模式",
+        "examples": [
+          {
+            "sentence": "TikTok videos look better in landscape mode.",
+            "sentence_zh": "抖音视频横屏观看效果更佳。"
+          }
+        ]
+      }
+    ],
+    "teach": "landscape其实是'陆地整形师'🏞️！西方风景画最初只是宗教画的背景板，直到宋朝的《千里江山图》才让山水画C位出道🎨。说'风景如画'用picture-perfect landscape，吐槽景区人挤人叫human landscape👥。记住：横屏自拍叫landscape mode，竖屏叫portrait mode🤳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得撕开'→风景画太美懒得撕开包装",
+        "易混词：scenery（自然风景）vs landscape（人文+自然综合景观）"
+      ]
+    }
+  },
+  {
+    "word": "landscaped",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "scape",
+        "ed"
+      ],
+      "meaning_connection": "land=土地，scape=景观，-ed表过去式→将土地改造成景观的完成状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "对…做景观美化",
+        "examples": [
+          {
+            "sentence": "The abandoned factory was landscaped into a zen garden with koi ponds.",
+            "sentence_zh": "废弃工厂被改造成带有锦鲤池的禅意花园。"
+          },
+          {
+            "sentence": "Our compound looks like a royal palace after being landscaped by the famous designer.",
+            "sentence_zh": "经过著名设计师的景观改造后，我们小区像皇宫一样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给…做园林美化",
+        "examples": [
+          {
+            "sentence": "They've landscaped the rooftop with miniature bonsai and stone pathways.",
+            "sentence_zh": "他们在屋顶用微型盆景和石子路做了园林美化。"
+          },
+          {
+            "sentence": "The newly landscaped park features a duck-shaped topiary that became viral on Xiaohongshu.",
+            "sentence_zh": "新改造的公园有鸭子形状的灌木修剪造型，在小红书上爆火。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "well-landscaped",
+        "meaning": "精心美化的",
+        "examples": [
+          {
+            "sentence": "The well-landscaped courtyard increases our property value by 20%.",
+            "sentence_zh": "精心美化的庭院让我们的房产增值了20%。"
+          }
+        ]
+      }
+    ],
+    "teach": "landscaped其实是'PS绿化版'🌳！中世纪欧洲贵族用landscape炫富💎（凡尔赛宫就是终极案例）。说'这里需要改造'用地道表达：This place needs a facelift（整容级改造），搭配'枯山水'叫zen garden，'中式庭院'说scholar's garden。记住：好的landscaping能让房价坐上火箭🚀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得抠皮的'→懒得抠皮的人直接做景观硬化",
+        "易混词对比：landscape（名词/动词原形） vs landscaped（已完成动作）"
+      ]
+    }
+  },
+  {
+    "word": "landscaping",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "scape",
+        "ing"
+      ],
+      "meaning_connection": "land（土地）+ scape（景象）+ ing（名词后缀）→创造土地景象的艺术"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "景观美化",
+        "examples": [
+          {
+            "sentence": "The landscaping around the new CBD features miniature replicas of the Great Wall.",
+            "sentence_zh": "新商务区的景观美化包含长城微缩模型。"
+          },
+          {
+            "sentence": "His landscaping business specializes in creating koi ponds with LED lighting.",
+            "sentence_zh": "他的景观美化公司专攻带LED灯的锦鲤池设计。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "urban landscaping",
+        "meaning": "城市景观设计",
+        "examples": [
+          {
+            "sentence": "Shanghai's urban landscaping incorporates both skyscrapers and classical gardens.",
+            "sentence_zh": "上海的城市景观设计融合摩天大楼与古典园林。"
+          }
+        ]
+      }
+    ],
+    "teach": "landscaping其实是'土地化妆术'💄！古代苏州园林就是顶级landscaping案例🏯，现代版比如用盆栽拼出健康码造型🌿。'丑楼改造'叫facade landscaping（立面美化），'五平米阳台造景'是mini landscaping。记住：好的landscaping让你家小区秒变朋友圈打卡点📸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒得施工'→景观美化要勤快施工",
+        "易混词对比：landscape（自然景观） vs landscaping（人工美化）",
+        "记忆tip：想象给光头强植发就是landscaping"
+      ]
+    }
+  },
+  {
+    "word": "landslide",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "slide"
+      ],
+      "meaning_connection": "字面组合'土地滑动'→描述大面积土石滑落现象"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "山崩",
+        "examples": [
+          {
+            "sentence": "The Sichuan earthquake triggered massive landslides that buried highways.",
+            "sentence_zh": "四川地震引发的山崩掩埋了多条高速公路。"
+          },
+          {
+            "sentence": "After three days of heavy rain, villagers evacuated fearing landslides.",
+            "sentence_zh": "连续三天暴雨后，村民因担心山崩而撤离。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "landslide victory",
+        "meaning": "压倒性胜利",
+        "examples": [
+          {
+            "sentence": "The esports team achieved a landslide victory with 20-0 kills.",
+            "sentence_zh": "该电竞战队以20比0击杀数取得压倒性胜利。"
+          },
+          {
+            "sentence": "Li Jiaqi's livestream had a landslide victory in sales during Double 11.",
+            "sentence_zh": "李佳琦直播间在双十一期间取得销量碾压式胜利。"
+          }
+        ]
+      }
+    ],
+    "teach": "landslide既是自然灾害也是选举狂欢🌋！当山坡像融化的冰淇淋🍦一样滑落时叫mudslide（泥石流）；当选手像推土机🚜一样碾压对手就叫clean sweep（横扫）。记住：说'大胜'别用big win，要说won by a landslide才地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒呆slide'→懒惰的山坡呆不住就slide了",
+        "易混词对比：avalanche（雪崩）vs landslide（山崩）",
+        "记忆tip：想象《流浪地球》里的杭州城陷落场景"
+      ]
+    }
+  },
+  {
+    "word": "landward",
+    "etymology": {
+      "breakdown": [
+        "land",
+        "ward"
+      ],
+      "meaning_connection": "land表示'陆地'，后缀-ward表示'朝向'→整体指向陆地的方向"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "向陆的",
+        "examples": [
+          {
+            "sentence": "The landward side of the island is covered with coconut trees.",
+            "sentence_zh": "岛屿向陆的一侧长满了椰子树。"
+          },
+          {
+            "sentence": "Penguins waddle in their landward migration every spring.",
+            "sentence_zh": "企鹅每年春天都会摇摇摆摆地向陆地迁徙。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "近陆的",
+        "examples": [
+          {
+            "sentence": "The landward reefs are shallower but more polluted.",
+            "sentence_zh": "近陆的礁石较浅但污染更严重。"
+          },
+          {
+            "sentence": "Fishermen avoid the landward currents during typhoon season.",
+            "sentence_zh": "台风季节渔民会避开近岸洋流。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "向陆地",
+        "examples": [
+          {
+            "sentence": "The sailboat turned landward as the storm approached.",
+            "sentence_zh": "暴风雨逼近时帆船转向陆地行驶。"
+          },
+          {
+            "sentence": "Sea turtles instinctively swim landward to lay eggs.",
+            "sentence_zh": "海龟会本能地游向陆地产卵。"
+          }
+        ]
+      }
+    ],
+    "teach": "landward是'陆地诱惑'指南针🧭！想象被海浪冲走的拖鞋漂向岸边（drift landward）🏖️，或者重庆轻轨从江面驶向楼群（move landward）🚝。搭配：landward breeze（向岸风）🍃，landward view（陆向景观）🌄。说'彻底上岸'可以用go completely landward，就像程序员转行卖煎饼🌯",
+    "recite": {
+      "tips": [
+        "拆解记忆：land+ward=陆地+方向",
+        "对比记忆：seaward（向海的）是它的反义词"
+      ]
+    }
   }
 ]

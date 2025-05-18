@@ -6325,5 +6325,252 @@
         "记忆tip：把'den'(兽穴)变成'den'(花园)→从野兽派变治愈系"
       ]
     }
+  },
+  {
+    "word": "gardener",
+    "etymology": {
+      "breakdown": [
+        "garden",
+        "er"
+      ],
+      "meaning_connection": "garden指花园，后缀-er表示从事某职业的人→照料花园的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "园丁",
+        "examples": [
+          {
+            "sentence": "The gardener waters the peonies at 5am every day.",
+            "sentence_zh": "园丁每天清晨五点给牡丹浇水。"
+          },
+          {
+            "sentence": "Our community gardener turns food waste into compost.",
+            "sentence_zh": "我们社区的园丁把厨余垃圾变成堆肥。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "花匠",
+        "examples": [
+          {
+            "sentence": "The imperial gardener in Forbidden City nurtured 300 varieties of chrysanthemums.",
+            "sentence_zh": "故宫里的花匠曾培育过300种菊花。"
+          },
+          {
+            "sentence": "This peony gardener from Luoyang won gold at the flower expo.",
+            "sentence_zh": "这位来自洛阳的花匠在世园会上夺得金奖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "园艺家",
+        "examples": [
+          {
+            "sentence": "Britain's most famous gardener designed the Chelsea Flower Show.",
+            "sentence_zh": "英国最著名的园艺家设计了切尔西花展。"
+          },
+          {
+            "sentence": "The gardener published a book on balcony vegetable planting.",
+            "sentence_zh": "这位园艺家出版了关于阳台种菜的专著。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "landscape gardener",
+        "meaning": "景观园艺师",
+        "examples": [
+          {
+            "sentence": "The landscape gardener created a mini West Lake in the backyard.",
+            "sentence_zh": "景观园艺师在后院打造了迷你西湖。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "chief gardener",
+        "meaning": "首席园艺师",
+        "examples": [
+          {
+            "sentence": "The chief gardener of the Summer Palace is a national treasure.",
+            "sentence_zh": "颐和园的首席园艺师是国宝级人物。"
+          }
+        ]
+      }
+    ],
+    "teach": "gardener其实是'植男/植女'🌱！在中世纪，园丁被称为'植物外科医生'✂️（因为要修剪枝叶）。说'新手园丁'可以用green fingers（绿手指），而'园艺大神'叫plant whisperer（植物耳语者）🌻。记住：每个吃货都该当菜园丁，毕竟自己种的草莓最甜🍓！",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬的呢'→园丁看到枯花很尴尬",
+        "易混词：farmer(农夫)只管种吃的，gardener还管观赏植物"
+      ]
+    }
+  },
+  {
+    "word": "gardenia",
+    "etymology": {
+      "breakdown": [
+        "garden",
+        "ia"
+      ],
+      "meaning_connection": "源自18世纪植物学家Alexander Garden的姓氏+植物学后缀-ia，如同把发现者的名字种在花园里"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "栀子花",
+        "examples": [
+          {
+            "sentence": "The intense fragrance of gardenias always reminds me of grandmother's hairpin.",
+            "sentence_zh": "栀子花的浓香总让我想起祖母的发簪。"
+          },
+          {
+            "sentence": "Her wedding bouquet featured gardenias dipped in liquid gold.",
+            "sentence_zh": "她的婚礼捧花采用了鎏金栀子花。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gardenia scent",
+        "meaning": "栀子花香",
+        "examples": [
+          {
+            "sentence": "This limited edition mocha recreates the gardenia scent of Jiangnan summer.",
+            "sentence_zh": "这款限定摩卡复刻了江南夏日的栀子香。"
+          }
+        ]
+      }
+    ],
+    "teach": "栀子花(gardenia)其实是植物学家的签名✍️！18世纪美国医生Alexander Garden发现它时，一定没想到自己成了'花名'🌸。在香水界它叫'奶油白花'🍦，老上海人叫它'玉荷花'。要说'香得头晕'用地道表达是knock your socks off，比如：This gardenia perfume will knock your socks off! 🌺👃💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬嘚你呀'→花香太浓尬住你",
+        "易混词：gardinia(错误拼法)/gardenia(正确)"
+      ]
+    }
+  },
+  {
+    "word": "gardening",
+    "etymology": {
+      "breakdown": [
+        "garden",
+        "ing"
+      ],
+      "meaning_connection": "garden（花园）+-ing（名词后缀）→ 与花园相关的活动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "园艺",
+        "examples": [
+          {
+            "sentence": "Urban gardening has become trendy among millennials who grow chili peppers on balconies.",
+            "sentence_zh": "都会园艺在阳台上种辣椒的千禧世代中流行起来。"
+          },
+          {
+            "sentence": "British gardening shows always feature perfectly trimmed hedges and tea-drinking hosts.",
+            "sentence_zh": "英国园艺节目总会出现修剪完美的树篱和喝茶的主持人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "园艺学",
+        "examples": [
+          {
+            "sentence": "She majored in gardening and now designs imperial-style courtyards for hotels.",
+            "sentence_zh": "她主修园艺学，现在为酒店设计宫廷风格庭院。"
+          },
+          {
+            "sentence": "This ancient Chinese gardening manual describes how to cultivate peonies for Tang Dynasty emperors.",
+            "sentence_zh": "这本古代中国园艺学典籍记载了如何为唐代帝王培育牡丹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "container gardening",
+        "meaning": "容器园艺",
+        "examples": [
+          {
+            "sentence": "Beijingers practice container gardening with old bathtubs repurposed as planters.",
+            "sentence_zh": "北京人用旧浴缸改造花盆实践容器园艺。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "guerilla gardening",
+        "meaning": "游击种植（在公共区域非法种植）",
+        "examples": [
+          {
+            "sentence": "The retired teacher was caught guerilla gardening sunflowers in a construction site.",
+            "sentence_zh": "这位退休教师被抓到在建筑工地游击种植向日葵。"
+          }
+        ]
+      }
+    ],
+    "teach": "gardening其实是'尬叮'🌱：中世纪英国园丁用剑鞘(gard)敲钉子(ing)标记植物位置⚔️。说'种啥死啥'叫black thumb（黑拇指），'园艺高手'是green thumb（绿拇指）就像植物大战僵尸里的疯狂戴夫🌻。记住：gardening就是和植物进行的佛系Battle！",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬叮'→弄花花草草时总发出尴尬的叮当声",
+        "易混词对比：gardening（实操）vs. horticulture（学科）",
+        "记忆tip：把-garden-想象成'家的嗯'→家的温馨感来自园艺"
+      ]
+    }
+  },
+  {
+    "word": "gargantuan",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法国作家拉伯雷《巨人传》主角Gargantua，该角色以贪吃和巨大体型闻名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "巨大的",
+        "examples": [
+          {
+            "sentence": "The gargantuan panda statue in Chengdu weighs as much as 10 real pandas.",
+            "sentence_zh": "成都那座巨型熊猫雕像的重量相当于10只真熊猫。"
+          },
+          {
+            "sentence": "A gargantuan mooncake was displayed at the Mid-Autumn Festival.",
+            "sentence_zh": "中秋节展出了一块巨型月饼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "庞大的",
+        "examples": [
+          {
+            "sentence": "The gargantuan project of the Three Gorges Dam took decades to complete.",
+            "sentence_zh": "三峡大坝这一庞大工程耗时数十年才完成。"
+          },
+          {
+            "sentence": "His gargantuan appetite surprised all the hotpot restaurant staff.",
+            "sentence_zh": "他庞大的食量让所有火锅店员工都吃惊。"
+          }
+        ]
+      }
+    ],
+    "teach": "gargantuan是'吃出来的巨大'🍗！源自16世纪法国小说里能吃下整座教堂的巨人Gargantua🧌，现在形容'比plus还plus'的规模。要说'超大份'可以用gargantuan portion（巨人份量），'大工程'叫gargantuan project。记住：当你说某物gargantuan时，它至少得是'煎饼果子摊成埃菲尔铁塔那么大'🗼🍳！",
+    "recite": {
+      "tips": [
+        "视觉联想：gar（嘎）+guan（罐）+tuan（团）→嘎嘎大的罐子团",
+        "易混词对比：gigantic侧重高度，gargantuan侧重整体体积"
+      ]
+    }
   }
 ]

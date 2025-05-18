@@ -6226,5 +6226,235 @@
         "记忆tip：想象在地图上用红笔描主线🖍️"
       ]
     }
+  },
+  {
+    "word": "mainland",
+    "etymology": {
+      "breakdown": [
+        "main",
+        "land"
+      ],
+      "meaning_connection": "main表示'主要的'，land表示'陆地'→'主要陆地'即与岛屿相对的大陆"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大陆",
+        "examples": [
+          {
+            "sentence": "Hainan residents fly to the mainland for spicy hotpot.",
+            "sentence_zh": "海南居民会坐飞机去大陆吃麻辣火锅。"
+          },
+          {
+            "sentence": "The typhoon disrupted shipping between Taiwan and mainland.",
+            "sentence_zh": "台风影响了台湾与大陆之间的航运。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "本土",
+        "examples": [
+          {
+            "sentence": "Hawaiian pineapples are sweeter than mainland ones.",
+            "sentence_zh": "夏威夷菠萝比本土产的更甜。"
+          },
+          {
+            "sentence": "Mainland tourists bring prosperity to Macau's casinos.",
+            "sentence_zh": "本土游客为澳门赌场带来繁荣。"
+          }
+        ]
+      }
+    ],
+    "teach": "mainland是'妈妈land'👩🌎：就像妈妈怀抱最宽广（毕竟占地球29%陆地）。英国人称欧洲大陆为'the Continent'时总带着岛国傲娇🍵，美国人说'mainland USA'时自动排除夏威夷🏝️。搭配'mainland market'（本土市场）和'cross-mainland'（横跨大陆），说'小岛思维'用island mentality🌊🚢🗺️",
+    "recite": {
+      "tips": [
+        "视觉联想：main（主）+land（地）= 主要土地就像王者荣耀'主宰'占据地图C位🎮",
+        "易混词对比：mainland vs continent（前者强调相对岛屿，后者指地理大洲）"
+      ]
+    }
+  },
+  {
+    "word": "mainly",
+    "etymology": {
+      "breakdown": [
+        "main",
+        "ly"
+      ],
+      "meaning_connection": "词根main=主要，后缀-ly表副词性质→主要地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "主要地",
+        "examples": [
+          {
+            "sentence": "This WeChat group is mainly for sharing memes.",
+            "sentence_zh": "这个微信群主要用来分享表情包。"
+          },
+          {
+            "sentence": "The Great Wall was mainly built during the Ming Dynasty.",
+            "sentence_zh": "长城主要建于明朝时期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "大抵",
+        "examples": [
+          {
+            "sentence": "Hotpot restaurants in Chengdu are mainly crowded after 6pm.",
+            "sentence_zh": "成都的火锅店大抵在晚上六点后客满。"
+          },
+          {
+            "sentence": "Mid-autumn mooncakes are mainly sweet, with some savory exceptions.",
+            "sentence_zh": "中秋月饼大抵是甜的，偶有咸味例外。"
+          }
+        ]
+      }
+    ],
+    "teach": "mainly像火锅的鸳鸯锅🍲：'主要地'是红汤那边占70%（mainly spicy），'大抵'是白汤那边30%（mainly mild）。说'主要靠工资'用mainly rely on salary💸，'大体相同'说mainly the same就像奶茶店的全糖和七分糖🧋。记住：mainly=买奶茶时默认加珍珠的那种选项！",
+    "recite": {
+      "tips": [
+        "谐音梗：'美腻'→主要靠美颜(mainly)滤镜",
+        "对比记忆：mostly（主观占比）vs mainly（客观侧重）"
+      ]
+    }
+  },
+  {
+    "word": "mainsail",
+    "etymology": {
+      "breakdown": [
+        "main",
+        "sail"
+      ],
+      "meaning_connection": "main表示'主要的'，sail表示'帆'→船上最主要的帆"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大桅的帆",
+        "examples": [
+          {
+            "sentence": "The pirate captain adjusted the mainsail to catch the wind.",
+            "sentence_zh": "海盗船长调整大桅帆以捕捉风向。"
+          },
+          {
+            "sentence": "Ancient merchant ships relied heavily on the mainsail for long voyages.",
+            "sentence_zh": "古代商船远航时高度依赖大桅帆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "主帆",
+        "examples": [
+          {
+            "sentence": "During the regatta, the yacht's mainsail suddenly tore.",
+            "sentence_zh": "帆船比赛期间，游艇的主帆突然撕裂。"
+          },
+          {
+            "sentence": "The sailor skillfully reefed the mainsail before the storm hit.",
+            "sentence_zh": "水手在暴风雨来临前熟练地收起了主帆。"
+          }
+        ]
+      }
+    ],
+    "teach": "mainsail是帆船界的C位担当⛵！就像火锅里的毛肚是主菜🥘，主帆(mainsail)决定船速快慢。加勒比海盗们常说'hoist the mainsail'（升主帆）就像现代人说'踩油门'🚗。帆船术语'batten down the mainsail'（固定主帆）现在用来表示'做好准备'。记住：没有mainsail的船就像没有辣椒的火锅🌶️——失去灵魂！",
+    "recite": {
+      "tips": [
+        "视觉联想：main（主要）+ sail（帆）= 船帆中的'主心骨'",
+        "易混词对比：mainsail（主帆） vs. jib（三角帆）"
+      ]
+    }
+  },
+  {
+    "word": "mainspring",
+    "etymology": {
+      "breakdown": [
+        "main",
+        "spring"
+      ],
+      "meaning_connection": "main=主要的 + spring=弹簧/发条→原指钟表的核心动力装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "主发条",
+        "examples": [
+          {
+            "sentence": "The watchmaker carefully wound the mainspring of the antique pocket watch.",
+            "sentence_zh": "制表师小心地为古董怀表的主发条上弦。"
+          },
+          {
+            "sentence": "Without its mainspring, the mechanical clock becomes just a decorative piece.",
+            "sentence_zh": "失去主发条，机械钟表就只是个装饰品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "主要动机",
+        "examples": [
+          {
+            "sentence": "The mainspring behind his startup was to solve food delivery issues in rural areas.",
+            "sentence_zh": "他创业的主要动机是解决农村地区的食品配送问题。"
+          },
+          {
+            "sentence": "Curiosity was the mainspring of all her scientific discoveries.",
+            "sentence_zh": "好奇心是她所有科学发现的主要动机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "主要原因",
+        "examples": [
+          {
+            "sentence": "The mainspring of the economic boom was technological innovation.",
+            "sentence_zh": "经济繁荣的主要原因是科技创新。"
+          },
+          {
+            "sentence": "Lack of sleep turned out to be the mainspring of his poor performance.",
+            "sentence_zh": "睡眠不足被证明是他表现不佳的主要原因。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "主要动力",
+        "examples": [
+          {
+            "sentence": "Young entrepreneurs are the mainspring of China's tech industry.",
+            "sentence_zh": "年轻企业家是中国科技行业的主要动力。"
+          },
+          {
+            "sentence": "The mainspring of this social movement comes from grassroots organizations.",
+            "sentence_zh": "这场社会运动的主要动力来自基层组织。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the mainspring of",
+        "meaning": "...的核心动力",
+        "examples": [
+          {
+            "sentence": "Digital payment became the mainspring of China's cashless revolution.",
+            "sentence_zh": "数字支付成为中国无现金革命的核心动力。"
+          }
+        ]
+      }
+    ],
+    "teach": "mainspring就像人生的发条玩具🐛！物理上是钟表的心脏💓（the mainspring of a clock），抽象上是推动你996的动力⚡（the mainspring of your career）。说'主要推动力'可以幽默地用'the caffeine mainspring'（咖啡因动力），搭配'tighten the mainspring'表示加油鼓劲☕。记住：没有mainspring的表不会走，没有梦想的肝不会动！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没睡醒'→熬夜加班需要mainspring（主要动力）",
+        "易混词对比：mainstream（主流） vs mainspring（核心动力）",
+        "记忆tip：想象你体内有个发条，上得越紧效率越高"
+      ]
+    }
   }
 ]

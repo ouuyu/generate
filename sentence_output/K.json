@@ -6668,5 +6668,119 @@
         "易混词：dynamics（强调力与运动关系）vs kinetics（专注运动本身）"
       ]
     }
+  },
+  {
+    "word": "king",
+    "etymology": {
+      "breakdown": [
+        "kin",
+        "g"
+      ],
+      "meaning_connection": "古英语cyning，原指部落首领，后缀-g表阳性。词根kin=家族→最初指'家族首领'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "国王",
+        "examples": [
+          {
+            "sentence": "The king of pop Michael Jackson moonwalked into history.",
+            "sentence_zh": "流行乐之王迈克尔·杰克逊用月球漫步载入史册。"
+          },
+          {
+            "sentence": "Burger King's crown logo makes every customer feel royal.",
+            "sentence_zh": "汉堡王的皇冠logo让每位顾客感觉自己是王室成员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "君主",
+        "examples": [
+          {
+            "sentence": "The King of Rock still rules millions of hearts worldwide.",
+            "sentence_zh": "摇滚乐君主仍统治着全球数百万乐迷的心。"
+          },
+          {
+            "sentence": "In chess, protecting your king is like guarding Elon Musk's Twitter account.",
+            "sentence_zh": "国际象棋中保护国王就像守护马斯克的推特账号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使...成为君主",
+        "examples": [
+          {
+            "sentence": "The viral video king-ed the shy boy overnight.",
+            "sentence_zh": "爆红视频让这个害羞男孩一夜封王。"
+          },
+          {
+            "sentence": "Zhongguancun has king-ed many tech startups.",
+            "sentence_zh": "中关村已使众多科技创业公司登上王座。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "君临",
+        "examples": [
+          {
+            "sentence": "K-pop kings BTS now king over global music charts.",
+            "sentence_zh": "韩流帝王防弹少年团正君临全球音乐榜单。"
+          },
+          {
+            "sentence": "Hotpot kings over Chinese winter cuisine.",
+            "sentence_zh": "火锅在中华冬季美食界君临天下。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "统治",
+        "examples": [
+          {
+            "sentence": "TikTok kings in short video platforms.",
+            "sentence_zh": "TikTok统治着短视频平台。"
+          },
+          {
+            "sentence": "WeChat kings over Chinese social media.",
+            "sentence_zh": "微信统治着中国社交媒体。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "king of kings",
+        "meaning": "万王之王",
+        "examples": [
+          {
+            "sentence": "In Avengers, Thanos called himself the king of kings.",
+            "sentence_zh": "《复联》中灭霸自称万王之王。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "king it over",
+        "meaning": "对...作威作福",
+        "examples": [
+          {
+            "sentence": "The influencer kings it over her fan group.",
+            "sentence_zh": "这个网红在她的粉丝群作威作福。"
+          }
+        ]
+      }
+    ],
+    "teach": "king这个词就像黄金王座👑！古代维京人用'kin+ing'表示部落最大家族的首领（想象权力游戏里的狼家🐺）。说'行业霸主'用the king of...（好比奶茶界的珍珠霸主🧋），'称王称霸'叫play the king。记住：当你king over某个领域时，就像火锅称霸川渝🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啃硬'→国王要啃硬骨头治国",
+        "易混词：kingdom是王国，kingship是王位",
+        "联想：KFC的全称Kentucky Fried Chicken可戏称为Kentucky Fried King"
+      ]
+    }
   }
 ]
