@@ -2,9 +2,6 @@ name: Generate Sentences
 
 on:
   workflow_dispatch: # Allows manual triggering
-  push:
-    branches:
-      - main # Or your default branch
 
 jobs:
   generate:
@@ -17,6 +14,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18' # Or your preferred Node.js version
+
+      - name: Install dependencies
+        run: npm install
 
       - name: Create output directory
         run: mkdir -p sentence_output
