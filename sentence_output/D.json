@@ -4050,5 +4050,127 @@
         "易混词：dangerous(adj.) vs dangerously(adv.)"
       ]
     }
+  },
+  {
+    "word": "dangerousness",
+    "etymology": {
+      "breakdown": [
+        "danger",
+        "ous",
+        "ness"
+      ],
+      "meaning_connection": "danger（危险）+ -ous（形容词后缀）+ -ness（名词后缀）→ 危险的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "危险",
+        "examples": [
+          {
+            "sentence": "The dangerousness of this experiment made everyone nervous.",
+            "sentence_zh": "这个实验的危险性让所有人都很紧张。"
+          },
+          {
+            "sentence": "The dangerousness of the mountain road is well-known among drivers.",
+            "sentence_zh": "这条山路的危险性在司机中众所周知。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "dangerousness就像游戏里的血条🩸，数值越高越危险！古罗马角斗士上场前会评估对手的dangerousness（危险系数），就像现代人看天气预报的暴雨红色预警⛈️。说'极度危险'可以用'off-the-charts dangerousness'（爆表的危险性），搭配'mitigate dangerousness'（降低危险性）和'assess dangerousness'（评估危险性）。记住：遇到高dangerousness时，快跑🏃‍♂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'等急了没事'→等急了(danger)没事(ousness)，但其实很有事！",
+        "易混词对比：danger（危险，名词） vs. dangerous（危险的，形容词） vs. dangerousness（危险性，名词）",
+        "记忆tip：把dangerousness拆分成danger（危险）+ ous（形容词后缀）+ ness（名词后缀），就像'危险'穿了两件外套🧥🧥"
+      ]
+    }
+  },
+  {
+    "word": "dangling",
+    "etymology": {
+      "breakdown": [
+        "dangle",
+        "ing"
+      ],
+      "meaning_connection": "动词dangle源自古挪威语'dangla'（摇摆），-ing表形容词化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "悬挂的",
+        "examples": [
+          {
+            "sentence": "The dangling lanterns swayed in the summer breeze.",
+            "sentence_zh": "悬挂的灯笼在夏日的微风中轻轻摇晃。"
+          },
+          {
+            "sentence": "Her dangling earrings caught the sunlight beautifully.",
+            "sentence_zh": "她悬挂的耳饰在阳光下熠熠生辉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "悬浮的",
+        "examples": [
+          {
+            "sentence": "We saw dangling jellyfish in the aquarium's special tank.",
+            "sentence_zh": "我们在水族馆的特制水箱里看到了悬浮的水母。"
+          },
+          {
+            "sentence": "The magician made a coin stay dangling in mid-air.",
+            "sentence_zh": "魔术师让硬币保持悬浮在半空中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "悬摆的",
+        "examples": [
+          {
+            "sentence": "The dangling bridge made tourists scream with excitement.",
+            "sentence_zh": "悬摆的吊桥让游客们兴奋尖叫。"
+          },
+          {
+            "sentence": "His dangling feet didn't reach the ground when he sat on the tall chair.",
+            "sentence_zh": "他坐在高脚椅上时，悬摆的双脚够不着地。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dangling modifier",
+        "meaning": "悬垂修饰语",
+        "examples": [
+          {
+            "sentence": "While eating noodles, the chopsticks fell' is a classic dangling modifier.",
+            "sentence_zh": "'吃面时筷子掉了'是个经典的悬垂修饰语错误。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dangling participle",
+        "meaning": "悬垂分词",
+        "examples": [
+          {
+            "sentence": "Running down the street, the dog chased me' contains a dangling participle.",
+            "sentence_zh": "'沿着街道跑时，狗追着我'这句话包含悬垂分词。"
+          }
+        ]
+      }
+    ],
+    "teach": "dangling就像人生三大迷惑行为🤔：挂科时成绩单dangling（悬挂）在教务系统💻，坐高铁看dangling（悬浮）的水杯不倒🚄，还有健身房dangling（悬摆）的沙包总打脸🥊。搭配'dangling carrot'（诱饵）和'dangling conversation'（悬而未决的谈话），'晃来晃去'可以说swinging like a dangling chandelier💡",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛋更灵'→悬挂的蛋(dang)更灵(ling)活",
+        "对比记忆：dangling vs. swinging（前者强调静态悬挂，后者强调动态摆动）",
+        "联想：d+angle+ing→角度(angle)不合适就会悬挂不稳"
+      ]
+    }
   }
 ]

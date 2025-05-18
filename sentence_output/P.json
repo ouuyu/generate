@@ -4197,5 +4197,332 @@
         "对比记忆：carefully像喝茶看报，painstakingly像手术开颅"
       ]
     }
+  },
+  {
+    "word": "paint",
+    "etymology": {
+      "breakdown": [
+        "paint"
+      ],
+      "meaning_connection": "源自古法语'peintier'，意为'用色彩装饰'，最终源自拉丁语'pingere'（描绘）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "油漆",
+        "examples": [
+          {
+            "sentence": "The smell of fresh paint reminds me of new IKEA furniture.",
+            "sentence_zh": "新油漆的味道让我想起宜家新家具。"
+          },
+          {
+            "sentence": "This eco-friendly paint won't make your goldfish dizzy.",
+            "sentence_zh": "这种环保油漆不会让你的金鱼头晕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "颜料",
+        "examples": [
+          {
+            "sentence": "Van Gogh's favorite paint was that vibrant yellow.",
+            "sentence_zh": "梵高最爱的颜料是那种鲜亮的黄色。"
+          },
+          {
+            "sentence": "My watercolor paints dried up during summer vacation.",
+            "sentence_zh": "我的水彩颜料在暑假期间干掉了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绘画作品",
+        "examples": [
+          {
+            "sentence": "The museum displayed ancient cave paints from 30,000 years ago.",
+            "sentence_zh": "博物馆展出了3万年前的古老洞穴绘画。"
+          },
+          {
+            "sentence": "Her abstract paint sold for the price of 1000 bubble teas.",
+            "sentence_zh": "她的抽象画卖出了1000杯奶茶的价格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "油漆",
+        "examples": [
+          {
+            "sentence": "We painted the Great Wall white for a photoshoot last year.",
+            "sentence_zh": "去年我们为了拍照把长城漆成了白色。"
+          },
+          {
+            "sentence": "Grandpa is painting the door red for good luck.",
+            "sentence_zh": "爷爷正在把门漆成红色图吉利。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "绘",
+        "examples": [
+          {
+            "sentence": "Qi Baishi painted shrimps that looked more alive than real ones.",
+            "sentence_zh": "齐白石画的虾比真虾还要鲜活。"
+          },
+          {
+            "sentence": "She painted her cat wearing a Hanfu in the portrait.",
+            "sentence_zh": "她在肖像画中给猫穿上了汉服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "描绘",
+        "examples": [
+          {
+            "sentence": "The novel paints a vivid picture of ancient Chang'an.",
+            "sentence_zh": "小说生动描绘了古长安的景象。"
+          },
+          {
+            "sentence": "His words painted her as a modern-day Mulan.",
+            "sentence_zh": "他的描述把她塑造成了现代版花木兰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "绘画",
+        "examples": [
+          {
+            "sentence": "She paints better with her left hand while eating mala tang.",
+            "sentence_zh": "她一边吃麻辣烫一边用左手画画反而更好。"
+          },
+          {
+            "sentence": "Monkeys in the zoo were caught painting with their tails.",
+            "sentence_zh": "动物园的猴子被抓到用尾巴作画。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paint the town red",
+        "meaning": "狂欢",
+        "examples": [
+          {
+            "sentence": "After finals, we're going to paint the town hotpot red!",
+            "sentence_zh": "考完期末我们要用火锅狂欢整夜！"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "paint oneself into a corner",
+        "meaning": "把自己逼入绝境",
+        "examples": [
+          {
+            "sentence": "He painted himself into a corner by promising two girlfriends Valentine's dates.",
+            "sentence_zh": "他同时答应两个女友情人节约会，把自己逼入了绝境。"
+          }
+        ]
+      }
+    ],
+    "teach": "paint是艺术界的万能工具🎨！从原始人在山洞里画野牛🐂(cave paints)，到现代人用emoji画画📱；从油漆工刷墙🧱(paint walls)到作家描绘场景✍️(paint a picture)。搭配paint the town red不是真把城市涂红，而是指'狂欢到天亮'🌃！说'画大饼'可以用paint rosy pictures，就像老板承诺明年加薪🍪（但可能只是空气饼）",
+    "recite": {
+      "tips": [
+        "谐音梗：'喷他'→喷他(paint)油漆",
+        "易混词：draw（线条画）vs paint（着色画）",
+        "记忆tip：油漆(paint)比墨水(ink)厚，所以paint比draw更厚重"
+      ]
+    }
+  },
+  {
+    "word": "paintbrush",
+    "etymology": {
+      "breakdown": [
+        "paint",
+        "brush"
+      ],
+      "meaning_connection": "paint（颜料/油漆）+ brush（刷子）→ 用于涂抹颜料的工具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "画笔",
+        "examples": [
+          {
+            "sentence": "The child dipped his paintbrush into all the colors at once, creating a rainbow mess.",
+            "sentence_zh": "孩子把画笔一次性蘸进所有颜料，弄出一片彩虹般的混乱。"
+          },
+          {
+            "sentence": "Her paintbrush danced across the canvas like a butterfly.",
+            "sentence_zh": "她的画笔如蝴蝶般在画布上飞舞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "漆刷",
+        "examples": [
+          {
+            "sentence": "He left the paintbrush in the turpentine overnight, and it became as hard as a rock.",
+            "sentence_zh": "他把漆刷整晚泡在松节油里，结果变得像石头一样硬。"
+          },
+          {
+            "sentence": "Using a small paintbrush, she carefully touched up the scratches on her antique cabinet.",
+            "sentence_zh": "她用一把小漆刷，仔细修补古董柜子上的划痕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wield a paintbrush",
+        "meaning": "执笔作画",
+        "examples": [
+          {
+            "sentence": "My grandfather still wields a paintbrush at 90, creating vibrant landscapes.",
+            "sentence_zh": "我爷爷90岁高龄仍执笔作画，创作出充满生机的风景画。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "stroke of a paintbrush",
+        "meaning": "画笔的挥动",
+        "examples": [
+          {
+            "sentence": "With a single stroke of his paintbrush, the artist brought the dragon's eye to life.",
+            "sentence_zh": "画家一笔挥就，让龙的眼睛变得栩栩如生。"
+          }
+        ]
+      }
+    ],
+    "teach": "paintbrush是艺术家的魔法棒🪄！达芬奇用它在蒙娜丽莎嘴角画出了神秘微笑😏，而装修师傅用它把白墙变成'原谅绿'🌿。记住：细笔头(fine brush)画工笔画，宽刷子(wide brush)刷墙壁。'笨手笨脚'可以说have two left hands with a paintbrush，就像用脚画画一样滑稽🦶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喷不刷'→喷漆不刷(paintbrush)会滴得到处都是",
+        "易混词对比：paintbrush(工具) vs. palette(调色板)",
+        "联想记忆：paint+brush=颜料+刷子=画笔"
+      ]
+    }
+  },
+  {
+    "word": "painted",
+    "etymology": {
+      "breakdown": [
+        "paint",
+        "ed"
+      ],
+      "meaning_connection": "paint（绘画/油漆）+ 后缀-ed表形容词→被涂画的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "描画的",
+        "examples": [
+          {
+            "sentence": "The painted scroll depicted a bustling Tang Dynasty market.",
+            "sentence_zh": "这幅描画的手卷展现了盛唐市集的繁华景象。"
+          },
+          {
+            "sentence": "Her painted porcelain teacups became viral on Xiaohongshu.",
+            "sentence_zh": "她手绘的瓷茶杯在小红书上火了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "着色的",
+        "examples": [
+          {
+            "sentence": "The 3D-printed model needs to be painted before exhibition.",
+            "sentence_zh": "这个3D打印模型需要着色后才能展出。"
+          },
+          {
+            "sentence": "Painted Easter eggs are trending in craft workshops.",
+            "sentence_zh": "彩绘复活节蛋最近在手工坊很流行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "刷上油漆的",
+        "examples": [
+          {
+            "sentence": "The freshly painted Great Wall guardrails smell like childhood classrooms.",
+            "sentence_zh": "新刷漆的长城护栏散发着儿时教室的味道。"
+          },
+          {
+            "sentence": "Our painted bicycles rusted within three months.",
+            "sentence_zh": "我们刷过漆的自行车三个月内就生锈了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "涂脂抹粉的",
+        "examples": [
+          {
+            "sentence": "The painted opera performer took two hours to remove makeup.",
+            "sentence_zh": "浓妆艳抹的戏曲演员花了两个小时卸妆。"
+          },
+          {
+            "sentence": "Douyin filters make everyone look like painted dolls.",
+            "sentence_zh": "抖音滤镜让所有人都像涂脂抹粉的玩偶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "矫揉造作的",
+        "examples": [
+          {
+            "sentence": "His painted compliments made everyone cringe at the meeting.",
+            "sentence_zh": "他矫揉造作的恭维让与会者浑身不适。"
+          },
+          {
+            "sentence": "The influencer's painted smile disappeared when the camera turned off.",
+            "sentence_zh": "摄像机一关，网红的假笑瞬间消失。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "painted lady",
+        "meaning": "浓妆艳抹的女人",
+        "examples": [
+          {
+            "sentence": "The painted lady at the bar turned out to be a livestreamer doing makeup challenge.",
+            "sentence_zh": "酒吧里那个浓妆艳抹的女子原来是做化妆挑战的主播。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "painted truth",
+        "meaning": "粉饰的真相",
+        "examples": [
+          {
+            "sentence": "The corporate report was just a painted truth behind layoffs.",
+            "sentence_zh": "那份公司报告不过是裁员背后粉饰的真相。"
+          }
+        ]
+      }
+    ],
+    "teach": "painted这个词就像美颜相机📸！从敦煌壁画到你家防盗门（painted door），从京剧脸谱到网红滤镜（painted face）都能用。记住：物理涂层用'刷漆'，人工修饰用'涂抹'，虚假表现用'矫饰'。说'素颜'就用反义词unpainted，夸人化妆自然叫skillfully painted👛。地道路子：'浓妆艳抹'可以叫painted like a peacock🦚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喷他的'→被喷漆(painted)的墙面",
+        "对比记忆：painted（人工着色）vs printed（机器印刷）",
+        "视觉联想：故宫红墙=giant painted artwork"
+      ]
+    }
   }
 ]

@@ -4042,5 +4042,296 @@
         "易混词对比：spiral侧重螺旋上升/下降，tailspin强调失控旋转"
       ]
     }
+  },
+  {
+    "word": "tailwind",
+    "etymology": {
+      "breakdown": [
+        "tail",
+        "wind"
+      ],
+      "meaning_connection": "tail（尾部）+ wind（风）→ 从后方吹来的风"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "顺风",
+        "examples": [
+          {
+            "sentence": "The cyclist broke the record thanks to a strong tailwind.",
+            "sentence_zh": "这位自行车选手因强劲的顺风而打破了记录。"
+          },
+          {
+            "sentence": "Our flight arrived early due to favorable tailwinds.",
+            "sentence_zh": "由于有利的顺风，我们的航班提前抵达了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "catch a tailwind",
+        "meaning": "遇到顺风",
+        "examples": [
+          {
+            "sentence": "The marathon runner caught a tailwind in the final stretch.",
+            "sentence_zh": "这位马拉松选手在最后一段赛程遇到了顺风。"
+          }
+        ]
+      }
+    ],
+    "teach": "tailwind就像人生开挂模式🚀！想像你骑共享单车突然顺风狂飙（catch a tailwind），比地铁还快。航空业说'燃油顺风'指油价下跌✈️，程序员用Tailwind CSS框架写代码就像搭顺风车💻。记住：顺风时'go with the tailwind'，逆风时'送外卖的小哥会哭'😭🍔",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒稳的'→顺风飞行忒稳的",
+        "易混词：headwind（逆风）vs tailwind",
+        "联想：风筝的尾巴(tail)追着风(wind)跑"
+      ]
+    }
+  },
+  {
+    "word": "taint",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "词源来自古法语'teint'（染色），与拉丁语'tinctus'（染色）相关，暗示'被玷污的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "污点",
+        "examples": [
+          {
+            "sentence": "The ink taint on his shirt ruined the job interview.",
+            "sentence_zh": "衬衫上的墨水污点毁掉了他的求职面试。"
+          },
+          {
+            "sentence": "That typo became a permanent taint in the published novel.",
+            "sentence_zh": "那个错别字成了出版小说中永久的污点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "耻辱",
+        "examples": [
+          {
+            "sentence": "The corruption scandal left a taint on his political career.",
+            "sentence_zh": "腐败丑闻给他的政治生涯留下了耻辱。"
+          },
+          {
+            "sentence": "Being cheated in poker is considered a taint among players.",
+            "sentence_zh": "在扑克牌局中作弊被玩家们视为耻辱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "感染",
+        "examples": [
+          {
+            "sentence": "The lab detected bacterial taint in the yogurt samples.",
+            "sentence_zh": "实验室在酸奶样本中检测到细菌感染。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "污染",
+        "examples": [
+          {
+            "sentence": "Industrial waste tainted the river with neon colors.",
+            "sentence_zh": "工业废水将河流污染成霓虹色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使腐败",
+        "examples": [
+          {
+            "sentence": "The humid climate tainted the ancient manuscripts.",
+            "sentence_zh": "潮湿的气候使古代手稿腐败。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "沾染",
+        "examples": [
+          {
+            "sentence": "Her reputation was tainted by association with the scandal.",
+            "sentence_zh": "她的名誉因与丑闻有关联而受到沾染。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "腐蚀",
+        "examples": [
+          {
+            "sentence": "Acid rain tainted the bronze statue's surface.",
+            "sentence_zh": "酸雨腐蚀了青铜雕像的表面。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "taint with",
+        "meaning": "用...玷污",
+        "examples": [
+          {
+            "sentence": "The journalist was accused of tainting the report with bias.",
+            "sentence_zh": "该记者被指控用偏见玷污了报道。"
+          }
+        ]
+      }
+    ],
+    "teach": "taint就像打翻的酱油瓶🍶！物理上它污染你的白衬衫（taint clothes），道德上玷污你的名声（taint reputation）。记住：'名声有污点'说black mark比taint更口语化，'清除污名'叫clear one's name。搭配：taint test（污染检测）/ taint-free（无污染的）💧⚖️🚫",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒暗它'→被玷污的东西颜色都变暗了",
+        "易混词：stain（更常用指物理污渍）/ taint（侧重抽象玷污）",
+        "记忆法：T（贴）+ AIN'T（不是）→ 贴了不该贴的东西就是污染"
+      ]
+    }
+  },
+  {
+    "word": "tainted",
+    "etymology": {
+      "breakdown": [
+        "taint",
+        "ed"
+      ],
+      "meaning_connection": "词根taint来自古法语'teint'（染色），后缀-ed表形容词→'被染上颜色的'引申为受污染的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "腐坏的",
+        "examples": [
+          {
+            "sentence": "The tainted durian made the whole subway smell like a chemical weapon.",
+            "sentence_zh": "这颗腐坏的榴莲让整个地铁闻起来像化学武器。"
+          },
+          {
+            "sentence": "Tainted milk powder caused nationwide panic in 2008.",
+            "sentence_zh": "2008年腐坏的奶粉引发了全国恐慌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "污染的",
+        "examples": [
+          {
+            "sentence": "PM2.5 makes Beijing's air visibly tainted in winter.",
+            "sentence_zh": "PM2.5让北京的空气在冬季明显被污染。"
+          },
+          {
+            "sentence": "The river turned green from tainted water full of algae.",
+            "sentence_zh": "受污染的水体长满藻类，把整条河染成了绿色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "沾污的",
+        "examples": [
+          {
+            "sentence": "Her white dress got tainted with chili oil at the hotpot party.",
+            "sentence_zh": "她的白裙子在火锅派对上沾到了红油。"
+          },
+          {
+            "sentence": "The politician's reputation was tainted by bribery rumors.",
+            "sentence_zh": "贿赂传闻玷污了这位政治家的声誉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "感染的",
+        "examples": [
+          {
+            "sentence": "Tainted needles spread HIV among drug users.",
+            "sentence_zh": "受感染的针头在吸毒者中传播艾滋病毒。"
+          },
+          {
+            "sentence": "The surgeon sterilized the tainted wound carefully.",
+            "sentence_zh": "医生仔细消毒了受感染的伤口。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tainted with",
+        "meaning": "被...污染",
+        "examples": [
+          {
+            "sentence": "The soil was tainted with heavy metals from the factory.",
+            "sentence_zh": "土壤被工厂排放的重金属污染了。"
+          }
+        ]
+      }
+    ],
+    "teach": "tainted就像被熊孩子乱涂的画布🎨！古法语词根taint本指染布，现在专指各种'脏东西'：食物腐坏叫tainted food🍗（想到地沟油），空气污染叫tainted air💨（北京人秒懂），名声受损叫tainted reputation👔（参考明星翻车事件）。地道表达'背黑锅'可以说get tainted by others' mistakes，搭配'辟谣'用clear tainted names🕵️♂️。记住：taint这滴墨水能毁掉整缸清水💧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'疼的'→被污染的伤口疼的(tainted)",
+        "易混词：stained（染色）vs tainted（变质污染）",
+        "联想：taint+ed=太暗的→被污染的河水太暗的"
+      ]
+    }
+  },
+  {
+    "word": "taiwanese",
+    "etymology": {
+      "breakdown": [
+        "taiwan",
+        "ese"
+      ],
+      "meaning_connection": "地名Taiwan+后缀-ese表'某地的人或语言'，如Chinese/Japanese"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "台湾人的",
+        "examples": [
+          {
+            "sentence": "My Taiwanese roommate taught me how to make bubble tea.",
+            "sentence_zh": "我的台湾室友教我制作珍珠奶茶。"
+          },
+          {
+            "sentence": "The Taiwanese students organized a night market event on campus.",
+            "sentence_zh": "台湾学生们在校园里举办了夜市活动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "台湾的",
+        "examples": [
+          {
+            "sentence": "Taiwanese pineapple cakes are famous worldwide.",
+            "sentence_zh": "台湾凤梨酥闻名全球。"
+          },
+          {
+            "sentence": "This documentary features Taiwanese temple traditions.",
+            "sentence_zh": "这部纪录片记录了台湾的庙宇文化。"
+          }
+        ]
+      }
+    ],
+    "teach": "Taiwanese这词就像珍珠奶茶里的'珍珠'🧋！后缀-ese是'风味标识'（如Japanese sushi🍣），而Taiwanese特指宝岛风情：从'台湾腔'(Taiwanese accent)到'台积电'(TSMC💻)。搭配'台湾小吃'说Taiwanese snacks，'台剧'是Taiwanese dramas。地道表达'很台'叫super Taiwanese🌴，就像蚵仔煎配冬瓜茶般正宗！",
+    "recite": {
+      "tips": [
+        "谐音梗：'台味儿十足'→Taiwanese发音像'台味nice'",
+        "易混词对比：Taiwanese(台湾的) vs. Thailandese(泰国的，实际常用Thai)"
+      ]
+    }
   }
 ]

@@ -4037,5 +4037,274 @@
         "视觉化：把Q看作4的镜像，UA像诗行排列"
       ]
     }
+  },
+  {
+    "word": "quaver",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语quaven（颤抖），拟声词，模拟声音颤抖的效果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "发颤音",
+        "examples": [
+          {
+            "sentence": "The opera singer's voice began to quaver on the high C note.",
+            "sentence_zh": "歌剧演唱者在唱高音C时声音开始发颤。"
+          },
+          {
+            "sentence": "When nervous, her Mandarin pronunciation would quaver slightly.",
+            "sentence_zh": "紧张时，她的普通话发音会微微发颤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "颤抖",
+        "examples": [
+          {
+            "sentence": "His knees quavered like jelly during his first live stream.",
+            "sentence_zh": "他第一次直播时膝盖像果冻一样颤抖。"
+          },
+          {
+            "sentence": "The leaves quavered in the autumn wind like dancing fireflies.",
+            "sentence_zh": "树叶在秋风中颤抖，宛如飞舞的萤火虫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "颤抖地说",
+        "examples": [
+          {
+            "sentence": "She quavered out her confession while clutching a tissue.",
+            "sentence_zh": "她攥着纸巾，声音颤抖地说出了告白。"
+          },
+          {
+            "sentence": "'The dumplings... were eaten by the dog,' the child quavered.",
+            "sentence_zh": "「饺子...被狗狗吃了，」孩子颤抖地说道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用颤声唱出",
+        "examples": [
+          {
+            "sentence": "The Peking opera performer quavered the closing note for dramatic effect.",
+            "sentence_zh": "京剧演员用颤声唱出尾音以达到戏剧效果。"
+          },
+          {
+            "sentence": "He quavered the folk song like a lovesick cicada.",
+            "sentence_zh": "他像只思春的知了般颤声唱出这首民谣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "颤抖",
+        "examples": [
+          {
+            "sentence": "There was a noticeable quaver in her voice when mentioning her ex.",
+            "sentence_zh": "提到前任时，她声音里明显带着颤抖。"
+          },
+          {
+            "sentence": "The quaver of his hands betrayed his poker face.",
+            "sentence_zh": "他双手的颤抖出卖了扑克脸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "颤声",
+        "examples": [
+          {
+            "sentence": "The erhu music ended with a beautiful quaver.",
+            "sentence_zh": "二胡曲以一个优美的颤音收尾。"
+          },
+          {
+            "sentence": "Her singing was full of emotional quavers during the audition.",
+            "sentence_zh": "试唱时她的歌声充满情感颤音。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "八分音符",
+        "examples": [
+          {
+            "sentence": "The guzheng piece starts with three quick quavers.",
+            "sentence_zh": "这首古筝曲以三个快速的八分音符开头。"
+          },
+          {
+            "sentence": "Count the quavers like you're counting small change.",
+            "sentence_zh": "数八分音符就像数零钱一样。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in a quaver",
+        "meaning": "带着颤音",
+        "examples": [
+          {
+            "sentence": "She replied in a quaver that melted his heart.",
+            "sentence_zh": "她用让他心碎的颤声回答。"
+          }
+        ]
+      }
+    ],
+    "teach": "quaver是声音界的帕金森患者👋！想象：1) 英国教堂唱诗班男孩变声期声音像踩电门⚡（历史渊源）；2) 视觉化→发抖的果冻🍮+音符🎵；3) 说'声音发抖'用voice quavers，'手抖'说hands quaver like tofu；4) 地道表达'吓到发抖'说quake like a leaf🌿；5) 记住：颤抖三件套—声音、手、音符！",
+    "recite": {
+      "tips": [
+        "谐音梗：'亏我啊'→声音颤抖因为亏钱💸",
+        "易混词：quiver（轻微颤动）/shiver（寒冷颤抖）",
+        "音乐梗：八分音符像发抖的小蝌蚪🐸"
+      ]
+    }
+  },
+  {
+    "word": "quavering",
+    "etymology": {
+      "breakdown": [
+        "quaver",
+        "ing"
+      ],
+      "meaning_connection": "词根quaver源自中古英语'quaven'（颤抖），-ing构成现在分词作形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "颤抖的",
+        "examples": [
+          {
+            "sentence": "The quavering candlelight made shadow puppets on the Great Wall bricks.",
+            "sentence_zh": "颤抖的烛光在长城砖块上投下皮影戏般的影子。"
+          },
+          {
+            "sentence": "Her quavering hands couldn't steady the steaming hot pot.",
+            "sentence_zh": "她颤抖的双手端不稳滚烫的火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "颤声的",
+        "examples": [
+          {
+            "sentence": "The Peking opera singer's quavering vibrato echoed through the teahouse.",
+            "sentence_zh": "京剧演员颤声的唱腔在茶馆里回响。"
+          },
+          {
+            "sentence": "A quavering folk song drifted from the ancient village alley.",
+            "sentence_zh": "一首颤声的民谣从古村巷弄里飘来。"
+          }
+        ]
+      }
+    ],
+    "teach": "quavering是声带和膝盖的'双十一振动模式'📳！想象：1) 古筝琴弦被拨动时的震颤🎻 2) 冬天没穿秋裤时说话的声音❄️。说'声音发抖'可用voice quavered like a dropped jianbing（像掉落的煎饼般颤抖），'抖成筛子'叫quavering like a leaf in typhoon🌀。记住：颤抖是身体在唱freestyle！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快吧铃'→快响的铃铛在颤抖",
+        "易混词：shivering（寒冷导致的颤抖）, trembling（恐惧导致的颤抖）",
+        "联想：QQ的振动图标+地震波"
+      ]
+    }
+  },
+  {
+    "word": "quay",
+    "etymology": {
+      "breakdown": [
+        "quay"
+      ],
+      "meaning_connection": "源自法语'quai'，最初指用石头砌成的岸边平台，专为停泊船只设计。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "码头",
+        "examples": [
+          {
+            "sentence": "The cruise ship docked at Victoria Quay with a loud horn.",
+            "sentence_zh": "邮轮鸣着汽笛停靠在维多利亚码头。"
+          },
+          {
+            "sentence": "Fishermen were unloading their catch at the wooden quay at dawn.",
+            "sentence_zh": "黎明时分渔民正在木制码头卸货。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "驳岸",
+        "examples": [
+          {
+            "sentence": "The stone quay protected the canal from erosion during typhoons.",
+            "sentence_zh": "石砌驳岸在台风期间保护运河免受侵蚀。"
+          },
+          {
+            "sentence": "We sat on the granite quay feeding seagulls with fried dough twists.",
+            "sentence_zh": "我们坐在花岗岩驳岸上用油条喂海鸥。"
+          }
+        ]
+      }
+    ],
+    "teach": "quay其实是法语'外来户'🇫🇷！想象它是'可爱'的岸边姑娘💃，总穿着石砌连衣裙迎接船只🛳️。说'码头工人'用quay worker像'奶茶师傅'般地道，'靠岸'叫moor at a quay就像给手机找充电桩🔌。记住：quay比dock更精致，就像咖啡馆vs大排档！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗑位'→在码头嗑瓜子等船",
+        "易混词对比：pier（伸向水中的突堤码头）vs quay（平行岸线的码头）"
+      ]
+    }
+  },
+  {
+    "word": "quayside",
+    "etymology": {
+      "breakdown": [
+        "quay",
+        "side"
+      ],
+      "meaning_connection": "quay来自古法语'cai'（防波堤），side表'一侧'→码头沿岸区域"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "码头区",
+        "examples": [
+          {
+            "sentence": "The seafood restaurants along the quayside are famous for their hairy crabs.",
+            "sentence_zh": "码头区沿岸的海鲜餐厅以大闸蟹闻名。"
+          },
+          {
+            "sentence": "We watched container ships unloading at the neon-lit quayside.",
+            "sentence_zh": "我们看着集装箱船在霓虹灯照亮的码头区卸货。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quayside warehouse",
+        "meaning": "码头仓库",
+        "examples": [
+          {
+            "sentence": "The antique teapots were stored in the quayside warehouse for centuries.",
+            "sentence_zh": "这些古董茶壶在码头仓库存放了数百年。"
+          }
+        ]
+      }
+    ],
+    "teach": "quayside其实是'靠海SSR地段'🌊！这里曾是海盗交易赃物的黑市⚓（历史趣闻），现在变成情侣看日落的自拍圣地🌅。搭配'quayside bar'（码头酒吧）喝一杯🍺，或者'quayside market'（码头集市）买海鲜🐟。说'码头工人'别用worker，地道说法是dockhand💪，他们像现实版'黄金矿工'游戏角色⛏️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快晒的'→码头区总是快被晒得发烫",
+        "易混词对比：wharf（整个码头） vs quayside（码头沿岸区域）",
+        "记忆tip：把quay想成'queen's way'（女王之路），side就是路边"
+      ]
+    }
   }
 ]

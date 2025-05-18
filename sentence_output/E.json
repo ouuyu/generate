@@ -4143,5 +4143,331 @@
         "易混词：eve（前夕）vs eave（屋檐）"
       ]
     }
+  },
+  {
+    "word": "eavesdrop",
+    "etymology": {
+      "breakdown": [
+        "eaves",
+        "drop"
+      ],
+      "meaning_connection": "eaves=屋檐，drop=水滴→原指站在屋檐下接水滴（引申为偷听行为）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "偷听",
+        "examples": [
+          {
+            "sentence": "The journalist was caught eavesdropping on the celebrity's private conversation.",
+            "sentence_zh": "记者偷听明星私密对话被抓现行。"
+          },
+          {
+            "sentence": "My cat always eavesdrops when I talk to the vet about her diet.",
+            "sentence_zh": "每次我和兽医讨论猫咪饮食，它总在偷听。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "屋檐水",
+        "examples": [
+          {
+            "sentence": "The continuous eavesdrop formed icicles in winter.",
+            "sentence_zh": "连绵的屋檐水在冬季形成了冰柱。"
+          },
+          {
+            "sentence": "We collected eavesdrops to water the bonsai during drought.",
+            "sentence_zh": "干旱时我们用收集的屋檐水浇灌盆景。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "偷听",
+        "examples": [
+          {
+            "sentence": "The novel describes an eavesdrop that changed the course of history.",
+            "sentence_zh": "小说描写了一次改变历史进程的偷听事件。"
+          },
+          {
+            "sentence": "Her eavesdrop revealed the surprising plot twist.",
+            "sentence_zh": "她的偷听行为揭开了惊人的剧情反转。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eavesdrop on",
+        "meaning": "偷听...",
+        "examples": [
+          {
+            "sentence": "Never eavesdrop on video calls in coffee shops.",
+            "sentence_zh": "千万别在咖啡馆偷听视频会议。"
+          }
+        ]
+      }
+    ],
+    "teach": "eavesdrop是古代'听墙根'专业术语🏯！想象英国都铎王朝时，仆人站在屋檐(eaves)下接雨水(drop)，顺便偷听贵族机密💂。当代版就是地铁里偷瞄别人微信聊天📱。要说'八卦消息'叫tea☕，'偷听被抓包'叫caught red-handed👂。记住：屋檐水会暴露偷听者，就像你手机总自动连接老板的蓝牙音箱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'衣服坠破'→偷听时衣服被屋檐水坠破",
+        "对比记忆：peek（偷看）vs eavesdrop（偷听）"
+      ]
+    }
+  },
+  {
+    "word": "eavesdropper",
+    "etymology": {
+      "breakdown": [
+        "eaves",
+        "drop",
+        "er"
+      ],
+      "meaning_connection": "eaves=屋檐，drop=水滴，er=人→原指躲在屋檐下接雨水的人，后演变为偷听者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "偷听者",
+        "examples": [
+          {
+            "sentence": "The couple found an eavesdropper pretending to read a magazine in the café.",
+            "sentence_zh": "那对情侣发现咖啡馆里有个假装看杂志的偷听者。"
+          },
+          {
+            "sentence": "Ancient Chinese eavesdroppers used bamboo tubes against paper windows.",
+            "sentence_zh": "中国古代偷听者用竹管贴着纸窗窃听。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "professional eavesdropper",
+        "meaning": "职业窃听者",
+        "examples": [
+          {
+            "sentence": "In spy movies, professional eavesdroppers can intercept laser reflections from window glass.",
+            "sentence_zh": "间谍电影里的职业窃听者能拦截窗户玻璃的激光反射。"
+          }
+        ]
+      }
+    ],
+    "teach": "eavesdropper其实是'屋檐水客'🏯：中世纪英国人站在屋檐(eaves)下接雨水(drop)时偷听屋内谈话👂。现在说'隔墙有耳'地道表达是walls have ears，'八卦的人'叫nosy parker🍉。记住：当个合格的eavesdropper需要演技比梁朝伟更好！",
+    "recite": {
+      "tips": [
+        "谐音梗：'衣服抓破'→偷听时紧张抓破衣服",
+        "易混词：peeping tom（偷窥者）"
+      ]
+    }
+  },
+  {
+    "word": "eavesdropping",
+    "etymology": {
+      "breakdown": [
+        "eaves",
+        "drop",
+        "ing"
+      ],
+      "meaning_connection": "eaves指屋檐，drop指水滴，原指躲在屋檐下偷听雨滴声的人，引申为'偷听'行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "偷听",
+        "examples": [
+          {
+            "sentence": "The couple got caught eavesdropping on their neighbors' karaoke practice.",
+            "sentence_zh": "这对夫妇偷听邻居练歌时被抓个正着。"
+          },
+          {
+            "sentence": "Eavesdropping on spicy gossip requires ninja-level silence.",
+            "sentence_zh": "偷听劲爆八卦需要忍者级别的安静。"
+          }
+        ]
+      }
+    ],
+    "teach": "eavesdropping是古代'听墙根'专业术语🏯！英国老房子屋檐(eaves)宽，仆人常躲在下面听主人谈话，像挂在屋檐下的水滴(drop)💧。现代版就是偷看同学微信聊天记录📱。搭配：commit eavesdropping（犯窃听罪）/ professional eavesdropper（职业狗仔）😂 说'偷听八卦'用nose around like a curious cat🐱",
+    "recite": {
+      "tips": [
+        "谐音梗：'衣服做drop'→假装晾衣服偷听",
+        "易混词：peeping（偷看）vs eavesdropping（偷听）",
+        "记忆tip：想象雨滴声掩盖偷听者呼吸声"
+      ]
+    }
+  },
+  {
+    "word": "ebb",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'ebba'，原指潮水退去，后引申为事物衰退"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "退潮",
+        "examples": [
+          {
+            "sentence": "Fishermen hurry back before the ebb leaves their boats stranded.",
+            "sentence_zh": "渔民们赶在退潮前返航，以免船只搁浅。"
+          },
+          {
+            "sentence": "The ebb exposed colorful seashells on the wet sand.",
+            "sentence_zh": "退潮后湿润的沙滩上露出五彩贝壳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "衰退",
+        "examples": [
+          {
+            "sentence": "The ebb of Marco's enthusiasm came after 10 failed job interviews.",
+            "sentence_zh": "十次求职失败后，马可的热情开始衰退。"
+          },
+          {
+            "sentence": "Ancient Rome experienced many ebbs and flows during its long history.",
+            "sentence_zh": "古罗马在漫长历史中历经多次兴衰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "潮退",
+        "examples": [
+          {
+            "sentence": "As the tide ebbed, children raced to catch retreating crabs.",
+            "sentence_zh": "潮水退去时，孩子们争相捕捉撤退的螃蟹。"
+          },
+          {
+            "sentence": "The seawater ebbs rhythmically like the Earth breathing.",
+            "sentence_zh": "海水如地球呼吸般有节奏地退去。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "衰退",
+        "examples": [
+          {
+            "sentence": "His confidence ebbed when facing 100 math problems.",
+            "sentence_zh": "面对百道数学题时，他的信心逐渐衰退。"
+          },
+          {
+            "sentence": "The popularity of this app ebbed after the data scandal.",
+            "sentence_zh": "这款应用在数据丑闻后热度衰退。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "at a low ebb",
+        "meaning": "处于低谷",
+        "examples": [
+          {
+            "sentence": "Her creativity was at a low ebb during the quarantine.",
+            "sentence_zh": "隔离期间她的创作力处于低谷。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "ebb and flow",
+        "meaning": "涨落盛衰",
+        "examples": [
+          {
+            "sentence": "The stock market has its natural ebb and flow.",
+            "sentence_zh": "股市有其自然的涨落规律。"
+          }
+        ]
+      }
+    ],
+    "teach": "ebb就像人生过山车🎢！当说'退潮'时想象海水偷懒溜走🏖️（the tide ebbs），说'衰退'就像你健身卡到期后的腹肌消失🍔（enthusiasm ebbs）。搭配'at a low ebb'比说'I'm down'更文艺，'ebb and flow'能优雅描述股市起伏📈。记住：潮起潮落都是自然规律，emo时就说'I'm at a low ebb'~ 🌊💔📉",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿不'→饿到没力气(ebb)就是衰退",
+        "易混词对比：ebb(vs)flow → 就像退潮(vs)涨潮"
+      ]
+    }
+  },
+  {
+    "word": "ebbing",
+    "etymology": {
+      "breakdown": [
+        "ebb",
+        "ing"
+      ],
+      "meaning_connection": "古英语'ebba'表示退潮，-ing表进行时态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "（潮水）退去",
+        "examples": [
+          {
+            "sentence": "Tourists were chasing the ebbing waves on Bondi Beach.",
+            "sentence_zh": "游客们在邦迪海滩追逐退去的浪花。"
+          },
+          {
+            "sentence": "Crab hunters appear when the tide is ebbing fastest.",
+            "sentence_zh": "赶海人总在潮水退得最快时出现。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "减少",
+        "examples": [
+          {
+            "sentence": "His enthusiasm for marathon running is ebbing after hitting the wall.",
+            "sentence_zh": "撞墙后他对马拉松的热情逐渐消退。"
+          },
+          {
+            "sentence": "The cryptocurrency hype is ebbing like a receding hairline.",
+            "sentence_zh": "加密货币热潮像发际线一样后退。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "衰落",
+        "examples": [
+          {
+            "sentence": "DVD rentals are ebbing faster than VHS tapes did.",
+            "sentence_zh": "DVD租赁业衰落得比录像带还快。"
+          },
+          {
+            "sentence": "The ebbing popularity of this app surprised even its founders.",
+            "sentence_zh": "这款应用衰落的程度连创始人都吃惊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ebb and flow",
+        "meaning": "潮起潮落/盛衰",
+        "examples": [
+          {
+            "sentence": "The stock market's ebb and flow gives investors whiplash.",
+            "sentence_zh": "股市涨跌让投资者像坐过山车。"
+          }
+        ]
+      }
+    ],
+    "teach": "ebbing是人生真实写照📉！就像退潮时露出的礁石🐚，会暴露你的'投资底裤'（at a low ebb）。说'人气下滑'可以用popularity is ebbing faster than Bitcoin（比比特币跌得还快）💸。搭配：ebbing tide（退潮）、ebbing strength（体力衰退）。记住：所有ebbing都会迎来新的flow🌊！",
+    "recite": {
+      "tips": [
+        "视觉联想：字母e像退潮的水纹→b是冲浪板被搁浅🏄",
+        "易混词：fade强调逐渐消失，ebb强调周期性变化"
+      ]
+    }
   }
 ]

@@ -4210,5 +4210,287 @@
         "易混词对比：criticize（普通批评） vs lambast（狂风暴雨式责骂）"
       ]
     }
+  },
+  {
+    "word": "lambda",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "直接来自希腊字母Λ的发音，无进一步词源分解"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "希腊语的第11个字母(Λλ)",
+        "examples": [
+          {
+            "sentence": "The lambda symbol looks like an upside-down V with legs.",
+            "sentence_zh": "希腊字母Λ看起来像倒置的带腿字母V。"
+          },
+          {
+            "sentence": "Mathematicians use lambda to represent eigenvalues.",
+            "sentence_zh": "数学家常用Λ符号表示特征值。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lambda calculus",
+        "meaning": "λ演算",
+        "examples": [
+          {
+            "sentence": "Lambda calculus is fundamental to functional programming.",
+            "sentence_zh": "λ演算是函数式编程的基础。"
+          },
+          {
+            "sentence": "Haskell's syntax is deeply rooted in lambda calculus.",
+            "sentence_zh": "Haskell语言的语法深深植根于λ演算。"
+          }
+        ]
+      }
+    ],
+    "teach": "lambda其实是希腊字母界的'辣妹'💃！计算机科学家偷走它做函数符号(λx.x+1)，就像偷走π做圆周率一样理直气壮💻。物理课上它是波长符号🌊，编程时变成匿名函数马甲🐑。记住：看到λ就想到'拉面大碗'→程序员最爱边吃拉面边写lambda表达式🍜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒吧大'→程序员懒得写全函数名就用λ",
+        "视觉记忆：Λ像金字塔尖🔺或张开的双腿"
+      ]
+    }
+  },
+  {
+    "word": "lambing",
+    "etymology": {
+      "breakdown": [
+        "lamb",
+        "ing"
+      ],
+      "meaning_connection": "lamb（羔羊）+ -ing（动名词后缀）→ 指母羊生产羔羊的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "产羔",
+        "examples": [
+          {
+            "sentence": "The shepherd stayed up all night during lambing season.",
+            "sentence_zh": "牧羊人在产羔季整夜守候。"
+          },
+          {
+            "sentence": "Farmers use infrared cameras to monitor ewes during lambing.",
+            "sentence_zh": "农场主用红外摄像头监控母羊产羔过程。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lambing season",
+        "meaning": "产羔季节",
+        "examples": [
+          {
+            "sentence": "March to April is the peak lambing season in Inner Mongolia.",
+            "sentence_zh": "3-4月是内蒙古的产羔高峰期。"
+          }
+        ]
+      }
+    ],
+    "teach": "lambing其实是羊圈的'双十一'🐑！古代牧民用'产羔帐篷'就像现代产房🏥，英国有'产羔直播'比追剧还热闹📺。说'忙到飞起'可以叫busy as a shepherd in lambing season（像产羔季的牧羊人一样忙），记住：羊妈妈生宝宝叫lambing，就像快递员在双十一派件📦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒病'→母羊得懒病(lambing)时反而最辛苦",
+        "易混词：lamb（羔羊） vs. lamp（台灯）→ 有m的是活蹦乱跳的羊"
+      ]
+    }
+  },
+  {
+    "word": "lame",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'lama'，原指肢体残疾，后衍生出'不完善'的抽象含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "跛足的",
+        "examples": [
+          {
+            "sentence": "The lame panda at Chengdu base gets custom-made bamboo crutches.",
+            "sentence_zh": "成都基地的跛足熊猫配有定制竹拐杖。"
+          },
+          {
+            "sentence": "Tourists made way for the lame old man climbing the Great Wall slowly.",
+            "sentence_zh": "游客们为缓慢攀登长城的跛脚老人让路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "僵痛的",
+        "examples": [
+          {
+            "sentence": "After cycling around Hainan Island, his legs felt lame for days.",
+            "sentence_zh": "环海南岛骑行后，他的双腿僵痛了好几天。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不完全的",
+        "examples": [
+          {
+            "sentence": "His lame excuse about 'my phone ate the report' didn't convince the boss.",
+            "sentence_zh": "他'手机把报告吃了'的蹩脚借口没能说服老板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不知内情的人",
+        "examples": [
+          {
+            "sentence": "Stop pretending to be lame about crypto trends - I saw your Bitcoin wallet!",
+            "sentence_zh": "别假装不懂加密货币趋势——我见过你的比特币钱包！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成残废",
+        "examples": [
+          {
+            "sentence": "The industrial accident lamed three factory workers permanently.",
+            "sentence_zh": "那次工业事故造成三名工人永久残疾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变跛",
+        "examples": [
+          {
+            "sentence": "The delivery driver lamed after chasing package thieves for 5 blocks.",
+            "sentence_zh": "快递员追了偷包裹的人五个街区后变跛了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lame duck",
+        "meaning": "无用之人/任期将满的官员",
+        "examples": [
+          {
+            "sentence": "The CEO became a lame duck after the scandal broke out.",
+            "sentence_zh": "丑闻爆发后CEO成了跛脚鸭。"
+          }
+        ]
+      }
+    ],
+    "teach": "lame简直是'战损版'单词💥！从瘸腿山羊🐐到烂借口（'我作业被狗吃了'算经典lame excuse），再到金属薄板（像被锤子砸lame的易拉罐🥫）。说'这很逊'可以用lame替代uncool，比如'Your meme is so lame'配三个表情：🤨🚫🎯。记住：真正的lame是抢红包永远手气最差！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累母'→腿脚不便累坏老母亲",
+        "易混词：lamb（小羊）和lame（瘸腿）→小羊不lame才能蹦跳"
+      ]
+    }
+  },
+  {
+    "word": "lamely",
+    "etymology": {
+      "breakdown": [
+        "lame",
+        "ly"
+      ],
+      "meaning_connection": "lame（跛的）+ -ly（副词后缀）→ 字面指'像瘸子那样'，引申为'不完善地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "一瘸一拐地",
+        "examples": [
+          {
+            "sentence": "The injured puppy walked lamely toward its owner with a bandaged paw.",
+            "sentence_zh": "受伤的小狗缠着绷带，一瘸一拐地走向主人。"
+          },
+          {
+            "sentence": "After the marathon, he lamely dragged himself to the massage table.",
+            "sentence_zh": "跑完马拉松后，他一瘸一拐地挪向按摩床。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不完全地",
+        "examples": [
+          {
+            "sentence": "The AI only lamely imitated human emotions in early versions.",
+            "sentence_zh": "早期版本的人工智能只能拙劣地模仿人类情感。"
+          },
+          {
+            "sentence": "He lamely explained his absence with 'my dog ate my subway card'.",
+            "sentence_zh": "他用'我的狗吃了公交卡'这种蹩脚理由解释缺席原因。"
+          }
+        ]
+      }
+    ],
+    "teach": "lamely是瘸腿企鹅🐧的专属副词！古英语中lame指'折断的腿'，想象霸王龙T-Rex短手短脚追猎物🦖的样子就叫lamely。要说'借口很烂'可用half-baked excuse（半生不熟的借口），'勉强完成'叫patch up。记住：无论是跛行还是烂借口，都像没泡开的方便面🍜——差点意思！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累母驴'→瘸腿母驴走lamely",
+        "对比记忆：limply（软塌塌地）vs lamely（瘸着走）",
+        "联想：微信步数排行榜垫底那个头像→走lamely"
+      ]
+    }
+  },
+  {
+    "word": "lameness",
+    "etymology": {
+      "breakdown": [
+        "lame",
+        "ness"
+      ],
+      "meaning_connection": "lame（跛的）+-ness（名词后缀）→ 跛的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "跛",
+        "examples": [
+          {
+            "sentence": "The old donkey's lameness made it walk like a dancing robot.",
+            "sentence_zh": "老驴的跛脚让它走起路来像跳舞的机器人。"
+          },
+          {
+            "sentence": "His temporary lameness after skiing earned him the nickname 'Penguin King'.",
+            "sentence_zh": "他滑雪后的暂时跛行为他赢得了'企鹅王'的绰号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "残废",
+        "examples": [
+          {
+            "sentence": "The veteran's lameness was a proud battlefield souvenir.",
+            "sentence_zh": "这位老兵的残废是战场上骄傲的纪念品。"
+          },
+          {
+            "sentence": "In ancient China, lameness didn't stop some scholars from becoming famous calligraphers.",
+            "sentence_zh": "在古代中国，残废并未阻止一些学者成为著名书法家。"
+          }
+        ]
+      }
+    ],
+    "teach": "lameness是社畜的终极借口🦿！古罗马角斗士会假装lameness逃避战斗（'我腿瘸了！'），现代人用lameness逃健身房💪。说'装瘸'英文叫fake lameness，真瘸了可以说my leg's out of service🚧。记住：临时lameness叫sprain，永久lameness叫disability🩼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累么？死'→ 瘸腿走路累到死",
+        "易混词对比：lameness（状态） vs limp（跛行动作）",
+        "联想记忆：lame（无聊的）+ness = 无聊到腿麻"
+      ]
+    }
   }
 ]

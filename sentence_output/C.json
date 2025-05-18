@@ -3594,5 +3594,296 @@
         "易混词对比：deliberate（故意的）更主观，calculated（有计划的）更理性"
       ]
     }
+  },
+  {
+    "word": "calculating",
+    "etymology": {
+      "breakdown": [
+        "calcul",
+        "ate",
+        "ing"
+      ],
+      "meaning_connection": "词根calcul=石头（古罗马用石头计算），-ate动词后缀，-ing形容词后缀→原指'计算的'，后引申为'精于算计的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "计算的",
+        "examples": [
+          {
+            "sentence": "The calculating speed of this abacus surprises mathematicians.",
+            "sentence_zh": "这把算盘的计算速度让数学家都惊讶。"
+          },
+          {
+            "sentence": "Her calculating gaze scanned the supermarket discounts like a barcode reader.",
+            "sentence_zh": "她计算般的目光像扫码枪一样扫视超市折扣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "专为自己打算的",
+        "examples": [
+          {
+            "sentence": "He gave a calculating smile when dividing the hotpot ingredients.",
+            "sentence_zh": "分配火锅食材时他露出了精明的笑容。"
+          },
+          {
+            "sentence": "The calculating colleague always 'forgets' his wallet at team dinners.",
+            "sentence_zh": "那个精于算计的同事总在团建时'忘记'带钱包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "深谋远虑的",
+        "examples": [
+          {
+            "sentence": "The calculating general moved chess pieces like commanding troops.",
+            "sentence_zh": "这位深谋远虑的将军下棋如调兵遣将。"
+          },
+          {
+            "sentence": "Her calculating preparation included bribing the cat with treats.",
+            "sentence_zh": "她周密到连猫咪都用零食收买了。"
+          }
+        ]
+      }
+    ],
+    "teach": "calculating是计算机💻也是心机婊👑！词源calcul=石头（古罗马用石头算账🧮），现在既形容支付宝年度账单的计算能力，也形容AA制时'手机突然没电'的朋友。搭配calculating mind（精于算计）/calculating look（盘算的眼神），说'心机重'可以用sharp as a tack（锋利如钉）🚨💸🧠",
+    "recite": {
+      "tips": [
+        "谐音梗：'开口雷挺'→开口就雷人的算计",
+        "易混词：calculated（蓄意的）vs. calculative（计算的）",
+        "记忆术：看见-ating结尾要当心，可能是'爱吃'（谐音）别人的利益"
+      ]
+    }
+  },
+  {
+    "word": "calculation",
+    "etymology": {
+      "breakdown": [
+        "calcul",
+        "ation"
+      ],
+      "meaning_connection": "词根calcul=小石子（古罗马用石子计算），-ation表行为结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "计算",
+        "examples": [
+          {
+            "sentence": "The AI's calculation speed surpasses human accountants by 1000 times.",
+            "sentence_zh": "AI的计算速度比人类会计快1000倍。"
+          },
+          {
+            "sentence": "Her mental calculation of the hotpot bill shocked everyone.",
+            "sentence_zh": "她心算出的火锅账单震惊了所有人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "考虑",
+        "examples": [
+          {
+            "sentence": "After careful calculation, he chose the job with free milk tea.",
+            "sentence_zh": "经过慎重考虑，他选择了有免费奶茶的工作。"
+          },
+          {
+            "sentence": "Political calculations often outweigh moral concerns.",
+            "sentence_zh": "政治考量常常压倒道德关切。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "计算的结果",
+        "examples": [
+          {
+            "sentence": "The final calculation showed we ordered 15 plates of wagyu beef.",
+            "sentence_zh": "最终计算结果显示我们点了15盘和牛。"
+          },
+          {
+            "sentence": "According to my calculations, we'll run out of mooncakes by mid-autumn.",
+            "sentence_zh": "根据我的计算结果，中秋前月饼就会吃完。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cold calculation",
+        "meaning": "冷酷算计",
+        "examples": [
+          {
+            "sentence": "The villain's cold calculation ignored human feelings.",
+            "sentence_zh": "反派的冷酷算计完全不顾人情。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quick calculation",
+        "meaning": "快速计算",
+        "examples": [
+          {
+            "sentence": "A quick calculation told me the discount wasn't real.",
+            "sentence_zh": "快速计算后我发现折扣是假的。"
+          }
+        ]
+      }
+    ],
+    "teach": "calculation就是古代码农的算盘🧮！词根calcul=小石子，因为罗马人用石子算数（现在用CPU💻）。说'精打细算'叫do the math，'失算'叫miscalculation就像外卖算错配送费😱。记住：人生最大的calculation就是——奶茶到底算几顿饭？🍜+🍵=❓",
+    "recite": {
+      "tips": [
+        "谐音梗：'开口雷神'→开口就雷人的计算（calcula-tion）",
+        "易混词：calculator(计算器) VS calculation(计算行为)"
+      ]
+    }
+  },
+  {
+    "word": "calculator",
+    "etymology": {
+      "breakdown": [
+        "calcul",
+        "ator"
+      ],
+      "meaning_connection": "词根calcul=计算（源自拉丁语'calculus'小石子，古人用石子计数），-ator表'执行者'→'计算的人或工具'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "计算者",
+        "examples": [
+          {
+            "sentence": "The ancient Egyptian calculator used hieroglyphs to record harvest yields.",
+            "sentence_zh": "古埃及计算者用象形文字记录粮食产量。"
+          },
+          {
+            "sentence": "Before computers, human calculators were employed for complex equations.",
+            "sentence_zh": "计算机出现前，复杂方程需雇佣人工计算者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "计算器",
+        "examples": [
+          {
+            "sentence": "My solar-powered calculator survived 3 years of math classes.",
+            "sentence_zh": "我的太阳能计算器撑过了三年数学课。"
+          },
+          {
+            "sentence": "The teacher confiscated the calculator that could play Tetris.",
+            "sentence_zh": "老师没收了能玩俄罗斯方块的计算器。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pocket calculator",
+        "meaning": "袖珍计算器",
+        "examples": [
+          {
+            "sentence": "He still keeps his 1980s pocket calculator as a vintage collection.",
+            "sentence_zh": "他仍保留着80年代的袖珍计算器当作复古收藏。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "calculator watch",
+        "meaning": "计算器手表",
+        "examples": [
+          {
+            "sentence": "The calculator watch was considered high-tech in primary school.",
+            "sentence_zh": "小学时计算器手表被认为是高科技产品。"
+          }
+        ]
+      }
+    ],
+    "teach": "calculator其实是'石子操控者'🧮！古罗马人用calculus（小石子）算账，现代人用手机计算器📱。说'心算'要叫mental math（别用heart calculate！），'算错了'可说miscalculate就像食堂阿姨打菜手抖🥄。记住：你的计算器可能比秦始皇的算盘还厉害！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开Q拉腿'→打开计算器(Q)拉长数字腿",
+        "易混词：calculator（工具） vs. calculation（计算行为）",
+        "视觉联想：计算器按钮像古代算盘珠子"
+      ]
+    }
+  },
+  {
+    "word": "calculus",
+    "etymology": {
+      "breakdown": [
+        "calcul",
+        "us"
+      ],
+      "meaning_connection": "词根calcul=小石头（古罗马用石子计数），-us名词后缀→原指'用石子计算'，引申出'结石'和'计算学科'双义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "结石",
+        "examples": [
+          {
+            "sentence": "The doctor found renal calculus during my physical exam.",
+            "sentence_zh": "体检时医生发现了肾结石。"
+          },
+          {
+            "sentence": "Ancient medical texts described bladder calculus as 'pebbles in wine'.",
+            "sentence_zh": "古医书将膀胱结石描述为'酒中卵石'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "微积分学",
+        "examples": [
+          {
+            "sentence": "Newton developed calculus to calculate planetary orbits.",
+            "sentence_zh": "牛顿发展微积分来计算行星轨道。"
+          },
+          {
+            "sentence": "Freshmen often struggle with the epsilon-delta definition in calculus.",
+            "sentence_zh": "大一新生常被微积分的ε-δ定义难倒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "differential calculus",
+        "meaning": "微分学",
+        "examples": [
+          {
+            "sentence": "Differential calculus helps optimize Douyin's recommendation algorithm.",
+            "sentence_zh": "微分学助力优化抖音推荐算法。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "urinary calculus",
+        "meaning": "尿路结石",
+        "examples": [
+          {
+            "sentence": "Drinking boba tea excessively may increase risk of urinary calculus.",
+            "sentence_zh": "过量饮用奶茶可能增加尿路结石风险。"
+          }
+        ]
+      }
+    ],
+    "teach": "calculus是'石头记'📜：古人用石子(calcul)记账🧮演化成高等数学，而体内的'石头'则让人痛不欲生🤯。学微积分就像消化结石💊——都需要慢慢磨！说'算不明白'可以用It's all Greek to me（这对我就是天书）📚，'学霸'叫math whiz（数学鬼才）👻。记住：肾结石和微积分都会让你尖叫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡壳了死'→学微积分卡壳到死",
+        "易混词：calculate（计算）vs calculus（计算学科）"
+      ]
+    }
   }
 ]

@@ -4099,5 +4099,310 @@
         "易混对比：patriotic（爱国）是褒义，nationalistic常带贬义"
       ]
     }
+  },
+  {
+    "word": "nationality",
+    "etymology": {
+      "breakdown": [
+        "nation",
+        "al",
+        "ity"
+      ],
+      "meaning_connection": "词根nation=出生/种族，-al表属性，-ity表状态→与出生地相关的属性状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "国籍",
+        "examples": [
+          {
+            "sentence": "Her Chinese nationality allows visa-free access to 80 countries.",
+            "sentence_zh": "她的中国国籍可免签进入80个国家。"
+          },
+          {
+            "sentence": "Dual nationality is like having two WeChat accounts - convenient but complicated.",
+            "sentence_zh": "双重国籍就像有两个微信号——方便但复杂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "民族性",
+        "examples": [
+          {
+            "sentence": "The Hui nationality's culinary tradition is a gem of Chinese culture.",
+            "sentence_zh": "回族的饮食传统是中华文化的瑰宝。"
+          },
+          {
+            "sentence": "Han nationality's Lunar New Year customs include red envelopes and dumplings.",
+            "sentence_zh": "汉族的春节习俗包括红包和饺子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "国家",
+        "examples": [
+          {
+            "sentence": "The Olympic medal table ranks by nationality not population.",
+            "sentence_zh": "奥运奖牌榜按国家而非人口排序。"
+          },
+          {
+            "sentence": "Baidu's self-driving cars will serve multiple nationalities.",
+            "sentence_zh": "百度的自动驾驶汽车将为多个国家服务。"
+          }
+        ]
+      }
+    ],
+    "teach": "nationality是'出生地盲盒'🌍：拆开nation(出生)+ality(属性)就像拆快递看发货地📦。说'混血儿'用mixed nationality像奶茶混搭🥤，'无国籍'叫stateless就像被注销的微信号🚫。记住：你的nationality决定了你能在B站看哪些番剧🇨🇳！搭配：acquire nationality(入籍)/dual nationality(双重国籍)，地道表达'香蕉人'叫ABC(American-Born Chinese)🍌",
+    "recite": {
+      "tips": [
+        "谐音梗：'耐生奶茶提'→耐着性子问'你哪国生的？'（nationality）",
+        "易混词：nation(国家)/national(国家的)/nationalism(民族主义)"
+      ]
+    }
+  },
+  {
+    "word": "nationalization",
+    "etymology": {
+      "breakdown": [
+        "nation",
+        "al",
+        "ize",
+        "ation"
+      ],
+      "meaning_connection": "词根nation=国家，-al表形容词，-ize表'使...化'，-ation表过程→使国家化的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "同化",
+        "examples": [
+          {
+            "sentence": "The nationalization of culinary styles created American Chinese food.",
+            "sentence_zh": "烹饪风格的同化创造了美式中餐。"
+          },
+          {
+            "sentence": "Disney's nationalization process turns Mulan into a global icon.",
+            "sentence_zh": "迪士尼的同化过程让花木兰成为全球偶像。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "归化",
+        "examples": [
+          {
+            "sentence": "The basketball player's nationalization caused heated debate.",
+            "sentence_zh": "这位篮球运动员的归化引发了激烈讨论。"
+          },
+          {
+            "sentence": "Panda's nationalization documents always go viral.",
+            "sentence_zh": "熊猫的归化文件总会成为网红话题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "国有化",
+        "examples": [
+          {
+            "sentence": "The nationalization of railways improved punctuality dramatically.",
+            "sentence_zh": "铁路国有化后准点率大幅提升。"
+          },
+          {
+            "sentence": "Venezuela's oil nationalization changed global market patterns.",
+            "sentence_zh": "委内瑞拉石油国有化改变了全球市场格局。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "forced nationalization",
+        "meaning": "强制国有化",
+        "examples": [
+          {
+            "sentence": "The forced nationalization of private schools raised concerns.",
+            "sentence_zh": "私立学校的强制国有化引发担忧。"
+          }
+        ]
+      }
+    ],
+    "teach": "nationalization就像火锅底料融合术🍲！'同化'是文化鸳鸯锅（如KFC出粥品🥣），'归化'是运动员换队服（像谷爱凌中美双籍🎿），'国有化'则是把火锅店收归国资委（中石油模式⛽）。搭配说'undergo nationalization'（经历国有化）或'reverse nationalization'（逆向国有化），吐槽效率低可以说'snail-paced nationalization'🐌！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪省来热审'→哪省来的企业要接受国有化热审",
+        "易混词：naturalization（入籍）vs nationalization",
+        "记忆链：nation→national→nationalize→nationalization"
+      ]
+    }
+  },
+  {
+    "word": "nationalize",
+    "etymology": {
+      "breakdown": [
+        "nation",
+        "al",
+        "ize"
+      ],
+      "meaning_connection": "词根nation=国家，-al表形容词后缀，-ize表'使...化'→使具有国家性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使归化",
+        "examples": [
+          {
+            "sentence": "The Brazilian football team nationalized many German-origin players.",
+            "sentence_zh": "巴西足球队归化了许多德裔球员。"
+          },
+          {
+            "sentence": "Singapore nationalizes foreign talents through special immigration policies.",
+            "sentence_zh": "新加坡通过特殊移民政策使外籍人才归化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使国有化",
+        "examples": [
+          {
+            "sentence": "Venezuela nationalized all oil fields in 2007.",
+            "sentence_zh": "委内瑞拉在2007年将全部油田国有化。"
+          },
+          {
+            "sentence": "The UK once nationalized its railway system like China's CR.",
+            "sentence_zh": "英国曾像中国铁路总公司那样将铁路系统国有化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成国家",
+        "examples": [
+          {
+            "sentence": "The treaty nationalized the former colonial territory.",
+            "sentence_zh": "该条约使前殖民领土成为国家。"
+          },
+          {
+            "sentence": "The independence movement aims to nationalize the region.",
+            "sentence_zh": "独立运动旨在使该地区成为国家。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使民族化",
+        "examples": [
+          {
+            "sentence": "The government nationalized the education system by adding folk culture courses.",
+            "sentence_zh": "政府通过增设民俗文化课程使教育体系民族化。"
+          },
+          {
+            "sentence": "Starbucks nationalized its menu with matcha-flavored drinks in Japan.",
+            "sentence_zh": "星巴克在日本用抹茶风味饮品使菜单民族化。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nationalize assets",
+        "meaning": "资产国有化",
+        "examples": [
+          {
+            "sentence": "Cuba nationalized all American assets in 1960.",
+            "sentence_zh": "古巴在1960年将所有美国资产国有化。"
+          }
+        ]
+      }
+    ],
+    "teach": "nationalize就像国家牌吸尘器🧹！'归化'是吸外籍球员进国家队⚽（nationalize Messi）；'国有化'是把私企变国企🏦（nationalize banks）；'建国'像吸尘器把土地吸成国家🗺️；'民族化'是给汉堡加老干妈🌶️（nationalize McDonald's）。记住：-ize结尾都是'使...化'魔法棒✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪身来iz'→哪国身份证(ize)来了",
+        "易混词对比：naturalize（入籍）vs nationalize（国有化）",
+        "记忆tip：nation+alize=国家+化=四重含义"
+      ]
+    }
+  },
+  {
+    "word": "nationalized",
+    "etymology": {
+      "breakdown": [
+        "nation",
+        "al",
+        "ize",
+        "ed"
+      ],
+      "meaning_connection": "词根nation=国家，-al表形容词性，-ize表'使...化'，-ed表过去分词→使国家化的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "国有化的",
+        "examples": [
+          {
+            "sentence": "The nationalized railways now offer free WiFi for all passengers.",
+            "sentence_zh": "国有化铁路如今为所有乘客提供免费WiFi。"
+          },
+          {
+            "sentence": "After being nationalized, the oil company started selling mooncake gift boxes.",
+            "sentence_zh": "国有化后，这家石油公司开始售卖月饼礼盒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "国营的",
+        "examples": [
+          {
+            "sentence": "The nationalized liquor stores have the best baijiu selections.",
+            "sentence_zh": "这家国营酒类专卖店有最全的白酒品类。"
+          },
+          {
+            "sentence": "Even nationalized telecom companies now offer 5G unlimited data plans.",
+            "sentence_zh": "即便是国营电信公司现在也推出5G不限量套餐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "国有的",
+        "examples": [
+          {
+            "sentence": "The nationalized bank launched a digital RMB wallet feature.",
+            "sentence_zh": "这家国有银行推出了数字人民币钱包功能。"
+          },
+          {
+            "sentence": "All nationalized airlines provide free change services during typhoons.",
+            "sentence_zh": "所有国有航空公司在台风期间都提供免费改签服务。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nationalized industry",
+        "meaning": "国有化产业",
+        "examples": [
+          {
+            "sentence": "The nationalized industry contributes 30% of China's GDP.",
+            "sentence_zh": "国有化产业贡献了中国30%的GDP。"
+          }
+        ]
+      }
+    ],
+    "teach": "nationalized就像'国家版家长模式'👨👩👧👦：当企业被'收编'后，就像从野生熊猫变成国宝🐼（state-owned）。说'国企效率低'可以用'as slow as a nationalized snail mail'🐌，但'稳定'可以说'as solid as the Great Wall'🧱。记住：-ized结尾总带着'被改造'的戏剧性！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哪生来就的'→哪生来就(nationalized)是国家的",
+        "易混词对比：nationalized(国家接管) vs privatized(私有化)"
+      ]
+    }
   }
 ]

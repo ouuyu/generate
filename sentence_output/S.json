@@ -4010,5 +4010,281 @@
         "易混词对比：tapioca（木薯珍珠）vs sago（棕榈淀粉）"
       ]
     }
+  },
+  {
+    "word": "said",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'sægde'，say的过去式衍生形式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "上述的",
+        "examples": [
+          {
+            "sentence": "The said document was found in a spicy hotpot restaurant.",
+            "sentence_zh": "上述文件是在一家麻辣火锅店被发现的。"
+          },
+          {
+            "sentence": "Please bring the said suitcase to the Douyin headquarters.",
+            "sentence_zh": "请将上述行李箱带到抖音总部。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "say的过去式",
+        "examples": [
+          {
+            "sentence": "She said 'add more chili!' while cooking mapo tofu.",
+            "sentence_zh": "她做麻婆豆腐时说'再加点辣椒！'"
+          },
+          {
+            "sentence": "The tour guide said the Great Wall was built with sticky rice mortar.",
+            "sentence_zh": "导游说长城是用糯米砂浆建造的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "say的过去分词",
+        "examples": [
+          {
+            "sentence": "Having said that, I still prefer Peking duck over hamburgers.",
+            "sentence_zh": "话虽如此，比起汉堡我还是更喜欢北京烤鸭。"
+          },
+          {
+            "sentence": "It's often said that Sichuan people have iron stomachs.",
+            "sentence_zh": "人们常说四川人都有铁打的胃。"
+          }
+        ]
+      }
+    ],
+    "teach": "said这个词就像回音壁🗣️：作形容词时像警察指认'就是这锅火锅'(said hotpot)，作动词时像复读机播放'你刚才说...'(you said...)。搭配'said to be'就像朋友圈传闻'据说这家奶茶店排队3小时'🥤，而'with that said'就像大妈说完'菜太贵'后突然砍价🔪。记住：said作形容词时永远戴着'上述的'高帽🎩！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛德'→赛德(said)选手重复评委的话",
+        "对比记忆：said(说过) vs. paid(付过)"
+      ]
+    }
+  },
+  {
+    "word": "sail",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自原始印欧语词根*sek-表示'切割'，因早期船帆由切割的兽皮制成"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "帆",
+        "examples": [
+          {
+            "sentence": "The fisherman mended his sail with dragon motifs before the voyage.",
+            "sentence_zh": "渔民启航前修补了带有龙纹的船帆。"
+          },
+          {
+            "sentence": "Her pink sail stood out like a cherry blossom in the harbor.",
+            "sentence_zh": "她的粉色船帆在港口里像樱花般醒目。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "帆船",
+        "examples": [
+          {
+            "sentence": "We chartered a traditional Chinese junk sail for the tour.",
+            "sentence_zh": "我们租了艘中式帆船进行游览。"
+          },
+          {
+            "sentence": "The bay was dotted with colorful sails during the regatta.",
+            "sentence_zh": "赛艇大会时海湾点缀着各色帆船。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "航程",
+        "examples": [
+          {
+            "sentence": "It's a three-hour sail from Xiamen to Gulangyu Island.",
+            "sentence_zh": "从厦门到鼓浪屿是三小时的航程。"
+          },
+          {
+            "sentence": "The maiden sail of this cruise ship will depart from Shanghai.",
+            "sentence_zh": "这艘游轮的首航将从上海出发。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "航行",
+        "examples": [
+          {
+            "sentence": "Cargo ships sail along the Yangtze River day and night.",
+            "sentence_zh": "货船日夜不停地在长江上航行。"
+          },
+          {
+            "sentence": "The tea clippers once sailed between China and Britain.",
+            "sentence_zh": "运茶快船曾往返于中英两国之间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "驾船",
+        "examples": [
+          {
+            "sentence": "He sailed the sampan skillfully through the reeds.",
+            "sentence_zh": "他娴熟地驾着舢板穿过芦苇丛。"
+          },
+          {
+            "sentence": "She became the first woman to sail a junk across the Pacific.",
+            "sentence_zh": "她成为首位驾驶帆船横跨太平洋的女性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "set sail",
+        "meaning": "启航",
+        "examples": [
+          {
+            "sentence": "Zheng He set sail from Suzhou with thousands of crew members.",
+            "sentence_zh": "郑和带着数千船员从苏州启航。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sail through",
+        "meaning": "轻松完成",
+        "examples": [
+          {
+            "sentence": "She sailed through the Mandarin proficiency test.",
+            "sentence_zh": "她轻松通过了汉语水平考试。"
+          }
+        ]
+      }
+    ],
+    "teach": "sail这个词就像被海风吹起的T恤下摆🌊！最早船帆用兽皮缝制（所以词根是'切割'✂️），现在说'启航'要学郑和说set sail⛵。吐槽'工作太轻松'可以说smooth sailing（顺风航行），遇到困难时就说we're in the same boat（同舟共济）🤝。记住：帆船emoji⛵永远比轮船🚢更有诗意！",
+    "recite": {
+      "tips": [
+        "谐音梗：'say哟'→say哟(sail)出海去",
+        "易混词：sale（销售）vs sail（帆船）→'卖(sale)货不如卖帆船(sail)'",
+        "联想：Sail→S（水波）+ail（尾巴）→像尾巴般摆动的船帆"
+      ]
+    }
+  },
+  {
+    "word": "sailboard",
+    "etymology": {
+      "breakdown": [
+        "sail",
+        "board"
+      ],
+      "meaning_connection": "sail=帆，board=板→带帆的冲浪板"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "驾驶帆板冲浪",
+        "examples": [
+          {
+            "sentence": "He learned to sailboard during his gap year in Hainan.",
+            "sentence_zh": "他在海南间隔年期间学会了驾驶帆板冲浪。"
+          },
+          {
+            "sentence": "The wind was too strong for beginners to sailboard safely.",
+            "sentence_zh": "风力太强，初学者无法安全驾驶帆板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "帆板",
+        "examples": [
+          {
+            "sentence": "Her pink sailboard stood out among all the equipment.",
+            "sentence_zh": "她的粉色帆板在所有装备中格外醒目。"
+          },
+          {
+            "sentence": "Modern sailboards are made with carbon fiber materials.",
+            "sentence_zh": "现代帆板采用碳纤维材料制作。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go sailboarding",
+        "meaning": "玩帆板运动",
+        "examples": [
+          {
+            "sentence": "We're going sailboarding this weekend if the weather permits.",
+            "sentence_zh": "如果天气允许，我们这周末要去玩帆板运动。"
+          }
+        ]
+      }
+    ],
+    "teach": "sailboard是冲浪界的混血儿🏄♂️：既有冲浪板(board)的帅气，又带着帆船(sail)的优雅⛵。要说'晒成古铜色'叫get windburned（被风灼伤），'翻船'叫wipe out就像火锅里捞不到肉🍲。记住：玩sailboard时，风是你的外卖小哥，浪是你的快递员🌊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒爆的'→玩帆板会晒爆皮肤",
+        "易混词对比：surfboard（无帆冲浪板） vs sailboard（带帆冲浪板）",
+        "记忆tip：想象帆(sail)插在板(board)上变成'赛尔号'飞船"
+      ]
+    }
+  },
+  {
+    "word": "sailboat",
+    "etymology": {
+      "breakdown": [
+        "sail",
+        "boat"
+      ],
+      "meaning_connection": "sail=帆，boat=船→字面组合'带帆的船'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "帆船",
+        "examples": [
+          {
+            "sentence": "The billionaire's sailboat has a mahjong room onboard.",
+            "sentence_zh": "那位亿万富翁的帆船上有个麻将室。"
+          },
+          {
+            "sentence": "We capsized the sailboat while taking selfies.",
+            "sentence_zh": "我们在玩自拍时把帆船弄翻了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sailboat racing",
+        "meaning": "帆船竞赛",
+        "examples": [
+          {
+            "sentence": "Qingdao hosts international sailboat racing events.",
+            "sentence_zh": "青岛举办国际帆船竞赛。"
+          }
+        ]
+      }
+    ],
+    "teach": "帆船是古代版新能源车⛵！郑和下西洋的宝船就是豪华sailboat，现代人玩帆船像在海上开特斯拉🌊（只不过靠风不靠电）。说'翻船'不用turn over而用capsize更专业，'顺风航行'叫sail with the wind🍃。记住：有钱人的sailboat=打工人拼的共享单车🚲（都是交通工具）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛尔号'→小朋友最爱的帆船游戏",
+        "易混词对比：sailboat（帆船） vs. submarine（潜艇）→一个在水面一个水下"
+      ]
+    }
   }
 ]
