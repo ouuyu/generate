@@ -8226,5 +8226,296 @@
         "记忆法：熊猫=黑白电视+绿色青团"
       ]
     }
+  },
+  {
+    "word": "pandemic",
+    "etymology": {
+      "breakdown": [
+        "pan",
+        "demic"
+      ],
+      "meaning_connection": "前缀pan=全部，词根demic=人群→原指'在全体人群中传播的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "大流行的",
+        "examples": [
+          {
+            "sentence": "Pandemic memes spread faster than the virus itself during COVID-19.",
+            "sentence_zh": "新冠疫情期间，大流行的梗图传播得比病毒还快。"
+          },
+          {
+            "sentence": "The zombie movie depicted a pandemic scenario where the undead took over TikTok.",
+            "sentence_zh": "这部僵尸电影描绘了亡灵占领抖音的大流行场景。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "普遍的",
+        "examples": [
+          {
+            "sentence": "Pandemic fear made toilet paper become the new currency in 2020.",
+            "sentence_zh": "普遍的恐慌让厕纸在2020年成为新货币。"
+          },
+          {
+            "sentence": "There's a pandemic obsession with bubble tea across Asian countries.",
+            "sentence_zh": "亚洲国家对奶茶有着普遍的痴迷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "全世界的",
+        "examples": [
+          {
+            "sentence": "K-pop's pandemic popularity even reached Antarctica research stations.",
+            "sentence_zh": "韩流的世界性热度甚至传到了南极科考站。"
+          },
+          {
+            "sentence": "The pandemic success of TikTok challenges crossed all language barriers.",
+            "sentence_zh": "TikTok挑战赛风靡全世界，跨越了所有语言障碍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pandemic prevention",
+        "meaning": "大流行预防",
+        "examples": [
+          {
+            "sentence": "China's pandemic prevention measures included健康码 systems more complex than RPG games.",
+            "sentence_zh": "中国的大流行预防措施包含比角色扮演游戏还复杂的健康码系统。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go pandemic",
+        "meaning": "变得全球流行",
+        "examples": [
+          {
+            "sentence": "The 'Dalang came to drink tea' meme went pandemic overnight.",
+            "sentence_zh": "'大郎该喝药了'梗图一夜之间全球爆红。"
+          }
+        ]
+      }
+    ],
+    "teach": "pandemic就是病毒界的双十一🦠：全人类被迫参加（pan全部+demic人群）。就像疯狂传播的'退退退'大妈梗🌪️，区别在于epidemic是地区限定款，pandemic是全球包邮版📦。说'封控'用lockdown比house arrest更地道，搭配'居家办公'叫WFH(work from home)。记住：你的健康码颜色决定你能浪多远！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盘点米'→大流行时要囤积大米",
+        "易混词：epidemic（流行病）vs pandemic（大流行病）就像网红店排队和全民疯抢的区别"
+      ]
+    }
+  },
+  {
+    "word": "pandemonium",
+    "etymology": {
+      "breakdown": [
+        "pan",
+        "demon",
+        "ium"
+      ],
+      "meaning_connection": "pan=全部，demon=恶魔，-ium=场所→字面意思是'所有恶魔聚集的地方'，源自弥尔顿《失乐园》中的地狱首都"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "魔窟",
+        "examples": [
+          {
+            "sentence": "The villain's lair was a true pandemonium filled with cursed artifacts.",
+            "sentence_zh": "反派的巢穴是真正的魔窟，堆满了被诅咒的法器。"
+          },
+          {
+            "sentence": "Ancient texts describe the pandemonium where evil spirits held their meetings.",
+            "sentence_zh": "古籍记载了恶灵们召开会议的魔窟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地狱",
+        "examples": [
+          {
+            "sentence": "Dante's Inferno vividly depicts the pandemonium of the underworld.",
+            "sentence_zh": "但丁的《神曲》生动描绘了阴间的地狱景象。"
+          },
+          {
+            "sentence": "The earthquake turned the city into a living pandemonium.",
+            "sentence_zh": "地震将整座城市变成了人间地狱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一片混乱",
+        "examples": [
+          {
+            "sentence": "When the popstar appeared, the airport descended into pandemonium.",
+            "sentence_zh": "当流行巨星现身时，机场瞬间陷入一片混乱。"
+          },
+          {
+            "sentence": "The stock market crash caused financial pandemonium worldwide.",
+            "sentence_zh": "股市崩盘导致全球金融秩序一片混乱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大吵大闹",
+        "examples": [
+          {
+            "sentence": "Pandemonium broke out when the teacher announced a surprise test.",
+            "sentence_zh": "老师宣布突击考试时，教室里顿时大吵大闹起来。"
+          },
+          {
+            "sentence": "The panda exhibit always causes pandemonium among visiting children.",
+            "sentence_zh": "熊猫馆总能引发参观儿童的大吵大闹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sheer pandemonium",
+        "meaning": "极度混乱",
+        "examples": [
+          {
+            "sentence": "The release of iPhone 15 caused sheer pandemonium at Apple Stores.",
+            "sentence_zh": "iPhone15发售时苹果店陷入极度混乱。"
+          }
+        ]
+      }
+    ],
+    "teach": "这个词是弥尔顿在《失乐园》里造的！把pan（全）+ demon（恶魔）拼起来——想象所有恶魔开大会的场面👹💥，就像双十一零点抢购现场🎪，或是班主任突然宣布考试时的教室📚🤯。说'乱成一锅粥'可以用complete pandemonium，形容'恶魔狂欢'般的混乱用demonic pandemonium。记住：所有demon聚会的-ium场所就是pandemonium！",
+    "recite": {
+      "tips": [
+        "谐音梗：'潘多魔'→潘多拉魔盒打开后的魔界混乱",
+        "对比：chaos（普通混乱） vs pandemonium（恶魔级混乱）",
+        "记忆法：pan（平底锅）+ demon（恶魔）→恶魔在锅里开派对"
+      ]
+    }
+  },
+  {
+    "word": "pander",
+    "etymology": {
+      "breakdown": [
+        "pand",
+        "er"
+      ],
+      "meaning_connection": "源自意大利语'pandare'（皮条客），-er表职业，原指为他人提供不正当服务者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "勾引",
+        "examples": [
+          {
+            "sentence": "The scammer pandered to lonely seniors with fake love letters.",
+            "sentence_zh": "骗子用伪造情书勾引独居老人。"
+          },
+          {
+            "sentence": "Some influencers pander to audiences with exaggerated titles.",
+            "sentence_zh": "某些网红用夸张标题勾引观众点击。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "怂恿",
+        "examples": [
+          {
+            "sentence": "The game deliberately panders to players' gambling instincts.",
+            "sentence_zh": "该游戏刻意怂恿玩家的赌博心态。"
+          },
+          {
+            "sentence": "Don't pander to his laziness by doing his homework!",
+            "sentence_zh": "别帮他写作业怂恿他的懒惰！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "卑劣地迎合",
+        "examples": [
+          {
+            "sentence": "Politicians sometimes pander to populist sentiments.",
+            "sentence_zh": "政客常卑劣地迎合民粹情绪。"
+          },
+          {
+            "sentence": "The show panders to the lowest common denominator with crude humor.",
+            "sentence_zh": "该节目用低俗笑料卑劣地迎合大众。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拉皮条者",
+        "examples": [
+          {
+            "sentence": "In ancient dramas, the pander often wore gaudy costumes.",
+            "sentence_zh": "古典戏剧中的皮条客常穿艳俗服装。"
+          },
+          {
+            "sentence": "The novel exposes how panders operated in 1930s Shanghai.",
+            "sentence_zh": "小说揭露了1930年代上海皮条客的运作方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "怂恿者",
+        "examples": [
+          {
+            "sentence": "He became the pander of corruption in the company.",
+            "sentence_zh": "他成了公司腐败的怂恿者。"
+          },
+          {
+            "sentence": "Social media can be a pander of misinformation.",
+            "sentence_zh": "社交媒体可能成为谣言的怂恿者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "助恶者",
+        "examples": [
+          {
+            "sentence": "The lawyer was accused of being a pander for the mafia.",
+            "sentence_zh": "该律师被指控是黑手党的助恶者。"
+          },
+          {
+            "sentence": "Some advertisers act as panders for unhealthy products.",
+            "sentence_zh": "部分广告商是不健康产品的助恶者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pander to",
+        "meaning": "迎合（贬义）",
+        "examples": [
+          {
+            "sentence": "Reality shows often pander to voyeuristic tendencies.",
+            "sentence_zh": "真人秀常迎合偷窥癖倾向。"
+          }
+        ]
+      }
+    ],
+    "teach": "pander是职场马屁精🤡+古代龟公👲的混合体！源自威尼斯喜剧里的经典皮条客角色Pantalone（穿红裤衩的老头🎭）。说'无底线迎合'可以用pander like a carnival barker（像集市吆喝的商贩）。记住：当你说某人'特别会来事儿'，可能就是在说he's a master panderer🍵！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盼得'→皮条客盼得(pander)客人来",
+        "易混词对比：pander（主动迎合） vs. indulge（被动纵容）"
+      ]
+    }
   }
 ]

@@ -7872,5 +7872,311 @@
         "易混词：greet（普通问候）vs salute（正式敬礼）"
       ]
     }
+  },
+  {
+    "word": "saluting",
+    "etymology": {
+      "breakdown": [
+        "salut",
+        "ing"
+      ],
+      "meaning_connection": "词根salut=健康/问候（拉丁语salus），-ing表现在分词→表达正在进行的问候行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "欢迎",
+        "examples": [
+          {
+            "sentence": "The crowd is saluting the medical workers with red banners.",
+            "sentence_zh": "人群正举着红色横幅欢迎医护人员。"
+          },
+          {
+            "sentence": "Pandas saluting visitors by rolling down hills is the cutest welcome ever.",
+            "sentence_zh": "熊猫滚下山坡欢迎游客是有史以来最萌的欢迎方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "致敬",
+        "examples": [
+          {
+            "sentence": "The film ends with soldiers saluting the national flag in slow motion.",
+            "sentence_zh": "电影以士兵慢动作向国旗致敬的画面结束。"
+          },
+          {
+            "sentence": "Messi saluting his childhood coach went viral on Douyin.",
+            "sentence_zh": "梅西向童年教练致敬的视频在抖音疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "赞扬",
+        "examples": [
+          {
+            "sentence": "The New York Times is saluting Chinese delivery guys' efficiency.",
+            "sentence_zh": "《纽约时报》正在赞扬中国外卖小哥的效率。"
+          },
+          {
+            "sentence": "Netizens are saluting the clever design of shared charging banks.",
+            "sentence_zh": "网友们在赞扬共享充电宝的巧妙设计。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "saluting gesture",
+        "meaning": "致敬手势",
+        "examples": [
+          {
+            "sentence": "The emoji '🫡' has become the most popular saluting gesture online.",
+            "sentence_zh": "表情符号'🫡'已成为网络最流行的致敬手势。"
+          }
+        ]
+      }
+    ],
+    "teach": "saluting其实是'撒盐式问候'🧂：古罗马人用盐(sal)消毒表祝福，演变成军礼🤵。地铁安检员举手检查就像在saluting！要说'疯狂点赞'可以用saluting with fire emojis（用🔥表情致敬），'五体投地'叫prostrate saluting🛐。记住：saluting时记得露出姨母笑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'撒鲁特'→撒鲁特(salute)部落的问候礼",
+        "易混词：greeting（普通问候）vs saluting（正式敬意）",
+        "记忆tip：'salute=sal+ute'，像撒盐(sal)时发出的'ute'声"
+      ]
+    }
+  },
+  {
+    "word": "salvage",
+    "etymology": {
+      "breakdown": [
+        "salv",
+        "age"
+      ],
+      "meaning_connection": "词根salv=拯救（同源词salvation），-age表行为结果→通过救援行为获得的东西"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "海上救助",
+        "examples": [
+          {
+            "sentence": "The salvage team arrived within 3 hours after the shipwreck.",
+            "sentence_zh": "海难发生后3小时内救援队就抵达了现场。"
+          },
+          {
+            "sentence": "Maritime salvage operations often involve helicopter rescues.",
+            "sentence_zh": "海上救援行动常需要直升机协助。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抢救出来的财物",
+        "examples": [
+          {
+            "sentence": "Firefighters managed to bring out some family photos as precious salvage.",
+            "sentence_zh": "消防员抢救出一些家庭照片作为珍贵遗存。"
+          },
+          {
+            "sentence": "The museum displayed salvages from the Titanic expedition.",
+            "sentence_zh": "博物馆展出了泰坦尼克号打捞出的遗物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "营救",
+        "examples": [
+          {
+            "sentence": "Volunteers salvaged 50 cats from the flooded neighborhood.",
+            "sentence_zh": "志愿者从被淹小区救出了50只猫。"
+          },
+          {
+            "sentence": "The AI system helped salvage trapped miners by analyzing gas levels.",
+            "sentence_zh": "AI系统通过分析瓦斯浓度协助营救被困矿工。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "打捞",
+        "examples": [
+          {
+            "sentence": "They're salvaging a Ming dynasty vase from the shipwreck.",
+            "sentence_zh": "他们正在从沉船中打捞明代花瓶。"
+          },
+          {
+            "sentence": "Deep-sea robots salvaged the black box from the crashed plane.",
+            "sentence_zh": "深海机器人打捞出坠机黑匣子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "salvage operation",
+        "meaning": "救援行动",
+        "examples": [
+          {
+            "sentence": "The 72-hour salvage operation saved over 200 lives.",
+            "sentence_zh": "72小时救援行动挽救了200多条生命。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "salvage value",
+        "meaning": "残值",
+        "examples": [
+          {
+            "sentence": "The salvage value of the crashed Tesla was surprisingly high.",
+            "sentence_zh": "这辆坠毁特斯拉的残值意外地高。"
+          }
+        ]
+      }
+    ],
+    "teach": "salvage是'救命稻草'🌊：词根salv和'救世主(Savior)'同源，就像超级英雄从灾难现场飞过🦸♂️。'抢救数据'叫data salvage如同海底捞手机📱，'挽回局面'说salvage the situation就像火锅快烧干时加汤🍲。记住：salvage永远在绝望中带来希望！",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞我急'→塞给我急救包=抢救",
+        "对比记忆：save是普通救援，salvage是专业营救"
+      ]
+    }
+  },
+  {
+    "word": "salvaged",
+    "etymology": {
+      "breakdown": [
+        "salv",
+        "age",
+        "ed"
+      ],
+      "meaning_connection": "词根salv=拯救（同源词salvation），-age表行为结果，-ed表过去分词→从灾难中救回物品的行为结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "（从灾难中）抢救",
+        "examples": [
+          {
+            "sentence": "Firefighters salvaged a family photo album from the burning building.",
+            "sentence_zh": "消防员从燃烧的大楼里抢救出一本家庭相册。"
+          },
+          {
+            "sentence": "Divers salvaged 200kg of porcelain from the sunken merchant ship.",
+            "sentence_zh": "潜水员从沉没商船中打捞出200公斤瓷器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "回收利用",
+        "examples": [
+          {
+            "sentence": "The designer salvaged driftwood to make eco-friendly furniture.",
+            "sentence_zh": "设计师用回收的浮木制作环保家具。"
+          },
+          {
+            "sentence": "Over 80% of the spacecraft parts were successfully salvaged.",
+            "sentence_zh": "超过80%的航天器零件被成功回收利用。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "salvaged from",
+        "meaning": "从...抢救/回收",
+        "examples": [
+          {
+            "sentence": "This vintage radio was salvaged from a 1950s landfill.",
+            "sentence_zh": "这台复古收音机是从1950年代的垃圾场回收的。"
+          }
+        ]
+      }
+    ],
+    "teach": "salvaged其实是'废墟淘宝'🧰！古罗马人用salv-词根表示拯救（想想salvation救赎），现代人用它指拆东墙补西墙的回收艺术♻️。要说'捡破烂'可以叫dumpster diving（翻垃圾桶潜水），'变废为宝'叫upcycling（升级改造）。记住：被salvaged的东西就像火锅里的冻豆腐——经历磨难反而更入味！🥘🛠️💎",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞我纸'→从废墟塞给我重要文件",
+        "易混词对比：salvage vs. savage（野蛮人）→抢救时别变野蛮人"
+      ]
+    }
+  },
+  {
+    "word": "salvation",
+    "etymology": {
+      "breakdown": [
+        "salv",
+        "ation"
+      ],
+      "meaning_connection": "词根salv=安全/拯救，-ation表行为结果→获得安全的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "拯救（宗教语境）",
+        "examples": [
+          {
+            "sentence": "The preacher spoke about salvation through repentance.",
+            "sentence_zh": "牧师宣讲通过忏悔获得救赎。"
+          },
+          {
+            "sentence": "In Dante's Inferno, salvation requires passing through nine circles of hell.",
+            "sentence_zh": "在《神曲》中，拯救需要穿越九层地狱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "救助（现实困境）",
+        "examples": [
+          {
+            "sentence": "The arrival of dumpling delivery was his salvation during quarantine.",
+            "sentence_zh": "隔离期间饺子的外卖是他的救星。"
+          },
+          {
+            "sentence": "For exhausted parents, grandparents are often the salvation.",
+            "sentence_zh": "对疲惫的父母而言，祖父母常是救兵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "find salvation",
+        "meaning": "找到解脱方法",
+        "examples": [
+          {
+            "sentence": "Bubble tea addicts find salvation in sugar-free options.",
+            "sentence_zh": "奶茶成瘾者在无糖选项中找到救赎。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "work out one's salvation",
+        "meaning": "自我救赎",
+        "examples": [
+          {
+            "sentence": "After the scandal, the celebrity worked out his salvation through charity.",
+            "sentence_zh": "丑闻后，该明星通过慈善实现自我救赎。"
+          }
+        ]
+      }
+    ],
+    "teach": "salvation是终极'救命稻草'🧵：从诺亚方舟🐑到现代外卖🚴♂️都算！宗教里是灵魂SPA💆，生活中是期末考时学霸笔记📓。说'绝处逢生'用last-minute salvation，'及时雨'叫heaven-sent salvation。记住：你的salvation可能是下一杯奶茶的珍珠！🧋",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞我身'→把救生塞(salvation)给我",
+        "易混词：salvation（救赎） vs. salvage（打捞）"
+      ]
+    }
   }
 ]

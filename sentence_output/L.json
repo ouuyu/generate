@@ -8335,5 +8335,301 @@
         "易混词对比：lapping(精细研磨) vs grinding(粗磨)"
       ]
     }
+  },
+  {
+    "word": "lapse",
+    "etymology": {
+      "breakdown": [
+        "lap",
+        "se"
+      ],
+      "meaning_connection": "词源lap-表示'滑落'，-se为后缀→原指'时间滑走'，引申出'失误'与'失效'等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "过失",
+        "examples": [
+          {
+            "sentence": "A tiny lapse in concentration caused him to add salt instead of sugar.",
+            "sentence_zh": "一时走神让他错把盐当糖加了进去。"
+          },
+          {
+            "sentence": "The CEO's drunken lapse became trending on Weibo for 3 days.",
+            "sentence_zh": "总裁的酒后失态在微博热搜挂了三天。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "流逝",
+        "examples": [
+          {
+            "sentence": "The lapse of 20 years turned the gaming boy into a bald uncle.",
+            "sentence_zh": "二十年光阴流逝，游戏少年变成了秃头大叔。"
+          },
+          {
+            "sentence": "WeChat Moments records the lapse of time through food photos.",
+            "sentence_zh": "微信朋友圈用美食照片记录着时间流逝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "失效",
+        "examples": [
+          {
+            "sentence": "The lapse of my gym card saved me 5000 yuan this year.",
+            "sentence_zh": "健身卡失效今年给我省了五千元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "犯错",
+        "examples": [
+          {
+            "sentence": "The AI lapsed by recommending spicy hotpot to ulcer patients.",
+            "sentence_zh": "AI犯错给溃疡患者推荐了麻辣火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "堕落",
+        "examples": [
+          {
+            "sentence": "The influencer lapsed into selling fake supplements after fame.",
+            "sentence_zh": "那个网红成名后堕落至售卖假保健品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "减退",
+        "examples": [
+          {
+            "sentence": "His passion for gaming lapsed after becoming a father.",
+            "sentence_zh": "当爹后他对游戏的热情减退了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "消失",
+        "examples": [
+          {
+            "sentence": "The childhood memory lapsed from her mind like melting ice.",
+            "sentence_zh": "童年记忆像融冰般从她脑海消失。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "流逝",
+        "examples": [
+          {
+            "sentence": "Three years lapsed before they met again at a alumni reunion.",
+            "sentence_zh": "光阴流逝三年后，他们在校友会重逢。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使失效",
+        "examples": [
+          {
+            "sentence": "The bank lapsed his credit card due to overdue payment.",
+            "sentence_zh": "银行因逾期未还款使他的信用卡失效。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lapse into",
+        "meaning": "陷入（不良状态）",
+        "examples": [
+          {
+            "sentence": "After losing his job, he lapsed into playing Honor of Kings 18 hours daily.",
+            "sentence_zh": "失业后他陷入每天打18小时王者荣耀的状态。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "time lapse",
+        "meaning": "时间流逝",
+        "examples": [
+          {
+            "sentence": "The time lapse video shows a baozi being eaten in 3 seconds.",
+            "sentence_zh": "延时视频里包子三秒就被吃掉。"
+          }
+        ]
+      }
+    ],
+    "teach": "lapse是时间的漏勺⏳！当它表示'过失'时，就像手滑给老板朋友圈点了个赞😂（social lapse）；'流逝'时如同你减肥计划坚持不了三天🍔（time lapses）；'失效'堪比双十一优惠券过期🚫（membership lapsed）。地道说法：'记忆模糊'叫memory lapse就像手机掉水里后失忆📱，'小错误'说minor lapse好比把'亲'打成'爹'💬",
+    "recite": {
+      "tips": [
+        "谐音梗：'赖不撕'→赖着不撕的过期日历",
+        "易混词：collapse（彻底垮塌） vs lapse（逐渐消逝）",
+        "记忆tip：所有含义都指向'从完好状态滑落'的过程"
+      ]
+    }
+  },
+  {
+    "word": "lapsed",
+    "etymology": {
+      "breakdown": [
+        "lap",
+        "sed"
+      ],
+      "meaning_connection": "词根lap=滑落(来自拉丁语lapsus)，后缀-sed表状态→原指'滑落的状态'，引申为'丧失'和'失效'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "丧失的",
+        "examples": [
+          {
+            "sentence": "His lapsed memory forgot even how to use chopsticks.",
+            "sentence_zh": "他衰退的记忆连筷子用法都忘了。"
+          },
+          {
+            "sentence": "The lapsed scholar now sells luosifen by the roadside.",
+            "sentence_zh": "这位学识荒废的学者现在在路边卖螺蛳粉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "堕落的",
+        "examples": [
+          {
+            "sentence": "The lapsed priest started a hotpot chain store.",
+            "sentence_zh": "那个堕落的牧师开了家火锅连锁店。"
+          },
+          {
+            "sentence": "She called her ex a lapsed vegan after seeing him eat skewers.",
+            "sentence_zh": "看见前任吃烧烤后，她称他是堕落的素食主义者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "失效的",
+        "examples": [
+          {
+            "sentence": "My gym card became lapsed during the lockdown.",
+            "sentence_zh": "我的健身卡在封控期间失效了。"
+          },
+          {
+            "sentence": "The lapsed coupon cannot be used for bubble tea.",
+            "sentence_zh": "这张过期优惠券不能用来买奶茶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lapsed into silence",
+        "meaning": "陷入沉默",
+        "examples": [
+          {
+            "sentence": "The meeting lapsed into silence when the boss mentioned KPI.",
+            "sentence_zh": "当老板提到KPI时，会议陷入死寂。"
+          }
+        ]
+      }
+    ],
+    "teach": "lapsed其实是'懒人滑坡'🧑‍🦯：从遗忘健身卡(lapsed membership)到堕落吃夜宵(lapsed diet)，就像滚下沙发的薯片袋📉。说'过期会员'用lapsed member比expired更地道，'摆烂状态'叫in a lapsed state就像过期的健康码🟥。记住：每个lapsed都始于一次'明天再说'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'懒婆媳'→懒婆媳(lapsed)互相摆烂",
+        "易混词对比：collapsed(崩塌的) vs lapsed(失效的)"
+      ]
+    }
+  },
+  {
+    "word": "laptop",
+    "etymology": {
+      "breakdown": [
+        "lap",
+        "top"
+      ],
+      "meaning_connection": "字面意思是'膝盖(lap)上方(top)'，因早期便携电脑需放在膝上使用"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "笔记本电脑",
+        "examples": [
+          {
+            "sentence": "My Huawei laptop survived a dumpling soup accident.",
+            "sentence_zh": "我的华为笔记本经历过饺子汤泼洒依然坚挺。"
+          },
+          {
+            "sentence": "She balances a laptop and hotpot ingredients on her lap.",
+            "sentence_zh": "她膝盖上同时平衡着笔记本和火锅食材。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "laptop bag",
+        "meaning": "电脑包",
+        "examples": [
+          {
+            "sentence": "His laptop bag smells like stinky tofu after the rain.",
+            "sentence_zh": "他的电脑包淋雨后闻起来像臭豆腐。"
+          }
+        ]
+      }
+    ],
+    "teach": "笔记本电脑其实是'膝盖上的烧烤架'🔥！1982年第一台laptop重达11kg，相当于抱着电饭煲上班💻。现在说'电脑卡爆了'叫my laptop is toast（像烤面包机），开视频会议要说fire up your laptop（像点火启动）🍳。记住：真正的打工人膝盖上都留着笔记本散热口的烙印！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来扑逃'→笔记本发热时你想逃离",
+        "易混词：notebook（更轻薄）/laptop（传统翻盖）"
+      ]
+    }
+  },
+  {
+    "word": "larceny",
+    "etymology": {
+      "breakdown": [
+        "larcen",
+        "y"
+      ],
+      "meaning_connection": "源自古法语'larcin'（盗窃），后缀-y表示行为/状态，原指'偷窃行为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "盗窃罪",
+        "examples": [
+          {
+            "sentence": "The pickpocket was charged with grand larceny for stealing 10 iPhones.",
+            "sentence_zh": "该扒手因偷窃10部苹果手机被控重大盗窃罪。"
+          },
+          {
+            "sentence": "In ancient China, larceny was punished by cutting off the thief's left ear.",
+            "sentence_zh": "中国古代对盗窃罪的处罚是割去犯人左耳。"
+          }
+        ]
+      }
+    ],
+    "teach": "larceny其实是'辣手神偷'🌶️👋💎：这个词来自法语'larcin'，中世纪小偷被逮到要剁手指！现代说'顺手牵羊'叫petty larceny（轻窃盗），'监守自盗'叫embezzlement。记住：偷外卖也算larceny，饿肚子不是理由🍔🚨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉车泥'→偷拉车的泥巴也算盗窃",
+        "对比记忆：burglary（入室盗窃）vs larceny（普通盗窃）",
+        "场景联想：超市防盗门滴滴响→shoplifting（商店盗窃）属于larceny"
+      ]
+    }
   }
 ]

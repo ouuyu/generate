@@ -8117,5 +8117,316 @@
         "联想记忆：lumin=路灯(luminance亮度)+ation→照明过程"
       ]
     }
+  },
+  {
+    "word": "illuminator",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lumin",
+        "ator"
+      ],
+      "meaning_connection": "前缀il-表示'加强'，词根lumin表示'光'，后缀-ator表示'施动者'→原指带来光明的人或物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "启发者",
+        "examples": [
+          {
+            "sentence": "Confucius served as an illuminator of Chinese philosophy for centuries.",
+            "sentence_zh": "孔子作为中国哲学的启发者影响数百年。"
+          },
+          {
+            "sentence": "The teacher acted as an illuminator who lit up students' curiosity.",
+            "sentence_zh": "这位老师如同点亮学生好奇心的启明灯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "反射镜",
+        "examples": [
+          {
+            "sentence": "The microscope's illuminator reflects light onto the specimen.",
+            "sentence_zh": "显微镜的反射镜将光线投射到标本上。"
+          },
+          {
+            "sentence": "Ancient Chinese bronze mirrors were early forms of illuminators.",
+            "sentence_zh": "中国古代铜镜是最早的反射镜形式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "集光镜",
+        "examples": [
+          {
+            "sentence": "Solar furnaces use giant illuminators to concentrate sunlight.",
+            "sentence_zh": "太阳炉使用巨型集光镜汇聚阳光。"
+          },
+          {
+            "sentence": "The illuminator in this projector can reach 10,000 lumens.",
+            "sentence_zh": "这台投影仪的集光镜亮度可达1万流明。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "optical illuminator",
+        "meaning": "光学照明器",
+        "examples": [
+          {
+            "sentence": "Fiber-optic illuminators revolutionized endoscope technology.",
+            "sentence_zh": "光纤照明器的出现革新了内窥镜技术。"
+          }
+        ]
+      }
+    ],
+    "teach": "illuminator是物理和精神的'发光体'💡！作为启发者时像苏格拉底的'产婆术'👨🏫（maieutics），作为反射镜时像故宫的铜镜倒映月光🌕（bronze mirror），作为集光镜时像《三体》里的太阳放大器☀️（solar amplifier）。实用搭配：intellectual illuminator(思想启蒙者)/LED illuminator(LED照明器)，说'醍醐灌顶'可以用epiphany moment✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'一路明那头'→照明设备一路亮到那头",
+        "易混词：illuminate(照亮)/illustrate(图解)",
+        "记忆法：想象灯泡(lumin)上坐着个发光小精灵(-ator)"
+      ]
+    }
+  },
+  {
+    "word": "illumine",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lumin",
+        "e"
+      ],
+      "meaning_connection": "前缀il-表示'加强'，词根lumin=光（同luminous），-e为动词后缀→'使充满光明'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "照明",
+        "examples": [
+          {
+            "sentence": "The lanterns illumined the ancient hutong like glowing pearls.",
+            "sentence_zh": "灯笼将古老胡同照得如同发光的珍珠。"
+          },
+          {
+            "sentence": "Fireflies illumined the path through the bamboo forest.",
+            "sentence_zh": "萤火虫照亮了穿过竹林的小径。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "点亮",
+        "examples": [
+          {
+            "sentence": "She illumined her roommate's birthday cake with 22 sparklers.",
+            "sentence_zh": "她用22根仙女棒点亮了室友的生日蛋糕。"
+          },
+          {
+            "sentence": "The tech giant illumined its logo with 10,000 LED lights for the launch event.",
+            "sentence_zh": "这家科技巨头用万颗LED灯点亮标志以庆祝新品发布。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "启发",
+        "examples": [
+          {
+            "sentence": "Confucius' words still illumine modern educational concepts.",
+            "sentence_zh": "孔子的话语至今仍启发着现代教育理念。"
+          },
+          {
+            "sentence": "The documentary illumined my understanding of traditional Chinese medicine.",
+            "sentence_zh": "这部纪录片启发了我对中医的理解。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "illumine the mind",
+        "meaning": "启迪心智",
+        "examples": [
+          {
+            "sentence": "The teacher's parable illumined the children's minds like morning sunshine.",
+            "sentence_zh": "老师的寓言如晨光般照亮了孩子们的心智。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "illumine with joy",
+        "meaning": "因喜悦而容光焕发",
+        "examples": [
+          {
+            "sentence": "Her face was illumined with joy when she received the Peking University admission letter.",
+            "sentence_zh": "收到北大录取通知书时，她脸上焕发着喜悦的光彩。"
+          }
+        ]
+      }
+    ],
+    "teach": "illumine是自带圣光的词✨！古罗马人用lumen作光的单位💡，而illumine就像给你的脑洞装上霓虹灯🎆（illumine ideas）。搭配'illumine the path'比light up更诗意，说'茅塞顿开'可以用My mind was illumined。记住：物理照亮用light，精神启迪用illumine！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一路明'→illumine照亮前路",
+        "对比记忆：illuminate（常见）vs illumine（文学用）如同'微信'vs'飞鸽传书'"
+      ]
+    }
+  },
+  {
+    "word": "illusion",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lus",
+        "ion"
+      ],
+      "meaning_connection": "前缀il-=in-(进入)，词根lus=play(玩耍)，-ion名词后缀→像在脑海中玩耍的画面"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "幻影",
+        "examples": [
+          {
+            "sentence": "The desert heat created an illusion of floating palaces.",
+            "sentence_zh": "沙漠热浪造成了空中宫殿的幻影。"
+          },
+          {
+            "sentence": "Her stage costume gave the illusion of butterfly wings.",
+            "sentence_zh": "她的舞台服装营造出蝴蝶翅膀的幻影。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "错觉",
+        "examples": [
+          {
+            "sentence": "The mirror maze creates hilarious optical illusions.",
+            "sentence_zh": "镜子迷宫制造出滑稽的视觉错觉。"
+          },
+          {
+            "sentence": "Thinking you can finish hotpot alone is a delicious illusion.",
+            "sentence_zh": "觉得自己能独自吃完火锅是个美味的错觉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "幻想",
+        "examples": [
+          {
+            "sentence": "Many teenagers have illusions about becoming influencers overnight.",
+            "sentence_zh": "许多青少年对一夜成为网红抱有幻想。"
+          },
+          {
+            "sentence": "His illusion of getting rich by buying lottery tickets never fades.",
+            "sentence_zh": "他靠买彩票致富的幻想从未消退。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "under the illusion",
+        "meaning": "误以为",
+        "examples": [
+          {
+            "sentence": "He's under the illusion that pandas are lazy animals.",
+            "sentence_zh": "他误以为熊猫是懒惰的动物。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cast aside illusions",
+        "meaning": "抛弃幻想",
+        "examples": [
+          {
+            "sentence": "It's time to cast aside illusions and start preparing for the exam.",
+            "sentence_zh": "是时候抛弃幻想开始备考了。"
+          }
+        ]
+      }
+    ],
+    "teach": "illusion其实是'脑内PS'🧠！就像《楚门的世界》里人造天空🌤️，或减肥时把镜子照成哈哈镜🤡。搭配'optical illusion'（视觉魔术）比网红滤镜更神奇！说'别做梦了'用地道表达pipe dream（烟斗冒的梦💨）。记住：你的illusion可能只是大脑开的玩笑🎭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一路醒'→从幻觉中一路醒来",
+        "易混词对比：illusion（错觉）vs. delusion（妄想）"
+      ]
+    }
+  },
+  {
+    "word": "illusionist",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lus",
+        "ion",
+        "ist"
+      ],
+      "meaning_connection": "前缀il-=in-表示'进入'，词根lus=play（玩耍），-ion表名词，-ist表人→'玩弄幻觉的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "幻想家",
+        "examples": [
+          {
+            "sentence": "The sci-fi writer was considered an illusionist for his fantastical predictions about AI.",
+            "sentence_zh": "这位科幻作家因对人工智能的奇幻预言被视为幻想家。"
+          },
+          {
+            "sentence": "Like an illusionist, the architect designed buildings that defied gravity.",
+            "sentence_zh": "如同幻想家般，这位建筑师设计了反重力的建筑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "魔术师",
+        "examples": [
+          {
+            "sentence": "The illusionist made the Great Wall disappear on live TV.",
+            "sentence_zh": "魔术师在直播中让长城消失了。"
+          },
+          {
+            "sentence": "David Copperfield is the most famous illusionist since Houdini.",
+            "sentence_zh": "大卫·科波菲尔是胡迪尼之后最著名的魔术师。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "street illusionist",
+        "meaning": "街头魔术师",
+        "examples": [
+          {
+            "sentence": "A street illusionist in Chengdu made a panda statue vanish.",
+            "sentence_zh": "成都的街头魔术师让熊猫雕像消失了。"
+          }
+        ]
+      }
+    ],
+    "teach": "illusionist是现实扭曲大师🌀！词根lus=玩（比如ludicrous滑稽的），-ist是搞事情专家👨‍🎨。魔术师叫illusionist因为他们玩的是'眼技'（smoke and mirrors），而幻想家叫illusionist因为他们玩的是'脑技'💭。搭配：'pull off an illusion'（完成魔术戏法），'shatter the illusion'（打破幻想）。地道表达：'smoke and mirrors'（障眼法）🎩✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'一路醒ist'→一路醒着的魔术师",
+        "易混词对比：magician（传统魔术师）vs illusionist（大型幻术师）",
+        "记忆tip：lus谐音'lust'→对幻觉的渴望"
+      ]
+    }
   }
 ]

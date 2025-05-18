@@ -7694,5 +7694,308 @@
         "联想：Windows开机画面就像digital dawning💻"
       ]
     }
+  },
+  {
+    "word": "day",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'dæg'，与德语'Tag'同源，本义为'太阳在地平线上的时间'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "天（24小时周期）",
+        "examples": [
+          {
+            "sentence": "The Dragon Boat Festival holiday lasts 3 days for most people.",
+            "sentence_zh": "端午节假期对多数人来说是三天"
+          },
+          {
+            "sentence": "It takes exactly 365.25 days for Earth to orbit the sun.",
+            "sentence_zh": "地球绕太阳一周正好需要365.25天"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "日子（特定日期）",
+        "examples": [
+          {
+            "sentence": "Bubble tea day is every day in my calendar.",
+            "sentence_zh": "我的日历上每天都是奶茶日"
+          },
+          {
+            "sentence": "The day we got our pet corgi was the happiest day.",
+            "sentence_zh": "领养柯基犬那天是我们最开心的日子"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "白天（日出到日落）",
+        "examples": [
+          {
+            "sentence": "Pandas sleep 10 hours during the day and eat bamboo at night.",
+            "sentence_zh": "熊猫白天睡10小时晚上吃竹子"
+          },
+          {
+            "sentence": "Delivery drivers work hard from day to night.",
+            "sentence_zh": "快递员从早到晚辛苦工作"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "工作日（非周末假日）",
+        "examples": [
+          {
+            "sentence": "Weekday lunch specials are 50% off at this hotpot restaurant.",
+            "sentence_zh": "这家火锅店工作日午餐半价"
+          },
+          {
+            "sentence": "The bank is closed on public holidays but open on business days.",
+            "sentence_zh": "银行公休日关门但工作日营业"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "day after day",
+        "meaning": "日复一日",
+        "examples": [
+          {
+            "sentence": "The programmer debugged day after day until the Mid-Autumn Festival.",
+            "sentence_zh": "程序员日复一日调试直到中秋节"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "make sb's day",
+        "meaning": "让某人开心",
+        "examples": [
+          {
+            "sentence": "Finding an empty seat on the subway made my day.",
+            "sentence_zh": "地铁上找到空座位让我开心一整天"
+          }
+        ]
+      }
+    ],
+    "teach": "day是时间管理大师⏰！古代日晷测'白天'🌞，现代打工人数'工作日'💼。'天天想你'要说day after day像循环播放的《蜜雪冰城》🎵，'度日如年'是days drag on like waiting for takeout🍱。记住：发工资那天叫payday，摸鱼那天叫Friday！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嘚'→每天嘚瑟一下",
+        "易混词：day（自然日） vs. date（具体日期）"
+      ]
+    }
+  },
+  {
+    "word": "daybreak",
+    "etymology": {
+      "breakdown": [
+        "day",
+        "break"
+      ],
+      "meaning_connection": "字面'白昼的破晓'→指夜间结束日光初现的时刻"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "黎明",
+        "examples": [
+          {
+            "sentence": "We started hiking at daybreak to catch the sunrise on Mount Tai.",
+            "sentence_zh": "我们黎明时分开始登山，为了在泰山看到日出。"
+          },
+          {
+            "sentence": "The fisherman's boat glided through the mist at daybreak.",
+            "sentence_zh": "渔夫的小船在黎明时分的薄雾中滑行。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "before daybreak",
+        "meaning": "破晓前",
+        "examples": [
+          {
+            "sentence": "Delivery drivers in Beijing often start working before daybreak.",
+            "sentence_zh": "北京的快递员常在破晓前就开始工作。"
+          }
+        ]
+      }
+    ],
+    "teach": "daybreak其实是'太阳踹被子'时刻🌅！古人认为白昼是被黑夜包裹的，破晓(break)就是日光踢开黑夜被子⛅。要说'熬夜到天亮'可以说burn the midnight oil till daybreak（烧灯油到黎明），'早起鸟'是daybreak warrior🌄。记住：daybreak是夜猫子的deadline，晨型人的alarm clock！",
+    "recite": {
+      "tips": [
+        "视觉联想：day+break=白天'破'夜而出",
+        "文化梗：游戏《原神》每日任务刷新时间就是daybreak"
+      ]
+    }
+  },
+  {
+    "word": "daydream",
+    "etymology": {
+      "breakdown": [
+        "day",
+        "dream"
+      ],
+      "meaning_connection": "字面组合'白天的梦'，16世纪首次记录指醒着时的幻想"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "白日梦",
+        "examples": [
+          {
+            "sentence": "His math textbook was covered with doodles - clear evidence of daydreams.",
+            "sentence_zh": "他的数学课本上满是涂鸦，明显是做白日梦的证据。"
+          },
+          {
+            "sentence": "Her daydream about becoming a viral livestreamer kept her smiling during the meeting.",
+            "sentence_zh": "成为网红主播的白日梦让她在会议期间保持微笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "做白日梦",
+        "examples": [
+          {
+            "sentence": "I often daydream about ordering all the skewers at a street food stall.",
+            "sentence_zh": "我经常幻想能清空路边摊的所有烤串。"
+          },
+          {
+            "sentence": "He was daydreaming so hard that he walked into a WeChat pay QR code sticker.",
+            "sentence_zh": "他做白日梦太入神，直接撞上了微信支付的二维码贴纸。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lost in a daydream",
+        "meaning": "沉浸于幻想中",
+        "examples": [
+          {
+            "sentence": "The student was lost in a daydream about canceling all exams.",
+            "sentence_zh": "那个学生正幻想着取消所有考试。"
+          }
+        ]
+      }
+    ],
+    "teach": "daydream是打工人の精神摸鱼🐟！大脑的'屏幕保护程序'💭。古代文人'黄粱一梦'就是高级daydream。搭配：①have a daydream about（幻想...）②fall into a daydream（陷入幻想）。说'想得美'用地道表达：In your dreams! 记住：daydream是唯一不耗电的脑内小剧场🎭",
+    "recite": {
+      "tips": [
+        "谐音梗：'嘚梦'→嘚瑟着做梦",
+        "易混词对比：nightmare（噩梦）是daydream的黑暗版",
+        "记忆法：day+dream=白天做的梦，像上课时脑内播放的连续剧"
+      ]
+    }
+  },
+  {
+    "word": "daylight",
+    "etymology": {
+      "breakdown": [
+        "day",
+        "light"
+      ],
+      "meaning_connection": "复合词：day(日) + light(光)→白昼的光线"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "白昼",
+        "examples": [
+          {
+            "sentence": "Pandas sleep 14 hours a day and only move around in daylight.",
+            "sentence_zh": "熊猫每天睡14小时，只在白昼活动。"
+          },
+          {
+            "sentence": "The midnight sun makes daylight last 24 hours in Norway's summer.",
+            "sentence_zh": "午夜太阳现象让挪威夏季的白昼长达24小时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "日光",
+        "examples": [
+          {
+            "sentence": "Herbal tea tastes better when brewed in natural daylight.",
+            "sentence_zh": "用天然日光冲泡的花草茶更美味。"
+          },
+          {
+            "sentence": "The daylight through stained glass painted colorful patterns on the floor.",
+            "sentence_zh": "彩绘玻璃透过的日光在地板上投下斑斓图案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使沐浴于日光",
+        "examples": [
+          {
+            "sentence": "Grandma daylights her pickled vegetables on the rooftop every morning.",
+            "sentence_zh": "奶奶每天早晨把腌菜放在屋顶沐浴日光。"
+          },
+          {
+            "sentence": "The museum daylights ancient manuscripts with special UV-filtered glass.",
+            "sentence_zh": "博物馆用防紫外线玻璃使古籍沐浴日光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "享有日光",
+        "examples": [
+          {
+            "sentence": "Retirees in Hainan daylight on beach chairs with coconut drinks.",
+            "sentence_zh": "海南的退休老人捧着椰子汁在躺椅上享有日光。"
+          },
+          {
+            "sentence": "Cats instinctively daylight near windows to regulate body temperature.",
+            "sentence_zh": "猫会本能地在窗边享有日光来调节体温。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "broad daylight",
+        "meaning": "光天化日",
+        "examples": [
+          {
+            "sentence": "The panda stole bamboo shoots in broad daylight at the zoo.",
+            "sentence_zh": "这只熊猫在动物园光天化日下偷竹笋。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "daylight saving time",
+        "meaning": "夏令时",
+        "examples": [
+          {
+            "sentence": "When daylight saving time starts, we lose one hour of sleep but gain evening sunshine.",
+            "sentence_zh": "夏令时开始时，我们少睡一小时但获得更多傍晚阳光。"
+          }
+        ]
+      }
+    ],
+    "teach": "daylight是太阳的VIP会员卡☀️！古人用日晷测量daylight（白昼），现代人用日光浴美黑🏖️。'夜猫子'叫night owl，'早起鸟'则是daylight lover🌅。搭配daylight robbery形容'宰客'（像在光天化日下抢劫），'充分利用日光'说make hay while the sun shines（趁有太阳赶紧晒干草）💸⏳🌞",
+    "recite": {
+      "tips": [
+        "谐音梗：'得亮了'→得到(de)光亮(light)就是daylight",
+        "易混词对比：sunlight(纯粹阳光) vs daylight(包含时间概念的白日光)",
+        "记忆tip：想象把'日'(day)和'光'(light)两个乐高积木拼在一起"
+      ]
+    }
   }
 ]

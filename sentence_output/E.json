@@ -8133,5 +8133,351 @@
         "易混词：edition（版本）vs editing（编辑）"
       ]
     }
+  },
+  {
+    "word": "edition",
+    "etymology": {
+      "breakdown": [
+        "edit",
+        "ion"
+      ],
+      "meaning_connection": "词根edit=编辑/出版，后缀-ion表名词→编辑后的产物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "版本（特指出版物）",
+        "examples": [
+          {
+            "sentence": "The limited edition of the book comes with author's doodles.",
+            "sentence_zh": "该书的限量版附有作者涂鸦。"
+          },
+          {
+            "sentence": "I collect every edition of Liu Cixin's sci-fi novels.",
+            "sentence_zh": "我收藏刘慈欣科幻小说的每个版本。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "版（印刷批次）",
+        "examples": [
+          {
+            "sentence": "The 5th edition corrected all the typos in spicy hotpot recipes.",
+            "sentence_zh": "第五版修正了麻辣火锅菜谱中的所有错字。"
+          },
+          {
+            "sentence": "First edition Mao Zedong poetry collections are extremely valuable.",
+            "sentence_zh": "毛泽东诗词集首版极具收藏价值。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "翻版（相似的人或物）",
+        "examples": [
+          {
+            "sentence": "This new app is just a cheap edition of WeChat.",
+            "sentence_zh": "这个新应用不过是微信的廉价翻版。"
+          },
+          {
+            "sentence": "He's considered the 2.0 edition of Jack Ma in e-commerce.",
+            "sentence_zh": "他被视为电商领域的马云2.0版。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "limited edition",
+        "meaning": "限量版",
+        "examples": [
+          {
+            "sentence": "The limited edition White Rabbit milk candy sold out in 3 seconds.",
+            "sentence_zh": "大白兔奶糖限量版3秒售罄。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pocket edition",
+        "meaning": "袖珍版",
+        "examples": [
+          {
+            "sentence": "Her purse contains a pocket edition of the Constitution.",
+            "sentence_zh": "她包里装着宪法袖珍版。"
+          }
+        ]
+      }
+    ],
+    "teach": "edition就像出版界的乐高积木🧩！古代'版本'要刻竹简📜（bamboo edition），现代有'奶茶联名版'🥤（bubble tea edition）。说'盗版'用pirated edition就像假茅台🍶，'纪念版'叫commemorative edition像故宫文创🏯。记住：收藏家为了first edition能打架，就像抢最后一份小龙虾🦞！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱迪生'→发明家爱迪生的版本(edition)最多",
+        "易混词：edition(版本) vs. addition(增加)"
+      ]
+    }
+  },
+  {
+    "word": "editor",
+    "etymology": {
+      "breakdown": [
+        "edit",
+        "or"
+      ],
+      "meaning_connection": "词根edit=编辑，后缀-or表人/物→从事编辑工作的人或工具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "编者",
+        "examples": [
+          {
+            "sentence": "The editor of this magazine loves adding cat memes between articles.",
+            "sentence_zh": "该杂志的编者喜欢在文章间插入猫咪表情包。"
+          },
+          {
+            "sentence": "As chief editor, she once deleted 20,000 emojis from a manuscript.",
+            "sentence_zh": "作为主编，她曾从稿件中删除了两万个表情符号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "编辑",
+        "examples": [
+          {
+            "sentence": "Video editors often develop a sixth sense for finding the perfect frame.",
+            "sentence_zh": "视频编辑常常对寻找完美画面发展出第六感。"
+          },
+          {
+            "sentence": "The editor spent three hours debating whether to use 'awesome' or 'dope'.",
+            "sentence_zh": "编辑花了三小时争论该用'awesome'还是'dope'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "主笔",
+        "examples": [
+          {
+            "sentence": "The political editor always carries a lucky fountain pen to press conferences.",
+            "sentence_zh": "时政主笔参加发布会时总带着幸运钢笔。"
+          },
+          {
+            "sentence": "Our food editor can identify Sichuan peppercorns blindfolded.",
+            "sentence_zh": "我们的美食主笔蒙着眼也能认出花椒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "编辑器",
+        "examples": [
+          {
+            "sentence": "The code editor autocompletes with cat-themed variable names.",
+            "sentence_zh": "这个代码编辑器会自动补全猫咪主题的变量名。"
+          },
+          {
+            "sentence": "I customized my text editor to look like ancient bamboo scrolls.",
+            "sentence_zh": "我把文本编辑器界面改成了古代竹简样式。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "editor in chief",
+        "meaning": "总编辑",
+        "examples": [
+          {
+            "sentence": "The editor in chief approved the headline 'Pandas Declare War on Bamboo'.",
+            "sentence_zh": "总编辑批准了《熊猫向竹子宣战》的标题。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "photo editor",
+        "meaning": "图片编辑",
+        "examples": [
+          {
+            "sentence": "Our photo editor can spot a photoshopped eyelash from 10 meters away.",
+            "sentence_zh": "我们的图片编辑十米外就能看出P过的睫毛。"
+          }
+        ]
+      }
+    ],
+    "teach": "editor其实是'改到你吐'💻的工作！古罗马编辑(editor)真的用刀刮羊皮纸修改📜，现代编辑则在深夜与表情包战斗🌙。'被退稿'说get the axe（挨斧头），'定稿'叫put to bed（哄文章睡觉）🛏️。记住：当editor就像熊猫挑竹子——永远在删删删🐼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱抵他'→编辑就是爱抵抗作者原稿的人",
+        "易混词：editor（编辑者）vs. edition（编辑物）",
+        "记忆tip：想象editor的-or后缀是红色修改笔✏️"
+      ]
+    }
+  },
+  {
+    "word": "editorial",
+    "etymology": {
+      "breakdown": [
+        "editor",
+        "ial"
+      ],
+      "meaning_connection": "来自editor（编辑者）+ -ial（形容词后缀），最初指'编辑相关的事务'，后发展出名词含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "社论",
+        "examples": [
+          {
+            "sentence": "The People's Daily editorial sparked heated discussions about AI regulation.",
+            "sentence_zh": "《人民日报》社论引发关于AI监管的热议。"
+          },
+          {
+            "sentence": "Her satirical editorial on bubble tea addiction went viral.",
+            "sentence_zh": "她关于奶茶成瘾的讽刺社论迅速走红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "评论",
+        "examples": [
+          {
+            "sentence": "The gaming platform's editorial praised the new Chinese indie game.",
+            "sentence_zh": "该游戏平台的评论文章盛赞这款国产独立游戏。"
+          },
+          {
+            "sentence": "His Douban editorial on censorship received 10k likes.",
+            "sentence_zh": "他在豆瓣发表的关于审查制度的评论获得1万点赞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "编辑的",
+        "examples": [
+          {
+            "sentence": "The WeChat public account's editorial team works 996 schedule.",
+            "sentence_zh": "这个微信公众号的编辑团队实行996工作制。"
+          },
+          {
+            "sentence": "She won the annual editorial excellence award.",
+            "sentence_zh": "她获得了年度编辑卓越奖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "社论的",
+        "examples": [
+          {
+            "sentence": "The newspaper's editorial policy forbids cryptocurrency ads.",
+            "sentence_zh": "该报社论政策禁止加密货币广告。"
+          },
+          {
+            "sentence": "His editorial cartoon mocked the housing price crisis.",
+            "sentence_zh": "他的社论漫画嘲讽了房价危机。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "editorial board",
+        "meaning": "编辑部",
+        "examples": [
+          {
+            "sentence": "The Toutiao editorial board rejected 3 hotpot-related articles today.",
+            "sentence_zh": "今日头条编辑部今天毙掉了3篇火锅相关稿件。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "editorial independence",
+        "meaning": "编辑自主权",
+        "examples": [
+          {
+            "sentence": "The podcast insists on editorial independence despite sponsorships.",
+            "sentence_zh": "该播客节目坚持在赞助情况下保持编辑自主权。"
+          }
+        ]
+      }
+    ],
+    "teach": "editorial其实是文字界的满汉全席🍲！名词像《人民日报》社论般严肃📜（newspaper editorial），形容词时变成小编的秃头烦恼💇（editorial workload）。'把关严'叫tight editorial control就像火锅店菜品质检🌶️，'言论自由'是editorial freedom好比涮锅时想煮啥煮啥🥢。记住：好的editorial应该像鸳鸯锅——清汤红汤都要有！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱迪偷梨儿'→爱迪生偷梨时写的社论",
+        "易混词对比：edit（编辑动作）vs. editorial（编辑成果/属性）",
+        "记忆tip：想象社论(editorial)是主编(editor)的'+1'(ial)特权"
+      ]
+    }
+  },
+  {
+    "word": "editorially",
+    "etymology": {
+      "breakdown": [
+        "editor",
+        "ial",
+        "ly"
+      ],
+      "meaning_connection": "editor（编辑）+ -ial（形容词后缀）+ -ly（副词后缀）→ 从编辑角度出发的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "以编辑身份地",
+        "examples": [
+          {
+            "sentence": "The news was approved editorially before publication.",
+            "sentence_zh": "这则新闻在发表前经过编辑身份审核。"
+          },
+          {
+            "sentence": "She commented editorially on the viral social media post.",
+            "sentence_zh": "她以编辑身份对病毒式传播的社交媒体帖子发表了评论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "以社论形式",
+        "examples": [
+          {
+            "sentence": "The newspaper addressed the issue editorially.",
+            "sentence_zh": "该报以社论形式探讨了这个问题。"
+          },
+          {
+            "sentence": "The topic was discussed editorially in the latest issue.",
+            "sentence_zh": "这个主题在最新一期中以社论形式进行了讨论。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "speak editorially",
+        "meaning": "以编辑立场发言",
+        "examples": [
+          {
+            "sentence": "The journalist chose to speak editorially rather than report objectively.",
+            "sentence_zh": "这位记者选择以编辑立场发言而非客观报道。"
+          }
+        ]
+      }
+    ],
+    "teach": "editorially就像新闻编辑部的红色印章🔴！当它表示'以编辑身份'时，就像主编大人挥舞审批章（editorially approved）；表示'社论形式'时，如同报纸头版的雄文🗞️（editorially discussed）。搭配'stand editorially'指编辑部立场，'write editorially'是写社论。记住：这个副词决定了你是在说人话还是'编话'！",
+    "recite": {
+      "tips": [
+        "拆解记忆：editor（编辑） + ial（的） + ly（地） = 编辑地",
+        "对比记忆：editorial（adj. 编辑的）→ editorially（adv. 编辑地）"
+      ]
+    }
   }
 ]

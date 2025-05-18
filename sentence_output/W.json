@@ -8256,5 +8256,337 @@
         "联想：WAR战+RANT咆哮→战争中咆哮着发出授权令"
       ]
     }
+  },
+  {
+    "word": "warranty",
+    "etymology": {
+      "breakdown": [
+        "war",
+        "ant",
+        "y"
+      ],
+      "meaning_connection": "词根war=保护/保证（同源词ward守护）, -ant表'人/物', -y表性质→提供保护的文件"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "正当理由",
+        "examples": [
+          {
+            "sentence": "The leaked document provided warranty for their investigation.",
+            "sentence_zh": "泄露的文件为他们调查提供了正当理由。"
+          },
+          {
+            "sentence": "Do you have any warranty to interrupt my hotpot time?",
+            "sentence_zh": "你有正当理由打断我吃火锅吗？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "授权",
+        "examples": [
+          {
+            "sentence": "The emperor's seal acted as warranty for the general's command.",
+            "sentence_zh": "玉玺成为将军指挥权的授权凭证。"
+          },
+          {
+            "sentence": "This digital certificate serves as warranty to access the system.",
+            "sentence_zh": "该数字证书是登录系统的授权证明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "担保",
+        "examples": [
+          {
+            "sentence": "The jeweler gave a lifetime warranty on this jade bracelet.",
+            "sentence_zh": "珠宝商为这只玉镯提供终身担保。"
+          },
+          {
+            "sentence": "His reputation was the only warranty for the risky investment.",
+            "sentence_zh": "他的声誉是这次风险投资的唯一担保。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "保证",
+        "examples": [
+          {
+            "sentence": "The warranty of satisfaction is printed on every milk tea cup.",
+            "sentence_zh": "每杯奶茶上都印有'不满意重做'的保证。"
+          },
+          {
+            "sentence": "Her eyes held silent warranty that the secret was safe.",
+            "sentence_zh": "她的眼神无声保证着秘密的安全。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "根据",
+        "examples": [
+          {
+            "sentence": "Ancient medical books served as warranty for his herbal recipe.",
+            "sentence_zh": "古籍医书成为他草药配方的根据。"
+          },
+          {
+            "sentence": "The warranty for this claim comes from 3000 years of tea culture.",
+            "sentence_zh": "该说法的根据源自三千年茶文化。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "under warranty",
+        "meaning": "在保修期内",
+        "examples": [
+          {
+            "sentence": "My smartphone is still under warranty when it fell into hotpot.",
+            "sentence_zh": "手机掉进火锅时仍在保修期内。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "express warranty",
+        "meaning": "明示担保",
+        "examples": [
+          {
+            "sentence": "The '30-day return' label constitutes an express warranty.",
+            "sentence_zh": "'30天退换'标签构成明示担保。"
+          }
+        ]
+      }
+    ],
+    "teach": "warranty是商业社会的防弹衣🛡️！从欧洲中世纪'战争(warrant)保护令'演变而来，现在变成电子产品的续命符📱（phone warranty）。说'保修过期'用out of warranty就像粽子过了端午🥮，实用搭配有lifetime warranty（终身保修）和warranty claim（索赔）。记住：买大闸蟹要认准阳澄湖warranty🦀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我认提'→我认提(warranty)供保修",
+        "易混词对比：warranty（商品保修）vs. guarantee（质量承诺）",
+        "记忆tip：war+rant→战争时怒吼着提供'保证'"
+      ]
+    }
+  },
+  {
+    "word": "warring",
+    "etymology": {
+      "breakdown": [
+        "war",
+        "ing"
+      ],
+      "meaning_connection": "词根war=战争，-ing表进行状态→处于战争状态的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "交战的",
+        "examples": [
+          {
+            "sentence": "The warring factions finally reached a ceasefire during Mid-Autumn Festival.",
+            "sentence_zh": "交战各方终于在中秋节达成停火协议。"
+          },
+          {
+            "sentence": "Ancient Chinese philosophers often mediated between warring states.",
+            "sentence_zh": "中国古代哲学家经常在交战诸侯国之间调停。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "敌对的",
+        "examples": [
+          {
+            "sentence": "Warring tech companies keep poaching each other's engineers.",
+            "sentence_zh": "敌对的科技公司不断挖角彼此的工程师。"
+          },
+          {
+            "sentence": "The warring neighbors argued over parking spaces like it was a battlefield.",
+            "sentence_zh": "敌对的邻居们为停车位争吵得像在打仗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "冲突的",
+        "examples": [
+          {
+            "sentence": "His warring emotions made him order both spicy and non-spicy hotpot.",
+            "sentence_zh": "冲突的情绪让他同时点了麻辣和清汤火锅。"
+          },
+          {
+            "sentence": "The movie shows warring cultural values in modern society.",
+            "sentence_zh": "这部电影展现了现代社会中冲突的文化价值观。"
+          }
+        ]
+      }
+    ],
+    "teach": "warring其实是'我扰'状态🤺！就像火锅里的麻辣vs清汤锅底🌶️🥘永远在打架。'办公室政治'可以说warring departments（交战部门），'内心挣扎'是warring feelings。记住：当两个外卖骑手在电梯里互瞪👨🦽👨🦽，那就是warring delivery guys！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我赢'→交战双方都想'我赢'",
+        "易混词对比：warring（进行时态） vs warlike（好战的）"
+      ]
+    }
+  },
+  {
+    "word": "warrior",
+    "etymology": {
+      "breakdown": [
+        "war",
+        "ior"
+      ],
+      "meaning_connection": "词根war=战争，后缀-ior=从事...的人→从事战争的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "战士",
+        "examples": [
+          {
+            "sentence": "The terracotta warriors silently guard the emperor's tomb for over 2000 years.",
+            "sentence_zh": "兵马俑战士已默默守卫皇陵超过2000年。"
+          },
+          {
+            "sentence": "Modern warriors wear camouflage instead of armor.",
+            "sentence_zh": "现代战士穿迷彩服而非铠甲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "勇士",
+        "examples": [
+          {
+            "sentence": "Bruce Lee is considered a cultural warrior who broke racial barriers.",
+            "sentence_zh": "李小龙被视为打破种族壁垒的文化勇士。"
+          },
+          {
+            "sentence": "The firefighters are true warriors running into burning buildings.",
+            "sentence_zh": "消防员是冲向火场的真正勇士。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "武士",
+        "examples": [
+          {
+            "sentence": "Samurai warriors followed the Bushido code strictly.",
+            "sentence_zh": "武士道精神被日本武士严格遵守。"
+          },
+          {
+            "sentence": "The warrior knelt before his sword like a sacred ritual.",
+            "sentence_zh": "武士跪坐在佩刀前如进行神圣仪式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "鼓吹战争的人",
+        "examples": [
+          {
+            "sentence": "Keyboard warriors on social media often advocate for war they'll never fight.",
+            "sentence_zh": "社交媒体上的键盘侠常鼓吹他们永远不会参与的战争。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "street warrior",
+        "meaning": "街头斗士",
+        "examples": [
+          {
+            "sentence": "The delivery riders are modern street warriors battling traffic daily.",
+            "sentence_zh": "外卖骑手是每日与交通搏斗的现代街头斗士。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "weekend warrior",
+        "meaning": "周末战士（指业余爱好者）",
+        "examples": [
+          {
+            "sentence": "He's a weekend warrior playing basketball at the park.",
+            "sentence_zh": "他是在公园打篮球的周末战士。"
+          }
+        ]
+      }
+    ],
+    "teach": "warrior这个词自带BGM🎵！从三国武将🏮到复联超级英雄🦸，所有战士都共享这个称号。最萌反差的是'键盘战士'⌨️（keyboard warrior），而'周末战士'🏀（weekend warrior）特指突然剧烈运动的上班族。记住：真正的warrior不在评论区，而在健身房挥汗💦！地道表达'孤军奋战'叫stand alone like a warrior。",
+    "recite": {
+      "tips": [
+        "谐音梗：'我锐啊'→战士自称'我锐利啊'",
+        "易混对比：soldier(正规军) vs warrior(更强调精神)",
+        "记忆tip：war+rior=战争+人=打仗的人"
+      ]
+    }
+  },
+  {
+    "word": "warship",
+    "etymology": {
+      "breakdown": [
+        "war",
+        "ship"
+      ],
+      "meaning_connection": "war=战争，ship=船→用于战争的船只"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "军舰",
+        "examples": [
+          {
+            "sentence": "The new Chinese warship looks like a giant futuristic shark.",
+            "sentence_zh": "中国新型军舰像条未来感十足的巨型鲨鱼。"
+          },
+          {
+            "sentence": "Ancient warships used fire arrows as weapons.",
+            "sentence_zh": "古代战船用火箭作武器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "战船",
+        "examples": [
+          {
+            "sentence": "Viking warships could sail up rivers for surprise attacks.",
+            "sentence_zh": "维京战船能逆流而上发动突袭。"
+          },
+          {
+            "sentence": "The museum displays a 300-year-old wooden warship.",
+            "sentence_zh": "博物馆展出一艘300年前的木质战船。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nuclear-powered warship",
+        "meaning": "核动力军舰",
+        "examples": [
+          {
+            "sentence": "The nuclear-powered warship can cruise for years without refueling.",
+            "sentence_zh": "核动力军舰可连续航行数年无需加油。"
+          }
+        ]
+      }
+    ],
+    "teach": "warship是海上霸王龙🦖！古代战船像移动城堡🏰（wooden warship），现代军舰像变形金刚🤖（stealth warship）。'军舰下水'叫warship launching就像航母玩跳水💦，'舰载机'叫carrier-based aircraft就像军舰背书包🎒。记住：warship不是ship+war，是ship×war！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我醒'→军舰让我醒(warship)觉到国防力量",
+        "易混词：warship（军用）vs. cruise ship（游轮）"
+      ]
+    }
   }
 ]

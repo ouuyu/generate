@@ -7758,5 +7758,187 @@
         "记忆tip：字母G像弯刀形状，ASH暗示受伤后的灰烬感"
       ]
     }
+  },
+  {
+    "word": "gasifier",
+    "etymology": {
+      "breakdown": [
+        "gas",
+        "ify",
+        "er"
+      ],
+      "meaning_connection": "gas=气体，-ify=使...化，-er=器具/执行者→使物质气体化的装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "气化炉",
+        "examples": [
+          {
+            "sentence": "The new gasifier converts agricultural waste into clean energy.",
+            "sentence_zh": "新型气化炉将农业废弃物转化为清洁能源。"
+          },
+          {
+            "sentence": "Villagers use bamboo gasifiers to cook without smoke.",
+            "sentence_zh": "村民们用竹制气化炉实现无烟炊事。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "biomass gasifier",
+        "meaning": "生物质气化炉",
+        "examples": [
+          {
+            "sentence": "Our biomass gasifier can turn coconut shells into cooking gas.",
+            "sentence_zh": "我们的生物质气化炉能把椰子壳变成炊事燃气。"
+          }
+        ]
+      }
+    ],
+    "teach": "gasifier是环保版炼丹炉🔥！把垃圾变燃气的魔法装置，就像《哈利波特》里把老鼠变成高脚杯的变形术🧙♂️。说'环保能源'可以用green energy，'废物利用'叫turn trash into treasure。记住：这玩意儿比邓布利多的熄灯器还神奇——能把秸秆变成燃气灶火苗！♻️⚡🍃",
+    "recite": {
+      "tips": [
+        "谐音梗：'该撕fire'→该撕的废料进炉变fire",
+        "易混词对比：generator(发电机)/gasifier(气化炉)",
+        "记忆tip：想象灭霸打个响指，垃圾化成气体消失"
+      ]
+    }
+  },
+  {
+    "word": "gasket",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "词源不确定，可能来自法语'garcette'(小绳)或西班牙语'garceta'(绳索)"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "衬垫",
+        "examples": [
+          {
+            "sentence": "The plumber replaced the rubber gasket in my leaking faucet.",
+            "sentence_zh": "水管工更换了我漏水龙头里的橡胶衬垫。"
+          },
+          {
+            "sentence": "Grandma's pressure cooker still uses the original asbestos gasket from 1970s.",
+            "sentence_zh": "奶奶的高压锅仍在使用1970年代的原始石棉衬垫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "垫圈",
+        "examples": [
+          {
+            "sentence": "The mechanic cursed when the oil pan gasket blew again.",
+            "sentence_zh": "当油底壳垫圈又坏了时，机修工骂骂咧咧。"
+          },
+          {
+            "sentence": "My DIY disaster began with installing the toilet gasket upside down.",
+            "sentence_zh": "我的DIY灾难始于把马桶垫圈装反了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "束帆索",
+        "examples": [
+          {
+            "sentence": "The sailor deftly tied the gasket to secure the sails.",
+            "sentence_zh": "水手熟练地系紧束帆索固定船帆。"
+          },
+          {
+            "sentence": "Storm-worn gaskets were the first things replaced in the harbor.",
+            "sentence_zh": "在港口，被风暴磨损的束帆索总是最先被更换的部件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "blow a gasket",
+        "meaning": "勃然大怒（字面义：垫圈爆裂）",
+        "examples": [
+          {
+            "sentence": "My mom blew a gasket when she saw my failed math test.",
+            "sentence_zh": "妈妈看到我不及格的数学试卷时勃然大怒。"
+          },
+          {
+            "sentence": "The boss will blow a gasket if the project delays again.",
+            "sentence_zh": "如果项目再延期，老板会气炸的。"
+          }
+        ]
+      }
+    ],
+    "teach": "gasket是工业界的无名英雄🦸！就像饺子皮防止露馅🥟，它默默防止漏油/漏水。特斯拉和五菱宏光都靠它！搭配要说'install a gasket'（安装垫片）或'seal with gasket'（用垫圈密封）。说'勃然大怒'可以幽默地说'blow a gasket'💥，就像引擎爆缸一样形象！记住：没有gasket，你的宝马车会变成喷泉⛲️",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖撕开它'→垫圈(gasket)坏了盖子就撕开了",
+        "易混词对比：gasket（密封件） vs basket（篮子）",
+        "联想记忆：gas(气体)+ket(音似'盖')→盖住气体的东西"
+      ]
+    }
+  },
+  {
+    "word": "gasoline",
+    "etymology": {
+      "breakdown": [
+        "gas",
+        "ol",
+        "ine"
+      ],
+      "meaning_connection": "词根gas=气体，-ol=油类后缀，-ine=化学物质后缀→最初指从煤气中提炼的液体燃料"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "汽油",
+        "examples": [
+          {
+            "sentence": "The smell of gasoline always reminds me of road trips with my dad.",
+            "sentence_zh": "汽油味总让我想起和父亲自驾游的时光。"
+          },
+          {
+            "sentence": "Electric cars are shaking the throne of gasoline vehicles.",
+            "sentence_zh": "电动车正在动摇汽油车的王座。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gasoline engine",
+        "meaning": "汽油发动机",
+        "examples": [
+          {
+            "sentence": "My grandpa still drives his 1980s gasoline engine motorcycle.",
+            "sentence_zh": "我爷爷还在骑他那台80年代的汽油发动机摩托。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gasoline pump",
+        "meaning": "加油枪",
+        "examples": [
+          {
+            "sentence": "She nervously held the gasoline pump like it was a lightsaber.",
+            "sentence_zh": "她紧张地握着加油枪，仿佛那是光剑。"
+          }
+        ]
+      }
+    ],
+    "teach": "gasoline其实是'气油'💨→最早是照明用煤气副产品！美国叫gas英国叫petrol就像'土豆'vs'马铃薯'🥔。说'油费贵'用highway robbery（公路抢劫）形容，'加满油'叫fill'er up像给巨龙喂食🐉。记住：你的爱车喝gasoline就像你喝奶茶🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'该死哦灵'→油价贵到让人骂街",
+        "易混词：gas（气体）/petrol（英式汽油）"
+      ]
+    }
   }
 ]

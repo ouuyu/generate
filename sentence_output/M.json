@@ -7737,5 +7737,376 @@
         "记忆口诀：make+shift=临时工转正前的工作状态"
       ]
     }
+  },
+  {
+    "word": "makeup",
+    "etymology": {
+      "breakdown": [
+        "make",
+        "up"
+      ],
+      "meaning_connection": "字面组合'制作+向上'→通过组合/修饰达到完整状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "组成",
+        "examples": [
+          {
+            "sentence": "The genetic makeup of pandas makes them love bamboo exclusively.",
+            "sentence_zh": "熊猫的基因组成使它们独爱竹子。"
+          },
+          {
+            "sentence": "The makeup of this committee reflects cultural diversity.",
+            "sentence_zh": "该委员会的组成体现了文化多样性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "性格",
+        "examples": [
+          {
+            "sentence": "Her optimistic makeup helps her survive 996 work schedule.",
+            "sentence_zh": "她乐观的性格帮助她扛住996工作制。"
+          },
+          {
+            "sentence": "You need a special mental makeup to be a stand-up comedian.",
+            "sentence_zh": "当脱口秀演员需要特殊的精神特质。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "化妆品",
+        "examples": [
+          {
+            "sentence": "Her makeup bag contains 50 shades of lipsticks.",
+            "sentence_zh": "她的化妆包里装着50种色号的口红。"
+          },
+          {
+            "sentence": "Livestreamers often demonstrate makeup application techniques.",
+            "sentence_zh": "主播经常演示化妆品使用技巧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "化装(术)",
+        "examples": [
+          {
+            "sentence": "The Peking Opera makeup took 3 hours to complete.",
+            "sentence_zh": "这个京剧妆造花了3小时完成。"
+          },
+          {
+            "sentence": "His zombie makeup scared all the trick-or-treaters.",
+            "sentence_zh": "他的丧尸化妆吓坏了所有讨糖小孩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "虚构",
+        "examples": [
+          {
+            "sentence": "The story is pure makeup with no historical basis.",
+            "sentence_zh": "这个故事纯属虚构毫无史实依据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "补考",
+        "examples": [
+          {
+            "sentence": "The makeup exam will be harder than the original one.",
+            "sentence_zh": "这次补考会比原考试更难。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make up for",
+        "meaning": "补偿",
+        "examples": [
+          {
+            "sentence": "She made up for being late by treating everyone to hotpot.",
+            "sentence_zh": "她通过请所有人吃火锅来弥补迟到。"
+          }
+        ]
+      }
+    ],
+    "teach": "makeup是'画皮'也是'画饼'🎨！当化妆品用时像李佳琦的OMG💄（lipstick makeup），当'组成'讲时像火锅底料配方🍲（ingredient makeup），'补考'就像回锅肉🔄（makeup exam）。吐槽'浓妆'叫cake-face，说'素颜'用fresh-faced。记住：makeup的本质就是're-make'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'美卡扑'→美妆卡粉扑街",
+        "易混词：makeup(vs) costume（前者面部/后者全身装扮）"
+      ]
+    }
+  },
+  {
+    "word": "making",
+    "etymology": {
+      "breakdown": [
+        "make",
+        "ing"
+      ],
+      "meaning_connection": "make表示制造、创造，-ing将动词变为名词，表示过程或结果。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "制造",
+        "examples": [
+          {
+            "sentence": "The making of this porcelain vase took three months.",
+            "sentence_zh": "这个瓷瓶的制造用了三个月时间。"
+          },
+          {
+            "sentence": "Toy making is a traditional craft in this village.",
+            "sentence_zh": "玩具制造是这个村子的传统手艺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "(手工)制造业",
+        "examples": [
+          {
+            "sentence": "The making of traditional Chinese furniture is a dying art.",
+            "sentence_zh": "中国传统家具制造业是一门正在消失的艺术。"
+          },
+          {
+            "sentence": "Local authorities support the revival of bamboo making.",
+            "sentence_zh": "地方政府支持竹制品制造业的复兴。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "制作",
+        "examples": [
+          {
+            "sentence": "The making of this documentary took two years.",
+            "sentence_zh": "这部纪录片的制作花了两年时间。"
+          },
+          {
+            "sentence": "He showed us the making process of handmade noodles.",
+            "sentence_zh": "他向我们展示了手工面条的制作过程。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "形成",
+        "examples": [
+          {
+            "sentence": "The making of a habit takes about 21 days.",
+            "sentence_zh": "一个习惯的形成大约需要21天。"
+          },
+          {
+            "sentence": "Geologists study the making of mountains.",
+            "sentence_zh": "地质学家研究山脉的形成过程。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发展",
+        "examples": [
+          {
+            "sentence": "The making of this small town into a tourist attraction is remarkable.",
+            "sentence_zh": "这个小镇发展成旅游景点的过程令人瞩目。"
+          },
+          {
+            "sentence": "We witnessed the making of a new star in the music industry.",
+            "sentence_zh": "我们见证了音乐界一颗新星的发展过程。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "要素",
+        "examples": [
+          {
+            "sentence": "Diligence is an important making of success.",
+            "sentence_zh": "勤奋是成功的重要要素。"
+          },
+          {
+            "sentence": "The makings of a good leader include integrity and vision.",
+            "sentence_zh": "优秀领导者的要素包括正直和远见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "内在因素",
+        "examples": [
+          {
+            "sentence": "She has all the makings of a great artist.",
+            "sentence_zh": "她具备成为伟大艺术家的所有内在因素。"
+          },
+          {
+            "sentence": "The makings of this crisis were there for years.",
+            "sentence_zh": "这场危机的内在因素已存在多年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赚头",
+        "examples": [
+          {
+            "sentence": "There's good making in this small restaurant business.",
+            "sentence_zh": "这家小餐馆生意有不错的赚头。"
+          },
+          {
+            "sentence": "The making on imported goods is usually higher.",
+            "sentence_zh": "进口商品的赚头通常更高。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "制造物",
+        "examples": [
+          {
+            "sentence": "The factory's makings are exported worldwide.",
+            "sentence_zh": "这家工厂的制造物出口到世界各地。"
+          },
+          {
+            "sentence": "Local makings of handicrafts attract many tourists.",
+            "sentence_zh": "当地的手工艺品制造物吸引了许多游客。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in the making",
+        "meaning": "在形成中",
+        "examples": [
+          {
+            "sentence": "This new policy is two years in the making.",
+            "sentence_zh": "这项新政策酝酿了两年之久。"
+          }
+        ]
+      }
+    ],
+    "teach": "making就像3D打印机🖨️：可以制造物品(manufacturing)、制作电影(movie making)、形成习惯(habit making)，甚至还能赚钱(money making)💰！记住：手工制造业叫handicraft making，而'有成为...的潜质'可以说have the makings of🎯。想吐槽质量差？说'This is poor making'比'bad quality'更地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'没king'→没有国王(making)的国家正在形成中",
+        "易混词对比：making(制造过程) vs. product(成品)"
+      ]
+    }
+  },
+  {
+    "word": "mala",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自梵语माला（mālā），原指'花环'，因颧骨形状似花瓣环绕眼睛而得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "颊",
+        "examples": [
+          {
+            "sentence": "The baby's plump mala turned rosy in the winter wind.",
+            "sentence_zh": "宝宝圆嘟嘟的脸颊在寒风中变得粉扑扑的。"
+          },
+          {
+            "sentence": "She pressed her cold hands against her burning mala after the spicy hotpot.",
+            "sentence_zh": "吃完麻辣火锅后，她把冰凉的手贴在发烫的脸颊上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "颧骨",
+        "examples": [
+          {
+            "sentence": "His high mala bones make him look perpetually smiling.",
+            "sentence_zh": "他高耸的颧骨让他看起来永远在微笑。"
+          },
+          {
+            "sentence": "The forensic artist reconstructed the suspect's face based on the unique mala shape.",
+            "sentence_zh": "法医画家根据独特的颧骨形状重建了嫌疑人的面容。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "mala其实是颜值担当💎！在梵语里本指'花瓣项链'🌺，后来医学术语用它形容颧骨，就像两片花瓣托着眼睛👀。夸人'颧骨好看'可以说elevated mala（高级颧骨），'苹果肌'叫mala eminence（颊隆起）。记住：打腮红要刷在mala上，不然就成京剧脸谱🎭啦！",
+    "recite": {
+      "tips": [
+        "视觉记忆：想象mala是脸上挂着的两朵小花🌼🌼",
+        "易混词对比：malaria（疟疾）和mala无关，别被'mal'前缀吓到"
+      ]
+    }
+  },
+  {
+    "word": "malabsorption",
+    "etymology": {
+      "breakdown": [
+        "mal",
+        "absorption"
+      ],
+      "meaning_connection": "前缀mal-=坏的/不良的，absorption=吸收→字面意思就是'吸收不良'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "吸收不良",
+        "examples": [
+          {
+            "sentence": "Lactose intolerance often causes malabsorption of calcium.",
+            "sentence_zh": "乳糖不耐症常导致钙质吸收不良。"
+          },
+          {
+            "sentence": "The doctor diagnosed malabsorption when the patient kept losing weight despite eating normally.",
+            "sentence_zh": "当患者饮食正常却持续消瘦时，医生诊断出吸收不良。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "养料吸收障碍",
+        "examples": [
+          {
+            "sentence": "Celiac disease leads to nutrient malabsorption in the small intestine.",
+            "sentence_zh": "乳糜泻会导致小肠养料吸收障碍。"
+          },
+          {
+            "sentence": "Tropical sprue is a common cause of vitamin malabsorption in Southeast Asia.",
+            "sentence_zh": "热带口炎性腹泻是东南亚维生素吸收障碍的常见原因。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fat malabsorption",
+        "meaning": "脂肪吸收不良",
+        "examples": [
+          {
+            "sentence": "Steatorrhea is a classic sign of fat malabsorption.",
+            "sentence_zh": "脂肪泻是脂肪吸收不良的典型症状。"
+          }
+        ]
+      }
+    ],
+    "teach": "malabsorption就像肠道里的漏勺🥄！想象你吃下的火锅营养从肠子缝隙溜走🍲（nutrient malabsorption）。有趣的是，二战时英国间谍用'malabsorption syndrome'作为暗号指'情报接收失败'📩。说'消化差'可以吐槽My guts are like a broken ATM（我的肠子是坏掉的ATM机💸）。记住：mal+吸收=吸收不良，就像坏掉的WIFI信号📶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'买了不吸收'→网购保健品却不吸收",
+        "易混词对比：malabsorption（吸收不良） vs. malnutrition（营养不良）"
+      ]
+    }
   }
 ]

@@ -7979,5 +7979,335 @@
         "联想：ABS（防抱死系统）+ tin（罐头）→ 像罐头般封闭欲望"
       ]
     }
+  },
+  {
+    "word": "abstract",
+    "etymology": {
+      "breakdown": [
+        "abs",
+        "tract"
+      ],
+      "meaning_connection": "前缀abs-表示'离开'，词根tract表示'拉'→原指'从具体事物中抽离出来'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "抽象的",
+        "examples": [
+          {
+            "sentence": "Modern art looks like my 3-year-old's abstract finger painting.",
+            "sentence_zh": "现代艺术看起来像我三岁孩子的抽象手指画。"
+          },
+          {
+            "sentence": "Love is too abstract to be measured by TikTok likes.",
+            "sentence_zh": "爱太抽象，无法用抖音点赞数衡量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "深奥的",
+        "examples": [
+          {
+            "sentence": "The professor's lecture on quantum physics was painfully abstract.",
+            "sentence_zh": "教授关于量子物理的讲座深奥得让人头疼。"
+          },
+          {
+            "sentence": "Abstract philosophical debates always make me crave hotpot.",
+            "sentence_zh": "深奥的哲学辩论总让我想吃火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "摘要",
+        "examples": [
+          {
+            "sentence": "The conference requires submitting an abstract in English and Chinese.",
+            "sentence_zh": "会议要求提交中英文双语的摘要。"
+          },
+          {
+            "sentence": "Reading the abstract first saves time like scanning a QR menu.",
+            "sentence_zh": "先读摘要就像扫码看菜单一样省时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抽象概念",
+        "examples": [
+          {
+            "sentence": "Justice is an abstract that varies across cultures.",
+            "sentence_zh": "正义是因文化而异的抽象概念。"
+          },
+          {
+            "sentence": "Turning this abstract into concrete business models is challenging.",
+            "sentence_zh": "将这个抽象概念转化为具体商业模式很有挑战性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "提炼",
+        "examples": [
+          {
+            "sentence": "Algorithms abstract useful patterns from big data.",
+            "sentence_zh": "算法从大数据中提炼有用模式。"
+          },
+          {
+            "sentence": "Ancient Chinese doctors abstracted medical knowledge from nature.",
+            "sentence_zh": "古代中医从自然中提炼医学知识。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in the abstract",
+        "meaning": "理论上",
+        "examples": [
+          {
+            "sentence": "In the abstract, multitasking sounds efficient like a buffet.",
+            "sentence_zh": "理论上，多任务处理像自助餐一样高效。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "abstract from",
+        "meaning": "从...提取",
+        "examples": [
+          {
+            "sentence": "This flavor is abstracted from authentic Sichuan peppercorns.",
+            "sentence_zh": "这种风味是从正宗花椒中提取的。"
+          }
+        ]
+      }
+    ],
+    "teach": "abstract就像火锅底料浓缩块🍲：既是深奥的哲学概念🤯，又是论文的精华摘要📄。达芬奇说'简单是终极的复杂'，就像小面调料包浓缩了整个重庆的味道🌶️。搭配'in the abstract'（理论上）和'abstract from'（提取），地道说'太玄了'用'it's too meta'（元宇宙直呼内行）💫",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱死不拽它'→抽象概念爱死不愿拽住它",
+        "对比记忆：extract（榨取）vs abstract（提炼）"
+      ]
+    }
+  },
+  {
+    "word": "abstracted",
+    "etymology": {
+      "breakdown": [
+        "abs",
+        "tract",
+        "ed"
+      ],
+      "meaning_connection": "前缀abs-=离开，词根tract=拉拽，-ed形容词后缀→本义'被抽离的'，引申为'注意力被拉走'的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "心不在焉的",
+        "examples": [
+          {
+            "sentence": "The professor looked abstracted while students demonstrated Newton's laws with fidget spinners.",
+            "sentence_zh": "当学生们用指尖陀螺演示牛顿定律时，教授显得心不在焉。"
+          },
+          {
+            "sentence": "She gave an abstracted reply when asked about the baozi filling.",
+            "sentence_zh": "被问及包子馅料时，她给出了一个心不在焉的回答。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "出神的",
+        "examples": [
+          {
+            "sentence": "His abstracted gaze suggested he was mentally composing a pop song.",
+            "sentence_zh": "他出神的目光暗示着正在脑内创作流行歌曲。"
+          },
+          {
+            "sentence": "The calligrapher sat abstracted before the xuan paper, brush hovering mid-air.",
+            "sentence_zh": "书法家面对宣纸出神地坐着，毛笔悬在半空。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "分离出的",
+        "examples": [
+          {
+            "sentence": "The abstracted data revealed unexpected hotpot ingredient preferences.",
+            "sentence_zh": "分离出的数据揭示了意想不到的火锅食材偏好。"
+          },
+          {
+            "sentence": "Abstracted chemical compounds from traditional herbs are now used in modern medicine.",
+            "sentence_zh": "从传统草药中分离出的化合物现用于现代医药。"
+          }
+        ]
+      }
+    ],
+    "teach": "abstracted是'灵魂出窍三件套'🧠💨✨：1) 源自拉丁语'被抽离'，就像你刷抖音时精神被吸走 2) 视觉化：像被孙悟空拔走定海神针的龙王🐉 3) 搭配：abstracted look（恍惚表情）/ abstracted from reality（脱离现实） 4) 地道说法：'走神'叫spaced out 5) 适用场景：老板讲话时你的表情/化学实验提取过程",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不释手它'→因为走神(abstracted)所以一直拿着东西",
+        "易混词对比：abstract（抽象的）vs abstracted（出神的）",
+        "记忆tip：想象把'注意力TRACTor'从现场ABS拖走"
+      ]
+    }
+  },
+  {
+    "word": "abstractedly",
+    "etymology": {
+      "breakdown": [
+        "abstract",
+        "ed",
+        "ly"
+      ],
+      "meaning_connection": "abstract（抽象）+ -ed（形容词后缀）+ -ly（副词后缀）→ 原指'被抽离的状态'，引申为注意力被抽走的模样"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "心不在焉",
+        "examples": [
+          {
+            "sentence": "He nodded abstractedly while secretly checking WeChat moments.",
+            "sentence_zh": "他心不在焉地点头，其实在偷偷刷朋友圈。"
+          },
+          {
+            "sentence": "The professor wiped his glasses abstractedly, leaving fingerprints all over them.",
+            "sentence_zh": "教授心不在焉地擦眼镜，结果镜片上全是指纹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "出神",
+        "examples": [
+          {
+            "sentence": "She stirred her milk tea abstractedly, watching the pearls swirl.",
+            "sentence_zh": "她出神地搅动奶茶，看着珍珠打转。"
+          },
+          {
+            "sentence": "Grandpa gazed abstractedly at his old army photo, lost in memories.",
+            "sentence_zh": "爷爷出神地望着老军装照，沉浸在回忆中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abstractedly humming",
+        "meaning": "走神地哼歌",
+        "examples": [
+          {
+            "sentence": "The subway passenger was abstractedly humming a Jay Chou song.",
+            "sentence_zh": "地铁乘客走神地哼着周杰伦的歌。"
+          }
+        ]
+      }
+    ],
+    "teach": "abstractedly是社恐人的保护罩🛡️！想象你在电梯里遇到老板：眼睛盯着楼层数字假装出神(abstractedly)，实际脚趾在抠三室一厅🏠。'走神'的地道说法是zone out，'心不在焉'像脑袋被火锅热气熏走了♨️。搭配：abstractedly scrolling（机械刷手机）、abstractedly nodding（假笑点头）",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱波死捶它滴'→爱豆直播时你的注意力被'捶'走了",
+        "易混词对比：absently（纯放空） vs abstractedly（思考抽象事物）",
+        "记忆tip：把-ed想象成被抽走的注意力小精灵🧚"
+      ]
+    }
+  },
+  {
+    "word": "abstraction",
+    "etymology": {
+      "breakdown": [
+        "abs",
+        "tract",
+        "ion"
+      ],
+      "meaning_connection": "前缀abs-表示'远离'，词根tract表示'拉拽'，后缀-ion表行为→原指'抽离出来'的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "抽象化",
+        "examples": [
+          {
+            "sentence": "The abstraction of QR codes simplifies payments.",
+            "sentence_zh": "二维码的抽象化简化了支付流程。"
+          },
+          {
+            "sentence": "Chinese ink painting uses abstraction to capture the spirit of landscapes.",
+            "sentence_zh": "中国水墨画用抽象化捕捉山水神韵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "心不在焉",
+        "examples": [
+          {
+            "sentence": "His abstraction during the meeting made him miss the hotpot reservation time.",
+            "sentence_zh": "他开会时心不在焉，错过了火锅定位时间。"
+          },
+          {
+            "sentence": "The student's abstraction resulted in writing 'TikTok' instead of 'textbook'.",
+            "sentence_zh": "那个学生心不在焉地把'课本'写成了'抖音'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "空想",
+        "examples": [
+          {
+            "sentence": "Her abstraction about becoming a livestream star involved selling 100 million yuan worth of goods overnight.",
+            "sentence_zh": "她想当直播网红卖货破亿的空想实在不切实际。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "提炼",
+        "examples": [
+          {
+            "sentence": "The abstraction of tea essence is key to making milk tea.",
+            "sentence_zh": "茶叶精华的提炼是制作奶茶的关键。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抽象派作品",
+        "examples": [
+          {
+            "sentence": "The museum displayed an abstraction that looked like a dropped xiaolongbao.",
+            "sentence_zh": "美术馆展出了一幅像掉在地上的小笼包的抽象派作品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in the abstraction of",
+        "meaning": "在...的抽象过程中",
+        "examples": [
+          {
+            "sentence": "In the abstraction of Peking opera makeup, red represents loyalty.",
+            "sentence_zh": "在京剧脸谱的抽象过程中，红色代表忠义。"
+          }
+        ]
+      }
+    ],
+    "teach": "abstraction就像火锅汤底浓缩块🍲！原本是'抽离精华'的动作（如提取茶叶），后来变成'神游太空'的状态（上课走神☁️），最后升级为'看不懂的艺术'（抽象派蒙娜丽莎微笑🤔）。搭配：'lost in abstraction'（神游中），'mathematical abstraction'（数学抽象）。地道说法：'head in the clouds'（做白日梦）💭🎨➗",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不撕拽绳'→抽象就是不撕拽现实绳索",
+        "易混词：abstract（adj.抽象的）/ extract（v.提取）",
+        "记忆法：ABS（防抱死）+TRACTION（牵引）= 把具体特征'防抱死'地牵引走"
+      ]
+    }
   }
 ]
