@@ -629,5 +629,302 @@
         "易混词对比：porridge(泛指粥) vs oatmeal(特指燕麦粥)"
       ]
     }
+  },
+  {
+    "word": "oats",
+    "etymology": {
+      "breakdown": [
+        "oat",
+        "s"
+      ],
+      "meaning_connection": "古英语'āte'指燕麦作物，复数形式衍生出'燕麦食物'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "燕麦（作物）",
+        "examples": [
+          {
+            "sentence": "The Scottish highlands are perfect for growing oats.",
+            "sentence_zh": "苏格兰高地非常适合种植燕麦。"
+          },
+          {
+            "sentence": "Oats waving in the wind look like golden waves.",
+            "sentence_zh": "风中摇曳的燕麦田如同金色波浪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "燕麦粥",
+        "examples": [
+          {
+            "sentence": "Grandma's secret is adding cinnamon to her oats.",
+            "sentence_zh": "奶奶的秘诀是在燕麦粥里加肉桂。"
+          },
+          {
+            "sentence": "Instant oats with pickles is my pandemic survival meal.",
+            "sentence_zh": "速食燕麦配榨菜是我的疫情生存餐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sow one's wild oats",
+        "meaning": "年少轻狂",
+        "examples": [
+          {
+            "sentence": "His motorcycle phase was just sowing wild oats.",
+            "sentence_zh": "他的机车时期不过是年少轻狂。"
+          }
+        ]
+      }
+    ],
+    "teach": "燕麦史就是人类驯服野草史🌾！苏格兰人靠oats熬过凛冬❄️（porridge tradition），而'sow wild oats'典故来自中世纪农民发现野燕麦比小麦好种🌱。健身党说'燕麦是穷人蛋白粉💪'，地道搭配是overnight oats（隔夜燕麦杯）。记住：早餐吃oats，整天不'oat'槽！",
+    "recite": {
+      "tips": [
+        "谐音梗：'藕吐丝'→燕麦粥拉丝粘稠感",
+        "易混词：wheat（小麦）/barley（大麦）"
+      ]
+    }
+  },
+  {
+    "word": "obduracy",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "dur",
+        "acy"
+      ],
+      "meaning_connection": "前缀ob-表示'对抗'，词根dur=坚硬（同durable），-acy为名词后缀→对抗改变的坚硬状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "顽固",
+        "examples": [
+          {
+            "sentence": "The obduracy of my grandpa refusing to use smartphones is legendary in our family.",
+            "sentence_zh": "爷爷拒绝使用智能手机的顽固在我们家是传奇。"
+          },
+          {
+            "sentence": "Her obduracy in sticking to traditional teaching methods frustrated the students.",
+            "sentence_zh": "她坚持传统教学方法的顽固让学生们很沮丧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "执拗",
+        "examples": [
+          {
+            "sentence": "With the obduracy of a toddler wanting ice cream, he kept requesting spicy hotpot.",
+            "sentence_zh": "他像小孩要冰淇淋一样执拗地坚持要吃麻辣火锅。"
+          },
+          {
+            "sentence": "The negotiation failed due to the obduracy of both parties.",
+            "sentence_zh": "由于双方的执拗，谈判失败了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "冷酷",
+        "examples": [
+          {
+            "sentence": "The obduracy of the landlord evicting the sick old man shocked the neighborhood.",
+            "sentence_zh": "房东驱逐生病老人的冷酷震惊了整个社区。"
+          },
+          {
+            "sentence": "Historical records reveal the obduracy of some emperors executing loyal ministers.",
+            "sentence_zh": "历史记载揭示了一些处死忠臣的皇帝的冷酷。"
+          }
+        ]
+      }
+    ],
+    "teach": "obduracy是'硬核'💎的最高级形式！词根dur=坚硬（想想diamond💎），就像拒绝更新系统的WindowsXP老电脑💻，或是坚持'多喝热水'的直男语录🍵。搭配说show obduracy（展现固执）就像厕所里的石头——又臭又硬🧱，地道说法叫hard-nosed（硬鼻子的）。记住：当你的猫对你obduracy时，它只是在执行'朕即正义'的猫生信条🐈！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不丢垃圾'→顽固老人拒绝垃圾分类",
+        "易混词：obstinate（更常用）vs obduracy（更正式）",
+        "联想记忆：OB（欧巴）+ durability（耐久性）= 哥哥的固执持久度"
+      ]
+    }
+  },
+  {
+    "word": "obdurate",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "dur",
+        "ate"
+      ],
+      "meaning_connection": "前缀ob-表示'对抗'，词根dur表示'坚硬'（如durable），-ate为形容词后缀→像石头一样硬对抗改变"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "顽固的",
+        "examples": [
+          {
+            "sentence": "The obdurate toddler refused to eat anything green, even broccoli-shaped chocolates.",
+            "sentence_zh": "这个固执的幼童拒绝吃任何绿色食物，哪怕是西兰花形状的巧克力。"
+          },
+          {
+            "sentence": "His obdurate belief that the earth is flat survived three astronomy classes.",
+            "sentence_zh": "他坚信地球是平的，连上三节天文课都没能改变这顽固想法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "执拗的",
+        "examples": [
+          {
+            "sentence": "She was obdurate about using only fountain pens in the digital age.",
+            "sentence_zh": "在数字时代她执拗地坚持只用钢笔写字。"
+          },
+          {
+            "sentence": "The obdurate programmer insisted on coding in Assembly language.",
+            "sentence_zh": "这个执拗的程序员坚持用汇编语言写代码。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "冷酷的",
+        "examples": [
+          {
+            "sentence": "The landlord's obdurate response to the plea was to double the rent.",
+            "sentence_zh": "房东对求情报以冷酷回应：房租翻倍。"
+          },
+          {
+            "sentence": "An obdurate winter wind cut through our thin jackets.",
+            "sentence_zh": "冷酷的冬风刺透我们单薄的外套。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obdurate refusal",
+        "meaning": "顽固拒绝",
+        "examples": [
+          {
+            "sentence": "The cat's obdurate refusal to use the $200 designer pet bed went viral.",
+            "sentence_zh": "这只猫顽固拒绝使用200美元的设计师宠物床的视频火了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "obdurate heart",
+        "meaning": "铁石心肠",
+        "examples": [
+          {
+            "sentence": "Not even puppies could melt his obdurate heart.",
+            "sentence_zh": "连小狗都无法融化他的铁石心肠。"
+          }
+        ]
+      }
+    ],
+    "teach": "obdurate是'硬核'本核💎！词根dur=硬（如duration持久），想象金刚石💍划玻璃的刺耳声就是obdurate的人说'不'的样子。形容'死硬派'可说hard as nails（像钉子般硬），'倔驴'叫stubborn as a mule🐴。记住：obdurate程度＞stubborn，堪比厕所里的石头——又臭又硬！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不丢它'→固执老人紧攥传家宝",
+        "易混词：obstinate（固执但可能出于原则）/obdurate（带冷酷无情色彩）",
+        "记忆法：OB（对抗）+DUR（硬）= 硬核对抗"
+      ]
+    }
+  },
+  {
+    "word": "obedience",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "ed",
+        "ience"
+      ],
+      "meaning_connection": "前缀ob-表示'朝向'，词根ed来自拉丁语audire（听），-ence表状态→'朝向听命的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "服从",
+        "examples": [
+          {
+            "sentence": "The military dog showed absolute obedience to commands with one raised eyebrow.",
+            "sentence_zh": "这只军犬对指令展现出绝对服从，只需主人挑一下眉毛。"
+          },
+          {
+            "sentence": "The AI assistant's obedience to human orders may evolve unpredictably.",
+            "sentence_zh": "人工智能助手对人类指令的服从可能产生不可预测的演变。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "顺从",
+        "examples": [
+          {
+            "sentence": "Panda cub's obedience to its keeper often ends when bamboo is involved.",
+            "sentence_zh": "熊猫幼崽对饲养员的顺从通常在涉及到竹子时终结。"
+          },
+          {
+            "sentence": "Her obedience to fashion trends disappeared after discovering vintage clothing.",
+            "sentence_zh": "发现古着服饰后，她对时尚潮流的顺从就消失了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "忠实",
+        "examples": [
+          {
+            "sentence": "The ancient sword was buried with its owner as a symbol of eternal obedience.",
+            "sentence_zh": "这把古剑作为永恒忠实的象征与主人同葬。"
+          },
+          {
+            "sentence": "Golden retrievers are famous for their obedience that even overrides food temptation.",
+            "sentence_zh": "金毛犬以能超越食物诱惑的忠实而闻名。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "blind obedience",
+        "meaning": "盲目服从",
+        "examples": [
+          {
+            "sentence": "The cult demanded blind obedience that even included giving up bubble tea.",
+            "sentence_zh": "这个邪教要求放弃奶茶的盲目服从。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in obedience to",
+        "meaning": "遵从...",
+        "examples": [
+          {
+            "sentence": "In obedience to traffic laws, the e-bike rider reluctantly wore the safety helmet.",
+            "sentence_zh": "为遵守交通法规，电动车骑手不情不愿地戴上了安全帽。"
+          }
+        ]
+      }
+    ],
+    "teach": "obedience其实是'耳朵忠诚'👂：古代仆人要竖起耳朵(ed)听主人使唤。说'绝对服从'用like a well-trained corgi（像训练有素的柯基），'被迫顺从'叫grudging obedience就像被没收手机的学生📱。记住：真正的obedience是火锅局里主动给老板涮毛肚的觉悟🥢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噢别等死'→不服从(obedience)就可能噢别等死",
+        "易混对比：obedience（服从）vs. obesity（肥胖）→别把'服从'吃成'肥胖'",
+        "联想记忆：OB+EDI（饿了么）+ENCE→外卖小哥对系统指令的服从"
+      ]
+    }
   }
 ]

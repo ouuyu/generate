@@ -839,5 +839,276 @@
         "记忆tip：把字母d看成耷拉的舌头，aft看成after喝醉→酒后变蠢"
       ]
     }
+  },
+  {
+    "word": "dagger",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语dague，可能源自凯尔特语或拉丁语daca（达契亚匕首）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "匕首",
+        "examples": [
+          {
+            "sentence": "The museum displayed a jade dagger from the Shang Dynasty.",
+            "sentence_zh": "博物馆展出了一把商朝的玉匕首。"
+          },
+          {
+            "sentence": "He carved the turkey with a dagger-shaped knife at the BBQ party.",
+            "sentence_zh": "烧烤派对上他用匕首形刀具切火鸡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用剑刺",
+        "examples": [
+          {
+            "sentence": "In the Peking opera, the actor daggered the air with dramatic movements.",
+            "sentence_zh": "京剧演员用夸张的动作挥剑刺向空中。"
+          },
+          {
+            "sentence": "The knight daggered the apple on the dummy's head with precision.",
+            "sentence_zh": "骑士精准地刺中了假人头顶的苹果。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "at daggers drawn",
+        "meaning": "剑拔弩张",
+        "examples": [
+          {
+            "sentence": "The two e-sports teams were at daggers drawn before the finals.",
+            "sentence_zh": "两支电竞战队在决赛前剑拔弩张。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "look daggers at",
+        "meaning": "怒目而视",
+        "examples": [
+          {
+            "sentence": "My mom looked daggers at me when I spilled milk tea on her new qipao.",
+            "sentence_zh": "我把奶茶洒在妈妈的新旗袍上时，她对我怒目而视。"
+          }
+        ]
+      }
+    ],
+    "teach": "dagger是刺客信条🗡️的祖传工具！古代欧洲决斗时会扔手套+匕首表示挑战🧤（throw down the gauntlet and dagger），中文说'背后捅刀'英语叫stab in the back🔪。'火冒三丈'可以说see red with daggers in eyes👹，记住：现代职场dagger可能是一支钢笔✒️——签字裁人的时候最锋利！",
+    "recite": {
+      "tips": [
+        "谐音梗：'带个儿'→带个儿(dagger)防身",
+        "易混词对比：dagger（短匕首） vs. sword（长剑） vs. knife（小刀）"
+      ]
+    }
+  },
+  {
+    "word": "dahlia",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "命名自瑞典植物学家Anders Dahl，后缀-ia表示植物属名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大丽花",
+        "examples": [
+          {
+            "sentence": "The dahlia in her balcony blossoms like fireworks in August.",
+            "sentence_zh": "她阳台的大丽花在八月如烟花般绽放。"
+          },
+          {
+            "sentence": "We decorated the wedding venue with Mexican dahlias and peonies.",
+            "sentence_zh": "我们用墨西哥大丽花和牡丹装饰婚礼场地。"
+          }
+        ]
+      }
+    ],
+    "teach": "大丽花其实是'瑞典籍墨西哥裔'🌍：由瑞典植物学家Dahl命名，却在墨西哥被奉为国花💮。'种花能手'叫dahlia grower就像养多肉达人🌵，形容'颜色艳丽'可以说dahlia-purple（大丽紫）。记住：这花比你的微信头像还上镜！📸",
+    "recite": {
+      "tips": [
+        "谐音梗：'黛丽啊'→黛丽公主最爱的花",
+        "易混词对比：dahlia vs. daisy（雏菊，花型较小）"
+      ]
+    }
+  },
+  {
+    "word": "daily",
+    "etymology": {
+      "breakdown": [
+        "day",
+        "ly"
+      ],
+      "meaning_connection": "词根day=日，-ly表形容词/副词后缀→与'日'相关的属性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "每日的",
+        "examples": [
+          {
+            "sentence": "My daily routine includes checking Weibo 50 times.",
+            "sentence_zh": "我的每日例行公事包括刷50次微博。"
+          },
+          {
+            "sentence": "The daily vitamin intake is written on the milk tea cup.",
+            "sentence_zh": "奶茶杯上标注了每日维生素摄入量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "日常的",
+        "examples": [
+          {
+            "sentence": "Wearing pajamas became her daily attire during lockdown.",
+            "sentence_zh": "居家隔离期间睡衣成了她的日常着装。"
+          },
+          {
+            "sentence": "These daily necessities can all be bought on Pinduoduo.",
+            "sentence_zh": "这些日常用品都能在拼多多上买到。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "每日地",
+        "examples": [
+          {
+            "sentence": "The panda cub is weighed daily like a VIP in the zoo.",
+            "sentence_zh": "熊猫幼崽像贵宾一样每天都被称重。"
+          },
+          {
+            "sentence": "You should practice English daily as eating hotpot.",
+            "sentence_zh": "你应该像吃火锅一样每日练习英语。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "日报",
+        "examples": [
+          {
+            "sentence": "People's Daily explains policies with emojis sometimes.",
+            "sentence_zh": "人民日报有时会用表情包解读政策。"
+          },
+          {
+            "sentence": "I read the campus daily for canteen discount information.",
+            "sentence_zh": "我读校报日报获取食堂打折信息。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "daily life",
+        "meaning": "日常生活",
+        "examples": [
+          {
+            "sentence": "TikTok has become part of Chinese daily life.",
+            "sentence_zh": "抖音已成为中国人日常生活的一部分。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "daily special",
+        "meaning": "每日特供",
+        "examples": [
+          {
+            "sentence": "The milk tea shop's daily special is always sold out by noon.",
+            "sentence_zh": "奶茶店的每日特供总是中午前售罄。"
+          }
+        ]
+      }
+    ],
+    "teach": "daily是时间管理大师⏰！古代人用结绳记日(day)📿，现代人用daily planner规划奶茶摄入量🧋。说'日常琐事'用daily grind（像磨豆浆一样枯燥）😫，'每日打卡'是daily check-in就像给蚂蚁森林浇水🌱。记住：所有daily结尾的坚持，都会变成delicious的结果！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得礼'→每日(daily)收快递得礼",
+        "对比记忆：daily vs. diary（日记）→ 日报记录大事，日记记录心事"
+      ]
+    }
+  },
+  {
+    "word": "daintily",
+    "etymology": {
+      "breakdown": [
+        "daint",
+        "ily"
+      ],
+      "meaning_connection": "古法语daintié=珍馐，后缀-ily表副词→最初形容食物精致，后引申为优雅举止"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "优美地",
+        "examples": [
+          {
+            "sentence": "The Peking opera performer moved daintily across the stage like floating clouds.",
+            "sentence_zh": "京剧演员行云流水般优美地掠过舞台。"
+          },
+          {
+            "sentence": "She picked up the teacup daintily with her little finger extended.",
+            "sentence_zh": "她翘着小指优雅地端起茶杯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "美味地",
+        "examples": [
+          {
+            "sentence": "The mooncakes were daintily decorated with edible gold leaf.",
+            "sentence_zh": "月饼用可食用金箔精致点缀，显得美味诱人。"
+          },
+          {
+            "sentence": "The hotpot ingredients were arranged daintily in lotus-shaped plates.",
+            "sentence_zh": "火锅食材被讲究地盛放在莲花形餐盘中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "讲究地",
+        "examples": [
+          {
+            "sentence": "The imperial chef daintily selected only the uncurled tea leaves.",
+            "sentence_zh": "御厨讲究地只选取未舒展的茶叶。"
+          },
+          {
+            "sentence": "She dressed daintily in qipao for the Spring Festival dinner.",
+            "sentence_zh": "她身着旗袍讲究地出席年夜饭。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eat daintily",
+        "meaning": "斯文地吃",
+        "examples": [
+          {
+            "sentence": "The food blogger eats daintily even when devouring spicy crayfish.",
+            "sentence_zh": "这位美食博主就连吃麻辣小龙虾也保持优雅。"
+          }
+        ]
+      }
+    ],
+    "teach": "daintily是'优雅三件套'💃🍰🍵：1) 源自法国贵族吃松露的讲究姿态 2) 想象用筷子夹豆腐不碎的神技🥢 3) 搭配：daintily decorated（精致摆盘）/daintily perfumed（淡雅熏香）4) 说'装优雅'可用put on airs like a dainty cat🐱 5) 精髓在'雅而不装'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'点心离'→点心离(daintily)不开优雅",
+        "易混词：delicately（脆弱地） vs daintily（刻意优雅）"
+      ]
+    }
   }
 ]

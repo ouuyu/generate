@@ -817,5 +817,300 @@
         "记忆tip：bash本意'猛击'，被生活暴击后的状态→abashed"
       ]
     }
+  },
+  {
+    "word": "abate",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bat",
+        "e"
+      ],
+      "meaning_connection": "前缀a-表'朝向'，词根bat=击打→原指通过击打使某物减少，引申出'减弱/废除'等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "减少",
+        "examples": [
+          {
+            "sentence": "The government abated taxes to boost the pandemic-hit economy.",
+            "sentence_zh": "政府为提振受疫情影响的经济而减税。"
+          },
+          {
+            "sentence": "She abated her gaming time before final exams.",
+            "sentence_zh": "期末考试前她减少了游戏时间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "减轻",
+        "examples": [
+          {
+            "sentence": "This new drug can abate arthritis pain effectively.",
+            "sentence_zh": "这种新药能有效减轻关节炎疼痛。"
+          },
+          {
+            "sentence": "The rain abated the summer heat temporarily.",
+            "sentence_zh": "这场雨暂时缓解了暑热。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "废除",
+        "examples": [
+          {
+            "sentence": "The outdated law was finally abated last year.",
+            "sentence_zh": "这项过时的法律终于在去年被废除。"
+          },
+          {
+            "sentence": "The court abated the unfair contract.",
+            "sentence_zh": "法院废除了这份不公平的合同。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "减弱",
+        "examples": [
+          {
+            "sentence": "The typhoon abated after hitting the coastline.",
+            "sentence_zh": "台风登陆海岸线后逐渐减弱。"
+          },
+          {
+            "sentence": "His enthusiasm didn't abate even after failures.",
+            "sentence_zh": "即使经历失败，他的热情也未曾减弱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abate a nuisance",
+        "meaning": "消除滋扰",
+        "examples": [
+          {
+            "sentence": "The landlord was ordered to abate the noise nuisance.",
+            "sentence_zh": "房东被勒令消除噪音扰民问题。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "storm abates",
+        "meaning": "风暴减弱",
+        "examples": [
+          {
+            "sentence": "Flights resumed after the snowstorm abated.",
+            "sentence_zh": "暴风雪减弱后航班恢复运行。"
+          }
+        ]
+      }
+    ],
+    "teach": "abate就像退潮🌊！最早指用棍棒(bat)打掉东西→现在可以'打'折(abate price)💸，'打'消烦恼(abate worries)🧠，连法律都能'打'废(abate law)⚖️。说'疼痛减轻'用The pain is abating就像卸下沙包🎒，'废除旧规'是abate regulations像删除垃圾文件🗑️。记住：abate的本质就是让东西变少变小！",
+    "recite": {
+      "tips": [
+        "谐音梗：'额背痛'→疼痛减轻(abate)后额背不痛了",
+        "易混词对比：abate（逐渐减弱） vs abolish（彻底废除）",
+        "记忆法：A+BATE→A级击打(bate)能让事物减少"
+      ]
+    }
+  },
+  {
+    "word": "abatement",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bat",
+        "ment"
+      ],
+      "meaning_connection": "前缀a-表示'去/离'，词根bat表示'打击'，后缀-ment表名词→原指'击退的行为'，引申为'减少/中止'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "减少",
+        "examples": [
+          {
+            "sentence": "The abatement of smog in Beijing made the Great Wall visible again.",
+            "sentence_zh": "北京雾霾的减少让长城重现清晰轮廓。"
+          },
+          {
+            "sentence": "Noise abatement measures include installing soundproof windows.",
+            "sentence_zh": "噪音减少措施包括安装隔音窗户。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "减轻",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine focuses on pain abatement.",
+            "sentence_zh": "中药注重疼痛的减轻。"
+          },
+          {
+            "sentence": "The court considered his donation as grounds for penalty abatement.",
+            "sentence_zh": "法院将其捐款视为刑罚减轻的依据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "折扣",
+        "examples": [
+          {
+            "sentence": "Early-bird registrants get a 20% tuition abatement.",
+            "sentence_zh": "早鸟注册者可享20%学费折扣。"
+          },
+          {
+            "sentence": "Tax abatement policies attract tech startups to this area.",
+            "sentence_zh": "税收折扣政策吸引科技初创企业入驻该地区。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中止",
+        "examples": [
+          {
+            "sentence": "The abatement of construction work during exams is campus tradition.",
+            "sentence_zh": "考试期间中止施工是校园传统。"
+          },
+          {
+            "sentence": "Noise abatement orders forced the night market to close early.",
+            "sentence_zh": "噪音中止令迫使夜市提前关闭。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "noise abatement",
+        "meaning": "噪音管制",
+        "examples": [
+          {
+            "sentence": "Noise abatement zones surround hospitals and schools.",
+            "sentence_zh": "医院和学校周边设有噪音管制区。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tax abatement",
+        "meaning": "减税",
+        "examples": [
+          {
+            "sentence": "The tax abatement program saved my startup ￥500,000 last year.",
+            "sentence_zh": "去年减税计划为我的初创公司节省50万元。"
+          }
+        ]
+      }
+    ],
+    "teach": "abatement就像退潮🌊！从古法语'abatre'（击倒）演变而来，现在指各种'退散'：雾霾退散叫pollution abatement🛑，疼痛退散是pain abatement💊，连债务都能'打折退散'叫debt abatement💸。记住：说'噪音减少'别用reduce，地道的说法是'The noise abatement is noticeable'（堪比广场舞大妈突然收功）🎵",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿伯们疼'→疼痛需要abatement",
+        "易混词对比：reduction（单纯减少） vs abatement（带有法律/正式色彩的减少）",
+        "记忆tip：bat（击打）+去掉(a)=把问题打退"
+      ]
+    }
+  },
+  {
+    "word": "abattoir",
+    "etymology": {
+      "breakdown": [
+        "abatt(re)",
+        "oir"
+      ],
+      "meaning_connection": "来自法语abattre(击倒) + -oir(场所后缀)，字面意思是'击倒动物的地方'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "屠场",
+        "examples": [
+          {
+            "sentence": "The smell from the abattoir made the whole neighborhood protest.",
+            "sentence_zh": "屠宰场的气味引发整个社区抗议。"
+          },
+          {
+            "sentence": "Modern abattoirs use advanced stunning technology to minimize animal suffering.",
+            "sentence_zh": "现代化屠宰场采用先进击晕技术减轻动物痛苦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "角斗场",
+        "examples": [
+          {
+            "sentence": "The Colosseum was essentially an abattoir for gladiators.",
+            "sentence_zh": "古罗马斗兽场本质上是角斗士的屠宰场。"
+          },
+          {
+            "sentence": "In ancient times, an abattoir could refer to both animal and human slaughter sites.",
+            "sentence_zh": "古代屠宰场可同时指代动物和人类的杀戮场所。"
+          }
+        ]
+      }
+    ],
+    "teach": "abattoir是血腥版'奥特莱斯'💀：法语原意'击倒场'，既杀猪牛羊🐄也'杀'角斗士🗡️。说'屠宰场工作'叫work at the slaughterhouse，'血腥场面'可形容为carnage like an abattoir🩸。记住这词就像看到超市冷鲜柜——背后都藏着个abattoir！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊！掰腿儿'→屠宰场处理动物场景",
+        "易混词对比：slaughterhouse(纯屠宰场) vs abattoir(含历史血腥意象)"
+      ]
+    }
+  },
+  {
+    "word": "abbess",
+    "etymology": {
+      "breakdown": [
+        "abb",
+        "ess"
+      ],
+      "meaning_connection": "词根abb=修道院长（来自拉丁语abbas），后缀-ess表女性→字面意思就是'女修道院长'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "女修道院院长",
+        "examples": [
+          {
+            "sentence": "The abbess brewed herbal tea with 500-year-old monastery recipes.",
+            "sentence_zh": "女修道院长用500年历史的配方煮草药茶。"
+          },
+          {
+            "sentence": "This abbess revolutionized convent life by introducing yoga classes.",
+            "sentence_zh": "这位女修道院长引入瑜伽课程改革了修道院生活。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abbess of",
+        "meaning": "某地的女修道院长",
+        "examples": [
+          {
+            "sentence": "The Abbess of Westminster was invited to bless the new parliament.",
+            "sentence_zh": "威斯敏斯特女修道院长受邀为新议会祈福。"
+          }
+        ]
+      }
+    ],
+    "teach": "abbess是修道院里的'女团CEO'👑！想象她左手拿着圣经📖，右手举着Wi-Fi路由器📡（中世纪修道院其实是知识中心）。要说'严厉的女上司'可以叫dragon lady🐉，'修道院'本身叫convent就像神仙姐姐的公司🏰。记住：-ess结尾常表女性，比如actress就是女演员！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱白丝'→女院长爱穿白色修女服",
+        "易混词：abbot（男修道院长）就像batman和batwoman的区别"
+      ]
+    }
   }
 ]

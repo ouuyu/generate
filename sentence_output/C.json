@@ -717,5 +717,348 @@
         "记忆tip：cabinet+maker=造'内阁'级别家具的人"
       ]
     }
+  },
+  {
+    "word": "cable",
+    "etymology": {
+      "breakdown": [
+        "cab",
+        "le"
+      ],
+      "meaning_connection": "词源来自古法语'cable'（绳索），可能与拉丁语'capere'（抓住）相关，-le为名词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电缆",
+        "examples": [
+          {
+            "sentence": "The cat chewed through my laptop charging cable again.",
+            "sentence_zh": "猫咪又咬断了我的笔记本充电线。"
+          },
+          {
+            "sentence": "Fiber optic cables carry TikTok videos at light speed.",
+            "sentence_zh": "光纤电缆以光速传输抖音视频。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "海底电报",
+        "examples": [
+          {
+            "sentence": "The Titanic sent distress cables before sinking.",
+            "sentence_zh": "泰坦尼克号沉没前发送了求救电报。"
+          },
+          {
+            "sentence": "In 1866, the first transatlantic cable changed global communication.",
+            "sentence_zh": "1866年第一条跨洋电缆改变了全球通讯方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "缆",
+        "examples": [
+          {
+            "sentence": "Tourists scream when the cable car sways over the canyon.",
+            "sentence_zh": "当缆车在峡谷上方摇晃时游客们尖叫连连。"
+          },
+          {
+            "sentence": "The suspension bridge's main cable is thicker than a giant panda.",
+            "sentence_zh": "这座悬索桥的主缆比大熊猫还粗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "索",
+        "examples": [
+          {
+            "sentence": "The elevator cable snapped in the action movie scene.",
+            "sentence_zh": "动作电影场景中电梯钢索突然断裂。"
+          },
+          {
+            "sentence": "Yachts are secured to the dock with steel cables.",
+            "sentence_zh": "游艇用钢索固定在码头上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "打海底电报",
+        "examples": [
+          {
+            "sentence": "Marconi cabled across the Atlantic in 1901.",
+            "sentence_zh": "马可尼1901年成功发送跨大西洋电报。"
+          },
+          {
+            "sentence": "Before emails, people cabled urgent messages.",
+            "sentence_zh": "在电子邮件出现前，人们用海底电报发送紧急信息。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "发海底电报",
+        "examples": [
+          {
+            "sentence": "The embassy cabled the evacuation order.",
+            "sentence_zh": "大使馆用电报发送了撤离命令。"
+          },
+          {
+            "sentence": "Reporters cabled breaking news in Morse code.",
+            "sentence_zh": "记者用摩斯电码发送突发新闻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "缚住",
+        "examples": [
+          {
+            "sentence": "Workers cabled the Christmas tree to the roof of the car.",
+            "sentence_zh": "工人们用绳索将圣诞树固定在车顶。"
+          },
+          {
+            "sentence": "The kidnapper cabled the victim to a chair.",
+            "sentence_zh": "绑匪把受害者绑在椅子上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cable TV",
+        "meaning": "有线电视",
+        "examples": [
+          {
+            "sentence": "My grandma still pays for cable TV to watch Peking opera.",
+            "sentence_zh": "我奶奶仍付费看有线电视的京剧频道。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cable knit",
+        "meaning": "绞花针织",
+        "examples": [
+          {
+            "sentence": "Her cable knit sweater smells like mothballs.",
+            "sentence_zh": "她的绞花针织衫有股樟脑丸味道。"
+          }
+        ]
+      }
+    ],
+    "teach": "cable是条'电鳗'⚡：既能当物理电缆（像重庆火锅的鸭肠那么长🍜），又能变抽象电报（维多利亚时代的微信💌）。'被绑住'叫cabled like a 大闸蟹🦀，看'有线电视'叫cable TV就像吃自助火锅——交月费随便看！记住：现代人用fiber optics（光纤），古人用cablegram（海底电报）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'可剥'→电缆外皮可剥开",
+        "易混词：cord（细软线） vs cable（粗硬缆）",
+        "记忆tip：所有含义都围绕'连接'概念"
+      ]
+    }
+  },
+  {
+    "word": "cabling",
+    "etymology": {
+      "breakdown": [
+        "cabl(e)",
+        "ing"
+      ],
+      "meaning_connection": "源自cable（电缆）+-ing（名词后缀），指电缆的铺设或连接"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电缆铺设",
+        "examples": [
+          {
+            "sentence": "The cabling in this old building needs urgent upgrading to support 5G networks.",
+            "sentence_zh": "这栋旧楼的电缆铺设急需升级以支持5G网络。"
+          },
+          {
+            "sentence": "Hidden cabling behind walls is like the nervous system of a smart home.",
+            "sentence_zh": "藏在墙内的电缆就像智能家居的神经系统。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电缆系统",
+        "examples": [
+          {
+            "sentence": "The studio's cabling was so tangled it looked like a bowl of instant noodles.",
+            "sentence_zh": "录音棚的电缆系统乱得像一碗泡面。"
+          },
+          {
+            "sentence": "Fiber optic cabling has replaced copper wires in most data centers.",
+            "sentence_zh": "多数数据中心已用光纤电缆系统取代铜线。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "structured cabling",
+        "meaning": "结构化布线",
+        "examples": [
+          {
+            "sentence": "Structured cabling makes office relocation as easy as Lego blocks.",
+            "sentence_zh": "结构化布线让办公室搬迁变得像搭积木般简单。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cabling work",
+        "meaning": "布线工程",
+        "examples": [
+          {
+            "sentence": "The cabling work delayed by two weeks because workers kept getting tangled in wires.",
+            "sentence_zh": "布线工程延期两周，因为工人们总被电线缠住。"
+          }
+        ]
+      }
+    ],
+    "teach": "cabling是科技界的意大利面🍝！最早的电缆铺设要追溯到1858年穿越大西洋的电报电缆⚡。说'线路混乱'可以用snake pit（蛇窝），'完美布线'叫clean cabling like sushi rolls🍣。记住：好的cabling就像火锅店的菜品传送带🚄，差的就是耳机线永远解不开的痛！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开不了'→电缆开不了(cabling)机",
+        "对比记忆：cable（单根电缆）vs cabling（整个系统）",
+        "联想：-ing后缀表示持续状态→持续铺设的过程"
+      ]
+    }
+  },
+  {
+    "word": "cabriolet",
+    "etymology": {
+      "breakdown": [
+        "cabriol",
+        "et"
+      ],
+      "meaning_connection": "源自法语cabrioler（跳跃），指早期敞篷马车轻快跳跃的特点，-et表小称后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "敞篷汽车",
+        "examples": [
+          {
+            "sentence": "The yellow cabriolet speeding along the coast looked like a moving sunflower.",
+            "sentence_zh": "沿海岸飞驰的黄色敞篷车像朵移动的向日葵。"
+          },
+          {
+            "sentence": "Her dream was to cruise California's Highway 1 in a vintage cabriolet.",
+            "sentence_zh": "她的梦想是开着复古敞篷车驰骋加州一号公路。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cabriolet roof",
+        "meaning": "折叠式车顶",
+        "examples": [
+          {
+            "sentence": "The cabriolet roof retracts in just 15 seconds - faster than making instant noodles!",
+            "sentence_zh": "这车的折叠顶棚15秒就能收起——比泡方便面还快！"
+          }
+        ]
+      }
+    ],
+    "teach": "cabriolet其实是'蹦蹦车'🚗💨：18世纪巴黎人用这个词形容蹦跳的马车（法语cabrioler=山羊跳）。现在开cabriolet兜风叫'top-down cruising'，要是说'我的车是hardtop cabriolet'就像在说'我的泡面是米其林版'🍜😂。记住：没顶的快乐≈头发乱成鸡窝🐔！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开不累咧'→开敞篷车兜风不累",
+        "易混词：sedan（轿车）vs. cabriolet（敞篷）",
+        "记忆tip：想象车顶像山羊(capri)一样蹦走"
+      ]
+    }
+  },
+  {
+    "word": "cache",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'cacher'(隐藏)，与'cachet'(封印)同源，原指猎人藏匿物资的隐蔽处，后引申为计算机的高速缓存"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "隐藏所",
+        "examples": [
+          {
+            "sentence": "The fox's cache was found under a pile of autumn leaves.",
+            "sentence_zh": "狐狸的藏身处在一堆秋叶下被发现。"
+          },
+          {
+            "sentence": "Pirates used this cave as a cache for stolen spices.",
+            "sentence_zh": "海盗用这个洞穴作为偷来香料的藏匿处。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "贮藏物资",
+        "examples": [
+          {
+            "sentence": "Squirrels' nut caches help forests grow naturally.",
+            "sentence_zh": "松鼠贮藏的坚果帮助森林自然生长。"
+          },
+          {
+            "sentence": "The explorer survived winter with his cache of dried meat.",
+            "sentence_zh": "探险者靠贮藏的肉干熬过冬天。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "隐藏",
+        "examples": [
+          {
+            "sentence": "The spy cached microfilms inside a hollowed-out book.",
+            "sentence_zh": "间谍把微缩胶片藏在一本挖空的书里。"
+          },
+          {
+            "sentence": "Grandma caches her savings in different cookie jars.",
+            "sentence_zh": "奶奶把存款藏在不同的饼干罐里。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cache in",
+        "meaning": "兑现贮藏物",
+        "examples": [
+          {
+            "sentence": "Bears cache in fat reserves before hibernation.",
+            "sentence_zh": "熊在冬眠前会储存脂肪储备。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cache memory",
+        "meaning": "高速缓存",
+        "examples": [
+          {
+            "sentence": "Your phone's cache memory makes apps load faster.",
+            "sentence_zh": "手机的高速缓存让应用加载更快。"
+          }
+        ]
+      }
+    ],
+    "teach": "cache是数码时代的松鼠囤积症🐿️！电脑缓存就像你家零食抽屉🍪（browser cache），清缓存就像大扫除🧹（clear cache）。网络梗'Avoid cache-22'指清理缓存反而更卡的死循环。说'藏私房钱'叫cache money比hide更geek，记住：会cache的程序员才是好仓鼠！💾",
+    "recite": {
+      "tips": [
+        "谐音梗：'开橱'→开橱(cache)找隐藏零食",
+        "易混词对比：cache vs. cash(现金)→缓存是数字现金"
+      ]
+    }
   }
 ]

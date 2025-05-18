@@ -929,5 +929,346 @@
         "易混词对比：sway（缓慢优雅摆动） vs wag（快速短促摆动）"
       ]
     }
+  },
+  {
+    "word": "wage",
+    "etymology": {
+      "breakdown": [
+        "wag",
+        "e"
+      ],
+      "meaning_connection": "来自古法语'gage'（抵押品），词根'wag'与'抵押'相关，-e为词尾"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "工资",
+        "examples": [
+          {
+            "sentence": "Delivery riders often earn hourly wages rather than fixed salaries.",
+            "sentence_zh": "外卖骑手常按小时工资而非固定薪资计算收入。"
+          },
+          {
+            "sentence": "The factory raised wages by 5% after the strike.",
+            "sentence_zh": "罢工后工厂将工资提高了5%。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "报应",
+        "examples": [
+          {
+            "sentence": "The villain finally received his wages of sin.",
+            "sentence_zh": "反派最终尝到了罪恶的报应。"
+          },
+          {
+            "sentence": "In Buddhist belief, bad karma will bring spiritual wages.",
+            "sentence_zh": "佛教认为恶业会带来灵魂的报应。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "开展",
+        "examples": [
+          {
+            "sentence": "Alibaba waged a price war against Pinduoduo.",
+            "sentence_zh": "阿里巴巴对拼多多发起了价格战。"
+          },
+          {
+            "sentence": "The museum is waging an anti-counterfeiting campaign.",
+            "sentence_zh": "博物馆正在开展反赝品行动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "进行",
+        "examples": [
+          {
+            "sentence": "The negotiation is still waging between the two companies.",
+            "sentence_zh": "两家公司间的谈判仍在进行。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wage war",
+        "meaning": "发动战争",
+        "examples": [
+          {
+            "sentence": "Ancient kingdoms often waged war over salt mines.",
+            "sentence_zh": "古代王国常为盐矿发动战争。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "living wage",
+        "meaning": "基本生活工资",
+        "examples": [
+          {
+            "sentence": "Many cities now mandate a living wage for migrant workers.",
+            "sentence_zh": "许多城市现在规定必须给农民工支付基本生活工资。"
+          }
+        ]
+      }
+    ],
+    "teach": "wage是工资界的'两面派'💰：既是打工人领的周薪（和salary月薪区别就像奶茶中杯vs大杯🧋），又能指'善恶终有报'（像微信运动偷步数的现世报🏃）。开展活动时像王者荣耀开团⚔️（wage a battle），说'挣血汗钱'叫earn an honest wage，'工资太低'可吐槽my wage wouldn't buy a rat's tail（老鼠尾巴都买不起）🐭💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'伟哥'→伟哥(wage)治不了穷病",
+        "易混词：salary（固定月薪） vs wage（计时/计件工资）",
+        "记忆tip：W形似工资袋的折痕"
+      ]
+    }
+  },
+  {
+    "word": "wager",
+    "etymology": {
+      "breakdown": [
+        "wag",
+        "er"
+      ],
+      "meaning_connection": "词根wag=摇摆（如尾巴摇摆表不确定性），-er表动作执行者→最早指'摇摆不定的事'，后专指赌博"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "赌注",
+        "examples": [
+          {
+            "sentence": "He put his vintage Rolex as a wager in the poker game.",
+            "sentence_zh": "他把复古劳力士当作扑克游戏的赌注。"
+          },
+          {
+            "sentence": "The wager was three months' worth of bubble tea supply.",
+            "sentence_zh": "赌注是价值三个月的奶茶供应量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赌博",
+        "examples": [
+          {
+            "sentence": "Mahjong wager is strictly prohibited during Chinese New Year family gatherings.",
+            "sentence_zh": "春节家庭聚会时严禁麻将赌博。"
+          },
+          {
+            "sentence": "Online wager has destroyed many esports careers.",
+            "sentence_zh": "网络赌博毁掉了许多电竞选手的职业生涯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赌物",
+        "examples": [
+          {
+            "sentence": "The dragon-head jade pendant was his final wager.",
+            "sentence_zh": "那个龙首玉佩是他最后的赌物。"
+          },
+          {
+            "sentence": "In ancient China, people sometimes used their children as wagers.",
+            "sentence_zh": "在古代中国，有人竟以子女为赌物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "下赌注",
+        "examples": [
+          {
+            "sentence": "I'll wager 50 spicy crayfish that our team wins.",
+            "sentence_zh": "我赌50只麻辣小龙虾我们队会赢。"
+          },
+          {
+            "sentence": "He wagered his entire year's salary on the stock market.",
+            "sentence_zh": "他把全年工资都押注在股市上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "向...保证",
+        "examples": [
+          {
+            "sentence": "I wager this hotpot restaurant has the best beef slices in Chengdu.",
+            "sentence_zh": "我保证这家火锅店的牛肉片是全成都最好的。"
+          },
+          {
+            "sentence": "She wagered her reputation that the product was authentic.",
+            "sentence_zh": "她用名誉担保产品是正品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "打赌",
+        "examples": [
+          {
+            "sentence": "Let's wager on whether the delivery guy can climb up to 20th floor.",
+            "sentence_zh": "我们来打赌外卖小哥能不能爬上20楼。"
+          },
+          {
+            "sentence": "They're wagering over whose WeChat steps count will be higher.",
+            "sentence_zh": "他们正在为谁的微信步数更高而打赌。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wager on",
+        "meaning": "对...下注",
+        "examples": [
+          {
+            "sentence": "Many netizens wagered on the panda cub's name.",
+            "sentence_zh": "许多网友对大熊猫幼崽的名字下注。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "lay a wager",
+        "meaning": "下赌注",
+        "examples": [
+          {
+            "sentence": "He laid a wager that the singer would lip-sync during the live show.",
+            "sentence_zh": "他下注赌那位歌手会在直播中假唱。"
+          }
+        ]
+      }
+    ],
+    "teach": "wager堪称'赌界万金油'🎲！它既是你看球赛时押的啤酒🍺（place a wager），也是大妈们广场舞battle的赌约💃（dance wager）。'我赌五毛'英文叫I wager five mao，而'梭哈'就是go all-in with your wager💰。记住：人生最大的wager，其实是高考填志愿📚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'伟哥'→伟哥(wager)乱打赌结果阳痿",
+        "易混词：bet（小赌）/wager（正式赌注）",
+        "记忆tip：W形状像赌博时摇摆的手势"
+      ]
+    }
+  },
+  {
+    "word": "waggle",
+    "etymology": {
+      "breakdown": [
+        "wag",
+        "le"
+      ],
+      "meaning_connection": "词根wag=摇摆，后缀-le表反复动作→持续摇摆"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "(使)不停地来回摇动",
+        "examples": [
+          {
+            "sentence": "The panda waggled its bamboo stalk like a conductor's baton.",
+            "sentence_zh": "熊猫像指挥家挥棒般不停摇晃竹竿。"
+          },
+          {
+            "sentence": "Her ponytail waggled excitedly during the live-streaming sale.",
+            "sentence_zh": "直播带货时她的马尾辫兴奋地来回甩动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "摇动",
+        "examples": [
+          {
+            "sentence": "The bee's waggle dance revealed the location of bubble tea shops.",
+            "sentence_zh": "蜜蜂的摇摆舞透露了奶茶店的位置。"
+          },
+          {
+            "sentence": "With a playful waggle of his eyebrows, he unlocked his phone.",
+            "sentence_zh": "他眉毛调皮一挑就解开了手机锁屏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "waggle dance",
+        "meaning": "摇摆舞（蜜蜂通讯方式）",
+        "examples": [
+          {
+            "sentence": "Scientists translated the waggle dance as 'Turn left at the third chrysanthemum'.",
+            "sentence_zh": "科学家破译摇摆舞意为'在第三朵菊花处左转'。"
+          }
+        ]
+      }
+    ],
+    "teach": "waggle是魔性摇摆之王🕺！蜜蜂用waggle dance订外卖🍯（比美团早发明1亿年），狗狗摇尾巴叫tail wag🐶。要说'嘚瑟'可以用give a cheeky waggle（比如炫耀新球鞋时）。记住：所有高频小幅度摇摆都能用waggle，从广场舞大妈到手机振动模式📳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪个楼'→论坛里话题歪楼就像waggle摇摆不定",
+        "易混词：wag（普通摇摆）vs waggle（快速持续摇摆）",
+        "记忆tip：把gg想成晃动的双腿"
+      ]
+    }
+  },
+  {
+    "word": "Wagnerian",
+    "etymology": {
+      "breakdown": [
+        "Wagner",
+        "ian"
+      ],
+      "meaning_connection": "源自德国作曲家理查德·瓦格纳(Richard Wagner)姓氏，后缀-ian表示'...的'或'...的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "瓦格纳作风的（指宏大史诗般的歌剧风格）",
+        "examples": [
+          {
+            "sentence": "The Wagnerian opera lasted five hours with giant mechanical dragons.",
+            "sentence_zh": "这场瓦格纳风格歌剧持续五小时，还出现了巨型机械龙。"
+          },
+          {
+            "sentence": "His Wagnerian beard made him look like a Viking singer.",
+            "sentence_zh": "他那瓦格纳式的大胡子让他看起来像维京歌手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "瓦格纳的狂热崇拜者",
+        "examples": [
+          {
+            "sentence": "True Wagnerians can recite all 15-hour Ring Cycle lyrics.",
+            "sentence_zh": "真正的瓦格纳迷能背诵长达15小时的《指环》全剧歌词。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Wagnerian intensity",
+        "meaning": "瓦格纳式的强烈情感",
+        "examples": [
+          {
+            "sentence": "The debate reached Wagnerian intensity when they argued about opera funding.",
+            "sentence_zh": "当他们争论歌剧经费时，辩论达到了瓦格纳式的激烈程度。"
+          }
+        ]
+      }
+    ],
+    "teach": "Wagnerian是音乐界的'灭霸'🎻！这位德国作曲家要求歌剧院必须建在山上🏔️，还发明了'隐形乐队'让乐池下沉。他的粉丝(Wagnerians)像追漫威一样疯狂——有个土豪甚至建了拜罗伊特节日剧院💸。说人'很瓦格纳'等于说TA戏多又浮夸🎭，比如'你分手哭得像瓦格纳女主角'（Wagnerian drama）",
+    "recite": {
+      "tips": [
+        "视觉联想：瓦格纳Wagner→Wagon(马车)+ner→坐在金色战车上咆哮的作曲家",
+        "易混词对比：Viennese(维也纳的) vs. Wagnerian(瓦格纳的)"
+      ]
+    }
   }
 ]

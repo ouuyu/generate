@@ -846,5 +846,306 @@
         "易混词：boss（普通上司） vs gaffer（接地气领班）"
       ]
     }
+  },
+  {
+    "word": "gag",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能来自古英语'gaggian'（张嘴）或模拟窒息声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "箝口物",
+        "examples": [
+          {
+            "sentence": "The spy movie showed a kidnapper using duct tape as a gag.",
+            "sentence_zh": "间谍片里绑匪用胶带当封口物。"
+          },
+          {
+            "sentence": "Magicians often use colorful gags in their performances.",
+            "sentence_zh": "魔术师常用彩色口塞作为表演道具。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "讨论终结",
+        "examples": [
+          {
+            "sentence": "His terrible joke was a complete gag to our meeting.",
+            "sentence_zh": "他的烂笑话彻底终结了会议讨论。"
+          },
+          {
+            "sentence": "The CEO's sudden announcement put a gag on salary debates.",
+            "sentence_zh": "CEO的突然宣告给薪资讨论画上句号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "压制言论自由",
+        "examples": [
+          {
+            "sentence": "The new law could gag independent journalists.",
+            "sentence_zh": "新法律可能钳制独立记者发声。"
+          },
+          {
+            "sentence": "Protesters accused the government of gagging the media.",
+            "sentence_zh": "抗议者指控政府封锁媒体言论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使窒息",
+        "examples": [
+          {
+            "sentence": "The chili oil nearly gagged me with its intensity.",
+            "sentence_zh": "辣椒油辣得我差点窒息。"
+          },
+          {
+            "sentence": "Thick smoke from the BBQ gagged all the diners.",
+            "sentence_zh": "烧烤浓烟呛得食客们呼吸困难。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "插科打诨",
+        "examples": [
+          {
+            "sentence": "The comedian kept gagging during the livestream.",
+            "sentence_zh": "主播不断在直播中插科打诨。"
+          },
+          {
+            "sentence": "Variety shows love hosts who can gag spontaneously.",
+            "sentence_zh": "综艺节目喜欢能即兴搞怪的主持人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gag reflex",
+        "meaning": "作呕反射",
+        "examples": [
+          {
+            "sentence": "The dentist told me to control my gag reflex.",
+            "sentence_zh": "牙医让我控制住呕吐反射。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gag order",
+        "meaning": "禁言令",
+        "examples": [
+          {
+            "sentence": "The court issued a gag order on the celebrity divorce case.",
+            "sentence_zh": "法院对这起明星离婚案下达了封口令。"
+          }
+        ]
+      }
+    ],
+    "teach": "gag是'封口'届的斜杠青年💼：既能物理封嘴（绑匪胶带🚑），也能抽象禁言（微博热搜🔇）。当它表示'窒息'时像误吞芥末🌶️，当'搞笑'用时又像沈腾附体🤡。要说'被噤声'可以说muzzled like a dog（像狗戴嘴套），'笑到窒息'是laugh till you gag。记住：从真窒息到假搞笑，全靠一个gag！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖个'→盖个(gag)盖子就封口",
+        "易混词对比：gag（主动搞笑）vs. giggle（被动发笑）",
+        "联想记忆：GAG三个字母像被勒住的脖子👔"
+      ]
+    }
+  },
+  {
+    "word": "gage",
+    "etymology": {
+      "breakdown": [
+        "gag",
+        "e"
+      ],
+      "meaning_connection": "源自古法语'gage'（抵押品），与古英语'wǣd'（誓约）同源，-e为词尾。计量器义项来自测量工具的演变。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "抵押品",
+        "examples": [
+          {
+            "sentence": "He left his gold watch as a gage for the loan.",
+            "sentence_zh": "他留下金表作为贷款抵押品。"
+          },
+          {
+            "sentence": "In pawnshops, your Rolex becomes a gage until repayment.",
+            "sentence_zh": "在当铺里，你的劳力士在还款前就是抵押品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "挑战",
+        "examples": [
+          {
+            "sentence": "The knight threw down his gauntlet as a gage of battle.",
+            "sentence_zh": "骑士掷下手套作为战斗挑战。"
+          },
+          {
+            "sentence": "The hacker's attack was a gage to the company's cybersecurity.",
+            "sentence_zh": "黑客攻击是对公司网络安全的挑战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "以...为担保",
+        "examples": [
+          {
+            "sentence": "She gaged her inheritance to start the hotpot chain.",
+            "sentence_zh": "她用继承的财产作担保开火锅连锁店。"
+          },
+          {
+            "sentence": "Ancient merchants would gage their entire stock for voyages.",
+            "sentence_zh": "古代商人会押上全部货物作为航行的担保。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "以...为赌注",
+        "examples": [
+          {
+            "sentence": "The gambler gaged his wedding ring on a mahjong game.",
+            "sentence_zh": "赌徒把婚戒押在麻将游戏上。"
+          },
+          {
+            "sentence": "Never gage your salary on cryptocurrency trading!",
+            "sentence_zh": "千万别拿工资当加密货币交易的赌注！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "标准度量",
+        "examples": [
+          {
+            "sentence": "The rain gage showed 50mm precipitation overnight.",
+            "sentence_zh": "雨量计显示一夜降水50毫米。"
+          },
+          {
+            "sentence": "Tire pressure gages are essential for safe driving.",
+            "sentence_zh": "胎压计对安全驾驶至关重要。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "精确计量",
+        "examples": [
+          {
+            "sentence": "Scientists gage CO2 levels with laser sensors.",
+            "sentence_zh": "科学家用激光传感器精确计量二氧化碳浓度。"
+          },
+          {
+            "sentence": "The app can gage your heart rate through the camera.",
+            "sentence_zh": "这个APP能通过摄像头精确计量心率。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "估计",
+        "examples": [
+          {
+            "sentence": "Can you gage how many people are in this WeChat group?",
+            "sentence_zh": "你能估计这个微信群有多少人吗？"
+          },
+          {
+            "sentence": "The chef gaged the chili level for foreign customers.",
+            "sentence_zh": "厨师为外国顾客估算了辣度。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take up the gage",
+        "meaning": "接受挑战",
+        "examples": [
+          {
+            "sentence": "The tech giant took up the gage of developing 6G.",
+            "sentence_zh": "这家科技巨头接受了研发6G的挑战。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "throw down the gage",
+        "meaning": "发起挑战",
+        "examples": [
+          {
+            "sentence": "The startup threw down the gage to the industry leader.",
+            "sentence_zh": "这家初创企业向行业龙头发起挑战。"
+          }
+        ]
+      }
+    ],
+    "teach": "gage是个'精分'单词💫！当抵押品时像当铺老板的算盘🧮（house gage）；当挑战时像比武招亲的绣球🏮（take the gage）；当计量器时像火锅店的温度计🌡️（soup gage）。记住：'gage'与'gauge'是异体字关系，就像'奶茶'和'奶荼'——后者根本不存在！🤪 说'我赌上全部身家'可以讲I gage my whole fortune on this",
+    "recite": {
+      "tips": [
+        "谐音梗：'给哥'→给哥(gage)抵押你的游戏账号",
+        "易混对比：gauge（更常用拼写）/ gage（古语变体）",
+        "记忆链：gage→抵押→挑战→测量（都有'押上价值'的概念延伸）"
+      ]
+    }
+  },
+  {
+    "word": "gagging",
+    "etymology": {
+      "breakdown": [
+        "gag",
+        "ing"
+      ],
+      "meaning_connection": "gag原指'塞口物'，通过后缀-ing名词化→工程领域引申为'强制矫正'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "矫正",
+        "examples": [
+          {
+            "sentence": "The gagging process straightened the warped steel beam perfectly.",
+            "sentence_zh": "冷矫正工序将弯曲的钢梁完美调直。"
+          },
+          {
+            "sentence": "Ancient blacksmiths used primitive gagging techniques with fire and hammers.",
+            "sentence_zh": "古代铁匠用火焰和锤子进行原始矫正。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "冷矫正",
+        "examples": [
+          {
+            "sentence": "Gagging without heating requires precise force calculation.",
+            "sentence_zh": "不加热的冷矫正需要精确计算施力。"
+          },
+          {
+            "sentence": "The shipyard uses hydraulic gagging for hull plates.",
+            "sentence_zh": "造船厂用液压冷矫正技术处理船体钢板。"
+          }
+        ]
+      }
+    ],
+    "teach": "gagging其实是'金属整容师'🔧！就像你徒手掰直被坐弯的眼镜腿👓（cold gagging），或者用擀面杖碾压皱巴巴的锡纸🍳（hot gagging）。搭配说'液压矫正'叫hydraulic gagging，'矫枉过正'戏称over-gagging就像把直尺掰成彩虹🌈！记住：给金属'塞口器'让它闭嘴(gag)变直！",
+    "recite": {
+      "tips": [
+        "谐音梗：'改紧'→矫正(gagging)就是改到紧绷",
+        "易混词对比：gagging(矫正) vs gauging(测量)",
+        "联想：字母G形状像扳手→矫正工具"
+      ]
+    }
   }
 ]

@@ -870,5 +870,371 @@
         "易混词对比：surface指物体表面，facade特指人为构造的正面"
       ]
     }
+  },
+  {
+    "word": "face",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语facies，直接借入英语表示'面容'，后引申出'面对'等动词含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "脸",
+        "examples": [
+          {
+            "sentence": "Her face lit up when she saw the Peking duck.",
+            "sentence_zh": "看到北京烤鸭时她脸上放光。"
+          },
+          {
+            "sentence": "The baby's face was smeared with durian cream.",
+            "sentence_zh": "宝宝脸上沾满了榴莲奶油。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "面容",
+        "examples": [
+          {
+            "sentence": "The old man's face told stories of the Cultural Revolution.",
+            "sentence_zh": "老人面容记载着文革往事。"
+          },
+          {
+            "sentence": "Her smiling face appeared on Douyin's trending page.",
+            "sentence_zh": "她的笑脸登上了抖音热搜榜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "正面",
+        "examples": [
+          {
+            "sentence": "The face of iPhone 15 is made of titanium.",
+            "sentence_zh": "iPhone 15的正面采用钛金属。"
+          },
+          {
+            "sentence": "The face value of this Panda coin is 100 yuan.",
+            "sentence_zh": "这枚熊猫币的正面价值是100元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "外观",
+        "examples": [
+          {
+            "sentence": "The face of Shanghai has changed dramatically since 1990.",
+            "sentence_zh": "上海的城市外观自1990年后巨变。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "面对",
+        "examples": [
+          {
+            "sentence": "We must face the challenges of AI head-on.",
+            "sentence_zh": "我们必须直面AI带来的挑战。"
+          },
+          {
+            "sentence": "The Forbidden City faces south according to feng shui.",
+            "sentence_zh": "故宫根据风水坐北朝南。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "正视",
+        "examples": [
+          {
+            "sentence": "Young people should face their responsibilities.",
+            "sentence_zh": "年轻人应当正视自己的责任。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "面临",
+        "examples": [
+          {
+            "sentence": "China's manufacturing faces fierce competition.",
+            "sentence_zh": "中国制造业面临激烈竞争。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "朝",
+        "examples": [
+          {
+            "sentence": "The window faces towards the Great Wall.",
+            "sentence_zh": "窗户朝向长城。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "向",
+        "examples": [
+          {
+            "sentence": "The balcony faces east to catch morning sunshine.",
+            "sentence_zh": "阳台向东以获取晨光。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "face the music",
+        "meaning": "承担后果",
+        "examples": [
+          {
+            "sentence": "After cheating in the exam, he had to face the music.",
+            "sentence_zh": "考试作弊后他只能自食其果。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "save face",
+        "meaning": "保全面子",
+        "examples": [
+          {
+            "sentence": "The compromise helped both sides save face.",
+            "sentence_zh": "妥协方案让双方都保住了面子。"
+          }
+        ]
+      }
+    ],
+    "teach": "face是个'变脸'大师🎭！作名词时像川剧变脸（changing faces），作动词时像'直面'支付宝年度账单💸（face reality）。说'丢脸'是lose face就像火锅打翻在白衣上🌶️，'厚脸皮'叫have the face就像城墙拐角🧱。记住：face朝哪儿，命运就向哪转！",
+    "recite": {
+      "tips": [
+        "谐音梗：'费事'→要face就不能怕费事",
+        "易混词：face vs. phase (面孔 vs. 阶段)"
+      ]
+    }
+  },
+  {
+    "word": "faced",
+    "etymology": {
+      "breakdown": [
+        "face",
+        "ed"
+      ],
+      "meaning_connection": "词根face=脸/面，后缀-ed表具有某种特征→具有某种面部特征的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有某种表情的",
+        "examples": [
+          {
+            "sentence": "The emoji with teary-faced expression went viral on Douyin.",
+            "sentence_zh": "那个泪流满面的表情包在抖音上疯传。"
+          },
+          {
+            "sentence": "She walked in with a poker-faced look during the meeting.",
+            "sentence_zh": "她带着扑克脸表情走进了会议室。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有某种面孔的",
+        "examples": [
+          {
+            "sentence": "The round-faced panda cub became the new mascot.",
+            "sentence_zh": "那个圆脸熊猫幼崽成了新吉祥物。"
+          },
+          {
+            "sentence": "Stone-faced guards stood at the Terracotta Army pit.",
+            "sentence_zh": "面无表情的卫兵站在兵马俑坑前。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "two-faced",
+        "meaning": "两面派的",
+        "examples": [
+          {
+            "sentence": "That two-faced colleague praised you but complained behind your back.",
+            "sentence_zh": "那个两面派同事当面夸你背后抱怨。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "open-faced",
+        "meaning": "坦率的",
+        "examples": [
+          {
+            "sentence": "His open-faced honesty made him popular in the company.",
+            "sentence_zh": "他的坦率真诚让他在公司很受欢迎。"
+          }
+        ]
+      }
+    ],
+    "teach": "faced这词就像川剧变脸🎭！说人stone-faced（石头脸）不是夸皮肤好🧊，是指面瘫式冷漠；说baby-faced（娃娃脸）可能40岁还被要学生证🎫。中文说'挂相'英语就用faced：打麻将输钱叫money-losing-faced🀄️，被老板骂叫eggplant-faced🍆（茄子色脸）。记住：-faced结尾=脸上写着故事！",
+    "recite": {
+      "tips": [
+        "谐音梗：'费事的'→变脸特费事的",
+        "易混词对比：facial（面部护理的）vs faced（有某表情的）",
+        "记忆tip：想象微信表情包右上角都标着-faced"
+      ]
+    }
+  },
+  {
+    "word": "faceless",
+    "etymology": {
+      "breakdown": [
+        "face",
+        "less"
+      ],
+      "meaning_connection": "词根face=面部/外表，后缀-less表否定→字面'无脸的'，后引申为'无个性特征'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无面的",
+        "examples": [
+          {
+            "sentence": "The faceless statue in the museum terrifies children.",
+            "sentence_zh": "博物馆里无面的雕像吓坏了孩子们。"
+          },
+          {
+            "sentence": "Ancient artists sometimes created faceless deities.",
+            "sentence_zh": "古代艺术家有时会创造无面的神像。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无个性的",
+        "examples": [
+          {
+            "sentence": "The faceless office building looks like a giant concrete box.",
+            "sentence_zh": "那座毫无个性的办公楼像个巨型水泥盒子。"
+          },
+          {
+            "sentence": "Her faceless presentation lacked any personal style.",
+            "sentence_zh": "她毫无个性的演示缺乏个人风格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "匿名的",
+        "examples": [
+          {
+            "sentence": "Faceless netizens spread rumors on social media.",
+            "sentence_zh": "匿名的网民在社交媒体上散播谣言。"
+          },
+          {
+            "sentence": "The donation came from a faceless benefactor.",
+            "sentence_zh": "这笔捐款来自一位匿名的捐助者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无名的",
+        "examples": [
+          {
+            "sentence": "Faceless workers built the Great Wall brick by brick.",
+            "sentence_zh": "无名的工人们一砖一瓦筑起了长城。"
+          },
+          {
+            "sentence": "Many faceless heroes contributed to the pandemic fight.",
+            "sentence_zh": "许多无名英雄为抗疫做出了贡献。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "faceless bureaucracy",
+        "meaning": "冷漠的官僚体系",
+        "examples": [
+          {
+            "sentence": "People complain about the faceless bureaucracy when applying for visas.",
+            "sentence_zh": "人们在申请签证时总抱怨冷漠的官僚体系。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "faceless corporation",
+        "meaning": "机械化大公司",
+        "examples": [
+          {
+            "sentence": "The startup was acquired by a faceless corporation last year.",
+            "sentence_zh": "这家初创公司去年被一家机械化大公司收购。"
+          }
+        ]
+      }
+    ],
+    "teach": "faceless就像emoji里的空白脸👤！古埃及死神阿努比斯就是faceless代表（无面神像）⚰️，现代则形容美团骑手这样的'隐形人'🚴（faceless workers）。说'体制冷漠'用faceless bureaucracy，吐槽大公司用faceless corporation🤖。记住：当你说someone is faceless，等于说TA是'路人甲'👥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥死累死'→外卖小哥faceless又累又胖",
+        "易混词：nameless（纯粹无名） vs faceless（刻意隐藏身份）",
+        "记忆法：less=没有 → 没有face=认不出是谁"
+      ]
+    }
+  },
+  {
+    "word": "faceplate",
+    "etymology": {
+      "breakdown": [
+        "face",
+        "plate"
+      ],
+      "meaning_connection": "face（面）+ plate（板）→ 字面意思为'面板'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "面板",
+        "examples": [
+          {
+            "sentence": "The smartphone's faceplate shattered when it fell on the pavement.",
+            "sentence_zh": "手机掉在人行道上时面板摔碎了。"
+          },
+          {
+            "sentence": "He customized his gaming console with a neon faceplate.",
+            "sentence_zh": "他给游戏机装了个霓虹灯面板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "花盘",
+        "examples": [
+          {
+            "sentence": "The lathe's faceplate was decorated with intricate floral patterns.",
+            "sentence_zh": "车床的花盘上装饰着复杂的花纹。"
+          },
+          {
+            "sentence": "Grandma's antique sewing machine had a brass faceplate with roses.",
+            "sentence_zh": "奶奶的古董缝纫机有个带玫瑰图案的铜花盘。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "faceplate是工业时代的'脸面'👩‍🏭！就像手机壳是iPhone的'新皮肤'📱（change faceplate），车床花盘是机械的'纹身'⚙️（engraved faceplate）。搭配：'防刮面板'叫scratch-resistant faceplate，'可更换面板'叫removable faceplate。要说'这设计过时了'，地道说法是That faceplate is so last century! 💀📺🖥️",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥死铺了它'→胖子压垮了面板",
+        "易混词：facemask（口罩）是软的，faceplate是硬的"
+      ]
+    }
   }
 ]

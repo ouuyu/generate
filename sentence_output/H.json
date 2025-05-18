@@ -838,5 +838,344 @@
         "易混词对比：villa(别墅) vs hacienda(生产型大庄园)"
       ]
     }
+  },
+  {
+    "word": "hack",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语haccian（砍），拟声词，模仿砍劈声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "劈砍",
+        "examples": [
+          {
+            "sentence": "The lumberjack made a clean hack through the pine trunk.",
+            "sentence_zh": "伐木工利落地劈开了松木树干。"
+          },
+          {
+            "sentence": "Ancient warriors would test swords by making hacks on stone pillars.",
+            "sentence_zh": "古代武士通过砍石柱来测试刀剑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "砍痕",
+        "examples": [
+          {
+            "sentence": "The antique table had mysterious hacks from pirate battles.",
+            "sentence_zh": "古董桌上有海盗战斗留下的神秘砍痕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "出租车",
+        "examples": [
+          {
+            "sentence": "New York yellow hacks are iconic movie symbols.",
+            "sentence_zh": "纽约黄色出租车是标志性电影符号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "干咳",
+        "examples": [
+          {
+            "sentence": "His persistent hack worried the phoenix caretaker.",
+            "sentence_zh": "他持续的干咳让凤凰饲养员很担忧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "劈砍",
+        "examples": [
+          {
+            "sentence": "The chef hacked the watermelon with theatrical flair.",
+            "sentence_zh": "厨师用戏剧性的动作劈开了西瓜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "出租",
+        "examples": [
+          {
+            "sentence": "He hacks his Tesla during off-hours.",
+            "sentence_zh": "他在空闲时间出租他的特斯拉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hack into",
+        "meaning": "非法入侵（计算机）",
+        "examples": [
+          {
+            "sentence": "The panda emoji was used when hackers hacked into the zoo's system.",
+            "sentence_zh": "黑客入侵动物园系统时使用了熊猫表情包。"
+          }
+        ]
+      }
+    ],
+    "teach": "hack是语言界的变形金刚🤖！当它表示'劈砍'时像李逵挥斧头🪓（hack a path）；当出租车用时秒变纽约小黄车🚖（take a hack）；'干咳'时像吞了羽毛的猫🐱（persistent hack）；现代还变异出'黑客'含义💻。最搞笑的是：中世纪'hack writer'指写垃圾文章的租马作家（就像现在网文日更党📝）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'海客'→海盗(hack)砍船",
+        "对比记忆：chop（有节奏地砍）vs hack（乱砍）"
+      ]
+    }
+  },
+  {
+    "word": "hacker",
+    "etymology": {
+      "breakdown": [
+        "hack",
+        "er"
+      ],
+      "meaning_connection": "hack原指'劈砍'，计算机时代指'巧妙破解'，-er表人→指用技术突破限制的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "计算机窃贼",
+        "examples": [
+          {
+            "sentence": "The hacker stole celebrity photos from iCloud like picking peaches.",
+            "sentence_zh": "该黑客盗取iCloud名人照片如探囊取物。"
+          },
+          {
+            "sentence": "Bank systems need firewalls to block hackers.",
+            "sentence_zh": "银行系统需要防火墙阻挡黑客入侵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "技术极客",
+        "examples": [
+          {
+            "sentence": "Linux was created by hackers who love sharing codes.",
+            "sentence_zh": "Linux是由热爱共享代码的黑客们创造的。"
+          },
+          {
+            "sentence": "Real hackers can make a robot with instant noodles packets.",
+            "sentence_zh": "真正的黑客能用方便面包装袋造机器人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "white-hat hacker",
+        "meaning": "白帽黑客",
+        "examples": [
+          {
+            "sentence": "White-hat hackers help companies find security bugs.",
+            "sentence_zh": "白帽黑客帮企业寻找安全漏洞。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hacker culture",
+        "meaning": "黑客文化",
+        "examples": [
+          {
+            "sentence": "Hacker culture values freedom and creativity.",
+            "sentence_zh": "黑客文化崇尚自由与创造力。"
+          }
+        ]
+      }
+    ],
+    "teach": "黑客(hacker)最初是MIT铁路模型俱乐部的昵称🚂！就像《西游记》里孙悟空既能大闹天宫🐒（恶意黑客）也能护送唐僧取经📜（白帽黑客）。说'电脑高手'用tech wizard🧙，'脚本小子'叫script kiddie👶。记住：不是所有hacker都穿黑衣服——真正的极客可能穿着拖鞋写代码🩴💻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骇客'→音译自带震慑力",
+        "易混词：cracker（破坏性黑客）"
+      ]
+    }
+  },
+  {
+    "word": "hacking",
+    "etymology": {
+      "breakdown": [
+        "hack",
+        "ing"
+      ],
+      "meaning_connection": "词源hack原指'劈砍'，计算机时代引申为'侵入系统'，-ing表行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "非法入侵计算机系统",
+        "examples": [
+          {
+            "sentence": "The celebrity's Weibo account was compromised by hacking.",
+            "sentence_zh": "某明星微博账号遭黑客入侵。"
+          },
+          {
+            "sentence": "Hacking into campus networks to alter grades is a serious crime.",
+            "sentence_zh": "入侵校园网络修改成绩属于严重犯罪行为。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ethical hacking",
+        "meaning": "道德黑客行为",
+        "examples": [
+          {
+            "sentence": "Tech companies hire experts in ethical hacking to test system vulnerabilities.",
+            "sentence_zh": "科技公司雇佣道德黑客专家检测系统漏洞。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hacking skills",
+        "meaning": "黑客技术",
+        "examples": [
+          {
+            "sentence": "Learning basic hacking skills can help you protect your social media accounts.",
+            "sentence_zh": "学习基础黑客技术有助于保护社交媒体账号。"
+          }
+        ]
+      }
+    ],
+    "teach": "黑客(hacking)就像数字世界的万能钥匙🔑：早期MIT学生用hack指'巧妙解决技术难题'，现在却变成'半夜撬支付宝后门'的黑猫警长🐱💻。说'账号被盗'用got hacked，'黑客电影'叫hacking thriller。记住：真正的黑客精神是像《头号玩家》那样破解系统规则🎮，而不是偷隔壁WiFi！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨客ing'→嗨客正在入侵",
+        "易混词对比：hacker(黑客)/cracker(破坏者)"
+      ]
+    }
+  },
+  {
+    "word": "hackle",
+    "etymology": {
+      "breakdown": [
+        "hack",
+        "le"
+      ],
+      "meaning_connection": "词根hack表示'砍劈'，后缀-le表反复动作→原指反复砍劈的动作，引申出梳理纤维时类似砍劈的动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "梳理（纤维）",
+        "examples": [
+          {
+            "sentence": "The grandma skillfully hackled flax fibers to prepare for weaving.",
+            "sentence_zh": "老奶奶熟练地梳理亚麻纤维准备纺织。"
+          },
+          {
+            "sentence": "Hackling hemp is like combing a giant's tangled beard.",
+            "sentence_zh": "梳理大麻纤维就像给巨人的乱胡子梳头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "乱砍",
+        "examples": [
+          {
+            "sentence": "The rookie chef hackled the vegetables into uneven chunks.",
+            "sentence_zh": "菜鸟厨师把蔬菜乱砍成大小不一的块状。"
+          },
+          {
+            "sentence": "He hackled at the frozen pork like a woodcutter.",
+            "sentence_zh": "他像樵夫劈柴般乱砍冻猪肉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "锯齿形裂痕",
+        "examples": [
+          {
+            "sentence": "The broken mirror showed spiderweb hackles radiating from the center.",
+            "sentence_zh": "破碎的镜面上呈放射状的锯齿裂痕。"
+          },
+          {
+            "sentence": "Hackles on the ancient sword revealed its battle history.",
+            "sentence_zh": "古剑上的锯齿裂痕诉说着它的征战史。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "针排（纺织工具）",
+        "examples": [
+          {
+            "sentence": "The flax fibers were pulled through the hackle's metal teeth.",
+            "sentence_zh": "亚麻纤维被拉过针排的金属齿。"
+          },
+          {
+            "sentence": "Traditional hackles look terrifyingly like medieval torture devices.",
+            "sentence_zh": "传统针排看起来像可怕的中世纪刑具。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "颈羽（鸟类）",
+        "examples": [
+          {
+            "sentence": "The rooster's hackles stood up when it saw the rival.",
+            "sentence_zh": "公鸡见到对手时颈羽倒竖。"
+          },
+          {
+            "sentence": "Peacock hackles shimmer with iridescent colors during mating displays.",
+            "sentence_zh": "孔雀求偶时颈羽会闪烁虹彩。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "get one's hackles up",
+        "meaning": "勃然大怒",
+        "examples": [
+          {
+            "sentence": "The comment about his cooking got the chef's hackles up.",
+            "sentence_zh": "对他厨艺的批评让主厨勃然大怒。"
+          },
+          {
+            "sentence": "Nothing gets my mom's hackles up like seeing socks left on the sofa.",
+            "sentence_zh": "没什么比看到沙发上乱扔袜子更能让我妈暴怒。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hackle through",
+        "meaning": "艰难通过",
+        "examples": [
+          {
+            "sentence": "We hackled through the dense crowd at the night market.",
+            "sentence_zh": "我们在夜市的人潮中艰难穿行。"
+          }
+        ]
+      }
+    ],
+    "teach": "hackle是羽毛与刀刃齐飞的单词🪶⚔️！当它作'颈羽'时，想象斗鸡炸毛的造型🐓；作'针排'时像给亚麻做针灸的钢牙床🧵；'乱砍'时如同火锅店新手切羊肉片🔪；'梳理'时则像在给暴躁的棉花糖梳头🍡。记住：看到get one's hackles up（炸毛），就快跑💨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骇客哦'→骇客用刀乱砍(hackle)",
+        "易混词对比：hackle（梳理纤维） vs. heckle（起哄）",
+        "记忆tip：所有释义都带有'尖锐突起'的特征"
+      ]
+    }
   }
 ]

@@ -874,5 +874,312 @@
         "记忆口诀：race+er=竞速专家（人或蛇）"
       ]
     }
+  },
+  {
+    "word": "racetrack",
+    "etymology": {
+      "breakdown": [
+        "race",
+        "track"
+      ],
+      "meaning_connection": "race=竞赛，track=轨迹→竞赛用的轨迹"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "跑道",
+        "examples": [
+          {
+            "sentence": "The new racetrack in Shanghai can accommodate F1 races.",
+            "sentence_zh": "上海的新跑道可承办F1赛事。"
+          },
+          {
+            "sentence": "Olympic runners slipped on the wet racetrack.",
+            "sentence_zh": "奥运选手在湿滑跑道上打滑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "horse racetrack",
+        "meaning": "赛马场",
+        "examples": [
+          {
+            "sentence": "The Hong Kong Jockey Club maintains the world's most luxurious horse racetrack.",
+            "sentence_zh": "香港赛马会运营着全球最奢华的赛马场。"
+          },
+          {
+            "sentence": "She lost a month's salary betting at the horse racetrack.",
+            "sentence_zh": "她在赛马场赌输了一个月薪水。"
+          }
+        ]
+      }
+    ],
+    "teach": "racetrack其实是'人类版仓鼠跑轮'🐹！古罗马最早用战车轮印当作track（知道为什么F1叫'方程式'赛车了吗？⚡）。说'比赛白热化'叫neck and neck（并驾齐驱），'绝对领先'叫home free（像赛马冲过终点🏁）。记住：人生就像racetrack，关键不是起跑线而是耐力！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞士缺课'→瑞士选手因缺课失去跑道优势",
+        "易混词对比：racecourse（赛马场专指草地跑道）"
+      ]
+    }
+  },
+  {
+    "word": "racial",
+    "etymology": {
+      "breakdown": [
+        "race",
+        "ial"
+      ],
+      "meaning_connection": "词根race=种族，后缀-ial表形容词性→与种族相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "人种的",
+        "examples": [
+          {
+            "sentence": "The museum exhibits racial artifacts from ancient Silk Road traders.",
+            "sentence_zh": "该博物馆展出来自古代丝绸之路商人的人种文物。"
+          },
+          {
+            "sentence": "DNA tests can reveal fascinating racial heritage stories.",
+            "sentence_zh": "基因检测能揭示有趣的人种渊源故事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "种族的",
+        "examples": [
+          {
+            "sentence": "Racial diversity makes Chinese university canteens offer both dumplings and naan bread.",
+            "sentence_zh": "种族多样性让中国大学食堂同时供应饺子和馕。"
+          },
+          {
+            "sentence": "The racial harmony in Singapore is reflected in its four official languages.",
+            "sentence_zh": "新加坡的种族和谐体现在其四种官方语言上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "racial discrimination",
+        "meaning": "种族歧视",
+        "examples": [
+          {
+            "sentence": "Fighting racial discrimination is like removing all the chili peppers from hotpot - it loses its colorful essence.",
+            "sentence_zh": "反对种族歧视就像从火锅里捞出所有辣椒——失去了多彩的精髓。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "racial profiling",
+        "meaning": "种族定性",
+        "examples": [
+          {
+            "sentence": "Airport security should avoid racial profiling just as doctors shouldn't judge illnesses by appearances.",
+            "sentence_zh": "机场安检应避免种族定性，就像医生不该以貌断症。"
+          }
+        ]
+      }
+    ],
+    "teach": "racial这词像调色盘🎨：人类肤色差异其实就像奶茶色号（珍珠奶茶色/芋泥紫/抹茶绿）。有趣的是'种族'race原指'赛跑'🏃，后来才指'族群'，就像不同人种在生命长跑中各展风采。说'种族偏见'用racial bias，'混血儿'叫mixed-race就像鸳鸯锅🍲，记住：我们DNA相似度比熊猫和竹子还高99.9%！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞士藕'→瑞士莲巧克力不同颜色就像racial多样性",
+        "易混词：racial(种族的) vs. radical(激进的)→'种族问题要解决，激进方法不可取'"
+      ]
+    }
+  },
+  {
+    "word": "racialism",
+    "etymology": {
+      "breakdown": [
+        "race",
+        "al",
+        "ism"
+      ],
+      "meaning_connection": "race（种族）+ -al（形容词后缀）+ -ism（主义）→ 种族主义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "种族主义",
+        "examples": [
+          {
+            "sentence": "The professor's lecture exposed how racialism influenced colonial policies.",
+            "sentence_zh": "教授的讲座揭露了种族主义如何影响殖民政策。"
+          },
+          {
+            "sentence": "Social media platforms are combating racialism with AI detection tools.",
+            "sentence_zh": "社交媒体平台正用AI检测工具对抗种族主义。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "人种优劣论",
+        "examples": [
+          {
+            "sentence": "Nazi Germany used pseudoscientific racialism to justify atrocities.",
+            "sentence_zh": "纳粹德国用伪科学的人种优劣论为暴行辩护。"
+          },
+          {
+            "sentence": "Modern genetics has completely debunked racialism theories.",
+            "sentence_zh": "现代遗传学彻底推翻了人种优劣论。"
+          }
+        ]
+      }
+    ],
+    "teach": "racialism是语言界的伏地魔⚡——连说这个词都让人不适！它像实验室里的畸形杂交植物🌱，把race（种族）硬接上-ism（主义）的后缀。要说'种族歧视'可用老外常说的the elephant in the room（房间里的大象）🐘，搭配'反对种族主义'要说combat racialism like fighting zombies🧟♂️。记住：所有人类DNA相似度达99.9%，那0.1%的差异根本不够煮碗螺蛳粉的！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累死老母'→种族主义累死老母亲（讽刺其荒谬）",
+        "易混词对比：racism（种族歧视行为）vs racialism（种族主义理论）",
+        "记忆口诀：race+ism=错误主义"
+      ]
+    }
+  },
+  {
+    "word": "racialist",
+    "etymology": {
+      "breakdown": [
+        "racial",
+        "ist"
+      ],
+      "meaning_connection": "racial源自race（种族），后缀-ist表示'从事...的人'或'信仰...的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "种族主义的",
+        "examples": [
+          {
+            "sentence": "The professor condemned racialist theories as pseudoscience.",
+            "sentence_zh": "这位教授谴责种族主义理论是伪科学。"
+          },
+          {
+            "sentence": "Racialist policies were officially abolished in 1994 in South Africa.",
+            "sentence_zh": "南非于1994年正式废除了种族主义政策。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "种族歧视的",
+        "examples": [
+          {
+            "sentence": "The court ruled the landlord's refusal as racialist behavior.",
+            "sentence_zh": "法院裁定房东的拒绝属于种族歧视行为。"
+          },
+          {
+            "sentence": "Many countries have laws against racialist hiring practices.",
+            "sentence_zh": "许多国家立法禁止带有种族歧视的雇佣行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "种族迫害的",
+        "examples": [
+          {
+            "sentence": "Historical documents revealed the racialist atrocities during WWII.",
+            "sentence_zh": "历史文献揭示了二战期间的种族迫害暴行。"
+          },
+          {
+            "sentence": "The museum exhibits artifacts from racialist regimes.",
+            "sentence_zh": "该博物馆展出来自种族迫害政权的文物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "种族隔离的",
+        "examples": [
+          {
+            "sentence": "Racialist bus seating policies sparked the Montgomery Bus Boycott.",
+            "sentence_zh": "种族隔离的公车座位政策引发了蒙哥马利巴士抵制运动。"
+          },
+          {
+            "sentence": "The racialist 'separate but equal' doctrine was overturned in 1954.",
+            "sentence_zh": "种族隔离的'隔离但平等'原则于1954年被推翻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "种族主义者",
+        "examples": [
+          {
+            "sentence": "The notorious racialist was banned from international forums.",
+            "sentence_zh": "这个臭名昭著的种族主义者被禁止参加国际论坛。"
+          },
+          {
+            "sentence": "Modern racialists often disguise their views with coded language.",
+            "sentence_zh": "现代种族主义者常用隐晦语言伪装其观点。"
+          }
+        ]
+      }
+    ],
+    "teach": "racialist就像人类文明的毒蘑菇🍄！词尾-ist暴露其本质（像terrorist恐怖分子），而racial来自race就像赛跑跑道被扭曲成分隔线🚧。说'种族偏见'用racial prejudice，'系统性歧视'叫systemic racism🌐。记住：当racial遇到-ist，就像火锅里混入老鼠屎💣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累死了'→搞种族主义累死了(racialist)全人类",
+        "易混词：racial(种族的) vs. racist(种族主义者)"
+      ]
+    }
+  },
+  {
+    "word": "racially",
+    "etymology": {
+      "breakdown": [
+        "race",
+        "ial",
+        "ly"
+      ],
+      "meaning_connection": "race（种族）+ -ial（形容词后缀）+ -ly（副词后缀）→ 与人种相关地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "按人种",
+        "examples": [
+          {
+            "sentence": "The university admits students without discriminating racially.",
+            "sentence_zh": "该大学招生不按人种区别对待。"
+          },
+          {
+            "sentence": "Historically, some neighborhoods were divided racially.",
+            "sentence_zh": "历史上某些社区按人种划分。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "人种上",
+        "examples": [
+          {
+            "sentence": "The study focuses on genetically racially diverse groups.",
+            "sentence_zh": "这项研究聚焦于人种上基因多元的群体。"
+          },
+          {
+            "sentence": "Some diseases manifest differently racially.",
+            "sentence_zh": "某些疾病在人种上表现不同。"
+          }
+        ]
+      }
+    ],
+    "teach": "racially这词就像火锅的九宫格🍲——不同人种就像不同格子里的食材，但好汤底应该融合所有风味！记住：'种族歧视'叫racial discrimination🚫，'多元文化'是racial diversity🌈。说'混血儿'不用mixed blood（冒犯），要说biracial才地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞士离'→瑞士离(racially)得远所以人种不同",
+        "易混词：racially（人种上） vs. radically（根本上）"
+      ]
+    }
   }
 ]

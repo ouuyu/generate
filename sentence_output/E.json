@@ -813,5 +813,343 @@
         "对比记忆：early侧重时间早，soon侧重即将发生"
       ]
     }
+  },
+  {
+    "word": "earmark",
+    "etymology": {
+      "breakdown": [
+        "ear",
+        "mark"
+      ],
+      "meaning_connection": "字面'耳朵标记'→古代给牲畜耳朵打烙印作为所有权标识，引申为显著特征"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "耳上记号",
+        "examples": [
+          {
+            "sentence": "The black earmark on this sheep identifies it as Mr. Wang's property.",
+            "sentence_zh": "这只绵羊耳朵上的黑色记号表明它是王先生的财产。"
+          },
+          {
+            "sentence": "Ancient Egyptian paintings show cattle with elaborate earmarks.",
+            "sentence_zh": "古埃及壁画中的牛只都有精美的耳部标记。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "特征",
+        "examples": [
+          {
+            "sentence": "The earmark of this antique is its dragon-shaped handle.",
+            "sentence_zh": "这件古董的显著特征是龙形手柄。"
+          },
+          {
+            "sentence": "Spicy flavor is the earmark of Sichuan hotpot.",
+            "sentence_zh": "麻辣口感是四川火锅的鲜明特征。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "标记",
+        "examples": [
+          {
+            "sentence": "Farmers earmark newborn lambs with colored tags.",
+            "sentence_zh": "农民用彩色标签标记新生小羊。"
+          },
+          {
+            "sentence": "The librarian earmarked damaged books with red stickers.",
+            "sentence_zh": "图书管理员用红色贴纸标记破损书籍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "指定用途",
+        "examples": [
+          {
+            "sentence": "The government earmarked funds for rural education.",
+            "sentence_zh": "政府专项拨款用于乡村教育。"
+          },
+          {
+            "sentence": "This room is earmarked for quarantine use.",
+            "sentence_zh": "该房间被指定为隔离用途。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "earmark funds",
+        "meaning": "专项资金",
+        "examples": [
+          {
+            "sentence": "The earmarked funds for poverty alleviation cannot be used elsewhere.",
+            "sentence_zh": "扶贫专项资金不得挪作他用。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bear the earmark of",
+        "meaning": "带有...特征",
+        "examples": [
+          {
+            "sentence": "This counterfeit bear the earmark of rushed production.",
+            "sentence_zh": "这件赝品带有仓促制作的痕迹。"
+          }
+        ]
+      }
+    ],
+    "teach": "earmark是古代版二维码🐑！牧民在羊耳剪缺口就像给手机贴膜📱（physical earmark），现在'专项拨款'就像给钱包贴'买房专用'标签💰（earmark funds）。说'特色鲜明'可以用bear the earmark of就像螺蛳粉的臭味标识🍜。要吐槽'公款挪用'？说它'shuffled earmarked money'就像把火锅基金偷去买奶茶🥤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一码刻'→耳朵上一码刻(earmark)记号",
+        "易混词对比：landmark(地标) vs earmark(特征)",
+        "记忆tip：想象给大熊猫耳朵打标记申请信用卡🐼💳"
+      ]
+    }
+  },
+  {
+    "word": "earmarked",
+    "etymology": {
+      "breakdown": [
+        "ear",
+        "mark",
+        "ed"
+      ],
+      "meaning_connection": "字面指'在耳朵上做标记'（古代给牲畜打耳标），引申为'指定用途'，-ed表过去分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "指定用途",
+        "examples": [
+          {
+            "sentence": "The government has earmarked 5 billion yuan for panda conservation.",
+            "sentence_zh": "政府已划拨50亿元专款用于大熊猫保护。"
+          },
+          {
+            "sentence": "My year-end bonus was earmarked for my daughter's piano lessons.",
+            "sentence_zh": "我的年终奖早已被指定用于女儿的钢琴课。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "earmarked funds",
+        "meaning": "专项基金",
+        "examples": [
+          {
+            "sentence": "The earmarked funds for rural education cannot be used to build offices.",
+            "sentence_zh": "农村教育专项资金不得用于修建办公楼。"
+          }
+        ]
+      }
+    ],
+    "teach": "earmarked就像给钱贴标签🏷️！源自给猪牛羊打耳标（ear+mark）的农场传统🐷，现在专指'钱有主了'。比如'买房专款'叫housing-earmarked savings，而'挪用专项资金'是divert earmarked funds（就像偷换商品标签！）。地道说法：'这笔钱动不得'→This money has its ears marked👂✂️！",
+    "recite": {
+      "tips": [
+        "视觉记忆：想象给人民币贴'专款专用'耳标💵",
+        "对比记忆：earmark vs. landmark（前者指定用途，后者是地标）"
+      ]
+    }
+  },
+  {
+    "word": "earn",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'earnian'，原指'通过劳动收获谷物'，后引申为获得报酬"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "赚得",
+        "examples": [
+          {
+            "sentence": "She earns her living by live-streaming spicy hotpot challenges.",
+            "sentence_zh": "她靠直播挑战变态辣火锅谋生。"
+          },
+          {
+            "sentence": "A panda keeper earns less than a tech worker but gets more hugs.",
+            "sentence_zh": "熊猫饲养员比程序员赚得少但收获更多拥抱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "获得",
+        "examples": [
+          {
+            "sentence": "The viral Douyin video earned her 10 million followers overnight.",
+            "sentence_zh": "那条爆火抖音视频让她一夜获得千万粉丝。"
+          },
+          {
+            "sentence": "Winning three gold medals earned him free hotpot for life in Chongqing.",
+            "sentence_zh": "三枚金牌为他在重庆赢得终身免费火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "博得",
+        "examples": [
+          {
+            "sentence": "His stand-up comedy about gaokao earned thunderous applause.",
+            "sentence_zh": "他关于高考的脱口秀博得满堂喝彩。"
+          },
+          {
+            "sentence": "The grandma's spicy hotpot recipe earned nationwide fame.",
+            "sentence_zh": "老奶奶的火锅秘方博得全国美名。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "earn one's keep",
+        "meaning": "自食其力",
+        "examples": [
+          {
+            "sentence": "The panda cub started earning its keep by starring in documentaries at age two.",
+            "sentence_zh": "这只熊猫宝宝两岁就开始靠出演纪录片自食其力。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "earn a crust",
+        "meaning": "谋生",
+        "examples": [
+          {
+            "sentence": "He earns his crust by teaching foreigners to use chopsticks.",
+            "sentence_zh": "他靠教外国人用筷子谋生。"
+          }
+        ]
+      }
+    ],
+    "teach": "earn其实是个'劳动换美食'的故事🍲→古英语里它本指'收割麦子'🌾。现在说'赚外快'叫earn extra dough（面团钱），'血汗钱'是hard-earned cash💸。记住：无论是搬砖还是直播，能earn到火锅自由就是胜利🥘！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿嗯'→饿到嗯嗯叫才去earn钱",
+        "易混词：earn（劳动所得） vs. win（竞赛获胜）",
+        "记忆法：earn=劳动+收获（想象农民伯伯🌾→💰）"
+      ]
+    }
+  },
+  {
+    "word": "earned",
+    "etymology": {
+      "breakdown": [
+        "earn",
+        "ed"
+      ],
+      "meaning_connection": "动词earn（赚取）+后缀-ed→变成形容词表示'通过努力获得的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "挣得的",
+        "examples": [
+          {
+            "sentence": "Her earned vacation days are as precious as panda cubs.",
+            "sentence_zh": "她挣得的休假天数像熊猫幼崽一样珍贵。"
+          },
+          {
+            "sentence": "The street performer put his earned coins into a Hello Kitty piggy bank.",
+            "sentence_zh": "街头艺人把挣来的硬币投进Hello Kitty存钱罐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hard-earned money",
+        "meaning": "血汗钱",
+        "examples": [
+          {
+            "sentence": "He spent his hard-earned money on a bubble tea franchise.",
+            "sentence_zh": "他把血汗钱投入了奶茶加盟店。"
+          },
+          {
+            "sentence": "My hard-earned salary disappears faster than hotpot ingredients.",
+            "sentence_zh": "我的血汗工资消失得比火锅食材还快。"
+          }
+        ]
+      }
+    ],
+    "teach": "earned其实是'熬来的'💪！古英语中earn原指老鹰捕猎🦅，后来演变成'辛勤获得'。要说'血汗钱'地道说法是sweat equity（汗水股权），'挣外快'叫moonlighting像夜猫子偷赚🌙。记住：你的earned income决定你能加多少顿夜宵！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿嗯的'→饿着肚子嗯嗯干活挣来的",
+        "对比记忆：earned（挣得的） vs inherited（继承的）像打工族VS富二代"
+      ]
+    }
+  },
+  {
+    "word": "earner",
+    "etymology": {
+      "breakdown": [
+        "earn",
+        "er"
+      ],
+      "meaning_connection": "动词earn（赚取）加后缀-er表示'执行该动作的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "赚钱的人",
+        "examples": [
+          {
+            "sentence": "The gig economy has created many flexible earners.",
+            "sentence_zh": "零工经济催生了许多灵活赚钱者。"
+          },
+          {
+            "sentence": "As the top earner in her family, she supports three generations.",
+            "sentence_zh": "作为家庭经济支柱，她供养着三代人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "breadwinner",
+        "meaning": "家庭经济支柱",
+        "examples": [
+          {
+            "sentence": "The panda dad became the sole breadwinner after his wife's resignation.",
+            "sentence_zh": "这位熊猫爸爸在妻子辞职后成了唯一经济支柱。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "high earner",
+        "meaning": "高收入者",
+        "examples": [
+          {
+            "sentence": "Live-streamers can become million-dollar earners overnight.",
+            "sentence_zh": "主播可能一夜之间成为百万收入者。"
+          }
+        ]
+      }
+    ],
+    "teach": "earner就像人形ATM机💰！古英语'earn'原指老鹰捕猎🦅，后来演变为'赚取'，就像现代人抓钱的样子。说'打工人'可用9-to-5 earner（朝九晚五赚钱者），吐槽'月光族'是zero-saver earner（只赚不存者）。记住：每个earner都是生活这场游戏的玩家🎮！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿呢'→饿呢就要当earner",
+        "易混词：winner（赢家）vs earner（赚钱者）",
+        "联想：earn+er=耳朵(ear)竖起来听赚钱机会的人"
+      ]
+    }
   }
 ]

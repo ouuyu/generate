@@ -848,5 +848,313 @@
         "易混词：zealot(狂热者)没有'石头心'，但zeolite真有'沸石心'"
       ]
     }
+  },
+  {
+    "word": "zephyr",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希腊语Zephyros（西风之神的名字），罗马神话中代表温和的西风"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "西风",
+        "examples": [
+          {
+            "sentence": "The zephyr carried cherry blossoms across the ancient capital.",
+            "sentence_zh": "西风将樱花吹遍古都。"
+          },
+          {
+            "sentence": "Greek poets described zephyr as Aphrodite's breath.",
+            "sentence_zh": "希腊诗人将西风形容为阿芙罗狄忒的呼吸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "和风",
+        "examples": [
+          {
+            "sentence": "A zephyr ruffled the surface of West Lake at dawn.",
+            "sentence_zh": "拂晓时和风轻拂西湖水面。"
+          },
+          {
+            "sentence": "The calligraphy scroll fluttered in the spring zephyr.",
+            "sentence_zh": "书法卷轴在春日和风中微微飘动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "徐风",
+        "examples": [
+          {
+            "sentence": "Zephyrs made the bamboo chimes sing melodiously.",
+            "sentence_zh": "徐风让竹风铃唱出悦耳旋律。"
+          },
+          {
+            "sentence": "Her silk robe danced with the evening zephyrs.",
+            "sentence_zh": "她的丝绸长袍随着傍晚徐风起舞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "zephyr cloth",
+        "meaning": "轻纱",
+        "examples": [
+          {
+            "sentence": "The Tang Dynasty dancers wore zephyr cloth that floated like clouds.",
+            "sentence_zh": "唐代舞者身着轻纱，飘然若云。"
+          }
+        ]
+      }
+    ],
+    "teach": "zephyr是风中的文艺青年🎐！希腊神话里西风神Zephyros追着花神克洛里斯跑🌷，所以这风自带花香。现代'和风'就像奶茶店的空调🌬️，'徐风'是小姐姐摇团扇的力道🍃。搭配说'zephyr breeze'（微风习习），吐槽'弱风'可说lighter than a zephyr（比羽毛还轻）💨。记住：zephyr=风界小清新！",
+    "recite": {
+      "tips": [
+        "谐音梗：'宅风'→宅家时最爱的温柔风",
+        "易混词对比：breeze（普通微风） vs zephyr（有文艺范的风）",
+        "记忆法：Z字形吹来的风→Zephyr"
+      ]
+    }
+  },
+  {
+    "word": "zeppelin",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自德国伯爵Ferdinand von Zeppelin姓氏，他发明了刚性飞艇"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "齐柏林飞船（硬式飞艇）",
+        "examples": [
+          {
+            "sentence": "The Hindenburg disaster marked the end of the zeppelin era.",
+            "sentence_zh": "兴登堡号空难标志着齐柏林飞船时代的终结。"
+          },
+          {
+            "sentence": "Modern zeppelins are used for aerial photography and tourism.",
+            "sentence_zh": "现代齐柏林飞船用于航拍和观光旅游。"
+          }
+        ]
+      }
+    ],
+    "teach": "zeppelin是天空中的腊肠狗🌭✈️！德国伯爵用自己姓氏命名这个'会飞的雪茄'，后来英国摇滚乐队Led Zeppelin用飞船图案做logo，结果首张专辑就爆红💥。要说'慢如飞艇'可以说as slow as a zeppelin，形容巨大物体可以说zeppelin-sized（飞艇级大小）。记住：这不是热气球，是自带骨骼的航空巨无霸🦴！",
+    "recite": {
+      "tips": [
+        "视觉联想：字母Z像飞艇的骨架轮廓",
+        "易混词：balloon（软式气球）vs zeppelin（硬式飞艇）"
+      ]
+    }
+  },
+  {
+    "word": "zero",
+    "etymology": {
+      "breakdown": [
+        "zephirum"
+      ],
+      "meaning_connection": "源自阿拉伯语sifr（空），经意大利语zephirum演变而来，原指数学中的空缺位置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "数字零",
+        "examples": [
+          {
+            "sentence": "My bank account balance hit zero after buying the limited edition sneakers.",
+            "sentence_zh": "买了限量版球鞋后，我的银行账户余额归零了。"
+          },
+          {
+            "sentence": "The countdown started from ten to zero with fireworks.",
+            "sentence_zh": "倒计时从十数到零时烟花绽放。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无/乌有",
+        "examples": [
+          {
+            "sentence": "His knowledge about quantum physics is zero.",
+            "sentence_zh": "他对量子物理学的认知为零。"
+          },
+          {
+            "sentence": "The project's success chance dropped to zero after the funding cut.",
+            "sentence_zh": "资金撤销后，该项目的成功几率降为零。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "零的",
+        "examples": [
+          {
+            "sentence": "We're experiencing zero visibility in this sandstorm.",
+            "sentence_zh": "这场沙尘暴中能见度为零。"
+          },
+          {
+            "sentence": "The zero sugar cola still tastes surprisingly sweet.",
+            "sentence_zh": "这款零糖可乐尝起来还是出奇地甜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "调零",
+        "examples": [
+          {
+            "sentence": "The technician is zeroing the scales before weighing the panda.",
+            "sentence_zh": "技术员正在给熊猫称重前将秤归零。"
+          },
+          {
+            "sentence": "Remember to zero the microscope before observation.",
+            "sentence_zh": "使用显微镜观察前记得调零。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "zero in on",
+        "meaning": "瞄准/专注于",
+        "examples": [
+          {
+            "sentence": "The AI camera can zero in on the chef's hands automatically.",
+            "sentence_zh": "这款AI相机能自动锁定厨师双手进行拍摄。"
+          },
+          {
+            "sentence": "Let's zero in on the core issue of this debate.",
+            "sentence_zh": "让我们聚焦本次辩论的核心问题。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "zero tolerance",
+        "meaning": "零容忍",
+        "examples": [
+          {
+            "sentence": "The school has zero tolerance for bullying behavior.",
+            "sentence_zh": "该校对霸凌行为采取零容忍政策。"
+          },
+          {
+            "sentence": "China implements zero tolerance towards drug trafficking.",
+            "sentence_zh": "中国对毒品走私实行零容忍。"
+          }
+        ]
+      }
+    ],
+    "teach": "zero是个'从无到有'的哲学大师🧘！阿拉伯人发明0之前，罗马人还在用笨重的XXVIII写法📜。视觉记忆：0像减肥人士的体重目标⚖️→归零(zero out)。搭配'zero chill'形容毫不克制（如吃火锅停不下来🌶️），'ground zero'原指核爆点，现指事件起源地💥。记住：你的英语错误也可以归零！",
+    "recite": {
+      "tips": [
+        "谐音梗：'贼肉'→体重贼肉(zero)需要归零",
+        "易混词：nil（体育比分）/ null（计算机空值）",
+        "数学梗：0是偶数却最'奇'特（能除尽所有数）"
+      ]
+    }
+  },
+  {
+    "word": "zest",
+    "etymology": {
+      "breakdown": [
+        "zest"
+      ],
+      "meaning_connection": "源自法语'zeste'（柑橘皮），后引申为'风味'和'热情'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "兴趣",
+        "examples": [
+          {
+            "sentence": "She added zest to the boring meeting with her unexpected magic show.",
+            "sentence_zh": "她用即兴魔术表演给无聊会议增添趣味。"
+          },
+          {
+            "sentence": "Grandpa's war stories brought zest to our family dinners.",
+            "sentence_zh": "爷爷的战争故事让家庭晚餐妙趣横生。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "热情",
+        "examples": [
+          {
+            "sentence": "The young teacher's zest for education inspired all her students.",
+            "sentence_zh": "这位年轻教师的教育热情感染了所有学生。"
+          },
+          {
+            "sentence": "He attacked the hotpot with the zest of a starving panda.",
+            "sentence_zh": "他像饥饿的熊猫般热情进攻火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "风味",
+        "examples": [
+          {
+            "sentence": "The secret to this cocktail is the zest of Thai lemongrass.",
+            "sentence_zh": "这款鸡尾酒的秘诀在于泰国柠檬草的风味。"
+          },
+          {
+            "sentence": "Grandma's preserved eggs have a unique zest from Sichuan peppercorns.",
+            "sentence_zh": "奶奶的皮蛋因花椒而具有独特风味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给...调味",
+        "examples": [
+          {
+            "sentence": "The chef zested the duck with star anise and cinnamon.",
+            "sentence_zh": "厨师用八角肉桂给烤鸭调味。"
+          },
+          {
+            "sentence": "Zesting your watermelon with lime juice makes it 10 times better!",
+            "sentence_zh": "西瓜加点青柠汁调味，美味立刻飙升十倍！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "zest for life",
+        "meaning": "生活热情",
+        "examples": [
+          {
+            "sentence": "The 100-year-old granny's zest for life puts teenagers to shame.",
+            "sentence_zh": "这位百岁奶奶的生活热情让年轻人自愧不如。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "zest up",
+        "meaning": "增添趣味",
+        "examples": [
+          {
+            "sentence": "Let's zest up this presentation with some memes.",
+            "sentence_zh": "咱们加点表情包让演示文稿更有趣吧。"
+          }
+        ]
+      }
+    ],
+    "teach": "zest是'风味'与'热情'的完美CP💑！想象你刮柠檬皮🍋时飞溅的精油就是zest的本体——既能给食物调味(zest the dish)，也能给生活加料(zest for life)。地道表达'热情满满'说full of zest就像火锅沸腾的泡泡🍲，而'无聊透顶'正好相反叫zestless。记住：人生要像重庆火锅，越zest越够味！🔥🌶️🎉",
+    "recite": {
+      "tips": [
+        "谐音梗：'再撕它'→做菜时不停撕柠檬皮取zest",
+        "易混词对比：zeal（狂热） vs zest（愉悦的热情）",
+        "记忆tip：把单词里的'e'想象成飘散的柠檬皮屑"
+      ]
+    }
   }
 ]

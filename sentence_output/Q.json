@@ -797,5 +797,330 @@
         "记忆tip：quad-开头总与'四'相关（quadcopter四旋翼无人机）"
       ]
     }
+  },
+  {
+    "word": "quaff",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能源自拟声词，模仿大口喝酒的声音"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "狂饮",
+        "examples": [
+          {
+            "sentence": "After finishing his marathon, he quaffed two bottles of Pocari Sweat in one go.",
+            "sentence_zh": "跑完马拉松后，他一口气狂饮两瓶宝矿力水特。"
+          },
+          {
+            "sentence": "Vikings would quaff mead from horns during feasts.",
+            "sentence_zh": "维京人在宴会上会用牛角杯狂饮蜂蜜酒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "大口地喝",
+        "examples": [
+          {
+            "sentence": "The tired farmer quaffed the iced tea like a thirsty camel.",
+            "sentence_zh": "疲惫的农民像口渴的骆驼般大口喝冰茶。"
+          },
+          {
+            "sentence": "She quaffed her bubble tea so fast that the pearls got stuck in the straw.",
+            "sentence_zh": "她大口喝奶茶太快，珍珠都卡在吸管里了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大口喝下的酒",
+        "examples": [
+          {
+            "sentence": "He took a deep quaff of the craft beer and sighed contentedly.",
+            "sentence_zh": "他痛饮一大口精酿啤酒，满足地叹了口气。"
+          },
+          {
+            "sentence": "The last quaff of baijiu burned his throat.",
+            "sentence_zh": "最后一口白酒灼烧着他的喉咙。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "痛饮",
+        "examples": [
+          {
+            "sentence": "The midnight quaff of watermelon juice revived the gamers.",
+            "sentence_zh": "深夜痛饮西瓜汁让游戏玩家恢复活力。"
+          },
+          {
+            "sentence": "Their post-exam quaff turned into a karaoke marathon.",
+            "sentence_zh": "他们考后的痛饮活动变成了通宵卡拉OK。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quaff down",
+        "meaning": "一口气喝完",
+        "examples": [
+          {
+            "sentence": "He quaffed down the herbal medicine with a grimace.",
+            "sentence_zh": "他皱着眉头一口气灌下中药。"
+          }
+        ]
+      }
+    ],
+    "teach": "quaff是酒鬼界的奥运会动作🏅！想象维京人用牛角杯吨吨吨喝蜜酒🍺，或是《西游记》里猪八戒喝人参果汤🐷，这就是quaff的精髓！说'豪饮'可以用knock back（像击倒啤酒瓶），'小酌'则是sip like a cat🐱。记住：quaff时记得擦嘴，别像胡子沾奶油的圣诞老人🎅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸父'→像夸父追日般狂饮",
+        "易混词对比：sip(小口啜饮) vs quaff(牛饮)"
+      ]
+    }
+  },
+  {
+    "word": "quagmire",
+    "etymology": {
+      "breakdown": [
+        "quag",
+        "mire"
+      ],
+      "meaning_connection": "古英语quag=摇晃的沼泽 + mire=泥沼→字面意义'会摇晃的泥潭'，引申为难以脱身的困境"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "沼泽地",
+        "examples": [
+          {
+            "sentence": "The military tanks got stuck in the quagmire during the rainy season.",
+            "sentence_zh": "雨季时军用坦克陷进了沼泽地。"
+          },
+          {
+            "sentence": "Ecologists found a rare frog species in this peat quagmire.",
+            "sentence_zh": "生态学家在这片泥炭沼泽发现了稀有蛙种。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "困境",
+        "examples": [
+          {
+            "sentence": "The startup fell into a financial quagmire after the investor withdrew.",
+            "sentence_zh": "投资人撤资后这家初创公司陷入了财务困境。"
+          },
+          {
+            "sentence": "His plagiarism scandal created a PR quagmire for the university.",
+            "sentence_zh": "他的剽窃丑闻让大学陷入了公关泥潭。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political quagmire",
+        "meaning": "政治困局",
+        "examples": [
+          {
+            "sentence": "The healthcare reform has become a political quagmire.",
+            "sentence_zh": "医疗改革已演变成政治困局。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quagmire of debt",
+        "meaning": "债务泥潭",
+        "examples": [
+          {
+            "sentence": "Many graduates are trapped in the quagmire of student loans.",
+            "sentence_zh": "许多毕业生深陷学生贷款的债务泥潭。"
+          }
+        ]
+      }
+    ],
+    "teach": "quagmire是'绝望沼泽'💀：想象《指环王》的死亡沼泽🌫️+《动物森友会》陷在泥坑里拔不出腿的窘境🎮。'陷入困境'说stuck in a quagmire就像微信运动步数卡在99步🚶，'经济泥潭'叫economic quagmire堪比双十一剁手后的钱包👛。记住：遇到quagmire时，要像沼泽逃生专家那样甩掉泥巴💪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快哥卖儿'→快哥卖儿换钱陷入道德泥潭",
+        "易混词：swamp(静态沼泽) vs quagmire(会晃动的危险泥潭)",
+        "联想：QQ表情包'我太难了'+沼泽emoji"
+      ]
+    }
+  },
+  {
+    "word": "quail",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'quaille'，拟声词模拟鹌鹑叫声，后引申出'畏缩'之意"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "鹌鹑",
+        "examples": [
+          {
+            "sentence": "The roasted quail eggs in Chinese hotpot taste like little flavor bombs.",
+            "sentence_zh": "火锅里的烤鹌鹑蛋像迷你风味炸弹。"
+          },
+          {
+            "sentence": "Quails are the only birds mentioned in the Bible that God directly provided as food.",
+            "sentence_zh": "鹌鹑是圣经中唯一被记载由上帝直接赐予作食物的鸟类。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "胆怯",
+        "examples": [
+          {
+            "sentence": "The intern quailed when the CEO asked about the missing report.",
+            "sentence_zh": "当CEO问起丢失的报告时，实习生畏缩了。"
+          },
+          {
+            "sentence": "No student quailed at the sight of exam papers after drinking Wanglaoji herbal tea.",
+            "sentence_zh": "喝完王老吉凉茶后，没有学生看到试卷就胆怯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "畏缩",
+        "examples": [
+          {
+            "sentence": "The kitten quailed before the neighbor's Tibetan Mastiff.",
+            "sentence_zh": "小猫在邻居的藏獒面前畏缩不前。"
+          },
+          {
+            "sentence": "He never quails from speaking truth to power, even in WeChat group chats.",
+            "sentence_zh": "即便在微信群聊里，他也从不畏惧向权威说真话。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quail at",
+        "meaning": "因...而退缩",
+        "examples": [
+          {
+            "sentence": "Many quail at the prospect of giving a speech in English.",
+            "sentence_zh": "许多人想到要用英语演讲就发怵。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quail before",
+        "meaning": "在...面前畏缩",
+        "examples": [
+          {
+            "sentence": "The fraudsters quailed before the blockchain evidence.",
+            "sentence_zh": "诈骗分子在区块链证据面前畏缩了。"
+          }
+        ]
+      }
+    ],
+    "teach": "quail是动物界的表情包担当🐦！当鹌鹑遇到危险时会缩成毛球（像微信'害怕'表情😨），这完美解释了它'畏缩'的含义。在《圣经》故事中，上帝用鹌鹑雨喂饱以色列人🌧️🍗；如今我们说'怂了'可以用quail like a little bird。记住：quail作动词时自带'弱小可怜又无助'的BGM！",
+    "recite": {
+      "tips": [
+        "谐音梗：'溃呦'→溃败时发出'呦'的鹌鹑叫",
+        "易混词：quail(畏缩) vs qualm(不安)",
+        "记忆tip：想象微信里[发抖]表情就是quail的emoji版"
+      ]
+    }
+  },
+  {
+    "word": "quaint",
+    "etymology": {
+      "breakdown": [
+        "quaint"
+      ],
+      "meaning_connection": "源自古法语'cointe'(优雅的)，与拉丁语'cognitus'(知晓的)相关，原指'巧妙设计的'，后演变为'古雅奇特'的混合含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "古雅的",
+        "examples": [
+          {
+            "sentence": "The quaint teahouse with mahjong tables attracted foreign tourists.",
+            "sentence_zh": "这家摆着麻将桌的古雅茶馆吸引了外国游客。"
+          },
+          {
+            "sentence": "Her quaint habit of collecting vintage postcards charmed everyone.",
+            "sentence_zh": "她收集老式明信片的古雅习惯令众人着迷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "离奇有趣的",
+        "examples": [
+          {
+            "sentence": "The museum displayed a quaint device that claimed to predict earthquakes with turtles.",
+            "sentence_zh": "博物馆展出了一个用乌龟预测地震的离奇装置。"
+          },
+          {
+            "sentence": "His quaint theory about pandas being ancient aliens made us giggle.",
+            "sentence_zh": "他关于熊猫是古代外星人的离奇理论让我们发笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "奇怪的",
+        "examples": [
+          {
+            "sentence": "We found a quaint little door hidden behind the KFC menu board.",
+            "sentence_zh": "我们在肯德基菜单牌后面发现了一扇奇怪的小门。"
+          },
+          {
+            "sentence": "The old man had a quaint way of speaking with rhyming couplets.",
+            "sentence_zh": "老人用押韵对句说话的奇怪方式令人难忘。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quaint old",
+        "meaning": "古色古香的",
+        "examples": [
+          {
+            "sentence": "Beijing hutongs are full of quaint old courtyard houses.",
+            "sentence_zh": "北京胡同里满是古色古香的四合院。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quaintly charming",
+        "meaning": "奇异迷人的",
+        "examples": [
+          {
+            "sentence": "The robot waiter serving dumplings was quaintly charming.",
+            "sentence_zh": "那个端饺子的机器人服务员有种奇异魅力。"
+          }
+        ]
+      }
+    ],
+    "teach": "quaint是'古董店里的外星人'👽🏮！既像苏州园林的漏窗（古雅），又像《山海经》里的异兽（离奇），还像用算盘打电竞的爷爷（奇怪）。说'过时但可爱'用old-fashioned but quaint，夸文创产品说delightfully quaint🍵。记住：当你说'这很quaint'时，可能是在夸它有趣，也可能在委婉说它奇葩！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快摁它'→看到quaint的东西快摁快门",
+        "对比记忆：weird纯粹负面，quaint带欣赏意味",
+        "联想：Q版(Q)+古董(ant)=quaint"
+      ]
+    }
   }
 ]

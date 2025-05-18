@@ -807,5 +807,257 @@
         "易混词对比：packet(普通小包) vs sachet(精致香袋)"
       ]
     }
+  },
+  {
+    "word": "sack",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语saccus（袋子），经古法语进入英语，原指粗糙的布袋，后衍生出'掠夺'义（因掠夺时用袋子装战利品）。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "麻布袋",
+        "examples": [
+          {
+            "sentence": "The farmer filled the sack with potatoes like stuffing a giant dumpling.",
+            "sentence_zh": "农民往麻袋里装土豆，像在包巨型饺子。"
+          },
+          {
+            "sentence": "This vintage sack was originally used for transporting rice in the 1930s.",
+            "sentence_zh": "这个复古麻袋最初用于1930年代运输大米。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗劫",
+        "examples": [
+          {
+            "sentence": "The sack of Constantinople left the city in ruins for decades.",
+            "sentence_zh": "对君士坦丁堡的洗劫使该城荒废数十年。"
+          },
+          {
+            "sentence": "Historians compared the event to the sack of Rome by the Vikings.",
+            "sentence_zh": "历史学家将此事比作维京人对罗马的洗劫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把...装入袋",
+        "examples": [
+          {
+            "sentence": "Workers were sacking coal under the supervisor's watchful eye.",
+            "sentence_zh": "工人们在监工注视下将煤炭装袋。"
+          },
+          {
+            "sentence": "She sacked the autumn harvest with practiced efficiency.",
+            "sentence_zh": "她以熟练的动作将秋收作物装袋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "洗劫",
+        "examples": [
+          {
+            "sentence": "The invaders sacked the village, leaving not a single chicken behind.",
+            "sentence_zh": "入侵者洗劫村庄，连一只鸡都没留下。"
+          },
+          {
+            "sentence": "Pirates famously sacked trading ships along this coastline.",
+            "sentence_zh": "海盗曾在这条海岸线臭名昭著地洗劫商船。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hit the sack",
+        "meaning": "睡觉",
+        "examples": [
+          {
+            "sentence": "After binge-watching three dramas, I finally hit the sack at 3am.",
+            "sentence_zh": "刷完三部剧后，我凌晨三点才睡。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "get the sack",
+        "meaning": "被解雇",
+        "examples": [
+          {
+            "sentence": "He got the sack for using company time to farm in Genshin Impact.",
+            "sentence_zh": "他因用上班时间玩原神刷素材被开除。"
+          }
+        ]
+      }
+    ],
+    "teach": "sack是个'袋里袋气'的单词🛍️！古罗马士兵领工资用盐袋(salarium→salary)，而强盗用麻袋装战利品→衍生出'洗劫'义。现代人说hit the sack（躺平💤）比古人幸福多了——至少不用真睡麻袋上！'被炒鱿鱼'叫get the sack，因为过去工人被开除时要收拾工具袋离开。'抢购'叫sack the sale，简直是对商场的温柔洗劫💰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞壳'→往麻袋里塞坚果壳",
+        "易混词对比：sack(粗布大袋) vs pouch(小精致袋)",
+        "记忆口诀：装袋洗劫都是sack，区别只看宾语在不在（装袋：sack sth；洗劫：sack someplace）"
+      ]
+    }
+  },
+  {
+    "word": "sackcloth",
+    "etymology": {
+      "breakdown": [
+        "sack",
+        "cloth"
+      ],
+      "meaning_connection": "sack=袋子（古英语sacc），cloth=布料→最初指制作袋子的粗麻布，后引申为苦修者所穿粗布衣"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "制袋用粗麻布",
+        "examples": [
+          {
+            "sentence": "Farmers in the 19th century used sackcloth to store potatoes.",
+            "sentence_zh": "19世纪农民用粗麻布口袋储存土豆。"
+          },
+          {
+            "sentence": "The rough texture of sackcloth left marks on my hands.",
+            "sentence_zh": "粗麻布的粗糙纹理在我手上留下了印痕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "苦修粗布衣",
+        "examples": [
+          {
+            "sentence": "Biblical prophets often wore sackcloth and ashes.",
+            "sentence_zh": "圣经中的先知常披麻蒙灰。"
+          },
+          {
+            "sentence": "The monk's sackcloth robe looked like a potato sack with sleeves.",
+            "sentence_zh": "僧侣的苦修袍像带袖子的土豆麻袋。"
+          }
+        ]
+      }
+    ],
+    "teach": "sackcloth是史上最早的'乞丐风'穿搭🧵！中世纪人穿它忏悔时像移动的咖啡麻袋☕，现代hipster穿破洞牛仔裤还得管它叫祖宗。搭配圣经梗'wear sackcloth and ashes'表示深刻忏悔，说'衣服糙'可以用rough as sackcloth。记住：这布料糙得能给你的灵魂去角质！✝️🧺🤲",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞壳cloth'→往麻袋塞贝壳般粗糙",
+        "易混词：canvas（帆布）更光滑，burlap（黄麻布）更细密"
+      ]
+    }
+  },
+  {
+    "word": "sackful",
+    "etymology": {
+      "breakdown": [
+        "sack",
+        "ful"
+      ],
+      "meaning_connection": "sack=袋子，-ful=充满...的→装满的袋子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "满袋",
+        "examples": [
+          {
+            "sentence": "The farmer carried a sackful of potatoes on his back like Santa's gift bag.",
+            "sentence_zh": "农民背着一满袋土豆，活像圣诞老人的礼物袋。"
+          },
+          {
+            "sentence": "She dumped a sackful of Legos on the floor, creating instant chaos.",
+            "sentence_zh": "她把一满袋乐高倒在地板上，瞬间制造出混乱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "多量",
+        "examples": [
+          {
+            "sentence": "The influencer received a sackful of fan letters after going viral.",
+            "sentence_zh": "网红走红后收到了大量的粉丝来信。"
+          },
+          {
+            "sentence": "Grandma always gives us a sackful of homemade dumplings.",
+            "sentence_zh": "奶奶总会给我们包大量的手工饺子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "a sackful of",
+        "meaning": "大量的...",
+        "examples": [
+          {
+            "sentence": "He collected a sackful of memes to use in his presentation.",
+            "sentence_zh": "他收集了大量梗图用在演讲中。"
+          }
+        ]
+      }
+    ],
+    "teach": "sackful是'袋量单位'🛍️！想象春运民工扛的蛇皮袋🎒装满了年货→那就是a sackful of love。说'大量工作'不用a lot of work，地道说法是a sackful of tasks（一袋子任务）💼。搭配：'赚得盆满钵满'叫earn a sackful of money，'收大量投诉'是get a sackful of complaints📦",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞口腐'→塞满口袋的腐竹(量多)",
+        "易混词对比：sackful(具体袋装量) vs. abundant(抽象充裕)",
+        "记忆tip：把-ful想象成袋子鼓起来的形状🔵"
+      ]
+    }
+  },
+  {
+    "word": "sacking",
+    "etymology": {
+      "breakdown": [
+        "sack",
+        "ing"
+      ],
+      "meaning_connection": "sack=麻袋，-ing表材料性质→用于制作麻袋的粗布"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "袋布",
+        "examples": [
+          {
+            "sentence": "The farmer repaired his potato sacks with durable sacking.",
+            "sentence_zh": "农夫用结实的袋布修补土豆麻袋。"
+          },
+          {
+            "sentence": "This eco-friendly shopping bag is made of recycled coffee bean sacking.",
+            "sentence_zh": "这款环保购物袋由回收的咖啡豆袋布制成。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "麻袋布",
+        "examples": [
+          {
+            "sentence": "The rough sacking left marks on the mover's shoulders.",
+            "sentence_zh": "粗糙的麻袋布在搬运工肩膀上留下勒痕。"
+          },
+          {
+            "sentence": "During WWII, sacking was used to make camouflage nets.",
+            "sentence_zh": "二战期间麻袋布曾被用来制作伪装网。"
+          }
+        ]
+      }
+    ],
+    "teach": "sacking其实是'社畜战袍'👔💼：中世纪工人用麻袋布(sack)做工作服，现代程序员用麻袋装加班睡的枕头🛏️。要说'粗制滥造'可吐槽sackcloth and ashes（字面是麻布和灰），'解雇'叫get the sack源于老板把工具塞麻袋赶人走🗑️。记住：你的sacking质量决定你能扛多少班！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛克ing'→袋布在比赛中克敌",
+        "易混词对比：sacking（材料） vs. sack（容器）"
+      ]
+    }
   }
 ]

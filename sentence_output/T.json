@@ -865,5 +865,309 @@
         "文化梗：'杯具'（悲剧）和餐具（惨剧）的网络流行语组合"
       ]
     }
+  },
+  {
+    "word": "tabloid",
+    "etymology": {
+      "breakdown": [
+        "tabl",
+        "oid"
+      ],
+      "meaning_connection": "词根tabl=平板（源自tablet药片），-oid表'类似'→最初指压缩药片，后引申为'浓缩信息的小报'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小报",
+        "examples": [
+          {
+            "sentence": "The tabloid claimed aliens were dining at a hotpot restaurant in Chongqing.",
+            "sentence_zh": "小报声称外星人正在重庆某火锅店用餐。"
+          },
+          {
+            "sentence": "Celebrity breakups always dominate tabloid headlines.",
+            "sentence_zh": "明星分手总是占据小报头条。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小型画报",
+        "examples": [
+          {
+            "sentence": "Aviation tabloids often feature stunning aerial photos of the Himalayas.",
+            "sentence_zh": "航空画报常刊登喜马拉雅山脉的震撼航拍图。"
+          },
+          {
+            "sentence": "This antique tabloid documented Shanghai's 1930s fashion trends.",
+            "sentence_zh": "这本古董画报记录了1930年代上海时尚潮流。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "药片",
+        "examples": [
+          {
+            "sentence": "The doctor prescribed white tabloids shaped like mini steamed buns.",
+            "sentence_zh": "医生开了形似小笼包的白色药片。"
+          },
+          {
+            "sentence": "Ancient tabloids made from herbs were discovered in the Mawangdui tombs.",
+            "sentence_zh": "马王堆汉墓出土了草本制成的古代药片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "文摘",
+        "examples": [
+          {
+            "sentence": "Readers' Digest is the most famous tabloid in the publishing industry.",
+            "sentence_zh": "《读者文摘》是出版业最著名的文摘刊物。"
+          },
+          {
+            "sentence": "This AI-generated tabloid summarizes trending Weibo topics every hour.",
+            "sentence_zh": "这份AI生成的文摘每小时汇总微博热搜话题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "轰动性的",
+        "examples": [
+          {
+            "sentence": "The tabloid report about pandas opening a bubble tea shop went viral.",
+            "sentence_zh": "关于熊猫开奶茶店的轰动报道迅速走红。"
+          },
+          {
+            "sentence": "His tabloid confession shocked the entire entertainment industry.",
+            "sentence_zh": "他耸人听闻的告白震惊了整个娱乐圈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "扼要的",
+        "examples": [
+          {
+            "sentence": "The tabloid version of the government work report fits on a napkin.",
+            "sentence_zh": "政府工作报告的扼要版能写在餐巾纸上。"
+          },
+          {
+            "sentence": "She gave a tabloid introduction to Confucianism using just three emojis.",
+            "sentence_zh": "她用三个表情符号就完成了儒家思想的精要介绍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tabloid journalism",
+        "meaning": "小报新闻",
+        "examples": [
+          {
+            "sentence": "Tabloid journalism thrives on celebrity scandals and UFO sightings.",
+            "sentence_zh": "小报新闻靠明星绯闻和UFO目击事件蓬勃发展。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in tabloid form",
+        "meaning": "以简略形式",
+        "examples": [
+          {
+            "sentence": "The professor explained quantum physics in tabloid form using crayon drawings.",
+            "sentence_zh": "教授用蜡笔画以简略形式解释量子物理。"
+          }
+        ]
+      }
+    ],
+    "teach": "tabloid本质是信息压缩包🗞️！就像把《红楼梦》压成一颗'文学药片'💊（原意），或把八卦新闻塞进电梯广告屏📱（现代意）。英国《太阳报》靠第三版裸模提升销量👙，而中文'地摊文学'堪称tabloid的麻辣烫版🌶️。'震惊体'叫clickbait（点击诱饵），'吃瓜'说gossip grazing像羊啃瓜田🍉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太不老实的'→小报消息太不老实",
+        "对比记忆：broadsheet（严肃大报）vs tabloid",
+        "联想：tablet（平板）去掉t变成'tabloid'（压缩版）"
+      ]
+    }
+  },
+  {
+    "word": "taboo",
+    "etymology": {
+      "breakdown": [
+        "ta",
+        "boo"
+      ],
+      "meaning_connection": "来自波利尼西亚语tapu（神圣不可触），18世纪被库克船长引入英语。boo在英语中有'嘘声'之意，巧合地强化了'禁止'概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "禁忌",
+        "examples": [
+          {
+            "sentence": "Eating pork is a taboo in some religions.",
+            "sentence_zh": "食用猪肉在某些宗教中是禁忌。"
+          },
+          {
+            "sentence": "The word 'death' became a taboo during Chinese New Year.",
+            "sentence_zh": "'死'字在春节期间成了禁忌语。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "禁止接近",
+        "examples": [
+          {
+            "sentence": "The sacred mountain is taboo for women in their tradition.",
+            "sentence_zh": "在他们的传统中，这座圣山禁止女性接近。"
+          },
+          {
+            "sentence": "The CEO's private elevator is taboo for regular employees.",
+            "sentence_zh": "普通员工禁止使用CEO的专用电梯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "禁忌的",
+        "examples": [
+          {
+            "sentence": "In China, giving clocks as gifts is considered taboo.",
+            "sentence_zh": "在中国，送钟作礼物被视为禁忌。"
+          },
+          {
+            "sentence": "The documentary explores taboo topics in conservative societies.",
+            "sentence_zh": "这部纪录片探讨保守社会中的禁忌话题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "禁止",
+        "examples": [
+          {
+            "sentence": "The school taboos chewing gum in classrooms.",
+            "sentence_zh": "该校禁止在教室嚼口香糖。"
+          },
+          {
+            "sentence": "Many cultures taboo whistling at night due to superstitions.",
+            "sentence_zh": "许多文化因迷信禁止夜间吹口哨。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "break the taboo",
+        "meaning": "打破禁忌",
+        "examples": [
+          {
+            "sentence": "The film broke the taboo on discussing mental health in Asia.",
+            "sentence_zh": "这部电影打破了亚洲讨论心理健康的禁忌。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "taboo subject",
+        "meaning": "禁忌话题",
+        "examples": [
+          {
+            "sentence": "Salary is often a taboo subject among Chinese colleagues.",
+            "sentence_zh": "工资常是中国同事间的禁忌话题。"
+          }
+        ]
+      }
+    ],
+    "teach": "taboo就像语言界的红灯区🚦！源自南太平洋岛民用tapu标记圣地（比如夏威夷的'禁止进入'标志牌🚧）。现代用法中，'禁忌话题'叫elephant in the room（房间里的大象🐘）。搭配break the taboo像撕开保鲜膜💥，说'这事很敏感'可以用It's a gray area（灰色地带）。记住：每个文化都有不能碰的taboo，就像四川火锅里的隐藏辣度🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'他不'→他不(taboo)敢碰这个",
+        "易混词对比：ban（官方明令禁止） vs taboo（文化隐性禁忌）",
+        "记忆口诀：TABOO=Totally Avoid Because Of Omen（因不祥而彻底避开）"
+      ]
+    }
+  },
+  {
+    "word": "tabular",
+    "etymology": {
+      "breakdown": [
+        "tabula",
+        "ar"
+      ],
+      "meaning_connection": "源自拉丁语tabula（平板/表格），后缀-ar表形容词→原指'像平板一样的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "制成表的",
+        "examples": [
+          {
+            "sentence": "The research data was presented in tabular form with emoji frequency statistics.",
+            "sentence_zh": "研究数据以表格形式呈现，包含表情符号使用频率统计。"
+          },
+          {
+            "sentence": "His WeChat expenses were neatly organized in tabular records.",
+            "sentence_zh": "他的微信消费被整齐地整理成表格记录。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "扁平的",
+        "examples": [
+          {
+            "sentence": "The tabular screen of Huawei MatePad makes it perfect for reading comics.",
+            "sentence_zh": "华为MatePad的扁平屏幕非常适合看漫画。"
+          },
+          {
+            "sentence": "Ancient Chinese bronze mirrors had surprisingly tabular surfaces.",
+            "sentence_zh": "中国古代铜镜有着惊人的平坦镜面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "表格式的",
+        "examples": [
+          {
+            "sentence": "Bilibili's bullet chat statistics are displayed in tabular layouts.",
+            "sentence_zh": "B站的弹幕统计数据以表格式布局呈现。"
+          },
+          {
+            "sentence": "The Douban movie rating system uses tabular comparison charts.",
+            "sentence_zh": "豆瓣电影评分系统采用表格式对比图。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "平坦的",
+        "examples": [
+          {
+            "sentence": "The tabular mountaintop in Zhangjiajie looks like a giant's dining table.",
+            "sentence_zh": "张家界的平顶山看起来像巨人的餐桌。"
+          },
+          {
+            "sentence": "Farmers grow tea on the tabular terraces of Yunnan.",
+            "sentence_zh": "农民们在云南平坦的梯田上种植茶叶。"
+          }
+        ]
+      }
+    ],
+    "teach": "tabular是Excel党的圣经📊！想象古罗马人在蜡板(tabula)记账的样子🕯️，现代人用表格(tabular data)记录奶茶消费🧋。说'数据可视化'用present in tabular form，'平板设备'叫tabular device。记住：看到任何平坦的东西——从华为平板到河南平原🌄——都可以用tabular形容！",
+    "recite": {
+      "tips": [
+        "谐音梗：'他不乐'→看到表格(tabular)数据他不乐",
+        "易混词对比：tablet（平板电脑）是具体物品，tabular（扁平的）是形容词",
+        "记忆术：TAB+ULAR→把TAB(标签页)拉(ULAR)成表格"
+      ]
+    }
   }
 ]

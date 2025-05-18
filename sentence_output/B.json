@@ -729,5 +729,294 @@
         "联想：bac-开头联想到back（背部），想象细菌扛着小棍子"
       ]
     }
+  },
+  {
+    "word": "back",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语bæc，表示'背部'或'后方'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "后面的",
+        "examples": [
+          {
+            "sentence": "The back row of the cinema is perfect for secret popcorn sharing.",
+            "sentence_zh": "电影院后排最适合偷偷分享爆米花。"
+          },
+          {
+            "sentence": "Their back garden has a panda-shaped topiary.",
+            "sentence_zh": "他们家后花园有个熊猫造型的灌木丛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使后退",
+        "examples": [
+          {
+            "sentence": "She backed her electric scooter into a bubble tea stand.",
+            "sentence_zh": "她倒电动滑板车时撞上了奶茶摊。"
+          },
+          {
+            "sentence": "The AI robot can back its wheels automatically.",
+            "sentence_zh": "这款AI机器人能自动倒轮子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "支持",
+        "examples": [
+          {
+            "sentence": "Bilibili backed the new anime with 100 million yuan funding.",
+            "sentence_zh": "哔哩哔哩用1亿元资金支持这部新动漫。"
+          },
+          {
+            "sentence": "He backed my spicy hotpot challenge with free milk tea.",
+            "sentence_zh": "他用免费奶茶支持我参加麻辣火锅挑战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "倒退",
+        "examples": [
+          {
+            "sentence": "The delivery robot backed away from the angry cat.",
+            "sentence_zh": "送货机器人从愤怒的猫咪面前倒退着离开。"
+          },
+          {
+            "sentence": "My autonomous car backed smoothly into the parking space.",
+            "sentence_zh": "我的自动驾驶汽车流畅地倒进停车位。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "背靠",
+        "examples": [
+          {
+            "sentence": "The panda backed against the bamboo tree while eating.",
+            "sentence_zh": "熊猫吃竹子时背靠着竹树。"
+          },
+          {
+            "sentence": "We backed against the Great Wall for a group photo.",
+            "sentence_zh": "我们背靠长城拍集体照。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "向后地",
+        "examples": [
+          {
+            "sentence": "He fell back into the pile of plush toys.",
+            "sentence_zh": "他向后倒进了毛绒玩具堆里。"
+          },
+          {
+            "sentence": "The moonwalk makes you glide back magically.",
+            "sentence_zh": "太空步能让你神奇地向后滑行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "背部",
+        "examples": [
+          {
+            "sentence": "My back aches after carrying 20 milk tea orders at once.",
+            "sentence_zh": "一次性背20单奶茶后我背部酸痛。"
+          },
+          {
+            "sentence": "The massage robot has special settings for gamers' backs.",
+            "sentence_zh": "这款按摩机器人有针对游戏玩家背部的特别设置。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "后面",
+        "examples": [
+          {
+            "sentence": "The QR code at the back of the shared bike is scratched.",
+            "sentence_zh": "共享单车后面的二维码被刮花了。"
+          },
+          {
+            "sentence": "Check the back of your smartphone for the serial number.",
+            "sentence_zh": "查看你智能手机背面找序列号。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "back up",
+        "meaning": "备份",
+        "examples": [
+          {
+            "sentence": "Remember to back up your WeChat chat history before changing phones.",
+            "sentence_zh": "换手机前记得备份微信聊天记录。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "back down",
+        "meaning": "让步",
+        "examples": [
+          {
+            "sentence": "The livestream host wouldn't back down from the spicy noodle challenge.",
+            "sentence_zh": "主播绝不从辣面挑战中让步。"
+          }
+        ]
+      }
+    ],
+    "teach": "back就像你的多功能充电宝🔋！作名词时是你背外卖的'背'（my back hurts），作动词时既能'倒车'（back the car）又能'撑腰'（back you up）。最绝的是'back up'既指'备份手机数据'📱，又指'倒车请注意'🚗。记住：当有人说'I've got your back'，不是要给你搓背，是说'我挺你'💪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白客'→《武林外传》白展堂轻功倒退(back)最在行",
+        "易混词对比：back（背部）vs pack（背包）",
+        "记忆tip：所有含义都围绕'后方'概念展开"
+      ]
+    }
+  },
+  {
+    "word": "backbone",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "bone"
+      ],
+      "meaning_connection": "字面组合'背部+骨头'，既指生理脊椎又象征核心支撑"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "脊椎",
+        "examples": [
+          {
+            "sentence": "Pandas' thick backbone helps them climb trees effortlessly.",
+            "sentence_zh": "熊猫粗壮的脊椎让它们能轻松爬树。"
+          },
+          {
+            "sentence": "The dinosaur fossils show an exceptionally long backbone.",
+            "sentence_zh": "恐龙化石显示出异常长的脊椎骨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "志气",
+        "examples": [
+          {
+            "sentence": "The marathon runner showed real backbone after spraining his ankle.",
+            "sentence_zh": "这位马拉松选手脚踝扭伤后仍展现出非凡志气。"
+          },
+          {
+            "sentence": "It takes backbone to stand up to internet trolls.",
+            "sentence_zh": "面对网络喷子需要骨气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "骨干",
+        "examples": [
+          {
+            "sentence": "Baidu's AI team is the backbone of their autonomous driving project.",
+            "sentence_zh": "百度AI团队是他们自动驾驶项目的骨干力量。"
+          },
+          {
+            "sentence": "These veteran teachers are the backbone of our school.",
+            "sentence_zh": "这些资深教师是我们学校的顶梁柱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "支柱",
+        "examples": [
+          {
+            "sentence": "The Great Wall was the backbone of ancient China's defense system.",
+            "sentence_zh": "长城是古代中国防御体系的支柱。"
+          },
+          {
+            "sentence": "Small businesses are the backbone of the local economy.",
+            "sentence_zh": "小微企业是当地经济的支柱。"
+          }
+        ]
+      }
+    ],
+    "teach": "backbone是人体和社会的'钢龙骨'🏗️！古人认为脊椎是勇气所在（所以有'show backbone'说法），现代网络主干线就像数字世界的脊柱💻。说'核心力量'可用spinal strength（原指脊椎力量），'中流砥柱'叫pillar of strength。记住：没backbone的人就像煮烂的面条🍜，有backbone的团队像钢筋水泥大厦🏢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'摆个棒'→脊椎像根摆好的棒子",
+        "易混词：backbone(核心支撑) vs. background(背景)",
+        "联想：骨干员工→人体骨架→建筑承重墙"
+      ]
+    }
+  },
+  {
+    "word": "backdate",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "date"
+      ],
+      "meaning_connection": "back表示'向后'，date表示'日期'→字面意思为'把日期往后写'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "写上比实际早的日期",
+        "examples": [
+          {
+            "sentence": "The lazy accountant tried to backdate the invoice to avoid penalties.",
+            "sentence_zh": "懒惰的会计试图在发票上倒签日期以逃避罚款。"
+          },
+          {
+            "sentence": "Backdating your diary entries won't make you younger, Hermione.",
+            "sentence_zh": "赫敏，在日记上倒填日期并不会让你变年轻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "回溯",
+        "examples": [
+          {
+            "sentence": "The new policy will backdate benefits to January 1st.",
+            "sentence_zh": "新政策将使福利待遇追溯到1月1日。"
+          },
+          {
+            "sentence": "Their love story actually backdates to kindergarten sandbox fights.",
+            "sentence_zh": "他们的爱情故事其实要追溯到幼儿园沙盘打架时期。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backdate to",
+        "meaning": "追溯到",
+        "examples": [
+          {
+            "sentence": "The contract backdates to the Qing Dynasty.",
+            "sentence_zh": "这份合同可追溯至清朝。"
+          }
+        ]
+      }
+    ],
+    "teach": "backdate是个时间刺客⏳！就像把昨天的火锅收据写成上周的（for报销）🍲，或是声称你们十年前就认识（for装青梅竹马）🎎。职场黑话叫'调整时间线'，但HR眼里这就是'伪造证据'🚨。记住：除了生日愿望（'我永远18岁'🎂），其他backdate都可能犯法！",
+    "recite": {
+      "tips": [
+        "谐音梗：'贝壳date'→贝壳化石上的日期都是backdate",
+        "易混词：backdate vs deadline（前者改日期，后者死线）"
+      ]
+    }
   }
 ]
