@@ -1,0 +1,279 @@
+[
+  {
+    "word": "ha",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词，模拟笑声的发音"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "interj.",
+        "meaning": "嘿",
+        "examples": [
+          {
+            "sentence": "Ha! I finally solved this math problem after 3 hours!",
+            "sentence_zh": "嘿！我花了三小时终于解出这道数学题！"
+          },
+          {
+            "sentence": "Ha! You thought I'd forget your birthday?",
+            "sentence_zh": "嘿！你以为我会忘记你生日？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "interj.",
+        "meaning": "哈",
+        "examples": [
+          {
+            "sentence": "Ha! This meme is so relatable!",
+            "sentence_zh": "哈！这个梗太有共鸣了！"
+          },
+          {
+            "sentence": "Ha! I knew you'd eat the last dumpling!",
+            "sentence_zh": "哈！我就知道你会吃最后一个饺子！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "interj.",
+        "meaning": "哈哈",
+        "examples": [
+          {
+            "sentence": "Ha ha! Your imitation of our teacher is spot-on!",
+            "sentence_zh": "哈哈！你模仿老师简直一模一样！"
+          },
+          {
+            "sentence": "Ha ha! The cat just photobombed our selfie!",
+            "sentence_zh": "哈哈！猫猫刚刚乱入我们的自拍了！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ha ha",
+        "meaning": "哈哈（加强语气）",
+        "examples": [
+          {
+            "sentence": "Ha ha! Your dance moves look like a robot with low battery!",
+            "sentence_zh": "哈哈！你跳舞像电量不足的机器人！"
+          }
+        ]
+      }
+    ],
+    "teach": "ha是人类最古老的emoji😂！从石器时代'哈'的一声笑，到微信里发的'哈哈哈'，全人类都懂。要表达'笑死'可以说die laughing（真·笑死），'笑到肚子痛'是laugh one's head off（头都笑掉）🤣。记住：发ha时请配合拍桌动作，效果+100%！",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛤'→青蛙叫与笑声同源",
+        "文化梗：哈利波特的'Ha'开头，证明他是快乐男孩"
+      ]
+    }
+  },
+  {
+    "word": "haberdasher",
+    "etymology": {
+      "breakdown": [
+        "haber",
+        "dasher"
+      ],
+      "meaning_connection": "中古英语haber指'燕麦'（与haver同源），dasher可能来自中古荷兰语'assen'（箱子）→原指卖谷物的商人，后演变为卖小商品的杂货商"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "男子服饰经售商",
+        "examples": [
+          {
+            "sentence": "The haberdasher hand-stitched bow ties for James Bond movies.",
+            "sentence_zh": "这位服饰商曾为007电影手工缝制领结。"
+          },
+          {
+            "sentence": "My grandfather bought his first trilby hat from a Jewish haberdasher in Shanghai.",
+            "sentence_zh": "我祖父的第一顶软呢帽购自上海的一位犹太服饰商。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂货商人",
+        "examples": [
+          {
+            "sentence": "The village haberdasher sold everything from needles to licorice.",
+            "sentence_zh": "这位乡村杂货商从缝衣针到甘草糖什么都卖。"
+          },
+          {
+            "sentence": "In Dickens' novels, haberdashers often appear as comic relief characters.",
+            "sentence_zh": "狄更斯小说里的杂货商常作为搞笑角色出场。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "haberdasher's shop",
+        "meaning": "男子服饰店",
+        "examples": [
+          {
+            "sentence": "The Sherlock Holmes Museum still maintains a Victorian-style haberdasher's shop.",
+            "sentence_zh": "福尔摩斯博物馆仍保留着维多利亚风格的男子服饰店。"
+          }
+        ]
+      }
+    ],
+    "teach": "haberdasher是英伦绅士的百宝箱🎩！中世纪时他们真的卖燕麦（词源是haver=燕麦），后来转型成卖领带针线的杂货商🧵。要说'小商品市场'叫general merchandise store，但地道说法是five-and-dime（五毛店）💷。记住：想cosplay福尔摩斯？先去haberdasher's shop买猎鹿帽！🕵️♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨不搭讪'→杂货商很忙没空搭讪",
+        "易混词：haberdasher（服饰商） vs. habanero（哈瓦那辣椒）"
+      ]
+    }
+  },
+  {
+    "word": "haberdashery",
+    "etymology": {
+      "breakdown": [
+        "haberdash",
+        "ery"
+      ],
+      "meaning_connection": "中古英语haberdasher指小商贩，-ery表场所→最初指卖针线纽扣等小商品的店铺"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "男子服饰经售店",
+        "examples": [
+          {
+            "sentence": "The vintage haberdashery still sells silk ties from the 1920s.",
+            "sentence_zh": "这家复古男装店仍在出售1920年代的丝绸领带。"
+          },
+          {
+            "sentence": "He bought a pocket square at the haberdashery for his wedding.",
+            "sentence_zh": "他在男装店买了胸袋方巾准备婚礼用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂货商店",
+        "examples": [
+          {
+            "sentence": "Victorian haberdasheries sold everything from thimbles to tea leaves.",
+            "sentence_zh": "维多利亚时期的杂货店售卖从顶针到茶叶的各种商品。"
+          },
+          {
+            "sentence": "The haberdashery near the dock supplies sailors with odd necessities.",
+            "sentence_zh": "码头边的杂货店为水手提供各种奇怪必需品。"
+          }
+        ]
+      }
+    ],
+    "teach": "haberdashery是英伦绅士的百宝箱🧳：最初卖针线（像现代十元店💍），后来专营男士配饰（领带比女朋友还多👔）。搭配'高端定制'说bespoke haberdashery，'杂货堆'叫jumbled haberdashery。记住：这里不卖盐(salary)，但能买让你salty的时髦领结！🦋",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈伯带啥'→哈伯爷爷去haberdashery该带啥",
+        "易混词对比：haberdashery(小商品) vs. grocery(食品杂货)"
+      ]
+    }
+  },
+  {
+    "word": "habit",
+    "etymology": {
+      "breakdown": [
+        "hab",
+        "it"
+      ],
+      "meaning_connection": "词根hab=拥有/保持（拉丁语habere），-it为名词后缀→长期保持的行为模式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "习惯",
+        "examples": [
+          {
+            "sentence": "My habit of checking WeChat Moments right after waking up is hard to break.",
+            "sentence_zh": "我起床立刻刷朋友圈的习惯很难改掉。"
+          },
+          {
+            "sentence": "Drinking hot water is a uniquely Chinese habit that puzzles foreigners.",
+            "sentence_zh": "喝热水是老外看不懂的中国特色习惯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "嗜好",
+        "examples": [
+          {
+            "sentence": "His midnight snack habit makes him the best customer of Meituan delivery guys.",
+            "sentence_zh": "他的夜宵嗜好让他成为美团骑手的VIP客户。"
+          },
+          {
+            "sentence": "Collecting limited edition milk tea cups has become an expensive habit.",
+            "sentence_zh": "收藏限量版奶茶杯成了一种烧钱的嗜好。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "习性",
+        "examples": [
+          {
+            "sentence": "The sleeping habits of pandas inspired the design of lazy sofas.",
+            "sentence_zh": "熊猫的睡觉习性启发了懒人沙发设计。"
+          },
+          {
+            "sentence": "Cats' habit of knocking things off tables annoys and amuses netizens.",
+            "sentence_zh": "猫咪把东西推下桌的习性让网友又气又笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使穿衣",
+        "examples": [
+          {
+            "sentence": "The nun was habited in traditional black robes.",
+            "sentence_zh": "修女身着传统黑色长袍。"
+          },
+          {
+            "sentence": "In historical dramas, actors are carefully habited to match the era.",
+            "sentence_zh": "历史剧中演员的服饰都精心考究。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "force of habit",
+        "meaning": "习惯使然",
+        "examples": [
+          {
+            "sentence": "I automatically reached for my phone out of force of habit.",
+            "sentence_zh": "我习惯性伸手摸手机。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "kick the habit",
+        "meaning": "戒掉恶习",
+        "examples": [
+          {
+            "sentence": "He finally kicked the habit of biting nails after 20 years.",
+            "sentence_zh": "他终于在咬指甲20年后戒掉了这个习惯。"
+          }
+        ]
+      }
+    ],
+    "teach": "habit这个词就像你的手机屏幕使用时间📱——越重复越难改！修女服装叫habits因为要天天穿（就像打工人脱不下的格子衫👔）。说'养成习惯'用'form a habit'像养电子宠物🐣，'坏习惯'叫'bad habit'就像手机里的拼多多——明知该删却总留着😂 地道表达：'Old habits die hard'（江山易改本性难移）",
+    "recite": {
+      "tips": [
+        "谐音梗：'嘿比特'→比特币矿工的日常习惯",
+        "易混词对比：habit（个人习惯） vs custom（社会习俗）"
+      ]
+    }
+  }
+]

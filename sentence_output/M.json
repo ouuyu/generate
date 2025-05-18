@@ -1,0 +1,298 @@
+[
+  {
+    "word": "M",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "字母M源自腓尼基字母mem（水），在科学领域作为多种术语的缩写"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "[计] 尾数",
+        "examples": [
+          {
+            "sentence": "The floating-point number consists of sign, exponent and m.",
+            "sentence_zh": "浮点数由符号位、指数和尾数组成"
+          },
+          {
+            "sentence": "Check the m value when debugging the algorithm.",
+            "sentence_zh": "调试算法时请检查尾数值"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "媒体",
+        "examples": [
+          {
+            "sentence": "M stands for medium in CMYK printing.",
+            "sentence_zh": "在CMYK印刷中M代表品红色"
+          },
+          {
+            "sentence": "New m platforms emerge like Douyin and Xiaohongshu.",
+            "sentence_zh": "抖音小红书等新媒体平台不断涌现"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "兆",
+        "examples": [
+          {
+            "sentence": "5G networks operate in the mWave frequency band.",
+            "sentence_zh": "5G网络运行在兆赫频段"
+          },
+          {
+            "sentence": "My new SSD has 1m IOPS performance.",
+            "sentence_zh": "新固态硬盘有每秒百万次读写性能"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "M theory",
+        "meaning": "M理论（物理学）",
+        "examples": [
+          {
+            "sentence": "Stephen Hawking made contributions to M theory.",
+            "sentence_zh": "霍金对M理论做出重要贡献"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "M-shaped hairline",
+        "meaning": "M型发际线",
+        "examples": [
+          {
+            "sentence": "Many programmers develop M-shaped hairlines by age 30.",
+            "sentence_zh": "许多程序员30岁就出现M型发际线"
+          }
+        ]
+      }
+    ],
+    "teach": "字母M是全能冠军🏆！在数学是百万级💵（如Mbps），在化学是摩尔浓度🧪，在时尚界是麦当劳的黄金拱门🍟，程序员眼中变成内存大小💾。要说'海量数据'可以用mega-level（兆级），'中等难度'说moderate难度就像吃中辣火锅🌶️",
+    "recite": {
+      "tips": [
+        "视觉联想：麦当劳logo+M型发际线+内存条",
+        "易混词：M vs μ（微）vs m（毫）"
+      ]
+    }
+  },
+  {
+    "word": "mac",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "多种含义源自不同缩写和方言：1) 防水胶布源自'Mackintosh'（防水材料发明者） 2) 计算机术语为'Multiple Access Computer'缩写 3) 昵称来自苏格兰盖尔语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "防水胶布",
+        "examples": [
+          {
+            "sentence": "The hiker repaired his tent with a strip of mac.",
+            "sentence_zh": "徒步旅行者用防水胶布修补帐篷。"
+          },
+          {
+            "sentence": "Grandma keeps mac in her sewing kit for emergency fixes.",
+            "sentence_zh": "奶奶在针线包里常备防水胶布应急。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "雨衣（英式）",
+        "examples": [
+          {
+            "sentence": "Londoners always carry their macs in unpredictable weather.",
+            "sentence_zh": "伦敦人在变幻莫测的天气里总带着雨衣。"
+          },
+          {
+            "sentence": "The detective's beige mac became his signature look.",
+            "sentence_zh": "侦探的米色雨衣成了他的标志性装扮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "老兄/老弟（昵称）",
+        "examples": [
+          {
+            "sentence": "'Hey mac, you dropped your wallet!' shouted the street vendor.",
+            "sentence_zh": "'嘿老兄，你钱包掉了！'街头小贩喊道。"
+          },
+          {
+            "sentence": "In classic films, private eyes often call strangers 'mac'.",
+            "sentence_zh": "在老电影里，私家侦探常称呼陌生人为'老弟'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "苹果电脑",
+        "examples": [
+          {
+            "sentence": "Graphic designers swear by their Macs for creative work.",
+            "sentence_zh": "平面设计师创作时非苹果电脑不用。"
+          },
+          {
+            "sentence": "The new Mac crashed during my Zoom presentation.",
+            "sentence_zh": "新买的苹果电脑在我Zoom演示时死机了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "计算机宏指令",
+        "examples": [
+          {
+            "sentence": "He programmed a mac to automate spreadsheet tasks.",
+            "sentence_zh": "他编写了宏指令来自动化表格操作。"
+          },
+          {
+            "sentence": "Using macros can save hours of repetitive work.",
+            "sentence_zh": "使用宏能节省大量重复工作时间。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Mac user",
+        "meaning": "苹果电脑用户",
+        "examples": [
+          {
+            "sentence": "Mac users often tease Windows fans about blue screens.",
+            "sentence_zh": "苹果电脑用户常拿蓝屏梗调侃Windows粉丝。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "mac and cheese",
+        "meaning": "芝士通心粉（美式 comfort food）",
+        "examples": [
+          {
+            "sentence": "After the breakup, she survived on mac and cheese for a week.",
+            "sentence_zh": "失恋后她靠芝士通心粉撑了一周。"
+          }
+        ]
+      }
+    ],
+    "teach": "mac是个变形金刚🤖：在伦敦是防雨的绅士雨衣☔（'Keep your mac handy'），在纽约是亲昵的街头称呼👋（'Hey mac!'），在硅谷是咬了一口的苹果🍎（'I'm a Mac'），在程序员手里是自动化的魔法✨（'Run the macro'）。英国人甚至管雨衣叫macintosh，就像重庆人把什么交通工具都叫'车车'🚗！",
+    "recite": {
+      "tips": [
+        "谐音梗：'麦克'→麦克风套着防水套(mac)",
+        "易混词：Mac vs. Mack (卡车品牌)",
+        "联想：苹果logo被咬的缺口像雨衣(mac)的领口"
+      ]
+    }
+  },
+  {
+    "word": "macabre",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'Danse Macabre'（死亡之舞）→14世纪描绘骷髅引领活人走向坟墓的艺术主题"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "以死亡为主题的",
+        "examples": [
+          {
+            "sentence": "The Mexican Day of the Dead features macabre sugar skulls with colorful decorations.",
+            "sentence_zh": "墨西哥亡灵节特色是用鲜艳装饰的死亡主题糖骷髅。"
+          },
+          {
+            "sentence": "His collection of macabre poems explores afterlife imagery.",
+            "sentence_zh": "他的死亡主题诗集探索了死后世界的意象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可怕的",
+        "examples": [
+          {
+            "sentence": "The haunted house had a macabre atmosphere with fake blood stains.",
+            "sentence_zh": "鬼屋用假血营造出可怕的氛围。"
+          },
+          {
+            "sentence": "That viral challenge has a macabre twist involving cemeteries.",
+            "sentence_zh": "那个病毒式挑战有个涉及墓地的可怕转折。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "macabre humor",
+        "meaning": "黑色幽默",
+        "examples": [
+          {
+            "sentence": "His stand-up comedy combines macabre humor with social commentary.",
+            "sentence_zh": "他的单口喜剧将黑色幽默与社会评论结合。"
+          }
+        ]
+      }
+    ],
+    "teach": "macabre是高级版的'阴间滤镜'💀！源自中世纪画家描绘骷髅拽活人跳舞的'死亡之舞'题材🎨。说'阴间操作'可以用macabre tactics（比如半夜发工作通知👻），'死亡美学'叫macabre aesthetic就像万圣节装扮骷髅💀。记住：这词自带BGM《亡灵序曲》！",
+    "recite": {
+      "tips": [
+        "视觉联想：麦当劳(Mc)+阿拉伯(abre)→麦当当死亡套餐🍟💀",
+        "易混词对比：macabre(恐怖美学) vs. grotesque(怪异丑陋)"
+      ]
+    }
+  },
+  {
+    "word": "macadam",
+    "etymology": {
+      "breakdown": [
+        "macadam"
+      ],
+      "meaning_connection": "源自苏格兰工程师John McAdam的姓氏，他发明了碎石铺路法"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "碎石",
+        "examples": [
+          {
+            "sentence": "The construction site was piled high with macadam for the new highway.",
+            "sentence_zh": "工地上堆满了用于新建高速公路的碎石。"
+          },
+          {
+            "sentence": "Children love collecting colorful macadam for their rock collections.",
+            "sentence_zh": "孩子们喜欢收集五颜六色的碎石做矿石标本。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "碎石路",
+        "examples": [
+          {
+            "sentence": "The vintage car bounced along the macadam road in the countryside.",
+            "sentence_zh": "老爷车在乡间的碎石路上颠簸前行。"
+          },
+          {
+            "sentence": "Cycling on macadam requires special puncture-resistant tires.",
+            "sentence_zh": "在碎石路上骑行需要专门的防刺穿轮胎。"
+          }
+        ]
+      }
+    ],
+    "teach": "macadam其实是'麦咖啡路'☕️：苏格兰工程师John McAdam发明碎石铺路法时，肯定没想过自己名字会变成建材！这种路比水泥路透气💨，像运动鞋的网面设计👟。说'颠簸的路'可以叫bone shaker（骨头粉碎机），'平整路面'叫smooth as glass。记住：每条macadam路都在向这位工程师致敬！🛣️",
+    "recite": {
+      "tips": [
+        "谐音梗：'没卡蛋'→碎石路没卡住鸡蛋",
+        "易混词对比：asphalt（沥青）vs macadam（纯碎石）"
+      ]
+    }
+  }
+]

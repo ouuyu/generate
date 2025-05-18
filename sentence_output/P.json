@@ -1,0 +1,306 @@
+[
+  {
+    "word": "pace",
+    "etymology": {
+      "breakdown": [
+        "pac",
+        "e"
+      ],
+      "meaning_connection": "词根pac=步伐（同源词pedal脚踏板），-e为后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "速度",
+        "examples": [
+          {
+            "sentence": "The pace of high-speed rail development shocked the world.",
+            "sentence_zh": "高铁建设的速度震惊世界。"
+          },
+          {
+            "sentence": "TikTok videos match the pace of modern attention spans.",
+            "sentence_zh": "抖音视频契合现代人注意力的节奏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "步调",
+        "examples": [
+          {
+            "sentence": "Grandma maintains her own pace in square dancing.",
+            "sentence_zh": "奶奶跳广场舞保持着自己的步调。"
+          },
+          {
+            "sentence": "The team adjusted their pace to the new project timeline.",
+            "sentence_zh": "团队根据新项目时间表调整了步调。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "步法",
+        "examples": [
+          {
+            "sentence": "Peking Opera performers train for years to master complex paces.",
+            "sentence_zh": "京剧演员需经年训练才能掌握复杂步法。"
+          },
+          {
+            "sentence": "The lion's hunting pace was captured in slow motion.",
+            "sentence_zh": "狮子的捕猎步法被慢镜头记录下来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "踱步",
+        "examples": [
+          {
+            "sentence": "The panda paced anxiously before giving birth.",
+            "sentence_zh": "熊猫产前焦虑地来回踱步。"
+          },
+          {
+            "sentence": "He paces like a metronome while brainstorming.",
+            "sentence_zh": "他头脑风暴时像节拍器般踱步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用步测",
+        "examples": [
+          {
+            "sentence": "Ancient surveyors paced the Great Wall's length.",
+            "sentence_zh": "古代勘测员用步测量长城长度。"
+          },
+          {
+            "sentence": "She paced out the room before buying furniture.",
+            "sentence_zh": "买家具前她用脚步测量房间尺寸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "踱步于",
+        "examples": [
+          {
+            "sentence": "The CEO paced the stage during the product launch.",
+            "sentence_zh": "新品发布会上CEO在舞台上反复踱步。"
+          },
+          {
+            "sentence": "Tourists paced the ancient city wall at sunset.",
+            "sentence_zh": "游客们在日落时分踱步于古城墙上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keep pace with",
+        "meaning": "与...同步",
+        "examples": [
+          {
+            "sentence": "5G technology struggles to keep pace with demand in rural areas.",
+            "sentence_zh": "5G技术难以跟上农村地区的需求增速。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "set the pace",
+        "meaning": "定节奏",
+        "examples": [
+          {
+            "sentence": "Shenzhen sets the pace for tech innovation in China.",
+            "sentence_zh": "深圳为中国科技创新定下节奏。"
+          }
+        ]
+      }
+    ],
+    "teach": "pace是'步伐'也是'派速'🚶‍♂️！古罗马军团用规整的pace丈量帝国疆土🗺️（paced the roads），现代人用keep pace with形容追赶996节奏⏱️。说'龟速前进'可以用at a snail's pace🐌，'跟不上节奏'叫fall behind the pace。记住：你的生活pace决定你是熊猫🐼还是闪电⚡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佩斯'→佩斯熊猫踱步(pace)的样子",
+        "易混词：pace vs speed→前者重节奏感，后者纯速度值"
+      ]
+    }
+  },
+  {
+    "word": "pacemaker",
+    "etymology": {
+      "breakdown": [
+        "pace",
+        "maker"
+      ],
+      "meaning_connection": "pace=步伐，maker=制造者→原指领跑者，后衍生出医学'制造心跳'的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "领跑人/标兵",
+        "examples": [
+          {
+            "sentence": "The cyclist served as pacemaker for the marathon runners.",
+            "sentence_zh": "这位自行车手为马拉松选手担任领跑员。"
+          },
+          {
+            "sentence": "She became the academic pacemaker of her generation.",
+            "sentence_zh": "她成为同辈人的学术标杆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "起搏器",
+        "examples": [
+          {
+            "sentence": "His smart pacemaker syncs data with his Xiaomi watch.",
+            "sentence_zh": "他的智能起搏器数据与小米手表同步。"
+          },
+          {
+            "sentence": "Pacemaker implants now last longer than most smartphones.",
+            "sentence_zh": "现代心脏起搏器的续航超过多数智能手机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "起搏点（医学）",
+        "examples": [
+          {
+            "sentence": "The sinoatrial node is the natural pacemaker of the heart.",
+            "sentence_zh": "窦房结是心脏天然的起搏点。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cardiac pacemaker",
+        "meaning": "心脏起搏器",
+        "examples": [
+          {
+            "sentence": "The 90-year-old still dances with her cardiac pacemaker.",
+            "sentence_zh": "这位90岁老人戴着心脏起搏器依然能跳舞。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "set the pace",
+        "meaning": "定节奏",
+        "examples": [
+          {
+            "sentence": "Huawei's 5G patents set the pace for global tech development.",
+            "sentence_zh": "华为的5G专利为全球科技发展定下节奏。"
+          }
+        ]
+      }
+    ],
+    "teach": "pacemaker是心跳DJ🎧！最早指马拉松的'兔子'领跑员🏃，现在变成心脏的电子指挥家🎼（cardiac pacemaker）。说'科技标杆'用tech pacemaker，吐槽慢性子可以说'需要装个人工pacemaker'⏳。记住：领跑员控制比赛节奏，起搏器控制心跳节奏！",
+    "recite": {
+      "tips": [
+        "谐音梗：'配速没卡'→配速没卡住全靠pacemaker",
+        "易混词：peacemaker（和事佬）vs pacemaker"
+      ]
+    }
+  },
+  {
+    "word": "pacific",
+    "etymology": {
+      "breakdown": [
+        "pac",
+        "ific"
+      ],
+      "meaning_connection": "词根pac=和平（如peace），-ific表'制造...的'→既指地理上的'太平洋'（麦哲伦命名时的平静海域），又引申出和平之意"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "太平洋",
+        "examples": [
+          {
+            "sentence": "Mariana Trench in the Pacific is deeper than Mount Everest is tall.",
+            "sentence_zh": "太平洋的马里亚纳海沟深度超过珠峰高度。"
+          },
+          {
+            "sentence": "Plastic waste has formed a garbage island in the Pacific.",
+            "sentence_zh": "塑料垃圾在太平洋形成了垃圾岛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "太平洋的",
+        "examples": [
+          {
+            "sentence": "Pacific Rim countries will attend the APEC meeting.",
+            "sentence_zh": "环太平洋国家将出席APEC会议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "爱好和平的",
+        "examples": [
+          {
+            "sentence": "The panda is considered a pacific animal in Chinese culture.",
+            "sentence_zh": "在中国文化中，熊猫被视为爱好和平的动物。"
+          },
+          {
+            "sentence": "His pacific attitude resolved the neighborhood dispute.",
+            "sentence_zh": "他平和的态度化解了邻里纠纷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "安静的",
+        "examples": [
+          {
+            "sentence": "The pacific lake surface mirrored the moonlight.",
+            "sentence_zh": "平静的湖面倒映着月光。"
+          },
+          {
+            "sentence": "After the storm came a pacific dawn.",
+            "sentence_zh": "暴风雨后迎来宁静的黎明。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Pacific Ocean",
+        "meaning": "太平洋",
+        "examples": [
+          {
+            "sentence": "The Pacific Ocean covers one-third of Earth's surface.",
+            "sentence_zh": "太平洋覆盖了地球表面的三分之一。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pacific settlement",
+        "meaning": "和平解决",
+        "examples": [
+          {
+            "sentence": "UN advocates pacific settlement of international disputes.",
+            "sentence_zh": "联合国倡导国际争端的和平解决。"
+          }
+        ]
+      }
+    ],
+    "teach": "pacific是'太平'洋🌊与'太平'间的双关梗！当年麦哲伦航行时遇到难得的风平浪静(pacific weather)，就像你周末终于不用加班时的平静😌。说'世界和平'可用pacific替代peace显得高级📜，吐槽'塑料友谊'可说not so pacific relationship🦈。记住：太平洋其实并不太平——每年有2万次地震！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕谁疯'→太平洋让人怕(pa)谁(c)疯(fic)",
+        "对比记忆：specific（具体的）vs pacific（和平的）",
+        "联想：PACIFIC五个字母可拆解为Peace And Calm In Fantastic Infinite Coastline"
+      ]
+    }
+  }
+]

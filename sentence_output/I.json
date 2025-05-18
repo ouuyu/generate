@@ -1,0 +1,269 @@
+[
+  {
+    "word": "I",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语'ic'演变而来，是所有语言中最短的主格代词之一"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "pron.",
+        "meaning": "我",
+        "examples": [
+          {
+            "sentence": "I solemnly swear I'm up to no good.",
+            "sentence_zh": "我庄严宣誓我不干好事（哈利波特活点地图口令）"
+          },
+          {
+            "sentence": "When I said 'I do', I didn't mean doing laundry forever.",
+            "sentence_zh": "我说'我愿意'时，可没答应永远洗衣服"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "[计]电流",
+        "examples": [
+          {
+            "sentence": "The circuit shows 5A I flowing through.",
+            "sentence_zh": "电路显示5安培电流通过"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "[计]中断",
+        "examples": [
+          {
+            "sentence": "The I signal triggered emergency protocols.",
+            "sentence_zh": "中断信号触发了应急协议"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "[计]指令",
+        "examples": [
+          {
+            "sentence": "The I register stores critical operation codes.",
+            "sentence_zh": "指令寄存器存储关键操作码"
+          }
+        ]
+      }
+    ],
+    "teach": "这个字母可是史上最强'斜杠青年'💼：既是英语的门面担当（唯一永远大写的代词），又是计算机界的万金油⚡。要记住：当'I'说'I am hungry'时是吃货😋，当电脑报'I/O error'时是暴躁码农💻。搭配'I'时要说'I myself'（我本人），地道表达用'It's all about me'（我最重要）——毕竟'I'可是字母界的C位🌟！",
+    "recite": {
+      "tips": [
+        "视觉记忆：'I'像根电线杆→既代表人（顶天立地），又代表电流（导线）",
+        "易混词：'I'vs'me'→'I'永远当主角（主语），'me'永远当配角（宾语）"
+      ]
+    }
+  },
+  {
+    "word": "iambic",
+    "etymology": {
+      "breakdown": [
+        "iamb",
+        "ic"
+      ],
+      "meaning_connection": "源自希腊语iambos（讽刺诗），-ic表形容词/名词后缀。短长格是诗歌的基本节奏单位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "短长格（诗）",
+        "examples": [
+          {
+            "sentence": "Shakespeare's sonnets often use iambic pentameter.",
+            "sentence_zh": "莎士比亚十四行诗常用五步抑扬格。"
+          },
+          {
+            "sentence": "The da-DUM rhythm of iambic resembles a heartbeat.",
+            "sentence_zh": "抑扬格的'弱-强'节奏类似心跳声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抑扬格诗",
+        "examples": [
+          {
+            "sentence": "Modern rap battles still use iambic for its punchy effect.",
+            "sentence_zh": "现代说唱对决仍用抑扬格诗增强冲击力。"
+          },
+          {
+            "sentence": "The iambic in this poem sounds like galloping horses.",
+            "sentence_zh": "这首诗的抑扬格像马蹄奔腾的节奏。"
+          }
+        ]
+      }
+    ],
+    "teach": "iambic其实是'咚哒'节奏🎵！就像周杰伦《双截棍》'快使用双截棍/哼哼哈兮'的韵律🥋。古希腊人用这节奏写讽刺诗（原意是'扔石头骂街'🗿），现在抖音神曲也暗藏抑扬格🎤。搭配：iambic foot（诗步单位）像中文的'平平仄'，iambic trimeter（三步格）如同'三句半'🎭。emoji三件套：🎼👣⚡",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱姆b克'→爱姆(am)在B站克(制)制抑扬格",
+        "易混词：trochaic（扬抑格，相反节奏）"
+      ]
+    }
+  },
+  {
+    "word": "iatrogenic",
+    "etymology": {
+      "breakdown": [
+        "iatro",
+        "genic"
+      ],
+      "meaning_connection": "词根iatro=医生（源自希腊语iatros），genic=产生的→由医生治疗行为引起的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "医源性的",
+        "examples": [
+          {
+            "sentence": "The patient developed an iatrogenic infection after surgery.",
+            "sentence_zh": "患者在术后出现了医源性感染。"
+          },
+          {
+            "sentence": "Iatrogenic diabetes can occur from long-term steroid use.",
+            "sentence_zh": "长期使用类固醇可能导致医源性糖尿病。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "受医师影响的",
+        "examples": [
+          {
+            "sentence": "Her anxiety was later confirmed to be iatrogenic, caused by the doctor's pessimistic prognosis.",
+            "sentence_zh": "她的焦虑后被证实是受医师的悲观预后影响所致。"
+          },
+          {
+            "sentence": "The iatrogenic weight gain resulted from the prescribed medication.",
+            "sentence_zh": "体重增加是所开药物导致的医师影响性症状。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "iatrogenic disease",
+        "meaning": "医源性疾病",
+        "examples": [
+          {
+            "sentence": "Antibiotic-induced diarrhea is a common iatrogenic disease.",
+            "sentence_zh": "抗生素相关性腹泻是常见医源性疾病。"
+          }
+        ]
+      }
+    ],
+    "teach": "iatrogenic是'医'+'生'出来的病🩺！就像希腊医神Asclepius的蛇杖🐍，既能治病也能伤人。记住两个神搭配：drug-induced（药物引起）和hospital-acquired（院内感染）。美国人调侃说'the cure is worse than the disease'（治疗比疾病更糟）就是这意思💊！医生开药方时可能让你'病上加病'哦~",
+    "recite": {
+      "tips": [
+        "谐音梗：'牙痛基因'→牙医导致的基因突变（伪科学警告）",
+        "易混词对比：idiopathic（特发性的）vs iatrogenic",
+        "记忆tip：拆成'I（我） + at（在） + ro（肉） + genic（基因）'→'我在肉里打针改变了基因'"
+      ]
+    }
+  },
+  {
+    "word": "Iberian",
+    "etymology": {
+      "breakdown": [
+        "Iber",
+        "ian"
+      ],
+      "meaning_connection": "源自拉丁语'Iberia'（伊比利亚半岛），-ian表'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "伊比利亚的",
+        "examples": [
+          {
+            "sentence": "The Iberian ham hanging in the restaurant costs more than my phone.",
+            "sentence_zh": "餐厅里挂着的伊比利亚火腿比我手机还贵。"
+          },
+          {
+            "sentence": "Flamenco dance reflects Iberian cultural complexity.",
+            "sentence_zh": "弗拉门戈舞展现了伊比利亚文化的复杂性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "伊比利亚语的",
+        "examples": [
+          {
+            "sentence": "This ancient Iberian inscription remains undeciphered.",
+            "sentence_zh": "这段古老的伊比利亚语铭文至今未被破译。"
+          },
+          {
+            "sentence": "The linguist specializes in extinct Iberian languages.",
+            "sentence_zh": "这位语言学家专攻已消亡的伊比利亚语系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "伊比利亚人",
+        "examples": [
+          {
+            "sentence": "Ancient Iberians traded salted fish with the Phoenicians.",
+            "sentence_zh": "古伊比利亚人曾与腓尼基人进行咸鱼贸易。"
+          },
+          {
+            "sentence": "Modern Iberians still debate whether paella originated in Valencia.",
+            "sentence_zh": "现代伊比利亚人仍在争论海鲜饭是否源自瓦伦西亚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "伊比利亚语",
+        "examples": [
+          {
+            "sentence": "Few records of Iberian survive except some bronze tablets.",
+            "sentence_zh": "除了一些青铜板，伊比利亚语的记录留存极少。"
+          },
+          {
+            "sentence": "Scholars believe Iberian influenced early Basque.",
+            "sentence_zh": "学者认为伊比利亚语影响了早期的巴斯克语。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Iberian Peninsula",
+        "meaning": "伊比利亚半岛",
+        "examples": [
+          {
+            "sentence": "The Iberian Peninsula is shaped like a stretched cowhide.",
+            "sentence_zh": "伊比利亚半岛的形状像张拉伸的牛皮。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Iberian lynx",
+        "meaning": "伊比利亚猞猁",
+        "examples": [
+          {
+            "sentence": "The Iberian lynx is rarer than a honest politician.",
+            "sentence_zh": "伊比利亚猞猁比诚实的政客还罕见。"
+          }
+        ]
+      }
+    ],
+    "teach": "Iberian是欧洲的火锅底料🌶️：西班牙和葡萄牙像毛肚黄喉在半岛火锅里翻滚！'说伊比利亚语'叫speak Iberian就像唱《Despacito》要带拉丁腔🎤，'伊比利亚风格'叫Iberian style等于海鲜饭+法多+斗牛🏟️。记住：看到Iberian就想到足球⚽/火腿🍖/航海大发现⛵的三重奏！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱掰莲'→伊比利亚人爱掰莲雾果吃",
+        "易混词对比：iberian vs. albino（白化病）"
+      ]
+    }
+  }
+]

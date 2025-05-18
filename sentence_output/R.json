@@ -1,0 +1,264 @@
+[
+  {
+    "word": "rabbi",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希伯来语'רַבִּי'(rabi)，意为'我的老师'，是'rav'(大师)的尊称形式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "拉比（犹太教圣职人员）",
+        "examples": [
+          {
+            "sentence": "The rabbi explained the Hanukkah traditions with a menorah demonstration.",
+            "sentence_zh": "拉比用烛台演示讲解了光明节传统。"
+          },
+          {
+            "sentence": "Our neighborhood rabbi organizes weekly Torah study sessions.",
+            "sentence_zh": "我们社区的拉比每周组织托拉经学习会。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大师（对犹太学者的尊称）",
+        "examples": [
+          {
+            "sentence": "Maimonides is regarded as the greatest rabbi of the Middle Ages.",
+            "sentence_zh": "迈蒙尼德被视为中世纪最伟大的犹太学者。"
+          },
+          {
+            "sentence": "The young scholar was honored with the title rabbi at 30.",
+            "sentence_zh": "这位年轻学者30岁时获授大师称号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "犹太教法学博士",
+        "examples": [
+          {
+            "sentence": "The dispute was settled by three rabbis specializing in halakhic law.",
+            "sentence_zh": "这场纠纷由三位精通犹太教法的法学博士调解。"
+          },
+          {
+            "sentence": "To become a rabbinical judge, one must train for additional years after rabbi ordination.",
+            "sentence_zh": "要成为犹太教法官，必须在被授予法学博士学位后再受训数年。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Chief Rabbi",
+        "meaning": "大拉比（犹太社区精神领袖）",
+        "examples": [
+          {
+            "sentence": "The Chief Rabbi of the UK attended the interfaith dialogue at Westminster Abbey.",
+            "sentence_zh": "英国大拉比参加了威斯敏斯特教堂的跨宗教对话。"
+          }
+        ]
+      }
+    ],
+    "teach": "rabbi其实是'犹太版孔子'👨‍🦳：1) 历史上有位著名拉比Hillel用单脚站立时总结出犹太教金句'己所不欲勿施于人'；2) 想象rabbi这个词像两撇大胡子🧔+托拉经卷轴📜的组合；3) 搭配'send for a rabbi'(请拉比主持仪式)/'rabbi's sermon'(拉比布道)；4) 地道说法'rabbi's blessing'指意外好运🍀；5) 记住这个三合一身份：牧师+法官+教授🎓",
+    "recite": {
+      "tips": [
+        "谐音梗：'热饼'→拉比主持安息日要分热饼",
+        "易混词：rabbit(兔子) vs rabbi(拉比)→'兔子不吃猪肉，拉比也不吃'",
+        "联想：R-A-B-B-I→Read Always Bible Before Interpreting"
+      ]
+    }
+  },
+  {
+    "word": "rabbinic",
+    "etymology": {
+      "breakdown": [
+        "rabbi",
+        "nic"
+      ],
+      "meaning_connection": "rabbi指犹太教拉比（老师），-nic为形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "犹太教法学博士的",
+        "examples": [
+          {
+            "sentence": "The rabbinic court debated the kosher status of lab-grown meat.",
+            "sentence_zh": "犹太法学法庭辩论实验室培育肉是否符合犹太饮食规范。"
+          },
+          {
+            "sentence": "His rabbinic beard reached the length specified in Talmudic texts.",
+            "sentence_zh": "他的法学博士胡须长度达到了《塔木德》经文中规定的标准。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "犹太法学博士的教义",
+        "examples": [
+          {
+            "sentence": "Modern startups sometimes apply rabbinic principles to business ethics.",
+            "sentence_zh": "当代初创企业有时会应用犹太法学博士的商业伦理原则。"
+          },
+          {
+            "sentence": "Her thesis analyzed rabbinic interpretations of AI morality.",
+            "sentence_zh": "她的论文分析了犹太法学博士对人工智能道德的诠释。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rabbinic literature",
+        "meaning": "拉比文学",
+        "examples": [
+          {
+            "sentence": "The Midrash is a classic work of rabbinic literature.",
+            "sentence_zh": "《米德拉什》是拉比文学的经典著作。"
+          }
+        ]
+      }
+    ],
+    "teach": "rabbinic就像犹太学霸的学位帽🎓！古早时期拉比们辩论《塔木德》的样子，堪比现代程序员吵代码💻（rabbinic debates）。说'钻牛角尖'可以用split hairs（源自拉比辩论传统），'死磕细节'叫pilpul（犹太法学专用术语）📜。记住：想当犹太版罗翔，先背完613条戒律！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉比nic'→拉比很nic(e)地讲经",
+        "易混词：rabbit（兔子）vs rabbinic（法学博士）→ 别把'拉比'写成'兔比'"
+      ]
+    }
+  },
+  {
+    "word": "rabbinical",
+    "etymology": {
+      "breakdown": [
+        "rabbi",
+        "nical"
+      ],
+      "meaning_connection": "rabbi指犹太教拉比（老师），-nical为形容词后缀→与拉比相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "拉比的，犹太教律法的",
+        "examples": [
+          {
+            "sentence": "The rabbinical debates in Talmud are like ancient Twitter threads.",
+            "sentence_zh": "《塔木德》中的拉比辩论就像古代推特讨论串。"
+          },
+          {
+            "sentence": "His grandfather left a collection of rabbinical commentaries.",
+            "sentence_zh": "他祖父留下了一套拉比注释集。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "希伯莱语的",
+        "examples": [
+          {
+            "sentence": "The Torah scroll contains original rabbinical Hebrew.",
+            "sentence_zh": "《托拉》卷轴使用的是原始希伯莱语。"
+          },
+          {
+            "sentence": "She's studying rabbinical script for biblical research.",
+            "sentence_zh": "她为研究圣经正在学习希伯莱语书写体。"
+          }
+        ]
+      }
+    ],
+    "teach": "rabbinical其实是'拉比养成记'📜！想象犹太学者边吃贝果🥯边辩论律法（rabbinical debate），他们的语言就像加密版甲骨文🔣。要说'古希伯来语'可以叫Biblical Hebrew，'现代希伯来语'叫Ivrit。记住：带Rabbi的词都跟犹太智慧有关，比如rabbit（兔子）就完全没关系🐇！",
+    "recite": {
+      "tips": [
+        "联想记忆：Rabbi（拉比）+nical→拉比的语言系统",
+        "易混词对比：rabbit（兔子）vs rabbi（拉比）"
+      ]
+    }
+  },
+  {
+    "word": "rabbit",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'robett'，可能模仿兔子跳跃动作的拟声词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "兔子",
+        "examples": [
+          {
+            "sentence": "The rabbit in the moon palace pounds mochi with a mortar in Chinese legends.",
+            "sentence_zh": "中国传说中月宫里的兔子用臼捣年糕。"
+          },
+          {
+            "sentence": "Her WeChat avatar is a rabbit wearing Dior sunglasses.",
+            "sentence_zh": "她的微信头像是只戴迪奥墨镜的兔子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "猎兔",
+        "examples": [
+          {
+            "sentence": "British nobles used to rabbit with specially trained ferrets.",
+            "sentence_zh": "英国贵族曾用训练有素的雪貂猎兔。"
+          },
+          {
+            "sentence": "It's illegal to rabbit in this protected area.",
+            "sentence_zh": "在这个保护区猎兔是违法的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "让...见鬼去（俚语）",
+        "examples": [
+          {
+            "sentence": "He rabbited the stupid rules and started his own business.",
+            "sentence_zh": "他让愚蠢的规矩见鬼去，自己创业了。"
+          },
+          {
+            "sentence": "Just rabbit those negative comments!",
+            "sentence_zh": "让那些负面评论见鬼去吧！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rabbit on",
+        "meaning": "喋喋不休",
+        "examples": [
+          {
+            "sentence": "My aunt keeps rabbiting on about her new Tesla.",
+            "sentence_zh": "我阿姨不断喋喋不休地讲她的新特斯拉。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rabbit hole",
+        "meaning": "兔子洞（喻指陷入复杂境地）",
+        "examples": [
+          {
+            "sentence": "Beware of the rabbit hole of douyin videos at midnight.",
+            "sentence_zh": "小心半夜陷入抖音视频的兔子洞。"
+          }
+        ]
+      }
+    ],
+    "teach": "兔子急了也咬人🐰！英语里rabbit可盐可甜：当动词时要么优雅地'猎兔'🎩（像《唐顿庄园》贵族），要么暴躁地'让...见鬼去'👿（像重庆火锅店老板发火）。搭配'rabbit hole'源自《爱丽丝梦游仙境》🕳️，现在指刷短视频停不下来的状态。说人话多叫'rabbit on'像兔子啃胡萝卜咔咔响🥕。记住：兔年要说'Rabbit it!'代替粗口哟🎊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'软比特'→软萌比特兔(rabbit)",
+        "易混词：bunny(幼兔)/hare(野兔)",
+        "记忆法：三瓣嘴对应三个词性"
+      ]
+    }
+  }
+]
