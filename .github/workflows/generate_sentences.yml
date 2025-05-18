@@ -1,8 +1,8 @@
 name: Generate Sentences
 
 on:
-  workflow_dispatch: # Allows manual triggering  schedule:
-    - cron: '0 */6 * * *' # Runs every 5 hours
+  workflow_dispatch:
+  cron: '0 */6 * * *' # Runs every 5 hours
 
 jobs:
   generate:
