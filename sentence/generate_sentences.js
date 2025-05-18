@@ -173,7 +173,7 @@ async function generateWordData(wordInfo) {
 
     // 调用 OpenAI API 创建聊天完成
     const completion = await openai.chat.completions.create({
-      model: "Qwen/Qwen2.5-72B-Instruct", // 使用指定的模型
+      model: "deepseek-ai/DeepSeek-V3", // 使用指定的模型
       messages: [
         {
           role: "user",
