@@ -9055,5 +9055,332 @@
         "记忆法：IM（即时通讯）+AGE（时代）= 这个时代的图像传播方式"
       ]
     }
+  },
+  {
+    "word": "imagery",
+    "etymology": {
+      "breakdown": [
+        "image",
+        "ry"
+      ],
+      "meaning_connection": "词根image=图像/想象，后缀-ry表集合/性质→所有图像或想象内容的集合"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "肖像（总称）",
+        "examples": [
+          {
+            "sentence": "The Buddhist imagery in Dunhuang caves spans a thousand years.",
+            "sentence_zh": "敦煌石窟中的佛像肖像跨越千年历史。"
+          },
+          {
+            "sentence": "Political imagery on ancient coins often depicted emperors with divine symbols.",
+            "sentence_zh": "古钱币上的政治肖像常用神性符号装饰帝王形象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "比喻（修辞手法）",
+        "examples": [
+          {
+            "sentence": "Li Bai's poetry uses moon imagery to represent homesickness.",
+            "sentence_zh": "李白的诗用月亮比喻表达思乡之情。"
+          },
+          {
+            "sentence": "Modern advertisements frequently employ animal imagery to convey brand traits.",
+            "sentence_zh": "现代广告常用动物比喻传达品牌特质。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "雕刻（艺术形式）",
+        "examples": [
+          {
+            "sentence": "The jade imagery on this Ming dynasty vase shows exquisite craftsmanship.",
+            "sentence_zh": "这个明代花瓶上的玉雕展现精湛工艺。"
+          },
+          {
+            "sentence": "Traditional Chinese wood imagery often features peonies and phoenixes.",
+            "sentence_zh": "中国传统木雕常见牡丹与凤凰主题。"
+          }
+        ]
+      }
+    ],
+    "teach": "imagery是'意象全家桶'🎨！当说'佛像肖像'就像故宫雕塑展🗿（religious imagery）；'诗歌比喻'如同用emoji写情诗💌（poetic imagery）；'雕刻艺术'堪比微缩版乐山大佛⚒️。实用搭配：vivid imagery（生动意象）、visual imagery（视觉形象）。地道说法：'文笔画面感强'叫rich in imagery，比直译'有很多描述'更专业！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一码记'→一码(code)记(image)住所有图像",
+        "易混词对比：image（单张图像）vs imagery（图像集合）"
+      ]
+    }
+  },
+  {
+    "word": "imaginable",
+    "etymology": {
+      "breakdown": [
+        "imagin",
+        "able"
+      ],
+      "meaning_connection": "词根imagin=想象，后缀-able=能够...的→能够被想象的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可想象的",
+        "examples": [
+          {
+            "sentence": "The metaverse offers experiences beyond imaginable limits.",
+            "sentence_zh": "元宇宙提供了超越想象极限的体验。"
+          },
+          {
+            "sentence": "Her outfit combines every imaginable color of the rainbow.",
+            "sentence_zh": "她的穿搭融合了彩虹所有可想象的颜色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可能的",
+        "examples": [
+          {
+            "sentence": "We've prepared for every imaginable scenario during the livestream.",
+            "sentence_zh": "我们为直播中所有可能的情况都做了准备。"
+          },
+          {
+            "sentence": "This is the best imaginable outcome for our startup.",
+            "sentence_zh": "这对我们的初创公司来说是最好的可能结果。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "every imaginable",
+        "meaning": "所有能想到的",
+        "examples": [
+          {
+            "sentence": "The night market serves every imaginable skewer combination.",
+            "sentence_zh": "这个夜市提供所有能想到的烤串组合。"
+          }
+        ]
+      }
+    ],
+    "teach": "imaginable就像哆啦A梦的口袋🎒！当你说'能想象的'时，就像在脑内玩《我的世界》🧠（build imaginable worlds）；说'可能的'时，像算命先生翻开所有可能性塔罗牌🔮（every imaginable future）。搭配'any imaginable'比'possible'更生动，比如'这家奶茶店有任何你能想象的配料'🍹。记住：-able结尾的词都像开了外挂！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一码记能播'→想象力能播放画面",
+        "对比记忆：imaginable（能想象的） vs imaginary（虚构的）",
+        "视觉提示：把-able想象成解锁符号🔓"
+      ]
+    }
+  },
+  {
+    "word": "imaginary",
+    "etymology": {
+      "breakdown": [
+        "image",
+        "ary"
+      ],
+      "meaning_connection": "词根image=图像/想象，后缀-ary表属性→可想象但非真实存在的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "想象的",
+        "examples": [
+          {
+            "sentence": "Children often have imaginary friends like talking pandas.",
+            "sentence_zh": "孩子们常有会说话的熊猫这类想象中的朋友。"
+          },
+          {
+            "sentence": "Her imaginary scenarios always involve hotpot buffets on Mars.",
+            "sentence_zh": "她的想象场景总是火星上的火锅自助餐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "虚构的",
+        "examples": [
+          {
+            "sentence": "The unicorn cafe is an imaginary business in his novel.",
+            "sentence_zh": "独角兽咖啡馆是他小说里的虚构生意。"
+          },
+          {
+            "sentence": "WeChat's 'imaginary girlfriend' feature was an April Fools' joke.",
+            "sentence_zh": "微信'虚拟女友'功能是个愚人节玩笑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "假想的",
+        "examples": [
+          {
+            "sentence": "Scientists use imaginary numbers to calculate quantum states.",
+            "sentence_zh": "科学家用假想数计算量子态。"
+          },
+          {
+            "sentence": "This math problem involves an imaginary country with 2.5 children per family.",
+            "sentence_zh": "这道数学题涉及一个假想的平均每户2.5孩的国家。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "imaginary line",
+        "meaning": "假想线",
+        "examples": [
+          {
+            "sentence": "The equator is an imaginary line that divides the Earth.",
+            "sentence_zh": "赤道是划分地球的假想线。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "imaginary enemy",
+        "meaning": "假想敌",
+        "examples": [
+          {
+            "sentence": "Some gamers create imaginary enemies to challenge themselves.",
+            "sentence_zh": "有些玩家会虚构假想敌来挑战自己。"
+          }
+        ]
+      }
+    ],
+    "teach": "imaginary就像你的年度计划表📅——看着很美好但从未实现🤣！词源来自'图像(image)'，就像用美图秀秀P出来的完美身材📸。搭配说'imaginary friend'(灵魂朋友)比'假朋友'更地道，吐槽不切实际可以说'pie in the sky'(天上掉馅饼)。记住：数学里的虚数(imaginary number)和你的存款一样都是假想的💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一妹准累'→想象出来的妹妹准让你累",
+        "易混词：imaginative(有想象力的) vs imaginary(纯虚构的)",
+        "记忆法：IM(我)+AGE(年龄)+INARY→我的年龄永远停留在想象的18岁"
+      ]
+    }
+  },
+  {
+    "word": "imagination",
+    "etymology": {
+      "breakdown": [
+        "imagin",
+        "ation"
+      ],
+      "meaning_connection": "词根imagin来自拉丁语imago(画像)，-ation表名词→在脑海中绘制图像的能力"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "想象",
+        "examples": [
+          {
+            "sentence": "Children's imagination can turn cardboard boxes into spaceships.",
+            "sentence_zh": "孩子的想象力能把纸箱变成宇宙飞船。"
+          },
+          {
+            "sentence": "The writer used his imagination to create the world of Harry Potter.",
+            "sentence_zh": "作家运用想象创造了哈利波特的世界。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "想象力",
+        "examples": [
+          {
+            "sentence": "AI lacks human imagination when writing poems.",
+            "sentence_zh": "AI写诗时缺乏人类想象力。"
+          },
+          {
+            "sentence": "Pixar movies always stretch our imagination.",
+            "sentence_zh": "皮克斯电影总能拓展我们的想象力。"
+          }
+        ]
+      }
+    ],
+    "teach": "imagination是大脑的VR眼镜👓！达芬奇靠它画直升机草图✈️（虽然当时被当疯子）。搭配：'放飞想象'叫let imagination run wild，'缺乏想象'说poverty of imagination。记住：你的imagination决定你能在元宇宙买几套房🏠！爱因斯坦说它比知识更重要⚛️",
+    "recite": {
+      "tips": [
+        "谐音梗：'一码记内心'→用编码记录内心画面",
+        "易混词：imaginary(想象的)/imaginative(富有想象力的)"
+      ]
+    }
+  },
+  {
+    "word": "imaginative",
+    "etymology": {
+      "breakdown": [
+        "imagin(e)",
+        "ative"
+      ],
+      "meaning_connection": "源自imagine（想象）+-ative（形容词后缀），字面意思是'具有想象力的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "富有想象力的",
+        "examples": [
+          {
+            "sentence": "The imaginative child turned cardboard boxes into intergalactic spaceships.",
+            "sentence_zh": "这个富有想象力的孩子把纸箱变成了星际飞船。"
+          },
+          {
+            "sentence": "Her imaginative marketing campaign went viral on Douyin.",
+            "sentence_zh": "她富有想象力的营销活动在抖音上走红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "虚构的",
+        "examples": [
+          {
+            "sentence": "The game features an imaginative world with talking pandas.",
+            "sentence_zh": "这款游戏设定在一个会说话的熊猫的虚构世界。"
+          },
+          {
+            "sentence": "His excuse was so imaginative that even his boss was amused.",
+            "sentence_zh": "他的借口如此富有想象力，连老板都被逗乐了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "imaginative power",
+        "meaning": "想象力",
+        "examples": [
+          {
+            "sentence": "Chinese mythologies demonstrate incredible imaginative power.",
+            "sentence_zh": "中国神话展现了惊人的想象力。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "imaginative literature",
+        "meaning": "虚构文学",
+        "examples": [
+          {
+            "sentence": "Journey to the West is a masterpiece of imaginative literature.",
+            "sentence_zh": "《西游记》是虚构文学的杰作。"
+          }
+        ]
+      }
+    ],
+    "teach": "imaginative就像大脑里的孙悟空🐒！当形容人时，指的是能72变的创意脑袋（如李子柒的视频创意）；形容事物时，指像《山海经》里会喷火的麒麟🔥（imaginative creatures）。搭配'放飞想象力'叫let one's imagination run wild，说'脑洞大开'是out-of-the-box thinking🚀。记住：每个imaginative的人都是未被发现的漫威编剧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一麻袋脑洞'→imaginative装着一麻袋脑洞",
+        "易混词对比：imaginary（纯虚构的） vs imaginative（富有创造力的）",
+        "记忆tip：把-ative想象成'爱提问题'→爱提问的人才有想象力"
+      ]
+    }
   }
 ]

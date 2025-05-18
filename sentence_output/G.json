@@ -8504,5 +8504,305 @@
         "易混词对比：cephalopod（头足纲如章鱼）用头走路，gastropod用肚子走路"
       ]
     }
+  },
+  {
+    "word": "gate",
+    "etymology": {
+      "breakdown": [
+        "gat",
+        "e"
+      ],
+      "meaning_connection": "源自古英语'gatu'（复数形式），与荷兰语'gat'（洞）、德语'Gasse'（小巷）同源，最初指'开口处'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "门",
+        "examples": [
+          {
+            "sentence": "The panda escaped when the keeper forgot to lock the bamboo gate.",
+            "sentence_zh": "饲养员忘记锁竹门时，熊猫逃走了。"
+          },
+          {
+            "sentence": "Tourists crowded around the Vermilion Gate of the Forbidden City.",
+            "sentence_zh": "游客们挤在故宫的朱门前拍照。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "牌楼",
+        "examples": [
+          {
+            "sentence": "The memorial gate in Chinatown was a gift from sister cities.",
+            "sentence_zh": "唐人街的纪念牌楼是姐妹城市赠送的礼物。"
+          },
+          {
+            "sentence": "Wedding photos are often taken under traditional Chinese gates.",
+            "sentence_zh": "新人常在传统牌楼下拍摄婚纱照。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "通道",
+        "examples": [
+          {
+            "sentence": "Passengers rushed to boarding gate 13 like it was a Black Friday sale.",
+            "sentence_zh": "乘客们冲向13号登机通道，宛如黑色星期五抢购。"
+          },
+          {
+            "sentence": "The water gate of the Three Gorges Dam is an engineering marvel.",
+            "sentence_zh": "三峡大坝的泄洪通道是工程奇迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "装门于",
+        "examples": [
+          {
+            "sentence": "The farmer gated the pasture to keep the sheep from wandering.",
+            "sentence_zh": "农民给牧场装门防止羊群乱跑。"
+          },
+          {
+            "sentence": "Newly gated communities are trending in suburban areas.",
+            "sentence_zh": "新建封闭式小区在郊区成为趋势。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gate money",
+        "meaning": "门票收入",
+        "examples": [
+          {
+            "sentence": "The temple's gate money funds local education projects.",
+            "sentence_zh": "寺庙的门票收入用于资助当地教育项目。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "crash the gate",
+        "meaning": "无票闯入",
+        "examples": [
+          {
+            "sentence": "Some fans tried to crash the gate at Jay Chou's concert.",
+            "sentence_zh": "部分粉丝试图无票闯入周杰伦演唱会。"
+          }
+        ]
+      }
+    ],
+    "teach": "gate是史上最忙的门🚪！从故宫午门到小区闸机，从《水浒传》的梁山寨门到机场登机口✈️。'走后门'叫go through the back gate（字面和引申义都成立）。'门票'说gate fee就像收费站🚧，而'gatekeeper'不仅是看门人，还是掌握资源的关键人物🗝️。记住：所有gate都通向新世界！",
+    "recite": {
+      "tips": [
+        "谐音梗：'给特'→给特(gate)权才能进门",
+        "易混词：gate（建筑结构）vs. door（房间门）vs. portal（宏伟入口）"
+      ]
+    }
+  },
+  {
+    "word": "gateau",
+    "etymology": {
+      "breakdown": [
+        "gateau"
+      ],
+      "meaning_connection": "直接源自法语gâteau（蛋糕），英语保留原拼写与奢华感"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "精美的大奶油蛋糕",
+        "examples": [
+          {
+            "sentence": "The wedding featured a five-tier gateau decorated with edible gold leaves.",
+            "sentence_zh": "婚礼上有个五层裱花蛋糕，装饰着可食用金箔。"
+          },
+          {
+            "sentence": "She spent 6 hours piping roses on the chocolate gateau for her daughter's birthday.",
+            "sentence_zh": "她花了6小时在巧克力蛋糕上裱玫瑰，为女儿庆生。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Black Forest gateau",
+        "meaning": "黑森林蛋糕",
+        "examples": [
+          {
+            "sentence": "Authentic Black Forest gateau uses kirsch-soaked cherries from Germany.",
+            "sentence_zh": "正宗黑森林蛋糕需用德国黑樱桃酒浸泡的樱桃。"
+          }
+        ]
+      }
+    ],
+    "teach": "gateau是蛋糕界的爱马仕👜！法国贵族用这个词区别平民蛋糕（cake），就像我们用'慕斯'和'鸡蛋糕'划清界限🍰。'蛋糕翻车'叫cake fail，但gateau永远精致如卢浮宫展品🎨。记住：当下午茶出现gateau，请自动切换成小拇指翘起的英式发音☕️",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬投'→强行投喂gateau导致社交尴尬",
+        "易混词：gateau（奢华）/ cupcake（迷你）",
+        "视觉提示：想象法式甜品师的白帽子👨🍳"
+      ]
+    }
+  },
+  {
+    "word": "gated",
+    "etymology": {
+      "breakdown": [
+        "gate",
+        "ed"
+      ],
+      "meaning_connection": "gate=门/关卡，-ed表形容词→'带有门的'引申出管控区域含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有关卡的",
+        "examples": [
+          {
+            "sentence": "The gated highway checkpoint caused a 2km traffic jam.",
+            "sentence_zh": "设有关卡的高速公路检查站导致2公里拥堵。"
+          },
+          {
+            "sentence": "Tourists need special permits to enter gated Tibetan areas.",
+            "sentence_zh": "游客进入西藏管制区域需特别许可证。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "带栅门的",
+        "examples": [
+          {
+            "sentence": "Rich Chinese families prefer gated villas with facial recognition locks.",
+            "sentence_zh": "中国富裕家庭偏爱配备人脸识别门禁的带栅门别墅。"
+          },
+          {
+            "sentence": "The panda base has gated enclosures to separate cubs from adults.",
+            "sentence_zh": "熊猫基地用带栅门的围栏将幼崽与成年熊猫隔开。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gated community",
+        "meaning": "封闭式社区",
+        "examples": [
+          {
+            "sentence": "Wenzhou entrepreneurs built Europe's largest gated community in Budapest.",
+            "sentence_zh": "温州商人在布达佩斯建了欧洲最大的封闭式华人社区。"
+          }
+        ]
+      }
+    ],
+    "teach": "gated就像健康码分区管理🚧！古代城门(gate)控制人流就像现在小区刷脸门禁📸，'富人区'叫gated community等于现代城堡🏰。要说'门禁森严'可用fortress-like security（堡垒级安防），记住：所有带gate的东西都像地铁闸机🚇——想进出？先过我这关！",
+    "recite": {
+      "tips": [
+        "谐音梗：'给ted'→给TED演讲嘉宾设置的门禁",
+        "易混词对比：gated vs grated（带栅栏的 vs 磨碎的）",
+        "记忆tip：把'd'想成door的缩写"
+      ]
+    }
+  },
+  {
+    "word": "gatehouse",
+    "etymology": {
+      "breakdown": [
+        "gate",
+        "house"
+      ],
+      "meaning_connection": "gate=门，house=房屋→字面意思是'门旁的房屋'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "警卫室",
+        "examples": [
+          {
+            "sentence": "The security guard in the gatehouse checks every delivery with a metal detector.",
+            "sentence_zh": "警卫室里的保安用金属探测器检查每件快递。"
+          },
+          {
+            "sentence": "Tourists must show ID cards at the Forbidden City's gatehouse.",
+            "sentence_zh": "游客需在故宫的警卫室出示身份证。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "门房",
+        "examples": [
+          {
+            "sentence": "The old gatehouse now serves as a souvenir shop selling mini terracotta warriors.",
+            "sentence_zh": "这个老门房现在改造成卖迷你兵马俑的纪念品商店。"
+          },
+          {
+            "sentence": "Couriers leave packages at the university gatehouse labeled with students' phone numbers.",
+            "sentence_zh": "快递员把包裹放在标有学生手机号的大学门房。"
+          }
+        ]
+      }
+    ],
+    "teach": "gatehouse是古代版的保安亭🚪+快递柜📦！中世纪城堡的gatehouse要防敌人（现在防外卖小哥），《哈利波特》里霍格沃茨gatehouse可能收过猫头鹰快递🦉。要说'值班室'用duty room，但吐槽'门卫总打瞌睡'可以说：The gatehouse guard snores louder than my alarm clock！",
+    "recite": {
+      "tips": [
+        "视觉联想：gate+house=小区大门口的铁皮房",
+        "易混词对比：gatekeeper（看门人） vs gatehouse（建筑物）",
+        "文化梗：英国温莎城堡gatehouse比我家客厅还大👑"
+      ]
+    }
+  },
+  {
+    "word": "gatekeeper",
+    "etymology": {
+      "breakdown": [
+        "gate",
+        "keeper"
+      ],
+      "meaning_connection": "gate=门，keeper=看守者→字面意思为'守门人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "看门人",
+        "examples": [
+          {
+            "sentence": "The gatekeeper at our community checks every delivery guy's temperature.",
+            "sentence_zh": "我们小区的看门人会给每个快递员测体温。"
+          },
+          {
+            "sentence": "In ancient times, gatekeepers often held the only keys to the city gates.",
+            "sentence_zh": "古时候，看门人通常掌握着城门的唯一钥匙。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "digital gatekeeper",
+        "meaning": "数字守门人",
+        "examples": [
+          {
+            "sentence": "Algorithms act as digital gatekeepers deciding what content we see online.",
+            "sentence_zh": "算法就像数字守门人，决定我们在网上看到什么内容。"
+          }
+        ]
+      }
+    ],
+    "teach": "gatekeeper其实是古代最硬核的'门卫大爷'👴！中世纪城堡的gatekeeper掌握吊桥绳索🏰，现代演变成'信息守门人'💻。当说'social media gatekeeper'时，就像朋友圈里爱屏蔽人的那个朋友🚫。记住：遇到strict gatekeeper时，试试说'didi师傅让我进来的'🚖（地道表达：name-drop）",
+    "recite": {
+      "tips": [
+        "视觉联想：小区门口拿着体温枪的保安+健康码扫描仪",
+        "易混词对比：doorkeeper（纯物理门卫）vs gatekeeper（有决策权）"
+      ]
+    }
   }
 ]

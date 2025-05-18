@@ -8738,5 +8738,313 @@
         "文化梗：普希金在《叶甫盖尼·奥涅金》里用茶炊描写贵族慵懒生活"
       ]
     }
+  },
+  {
+    "word": "sample",
+    "etymology": {
+      "breakdown": [
+        "ex",
+        "ample"
+      ],
+      "meaning_connection": "前缀ex-表示'出来'，拉丁词根ample意为'拿取'→原指从整体中取出部分"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "样品",
+        "examples": [
+          {
+            "sentence": "The tea merchant let customers smell dried tea samples in bamboo tubes.",
+            "sentence_zh": "茶商让顾客闻竹筒里的干茶样品。"
+          },
+          {
+            "sentence": "IKEA's meatball samples always disappear within 5 minutes.",
+            "sentence_zh": "宜家的肉丸样品总是在5分钟内被拿光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "范例",
+        "examples": [
+          {
+            "sentence": "This Confucius quote is a perfect sample of ancient wisdom.",
+            "sentence_zh": "这句孔子语录是古代智慧的完美范例。"
+          },
+          {
+            "sentence": "The teacher showed a sample essay with Peking duck metaphors.",
+            "sentence_zh": "老师展示了一篇用烤鸭作比喻的范文。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "样本",
+        "examples": [
+          {
+            "sentence": "The museum displayed 1,000-year-old rice samples from the Song Dynasty.",
+            "sentence_zh": "博物馆展出来自宋朝的千年稻米样本。"
+          },
+          {
+            "sentence": "Doctors collected throat samples using giant cotton swabs.",
+            "sentence_zh": "医生用超大棉签采集咽喉样本。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抽样",
+        "examples": [
+          {
+            "sentence": "Quality control workers sample one hotpot from every 50 batches.",
+            "sentence_zh": "质检员每50批火锅抽检一份。"
+          },
+          {
+            "sentence": "They sampled air quality during Beijing's sandstorm season.",
+            "sentence_zh": "他们在北京沙尘暴季节抽样检测空气质量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "尝试",
+        "examples": [
+          {
+            "sentence": "We sampled all 8 flavors of boba tea before deciding.",
+            "sentence_zh": "我们尝遍8种波霸奶茶口味才做决定。"
+          },
+          {
+            "sentence": "He sampled VR games at the tech fair until dizzy.",
+            "sentence_zh": "他在科技展上试玩VR游戏直到头晕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sample sale",
+        "meaning": "样品特卖",
+        "examples": [
+          {
+            "sentence": "Fashionistas queue overnight for designer sample sales.",
+            "sentence_zh": "时尚达人为名牌样品特卖会彻夜排队。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "free sample",
+        "meaning": "免费试用品",
+        "examples": [
+          {
+            "sentence": "Supermarkets give free samples of mooncakes before Mid-Autumn Festival.",
+            "sentence_zh": "超市在中秋节前提供月饼免费试吃。"
+          }
+        ]
+      }
+    ],
+    "teach": "sample就像美食街试吃小碗🍜！从大锅(ex-)里舀(ample)出来的迷你版：化妆品小样是'微型正装'💄，抽检火锅是'舌尖安全员'🍲。说'浅尝'用sample the flavor像品茶师呡第一口🍵，而sample size问题就像试吃永远不够塞牙缝😭。记住：sample既是名词'小样'，又是动词'尝鲜'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'三泡'→样品要泡三次才入味",
+        "易混词：specimen（科研标本）vs sample（商业样品）",
+        "记忆tip：超市试吃台=real life sampling lab"
+      ]
+    }
+  },
+  {
+    "word": "sampled",
+    "etymology": {
+      "breakdown": [
+        "sam",
+        "ple",
+        "ed"
+      ],
+      "meaning_connection": "词根sam=取（同semi-半），-ple表反复动作，-ed表已完成→反复取部分样本的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "取样的",
+        "examples": [
+          {
+            "sentence": "The sampled moon rocks revealed unexpected water traces.",
+            "sentence_zh": "取样的月球岩石显示出意外存在的水痕。"
+          },
+          {
+            "sentence": "This sampled air from Beijing in 2008 is now in a museum.",
+            "sentence_zh": "这份2008年北京空气取样现陈列于博物馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "抽样的",
+        "examples": [
+          {
+            "sentence": "The sampled survey covered only 0.1% WeChat users.",
+            "sentence_zh": "这次抽样调查仅覆盖0.1%的微信用户。"
+          },
+          {
+            "sentence": "Sampled checkups help detect early-stage diseases.",
+            "sentence_zh": "抽样体检有助于早期疾病筛查。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sampled data",
+        "meaning": "采样数据",
+        "examples": [
+          {
+            "sentence": "The AI model was trained with sampled data from 10 million users.",
+            "sentence_zh": "该AI模型用1000万用户的采样数据训练而成。"
+          }
+        ]
+      }
+    ],
+    "teach": "sampled就像火锅试吃勺🥄！科学家采样(sampled)月球土壤如同涮毛肚只夹一片🌑，'抽样调查'叫sampled survey就像海底捞只问每桌第三位客人🤖。记住：采样要像吃回转寿司🍣——只拿最关键的那盘！搭配'sampled music'（采样音乐）和'sampled population'（抽样人群），说'以偏概全'可吐槽That's just a sampled truth!",
+    "recite": {
+      "tips": [
+        "谐音梗：'三破的'→三份破损的(sampled)检测样本",
+        "易混词对比：simple（简单）vs sampled（取样的）",
+        "记忆tip：字母m像试管取样器形状"
+      ]
+    }
+  },
+  {
+    "word": "sampler",
+    "etymology": {
+      "breakdown": [
+        "sampl",
+        "er"
+      ],
+      "meaning_connection": "词根sampl=样本/例子，后缀-er表示'执行者或工具'→字面意思是'处理样本的人或物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "样品检验员",
+        "examples": [
+          {
+            "sentence": "The tea sampler at Wuyi Mountain can identify 100+ varieties by smell alone.",
+            "sentence_zh": "武夷山的茶叶检验员仅靠嗅觉就能辨别上百个品种。"
+          },
+          {
+            "sentence": "As a cotton sampler, her job is to taste-test Xinjiang cotton candy all day.",
+            "sentence_zh": "作为棉花检验员，她的工作就是整天试吃新疆棉花糖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "刺绣样品",
+        "examples": [
+          {
+            "sentence": "The Ming Dynasty silk sampler displayed in Suzhou Museum looks like modern pixel art.",
+            "sentence_zh": "苏州博物馆展出的明代刺绣样品看起来像现代像素画。"
+          },
+          {
+            "sentence": "Her grandma's wedding sampler contained 99 embroidered pandas eating hotpot.",
+            "sentence_zh": "她奶奶的结婚绣品上有99只刺绣熊猫在吃火锅。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cross-stitch sampler",
+        "meaning": "十字绣样板",
+        "examples": [
+          {
+            "sentence": "The cross-stitch sampler with 'Made in China' went viral on TikTok.",
+            "sentence_zh": "绣着'中国制造'的十字绣样板在TikTok上爆红。"
+          }
+        ]
+      }
+    ],
+    "teach": "sampler其实是古代淘宝买家秀📜！中世纪主妇们用刺绣样品(sampler)展示手艺，就像现代人晒朋友圈九宫格📱。检验员(sampler)工作像神农尝百草🌿，而刺绣sampler则像emoji版的《清明上河图》🎨。记住：检验员用舌头当仪器👅，刺绣家用针线写日记✂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'三婆乐'→三婆乐(sampler)绣花样",
+        "易混词对比：sample（样本） vs sampler（处理样本者）",
+        "记忆tip：sampler=sample+er，记住'er'这个'人/工具'后缀"
+      ]
+    }
+  },
+  {
+    "word": "sampling",
+    "etymology": {
+      "breakdown": [
+        "sample",
+        "ing"
+      ],
+      "meaning_connection": "sample（样本）+ -ing（行为后缀）→ 采集样本的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "抽样",
+        "examples": [
+          {
+            "sentence": "The market researcher did street sampling with bubble tea giveaways.",
+            "sentence_zh": "市场调研员用奶茶赠品进行街头抽样。"
+          },
+          {
+            "sentence": "KFC's new burger sampling campaign went viral on Douyin.",
+            "sentence_zh": "肯德基新品汉堡抽样活动在抖音上爆火。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "采样",
+        "examples": [
+          {
+            "sentence": "Music producers use sampling to create hip-hop beats from old songs.",
+            "sentence_zh": "音乐制作人通过对老歌采样来创作嘻哈节奏。"
+          },
+          {
+            "sentence": "The DJ's sampling of Peking opera surprised the nightclub crowd.",
+            "sentence_zh": "DJ对京剧的采样让夜店观众大为惊艳。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "random sampling",
+        "meaning": "随机抽样",
+        "examples": [
+          {
+            "sentence": "The lottery system uses random sampling to select winners.",
+            "sentence_zh": "彩票系统采用随机抽样选出中奖者。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sampling error",
+        "meaning": "抽样误差",
+        "examples": [
+          {
+            "sentence": "The sampling error caused the survey to mispredict election results.",
+            "sentence_zh": "抽样误差导致调查误判了选举结果。"
+          }
+        ]
+      }
+    ],
+    "teach": "sampling就像火锅店的试吃小碗🍲：抽样是科学版'尝一口'🔬，音乐采样是DJ界的'薅羊毛'🎧。做市场调研叫do sampling就像发试吃品，'数据不足'说thin sampling就像火锅只给一片肥牛😭。记住：好的sampling决定你是米其林还是路边摊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'三瓶灵'→抽样三瓶就灵验",
+        "易混词：sample（样本）/ specimen（标本）"
+      ]
+    }
   }
 ]

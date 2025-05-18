@@ -8675,5 +8675,294 @@
         "易混词对比：hanger(衣架) vs hangar(机库)"
       ]
     }
+  },
+  {
+    "word": "handyman",
+    "etymology": {
+      "breakdown": [
+        "handy",
+        "man"
+      ],
+      "meaning_connection": "handy表示'手巧的、便利的'，man指'人'，组合指'手巧的人'或'能做各种杂活的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂务工",
+        "examples": [
+          {
+            "sentence": "The handyman fixed both my leaking tap and WiFi router in 20 minutes.",
+            "sentence_zh": "杂务工20分钟内就修好了我的漏水龙头和路由器。"
+          },
+          {
+            "sentence": "Every college dorm needs a handyman who can unclog toilets with chopsticks.",
+            "sentence_zh": "每间大学宿舍都需要会用筷子通马桶的杂务工。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "手巧的人",
+        "examples": [
+          {
+            "sentence": "My grandma is a handyman who can knit sweaters while watching Peking opera.",
+            "sentence_zh": "我奶奶是能边看京剧边织毛衣的巧手达人。"
+          },
+          {
+            "sentence": "Real handymen can repair smartphones with just a toothpick and duct tape.",
+            "sentence_zh": "真正手巧的人用牙签和胶带就能修手机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "水手",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese handymen could tie 36 types of nautical knots blindfolded.",
+            "sentence_zh": "古代中国水手能蒙眼打36种船绳结。"
+          },
+          {
+            "sentence": "The handyman sang sea shanties while mending fishing nets.",
+            "sentence_zh": "水手一边补渔网一边唱船工号子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jack-of-all-trades handyman",
+        "meaning": "万事通杂工",
+        "examples": [
+          {
+            "sentence": "Our village's jack-of-all-trades handyman can deliver babies and repair tractors.",
+            "sentence_zh": "我们村的万能杂工既能接生又会修拖拉机。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "ship's handyman",
+        "meaning": "船务杂工",
+        "examples": [
+          {
+            "sentence": "The ship's handyman kept the crew's straw sandals in good condition.",
+            "sentence_zh": "船务杂工负责维护船员们的草鞋。"
+          }
+        ]
+      }
+    ],
+    "teach": "handyman其实是'人形瑞士军刀'🔧！中世纪欧洲行会规定，合格的handyman要会同时用脚修屋顶、用嘴钉钉子🤹。现代版handyman标准：能修好丈母娘的老式缝纫机，还会给娃拼乐高火箭🚀。搭配'Mr. Fix-It'（修理先生）或'MacGyver skills'（麦式技巧，指用日常物品解决问题）。说'手残'可以用'all thumbs'（都是大拇指）👈👉🤲",
+    "recite": {
+      "tips": [
+        "谐音梗：'汗滴man'→杂工汗滴如雨",
+        "易混词：handyman vs craftsman（后者专指工艺匠人）",
+        "记忆法：想象用'hand'+'y'+'man'拼出超人标志"
+      ]
+    }
+  },
+  {
+    "word": "hanged",
+    "etymology": {
+      "breakdown": [
+        "hang",
+        "ed"
+      ],
+      "meaning_connection": "动词hang的规则过去式变化，后缀-ed表过去时"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "悬挂（过去式）",
+        "examples": [
+          {
+            "sentence": "She hanged the lanterns for the Mid-Autumn Festival.",
+            "sentence_zh": "她为中秋节挂起了灯笼。"
+          },
+          {
+            "sentence": "The wet towels were hanged on the balcony rail.",
+            "sentence_zh": "湿毛巾被挂在阳台栏杆上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "绞刑（过去分词）",
+        "examples": [
+          {
+            "sentence": "In medieval Europe, thieves were often hanged in public.",
+            "sentence_zh": "在中世纪欧洲，小偷常被当众处以绞刑。"
+          },
+          {
+            "sentence": "The dictator was hanged by the revolutionaries.",
+            "sentence_zh": "独裁者被革命者处以绞刑。"
+          }
+        ]
+      }
+    ],
+    "teach": "hanged是hang的'黑历史'版本💀！普通悬挂用hung（I hung the picture），但说到绞刑必须用hanged（The criminal was hanged）——就像晾衣服和晾人命的区别👔☠️。搭配：hanged for treason（因叛国罪被绞死）/hanged in effigy（吊肖像泄愤）。记住：挂画用hung，挂人用hanged！",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊的'→绞刑架是焊死的",
+        "易混词对比：hung（普通悬挂）/hanged（绞刑）"
+      ]
+    }
+  },
+  {
+    "word": "hanger",
+    "etymology": {
+      "breakdown": [
+        "hang",
+        "er"
+      ],
+      "meaning_connection": "词根hang=悬挂，后缀-er表物品→用于悬挂的物品"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "挂钩",
+        "examples": [
+          {
+            "sentence": "The museum uses special hangers to display ancient robes.",
+            "sentence_zh": "博物馆用特殊挂钩展示古代衣袍。"
+          },
+          {
+            "sentence": "Kitchen hangers for spice jars are trending on Xiaohongshu.",
+            "sentence_zh": "小红书正流行香料罐厨房挂钩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "衣架",
+        "examples": [
+          {
+            "sentence": "Her designer dress fell off the velvet hanger.",
+            "sentence_zh": "她的设计师礼服从天鹅绒衣架上滑落。"
+          },
+          {
+            "sentence": "IKEA's bamboo hangers are eco-friendly and sturdy.",
+            "sentence_zh": "宜家的竹制衣架既环保又结实。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "广告牌",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop replaced its street hanger weekly.",
+            "sentence_zh": "奶茶店每周更换街边广告牌。"
+          },
+          {
+            "sentence": "Digital hangers in elevators now play TikTok ads.",
+            "sentence_zh": "电梯里的电子广告牌开始播放抖音广告。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "coat hanger",
+        "meaning": "大衣架",
+        "examples": [
+          {
+            "sentence": "The dry cleaner gives free heart-shaped coat hangers.",
+            "sentence_zh": "这家干洗店赠送心形大衣架。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hanger steak",
+        "meaning": "隔膜肉牛排",
+        "examples": [
+          {
+            "sentence": "This French bistro serves hanger steak with truffle sauce.",
+            "sentence_zh": "这家法餐小馆供应松露酱隔膜肉牛排。"
+          }
+        ]
+      }
+    ],
+    "teach": "hanger是衣橱里的变形金刚🤖！当挂钩用时像章鱼吸盘🐙（hold your clothes），当衣架用时像时尚界T台👗（especially for designer pieces），当广告牌用时像会说话的墙壁🗣️（shout 'buy me!'）。记住：飞机也有hanger（机库），但那里只挂钢铁巨鸟✈️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'行啊'→衣架说'挂我行啊(hanger)'",
+        "易混词：hanger（衣架） vs hunger（饥饿）→'饿到把衣架当面条煮'"
+      ]
+    }
+  },
+  {
+    "word": "hanging",
+    "etymology": {
+      "breakdown": [
+        "hang",
+        "ing"
+      ],
+      "meaning_connection": "动词hang(悬挂)+名词后缀-ing→从'悬挂'引申出'绞刑'的暴力意象"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "悬挂",
+        "examples": [
+          {
+            "sentence": "The hanging of red lanterns signifies Spring Festival is coming.",
+            "sentence_zh": "悬挂的红灯笼预示着春节将至。"
+          },
+          {
+            "sentence": "Art gallery lighting requires professional hanging techniques.",
+            "sentence_zh": "美术馆灯光需要专业的悬挂技术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绞刑",
+        "examples": [
+          {
+            "sentence": "The last public hanging in Britain drew 20,000 spectators.",
+            "sentence_zh": "英国最后一次公开绞刑吸引了2万名围观者。"
+          },
+          {
+            "sentence": "Debates about hanging continue in some states of America.",
+            "sentence_zh": "关于绞刑的争议仍在美国某些州持续。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hanging by a thread",
+        "meaning": "岌岌可危",
+        "examples": [
+          {
+            "sentence": "His job was hanging by a thread after the TikTok scandal.",
+            "sentence_zh": "经历抖音丑闻后，他的工作岌岌可危。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hanging garden",
+        "meaning": "悬空花园",
+        "examples": [
+          {
+            "sentence": "The hanging gardens in Chongqing are built on cliff sides.",
+            "sentence_zh": "重庆的悬空花园建造在悬崖边上。"
+          }
+        ]
+      }
+    ],
+    "teach": "hanging是'悬挂界'的阴阳大师☯️！一边是浪漫的空中花园🌺（hanging garden），一边是恐怖的绞刑架💀。英语说'命悬一线'叫hanging by a thread，中文里'吊着卖'可以说hanging out for higher price。记住：看到hanging judge别以为是'吊着的法官'，而是'爱判绞刑的法官'👨⚖️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喊停'→绞刑前喊停",
+        "易混词对比：hung（hang过去式） vs hanged（绞刑专用过去式）"
+      ]
+    }
   }
 ]

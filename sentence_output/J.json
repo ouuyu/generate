@@ -8923,5 +8923,355 @@
         "易混词：connect侧重物理连接，join强调成为整体"
       ]
     }
+  },
+  {
+    "word": "joiner",
+    "etymology": {
+      "breakdown": [
+        "join",
+        "er"
+      ],
+      "meaning_connection": "词根join=连接，后缀-er表人或工具→专门从事连接工作的人或物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "细工木匠",
+        "examples": [
+          {
+            "sentence": "The joiner crafted a mahjong table with hidden cup holders.",
+            "sentence_zh": "木匠制作了带隐藏杯托的麻将桌。"
+          },
+          {
+            "sentence": "Like a joiner assembling puzzle pieces, he perfected the wooden screen.",
+            "sentence_zh": "他像拼图般精心组装木屏风。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "接合者",
+        "examples": [
+          {
+            "sentence": "As a relationship joiner, she introduced two rival hotpot brands to collaborate.",
+            "sentence_zh": "作为中间人，她促成了两家火锅品牌的合作。"
+          },
+          {
+            "sentence": "The subway joiner connected three lines with bubble tea shops along the way.",
+            "sentence_zh": "地铁联络线沿途连接多家奶茶店。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "接合物",
+        "examples": [
+          {
+            "sentence": "The 3D-printed joiner fused bamboo and carbon fiber seamlessly.",
+            "sentence_zh": "这个3D打印连接件完美融合竹材与碳纤维。"
+          },
+          {
+            "sentence": "Check the pipe joiner before the hotpot feast to avoid leaks.",
+            "sentence_zh": "吃火锅前记得检查燃气管接头。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "social joiner",
+        "meaning": "社交活跃分子",
+        "examples": [
+          {
+            "sentence": "As a social joiner, he's in 15 WeChat groups about spicy food.",
+            "sentence_zh": "作为社交达人，他加了15个辣味美食微信群。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "late joiner",
+        "meaning": "后来加入者",
+        "examples": [
+          {
+            "sentence": "The late joiner brought stinky tofu to the hotpot party.",
+            "sentence_zh": "迟到的加入者为火锅局带来了臭豆腐。"
+          }
+        ]
+      }
+    ],
+    "teach": "joiner是隐形英雄🔨！就像火锅里的鸳鸯锅中间那个隔板（hotpot divider），默默连接红汤白汤🌶️🥛。'细工木匠'讲究榫卯结构不用钉子，好比用筷子搭桥🥢；'接合者'像月老牵红线🧶（matchmaker）；'接合物'则是手机充电口的Type-C头🔌。记住：好的joiner能让鸳鸯锅不串味！",
+    "recite": {
+      "tips": [
+        "谐音梗：'找哪'→joiner总在找哪(join)里需要连接",
+        "易混词对比：carpenter（粗木匠）vs joiner（精细木工）",
+        "联想记忆：joiner的'er'像小锤子"
+      ]
+    }
+  },
+  {
+    "word": "joinery",
+    "etymology": {
+      "breakdown": [
+        "join",
+        "ery"
+      ],
+      "meaning_connection": "词根join=连接，后缀-ery表场所/行业→'通过榫卯连接的工艺'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "细木工技术",
+        "examples": [
+          {
+            "sentence": "The mortise-and-tenon joinery in this Ming dynasty cabinet has lasted 600 years.",
+            "sentence_zh": "这件明代橱柜的榫卯细木工技术已完好保存600年。"
+          },
+          {
+            "sentence": "Japanese joinery doesn't use nails, just like advanced 3D puzzles.",
+            "sentence_zh": "日本细木工技术不用钉子，就像高级立体拼图。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "细木工活",
+        "examples": [
+          {
+            "sentence": "The joinery on this wooden phone case makes it shockproof.",
+            "sentence_zh": "这个木质手机壳的细木工活让它具备防震功能。"
+          },
+          {
+            "sentence": "IKEA flat-pack furniture is the antithesis of traditional joinery.",
+            "sentence_zh": "宜家平板包装家具是传统细木工活的反面教材。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "细木工行业",
+        "examples": [
+          {
+            "sentence": "With 3D printing, the joinery industry is facing revolutionary changes.",
+            "sentence_zh": "随着3D打印技术出现，细木工行业正面临革命性变革。"
+          },
+          {
+            "sentence": "Lu Ban is considered the patron saint of Chinese joinery.",
+            "sentence_zh": "鲁班被视作中国细木工行业的守护神。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fine joinery",
+        "meaning": "精细木作",
+        "examples": [
+          {
+            "sentence": "The Forbidden City's windows showcase imperial fine joinery.",
+            "sentence_zh": "故宫的窗棂展现了皇家精细木作工艺。"
+          }
+        ]
+      }
+    ],
+    "teach": "joinery是木头界的乐高大师🧩！鲁班锁的玄机就在这个词里——不用胶水钉子，全靠精确切割（就像程序员不用胶水写代码💻）。搭配'woodworking'指普通木工，'carpentry'是粗木工。说'手艺糙'可以用butcher the joinery（把细木工活做成屠宰现场）🤹♂️。记住：好的joinery就像爱情，严丝合缝才能长久❤️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'找内瑞'→找内行(joinery)做细活",
+        "易混词：carpentry（粗木工）vs joinery（精木工）",
+        "记忆tip：join+ery=把木头'接'起来的'行业'"
+      ]
+    }
+  },
+  {
+    "word": "joining",
+    "etymology": {
+      "breakdown": [
+        "join",
+        "ing"
+      ],
+      "meaning_connection": "join源自古法语'joindre'（连接），-ing表名词化→连接的动作或结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "接缝",
+        "examples": [
+          {
+            "sentence": "The joining of this Hanfu sleeve is embroidered with golden threads.",
+            "sentence_zh": "这件汉服袖子的接缝处用金线绣着花纹。"
+          },
+          {
+            "sentence": "Check the joining of the pipes for potential leaks.",
+            "sentence_zh": "检查管道接缝处是否有潜在渗漏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "连接",
+        "examples": [
+          {
+            "sentence": "The joining of two rivers creates a spectacular view in Chongqing.",
+            "sentence_zh": "两条江的连接在重庆形成了壮观的景色。"
+          },
+          {
+            "sentence": "3D printing allows precise joining of complex components.",
+            "sentence_zh": "3D打印技术能实现复杂零件的精准连接。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "连接物",
+        "examples": [
+          {
+            "sentence": "This LEGO set includes special joinings for building spaceships.",
+            "sentence_zh": "这套乐高包含搭建太空船的特殊连接物。"
+          },
+          {
+            "sentence": "Traditional Chinese carpentry uses wooden joinings instead of nails.",
+            "sentence_zh": "中国传统木工使用木制连接物而非钉子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "joining fee",
+        "meaning": "入会费",
+        "examples": [
+          {
+            "sentence": "The gym waives joining fees during Spring Festival.",
+            "sentence_zh": "春节期间健身房免收入会费。"
+          }
+        ]
+      }
+    ],
+    "teach": "joining就像人际关系👥：好的接缝如同闺蜜逛街手挽手👭（smooth joining），糟糕的连接就像相亲现场尬聊💔（awkward joining）。'入伙费'叫joining fee就像火锅AA制🍲，'无缝衔接'说seamless joining就像奶茶第二杯半价🥤。记住：人生就是不断joining和rejoining的过程！",
+    "recite": {
+      "tips": [
+        "谐音梗：'找一宁'→找一宁(joining)师傅修家具",
+        "易混词对比：joint（关节）vs joining（连接过程）"
+      ]
+    }
+  },
+  {
+    "word": "joint",
+    "etymology": {
+      "breakdown": [
+        "join",
+        "t"
+      ],
+      "meaning_connection": "来自古法语joint（连接），源自拉丁语iunctus（连接），与join同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "连接处",
+        "examples": [
+          {
+            "sentence": "The plumber fixed the leak at the pipe joint.",
+            "sentence_zh": "水管工修好了管子连接处的漏水。"
+          },
+          {
+            "sentence": "Check the joints of the Lego pieces to ensure stability.",
+            "sentence_zh": "检查乐高积木的连接处以确保稳固。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "关节",
+        "examples": [
+          {
+            "sentence": "My knee joint hurts after hiking Mount Tai.",
+            "sentence_zh": "爬完泰山后我的膝关节疼。"
+          },
+          {
+            "sentence": "Pandas have special thumb joints to hold bamboo.",
+            "sentence_zh": "熊猫有特殊的拇指关节来握竹子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "共同的",
+        "examples": [
+          {
+            "sentence": "We opened a joint WeChat mini-program for our startup.",
+            "sentence_zh": "我们为创业项目开通了共同的微信小程序。"
+          },
+          {
+            "sentence": "The joint effort saved the drowning elephant.",
+            "sentence_zh": "共同努力救起了溺水的大象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "连接的",
+        "examples": [
+          {
+            "sentence": "This joint ticket allows access to both the Forbidden City and the Great Wall.",
+            "sentence_zh": "这张联票可游览故宫和长城。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "连接",
+        "examples": [
+          {
+            "sentence": "The craftsman jointed the mahjong tiles with precision.",
+            "sentence_zh": "工匠精准地连接了麻将牌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "贴合",
+        "examples": [
+          {
+            "sentence": "The puzzle pieces joint perfectly.",
+            "sentence_zh": "拼图碎片完美贴合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "joint venture",
+        "meaning": "合资企业",
+        "examples": [
+          {
+            "sentence": "This Tesla-GE joint venture produces charging stations.",
+            "sentence_zh": "这家特斯拉与通用的合资企业生产充电桩。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "out of joint",
+        "meaning": "脱臼",
+        "examples": [
+          {
+            "sentence": "His shoulder went out of joint while doing tai chi.",
+            "sentence_zh": "他打太极拳时肩膀脱臼了。"
+          }
+        ]
+      }
+    ],
+    "teach": "joint就像火锅鸳鸯锅🍲！名词时是连接的'格子'（关节/接口），形容词时是'共用的汤底'（joint account共同账户），动词时是'拼桌'动作🤝。说'我们AA'英文叫go Dutch（荷兰式），但'合资'却是joint venture（绝不叫go Chinese！）。记住：从人体关节到商业合作，都是joint的江湖！💼🦴🔗",
+    "recite": {
+      "tips": [
+        "谐音梗：'找因他'→找因他(joint)修关节",
+        "对比记忆：join（动作）→joint（结果状态）"
+      ]
+    }
   }
 ]

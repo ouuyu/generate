@@ -8851,5 +8851,382 @@
         "视觉联想：把-und-想成涌动的U形波浪线〰️"
       ]
     }
+  },
+  {
+    "word": "abuse",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "use"
+      ],
+      "meaning_connection": "前缀ab-表示'偏离'，词根use=使用→偏离正常使用方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "滥用",
+        "examples": [
+          {
+            "sentence": "The abuse of power by officials sparked public outrage.",
+            "sentence_zh": "官员权力滥用引发公众愤怒。"
+          },
+          {
+            "sentence": "Antibiotic abuse has created super bacteria.",
+            "sentence_zh": "抗生素滥用催生了超级细菌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "虐待",
+        "examples": [
+          {
+            "sentence": "The documentary exposed animal abuse in circuses.",
+            "sentence_zh": "纪录片揭露了马戏团的动物虐待现象。"
+          },
+          {
+            "sentence": "Child abuse leaves lifelong psychological scars.",
+            "sentence_zh": "儿童虐待会造成终身心理创伤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "恶习",
+        "examples": [
+          {
+            "sentence": "Gambling is an abuse that ruined his family.",
+            "sentence_zh": "赌博是毁掉他家庭的恶习。"
+          },
+          {
+            "sentence": "In ancient China, foot-binding was a cruel social abuse.",
+            "sentence_zh": "缠足是中国古代残忍的社会恶习。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "辱骂",
+        "examples": [
+          {
+            "sentence": "Online abuse against streamers has become a serious issue.",
+            "sentence_zh": "针对主播的网络辱骂已成严重问题。"
+          },
+          {
+            "sentence": "He endured verbal abuse from his drunk neighbor.",
+            "sentence_zh": "他忍受着醉酒邻居的语言辱骂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "滥用",
+        "examples": [
+          {
+            "sentence": "Some influencers abuse beauty filters to deceive fans.",
+            "sentence_zh": "有些网红滥用美颜滤镜欺骗粉丝。"
+          },
+          {
+            "sentence": "Never abuse emergency exits in subway stations.",
+            "sentence_zh": "切勿滥用地铁站的紧急出口。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "辱骂",
+        "examples": [
+          {
+            "sentence": "The customer abused the waiter for bringing cold noodles.",
+            "sentence_zh": "顾客因面条凉了而辱骂服务员。"
+          },
+          {
+            "sentence": "Netizens who abuse others anonymously are called 'keyboard warriors'.",
+            "sentence_zh": "匿名辱骂他人的网民被称为'键盘侠'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "虐待",
+        "examples": [
+          {
+            "sentence": "The zoo keeper was fired for abusing pandas.",
+            "sentence_zh": "饲养员因虐待熊猫被解雇。"
+          },
+          {
+            "sentence": "In some countries, abusing elders is a criminal offense.",
+            "sentence_zh": "在某些国家，虐待老人是刑事犯罪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "substance abuse",
+        "meaning": "药物滥用",
+        "examples": [
+          {
+            "sentence": "Many celebrities struggle with substance abuse.",
+            "sentence_zh": "许多明星深受药物滥用困扰。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "abuse of process",
+        "meaning": "程序滥用",
+        "examples": [
+          {
+            "sentence": "Frivolous lawsuits may constitute abuse of process.",
+            "sentence_zh": "无谓诉讼可能构成程序滥用。"
+          }
+        ]
+      }
+    ],
+    "teach": "abuse是颗腐烂的苹果🍎！词根use(使用)加前缀ab-(偏离)就像把好苹果用烂了。历史上，'盐税滥用'曾引发法国大革命⚔️。说'滥用职权'可以用power trip这个地道表达。搭配记住：drug abuse(吸毒)和alcohol abuse(酗酒)。记住：任何好的use变成abuse都会变成bad news！💢🤬👎",
+    "recite": {
+      "tips": [
+        "谐音梗：'恶不死'→滥用恶习死不了",
+        "对比记忆：use使用 vs abuse滥用",
+        "联想：ab-开头常表负面（absent缺席/abnormal异常）"
+      ]
+    }
+  },
+  {
+    "word": "abused",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "us",
+        "ed"
+      ],
+      "meaning_connection": "前缀ab-表'偏离'，词根us=使用，-ed表被动→被错误使用"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "受虐",
+        "examples": [
+          {
+            "sentence": "The documentary exposed cases of child abused in the orphanage.",
+            "sentence_zh": "纪录片揭露了孤儿院的儿童受虐案例。"
+          },
+          {
+            "sentence": "Abused animals often show extreme fear of humans.",
+            "sentence_zh": "受虐动物常表现出对人类极度恐惧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "滥用",
+        "examples": [
+          {
+            "sentence": "Drug abused destroyed his promising basketball career.",
+            "sentence_zh": "药物滥用毁掉了他本有前途的篮球生涯。"
+          },
+          {
+            "sentence": "The abused of power by officials triggered public anger.",
+            "sentence_zh": "官员的权力滥用引发了公众愤怒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "恶习",
+        "examples": [
+          {
+            "sentence": "Gambling abused left him homeless in Macau.",
+            "sentence_zh": "赌博恶习让他在澳门流落街头。"
+          },
+          {
+            "sentence": "Breaking chopsticks is considered rice abused in Chinese culture.",
+            "sentence_zh": "折断筷子在中国文化中被视为糟蹋粮食的恶习。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sexually abused",
+        "meaning": "性虐待",
+        "examples": [
+          {
+            "sentence": "The #MeToo movement gave voice to sexually abused victims.",
+            "sentence_zh": "#MeToo运动为遭受性虐待的受害者发声。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "verbally abused",
+        "meaning": "言语辱骂",
+        "examples": [
+          {
+            "sentence": "Livestreamers being verbally abused is a serious issue in the industry.",
+            "sentence_zh": "主播遭受言语辱骂是该行业的严重问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "abused这个词像被摔碎的瓷器🧩：前缀ab-像偏离轨道的火车🚂（abnormal），词根us是被用旧了的工具🔧（used），合起来就是'被玩坏了'。说'遭受网络暴力'叫cyber abused，'家暴受害者'是domestic abused survivor。记住：所有abused都像被过度摇晃的可乐罐🥤——迟早会爆炸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鳄鱼不死的'→被abused的鳄鱼装死逃生",
+        "易混对比：abused（被动受害） vs abuse（主动施害）",
+        "记忆tip：ab+used=使用方式(use)偏离(ab)正轨"
+      ]
+    }
+  },
+  {
+    "word": "abuser",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "use",
+        "er"
+      ],
+      "meaning_connection": "前缀ab-表示'偏离'，use表示'使用'，后缀-er表示'人'→原指偏离正确使用方式的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "滥用者",
+        "examples": [
+          {
+            "sentence": "The drug abuser was sent to rehab center by his weeping mother.",
+            "sentence_zh": "那个药物滥用者被哭泣的母亲送进了康复中心。"
+          },
+          {
+            "sentence": "Power abusers often end up like boiled frogs - not realizing their downfall until it's too late.",
+            "sentence_zh": "权力滥用者常如温水煮青蛙，等到察觉时为时已晚。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "substance abuser",
+        "meaning": "药物滥用者",
+        "examples": [
+          {
+            "sentence": "The celebrity's career collapsed after being exposed as a substance abuser.",
+            "sentence_zh": "这位明星被曝是药物滥用者后事业崩塌。"
+          }
+        ]
+      }
+    ],
+    "teach": "abuser就是'啊不user'🚫：前缀ab-像刹车标志🚧阻止正常使用(use)。说'滥用职权'叫power abuse像开挂打游戏🎮，而drug abuser吸毒者就像被程序bug控制的NPC🤖。记住：加-er变施害者，加-ee变受害者（如employee）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'恶霸zer'→滥用者是恶霸",
+        "易混词对比：abuser（主动滥用者） vs abused（被虐待者）",
+        "记忆tip：ab+user=把正常用户(user)带歪(ab)的人"
+      ]
+    }
+  },
+  {
+    "word": "abusive",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "us",
+        "ive"
+      ],
+      "meaning_connection": "前缀ab-表示'偏离'，词根us表示'使用'，-ive表性质→'偏离正常使用'即滥用，引申出负面含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "恶言谩骂的",
+        "examples": [
+          {
+            "sentence": "The streamer got banned for his abusive language towards viewers.",
+            "sentence_zh": "该主播因对观众恶语相向被封号。"
+          },
+          {
+            "sentence": "Never tolerate abusive comments in livestream chatrooms.",
+            "sentence_zh": "绝不容忍直播间弹幕里的辱骂言论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "被滥用的",
+        "examples": [
+          {
+            "sentence": "Abusive application of pesticides harms honeybees.",
+            "sentence_zh": "农药的滥用会伤害蜜蜂。"
+          },
+          {
+            "sentence": "The abusive use of VPNs may violate regulations.",
+            "sentence_zh": "VPN的滥用可能违反规定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "腐败的",
+        "examples": [
+          {
+            "sentence": "The abusive official was sentenced for taking bribes.",
+            "sentence_zh": "这个腐败官员因受贿被判刑。"
+          },
+          {
+            "sentence": "The investigation exposed abusive practices in the department.",
+            "sentence_zh": "调查揭露了该部门的腐败行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "虐待的",
+        "examples": [
+          {
+            "sentence": "Animal shelters rescue pets from abusive owners.",
+            "sentence_zh": "动物收容所从虐待宠物的主人那里解救小动物。"
+          },
+          {
+            "sentence": "The movie depicts an abusive childhood in shocking detail.",
+            "sentence_zh": "电影以震撼细节描绘了受虐待的童年。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abusive behavior",
+        "meaning": "虐待行为",
+        "examples": [
+          {
+            "sentence": "Schools must report any signs of abusive behavior immediately.",
+            "sentence_zh": "学校必须立即报告任何虐待行为的迹象。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "abusive power",
+        "meaning": "权力滥用",
+        "examples": [
+          {
+            "sentence": "The new policy aims to prevent abusive power by officials.",
+            "sentence_zh": "新政策旨在防止官员滥用权力。"
+          }
+        ]
+      }
+    ],
+    "teach": "abusive就像失控的泥头车🚚：当它表示'辱骂'时，像直播间喷子刷屏🗯️（abusive language）；表示'滥用'时，像熊孩子狂挤番茄酱🍅（abusive use）；表示'腐败'时，像老鼠偷吃国家粮仓🐭（abusive official）；表示'虐待'时，像容嬷嬷拿针扎紫薇🧵（abusive treatment）。记住：看到abusive就要警惕负面能量⚠️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'额不休'→额头上青筋暴起不休(abusive)地骂人",
+        "对比记忆：abuse（动词）是abusive的源头，就像'骂人'和'骂人的'关系"
+      ]
+    }
   }
 ]

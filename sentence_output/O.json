@@ -8708,5 +8708,306 @@
         "易混词对比：professional（专业的） vs occupational（职业相关的）"
       ]
     }
+  },
+  {
+    "word": "occupied",
+    "etymology": {
+      "breakdown": [
+        "oc",
+        "cup",
+        "ied"
+      ],
+      "meaning_connection": "前缀oc-表示'完全'，词根cup来自拉丁语capere'抓住'，-ied为形容词后缀→完全被抓住的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "已占用的",
+        "examples": [
+          {
+            "sentence": "All the charging ports in the Starbucks were occupied by TikTok streamers.",
+            "sentence_zh": "星巴克所有充电口都被抖音主播占用了。"
+          },
+          {
+            "sentence": "The toilet is occupied by someone playing Honor of Kings.",
+            "sentence_zh": "厕所被玩王者荣耀的人占着。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "使用中的",
+        "examples": [
+          {
+            "sentence": "The conference room will be occupied for livestream sales until midnight.",
+            "sentence_zh": "会议室将用于直播带货直到半夜。"
+          },
+          {
+            "sentence": "Her hands were occupied with spicy crayfish and couldn't check messages.",
+            "sentence_zh": "她双手正忙着剥小龙虾没法回消息。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无空闲的",
+        "examples": [
+          {
+            "sentence": "Doctors are fully occupied with flu patients during winter.",
+            "sentence_zh": "冬季医生们被流感患者占满所有时间。"
+          },
+          {
+            "sentence": "Her schedule is occupied with douyin video shoots every weekend.",
+            "sentence_zh": "她每个周末都排满了抖音视频拍摄。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be occupied with",
+        "meaning": "忙于",
+        "examples": [
+          {
+            "sentence": "The grandma is occupied with feeding 20 stray cats daily.",
+            "sentence_zh": "老太太每天忙于投喂20只流浪猫。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "occupied territory",
+        "meaning": "被占领土",
+        "examples": [
+          {
+            "sentence": "Pigeons treat my balcony as occupied territory for 3 years.",
+            "sentence_zh": "鸽子把我的阳台当作被占领土已有三年。"
+          }
+        ]
+      }
+    ],
+    "teach": "occupied就像春运高铁上的厕所🚽！词源是'完全抓住'（oc+cup），引申出三种'满'状态：物理占用（如共享单车被私锁🔒）、使用中（如广场舞大妈占领篮球场🏀）、时间排满（如打工人996日程📅）。说'忙到飞起'用swamped like a dumpling in hotpot（像火锅里的饺子）。记住：看到occupied就想到'满员'牌！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦Q派'→哦Q派(occupied)占座不挪窝",
+        "易混词：busy强调主观忙碌，occupied侧重客观占用"
+      ]
+    }
+  },
+  {
+    "word": "occupier",
+    "etymology": {
+      "breakdown": [
+        "oc",
+        "cup",
+        "ier"
+      ],
+      "meaning_connection": "前缀oc-表示'朝向'，词根cup表示'拿取'，后缀-ier表示'人'→原指拿取某物的人，引申出'占用者'和'军事占领者'的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "占用者",
+        "examples": [
+          {
+            "sentence": "The young occupier turned the abandoned factory into a skate park.",
+            "sentence_zh": "年轻的占用者将废弃工厂改造成了滑板场。"
+          },
+          {
+            "sentence": "As the current occupier, he's responsible for the broken window.",
+            "sentence_zh": "作为现任占用者，他需要对破损的窗户负责。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "居住者",
+        "examples": [
+          {
+            "sentence": "The occupiers of this 600-year-old courtyard are all descendants of the Ming Dynasty.",
+            "sentence_zh": "这座600年四合院的居住者都是明代后裔。"
+          },
+          {
+            "sentence": "New occupiers must register within 3 days according to local rules.",
+            "sentence_zh": "根据当地规定，新居住者必须在3天内登记。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "军事占领者",
+        "examples": [
+          {
+            "sentence": "The museum displays photos of resistance against WWII occupiers.",
+            "sentence_zh": "博物馆陈列着二战时期反抗军事占领者的照片。"
+          },
+          {
+            "sentence": "Ancient city walls still bear scars from Mongol occupiers' arrows.",
+            "sentence_zh": "古城墙上仍留有蒙古军事占领者箭矢的伤痕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "illegal occupier",
+        "meaning": "非法占据者",
+        "examples": [
+          {
+            "sentence": "The illegal occupier was growing potatoes on the rooftop.",
+            "sentence_zh": "非法占据者曾在屋顶种植土豆。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "long-term occupier",
+        "meaning": "长期居住者",
+        "examples": [
+          {
+            "sentence": "As a long-term occupier, she knew every secret corner of the library.",
+            "sentence_zh": "作为图书馆的长期居住者，她知道每个隐秘角落。"
+          }
+        ]
+      }
+    ],
+    "teach": "occupier就像'房产证上的名字'🏠：可以是合租的北漂（居住者），可以是霸占车位的路虎车主（占用者），还能指带着坦克的'不速之客'（军事占领者）🚩。说'鸠占鹊巢'英语是squatter occupier，'原住民'叫original occupiers。记住：后缀-ier总指'搞事情的人'，就像crier是哭喊者，occupier就是'搞占领的人'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬咖啡'→占领者(occupier)在指挥部熬咖啡☕",
+        "易混词对比：occupant（中性居住者） vs occupier（常带强制色彩）",
+        "记忆诀：oc-（强行）+cup（拿杯子）= 抢别人杯子的人"
+      ]
+    }
+  },
+  {
+    "word": "occupy",
+    "etymology": {
+      "breakdown": [
+        "oc",
+        "cupy"
+      ],
+      "meaning_connection": "前缀oc-表示'朝向'，词根cupy来自拉丁语capere='抓取'→原义为'把持某物'，引申出空间/时间/注意力等多维度的占据概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "军事占领",
+        "examples": [
+          {
+            "sentence": "The rebels occupied the presidential palace within 2 hours.",
+            "sentence_zh": "叛军两小时内占领了总统府。"
+          },
+          {
+            "sentence": "During WWII, Japan occupied many Asian countries.",
+            "sentence_zh": "二战期间日本占领了许多亚洲国家。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "占据（空间）",
+        "examples": [
+          {
+            "sentence": "Her designer handbag occupies half the suitcase.",
+            "sentence_zh": "她的设计师手包占了行李箱一半空间。"
+          },
+          {
+            "sentence": "The new IKEA shelf occupies exactly 0.8 square meters.",
+            "sentence_zh": "这个新宜家货架刚好占0.8平方米。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "占用（时间）",
+        "examples": [
+          {
+            "sentence": "TikTok occupies 90% of my commuting time.",
+            "sentence_zh": "抖音占用了通勤时间的90%。"
+          },
+          {
+            "sentence": "The meeting occupied the whole afternoon.",
+            "sentence_zh": "会议占用了整个下午。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "居住",
+        "examples": [
+          {
+            "sentence": "They occupy a tiny studio near the Bund.",
+            "sentence_zh": "他们住在外滩附近的小开间。"
+          },
+          {
+            "sentence": "Pandas occupy special enclosures in the zoo.",
+            "sentence_zh": "熊猫居住在动物园的特制围栏里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "担任（职位）",
+        "examples": [
+          {
+            "sentence": "She occupies the CFO position at that unicorn startup.",
+            "sentence_zh": "她在那家独角兽公司担任CFO。"
+          },
+          {
+            "sentence": "The chair has been occupied by him for 15 years.",
+            "sentence_zh": "这个主席职位由他担任了15年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使全神贯注",
+        "examples": [
+          {
+            "sentence": "The AR game occupied all the children's attention.",
+            "sentence_zh": "这个AR游戏完全占据了孩子们的注意力。"
+          },
+          {
+            "sentence": "Her mind was occupied with stock market trends.",
+            "sentence_zh": "她满脑子都是股市走势。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "occupy oneself with",
+        "meaning": "忙于做某事",
+        "examples": [
+          {
+            "sentence": "He occupies himself with breeding orchids after retirement.",
+            "sentence_zh": "退休后他忙于培育兰花。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "be occupied in",
+        "meaning": "正在从事",
+        "examples": [
+          {
+            "sentence": "The scientists are occupied in developing quantum chips.",
+            "sentence_zh": "科学家们正致力于研发量子芯片。"
+          }
+        ]
+      }
+    ],
+    "teach": "occupy就像八爪鱼🐙的触手！军事占领是武力触手（occupy territory），空间占据是物理触手（occupy space），时间占用是隐形触手⏳（occupy time），担任职位是身份触手👔（occupy position），注意力占据是魔法触手🔮（occupy mind）。地道表达：'忙疯了'叫up to one's eyeballs（眼球都被淹没了）",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊Q派'→阿Q派兵占领(occupy)未庄",
+        "易混词：occupy vs. preoccupy（前者是客观占据，后者是主观沉迷）",
+        "记忆法：OC=欧式橱柜，CUPY=茶杯→橱柜里的茶杯'占据'了所有空间"
+      ]
+    }
   }
 ]

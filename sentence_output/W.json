@@ -9155,5 +9155,185 @@
         "易混词对比：washing（正在洗） vs washed（已洗好）"
       ]
     }
+  },
+  {
+    "word": "washerwoman",
+    "etymology": {
+      "breakdown": [
+        "wash",
+        "er",
+        "woman"
+      ],
+      "meaning_connection": "wash（洗）+ -er（从事...的人）+ woman（女性）→从事洗衣工作的女性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗衣女工",
+        "examples": [
+          {
+            "sentence": "The washerwoman by the river still beats clothes with wooden sticks like her grandmother did.",
+            "sentence_zh": "河边洗衣女工仍像她祖母那样用木棒捶打衣物。"
+          },
+          {
+            "sentence": "In the period drama, the washerwoman secretly mended the young master's torn love letter.",
+            "sentence_zh": "在这部年代剧中，洗衣女工偷偷修补了少爷被撕碎的情书。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "old washerwoman",
+        "meaning": "老洗衣妇",
+        "examples": [
+          {
+            "sentence": "The old washerwoman became the neighborhood's walking news broadcaster.",
+            "sentence_zh": "那位老洗衣妇成了社区的行走新闻播报员。"
+          }
+        ]
+      }
+    ],
+    "teach": "washerwoman是工业革命前的'人肉洗衣机'🧺！在19世纪伦敦，她们被称为'泰晤士河美人鱼'🧜♀️——因为整天弯腰洗衣的背影远看像人鱼。现代吐槽'洗衣服好累'可以说I'm no washerwoman（我又不是洗衣工），搭配blue soap（老式蓝皂）和clothes bat（捣衣棒）更显复古。记住：没有她们，欧洲贵族就得穿着发臭的蕾丝领💂♀️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我刷我门'→洗衣工边刷门板边洗衣",
+        "易混词对比：laundress（更文雅的洗衣妇）"
+      ]
+    }
+  },
+  {
+    "word": "washing",
+    "etymology": {
+      "breakdown": [
+        "wash",
+        "ing"
+      ],
+      "meaning_connection": "词根wash=洗涤，-ing表名词化→与清洁相关的动作或结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗涤",
+        "examples": [
+          {
+            "sentence": "The sound of washing from the laundromat mixes with street vendors' cries.",
+            "sentence_zh": "洗衣店的洗涤声与小贩吆喝声交织在一起。"
+          },
+          {
+            "sentence": "Hand washing with Peking soap is her daily meditation.",
+            "sentence_zh": "用北京药皂手洗是她的每日冥想。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "浸",
+        "examples": [
+          {
+            "sentence": "The washing of rice in bamboo baskets is an art in rural Zhejiang.",
+            "sentence_zh": "在竹篮里浸洗大米是浙江乡村的一门手艺。"
+          },
+          {
+            "sentence": "Tea leaf washing requires precise water temperature control.",
+            "sentence_zh": "茶叶的浸洗需要精准控制水温。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗涤物",
+        "examples": [
+          {
+            "sentence": "Her balcony overflows with colorful washing like a UN flag.",
+            "sentence_zh": "她阳台晾晒的洗涤物多得像联合国旗帜。"
+          },
+          {
+            "sentence": "The AI-powered washing sorter recognizes fabric types automatically.",
+            "sentence_zh": "这款AI洗涤物分拣机可自动识别面料类型。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "do the washing",
+        "meaning": "洗衣服",
+        "examples": [
+          {
+            "sentence": "He streams live broadcasts while doing the washing to earn tips.",
+            "sentence_zh": "他边直播洗衣服边赚打赏。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "washing machine",
+        "meaning": "洗衣机",
+        "examples": [
+          {
+            "sentence": "This washing machine plays the Olympic anthem when finishing cycles.",
+            "sentence_zh": "这台洗衣机洗完衣服会播放奥运歌。"
+          }
+        ]
+      }
+    ],
+    "teach": "washing是'万物皆可洗'🏊♂️！古人用棒槌洗衣叫beating clothes（真·打工人），现代人把手机扔进洗衣机叫tech washing📱💦。说'洗衣服'地道表达是do laundry（和钱money同源，因为中世纪洗衣要付费！）。记住：washing machine是人类最伟大的发明——仅次于空调！🧺⚡🧼",
+    "recite": {
+      "tips": [
+        "谐音梗：'我醒'→早晨被洗衣机吵醒(washing)",
+        "易混词：washing（洗涤过程） vs laundry（待洗/已洗衣物）",
+        "记忆tip：washing结尾的-ing暗示正在进行时→永远洗不完的衣服"
+      ]
+    }
+  },
+  {
+    "word": "washroom",
+    "etymology": {
+      "breakdown": [
+        "wash",
+        "room"
+      ],
+      "meaning_connection": "wash表示'清洗'，room表示'房间'→专门用于清洁的房间"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "盥洗室",
+        "examples": [
+          {
+            "sentence": "The airport washroom has a baby-changing station and heated mirrors.",
+            "sentence_zh": "机场盥洗室配有婴儿护理台和加热镜子。"
+          },
+          {
+            "sentence": "Excuse me, where's the washroom? I've drunk too much boba tea.",
+            "sentence_zh": "请问盥洗室在哪？我奶茶喝太多了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "public washroom",
+        "meaning": "公共洗手间",
+        "examples": [
+          {
+            "sentence": "The 24-hour public washroom near Wangfujing has won design awards.",
+            "sentence_zh": "王府井附近的24小时公共洗手间获得过设计大奖。"
+          }
+        ]
+      }
+    ],
+    "teach": "washroom其实是'水房'💦的优雅说法！在加拿大这是厕所的委婉表达（就像我们说'去洗手'👐），而英国人更爱用toilet。记住两个搭配：'抢厕所'叫rush to the washroom🚽，'排队等厕所'是line up for the washroom🚶‍♂️🚶‍♀️。遇到紧急情况可以说'I'm doing the washroom dance'（内急之舞）💃，比直接说更幽默！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我湿润'→盥洗室让我湿湿润润",
+        "易混词对比：bathroom（带浴缸的卫生间） vs washroom（仅洗手功能）",
+        "记忆tip：把wash+room想象成抖音'泼水成画'挑战的房间🎨"
+      ]
+    }
   }
 ]

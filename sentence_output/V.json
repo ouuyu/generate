@@ -9004,5 +9004,333 @@
         "易混词：veiled (含蓄的) vs. revealed (公开的)"
       ]
     }
+  },
+  {
+    "word": "vein",
+    "etymology": {
+      "breakdown": [
+        "vein"
+      ],
+      "meaning_connection": "源自古法语veine，来自拉丁语vena，最初指'矿脉'，后延伸出'血管'等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "血管",
+        "examples": [
+          {
+            "sentence": "The nurse found his vein for injection after three attempts.",
+            "sentence_zh": "护士扎了三针才找到他的血管。"
+          },
+          {
+            "sentence": "Varicose veins look like blue rivers under pale skin.",
+            "sentence_zh": "静脉曲张在白皙皮肤下像蓝色河流。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "静脉",
+        "examples": [
+          {
+            "sentence": "Jade rollers help drain lymph through facial veins.",
+            "sentence_zh": "玉滚轮通过面部静脉帮助排毒。"
+          },
+          {
+            "sentence": "The pulmonary vein carries oxygenated blood.",
+            "sentence_zh": "肺静脉输送含氧血液。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "纹理",
+        "examples": [
+          {
+            "sentence": "The marble countertop has golden veins like lightning.",
+            "sentence_zh": "大理石台面的金色纹路如闪电。"
+          },
+          {
+            "sentence": "Tea leaves unfurl to reveal delicate veins.",
+            "sentence_zh": "茶叶舒展露出纤细的叶脉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "气质",
+        "examples": [
+          {
+            "sentence": "Her poems carry a vein of melancholy.",
+            "sentence_zh": "她的诗带有忧郁气质。"
+          },
+          {
+            "sentence": "The movie continues in the same vein of dark humor.",
+            "sentence_zh": "电影延续了同款黑色幽默风格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使有脉络",
+        "examples": [
+          {
+            "sentence": "The artist veined the jade with gold inlays.",
+            "sentence_zh": "艺术家用金丝在玉石上镶嵌出脉络。"
+          },
+          {
+            "sentence": "Frost veined the windowpane overnight.",
+            "sentence_zh": "一夜霜冻在窗玻璃上结成冰纹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in the same vein",
+        "meaning": "以同样风格",
+        "examples": [
+          {
+            "sentence": "His new novel is in the same vein as his Pulitzer-winning work.",
+            "sentence_zh": "他的新小说延续了普利策获奖作的风格。"
+          }
+        ]
+      }
+    ],
+    "teach": "vein是身体的快递网络🚚！古人以为血管输送性格（所以有'vein of humor'说法），就像重庆火锅的九宫格🍲分不同辣度区域。'鸡皮疙瘩'说goosebumps不如说your veins are throwing a party💃！记住：血管是vein不是vain（虚荣）——后者只会让你血脉贲张😤",
+    "recite": {
+      "tips": [
+        "谐音梗：'纹印'→玉石上的纹理印记",
+        "对比记忆：vein（静）/artery（动）就像地铁1号线和2号线",
+        "联想：叶脉=植物vein，大理石纹=石头vein"
+      ]
+    }
+  },
+  {
+    "word": "veined",
+    "etymology": {
+      "breakdown": [
+        "vein",
+        "ed"
+      ],
+      "meaning_connection": "词根vein=血管/叶脉，后缀-ed表形容词→'带有脉络的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有脉纹的（如大理石）",
+        "examples": [
+          {
+            "sentence": "The veined marble countertop looks like frozen rivers.",
+            "sentence_zh": "带有脉纹的大理石台面像凝固的河流。"
+          },
+          {
+            "sentence": "Her veined hands held a cup of steaming pu'er tea.",
+            "sentence_zh": "她青筋微显的手捧着一杯热气腾腾的普洱茶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有叶脉的（植物）",
+        "examples": [
+          {
+            "sentence": "The veined leaves make this plant perfect for pressed flower art.",
+            "sentence_zh": "脉络分明的叶片让这种植物特别适合押花艺术。"
+          },
+          {
+            "sentence": "Tea masters observe veined patterns to identify Longjing tea quality.",
+            "sentence_zh": "茶道大师通过观察叶脉纹路辨别龙井茶的品质。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有纹理的（材质）",
+        "examples": [
+          {
+            "sentence": "This veined quartz resembles a galaxy when polished.",
+            "sentence_zh": "这块带纹理的石英打磨后像银河般璀璨。"
+          },
+          {
+            "sentence": "The veined beef shows perfect marbling for hotpot.",
+            "sentence_zh": "这块纹理分明的牛肉最适合涮火锅。"
+          }
+        ]
+      }
+    ],
+    "teach": "veined是大自然的条形码🖨️！就像叶脉是植物的高速公路🚛（leaf veins transport nutrients），大理石纹是地球的皱纹🗺️。说'纹理明显'可以用heavily veined，'纹理细腻'是finely veined。记住：看到veined的东西，不是血管就是艺术🎨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'纹的'→直接记'有纹的'",
+        "对比记忆：veined（自然纹理） vs. striped（规则条纹）"
+      ]
+    }
+  },
+  {
+    "word": "velcro",
+    "etymology": {
+      "breakdown": [
+        "vel",
+        "cro"
+      ],
+      "meaning_connection": "源自法语'velours'(天鹅绒)+'crochet'(钩子)→模拟搭扣的钩毛结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "尼龙搭扣（商标名）",
+        "examples": [
+          {
+            "sentence": "The astronaut's gloves use velcro to attach tools in zero gravity.",
+            "sentence_zh": "宇航员手套使用维可牢在失重环境下固定工具。"
+          },
+          {
+            "sentence": "Baby shoes with velcro are parents' lifesaver during diaper changes.",
+            "sentence_zh": "带魔术贴的童鞋是家长换尿布时的救星。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "velcro fastener",
+        "meaning": "魔术贴扣件",
+        "examples": [
+          {
+            "sentence": "The new hiking backpack features waterproof velcro fasteners.",
+            "sentence_zh": "新款登山包采用防水魔术贴扣件。"
+          }
+        ]
+      }
+    ],
+    "teach": "维可牢其实是'听音造词'的典范👂！1948年瑞士工程师被牛蒡籽粘裤腿启发，发明了这种'植物仿生科技'🌱。说'粘得牢'可以用stick like velcro（像魔术贴般牢固），'突然分开'叫rip like velcro（撕拉一声分开）。它就像爱情💑：钩毛结构=互相包容，强行撕开=两败俱伤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪耳扣'→歪着耳朵扣(velcro)上",
+        "易混词：zipper(拉链)/snap(按扣)",
+        "记忆tip：想象维尼熊用velcro粘蜂蜜罐子🐻"
+      ]
+    }
+  },
+  {
+    "word": "veld",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自南非荷兰语，原指'田野'，现特指南非稀树草原景观"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "南非草原",
+        "examples": [
+          {
+            "sentence": "The sunset over the veld turns acacia trees into golden silhouettes.",
+            "sentence_zh": "草原落日将金合欢树染成金色剪影。"
+          },
+          {
+            "sentence": "Springbok herds migrate across the veld like living carpets.",
+            "sentence_zh": "跳羚群像流动的地毯般穿越草原。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "high veld",
+        "meaning": "高海拔草原",
+        "examples": [
+          {
+            "sentence": "Johannesburg is located on the high veld with crisp air.",
+            "sentence_zh": "约翰内斯堡坐落于空气清新的高海拔草原。"
+          }
+        ]
+      }
+    ],
+    "teach": "veld其实是非洲限定版Windows桌面🌄！这片草原藏着《狮子王》的取景地，就像辛巴和刀疤的皇家擂台🥊。说'广阔草原'别用plain，要说endless veld（无尽草原），'草原落日'叫veld sunset自带《动物世界》BGM🎵。记住：没去过veld的斑马，就像没挤过地铁的打工人🚇",
+    "recite": {
+      "tips": [
+        "谐音梗：'外的'→南非'外的'大草原",
+        "易混词对比：veld（非洲特有）vs prairie（北美草原）vs steppe（欧亚干草原）",
+        "记忆tip：联想veld开头的v像羚羊角"
+      ]
+    }
+  },
+  {
+    "word": "vellum",
+    "etymology": {
+      "breakdown": [
+        "vel",
+        "um"
+      ],
+      "meaning_connection": "词根vel=皮（来自古法语'velin'），-um为中性名词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "上等皮纸",
+        "examples": [
+          {
+            "sentence": "The Constitution was originally written on vellum made from calfskin.",
+            "sentence_zh": "美国宪法最初写在用小牛皮制成的上等皮纸上。"
+          },
+          {
+            "sentence": "Calligraphers pay extra for Mongolian goat vellum.",
+            "sentence_zh": "书法家会为蒙古山羊皮纸额外付费。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "皮纸文书",
+        "examples": [
+          {
+            "sentence": "Harry Potter's Marauder's Map was drawn on magical vellum.",
+            "sentence_zh": "哈利·波特的活点地图绘制在魔法皮纸上。"
+          },
+          {
+            "sentence": "Medieval monks often transcribed Bibles onto vellum.",
+            "sentence_zh": "中世纪修士常在皮纸上抄写圣经。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "牛皮纸的",
+        "examples": [
+          {
+            "sentence": "This vellum envelope feels like touching a baby's skin.",
+            "sentence_zh": "这个牛皮纸信封摸起来像婴儿肌肤。"
+          },
+          {
+            "sentence": "Her wedding invitations had vellum overlays.",
+            "sentence_zh": "她的婚礼请柬带有牛皮纸覆盖层。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vellum paper",
+        "meaning": "仿皮纸",
+        "examples": [
+          {
+            "sentence": "IKEA uses vellum paper for their minimalist lamp designs.",
+            "sentence_zh": "宜家用仿皮纸制作极简风格灯罩。"
+          }
+        ]
+      }
+    ],
+    "teach": "vellum是古代'爱马仕皮具'🐄！中世纪一本圣经需要300头小牛犊的皮（叫uterine vellum）。现代人说'高端简历'叫vellum resume就像在星巴克写甲骨文📜。搭配：vellum finish（仿皮纸质感）、vellum tracing（描图纸）。说'廉价替代品'用poor man's vellum（就像用A4纸冒充羊皮卷）🤓",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪了目'→皮纸太贵看得肉疼",
+        "易混词：parchment（更粗糙的羊皮纸）"
+      ]
+    }
   }
 ]

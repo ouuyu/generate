@@ -8455,5 +8455,368 @@
         "谐音梗：'亏特'→特爱亏本所以放弃"
       ]
     }
+  },
+  {
+    "word": "quiver",
+    "etymology": {
+      "breakdown": [
+        "quiver"
+      ],
+      "meaning_connection": "源自古英语'cwifer'，与'quick'（快速）同源，暗示快速运动的概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "震动",
+        "examples": [
+          {
+            "sentence": "The quiver of the subway made her phone vibrate off the table.",
+            "sentence_zh": "地铁的震动让她的手机从桌上震了下来。"
+          },
+          {
+            "sentence": "There was a noticeable quiver in the bridge during the earthquake.",
+            "sentence_zh": "地震期间桥梁有明显震动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "颤抖",
+        "examples": [
+          {
+            "sentence": "Her voice had a slight quiver when she spoke about the accident.",
+            "sentence_zh": "她讲述事故时声音带着轻微颤抖。"
+          },
+          {
+            "sentence": "I detected a quiver in his hands as he signed the divorce papers.",
+            "sentence_zh": "他签离婚协议时我注意到他的手在颤抖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "箭袋",
+        "examples": [
+          {
+            "sentence": "The archer's quiver was made of wolf leather and held twenty arrows.",
+            "sentence_zh": "弓箭手的箭袋用狼皮制成，可装二十支箭。"
+          },
+          {
+            "sentence": "His quiver clattered against his armor as he rode into battle.",
+            "sentence_zh": "他骑马冲入战场时，箭袋与盔甲碰撞发出哗啦声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "颤抖",
+        "examples": [
+          {
+            "sentence": "The puppy quivered with excitement when seeing its owner return.",
+            "sentence_zh": "小狗看到主人回来时兴奋得直发抖。"
+          },
+          {
+            "sentence": "Her lips quivered like jelly in winter before she burst into tears.",
+            "sentence_zh": "她的嘴唇像果冻般颤抖着，随即大哭起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "振动",
+        "examples": [
+          {
+            "sentence": "The hummingbird's wings quivered at 50 times per second.",
+            "sentence_zh": "蜂鸟翅膀每秒振动50次。"
+          },
+          {
+            "sentence": "The phone quivered silently on the wooden desk.",
+            "sentence_zh": "手机在木质桌面上无声振动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使颤动",
+        "examples": [
+          {
+            "sentence": "The earthquake quivered the champagne glasses in the hotel lobby.",
+            "sentence_zh": "地震使酒店大堂的香槟杯不停颤动。"
+          },
+          {
+            "sentence": "His thunderous voice quivered the windows of the old house.",
+            "sentence_zh": "他雷鸣般的声音震得老房子的窗户直颤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "敏捷的",
+        "examples": [
+          {
+            "sentence": "The quiver movements of the squirrel amazed the children.",
+            "sentence_zh": "松鼠敏捷的动作让孩子们惊叹不已。"
+          },
+          {
+            "sentence": "Her quiver fingers flew across the piano keys.",
+            "sentence_zh": "她灵活的手指在钢琴键上飞舞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "a quiver full of",
+        "meaning": "大量储备",
+        "examples": [
+          {
+            "sentence": "The teacher has a quiver full of interesting science experiments.",
+            "sentence_zh": "这位老师储备了大量有趣的科学实验。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quiver with",
+        "meaning": "因...而颤抖",
+        "examples": [
+          {
+            "sentence": "The leaves quivered with the slightest breeze.",
+            "sentence_zh": "树叶因最轻微的微风而颤动。"
+          }
+        ]
+      }
+    ],
+    "teach": "quiver是英语界的'抖音三兄弟'🎯💘🎻！当箭袋用时像王者荣耀里的百里守约（a quiver of arrows）；颤抖时像第一次表白被拒的高中生（quiver with embarrassment）；振动时像手机调到静音模式📳；敏捷时则像抢到红包的秒速👋。搭配推荐：'quiver like a leaf'（抖如落叶），'have arrows in one's quiver'（有备选方案）。地道表达：'butterflies in stomach'（紧张得发抖）比quiver更生活化！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快吻'→箭快吻(quiver)上靶心",
+        "易混词：shiver（寒冷导致的颤抖）/ tremble（恐惧导致的颤抖）",
+        "记忆tip：把q想成箭羽，iver想象成'I vibrate'（我在振动）"
+      ]
+    }
+  },
+  {
+    "word": "quivering",
+    "etymology": {
+      "breakdown": [
+        "quiver",
+        "ing"
+      ],
+      "meaning_connection": "词根quiver=颤抖，-ing表现在分词/形容词化→正在颤抖的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "颤动的",
+        "examples": [
+          {
+            "sentence": "The quivering candlelight made shadow puppets dance on the wall.",
+            "sentence_zh": "颤动的烛光让皮影在墙上跳舞。"
+          },
+          {
+            "sentence": "Her quivering voice betrayed her excitement during the live stream.",
+            "sentence_zh": "直播时她颤动的声音暴露了激动心情。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "抖动的",
+        "examples": [
+          {
+            "sentence": "The quivering leaves sounded like rain in the midnight breeze.",
+            "sentence_zh": "午夜微风中抖动的树叶声如雨落。"
+          },
+          {
+            "sentence": "His quivering fingers couldn't unlock the phone after hearing the shocking news.",
+            "sentence_zh": "听到震惊消息后，他抖动的手指无法解锁手机。"
+          }
+        ]
+      }
+    ],
+    "teach": "quivering是'人间缝纫机'👗！想象抖音网红跳新宝岛时腿抖成虚影（quivering legs），或者冬天在东北户外手机冻得哆嗦📱（quivering screen）。说'吓得发抖'用地道表达shaking like a leaf🍃，搭配'声音发颤'说quivering voice，'手抖'叫quivering hands。记住：任何比振动模式还剧烈的抖动都能用它！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快捂凉'→冻得快速捂凉发抖",
+        "易混词：shiver(寒冷导致的颤抖)/tremble(恐惧导致的颤抖)",
+        "记忆法：QQ（quiver）聊天时激动到手抖发消息"
+      ]
+    }
+  },
+  {
+    "word": "quixotic",
+    "etymology": {
+      "breakdown": [
+        "quixot",
+        "ic"
+      ],
+      "meaning_connection": "源自塞万提斯小说《堂吉诃德》主人公Don Quixote（西班牙语Quijote）+形容词后缀-ic"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "堂吉诃德式的",
+        "examples": [
+          {
+            "sentence": "His quixotic attempt to fight windmills with a bamboo sword amused villagers.",
+            "sentence_zh": "他拿着竹剑大战风车的堂吉诃德式行为让村民忍俊不禁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "狂热而侠义的",
+        "examples": [
+          {
+            "sentence": "The quixotic delivery rider rescued a kitten while his food order got cold.",
+            "sentence_zh": "那位侠义心肠的外卖小哥救小猫时让餐食都凉了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "理想而不实际的",
+        "examples": [
+          {
+            "sentence": "Her quixotic plan to solve poverty with bubble tea coupons caused eyebrow raises.",
+            "sentence_zh": "她用奶茶券解决贫困的理想化方案让人皱眉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "充满幻想的",
+        "examples": [
+          {
+            "sentence": "The startup's quixotic vision involved AI-powered unicorn taxis.",
+            "sentence_zh": "这家初创公司幻想用AI驱动独角兽出租车。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quixotic quest",
+        "meaning": "不切实际的追求",
+        "examples": [
+          {
+            "sentence": "His quixotic quest for perfect Peking duck led him to 100 restaurants.",
+            "sentence_zh": "他对完美北京烤鸭的执着追求让他吃遍百家餐厅。"
+          }
+        ]
+      }
+    ],
+    "teach": "quixotic是'疯骑士文学'🏇：来自西班牙文学史上最著名的中二病——堂吉诃德大战风车（实际是磨坊）🌪️。形容人时说'Don't be so quixotic'等于中文'别做白日梦了'☁️，但夸人时可以说'admire your quixotic spirit'（佩服你的侠气）。记住：当你说要骑共享单车去火星时🚲，朋友就会对你露出quixotic的微笑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快克躁的'→像吃了快克(感冒药)一样躁动",
+        "易混词对比：exotic(异域风情的) vs quixotic(不切实际的)"
+      ]
+    }
+  },
+  {
+    "word": "quiz",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "词源存疑，可能来自拉丁语'quis'（谁）的变体，18世纪爱尔兰剧场经理James Daly打赌创造该词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "课堂测验",
+        "examples": [
+          {
+            "sentence": "The pop quiz about Peking Opera stunned all students.",
+            "sentence_zh": "关于京剧的随堂测验让所有学生措手不及。"
+          },
+          {
+            "sentence": "WeChat mini-programs are now used for online quizzes.",
+            "sentence_zh": "微信小程序现在被用于在线课堂测验。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "智力测验",
+        "examples": [
+          {
+            "sentence": "The 'A Chinese Odyssey' quiz went viral on Douyin.",
+            "sentence_zh": "《大话西游》智力测验在抖音上疯传。"
+          },
+          {
+            "sentence": "He won 50 yuan in a milk tea shop's quiz night.",
+            "sentence_zh": "他在奶茶店的智力竞赛夜赢了50元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "恶作剧",
+        "examples": [
+          {
+            "sentence": "April Fools' quizzes are forbidden in our tech company.",
+            "sentence_zh": "我们科技公司禁止愚人节恶作剧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "考查",
+        "examples": [
+          {
+            "sentence": "The teacher quizzed students on Three-Body Problem physics.",
+            "sentence_zh": "老师考查学生《三体》中的物理知识。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "戏弄",
+        "examples": [
+          {
+            "sentence": "Douyin influencers were quizzed about fake product promotions.",
+            "sentence_zh": "抖音网红因虚假产品推广遭到戏弄质问。"
+          },
+          {
+            "sentence": "He quizzed his roommate by hiding all the spicy strips.",
+            "sentence_zh": "他藏起所有辣条来戏弄室友。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quiz show",
+        "meaning": "智力竞赛节目",
+        "examples": [
+          {
+            "sentence": "The new quiz show 'Chinese Idioms King' attracts elders.",
+            "sentence_zh": "新节目《成语大王》智力竞赛吸引了老年人。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pop quiz",
+        "meaning": "突击测验",
+        "examples": [
+          {
+            "sentence": "A pop quiz on hotpot ingredients ruined our lunch plan.",
+            "sentence_zh": "关于火锅食材的突击测验毁了我们的午餐计划。"
+          }
+        ]
+      }
+    ],
+    "teach": "quiz是考试界的盲盒🎁！这个词诞生比方便面还随意——1780年爱尔兰剧院老板James Daly打赌能发明新词，一夜之间都柏林墙上全写着'quiz'🤪。说'随堂测'用pop quiz像开惊喜红包🧧，'综艺答题'叫quiz show如《开心辞典》📺。记住：当动词时quiz就是老师们的'灵魂拷问'👻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快iz'→快iz(quiz)考试啦",
+        "易混词：test（正式考试）vs quiz（小测验）"
+      ]
+    }
   }
 ]
