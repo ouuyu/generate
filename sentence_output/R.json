@@ -9832,5 +9832,333 @@
         "易混词：rating(评分) vs ranking(排名)"
       ]
     }
+  },
+  {
+    "word": "rankle",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'rancler'（化脓），与伤口未愈引发的持续疼痛相关，后引申为心理上的怨恨"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "化脓",
+        "examples": [
+          {
+            "sentence": "The dragon tattoo kept rankling after swimming in the polluted river.",
+            "sentence_zh": "在污染的河里游泳后，那条龙纹身开始化脓。"
+          },
+          {
+            "sentence": "Her pierced ears rankled because she forgot to disinfect them.",
+            "sentence_zh": "她忘记消毒导致耳洞化脓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "怨恨",
+        "examples": [
+          {
+            "sentence": "The unfair dismissal still rankles after 10 years.",
+            "sentence_zh": "那次不公平解雇十年后仍让他耿耿于怀。"
+          },
+          {
+            "sentence": "His joke about my cooking rankles like chili in a cut.",
+            "sentence_zh": "他对我厨艺的玩笑像辣椒进伤口般让我记恨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使怨恨",
+        "examples": [
+          {
+            "sentence": "The way she chewed gum rankled the strict professor.",
+            "sentence_zh": "她嚼口香糖的样子让严厉的教授心生厌恶。"
+          },
+          {
+            "sentence": "Being interrupted constantly rankled him like a pebble in his shoe.",
+            "sentence_zh": "不断被打扰让他烦躁得像鞋里有石子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rankle with sb",
+        "meaning": "使某人长期不快",
+        "examples": [
+          {
+            "sentence": "The nickname 'Potato Head' rankled with him throughout high school.",
+            "sentence_zh": "'土豆头'这个外号让他整个高中都耿耿于怀。"
+          }
+        ]
+      },
+      {
+        "type": "idiom",
+        "form": "like a rankling wound",
+        "meaning": "像化脓的伤口般持续刺痛",
+        "examples": [
+          {
+            "sentence": "Her betrayal stuck in his mind like a rankling wound.",
+            "sentence_zh": "她的背叛像化脓的伤口般在他脑海中挥之不去。"
+          }
+        ]
+      }
+    ],
+    "teach": "rankle是'化脓'和'记仇'的双面间谍🕵️！物理上像火锅烫伤起水泡🍲（rankling burn），心理上像朋友忘了你生日📅（rankles for years）。搭配：'rankle with sb'像鞋里的乐高积木👟，'rankling memory'像循环播放的抖音神曲🎵。地道说法：'still sticks in my craw'（如鲠在喉）比rankle更生动！",
+    "recite": {
+      "tips": [
+        "视觉联想：rank+le→'让伤口乐'？化脓可一点都不乐！",
+        "易混词对比：wound（伤口）会rankle，但wander（漫步）不会"
+      ]
+    }
+  },
+  {
+    "word": "ransack",
+    "etymology": {
+      "breakdown": [
+        "ran",
+        "sack"
+      ],
+      "meaning_connection": "古挪威语rannsaka（搜查房屋），ran=房屋 + saka=搜索→原指彻底搜查，后引申为掠夺"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "彻底搜查",
+        "examples": [
+          {
+            "sentence": "The programmer ransacked Stack Overflow for bug solutions.",
+            "sentence_zh": "程序员翻遍Stack Overflow寻找bug解决方案。"
+          },
+          {
+            "sentence": "She ransacked her closet for the missing AirPod.",
+            "sentence_zh": "她翻遍衣柜寻找丢失的AirPods。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "洗劫",
+        "examples": [
+          {
+            "sentence": "Pirates ransacked the merchant ship like hungry pandas in a bamboo forest.",
+            "sentence_zh": "海盗洗劫商船的样子像饿熊猫横扫竹林。"
+          },
+          {
+            "sentence": "Museums were ransacked during the war for cultural treasures.",
+            "sentence_zh": "战争期间博物馆被洗劫以夺取文化珍品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ransack through",
+        "meaning": "翻找",
+        "examples": [
+          {
+            "sentence": "He ransacked through 50 Taobao shops for the perfect gift.",
+            "sentence_zh": "他翻遍50家淘宝店寻找完美礼物。"
+          }
+        ]
+      }
+    ],
+    "teach": "ransack是'翻箱倒柜'的维京版⚔️！想象海盗踹门搜查(ransack a house)和双十一快递员翻找包裹📦的混合体。'抢购'叫shopping spree是文明版ransack，'扫荡美食'可说devour like ransacking。记住：查资料用search，找失物用look for，只有翻得底朝天才用ransack！",
+    "recite": {
+      "tips": [
+        "谐音梗：'乱塞克'→乱塞的马克杯被翻找",
+        "易混词：search（有序查找） vs ransack（暴力翻找）"
+      ]
+    }
+  },
+  {
+    "word": "ransom",
+    "etymology": {
+      "breakdown": [
+        "ran",
+        "som"
+      ],
+      "meaning_connection": "源自古法语'rançon'（赎回），词根ran=夺回，-som=支付行为→用钱夺回人质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "赎金",
+        "examples": [
+          {
+            "sentence": "The kidnappers demanded a ransom of 100 Bitcoin.",
+            "sentence_zh": "绑匪要求100个比特币的赎金。"
+          },
+          {
+            "sentence": "Pirates used to exchange ransoms for captured sailors.",
+            "sentence_zh": "海盗曾用被俘水手交换赎金。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赎身",
+        "examples": [
+          {
+            "sentence": "In ancient China, scholars would pay ransom to free courtesans.",
+            "sentence_zh": "中国古代文人为青楼女子赎身。"
+          },
+          {
+            "sentence": "The ransom of slaves was common in medieval Europe.",
+            "sentence_zh": "奴隶赎身在中世纪欧洲很普遍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "赎回",
+        "examples": [
+          {
+            "sentence": "He ransomed his grandfather's pocket watch from the pawnshop.",
+            "sentence_zh": "他从当铺赎回了祖父的怀表。"
+          },
+          {
+            "sentence": "The museum ransomed the artifact from private collectors.",
+            "sentence_zh": "博物馆从私人收藏家手中赎回了文物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "勒索赎金",
+        "examples": [
+          {
+            "sentence": "Cybercriminals ransom companies by encrypting their databases.",
+            "sentence_zh": "黑客通过加密数据库向企业勒索赎金。"
+          },
+          {
+            "sentence": "Ransomware viruses ransom users' files.",
+            "sentence_zh": "勒索病毒会挟持用户文件索要赎金。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hold sb for ransom",
+        "meaning": "绑票勒索",
+        "examples": [
+          {
+            "sentence": "The CEO was held for ransom in a luxury hotel.",
+            "sentence_zh": "那位CEO在豪华酒店遭绑票勒索。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "a king's ransom",
+        "meaning": "巨额赎金",
+        "examples": [
+          {
+            "sentence": "That limited edition sneaker costs a king's ransom.",
+            "sentence_zh": "那双限量版球鞋价格堪比国王赎金。"
+          }
+        ]
+      }
+    ],
+    "teach": "ransom是'人质经济学'💸：古法语里'rançon'原指战争赔款，现在变成绑匪的ATM机🏧。说'天价赎金'要用a king's ransom（国王级赎金），'交赎金'叫pay ransom就像充VIP救文件📁。记住：你的数据可能比国王还值钱👑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'乱索'→绑匪胡乱索要赎金",
+        "易混词对比：random（随机）vs ransom（赎金）→随机绑架要赎金",
+        "记忆tip：Ran（跑）+ som（some）= 抢了人质要some钱"
+      ]
+    }
+  },
+  {
+    "word": "rant",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古荷兰语'ranten'（说废话），后演变为情绪激烈的言论"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "咆哮",
+        "examples": [
+          {
+            "sentence": "My neighbor rants about the new pet policy every midnight.",
+            "sentence_zh": "我邻居每天半夜都为新的宠物政策咆哮。"
+          },
+          {
+            "sentence": "The streamer ranted for 20 minutes when his internet crashed during a ranked game.",
+            "sentence_zh": "主播在排位赛断网后咆哮了20分钟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "痛骂",
+        "examples": [
+          {
+            "sentence": "She ranted at the delivery guy for squashing her durian cake.",
+            "sentence_zh": "她把送餐员痛骂一顿因为压坏了榴莲蛋糕。"
+          },
+          {
+            "sentence": "Netizens are ranting about the drama's terrible CGI effects.",
+            "sentence_zh": "网友正在痛骂这部剧的五毛特效。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "咆哮",
+        "examples": [
+          {
+            "sentence": "His 2-hour rant about pineapple pizza went viral.",
+            "sentence_zh": "他关于菠萝披萨的两小时咆哮视频火了。"
+          },
+          {
+            "sentence": "The CEO's rant against overtime culture became a meme template.",
+            "sentence_zh": "CEO反对加班文化的咆哮成了表情包模板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大话",
+        "examples": [
+          {
+            "sentence": "Don't believe his rants about knowing Jack Ma personally.",
+            "sentence_zh": "别信他认识马云的那些大话。"
+          },
+          {
+            "sentence": "The influencer's skincare rant turned out to be an ad.",
+            "sentence_zh": "那个网红关于护肤品的大话原来是广告。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rant and rave",
+        "meaning": "大吵大闹",
+        "examples": [
+          {
+            "sentence": "Karens rant and rave when the bubble tea shop runs out of boba.",
+            "sentence_zh": "当奶茶店的珍珠卖完时，某些顾客会大吵大闹。"
+          }
+        ]
+      }
+    ],
+    "teach": "rant这词自带语音效果🗣️！想象李佳琦怒吼'OMG买它！'的激情状态（商品咆哮），或者你妈发现你熬夜时的输出模式👩‍👧（母爱痛骂）。职场人必备技能是water cooler rant（茶水间吐槽）💼，但小心别变成keyboard warrior（键盘侠）⌨️。记住：合格的rant要有'退！退！退！'的气势和广场舞大妈的肺活量💃",
+    "recite": {
+      "tips": [
+        "谐音梗：'燃它'→情绪燃起来就要rant",
+        "易混词：rage（纯粹愤怒） vs rant（带表演性质的咆哮）",
+        "记忆法：把't'想成喷出的口水轨迹💦"
+      ]
+    }
   }
 ]

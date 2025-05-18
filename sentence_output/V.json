@@ -9891,5 +9891,310 @@
         "记忆法：VEND=Vending Equipment Needs Dollars"
       ]
     }
+  },
+  {
+    "word": "vendetta",
+    "etymology": {
+      "breakdown": [
+        "vendett",
+        "a"
+      ],
+      "meaning_connection": "源自意大利语'vendetta'（复仇），与拉丁语'vindicta'（惩罚）同源，词尾-a表阴性名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "族间仇杀",
+        "examples": [
+          {
+            "sentence": "The Appalachian families continued their vendetta for three generations.",
+            "sentence_zh": "阿巴拉契亚山脉的两个家族将仇杀延续了三代人。"
+          },
+          {
+            "sentence": "In Corsica, vendetta was once considered a matter of family honor.",
+            "sentence_zh": "在科西嘉岛，族间仇杀曾被视为家族荣誉问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "世仇",
+        "examples": [
+          {
+            "sentence": "The Hatfields and McCoys' vendetta became legendary in American folklore.",
+            "sentence_zh": "哈特菲尔德与麦考伊两家的世仇成为美国民间传奇。"
+          },
+          {
+            "sentence": "Their office vendetta started over a stolen stapler.",
+            "sentence_zh": "他们的办公室世仇始于一个被偷的订书机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "宿怨",
+        "examples": [
+          {
+            "sentence": "The tennis stars had a personal vendetta dating back to junior championships.",
+            "sentence_zh": "这两位网球明星的宿怨要追溯到青少年锦标赛时期。"
+          },
+          {
+            "sentence": "Her vendetta against pineapple pizza lovers was well-known.",
+            "sentence_zh": "她对抗菠萝披萨爱好者的宿怨人尽皆知。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "personal vendetta",
+        "meaning": "个人恩怨",
+        "examples": [
+          {
+            "sentence": "The CEO was accused of firing employees due to personal vendettas.",
+            "sentence_zh": "该CEO被指控因个人恩怨解雇员工。"
+          }
+        ]
+      }
+    ],
+    "teach": "vendetta是意大利黑手党教你的单词🗡️！想象两个家族用通心粉当武器互相攻击🍝（就像《教父》里的五大家族），现代人用'职场世仇'（office vendetta）描述钉书机引发的战争✂️。记住：说'个人恩怨'别用hatred，要说personal vendetta才够西西里风味🍕！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闻得他'→闻到仇人的味道就要复仇",
+        "易混词对比：vengeance（抽象复仇） vs vendetta（具体世仇）",
+        "记忆场景：联想《罗密欧与朱丽叶》的阳台决斗场景"
+      ]
+    }
+  },
+  {
+    "word": "vending",
+    "etymology": {
+      "breakdown": [
+        "vend",
+        "ing"
+      ],
+      "meaning_connection": "词根vend来自拉丁语vendere（卖），-ing表形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "贩卖的",
+        "examples": [
+          {
+            "sentence": "The vending machine ate my last dollar without giving me bubble tea.",
+            "sentence_zh": "自动贩卖机吞了我最后一美元却没吐出奶茶。"
+          },
+          {
+            "sentence": "Look for the red vending cart that sells spicy crayfish.",
+            "sentence_zh": "找那个卖麻辣小龙虾的红色贩卖推车。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vending machine",
+        "meaning": "自动售货机",
+        "examples": [
+          {
+            "sentence": "Our office vending machine now accepts WeChat Pay.",
+            "sentence_zh": "我们办公室的自动售货机现在支持微信支付了。"
+          }
+        ]
+      }
+    ],
+    "teach": "vending是'贩卖的'，但现代自动贩卖机(vending machine)其实是个傲娇小怪兽🤖！最早自动售货机出现在公元1世纪，卖的是圣水💧（比现在卖可乐神圣多了）。说'扫码购买'用'tap to vend'，'售罄'叫'out of stock'就像被吃货清空的零食架🍟。记住：每个vending machine都是24小时待命的无声销售员！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闻叮'→闻到香味叮(vend)一声买零食",
+        "对比记忆：vendor（小贩）是真人版，vending是机器版"
+      ]
+    }
+  },
+  {
+    "word": "vendor",
+    "etymology": {
+      "breakdown": [
+        "vend",
+        "or"
+      ],
+      "meaning_connection": "词根vend来自拉丁语'vendere'(卖)，后缀-or表示'做某事的人'→卖东西的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小贩",
+        "examples": [
+          {
+            "sentence": "The baozi vendor outside the office building starts selling at 6am sharp.",
+            "sentence_zh": "写字楼下的包子小贩每天六点准时开卖。"
+          },
+          {
+            "sentence": "A street vendor was demonstrating how to peel pineapples with a machete.",
+            "sentence_zh": "街头小贩正在表演用砍刀削菠萝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "卖主",
+        "examples": [
+          {
+            "sentence": "The antique vendor insisted this jade pendant belonged to Empress Dowager Cixi.",
+            "sentence_zh": "古董卖主坚称这块玉佩曾是慈禧太后的物件。"
+          },
+          {
+            "sentence": "As a property vendor, she specializes in Beijing's hutong houses.",
+            "sentence_zh": "作为房产卖主，她专营北京胡同院落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "自动售货机",
+        "examples": [
+          {
+            "sentence": "The smart vendor at the subway station accepts facial recognition payment.",
+            "sentence_zh": "地铁站的智能售货机支持刷脸支付。"
+          },
+          {
+            "sentence": "A malfunctioning vendor kept spitting out bottled water like a broken slot machine.",
+            "sentence_zh": "故障的自动售货机像坏掉的老虎机不停吐出矿泉水。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "street vendor",
+        "meaning": "街头摊贩",
+        "examples": [
+          {
+            "sentence": "The police cleared away street vendors selling counterfeit AirPods.",
+            "sentence_zh": "警察驱散了售卖山寨AirPods的街头摊贩。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vending machine",
+        "meaning": "自动贩卖机",
+        "examples": [
+          {
+            "sentence": "Japan has vending machines selling everything from umbrellas to fresh eggs.",
+            "sentence_zh": "日本的自动贩卖机从雨伞到新鲜鸡蛋应有尽有。"
+          }
+        ]
+      }
+    ],
+    "teach": "vendor是商业世界的变形金刚🤖！当它化身街头小贩，就是你家楼下卖煎饼果子的大叔👨🍳；作为卖主时，又变成潘家园古玩市场操着京片儿的掌柜🏺；而自动售货机形态时，则是24小时不打烊的钢铁店员🤖。记住：'砍价'叫haggle with vendors，'夜市'说night market vendors🌃，遇到黑心商贩记得吐槽'This vendor is ripping me off!'（宰客呢！）",
+    "recite": {
+      "tips": [
+        "谐音梗：'闻多了'→小贩摊位闻多了油烟味",
+        "易混词：vendor(卖方) vs. vendee(买方)"
+      ]
+    }
+  },
+  {
+    "word": "veneer",
+    "etymology": {
+      "breakdown": [
+        "vene",
+        "er"
+      ],
+      "meaning_connection": "词根vene=来自法语 venir '来到'，-er表工具→原指'使物品表面来到（新的状态）'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "饰面薄板",
+        "examples": [
+          {
+            "sentence": "The mahogany veneer on this IKEA cabinet mimics real wood.",
+            "sentence_zh": "宜家橱柜上的红木饰面薄板仿造了真实木材。"
+          },
+          {
+            "sentence": "They used bamboo veneer to cover the concrete walls.",
+            "sentence_zh": "他们用竹饰面板覆盖混凝土墙。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "外表",
+        "examples": [
+          {
+            "sentence": "His politeness is just a thin veneer over his arrogance.",
+            "sentence_zh": "他的礼貌只是掩盖傲慢的薄薄外衣。"
+          },
+          {
+            "sentence": "The luxury brand's veneer of exclusivity attracts many.",
+            "sentence_zh": "这个奢侈品牌排外性的表象吸引了许多人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "镶饰",
+        "examples": [
+          {
+            "sentence": "The craftsman veneered the table with rosewood.",
+            "sentence_zh": "工匠用花梨木镶饰桌面。"
+          },
+          {
+            "sentence": "We'll veneer the door to match the antique wardrobe.",
+            "sentence_zh": "我们将给门镶饰以搭配古董衣柜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "虚饰",
+        "examples": [
+          {
+            "sentence": "His speech was veneered with false modesty.",
+            "sentence_zh": "他的演讲披着虚假谦逊的外衣。"
+          },
+          {
+            "sentence": "The company veneers its exploitation with charity work.",
+            "sentence_zh": "这家公司用慈善工作掩饰剥削行为。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "veneer of",
+        "meaning": "...的外表",
+        "examples": [
+          {
+            "sentence": "There's always a veneer of civilization in his wild behavior.",
+            "sentence_zh": "他狂野的行为中总带着文明的外衣。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wood veneer",
+        "meaning": "木饰面板",
+        "examples": [
+          {
+            "sentence": "The wood veneer started peeling after the flood.",
+            "sentence_zh": "洪水过后木饰面板开始剥落。"
+          }
+        ]
+      }
+    ],
+    "teach": "veneer就像美颜滤镜📱！物理上它是家具的'粉底液'（wood veneer），比喻上是社交媒体的'精修图'（veneer of happiness）🧐。要说'假精致'用put on a veneer，就像用便利贴遮住墙洞🖼️。记住：实木家具不贴皮，真诚的人不贴'veneer'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'违尼儿'→违心的尼龙外表(veneer)",
+        "易混词：varnish（清漆）是透明的，veneer是有图案的"
+      ]
+    }
   }
 ]

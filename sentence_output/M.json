@@ -9534,5 +9534,301 @@
         "对比记忆：benevolently（善意地）是它的反义词，像天使vs恶魔"
       ]
     }
+  },
+  {
+    "word": "malformation",
+    "etymology": {
+      "breakdown": [
+        "mal",
+        "form",
+        "ation"
+      ],
+      "meaning_connection": "前缀mal-=坏的/错误的，词根form=形状，后缀-ation=状态→错误的形状状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "变形(体)",
+        "examples": [
+          {
+            "sentence": "The malformation of this bonsai tree makes it look like a dancing dragon.",
+            "sentence_zh": "这棵盆景的变形让它看起来像条舞动的龙。"
+          },
+          {
+            "sentence": "Geologists study rock malformations to predict earthquakes.",
+            "sentence_zh": "地质学家通过岩石变形体来预测地震。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "畸形",
+        "examples": [
+          {
+            "sentence": "The panda cub's paw malformation doesn't affect its bamboo-holding skills.",
+            "sentence_zh": "熊猫幼崽的爪子畸形不影响它握竹子的技术。"
+          },
+          {
+            "sentence": "Some video game characters have intentional malformations for artistic effect.",
+            "sentence_zh": "有些游戏角色为艺术效果故意设计成畸形。"
+          }
+        ]
+      }
+    ],
+    "teach": "malformation是'妈见打'造型💇：mal-前缀就像妈妈看到你染的荧光绿头发时的表情😱，form-提醒你这是'形式主义'翻车现场🚗。'长得歪瓜裂枣'可以说as crooked as a question mark（像问号一样歪），'整容失败'叫botched surgery💉。记住：你的刘海可能是妈妈眼里的malformation！",
+    "recite": {
+      "tips": [
+        "谐音梗：'猫佛没醒'→猫咪佛系睡觉姿势畸形",
+        "易混词对比：deformation（外力导致的变形） vs malformation（先天畸形）",
+        "拆分记忆：mal(坏)+formation(形态)=坏掉的乐高积木🧩"
+      ]
+    }
+  },
+  {
+    "word": "malformed",
+    "etymology": {
+      "breakdown": [
+        "mal",
+        "form",
+        "ed"
+      ],
+      "meaning_connection": "前缀mal-=坏的（拉丁语male），form=形状，-ed表形容词→形状有问题的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "变形的",
+        "examples": [
+          {
+            "sentence": "The malformed mooncake looked like it was stepped on by an elephant.",
+            "sentence_zh": "这块变形的月饼像是被大象踩过。"
+          },
+          {
+            "sentence": "Malformed carrots often become viral memes for their weird shapes.",
+            "sentence_zh": "变形的胡萝卜常因怪异造型成为表情包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "畸形的",
+        "examples": [
+          {
+            "sentence": "The museum displayed malformed animal specimens preserved in formaldehyde.",
+            "sentence_zh": "博物馆展出了泡在福尔马林里的畸形动物标本。"
+          },
+          {
+            "sentence": "Some video games intentionally design malformed monsters to create horror effects.",
+            "sentence_zh": "有些游戏故意设计畸形怪物营造恐怖效果。"
+          }
+        ]
+      }
+    ],
+    "teach": "malformed是'妈见打'型单词👩👊！mal-前缀就像你妈看见你房间乱糟糟时的表情😠（如malfunction故障），form+ed就像被熊孩子捏坏的橡皮泥🎨。说'丑得别致'可以用malformed in an artistic way（艺术性畸形），'畸形审美'叫malformed aesthetics。记住：但凡带mal-的都没好事❗️",
+    "recite": {
+      "tips": [
+        "谐音梗：'麻烦的'→畸形(malformed)修复很麻烦",
+        "易混词对比：deformed（后天畸形） vs malformed（先天畸形）",
+        "联想：微信表情里[Emm]就是标准malformed脸"
+      ]
+    }
+  },
+  {
+    "word": "malfunction",
+    "etymology": {
+      "breakdown": [
+        "mal",
+        "function"
+      ],
+      "meaning_connection": "前缀mal-=坏/错误（拉丁语male），function=功能→功能失常"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "故障",
+        "examples": [
+          {
+            "sentence": "The elevator malfunction caused 10 people to be trapped eating hotpot for 3 hours.",
+            "sentence_zh": "电梯故障导致10人被困吃了三小时火锅。"
+          },
+          {
+            "sentence": "A minor malfunction in my air fryer turned my fries into charcoal.",
+            "sentence_zh": "空气炸锅的小故障把薯条变成了木炭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "失灵",
+        "examples": [
+          {
+            "sentence": "The microphone malfunction made the CEO sound like a cartoon duck.",
+            "sentence_zh": "麦克风失灵让CEO的声音像卡通鸭子。"
+          },
+          {
+            "sentence": "A brain malfunction caused the professor to forget his own phone number.",
+            "sentence_zh": "大脑失灵让教授忘记了自己的电话号码。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "发生故障",
+        "examples": [
+          {
+            "sentence": "My sleep schedule malfunctions every weekend.",
+            "sentence_zh": "我的作息时间每到周末就发生故障。"
+          },
+          {
+            "sentence": "The self-checkout machine malfunctioned and started giving free groceries.",
+            "sentence_zh": "自助结账机发生故障开始白送商品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "system malfunction",
+        "meaning": "系统故障",
+        "examples": [
+          {
+            "sentence": "During the livestream sale, a system malfunction gave away 1000 free iPhones.",
+            "sentence_zh": "直播带货时系统故障送出了1000台免费iPhone。"
+          }
+        ]
+      }
+    ],
+    "teach": "malfunction是'恶意卖萌'的故障🧨！mal-这个前缀就像emoji里的💢（生气符号），function罢工时就会：1) 打印机吐白纸🤖 2) 健康宝红码误伤😷 搭配'serious malfunction'像手机变砖📱，'temporary malfunction'像地铁闸机抽风🚇。记住：电脑蓝屏时大喊'It's not a bug, it's a feature!'能缓解尴尬💻",
+    "recite": {
+      "tips": [
+        "谐音梗：'猫房克星'→猫咪把路由器搞故障",
+        "对比记忆：function是正常运作，malfunction是'摸鱼运作'",
+        "联想：mal-前缀家族还有malware（恶意软件）和malnutrition（营养不良）"
+      ]
+    }
+  },
+  {
+    "word": "malfunctioning",
+    "etymology": {
+      "breakdown": [
+        "mal",
+        "function",
+        "ing"
+      ],
+      "meaning_connection": "前缀mal-=坏/错误，function=功能，-ing表进行状态→功能失常"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj./v.",
+        "meaning": "出故障的/运转失常",
+        "examples": [
+          {
+            "sentence": "The malfunctioning escalator turned into a 45° adventure slide.",
+            "sentence_zh": "故障的自动扶梯变成了45度冒险滑梯。"
+          },
+          {
+            "sentence": "My sleep schedule is malfunctioning like a Windows 98 system.",
+            "sentence_zh": "我的作息像Windows 98系统一样紊乱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "malfunctioning device",
+        "meaning": "故障设备",
+        "examples": [
+          {
+            "sentence": "The robot waiter became a malfunctioning dancing machine at the banquet.",
+            "sentence_zh": "宴会上的机器人服务员变成了故障舞王。"
+          }
+        ]
+      }
+    ],
+    "teach": "malfunctioning是科技时代的通病💻！就像《机器人总动员》里生锈的瓦力🤖，或者你卡成PPT的智能手机📱。'彻底坏了'可以说kaput（德语梗），'间歇性抽风'叫glitchy。记住：当你的大脑像malfunctioning的电脑时，该Ctrl+Alt+Del重启了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'猫放歌停'→猫主子乱按导致音响故障",
+        "易混词对比：fault（小毛病） vs malfunction（全面瘫痪）",
+        "记忆tip：mal（骂）+function→功能被骂到失常"
+      ]
+    }
+  },
+  {
+    "word": "malice",
+    "etymology": {
+      "breakdown": [
+        "mal",
+        "ice"
+      ],
+      "meaning_connection": "词根mal=坏的/恶意的（来自拉丁语malus），后缀-ice表性质→坏的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "恶意",
+        "examples": [
+          {
+            "sentence": "The internet troll spread rumors with pure malice.",
+            "sentence_zh": "那个网络喷子纯粹出于恶意散播谣言。"
+          },
+          {
+            "sentence": "Her smile hid the malice beneath, like a durian with cream topping.",
+            "sentence_zh": "她的微笑隐藏着恶意，像奶油盖住的榴莲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蓄意害人",
+        "examples": [
+          {
+            "sentence": "Breaking the vase wasn't an accident—he did it with malice.",
+            "sentence_zh": "打碎花瓶不是意外，他是蓄意为之。"
+          },
+          {
+            "sentence": "The poisoned pork buns were made with malice aforethought.",
+            "sentence_zh": "这些有毒肉包是蓄谋已久的恶意产物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "怨恨",
+        "examples": [
+          {
+            "sentence": "After the divorce, he felt no malice toward his ex-wife.",
+            "sentence_zh": "离婚后，他对前妻已无怨恨。"
+          },
+          {
+            "sentence": "The two rivals shook hands without malice, like pandas ending a bamboo dispute.",
+            "sentence_zh": "两位对手不带怨恨地握手言和，像解决完竹子争端的熊猫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with malice aforethought",
+        "meaning": "蓄意预谋",
+        "examples": [
+          {
+            "sentence": "The murder was committed with malice aforethought, planned during hotpot dinners.",
+            "sentence_zh": "这起谋杀是蓄意预谋的，计划于火锅聚餐期间。"
+          }
+        ]
+      }
+    ],
+    "teach": "malice其实是'卖荔枝'的反义词🍈→古罗马人认为malum（坏）和malus（苹果/水果）同源，就像外表光鲜的毒苹果🍎！说'包藏祸心'可以用with malice like a durian（像榴莲般暗藏恶意），法律术语'malice aforethought'就是'鸳鸯锅式预谋'🍲（一半清汤一半算计）。记住：mal开头多半没好货！☠️",
+    "recite": {
+      "tips": [
+        "谐音梗：'没理撕'→没道理就撕逼( malice )",
+        "易混词：malice（恶意） vs. malic（苹果酸的）",
+        "记忆tip：迪士尼反派的名字（如Maleficent）都带mal前缀"
+      ]
+    }
   }
 ]

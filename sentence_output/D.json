@@ -9342,5 +9342,288 @@
         "易混词对比：sandbag（沙袋临时压重物） vs deadman（永久性埋桩）"
       ]
     }
+  },
+  {
+    "word": "deadness",
+    "etymology": {
+      "breakdown": [
+        "dead",
+        "ness"
+      ],
+      "meaning_connection": "词根dead=死亡，后缀-ness表状态→字面意思是'死亡的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "死亡",
+        "examples": [
+          {
+            "sentence": "The sudden deadness of the smartphone market shocked investors.",
+            "sentence_zh": "智能手机市场的突然死亡震惊了投资者。"
+          },
+          {
+            "sentence": "Scientists studied the deadness of coral reefs in the South China Sea.",
+            "sentence_zh": "科学家研究了南海珊瑚礁的死亡现象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "死一样的状态",
+        "examples": [
+          {
+            "sentence": "The deadness of his eyes after 48 hours of gaming terrified his mom.",
+            "sentence_zh": "连续游戏48小时后他死鱼般的眼神吓坏了妈妈。"
+          },
+          {
+            "sentence": "There's a creepy deadness in this abandoned theme park.",
+            "sentence_zh": "这座废弃游乐园有种诡异的死寂感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无生气",
+        "examples": [
+          {
+            "sentence": "The deadness of the meeting was broken by a flying paper plane.",
+            "sentence_zh": "一架纸飞机打破了会议的死气沉沉。"
+          },
+          {
+            "sentence": "Her TikTok videos cured the deadness of my commute.",
+            "sentence_zh": "她的抖音视频治愈了我通勤路上的无趣。"
+          }
+        ]
+      }
+    ],
+    "teach": "deadness是'死机三件套'💀：1) 生物学死亡→像被拔插头的电脑🖥️ 2) 僵尸状态→像周一早晨的打工人☕ 3) 无聊透顶→像领导念PPT的会议📊。搭配：break the deadness（打破僵局）/ sink into deadness（陷入死寂）。地道说法：像具僵尸→deader than a doornail（比门钉还死）🧟♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆的尼斯'→死亡之海很呆",
+        "易混词：deadliness（致命性）比deadness多要命",
+        "联想：dead+ness→死ness=死-ness→死翘翘的状态"
+      ]
+    }
+  },
+  {
+    "word": "deadpan",
+    "etymology": {
+      "breakdown": [
+        "dead",
+        "pan"
+      ],
+      "meaning_connection": "'dead'表示'死的'，'pan'在俚语中指'脸'→字面意思是'死板的脸'，形容面无表情的样子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "无表情的脸",
+        "examples": [
+          {
+            "sentence": "The comedian maintained a perfect deadpan while telling absurd jokes.",
+            "sentence_zh": "这位喜剧演员讲荒诞笑话时全程保持扑克脸。"
+          },
+          {
+            "sentence": "Her deadpan during the meeting made everyone think she was angry.",
+            "sentence_zh": "她开会时的面无表情让大家都以为她在生气。"
+          }
+        ]
+      }
+    ],
+    "teach": "deadpan就像被冻住的emoji🧊！这个词1920年代起源于美国演艺圈，专指演员'用严肃脸讲笑话'的表演形式🎭。搭配'keep a deadpan'（保持面瘫）和'deadpan delivery'（面无表情的吐槽）。说'面瘫'可以戏称自己have a resting deadpan face🍳（天生扑克脸）。记住：真正的deadpan大师连睫毛都不许动！",
+    "recite": {
+      "tips": [
+        "视觉联想：平底锅(pan)煎死鱼(dead)→死鱼脸🐟",
+        "易混词对比：poker face（扑克脸）侧重隐藏情绪，deadpan强调喜剧效果"
+      ]
+    }
+  },
+  {
+    "word": "deadweight",
+    "etymology": {
+      "breakdown": [
+        "dead",
+        "weight"
+      ],
+      "meaning_connection": "字面意思为'死的重量'→指物体自身的固定重量或无法避免的负担"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "自重",
+        "examples": [
+          {
+            "sentence": "The deadweight of this electric scooter affects its battery range.",
+            "sentence_zh": "这款电动滑板车的自重影响了它的续航里程。"
+          },
+          {
+            "sentence": "Ancient shipbuilders carefully calculated the deadweight of marble columns.",
+            "sentence_zh": "古代造船师会精确计算大理石柱的自重。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "重负",
+        "examples": [
+          {
+            "sentence": "Student loans became a deadweight on his shoulders after graduation.",
+            "sentence_zh": "毕业后助学贷款成了他肩上的重负。"
+          },
+          {
+            "sentence": "The outdated management system is a deadweight to innovation.",
+            "sentence_zh": "过时的管理制度是创新的重负。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deadweight tonnage",
+        "meaning": "载重吨位",
+        "examples": [
+          {
+            "sentence": "This cargo ship has a deadweight tonnage equal to 300 elephants.",
+            "sentence_zh": "这艘货轮的载重吨位相当于300头大象。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "deadweight loss",
+        "meaning": "无谓损失",
+        "examples": [
+          {
+            "sentence": "The tax policy caused deadweight loss in the bubble tea market.",
+            "sentence_zh": "这项税收政策导致奶茶市场出现无谓损失。"
+          }
+        ]
+      }
+    ],
+    "teach": "deadweight就像背着一只睡着的考拉🐨旅行——它既是你的甜蜜负担（自重），也可能是压垮你的最后一根稻草（重负）！海运业用'载重吨位'就像在说：这船能装多少顿火锅食材🍲？记住：经济学术语'无谓损失'（deadweight loss）其实就是'奶茶涨价后没人买的忧伤'😭。地道吐槽：My boss is a real deadweight（老板真是个拖油瓶）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆等位'→背着呆等位的女友逛街如同deadweight",
+        "易混词对比：deadline vs deadweight（一个要命，一个要钱）",
+        "视觉联想：⚓️+📦=船运载重量"
+      ]
+    }
+  },
+  {
+    "word": "deaf",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'dēaf'，与德语'taub'同源，原始日耳曼语词根*dauhbaz"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "聋的",
+        "examples": [
+          {
+            "sentence": "The deaf artist creates stunning paintings inspired by vibrations.",
+            "sentence_zh": "这位聋人艺术家根据震动创作惊艳画作。"
+          },
+          {
+            "sentence": "Many deaf communities use sign language as their primary language.",
+            "sentence_zh": "许多聋人群体以手语作为主要语言。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "turn a deaf ear to",
+        "meaning": "充耳不闻",
+        "examples": [
+          {
+            "sentence": "He turned a deaf ear to his mom's nagging about marriage.",
+            "sentence_zh": "他对妈妈催婚的唠叨充耳不闻。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "deaf as a post",
+        "meaning": "完全听不见",
+        "examples": [
+          {
+            "sentence": "My grandpa is deaf as a post but still enjoys Peking opera by feeling the drums.",
+            "sentence_zh": "我爷爷完全听不见，但通过感受鼓点仍享受京剧。"
+          }
+        ]
+      }
+    ],
+    "teach": "聋文化超有趣🤟：1) 聋人社群有自己的'手语方言'，不同国家比划'熊猫'🐼完全不一样 2) 视觉化记忆：deaf中的'ea'像两个耳朵被堵住🙉 3) 实用搭配：'deafening silence震耳欲聋的沉默' 4) 地道说法：'stone deaf完全聋'像石头一样没反应 5) 彩蛋：手语比口语更早出现，是人类最古老语言！",
+    "recite": {
+      "tips": [
+        "谐音梗：'大夫'→古代大夫说聋了没法治",
+        "易混词：deaf(聋) VS death(死)→少个a就'要命'了",
+        "字形梗：f像助听器，倒过来是'听'字少了口"
+      ]
+    }
+  },
+  {
+    "word": "deafen",
+    "etymology": {
+      "breakdown": [
+        "deaf",
+        "en"
+      ],
+      "meaning_connection": "词根deaf=聋，后缀-en表'使...化'→字面意思'使变聋'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使聋",
+        "examples": [
+          {
+            "sentence": "The explosion at the fireworks factory deafened three workers.",
+            "sentence_zh": "烟花厂的爆炸声使三名工人失聪。"
+          },
+          {
+            "sentence": "Her constant headphones use at maximum volume may deafen her over time.",
+            "sentence_zh": "她长期以最大音量使用耳机可能导致失聪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变聋",
+        "examples": [
+          {
+            "sentence": "After years of operating jackhammers, the construction worker began to deafen.",
+            "sentence_zh": "多年操作电钻后，这名建筑工人开始听力衰退。"
+          },
+          {
+            "sentence": "Elderly people often deafen gradually due to natural aging.",
+            "sentence_zh": "老年人常因自然衰老而逐渐失聪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deafening silence",
+        "meaning": "震耳欲聋的沉默",
+        "examples": [
+          {
+            "sentence": "When the teacher asked who broke the window, a deafening silence filled the classroom.",
+            "sentence_zh": "当老师问谁打破了窗户时，教室里一片死寂。"
+          }
+        ]
+      }
+    ],
+    "teach": "deafen就像声音界的黑洞🕳️！古罗马角斗场的观众呐喊能deafen选手🗣️（历史梗）。视觉化想象：把耳朵泡在辣椒酱里🌶️→deafen过程！实用搭配：deafening noise（震耳欲聋的噪音）/ deafening applause（雷鸣掌声）。地道表达：'耳朵要聋了'说'My ears are bleeding!'👂💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'大夫摁'→大夫强行摁住给掏耳朵导致失聪",
+        "易混对比：deafen（使聋） vs. deaf（聋的）",
+        "记忆tip：DEAF+EN=把聋(DEAF)的状态'摁'(EN)进去"
+      ]
+    }
   }
 ]

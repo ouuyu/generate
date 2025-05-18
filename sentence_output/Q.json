@@ -9404,5 +9404,161 @@
         "易混词：cited（正式引用）vs quoted（直接引语）"
       ]
     }
+  },
+  {
+    "word": "quotidian",
+    "etymology": {
+      "breakdown": [
+        "quot",
+        "id",
+        "ian"
+      ],
+      "meaning_connection": "词根quot=每个，-id=与...相关，-ian=形容词后缀→与每日相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "每日的",
+        "examples": [
+          {
+            "sentence": "The quotidian rhythm of sunrise and sunset governs our biological clock.",
+            "sentence_zh": "日出日落的每日节律支配着我们的生物钟。"
+          },
+          {
+            "sentence": "Her quotidian commute involves squeezing into subway carriages like sardines.",
+            "sentence_zh": "她每日的通勤就像沙丁鱼般挤进地铁车厢。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "每日发作的",
+        "examples": [
+          {
+            "sentence": "Patients with quotidian fever need to record their temperature every 4 hours.",
+            "sentence_zh": "患有日发热的病人需要每4小时记录体温。"
+          },
+          {
+            "sentence": "The doctor identified the quotidian headaches as side effects of the vaccine.",
+            "sentence_zh": "医生确认这些每日发作的头痛是疫苗副作用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "司空见惯的",
+        "examples": [
+          {
+            "sentence": "Seeing influencers livestreaming has become quotidian in Chinese shopping malls.",
+            "sentence_zh": "看见网红直播在中国商场已是司空见惯。"
+          },
+          {
+            "sentence": "The quarrels between the couple are so quotidian that neighbors stopped paying attention.",
+            "sentence_zh": "这对夫妻的争吵如此常见，邻居们都懒得理会了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "平凡的",
+        "examples": [
+          {
+            "sentence": "Behind her quotidian appearance lies a champion esports player.",
+            "sentence_zh": "她平凡的外表下藏着电竞冠军的身份。"
+          },
+          {
+            "sentence": "The novel celebrates the quotidian heroism of delivery riders during lockdowns.",
+            "sentence_zh": "这部小说歌颂了封城期间外卖骑手的平凡英勇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "日发热",
+        "examples": [
+          {
+            "sentence": "Malaria patients often suffer from quotidian with alternating chills and sweating.",
+            "sentence_zh": "疟疾患者常患日发热，伴随寒战与盗汗交替。"
+          },
+          {
+            "sentence": "The quotidian broke at dawn, leaving the patient exhausted.",
+            "sentence_zh": "日发热在黎明时消退，让病人精疲力尽。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quotidian routine",
+        "meaning": "日常惯例",
+        "examples": [
+          {
+            "sentence": "Her quotidian routine includes feeding stray cats and checking Douyin.",
+            "sentence_zh": "她的日常惯例包括喂流浪猫和刷抖音。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quotidian life",
+        "meaning": "日常生活",
+        "examples": [
+          {
+            "sentence": "AI is gradually reshaping our quotidian life in China.",
+            "sentence_zh": "人工智能正逐渐重塑我们在中国的日常生活。"
+          }
+        ]
+      }
+    ],
+    "teach": "quotidian其实是'过日子的盐'🧂！古罗马人用'quot'计算日期📅，传到英国变成'每日打卡'（quotidian routine）。要说'生活平淡'可以吐槽same old same old🍵，'例行公事'叫daily grind就像驴拉磨🐴。记住：你的quotidian里藏着改变世界的可能💡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'抠题典'→每日抠词典复习",
+        "易混词对比：daily（中性） vs quotidian（带医学/文学色彩）"
+      ]
+    }
+  },
+  {
+    "word": "quotient",
+    "etymology": {
+      "breakdown": [
+        "quot",
+        "ient"
+      ],
+      "meaning_connection": "词根quot=多少（同quantity数量），-ient表性质→计算'多少份'的结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "商（数学术语）",
+        "examples": [
+          {
+            "sentence": "The quotient of 15 divided by 3 is 5.",
+            "sentence_zh": "15除以3的商是5。"
+          },
+          {
+            "sentence": "Calculating the quotient helps split the bill evenly among friends.",
+            "sentence_zh": "计算商数有助于朋友间平分账单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "份额",
+        "examples": [
+          {
+            "sentence": "Everyone got an equal quotient of the mooncake.",
+            "sentence_zh": "每个人都分到了等量的月饼份额。"
+          }
+        ]
+      }
+    ],
+    "teach": "quotient其实是'切蛋糕'数学版🍰：古罗马商人用quot(多少)计算分成📊。要说'智商超高'可以说have a high IQ quotient（IQ=智商商数），'情商'则是EQ quotient🧠💖。记住：你的幸福商数=奶茶杯数÷加班小时数🥤⏰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'扣提成'→老板扣提成算份额(quotient)"
+      ]
+    }
   }
 ]

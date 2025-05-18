@@ -9866,5 +9866,326 @@
         "记忆法：字母ee像针眼，d像针尖"
       ]
     }
+  },
+  {
+    "word": "needless",
+    "etymology": {
+      "breakdown": [
+        "need",
+        "less"
+      ],
+      "meaning_connection": "need（需要）+ -less（无...的）→ 字面意思'不需要的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不需要的",
+        "examples": [
+          {
+            "sentence": "The manual is full of needless technical jargon.",
+            "sentence_zh": "这本手册充斥着不必要的专业术语。"
+          },
+          {
+            "sentence": "Her suitcase was packed with needless souvenirs.",
+            "sentence_zh": "她的行李箱塞满了不需要的纪念品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不必要的",
+        "examples": [
+          {
+            "sentence": "It's needless to queue for this overhyped milk tea.",
+            "sentence_zh": "为这杯过度营销的奶茶排队实属不必要。"
+          },
+          {
+            "sentence": "He caused needless panic by forwarding that unverified rumor.",
+            "sentence_zh": "他转发未经证实的谣言引起了不必要的恐慌。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "needless to say",
+        "meaning": "不用说",
+        "examples": [
+          {
+            "sentence": "Needless to say, the influencer deleted the controversial post immediately.",
+            "sentence_zh": "不用说，那个网红立刻删除了争议帖子。"
+          },
+          {
+            "sentence": "Needless to say, all dumplings disappeared within 5 minutes.",
+            "sentence_zh": "不用说，所有饺子五分钟内就被消灭光了。"
+          }
+        ]
+      }
+    ],
+    "teach": "needless就像你妈觉得你冷时硬塞的秋裤👖！词尾-less像剪刀✂️，把need（需要）剪掉→变成'不需要的'。地道表达'多此一举'叫carry coals to Newcastle（往产煤区运煤），说'废话'可以用needless talk就像在火锅里涮芹菜——纯属多余🥦。记住：needless things就像手机里不用的APP，该删就删！",
+    "recite": {
+      "tips": [
+        "谐音梗：'你的乐死'→你的乐死(needless)行为笑死我了",
+        "易混词对比：needless vs. careless（前者'不需要'，后者'不小心'）"
+      ]
+    }
+  },
+  {
+    "word": "needlessly",
+    "etymology": {
+      "breakdown": [
+        "need",
+        "less",
+        "ly"
+      ],
+      "meaning_connection": "词根need（需要）+后缀-less（没有...的）+后缀-ly（副词化）→字面意思是'在没有需要的情况下'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不必要地",
+        "examples": [
+          {
+            "sentence": "The meeting was needlessly prolonged by trivial discussions about coffee brands.",
+            "sentence_zh": "会议因琐碎的咖啡品牌讨论而不必要地延长了。"
+          },
+          {
+            "sentence": "He needlessly bought three backup chargers for his new phone.",
+            "sentence_zh": "他完全不必要地给自己新手机买了三个备用充电器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "无用地",
+        "examples": [
+          {
+            "sentence": "The robot vacuum needlessly bumped into the same chair leg 15 times.",
+            "sentence_zh": "扫地机器人毫无意义地撞了同一把椅子腿15次。"
+          },
+          {
+            "sentence": "She needlessly repeated the instructions like a broken GPS.",
+            "sentence_zh": "她像故障的导航仪一样无用地重复着指令。"
+          }
+        ]
+      }
+    ],
+    "teach": "needlessly就像你妈觉得你冷时硬塞的秋裤👖！这个词自带吐槽属性：当程序员写needless code就像往泡面里加鱼子酱🍜（完全没必要）。搭配'needlessly complicated'形容奶茶店的小程序点单🤯，或说'needlessly dramatic'吐槽韩剧剧情🎭。记住：needlessly=脱裤子放屁💨+多此一举🙅‍♂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'你的累死'→因为做了很多needlessly的事",
+        "对比记忆：needful（必要的）←→needless（不必要的）",
+        "联想：less是否定后缀，像'hopeless（没希望的）'"
+      ]
+    }
+  },
+  {
+    "word": "needlework",
+    "etymology": {
+      "breakdown": [
+        "needle",
+        "work"
+      ],
+      "meaning_connection": "needle（针）+work（工作）→用针进行的手工活动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "刺绣",
+        "examples": [
+          {
+            "sentence": "Her delicate needlework won first prize at the craft fair.",
+            "sentence_zh": "她精致的刺绣作品在手工艺展上获得一等奖。"
+          },
+          {
+            "sentence": "The museum displays imperial needlework from the Qing Dynasty.",
+            "sentence_zh": "博物馆展出了清代宫廷刺绣作品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "缝纫",
+        "examples": [
+          {
+            "sentence": "The grandma taught her granddaughter basic needlework skills.",
+            "sentence_zh": "奶奶教孙女基本的缝纫技巧。"
+          },
+          {
+            "sentence": "During quarantine, many people took up needlework as a hobby.",
+            "sentence_zh": "隔离期间，许多人把缝纫当作爱好。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "do needlework",
+        "meaning": "做针线活",
+        "examples": [
+          {
+            "sentence": "She likes to do needlework while watching historical dramas.",
+            "sentence_zh": "她喜欢一边看古装剧一边做针线活。"
+          }
+        ]
+      }
+    ],
+    "teach": "needlework是古代'女红'的现代版🧵！中世纪欧洲贵族小姐必学needlework就像现代人必会P图💻，区别是一个用针一个用鼠标🖱️。'缝纫小白'叫all thumbs（笨手笨脚），'刺绣高手'说have nimble fingers（巧手）。记住：当代needlework最高境界是给爱豆打榜时顺便补袜子👑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'你的老蜗壳'→你的老蜗壳(needlework)里全是毛线球",
+        "易混词对比：embroidery（纯刺绣） vs needlework（包含所有针线活）",
+        "联想：needle+work=针的舞蹈"
+      ]
+    }
+  },
+  {
+    "word": "needy",
+    "etymology": {
+      "breakdown": [
+        "need",
+        "y"
+      ],
+      "meaning_connection": "词根need表示'需求'，后缀-y表示'充满...的'→字面意思是'充满需求的'，引申为'贫穷的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "贫穷的",
+        "examples": [
+          {
+            "sentence": "The charity provides winter coats for needy families in northern China.",
+            "sentence_zh": "该慈善机构为中国北方贫困家庭提供冬衣。"
+          },
+          {
+            "sentence": "Needy students can apply for free lunch programs at school.",
+            "sentence_zh": "贫困学生可以申请学校的免费午餐计划。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "贫困的",
+        "examples": [
+          {
+            "sentence": "Many needy villages now have access to clean water thanks to the project.",
+            "sentence_zh": "由于该项目，许多贫困村庄现在能用上清洁饮用水。"
+          },
+          {
+            "sentence": "The government has launched new policies to support needy regions.",
+            "sentence_zh": "政府已出台新政策支持贫困地区。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "生活艰苦的",
+        "examples": [
+          {
+            "sentence": "Despite being needy, the old couple always shares their homemade pickles with neighbors.",
+            "sentence_zh": "尽管生活艰苦，这对老夫妇总是把自制泡菜分给邻居。"
+          },
+          {
+            "sentence": "The documentary shows how needy farmers survive harsh winters.",
+            "sentence_zh": "这部纪录片展现了生活艰苦的农民如何度过严冬。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the needy",
+        "meaning": "贫困人群",
+        "examples": [
+          {
+            "sentence": "During Mid-Autumn Festival, volunteers deliver mooncakes to the needy.",
+            "sentence_zh": "中秋节期间，志愿者给贫困人群送月饼。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "needy child",
+        "meaning": "贫困儿童",
+        "examples": [
+          {
+            "sentence": "The 'Hope Project' has helped millions of needy children attend school.",
+            "sentence_zh": "'希望工程'已帮助数百万贫困儿童上学。"
+          }
+        ]
+      }
+    ],
+    "teach": "needy就像总在说'饿饿'的肚子🍲！这个词来自'need需要+y的'，字面是'特需人群'就像总在等投喂的小猫🐱。形容'穷得叮当响'可以说dirt poor（土一样穷），'扶贫'叫poverty alleviation就像给漏雨的屋顶补瓦片🏚️。记住：needy比poor更强调'持续需要帮助'的状态！",
+    "recite": {
+      "tips": [
+        "谐音梗：'泥地'→住在泥地(needy)里的人很贫困",
+        "易混词对比：needy(客观贫困) vs greedy(主观贪婪)"
+      ]
+    }
+  },
+  {
+    "word": "nefarious",
+    "etymology": {
+      "breakdown": [
+        "ne",
+        "fari",
+        "ous"
+      ],
+      "meaning_connection": "词根ne-=否定，fari=说（如fable寓言），-ous表性质→古代指'违背神谕的'，后演变为'极恶的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "恶毒的",
+        "examples": [
+          {
+            "sentence": "The nefarious villain in the drama poisoned the emperor's tea with toad venom.",
+            "sentence_zh": "剧中恶毒的反派用蟾蜍毒液给皇帝的茶下毒。"
+          },
+          {
+            "sentence": "Her nefarious plan involved replacing all office coffee with decaf.",
+            "sentence_zh": "她恶毒的计划是把办公室咖啡全换成低因的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "极坏的",
+        "examples": [
+          {
+            "sentence": "Stealing grandma's dentures is a nefarious act beyond forgiveness.",
+            "sentence_zh": "偷奶奶的假牙是不可饶恕的极恶行为。"
+          },
+          {
+            "sentence": "That nefarious prank made all toilets play 《Guangdong Love Song》when flushed.",
+            "sentence_zh": "那个极坏的恶作剧让所有马桶冲水时播放《广东爱情故事》。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nefarious activities",
+        "meaning": "罪恶行径",
+        "examples": [
+          {
+            "sentence": "Pigeons' nefarious activities include bombing clean cars with precision.",
+            "sentence_zh": "鸽子的罪恶行径包括对干净车辆实施精准轰炸。"
+          }
+        ]
+      }
+    ],
+    "teach": "nefarious是反派专业户🎭！词源是'不能说的秘密'（ne+fari），就像伏地魔的'那个不能提名字的人'🧙♂️。形容：1) 灭霸打响指属于nefarious deed 2) 给奶茶掺水是nefarious trick🥤。地道说法叫devil's work（恶魔勾当），搭配：nefarious laugh（邪笑）/nefarious plot（毒计）💀。记住：比bad坏100倍才够格叫nefarious！",
+    "recite": {
+      "tips": [
+        "谐音梗：'内发热死'→内心邪恶到发烧",
+        "易混词：notorious（臭名昭著但未必邪恶）",
+        "记忆法：nefarious=哪吒（Ne Zha）+furious（愤怒的）→闹海小魔童"
+      ]
+    }
   }
 ]

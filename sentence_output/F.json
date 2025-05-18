@@ -10248,5 +10248,312 @@
         "联想：所有'fare'都跟'行路'有关（费用/旅客/食物/进展）"
       ]
     }
+  },
+  {
+    "word": "farewell",
+    "etymology": {
+      "breakdown": [
+        "fare",
+        "well"
+      ],
+      "meaning_connection": "古英语组合词，fare=旅行/状态，well=好→原指'一路顺风'，后演变为告别用语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "辞别",
+        "examples": [
+          {
+            "sentence": "The farewell party ended with everyone singing 'Auld Lang Syne' off-key.",
+            "sentence_zh": "告别派对以众人跑调合唱《友谊地久天长》结束。"
+          },
+          {
+            "sentence": "Her farewell speech included 3 dad jokes and 1 embarrassing office story.",
+            "sentence_zh": "她的告别演说包含3个冷笑话和1个办公室尴尬往事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "interj.",
+        "meaning": "再会",
+        "examples": [
+          {
+            "sentence": "'Farewell, my dumpling-loving friend!' he shouted at the departing train.",
+            "sentence_zh": "他对远去的火车喊道：'再会了，爱吃饺子的朋友！'"
+          },
+          {
+            "sentence": "The knight bowed and said 'Farewell' before riding into the sunset with his pet dragon.",
+            "sentence_zh": "骑士鞠躬说'再会'，随后骑着龙奔向夕阳。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bid farewell",
+        "meaning": "告别",
+        "examples": [
+          {
+            "sentence": "Weibo users bid farewell to the 140-character limit with memes.",
+            "sentence_zh": "微博用户用表情包告别140字限制。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "farewell dinner",
+        "meaning": "饯行宴",
+        "examples": [
+          {
+            "sentence": "The team ordered 8 kinds of hotpot for the intern's farewell dinner.",
+            "sentence_zh": "团队点了8种火锅给实习生饯行。"
+          }
+        ]
+      }
+    ],
+    "teach": "farewell是莎士比亚级告别👑！词源暗藏玄机：fare+well=祝你一路吃好喝好(字面意思是'走得好')🍜。中文对应的地道表达是'江湖再见'🗡️，说'永别'要用part forever🚫。搭配推荐：'含泪告别'说wave a tearful farewell😭，'潇洒离开'是say farewell with a mic drop🎤。记住：说farewell时要像武侠片大侠那样抱拳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭喂喔'→散伙饭告别(farewell)时喂饭",
+        "易混词：goodbye(日常)/farewell(正式)",
+        "记忆tip：想象把'farewell'拆成'车票(fare)+井盖(well)'→带着车票掉进井盖告别"
+      ]
+    }
+  },
+  {
+    "word": "farm",
+    "etymology": {
+      "breakdown": [
+        "farm"
+      ],
+      "meaning_connection": "源自古法语'ferme'（租赁土地），最早指固定租金租用的土地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "农场",
+        "examples": [
+          {
+            "sentence": "The alpaca farm in Chengdu has become a viral check-in spot.",
+            "sentence_zh": "成都的羊驼农场已成为网红打卡地。"
+          },
+          {
+            "sentence": "My grandpa's watermelon farm was ruined by wild boars last year.",
+            "sentence_zh": "爷爷的西瓜农场去年被野猪毁了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "农田",
+        "examples": [
+          {
+            "sentence": "Drones are now spraying pesticides over vast farms in Heilongjiang.",
+            "sentence_zh": "无人机正在黑龙江的大片农田上空喷洒农药。"
+          },
+          {
+            "sentence": "The terraced farms in Yunnan look like giant staircases to heaven.",
+            "sentence_zh": "云南的梯田农场像通往天堂的巨大阶梯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "耕种",
+        "examples": [
+          {
+            "sentence": "They farm organic strawberries for high-end supermarkets.",
+            "sentence_zh": "他们为高端超市种植有机草莓。"
+          },
+          {
+            "sentence": "Ancient Chinese farmed millet 7000 years ago.",
+            "sentence_zh": "中国古人早在七千年前就种植小米。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "种田",
+        "examples": [
+          {
+            "sentence": "After retiring, he decided to farm in the countryside.",
+            "sentence_zh": "退休后他决定去乡下种田。"
+          },
+          {
+            "sentence": "More young people are learning to farm through TikTok videos.",
+            "sentence_zh": "越来越多年轻人通过抖音视频学习务农。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "farm out",
+        "meaning": "外包",
+        "examples": [
+          {
+            "sentence": "The tech company farmed out its customer service to Malaysia.",
+            "sentence_zh": "这家科技公司将客服外包给了马来西亚。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "factory farm",
+        "meaning": "工厂化农场",
+        "examples": [
+          {
+            "sentence": "Animal welfare groups oppose cruel factory farms.",
+            "sentence_zh": "动物保护组织反对残忍的工厂化农场。"
+          }
+        ]
+      }
+    ],
+    "teach": "farm的祖先其实是'包租公'💸！中世纪地主把土地'ferme'(固定租金)出租，后来变成农场🌾。现在说'数字农场'叫digital farming就像在手机里种菜📱，'外包工作'说farm out像把田租给别人种👨🌾。记住：你的蚂蚁森林也是mini farm！🌲🐜🌱",
+    "recite": {
+      "tips": [
+        "谐音梗：'发馍'→农场发馍(馒头)救济饥民",
+        "对比记忆：farm(耕作) vs firm(公司)→'农耕公司'"
+      ]
+    }
+  },
+  {
+    "word": "farmed",
+    "etymology": {
+      "breakdown": [
+        "farm",
+        "ed"
+      ],
+      "meaning_connection": "farm源自古法语ferme（租赁的土地），-ed表示过去时/完成态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "耕种（farm的过去式）",
+        "examples": [
+          {
+            "sentence": "My grandpa farmed this land with water buffalo in the 1960s.",
+            "sentence_zh": "我爷爷在60年代用水牛耕种过这片土地。"
+          },
+          {
+            "sentence": "They farmed organic vegetables before it became trendy.",
+            "sentence_zh": "在有机蔬菜流行前他们就耕种这些了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "耕种（farm的过去分词）",
+        "examples": [
+          {
+            "sentence": "This valley has been farmed for 20 centuries.",
+            "sentence_zh": "这个山谷已被耕种了二十个世纪。"
+          },
+          {
+            "sentence": "The terraced fields farmed by Hani people are UNESCO heritage.",
+            "sentence_zh": "哈尼族人耕种的梯田是联合国文化遗产。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "farmed out",
+        "meaning": "外包",
+        "examples": [
+          {
+            "sentence": "The IT company farmed out coding jobs to freelancers.",
+            "sentence_zh": "这家IT公司把编码工作外包给自由职业者。"
+          },
+          {
+            "sentence": "Toy production was farmed out to Southeast Asia.",
+            "sentence_zh": "玩具生产被外包到东南亚。"
+          }
+        ]
+      }
+    ],
+    "teach": "farmed藏着人类文明史🌾！最早'耕种'是石器时代的VR游戏——先民们玩现实版开心农场🧑‍🌾。现代人把工作'外包'(farm out)就像皇帝把奏折交给太监批改📜。要说'面朝黄土背朝天'可以叫toil in the fields，但'数字化耕种'可是digital farming💻！记住：每一粒米都是farmed出来的CPU💪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发霉的'→发霉的(farmed)粮食说明耕种失败",
+        "易混词对比：farmed（人工耕种）vs wild-grown（野生）",
+        "记忆桩：把-ed记作锄头形状"
+      ]
+    }
+  },
+  {
+    "word": "farmer",
+    "etymology": {
+      "breakdown": [
+        "farm",
+        "er"
+      ],
+      "meaning_connection": "词根farm来自拉丁语'firma'（固定支付），指租用土地耕种的人，-er表示从事者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "农夫",
+        "examples": [
+          {
+            "sentence": "The farmer taught his grandchildren how to plant rice in terraced fields.",
+            "sentence_zh": "老农夫教孙辈在梯田里插秧。"
+          },
+          {
+            "sentence": "A TikTok-famous farmer raises ducks that dance to《General's Order》.",
+            "sentence_zh": "一位抖音网红农夫养了群会跳《将军令》的鸭子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "农场主",
+        "examples": [
+          {
+            "sentence": "The avocado farmer exports 80% of his harvest to China.",
+            "sentence_zh": "这位牛油果农场主将80%收成出口到中国。"
+          },
+          {
+            "sentence": "She quit being an investment banker to become an organic tea farmer.",
+            "sentence_zh": "她辞去投行工作成为有机茶园农场主。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "farmer's market",
+        "meaning": "农夫市集",
+        "examples": [
+          {
+            "sentence": "At Beijing's farmer's market, you can bargain for hairy crabs using WeChat Pay.",
+            "sentence_zh": "在北京的农夫市集，你能用微信支付讨价还价买大闸蟹。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gentleman farmer",
+        "meaning": "乡绅农场主",
+        "examples": [
+          {
+            "sentence": "The retired CEO now plays gentleman farmer growing organic goji berries.",
+            "sentence_zh": "那位退休CEO现在当起了种有机枸杞的乡绅农场主。"
+          }
+        ]
+      }
+    ],
+    "teach": "farmer其实是'土地理财师'💹：古代farmer要向领主交farm（固定地租）🌾。现代中国'农场主'叫douyin-nongren（抖音农人）📱，而'小农经济'说成smallholder farming就像盆栽农业🪴。记住：真正的farmer绝不会在蚂蚁森林偷能量！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发么'→农民伯伯问'今年庄稼发么？'",
+        "易混词：farmer（实际操作者）vs. landlord（收租者）",
+        "记忆tip：farm+er=在farm里干活的人"
+      ]
+    }
   }
 ]

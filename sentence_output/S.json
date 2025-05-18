@@ -9664,5 +9664,339 @@
         "易混词对比：punish（单纯惩罚） vs sanction（带权威性的惩罚）"
       ]
     }
+  },
+  {
+    "word": "sanctity",
+    "etymology": {
+      "breakdown": [
+        "sanct",
+        "ity"
+      ],
+      "meaning_connection": "词根sanct=神圣（同sacred），-ity表抽象性质→不可侵犯的神圣状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神圣",
+        "examples": [
+          {
+            "sentence": "The sanctity of the Terracotta Warriors is protected by 24-hour laser monitoring.",
+            "sentence_zh": "兵马俑的神圣性受到24小时激光监控保护。"
+          },
+          {
+            "sentence": "Buddhists believe in the sanctity of all living creatures, even mosquitos.",
+            "sentence_zh": "佛教徒相信所有生物的神圣性，包括蚊子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "尊严",
+        "examples": [
+          {
+            "sentence": "The judge maintained the sanctity of the court by banning pajamas.",
+            "sentence_zh": "法官通过禁止穿睡衣出庭维护法庭尊严。"
+          },
+          {
+            "sentence": "She defended the sanctity of teachers by refusing to accept bribes for grades.",
+            "sentence_zh": "她通过拒收改分贿赂维护教师尊严。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣洁",
+        "examples": [
+          {
+            "sentence": "The white lotus symbolizes the sanctity that rises from muddy waters.",
+            "sentence_zh": "白莲花象征从淤泥中升起的圣洁。"
+          },
+          {
+            "sentence": "Tibetan pilgrims walk for months to experience the sanctity of Mount Kailash.",
+            "sentence_zh": "藏民徒步数月只为体验冈仁波齐的圣洁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sanctity of life",
+        "meaning": "生命神圣性",
+        "examples": [
+          {
+            "sentence": "The debate on abortion involves the sanctity of life versus personal choice.",
+            "sentence_zh": "堕胎辩论涉及生命神圣性与个人选择权的平衡。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "violate the sanctity of",
+        "meaning": "亵渎...的神圣",
+        "examples": [
+          {
+            "sentence": "Taking selfies at funerals violates the sanctity of mourning.",
+            "sentence_zh": "在葬礼上自拍亵渎了哀悼的神圣性。"
+          }
+        ]
+      }
+    ],
+    "teach": "sanctity其实是'神圣值'✨！古罗马sanctum（圣所）连脚步声都是禁忌🚫。现代版：就像你妈警告'别碰供桌上的苹果'🍎（sanctity of tradition），或故宫禁止踩踏金砖🏛️（sanctity of heritage）。说'神圣不可侵犯'用inviolable sanctity，吐槽'假正经'可说sanctity with side eyes🙄。记住：带sanct的词都自带圣光滤镜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'三克提'→提三克(sanctity)黄金也换不来神圣",
+        "易混词对比：sanctuary（避难所）是具体场所，sanctity是抽象属性"
+      ]
+    }
+  },
+  {
+    "word": "sanctuary",
+    "etymology": {
+      "breakdown": [
+        "sanct",
+        "uary"
+      ],
+      "meaning_connection": "词根sanct=神圣，后缀-uary表场所→神圣的场所，引申为'庇护所'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣所（教堂/寺院）",
+        "examples": [
+          {
+            "sentence": "The panda-shaped incense burner in the sanctuary made tourists giggle.",
+            "sentence_zh": "圣所里熊猫形状的香炉让游客忍俊不禁。"
+          },
+          {
+            "sentence": "Light filtered through stained glass in the ancient sanctuary.",
+            "sentence_zh": "阳光透过古老圣所的彩绘玻璃照射进来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "耶路撒冷神殿",
+        "examples": [
+          {
+            "sentence": "Pilgrims weep when touching the Western Wall of the sanctuary.",
+            "sentence_zh": "朝圣者触摸圣殿西墙时潸然泪下。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "避难所",
+        "examples": [
+          {
+            "sentence": "This library became my sanctuary during exam weeks.",
+            "sentence_zh": "考试周期间图书馆成了我的避难所。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "animal sanctuary",
+        "meaning": "动物庇护所",
+        "examples": [
+          {
+            "sentence": "The retired circus elephants now live in an animal sanctuary.",
+            "sentence_zh": "退休的马戏团大象如今住在动物庇护所。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "seek sanctuary",
+        "meaning": "寻求庇护",
+        "examples": [
+          {
+            "sentence": "Political refugees sought sanctuary in the embassy.",
+            "sentence_zh": "政治难民在大使馆寻求庇护。"
+          }
+        ]
+      }
+    ],
+    "teach": "sanctuary是神圣的'三克油'圣地⛪️！词根sanct=神圣（同sanitize消毒），就像给心灵做SPA🧖。说'心灵避风港'可用safe haven，吐槽'蜗居'叫pigeon hole🕊️。记住：从教堂圣所到猫咪收容所🐈⬛，所有让你安心的地儿都算sanctuary！",
+    "recite": {
+      "tips": [
+        "谐音梗：'三克油喂你'→在圣所(sanctuary)感恩",
+        "易混词：asylum（政治庇护）vs sanctuary（广义庇护）",
+        "记忆法：sanctuary=神圣(sanct)+区域(-uary)"
+      ]
+    }
+  },
+  {
+    "word": "sanctum",
+    "etymology": {
+      "breakdown": [
+        "sanct",
+        "um"
+      ],
+      "meaning_connection": "词根sanct=神圣（同sanctuary），-um表地点→神圣之地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣所",
+        "examples": [
+          {
+            "sentence": "The forbidden sanctum in Shaolin Temple stores ancient martial arts manuscripts.",
+            "sentence_zh": "少林寺的禁地圣所藏有古武术秘籍。"
+          },
+          {
+            "sentence": "Pilgrims circle the sanctum 108 times chanting prayers.",
+            "sentence_zh": "朝圣者绕圣所转108圈诵经。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "密室",
+        "examples": [
+          {
+            "sentence": "The CEO's sanctum has a vintage Mahjong set for stress relief.",
+            "sentence_zh": "CEO的密室里放着一套减压用的古董麻将。"
+          },
+          {
+            "sentence": "Tech nerds turned their basement into a gadget sanctum.",
+            "sentence_zh": "技术宅把地下室改造成设备密室。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "私室",
+        "examples": [
+          {
+            "sentence": "Her bedroom sanctum smells like osmanthus tea and ink.",
+            "sentence_zh": "她的卧室私室飘着桂花茶与墨香。"
+          },
+          {
+            "sentence": "Every livestreamer needs a sanctum free from parents' sudden appearances.",
+            "sentence_zh": "每个主播都需要避免父母突袭的私室。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "inner sanctum",
+        "meaning": "核心地带",
+        "examples": [
+          {
+            "sentence": "The inner sanctum of Peking Opera requires decades to master.",
+            "sentence_zh": "京剧的核心艺术需数十年修炼。"
+          }
+        ]
+      }
+    ],
+    "teach": "sanctum是社恐人的结界🚧！古罗马sanctum指神庙内殿🙏，现在可以是你的电竞房💻或奶茶储藏室🧋。说'个人空间'用personal sanctum比man cave更文雅，'闯入私域'叫violate someone's sanctum就像拆了乐高城堡🏰。记住：你的sanctum就是你不想被妈妈打扫的圣地！",
+    "recite": {
+      "tips": [
+        "谐音梗：'三克糖'→在私室偷吃三克糖",
+        "对比：sanctuary（避难所）更公开，sanctum更私密"
+      ]
+    }
+  },
+  {
+    "word": "sand",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'sand'，与德语'Sand'同源，原始印欧语词根不详"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "沙",
+        "examples": [
+          {
+            "sentence": "The hourglass reminds us that even CEOs can't hold sand in their hands.",
+            "sentence_zh": "沙漏告诉我们，就算是CEO也握不住手中沙。"
+          },
+          {
+            "sentence": "Desert ants navigate by counting their steps in the scorching sand.",
+            "sentence_zh": "沙漠蚂蚁通过在滚烫沙地上数步来导航。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "沙滩",
+        "examples": [
+          {
+            "sentence": "Sanya's white sand beaches are full of influencers taking coconut selfies.",
+            "sentence_zh": "三亚的白沙滩上全是举着椰子自拍的网红。"
+          },
+          {
+            "sentence": "The sand volleyball court suddenly became a cat nap zone at noon.",
+            "sentence_zh": "正午时分沙滩排球场地秒变猫咪午睡区。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "光阴",
+        "examples": [
+          {
+            "sentence": "Ancient poets compared time to flowing sand in hourglasses.",
+            "sentence_zh": "古代诗人将时光比作沙漏中流动的沙。"
+          },
+          {
+            "sentence": "The sands of youth always slip faster than phone battery.",
+            "sentence_zh": "青春岁月总比手机电量流逝得更快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "撒沙",
+        "examples": [
+          {
+            "sentence": "Workers are sanding the icy road like sprinkling matcha powder on dessert.",
+            "sentence_zh": "工人给结冰路面撒沙，就像往甜点上撒抹茶粉。"
+          },
+          {
+            "sentence": "The kindergarten teacher sanded the craft paper for texture effect.",
+            "sentence_zh": "幼儿园老师给手工纸撒沙制造质感效果。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "build on sand",
+        "meaning": "基础不牢",
+        "examples": [
+          {
+            "sentence": "Stocks bought with loans are like buildings on sand.",
+            "sentence_zh": "借钱买的股票就像建在沙上的楼。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sand trap",
+        "meaning": "沙坑障碍",
+        "examples": [
+          {
+            "sentence": "His golf ball disappeared in the sand trap like a sinking mini UFO.",
+            "sentence_zh": "他的高尔夫球像迷你UFO般消失在沙坑里。"
+          }
+        ]
+      }
+    ],
+    "teach": "sand是宇宙级拖延症大师⏳：沙滩让你想躺平🏖️，沙漏催你赶deadline⏰，流沙还COSPLAY时间刺客！'光阴似箭'英文说time flies，'虚度光阴'叫kill time就像玩消消乐🎮。搭配：1) quicksand（流沙/陷阱） 2) sandcastle（沙堡/短暂成就）。记住：你的KPI正在沙漏底部凝视你👁️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'散的'→沙子都是散装的",
+        "易混词：send（发）vs sand（沙），别把'发邮件'写成'sand email'",
+        "记忆法：SAND=Sun And No Drink（又晒又没喝的沙滩）"
+      ]
+    }
   }
 ]

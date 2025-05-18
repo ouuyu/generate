@@ -9978,5 +9978,314 @@
         "记忆诀：想象微信'特效表情'的effectiveness让你笑出声"
       ]
     }
+  },
+  {
+    "word": "effector",
+    "etymology": {
+      "breakdown": [
+        "ef",
+        "fect",
+        "or"
+      ],
+      "meaning_connection": "前缀ef-表示'出'，词根fect表示'做'，后缀-or表示'人或物'→能产生作用的物体"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "效应器",
+        "examples": [
+          {
+            "sentence": "The robotic effector can delicately peel a grape.",
+            "sentence_zh": "机器人效应器能优雅地给葡萄去皮。"
+          },
+          {
+            "sentence": "Muscles are biological effectors that convert neural signals into movement.",
+            "sentence_zh": "肌肉是将神经信号转化为运动的生物效应器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "效应基因",
+        "examples": [
+          {
+            "sentence": "Scientists identified the effector gene responsible for butterfly wing patterns.",
+            "sentence_zh": "科学家发现了决定蝴蝶翅膀花纹的效应基因。"
+          },
+          {
+            "sentence": "This plant effector gene triggers immune responses in crops.",
+            "sentence_zh": "该植物效应基因会引发作物的免疫反应。"
+          }
+        ]
+      }
+    ],
+    "teach": "effector是生物界的魔法棒🪄：在神经系统中像哈利波特的魔杖施展咒语（neural effector），在基因领域像DNA编辑剪刀✂️（gene effector）。搭配说'immune effector'免疫战士🧬，'robot effector'机械手臂🤖。记住：所有effector都是'搞事情小能手'！",
+    "recite": {
+      "tips": [
+        "拆解记忆：effect（效果）+ or（物）= 产生效果的装置",
+        "易混词对比：affector（影响者）vs effector（执行者）"
+      ]
+    }
+  },
+  {
+    "word": "effectual",
+    "etymology": {
+      "breakdown": [
+        "ef",
+        "fect",
+        "ual"
+      ],
+      "meaning_connection": "前缀ef-表示'彻底'，词根fect来自facere（做），-ual为形容词后缀→彻底做到的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有效果的",
+        "examples": [
+          {
+            "sentence": "The panda conservation program proved effectual in Sichuan.",
+            "sentence_zh": "四川的熊猫保护计划被证明是有效果的。"
+          },
+          {
+            "sentence": "His effectual speech moved the audience to donate instantly.",
+            "sentence_zh": "他效果显著的演讲让观众立即捐款。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "会应验的",
+        "examples": [
+          {
+            "sentence": "The old fisherman's warning about the storm was effectual.",
+            "sentence_zh": "老渔夫关于风暴的警告最终应验了。"
+          },
+          {
+            "sentence": "Her prediction about the stock market crash turned out effectual.",
+            "sentence_zh": "她对股市崩盘的预测最终应验了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有法律效力的",
+        "examples": [
+          {
+            "sentence": "The contract becomes effectual after being notarized.",
+            "sentence_zh": "这份合同经过公证后具有法律效力。"
+          },
+          {
+            "sentence": "Only effectual documents can be submitted to the court.",
+            "sentence_zh": "只有具备法律效力的文件才能提交给法院。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "effectual measures",
+        "meaning": "有效措施",
+        "examples": [
+          {
+            "sentence": "The government took effectual measures to control housing prices.",
+            "sentence_zh": "政府采取有效措施控制房价。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "effectual as of",
+        "meaning": "自...起生效",
+        "examples": [
+          {
+            "sentence": "The new policy is effectual as of next Monday.",
+            "sentence_zh": "新政策自下周一起生效。"
+          }
+        ]
+      }
+    ],
+    "teach": "effectual就像法律界的尚方宝剑⚔️：既能'有效'如医保改革💊（effectual policy），又能'应验'像诸葛亮的锦囊📜（effectual prediction），还自带'法律buff'如盖了玉玺的圣旨🏛️（effectual document）。搭配说'take effectual action'比普通effective更霸气！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一饭吃饱'→效果显著的(effectual)解决方案",
+        "对比记忆：effective侧重有效性，effectual强调实际成效+法律效力",
+        "联想：法庭锤音一响🔨，就是最effectual的时刻"
+      ]
+    }
+  },
+  {
+    "word": "effectually",
+    "etymology": {
+      "breakdown": [
+        "effect",
+        "ual",
+        "ly"
+      ],
+      "meaning_connection": "effect（效果）+ -ual（形容词后缀）+ -ly（副词后缀）→ 产生效果地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有效地",
+        "examples": [
+          {
+            "sentence": "The new policy effectually reduced traffic congestion during rush hours.",
+            "sentence_zh": "新政策有效缓解了高峰期的交通拥堵。"
+          },
+          {
+            "sentence": "This app effectually reminds me to drink water every hour.",
+            "sentence_zh": "这个APP能有效地每小时提醒我喝水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "全然",
+        "examples": [
+          {
+            "sentence": "The magician's trick effectually deceived all the audience.",
+            "sentence_zh": "魔术师的戏法全然骗过了所有观众。"
+          },
+          {
+            "sentence": "The heavy rain effectually ruined our picnic plans.",
+            "sentence_zh": "大雨全然打乱了我们的野餐计划。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "实质上",
+        "examples": [
+          {
+            "sentence": "The two methods are effectually the same in terms of results.",
+            "sentence_zh": "从结果来看，这两种方法实质上是一样的。"
+          },
+          {
+            "sentence": "His silence was effectually an admission of guilt.",
+            "sentence_zh": "他的沉默实质上是一种认罪。"
+          }
+        ]
+      }
+    ],
+    "teach": "effectually就像超级英雄的披风🦸♂️！'有效地'像灭霸打响指消灭半数人口（但别学他）；'全然'像被老妈没收手机时的绝望😱；'实质上'像奶茶宣称无糖却偷偷加糖🍬（effectually含糖！）。搭配：effectively and effectually（双管齐下⚡），effectually solve（根治问题🔧）。要说'彻底解决'，老外会说'nip it in the bud'（扼杀在萌芽中🌱）。",
+    "recite": {
+      "tips": [
+        "谐音梗：'衣服扯丢'→衣服扯丢了就effectually（全然）没法穿",
+        "易混词对比：effectively（有效果但不一定彻底） vs effectually（彻底有效）",
+        "记忆tip：想象法官敲法槌宣告'本案effectually结案'🔨"
+      ]
+    }
+  },
+  {
+    "word": "effeminacy",
+    "etymology": {
+      "breakdown": [
+        "ef",
+        "femin",
+        "acy"
+      ],
+      "meaning_connection": "前缀ef-（ex-变体）表'向外'，词根femin=女性，-acy表状态→向外表现女性特质的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "柔弱",
+        "examples": [
+          {
+            "sentence": "The Tang Dynasty poet's effeminacy in verse contrasted with his military ambitions.",
+            "sentence_zh": "这位唐代诗人诗句中的柔弱与他从军的志向形成反差。"
+          },
+          {
+            "sentence": "Critics mistook his delicate brushstrokes for effeminacy.",
+            "sentence_zh": "评论家将他细腻的笔触误认为柔弱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "女人气",
+        "examples": [
+          {
+            "sentence": "Ancient Greek theater used masks to exaggerate effeminacy in comedy roles.",
+            "sentence_zh": "古希腊戏剧用面具夸张喜剧角色中的女人气。"
+          },
+          {
+            "sentence": "The peacock's display was once considered nature's effeminacy.",
+            "sentence_zh": "孔雀开屏曾被视作自然界中的女人气表现。"
+          }
+        ]
+      }
+    ],
+    "teach": "effeminacy是'雌化现象'🚹→🚺：词根femin藏着的秘密像被女娲吹了仙气💨。18世纪欧洲用这个词diss穿蕾丝裙的贵族男👗，现代可形容小鲜肉妆容'太娘'💄。搭配说'reek of effeminacy'（娘气冲天），反义词叫'macho'（猛男）🦸♂️。记住：这词用不好会被打拳🥊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一飞迷你C'→一飞冲天的迷你女性特质",
+        "易混词对比：femininity（女性气质，中性词） vs effeminacy（带贬义）",
+        "记忆tip：想象EF字母表(ef)里的女性(femin)在开派对(-acy)"
+      ]
+    }
+  },
+  {
+    "word": "effeminate",
+    "etymology": {
+      "breakdown": [
+        "ef",
+        "femin",
+        "ate"
+      ],
+      "meaning_connection": "前缀ef-表示'加强'，词根femin=女性，-ate为形容词后缀→过度女性化的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "柔弱的",
+        "examples": [
+          {
+            "sentence": "The effeminate willow branches swayed in the breeze like ballet dancers.",
+            "sentence_zh": "柔弱的柳枝在微风中像芭蕾舞者般摇曳。"
+          },
+          {
+            "sentence": "His effeminate handwriting surprised his martial arts students.",
+            "sentence_zh": "他柔弱的笔迹让武术学生们大吃一惊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "女人气的",
+        "examples": [
+          {
+            "sentence": "The Tang Dynasty poet's effeminate style was revolutionary for his time.",
+            "sentence_zh": "这位唐朝诗人女人气的风格在当时具有革命性。"
+          },
+          {
+            "sentence": "Peacock feathers are nature's most effeminate decoration.",
+            "sentence_zh": "孔雀羽毛是自然界最女人气的装饰。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "effeminate manners",
+        "meaning": "阴柔举止",
+        "examples": [
+          {
+            "sentence": "The Peking opera performer's effeminate manners captivated the audience.",
+            "sentence_zh": "京剧演员阴柔的举止让观众着迷。"
+          }
+        ]
+      }
+    ],
+    "teach": "effeminate是' femin（女性）'的超级赛亚人形态💅！古罗马人认为男人涂香水就是effeminate（结果现在男士香水卖爆💸）。要说'娘娘腔'可以戏称mama's boy（妈宝男），但更礼貌说法是metrosexual（都市美男）🧴。记住：就像旗袍穿在熊猫身上🐼，柔美≠软弱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱妃敏娜特'→皇帝吐槽爱妃太娇气",
+        "易混词对比：feminine（女性化的中性词） vs effeminate（带贬义）",
+        "记忆tip：三个e开头的字母像三朵兰花🌺"
+      ]
+    }
   }
 ]
