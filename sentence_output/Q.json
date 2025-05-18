@@ -8151,5 +8151,309 @@
         "联想：quirky→query（疑问）+ kinky（古怪）= 令人疑惑的古怪"
       ]
     }
+  },
+  {
+    "word": "quit",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'quiter'，原指'释放'，后发展出多种与'脱离'相关的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "离开",
+        "examples": [
+          {
+            "sentence": "The audience quit the theater when the fire alarm rang.",
+            "sentence_zh": "火警响起时观众们立即离开了剧院。"
+          },
+          {
+            "sentence": "He quit the WeChat group after seeing too many ads.",
+            "sentence_zh": "看到太多广告后他退出了微信群。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "辞职",
+        "examples": [
+          {
+            "sentence": "She quit to become a full-time douyin streamer.",
+            "sentence_zh": "她辞职成为全职抖音主播。"
+          },
+          {
+            "sentence": "Many programmers quit after the 996 work schedule became mandatory.",
+            "sentence_zh": "强制实行996工作制后许多程序员辞职了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "停止",
+        "examples": [
+          {
+            "sentence": "The baby finally quit crying after getting a lollipop.",
+            "sentence_zh": "拿到棒棒糖后宝宝终于停止了哭闹。"
+          },
+          {
+            "sentence": "I've quit eating spicy hotpot to protect my stomach.",
+            "sentence_zh": "为保护肠胃我已停止吃麻辣火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "放弃",
+        "examples": [
+          {
+            "sentence": "He quit his PhD to open a bubble tea shop.",
+            "sentence_zh": "他放弃博士学位开了家奶茶店。"
+          },
+          {
+            "sentence": "Never quit learning new emojis to stay young!",
+            "sentence_zh": "永远别放弃学习新表情包才能保持年轻！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "离开",
+        "examples": [
+          {
+            "sentence": "His sudden quit surprised all team members.",
+            "sentence_zh": "他的突然离开让所有队员都很惊讶。"
+          },
+          {
+            "sentence": "The game allows three quits before penalty.",
+            "sentence_zh": "该游戏允许三次退出而不受惩罚。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quit cold turkey",
+        "meaning": "突然彻底戒除",
+        "examples": [
+          {
+            "sentence": "He quit smoking cold turkey after seeing a black lung specimen.",
+            "sentence_zh": "看到黑肺标本后他立刻彻底戒烟了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "call it quits",
+        "meaning": "停止（关系/活动）",
+        "examples": [
+          {
+            "sentence": "The band called it quits after their keyboardist joined a monastery.",
+            "sentence_zh": "键盘手出家后乐队宣布解散。"
+          }
+        ]
+      }
+    ],
+    "teach": "quit就像职场人的三种跑路姿势🏃：佛系离职叫quiet quitting（安静躺平），怒摔工牌叫rage quitting（愤怒离职），而最狠的是ghost quitting（幽灵离职）直接消失📵！记住：'戒烟/戒奶茶'用quit doing，'辞职'用quit job，突然戒断叫quit cold turkey🦃（像火鸡一样僵硬戒断）。地道表达：'我不干了！'说'I'm outta here!'",
+    "recite": {
+      "tips": [
+        "谐音梗：'愧他'→愧对他所以quit（离职）",
+        "易混词对比：quite（完全）vs quit（退出）→字母e是exit（出口）所以少个e就是退出",
+        "记忆tip：Q形似退出的门把手🚪"
+      ]
+    }
+  },
+  {
+    "word": "quite",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语quitely，最终来自拉丁语quietus（安静的）→ 从'彻底安静'引申出'完全'义，经程度弱化产生'相当'义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "相当（中等程度）",
+        "examples": [
+          {
+            "sentence": "The AI-generated poem was quite impressive, though not Shakespeare-level.",
+            "sentence_zh": "这首AI生成的诗相当不错，虽然不及莎士比亚水平。"
+          },
+          {
+            "sentence": "Her Mandarin is quite fluent for someone who only studied for 6 months.",
+            "sentence_zh": "对于只学了六个月的人来说，她的中文相当流利。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "完全（绝对程度）",
+        "examples": [
+          {
+            "sentence": "That's not quite what I meant when suggesting 'digital detox'.",
+            "sentence_zh": "当我建议'数字排毒'时，完全不是这个意思。"
+          },
+          {
+            "sentence": "The translation app got the ancient proverb quite wrong.",
+            "sentence_zh": "翻译软件把这句古谚语完全搞错了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "十分（强调语气）",
+        "examples": [
+          {
+            "sentence": "The hotpot was quite the most authentic I've had outside Sichuan.",
+            "sentence_zh": "这火锅十分正宗，是我在四川以外吃过最地道的。"
+          },
+          {
+            "sentence": "It's quite astonishing how fast 5G networks have spread in China.",
+            "sentence_zh": "中国5G网络的普及速度十分惊人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quite a few",
+        "meaning": "相当多",
+        "examples": [
+          {
+            "sentence": "There are quite a few hidden gem restaurants near Sanlitun.",
+            "sentence_zh": "三里屯附近有相当多小众宝藏餐厅。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quite something",
+        "meaning": "非同寻常",
+        "examples": [
+          {
+            "sentence": "A 12-hour flight with toddlers? That's quite something!",
+            "sentence_zh": "带着幼儿坐12小时飞机？这可不简单！"
+          }
+        ]
+      }
+    ],
+    "teach": "quite是个'变色龙'单词🦎！当英国人用'quite good'可能只是'还行'（相当），而美国人说'quite amazing'却是'超级棒'（十分）🌏。记住：'quite the+名词'就像火锅里的变态辣🌶️（强调程度），而'not quite'就像差1%进度的下载进度条⏳（不完全）。说'非常贵'可以用cost quite a penny（字面：花了不少硬币）💰",
+    "recite": {
+      "tips": [
+        "谐音梗：'快特'→快递(quite)小哥跑得相当快",
+        "易混词对比：quiet安静的 vs quite相当",
+        "记忆口诀：程度中等quite相当，加上the变十分强"
+      ]
+    }
+  },
+  {
+    "word": "quits",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语'quitte'（免除债务），最终来自拉丁语'quietus'（平静的）→ 债务清零后的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "抵消的",
+        "examples": [
+          {
+            "sentence": "After I treated her to hotpot and she paid for karaoke, we're quits.",
+            "sentence_zh": "我请她吃火锅她请K歌后，我们两清了。"
+          },
+          {
+            "sentence": "The team decided they were quits when the score reached 5-5.",
+            "sentence_zh": "比分5-5时，队伍认为已互相抵消。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "对等的",
+        "examples": [
+          {
+            "sentence": "Their skills are quits, like two pandas fighting over bamboo.",
+            "sentence_zh": "他俩技能对等，就像两只熊猫抢竹子。"
+          },
+          {
+            "sentence": "The trade deal made their benefits quits.",
+            "sentence_zh": "贸易协定使双方利益对等。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "call it quits",
+        "meaning": "终止关系/活动",
+        "examples": [
+          {
+            "sentence": "After 3 rounds of mahjong, Grandpa called it quits.",
+            "sentence_zh": "打了三圈麻将后，爷爷宣布收工。"
+          },
+          {
+            "sentence": "The startup called it quits when funding ran out.",
+            "sentence_zh": "资金耗尽后这家创业公司宣告解散。"
+          }
+        ]
+      }
+    ],
+    "teach": "quits就像AA制结账📊！源自欧洲中世纪'债务清零铃'🔔（摇铃象征还清债务）。要说'扯平了'可喊'We're quits!'就像在火锅店抢单成功🍲。搭配'call it quits'比'分手'更俏皮，比如'我和奶茶戒了糖叫quits'🍵。记住：当你说quits时，就像在人生Excel里按下'清零'键💻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'亏次'→亏损两次就扯平(quits)",
+        "易混词对比：quit（退出v.）vs quits（扯平a.）",
+        "记忆tip：麻将胡牌时喊'quits'表示收支平衡🀄"
+      ]
+    }
+  },
+  {
+    "word": "quitter",
+    "etymology": {
+      "breakdown": [
+        "quit",
+        "er"
+      ],
+      "meaning_connection": "quit表示'放弃'，-er表示'...的人'→指习惯性放弃的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "轻易放弃的人",
+        "examples": [
+          {
+            "sentence": "He earned the nickname 'King of Quitters' after dropping out of three startups.",
+            "sentence_zh": "他在三次创业中途退出后获得了'退堂鼓之王'的绰号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "懦夫",
+        "examples": [
+          {
+            "sentence": "Real warriors never surrender, but quitters always find excuses.",
+            "sentence_zh": "真正的战士永不投降，而懦夫总找借口。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "逃避责任的人",
+        "examples": [
+          {
+            "sentence": "The project failed because we had too many quitters in key positions.",
+            "sentence_zh": "项目失败是因为关键岗位有太多逃避责任的人。"
+          }
+        ]
+      }
+    ],
+    "teach": "quitter这个词自带BGM《凉凉》❄️！它来自法语'quiter'（离开），就像打王者荣耀时挂机的队友🎮（quitter in game）。说'半途而废者'可以用serial quitter（连续放弃者），'临阵脱逃'叫pull a quitter。记住：当quitter一时爽，一直当quitter火葬场🔥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'亏特'→特爱亏本所以放弃"
+      ]
+    }
   }
 ]

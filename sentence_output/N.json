@@ -8633,5 +8633,342 @@
         "易混词对比：necessary（adj.必需的）vs necessarily（adv.）"
       ]
     }
+  },
+  {
+    "word": "necessary",
+    "etymology": {
+      "breakdown": [
+        "ne",
+        "cess",
+        "ary"
+      ],
+      "meaning_connection": "前缀ne-=不，词根cess=走（如process），-ary表性质→'不可离开的'引申为'必需的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "必要的",
+        "examples": [
+          {
+            "sentence": "It's necessary to scan QR codes before entering any mall in China.",
+            "sentence_zh": "在中国进入商场前扫码是必要的。"
+          },
+          {
+            "sentence": "A VPN became necessary when I needed to watch TED talks abroad.",
+            "sentence_zh": "我在国外看TED演讲时VPN变得很有必要。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "必然的",
+        "examples": [
+          {
+            "sentence": "Traffic jams are necessary evils during National Day holidays.",
+            "sentence_zh": "国庆假期堵车是必然的烦恼。"
+          },
+          {
+            "sentence": "The rise of AI is a necessary outcome of technological progress.",
+            "sentence_zh": "人工智能的兴起是技术进步必然结果。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "必需的",
+        "examples": [
+          {
+            "sentence": "A stable WiFi connection is necessary for online classes.",
+            "sentence_zh": "稳定的WiFi是网课必需的条件。"
+          },
+          {
+            "sentence": "Thick down jackets are necessary for surviving Harbin's winter.",
+            "sentence_zh": "厚羽绒服是在哈尔滨过冬的必需品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "if necessary",
+        "meaning": "如有必要",
+        "examples": [
+          {
+            "sentence": "Use face masks and hand sanitizer if necessary.",
+            "sentence_zh": "如有必要请使用口罩和消毒液。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "necessary evil",
+        "meaning": "必要之恶",
+        "examples": [
+          {
+            "sentence": "Final exams are considered necessary evils by students.",
+            "sentence_zh": "期末考试被学生视为必要之恶。"
+          }
+        ]
+      }
+    ],
+    "teach": "necessary就像生存必备三件套📱🔑💳：词根cess=走(如access入口)，字面意思是'不能走的东西'→就像手机没电时充电宝的必要性⚡！英语说'刚需'叫bare necessities（像《森林王子》里唱的🐻），'多此一举'正好相反→carry coals to Newcastle（往产煤区运煤🚂）。记住：necessary的东西就像火锅里的毛肚——少它不行！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶昔洒了'→奶昔洒了(necessary)必须擦干净",
+        "易混词对比：essential（本质必要） vs necessary（客观需要）",
+        "记忆tip：想象NE(不)+CESS(走)+ARY→不能走开的东西就是必需品"
+      ]
+    }
+  },
+  {
+    "word": "necessitate",
+    "etymology": {
+      "breakdown": [
+        "necess",
+        "it",
+        "ate"
+      ],
+      "meaning_connection": "词根necess=必需，-it为连接成分，-ate表动词→使成为必需"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "迫使",
+        "examples": [
+          {
+            "sentence": "The blizzard necessitated the closure of all Beijing schools.",
+            "sentence_zh": "暴风雪迫使北京所有学校停课。"
+          },
+          {
+            "sentence": "Genius often necessitates eccentric behavior.",
+            "sentence_zh": "天才往往迫使行为古怪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成为必需",
+        "examples": [
+          {
+            "sentence": "Owning a car necessitates obtaining a driver's license.",
+            "sentence_zh": "拥有汽车使考取驾照成为必需。"
+          },
+          {
+            "sentence": "This recipe necessitates using Sichuan peppercorns.",
+            "sentence_zh": "这道菜使使用花椒成为必需。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "需要",
+        "examples": [
+          {
+            "sentence": "Great innovation necessitates both courage and patience.",
+            "sentence_zh": "重大创新需要勇气与耐心并存。"
+          },
+          {
+            "sentence": "Repairing the Great Wall necessitates tons of materials.",
+            "sentence_zh": "修复长城需要大量材料。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "necessitate doing",
+        "meaning": "必须做某事",
+        "examples": [
+          {
+            "sentence": "The traffic jam necessitated taking a detour.",
+            "sentence_zh": "堵车状况必须绕道而行。"
+          }
+        ]
+      }
+    ],
+    "teach": "necessitate就像霸道总裁💼：要么迫使你加班（necessitate overtime），要么让奶茶成为续命必需品（necessitate bubble tea）🧋！记住：当事情像房租一样躲不掉时→This necessitates action（这事必须办）。搭配'necessitate immediate...'比'需要马上...'更装X，比如'阳了'necessitates immediate isolation🐑💊",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶昔sit腿'→奶茶店长被迫(necessitate)坐着调奶昔",
+        "易混词：necessary（adj.必要的） VS necessitate（v.迫使）",
+        "记忆锚点：想象老板把'必要'(necessary)变成动词逼你干活"
+      ]
+    }
+  },
+  {
+    "word": "necessity",
+    "etymology": {
+      "breakdown": [
+        "ne",
+        "cess",
+        "ity"
+      ],
+      "meaning_connection": "前缀ne-=不，词根cess=走（如process进行），-ity表性质→不走不可的事"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "需要",
+        "examples": [
+          {
+            "sentence": "The necessity of learning English hits hard when you see 'No Chinese menu'.",
+            "sentence_zh": "看到'无中文菜单'时，学英语的需要感会暴击心灵。"
+          },
+          {
+            "sentence": "Panda cubs feel the necessity of climbing trees after drinking milk.",
+            "sentence_zh": "熊猫幼崽喝完奶就会产生爬树的需要。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "必需品",
+        "examples": [
+          {
+            "sentence": "In Beijing winters, down jackets become biological necessities.",
+            "sentence_zh": "在北京的冬天，羽绒服成了生存必需品。"
+          },
+          {
+            "sentence": "Her travel necessities include 3 kinds of chili sauce.",
+            "sentence_zh": "她的旅行必需品包含三种辣椒酱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "必然",
+        "examples": [
+          {
+            "sentence": "It's a historical necessity that hotpot became China's national dish.",
+            "sentence_zh": "火锅成为中国国民美食是历史的必然。"
+          },
+          {
+            "sentence": "The necessity of getting sleepy after Chongqing hotpot is scientifically proven.",
+            "sentence_zh": "重庆火锅后犯困是科学验证的必然。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "of necessity",
+        "meaning": "必然地",
+        "examples": [
+          {
+            "sentence": "Lanzhou noodles of necessity come with 5cm-thick chili oil.",
+            "sentence_zh": "兰州拉面必然配有5厘米厚的辣油。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "daily necessities",
+        "meaning": "日用品",
+        "examples": [
+          {
+            "sentence": "The robot delivers daily necessities like toilet paper and spicy strips.",
+            "sentence_zh": "机器人配送卫生纸和辣条等日用品。"
+          }
+        ]
+      }
+    ],
+    "teach": "necessity是生活里的'刚需三件套'🧻🍚🧂：古罗马主妇说'没盐(ne)不能走(cess)'就是necessity！说'非买不可'用must-have item，'将就着用'叫make do with。记住：奶茶续命不是necessity，是happiness！☕️💪😭",
+    "recite": {
+      "tips": [
+        "谐音梗：'泥塞身体'→必需品像泥巴塞满生活",
+        "易混词对比：necessary（adj. 必要的）vs necessity（n. 必需品）"
+      ]
+    }
+  },
+  {
+    "word": "neck",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语hnecca，指连接头与躯干的部位，后衍生出多种比喻义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "脖子",
+        "examples": [
+          {
+            "sentence": "The panda cub clung to its mother's neck like a living scarf.",
+            "sentence_zh": "熊猫幼崽像活体围巾般挂在妈妈脖子上。"
+          },
+          {
+            "sentence": "Giraffes evolved long necks to reach acacia leaves.",
+            "sentence_zh": "长颈鹿演化出长脖子以够到金合欢叶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "衣领",
+        "examples": [
+          {
+            "sentence": "The cheongsam's high neck symbolizes elegance in Chinese culture.",
+            "sentence_zh": "旗袍的高领在中国文化中象征优雅。"
+          },
+          {
+            "sentence": "He loosened his tie around the sweaty neck of his shirt.",
+            "sentence_zh": "他松开了汗湿衬衫衣领处的领带。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "拥吻",
+        "examples": [
+          {
+            "sentence": "Teenagers were necking behind the school bike shed.",
+            "sentence_zh": "青少年们在校园自行车棚后拥吻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "割颈",
+        "examples": [
+          {
+            "sentence": "The villain necked the bottle dramatically in the movie.",
+            "sentence_zh": "电影中反派夸张地割开瓶颈。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "neck and neck",
+        "meaning": "并驾齐驱",
+        "examples": [
+          {
+            "sentence": "Huawei and Apple go neck and neck in smartphone innovation.",
+            "sentence_zh": "华为与苹果在智能手机创新上并驾齐驱。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pain in the neck",
+        "meaning": "讨厌的人/事",
+        "examples": [
+          {
+            "sentence": "Filling tax forms is a real pain in the neck.",
+            "sentence_zh": "填税表真是件令人头疼的事。"
+          }
+        ]
+      }
+    ],
+    "teach": "neck的故事就像鸭脖🦆！中文说'杀价'英文是neck or nothing（孤注一掷）💸，而'瓶颈'叫bottleneck就像卡住奶茶吸管的珍珠🧋。要吐槽烦心事就说It's a pain in the neck，比中文'脖子疼'更传神！记住：天鹅颈叫swan neck，但千万别neck someone除非你在拍古装剧🗡️",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶壳'→婴儿靠脖子支撑奶壳(neck)头",
+        "易混词：nape(后颈) vs neck(整个颈部)"
+      ]
+    }
   }
 ]

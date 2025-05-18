@@ -8235,5 +8235,274 @@
         "易混词对比：gastric(胃的) vs. rustic(乡村的)→乡村胃？不，是'铁胃'！"
       ]
     }
+  },
+  {
+    "word": "gastritis",
+    "etymology": {
+      "breakdown": [
+        "gastr",
+        "itis"
+      ],
+      "meaning_connection": "词根gastr=胃（来自希腊语gaster），后缀-itis=炎症→字面意思就是'胃的炎症'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "胃炎",
+        "examples": [
+          {
+            "sentence": "Eating 10 spicy skewers at midnight gave me acute gastritis.",
+            "sentence_zh": "半夜吃十串辣烤串让我得了急性胃炎。"
+          },
+          {
+            "sentence": "The doctor warned that chronic gastritis could turn into stomach cancer.",
+            "sentence_zh": "医生警告慢性胃炎可能发展成胃癌。"
+          }
+        ]
+      }
+    ],
+    "teach": "胃(gastr)在抗议(-itis)啦！🤒 古希腊人认为胃是情绪中心（所以有'胃痛'比喻焦虑）。现代人得胃炎三大元凶：火锅配冰啤🍺、熬夜赶工💻、压力山大😫。'胃不舒服'说My stomach is acting up，养胃神器叫stomach soother（不是six god！）记住：你的胃不是钢铁侠的方舟反应堆⚡",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬死脆死'→胃尬住又脆弱就会发炎",
+        "易混词：gastroenteritis（胃肠炎）多了一截'肠子'"
+      ]
+    }
+  },
+  {
+    "word": "gastroenteritis",
+    "etymology": {
+      "breakdown": [
+        "gastr",
+        "enter",
+        "itis"
+      ],
+      "meaning_connection": "词根gastr=胃（如gastric），enter=肠（如enterprise原指'肠子般缠绕的事业'），-itis=炎症"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "肠胃炎",
+        "examples": [
+          {
+            "sentence": "Eating too much hotpot may lead to gastroenteritis, turning your stomach into a war zone.",
+            "sentence_zh": "吃太多火锅可能导致肠胃炎，让你的胃变成战场。"
+          },
+          {
+            "sentence": "The doctor joked that his gastroenteritis was caused by a 'spicy food rebellion'.",
+            "sentence_zh": "医生开玩笑说他的肠胃炎是'辣食起义'导致的。"
+          }
+        ]
+      }
+    ],
+    "teach": "gastroenteritis其实是'胃(gastro)和肠(enter)在开抗议大会(itis)'🤒！就像重庆火锅遇到冰淇淋🍦引发的肠胃暴动。说'吃坏肚子'可以幽默说got a mutiny in my guts（肠胃兵变），记住保护肠胃要像保护手机电量🔋：别乱充电（乱吃）！",
+    "recite": {
+      "tips": [
+        "视觉拆解：gastro(胃)+enter(肠)+itis(炎)=胃和肠着火啦🔥",
+        "易混词对比：gastronomy(美食学)是快乐版本，gastroenteritis是痛苦版本",
+        "谐音梗：'盖斯特肠特爱烈日'→胃盖(gastro)住肠子(enter)在烈日(itis)下发炎"
+      ]
+    }
+  },
+  {
+    "word": "gastrointestinal",
+    "etymology": {
+      "breakdown": [
+        "gastr",
+        "o",
+        "intestin",
+        "al"
+      ],
+      "meaning_connection": "词根gastr=胃（源自希腊语gaster），intestin=肠（源自拉丁语intestinum），-al为形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "胃肠的",
+        "examples": [
+          {
+            "sentence": "Hot pot lovers often experience gastrointestinal discomfort.",
+            "sentence_zh": "火锅爱好者常遭遇胃肠不适。"
+          },
+          {
+            "sentence": "The gastrointestinal tract is longer than a badminton court!",
+            "sentence_zh": "人的消化道展开比羽毛球场还长！"
+          }
+        ]
+      }
+    ],
+    "teach": "gastrointestinal是'胃兄肠弟'组合🦸♂️🦸♂️！前半截gastro-是希腊胃神（像微信表情'胃疼'🤢），后半截intestinal像意大利面🍝般弯绕的肠子。医学生黑话叫'GI tract'（ gastrointestinal的缩写），就像把'胃肠'简称成'WC'🚽。记住：吃麻辣烫前默念三次gastrointestinal！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖斯特肉疼'→盖住(gastro)的胃和(intestinal)肠子疼",
+        "易混词对比：gastric（仅胃的）vs intestinal（仅肠的）",
+        "视觉记忆：把单词拆成gas(气体)+trio(三重奏)+intestinal→胃肠胀气三重奏🎵"
+      ]
+    }
+  },
+  {
+    "word": "gastronomic",
+    "etymology": {
+      "breakdown": [
+        "gastro",
+        "nom",
+        "ic"
+      ],
+      "meaning_connection": "词根gastro=胃/食物，nom=法则/管理，-ic表形容词→关于食物法则的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "美食学的",
+        "examples": [
+          {
+            "sentence": "The gastronomic map of China includes 8 major cuisines.",
+            "sentence_zh": "中国美食学地图涵盖八大菜系。"
+          },
+          {
+            "sentence": "This gastronomic research paper analyzes 100 ways to cook tofu.",
+            "sentence_zh": "这篇美食学论文分析了100种豆腐做法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "烹饪法的",
+        "examples": [
+          {
+            "sentence": "The gastronomic difference between Cantonese and Sichuan cooking lies in fire control.",
+            "sentence_zh": "粤菜与川菜的烹饪法差异在于火候掌控。"
+          },
+          {
+            "sentence": "Japanese gastronomic techniques emphasize preserving original flavors.",
+            "sentence_zh": "日式烹饪法讲究保留食材本味。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gastronomic tour",
+        "meaning": "美食之旅",
+        "examples": [
+          {
+            "sentence": "Our gastronomic tour in Chengdu included 15 chili-based dishes.",
+            "sentence_zh": "我们的成都美食之旅吃了15道辣椒料理。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gastronomic culture",
+        "meaning": "饮食文化",
+        "examples": [
+          {
+            "sentence": "The gastronomic culture of France is listed as UNESCO heritage.",
+            "sentence_zh": "法国饮食文化被列入联合国非遗名录。"
+          }
+        ]
+      }
+    ],
+    "teach": "gastronomic是吃货的学术尊严🍜！词根gastro-来自希腊语'胃'(想象你的胃在抗议加班吃泡面🍱)，后缀-nomy和astronomy(天文)同源→把美食当星辰研究🔭。说'黑暗料理'叫culinary disaster，'米其林餐厅'是gastronomic temple。记住：真正的gastronomic专家能区分四川火锅的23种辣椒变脸🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖世闹米客'→盖世(gastro)吃货闹(nomic)厨房",
+        "对比记忆：astronomy研究星空，gastronomy研究'胃空'"
+      ]
+    }
+  },
+  {
+    "word": "gastronomy",
+    "etymology": {
+      "breakdown": [
+        "gastro",
+        "nomy"
+      ],
+      "meaning_connection": "词根gastro=胃/食物，后缀-nomy=学科/法则→关于食物的科学"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "美食学",
+        "examples": [
+          {
+            "sentence": "The documentary explores Chinese gastronomy through dynasties.",
+            "sentence_zh": "这部纪录片通过朝代演变探索中华美食学。"
+          },
+          {
+            "sentence": "Molecular gastronomy turns cooking into a science experiment.",
+            "sentence_zh": "分子美食学把烹饪变成科学实验。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "烹饪法",
+        "examples": [
+          {
+            "sentence": "French gastronomy emphasizes butter more than gyms emphasize protein.",
+            "sentence_zh": "法国烹饪法对黄油的重视堪比健身房对蛋白质的执着。"
+          },
+          {
+            "sentence": "Sichuan gastronomy could power rockets with its chili content.",
+            "sentence_zh": "川菜烹饪法的辣椒含量足以给火箭提供动力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "space gastronomy",
+        "meaning": "太空餐饮学",
+        "examples": [
+          {
+            "sentence": "Astronauts complain space gastronomy lacks hot pot options.",
+            "sentence_zh": "宇航员抱怨太空餐饮学缺少火锅选择。"
+          }
+        ]
+      }
+    ],
+    "teach": "gastronomy是吃货的学术尊严🍽️！词根gastro-是'胃'（胃镜叫gastroscope），而-nomy和astronomy（天文学）同源。说'黑暗料理'叫culinary disaster（厨房灾难），'饿死鬼投胎'可说eat like there's no tomorrow🍗。记住：真正的gastronomy爱好者连泡面都要摆盘！",
+    "recite": {
+      "tips": [
+        "联想记忆：gastro+nom→胃的法则=美食法典",
+        "易混词对比：gastronomy（美食学） vs. astronomy（天文学）→一个研究天上星星，一个研究盘中星星✨"
+      ]
+    }
+  },
+  {
+    "word": "gastropod",
+    "etymology": {
+      "breakdown": [
+        "gastro",
+        "pod"
+      ],
+      "meaning_connection": "词根gastro=胃/腹，pod=足→直译为'用肚子行走的动物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "腹足纲软体动物",
+        "examples": [
+          {
+            "sentence": "The spiral shell of a gastropod grows clockwise like a DNA helix.",
+            "sentence_zh": "腹足纲动物的螺旋外壳像DNA般顺时针生长。"
+          },
+          {
+            "sentence": "Gastropods leave glitter-like mucus trails when crawling on glass.",
+            "sentence_zh": "腹足纲动物在玻璃上爬行时会留下亮片般的粘液痕迹。"
+          }
+        ]
+      }
+    ],
+    "teach": "gastropod是自带房车的吃货🐌！词源直译'胃足动物'（gastro+pod），它们用腹部当脚移动，像踩着滑板车的贪吃蛇🍕。95%的贝壳类都属于腹足纲，连《海绵宝宝》的Gary也是！说'慢如蜗牛'用slower than a snail，但科学家说有些蜗牛时速可达7cm🚀。记住：它们不是bug，是mollusk（软体动物）！",
+    "recite": {
+      "tips": [
+        "拆解记忆：gastro（胃镜检查）+pod（iPod）=做胃镜时听歌的蜗牛",
+        "易混词对比：cephalopod（头足纲如章鱼）用头走路，gastropod用肚子走路"
+      ]
+    }
   }
 ]

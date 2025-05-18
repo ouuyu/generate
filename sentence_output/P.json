@@ -8853,5 +8853,307 @@
         "易混词：panel（单块）vs panelling（整体）"
       ]
     }
+  },
+  {
+    "word": "pang",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语pange意为'刺痛'，拟声词模仿突然的疼痛感"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "剧痛",
+        "examples": [
+          {
+            "sentence": "A sudden pang in his chest made him drop the spicy hotpot.",
+            "sentence_zh": "胸口突然的剧痛让他扔下了麻辣火锅。"
+          },
+          {
+            "sentence": "She felt pangs in her stomach after eating 50 stinky tofu pieces.",
+            "sentence_zh": "连吃50块臭豆腐后她感到胃部阵阵剧痛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "悲痛",
+        "examples": [
+          {
+            "sentence": "The pangs of losing his crypto fortune kept him awake.",
+            "sentence_zh": "加密货币亏损的悲痛让他彻夜难眠。"
+          },
+          {
+            "sentence": "Every Mid-Autumn Festival brings pangs of homesickness.",
+            "sentence_zh": "每个中秋节都带来思乡的悲痛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使剧痛",
+        "examples": [
+          {
+            "sentence": "The failed exam results panged him like a knife.",
+            "sentence_zh": "挂科的成绩像刀割般使他剧痛。"
+          },
+          {
+            "sentence": "Her harsh words panged his heart more than chili oil.",
+            "sentence_zh": "她尖刻的话语比辣椒油更使他心痛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "折磨",
+        "examples": [
+          {
+            "sentence": "Guilt panged him whenever he saw his overworked wife.",
+            "sentence_zh": "每当看到996的妻子，愧疚感就折磨着他。"
+          },
+          {
+            "sentence": "The memory of that traffic accident still pangs her.",
+            "sentence_zh": "那场车祸的记忆仍在折磨她。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hunger pangs",
+        "meaning": "饥饿的痛苦",
+        "examples": [
+          {
+            "sentence": "His hunger pangs disappeared after three jianbing guozi.",
+            "sentence_zh": "三个煎饼果子下肚后，他的饥饿痛感消失了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pang of conscience",
+        "meaning": "良心的谴责",
+        "examples": [
+          {
+            "sentence": "He felt a pang of conscience after pirating the new movie.",
+            "sentence_zh": "盗版新电影后他感到良心谴责。"
+          }
+        ]
+      }
+    ],
+    "teach": "pang是灵魂的辣椒面🌶️！英国中世纪说'feel a pang'就像四川人吃到小米辣🤯。表达剧痛说'stab of pain'像被容嬷嬷扎针🧷，'心痛'可以戏称heart-ache like expired milk🥛。记住：物理疼痛用sharp pang，心理折磨用gnawing pang，饿得慌说hunger pang就像胃在唱《空城计》🎵！",
+    "recite": {
+      "tips": [
+        "谐音梗：'胖哥'→胖哥(pang)吃太撑胃痛",
+        "易混词对比：pain泛指疼痛，pang强调突发刺痛",
+        "记忆tip：p+ang(拼音'昂')→痛得昂头叫"
+      ]
+    }
+  },
+  {
+    "word": "panic",
+    "etymology": {
+      "breakdown": [
+        "pan",
+        "ic"
+      ],
+      "meaning_connection": "源自希腊神话中的潘神(Pan)，其突然出现会引发恐惧，-ic表形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "恐慌",
+        "examples": [
+          {
+            "sentence": "The toilet paper panic during COVID-19 made people buy 10 years' supply.",
+            "sentence_zh": "新冠期间的卫生纸恐慌让人们买了够用10年的量。"
+          },
+          {
+            "sentence": "Stock market panic spread faster than Douyin trends.",
+            "sentence_zh": "股市恐慌传播得比抖音热门还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "惊慌的",
+        "examples": [
+          {
+            "sentence": "His panic expression looked like seeing a ghost in a haunted house.",
+            "sentence_zh": "他惊慌的表情像在鬼屋见了鬼。"
+          },
+          {
+            "sentence": "The panic crowd rushed out like spilt boba pearls.",
+            "sentence_zh": "惊慌的人群像洒落的珍珠奶茶珍珠般冲出去。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使惊慌",
+        "examples": [
+          {
+            "sentence": "The fire alarm panicked the students taking final exams.",
+            "sentence_zh": "火警铃声使正在期末考试的学生惊慌失措。"
+          },
+          {
+            "sentence": "Fake news about earthquake panicked the whole neighborhood.",
+            "sentence_zh": "地震假消息让整个小区陷入恐慌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "惊慌",
+        "examples": [
+          {
+            "sentence": "Don't panic when your WeChat Pay shows insufficient balance.",
+            "sentence_zh": "微信支付显示余额不足时别惊慌。"
+          },
+          {
+            "sentence": "The chickens panicked when the fox entered the coop.",
+            "sentence_zh": "狐狸进鸡舍时鸡群惊慌乱窜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "panic buying",
+        "meaning": "恐慌性抢购",
+        "examples": [
+          {
+            "sentence": "Panic buying of ivermectin caused drug shortages.",
+            "sentence_zh": "伊维菌素的恐慌性抢购导致药物短缺。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in a panic",
+        "meaning": "惊慌失措",
+        "examples": [
+          {
+            "sentence": "She called 120 in a panic after burning the hotpot.",
+            "sentence_zh": "她把火锅烧焦后惊慌失措地打了120。"
+          }
+        ]
+      }
+    ],
+    "teach": "panic其实是'潘神之怒'👹！希腊牧神Pan的吼叫能让人魂飞魄散，现代人panic发作就像双十一抢不到优惠券💸。'吓尿了'说scared stiff（僵直），'慌得一批'叫in a flat panic。记住：真正的panic是奶茶店说'珍珠卖完了'时顾客的表情🧋💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕你咳'→疫情期间恐慌(panic)怕咳嗽",
+        "易混词：panic（突发恐慌）vs anxiety（持续焦虑）",
+        "记忆诀：P(怕)+ANIC(anic)→怕到anic(谐音'恶心')"
+      ]
+    }
+  },
+  {
+    "word": "panicked",
+    "etymology": {
+      "breakdown": [
+        "panic",
+        "ed"
+      ],
+      "meaning_connection": "panic源自希腊牧神Pan（潘神），传说其吼叫会引起群体恐惧，-ed表过去式/分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使恐慌",
+        "examples": [
+          {
+            "sentence": "The sudden power outage panicked the live-streaming host mid-performance.",
+            "sentence_zh": "突然断电让正在表演的直播主播慌了神。"
+          },
+          {
+            "sentence": "AI-generated deepfake videos panicked the whole internet community.",
+            "sentence_zh": "AI生成的深度伪造视频让整个网络社群陷入恐慌。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "panicked reaction",
+        "meaning": "恐慌反应",
+        "examples": [
+          {
+            "sentence": "His panicked reaction to the spider meme went viral.",
+            "sentence_zh": "他对蜘蛛梗图的恐慌反应迅速走红。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "panicked crowd",
+        "meaning": "慌乱人群",
+        "examples": [
+          {
+            "sentence": "The panicked crowd rushed to buy toilet paper during the rumor.",
+            "sentence_zh": "谣言期间慌乱的人群抢购卫生纸。"
+          }
+        ]
+      }
+    ],
+    "teach": "panicked本质是'潘神附体'😱！希腊牧神Pan的怒吼会让羊群炸锅→演变成panic（恐慌）。现代版就是'地铁手机没信号'的集体焦虑📶，'抢双十一秒杀'时手抖叫panicked buying（恐慌性购买）。记住：当你panic时，就像被广场舞大妈包围的社恐👵👵👵！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍你克的'→恐慌时拍打你克制的理智",
+        "易混词对比：panicked（被动恐慌）vs paranoid（偏执多疑）"
+      ]
+    }
+  },
+  {
+    "word": "panicky",
+    "etymology": {
+      "breakdown": [
+        "panic",
+        "y"
+      ],
+      "meaning_connection": "词根panic源自希腊牧神Pan（潘神）引发群体恐惧的传说，后缀-y表示形容词'具有...性质的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "恐慌的",
+        "examples": [
+          {
+            "sentence": "Her voice turned panicky when she realized her pet corgi was missing.",
+            "sentence_zh": "发现柯基犬不见时，她的声音突然变得恐慌。"
+          },
+          {
+            "sentence": "Stock markets showed panicky selling after the news broke.",
+            "sentence_zh": "消息传出后股市出现恐慌性抛售。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "惊慌失措的",
+        "examples": [
+          {
+            "sentence": "Tourists became panicky when the cable car stopped mid-air.",
+            "sentence_zh": "缆车半空停顿时游客们惊慌失措。"
+          },
+          {
+            "sentence": "He gave me a panicky look as his presentation slides suddenly vanished.",
+            "sentence_zh": "当演示幻灯片突然消失时，他向我投来惊慌失措的眼神。"
+          }
+        ]
+      }
+    ],
+    "teach": "panicky其实是'潘神附体'🧟：希腊传说中半羊神Pan的吼叫会引发群体恐慌（panic attack）。说'慌得一批'可以叫have kittens🐱（像生小猫般慌乱），'吓到腿软'是weak in the knees🦵。记住：遇到panic别y（why），深呼吸数到三！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕你咳'→疫情期间恐慌(panicky)怕咳嗽",
+        "易混词对比：panic(n./v.) vs panicky(adj.) vs pandemonium(大混乱)",
+        "联想法：字母y像吓到举起双手的人"
+      ]
+    }
   }
 ]

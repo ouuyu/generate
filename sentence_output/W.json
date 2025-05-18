@@ -8855,5 +8855,305 @@
         "联想记忆：warehouse（仓库）要wary防盗"
       ]
     }
+  },
+  {
+    "word": "wash",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'wæscan'，原始日耳曼语词根'waskaną'，与水相关动作相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗",
+        "examples": [
+          {
+            "sentence": "The panda gives itself a wash like a furry dishwasher.",
+            "sentence_zh": "熊猫给自己洗澡的样子像台毛茸茸的洗碗机。"
+          },
+          {
+            "sentence": "A quick face wash with cucumber scented foam always refreshes me.",
+            "sentence_zh": "用黄瓜味洗面奶快速洗脸总能让我神清气爽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗的衣服",
+        "examples": [
+          {
+            "sentence": "My cat loves sleeping in the basket of fresh wash.",
+            "sentence_zh": "我的猫最爱睡在刚洗好的衣服篮里。"
+          },
+          {
+            "sentence": "Separate colors from whites when doing the wash to avoid disasters.",
+            "sentence_zh": "洗衣服时深色浅色分开，避免染色惨案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "洗",
+        "examples": [
+          {
+            "sentence": "Wash your hands as thoroughly as a surgeon before hotpot.",
+            "sentence_zh": "吃火锅前要像外科医生一样彻底洗手。"
+          },
+          {
+            "sentence": "She washes her hair with hand-pressed camellia oil shampoo.",
+            "sentence_zh": "她用手工压制的山茶油洗发水洗头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "冲刷",
+        "examples": [
+          {
+            "sentence": "The Yangtze River washes the banks, carving out spectacular gorges.",
+            "sentence_zh": "长江冲刷两岸，雕琢出壮丽峡谷。"
+          },
+          {
+            "sentence": "Tears washed away her carefully applied mascara.",
+            "sentence_zh": "泪水冲花了她精心涂抹的睫毛膏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "耐洗",
+        "examples": [
+          {
+            "sentence": "This hanfu fabric washes well without shrinking.",
+            "sentence_zh": "这款汉服布料耐洗不缩水。"
+          },
+          {
+            "sentence": "Cheap jeans often don't wash properly and fade quickly.",
+            "sentence_zh": "廉价牛仔裤通常不耐洗，很快褪色。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wash down",
+        "meaning": "冲服",
+        "examples": [
+          {
+            "sentence": "He washed down bitter herbal medicine with honey water.",
+            "sentence_zh": "他用蜂蜜水冲服苦中药。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wash over",
+        "meaning": "涌过",
+        "examples": [
+          {
+            "sentence": "A wave of nostalgia washed over her when smelling osmanthus.",
+            "sentence_zh": "闻到桂花香时，怀旧之情涌上她心头。"
+          }
+        ]
+      }
+    ],
+    "teach": "wash的奇幻漂流🚣：从古人河边捶打洗衣的'哗啦'声💦，到现代洗衣机滚筒的催眠旋转🌀。说'洗衣服'英国人用do the laundry，美国人说do the wash。'随便洗洗'叫give it a quick wash，'暴雨冲刷'是the rain washes away。记住：所有wash都和水有关，就像重庆火锅的毛肚'七上八下'涮洗法🌊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我洗'→自我洗脑循环",
+        "易混词：wash vs. rinse（冲洗无清洁剂）",
+        "记忆tip：想象'W'是波浪形状🌊"
+      ]
+    }
+  },
+  {
+    "word": "washable",
+    "etymology": {
+      "breakdown": [
+        "wash",
+        "able"
+      ],
+      "meaning_connection": "词根wash=洗涤，后缀-able表示'可...的'→可被洗涤的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可洗的",
+        "examples": [
+          {
+            "sentence": "These washable silk pajamas survived 50 laundry cycles.",
+            "sentence_zh": "这套可洗真丝睡衣经受住了50次机洗考验。"
+          },
+          {
+            "sentence": "The museum uses washable markers for children's art workshops.",
+            "sentence_zh": "美术馆用可洗水彩笔举办儿童艺术工作坊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "耐洗的",
+        "examples": [
+          {
+            "sentence": "This washable mascara won't smudge even in hotpot steam.",
+            "sentence_zh": "这款耐洗睫毛膏在火锅蒸汽中也不会晕染。"
+          },
+          {
+            "sentence": "Her washable sneakers still look new after 100 washes.",
+            "sentence_zh": "她的耐洗运动鞋洗了100次仍像新的。"
+          }
+        ]
+      }
+    ],
+    "teach": "washable=泼墨不惊的淡定🧼：就像周星驰《食神》里那件被泼满酱汁还能抖干净的神奇西装🎩！说'抗造'用heavy-duty（工业级耐用），'防水'叫waterproof就像手机掉进奶茶杯🧋也不慌。记住：所有标着washable的东西，都能在火锅战场幸存🌶️！搭配：washable fabric（耐洗布料）/ washable paint（可洗颜料）",
+    "recite": {
+      "tips": [
+        "谐音梗：'我烧不'→怎么烧都不坏所以耐洗",
+        "对比记忆：washable（可机洗） vs dry-clean only（只能干洗）"
+      ]
+    }
+  },
+  {
+    "word": "washbasin",
+    "etymology": {
+      "breakdown": [
+        "wash",
+        "basin"
+      ],
+      "meaning_connection": "wash表示'清洗'，basin表示'盆'→用于清洗的盆"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "脸盆",
+        "examples": [
+          {
+            "sentence": "The antique washbasin in the courtyard was a wedding gift from 1920s.",
+            "sentence_zh": "院子里那个古董脸盆是20年代的结婚礼物。"
+          },
+          {
+            "sentence": "Modern washbasins often come with touchless faucets.",
+            "sentence_zh": "现代脸盆常配备感应式水龙头。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "porcelain washbasin",
+        "meaning": "陶瓷脸盆",
+        "examples": [
+          {
+            "sentence": "The hotel provides rose petals in porcelain washbasins for guests.",
+            "sentence_zh": "酒店在陶瓷脸盆里为客人准备了玫瑰花瓣。"
+          }
+        ]
+      }
+    ],
+    "teach": "washbasin其实是浴室界的元老级选手🛁！中世纪贵族用银制脸盆(sterling silver washbasin)洗手彰显身份👑，现代人则用智能脸盆测肤质📊。要说'简陋'可以用tin washbasin（铁皮盆），搭配'倒水'叫empty the basin就像泼掉你的烦恼💦。记住：你的洗面奶决定了washbasin的颜值！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我洗背心'→在washbasin里洗背心",
+        "易混词对比：washbowl(更口语)/sink(嵌入式)"
+      ]
+    }
+  },
+  {
+    "word": "washboard",
+    "etymology": {
+      "breakdown": [
+        "wash",
+        "board"
+      ],
+      "meaning_connection": "组合词，wash（洗）+ board（板）→ 洗衣用的板"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "洗衣板",
+        "examples": [
+          {
+            "sentence": "My grandma still prefers using a washboard for laundry, claiming it cleans better.",
+            "sentence_zh": "我奶奶还是更喜欢用洗衣板洗衣服，声称这样洗得更干净。"
+          },
+          {
+            "sentence": "The vintage washboard in the museum reminded visitors of simpler times.",
+            "sentence_zh": "博物馆里的复古洗衣板让参观者想起了更简单的时代。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "washboard可不只是洗衣工具🧼！在蓝调音乐中它还能当乐器🎵——用勺子刮擦出节奏就像在搓衣板上洗牛仔裤👖。说'瘦到肋骨明显'可以幽默地说have a washboard stomach（洗衣板腹肌）。搭配：① scrub clothes on a washboard（在洗衣板上搓衣服）② play the washboard（演奏洗衣板）。记住：真正的硬核健身是洗衣服练出来的！💪",
+    "recite": {
+      "tips": [
+        "谐音梗：'我洗波的'→洗衣板就是我洗衣服的",
+        "易混词对比：whiteboard（白板）vs washboard（洗衣板）",
+        "记忆tip：想象把脏衣服在'洗板(wash+board)'上搓出泡泡"
+      ]
+    }
+  },
+  {
+    "word": "washed",
+    "etymology": {
+      "breakdown": [
+        "wash",
+        "ed"
+      ],
+      "meaning_connection": "wash表示'洗'，-ed表示'已完成的状态'→洗过的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "洗过的",
+        "examples": [
+          {
+            "sentence": "The washed jeans faded to a perfect vintage blue.",
+            "sentence_zh": "洗过的牛仔裤褪色成完美的复古蓝。"
+          },
+          {
+            "sentence": "She loves the smell of washed bedsheets dried in sunlight.",
+            "sentence_zh": "她喜欢阳光下晒干的洗过的床单的味道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "washed out",
+        "meaning": "褪色的，精疲力尽的",
+        "examples": [
+          {
+            "sentence": "After the marathon, he looked completely washed out.",
+            "sentence_zh": "马拉松后他看起来完全筋疲力尽。"
+          },
+          {
+            "sentence": "Her washed-out denim jacket became a fashion trend.",
+            "sentence_zh": "她褪色的牛仔外套成了时尚潮流。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "washed-up",
+        "meaning": "过气的",
+        "examples": [
+          {
+            "sentence": "The once famous singer is now just a washed-up celebrity doing live streams.",
+            "sentence_zh": "那位曾经著名的歌手现在只是个做直播的过气明星。"
+          }
+        ]
+      }
+    ],
+    "teach": "washed这个词就像你忘在洗衣机里的钞票💸——要么变成干净的资产(washed money)，要么变成废纸(washed-up)。记住：'洗白'是whitewashed🚿，'洗钱'是money laundering，说人'过气'直接用washed-up like yesterday's news📰。搭配秘诀：衣服褪色→washed-out color，明星过气→washed-up star。",
+    "recite": {
+      "tips": [
+        "谐音梗：'我洗的'→这衣服是我洗的(washed)",
+        "易混词对比：washing（正在洗） vs washed（已洗好）"
+      ]
+    }
   }
 ]

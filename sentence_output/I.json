@@ -8705,5 +8705,355 @@
         "易混词：demonstration(演示)侧重过程，illustration侧重展示结果"
       ]
     }
+  },
+  {
+    "word": "illustrative",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lustr",
+        "ative"
+      ],
+      "meaning_connection": "前缀il-表示'加强'，词根lustr意为'光'（来自拉丁语lustrare），-ative表形容词→'用光照亮的'引申为'说明性的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "说明的",
+        "examples": [
+          {
+            "sentence": "The professor used illustrative memes to explain quantum physics.",
+            "sentence_zh": "教授用说明性的表情包解释量子物理。"
+          },
+          {
+            "sentence": "This flowchart is highly illustrative of the TikTok algorithm.",
+            "sentence_zh": "这个流程图对抖音算法的说明性极强。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "解说的",
+        "examples": [
+          {
+            "sentence": "Her illustrative commentary made the soccer match 10x funnier.",
+            "sentence_zh": "她解说的足球比赛精彩十倍。"
+          },
+          {
+            "sentence": "The museum's illustrative audio guide sounds like Morgan Freeman.",
+            "sentence_zh": "博物馆的解说音频听着像摩根·弗里曼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "作例证的",
+        "examples": [
+          {
+            "sentence": "Let me give an illustrative example using hotpot ingredients.",
+            "sentence_zh": "让我用火锅食材举个例证。"
+          },
+          {
+            "sentence": "His failed blind date became an illustrative case in psychology class.",
+            "sentence_zh": "他失败的相亲成了心理学课的例证。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "for illustrative purposes",
+        "meaning": "用于示例",
+        "examples": [
+          {
+            "sentence": "This exaggerated cartoon is for illustrative purposes only.",
+            "sentence_zh": "这幅夸张漫画仅用于示例。"
+          }
+        ]
+      }
+    ],
+    "teach": "illustrative本质是'知识打光师'💡！就像给兵马俑打侧光显出轮廓（illustrative photo），或像李佳琦解说口红💄（illustrative demo）。搭配'illustrative diagram'（灵魂画手示意图）、'illustrative metaphor'（比方说'内卷像洗衣机搅袜子'）。说'生动说明'可用crystal-clear illustration🖼️，记住：好的illustrative能让知识像撒了孜然的烤肉一样香！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一路撕扯他'→一路用(il-lus)例子撕扯(trate)他的无知",
+        "易混词：demonstrative（情感外露的）",
+        "记忆tip：想象给蒙娜丽莎(lustr)画说明箭头(il→)"
+      ]
+    }
+  },
+  {
+    "word": "illustrator",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lustr",
+        "ator"
+      ],
+      "meaning_connection": "前缀il-表示'加强'，词根lustr=照亮（同light），-ator表执行者→'用图画照亮内容的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "插画家",
+        "examples": [
+          {
+            "sentence": "The illustrator created adorable dumpling characters for the cookbook.",
+            "sentence_zh": "这位插画家为食谱绘制了可爱的饺子角色。"
+          },
+          {
+            "sentence": "She works as a medical illustrator drawing 3D organ models.",
+            "sentence_zh": "她是一名医学插画师，绘制3D器官模型。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "图解者",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese herbal manuals often relied on skilled illustrators.",
+            "sentence_zh": "古代中药典籍常依赖技艺精湛的图解者。"
+          },
+          {
+            "sentence": "As a botanical illustrator, he captures every vein on leaves.",
+            "sentence_zh": "作为植物图解师，他会画出叶片的每根脉络。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "说明者",
+        "examples": [
+          {
+            "sentence": "The app uses AI illustrators to generate personalized fitness guides.",
+            "sentence_zh": "该应用使用AI说明者生成个性化健身指南。"
+          },
+          {
+            "sentence": "Children's science books need imaginative illustrators to explain black holes.",
+            "sentence_zh": "儿童科普书籍需要富有想象力的说明者来解释黑洞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "freelance illustrator",
+        "meaning": "自由插画师",
+        "examples": [
+          {
+            "sentence": "As a freelance illustrator, she designs stickers for 50 bubble tea brands.",
+            "sentence_zh": "作为自由插画师，她为50个奶茶品牌设计贴纸。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "technical illustrator",
+        "meaning": "技术图解师",
+        "examples": [
+          {
+            "sentence": "Our IKEA manual was improved by a technical illustrator from Sweden.",
+            "sentence_zh": "我们的宜家说明书经瑞典技术图解师改良。"
+          }
+        ]
+      }
+    ],
+    "teach": "illustrator其实是'光之使者'💡！中世纪的illuminator（彩绘师）用金箔照亮手稿✨，现代插画师用数位板照亮童年🎨。'甲方爸爸'叫art director，'外包画手'说freelance illustrator。记住这个梗：AI画师叫prompt illustrator🤖！三个emoji秒记：✏️（画）->🖼️（图）->💡（明）",
+    "recite": {
+      "tips": [
+        "谐音梗：'一拉丝吹特'→插画家拉丝（描线）吹特（detail）",
+        "对比：illustrator（专业画师）vs. drawer（普通画者）",
+        "记忆链：illuminate（照明）-> illustration（插图）-> illustrator（制图者）"
+      ]
+    }
+  },
+  {
+    "word": "illustrious",
+    "etymology": {
+      "breakdown": [
+        "il",
+        "lustr",
+        "ious"
+      ],
+      "meaning_connection": "前缀il-表加强，词根lustr=光（同luminous），-ious为形容词后缀→原指'被光照耀的'，引申出'辉煌的'和'著名的'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "著名的",
+        "examples": [
+          {
+            "sentence": "The Forbidden City witnessed the visits of illustrious emperors throughout history.",
+            "sentence_zh": "紫禁城见证过历史上众多著名帝王的到访。"
+          },
+          {
+            "sentence": "Li Bai's illustrious poetry still inspires modern rap lyrics.",
+            "sentence_zh": "李白著名的诗作至今仍启发着现代说唱歌词。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "辉煌的",
+        "examples": [
+          {
+            "sentence": "The Tang Dynasty was considered the most illustrious period in ancient China.",
+            "sentence_zh": "唐朝被认为是中国古代最辉煌的时期。"
+          },
+          {
+            "sentence": "Her illustrious career as a diplomat began with a chance interpreting job.",
+            "sentence_zh": "她辉煌的外交官生涯始于一次偶然的口译工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "明亮的",
+        "examples": [
+          {
+            "sentence": "The illustrious full moon inspired countless poets during Mid-Autumn Festival.",
+            "sentence_zh": "中秋佳节明亮的满月激发了无数诗人的创作灵感。"
+          },
+          {
+            "sentence": "Ancient astronomers recorded the most illustrious stars in detailed catalogs.",
+            "sentence_zh": "古代天文学家将最明亮的恒星详细记录在星表中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "illustrious family",
+        "meaning": "名门望族",
+        "examples": [
+          {
+            "sentence": "The Peking Opera master came from an illustrious family of performers.",
+            "sentence_zh": "这位京剧大师出身于表演世家。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "illustrious achievement",
+        "meaning": "辉煌成就",
+        "examples": [
+          {
+            "sentence": "The invention of paper was one of China's most illustrious achievements.",
+            "sentence_zh": "造纸术是中国最辉煌的成就之一。"
+          }
+        ]
+      }
+    ],
+    "teach": "illustrious其实是'一路lustrous'✨：词根lustr=光（如lustrous闪亮的），想象故宫金瓦反射阳光的辉煌景象🏯。说'名门望族'用illustrious family就像《红楼梦》里的贾府📜，'闪亮登场'叫make an illustrious entrance如同奥运开幕式烟花🎆。记住：你的努力终将成为illustrious回忆！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一路lustrous'→一路发光变著名",
+        "易混词对比：famous（普通著名）vs illustrious（带有荣耀光辉的著名）",
+        "记忆tip：联想故宫三大殿匾额上的金字'光明正大'"
+      ]
+    }
+  },
+  {
+    "word": "image",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "age"
+      ],
+      "meaning_connection": "词根im=模仿/复制（同imitate），后缀-age表状态→'被复制的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "影像",
+        "examples": [
+          {
+            "sentence": "The ultrasound image showed twins doing high-fives in the womb.",
+            "sentence_zh": "B超影像显示双胞胎在子宫里击掌。"
+          },
+          {
+            "sentence": "Ancient camera obscura projected inverted images like a primitive Instagram.",
+            "sentence_zh": "古代暗箱像原始Instagram一样投射倒立影像。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "肖像",
+        "examples": [
+          {
+            "sentence": "The yuan note carries the image of Chairman Mao waving at tourists.",
+            "sentence_zh": "人民币纸币印有毛主席向游客挥手的肖像。"
+          },
+          {
+            "sentence": "Her WeChat avatar is a cartoon image wearing VR glasses.",
+            "sentence_zh": "她微信头像是戴VR眼镜的卡通肖像。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "想象",
+        "examples": [
+          {
+            "sentence": "The novel paints vivid images of a robot-run noodle shop.",
+            "sentence_zh": "小说描绘了机器人面馆的生动想象。"
+          },
+          {
+            "sentence": "His description created hilarious images of pandas riding scooters.",
+            "sentence_zh": "他的描述让人想象熊猫骑电动车的滑稽画面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "反映",
+        "examples": [
+          {
+            "sentence": "The documentary images how Gen-Z protests with memes.",
+            "sentence_zh": "纪录片反映Z世代如何用表情包抗议。"
+          },
+          {
+            "sentence": "Douluo Continent images Tang San's growth through soul rings.",
+            "sentence_zh": "斗罗大陆通过魂环反映唐三的成长。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "public image",
+        "meaning": "公众形象",
+        "examples": [
+          {
+            "sentence": "Liu Cixin maintains a public image as a humble train engineer.",
+            "sentence_zh": "刘慈欣保持着谦逊火车工程师的公众形象。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "mirror image",
+        "meaning": "镜像",
+        "examples": [
+          {
+            "sentence": "The twin brothers are like mirror images wearing matching hoodies.",
+            "sentence_zh": "双胞胎兄弟穿着同款卫衣就像镜像。"
+          }
+        ]
+      }
+    ],
+    "teach": "image是照妖镜🪔+美图秀秀🤳的结合体！词源imitate（模仿）暗示所有图像都是现实的'盗版'💫。说'毁形象'用tarnish one's image（就像给雕像泼油漆🎨），'形象工程'叫image-building（堪比朋友圈P图📸）。记住：你的image决定别人眼中的你是原图还是精修版！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一米镜'→一米外看镜像",
+        "易混词：imagine（纯想象）vs image（可具象化的）",
+        "记忆法：IM（即时通讯）+AGE（时代）= 这个时代的图像传播方式"
+      ]
+    }
   }
 ]

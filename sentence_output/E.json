@@ -8773,5 +8773,226 @@
         "记忆链：e(出)+duc(引导)=把智慧引导出来"
       ]
     }
+  },
+  {
+    "word": "education",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "duc",
+        "ation"
+      ],
+      "meaning_connection": "前缀e-=向外，词根duc=引导，-ation表行为→原义'引导出来'，后专指通过教学开发潜能"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "教育（培养过程）",
+        "examples": [
+          {
+            "sentence": "Finland's education system turns schools into happiness labs.",
+            "sentence_zh": "芬兰的教育体系把学校变成幸福实验室。"
+          },
+          {
+            "sentence": "Her parents invested all in her piano education since age 3.",
+            "sentence_zh": "她父母从她3岁起就对钢琴教育全力投入。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "训练（专项培养）",
+        "examples": [
+          {
+            "sentence": "Panda keepers receive special education in bamboo nutrition.",
+            "sentence_zh": "熊猫饲养员接受竹子营养学的专项训练。"
+          },
+          {
+            "sentence": "The VR education for firefighters includes volcano rescue simulations.",
+            "sentence_zh": "消防员的VR训练包含火山救援模拟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "教育学（学科领域）",
+        "examples": [
+          {
+            "sentence": "She majored in Education with a focus on meme-based learning.",
+            "sentence_zh": "她主修教育学，专注表情包教学法研究。"
+          },
+          {
+            "sentence": "Ancient Chinese education emphasized the Six Arts.",
+            "sentence_zh": "中国古代教育学强调六艺培养。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "higher education",
+        "meaning": "高等教育",
+        "examples": [
+          {
+            "sentence": "Chinese higher education produces more STEM graduates than any country.",
+            "sentence_zh": "中国高等教育培养的理工科毕业生数量全球第一。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "physical education",
+        "meaning": "体育教育",
+        "examples": [
+          {
+            "sentence": "Our physical education class taught us how to do parkour safely.",
+            "sentence_zh": "体育课教我们如何安全跑酷。"
+          }
+        ]
+      }
+    ],
+    "teach": "education本质是'往外拽'🧠！孔子收束脩当学费时（早于柏拉图学院🐔），词根duc已指'引导'。说'学霸'用straight-A student，'挂科'叫flunk out。搭配'九年义务教育'说compulsory education，'继续教育'是further education。记住：真正的education是把你脑中的火锅底料煮开！♨️📚🎓",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱丢开心'→教育(education)是丢了玩具却收获知识",
+        "易混对比：education（系统教育）vs training（技能训练）",
+        "记忆口诀：e向外+duc引导=教育是把天赋'引导出来'"
+      ]
+    }
+  },
+  {
+    "word": "educational",
+    "etymology": {
+      "breakdown": [
+        "educate",
+        "ion",
+        "al"
+      ],
+      "meaning_connection": "educate（教育）+ -ion（名词后缀）+ -al（形容词后缀）→ 与教育相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "教育的",
+        "examples": [
+          {
+            "sentence": "The new educational policy aims to reduce students' homework burden.",
+            "sentence_zh": "新教育政策旨在减轻学生作业负担。"
+          },
+          {
+            "sentence": "TikTok has launched an educational program for rural teachers.",
+            "sentence_zh": "抖音为乡村教师推出了教育计划。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "教育性的",
+        "examples": [
+          {
+            "sentence": "The documentary about pandas is both entertaining and educational.",
+            "sentence_zh": "这部关于熊猫的纪录片既有趣又有教育性。"
+          },
+          {
+            "sentence": "Playing Minecraft in education mode counts as an educational activity.",
+            "sentence_zh": "在教育模式下玩《我的世界》算作教育性活动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "educational background",
+        "meaning": "教育背景",
+        "examples": [
+          {
+            "sentence": "Her educational background in AI helped her get the job at Huawei.",
+            "sentence_zh": "她的人工智能教育背景帮助她获得了华为的工作。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "educational video",
+        "meaning": "教学视频",
+        "examples": [
+          {
+            "sentence": "Bilibili has many educational videos about traditional Chinese culture.",
+            "sentence_zh": "哔哩哔哩有许多关于中国传统文化的教学视频。"
+          }
+        ]
+      }
+    ],
+    "teach": "educational其实是'爱丢开心噢'📚！最早来自拉丁语educare（引出知识），就像从井里打水💧。说'没文化'可以用know-nothing（啥都不懂），'学霸'叫walking dictionary（活字典）🧠。记住：真正的educational应该像火锅一样🍲，既美味又营养！搭配'教育贷款'说student loan，'教育缺口'叫education gap。",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱丢开心噢'→教育就是丢掉不开心",
+        "易混词对比：educational（教育性的）vs. educative（有教育作用的）",
+        "联想记忆：edu（教育）+ cation（谐音'开心'）+ al（形容词）→ 让人开心的教育"
+      ]
+    }
+  },
+  {
+    "word": "educationist",
+    "etymology": {
+      "breakdown": [
+        "educat",
+        "ion",
+        "ist"
+      ],
+      "meaning_connection": "词根educat=引导（来自educate），-ion表名词，-ist表示'从事...的人'→引导学问的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "教育家",
+        "examples": [
+          {
+            "sentence": "The educationist revolutionized teaching methods with his 'playful learning' theory.",
+            "sentence_zh": "这位教育家以'游戏化学习'理论革新了教学方法。"
+          },
+          {
+            "sentence": "Like Confucius, modern educationists emphasize teaching students according to their aptitude.",
+            "sentence_zh": "如同孔子，现代教育家也强调因材施教。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "教育理论家",
+        "examples": [
+          {
+            "sentence": "This MIT educationist's paper on AI tutoring went viral in academia.",
+            "sentence_zh": "这位MIT教育理论家关于AI教学的论文在学术界疯传。"
+          },
+          {
+            "sentence": "Educationists debate fiercely about whether homework should exist.",
+            "sentence_zh": "教育理论家们就'作业是否该存在'激烈辩论。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vocational educationist",
+        "meaning": "职业教育家",
+        "examples": [
+          {
+            "sentence": "The vocational educationist designed courses for short video creators.",
+            "sentence_zh": "这位职业教育家为短视频创作者设计了课程体系。"
+          }
+        ]
+      }
+    ],
+    "teach": "教育家的秘密武器📚：educationist=educate(教育)+ist(专家)，就像孔子手持教鞭🌱混搭现代VR眼镜👓。'黑板侠'叫chalkface practitioner，'填鸭式教育'说spoon-feeding。记住：真正的educationist绝不会让学生梦见考试吓醒！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱丢开心'→教育家让知识像丢开心果般有趣",
+        "易混词对比：educator(普通教师) vs educationist(理论专家)"
+      ]
+    }
   }
 ]

@@ -9076,5 +9076,277 @@
         "记忆法：Fan（粉丝）+dango（团子）→粉丝团子们在狂欢"
       ]
     }
+  },
+  {
+    "word": "fanfare",
+    "etymology": {
+      "breakdown": [
+        "fan",
+        "fare"
+      ],
+      "meaning_connection": "fan可能源自拟声词，fare来自古英语'faran'表示行进→原指行进时的喇叭声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "嘹亮的喇叭声",
+        "examples": [
+          {
+            "sentence": "The royal wedding began with a grand fanfare of trumpets.",
+            "sentence_zh": "皇室婚礼以盛大的小号齐奏开场。"
+          },
+          {
+            "sentence": "Olympic champions receive medals accompanied by heroic fanfares.",
+            "sentence_zh": "奥运冠军们在雄壮的号角声中接受奖牌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "吹嘘",
+        "examples": [
+          {
+            "sentence": "His so-called 'miracle cure' was just empty fanfare.",
+            "sentence_zh": "他所谓的'神奇疗法'不过是虚张声势。"
+          },
+          {
+            "sentence": "The product launch had more fanfare than actual features.",
+            "sentence_zh": "这场产品发布会噱头多过实质功能。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with much fanfare",
+        "meaning": "大张旗鼓地",
+        "examples": [
+          {
+            "sentence": "KFC launched mooncakes with much fanfare last Mid-Autumn.",
+            "sentence_zh": "肯德基去年中秋大张旗鼓地推出了月饼。"
+          }
+        ]
+      }
+    ],
+    "teach": "fanfare就像社交媒体的通知音效📢！本意是皇宫喇叭声🎺（比如《权力的游戏》瑟曦游街配乐），现在形容'雷声大雨点小'的炒作🌧️。说'过度宣传'可以用hype train（炒作列车），'低调发布'叫soft launch🍵。记住：真正的王者从不靠喇叭声证明自己👑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'烦烦啊'→喇叭声吵得烦烦啊",
+        "易混词：far-fetched（牵强的）和fanfare都带'far'但意思完全不同"
+      ]
+    }
+  },
+  {
+    "word": "fang",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'fang'(抓住)，后演变为'牙齿'，因尖牙用于咬住猎物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "尖牙",
+        "examples": [
+          {
+            "sentence": "The vampire's fangs gleamed in the moonlight like stainless steel chopsticks.",
+            "sentence_zh": "吸血鬼的尖牙在月光下像不锈钢筷子般闪亮。"
+          },
+          {
+            "sentence": "Pandas actually have hidden fangs despite their cute appearance.",
+            "sentence_zh": "熊猫看似呆萌，实则暗藏尖牙。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "犬牙",
+        "examples": [
+          {
+            "sentence": "Her dimples showed when the dentist checked her fangs.",
+            "sentence_zh": "牙医检查犬牙时，她的酒窝露了出来。"
+          },
+          {
+            "sentence": "The puppy's tiny fangs accidentally pierced the plush toy.",
+            "sentence_zh": "小狗的犬牙不小心刺穿了毛绒玩具。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蛇类毒牙",
+        "examples": [
+          {
+            "sentence": "The cobra retracted its fangs like foldable umbrella ribs.",
+            "sentence_zh": "眼镜蛇收起毒牙就像折叠伞骨。"
+          },
+          {
+            "sentence": "Snake venom dripped from the hollow fangs like boba tea pearls.",
+            "sentence_zh": "毒液从中空毒牙滴落，如同珍珠奶茶的珍珠。"
+          }
+        ]
+      }
+    ],
+    "teach": "fang是生物界的多功能工具🔧！吸血鬼用它喝奶茶🧛(fang marks)，毒蛇拿它当注射器🐍(venom fangs)，狗狗靠它拆快递📦(canine fangs)。搭配'show one's fangs'指'露出凶相'，'armed to the fangs'形容'全副武装'。地道说法：'long in the fang'指人老牙长(年迈)👵。记住：fang不卖萌时很危险！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭哥'→饭哥(fang)用犬牙啃排骨",
+        "易混词：fang(尖牙) vs. finger(手指)",
+        "联想：fang拼音='放'→毒蛇'放'毒牙"
+      ]
+    }
+  },
+  {
+    "word": "fanlight",
+    "etymology": {
+      "breakdown": [
+        "fan",
+        "light"
+      ],
+      "meaning_connection": "fan指扇形，light指光线，组合指允许光线进入的扇形窗户"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "扇形窗",
+        "examples": [
+          {
+            "sentence": "The Georgian townhouse features an elegant fanlight above the front door.",
+            "sentence_zh": "这栋乔治亚风格联排别墅的前门上方有扇优雅的扇形窗。"
+          },
+          {
+            "sentence": "Restorers used gold leaf to highlight the fanlight's delicate tracery.",
+            "sentence_zh": "修复师用金箔突出扇形窗的精致窗花。"
+          }
+        ]
+      }
+    ],
+    "teach": "fanlight是建筑界的孔雀开屏🦚！起源于18世纪欧洲，当时贵族们用这种扇形窗炫富，就像现代人晒豪宅落地窗🏰。搭配说'stained-glass fanlight（彩色玻璃扇形窗）'或'fanlight transom（扇形气窗）'，吐槽昏暗房间可以说'darker than a boarded-up fanlight（比封死的扇形窗还黑）'💡。记住：这是让阳光跳圆舞曲的窗户！",
+    "recite": {
+      "tips": [
+        "视觉记忆：想象电风扇叶片形状的窗户在转🌀",
+        "易混词对比：skylight（天窗）是平的，fanlight有弧度"
+      ]
+    }
+  },
+  {
+    "word": "fanny",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能源自拉丁语'femina'（女性）的变体，英式英语中作为人名Frances的昵称；美式俚语'屁股'含义起源不明"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "Frances的昵称",
+        "examples": [
+          {
+            "sentence": "Fanny's new novel topped Douban's bestseller list.",
+            "sentence_zh": "范妮的新小说登顶豆瓣畅销榜。"
+          },
+          {
+            "sentence": "When Aunt Fanny visits, she always brings handmade mooncakes.",
+            "sentence_zh": "范妮阿姨来访时总会带手工月饼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "屁股（美式俚语）",
+        "examples": [
+          {
+            "sentence": "He slipped on a banana peel and landed on his fanny.",
+            "sentence_zh": "他踩到香蕉皮摔了个屁股墩儿。"
+          },
+          {
+            "sentence": "The toddler's fanny was covered in sand after playing.",
+            "sentence_zh": "玩完后宝宝的屁股上全是沙子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "女子救护队队员（英式历史）",
+        "examples": [
+          {
+            "sentence": "Fannies in WWII often carried first aid kits heavier than themselves.",
+            "sentence_zh": "二战时的女子救护队员常背着比体重还重的急救包。"
+          },
+          {
+            "sentence": "My grandmother was a Fanny during the Blitz.",
+            "sentence_zh": "我奶奶曾是伦敦大轰炸期间的救护队女队员。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fanny pack",
+        "meaning": "腰包（美式）/ 臀包（英式）",
+        "examples": [
+          {
+            "sentence": "Tourists love fanny packs for holding phones and instant noodles.",
+            "sentence_zh": "游客最爱用腰包装手机和泡面。"
+          }
+        ]
+      }
+    ],
+    "teach": "fanny是跨大西洋的'双面间谍'🤹♀️！在英美差异比豆花甜咸之争还大：美国指屁股🍑（sit on your fanny），英国却是正经人名👩⚕️（二战救护队FANY的缩写）。记住：跟英国人别说'你的fanny真可爱'，他们会以为在夸奶奶👵！腰包叫fanny pack在美国是时尚单品，在英国却像说'臀包'般尴尬😅",
+    "recite": {
+      "tips": [
+        "谐音梗：'翻你'→美式俚语翻过来打屁股",
+        "易混词：bum（英式屁股）/ butt（美式屁股）",
+        "文化tip：英式避免使用该词指臀部"
+      ]
+    }
+  },
+  {
+    "word": "fantail",
+    "etymology": {
+      "breakdown": [
+        "fan",
+        "tail"
+      ],
+      "meaning_connection": "字面组合'扇子+尾巴'，形象描述鸟类/船舶的扇形尾部结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "扇形尾部（鸟类）",
+        "examples": [
+          {
+            "sentence": "The peacock proudly displays its iridescent fantail during mating season.",
+            "sentence_zh": "孔雀在求偶季会骄傲地展开彩虹色扇形尾羽。"
+          },
+          {
+            "sentence": "A fantail pigeon's tail spreads like a Japanese folding fan.",
+            "sentence_zh": "扇尾鸽的尾巴展开时像日式折扇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "鸭尾艄（船舶）",
+        "examples": [
+          {
+            "sentence": "The traditional Chinese sampan has a distinctive fantail design.",
+            "sentence_zh": "中国传统舢板的鸭尾艄造型颇具特色。"
+          },
+          {
+            "sentence": "Modern yachts sometimes adopt fantails for aesthetic appeal.",
+            "sentence_zh": "现代游艇有时采用鸭尾设计以提升美感。"
+          }
+        ]
+      }
+    ],
+    "teach": "fantail是自然与工程的完美结合体🦚⚓️！鸟类用它开屏求偶（像孔雀直播才艺🎤），船舶用它破浪航行（像鸭子用脚蹼划水🦆）。搭配说'flare its fantail'（展开尾羽）或'fantail stern'（鸭尾船艉），吐槽'笨拙'可以说move like a duck with broken fantail（像坏了尾舵的鸭子）。记住：所有扇形尾巴，都能叫fantail！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭太油'→孔雀吃了油腻饭菜(fan-tail)开屏不顺",
+        "易混词：fantail vs. peacock（前者指形状，后者指特定鸟类）",
+        "记忆锚点：风扇(fan)+尾巴(tail)=会摇头的电扇造型"
+      ]
+    }
   }
 ]
