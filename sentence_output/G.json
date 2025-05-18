@@ -11880,5 +11880,301 @@
         "记忆法：gendarme=gentle（绅士）+arm（武器）"
       ]
     }
+  },
+  {
+    "word": "gender",
+    "etymology": {
+      "breakdown": [
+        "gen",
+        "der"
+      ],
+      "meaning_connection": "词根gen=产生/种类（如generate），-der为名词后缀→原指‘事物的类别’，14世纪后特指生理性别"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "性别",
+        "examples": [
+          {
+            "sentence": "The panda's gender was finally confirmed by DNA testing.",
+            "sentence_zh": "通过DNA检测终于确认了这只熊猫的性别。"
+          },
+          {
+            "sentence": "TikTok now allows users to hide their gender information.",
+            "sentence_zh": "抖音现在允许用户隐藏性别信息。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "产生",
+        "examples": [
+          {
+            "sentence": "This chemical reaction genders a peculiar smell like durian.",
+            "sentence_zh": "该化学反应会产生类似榴莲的奇特气味。"
+          },
+          {
+            "sentence": "The ancient machine gendered sparks when operated.",
+            "sentence_zh": "这台古老机器运作时会产生火花。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gender gap",
+        "meaning": "性别差异",
+        "examples": [
+          {
+            "sentence": "The gender gap in tech companies is narrowing like melting glacier.",
+            "sentence_zh": "科技公司的性别差距正在像融化的冰川一样缩小。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gender-neutral",
+        "meaning": "性别中立",
+        "examples": [
+          {
+            "sentence": "The new emoji set includes gender-neutral superheroes.",
+            "sentence_zh": "新表情包包含性别中立的超级英雄。"
+          }
+        ]
+      }
+    ],
+    "teach": "gender的基因🧬里藏着大秘密：最早指‘种类’（和gene同源），后来特指性别就像淘宝分类🔖从‘服装’细化到‘女装/男装’。说‘男女平等’用gender equality，但吐槽‘直男思维’可以说typical straight guy logic🍵。记住：当gender作动词时，就像火锅底料‘产生’香味🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'箭的'→古代用箭的(gender)区分部落性别",
+        "易混词：sex（生理性别）vs gender（社会性别）",
+        "记忆法：gen(产生)+der(的)→产生差异的‘的’就是性别"
+      ]
+    }
+  },
+  {
+    "word": "gendered",
+    "etymology": {
+      "breakdown": [
+        "gender",
+        "ed"
+      ],
+      "meaning_connection": "词根gender=性别，后缀-ed表形容词→具有性别特征的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "依照性别而分类的",
+        "examples": [
+          {
+            "sentence": "Many toy stores still maintain gendered aisles with pink for girls and blue for boys.",
+            "sentence_zh": "许多玩具店仍保留按性别分类的通道，粉色给女孩蓝色给男孩。"
+          },
+          {
+            "sentence": "The gendered uniform policy was protested by flight attendants wearing pantsuits.",
+            "sentence_zh": "空乘人员穿裤装抗议按性别区分的制服政策。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "highly gendered",
+        "meaning": "高度性别化的",
+        "examples": [
+          {
+            "sentence": "Lion dancing is a highly gendered tradition historically excluding female performers.",
+            "sentence_zh": "舞狮曾是高度性别化的传统，历史上排斥女性表演者。"
+          }
+        ]
+      }
+    ],
+    "teach": "gendered这词就像性别分类的火锅蘸料台🍲：麻酱'男碟'vs香油'女碗'🧑‍🤝‍🧑。要知道'性别偏见'叫gender bias就像认为程序员必是男生💻，而'打破刻板印象'可以说smash gendered norms如同哪吒穿裙子踩风火轮🎀🔥。记住：你的能力不该被gendered框架定义！",
+    "recite": {
+      "tips": [
+        "视觉联想：gender+ed→基因(gen)里带着(d-ed)性别标签🧬",
+        "易混词对比：gendered（被动分类） vs genderless（无性别）"
+      ]
+    }
+  },
+  {
+    "word": "gene",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自德语Gen，源自希腊语genos（种族、出生），与generate（产生）同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "基因",
+        "examples": [
+          {
+            "sentence": "Pandas' bamboo obsession is written in their genes.",
+            "sentence_zh": "大熊猫对竹子的痴迷刻在它们的基因里。"
+          },
+          {
+            "sentence": "CRISPR technology allows scientists to edit genes like Word documents.",
+            "sentence_zh": "基因编辑技术让科学家可以像修改Word文档般修改基因。"
+          }
+        ]
+      }
+    ],
+    "teach": "基因(gene)就是生命的设计图📜！你的单眼皮/双眼皮、吃香菜觉得香还是臭🧄，全由它决定。'好基因'叫good genes（比如某凡的颜值），'基因彩票'叫genetic lottery（中奖=天生丽质）💎。记住：你妈说'随我'时，就是在甩锅给genes！",
+    "recite": {
+      "tips": [
+        "谐音梗：'基因'→'记印'（刻在DNA里的记忆印记）",
+        "易混词对比：gene(基因) vs jeans(牛仔裤)"
+      ]
+    }
+  },
+  {
+    "word": "genealogical",
+    "etymology": {
+      "breakdown": [
+        "genea",
+        "log",
+        "ical"
+      ],
+      "meaning_connection": "genea=种族/世代(来自希腊语genos)，-log=研究/学科，-ical=形容词后缀→研究家族世系的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "宗谱的",
+        "examples": [
+          {
+            "sentence": "The Confucius genealogical tree records over 80 generations.",
+            "sentence_zh": "孔子宗谱记载了超过80代子孙。"
+          },
+          {
+            "sentence": "She keeps a genealogical scroll of her Qing dynasty ancestors.",
+            "sentence_zh": "她保存着清朝祖先的宗谱卷轴。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "家系的",
+        "examples": [
+          {
+            "sentence": "DNA testing revealed surprising genealogical connections.",
+            "sentence_zh": "基因检测揭示了令人惊讶的家系关联。"
+          },
+          {
+            "sentence": "The royal genealogical records were kept in the Forbidden City.",
+            "sentence_zh": "皇室家系记录曾保存在紫禁城内。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "系谱的",
+        "examples": [
+          {
+            "sentence": "This genealogical chart shows how all dog breeds evolved from wolves.",
+            "sentence_zh": "这份系谱图展示所有犬种如何从狼演化而来。"
+          },
+          {
+            "sentence": "Linguists created a genealogical tree of Indo-European languages.",
+            "sentence_zh": "语言学家绘制了印欧语系的系谱树。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "genealogical research",
+        "meaning": "族谱研究",
+        "examples": [
+          {
+            "sentence": "Chinese genealogical research often involves checking ancient census records.",
+            "sentence_zh": "中国的族谱研究常需要查阅古代户籍资料。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "genealogical society",
+        "meaning": "家谱学会",
+        "examples": [
+          {
+            "sentence": "The Wang family genealogical society holds annual ancestor worship ceremonies.",
+            "sentence_zh": "王氏家谱学会每年举行祭祖仪式。"
+          }
+        ]
+      }
+    ],
+    "teach": "genealogical是'基因'+'逻辑'的混血儿🧬📜！想象你的家族树是火锅食材谱🍲：曾祖是牛油锅底(基因根源)，祖父是毛肚(直系传承)，你是虾滑(最新分支)。说'祖上阔过'用blue blood💎，'寻根问祖'叫trace one's roots🌳。记住：每个中国人都活在家谱的二维码里！",
+    "recite": {
+      "tips": [
+        "谐音梗：'记那儿逻辑'→记住家族那儿的逻辑",
+        "易混词对比：genetic(基因的) vs genealogical(谱系的)"
+      ]
+    }
+  },
+  {
+    "word": "genealogist",
+    "etymology": {
+      "breakdown": [
+        "genea",
+        "log",
+        "ist"
+      ],
+      "meaning_connection": "genea=家族/世代（来自希腊语genos），-log=研究/学问（如biology），-ist=从事...的人→研究家族传承的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "系谱学者",
+        "examples": [
+          {
+            "sentence": "The genealogist discovered my ancestor was a Qing Dynasty noodle vendor.",
+            "sentence_zh": "系谱学者发现我的祖先是清朝的面摊老板。"
+          },
+          {
+            "sentence": "As a genealogist, she tracks family histories through old tea trade records.",
+            "sentence_zh": "作为系谱学者，她通过古老茶叶贸易记录追踪家族历史。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "系谱专家",
+        "examples": [
+          {
+            "sentence": "The genealogist proved the celebrity's claim of being Genghis Khan's descendant was false.",
+            "sentence_zh": "系谱专家证实那位名人自称成吉思汗后代的说法是假的。"
+          },
+          {
+            "sentence": "Genealogists at the Confucius Mansion have kept detailed records for 2,500 years.",
+            "sentence_zh": "孔府的系谱专家们保存了2500年的详细记录。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "professional genealogist",
+        "meaning": "专业系谱学家",
+        "examples": [
+          {
+            "sentence": "Professional genealogists charge by the hour to trace your family tree.",
+            "sentence_zh": "专业系谱学家按小时收费为你追溯家谱。"
+          }
+        ]
+      }
+    ],
+    "teach": "genealogist其实是'家族福尔摩斯'🕵️‍♂️！他们像查户口一样翻族谱📜（research genealogy），现代版用DNA检测代替了老黄历🧬。说'祖上阔过'可以用blue blood形容贵族血统💎，'寻根问祖'叫trace ancestry就像火锅店找同款锅底🌶️。记住：每个中国大妈都是潜在的genealogist！",
+    "recite": {
+      "tips": [
+        "谐音梗：'基因老记者'→研究基因(gene)的老(-alog)记者(-ist)",
+        "易混词对比：genealogy（系谱学）vs geology（地质学）",
+        "记忆tip：把家族树(family tree)想象成火锅食材族谱"
+      ]
+    }
   }
 ]

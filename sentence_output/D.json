@@ -11871,5 +11871,310 @@
         "记忆法：de+bility→'的'+'bility'→'的能力'被削弱"
       ]
     }
+  },
+  {
+    "word": "debit",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "bit"
+      ],
+      "meaning_connection": "前缀de-表示'离开'，词根bit来自拉丁语'debere'（欠债）→原指'取走的部分'，后专指会计术语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "借方",
+        "examples": [
+          {
+            "sentence": "The debit side of your Alipay shows all money-out records.",
+            "sentence_zh": "支付宝的借方显示所有支出记录。"
+          },
+          {
+            "sentence": "In accounting, debit increases asset accounts.",
+            "sentence_zh": "在会计中，借方增加资产账户。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "借款",
+        "examples": [
+          {
+            "sentence": "The 500 yuan debit from your friend needs repayment.",
+            "sentence_zh": "你朋友那500元借款该还了。"
+          },
+          {
+            "sentence": "Small debits between roommates often cause conflicts.",
+            "sentence_zh": "室友间的小借款常引发矛盾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "记入借方",
+        "examples": [
+          {
+            "sentence": "The bank debited 20 yuan for SMS service fee.",
+            "sentence_zh": "银行扣了20元短信服务费。"
+          },
+          {
+            "sentence": "WeChat Pay automatically debits your balance when scanning.",
+            "sentence_zh": "微信支付扫码时自动扣除余额。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "debit card",
+        "meaning": "借记卡",
+        "examples": [
+          {
+            "sentence": "Chinese college students get their first debit card at 18.",
+            "sentence_zh": "中国大学生18岁拿到首张借记卡。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "direct debit",
+        "meaning": "直接扣款",
+        "examples": [
+          {
+            "sentence": "Setting direct debit for utility bills saves time.",
+            "sentence_zh": "设置水电费自动扣款省时省力。"
+          }
+        ]
+      }
+    ],
+    "teach": "debit是会计界的吸血鬼🧛♂️！词源暗藏'拿走'的恶意（de-），就像每次刷卡都从账户吸血💸。'记入借方'相当于财务版的'功德-1'📉，而debit card则是你的电子钱包瘦身器⚖️。记住：看到debit就捂紧钱包，毕竟连马云的余额宝都会被debit！",
+    "recite": {
+      "tips": [
+        "谐音梗：'待毙的'→钱包被debit时就待毙了",
+        "对比记忆：debit（借） vs. credit（贷）就像阴阳符号☯️",
+        "联想：DEBIT=Don't Expect Balance In Treasury（别指望金库有余额）"
+      ]
+    }
+  },
+  {
+    "word": "debonair",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "bon",
+        "air"
+      ],
+      "meaning_connection": "前缀de-表'加强'，词根bon=好（法语bon），air=气质→原指'良好气质'，引申为优雅从容"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "温文有礼的",
+        "examples": [
+          {
+            "sentence": "The debonair gentleman opened the door with a slight bow.",
+            "sentence_zh": "这位温文尔雅的绅士微微鞠躬开门。"
+          },
+          {
+            "sentence": "His debonair manners made him popular at diplomatic parties.",
+            "sentence_zh": "他彬彬有礼的举止使他在外交酒会上很受欢迎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "高兴的",
+        "examples": [
+          {
+            "sentence": "She walked in with a debonair smile after getting promoted.",
+            "sentence_zh": "获得晋升后，她带着欢快的笑容走进来。"
+          },
+          {
+            "sentence": "The debonair host made everyone feel at ease.",
+            "sentence_zh": "兴致勃勃的主人让所有人都感到放松。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "debonair charm",
+        "meaning": "翩翩风度",
+        "examples": [
+          {
+            "sentence": "James Bond's debonair charm comes with deadly skills.",
+            "sentence_zh": "詹姆斯·邦德的翩翩风度伴随着致命技能。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "debonair indifference",
+        "meaning": "优雅的漫不经心",
+        "examples": [
+          {
+            "sentence": "He handled the crisis with debonair indifference.",
+            "sentence_zh": "他以优雅的漫不经心处理了危机。"
+          }
+        ]
+      }
+    ],
+    "teach": "debonair是'好空气'💨修炼成的！源自法语'de bon air'（气质佳），就像穿西装的熊猫🎩端着红酒说'Bonjour'🍷。形容人时说'He's so debonair'比'gentleman'更高级，吐槽装优雅可以说'trying too hard to be debonair'（强行装绅士）。记住：真·debonair就像周润发咬扑克牌🃏——天生派头！",
+    "recite": {
+      "tips": [
+        "谐音梗：'得宝奶儿'→得到宝贝奶粉的优雅宝宝",
+        "对比记忆：charming（迷人）是天赋，debonair（优雅）是修炼",
+        "联想：bon=法语'好'+air=气质=好气质"
+      ]
+    }
+  },
+  {
+    "word": "debrief",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "brief"
+      ],
+      "meaning_connection": "前缀de-表'去除'，brief源自拉丁语'brevis'（短）→原指'解除简要状态'，后演变为'详细询问'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "听取报告",
+        "examples": [
+          {
+            "sentence": "NASA scientists will debrief the astronauts after their lunar mission.",
+            "sentence_zh": "美国宇航局科学家将在宇航员完成登月任务后听取汇报。"
+          },
+          {
+            "sentence": "The CEO debriefed the marketing team like a general reviewing battlefield intelligence.",
+            "sentence_zh": "CEO听取营销团队报告的样子像将军检阅战场情报。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "盘问",
+        "examples": [
+          {
+            "sentence": "Airport security debriefed the suspicious passenger for three hours.",
+            "sentence_zh": "机场安保盘问这名可疑乘客长达三小时。"
+          },
+          {
+            "sentence": "My mom debriefed me about my date like a KGB agent.",
+            "sentence_zh": "老妈像克格勃特工般盘问我的约会细节。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "debrief session",
+        "meaning": "任务汇报会",
+        "examples": [
+          {
+            "sentence": "The post-mission debrief session revealed unexpected data about Mars' atmosphere.",
+            "sentence_zh": "任务后汇报会披露了关于火星大气层的意外数据。"
+          }
+        ]
+      }
+    ],
+    "teach": "debrief是007特工必备技能🕵️♂️！想象把任务简报(brief)反过来(de-)拆解的过程：就像吃火锅后复盘点了多少盘肉🍲（mission debrief），或是女朋友查手机时的灵魂拷问📱（relationship debrief）。特工们说'need-to-know basis'（机密分级制），而打工人最怕老板说'Let's debrief'意味着加班预警⚠️",
+    "recite": {
+      "tips": [
+        "谐音梗：'敌必俘'→盘问敌人必让其屈服",
+        "易混词：brief（简明）vs debrief（详询）就像压缩包和解压过程"
+      ]
+    }
+  },
+  {
+    "word": "debriefing",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "brief",
+        "ing"
+      ],
+      "meaning_connection": "前缀de-表示'去除'，brief来自拉丁语brevis'短的'，-ing表名词→原指'简化报告'，后特指任务汇报"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "任务报告",
+        "examples": [
+          {
+            "sentence": "The astronaut's debriefing revealed moon dust smells like gunpowder.",
+            "sentence_zh": "宇航员的任务报告透露月球尘埃闻起来像火药。"
+          },
+          {
+            "sentence": "Post-mission debriefings often include unexpected humor about space toilets.",
+            "sentence_zh": "任务后的报告常包含关于太空马桶的意外幽默。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "任务报告中提出的情报",
+        "examples": [
+          {
+            "sentence": "The debriefing contained crucial intel about alien snack preferences.",
+            "sentence_zh": "报告中包含关于外星人零食偏好的关键情报。"
+          },
+          {
+            "sentence": "His debriefing mentioned pandas refuse to cooperate with spies.",
+            "sentence_zh": "他的报告情报提到熊猫拒绝配合间谍工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "询问执行任务的情况",
+        "examples": [
+          {
+            "sentence": "James Bond was debriefing while mixing a martini with his elbow.",
+            "sentence_zh": "007正在用肘部调马天尼时接受任务询问。"
+          },
+          {
+            "sentence": "The AI assistant debriefed the robot about its failed baking mission.",
+            "sentence_zh": "AI助手正在询问机器人烘焙任务失败的情况。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "post-flight debriefing",
+        "meaning": "飞行后汇报",
+        "examples": [
+          {
+            "sentence": "The pilot brought mooncakes to the post-flight debriefing.",
+            "sentence_zh": "飞行员带着月饼参加飞行后汇报会。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "emergency debriefing",
+        "meaning": "紧急任务汇报",
+        "examples": [
+          {
+            "sentence": "The cat demanded an emergency debriefing after the vacuum cleaner incident.",
+            "sentence_zh": "吸尘器事件后，猫咪要求召开紧急任务汇报。"
+          }
+        ]
+      }
+    ],
+    "teach": "debriefing就像任务后的火锅总结会🍲：NASA宇航员们边吃冰淇淋🍦边汇报太空见闻（post-mission debriefing），英国间谍用'tea time debrief'☕️代替严肃问询。要说'任务汇报'可以戏称spill the tea（爆料），记住：真正的debriefer连外星人WiFi密码都要问🛸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟不服'→弟弟不服(debriefing)任务评分",
+        "易混词对比：briefing(任务前简报) vs debriefing(任务后汇报)"
+      ]
+    }
   }
 ]

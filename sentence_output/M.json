@@ -11897,5 +11897,329 @@
         "记忆tip：man+acle=男人的（man）致命弱点（-acle）"
       ]
     }
+  },
+  {
+    "word": "manage",
+    "etymology": {
+      "breakdown": [
+        "man",
+        "age"
+      ],
+      "meaning_connection": "词根man=手(拉丁语manus)，-age表行为→原指'用手操作'，引申出处理/管理等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "处理",
+        "examples": [
+          {
+            "sentence": "Don't worry, I can manage without the instruction manual.",
+            "sentence_zh": "别担心，没有说明书我也能搞定。"
+          },
+          {
+            "sentence": "She manages surprisingly well with just 5 hours of sleep.",
+            "sentence_zh": "她每天只睡5小时却应付得相当好。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "管理",
+        "examples": [
+          {
+            "sentence": "He manages a hotpot chain with 666 stores across China.",
+            "sentence_zh": "他管理着在全国有666家分店的火锅连锁品牌。"
+          },
+          {
+            "sentence": "The app helps you manage your WeChat subscriptions.",
+            "sentence_zh": "这个应用能帮你管理微信订阅号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "控制",
+        "examples": [
+          {
+            "sentence": "Can you manage your excitement when meeting idols?",
+            "sentence_zh": "见到偶像时你能控制住激动吗？"
+          },
+          {
+            "sentence": "This device manages the temperature automatically.",
+            "sentence_zh": "这个设备会自动控制温度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "维持",
+        "examples": [
+          {
+            "sentence": "The grandma miraculously manages her health at 108.",
+            "sentence_zh": "这位奶奶108岁仍奇迹般维持着健康。"
+          },
+          {
+            "sentence": "We only manage a 2G signal in the mountains.",
+            "sentence_zh": "在山里我们只能维持2G信号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "达成",
+        "examples": [
+          {
+            "sentence": "They managed a world record in bubble tea consumption.",
+            "sentence_zh": "他们创下了奶茶消费的世界纪录。"
+          },
+          {
+            "sentence": "Can you manage 100 push-ups in one go?",
+            "sentence_zh": "你能一口气做100个俯卧撑吗？"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "manage to do",
+        "meaning": "设法做到",
+        "examples": [
+          {
+            "sentence": "She managed to finish 10 episodes in one night.",
+            "sentence_zh": "她一夜之间刷完了10集剧。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "manage without",
+        "meaning": "没有...也能应付",
+        "examples": [
+          {
+            "sentence": "Can you manage without your smartphone for a day?",
+            "sentence_zh": "你能一天不用智能手机吗？"
+          }
+        ]
+      }
+    ],
+    "teach": "manage就像万能遥控器🎮！管理火锅店时你是CEO👔（manage a business），控制情绪时是瑜伽大师🧘（manage anger），维持生计像杂技演员🤹（manage a living），达成目标像通关王者荣耀🎯（manage to win）。记住：'手(man)中有术，万事皆可manage！' 说'勉强应付'叫just about manage，管钱叫manage finances就像管火锅调料台🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛮能急'→遇到急事蛮能manage",
+        "对比：handle侧重处理过程，manage强调控制结果",
+        "联想：MAN+AGE→男人随着年龄增长管理能力越强"
+      ]
+    }
+  },
+  {
+    "word": "manageable",
+    "etymology": {
+      "breakdown": [
+        "manage",
+        "able"
+      ],
+      "meaning_connection": "manage（管理）+后缀-able（可...的）→可管理的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "易办的",
+        "examples": [
+          {
+            "sentence": "The workload became manageable after we hired interns.",
+            "sentence_zh": "雇佣实习生后，工作量变得容易处理了。"
+          },
+          {
+            "sentence": "Breaking big tasks into chunks makes them more manageable.",
+            "sentence_zh": "把大任务拆解成小块会让它们更容易办理。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "易管理的",
+        "examples": [
+          {
+            "sentence": "A class of 15 students is much more manageable than 50.",
+            "sentence_zh": "15人的班级比50人的班级容易管理得多。"
+          },
+          {
+            "sentence": "This app turns chaotic schedules into manageable plans.",
+            "sentence_zh": "这个应用能把混乱的日程变成容易管理的计划。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "易控制的",
+        "examples": [
+          {
+            "sentence": "The wildfire was finally declared manageable by firefighters.",
+            "sentence_zh": "消防员最终宣布这场野火变得容易控制了。"
+          },
+          {
+            "sentence": "With proper training, even lions can become manageable.",
+            "sentence_zh": "经过适当训练，连狮子也能变得温顺可控。"
+          }
+        ]
+      }
+    ],
+    "teach": "manageable就像驯服哈士奇🐺→把'不可控'变成'撸得动'！古罗马奴隶主用manage（源自拉丁语'手'）管奴隶👋，现代人用manageable形容996的工作量⏰。搭配：'manageable portion'（可控分量，比如奶茶加料），'keep it manageable'（保持可控范围）。地道说法：bite-sized chunks（一口量，指分解后易处理的小任务）🍔✂️📦",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛮能搞'→只要蛮能搞(manageable)，事情都好搞",
+        "易混词对比：manageable（可管理的）vs. manipulative（操纵的）",
+        "联想：MAN+AGE+ABLE→男人到一定年龄就变得'可控'了"
+      ]
+    }
+  },
+  {
+    "word": "managed",
+    "etymology": {
+      "breakdown": [
+        "man",
+        "age",
+        "ed"
+      ],
+      "meaning_connection": "词根man=手(拉丁语manus)，-age表行为，-ed表形容词→原指'用手处理的'，引申为'受控制的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "与中央化计划及管制有关的",
+        "examples": [
+          {
+            "sentence": "China's managed floating exchange rate system ensures financial stability.",
+            "sentence_zh": "中国有管理的浮动汇率制度保障了金融稳定。"
+          },
+          {
+            "sentence": "The managed economy during pandemic included mask production quotas.",
+            "sentence_zh": "疫情期间的管制经济包含口罩生产配额。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "托管的",
+        "examples": [
+          {
+            "sentence": "Alibaba Cloud provides managed database services for enterprises.",
+            "sentence_zh": "阿里云为企业提供托管数据库服务。"
+          },
+          {
+            "sentence": "This managed fund automatically rebalances your WeChat wallet investments.",
+            "sentence_zh": "这只托管基金会自动调整微信钱包里的投资组合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "managed care",
+        "meaning": "管理式医疗",
+        "examples": [
+          {
+            "sentence": "Beijing's medical insurance adopts managed care principles.",
+            "sentence_zh": "北京医保采用管理式医疗原则。"
+          }
+        ]
+      }
+    ],
+    "teach": "managed就像社区团购群主👨💼：既管物价(计划经济)又管配送(托管服务)。视觉化记忆：'man+age'=大叔(man)管理微信群(age)📱。搭配说'managed democracy'（可控民主）和'managed retreat'（规划性撤离）。地道表达用'micromanaged'形容管太细→'My mom micromanages my dating like a CCTV director!'🎥",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢age的'→慢时代需要管理",
+        "易混词：managed vs. manicured（修剪的）",
+        "记忆tip：'man'在驾驶舱就是'managed flight'✈️"
+      ]
+    }
+  },
+  {
+    "word": "management",
+    "etymology": {
+      "breakdown": [
+        "manage",
+        "ment"
+      ],
+      "meaning_connection": "词根manage=处理（来自意大利语maneggiare'用手操控'），后缀-ment表行为结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "经营",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop's management includes TikTok marketing strategies.",
+            "sentence_zh": "这家奶茶店的经营包含抖音营销策略。"
+          },
+          {
+            "sentence": "Hotpot chain management requires balancing spice levels across regions.",
+            "sentence_zh": "火锅连锁经营需要平衡不同地区的辣度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "支配",
+        "examples": [
+          {
+            "sentence": "The management of household expenses often causes couples to argue.",
+            "sentence_zh": "家庭开支的支配常常引发夫妻争吵。"
+          },
+          {
+            "sentence": "Time management determines whether you can finish all takeout before it gets cold.",
+            "sentence_zh": "时间支配能力决定你能否在外卖凉前全部吃完。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "管理",
+        "examples": [
+          {
+            "sentence": "Community management now includes organizing group purchases of vegetables.",
+            "sentence_zh": "社区管理现在包含组织蔬菜团购。"
+          },
+          {
+            "sentence": "The management of WeChat groups requires deleting spam messages about lucky money.",
+            "sentence_zh": "微信群管理需要删除关于红包的垃圾信息。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "crisis management",
+        "meaning": "危机管理",
+        "examples": [
+          {
+            "sentence": "China's crisis management during the pandemic included health code systems.",
+            "sentence_zh": "疫情期间中国的危机管理包含健康码系统。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "middle management",
+        "meaning": "中层管理",
+        "examples": [
+          {
+            "sentence": "Middle management in tech companies often translates requirements between bosses and programmers.",
+            "sentence_zh": "科技公司的中层管理常在老板和程序员之间转译需求。"
+          }
+        ]
+      }
+    ],
+    "teach": "management本质是'摸鱼指南'🐟！古代威尼斯商人用maneggiare（手部动作）管理货物📦，现代打工人用management'管理'老板预期🤫。'经营'奶茶店要懂00后黑话🍵，'支配'工资要躲过双十一🔪，'管理'时间得在摸鱼和加班间走钢丝🎪。记住：good management=把火锅局控制在人均200以内🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢哪这么疼'→管理不善就头疼",
+        "易混词对比：manage（动词）vs. management（名词）",
+        "记忆tip：所有-ment结尾的词都是名词（如development）"
+      ]
+    }
   }
 ]

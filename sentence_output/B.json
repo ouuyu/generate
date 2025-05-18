@@ -11961,5 +11961,345 @@
         "易混词：immerse（单纯浸泡）vs baptize（仪式性浸入）"
       ]
     }
+  },
+  {
+    "word": "baptized",
+    "etymology": {
+      "breakdown": [
+        "bapt",
+        "ize",
+        "ed"
+      ],
+      "meaning_connection": "词根bapt=浸入（源自希腊语baptizein），-ize表动词化，-ed表过去分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "受洗礼的",
+        "examples": [
+          {
+            "sentence": "The baptized baby wore a lace gown inherited from his great-grandmother.",
+            "sentence_zh": "受洗的婴儿穿着曾祖母传下来的蕾丝礼服。"
+          },
+          {
+            "sentence": "In the photo, newly baptized members held candles shaped like white doves.",
+            "sentence_zh": "照片中，新受洗的成员们手持白鸽形状的蜡烛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "施洗礼",
+        "examples": [
+          {
+            "sentence": "The priest baptized the child with water from the Jordan River.",
+            "sentence_zh": "牧师用约旦河的河水为孩子施洗。"
+          },
+          {
+            "sentence": "They built a marble font specifically to baptize royal babies.",
+            "sentence_zh": "他们专门建造了大理石洗礼盆为皇室婴儿施洗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使经受考验",
+        "examples": [
+          {
+            "sentence": "Startup life baptized him in the fires of 996 work schedule.",
+            "sentence_zh": "创业生活让他经受了996工作制的烈火考验。"
+          },
+          {
+            "sentence": "The typhoon baptized the new seawall with 10-meter waves.",
+            "sentence_zh": "台风用十米高的浪涛考验了新海堤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "命名",
+        "examples": [
+          {
+            "sentence": "Fans baptized the new stadium 'The Giant Wok' due to its shape.",
+            "sentence_zh": "由于造型独特，粉丝将这个新体育场命名为'巨型火锅'。"
+          },
+          {
+            "sentence": "The tech blogger baptized this smartphone 'The Battery King'.",
+            "sentence_zh": "科技博主给这款手机取名'续航之王'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be baptized into",
+        "meaning": "受洗加入",
+        "examples": [
+          {
+            "sentence": "She was baptized into the church during the Spring Festival.",
+            "sentence_zh": "她在春节期间受洗加入教会。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "baptism of fire",
+        "meaning": "战火洗礼",
+        "examples": [
+          {
+            "sentence": "Fresh graduates face baptism of fire during double 11 shopping festival.",
+            "sentence_zh": "应届毕业生在双十一购物节期间面临战火洗礼。"
+          }
+        ]
+      }
+    ],
+    "teach": "baptized是个'湿身'单词💦！宗教洗礼像火锅蘸料（baptized in holy water），职场考验像重庆火锅九宫格🔥（baptized by deadlines）。说'新手初体验'可以用maiden voyage🛶，形容'严格测试'说trial by fire🧯。记住：被baptized过的东西就像煮熟的饺子——再也回不去啦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'摆谱太子的'→受洗仪式上摆谱的太子",
+        "易混词对比：christen（命名仪式）强调庆祝性，baptize侧重净化含义"
+      ]
+    }
+  },
+  {
+    "word": "bar",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'barra'（横木），最初指用于隔挡的木质障碍物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "条状物",
+        "examples": [
+          {
+            "sentence": "She broke a chocolate bar into 24 pieces to share.",
+            "sentence_zh": "她把巧克力棒掰成24块分享。"
+          },
+          {
+            "sentence": "The monkey was swinging on an iron bar at the zoo.",
+            "sentence_zh": "动物园的猴子正抓着铁杠荡秋千。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "酒吧",
+        "examples": [
+          {
+            "sentence": "The hidden bar behind the bookshelf serves amazing cocktails.",
+            "sentence_zh": "书架后的隐藏酒吧提供惊艳的鸡尾酒。"
+          },
+          {
+            "sentence": "We're meeting at the beer bar with 100+ craft brews.",
+            "sentence_zh": "我们将在有100多种精酿的啤酒吧碰头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "障碍",
+        "examples": [
+          {
+            "sentence": "Language became the biggest bar to their friendship.",
+            "sentence_zh": "语言成了他们友谊的最大障碍。"
+          },
+          {
+            "sentence": "The law removes bars for foreign investors.",
+            "sentence_zh": "该法律消除了外国投资者的障碍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "禁止",
+        "examples": [
+          {
+            "sentence": "The app bars users under 18 from live-streaming after 10pm.",
+            "sentence_zh": "该应用禁止18岁以下用户晚上10点后直播。"
+          },
+          {
+            "sentence": "They were barred from entering the concert for wearing slippers.",
+            "sentence_zh": "他们因穿拖鞋被禁止进入演唱会。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "阻挡",
+        "examples": [
+          {
+            "sentence": "Three bodyguards barred his way to the stage.",
+            "sentence_zh": "三名保镖阻挡了他上台的去路。"
+          },
+          {
+            "sentence": "The fallen tree barred the entire road after typhoon.",
+            "sentence_zh": "台风后倒下的树木阻挡了整条路。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "behind bars",
+        "meaning": "在狱中",
+        "examples": [
+          {
+            "sentence": "The scammer ended up behind bars for 15 years.",
+            "sentence_zh": "诈骗犯最终锒铛入狱15年。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bar none",
+        "meaning": "无一例外",
+        "examples": [
+          {
+            "sentence": "This is the best hotpot, bar none!",
+            "sentence_zh": "这是最好的火锅，没有之一！"
+          }
+        ]
+      }
+    ],
+    "teach": "bar就像乐高积木🧩：当'杠'时是单杠运动员的玩具🎪，当'酒吧'时是成年人的糖果屋🍹，当'禁止'时变成交警的stop手势🛑。说'烂醉如泥'叫drunk as a skunk🦨，'全面禁酒'是total alcohol prohibition。记住：遇到bar，先问它是路障还是快乐开关！",
+    "recite": {
+      "tips": [
+        "谐音梗：'吧'→中文直接借用",
+        "易混词：pub（英式）/bar（美式）",
+        "记忆tip：所有含义都跟'阻隔'有关"
+      ]
+    }
+  },
+  {
+    "word": "barb",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语barba（胡子），因倒钩形状酷似胡须分叉而得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "倒钩",
+        "examples": [
+          {
+            "sentence": "The barb on the fishing hook snagged my sweater like a rebellious thread.",
+            "sentence_zh": "鱼钩上的倒钩像叛逆的线头般钩住了我的毛衣。"
+          },
+          {
+            "sentence": "Ancient arrowheads with barbs could cause terrible wounds - think of it as the original 'unsubscribe' button.",
+            "sentence_zh": "带倒钩的古代箭头会造成可怕伤口——堪称原始版的'取消关注'按钮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "装倒钩于",
+        "examples": [
+          {
+            "sentence": "The hunter barbed his arrows with obsidian flakes sharper than a TikTok roast.",
+            "sentence_zh": "猎人用比抖音吐槽更锋利的黑曜石薄片为箭头加装倒钩。"
+          },
+          {
+            "sentence": "Barbed wire was originally invented to contain cows, not to start a trending hashtag.",
+            "sentence_zh": "带刺铁丝网最初是为圈牛发明的，可不是为了制造热搜话题。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "barbed remark",
+        "meaning": "带刺的言论",
+        "examples": [
+          {
+            "sentence": "Her barbed compliment about my cooking skills stung worse than a chili oil splash.",
+            "sentence_zh": "她对我厨艺带刺的夸奖比辣椒油溅到眼睛还让人难受。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "barbed tongue",
+        "meaning": "毒舌",
+        "examples": [
+          {
+            "sentence": "That stand-up comedian's barbed tongue could puncture a car tire.",
+            "sentence_zh": "那位脱口秀演员的毒舌功力足以扎破汽车轮胎。"
+          }
+        ]
+      }
+    ],
+    "teach": "barb是史上最阴险的设计💉！它就像你妈催婚时的潜台词（barbed questions），表面无害实则杀伤力满分💯。古人用倒钩防止猎物逃跑，现代人用'带刺的话'防止对话无聊🗡️。记住：遇到barbed wire（带刺铁丝网）要绕道，遇到barbed joke（毒舌玩笑）要接住！",
+    "recite": {
+      "tips": [
+        "谐音梗：'粑粑'→倒钩扎到屁股像踩了粑粑",
+        "易混词：barb vs. barber（后者只会剪头发不会扎人）",
+        "联想：微信'拍一拍'自带倒钩效果（撤回尴尬）"
+      ]
+    }
+  },
+  {
+    "word": "Barbadian",
+    "etymology": {
+      "breakdown": [
+        "Barbados",
+        "ian"
+      ],
+      "meaning_connection": "源自加勒比海岛国Barbados（原意'长胡子的'，指当地无花果树的气根），后缀-ian表'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "巴贝多人",
+        "examples": [
+          {
+            "sentence": "Rihanna is the most famous Barbadian in the world.",
+            "sentence_zh": "蕾哈娜是全球最著名的巴贝多人。"
+          },
+          {
+            "sentence": "Barbadians celebrate Crop Over festival with colorful parades.",
+            "sentence_zh": "巴贝多人用彩色游行庆祝甘蔗节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "巴贝多的",
+        "examples": [
+          {
+            "sentence": "Barbadian rum is aged in special Caribbean oak barrels.",
+            "sentence_zh": "巴贝多朗姆酒用加勒比橡木桶特殊陈酿。"
+          },
+          {
+            "sentence": "The Barbadian accent mixes British English with African rhythms.",
+            "sentence_zh": "巴贝多口音混合了英式英语和非洲韵律。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Barbadian dollar",
+        "meaning": "巴贝多元",
+        "examples": [
+          {
+            "sentence": "The Barbadian dollar features a flying fish design.",
+            "sentence_zh": "巴贝多元纸币上有飞鱼图案。"
+          }
+        ]
+      }
+    ],
+    "teach": "Barbadian=蕾哈娜的户口本🇧🇧！这个单词自带加勒比海风🏝️——想象用'拔贝多'(Barbados)椰子油涂防晒霜🧴，或者喝Mount Gay朗姆酒时说'This is so Barbadian!'🍹。记住：说'巴贝多美食'用Bajan cuisine（当地俚语），夸人像热带水果般热情用'full of Bajan vibes'🥭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'吧！白的你'→加勒比阳光把巴贝多人晒得白不了",
+        "易混词对比：Barbarian（野蛮人）vs Barbadian（阳光岛民）"
+      ]
+    }
   }
 ]

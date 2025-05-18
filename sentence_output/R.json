@@ -12372,5 +12372,283 @@
         "记忆法：rascal=ras(惹事)+cal(call)→整天惹事被点名"
       ]
     }
+  },
+  {
+    "word": "rascally",
+    "etymology": {
+      "breakdown": [
+        "rascal",
+        "ly"
+      ],
+      "meaning_connection": "词根rascal=流氓/恶棍，后缀-ly=形容词/副词化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无赖的",
+        "examples": [
+          {
+            "sentence": "The rascally fox stole all the farmer's eggs with a wink.",
+            "sentence_zh": "那只无赖的狐狸眨着眼偷光了农夫的鸡蛋。"
+          },
+          {
+            "sentence": "His rascally smile revealed he'd eaten the last dumpling.",
+            "sentence_zh": "他无赖的笑容暴露了他偷吃了最后一个饺子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "恶棍的",
+        "examples": [
+          {
+            "sentence": "That rascally raccoon keeps tipping over my trash cans.",
+            "sentence_zh": "那只恶棍般的浣熊老是打翻我的垃圾桶。"
+          },
+          {
+            "sentence": "The novel describes the rascally tricks of highway robbers.",
+            "sentence_zh": "小说描写了公路劫匪的恶棍行径。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不诚实的",
+        "examples": [
+          {
+            "sentence": "The rascally merchant used fake weights in his scale.",
+            "sentence_zh": "那个不诚实的商人在秤上做了手脚。"
+          },
+          {
+            "sentence": "Beware of his rascally promises about 'free' gifts.",
+            "sentence_zh": "小心他那些关于'免费'礼物的不诚实承诺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "无赖地",
+        "examples": [
+          {
+            "sentence": "He grinned rascally while denying stealing cookies.",
+            "sentence_zh": "他无赖地笑着否认偷吃了饼干。"
+          },
+          {
+            "sentence": "The monkey behaved rascally by untying visitors' shoelaces.",
+            "sentence_zh": "这只猴子无赖地解开游客的鞋带。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rascally behavior",
+        "meaning": "无赖行径",
+        "examples": [
+          {
+            "sentence": "The panda's rascally behavior includes faking pregnancy for more bamboo.",
+            "sentence_zh": "这只熊猫的无赖行径包括假装怀孕来骗取更多竹子。"
+          }
+        ]
+      }
+    ],
+    "teach": "rascally是'流氓会武术'🤹‍♂️：源自中世纪英语rascaile（乌合之众），就像《猫和老鼠》里杰瑞的捣蛋行为🐭，或孙悟空偷蟠桃的狡黠🐒。形容人用a rascally fellow（滑头鬼），形容笑用a rascally grin（奸笑😏）。地道说法：He's as slippery as an eel（滑得像泥鳅）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉屎可利'→拉完屎溜得快的无赖",
+        "易混词：rascal（名词） vs rascally（形容词/副词）",
+        "联想：迪士尼反派的表情包合集"
+      ]
+    }
+  },
+  {
+    "word": "rash",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语'ræsc'表示'急速'，中古英语引申出'草率'含义；医学含义可能源自拉丁语'rasus'（刮擦）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "轻率的",
+        "examples": [
+          {
+            "sentence": "His rash decision to quit his job for livestreaming shocked everyone.",
+            "sentence_zh": "他辞职做直播的轻率决定震惊了所有人。"
+          },
+          {
+            "sentence": "Don't make rash promises during Double 11 shopping spree.",
+            "sentence_zh": "双十一剁手时别轻率许诺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "匆忙的",
+        "examples": [
+          {
+            "sentence": "The rush-hour subway was full of rash commuters.",
+            "sentence_zh": "高峰期的地铁挤满了行色匆匆的通勤者。"
+          },
+          {
+            "sentence": "Her rash departure left the WeChat group in chaos.",
+            "sentence_zh": "她匆忙退群导致微信群一片混乱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "鲁莽的",
+        "examples": [
+          {
+            "sentence": "That rash driver kept changing lanes like playing Mario Kart.",
+            "sentence_zh": "那个鲁莽的司机变道像在玩马里奥赛车。"
+          },
+          {
+            "sentence": "Posting rash comments online may get you doxxed.",
+            "sentence_zh": "在网上发表鲁莽评论可能被人肉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "皮疹",
+        "examples": [
+          {
+            "sentence": "Eating too much hotpot gave me an itchy rash.",
+            "sentence_zh": "火锅吃太多让我起了瘙痒的皮疹。"
+          },
+          {
+            "sentence": "The baby's milk allergy caused a red rash on its cheeks.",
+            "sentence_zh": "婴儿的牛奶过敏导致脸颊出现红色皮疹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "heat rash",
+        "meaning": "热疹",
+        "examples": [
+          {
+            "sentence": "Wearing masks in summer often causes heat rash.",
+            "sentence_zh": "夏天戴口罩常引发热疹。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rash act",
+        "meaning": "鲁莽行为",
+        "examples": [
+          {
+            "sentence": "Selling your kidneys for the latest iPhone is a rash act.",
+            "sentence_zh": "卖肾买最新iPhone是鲁莽行为。"
+          }
+        ]
+      }
+    ],
+    "teach": "rash就像麻辣火锅🌶️——太rush(匆忙)会烫嘴起rash(皮疹)！中世纪医生认为皮疹是'体液失衡'导致⚖️，现代人说'鲁莽'就像没看说明书就组装宜家家具🛋️。记住：皮肤过敏说'allergic rash'，冲动消费叫'impulse buying'比rash更地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热shi'→热到起皮疹",
+        "易混词：rush(匆忙) vs rash(鲁莽) → 多一个a就变'啊！闯祸了'",
+        "记忆口诀：Rash三连——涂药膏要gentle，做决定要careful，变道要signal"
+      ]
+    }
+  },
+  {
+    "word": "rasher",
+    "etymology": {
+      "breakdown": [
+        "rash",
+        "er"
+      ],
+      "meaning_connection": "词源存疑，可能来自古法语'raser'(刮)+后缀-er，暗示'薄如刮削的片'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "熏肉薄片",
+        "examples": [
+          {
+            "sentence": "The chef arranged two rashers of bacon like rose petals on the avocado toast.",
+            "sentence_zh": "厨师将两片培根像玫瑰花瓣般摆放在牛油果吐司上。"
+          },
+          {
+            "sentence": "A proper English breakfast must include golden rashers with crispy edges.",
+            "sentence_zh": "地道的英式早餐必须包含边缘酥脆的金黄熏肉片。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "a rasher of bacon",
+        "meaning": "一份培根片",
+        "examples": [
+          {
+            "sentence": "He ordered a rasher of bacon shaped like Darth Vader at the novelty diner.",
+            "sentence_zh": "他在主题餐厅点了一份达斯·维德造型的培根片。"
+          }
+        ]
+      }
+    ],
+    "teach": "rasher其实是'肉肉切片师'的杰作🥓！16世纪伦敦屠夫用'rash'(急速的)形容快速切肉动作⚡，后来演变为薄片计量单位。要说'培根自由'用'bacon heaven'，'煎到完美'叫crispy-to-flabby ratio（酥软黄金比）。记住：当阳光透过rasher时，你的早餐在发光✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热舌儿'→热腾腾的肉片烫舌头",
+        "易混词对比：rasher(薄片) vs rasper(粗锉刀)"
+      ]
+    }
+  },
+  {
+    "word": "rashly",
+    "etymology": {
+      "breakdown": [
+        "rash",
+        "ly"
+      ],
+      "meaning_connection": "rash（草率的）+ -ly（副词后缀）→ 像被荨麻扎到一样匆忙行事"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "轻率地",
+        "examples": [
+          {
+            "sentence": "He rashly bought 100 mystery boxes from a livestreamer and got 99 rubber ducks.",
+            "sentence_zh": "他轻率地从主播那里买了100个盲盒，结果开出99只橡皮鸭。"
+          },
+          {
+            "sentence": "Don't rashly promise to finish all spicy hotpot like I did last time.",
+            "sentence_zh": "别像我上次那样轻率承诺能吃完整个麻辣火锅。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "act rashly",
+        "meaning": "贸然行动",
+        "examples": [
+          {
+            "sentence": "Investors who acted rashly during the bitcoin surge regretted later.",
+            "sentence_zh": "比特币暴涨时贸然行动的投资者后来都后悔了。"
+          }
+        ]
+      }
+    ],
+    "teach": "rashly是'莽夫行为'🚁：词源里的rash本指荨麻（碰了会红肿），形容像被荨麻扎到一样慌不择路🤦。说'冲动消费'叫spur-of-the-moment purchase（当场脑子一热），'三思而行'的地道表达是look before you leap🐸。记住：每个双十一的深夜下单都是rashly行为清单！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来势ly'→来势汹汹却轻率",
+        "对比记忆：hasty（匆忙的）≠ hastily（匆忙地）≠ rashly（轻率地）"
+      ]
+    }
   }
 ]

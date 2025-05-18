@@ -12270,5 +12270,324 @@
         "易混词对比：ironic(讽刺的) VS paradoxical(矛盾的)"
       ]
     }
+  },
+  {
+    "word": "paradoxically",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "dox",
+        "ical",
+        "ly"
+      ],
+      "meaning_connection": "前缀para-表示'对抗'，词根dox表示'观点'，-ical为形容词后缀，-ly副词后缀→原指'与主流观点对抗的'，引申出矛盾的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "自相矛盾地",
+        "examples": [
+          {
+            "sentence": "Paradoxically, the more choices we have, the less satisfied we become.",
+            "sentence_zh": "矛盾的是，选择越多我们反而越不满意。"
+          },
+          {
+            "sentence": "He paradoxically gained weight while training for marathon.",
+            "sentence_zh": "他在马拉松训练期间体重反而增加了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "似非而可能是",
+        "examples": [
+          {
+            "sentence": "Paradoxically, the forbidden fruit tastes the sweetest.",
+            "sentence_zh": "看似荒谬实则有理：禁果最甜。"
+          },
+          {
+            "sentence": "The medicine works paradoxically - it cures by causing mild symptoms.",
+            "sentence_zh": "这种药的原理似非而是：通过引发轻微症状来治愈疾病。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "speak paradoxically",
+        "meaning": "说自相矛盾的话",
+        "examples": [
+          {
+            "sentence": "The philosopher loved to speak paradoxically to provoke thoughts.",
+            "sentence_zh": "这位哲学家总爱说些矛盾的话来引发思考。"
+          }
+        ]
+      }
+    ],
+    "teach": "paradoxically是个哲学级吐槽词💭！就像'熬夜养生'或'减肥吃炸鸡'这种神逻辑🍗☯️。古希腊人用para(对抗)+dox(观点)造词时，绝对没想到今天用来形容'真香定律'。搭配'seem paradoxically'（看起来矛盾）和'act paradoxically'（行为矛盾），吐槽时可说'That's so meta!'（这简直自指到极致了）🤯💫🔄",
+    "recite": {
+      "tips": [
+        "谐音梗：'派来个倒可惜了'→派来个自相矛盾的人",
+        "对比记忆：paradox（悖论n.）→paradoxically（adv.）",
+        "画面联想：左手画圆右手画方的武林绝技"
+      ]
+    }
+  },
+  {
+    "word": "paraffin",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "ffin"
+      ],
+      "meaning_connection": "前缀para-表示'旁边'或'类似'（来自希腊语），词尾ffin可能来自拉丁语affinis（相关）→描述其化学性质接近但不完全相同的烃类物质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "石蜡",
+        "examples": [
+          {
+            "sentence": "Grandma's hands smelled like paraffin from sealing homemade jam jars.",
+            "sentence_zh": "奶奶手上的石蜡气味来自密封自制果酱罐。"
+          },
+          {
+            "sentence": "The Olympic torch fuel contains special purified paraffin.",
+            "sentence_zh": "奥运火炬燃料含有特制提纯石蜡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "石蜡烃",
+        "examples": [
+          {
+            "sentence": "Liquid paraffin hydrocarbons are used in rocket propellants.",
+            "sentence_zh": "液态石蜡烃被用于火箭推进剂。"
+          },
+          {
+            "sentence": "This candle uses plant-based paraffin alternatives.",
+            "sentence_zh": "这款蜡烛使用植物基石蜡烃替代品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paraffin wax",
+        "meaning": "石蜡",
+        "examples": [
+          {
+            "sentence": "Paraffin wax treatments make your hands smoother than a baby's bottom.",
+            "sentence_zh": "石蜡手部护理能让双手比婴儿屁股还光滑。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "paraffin oil",
+        "meaning": "石蜡油",
+        "examples": [
+          {
+            "sentence": "The magician's 'fire-eating' trick actually uses paraffin oil.",
+            "sentence_zh": "魔术师的'吞火'把戏其实用的是石蜡油。"
+          }
+        ]
+      }
+    ],
+    "teach": "石蜡(paraffin)是'怕热分子'🔥：加热就流泪（融化）的蜡烛💧，像极了打工人面对KPI时的状态😭。美容院说'做石蜡护理'叫paraffin spa，就像给手部泡芝士火锅🧀。记住：石蜡的三大存在形式——蜡烛里装文艺🎭、实验室里装高冷🥼、快递箱里当暖男📦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕热分'→石蜡怕热就分解",
+        "易混词：wax（泛指蜡）vs paraffin（特指石蜡）"
+      ]
+    }
+  },
+  {
+    "word": "paragon",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "gon"
+      ],
+      "meaning_connection": "前缀para-表示'超越'，词根gon来自希腊语'akón'（磨刀石）→原指用于测试金属纯度的标准石块，引申为'完美典范'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "杰出典范",
+        "examples": [
+          {
+            "sentence": "Zhang Guimei is considered a paragon of rural education reformers.",
+            "sentence_zh": "张桂梅被视为乡村教育改革者的杰出典范。"
+          },
+          {
+            "sentence": "The Forbidden City stands as a paragon of ancient Chinese architecture.",
+            "sentence_zh": "紫禁城是古代中国建筑的杰出典范。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "完人",
+        "examples": [
+          {
+            "sentence": "No historical figure is truly a paragon—even Confucius had flaws.",
+            "sentence_zh": "历史上没有真正的完人，即使孔子也有缺点。"
+          },
+          {
+            "sentence": "In fairy tales, the prince is always portrayed as a paragon of virtue.",
+            "sentence_zh": "童话故事里的王子总是被描绘成道德完人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "完美之物",
+        "examples": [
+          {
+            "sentence": "This jade carving is a paragon of Qing Dynasty craftsmanship.",
+            "sentence_zh": "这件玉雕是清代工艺的完美之物。"
+          },
+          {
+            "sentence": "The crispy duck skin was a paragon of culinary perfection.",
+            "sentence_zh": "酥脆的鸭皮堪称烹饪艺术的完美之物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paragon of virtue",
+        "meaning": "道德楷模",
+        "examples": [
+          {
+            "sentence": "In Chinese operas, the red-face character often represents a paragon of virtue.",
+            "sentence_zh": "戏曲中的红脸角色常代表道德楷模。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "paragon diamond",
+        "meaning": "完美钻石",
+        "examples": [
+          {
+            "sentence": "The museum displayed a paragon diamond that reflected rainbow lights.",
+            "sentence_zh": "博物馆展出的完美钻石折射出彩虹般的光芒。"
+          }
+        ]
+      }
+    ],
+    "teach": "paragon其实是'怕拉弓'🏹！古代用它指试金石（超硬磨刀石），就像现在用钻石💎划玻璃测试硬度。要说'完美人设崩塌'地道说法是feet of clay（泥巴脚），'立人设'叫pose as a paragon就像美颜相机📸。记住：真正的paragon都像重庆火锅——敢露原形才够味！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕拉弓'→测试金属时怕拉弓射偏",
+        "对比记忆：paradigm（范式）与paragon（典范）",
+        "联想：Para（超越）+gon（金刚石）→超越金刚石的完美"
+      ]
+    }
+  },
+  {
+    "word": "paragraph",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "graph"
+      ],
+      "meaning_connection": "前缀para=旁侧（如parallel平行），graph=书写→原指在正文旁写的标记，后演变成独立段落"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "段落",
+        "examples": [
+          {
+            "sentence": "This five-paragraph essay made the teacher want to cry.",
+            "sentence_zh": "这篇五段式作文让老师想哭。"
+          },
+          {
+            "sentence": "Twitter now allows 280-character paragraphs.",
+            "sentence_zh": "推特现在允许280字符的段落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "短评",
+        "examples": [
+          {
+            "sentence": "The editor added a witty paragraph about dumpling inflation.",
+            "sentence_zh": "编辑加了段关于饺子涨价的幽默短评。"
+          },
+          {
+            "sentence": "Her Weibo paragraph on stray cats went viral.",
+            "sentence_zh": "她关于流浪猫的微博短评火了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "将...分段",
+        "examples": [
+          {
+            "sentence": "AI can paragraph your messy notes automatically.",
+            "sentence_zh": "AI能自动给你的凌乱笔记分段。"
+          },
+          {
+            "sentence": "She paragraphd the contract like slicing a cake.",
+            "sentence_zh": "她像切蛋糕般给合同分段落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "写短讯",
+        "examples": [
+          {
+            "sentence": "Journalists paragraph while chasing breaking news.",
+            "sentence_zh": "记者追突发新闻时边跑边写短讯。"
+          },
+          {
+            "sentence": "He paragraphs faster than typing full articles.",
+            "sentence_zh": "他写短讯比打完整文章还快。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "new paragraph",
+        "meaning": "另起一段",
+        "examples": [
+          {
+            "sentence": "Press Enter twice to start a new paragraph.",
+            "sentence_zh": "按两次回车另起一段。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "opening paragraph",
+        "meaning": "开头段落",
+        "examples": [
+          {
+            "sentence": "The opening paragraph must hook readers like TikTok videos.",
+            "sentence_zh": "开头段落必须像抖音视频一样吸引读者。"
+          }
+        ]
+      }
+    ],
+    "teach": "paragraph其实是'旁写'史📜：古希腊人在卷轴旁(graph)做批注(para)，就像弹幕💬！现代'分段'像切香肠🌭，'短评'像发朋友圈📱。记住：'太长不看'叫TLDR（Too Long Didn't Read），'神评论'叫mic drop paragraph🎤💥。写paragraph要像火锅涮肉——薄才入味！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派拉瓜'→派拉蒙(para)的西瓜(graph)要分段吃",
+        "易混词：passage（通道/篇章）vs paragraph（段落）"
+      ]
+    }
   }
 ]

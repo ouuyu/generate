@@ -12319,5 +12319,347 @@
         "记忆法：V字形手势✌️代表verb的两个核心——动作和状态"
       ]
     }
+  },
+  {
+    "word": "verbal",
+    "etymology": {
+      "breakdown": [
+        "verb",
+        "al"
+      ],
+      "meaning_connection": "词根verb=词语/动词，后缀-al表性质→与词语相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "用言辞的",
+        "examples": [
+          {
+            "sentence": "His verbal description of pandas made everyone hungry for bamboo.",
+            "sentence_zh": "他对熊猫的言辞描述让大家都想吃竹子了。"
+          },
+          {
+            "sentence": "The AI's verbal output sounds more human than some of my colleagues.",
+            "sentence_zh": "这个AI的言辞输出比我某些同事还像人类。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "口头的",
+        "examples": [
+          {
+            "sentence": "We made a verbal agreement to split the hotpot broth 50-50.",
+            "sentence_zh": "我们口头约定鸳鸯锅底五五分。"
+          },
+          {
+            "sentence": "Chinese parents often give verbal warnings before taking out the bamboo stick.",
+            "sentence_zh": "中国家长在抽出竹条前通常会先给口头警告。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "逐字的",
+        "examples": [
+          {
+            "sentence": "The translator provided a verbal transcript of the ancient poem.",
+            "sentence_zh": "翻译员提供了这首古诗的逐字记录。"
+          },
+          {
+            "sentence": "Memorizing verbal sequences is key to learning Peking opera.",
+            "sentence_zh": "记忆逐字唱段是学习京剧的关键。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "动词的",
+        "examples": [
+          {
+            "sentence": "The verbal suffix '-ize' can turn nouns into action words.",
+            "sentence_zh": "动词后缀'-ize'能把名词变成动作词。"
+          },
+          {
+            "sentence": "In Chinese grammar, verbal classifiers are used differently.",
+            "sentence_zh": "汉语语法中动词量词用法很特别。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "verbal abuse",
+        "meaning": "言语辱骂",
+        "examples": [
+          {
+            "sentence": "Online verbal abuse can be as harmful as physical violence.",
+            "sentence_zh": "网络言语辱骂可能和肢体暴力同样有害。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "verbal noun",
+        "meaning": "动名词",
+        "examples": [
+          {
+            "sentence": "'Swimming' in 'Swimming pool' is a classic verbal noun.",
+            "sentence_zh": "'游泳池'里的'游泳'是典型的动名词。"
+          }
+        ]
+      }
+    ],
+    "teach": "verbal就像语言界的变形金刚🤖！当表示'口头'时，像大妈砍价时的滔滔不绝🗣️（verbal negotiation）；表示'逐字'时，像强迫症患者校对合同✍️（verbal accuracy）；表示'动词'时，像英语老师手里的红笔圈重点🔴（verbal forms）。记住：'verbal contract'还不如微信聊天记录靠谱！💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'我掰揉'→我掰揉(verbal)面团还要动嘴指导",
+        "易混词：oral侧重发声器官，verbal侧重语言内容"
+      ]
+    }
+  },
+  {
+    "word": "verbally",
+    "etymology": {
+      "breakdown": [
+        "verb",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根verb=言语，-al表形容词，-ly表副词→用言语表达地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "口头地",
+        "examples": [
+          {
+            "sentence": "The teacher verbally praised the student's creative answer.",
+            "sentence_zh": "老师口头表扬了学生富有创意的回答。"
+          },
+          {
+            "sentence": "We confirmed our dinner plans verbally without texting.",
+            "sentence_zh": "我们口头确认了晚餐计划而没有发短信。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非书面地",
+        "examples": [
+          {
+            "sentence": "The agreement was made verbally over bubble tea.",
+            "sentence_zh": "这份协议是在喝奶茶时口头达成的。"
+          },
+          {
+            "sentence": "Ancient stories were often transmitted verbally through generations.",
+            "sentence_zh": "古老的故事常以口述方式代代相传。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "verbally communicate",
+        "meaning": "口头交流",
+        "examples": [
+          {
+            "sentence": "Pandas mainly communicate verbally through distinctive bleats.",
+            "sentence_zh": "大熊猫主要通过独特的叫声进行口头交流。"
+          }
+        ]
+      }
+    ],
+    "teach": "verbally是'嘴强王者'🗣️：从拉丁语verbum(词语)演变而来，就像微信语音对讲机🎤。记住：口头承诺叫verbal promise（小心翻车⚠️），'书面+口头'要说in writing and verbally，吵架时甩出'I told you verbally!'比聊天记录更有杀伤力💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'我掰了理'→口头掰扯道理",
+        "对比记忆：verbal（形容词）vs verbally（副词）"
+      ]
+    }
+  },
+  {
+    "word": "verbatim",
+    "etymology": {
+      "breakdown": [
+        "verb",
+        "atim"
+      ],
+      "meaning_connection": "词根verb=词语/说话，后缀-atim表方式→原指'按原话的方式'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "逐字的",
+        "examples": [
+          {
+            "sentence": "The court reporter kept a verbatim record of the trial.",
+            "sentence_zh": "法庭书记员逐字记录了审判过程。"
+          },
+          {
+            "sentence": "WeChat's voice-to-text feature isn't verbatim transcription.",
+            "sentence_zh": "微信的语音转文字功能并非逐字转录。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "照字面的",
+        "examples": [
+          {
+            "sentence": "A verbatim interpretation of ancient poems may lose their beauty.",
+            "sentence_zh": "对古诗照字面解释可能会丧失其美感。"
+          },
+          {
+            "sentence": "The AI's verbatim translation turned 'raining cats and dogs' into literal animal downpour.",
+            "sentence_zh": "AI的照字面翻译把'倾盆大雨'直译成了动物雨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "逐字地",
+        "examples": [
+          {
+            "sentence": "The celebrity sued the media for quoting him verbatim out of context.",
+            "sentence_zh": "该明星起诉媒体断章取义地逐字引用他的话。"
+          },
+          {
+            "sentence": "Buddhist monks used to memorize sutras verbatim before printing was invented.",
+            "sentence_zh": "印刷术发明前，僧侣需要逐字背诵佛经。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "verbatim quote",
+        "meaning": "一字不差的引用",
+        "examples": [
+          {
+            "sentence": "The Weibo post contained verbatim quotes from the leaked document.",
+            "sentence_zh": "这条微博包含泄密文件的一字不差的引用。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "repeat verbatim",
+        "meaning": "原样复述",
+        "examples": [
+          {
+            "sentence": "The toddler repeated the naughty word verbatim after hearing it once.",
+            "sentence_zh": "这个幼童只听了一次就原样复述了那个脏话。"
+          }
+        ]
+      }
+    ],
+    "teach": "verbatim是文字界的复印机🖨️！拉丁语中verb就是'词语'，古代文士誊写经卷必须verbatim（像抄写'子曰'📜）。但要注意：把情书verbatim转发给新对象会翻车💔（这叫copy-paste disaster）。说'完全照搬'可以用to the letter✍️，'灵活处理'叫adaptation🎭。记住：考试时verbatim抄课文会被抓，但背古诗必须verbatim！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我背题目'→考试时verbatim默写答案",
+        "对比记忆：literal（字面的）侧重含义，verbatim侧重形式",
+        "联想：verb（动词）+ at + him → 对着他逐字说动词"
+      ]
+    }
+  },
+  {
+    "word": "verbiage",
+    "etymology": {
+      "breakdown": [
+        "verb",
+        "iage"
+      ],
+      "meaning_connection": "词根verb=词语，后缀-iage表集合→词语的堆砌"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "冗词",
+        "examples": [
+          {
+            "sentence": "The contract's verbiage made even lawyers yawn.",
+            "sentence_zh": "合同的冗长措辞让律师都打哈欠。"
+          },
+          {
+            "sentence": "Her essay was 90% verbiage and 10% substance.",
+            "sentence_zh": "她的论文九成是废话，一成是干货。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "措辞",
+        "examples": [
+          {
+            "sentence": "Diplomatic verbiage saved face for both nations.",
+            "sentence_zh": "外交辞令保全了双方颜面。"
+          },
+          {
+            "sentence": "The CEO's verbiage about 'synergy' fooled no one.",
+            "sentence_zh": "CEO关于'协同效应'的漂亮话骗不了人。"
+          }
+        ]
+      }
+    ],
+    "teach": "verbiage是文字界的泡沫奶茶🧋——全是珍珠(废话)没茶底(实质)! 英国议会曾用30页verbiage讨论'茶歇时间'☕️。搭配'cut the verbiage'(说重点)和'flowery verbiage'(华丽辞藻)，吐槽废话可以说'That's just verbal salad'🥗。记住：重要的事情说三点，不重要的说三页！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我逼急'→领导被我逼急了才删废话",
+        "易混词：verbose(adj.啰嗦的) / vocabulary(词汇量)",
+        "记忆tip：verb(词)+age(年纪)→老古董才爱说车轱辘话"
+      ]
+    }
+  },
+  {
+    "word": "verbose",
+    "etymology": {
+      "breakdown": [
+        "verb",
+        "ose"
+      ],
+      "meaning_connection": "词根verb=词语/说话，后缀-ose=充满...的→充满词语的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "用字多的",
+        "examples": [
+          {
+            "sentence": "The professor's verbose lecture made students check their phones every 3 minutes.",
+            "sentence_zh": "教授冗长的讲课让学生每三分钟就看一次手机。"
+          },
+          {
+            "sentence": "Her WeChat posts are so verbose they need a 'read more' button.",
+            "sentence_zh": "她的朋友圈长文啰嗦到需要'展开全文'按钮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "累赘的",
+        "examples": [
+          {
+            "sentence": "The instruction manual is verbose with unnecessary safety warnings.",
+            "sentence_zh": "这份说明书用不必要的安全警告显得累赘。"
+          },
+          {
+            "sentence": "Avoid verbose translations like 'the moon that is bright' for 明月.",
+            "sentence_zh": "避免将'明月'啰嗦地翻译成'the moon that is bright'。"
+          }
+        ]
+      }
+    ],
+    "teach": "verbose是'话痨级'形容词💬！古罗马人用verbum表示'词语'，现代程序员吐槽'详述模式'就像唐僧念经🐒。搭配：verbose speaker（话痨演讲者）、verbose style（裹脚布文风）。地道说法：'long-winded'比verbose更口语化，比如'His stories are long-winded like a Tibetan epic'（他的故事长得像《格萨尔王传》）。记住：简洁是智慧的灵魂🧠，除非你在凑论文字数📜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我饱死'→听verbose报告听到撑",
+        "易混词：concise（简洁的）是verbose的反义词",
+        "视觉联想：想象一个人说话喷出大量字母🔠"
+      ]
+    }
   }
 ]

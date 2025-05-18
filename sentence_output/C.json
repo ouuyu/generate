@@ -11610,5 +11610,352 @@
         "易混词：canning(制造) vs canned(已罐装的)"
       ]
     }
+  },
+  {
+    "word": "cannon",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自意大利语'cannone'(大管子)，模仿炮弹发射的轰鸣声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大炮",
+        "examples": [
+          {
+            "sentence": "The Terracotta Army's cannon replicas still look menacing after 2000 years.",
+            "sentence_zh": "兵马俑的陶制大炮复制品历经两千年仍显狰狞。"
+          },
+          {
+            "sentence": "Pirates in the South China Sea often mounted cannons on their junks.",
+            "sentence_zh": "南海海盗常在帆船上架设大炮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "加农炮",
+        "examples": [
+          {
+            "sentence": "The museum displays a Ming Dynasty bronze cannon with dragon engravings.",
+            "sentence_zh": "博物馆展出一门刻有龙纹的明代青铜加农炮。"
+          },
+          {
+            "sentence": "Modern naval cannons can precisely hit targets 30km away.",
+            "sentence_zh": "现代舰载加农炮能精准击中30公里外目标。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "炮轰",
+        "examples": [
+          {
+            "sentence": "Netizens cannoned the celebrity's Weibo with angry comments.",
+            "sentence_zh": "网友用愤怒评论炮轰该明星的微博。"
+          },
+          {
+            "sentence": "During Spring Festival, fireworks cannoned the sky all night long.",
+            "sentence_zh": "春节期间，烟花整夜炮轰着夜空。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cannon fodder",
+        "meaning": "炮灰",
+        "examples": [
+          {
+            "sentence": "Interns are sometimes treated as cannon fodder in tech companies.",
+            "sentence_zh": "实习生有时在科技公司被当作炮灰。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "loose cannon",
+        "meaning": "难以控制的人/事",
+        "examples": [
+          {
+            "sentence": "That livestream host is a loose cannon who often says shocking things.",
+            "sentence_zh": "那个主播是个口无遮拦的危险分子。"
+          }
+        ]
+      }
+    ],
+    "teach": "cannon是战场上的重金属乐队🎸！加农炮开火时会发出'砰！轰！'(cannon拟声)的声音💥。说人'乱开炮'叫go off like a cannon，'当炮灰'是cannon fodder(字面意思：大炮饲料)🐄。记住：现代人用键盘当cannon，表情包就是弹药库💣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开弄'→开弄(cannon)大炮",
+        "易混词：canon（教规）vs cannon（大炮）",
+        "记忆术：两个n像并列的炮管"
+      ]
+    }
+  },
+  {
+    "word": "cannonball",
+    "etymology": {
+      "breakdown": [
+        "cannon",
+        "ball"
+      ],
+      "meaning_connection": "cannon(大炮) + ball(球)→大炮发射的球形弹丸，16世纪起指代实心铁弹"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "炮弹",
+        "examples": [
+          {
+            "sentence": "Pirates in the Caribbean often used chain-linked cannonballs to destroy enemy sails.",
+            "sentence_zh": "加勒比海盗常用铁链连接的炮弹破坏敌船帆索。"
+          },
+          {
+            "sentence": "The museum displays a 200kg cannonball from the Opium War.",
+            "sentence_zh": "博物馆陈列着鸦片战争时期的重达200公斤的炮弹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cannonball run",
+        "meaning": "极速驾驶（源自同名飙车电影）",
+        "examples": [
+          {
+            "sentence": "Delivery drivers sometimes joke about doing a cannonball run with hotpot orders.",
+            "sentence_zh": "外卖小哥常开玩笑说要带着火锅订单上演'炮弹飞车'。"
+          }
+        ]
+      },
+      {
+        "type": "idiom",
+        "form": "like a cannonball",
+        "meaning": "势不可挡地",
+        "examples": [
+          {
+            "sentence": "The new game app spread through campus like a cannonball.",
+            "sentence_zh": "这款新游戏像炮弹般在校园迅速传播。"
+          }
+        ]
+      }
+    ],
+    "teach": "cannonball是古代微信'炸群'💥！实心铁球炮弹能打穿三层木船🚢，现在游泳池的'炮弹式入水'（cannonball dive）就像表情包💦。说'飞速前进'可用barrel like a cannonball（像炮弹般冲刺），吐槽'莽撞的人'叫human cannonball（人肉炮弹）🤯 记住：这单词自带BGM是'轰轰轰'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开脓包'→炮弹开了就是脓包爆炸",
+        "易混词：bullet(子弹)/shell(炮弹壳)",
+        "记忆tip：想象愤怒的小鸟🐦➔古代版就是cannonball"
+      ]
+    }
+  },
+  {
+    "word": "cannula",
+    "etymology": {
+      "breakdown": [
+        "cann",
+        "ula"
+      ],
+      "meaning_connection": "词根cann=芦苇/管子（拉丁语canna），-ula表小称后缀→字面意思'小管子'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "套管",
+        "examples": [
+          {
+            "sentence": "The butterfly cannula is nicknamed 'baby needle' for its thin size.",
+            "sentence_zh": "蝶形套管因纤细被戏称为'宝宝针'。"
+          },
+          {
+            "sentence": "During liposuction, doctors use cannulas like tiny vacuum tubes.",
+            "sentence_zh": "吸脂手术中医生使用套管像微型吸管。"
+          }
+        ]
+      }
+    ],
+    "teach": "cannula其实是古代芦管🎋的现代版！古罗马医生用空心芦苇抽脓血，如今不锈钢套管进化成'人体吸管'🥤。搭配'insert a cannula'（插管）像奶茶插吸管，'remove cannula'（拔管）像喝完珍珠奶茶最后那声'嗖——'🍹。医疗剧里常说'IV cannula'（静脉套管），但别学《实习医生格蕾》乱飙术语哦🏥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看怒了'→看到套管(cannula)就怒了的晕针患者",
+        "易混词：vs. catheter（导管）更粗更长",
+        "联想：cannula=cann（管）+ula（小）→迷你管"
+      ]
+    }
+  },
+  {
+    "word": "canny",
+    "etymology": {
+      "breakdown": [
+        "can",
+        "ny"
+      ],
+      "meaning_connection": "词源与古英语'cunnan'（知道）相关，后缀-ny表性质→原指'知道如何做的'，引申出精明与节俭的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "精明的",
+        "examples": [
+          {
+            "sentence": "The canny merchant doubled his fortune during the pandemic by selling face masks.",
+            "sentence_zh": "这位精明的商人在疫情期间靠卖口罩让财产翻倍。"
+          },
+          {
+            "sentence": "Her canny investments in Bitcoin made her the envy of all her friends.",
+            "sentence_zh": "她对比特币的精明投资让所有朋友都眼红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "谨慎的",
+        "examples": [
+          {
+            "sentence": "He's always canny about sharing personal information online.",
+            "sentence_zh": "他对于在网上分享个人信息总是很谨慎。"
+          },
+          {
+            "sentence": "The canny traveler always checks reviews before booking a hotel.",
+            "sentence_zh": "这位谨慎的旅行者在预订酒店前总会查看评论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "节约的",
+        "examples": [
+          {
+            "sentence": "My canny grandma can make a week's worth of meals from one chicken.",
+            "sentence_zh": "我节俭的奶奶能用一只鸡做出够吃一周的饭菜。"
+          },
+          {
+            "sentence": "Being canny with electricity bills, he replaced all bulbs with LED lights.",
+            "sentence_zh": "为了节约电费，他把所有灯泡都换成了LED灯。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "canny investor",
+        "meaning": "精明的投资者",
+        "examples": [
+          {
+            "sentence": "Warren Buffett is the epitome of a canny investor.",
+            "sentence_zh": "沃伦·巴菲特是精明投资者的典范。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "canny shopper",
+        "meaning": "精明的购物者",
+        "examples": [
+          {
+            "sentence": "Canny shoppers wait for Double 11 sales to buy electronics.",
+            "sentence_zh": "精明的购物者会等到双十一才购买电子产品。"
+          }
+        ]
+      }
+    ],
+    "teach": "canny就像广东阿婆买菜🧓：讲价时精明如诸葛亮📊（canny bargainer），数钱时谨慎像会计💵（canny with money），存钱时节俭胜松鼠囤坚果🐿️（canny saver）。说'精打细算'可以叫penny-wise，夸人'会过日子'就说canny as a Scot（苏格兰人以节俭著称）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看你'→老板'看你'这么canny就加薪",
+        "易混词对比：canny（精明）vs. uncanny（离奇的）"
+      ]
+    }
+  },
+  {
+    "word": "canoe",
+    "etymology": {
+      "breakdown": [
+        "canoe"
+      ],
+      "meaning_connection": "源自加勒比海地区原住民语言，通过西班牙语传入英语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "独木舟",
+        "examples": [
+          {
+            "sentence": "The indigenous people carved a canoe from a single tree trunk.",
+            "sentence_zh": "原住民用整棵树干雕刻出独木舟。"
+          },
+          {
+            "sentence": "We rented a red canoe to explore the Li River.",
+            "sentence_zh": "我们租了红色独木舟游览漓江。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "轻舟",
+        "examples": [
+          {
+            "sentence": "The moonlight reflected on her canoe like liquid silver.",
+            "sentence_zh": "月光在她轻舟上流淌如水银。"
+          },
+          {
+            "sentence": "His fishing canoe rocked gently in the morning mist.",
+            "sentence_zh": "他的捕鱼轻舟在晨雾中微微摇晃。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "乘独木舟",
+        "examples": [
+          {
+            "sentence": "We'll canoe through the Three Gorges this weekend.",
+            "sentence_zh": "本周末我们将乘独木舟穿越三峡。"
+          },
+          {
+            "sentence": "They canoed across the lake to see the sunrise.",
+            "sentence_zh": "他们划独木舟过湖看日出。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用独木舟运",
+        "examples": [
+          {
+            "sentence": "The villagers canoed fresh coconuts to the market.",
+            "sentence_zh": "村民用独木舟运送新鲜椰子去集市。"
+          },
+          {
+            "sentence": "We canoed our camping gear to the island.",
+            "sentence_zh": "我们用独木舟把露营装备运到岛上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paddle one's own canoe",
+        "meaning": "自力更生",
+        "examples": [
+          {
+            "sentence": "After graduation, he decided to paddle his own canoe in Beijing.",
+            "sentence_zh": "毕业后他决定在北京自力更生。"
+          }
+        ]
+      }
+    ],
+    "teach": "canoe是远古版滴滴快艇🛶！独木舟最早是原住民的'水上出租车'🚖，现在变成网红打卡项目📸。'用独木舟运'就像快递小哥划船送货📦，'paddle one's own canoe'更成为'北漂奋斗'的经典比喻🌊。记住：当代canoe=公园划船+发朋友圈⛵️",
+    "recite": {
+      "tips": [
+        "谐音梗：'可怒'→独木舟翻了可愤怒",
+        "易混词对比：canoe(独木舟) vs. kayak(爱斯基摩皮艇)"
+      ]
+    }
   }
 ]

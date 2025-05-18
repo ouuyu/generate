@@ -12150,5 +12150,344 @@
         "记忆tip：cid词根家族三兄弟：accident（意外），incident（事件），coincidence（巧合）"
       ]
     }
+  },
+  {
+    "word": "accidental",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cid",
+        "ent",
+        "al"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cid表示'落下'(如incident)，-ent为形容词后缀，-al表性质→原指'突然落下的'，引申出意外和附属含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "意外的",
+        "examples": [
+          {
+            "sentence": "My accidental discovery of stinky tofu led to a new addiction.",
+            "sentence_zh": "我意外发现臭豆腐后染上了新嗜好。"
+          },
+          {
+            "sentence": "The accidental shutdown deleted all my unfinished novels.",
+            "sentence_zh": "意外关机删光了我所有未完成的小说。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "偶然的",
+        "examples": [
+          {
+            "sentence": "Their accidental meeting at a hotpot restaurant sparked romance.",
+            "sentence_zh": "他们在火锅店的偶遇擦出了爱情火花。"
+          },
+          {
+            "sentence": "The invention of penicillin was purely accidental.",
+            "sentence_zh": "青霉素的发明纯属偶然。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "非主要的",
+        "examples": [
+          {
+            "sentence": "The color difference is just an accidental feature of this product.",
+            "sentence_zh": "颜色差异只是这款产品的次要特征。"
+          },
+          {
+            "sentence": "In Peking Opera, the beards are accidental to the character's identity.",
+            "sentence_zh": "在京剧中，胡须对角色身份而言是非主要的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "附属的",
+        "examples": [
+          {
+            "sentence": "The accidental damages are not covered by this insurance.",
+            "sentence_zh": "附属损害不在该保险范围内。"
+          },
+          {
+            "sentence": "These clauses are accidental to the main contract.",
+            "sentence_zh": "这些条款是主合同的附属部分。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "临时记号",
+        "examples": [
+          {
+            "sentence": "The sharp accidental changed the entire melody.",
+            "sentence_zh": "这个临时升记号改变了整段旋律。"
+          },
+          {
+            "sentence": "Beginner guzheng players often forget to play accidentals.",
+            "sentence_zh": "古筝初学者常忘记弹奏临时记号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "次要方面",
+        "examples": [
+          {
+            "sentence": "Focus on the essence, not the accidentals.",
+            "sentence_zh": "关注本质，而非次要方面。"
+          },
+          {
+            "sentence": "In philosophy, accidentals are distinguished from substances.",
+            "sentence_zh": "在哲学中，次要方面与实体相区分。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accidental death",
+        "meaning": "意外死亡",
+        "examples": [
+          {
+            "sentence": "The insurance company investigates every accidental death claim.",
+            "sentence_zh": "保险公司调查每起意外死亡索赔。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accidental tourist",
+        "meaning": "意外滞留的旅客",
+        "examples": [
+          {
+            "sentence": "After missing his flight, he became an accidental tourist in Chengdu for 3 days.",
+            "sentence_zh": "错过航班后，他意外在成都当了三天游客。"
+          }
+        ]
+      }
+    ],
+    "teach": "accidental本质是'天上掉馅饼'🍔！词根cid表示'掉落'，就像被iPhone砸中（accidental injury）是意外，捡到钱是偶然（accidental fortune）。音乐里临时记号就像火锅里的花椒🌶️——意外出现但影响全局。说'纯属意外'用purely accidental，形容'计划外开支'叫accidental cost💰。记住：意外之财要交税！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱稀的馒头'→爱情和馒头都可能是意外(accidental)收获",
+        "易混词对比：incident(事件) / accident(事故) / accidental(偶然的)",
+        "记忆口诀：CID侦探查案，AC开头表意外"
+      ]
+    }
+  },
+  {
+    "word": "accidentally",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cid",
+        "ent",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cid表示'落下'（如incident事件），-ent形容词后缀，-al形容词后缀，-ly副词后缀→像突然掉下来的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "偶然地",
+        "examples": [
+          {
+            "sentence": "I accidentally matched outfits with my boss at the annual meeting.",
+            "sentence_zh": "年会上我和老板意外撞衫了。"
+          },
+          {
+            "sentence": "The scientist accidentally discovered penicillin while studying mold.",
+            "sentence_zh": "科学家研究霉菌时偶然发现了青霉素。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "意外地",
+        "examples": [
+          {
+            "sentence": "She accidentally sent her crush a TikTok about 'signs he likes you'.",
+            "sentence_zh": "她意外给暗恋对象转发了《男生心动信号》的抖音。"
+          },
+          {
+            "sentence": "The livestreamer accidentally revealed his unedited face filter.",
+            "sentence_zh": "主播意外暴露了没开美颜的真实颜值。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accidentally on purpose",
+        "meaning": "故意装无意",
+        "examples": [
+          {
+            "sentence": "He 'accidentally' liked her 3-year-old Weibo post on purpose.",
+            "sentence_zh": "他'手滑'点赞了她三年前的微博。"
+          }
+        ]
+      }
+    ],
+    "teach": "accidentally是人生中的'美丽的错误'🎭！就像牛顿被苹果砸出万有引力🍎（偶然发现），或像你'不小心'清空购物车💸（意外操作）。搭配'accidentally brilliant'形容歪打正着（如五音不全却成网红歌手🎤），说'纯属意外'用purely accidental。记住：人生最精彩的剧情往往写在你没准备的章节里！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱死等他哩'→等真爱时总是意外降临",
+        "易混词：incidentally（顺带提）vs accidentally（意外地）"
+      ]
+    }
+  },
+  {
+    "word": "acclaim",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "claim"
+      ],
+      "meaning_connection": "前缀ac-表加强，词根claim=呼喊→大声呼喊即为喝彩"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "喝彩",
+        "examples": [
+          {
+            "sentence": "The Peking Opera performance received thunderous acclaim from foreign visitors.",
+            "sentence_zh": "京剧表演获得外国游客雷鸣般的喝彩。"
+          },
+          {
+            "sentence": "Douyin dancers basked in the acclaim of 100,000 live viewers.",
+            "sentence_zh": "抖音舞者享受着十万直播间观众的喝彩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赞同",
+        "examples": [
+          {
+            "sentence": "The new emoji designs won universal acclaim.",
+            "sentence_zh": "新表情包设计获得普遍赞同。"
+          },
+          {
+            "sentence": "His hotpot dipping sauce recipe met with critical acclaim.",
+            "sentence_zh": "他的火锅蘸料配方获得专业美食家的赞同。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "称赞",
+        "examples": [
+          {
+            "sentence": "Netizens acclaimed the blind masseur's live-streaming piano skills.",
+            "sentence_zh": "网友盛赞盲人按摩师的直播钢琴技艺。"
+          },
+          {
+            "sentence": "CCTV acclaimed the successful launch of the new space station module.",
+            "sentence_zh": "央视称赞新空间站舱段的成功发射。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "international acclaim",
+        "meaning": "国际赞誉",
+        "examples": [
+          {
+            "sentence": "Wuxia novels by Jin Yong enjoy international acclaim.",
+            "sentence_zh": "金庸武侠小说享有国际赞誉。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "acclaim as",
+        "meaning": "誉为",
+        "examples": [
+          {
+            "sentence": "Li Ziqi was acclaimed as the most influential content creator.",
+            "sentence_zh": "李子柒被誉为最具影响力的内容创作者。"
+          }
+        ]
+      }
+    ],
+    "teach": "acclaim本质是'爱的夸夸'💕！古罗马剧院里观众大喊'ad+clamare'(加强+喊)就是最早的弹幕文化📜。要说'全网吹爆'可以用universal acclaim（像蜜雪冰城主题曲的传播度🎶），'口碑炸裂'叫critical acclaim（如同《觉醒年代》的豆瓣评分⭐）。记住：疯狂打call时你就在acclaim！",
+    "recite": {
+      "tips": [
+        "谐音梗：'A可泪目'→获得称赞A可泪目",
+        "易混词对比：claim（声称）需要证据，acclaim（称赞）只需要热情"
+      ]
+    }
+  },
+  {
+    "word": "acclaimed",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "claim"
+      ],
+      "meaning_connection": "前缀ac-表示'加强'，词根claim源自拉丁语clamare（呼喊）→ 字面意思是'大声呼喊'，引申为'欢呼'和'受赞誉'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "欢呼（acclaim的过去式及过去分词）",
+        "examples": [
+          {
+            "sentence": "The audience acclaimed the magician's disappearing pandas trick.",
+            "sentence_zh": "观众为魔术师消失的熊猫戏法欢呼。"
+          },
+          {
+            "sentence": "Netizens acclaimed the comeback of the childhood snack White Rabbit candy.",
+            "sentence_zh": "网友为童年零食大白兔奶糖的回归欢呼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "受到赞扬的",
+        "examples": [
+          {
+            "sentence": "The acclaimed hotpot chain finally opened near my office.",
+            "sentence_zh": "这家备受赞誉的火锅连锁终于在我公司附近开业了。"
+          },
+          {
+            "sentence": "Her acclaimed documentary exposed the truth about bubble tea addiction.",
+            "sentence_zh": "她备受好评的纪录片揭露了奶茶成瘾的真相。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "internationally acclaimed",
+        "meaning": "国际知名的",
+        "examples": [
+          {
+            "sentence": "The internationally acclaimed douyin influencer started selling spicy strips.",
+            "sentence_zh": "这位国际知名的抖音网红开始卖辣条了。"
+          }
+        ]
+      }
+    ],
+    "teach": "acclaimed本质是'被叫好'📣：想象古罗马角斗场观众举手(claim)高喊'牛逼'(ac-)的场景👏。要说'口碑炸裂'用universally acclaimed（像淄博烧烤🍖），'小众精品'说critically acclaimed（像独立电影🎬）。记住：被acclaimed的东西不一定好吃，可能只是拍照好看📸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'可泪目'→好到让人泪目的acclaimed作品",
+        "易混词：claimed（声称）vs acclaimed（受赞誉）",
+        "联想：ACM比赛获奖者被acclaimed"
+      ]
+    }
   }
 ]
