@@ -1087,5 +1087,283 @@
         "记忆tip：冬天车窗结冰(icing)像被蛋糕师恶作剧"
       ]
     }
+  },
+  {
+    "word": "icon",
+    "etymology": {
+      "breakdown": [
+        "icon"
+      ],
+      "meaning_connection": "源自希腊语eikōn，意为'图像'或'相似物'，后进入拉丁语为icon，指宗教画像"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "宗教画像",
+        "examples": [
+          {
+            "sentence": "The golden icon of the Virgin Mary gleamed in the candlelight.",
+            "sentence_zh": "圣母玛利亚的金色圣像在烛光中闪烁。"
+          },
+          {
+            "sentence": "Orthodox churches are filled with elaborate icons.",
+            "sentence_zh": "东正教堂布满精美的圣像画。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "偶像",
+        "examples": [
+          {
+            "sentence": "Bruce Lee remains a cultural icon decades after his death.",
+            "sentence_zh": "李小龙逝世数十年后仍是文化偶像。"
+          },
+          {
+            "sentence": "The pop star became an LGBTQ+ icon overnight.",
+            "sentence_zh": "这位流行歌手一夜成为LGBTQ+群体的偶像。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "图标",
+        "examples": [
+          {
+            "sentence": "Click the shopping cart icon to check out.",
+            "sentence_zh": "点击购物车图标结算。"
+          },
+          {
+            "sentence": "The WiFi icon disappeared from my taskbar.",
+            "sentence_zh": "WiFi图标从我的任务栏消失了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cultural icon",
+        "meaning": "文化标志",
+        "examples": [
+          {
+            "sentence": "Panda has become a global cultural icon of China.",
+            "sentence_zh": "熊猫已成为中国的全球文化标志。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "status icon",
+        "meaning": "状态图标",
+        "examples": [
+          {
+            "sentence": "The battery status icon turns red when below 10%.",
+            "sentence_zh": "电量低于10%时电池状态图标变红。"
+          }
+        ]
+      }
+    ],
+    "teach": "icon的进化史堪比表情包发展史📜→从中世纪教堂的圣母像🖼️，到现代手机APP的小图标📱，再到'国民女神'这种文化符号👑。说'顶级流量明星'可以用uber-icon（像'特斯拉'用uber表示'超级'），吐槽'过气网红'说washed-up icon就像褪色的油画🎨。记住：从神坛到手机屏，icon永远在C位！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱啃'→ 年轻人爱啃(icon)麦当劳标志",
+        "易混对比：icon vs. idol（前者侧重符号意义，后者侧重崇拜）",
+        "记忆法：'IC'卡+'ON'屏幕→电子图标"
+      ]
+    }
+  },
+  {
+    "word": "iconic",
+    "etymology": {
+      "breakdown": [
+        "icon",
+        "ic"
+      ],
+      "meaning_connection": "词根icon=图像/偶像，后缀-ic=具有...性质的→具有标志性图像特征的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "标志性的",
+        "examples": [
+          {
+            "sentence": "The panda cub climbing a tree became an iconic image of Chengdu.",
+            "sentence_zh": "熊猫幼崽爬树的画面成了成都的标志性形象。"
+          },
+          {
+            "sentence": "Her cheongsam with pizza print is truly iconic in fashion history.",
+            "sentence_zh": "她那件披萨图案的旗袍堪称时尚史上的标志性设计。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "iconic status",
+        "meaning": "偶像地位",
+        "examples": [
+          {
+            "sentence": "Spicy hotpot has achieved iconic status in Chongqing's culture.",
+            "sentence_zh": "麻辣火锅在重庆文化中拥有偶像级地位。"
+          }
+        ]
+      }
+    ],
+    "teach": "iconic这词自带BGM🎵！就像周杰伦的《青花瓷》旋律一响你就知道是他（iconic melody），或者像看到微信启动页的地球照片🌍就知道要开始摸鱼了。说'经典造型'可以用iconic look，夸人'辨识度超高'说That outfit is so iconic! 💃 记住：能被做成表情包的都算iconic！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱控你'→标志性人物谁都爱控制你注意力",
+        "易混词：vs. ironic（讽刺的）→ 图标(icon)很正经， ironic爱说反话"
+      ]
+    }
+  },
+  {
+    "word": "iconoclasm",
+    "etymology": {
+      "breakdown": [
+        "icono",
+        "clasm"
+      ],
+      "meaning_connection": "词根icono=圣像/偶像，clasm=打破→字面意思为'打破圣像'，引申为对传统观念的颠覆"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "破坏偶像（物理行为）",
+        "examples": [
+          {
+            "sentence": "During the Byzantine Iconoclasm, countless religious artworks were smashed.",
+            "sentence_zh": "拜占庭破坏圣像运动期间，无数宗教艺术品被砸毁。"
+          },
+          {
+            "sentence": "Protestant reformers practiced iconoclasm by whitewashing church frescoes.",
+            "sentence_zh": "新教改革者通过粉刷教堂壁画来实施圣像破坏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "破坏偶像主义（思想主张）",
+        "examples": [
+          {
+            "sentence": "The tech giant's iconoclasm challenges traditional business models.",
+            "sentence_zh": "这家科技巨头的反传统主义正在挑战传统商业模式。"
+          },
+          {
+            "sentence": "Her PhD thesis explores punk music's cultural iconoclasm.",
+            "sentence_zh": "她的博士论文探讨了朋克音乐的文化反叛精神。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "打破旧习",
+        "examples": [
+          {
+            "sentence": "The young director's iconoclasm brought fresh air to the film industry.",
+            "sentence_zh": "这位年轻导演的破旧立新为电影业带来新风。"
+          },
+          {
+            "sentence": "Silicon Valley thrives on its culture of technological iconoclasm.",
+            "sentence_zh": "硅谷的蓬勃发展得益于其技术革新的文化。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "intellectual iconoclasm",
+        "meaning": "思想革新",
+        "examples": [
+          {
+            "sentence": "The Enlightenment was an era of intellectual iconoclasm across Europe.",
+            "sentence_zh": "启蒙运动是席卷欧洲的思想解放时期。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "artistic iconoclasm",
+        "meaning": "艺术反叛",
+        "examples": [
+          {
+            "sentence": "Banksy's graffiti represents contemporary artistic iconoclasm.",
+            "sentence_zh": "班克西的涂鸦代表了当代艺术的反叛精神。"
+          }
+        ]
+      }
+    ],
+    "teach": "iconoclasm是文化界的拆迁队🚧！源自拜占庭皇帝利奥三世砸教堂圣像的骚操作🗿（历史梗）。现代版就像年轻人用弹幕解构经典影视📱（视觉化）。搭配说'challenge the icon'比'打破常规'更地道，就像用'佛系'替代'躺平'😎。记住：每个emoji表情包都是对传统沟通方式的iconoclasm！🤯💥🎨",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱啃老课本'→反传统(iconoclasm)就是拒绝啃老课本",
+        "易混对比：rebellion（反叛行为）vs iconoclasm（系统性颠覆）",
+        "记忆口诀：icon（偶像）+ clash（冲突）= 偶像粉碎机"
+      ]
+    }
+  },
+  {
+    "word": "iconoclast",
+    "etymology": {
+      "breakdown": [
+        "icono",
+        "clast"
+      ],
+      "meaning_connection": "词根icono=偶像/图像（源自希腊语eikōn），clast=打破（源自希腊语klastos）→字面意义为'打破偶像的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "反对偶像崇拜者",
+        "examples": [
+          {
+            "sentence": "The Byzantine iconoclasts destroyed religious statues with hammers.",
+            "sentence_zh": "拜占庭的反圣像者用锤子摧毁宗教雕像。"
+          },
+          {
+            "sentence": "Like an iconoclast, he tore down the celebrity posters in his teenage bedroom.",
+            "sentence_zh": "像个反对偶像崇拜者，他撕掉了青少年卧室里的明星海报。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "提倡打破旧习的人",
+        "examples": [
+          {
+            "sentence": "Elon Musk is considered an iconoclast for challenging traditional auto industry norms.",
+            "sentence_zh": "埃隆·马斯克因挑战传统汽车行业规范被视为打破陈规者。"
+          },
+          {
+            "sentence": "This feminist iconoclast smashed the teapot symbolizing 'women's duty' in her TED talk.",
+            "sentence_zh": "这位女性主义破旧立新者在TED演讲中砸碎了象征'女性义务'的茶壶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "digital iconoclast",
+        "meaning": "数字革新者",
+        "examples": [
+          {
+            "sentence": "Jack Ma was a digital iconoclast who transformed China's payment habits.",
+            "sentence_zh": "马云是改变中国支付习惯的数字革新者。"
+          }
+        ]
+      }
+    ],
+    "teach": "iconoclast其实是'砸场专家'🔨💥！中世纪他们真砸教堂雕像（字面意义），现代的iconoclast则专砸职场潜规则💼。想夸人'革新'可以说game-changer，吐槽老古董用'old-school'。记住：当同事说'We've always done it this way'时，就是你inner iconoclast觉醒的时刻！🚀🧨",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱啃老壳碎'→专啃(old)思想硬壳",
+        "易混词：idolater（偶像崇拜者）是死对头",
+        "记忆法：想象用iPhone(icon)砸玻璃(clast)"
+      ]
+    }
   }
 ]

@@ -1133,5 +1133,221 @@
         "易混词对比：micro vs macro → 就像蚂蚁🐜和大象🐘"
       ]
     }
+  },
+  {
+    "word": "macrocosm",
+    "etymology": {
+      "breakdown": [
+        "macro",
+        "cosm"
+      ],
+      "meaning_connection": "macro=宏大 cosm=宇宙/秩序（来自希腊语kosmos）→字面意思'放大的宇宙模型'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大宇宙",
+        "examples": [
+          {
+            "sentence": "Ancient philosophers believed human body was a miniature of the macrocosm.",
+            "sentence_zh": "古代哲学家认为人体是大宇宙的缩影。"
+          },
+          {
+            "sentence": "The James Webb telescope reveals splendors of the macrocosm.",
+            "sentence_zh": "韦伯望远镜展现了大宇宙的壮丽景象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "全域",
+        "examples": [
+          {
+            "sentence": "The internet has become a digital macrocosm of human knowledge.",
+            "sentence_zh": "互联网已成为人类知识的数字全域。"
+          },
+          {
+            "sentence": "Her research covers the macrocosm of Asian civilizations.",
+            "sentence_zh": "她的研究涵盖亚洲文明的全域。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "macrocosm and microcosm",
+        "meaning": "宏观世界与微观世界",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine sees parallels between macrocosm and microcosm.",
+            "sentence_zh": "中医认为宏观世界与微观世界存在对应关系。"
+          }
+        ]
+      }
+    ],
+    "teach": "macrocosm是宇宙级乐高套装🌌！词根cosm在cosplay（角色扮演）里也出现过，但这里配上macro就成了'上帝视角'🔭。要形容'包罗万象'可以说cover the macrocosm of...（就像火锅包含所有食材🍲），'大世界'的地道表达是the grand scheme of things。记住：从奶茶店看是microcosm，从卫星地图看就是macrocosm！",
+    "recite": {
+      "tips": [
+        "谐音梗：'麦可扣死幕'→麦当劳宇宙剧场版",
+        "易混词：cosmos（普通宇宙）vs macrocosm（超级宇宙）"
+      ]
+    }
+  },
+  {
+    "word": "macroeconomic",
+    "etymology": {
+      "breakdown": [
+        "macro",
+        "eco",
+        "nom",
+        "ic"
+      ],
+      "meaning_connection": "macro=宏观（来自希腊语makros），eco=家/环境（oikos），nom=管理（nemein），-ic=形容词后缀→管理整体环境的经济学"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "宏观经济",
+        "examples": [
+          {
+            "sentence": "China's macroeconomic policies successfully stabilized inflation during the pandemic.",
+            "sentence_zh": "中国的宏观经济政策在疫情期间成功稳定了通胀。"
+          },
+          {
+            "sentence": "The IMF report analyzes global macroeconomic trends with emoji charts 📊.",
+            "sentence_zh": "国际货币基金组织报告用表情符号图表分析全球宏观经济趋势。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "macroeconomic indicators",
+        "meaning": "宏观经济指标",
+        "examples": [
+          {
+            "sentence": "GDP and unemployment rate are key macroeconomic indicators every citizen should understand.",
+            "sentence_zh": "国内生产总值和失业率是每个公民都应了解的关键宏观经济指标。"
+          }
+        ]
+      }
+    ],
+    "teach": "macroeconomic是'经济界的无人机航拍画面'🛩️：macro(大)和micro(小)就像用望远镜🔭和显微镜🔬看经济。'经济过热'叫overheated economy如同火锅沸腾🌶️，'软着陆'soft landing就像跳伞运动员完美触地🪂。记住：你的奶茶涨价3元可能就是macroeconomic在捣鬼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'麦克风经济'→用麦克风(macro)喊话调控经济",
+        "易混词对比：microeconomic(微观经济) vs macroeconomic(宏观经济)如同蚂蚁🐜和大象🐘的区别"
+      ]
+    }
+  },
+  {
+    "word": "macrophage",
+    "etymology": {
+      "breakdown": [
+        "macro",
+        "phage"
+      ],
+      "meaning_connection": "macro=巨大，phage=吞噬→字面意思'大吃货'，指能吞噬病原体的免疫细胞"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "巨噬细胞",
+        "examples": [
+          {
+            "sentence": "Macrophages act like Pac-Man in your bloodstream, gobbling up bacteria.",
+            "sentence_zh": "巨噬细胞像吃豆人一样在血液里吞噬细菌。"
+          },
+          {
+            "sentence": "When you get a splinter, macrophages swarm like hungry food delivery guys.",
+            "sentence_zh": "当你扎刺时，巨噬细胞会像饿急眼的外卖小哥一样蜂拥而至。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "alveolar macrophage",
+        "meaning": "肺泡巨噬细胞",
+        "examples": [
+          {
+            "sentence": "Alveolar macrophages protect your lungs like bouncers at a club.",
+            "sentence_zh": "肺泡巨噬细胞像夜店保镖般守护你的肺部。"
+          }
+        ]
+      }
+    ],
+    "teach": "巨噬细胞是身体里的'清道夫大爷'🧹！它们名字源自希腊语'大吃货'(macro+phage)，工作时像《千与千寻》的无脸男疯狂进食🍔。遇到病毒时比双十一抢购还积极，吞噬速度堪比吃播博主⏱️。记住：伤口化脓时就是巨噬细胞在'加班处理快递'📦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'麦克风age'→举着麦克风吞噬病毒的老细胞",
+        "易混词对比：microphage(小噬细胞)是它的迷你版"
+      ]
+    }
+  },
+  {
+    "word": "macroscopic",
+    "etymology": {
+      "breakdown": [
+        "macro",
+        "scop",
+        "ic"
+      ],
+      "meaning_connection": "词根macro=大的，scop=看，-ic形容词后缀→'用肉眼能看到的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "肉眼可见的",
+        "examples": [
+          {
+            "sentence": "The dinosaur fossil is macroscopic even without glasses.",
+            "sentence_zh": "这副恐龙化石不戴眼镜也肉眼可见。"
+          },
+          {
+            "sentence": "Some microplastics have become macroscopic pollution in oceans.",
+            "sentence_zh": "部分微塑料在海洋中已成为肉眼可见的污染。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "宏观的",
+        "examples": [
+          {
+            "sentence": "We need macroscopic thinking when making national policies.",
+            "sentence_zh": "制定国家政策时需要宏观思维。"
+          },
+          {
+            "sentence": "The macroscopic economy affects everyone's rice bowl.",
+            "sentence_zh": "宏观经济影响着每个人的饭碗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "macroscopic view",
+        "meaning": "宏观视角",
+        "examples": [
+          {
+            "sentence": "The documentary provides a macroscopic view of Chinese urbanization.",
+            "sentence_zh": "这部纪录片提供了中国城市化的宏观视角。"
+          }
+        ]
+      }
+    ],
+    "teach": "macroscopic是'巨视镜'🔭：词根macro（巨大）像麦当劳巨无霸🍔，scop（看）像显微镜🔬。要形容'格局大'可以说bird's-eye view（鸟瞰视角），吐槽'目光短浅'用can't see beyond one's nose（鼠目寸光）。记住：宏观如北斗导航🌌，微观如手机贴膜📱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'麦克roscopic'→麦克风🎤那么大当然看得见",
+        "易混词对比：microscopic（微观的）是它的反义词",
+        "记忆口诀：macro大scope看，合起来就是宏观"
+      ]
+    }
   }
 ]

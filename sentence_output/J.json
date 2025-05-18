@@ -1166,5 +1166,274 @@
         "易混词：jag vs jog（慢跑）→ jag是静态缺口，jog是动态运动"
       ]
     }
+  },
+  {
+    "word": "jagged",
+    "etymology": {
+      "breakdown": [
+        "jag",
+        "ed"
+      ],
+      "meaning_connection": "词源可能来自古诺尔斯语jagga（牙齿），-ed表形容词后缀，原指有尖牙状的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "锯齿状的",
+        "examples": [
+          {
+            "sentence": "The jagged mountain peaks look like dinosaur teeth against the sunset.",
+            "sentence_zh": "锯齿状的山峰在夕阳下像恐龙牙齿。"
+          },
+          {
+            "sentence": "She tore the paper with jagged edges to make handmade Valentine's card.",
+            "sentence_zh": "她用锯齿状撕开纸张制作手工情人节卡片。"
+          }
+        ]
+      }
+    ],
+    "teach": "jagged是自然界最朋克的造型✂️！想象被哈士奇啃过的沙发腿🦷，或者刚和猫主子打架后的窗帘边🐾。要说'参差不齐'可以戏称it looks like a toddler's haircut（像娃自己剪的头发）。记住：所有jagged的东西都自带'离我远点'警告牌⚠️！",
+    "recite": {
+      "tips": [
+        "视觉记忆：把字母J看成钩子形状",
+        "易混词对比：jagged（自然不规则）vs. serrated（人造锯齿如刀具）"
+      ]
+    }
+  },
+  {
+    "word": "jaguar",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自南美图皮语系yaguara（意为'猎食其他野兽的猛兽'）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "美洲虎",
+        "examples": [
+          {
+            "sentence": "The jaguar's roar echoes through the Amazon rainforest like nature's subwoofer.",
+            "sentence_zh": "美洲虎的吼声如同大自然的低音炮响彻亚马逊雨林。"
+          },
+          {
+            "sentence": "This luxury car brand borrowed the jaguar's sleekness for its logo design.",
+            "sentence_zh": "某豪车品牌借用美洲虎的流畅线条设计车标。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "black jaguar",
+        "meaning": "黑化美洲虎",
+        "examples": [
+          {
+            "sentence": "The melanistic black jaguar moves like liquid shadow in moonlight.",
+            "sentence_zh": "黑化美洲虎在月光下如流动的暗影般移动。"
+          }
+        ]
+      }
+    ],
+    "teach": "美洲虎(jaguar)其实是'美洲豹'？错！它是猫科第三大猛兽🐆，咬合力堪比霸王龙🦖。玛雅文明视它为连接阴阳的神兽，车标上的jaguar却在4S店睡觉😪。说'动作敏捷'可叫move like a jaguar，'暗中观察'叫jaguar's patience。记住：美洲虎会游泳但捷豹车不行🚗💦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'捷豹'→汽车品牌音译自jaguar",
+        "易混词：leopard（花豹）/ cheetah（猎豹）",
+        "记忆tip：美洲虎=会游泳的斑点大猫+碎颅咬合力"
+      ]
+    }
+  },
+  {
+    "word": "jail",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语jaiole/geole（铁笼），可能来自拉丁语caveola（小笼子）的变体"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "监牢",
+        "examples": [
+          {
+            "sentence": "The thief spent three nights in a damp jail eating instant noodles.",
+            "sentence_zh": "小偷在潮湿的监牢里吃了三天泡面。"
+          },
+          {
+            "sentence": "Prisoners in this jail learn to raise ducks as rehabilitation.",
+            "sentence_zh": "这所监牢的囚犯通过养鸭子进行改造。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拘留所",
+        "examples": [
+          {
+            "sentence": "Drunk drivers are held in the county jail overnight.",
+            "sentence_zh": "酒驾者被关在县拘留所过夜。"
+          },
+          {
+            "sentence": "The protestors were released from jail after paying fines.",
+            "sentence_zh": "抗议者在缴纳罚款后从拘留所释放。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "监禁",
+        "examples": [
+          {
+            "sentence": "The corrupt official was jailed for embezzling disaster relief funds.",
+            "sentence_zh": "该贪官因挪用救灾款被监禁。"
+          },
+          {
+            "sentence": "In some countries, you may get jailed for pirating TV series.",
+            "sentence_zh": "在某些国家盗版追剧可能被监禁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jail sentence",
+        "meaning": "刑期",
+        "examples": [
+          {
+            "sentence": "The influencer received a 6-month jail sentence for fake livestream sales.",
+            "sentence_zh": "该网红因直播售假获刑六个月。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "break jail",
+        "meaning": "越狱",
+        "examples": [
+          {
+            "sentence": "No prisoner has successfully broken jail in this maximum-security prison.",
+            "sentence_zh": "这座高度设防监狱尚无成功越狱案例。"
+          }
+        ]
+      }
+    ],
+    "teach": "jail是铁窗泪的VIP包厢🚔！英语里监狱有三大俗名：jail（拘留所）、prison（监狱）、the slammer（黑话）。说'进局子'可以用get jailed faster than hotpot boils（比火锅沸腾还快被抓👮♂️）。记住：jail作动词时像淘宝下单→主语是人，如'法官jail了小偷'就像'快递员打包了包裹'📦。",
+    "recite": {
+      "tips": [
+        "谐音梗：'皆牢'→皆是牢笼",
+        "易混词：prison（重刑监狱） vs jail（轻罪拘留所）",
+        "记忆法：JAIL=Justice Always Is Late（正义总迟到）"
+      ]
+    }
+  },
+  {
+    "word": "jailbird",
+    "etymology": {
+      "breakdown": [
+        "jail",
+        "bird"
+      ],
+      "meaning_connection": "字面意思是'监狱的鸟'🐦→比喻像鸟一样频繁出入笼子的惯犯"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "囚犯",
+        "examples": [
+          {
+            "sentence": "The jailbird tattooed a teardrop under his eye during his sentence.",
+            "sentence_zh": "这个囚犯在服刑期间在眼下纹了滴泪珠纹身。"
+          },
+          {
+            "sentence": "Old jailbirds often know all the loopholes in prison rules.",
+            "sentence_zh": "老囚犯通常熟知监狱规则的所有漏洞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "惯犯",
+        "examples": [
+          {
+            "sentence": "This jailbird has been in and out of prison like a revolving door.",
+            "sentence_zh": "这个惯犯进出监狱就像旋转门一样频繁。"
+          },
+          {
+            "sentence": "Neighbors recognized the jailbird by his distinctive limp.",
+            "sentence_zh": "邻居们通过他独特的跛行认出了这个惯犯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "恶痞",
+        "examples": [
+          {
+            "sentence": "The gang leader was a notorious jailbird with snake tattoos.",
+            "sentence_zh": "这个帮派头目是个纹着蛇形纹身的恶名昭彰的恶痞。"
+          },
+          {
+            "sentence": "Kids were scared of the jailbird who hung around the playground.",
+            "sentence_zh": "孩子们害怕在游乐场附近游荡的那个恶痞。"
+          }
+        ]
+      }
+    ],
+    "teach": "jailbird是'铁窗歌手'🎤的黑色幽默！想象监狱栏杆像鸟笼🦜，犯人就是折翼的bird。搭配说three-time jailbird（三进宫老油条），地道表达用'career criminal'（职业罪犯）。有趣的是：中世纪欧洲真的用鸟笼吊在城墙上关小偷🐦！记住：不是所有bird都能自由飞翔～",
+    "recite": {
+      "tips": [
+        "谐音梗：'接儿病的'→接孩子病的(jailbird)老爸在蹲监狱",
+        "易混词对比：prisoner（普通囚犯） vs jailbird（惯犯）",
+        "记忆tip：想象鹦鹉在监狱说'我又回来啦！'"
+      ]
+    }
+  },
+  {
+    "word": "jailed",
+    "etymology": {
+      "breakdown": [
+        "jail",
+        "ed"
+      ],
+      "meaning_connection": "jail（监狱）+ -ed（形容词后缀）→ 处于监禁状态的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "监禁的",
+        "examples": [
+          {
+            "sentence": "The jailed activist continued writing essays with smuggled pencils.",
+            "sentence_zh": "被监禁的活动家用偷运进来的铅笔继续写文章。"
+          },
+          {
+            "sentence": "His jailed phone suddenly received a WeChat notification.",
+            "sentence_zh": "他被没收的手机突然收到一条微信通知。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "get jailed",
+        "meaning": "被捕入狱",
+        "examples": [
+          {
+            "sentence": "The hacker got jailed for stealing virtual mahjong tokens.",
+            "sentence_zh": "该黑客因偷窃虚拟麻将币而入狱。"
+          }
+        ]
+      }
+    ],
+    "teach": "jailed其实是'坐牢体验卡'🚔！中世纪欧洲用鸽子笼当临时监狱🕊️，现代人用'吃牢饭'形容拘留（do bird time）。要说'被抓包'可以说get busted like a WeChat scammer，记住：jailed状态就像被关进防沉迷系统的未成年人⏳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'结了的'→感情结了的(jailed)人像坐情绪牢",
+        "易混词对比：jail vs. prison（前者指拘留所/短期关押）",
+        "记忆tip：结尾-ed像手铐的两个圈"
+      ]
+    }
   }
 ]

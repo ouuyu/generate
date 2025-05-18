@@ -1222,5 +1222,325 @@
         "记忆tip：vacuous=vac(uum)+uous→程度更深的全方位空虚"
       ]
     }
+  },
+  {
+    "word": "vacuum",
+    "etymology": {
+      "breakdown": [
+        "vacu",
+        "um"
+      ],
+      "meaning_connection": "词根vacu=空，-um为拉丁语中性后缀→表达'空'的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "真空",
+        "examples": [
+          {
+            "sentence": "The thermos keeps heat by creating a vacuum between layers.",
+            "sentence_zh": "保温杯通过夹层真空来保持温度。"
+          },
+          {
+            "sentence": "Outer space is not a perfect vacuum due to cosmic dust.",
+            "sentence_zh": "外太空因宇宙尘埃并非绝对真空。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "空间",
+        "examples": [
+          {
+            "sentence": "The resignation left a power vacuum in the company.",
+            "sentence_zh": "辞职在公司造成了权力空间。"
+          },
+          {
+            "sentence": "Nature abhors a vacuum, so new trends always emerge.",
+            "sentence_zh": "自然界厌恶空间，所以总有新趋势涌现。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "真空吸尘器",
+        "examples": [
+          {
+            "sentence": "The robot vacuum escaped under the sofa during cleaning.",
+            "sentence_zh": "扫地机器人在工作时躲到了沙发底下。"
+          },
+          {
+            "sentence": "British English calls it a 'hoover' like we say 'Xerox' for copiers.",
+            "sentence_zh": "英式英语称吸尘器为'胡佛'，就像我们用'施乐'指代复印机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "真空的",
+        "examples": [
+          {
+            "sentence": "Vacuum-packed mooncakes last longer but lose flavor.",
+            "sentence_zh": "真空包装的月饼保质期更长但会走味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用吸尘器打扫",
+        "examples": [
+          {
+            "sentence": "I vacuumed up three pounds of cat hair this morning.",
+            "sentence_zh": "今早我用吸尘器清理了三斤猫毛。"
+          },
+          {
+            "sentence": "He vacuums his Porsche every day but never washes dishes.",
+            "sentence_zh": "他每天用吸尘器清理保时捷却从不洗碗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vacuum cleaner",
+        "meaning": "真空吸尘器",
+        "examples": [
+          {
+            "sentence": "Dyson vacuum cleaners cost as much as a iPhone.",
+            "sentence_zh": "戴森吸尘器的价格抵得上一部iPhone。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in a vacuum",
+        "meaning": "孤立地",
+        "examples": [
+          {
+            "sentence": "Memes don't exist in a vacuum - they reflect social moods.",
+            "sentence_zh": "网络梗不会孤立存在，它们反映社会情绪。"
+          }
+        ]
+      }
+    ],
+    "teach": "vacuum是物理学和主妇的共同敌人⚡！真空概念来自'自然厌恶真空'的古希腊理论🧪，而吸尘器发明者曾用风箱反向操作制造了第一个'吃灰尘的怪物'👾。说'彻底打扫'用deep vacuum，'吸猫毛'叫vacuum up fur。记住：当老板说'填补空白(fill the vacuum)'时，可能暗示要加班了😈",
+    "recite": {
+      "tips": [
+        "谐音梗：'挖空'→挖空(vacuum)变成真空",
+        "易混词：vacuum/vague（模糊的）",
+        "记忆链：vacation（休假）→把工作清空(vacuum)→真正放松"
+      ]
+    }
+  },
+  {
+    "word": "vagabond",
+    "etymology": {
+      "breakdown": [
+        "vag",
+        "a",
+        "bond"
+      ],
+      "meaning_connection": "词根vag=漫游（同源词vague模糊的），-a-连接字母，bond=束缚→原指'被流浪生活束缚的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "流浪者",
+        "examples": [
+          {
+            "sentence": "The old vagabond recited Tang poems while warming his feet by the fire.",
+            "sentence_zh": "那个老流浪汉一边烤火暖脚，一边背诵唐诗。"
+          },
+          {
+            "sentence": "Sanmao's writings turned her into a romantic vagabond in readers' eyes.",
+            "sentence_zh": "三毛的作品让她在读者眼中成了浪漫的流浪者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "浪子",
+        "examples": [
+          {
+            "sentence": "The guitar-playing vagabond finally returned to his hometown after 10 years.",
+            "sentence_zh": "那个弹吉他的浪子终于在十年后回到了故乡。"
+          },
+          {
+            "sentence": "In Peking Opera, the vagabond often wears tattered but colorful costumes.",
+            "sentence_zh": "京剧中的浪子常穿着破烂却鲜艳的戏服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "到处流浪",
+        "examples": [
+          {
+            "sentence": "He vagabonded across China with just a backpack and a camera.",
+            "sentence_zh": "他只带着背包和相机在中国各地流浪。"
+          },
+          {
+            "sentence": "During the famine, many farmers vagabonded to cities.",
+            "sentence_zh": "饥荒年间，许多农民流浪到城市。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "流浪的",
+        "examples": [
+          {
+            "sentence": "The vagabond poet left graffiti on ancient city walls.",
+            "sentence_zh": "那个流浪诗人在古城墙上留下涂鸦。"
+          },
+          {
+            "sentence": "Her vagabond lifestyle inspired many social media followers.",
+            "sentence_zh": "她的流浪生活方式激励了许多社交媒体粉丝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vagabond life",
+        "meaning": "流浪生活",
+        "examples": [
+          {
+            "sentence": "The viral video 'Trekking Tibet' shows authentic vagabond life.",
+            "sentence_zh": "爆款视频《徒步西藏》展现了真实的流浪生活。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vagabond shoes",
+        "meaning": "流浪鞋（象征）",
+        "examples": [
+          {
+            "sentence": "His vagabond shoes have footprints from 30 provinces.",
+            "sentence_zh": "他的流浪鞋上有来自30个省份的足迹。"
+          }
+        ]
+      }
+    ],
+    "teach": "vagabond是自带BGM的单词🎸！词根vag-像摇晃的醉汉🚶（想想vague模糊的），而bond像脚镣⛓️。西方有吉普赛人，中国有《水浒传》的浪子燕青🥋。说'无业游民'可以用drifters或hobos，但vagabond更有文艺范儿～搭配'vagabond spirit流浪精神'和'vagabond soul流浪魂'，emoji三件套：👣🎒🌄",
+    "recite": {
+      "tips": [
+        "谐音梗：'外哥帮的'→外国哥哥(vaga)在帮(bond)流浪汉",
+        "易混词：vagrant（更法律化）/nomad（游牧民族）",
+        "记忆tip：vag=走 + a bond=一种束缚→被流浪束缚的人"
+      ]
+    }
+  },
+  {
+    "word": "vagina",
+    "etymology": {
+      "breakdown": [
+        "vag",
+        "ina"
+      ],
+      "meaning_connection": "词根vag=鞘（拉丁语vagina原指剑鞘），后缀-ina表阴性→生物学借指包容性器官"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "阴道",
+        "examples": [
+          {
+            "sentence": "The documentary explained how the vagina's microbiome protects against infections.",
+            "sentence_zh": "纪录片解释了阴道微生物群如何预防感染。"
+          },
+          {
+            "sentence": "In many cultures, talking openly about vagina health is still taboo.",
+            "sentence_zh": "在许多文化中，公开讨论阴道健康仍是禁忌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "鞘（植物学）",
+        "examples": [
+          {
+            "sentence": "Bamboo shoots are protected by a papery vagina before emerging.",
+            "sentence_zh": "竹笋在破土前被纸质叶鞘保护着。"
+          },
+          {
+            "sentence": "Botanists use the term vagina to describe grass stem wrappings.",
+            "sentence_zh": "植物学家用'鞘'描述禾本科植物的茎部包裹结构。"
+          }
+        ]
+      }
+    ],
+    "teach": "vagina其实是'剑鞘'🗡️变来的！古罗马人用这个词指剑鞘（就像小龙女的丝带卷起就是剑鞘🧣），后来科学家借来用。记住：说'妇科检查'用vaginal exam（别说成sword check哦⚔️），'鞘'相关用vaginal sheath。三个emoji带你记：🗡️（剑）→🌱（植物）→🔬（科学）",
+    "recite": {
+      "tips": [
+        "视觉联想：想象竹子🌿的叶鞘像剑鞘一样包裹嫩茎",
+        "易混词：vanilla（香草）和vagina别搞混，除非你想说'香草味鞘'😅"
+      ]
+    }
+  },
+  {
+    "word": "vaginal",
+    "etymology": {
+      "breakdown": [
+        "vagina",
+        "al"
+      ],
+      "meaning_connection": "词根vagina=鞘/阴道，-al表形容词后缀→'与鞘相关的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "鞘的",
+        "examples": [
+          {
+            "sentence": "The bamboo shoot has a natural vaginal sheath protecting it.",
+            "sentence_zh": "竹笋有天然的保护鞘。"
+          },
+          {
+            "sentence": "Botanists study vaginal structures in plant stems.",
+            "sentence_zh": "植物学家研究植物茎部的鞘状结构。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "似叶鞘的",
+        "examples": [
+          {
+            "sentence": "The vaginal leaves wrap around the stem like a straw wrapper.",
+            "sentence_zh": "鞘状叶片像吸管包装纸般环绕茎部。"
+          },
+          {
+            "sentence": "This grass feature is identified by its vaginal appearance.",
+            "sentence_zh": "这种草的特征是其叶鞘般的外观。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "阴道的",
+        "examples": [
+          {
+            "sentence": "The doctor explained vaginal health using fruit analogies.",
+            "sentence_zh": "医生用水果比喻讲解阴道健康。"
+          },
+          {
+            "sentence": "Vaginal flora balance is as delicate as a yogurt culture.",
+            "sentence_zh": "阴道菌群平衡如同酸奶发酵般微妙。"
+          }
+        ]
+      }
+    ],
+    "teach": "vaginal这词像洋葱🧅有三层：1)原始义指植物'鞘'（如香蕉皮🍌）2)医学义来自拉丁语'剑鞘'→'阴道'的隐喻 3)网络梗'鞘式生存'形容社恐（像在保护鞘里）。搭配：vaginal discharge（分泌物）/ vaginal ring（避孕环），'月经羞耻'叫period shame🚫。记住：无论是植物鞘还是阴道，都是大自然的保护层！🌿🌸🛡️",
+    "recite": {
+      "tips": [
+        "视觉联想：香蕉皮(vaginal sheath)包着果肉",
+        "易混词：vagrant（流浪者）和vaginal（别搞混求职和妇科检查！）",
+        "记忆法：vagina+al=鞘的→想象AI(al)给鞘做CT扫描"
+      ]
+    }
   }
 ]

@@ -1177,5 +1177,291 @@
         "记忆tip：所有释义都带有'尖锐突起'的特征"
       ]
     }
+  },
+  {
+    "word": "hackney",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自伦敦Hackney区，14世纪以培育优质马匹闻名，后引申为通用交通工具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "乘用马",
+        "examples": [
+          {
+            "sentence": "The nobleman rode a Hackney through Covent Garden.",
+            "sentence_zh": "贵族骑着乘用马穿过考文特花园。"
+          },
+          {
+            "sentence": "Hackneys were the Uber of Victorian London.",
+            "sentence_zh": "乘用马是维多利亚时代伦敦的优步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "出租马车",
+        "examples": [
+          {
+            "sentence": "Dickens often described hackneys clattering over cobblestones.",
+            "sentence_zh": "狄更斯常描写出租马车在鹅卵石上哒哒作响。"
+          },
+          {
+            "sentence": "Taking a hackney cost two shillings per mile in 1850s.",
+            "sentence_zh": "1850年代乘坐出租马车每英里需两先令。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "出租",
+        "examples": [
+          {
+            "sentence": "He hackneyed his carriage to tourists near Westminster Abbey.",
+            "sentence_zh": "他在威斯敏斯特教堂附近向游客出租马车。"
+          },
+          {
+            "sentence": "Inns that hackneyed horses displayed a special license.",
+            "sentence_zh": "出租马车的旅馆会展示特殊许可证。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "役使",
+        "examples": [
+          {
+            "sentence": "Don't hackney your staff like medieval serfs.",
+            "sentence_zh": "别像对待中世纪农奴般役使员工。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "过于频繁使用",
+        "examples": [
+          {
+            "sentence": "The phrase 'big data' has been hackneyed to death.",
+            "sentence_zh": "'大数据'这个短语已被滥用到令人发指。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "出租的",
+        "examples": [
+          {
+            "sentence": "Hackney coaches had yellow wheels by law.",
+            "sentence_zh": "法律规定出租马车车轮必须漆成黄色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "陈腐的",
+        "examples": [
+          {
+            "sentence": "His hackneyed jokes made everyone groan.",
+            "sentence_zh": "他那些陈腐的笑话让所有人直翻白眼。"
+          },
+          {
+            "sentence": "The movie relied on hackneyed plot devices.",
+            "sentence_zh": "这部电影充斥着老套的情节设计。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hackney carriage",
+        "meaning": "持证出租马车/现代出租车",
+        "examples": [
+          {
+            "sentence": "Black cabs are officially called Hackney Carriages.",
+            "sentence_zh": "黑色出租车官方名称就是'哈克尼马车'。"
+          }
+        ]
+      }
+    ],
+    "teach": "hackney是英语界的'老油条'🐎→从伦敦育马场混成陈词滥调之王👑！现代taxi还带着它的姓氏（Hackney Carriage），说创意枯竭可以说'as tired as a hackney horse'（累得像老马）。搭配'hackneyed phrase'（陈词滥调）和'hackney writer'（枪手），地道吐槽用'That's so 19th-century hackney!'（老掉牙啦！）🚖💤📜",
+    "recite": {
+      "tips": [
+        "谐音梗：'咳马泥'→咳嗽的老马踏起泥水",
+        "易混词：hackney(老马)/hack(黑客)",
+        "记忆tip：想象一匹喘着气说'我太难了'的出租车马"
+      ]
+    }
+  },
+  {
+    "word": "hackneyed",
+    "etymology": {
+      "breakdown": [
+        "hackney",
+        "ed"
+      ],
+      "meaning_connection": "源自伦敦Hackney地区（以出租马匹闻名），hackney指普通马匹→被过度使用的→陈腐的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "使用过于频繁的",
+        "examples": [
+          {
+            "sentence": "The phrase 'think outside the box' has become so hackneyed in business meetings.",
+            "sentence_zh": "'跳出思维定式'这个说法在商务会议中已被用滥了。"
+          },
+          {
+            "sentence": "Her speech was full of hackneyed expressions like 'at the end of the day'.",
+            "sentence_zh": "她的演讲充斥着'说到底'之类的陈词滥调。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "常见的",
+        "examples": [
+          {
+            "sentence": "The hackneyed plot of the drama made audiences yawn.",
+            "sentence_zh": "这部剧老套的剧情让观众直打哈欠。"
+          },
+          {
+            "sentence": "Avoid using hackneyed metaphors like 'light as a feather'.",
+            "sentence_zh": "避免使用'轻如鸿毛'这类俗套的比喻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "陈腐的",
+        "examples": [
+          {
+            "sentence": "His hackneyed jokes about mothers-in-law embarrassed everyone.",
+            "sentence_zh": "他那些关于岳母的陈腐笑话让所有人尴尬。"
+          },
+          {
+            "sentence": "The movie's hackneyed ending involved a sudden inheritance.",
+            "sentence_zh": "电影陈腐的结局突然出现一笔遗产。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hackneyed phrase",
+        "meaning": "陈词滥调",
+        "examples": [
+          {
+            "sentence": "CVs with hackneyed phrases like 'team player' get deleted first.",
+            "sentence_zh": "写着'团队合作者'等套路的简历会最先被删除。"
+          }
+        ]
+      }
+    ],
+    "teach": "hackneyed其实是'伦敦出租车司机的马'🐴！Hackney地区以出租老马闻名（就像现在的出租车），跑到毛都秃了还在工作→形容被用烂的表达💬。'老掉牙'可以说clichéd like yesterday's news（像昨日的新闻），'创新'要说fresh as morning dew（如晨露清新）🌿。记住：当你的比喻让听众翻白眼时，它就是个hackneyed表达！",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑克腻的'→被黑到腻味了",
+        "易混词对比：banal强调平庸乏味，hackneyed侧重过度使用",
+        "记忆tip：想象一匹累到吐舌头的出租马🐎"
+      ]
+    }
+  },
+  {
+    "word": "hacksaw",
+    "etymology": {
+      "breakdown": [
+        "hack",
+        "saw"
+      ],
+      "meaning_connection": "hack=劈砍，saw=锯→用于劈砍切割的锯子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "弓锯",
+        "examples": [
+          {
+            "sentence": "The carpenter grabbed a hacksaw to trim the metal pipe.",
+            "sentence_zh": "木匠抓起弓锯来修剪金属管。"
+          },
+          {
+            "sentence": "A hacksaw with rainbow-colored handle is hanging in the toolbox.",
+            "sentence_zh": "一把彩虹柄的弓锯挂在工具箱里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "钢锯",
+        "examples": [
+          {
+            "sentence": "Prison break scenes always feature improvised hacksaw blades.",
+            "sentence_zh": "越狱场景总会出现临时制作的钢锯片。"
+          },
+          {
+            "sentence": "This hacksaw can cut through coins like butter.",
+            "sentence_zh": "这把钢锯切硬币像切黄油般轻松。"
+          }
+        ]
+      }
+    ],
+    "teach": "hacksaw是工具界的双面间谍🕵️♂️！既能当'弓锯'优雅拉弦🎻（切割金属），又能当'钢锯'暴力拆解💥（锯断锁链）。DIY玩家叫它'分手大师'🔧，因为用它锯东西会发出'咯吱咯吱'的哀嚎声😱。记住：'锯木头'用handsaw，'锯金属'才用hacksaw！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骇客骚'→黑客(hack)用钢锯(saw)骚操作越狱",
+        "易混词对比：handsaw（手锯）vs hacksaw（钢锯）"
+      ]
+    }
+  },
+  {
+    "word": "haddock",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语词汇'hadoque'，可能来自荷兰语'de hok'（意为'小巢'），因其栖息地特征得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "黑斑鳕",
+        "examples": [
+          {
+            "sentence": "The British love dipping haddock in tartar sauce with their chips.",
+            "sentence_zh": "英国人喜欢用黑斑鳕蘸塔塔酱配薯条。"
+          },
+          {
+            "sentence": "This Icelandic haddock smells as fresh as Arctic sea breeze.",
+            "sentence_zh": "这条冰岛黑斑鳕闻起来像北极海风般清新。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "smoked haddock",
+        "meaning": "熏黑斑鳕",
+        "examples": [
+          {
+            "sentence": "Scottish breakfast always includes golden smoked haddock.",
+            "sentence_zh": "苏格兰早餐必备金黄色的熏黑斑鳕。"
+          },
+          {
+            "sentence": "The secret of this chowder is applewood-smoked haddock.",
+            "sentence_zh": "这道浓汤的秘诀在于苹果木熏制的黑斑鳕。"
+          }
+        ]
+      }
+    ],
+    "teach": "haddock是海鲜界的熊猫🐟！它背上那道黑色条纹像被浪花画了道眼线👁️，英国人叫它'银币鱼'因为能换钱💰（旧时渔民用鳕鱼抵税）。地道吃法叫'finnan haddie'（熏鳕鱼），说'鱼不新鲜'用'fishy'（字面是鱼腥味，实际指可疑）。记住：吃鳕鱼配蛋黄酱，就像薯条配番茄酱永远不翻车！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨! 多克'→嗨！多克医生快来治治这条鱼",
+        "易混词：cod（普通鳕鱼体型更大，没有黑条纹）",
+        "记忆法：记住haddock的'd'像鱼背上那道黑线"
+      ]
+    }
   }
 ]

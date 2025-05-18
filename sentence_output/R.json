@@ -1181,5 +1181,322 @@
         "易混词：racially（人种上） vs. radically（根本上）"
       ]
     }
+  },
+  {
+    "word": "racing",
+    "etymology": {
+      "breakdown": [
+        "race",
+        "ing"
+      ],
+      "meaning_connection": "race(比赛)+ing(名词后缀)→进行比赛的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "赛马",
+        "examples": [
+          {
+            "sentence": "The Queen's love for horse racing is well known in the UK.",
+            "sentence_zh": "女王对赛马的热爱在英国众所周知。"
+          },
+          {
+            "sentence": "Racing in rainy conditions requires special horseshoes.",
+            "sentence_zh": "雨天赛马需要特殊的马蹄铁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赛车",
+        "examples": [
+          {
+            "sentence": "Formula 1 racing attracts millions of viewers worldwide.",
+            "sentence_zh": "F1赛车吸引全球数百万观众。"
+          },
+          {
+            "sentence": "Street racing is illegal but appears in many movies.",
+            "sentence_zh": "街头赛车是非法的但常出现在电影中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "motor racing",
+        "meaning": "汽车竞赛",
+        "examples": [
+          {
+            "sentence": "China is developing its own motor racing culture.",
+            "sentence_zh": "中国正在发展自己的汽车竞赛文化。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "racing against time",
+        "meaning": "与时间赛跑",
+        "examples": [
+          {
+            "sentence": "Doctors were racing against time to save the earthquake victims.",
+            "sentence_zh": "医生们正在与时间赛跑抢救地震伤员。"
+          }
+        ]
+      }
+    ],
+    "teach": "racing是速度与激情的代名词🏎️💨！英国皇室看赛马要戴夸张帽子👑（royal horse racing），《速度与激情》让街头赛车火爆全球🎬。说'飙车'用地道表达joyriding，'职业赛车手'叫petrolhead。记住：无论赛马还是赛车，winner takes all！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞士赢'→瑞士手表(精准)才能赢racing",
+        "易混词：racing(比赛)/racing(空转)→后者是机械术语"
+      ]
+    }
+  },
+  {
+    "word": "racism",
+    "etymology": {
+      "breakdown": [
+        "race",
+        "ism"
+      ],
+      "meaning_connection": "词根race=种族，后缀-ism=主义→针对种族的系统性偏见"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "种族主义",
+        "examples": [
+          {
+            "sentence": "The museum exhibit exposes how racism shaped urban planning policies.",
+            "sentence_zh": "该展览揭露种族主义如何影响城市规划政策。"
+          },
+          {
+            "sentence": "Calling COVID-19 'Kung Flu' is a blatant act of racism.",
+            "sentence_zh": "将新冠肺炎称为'功夫流感'是赤裸裸的种族主义行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "种族偏见",
+        "examples": [
+          {
+            "sentence": "The algorithm was found to have built-in racism against darker skin tones.",
+            "sentence_zh": "该算法被发现对深肤色存在内置的种族偏见。"
+          },
+          {
+            "sentence": "Her TED Talk discusses microaggressions as subtle forms of racism.",
+            "sentence_zh": "她的TED演讲将微侵犯视为种族偏见的隐蔽形式。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "systemic racism",
+        "meaning": "系统性种族歧视",
+        "examples": [
+          {
+            "sentence": "The education report reveals systemic racism in school admissions.",
+            "sentence_zh": "教育报告揭露学校录取中的系统性种族歧视。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "anti-racism",
+        "meaning": "反种族主义",
+        "examples": [
+          {
+            "sentence": "K-pop idols speaking up for anti-racism inspires global fans.",
+            "sentence_zh": "韩流偶像为反种族主义发声激励着全球粉丝。"
+          }
+        ]
+      }
+    ],
+    "teach": "racism这个词就像精神病毒🦠：最早1860年代由法国人发明，现在'TikTok挑战黑人食物难吃'就是新型racism🍉（搭配：institutional racism体制性歧视 + reverse racism逆向歧视）。地道说法叫'race card'（种族牌），比如'Don't play the race card'🚫。记住：racism不是观点差异，是制度暴力！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞士膜'→瑞士巧克力膜拜白人至上（慎用）",
+        "易混词：race≠ethnicity（血缘vs文化认同）",
+        "联想：ISM结尾的主义三巨头-capitalism/communism/racism"
+      ]
+    }
+  },
+  {
+    "word": "racist",
+    "etymology": {
+      "breakdown": [
+        "race",
+        "ist"
+      ],
+      "meaning_connection": "词根race=种族，后缀-ist表示'...主义者'→种族主义者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "种族主义者",
+        "examples": [
+          {
+            "sentence": "The professor was exposed as a racist after his offensive comments about Asian students.",
+            "sentence_zh": "这位教授在发表对亚洲学生的冒犯性言论后，被揭露为种族主义者。"
+          },
+          {
+            "sentence": "Grandma unknowingly made racist remarks about the new African neighbor's hairstyle.",
+            "sentence_zh": "奶奶无意中对非洲新邻居的发型发表了种族主义言论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "种族歧视的",
+        "examples": [
+          {
+            "sentence": "The racist policy that banned hijabs was finally abolished last year.",
+            "sentence_zh": "禁止佩戴头巾的种族歧视政策终于在去年被废除。"
+          },
+          {
+            "sentence": "His racist jokes at the company dinner made everyone uncomfortable.",
+            "sentence_zh": "他在公司晚宴上讲的种族歧视笑话让所有人感到不适。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "racist remarks",
+        "meaning": "种族歧视言论",
+        "examples": [
+          {
+            "sentence": "The celebrity lost three endorsement deals due to his racist remarks on Weibo.",
+            "sentence_zh": "该明星因在微博发表种族歧视言论失去了三个代言合同。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "racist ideology",
+        "meaning": "种族主义意识形态",
+        "examples": [
+          {
+            "sentence": "Some video games subtly spread racist ideology through character designs.",
+            "sentence_zh": "某些电子游戏通过角色设计暗中传播种族主义意识形态。"
+          }
+        ]
+      }
+    ],
+    "teach": "racist这个词就像语言界的榴莲🍈——闻着臭吃着更臭！它源自18世纪种族优劣论，当时欧洲人用race(种族)+ist(主义者)造词来正当化殖民🌍。现代用法中，'隐性种族歧视'叫microaggression(微观侵犯)，'系统性歧视'叫institutional racism🏛️。记住：当有人说'I'm not racist, but...'时，后面绝对跟着种族歧视言论⚠️",
+    "recite": {
+      "tips": [
+        "谐音梗：'累死他'→种族主义者整天歧视别人不累吗",
+        "易混词对比：racial(种族的)≠racist(种族主义的)",
+        "联想记忆：race(赛跑)+ist(最高级)→认为某些种族永远跑在前面的人"
+      ]
+    }
+  },
+  {
+    "word": "rack",
+    "etymology": {
+      "breakdown": [
+        "rack"
+      ],
+      "meaning_connection": "源自古德语'rekka'（伸展），最初指晾衣架，后来引申为各种支架和折磨的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "架",
+        "examples": [
+          {
+            "sentence": "The spice rack in her kitchen looks like a rainbow.",
+            "sentence_zh": "她厨房的香料架像彩虹一样缤纷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "行李架",
+        "examples": [
+          {
+            "sentence": "The overhead rack on high-speed trains can hold 20kg.",
+            "sentence_zh": "高铁的行李架承重可达20公斤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "痛苦",
+        "examples": [
+          {
+            "sentence": "The memory loss put her through emotional rack.",
+            "sentence_zh": "失忆使她饱受精神煎熬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把...放在架上",
+        "examples": [
+          {
+            "sentence": "He racked the wine bottles carefully in the cellar.",
+            "sentence_zh": "他小心地将酒瓶放入酒窖架中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "折磨",
+        "examples": [
+          {
+            "sentence": "The detective racked his brains to solve the mahjong theft case.",
+            "sentence_zh": "侦探绞尽脑汁侦破麻将盗窃案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变形",
+        "examples": [
+          {
+            "sentence": "The old bookshelf racked after years of use.",
+            "sentence_zh": "旧书架经年累月使用后变形了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rack up",
+        "meaning": "积累",
+        "examples": [
+          {
+            "sentence": "She racked up 100,000 frequent flyer miles eating airplane meals.",
+            "sentence_zh": "她靠吃飞机餐积累了10万飞行里程。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "off the rack",
+        "meaning": "现成的",
+        "examples": [
+          {
+            "sentence": "His suit was off the rack but looked custom-made.",
+            "sentence_zh": "他的西装是成品但看着像定制的。"
+          }
+        ]
+      }
+    ],
+    "teach": "rack是个变形金刚单词🤖！当架子时像火锅店菜品架🥬（meat rack）；折磨人时像健身房的器械💪（rack your body）；'off the rack'就像超市随手拿的速冻水饺🥟。记住：物理架子用on，精神折磨用in，地道说法'绞尽脑汁'叫rack one's brains！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弱磕'→弱不禁风还要磕架子",
+        "易混词：rack（架子）vs wrack（毁坏）"
+      ]
+    }
   }
 ]

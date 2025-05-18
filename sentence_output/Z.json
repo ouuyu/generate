@@ -1156,5 +1156,285 @@
         "记忆tip：把单词里的'e'想象成飘散的柠檬皮屑"
       ]
     }
+  },
+  {
+    "word": "zig",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自德语zickzack（之字形），模拟突然转向的声音和形态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "锯齿状的转折",
+        "examples": [
+          {
+            "sentence": "The drone avoided obstacles with precise zigs and zags.",
+            "sentence_zh": "无人机通过精准的之字形转折避开障碍物。"
+          },
+          {
+            "sentence": "Her bangs had a playful zig at the left temple.",
+            "sentence_zh": "她刘海在左太阳穴处有个俏皮的锯齿弯折。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "改变方向",
+        "examples": [
+          {
+            "sentence": "The stock chart showed wild zigs after the policy announcement.",
+            "sentence_zh": "政策公布后股票走势图出现剧烈方向改变。"
+          },
+          {
+            "sentence": "His career path took an unexpected zig into livestreaming.",
+            "sentence_zh": "他的职业道路意外转向了直播行业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "急转",
+        "examples": [
+          {
+            "sentence": "The electric scooter zigs through Shanghai alleyways like a dragonfly.",
+            "sentence_zh": "电动车在上海弄堂里如蜻蜓般急转穿行。"
+          },
+          {
+            "sentence": "Tour buses zig carefully along the hairpin turns of Mount Huang.",
+            "sentence_zh": "旅游大巴在黄山发卡弯道上谨慎急转。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "zig and zag",
+        "meaning": "曲折行进",
+        "examples": [
+          {
+            "sentence": "Delivery riders zig and zag between traffic with practiced ease.",
+            "sentence_zh": "外卖骑手在车流中熟练地曲折穿行。"
+          }
+        ]
+      }
+    ],
+    "teach": "zig是灵活界的蛇皮走位王🐍！这个词自带BGM：'左三圈右三圈'🌀（zig and zag跳舞动作）。视觉化记忆：就像吃鸡游戏里的风骚走位🎮（战术zigging），或是重庆出租车司机的魔幻过弯🚖（legendary zigs）。搭配说'make a sharp zig'比'turn'更生动，地道表达'life zigs'形容人生急转弯🌪️",
+    "recite": {
+      "tips": [
+        "谐音梗：'急个'→紧急转弯时喊'急个弯！'",
+        "易混词：zig（主动转弯） vs. zag（被动反弹）"
+      ]
+    }
+  },
+  {
+    "word": "ziggurat",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自阿卡德语ziqqurratu，意为'高耸的建筑物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "古代亚述及巴比伦的金字形神塔",
+        "examples": [
+          {
+            "sentence": "The most famous ziggurat is the Tower of Babel mentioned in the Bible.",
+            "sentence_zh": "最著名的金字形神塔是圣经中提到的巴别塔。"
+          },
+          {
+            "sentence": "Tourists marvel at the well-preserved ziggurat in Ur, Iraq.",
+            "sentence_zh": "游客们惊叹于伊拉克乌尔保存完好的金字形神塔。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ziggurat temple",
+        "meaning": "金字形神殿",
+        "examples": [
+          {
+            "sentence": "The ziggurat temple was believed to connect heaven and earth.",
+            "sentence_zh": "人们相信金字形神殿连接着天地。"
+          }
+        ]
+      }
+    ],
+    "teach": "ziggurat其实是古代版的'天空之城'🏰！想象一下：巴比伦程序员用代码堆金字塔⌨️（build a ziggurat），塔顶神殿就像现代摩天楼的CEO办公室💼。搭配：'climb the ziggurat'就像职场晋升阶梯，'ziggurat of bureaucracy'吐槽官僚主义。记住：你的梦想就是建造自己的人生ziggurat！✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'贼高了'→古代金字塔贼高了",
+        "易混词对比：pyramid（埃及金字塔，锥形） vs ziggurat（阶梯形）",
+        "视觉联想：想象叠叠乐玩具堆成的神庙"
+      ]
+    }
+  },
+  {
+    "word": "zigzag",
+    "etymology": {
+      "breakdown": [
+        "zig",
+        "zag"
+      ],
+      "meaning_connection": "拟声词，模拟快速转折的声音，模仿Z字形路径的突然转向"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "曲折线条",
+        "examples": [
+          {
+            "sentence": "The toddler drew a zigzag that looked like lightning.",
+            "sentence_zh": "幼儿画的曲折线条像一道闪电。"
+          },
+          {
+            "sentence": "Mountain roads in Guizhou are full of dangerous zigzags.",
+            "sentence_zh": "贵州的山路布满危险的Z形弯道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "Z字形道路",
+        "examples": [
+          {
+            "sentence": "The Great Wall snakes through mountains with dramatic zigzags.",
+            "sentence_zh": "长城以壮观的Z字形路线蜿蜒于山间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "之字形的",
+        "examples": [
+          {
+            "sentence": "The drone captured zigzag irrigation channels in Yunnan.",
+            "sentence_zh": "无人机拍到了云南之字形的灌溉渠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "锯齿形的",
+        "examples": [
+          {
+            "sentence": "Pandas' teeth have zigzag edges for crushing bamboo.",
+            "sentence_zh": "熊猫的牙齿有锯齿形边缘以便碾碎竹子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "曲折地",
+        "examples": [
+          {
+            "sentence": "The drunk man walked zigzag across the hutong.",
+            "sentence_zh": "醉汉歪歪扭扭地穿过胡同。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成Z字形",
+        "examples": [
+          {
+            "sentence": "The designer zigzagged neon lights on the building facade.",
+            "sentence_zh": "设计师在建筑外立面布置了Z字形霓虹灯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "弯曲行进",
+        "examples": [
+          {
+            "sentence": "A snake zigzags through grassland like living calligraphy.",
+            "sentence_zh": "蛇像活的书法般在草地曲折前行。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in zigzag",
+        "meaning": "呈之字形",
+        "examples": [
+          {
+            "sentence": "Rice terraces cascade in zigzag down the hills.",
+            "sentence_zh": "梯田呈之字形从山腰层层跌落。"
+          }
+        ]
+      }
+    ],
+    "teach": "zigzag是世界上最活泼的单词！它像喝醉的书法家写的狂草𓀫，像重庆3D魔幻立交桥🌀，还像你躲避老板时走的蛇皮走位🐍。'走之字路'叫walk in zigzag，'曲折人生'用full of zigzags。记住：当生活zigzag时，就当在跳科目三！💃🕺🎢",
+    "recite": {
+      "tips": [
+        "谐音梗：'急个咋'→急个咋(zigzag)走位躲追杀",
+        "易混词：zigzag vs. squiggly（后者是无规则曲线）",
+        "记忆法：字母Z就是mini zigzag"
+      ]
+    }
+  },
+  {
+    "word": "zilch",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自1930年代美国俚语，可能模仿'zero'发音演变而来"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "一无所有",
+        "examples": [
+          {
+            "sentence": "After checking his Alipay balance, he realized he had zilch left for milk tea.",
+            "sentence_zh": "查看支付宝余额后，他发现根本没钱买奶茶了。"
+          },
+          {
+            "sentence": "The promised year-end bonus turned out to be zilch.",
+            "sentence_zh": "承诺的年终奖结果毛都没有。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小人物",
+        "examples": [
+          {
+            "sentence": "In the tech giant's eyes, we're all zilches with outdated phones.",
+            "sentence_zh": "在科技巨头眼里，我们用旧手机的都是无名小卒。"
+          },
+          {
+            "sentence": "He went from being a zilch to a TikTok celebrity overnight.",
+            "sentence_zh": "他从无名之辈一夜变成抖音网红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "零",
+        "examples": [
+          {
+            "sentence": "My motivation to work on weekends is zilch.",
+            "sentence_zh": "我周末工作的动力为零。"
+          },
+          {
+            "sentence": "The chance of winning lottery is practically zilch.",
+            "sentence_zh": "中彩票的概率基本等于零。"
+          }
+        ]
+      }
+    ],
+    "teach": "zilch是'零蛋'的祖宗级说法🥚！最早出现在美国漫画《Joe & Asbestos》里，后来被《星际迷航》带火🚀。说'穷得叮当响'叫dead broke，但用zilch更带喜感，比如'双十一后钱包zilch了'💸。搭配：feel like zilch（觉得自己啥也不是）/ end up with zilch（两手空空）。记住：当你的银行存款→zilch时，该叫妈妈打钱了📉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'吱了吃'→钱包吱了吃(zilch)西北风",
+        "对比记忆：zero是官方零分，zilch是戏精式哭穷"
+      ]
+    }
   }
 ]

@@ -1236,5 +1236,223 @@
         "易混词：facemask（口罩）是软的，faceplate是硬的"
       ]
     }
+  },
+  {
+    "word": "facet",
+    "etymology": {
+      "breakdown": [
+        "fac",
+        "et"
+      ],
+      "meaning_connection": "词根fac=面/脸（源自法语facette），后缀-et表小→原指宝石的小切面"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "(多面体的)面",
+        "examples": [
+          {
+            "sentence": "Each facet of the diamond reflected rainbows under laser light.",
+            "sentence_zh": "在激光下，钻石的每个切面都折射出彩虹光。"
+          },
+          {
+            "sentence": "The VR cube has 12 interactive facets for geometry learning.",
+            "sentence_zh": "这个VR立方体有12个可互动的面用于几何学习。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "方面",
+        "examples": [
+          {
+            "sentence": "The documentary explores every facet of panda conservation.",
+            "sentence_zh": "这部纪录片探讨了大熊猫保护的每个方面。"
+          },
+          {
+            "sentence": "WeChat Pay covers all facets of daily transactions.",
+            "sentence_zh": "微信支付覆盖日常交易的各个方面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "琢面",
+        "examples": [
+          {
+            "sentence": "The jeweler polished the 58 facets of the emerald.",
+            "sentence_zh": "珠宝匠打磨了这颗祖母绿的58个琢面。"
+          },
+          {
+            "sentence": "Facet angles determine a diamond's sparkle effect.",
+            "sentence_zh": "琢面角度决定钻石的闪耀效果。"
+          }
+        ]
+      }
+    ],
+    "teach": "facet是人生多棱镜🔮！就像吃重庆火锅：辣度是口味方面🌶️，毛肚是食材方面🐄，九宫格是容器方面◼️。要说'全面考虑'用consider every facet，'突出某个方面'用highlight this facet。记住：优秀的人像钻石，每个facet都闪亮✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥石头'→肥(fa)石头(cet)要切多面",
+        "易混词：face（整体脸） vs facet（小平面）",
+        "记忆术：FA-CET→ 水龙头(FAucet)出水口也是多孔面"
+      ]
+    }
+  },
+  {
+    "word": "faceted",
+    "etymology": {
+      "breakdown": [
+        "facet",
+        "ed"
+      ],
+      "meaning_connection": "词根facet=小平面（源自法语facette），后缀-ed表形容词→'具有小面的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有小面的",
+        "examples": [
+          {
+            "sentence": "The faceted diamond sparkled like a disco ball under the light.",
+            "sentence_zh": "多切面的钻石在灯光下像迪斯科球般闪耀。"
+          },
+          {
+            "sentence": "Her faceted sunglasses reflected rainbow patterns everywhere.",
+            "sentence_zh": "她的小切面太阳镜到处反射出彩虹光斑。"
+          }
+        ]
+      }
+    ],
+    "teach": "faceted就像被打磨的冰糖🍬！宝石切割师用'facet'这个词时，就像在说'我要给这颗钻石安排58个反光舞台'💎。说'人生多面性'可以讲life is faceted like a diamond，搭配'faceted glass（棱面玻璃杯）'喝气泡水更带感🥂。记住：每个facet都是光的T台！✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'face特多'→脸(facet)特别多的宝石",
+        "易混词对比：faceted vs. faded（前者是'多面的'，后者是'褪色的'）",
+        "记忆tip：想象微信图标💬的切面就是典型faceted设计"
+      ]
+    }
+  },
+  {
+    "word": "facetious",
+    "etymology": {
+      "breakdown": [
+        "fac",
+        "et",
+        "ious"
+      ],
+      "meaning_connection": "词根fac=脸（如face），-et表小，-ious表性质→原指'做鬼脸的'，引申为'滑稽的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "滑稽的",
+        "examples": [
+          {
+            "sentence": "The professor's facetious meme about calculus went viral on Zhihu.",
+            "sentence_zh": "教授关于微积分的滑稽梗图在知乎疯传。"
+          },
+          {
+            "sentence": "Her facetious TikTok dance with a mop got 10 million likes.",
+            "sentence_zh": "她拿着拖把跳的滑稽抖音舞获得千万点赞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "爱开玩笑的",
+        "examples": [
+          {
+            "sentence": "The facetious delivery guy always writes dad jokes on receipts.",
+            "sentence_zh": "那个爱开玩笑的外卖小哥总在收据上写冷笑话。"
+          },
+          {
+            "sentence": "Beware of his facetious comments during meetings - they're actually satire.",
+            "sentence_zh": "小心他开会时爱开玩笑的评论——其实是高级黑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "facetious remark",
+        "meaning": "戏谑的言论",
+        "examples": [
+          {
+            "sentence": "His facetious remark about the CEO's haircut caused awkward silence.",
+            "sentence_zh": "他关于CEO发型的戏谑发言引发了尴尬沉默。"
+          }
+        ]
+      }
+    ],
+    "teach": "facetious本质是'脸戏精'🎭！词根fac=脸（如face），古罗马小丑就爱做鬼脸(-et)逗乐(-ious)。要说'别当真'用just kidding就像扔彩带🎉，'幽默感'说sense of humor要像吃火锅般痛快🍲。记住：真正的facetious高手，连核酸检测都能编段子！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥西事儿'→合肥肥西人特爱开玩笑",
+        "易混词对比：facetious（滑稽的） vs. factious（好搞派系的）"
+      ]
+    }
+  },
+  {
+    "word": "facetiously",
+    "etymology": {
+      "breakdown": [
+        "facet",
+        "ious",
+        "ly"
+      ],
+      "meaning_connection": "词根facet=玩笑（来自法语facétie），-ious表性质，-ly变副词→带着玩笑性质的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "滑稽地",
+        "examples": [
+          {
+            "sentence": "He facetiously pretended to slip on a banana peel during the meeting.",
+            "sentence_zh": "他在会议上滑稽地假装踩到香蕉皮滑倒。"
+          },
+          {
+            "sentence": "The teacher facetiously graded the exam with emoji stickers.",
+            "sentence_zh": "老师用表情贴纸滑稽地给考试打分。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "爱开玩笑地",
+        "examples": [
+          {
+            "sentence": "My boss facetiously said my desk was now a standing desk after my chair disappeared.",
+            "sentence_zh": "老板开玩笑说我的椅子消失后桌子就成了站立式办公桌。"
+          },
+          {
+            "sentence": "She facetiously suggested using TikTok dances as our workout routine.",
+            "sentence_zh": "她开玩笑提议用抖音舞蹈作为我们的健身流程。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "speak facetiously",
+        "meaning": "用玩笑口吻说",
+        "examples": [
+          {
+            "sentence": "I was speaking facetiously when I said my cat writes my reports.",
+            "sentence_zh": "我说我的猫写报告时是在开玩笑。"
+          }
+        ]
+      }
+    ],
+    "teach": "facetiously是英语里唯一包含全部元音字母(a,e,i,o,u)按顺序排列的单词🎭！就像相声演员的折扇，表面正经(facet)突然抖包袱(-iously)。说'开玩笑的'可以用just kidding或for laughs🤪，形容人'幽默'说witty like a stand-up comedian。记住：这个单词本身就是个字母排列的玩笑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发色提哦死了'→染发剂说明书开玩笑说颜色太亮",
+        "易混词对比：facetious(幽默的) vs. factious(搞派系的)"
+      ]
+    }
   }
 ]

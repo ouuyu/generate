@@ -1060,5 +1060,365 @@
         "记忆tip：想象字母b是两串肉，a是叉子"
       ]
     }
+  },
+  {
+    "word": "keel",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'kjǫlr'，指船底中央的龙骨结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "龙骨",
+        "examples": [
+          {
+            "sentence": "The archaeologists found a Viking ship's keel preserved in the ice.",
+            "sentence_zh": "考古学家在冰层中发现保存完好的维京船龙骨。"
+          },
+          {
+            "sentence": "Like the keel of a ship, your backbone keeps you upright.",
+            "sentence_zh": "就像船的龙骨，你的脊椎让你保持直立。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "平底船",
+        "examples": [
+          {
+            "sentence": "We crossed the lake in a traditional keel.",
+            "sentence_zh": "我们乘传统平底船穿越湖泊。"
+          },
+          {
+            "sentence": "The keel is ideal for shallow waters due to its flat bottom.",
+            "sentence_zh": "平底船因其平坦的底部非常适合浅水区。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "装以龙骨",
+        "examples": [
+          {
+            "sentence": "The shipwright keeled the hull before adding the ribs.",
+            "sentence_zh": "造船工在安装肋骨前先给船体装了龙骨。"
+          },
+          {
+            "sentence": "They keeled the fishing boat to make it more stable.",
+            "sentence_zh": "他们给渔船装上龙骨以提高稳定性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "倾覆",
+        "examples": [
+          {
+            "sentence": "The overloaded canoe keeled over in the strong current.",
+            "sentence_zh": "超载的独木舟在急流中倾覆了。"
+          },
+          {
+            "sentence": "When the whale surfaced, our small boat nearly keeled.",
+            "sentence_zh": "鲸鱼浮出水面时，我们的小船差点倾覆。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keel over",
+        "meaning": "突然倒下",
+        "examples": [
+          {
+            "sentence": "After running the marathon, he keeled over from exhaustion.",
+            "sentence_zh": "跑完马拉松后，他因精疲力竭突然倒下。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "on an even keel",
+        "meaning": "平稳状态",
+        "examples": [
+          {
+            "sentence": "Meditation helps keep my emotions on an even keel.",
+            "sentence_zh": "冥想帮助我的情绪保持平稳。"
+          }
+        ]
+      }
+    ],
+    "teach": "keel就像船的脊椎骨🦴！维京战船用龙骨劈波斩浪⚔️（keel of a ship），而'keel over'形容喝醉像被浪打翻的船🍺（keel over drunk）。说'情绪稳定'用on an even keel像平稳航行的船⛵，'突然倒下'用keel over比fall更有画面感！记住：龙骨决定船能走多远，你的意志决定人生航程🌊",
+    "recite": {
+      "tips": [
+        "谐音梗：'抠了'→船底被抠了(keel)个龙骨",
+        "易混词对比：keel vs. kneel（跪下）",
+        "记忆tip：想象K字像倾斜的船🚢"
+      ]
+    }
+  },
+  {
+    "word": "keen",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语cēne（勇敢的），与德语kühn（大胆的）同源，后发展出多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "锋利的",
+        "examples": [
+          {
+            "sentence": "The chef's keen knife sliced through the Peking duck like butter.",
+            "sentence_zh": "主厨锋利的刀切北京烤鸭如切黄油般顺滑。"
+          },
+          {
+            "sentence": "Be careful with that keen razor blade!",
+            "sentence_zh": "小心那把锋利的剃须刀片！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "敏锐的",
+        "examples": [
+          {
+            "sentence": "With her keen eye, she spotted the typo in the contract immediately.",
+            "sentence_zh": "凭借敏锐的目光，她立刻发现了合同中的错字。"
+          },
+          {
+            "sentence": "The detective's keen observation solved the mystery in minutes.",
+            "sentence_zh": "侦探敏锐的观察力几分钟就破解了谜案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "强烈的",
+        "examples": [
+          {
+            "sentence": "There's a keen competition for the last mooncake in the office.",
+            "sentence_zh": "办公室里对最后一个月饼的争夺异常激烈。"
+          },
+          {
+            "sentence": "He felt a keen disappointment when his WeChat red packet was only 0.01 yuan.",
+            "sentence_zh": "当微信红包只有0.01元时，他感到强烈的失望。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "敏捷的",
+        "examples": [
+          {
+            "sentence": "The delivery guy showed keen reflexes dodging pedestrians.",
+            "sentence_zh": "快递小哥闪避行人时展现出敏捷的反应。"
+          },
+          {
+            "sentence": "Her keen movements won her the mobile game championship.",
+            "sentence_zh": "她敏捷的动作为她赢得了手游比赛冠军。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "热心的",
+        "examples": [
+          {
+            "sentence": "He's always keen to help newcomers with their first hotpot experience.",
+            "sentence_zh": "他总是热心地帮助新人体验第一次火锅。"
+          },
+          {
+            "sentence": "The teacher was keen on making calligraphy fun for kids.",
+            "sentence_zh": "这位老师热衷于让孩子们觉得书法有趣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "渴望的",
+        "examples": [
+          {
+            "sentence": "Fresh graduates are keen to join tech giants like Tencent.",
+            "sentence_zh": "应届毕业生渴望加入腾讯这样的科技巨头。"
+          },
+          {
+            "sentence": "She's keen for a taste of authentic Sichuan cuisine.",
+            "sentence_zh": "她渴望品尝正宗的川菜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "挽歌",
+        "examples": [
+          {
+            "sentence": "The Irish band played a traditional keen at the funeral.",
+            "sentence_zh": "爱尔兰乐队在葬礼上演奏了传统挽歌。"
+          },
+          {
+            "sentence": "Ancient Chinese keen was often accompanied by the guqin.",
+            "sentence_zh": "中国古代挽歌常以古琴伴奏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "痛哭",
+        "examples": [
+          {
+            "sentence": "The village women raised a loud keen for the deceased.",
+            "sentence_zh": "村中妇女为逝者大声痛哭。"
+          },
+          {
+            "sentence": "Her keen could be heard throughout the hospital corridor.",
+            "sentence_zh": "她的痛哭声传遍了医院走廊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "唱挽歌",
+        "examples": [
+          {
+            "sentence": "The mourners keened throughout the night vigil.",
+            "sentence_zh": "守夜人整夜唱挽歌。"
+          },
+          {
+            "sentence": "In some cultures, professional mourners are hired to keen.",
+            "sentence_zh": "某些文化中会雇佣专业哭丧人唱挽歌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "痛哭",
+        "examples": [
+          {
+            "sentence": "She keened over her broken smartphone screen.",
+            "sentence_zh": "她为摔碎的手机屏幕痛哭。"
+          },
+          {
+            "sentence": "The whole family keened when their pet panda escaped.",
+            "sentence_zh": "当宠物熊猫逃走时，全家人痛哭。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keen on",
+        "meaning": "热衷于",
+        "examples": [
+          {
+            "sentence": "Gen Z is especially keen on blind box collections.",
+            "sentence_zh": "Z世代特别热衷于盲盒收集。"
+          },
+          {
+            "sentence": "My grandma is surprisingly keen on TikTok dances.",
+            "sentence_zh": "我奶奶出人意料地热衷于抖音舞蹈。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "as keen as mustard",
+        "meaning": "极其热心",
+        "examples": [
+          {
+            "sentence": "The intern is as keen as mustard to learn about AI.",
+            "sentence_zh": "这个实习生学习AI的热情极高。"
+          },
+          {
+            "sentence": "He was as keen as mustard to try stinky tofu for the first time.",
+            "sentence_zh": "他第一次尝试臭豆腐时热情高涨。"
+          }
+        ]
+      }
+    ],
+    "teach": "这个词就像火锅涮肉🥢：'锋利'如片羊肉的刀🔪，'敏锐'像吃货闻香定位🍲，'强烈'似四川锅底辣度🌶️，'渴望'堪比等外卖时的眼神👀。'挽歌'用法来自爱尔兰传统，像古琴曲《广陵散》🎵。实用搭配：说'痴迷奶茶'用keen on bubble tea，形容人热情用as keen as mustard（像芥末一样冲）💨",
+    "recite": {
+      "tips": [
+        "谐音梗：'啃'→对知识如饥似渴地'啃'书本",
+        "易混词对比：sharp仅指物理锋利，keen可指思维敏锐",
+        "记忆口诀：keen五感→眼利、耳尖、鼻灵、舌敏、心热"
+      ]
+    }
+  },
+  {
+    "word": "keenly",
+    "etymology": {
+      "breakdown": [
+        "keen",
+        "ly"
+      ],
+      "meaning_connection": "keen源自古英语'cēne'（勇敢的），后缀-ly构成副词→如刀锋般锐利延伸出多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "锐利地",
+        "examples": [
+          {
+            "sentence": "The chef's knife cut keenly through the frozen dumpling.",
+            "sentence_zh": "厨师的刀锋利地切开冻饺子。"
+          },
+          {
+            "sentence": "Her gaze was keenly observing the AI-generated painting.",
+            "sentence_zh": "她锐利的目光审视着AI生成的画作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "敏捷地",
+        "examples": [
+          {
+            "sentence": "Pandas don't react keenly to zookeepers' calls - they prefer bamboo.",
+            "sentence_zh": "熊猫对饲养员的呼唤反应并不敏捷——它们更爱竹子。"
+          },
+          {
+            "sentence": "The e-sports player moved his fingers keenly across the mechanical keyboard.",
+            "sentence_zh": "电竞选手的手指在机械键盘上敏捷移动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "激烈地",
+        "examples": [
+          {
+            "sentence": "Netizens debated keenly about the new emoji designs.",
+            "sentence_zh": "网友们就新表情包设计激烈辩论。"
+          },
+          {
+            "sentence": "Two food delivery drivers were competing keenly outside the hotpot restaurant.",
+            "sentence_zh": "两名外卖骑手在火锅店外激烈抢单。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "feel keenly",
+        "meaning": "强烈感受",
+        "examples": [
+          {
+            "sentence": "Generation Z feels keenly about work-life balance.",
+            "sentence_zh": "Z世代对工作生活平衡感受强烈。"
+          }
+        ]
+      }
+    ],
+    "teach": "keenly像升级版'Duang'特效💥！古人用'keen'形容宝剑寒光（锐利地🔪），现代用来夸人脑瓜灵光（敏捷地🧠），还能形容直播带货抢红包的手速（激烈地💸）。搭配'feel keenly'比'deeply'更带感，就像火锅辣度从微辣直接跳到变态辣🌶️！记住：当你说'I feel it keenly'，等于在胸口比划了个扎心动作💔",
+    "recite": {
+      "tips": [
+        "谐音梗：'Ki你哩'→Ki你(keenly)一刀见血",
+        "对比记忆：sharply侧重物理尖锐，keenly更抽象"
+      ]
+    }
   }
 ]

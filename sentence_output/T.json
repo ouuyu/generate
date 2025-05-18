@@ -1169,5 +1169,306 @@
         "记忆术：TAB+ULAR→把TAB(标签页)拉(ULAR)成表格"
       ]
     }
+  },
+  {
+    "word": "tabulate",
+    "etymology": {
+      "breakdown": [
+        "tabula",
+        "ate"
+      ],
+      "meaning_connection": "词根tabula=平板/表格，后缀-ate表动词化→原指在平板上记录，引申出制表和平面化两种含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "作成表格",
+        "examples": [
+          {
+            "sentence": "The AI tabulates Douyin user data into colorful charts.",
+            "sentence_zh": "AI将抖音用户数据整理成彩色图表。"
+          },
+          {
+            "sentence": "Archaeologists tabulate findings like ancient Excel users.",
+            "sentence_zh": "考古学家像古代Excel用户一样整理发现物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成平面",
+        "examples": [
+          {
+            "sentence": "3D printers tabulate liquid resin into smooth layers.",
+            "sentence_zh": "3D打印机将液体树脂固化成平整层面。"
+          },
+          {
+            "sentence": "The machine tabulates crumpled paper for recycling.",
+            "sentence_zh": "这台机器将皱纸压平以便回收。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "平板状的",
+        "examples": [
+          {
+            "sentence": "The tabulate coral fossil looks like a honeycomb pancake.",
+            "sentence_zh": "板状珊瑚化石像蜂巢煎饼。"
+          },
+          {
+            "sentence": "His tabulate phone case doubles as a mini desk.",
+            "sentence_zh": "他平板状的手机壳还能当迷你桌面用。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tabulated data",
+        "meaning": "表格化数据",
+        "examples": [
+          {
+            "sentence": "Weibo hot searches are displayed as tabulated data.",
+            "sentence_zh": "微博热搜以表格化数据呈现。"
+          }
+        ]
+      }
+    ],
+    "teach": "tabulate是表格界的熨斗📊：动词时像Excel成精🤖（tabulate statistics），形容词时像被压路机碾过🛣️（tabulate surface）。古人用蜡板(tabula)记账，现代人说'做表'用knock up a spreadsheet👩💻。要吐槽无聊会议？说'This could've been an email'比做三小时表格强💤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太表了'→这表格做得太表了(tabulate)",
+        "易混词：tablet是平板电脑，tabulate是让它变平"
+      ]
+    }
+  },
+  {
+    "word": "tabulated",
+    "etymology": {
+      "breakdown": [
+        "tabula",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根tabula=木板/表格（古罗马人在蜡板上刻字记账），-ate表动词化，-ed表过去式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "将...制成表格",
+        "examples": [
+          {
+            "sentence": "The census data was tabulated on bamboo slips in Han Dynasty.",
+            "sentence_zh": "汉朝的人口普查数据被记录在竹简上制成表格。"
+          },
+          {
+            "sentence": "She tabulated all Mahjong scores with emoji annotations.",
+            "sentence_zh": "她用表情符号注释将所有麻将分数制表。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tabulated results",
+        "meaning": "表格化结果",
+        "examples": [
+          {
+            "sentence": "The tabulated results reveal 73% of students sneak snacks into class.",
+            "sentence_zh": "表格化结果显示73%的学生会偷带零食进教室。"
+          }
+        ]
+      }
+    ],
+    "teach": "tabulated是Excel的祖宗📜！古罗马会计(tabula)在蜡板上刻数字，就像现代人用WPS制表📊。说'数据可视化'叫crunch numbers（嚼碎数字），'手工制表'可说old-school tabulating。记住：当老板要tabulated data时，其实就想看你的PPT能不能像火锅菜单一样清晰🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'特别累的'→制表(tabulated)特别累的",
+        "易混词对比：table（桌子） vs tabulate（制表）→桌子放表格"
+      ]
+    }
+  },
+  {
+    "word": "tabulation",
+    "etymology": {
+      "breakdown": [
+        "tabula",
+        "tion"
+      ],
+      "meaning_connection": "词根tabula=平板/表格（拉丁语），-tion表行为结果→制表行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "作表",
+        "examples": [
+          {
+            "sentence": "The tabulation of exam scores took three pandas eating bamboo breaks.",
+            "sentence_zh": "统计考试成绩需要三只熊猫吃竹子的时间。"
+          },
+          {
+            "sentence": "Ancient accountants did tabulation on clay tablets – the original Excel spreadsheet.",
+            "sentence_zh": "古代会计在泥板上制表——最早的Excel表格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "表格",
+        "examples": [
+          {
+            "sentence": "This tabulation shows how many milk teas were sacrificed for the project.",
+            "sentence_zh": "这份表格显示了为项目献祭了多少杯奶茶。"
+          },
+          {
+            "sentence": "The tabulation of Dynasty Warriors KO counts looks like a phone number.",
+            "sentence_zh": "《真三国无双》击破数的表格长得像电话号码。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "data tabulation",
+        "meaning": "数据制表",
+        "examples": [
+          {
+            "sentence": "Data tabulation is the reason why spreadsheets exist – to make accountants cry less.",
+            "sentence_zh": "电子表格存在的意义就是数据制表——为了让会计少流泪。"
+          }
+        ]
+      }
+    ],
+    "teach": "tabulation其实是'平板运动'📜：古罗马人在蜡板(tabula)上记账就像现代人用Excel📊。说'表格混乱'叫a hot mess（麻辣烫式混乱），'整理数据'叫tame the data就像驯服野生熊猫🐼。记住：你的tabulation技能决定你是数据分析师还是数据'粽'师（把数据包成一团）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'特别累神'→制表特别累神",
+        "易混词对比：tablet（平板）是tabulation（制表）的工具"
+      ]
+    }
+  },
+  {
+    "word": "tachycardia",
+    "etymology": {
+      "breakdown": [
+        "tachy",
+        "card",
+        "ia"
+      ],
+      "meaning_connection": "希腊词根tachy=快速，card=心脏，-ia表疾病状态→心脏跳动过快的病症"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "心动过速",
+        "examples": [
+          {
+            "sentence": "Drinking three cups of boba tea triggered my tachycardia.",
+            "sentence_zh": "喝了三杯珍珠奶茶引发了我的心动过速。"
+          },
+          {
+            "sentence": "The athlete's tachycardia reached 200 BPM during the marathon.",
+            "sentence_zh": "该运动员在马拉松期间心动过速达到每分钟200次。"
+          }
+        ]
+      }
+    ],
+    "teach": "tachycardia其实是'心在蹦迪'💃！希腊词根tachy是'快'（像特斯拉的tachometer转速表🚗），cardia是'心脏'（和cardiology心脏病学同源）。当你看到爱豆时小鹿乱撞🦌，医生会说这是physiological tachycardia（生理性心动过速）。记住：正常心跳是'动次打次'，tachycardia是'动动动次打次次次'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太急卡地亚'→心跳太急像卡地亚手表秒针狂奔⌚",
+        "易混词对比：bradycardia（心动过缓）是树懒心率，tachycardia是蜂鸟心率🐦"
+      ]
+    }
+  },
+  {
+    "word": "tacit",
+    "etymology": {
+      "breakdown": [
+        "tac",
+        "it"
+      ],
+      "meaning_connection": "词根tac=沉默（同源词taciturn），-it为形容词后缀→保持沉默的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "沉默寡言的",
+        "examples": [
+          {
+            "sentence": "The tacit old man communicated through handwritten notes.",
+            "sentence_zh": "那位沉默寡言的老人通过手写纸条交流。"
+          },
+          {
+            "sentence": "Japanese salarymen often appear tacit during morning commutes.",
+            "sentence_zh": "日本上班族在早高峰时常常显得沉默寡言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不苟言笑的",
+        "examples": [
+          {
+            "sentence": "Her tacit expression during the stand-up comedy confused the performers.",
+            "sentence_zh": "她在单口喜剧表演时不苟言笑的表情让演员很困惑。"
+          },
+          {
+            "sentence": "The panda keeper maintains a tacit demeanor despite the cubs' antics.",
+            "sentence_zh": "尽管熊猫幼崽各种耍宝，饲养员仍保持不苟言笑的神态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "缄默的",
+        "examples": [
+          {
+            "sentence": "There was tacit agreement not to mention the failed hotpot experiment.",
+            "sentence_zh": "大家心照不宣地缄口不提那次失败的火锅实验。"
+          },
+          {
+            "sentence": "His tacit refusal to comment spoke louder than words.",
+            "sentence_zh": "他缄默不语的拒绝比任何言语都有力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tacit approval",
+        "meaning": "默许",
+        "examples": [
+          {
+            "sentence": "The boss's tacit approval led to more casual Fridays.",
+            "sentence_zh": "老板的默许导致了更随性的周五着装。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tacit understanding",
+        "meaning": "默契",
+        "examples": [
+          {
+            "sentence": "There's a tacit understanding that the last dumpling belongs to grandma.",
+            "sentence_zh": "最后一个饺子属于奶奶是全家人的默契。"
+          }
+        ]
+      }
+    ],
+    "teach": "tacit是'沉默是金'的最佳代言人🤐！这个词源于罗马法庭术语，证人右手按左胸(tacit-心)表示'无声宣誓'⚖️。说'心照不宣'用tacit agreement就像火锅局里互相递纸巾的默契🍲，'社恐发作'可以调侃为tacit mode activated📴。记住：tacit的人就像未开封的老陈醋——内涵都在沉默里酝酿！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太息特'→太爱叹息特别沉默",
+        "易混词：tacit（内在沉默） vs. quiet（外在安静）",
+        "联想：TACIT=Totally Avoid Communicating In Talk"
+      ]
+    }
   }
 ]

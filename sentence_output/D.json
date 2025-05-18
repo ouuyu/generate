@@ -1110,5 +1110,299 @@
         "易混词：delicately（脆弱地） vs daintily（刻意优雅）"
       ]
     }
+  },
+  {
+    "word": "dainty",
+    "etymology": {
+      "breakdown": [
+        "dain",
+        "ty"
+      ],
+      "meaning_connection": "源自古法语'daintié'（精致），词根'dain'与'尊严'相关，-ty为形容词后缀，原指'值得尊重的精致'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "秀丽的",
+        "examples": [
+          {
+            "sentence": "The dainty porcelain teacups resembled blooming cherry blossoms.",
+            "sentence_zh": "这些秀丽的瓷茶杯宛如盛开的樱花。"
+          },
+          {
+            "sentence": "Her dainty handwriting looked like dancing fireflies on the paper.",
+            "sentence_zh": "她秀丽的字迹像纸上飞舞的萤火虫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "美味的",
+        "examples": [
+          {
+            "sentence": "The dainty mooncakes with lotus paste melted in my mouth.",
+            "sentence_zh": "莲蓉月饼的美味在口中化开。"
+          },
+          {
+            "sentence": "Grandma's dainty osmanthus cakes always disappear within minutes.",
+            "sentence_zh": "外婆做的美味桂花糕总是几分钟内被抢光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "讲究的",
+        "examples": [
+          {
+            "sentence": "The dainty old gentleman insists on using ivory chopsticks.",
+            "sentence_zh": "这位讲究的老先生坚持使用象牙筷子。"
+          },
+          {
+            "sentence": "Her dainty tea ceremony involves 18 precise steps.",
+            "sentence_zh": "她讲究的茶道包含18道精确步骤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "挑剔的",
+        "examples": [
+          {
+            "sentence": "The dainty panda refuses to eat bamboo stalks with blemishes.",
+            "sentence_zh": "这只挑剔的大熊猫拒绝吃有瑕疵的竹竿。"
+          },
+          {
+            "sentence": "My dainty cat turns her nose up at any fish below ¥100/kg.",
+            "sentence_zh": "我家挑剔的猫对每公斤低于100元的鱼都不屑一顾。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dainty eater",
+        "meaning": "挑食者",
+        "examples": [
+          {
+            "sentence": "The dainty eater pushed away the durian like it was nuclear waste.",
+            "sentence_zh": "这个挑食者推开榴莲就像在躲避核废料。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dainty step",
+        "meaning": "优雅步伐",
+        "examples": [
+          {
+            "sentence": "The Peking opera performer moved with dainty steps on bound feet.",
+            "sentence_zh": "京剧演员缠足上的优雅步伐令人惊叹。"
+          }
+        ]
+      }
+    ],
+    "teach": "dainty是'精致强迫症'代名词💅！它像苏州园林的漏窗（秀丽），像米其林三星的分子料理（美味），像用显微镜吃大闸蟹的上海人（讲究），更像只喝特定山头龙井的茶客（挑剔）🍃。记住：说人'作'可以用dainty作褒义掩护，夸甜点就说'This is dainty AF!' 🍰",
+    "recite": {
+      "tips": [
+        "谐音梗：'鼎泰丰'→鼎泰丰(dainty)的小笼包最精致",
+        "易混词：delicate偏脆弱，dainty偏精致"
+      ]
+    }
+  },
+  {
+    "word": "dairy",
+    "etymology": {
+      "breakdown": [
+        "daege",
+        "ery"
+      ],
+      "meaning_connection": "古英语daege意为'挤奶女工'，后缀-ery表场所→最初指挤奶场所，后衍生出乳制品相关含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "牛奶公司",
+        "examples": [
+          {
+            "sentence": "Mengniu Dairy sponsors many sports events in China.",
+            "sentence_zh": "蒙牛乳业赞助中国多项体育赛事。"
+          },
+          {
+            "sentence": "The dairy recalled contaminated milk powder last week.",
+            "sentence_zh": "该乳品公司上周召回了污染奶粉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "乳品店",
+        "examples": [
+          {
+            "sentence": "I buy yogurt from the 24-hour dairy near my compound.",
+            "sentence_zh": "我从小区旁的24小时乳品店买酸奶。"
+          },
+          {
+            "sentence": "This century-old dairy still uses glass milk bottles.",
+            "sentence_zh": "这家百年乳品店仍使用玻璃奶瓶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "乳牛场",
+        "examples": [
+          {
+            "sentence": "Robots milk cows in modern dairies in Inner Mongolia.",
+            "sentence_zh": "内蒙古现代化牧场用机器人挤奶。"
+          },
+          {
+            "sentence": "The dairy covers an area equivalent to 200 football fields.",
+            "sentence_zh": "这个奶牛场面积相当于200个足球场。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dairy products",
+        "meaning": "乳制品",
+        "examples": [
+          {
+            "sentence": "Lactose intolerance people should avoid dairy products.",
+            "sentence_zh": "乳糖不耐受人群应避免乳制品。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dairy cattle",
+        "meaning": "乳牛",
+        "examples": [
+          {
+            "sentence": "Holsteins are the most common dairy cattle worldwide.",
+            "sentence_zh": "荷斯坦牛是全球最常见的乳牛品种。"
+          }
+        ]
+      }
+    ],
+    "teach": "dairy是'奶里奶气'的单词🐄！古代英国挤奶女工(daege)的工坊演变成今天的蒙牛车间🚜。说'乳糖不耐'叫dairy allergy，买奶茶说'no dairy'就是去乳版🧋。记住：看到dairy就想到三件事——流水线上的利乐包🥛、巷口哞哞叫的送奶车🚚、内蒙古草原的旋转挤奶机🤖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'带二姨'→带二姨逛乳品店",
+        "易混词对比：diary（日记）少个a就变成写日记",
+        "记忆tip：dairy有air（空气），牛奶要空气密封保鲜"
+      ]
+    }
+  },
+  {
+    "word": "dairying",
+    "etymology": {
+      "breakdown": [
+        "dairy",
+        "ing"
+      ],
+      "meaning_connection": "词根dairy=乳制品场，后缀-ing表行业/活动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "乳制品业",
+        "examples": [
+          {
+            "sentence": "Inner Mongolia thrives on dairying, producing 20% of China's milk.",
+            "sentence_zh": "内蒙古以乳制品业闻名，产量占全国20%。"
+          },
+          {
+            "sentence": "Modern dairying uses robots to milk cows at 4am.",
+            "sentence_zh": "现代乳制品业用机器人在凌晨4点挤奶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "organic dairying",
+        "meaning": "有机乳品业",
+        "examples": [
+          {
+            "sentence": "Organic dairying forbids growth hormones in cows.",
+            "sentence_zh": "有机乳品业禁止对奶牛使用生长激素。"
+          }
+        ]
+      }
+    ],
+    "teach": "dairying是'牛魔王经济学'🐄！古代北欧人用牛角当货币💰（真·牛市），现代乳制品业则发明了'奶牛Fitbit'监测反刍步数👟。说'小作坊'叫mom-and-pop dairy，'工业化生产'是mega-dairying。记住：你的奶茶自由全靠dairying！🥛🚜🧑‍🌾",
+    "recite": {
+      "tips": [
+        "谐音梗：'带瑞英'→带着瑞典人(dairy-ing)参观牧场",
+        "易混词：diary（日记）vs dairy（乳制品）→奶牛不写日记",
+        "记忆法：dairy+ing=持续产出牛奶的事业"
+      ]
+    }
+  },
+  {
+    "word": "dairyman",
+    "etymology": {
+      "breakdown": [
+        "dairy",
+        "man"
+      ],
+      "meaning_connection": "dairy（牛奶场）+ man（人）→ 与乳制品相关工作的人员"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "牛奶场男工",
+        "examples": [
+          {
+            "sentence": "The dairyman gets up at 4am to milk the cows.",
+            "sentence_zh": "这位牛奶场工人凌晨4点起床挤牛奶。"
+          },
+          {
+            "sentence": "As a dairyman, his hands always smell like fresh milk.",
+            "sentence_zh": "作为牛奶场工人，他的双手总带着鲜奶的味道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "牛奶及乳品商人",
+        "examples": [
+          {
+            "sentence": "The dairyman delivers organic yogurt to our neighborhood every Thursday.",
+            "sentence_zh": "这位乳品商人每周四给我们社区配送有机酸奶。"
+          },
+          {
+            "sentence": "My grandfather was a dairyman who sold cheese at the farmer's market.",
+            "sentence_zh": "我祖父曾是位在农贸市场卖奶酪的乳品商人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "牛奶场主",
+        "examples": [
+          {
+            "sentence": "The dairyman invested in robotic milking machines last year.",
+            "sentence_zh": "这位牛奶场主去年投资了自动化挤奶机。"
+          },
+          {
+            "sentence": "As the dairyman of this ranch, he oversees 200 Holstein cows.",
+            "sentence_zh": "作为这个牧场的场主，他管理着200头荷斯坦奶牛。"
+          }
+        ]
+      }
+    ],
+    "teach": "dairyman是行走的牛奶百科全书🐄！这个词自带牧场BGM：晨光中挤奶的沙沙声🥛，运送奶罐车的轰鸣声🚛，还有市场里讨价还价声💰。想吐槽'工作辛苦'可以说work like a dairyman（像奶农一样干活），'乳制品爱好者'叫dairy enthusiast。记住这三个M：Milk（奶）、Man（人）、Money（钱）💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'带热馒头'→奶场工人带着热馒头去工作",
+        "易混词对比：dairy（乳制品） vs diary（日记）→ 'A' for 'milk'",
+        "形象记忆：把dairyman拆成'dairy+man'，想象漫威新英雄'奶超人'"
+      ]
+    }
   }
 ]

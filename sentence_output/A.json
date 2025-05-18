@@ -1112,5 +1112,277 @@
         "易混词：abbot（男修道院长）就像batman和batwoman的区别"
       ]
     }
+  },
+  {
+    "word": "abbey",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'abatia'，经古法语'abaïe'演变而来，原指宗教领袖的居所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大修道院",
+        "examples": [
+          {
+            "sentence": "The Westminster Abbey has hosted every British coronation since 1066.",
+            "sentence_zh": "威斯敏斯特大教堂自1066年起承办所有英国加冕礼。"
+          },
+          {
+            "sentence": "Tourists mistake the abbey's wine cellar for a bomb shelter.",
+            "sentence_zh": "游客们误把修道院的酒窖当成了防空洞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abbey road",
+        "meaning": "修道院之路（特指伦敦著名录音棚）",
+        "examples": [
+          {
+            "sentence": "The Beatles' final album cover was shot on Abbey Road.",
+            "sentence_zh": "披头士最后一张专辑封面拍摄于艾比路。"
+          },
+          {
+            "sentence": "Fans recreate the Abbey Road crossing photo every 10 minutes.",
+            "sentence_zh": "乐迷们每十分钟就会重现一次艾比路斑马线经典照片。"
+          }
+        ]
+      }
+    ],
+    "teach": "abbey是修士们的'修仙小区'🏰！中世纪修道院就像综合大学+农场+医院🍷，著名的西敏寺修道院地下埋着牛顿和狄更斯（学霸邻居啊📚）。说'与世隔绝'可以叫live like in an abbey，'严肃场合'说as solemn as an abbey。记住：这里既生产啤酒也保存文明！",
+    "recite": {
+      "tips": [
+        "谐音梗：'A杯'→A杯(abbey)大小的教堂",
+        "易混词：monastery（男修道院）vs convent（女修道院）",
+        "记忆法：联想AB字母塔→最高的宗教建筑"
+      ]
+    }
+  },
+  {
+    "word": "abbot",
+    "etymology": {
+      "breakdown": [
+        "abba",
+        "ot"
+      ],
+      "meaning_connection": "来自阿拉姆语'abba'(父亲) + 古英语后缀'-ot'(表示人)→原指'精神之父'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "男修道院院长",
+        "examples": [
+          {
+            "sentence": "The abbot led vespers with a voice as deep as monastery wine cellars.",
+            "sentence_zh": "院长用酒窖般深沉的嗓音主持晚祷。"
+          },
+          {
+            "sentence": "Young monks secretly called their strict abbot 'the WiFi router' - he controlled all connections to God.",
+            "sentence_zh": "年轻僧侣私下称严厉的院长为'WiFi路由器'——他掌控所有与神的连接。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大寺院男住持",
+        "examples": [
+          {
+            "sentence": "The abbot of Shaolin Temple demonstrated kung fu while reciting Buddhist scriptures.",
+            "sentence_zh": "少林寺住持边展示功夫边诵经。"
+          },
+          {
+            "sentence": "Visitors mistook the abbot's simple robe for poverty, not knowing it cost three months' alms.",
+            "sentence_zh": "游客误以为住持的素袍寒酸，却不知它值三个月香火钱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abbot primate",
+        "meaning": "修道院总会长",
+        "examples": [
+          {
+            "sentence": "The election of abbot primate is more intense than papal conclave for Benedictines.",
+            "sentence_zh": "本笃会修道院总会长的选举比教皇选举还激烈。"
+          }
+        ]
+      }
+    ],
+    "teach": "abbot其实是'超级奶爸'👨‍🍼！中世纪修道院长就像CEO+HR+物业经理🤵♂️，既要管灵魂(abbot词源是爸爸)，又要管修道院WiFi密码📶。搭配说'abbot's chair'(院长宝座比电竞椅还贵)或'abbot's seal'(盖章比公司公章还神圣)。吐槽'工作狂'可以说he works like an abbot🐫（像苦修院长）。记住：方丈头上没头发，但有光环💫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱抱他'→院长最爱抱小和尚",
+        "易混词：abbot vs rabbit→院长(abbot)养兔子(rabbit)",
+        "记忆tip：ABB(奥迪)+ot(老头)→开奥迪的白胡子院长"
+      ]
+    }
+  },
+  {
+    "word": "abbreviate",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "brevi",
+        "ate"
+      ],
+      "meaning_connection": "前缀ab-表示'加强'，词根brevi来自拉丁语'brevis'=短的，-ate为动词后缀→使其变短"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "缩写",
+        "examples": [
+          {
+            "sentence": "NASA abbreviates 'National Aeronautics and Space Administration'.",
+            "sentence_zh": "NASA是'美国国家航空航天局'的缩写。"
+          },
+          {
+            "sentence": "Gen Z often abbreviates 'laugh out loud' to LOL.",
+            "sentence_zh": "Z世代常把'放声大笑'缩写为LOL。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使简略",
+        "examples": [
+          {
+            "sentence": "The professor abbreviated the 3-hour lecture into 10 key points.",
+            "sentence_zh": "教授把3小时的讲座精简为10个要点。"
+          },
+          {
+            "sentence": "I abbreviated my 2000-word essay to meet the limit.",
+            "sentence_zh": "我把2000字的文章简略到符合字数限制。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "使用缩写词",
+        "examples": [
+          {
+            "sentence": "Medical professionals abbreviate frequently in prescriptions.",
+            "sentence_zh": "医疗专业人员常在处方中使用缩写词。"
+          },
+          {
+            "sentence": "WeChat users abbreviate words to type faster.",
+            "sentence_zh": "微信用户为快速输入而使用缩写词。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abbreviate...to...",
+        "meaning": "把...缩写为...",
+        "examples": [
+          {
+            "sentence": "We abbreviate 'application' to 'app' now.",
+            "sentence_zh": "我们现在把'application'缩写为'app'。"
+          }
+        ]
+      }
+    ],
+    "teach": "abbreviate就像文字压缩包🗜️！罗马士兵用brevi(短)盾牌挡箭🛡️，现代人用缩写对抗信息爆炸💥。说'缩得太狠'用over-abbreviated就像被压扁的易拉罐🥫，'行业黑话'叫jargon abbreviations好比密码电报📟。记住：缩写是懒人的智慧，但别把'thank you'缩写成TU（吐）🤮！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊不热喂它'→太长不读(abbreviate)",
+        "对比记忆：abridge侧重内容删减，abbreviate侧重形式缩短",
+        "拆字法：ab（加强）+brevi（短）= 使劲弄短"
+      ]
+    }
+  },
+  {
+    "word": "abbreviated",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "brevi",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "前缀ab-表示'加强'，词根brevi=短（如brief），-ate动词后缀，-ed表形容词→'使变短的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "缩写的",
+        "examples": [
+          {
+            "sentence": "LOL is an abbreviated form of 'laugh out loud'.",
+            "sentence_zh": "LOL是'laugh out loud'的缩写形式。"
+          },
+          {
+            "sentence": "In text messages, 'u' is an abbreviated spelling of 'you'.",
+            "sentence_zh": "在短信中，'u'是'you'的缩写拼写。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "短缩的",
+        "examples": [
+          {
+            "sentence": "The director released an abbreviated version of the 3-hour movie.",
+            "sentence_zh": "导演发布了这部3小时电影的短缩版。"
+          },
+          {
+            "sentence": "This is an abbreviated spring festival gala for overseas audiences.",
+            "sentence_zh": "这是面向海外观众的春节联欢晚会短缩版。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "简略的",
+        "examples": [
+          {
+            "sentence": "The teacher gave us an abbreviated explanation of quantum physics.",
+            "sentence_zh": "老师给我们做了量子物理学的简略解释。"
+          },
+          {
+            "sentence": "I only read the abbreviated news report during my subway ride.",
+            "sentence_zh": "我在地铁上只读了简略的新闻报道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abbreviated to",
+        "meaning": "缩写为",
+        "examples": [
+          {
+            "sentence": "'Tsunami' is often abbreviated to 'tsu' in Japanese maps.",
+            "sentence_zh": "在日本地图上，'Tsunami'常缩写为'tsu'。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in abbreviated form",
+        "meaning": "以缩写形式",
+        "examples": [
+          {
+            "sentence": "The chemical element names are written in abbreviated form in the periodic table.",
+            "sentence_zh": "化学元素名称在周期表中以缩写形式书写。"
+          }
+        ]
+      }
+    ],
+    "teach": "abbreviated就像你发微信偷懒打'笑死'😂 而不是'笑得我头都掉了'——人类本质就是缩写狂魔🗣️！古罗马人最早用'SPQR'缩写'元老院与罗马人民'🏛️。搭配'abbreviated version'（精简版）和'in abbreviated form'（缩略形式），说'太长了'可以吐槽'TLDR'（Too Long Didn't Read）📜➡️📱。记住：每个缩写都是当代人类对耐心的精准计量⏳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊不然喂的'→啊不然喂(abbreviate)缩写版的饲料？",
+        "易混词对比：abridge也有'删节'意思，但专指书籍内容缩减"
+      ]
+    }
   }
 ]

@@ -1223,5 +1223,318 @@
         "记忆tip：所有带-er的职业都像'人形工具'"
       ]
     }
+  },
+  {
+    "word": "packet",
+    "etymology": {
+      "breakdown": [
+        "pack",
+        "et"
+      ],
+      "meaning_connection": "词根pack=包裹，后缀-et表'小'→原指小包裹，后引申出信息包等现代含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小包",
+        "examples": [
+          {
+            "sentence": "She tore open the red packet and found 666 yuan inside.",
+            "sentence_zh": "她拆开红包发现里面有666元。"
+          },
+          {
+            "sentence": "The tea packet had a panda design that melted tourists' hearts.",
+            "sentence_zh": "茶叶包上的熊猫设计让游客们心都化了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一批信件",
+        "examples": [
+          {
+            "sentence": "The courier delivered a packet of love letters from the 1980s.",
+            "sentence_zh": "快递员送来一批80年代的情书。"
+          },
+          {
+            "sentence": "I received a packet of fan mail after my douyin went viral.",
+            "sentence_zh": "我的抖音走红后收到了一堆粉丝来信。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大量",
+        "examples": [
+          {
+            "sentence": "That influencer earns a packet from livestreaming snacks.",
+            "sentence_zh": "那个网红直播卖零食赚得盆满钵满。"
+          },
+          {
+            "sentence": "Spending a packet on bubble tea every month is my guilty pleasure.",
+            "sentence_zh": "每月花大钱买奶茶是我的小罪恶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "打包",
+        "examples": [
+          {
+            "sentence": "Grandma packet homemade chili sauce into 100 tiny jars.",
+            "sentence_zh": "奶奶把自制辣椒酱分装进100个小罐。"
+          },
+          {
+            "sentence": "They're packetting mooncakes like assembling iPhones.",
+            "sentence_zh": "他们包装月饼就像组装iPhone一样精密。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "packet boat",
+        "meaning": "邮船",
+        "examples": [
+          {
+            "sentence": "In 1840, the first packet boat carried opium and mail between continents.",
+            "sentence_zh": "1840年，第一艘邮船在大陆间运送鸦片和邮件。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "data packet",
+        "meaning": "数据包",
+        "examples": [
+          {
+            "sentence": "WeChat messages travel as data packets through fiber optics.",
+            "sentence_zh": "微信消息通过光纤以数据包形式传输。"
+          }
+        ]
+      }
+    ],
+    "teach": "packet是互联网时代的竹简📦！古代用包袱皮（pack）包文书，现代用数据包传微信💻。说'赚大钱'叫make a packet就像抢到支付宝红包🧧。搭配：'工资包'叫salary packet，'信息包'说data packet。记住：从丝绸之路的驼包到5G数据包，人类永远在打包文明！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍克它'→快递员拍打包裹(packet)",
+        "易混词：package是大包裹，packet是小件",
+        "记忆法：pack(包)+et(小)=小包"
+      ]
+    }
+  },
+  {
+    "word": "packhorse",
+    "etymology": {
+      "breakdown": [
+        "pack",
+        "horse"
+      ],
+      "meaning_connection": "pack表示'包裹/负重'，horse即'马'→字面意思是'驮运货物的马'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "驮马",
+        "examples": [
+          {
+            "sentence": "The ancient Tea Horse Road was lined with packhorses carrying pu'er tea.",
+            "sentence_zh": "茶马古道上曾满是驮着普洱茶的驮马。"
+          },
+          {
+            "sentence": "Modern logistics trucks are like steel packhorses of the 21st century.",
+            "sentence_zh": "现代物流卡车就像21世纪的钢铁驮马。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "work like a packhorse",
+        "meaning": "像驮马般辛苦工作",
+        "examples": [
+          {
+            "sentence": "Delivery riders work like packhorses during Double 11 shopping festival.",
+            "sentence_zh": "双十一期间快递小哥像驮马一样拼命工作。"
+          },
+          {
+            "sentence": "My laptop has become a digital packhorse with all these project files.",
+            "sentence_zh": "我的笔记本电脑装了这么多项目文件，活像数字驮马。"
+          }
+        ]
+      }
+    ],
+    "teach": "packhorse是古代版的顺丰快递员🐎！丝绸之路上的驮马队就像活体集装箱🚛，现在说人work like a packhorse就是吐槽996福报💼。要形容'超负荷工作'可以说'be loaded like a packhorse'，记住：当代打工人谁还不是个电子驮马呢💻？",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍个hoarse'→驮马累得嗓子嘶哑(hoarse)",
+        "易混词：packhorse vs. workhorse（前者强调负重，后者强调耐力）",
+        "联想记忆：快递包裹(pack)+马(horse)=驮马"
+      ]
+    }
+  },
+  {
+    "word": "packing",
+    "etymology": {
+      "breakdown": [
+        "pack",
+        "ing"
+      ],
+      "meaning_connection": "词根pack=打包/填充，后缀-ing表名词→指打包行为或填充材料"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "包装",
+        "examples": [
+          {
+            "sentence": "The bubble wrap packing for my porcelain teapot survived the delivery.",
+            "sentence_zh": "我瓷茶壶的气泡膜包装在运输中完好无损。"
+          },
+          {
+            "sentence": "Her gift had five layers of packing like a Russian nesting doll.",
+            "sentence_zh": "她的礼物像套娃一样有五层包装。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "填垫材料",
+        "examples": [
+          {
+            "sentence": "We reused the foam packing from the electronics box as yoga blocks.",
+            "sentence_zh": "我们把电子产品包装里的泡沫垫料改造成瑜伽砖。"
+          },
+          {
+            "sentence": "The packing peanuts are actually made from cornstarch - you can eat them!",
+            "sentence_zh": "这些缓冲填充物其实是玉米淀粉做的——可以吃！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "封函",
+        "examples": [
+          {
+            "sentence": "The contract packing included a red wax seal like in ancient times.",
+            "sentence_zh": "合同封函像古代一样用了红火漆封印。"
+          },
+          {
+            "sentence": "Check the packing slip before signing for the delivery.",
+            "sentence_zh": "签收快递前要核对封函内的货单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "行李",
+        "examples": [
+          {
+            "sentence": "Her packing for the trip included 3 swimsuits but forgot the charger.",
+            "sentence_zh": "她旅行行李带了3套泳衣却忘了充电器。"
+          },
+          {
+            "sentence": "Light packing is an art - I can live for a week with just a backpack.",
+            "sentence_zh": "轻便行李是门艺术——我靠一个背包就能生活一周。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "packing list",
+        "meaning": "装箱单",
+        "examples": [
+          {
+            "sentence": "The Taobao seller included a bilingual packing list with emoji symbols.",
+            "sentence_zh": "淘宝卖家附带了带表情符号的双语装箱单。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "do the packing",
+        "meaning": "收拾行李",
+        "examples": [
+          {
+            "sentence": "I always do the packing last minute while eating instant noodles.",
+            "sentence_zh": "我总是一边吃泡面一边最后一分钟收拾行李。"
+          }
+        ]
+      }
+    ],
+    "teach": "packing其实是'派啃'🍔——古代水手用咸肉(pack meat)当防腐包装⚓。现代人拆快递就像考古发掘📦，最兴奋的是挖出层层包装里的宝贝！说'过度包装'用overpackaging like a mummy👻，'轻装上阵'叫travel light as a feather🕊️。记住：好的packing能让你的行李像俄罗斯方块一样严丝合缝🎮！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍紧'→拍紧(packing)行李箱",
+        "易混词：package是包装好的物品，packing是包装过程/材料",
+        "记忆法：想象拆盲盒时撕开层层packing的快乐"
+      ]
+    }
+  },
+  {
+    "word": "pact",
+    "etymology": {
+      "breakdown": [
+        "pac",
+        "t"
+      ],
+      "meaning_connection": "词根pac=和平（同peace），-t为名词后缀→为达成和平的约定"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "契约",
+        "examples": [
+          {
+            "sentence": "The landlord and tenant signed a pact with a handshake over hotpot.",
+            "sentence_zh": "房东和租客吃着火锅握手签订了契约。"
+          },
+          {
+            "sentence": "Their blood pact was sealed with baijiu shots during the ceremony.",
+            "sentence_zh": "他们的血契在仪式上用白酒 shots 封存。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "协定",
+        "examples": [
+          {
+            "sentence": "The Panda Pact between zoos ensures genetic diversity of giant pandas.",
+            "sentence_zh": "动物园间的熊猫协定确保大熊猫基因多样性。"
+          },
+          {
+            "sentence": "We made a silent pact to split the last xiaolongbao equally.",
+            "sentence_zh": "我们默默协定平分最后一个小笼包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "条约",
+        "examples": [
+          {
+            "sentence": "The Treaty of Nerchinsk was the first pact between China and Russia.",
+            "sentence_zh": "《尼布楚条约》是中俄第一个平等条约。"
+          },
+          {
+            "sentence": "Climate pacts are like group chats where countries promise to use fewer emojis.",
+            "sentence_zh": "气候条约就像国家承诺少发表情的群聊。"
+          }
+        ]
+      }
+    ],
+    "teach": "pact其实是'拍个手'🤝！古代欧洲人击掌( pact源自拉丁语'击掌')就算签约。当代最著名pact大概是《魔鬼契约》📜（Faustian pact）。要说'霸王条款'叫one-sided pact，'君子协定'是gentlemen's pact。记住：所有pact本质上都是拉钩上吊一百年不许变！💍",
+    "recite": {
+      "tips": [
+        "谐音梗：'派克特'→派克钢笔签的契约",
+        "易混词：contract（正式合同） vs pact（常指非书面协定）",
+        "记忆法：PAC（和平）+T（条）=和平条约"
+      ]
+    }
   }
 ]

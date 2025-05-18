@@ -1088,5 +1088,272 @@
         "易混词：extreme（极端的）强调程度，ultimate（终极的）强调顺序"
       ]
     }
+  },
+  {
+    "word": "ukrainian",
+    "etymology": {
+      "breakdown": [
+        "ukrain",
+        "ian"
+      ],
+      "meaning_connection": "Ukrain指乌克兰地区，-ian表'属于...的'，类似Canadian（加拿大人）的构词法"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "乌克兰的",
+        "examples": [
+          {
+            "sentence": "The Ukrainian sunflower fields look like golden oceans.",
+            "sentence_zh": "乌克兰的向日葵田犹如金色海洋。"
+          },
+          {
+            "sentence": "This borscht uses authentic Ukrainian recipe.",
+            "sentence_zh": "这份红菜汤采用地道乌克兰做法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "乌克兰人的",
+        "examples": [
+          {
+            "sentence": "My Ukrainian colleague taught me to make pysanka eggs.",
+            "sentence_zh": "我的乌克兰同事教我画复活节彩蛋。"
+          },
+          {
+            "sentence": "The Ukrainian diaspora keeps vyshyvanka traditions alive.",
+            "sentence_zh": "海外乌克兰人仍保持着刺绣衬衫传统。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Ukrainian diaspora",
+        "meaning": "乌克兰侨民",
+        "examples": [
+          {
+            "sentence": "The Ukrainian diaspora organized charity concerts worldwide.",
+            "sentence_zh": "乌克兰侨民在全球组织慈善音乐会。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Ukrainian culture",
+        "meaning": "乌克兰文化",
+        "examples": [
+          {
+            "sentence": "Hopak dance is a gem of Ukrainian culture.",
+            "sentence_zh": "戈帕克舞蹈是乌克兰文化的瑰宝。"
+          }
+        ]
+      }
+    ],
+    "teach": "Ukrainian这个词自带超强文化基因🧬！记住它就像记住哈尔滨红肠🌭（Ukrainian sausage）和基辅鸡排🍗（Chicken Kyiv）的关系。搭配要说'Ukrainian borscht比甜豆腐脑更引发战争'这种梗，'文化输出'叫cultural vyshyvanka（乌克兰刺绣衫）。三个emoji通关：🇺🇦（国旗）➕🌻（国花）➕🎵（舍甫琴科诗歌）",
+    "recite": {
+      "tips": [
+        "谐音梗：'U哭rain呀'→想起乌克兰就下雨",
+        "易混词对比：Ukraine（国家名） vs Ukrainian（形容词）"
+      ]
+    }
+  },
+  {
+    "word": "ultimately",
+    "etymology": {
+      "breakdown": [
+        "ultim",
+        "ate",
+        "ly"
+      ],
+      "meaning_connection": "词根ultim=最远/最终（同源词ultimate），-ate为动词后缀，-ly构成副词→字面意义'达到最终状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "最后（时间顺序）",
+        "examples": [
+          {
+            "sentence": "The smartphone prototype went through 50 iterations and ultimately looked like a teapot.",
+            "sentence_zh": "这个手机原型经历了50次修改，最后长得像茶壶。"
+          },
+          {
+            "sentence": "After eating hotpot for 3 hours, we ultimately decided to order more beef.",
+            "sentence_zh": "涮了三小时火锅后，我们最后决定再加盘肥牛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "最终（结果导向）",
+        "examples": [
+          {
+            "sentence": "All your ByteDance interview preparation will ultimately help your career.",
+            "sentence_zh": "你为字节面试做的所有准备最终都会助力职业发展。"
+          },
+          {
+            "sentence": "Learning English is hard, but it ultimately unlocks 60% more memes.",
+            "sentence_zh": "学英语很难，但最终能让你多看懂60%的梗图。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ultimately lead to",
+        "meaning": "最终导致",
+        "examples": [
+          {
+            "sentence": "Skipping breakfast ultimately leads to buying overpriced bubble tea.",
+            "sentence_zh": "不吃早饭最终会导致买高价奶茶。"
+          }
+        ]
+      }
+    ],
+    "teach": "ultimate是'奥拓'车🚗，ultimately就是'奥拓开到底'——终点站到了！🎯 罗马人用ultim表示'最远的边疆'，比如ultimate Frisbee（极限飞盘）🥏。搭配说'归根结底'用when all is said and done（字面：该说的都说了，该做的都做了），'终极目标'叫endgame就像灭霸打响指💍。记住：写论文时ultimately出现三次以上，说明你该收尾了！✍️",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥特曼力'→奥特曼用全力(ultimately)打小怪兽",
+        "易混词对比：finally侧重顺序最后，ultimately强调因果最终",
+        "记忆锚点：联想视频进度条拉到底部的'最终'按钮"
+      ]
+    }
+  },
+  {
+    "word": "ultimatum",
+    "etymology": {
+      "breakdown": [
+        "ultim",
+        "atum"
+      ],
+      "meaning_connection": "词根ultim=最终的（同ultimate），-atum为拉丁语名词后缀→最终决定"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "最后通牒",
+        "examples": [
+          {
+            "sentence": "The CEO gave an ultimatum: improve sales in 3 months or face layoffs.",
+            "sentence_zh": "CEO下达最后通牒：三个月内提升销量否则裁员。"
+          },
+          {
+            "sentence": "Her boyfriend's ultimatum 'marry me or break up' ruined Valentine's Day.",
+            "sentence_zh": "男友'结婚或分手'的最后通牒毁了情人节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "基本原理",
+        "examples": [
+          {
+            "sentence": "The ultimatum of blockchain technology is cryptographic security.",
+            "sentence_zh": "区块链技术的基本原理是密码学安全。"
+          },
+          {
+            "sentence": "In his thesis, he explored the ultimatum of traditional Chinese medicine.",
+            "sentence_zh": "他在论文中探讨了中医的基本原理。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "issue an ultimatum",
+        "meaning": "发出最后通牒",
+        "examples": [
+          {
+            "sentence": "The teacher issued an ultimatum to the noisy students.",
+            "sentence_zh": "老师向吵闹的学生发出最后通牒。"
+          }
+        ]
+      }
+    ],
+    "teach": "ultimatum是谈判桌上的核按钮💣！起源于拉丁语'最终决定'，就像你妈说'期末不上985就打断腿'👊的威慑力。搭配'give/issue ultimatum'像发红色警报🚨，而'基本原理'义项像数学公式1+1=2🧮。要表达'没商量余地'可以说take-it-or-leave-it（要么接受要么拉倒）🍗。记住：发ultimatum前先深呼吸三次！😤💢⚡",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬铁馒头'→发最后通牒时气得啃铁馒头",
+        "易混词：ultimate（终极的） vs ultimatum（最后通牒）",
+        "记忆法：拆解ultim(最终)+atum→最终警告"
+      ]
+    }
+  },
+  {
+    "word": "ultra",
+    "etymology": {
+      "breakdown": [
+        "ultra"
+      ],
+      "meaning_connection": "源自拉丁语ultra='超越'，原指地理上的'彼端'，后引申为程度上的极端"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "过分的",
+        "examples": [
+          {
+            "sentence": "Her ultra demands for perfection made the whole team nervous.",
+            "sentence_zh": "她对完美的过分要求让整个团队神经紧绷。"
+          },
+          {
+            "sentence": "The influencer's ultra makeup looks like a rainbow explosion.",
+            "sentence_zh": "这个网红的夸张妆容像彩虹爆炸现场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "极端的",
+        "examples": [
+          {
+            "sentence": "Ultra marathon runners consider 42km just a warm-up.",
+            "sentence_zh": "极限马拉松选手认为42公里只是热身。"
+          },
+          {
+            "sentence": "This ultra spicy hotpot could melt a steel spoon.",
+            "sentence_zh": "这个变态辣火锅能熔化钢勺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "极端主义者",
+        "examples": [
+          {
+            "sentence": "The fashion ultra dyed her poodle to match her handbag.",
+            "sentence_zh": "这个时尚极端分子把贵宾犬染成了手提包同款色。"
+          },
+          {
+            "sentence": "Tech ultras camped outside the store for the new iPhone.",
+            "sentence_zh": "科技极端分子在店外扎营等待新iPhone。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go ultra",
+        "meaning": "走向极端",
+        "examples": [
+          {
+            "sentence": "Some influencers go ultra to gain more followers.",
+            "sentence_zh": "有些网红为涨粉走向极端。"
+          }
+        ]
+      }
+    ],
+    "teach": "ultra就是'卷王'👑的拉丁语版本！古罗马人用ultra指'山那边'🏔️，现代人用来形容'离谱他妈给离谱开门'。比如'极端辣'叫ultra spicy（辣到喷火）🔥，'熬夜冠军'是ultra night owl（熬到太阳晒屁股）🌞。记住：说人'太极端'可以用'You're being ultra!'（你这就离谱了）",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬出头'→极端分子总觉得再熬(ultra)就出头了",
+        "易混词：extreme（程度极端）vs ultra（性质极端）"
+      ]
+    }
   }
 ]
