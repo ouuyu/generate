@@ -1740,5 +1740,276 @@
         "易混词对比：missing（丢失的） vs lacking（不足的）"
       ]
     }
+  },
+  {
+    "word": "laconic",
+    "etymology": {
+      "breakdown": [
+        "Lacon",
+        "ic"
+      ],
+      "meaning_connection": "源自希腊Laconia地区（斯巴达所在地），-ic表特性→斯巴达人以简短回答闻名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "简洁的",
+        "examples": [
+          {
+            "sentence": "His laconic reply 'Nope' ended the interview.",
+            "sentence_zh": "他简洁的回复'不'结束了采访。"
+          },
+          {
+            "sentence": "The CEO's laconic email simply said: 'Fix it.'",
+            "sentence_zh": "CEO简洁的邮件只写着：'解决它'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "简明的",
+        "examples": [
+          {
+            "sentence": "IKEA instructions are famously laconic with no words.",
+            "sentence_zh": "宜家说明书以无文字的简明著称。"
+          },
+          {
+            "sentence": "Her laconic presentation used only 10 slides.",
+            "sentence_zh": "她简明的演讲只用了10页PPT。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "laconic style",
+        "meaning": "简洁风格",
+        "examples": [
+          {
+            "sentence": "Xiaomi's laconic product launches focus on specs, not fluff.",
+            "sentence_zh": "小米简洁的新品发布会只讲参数，不玩虚的。"
+          }
+        ]
+      }
+    ],
+    "teach": "laconic是'斯巴达式简洁'🛡️：当波斯国王威胁斯巴达'不投降就毁灭你们'，他们只回了一个字'If'（呵呵）😂。现代版就是微信'嗯'终结聊天💬，'已读不回'是数字时代的laconic。搭配：laconic humor（冷幽默），laconic nod（点头示意）。说'话少'可叫man/woman of few words🗣️➖",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉黑你'→太简洁被拉黑",
+        "易混词：concise（褒义中性），laconic（可能含高冷感）",
+        "记忆tip：想象斯巴达战士边撸铁边回答'No talk, train'💪"
+      ]
+    }
+  },
+  {
+    "word": "laconically",
+    "etymology": {
+      "breakdown": [
+        "laconic",
+        "ally"
+      ],
+      "meaning_connection": "源自古希腊Laconia地区（斯巴达所在地），当地人以寡言著称，-ally副词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "简洁地",
+        "examples": [
+          {
+            "sentence": "When asked about his success, the CEO replied laconically: 'Luck.'",
+            "sentence_zh": "当被问及成功秘诀时，CEO简洁地回答：'运气'。"
+          },
+          {
+            "sentence": "The judge laconically wrote 'Denied' on the appeal document.",
+            "sentence_zh": "法官在申诉文件上简练地写下'驳回'。"
+          }
+        ]
+      }
+    ],
+    "teach": "laconically是社恐人士的完美借口🗣️✂️！源于古希腊斯巴达战士的惜字如金（他们用'If'回复战争威胁信⚔️）。搭配'answer laconically'像微信回复'嗯'，'speak laconically'像老板批'阅'。要表达'超简练'可以说in a nutshell🥜，记住：真正的极简主义者连这个单词都嫌太长！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来抠你颗粒'→说话精简到抠颗粒",
+        "对比记忆：succinctly侧重内容精简，laconically强调态度高冷"
+      ]
+    }
+  },
+  {
+    "word": "lacquer",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自葡萄牙语'laqué'，最初指东南亚树脂制成的涂料"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "瓷漆",
+        "examples": [
+          {
+            "sentence": "The Forbidden City's red lacquer has withstood 600 years of weathering.",
+            "sentence_zh": "故宫的红瓷漆经受住了600年风雨考验。"
+          },
+          {
+            "sentence": "This nail lacquer changes color with temperature like a mood ring.",
+            "sentence_zh": "这款指甲瓷漆会像情绪戒指一样随温度变色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "漆器",
+        "examples": [
+          {
+            "sentence": "Fuzhou bodiless lacquer is as light as a cicada's wing.",
+            "sentence_zh": "福州脱胎漆器轻若蝉翼。"
+          },
+          {
+            "sentence": "The lacquer tea set reflected the candlelight like liquid gold.",
+            "sentence_zh": "那套漆器茶具映着烛光如同流动的黄金。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "涂漆",
+        "examples": [
+          {
+            "sentence": "Workers lacquered the wooden beams with 18 layers of tung oil.",
+            "sentence_zh": "工匠们给木梁上了十八层桐油漆。"
+          },
+          {
+            "sentence": "She lacquered her notebook with clear coat to preserve the doodles.",
+            "sentence_zh": "她给笔记本涂上清漆来保存涂鸦。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lacquer finish",
+        "meaning": "漆面处理",
+        "examples": [
+          {
+            "sentence": "The piano's lacquer finish mirrored the concert hall's chandeliers.",
+            "sentence_zh": "钢琴的漆面倒映着音乐厅的水晶吊灯。"
+          }
+        ]
+      }
+    ],
+    "teach": "lacquer是东方文明的液体黄金✨！战国曾侯乙墓的漆器穿越2400年仍光彩照人⚰️。现代黑科技有汽车'自修复漆'（self-healing lacquer）就像皮肤结痂🛠️。说'表面光鲜'可用'all lacquered up'，而'漆器般精致'要说lacquer-perfect就像故宫倦勤斋的描金漆🏯。",
+    "recite": {
+      "tips": [
+        "谐音梗：'来客啊'→来客惊叹漆器美",
+        "易混词对比：varnish（清亮罩光漆） vs lacquer（有色覆盖漆）",
+        "记忆tip：想象用漆(lacquer)把裂缝(lacuna)填平"
+      ]
+    }
+  },
+  {
+    "word": "lacquered",
+    "etymology": {
+      "breakdown": [
+        "lacquer",
+        "ed"
+      ],
+      "meaning_connection": "lacquer源自波斯语'lak'（虫胶），-ed表示过去式/分词→涂漆工艺的完成状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "涂漆于（lacquer的过去式）",
+        "examples": [
+          {
+            "sentence": "The craftsman lacquered the wooden box with 12 layers of urushi.",
+            "sentence_zh": "匠人给木盒上了12层莳绘漆。"
+          },
+          {
+            "sentence": "Her nails were lacquered in forbidden city red for the meeting.",
+            "sentence_zh": "为这次会议她把指甲涂成了故宫红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "涂漆于（lacquer的过去分词）",
+        "examples": [
+          {
+            "sentence": "This Qianlong-era cabinet is finely lacquered with gold leaf.",
+            "sentence_zh": "这件乾隆时期的橱柜精心髹饰了金箔。"
+          },
+          {
+            "sentence": "The lacquered chopsticks slipped from my oily fingers.",
+            "sentence_zh": "漆筷从我油乎乎的手指间滑落。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lacquered finish",
+        "meaning": "漆面处理",
+        "examples": [
+          {
+            "sentence": "The Porsche's lacquered finish reflected the neon lights like liquid metal.",
+            "sentence_zh": "保时捷的烤漆面像液态金属般反射着霓虹灯光。"
+          }
+        ]
+      }
+    ],
+    "teach": "lacquered其实是'漆国护照'🎎！战国时中国就用漆器（lacquerware）当奢侈品出口💎，现代说'漆面反光'叫mirror finish就像手机贴膜反光📱。搭配'lacquered hair'指喷满发胶的油头，'漆器般完美'可说flawless as lacquer。记住：涂漆三层不如美颜一键！✨🖌️👘",
+    "recite": {
+      "tips": [
+        "谐音梗：'来阔的'→土豪来阔气地(lacquered)镀金",
+        "易混词：varnished（清漆）vs lacquered（色漆）",
+        "记忆tip：想象故宫漆器上'落漆了(lacquered)'的样子"
+      ]
+    }
+  },
+  {
+    "word": "lacrosse",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'la crosse'（曲棍），原指主教权杖形状的球棍。17世纪法国传教士在北美原住民游戏基础上改良"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "长曲棍球",
+        "examples": [
+          {
+            "sentence": "Lacrosse players wear helmets with dinosaur-fin designs in our university.",
+            "sentence_zh": "我们学校的长曲棍球队员戴酷似恐龙背鳍的头盔。"
+          },
+          {
+            "sentence": "The lacrosse ball travels faster than a speeding bicycle.",
+            "sentence_zh": "长曲棍球的球速比飞驰的自行车还快。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "play lacrosse",
+        "meaning": "打长曲棍球",
+        "examples": [
+          {
+            "sentence": "Canadian diplomats often play lacrosse to break the ice.",
+            "sentence_zh": "加拿大外交官常通过长曲棍球破冰交流。"
+          }
+        ]
+      }
+    ],
+    "teach": "长曲棍球是加拿大国球🇨🇦，球网像捕梦网一样神秘✨！球棍最初是原住民的战斗工具⚔️，现在变成最烧装备的运动——一根碳纤维球杆够买200杯奶茶🧋。搭配：'lacrosse stick（球棍）像延长的手臂'，'lacrosse field（球场）比足球场还大'。说'被打得落花流水'可以用'take a lacrosse beating'🥍",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉客罗斯'→拉客的罗斯教练在教长曲棍球",
+        "易混词：'cross'是十字，'crosse'才是球棍",
+        "记忆tip：想象用lacrosse球棍捞(lac)玫瑰(rosse)"
+      ]
+    }
   }
 ]

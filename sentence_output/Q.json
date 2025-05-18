@@ -1741,5 +1741,276 @@
         "记忆口诀：qual(质量)+ify(化)=把质量提高到合格线"
       ]
     }
+  },
+  {
+    "word": "qualifying",
+    "etymology": {
+      "breakdown": [
+        "qual",
+        "ify",
+        "ing"
+      ],
+      "meaning_connection": "词根qual=性质/类别，-ify表示'使成为'，-ing表形容词→'使具备某种性质的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "限定性的",
+        "examples": [
+          {
+            "sentence": "The qualifying exams filter out 60% of esports trainees.",
+            "sentence_zh": "资格赛会淘汰60%的电竞学员。"
+          },
+          {
+            "sentence": "Her qualifying comment was 'with all due respect' before roasting me.",
+            "sentence_zh": "她在吐槽前加了句'无意冒犯'作限定说明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "限制性的",
+        "examples": [
+          {
+            "sentence": "The qualifying clause saved the celebrity from lawsuit.",
+            "sentence_zh": "限制性条款让该明星免于被起诉。"
+          },
+          {
+            "sentence": "No qualifying conditions attached to this hotpot coupon!",
+            "sentence_zh": "这张火锅券没有任何限制条件！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "qualifying round",
+        "meaning": "预选赛",
+        "examples": [
+          {
+            "sentence": "The mahjong qualifying round eliminated all AI players.",
+            "sentence_zh": "麻将预选赛淘汰了所有AI选手。"
+          }
+        ]
+      }
+    ],
+    "teach": "qualifying就像火锅店的'最终解释权'🍲！它既可以是选秀节目的海选环节🎤（qualifying round），也可以是合同里的小字免责条款📜（qualifying statement）。记住：带qualifying的都像方便面包装上的'图片仅供参考'🍜，总有些隐藏限制！搭配：qualifying exam（资格考试）/ qualifying period（试用期）🌡️",
+    "recite": {
+      "tips": [
+        "谐音梗：'快理发定'→快理发店(qualifying)的会员条款限定多多",
+        "易混词对比：qualified（合格的）vs qualifying（限定性的）"
+      ]
+    }
+  },
+  {
+    "word": "qualitative",
+    "etymology": {
+      "breakdown": [
+        "qual",
+        "ity",
+        "ative"
+      ],
+      "meaning_connection": "词根qual=性质/特征（同quality），-ity表名词后缀，-ative表形容词后缀→关于性质的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "性质的",
+        "examples": [
+          {
+            "sentence": "The difference between jasmine and oolong tea is qualitative, not just quantitative.",
+            "sentence_zh": "茉莉花茶与乌龙茶的区别是性质上的，而非仅是数量上的。"
+          },
+          {
+            "sentence": "Xi'an's city wall preserves qualitative characteristics of Ming Dynasty architecture.",
+            "sentence_zh": "西安城墙保留着明代建筑的质性特征。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "质的",
+        "examples": [
+          {
+            "sentence": "Huawei focuses on qualitative improvement of chip performance.",
+            "sentence_zh": "华为注重芯片性能的质变提升。"
+          },
+          {
+            "sentence": "The qualitative leap from 4G to 5G changed mobile payment habits.",
+            "sentence_zh": "4G到5G的质的飞跃改变了移动支付习惯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "定性的",
+        "examples": [
+          {
+            "sentence": "We need qualitative analysis before launching new Douyin filters.",
+            "sentence_zh": "上线新抖音滤镜前需要定性分析。"
+          },
+          {
+            "sentence": "The researcher made qualitative observations about WeChat user behavior.",
+            "sentence_zh": "研究者对微信用户行为做了定性观察。"
+          }
+        ]
+      }
+    ],
+    "teach": "qualitative是'质量局'三兄弟里的文青🎨——不像quantitative（定量的）整天数钱💰，它专攻'质'感：比如区分茅台和勾兑酒🍶（qualitative difference），就像比较原图与美颜照📸。搭配'定性研究'(qualitative research)和'质的飞跃'(qualitative leap)。吐槽'华而不实'可以说'all qual no quan'（有质无量）🧐，记住：看脸是qualitative，数痘痘才是quantitative！",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸了太土'→定性分析夸了太土的方法",
+        "易混词对比：qualitative（定性的）vs. quantitative（定量的）→前者问'好不好'，后者问'有多少'",
+        "记忆tip：qual开头联想到quality（质量）"
+      ]
+    }
+  },
+  {
+    "word": "qualitatively",
+    "etymology": {
+      "breakdown": [
+        "qual",
+        "ity",
+        "ative",
+        "ly"
+      ],
+      "meaning_connection": "词根qual=特性（拉丁语qualis），-ity表名词，-ative表形容词，-ly表副词→从特性角度描述的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "质量上",
+        "examples": [
+          {
+            "sentence": "The new Huawei processor improves battery life qualitatively rather than just extending hours.",
+            "sentence_zh": "华为新处理器在质量上提升续航表现，而非单纯延长使用时间。"
+          },
+          {
+            "sentence": "Japanese knives differ qualitatively from ordinary supermarket knives in their forging technique.",
+            "sentence_zh": "日本刀具在锻造工艺上与普通超市刀具存在质量差异。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "qualitatively different",
+        "meaning": "本质不同的",
+        "examples": [
+          {
+            "sentence": "Artificial intelligence is qualitatively different from traditional computing.",
+            "sentence_zh": "人工智能与传统计算有着本质区别。"
+          }
+        ]
+      }
+    ],
+    "teach": "qualitatively就像品鉴师的金舌头👅！当你说'质量提升'用qualitatively时，就像比较速溶咖啡☕和手冲咖啡的区别（qualitatively better），而不是简单说'更多'。搭配'qualitatively new'形容突破性创新🚀，比如SpaceX火箭回收技术。地道表达用'night and day'表示天壤之别🌗🌞。记住：这词专治'差不多先生'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸了踢我'→被夸质量好(qualitatively)反而害羞",
+        "易混词对比：quantitatively（数量上）是亲兄弟但性格相反"
+      ]
+    }
+  },
+  {
+    "word": "quality",
+    "etymology": {
+      "breakdown": [
+        "qual",
+        "ity"
+      ],
+      "meaning_connection": "词根qual=性质/特征（来自拉丁语qualis），后缀-ity表示抽象名词→本质属性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "品质",
+        "examples": [
+          {
+            "sentence": "The quality of this cashmere scarf justifies its price.",
+            "sentence_zh": "这条羊绒围巾的品质对得起它的价格。"
+          },
+          {
+            "sentence": "Tea ceremony reflects the Japanese pursuit of life quality.",
+            "sentence_zh": "茶道体现了日本人对生活品质的追求。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "特性",
+        "examples": [
+          {
+            "sentence": "The sticky quality of glutinous rice makes it perfect for zongzi.",
+            "sentence_zh": "糯米的黏性特质使其特别适合包粽子。"
+          },
+          {
+            "sentence": "Bamboo's lightweight quality benefits traditional Chinese architecture.",
+            "sentence_zh": "竹子的轻质特性惠及中国传统建筑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "才能",
+        "examples": [
+          {
+            "sentence": "His quality in Peking opera singing earned him the plum blossom award.",
+            "sentence_zh": "他的京剧演唱才能使他获得梅花奖。"
+          },
+          {
+            "sentence": "The coach recognized her leadership quality early on.",
+            "sentence_zh": "教练很早就发现了她的领导才能。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "优质的",
+        "examples": [
+          {
+            "sentence": "This quality Doubanjiang makes all Sichuan dishes more authentic.",
+            "sentence_zh": "这款优质豆瓣酱让所有川菜更地道。"
+          },
+          {
+            "sentence": "They only use quality tea leaves for royal tribute tea.",
+            "sentence_zh": "他们只用优质茶叶制作皇家贡茶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "quality time",
+        "meaning": "珍贵时光",
+        "examples": [
+          {
+            "sentence": "Chinese New Year is for quality time with family, not just red envelopes.",
+            "sentence_zh": "春节是与家人共度的珍贵时光，不只是收红包。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "quality control",
+        "meaning": "质量控制",
+        "examples": [
+          {
+            "sentence": "The strict quality control ensures each Jianzhan teacup is flawless.",
+            "sentence_zh": "严格的质量控制确保每只建盏茶杯完美无瑕。"
+          }
+        ]
+      }
+    ],
+    "teach": "quality是'夸了体'🏆！古罗马人用qualis评价葡萄酒品质🍷，现在夸奶茶'quality milk tea'说明它打败了99%对手👑。说'质量差'用subpar（低于标准），'高质量生活'叫living large🛋️。记住：当quality作形容词时，就像给商品贴了个'特供'标签🏷️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'夸立体'→被夸的品质很立体",
+        "易混词：quantity（数量）是闺蜜，quality（质量）是女王"
+      ]
+    }
   }
 ]

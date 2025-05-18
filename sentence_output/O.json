@@ -1542,5 +1542,277 @@
         "记忆法：想象往眼镜上抹凡士林导致视线模糊👓"
       ]
     }
+  },
+  {
+    "word": "obituary",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "it",
+        "ary"
+      ],
+      "meaning_connection": "ob-=towards朝向, it=to go行走, -ary=形容词后缀→原指'走向死亡的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "关于死亡的",
+        "examples": [
+          {
+            "sentence": "The museum displays obituary notices from the Tang Dynasty.",
+            "sentence_zh": "博物馆展出了唐代的死亡告示。"
+          },
+          {
+            "sentence": "His WeChat feed suddenly filled with obituary posts during the pandemic.",
+            "sentence_zh": "疫情期间他的朋友圈突然充满了死亡相关的推送。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "讣告",
+        "examples": [
+          {
+            "sentence": "The Peking University published an obituary for the renowned mathematician.",
+            "sentence_zh": "北京大学为这位著名数学家发布了讣告。"
+          },
+          {
+            "sentence": "Tech giants now use AI to generate obituaries automatically.",
+            "sentence_zh": "科技巨头现在用AI自动生成讣告。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "obituary column",
+        "meaning": "讣告栏",
+        "examples": [
+          {
+            "sentence": "Newspaper obituary columns are becoming digital memorials.",
+            "sentence_zh": "报纸讣告栏正在变成数字纪念墙。"
+          }
+        ]
+      }
+    ],
+    "teach": "obituary其实是个'死亡笔记'📓！古罗马人用ob-（朝向）+it（走）表示'黄泉路'⚰️。现代人看讣告会喝'往生可乐'（用memorial代替），发朋友圈用RIP🕯️代替'讣告'。记住：写obituary要像写米其林点评🍽️——只提闪光点！",
+    "recite": {
+      "tips": [
+        "谐音梗：'偶比丘'→偶遇比丘（僧人）念往生咒",
+        "易混词对比：obituary（讣告）vs. anniversary（周年纪念）"
+      ]
+    }
+  },
+  {
+    "word": "object",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "ject"
+      ],
+      "meaning_connection": "前缀ob-表示'反对'，词根ject表示'投掷'→原指扔向对立面，引申出'反对'和'目标'两种矛盾含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "物体",
+        "examples": [
+          {
+            "sentence": "The museum displayed a mysterious bronze object from Sanxingdui.",
+            "sentence_zh": "博物馆展出来自三星堆的神秘青铜器物。"
+          },
+          {
+            "sentence": "Her desk was cluttered with sticky-note covered objects.",
+            "sentence_zh": "她的书桌堆满贴满便利贴的杂物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "目标",
+        "examples": [
+          {
+            "sentence": "The object of this game is to collect all mahjong tiles.",
+            "sentence_zh": "这个游戏的目标是集齐所有麻将牌。"
+          },
+          {
+            "sentence": "Finding true love was the ultimate object of her journey.",
+            "sentence_zh": "寻找真爱是她旅途的终极目标。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "宾语",
+        "examples": [
+          {
+            "sentence": "In 'I eat hotpot', 'hotpot' is the direct object.",
+            "sentence_zh": "在'我吃火锅'中，'火锅'是直接宾语。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "反对",
+        "examples": [
+          {
+            "sentence": "Many netizens objected to the new social media policy.",
+            "sentence_zh": "许多网友反对新的社交媒体政策。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "提出反对",
+        "examples": [
+          {
+            "sentence": "She objected that the meeting time conflicted with lunch break.",
+            "sentence_zh": "她提出反对意见说会议时间与午休冲突。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "object to",
+        "meaning": "反对",
+        "examples": [
+          {
+            "sentence": "Grandma objects to ordering takeout every day.",
+            "sentence_zh": "奶奶反对天天点外卖。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "no object",
+        "meaning": "不成问题",
+        "examples": [
+          {
+            "sentence": "Money is no object when it comes to bubble tea addiction.",
+            "sentence_zh": "对奶茶上瘾者来说钱不是问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "object是个精神分裂的单词🧠！作名词时像乖巧的宾语（grammar对象），作动词秒变杠精（object意见）💢。古代法庭扔(object)陶罐表示反对⚖️，现代程序员把万物都看作对象（OOP）💻。说'坚决反对'可以用strongly object like rejecting cilantro🌿，'目标明确'说with the clear object of...像瞄准火锅里的毛肚🎯",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅不接克特'→鹅厂程序员不接object需求",
+        "对比：subject主体 vs object客体",
+        "记忆：JECT词根家族（reject拒绝/inject注射）"
+      ]
+    }
+  },
+  {
+    "word": "objectification",
+    "etymology": {
+      "breakdown": [
+        "object",
+        "ify",
+        "cation"
+      ],
+      "meaning_connection": "object（物体）+ ify（使...化）+ cation（名词后缀）→使某物变成纯粹物体的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "客观化",
+        "examples": [
+          {
+            "sentence": "The objectification of emotions in AI research remains controversial.",
+            "sentence_zh": "人工智能研究中对情感的客观化仍存在争议。"
+          },
+          {
+            "sentence": "Buddhism teaches the objectification of desires to attain enlightenment.",
+            "sentence_zh": "佛教教导通过将欲望客观化来获得觉悟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "对象化",
+        "examples": [
+          {
+            "sentence": "Marx discussed the objectification of labor in capitalist systems.",
+            "sentence_zh": "马克思讨论了资本主义体系中劳动的对象化。"
+          },
+          {
+            "sentence": "The objectification of women in advertisements has sparked heated debates.",
+            "sentence_zh": "广告中女性的对象化引发了激烈争论。"
+          }
+        ]
+      }
+    ],
+    "teach": "objectification是个哲学健身房🏋️‍♂️：把抽象概念练成'铁疙瘩'（客观化），也可能把活人变成'橱窗模特'（对象化）🧑‍🎤。搭配：cultural objectification（文化客体化）就像把端午节变成粽子节🍙，self-objectification（自我物化）好比用美颜相机当镜子🤳。记住：不是所有东西都需要'化石化'！",
+    "recite": {
+      "tips": [
+        "拆解记忆：object（物体）+ ify（使...化）= 使...变成物体",
+        "易混词对比：objective（客观的）是形容词，objectification是名词过程"
+      ]
+    }
+  },
+  {
+    "word": "objectify",
+    "etymology": {
+      "breakdown": [
+        "object",
+        "ify"
+      ],
+      "meaning_connection": "词根object=物体/目标，后缀-ify=使...化→将事物转化为客观对象"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使客观化",
+        "examples": [
+          {
+            "sentence": "Scientists objectify emotions by measuring brain waves.",
+            "sentence_zh": "科学家通过测量脑电波使情感客观化。"
+          },
+          {
+            "sentence": "The museum exhibit objectifies ancient rituals with 3D holograms.",
+            "sentence_zh": "该博物馆展览用3D全息技术使古代仪式客观呈现。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "物化（常用于负面语境）",
+        "examples": [
+          {
+            "sentence": "Some advertisements objectify women as decorative objects.",
+            "sentence_zh": "某些广告将女性物化为装饰品。"
+          },
+          {
+            "sentence": "Stop objectifying programmers as coding machines!",
+            "sentence_zh": "别把程序员物化成编程机器！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "objectify sb./sth. as...",
+        "meaning": "将...物化为",
+        "examples": [
+          {
+            "sentence": "The novel objectifies the city as a living creature.",
+            "sentence_zh": "这部小说将城市物化为活体生物。"
+          }
+        ]
+      }
+    ],
+    "teach": "objectify就像实验室的标本瓶🧪：把抽象概念变成可测量的数据图表📊（中性用法），但用在人身上就变成橱窗里的假人模特👗（负面用法）。搭配：objectify emotions（量化情感）/objectify relationships（物化关系）。吐槽'把人当工具'可以说treat sb. like a vending machine🤑",
+    "recite": {
+      "tips": [
+        "谐音梗：'我不接受废'→拒绝(object)被物化(ify)",
+        "易混词对比：objection（反对）是主观的，objectify却是客观化",
+        "记忆tip：看到-ify结尾就想到'使...化'（如beautify美化）"
+      ]
+    }
   }
 ]

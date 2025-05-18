@@ -1596,5 +1596,306 @@
         "对比记忆：forehand（正手） vs backhand"
       ]
     }
+  },
+  {
+    "word": "backhanded",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "hand",
+        "ed"
+      ],
+      "meaning_connection": "字面意思为'反手击打'，引申为'间接的'或'暗含贬义的'，如同反手击球时的非常规角度"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "间接的（常含贬义）",
+        "examples": [
+          {
+            "sentence": "She gave a backhanded compliment about my 'brave' fashion choice.",
+            "sentence_zh": "她对我'大胆'的穿搭选择给出了暗含讽刺的夸奖。"
+          },
+          {
+            "sentence": "The policy change was a backhanded way to reduce benefits.",
+            "sentence_zh": "这项政策变动是变相削减福利的隐晦手段。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backhanded compliment",
+        "meaning": "明褒实贬",
+        "examples": [
+          {
+            "sentence": "Calling someone 'surprisingly competent' is a classic backhanded compliment.",
+            "sentence_zh": "说某人'出乎意料地能干'是典型的明褒实贬。"
+          }
+        ]
+      }
+    ],
+    "teach": "backhanded就像网球场的阴招🎾！想象对方突然用反手(backhand)打你个措手不及，这种'曲线骂人'法在英语里叫left-handed compliment（左右手都能阴阳怪气）。比如'你今天的妆终于遮住黑眼圈了'🍵，搭配'表面夸实际损'用sugar-coated sarcasm（糖衣讽刺），记住：当有人说'no offense but...'时，backhanded insult就要来了！💥🤺🍯",
+    "recite": {
+      "tips": [
+        "视觉联想：反手抽耳光→暗箭伤人",
+        "易混词：backtrack（ backtrack 是'原路返回'，backhanded是'拐弯抹角'）"
+      ]
+    }
+  },
+  {
+    "word": "backing",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "ing"
+      ],
+      "meaning_connection": "词根back=背部/倒退，后缀-ing表动作结果或状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "后退",
+        "examples": [
+          {
+            "sentence": "The truck's sudden backing startled the cyclists.",
+            "sentence_zh": "卡车突然倒车惊到了骑车人。"
+          },
+          {
+            "sentence": "Parking sensors prevent accidents during backing.",
+            "sentence_zh": "倒车雷达能防止倒车时发生事故。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "衬背",
+        "examples": [
+          {
+            "sentence": "The mirror's foam backing prevents wall scratches.",
+            "sentence_zh": "镜子的泡沫衬背能防止刮伤墙壁。"
+          },
+          {
+            "sentence": "This sticker has removable paper backing.",
+            "sentence_zh": "这张贴纸带有可撕式纸质衬背。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "后援",
+        "examples": [
+          {
+            "sentence": "The startup got angel backing from ex-BAT employees.",
+            "sentence_zh": "该初创企业获得前BAT员工的天使后援。"
+          },
+          {
+            "sentence": "The concert had strong government backing.",
+            "sentence_zh": "这场音乐会得到政府的强力后援。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "支持者",
+        "examples": [
+          {
+            "sentence": "The influencer's backing comes mainly from Gen-Z fans.",
+            "sentence_zh": "该网红的支持者主要是Z世代粉丝。"
+          },
+          {
+            "sentence": "Tech giants are the main backing of this AI project.",
+            "sentence_zh": "科技巨头是该AI项目的主要支持者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "financial backing",
+        "meaning": "资金支持",
+        "examples": [
+          {
+            "sentence": "Without sufficient financial backing, even great ideas may fail.",
+            "sentence_zh": "没有足够的资金支持，再好的创意也可能失败。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "backing vocals",
+        "meaning": "和声",
+        "examples": [
+          {
+            "sentence": "Jay Chou's songs often feature his own backing vocals.",
+            "sentence_zh": "周杰伦的歌经常有他自己的和声。"
+          }
+        ]
+      }
+    ],
+    "teach": "backing就像人体后背的奇妙功能🦸：1) 历史梗：中世纪骑士需要'衬背'(backing)防暗箭🏹；2) 视觉化：粉丝支持就像游戏里的'血包'💉（emotional backing）；3) 搭配：'资金后盾'叫financial backing，'技术靠山'是technical backing；4) 地道表达：'撑腰'说have someone's back🤝；5) 记住：好的backing能让你勇往直前→后退时除外！🚗⚠️",
+    "recite": {
+      "tips": [
+        "谐音梗：'背紧'→后背要紧(baking)才安全",
+        "易混词：backing(n.) vs. backup(n.备用方案)",
+        "记忆法：把四个意思联想成汽车的四个'后'功能：倒车影像/座椅靠背/后援车队/后盾粉丝"
+      ]
+    }
+  },
+  {
+    "word": "backlash",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "lash"
+      ],
+      "meaning_connection": "back表示'向后'，lash表示'鞭打'→原指机械装置的反向冲击，后引申为社会事件的激烈反弹"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "机械后冲",
+        "examples": [
+          {
+            "sentence": "The robot arm stopped with a noticeable backlash.",
+            "sentence_zh": "机械臂停止时有明显的后冲现象。"
+          },
+          {
+            "sentence": "Old elevators often produce backlash when braking.",
+            "sentence_zh": "老式电梯刹车时常产生后冲力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "强烈反对",
+        "examples": [
+          {
+            "sentence": "The new policy caused a huge backlash on social media.",
+            "sentence_zh": "新政策在社交媒体引发强烈反对。"
+          },
+          {
+            "sentence": "Celebrities fear public backlash when endorsing products.",
+            "sentence_zh": "明星害怕代言产品引发公众反弹。"
+          }
+        ]
+      }
+    ],
+    "teach": "backlash就像愤怒的皮筋🧵！机械后冲是齿轮咬合时的'回弹咔嚓'⚙️，社会反对则是舆论的'反手一巴掌'👋。当你说'face backlash'就像踩到乐高还要被全网骂😱。记住：'舆论风暴'叫firestorm，'轻微反弹'用minor pushback。你的每个决定都可能引发蝴蝶效应🦋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'摆开历史'→摆开历史问题就会引发backlash",
+        "易混词对比：backfire（事与愿违） vs backlash（强烈反对）",
+        "联想记忆：lash是鞭打，backlash就是'回马鞭'"
+      ]
+    }
+  },
+  {
+    "word": "backless",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "less"
+      ],
+      "meaning_connection": "back=背部/靠背，-less=无→字面意思'没有靠背的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无靠背的",
+        "examples": [
+          {
+            "sentence": "The backless bar stools made customers sit extra straight.",
+            "sentence_zh": "无靠背的吧凳让顾客不得不挺直腰板。"
+          },
+          {
+            "sentence": "Her backless evening gown revealed an intricate tattoo.",
+            "sentence_zh": "她露背的晚礼服展示出复杂的纹身图案。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backless dress",
+        "meaning": "露背连衣裙",
+        "examples": [
+          {
+            "sentence": "The celebrity wore a daring backless dress to the film festival.",
+            "sentence_zh": "那位明星穿着大胆的露背裙出席电影节。"
+          }
+        ]
+      }
+    ],
+    "teach": "backless就像被拆掉靠背的共享单车🚲！古罗马元老院最早使用有靠背的椅子象征权力👑，而无靠背的凳子(backless stool)是给平民的。说'椅子不舒服'可以吐槽：This chair is a backless nightmare! 搭配backless bench（公园长椅）和backless sofa（日式无腿沙发）更酸爽💺。记住：backless=自由与腰痛的结合体！",
+    "recite": {
+      "tips": [
+        "视觉联想：'back+less'→椅子被拿走(less)靠背(back)",
+        "易混词对比：backlash（反弹）vs backless（无背）"
+      ]
+    }
+  },
+  {
+    "word": "backlit",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "lit"
+      ],
+      "meaning_connection": "back表示'后面'，lit是light（光）的过去分词→从后方照亮"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "后面打光",
+        "examples": [
+          {
+            "sentence": "The photographer used backlit to create a halo effect for the model.",
+            "sentence_zh": "摄影师用背光为模特营造光环效果。"
+          },
+          {
+            "sentence": "TikTok influencers love taking backlit selfies at sunset.",
+            "sentence_zh": "抖音网红最爱在日落时拍逆光自拍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "背光式",
+        "examples": [
+          {
+            "sentence": "This iPad features a retina display with LED backlit technology.",
+            "sentence_zh": "这款iPad采用带LED背光技术的视网膜显示屏。"
+          },
+          {
+            "sentence": "Backlit keyboards are essential for coders working at night.",
+            "sentence_zh": "背光键盘对夜间工作的程序员至关重要。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backlit display",
+        "meaning": "背光显示屏",
+        "examples": [
+          {
+            "sentence": "The backlit display of Huawei Mate 60 Pro performs exceptionally under sunlight.",
+            "sentence_zh": "华为Mate60 Pro的背光显示屏在阳光下表现卓越。"
+          }
+        ]
+      }
+    ],
+    "teach": "backlit就是'背影杀手'的终极武器💡！就像你妈藏在门缝偷看你玩手机时背后的光👀（经典背光场景），也像深夜偷吃外卖时手机屏幕的背光🍔（实用搭配：backlit screen）。说'光线太刺眼'用地道表达blinding backlight（亮瞎眼的背光）。这单词自带光影魔法✨，记住：背光用得好，颜值翻三倍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白克力'→白色巧克力在背光下发亮",
+        "易混词对比：backlight（背光源）vs highlight（高光）"
+      ]
+    }
   }
 ]

@@ -1712,5 +1712,318 @@
         "记忆口诀：I See You→看见冰雪(icy)要小心"
       ]
     }
+  },
+  {
+    "word": "idea",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希腊语idein（看见），柏拉图用该词指代'超越现实的完美形式'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "主意",
+        "examples": [
+          {
+            "sentence": "His idea of mixing bubble tea with durian caused a staff revolt.",
+            "sentence_zh": "他把榴莲加入奶茶的主意引发了员工抗议。"
+          },
+          {
+            "sentence": "I got the idea to use hotpot as team building activity.",
+            "sentence_zh": "我想出了用火锅做团建的主意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "办法",
+        "examples": [
+          {
+            "sentence": "The idea of bike-sharing solved last-mile problems in cities.",
+            "sentence_zh": "共享单车的办法解决了城市最后一公里难题。"
+          },
+          {
+            "sentence": "Her idea of using Douyin for teaching made classes go viral.",
+            "sentence_zh": "她用抖音教学的办法让课程走红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "理想",
+        "examples": [
+          {
+            "sentence": "The idea of common prosperity guides China's development.",
+            "sentence_zh": "共同富裕的理想指引中国发展。"
+          },
+          {
+            "sentence": "His idea is to create a Mandarin-learning app with AI panda tutors.",
+            "sentence_zh": "他的理想是开发带AI熊猫老师的汉语学习APP。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "思想",
+        "examples": [
+          {
+            "sentence": "Confucius' ideas still influence modern education systems.",
+            "sentence_zh": "孔子的思想仍然影响着现代教育体系。"
+          },
+          {
+            "sentence": "The idea of harmony is key in traditional Chinese medicine.",
+            "sentence_zh": "和谐的思想是中医的关键。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "概念",
+        "examples": [
+          {
+            "sentence": "The idea of 'digital yuan' was confusing to elderly at first.",
+            "sentence_zh": "数字人民币的概念最初让老年人困惑。"
+          },
+          {
+            "sentence": "Young kids may not grasp the idea of QR codes being magic.",
+            "sentence_zh": "小孩可能不理解二维码是魔法这个概念。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "意见",
+        "examples": [
+          {
+            "sentence": "Do you have any ideas about solving traffic jams during holidays?",
+            "sentence_zh": "你对解决节假日堵车有什么意见？"
+          },
+          {
+            "sentence": "Her ideas on Gen-Z workplace culture sparked heated discussion.",
+            "sentence_zh": "她对Z世代职场文化的意见引发了热议。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "get the idea",
+        "meaning": "理解",
+        "examples": [
+          {
+            "sentence": "After three explanations, he finally got the idea of health code colors.",
+            "sentence_zh": "经过三次解释，他终于理解了健康码颜色的含义。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "have no idea",
+        "meaning": "完全不知道",
+        "examples": [
+          {
+            "sentence": "I had no idea hotpot could have durian soup base until today!",
+            "sentence_zh": "直到今天我才知道火锅能有榴莲锅底！"
+          }
+        ]
+      }
+    ],
+    "teach": "idea就像大脑里的烟花🎆！柏拉图认为它是'灵魂看见的完美形式'(难怪我们说'灵光一现'💡)。要吐槽'馊主意'说half-baked idea(半生不熟的想法🍞)，'突发奇想'叫brainwave(脑电波⚡)。记住：当你get the idea时，就像拆开脑中的快递包裹🎁！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱迪尔'→爱迪生(Edison)的创意实验室",
+        "易混词：ideal(理想的) vs idea(想法)",
+        "记忆法：I(我)+dea(拼音'的')→我的想法"
+      ]
+    }
+  },
+  {
+    "word": "ideal",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希腊语idea（理念）+后缀-al→与'观念'相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "理想",
+        "examples": [
+          {
+            "sentence": "His ideal is to open a panda-themed hotpot restaurant in Chengdu.",
+            "sentence_zh": "他的理想是在成都开一家熊猫主题火锅店。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "典范",
+        "examples": [
+          {
+            "sentence": "The Confucius Temple represents the ideal of Chinese education.",
+            "sentence_zh": "孔庙代表了中国教育的典范。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "观念",
+        "examples": [
+          {
+            "sentence": "The ideal of 'harmony between humans and nature' dates back to Daoism.",
+            "sentence_zh": "'天人合一'的观念可追溯至道家思想。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "思想",
+        "examples": [
+          {
+            "sentence": "Marx's ideals continue to influence modern economic theories.",
+            "sentence_zh": "马克思的思想持续影响现代经济理论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "最后目标",
+        "examples": [
+          {
+            "sentence": "The ideal of the project is to create a self-sufficient eco-village.",
+            "sentence_zh": "该项目的最终目标是建立自给自足的生态村。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "理想的",
+        "examples": [
+          {
+            "sentence": "The Great Wall is an ideal spot to watch sunrise during National Day.",
+            "sentence_zh": "长城是国庆节观看日出的理想地点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "完美的",
+        "examples": [
+          {
+            "sentence": "Her Mandarin pronunciation is ideal for a foreigner.",
+            "sentence_zh": "作为外国人，她的普通话发音堪称完美。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "空想的",
+        "examples": [
+          {
+            "sentence": "Some consider communism an ideal society that may never exist.",
+            "sentence_zh": "有人认为共产主义是可能永远无法实现的空想社会。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "观念的",
+        "examples": [
+          {
+            "sentence": "The ideal world in Buddhist teachings differs from physical reality.",
+            "sentence_zh": "佛教教义中的观念世界有别于物质现实。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "唯心论的",
+        "examples": [
+          {
+            "sentence": "Plato's ideal philosophy contrasts with materialist views.",
+            "sentence_zh": "柏拉图的唯心论哲学与唯物主义观点形成对比。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ideal weight",
+        "meaning": "理想体重",
+        "examples": [
+          {
+            "sentence": "The BMI chart shows my ideal weight should be 10kg less.",
+            "sentence_zh": "BMI表显示我的理想体重应该再减10公斤。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in an ideal world",
+        "meaning": "在理想情况下",
+        "examples": [
+          {
+            "sentence": "In an ideal world, we would all have 3-day weekends.",
+            "sentence_zh": "在理想情况下，我们都能享受三天周末。"
+          }
+        ]
+      }
+    ],
+    "teach": "ideal就像火锅里的鸳鸯锅🥘：一边是现实（你现在的工资），一边是理想（财务自由）。柏拉图认为现实世界只是ideal世界的投影🖼️，就像美团外卖照片vs.实物。说'不切实际'可以用pie in the sky（天上掉馅饼），'追求理想'叫pursue ideals要像追星女孩抢演唱会票🎫般狂热！记住：你的IDEA+AL=把想法变成现实（ideal）的超能力✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱迪奥'→爱迪生(idea)+奥迪(al)=理想组合",
+        "易混词：idea(想法)是种子，ideal(理想)是开花结果",
+        "记忆链：idea→ideal→idealism→idealist（逐步升级）"
+      ]
+    }
+  },
+  {
+    "word": "idealism",
+    "etymology": {
+      "breakdown": [
+        "ideal",
+        "ism"
+      ],
+      "meaning_connection": "ideal=理想/观念，-ism=主义/学说→关于理想或观念的哲学理论"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "唯心主义",
+        "examples": [
+          {
+            "sentence": "Berkeley's idealism claims reality is mentally constructed.",
+            "sentence_zh": "贝克莱的唯心主义认为现实是精神构建的。"
+          },
+          {
+            "sentence": "Some argue that quantum physics supports idealism.",
+            "sentence_zh": "有人认为量子物理学支持唯心主义。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "理想主义",
+        "examples": [
+          {
+            "sentence": "His idealism led him to volunteer in war zones.",
+            "sentence_zh": "他的理想主义促使他去战乱地区做志愿者。"
+          },
+          {
+            "sentence": "The startup failed because of the founder's unchecked idealism.",
+            "sentence_zh": "这家初创公司因创始人不受约束的理想主义而失败。"
+          }
+        ]
+      }
+    ],
+    "teach": "idealism是'思想上的美颜相机'📸：哲学家用它给现实加滤镜（唯心主义），热血青年用它给未来画大饼（理想主义）🍰。搭配说'utopian idealism'（乌托邦理想）就像追星族幻想爱豆娶自己，'naive idealism'（天真理想主义）像相信减肥可以只瘦脸不瘦胸💃。记住：当你室友说'钱不重要'时，他要么是idealist，要么是富二代💰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱迪生'→爱迪生的理想主义照亮世界💡",
+        "对比记忆：idealism(理想主义) vs. realism(现实主义)→前者是梦露的裙摆，后者是办公室的Excel表"
+      ]
+    }
   }
 ]

@@ -1838,5 +1838,355 @@
         "对比记忆：belt是外露腰带，waistband多指衣物内置腰带"
       ]
     }
+  },
+  {
+    "word": "waistcoat",
+    "etymology": {
+      "breakdown": [
+        "waist",
+        "coat"
+      ],
+      "meaning_connection": "字面意思是'腰部(waist)的外衣(coat)'，指覆盖躯干上半部分的无袖服装"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "西装背心",
+        "examples": [
+          {
+            "sentence": "The banker adjusted his silk waistcoat before the negotiation.",
+            "sentence_zh": "那位银行家在谈判前整理了下真丝西装背心。"
+          },
+          {
+            "sentence": "His tweed waistcoat perfectly matched the autumn leaves.",
+            "sentence_zh": "他的粗花呢背心与秋叶完美相衬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "马甲",
+        "examples": [
+          {
+            "sentence": "Street vendors often wear waistcoats with multiple pockets.",
+            "sentence_zh": "摊贩常穿带多个口袋的马甲。"
+          },
+          {
+            "sentence": "The bullet barely missed his waistcoat pocket where he kept lucky coins.",
+            "sentence_zh": "子弹擦过他装幸运硬币的马甲口袋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "three-piece suit with waistcoat",
+        "meaning": "三件套西装（含马甲）",
+        "examples": [
+          {
+            "sentence": "British gentlemen prefer three-piece suits with waistcoats for formal occasions.",
+            "sentence_zh": "英国绅士在正式场合偏爱带马甲的三件套西装。"
+          }
+        ]
+      }
+    ],
+    "teach": "waistcoat是英伦绅士的战术背心👔！18世纪时它曾用来展示贵族绣花技艺（现在变成程序员放AirPods的储物间🎧）。说'穿马甲'地道表达是rock a waistcoat，'多口袋马甲'叫fisherman's waistcoat就像行走的储物柜🧥。记住：没袖子的叫waistcoat，有袖子的叫vest（美式陷阱⚠️）！",
+    "recite": {
+      "tips": [
+        "拆解记忆：waist(腰)+coat(外套)=护腰外套",
+        "易混词：vest（美式指所有马甲，英式专指内衣）"
+      ]
+    }
+  },
+  {
+    "word": "waistline",
+    "etymology": {
+      "breakdown": [
+        "waist",
+        "line"
+      ],
+      "meaning_connection": "waist（腰）+ line（线条）→ 字面意思是'腰部的线条'，引申为'腰围'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "腰围",
+        "examples": [
+          {
+            "sentence": "After three months of hotpot indulgence, his waistline expanded by 5cm.",
+            "sentence_zh": "连吃三个月火锅后，他的腰围增长了5厘米。"
+          },
+          {
+            "sentence": "The tailor carefully measured my waistline for the qipao.",
+            "sentence_zh": "裁缝仔细量了我的腰围来制作旗袍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "watch one's waistline",
+        "meaning": "注意腰围/控制体重",
+        "examples": [
+          {
+            "sentence": "During Spring Festival, it's hard to watch your waistline with all those dumplings.",
+            "sentence_zh": "春节期间，面对那么多饺子很难控制腰围。"
+          }
+        ]
+      }
+    ],
+    "teach": "waistline是吃货的晴雨表📊！古代欧洲贵族用束腰控制waistline就像现在女生穿塑身衣🎀，'啤酒肚'叫beer belly就像揣着个西瓜🍉。实用搭配：'腰围增加'说waistline expands，'减肥成功'叫win the battle against waistline。记住：春节前后的waistline差距，就是你对饺子的爱❤️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂食来'→喂食来(waistline)就变粗",
+        "易混词对比：waistline（腰围） vs. coastline（海岸线）"
+      ]
+    }
+  },
+  {
+    "word": "wait",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语的'waitier'，最初与'观察、警戒'相关，后来演变为'等待'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "等待",
+        "examples": [
+          {
+            "sentence": "The two-hour wait for hotpot tested our patience.",
+            "sentence_zh": "两小时的火锅排队考验着我们的耐心。"
+          },
+          {
+            "sentence": "The app shows real-time wait times for Disney rides.",
+            "sentence_zh": "这个app能显示迪士尼游乐设施的实时等待时间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "等候",
+        "examples": [
+          {
+            "sentence": "I'll wait your reply while eating spicy crayfish.",
+            "sentence_zh": "我会一边吃麻辣小龙虾一边等你的回复。"
+          },
+          {
+            "sentence": "Grandma waits her turn to scan the health QR code.",
+            "sentence_zh": "奶奶排队等着扫健康码。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "期待",
+        "examples": [
+          {
+            "sentence": "We're waiting the new iPhone release like waiting for New Year's red envelopes.",
+            "sentence_zh": "我们期待新iPhone发布就像期待新年红包一样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "延缓",
+        "examples": [
+          {
+            "sentence": "He waited dinner until his wife finished her live-streaming.",
+            "sentence_zh": "他推迟晚餐直到妻子结束直播。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "等",
+        "examples": [
+          {
+            "sentence": "Delivery guys often wait outside gated communities.",
+            "sentence_zh": "快递员经常在小区门口等候。"
+          },
+          {
+            "sentence": "We're waiting for the high-speed rail to arrive.",
+            "sentence_zh": "我们正在等高铁到站。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "耽搁",
+        "examples": [
+          {
+            "sentence": "Don't wait till the last day to renew your residence permit.",
+            "sentence_zh": "别等到最后一天才去续居住证。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wait on",
+        "meaning": "服侍",
+        "examples": [
+          {
+            "sentence": "In traditional tea houses, staff wait on customers with long-spout kettles.",
+            "sentence_zh": "在传统茶馆里，伙计用长嘴壶为客人斟茶。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wait up",
+        "meaning": "熬夜等待",
+        "examples": [
+          {
+            "sentence": "Parents often wait up for children playing outside.",
+            "sentence_zh": "家长常熬夜等待在外玩耍的孩子。"
+          }
+        ]
+      }
+    ],
+    "teach": "wait就像人生必修课⌛，从等公交到等快递（wait for delivery），从等工资到等放假（wait for paycheck）。最惨的是等女朋友化妆💄→'be kept waiting'，最幸福的是等火锅沸腾🍲→'good things come to those who wait'。记住：'干等'说twiddle thumbs，'漫长等待'叫play the waiting game🐌！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂他'→要等待(wait)喂他吃饭",
+        "易混词：await更正式，wait更口语"
+      ]
+    }
+  },
+  {
+    "word": "waiter",
+    "etymology": {
+      "breakdown": [
+        "wait",
+        "er"
+      ],
+      "meaning_connection": "词根wait=等待，后缀-er表人→等待服务的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "侍者",
+        "examples": [
+          {
+            "sentence": "The waiter slipped on a dropped dumpling but saved the Peking duck.",
+            "sentence_zh": "侍者踩到掉落的饺子滑倒，却护住了北京烤鸭。"
+          },
+          {
+            "sentence": "In hotpot restaurants, waiters wear roller skates for faster service.",
+            "sentence_zh": "火锅店的侍者穿轮滑鞋提供更快的服务。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "head waiter",
+        "meaning": "领班侍者",
+        "examples": [
+          {
+            "sentence": "The head waiter juggles reservations like a circus performer.",
+            "sentence_zh": "领班侍者像马戏演员一样同时处理多个订位。"
+          }
+        ]
+      }
+    ],
+    "teach": "waiters其实是'等待侠'⌛：中世纪欧洲贵族用餐时，侍从要wait四小时才能上菜！现代吐槽'服务慢'说They move at a snail's pace🐌，夸服务好叫attentive like a butler🤵。记住：给小费(tip)时别学英国人给硬币——那叫chicken change！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂他'→侍者要喂他(waiter)吃饭",
+        "易混词：waiter(男)/waitress(女)",
+        "记忆法：拆解wait+er=等待的人"
+      ]
+    }
+  },
+  {
+    "word": "waiting",
+    "etymology": {
+      "breakdown": [
+        "wait",
+        "ing"
+      ],
+      "meaning_connection": "wait源自古法语'waitier'，意为'观察/守卫'，-ing后缀表示状态或动作的持续"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "等候",
+        "examples": [
+          {
+            "sentence": "The waiting for hot pot seats always smells better than the actual eating.",
+            "sentence_zh": "等火锅位时的香味总比真正吃起来更诱人。"
+          },
+          {
+            "sentence": "Her life became a waiting game for express deliveries.",
+            "sentence_zh": "她的生活变成了等待快递的持久战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "等候的",
+        "examples": [
+          {
+            "sentence": "The waiting passengers formed a dragon-like queue at the train station.",
+            "sentence_zh": "候车的乘客在火车站排出了巨龙般的队伍。"
+          },
+          {
+            "sentence": "All waiting taxis had their 'occupied' lights on during rush hour.",
+            "sentence_zh": "高峰时段所有候客的出租车都亮着'有客'灯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "服侍的",
+        "examples": [
+          {
+            "sentence": "The waiting staff at this hotpot restaurant can peel shrimp with their eyes closed.",
+            "sentence_zh": "这家火锅店的服务员闭着眼睛都能剥虾。"
+          },
+          {
+            "sentence": "Royal waiting maids needed 3 years of cucumber-slicing training.",
+            "sentence_zh": "古代宫廷侍女需要经过三年切黄瓜训练。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in waiting",
+        "meaning": "待命的",
+        "examples": [
+          {
+            "sentence": "The doctor in waiting played Mario Kart to stay alert.",
+            "sentence_zh": "待命的医生通过玩马里奥赛车保持清醒。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "waiting list",
+        "meaning": "候补名单",
+        "examples": [
+          {
+            "sentence": "The VIP waiting list for this milk tea is longer than the Great Wall.",
+            "sentence_zh": "这款奶茶的VIP候补名单比长城还长。"
+          }
+        ]
+      }
+    ],
+    "teach": "waiting是社畜の宿命⏳！中世纪侍从(waiting staff)要试毒🍷，现代人等着抢茅台🛒。'干等着'说twiddle thumbs（玩手指），'排队候诊'叫in the waiting room就像等火锅叫号♨️。记住：人生不是等待暴风雨过去，而是学会在waiting时点外卖🍱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'胃疼'→等待时焦虑到胃疼",
+        "易混词对比：waiter(服务员) vs waiting(等候状态)"
+      ]
+    }
   }
 ]

@@ -1729,5 +1729,318 @@
         "易混词对比：yearly(强调规律性) vs annual(正式场合)"
       ]
     }
+  },
+  {
+    "word": "yearn",
+    "etymology": {
+      "breakdown": [
+        "georn"
+      ],
+      "meaning_connection": "源自古英语'georn'（渴望的），与德语'gern'（乐意）同源，本义指强烈的内在渴望"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "渴望",
+        "examples": [
+          {
+            "sentence": "Freshmen yearn for the canteen's braised pork after military training.",
+            "sentence_zh": "新生军训后特别渴望食堂的红烧肉。"
+          },
+          {
+            "sentence": "Her eyes yearned like a cat staring at a fish tank.",
+            "sentence_zh": "她渴望的眼神像猫咪盯着鱼缸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "想念",
+        "examples": [
+          {
+            "sentence": "Overseas students yearn for their mom's dumplings during Spring Festival.",
+            "sentence_zh": "留学生在春节时格外想念妈妈包的饺子。"
+          },
+          {
+            "sentence": "The old photo made him yearn for his childhood in the hutong.",
+            "sentence_zh": "老照片让他想念胡同里的童年时光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "怀念",
+        "examples": [
+          {
+            "sentence": "Grandparents yearn for the days when neighborhoods played mahjong together.",
+            "sentence_zh": "爷爷奶奶很怀念当年街坊四邻一起打麻将的日子。"
+          },
+          {
+            "sentence": "This Peking opera song yearns for the golden age of traditional art.",
+            "sentence_zh": "这首京剧唱段怀念着传统艺术的黄金时代。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "同情",
+        "examples": [
+          {
+            "sentence": "Her heart yearned for the stray dogs in winter.",
+            "sentence_zh": "她对寒冬里的流浪狗满怀同情。"
+          },
+          {
+            "sentence": "We yearn for those affected by the earthquake while donating supplies.",
+            "sentence_zh": "我们在捐赠物资时对地震受灾者深表同情。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yearn for",
+        "meaning": "渴望得到",
+        "examples": [
+          {
+            "sentence": "Tired commuters yearn for a seat on Beijing Subway Line 10.",
+            "sentence_zh": "疲惫的通勤族渴望在北京地铁10号线有个座位。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "yearn towards",
+        "meaning": "心意朝向",
+        "examples": [
+          {
+            "sentence": "His thoughts yearn towards his hometown when autumn comes.",
+            "sentence_zh": "每逢秋天他的思绪就飞向故乡。"
+          }
+        ]
+      }
+    ],
+    "teach": "yearn是'望眼欲穿'的英文版👀！就像等快递时不断刷新物流信息📦（yearn for delivery），像《舌尖上的中国》让你惦记外婆的拿手菜🍲（yearn for home cooking）。北京话形容这种心情叫'抓心挠肝'，英语说'have a yen for'（源自yearn变体）。搭配推荐：yearn for freedom像高考结束的考生🎓，yearn silently像暗恋不敢表白💘。记住：这个单词自带BGM《可惜不是你》！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噎嗯'→渴望到哽咽",
+        "对比：long for程度较轻，yearn带着颤抖的深情",
+        "记忆TIP：yearn=ye（也）+ earn（赚）→'也想赚'的渴望"
+      ]
+    }
+  },
+  {
+    "word": "yearning",
+    "etymology": {
+      "breakdown": [
+        "yearn",
+        "ing"
+      ],
+      "meaning_connection": "yearn源自古英语'geornan'表示'渴望'，-ing后缀构成名词/形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "渴望",
+        "examples": [
+          {
+            "sentence": "The yearning for hot pot drove her to queue for 3 hours.",
+            "sentence_zh": "对火锅的渴望让她排队三小时。"
+          },
+          {
+            "sentence": "His eyes held the yearning of a stray cat eyeing grilled fish.",
+            "sentence_zh": "他的眼神像流浪猫盯着烤鱼般充满渴望。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "怀念",
+        "examples": [
+          {
+            "sentence": "The mooncake rekindled her yearning for hometown.",
+            "sentence_zh": "月饼重新点燃了她对家乡的怀念。"
+          },
+          {
+            "sentence": "Old photos always bring a yearning for childhood.",
+            "sentence_zh": "老照片总带来对童年的怀念。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "热望的",
+        "examples": [
+          {
+            "sentence": "His yearning look at the last baozi made me give up my share.",
+            "sentence_zh": "他看着最后一个包子的热切眼神让我放弃了我的那份。"
+          },
+          {
+            "sentence": "The puppy's yearning whimpers convinced me to buy extra treats.",
+            "sentence_zh": "小狗热望的呜咽声让我买了额外零食。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yearning for",
+        "meaning": "对...的渴望",
+        "examples": [
+          {
+            "sentence": "Her yearning for bubble tea exceeded her monthly budget.",
+            "sentence_zh": "她对奶茶的渴望超出了月预算。"
+          }
+        ]
+      }
+    ],
+    "teach": "yearning是'望眼欲穿'的英语版👀！就像奶茶瘾发作时盯着珍珠下沉的绝望😩，或打工人周五17:29盯着时钟的煎熬⏰。说'馋哭了'可以用dying of yearning，'乡愁'叫hometown yearning。记住：yearning+for就像饿狼盯着肉🍖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噎嗯'→渴望到噎住",
+        "易混词：longing更持久，yearning更强烈"
+      ]
+    }
+  },
+  {
+    "word": "yeast",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'gist'（泡沫），与德语'Gischt'（浪花）同源，因发酵时产生气泡得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "酵母",
+        "examples": [
+          {
+            "sentence": "The secret of my grandma's mantou is using rice wine yeast.",
+            "sentence_zh": "奶奶的馒头秘诀在于使用米酒酵母。"
+          },
+          {
+            "sentence": "Yeast turns sugar into bubbles that make beer fizzy.",
+            "sentence_zh": "酵母把糖转化为气泡，让啤酒产生泡沫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yeast infection",
+        "meaning": "酵母菌感染",
+        "examples": [
+          {
+            "sentence": "Eating too much sugar may cause yeast infection.",
+            "sentence_zh": "摄入过多糖分可能导致酵母菌感染。"
+          }
+        ]
+      }
+    ],
+    "teach": "酵母是微生物界的面包超人🍞！5000年前埃及人就用它酿啤酒🍺（历史最悠久的职场打工人）。视觉记忆：酵母就像会跳舞的糖粒子💃，把面粉变成蓬松馒头。搭配：yeast dough（酵母面团）/ nutritional yeast（营养酵母）。说'发酵失败'用flat as a pancake（瘪得像煎饼）😮‍💨",
+    "recite": {
+      "tips": [
+        "谐音梗：'噎死它'→馒头吃太快会噎着",
+        "易混词：east（东方）- yeast（酵母），东西方饮食差异"
+      ]
+    }
+  },
+  {
+    "word": "yell",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'g(i)ellan'，模拟尖锐声响的拟声词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "叫喊",
+        "examples": [
+          {
+            "sentence": "Tourists yell when seeing pandas rolling in the snow.",
+            "sentence_zh": "游客们看到熊猫在雪地里打滚时大声叫喊。"
+          },
+          {
+            "sentence": "Don't yell at the delivery guy even if your spicy hotpot is late.",
+            "sentence_zh": "即使你的麻辣火锅送晚了，也别对快递小哥吼叫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "(齐声)呐喊欢呼",
+        "examples": [
+          {
+            "sentence": "Crowds yell in unison when the national team scores.",
+            "sentence_zh": "当国家队得分时，人群齐声呐喊欢呼。"
+          },
+          {
+            "sentence": "Little girls yell with excitement at Bubble Tea Festival.",
+            "sentence_zh": "小女孩们在奶茶节上兴奋地齐声欢呼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "喊叫着说",
+        "examples": [
+          {
+            "sentence": "He yelled 'Check please!' across the hotpot restaurant.",
+            "sentence_zh": "他在火锅店里大喊'买单！'"
+          },
+          {
+            "sentence": "The coach yelled instructions during the basketball game.",
+            "sentence_zh": "教练在篮球比赛中喊叫着传达指令。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "叫声",
+        "examples": [
+          {
+            "sentence": "A sudden yell came from the haunted house attraction.",
+            "sentence_zh": "鬼屋景点里突然传出一声尖叫。"
+          },
+          {
+            "sentence": "The yell of street vendors selling stinky tofu is iconic.",
+            "sentence_zh": "卖臭豆腐的街边小贩的吆喝声很有标志性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "yell out",
+        "meaning": "大声喊出",
+        "examples": [
+          {
+            "sentence": "Someone yelled out 'Free dumplings!' in the canteen.",
+            "sentence_zh": "食堂里有人大喊'饺子免费！'"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "yell at sb.",
+        "meaning": "对某人大喊大叫",
+        "examples": [
+          {
+            "sentence": "Never yell at the AI speaker when it misunderstands you.",
+            "sentence_zh": "当智能音箱误解你时，别对它吼叫。"
+          }
+        ]
+      }
+    ],
+    "teach": "yell是人类最原始的'蓝牙音箱'📢！古人在丛林里靠yell吓跑剑齿虎🐅（原始报警系统），现代人在演唱会yell应援🎤（追星必备技能）。说'气得大吼'用yell one's head off像沸腾的火锅🌋，'突然尖叫'叫let out a yell如同踩到乐高😱。记住：对客服yell会收获差评，对爱豆yell会收获签名！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噎哦'→被辣椒噎到(yell)尖叫",
+        "易混词对比：shout(普通喊叫) vs yell(更尖锐/情绪化)",
+        "视觉联想：把YELL看成两个举着手呐喊的人Y🤸E🤸L"
+      ]
+    }
   }
 ]

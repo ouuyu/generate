@@ -1791,5 +1791,304 @@
         "易混词：eyeshot（视力范围）vs earshot"
       ]
     }
+  },
+  {
+    "word": "earth",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'eorthe'，与荷兰语'aarde'同源，最初指'地面、土壤'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "地球",
+        "examples": [
+          {
+            "sentence": "The first photo of Earth from space changed human perspective forever.",
+            "sentence_zh": "第一张太空拍摄的地球照片永远改变了人类的视角。"
+          },
+          {
+            "sentence": "Earth's population would fill 7,000 Great Pyramids of Giza.",
+            "sentence_zh": "全球人口能塞满7,000座吉萨大金字塔。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "泥土",
+        "examples": [
+          {
+            "sentence": "The pottery teacher said we must respect the earth as living material.",
+            "sentence_zh": "陶艺老师说我们必须把泥土当作有生命的材料来尊重。"
+          },
+          {
+            "sentence": "After rain, the smell of fresh earth reminds me of childhood.",
+            "sentence_zh": "雨后新泥的气息让我想起童年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "世界",
+        "examples": [
+          {
+            "sentence": "His invention shook the literary earth like a quake.",
+            "sentence_zh": "他的发明像地震般震撼了文学界。"
+          },
+          {
+            "sentence": "The news traveled to every corner of the earth via Weibo.",
+            "sentence_zh": "消息通过微博传遍世界的每个角落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "尘世",
+        "examples": [
+          {
+            "sentence": "Buddhist monks strive to transcend earthly desires.",
+            "sentence_zh": "僧侣们努力超脱尘世欲望。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "埋入土中",
+        "examples": [
+          {
+            "sentence": "We earthed the time capsule under the school's flagpole.",
+            "sentence_zh": "我们把时间胶囊埋在学校旗杆下。"
+          },
+          {
+            "sentence": "The gardener earthed up the rose bushes for winter protection.",
+            "sentence_zh": "园丁给玫瑰丛培土以助越冬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "躲入洞内",
+        "examples": [
+          {
+            "sentence": "The fox earthed swiftly when hearing hunters.",
+            "sentence_zh": "狐狸听到猎人声响迅速钻入地洞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on earth",
+        "meaning": "究竟（加强语气）",
+        "examples": [
+          {
+            "sentence": "Why on earth would anyone queue 5 hours for milk tea?",
+            "sentence_zh": "到底为什么会有人排队5小时买奶茶？"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "down to earth",
+        "meaning": "务实的",
+        "examples": [
+          {
+            "sentence": "The billionaire stays down to earth by taking the subway daily.",
+            "sentence_zh": "这位亿万富翁每天坐地铁保持接地气。"
+          }
+        ]
+      }
+    ],
+    "teach": "earth是宇宙级多面手🌍！作为'地球'时像蓝色弹珠（NASA著名照片），当'泥土'时是捏陶瓷的天然3D打印材料🏺，指'世界'时相当于全球村居委会🌐。记住：说'完全疯了'用'gone to earth'（字面是钻地洞，实际指发疯），'务实'叫down-to-earth就像光脚踩泥巴👣。要形容'极端震惊'可以说earth-shattering（震碎地球的）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿死'→没有earth真的会饿死",
+        "易混对比：earth(陆地) vs. world(人类世界) vs. globe(球体形态)"
+      ]
+    }
+  },
+  {
+    "word": "earthbound",
+    "etymology": {
+      "breakdown": [
+        "earth",
+        "bound"
+      ],
+      "meaning_connection": "earth=地球/土地，bound=受限制的→被束缚在地球或地面的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "只在地球上的",
+        "examples": [
+          {
+            "sentence": "The Mars rover left earthbound control behind forever.",
+            "sentence_zh": "火星车永远离开了地球控制站。"
+          },
+          {
+            "sentence": "Earthbound telescopes can't observe dark matter directly.",
+            "sentence_zh": "地球上的望远镜无法直接观测暗物质。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "只在地面的",
+        "examples": [
+          {
+            "sentence": "Pandas are earthbound creatures unlike squirrels.",
+            "sentence_zh": "熊猫是地面动物，不像松鼠会上树。"
+          },
+          {
+            "sentence": "The earthbound missile couldn't hit the helicopter.",
+            "sentence_zh": "这款地面导弹无法击中直升机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "世俗的",
+        "examples": [
+          {
+            "sentence": "His earthbound desires include hotpot and lottery.",
+            "sentence_zh": "他的世俗欲望包括火锅和彩票。"
+          },
+          {
+            "sentence": "Monks try to transcend earthbound temptations.",
+            "sentence_zh": "僧侣试图超越世俗诱惑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "缺乏想象力的",
+        "examples": [
+          {
+            "sentence": "The earthbound design looked like a concrete box.",
+            "sentence_zh": "这个缺乏想象力的设计像个水泥盒子。"
+          },
+          {
+            "sentence": "Her earthbound cooking never experiments with flavors.",
+            "sentence_zh": "她缺乏想象力的烹饪从不尝试新口味。"
+          }
+        ]
+      }
+    ],
+    "teach": "earthbound是社畜の宿命🏢：字面是被地心引力束缚（物理层面），深层是房贷压垮的想象力（精神层面）💸。说人'太现实'可以用down-to-earth（褒义）或earthbound（贬义）。搭配：earthbound lifestyle（三点一线生活）🚇earthbound thinking（思维固化）。记住：当你说自己earthbound时，至少比马铃薯强🥔——它连挪动的资格都没有！",
+    "recite": {
+      "tips": [
+        "视觉联想：地球+捆绑带=被绑在地球上的打工仔🌍🔗",
+        "对比：earthbound（贬义局限） vs. grounded（褒义踏实）"
+      ]
+    }
+  },
+  {
+    "word": "earthen",
+    "etymology": {
+      "breakdown": [
+        "earth",
+        "en"
+      ],
+      "meaning_connection": "词根earth=土地/地球，后缀-en表'由...制成'→用泥土做成的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "土制的",
+        "examples": [
+          {
+            "sentence": "The Great Wall's earthen sections need special protection from rain.",
+            "sentence_zh": "长城的土制部分需要特别防雨保护。"
+          },
+          {
+            "sentence": "Children built an earthen castle in the yard after the rain.",
+            "sentence_zh": "雨后孩子们在院子里堆了座土制城堡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "陶制的",
+        "examples": [
+          {
+            "sentence": "Terracotta Warriors are famous earthen sculptures from 2000 years ago.",
+            "sentence_zh": "兵马俑是2000年前著名的陶制雕塑。"
+          },
+          {
+            "sentence": "She collects earthen teapots from different dynasties.",
+            "sentence_zh": "她收藏各个朝代的陶制茶壶。"
+          }
+        ]
+      }
+    ],
+    "teach": "earthen=earth+en，就像女娲用泥土(en)捏人🧑‍🎨！西方有亚当取自尘土，东方有兵马俑陶土军团🗿。说'土房子'别用dirty house，要说earthen dwelling（土筑民居）。现代'陶艺课'叫earthenware class🏺，记住：凡是用土搞的艺术，都带着大地的芬芳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿死土人'→饿死也要玩陶土(earthen)的匠人",
+        "对比记忆：earthen陶制 vs. earthly世俗的"
+      ]
+    }
+  },
+  {
+    "word": "earthenware",
+    "etymology": {
+      "breakdown": [
+        "earth",
+        "en",
+        "ware"
+      ],
+      "meaning_connection": "earth=泥土，-en表材料，ware=制品→用泥土烧制的器皿"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "陶器",
+        "examples": [
+          {
+            "sentence": "The museum displays Tang Dynasty earthenware with camel designs.",
+            "sentence_zh": "博物馆展出了带有骆驼纹样的唐代陶器。"
+          },
+          {
+            "sentence": "Her grandma still uses earthenware pots to pickle vegetables.",
+            "sentence_zh": "她奶奶仍用陶罐腌渍蔬菜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "土器",
+        "examples": [
+          {
+            "sentence": "Archaeologists found primitive earthenware in the Neolithic site.",
+            "sentence_zh": "考古学家在新石器遗址发现了原始土器。"
+          },
+          {
+            "sentence": "The earthenware whistle mimics birdsong when filled with water.",
+            "sentence_zh": "这种土器哨子装水后能模仿鸟鸣。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "earthenware jar",
+        "meaning": "陶罐",
+        "examples": [
+          {
+            "sentence": "The earthenware jar kept tea leaves dry for months.",
+            "sentence_zh": "这个陶罐让茶叶保持干燥长达数月。"
+          }
+        ]
+      }
+    ],
+    "teach": "earthenware是老祖宗的乐扣乐扣🍶！人类最早用泥巴(en-earth)捏出容器就像玩橡皮泥🧱，烧制后变身耐用器皿(ware)。现代人说'手作陶器'叫hand-thrown pottery，而'古董陶器'是antique earthenware。记住：每次用紫砂壶喝茶，你都在体验5000年前的科技革命！🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿着玩'→古人饿着玩泥巴发明陶器",
+        "易混词对比：porcelain(瓷器) vs earthenware(陶器)"
+      ]
+    }
   }
 ]

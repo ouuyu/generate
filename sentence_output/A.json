@@ -1670,5 +1670,298 @@
         "易混词对比：belly(口语化腹部) vs abdomen(解剖学术语)"
       ]
     }
+  },
+  {
+    "word": "abdominal",
+    "etymology": {
+      "breakdown": [
+        "abdomin",
+        "al"
+      ],
+      "meaning_connection": "词根abdomin=腹部（来自拉丁语abdomen），-al表形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "腹部的",
+        "examples": [
+          {
+            "sentence": "The yoga instructor demonstrated advanced abdominal exercises.",
+            "sentence_zh": "瑜伽教练展示了高阶腹部训练动作。"
+          },
+          {
+            "sentence": "His abdominal muscles looked like chocolate bars after years of training.",
+            "sentence_zh": "多年训练后他的腹肌像巧克力排块般分明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有腹鳍的",
+        "examples": [
+          {
+            "sentence": "The tropical fish has beautiful abdominal fins resembling silk ribbons.",
+            "sentence_zh": "这种热带鱼的腹鳍如丝绸缎带般美丽。"
+          },
+          {
+            "sentence": "Scientists studied how abdominal fins help maintain balance in aquatic creatures.",
+            "sentence_zh": "科学家研究腹鳍如何帮助水生生物保持平衡。"
+          }
+        ]
+      }
+    ],
+    "teach": "abdominal是'腹部特工'🕵️♂️！词源来自拉丁语abdomen（原指'隐藏的部分'），就像把零食藏在肚腩里🍔。健身狂魔说'练核心'叫work on abs💪，'啤酒肚'幽默说法是beer belly🍺。记住：鱼用abdominal fins游泳，人类用abdominal muscles炫腹！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不动的no'→腹部赘肉让人爱不动",
+        "易混词对比：abdominal（腹部的）vs ventral（腹侧的）"
+      ]
+    }
+  },
+  {
+    "word": "abduct",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "duct"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根duct表示'引导'→原指强行引导离开，引申出'绑架'和'外展'两种含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "诱拐",
+        "examples": [
+          {
+            "sentence": "The villain tried to abduct the princess with candy.",
+            "sentence_zh": "反派试图用糖果诱拐公主。"
+          },
+          {
+            "sentence": "Stranger danger videos teach kids how to avoid being abducted.",
+            "sentence_zh": "防陌生人视频教孩子避免被诱拐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "绑架",
+        "examples": [
+          {
+            "sentence": "The CEO was abducted in broad daylight near Wangfujing.",
+            "sentence_zh": "这位CEO在王府井大白天遭绑架。"
+          },
+          {
+            "sentence": "Alien abduction stories always involve bright lights.",
+            "sentence_zh": "外星人绑架故事总与强光有关。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使外展",
+        "examples": [
+          {
+            "sentence": "The yoga instructor abducted her arms like a soaring eagle.",
+            "sentence_zh": "瑜伽老师像展翅雄鹰般外展双臂。"
+          },
+          {
+            "sentence": "Abducting your legs sideways can improve hip flexibility.",
+            "sentence_zh": "双腿向外展能增强髋部灵活性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abduct from",
+        "meaning": "从...劫走",
+        "examples": [
+          {
+            "sentence": "The child was abducted from the kindergarten playground.",
+            "sentence_zh": "孩子从幼儿园操场被劫走。"
+          }
+        ]
+      }
+    ],
+    "teach": "abduct是'强行带走'届的斜杠青年💼！当它表示绑架时像黑衣人拽你上UFO👽（alien abduction），表示外展时像抖音网红跳螃蟹舞🦀（abduct arms）。记住：'ab-'代表远离（如absent缺席），'duct'代表引导（如conduct传导）。被abduct时记得喊'Help！'而不是'我的柔韧性真好！'",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不搭客'→爱绑架(abduct)不搭理的乘客",
+        "对比记忆：abduct（强行带走） vs. deduct（扣除）",
+        "动作联想：想象螃蟹横着走就是abduct动作"
+      ]
+    }
+  },
+  {
+    "word": "abducted",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "duct",
+        "ed"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根duct表示'引导'，-ed表过去分词→被引导离开原处"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "诱拐",
+        "examples": [
+          {
+            "sentence": "The billionaire's daughter was abducted by aliens wearing Supreme hoodies.",
+            "sentence_zh": "那位亿万富翁的女儿被穿着Supreme连帽衫的外星人绑架了。"
+          },
+          {
+            "sentence": "In ancient China, abducting pandas was considered a royal crime.",
+            "sentence_zh": "在古代中国，诱拐熊猫属于御前重罪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abducted person",
+        "meaning": "被绑架者",
+        "examples": [
+          {
+            "sentence": "The abducted person was found eating hotpot in Chongqing.",
+            "sentence_zh": "被绑架者被发现时正在重庆吃火锅。"
+          }
+        ]
+      }
+    ],
+    "teach": "abducted是'被带歪了'👽：词根duct本指引导（如conduct指挥），但加上ab-就变成'拐走'。要说'人间蒸发'用地道表达pulled a disappearing act。搭配记忆：外星人绑架叫alien abduction，拐卖儿童是child abduction。记住：abduct就是强行给你'换导航路线'🗺️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱不搭理他'→因为他是被诱拐(abduct)的",
+        "易混词对比：kidnap（单纯绑架） vs abduct（有引导过程的诱拐）"
+      ]
+    }
+  },
+  {
+    "word": "abduction",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "duct",
+        "ion"
+      ],
+      "meaning_connection": "前缀ab-表示'离开'，词根duct表示'引导'（同源词：conduct传导），后缀-ion表名词→'引导离开'即绑架/外展"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "诱拐",
+        "examples": [
+          {
+            "sentence": "The movie Taken depicts a father rescuing his daughter from abduction.",
+            "sentence_zh": "电影《飓风营救》讲述父亲从绑架中救出女儿的故事。"
+          },
+          {
+            "sentence": "Alien abduction stories often include mysterious crop circles.",
+            "sentence_zh": "外星人绑架传说常伴随神秘的麦田怪圈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "外展",
+        "examples": [
+          {
+            "sentence": "The dancer's arm abduction created an elegant swan-like posture.",
+            "sentence_zh": "舞者手臂外展时形成优雅的天鹅姿态。"
+          },
+          {
+            "sentence": "Shoulder abduction is crucial for basketball shooting motions.",
+            "sentence_zh": "肩关节外展对篮球投篮动作至关重要。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "alien abduction",
+        "meaning": "外星人绑架",
+        "examples": [
+          {
+            "sentence": "The farmer claimed alien abduction after seeing UFO lights.",
+            "sentence_zh": "农夫目睹UFO光芒后声称遭遇外星人绑架。"
+          }
+        ]
+      }
+    ],
+    "teach": "abduction是'强行带离'🚨：词根duct就像水管(conduit)引导水流，前缀ab-表示'跑偏'→要么被绑匪带走👹，要么像芭蕾演员张开双臂🦢。说'被拐走'可用snatched away（像抢走奶茶），'张开手臂'叫spread like wings🕊️。记住： abduction不是奥迪(Audi)+动作(action)！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不 duct'→俺不跟导管走(拒绝绑架)",
+        "易混词：adduction(内收) vs abduction(外展)←记住A字张开像外展",
+        "联想：外星人绑架(alien abduction)就像强行顺走你的外卖"
+      ]
+    }
+  },
+  {
+    "word": "abductor",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "duct",
+        "or"
+      ],
+      "meaning_connection": "前缀ab-表示'远离'，词根duct表示'引导'，后缀-or表示'人/物'→把人带离原处的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "诱拐者",
+        "examples": [
+          {
+            "sentence": "The kidnapper was actually an abductor pretending to be a delivery guy.",
+            "sentence_zh": "绑匪其实是个伪装成快递员的诱拐者。"
+          },
+          {
+            "sentence": "Security cameras caught the abductor wearing panda pajamas.",
+            "sentence_zh": "监控拍到穿熊猫睡衣的诱拐者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绑架者",
+        "examples": [
+          {
+            "sentence": "The abductor demanded ransom in spicy crayfish.",
+            "sentence_zh": "绑架者要求用麻辣小龙虾支付赎金。"
+          },
+          {
+            "sentence": "Police arrested the abductor while he was livestreaming.",
+            "sentence_zh": "警方在绑匪直播时实施抓捕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "外展肌",
+        "examples": [
+          {
+            "sentence": "Yoga practitioners often strengthen their abductor muscles.",
+            "sentence_zh": "瑜伽练习者常需要强化外展肌。"
+          },
+          {
+            "sentence": "His abductor was strained from doing the splits too hard.",
+            "sentence_zh": "他因劈叉太猛拉伤了外展肌。"
+          }
+        ]
+      }
+    ],
+    "teach": "abductor是个'带路党'🧭：词根duct=引导（想想导管conductor），前缀ab-=带走。绑架者叫kidnapper，但专业术语必用abductor！视觉记忆：想象肌肉💪把你的腿'拐跑'到侧面（外展动作）。搭配：①police hunt for abductor ②abductor muscle strain。说'人贩子'可用child abductor，但吐槽朋友拐你去吃宵夜可说'You're my midnight snack abductor!'🍗🚨",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不带走他'→假慈悲的abductor",
+        "易混词对比：abductor（带离） vs adductor（内收肌，往里带）"
+      ]
+    }
   }
 ]

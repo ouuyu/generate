@@ -1651,5 +1651,284 @@
         "易混对比：sacred（神圣的） vs. sacrifice（牺牲）"
       ]
     }
+  },
+  {
+    "word": "sacrificial",
+    "etymology": {
+      "breakdown": [
+        "sacr",
+        "fic",
+        "ial"
+      ],
+      "meaning_connection": "词根sacr=神圣，fic=做，-ial=形容词后缀→'为神圣目的而做的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "牺牲的",
+        "examples": [
+          {
+            "sentence": "The sacrificial love of parents is like WiFi signal - invisible but always there.",
+            "sentence_zh": "父母牺牲的爱就像WiFi信号——看不见却始终存在。"
+          },
+          {
+            "sentence": "She made a sacrificial decision to work overtime for her brother's tuition.",
+            "sentence_zh": "她为弟弟的学费做出加班牺牲的决定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "献祭的",
+        "examples": [
+          {
+            "sentence": "Archaeologists found sacrificial bronze vessels from Shang Dynasty.",
+            "sentence_zh": "考古学家发现商代的献祭青铜器。"
+          },
+          {
+            "sentence": "The sacrificial lamb in the ritual symbolizes purity.",
+            "sentence_zh": "仪式中的献祭羔羊象征纯洁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "亏本的",
+        "examples": [
+          {
+            "sentence": "This sacrificial pricing strategy is to attract more users.",
+            "sentence_zh": "这个亏本定价策略是为了吸引更多用户。"
+          },
+          {
+            "sentence": "During Double 11, many products are sold at sacrificial prices.",
+            "sentence_zh": "双十一期间许多商品以亏本价出售。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sacrificial anode",
+        "meaning": "牺牲阳极（电化学保护法）",
+        "examples": [
+          {
+            "sentence": "The ship's hull is protected by sacrificial anodes.",
+            "sentence_zh": "船体通过牺牲阳极得到保护。"
+          }
+        ]
+      }
+    ],
+    "teach": "sacrificial是'割肉三连'🤺：1) 古代祭祀就像直播带货——杀牛献祭求点赞（sacrificial altar）2) 现代'割肉'就像股票套牢还硬扛（sacrificial sale）3) 记住'亏本大清仓'叫sacrificial pricing，'舍己为人'是sacrificial spirit。当你说'I made a sacrificial offer'时，表情要像被抢了最后一杯奶茶🥤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'腮骨飞瘦'→献祭时腮帮子都瘦了",
+        "易混词：sacred（神圣的） vs sacrificial（献祭的）",
+        "记忆tip：记住'fic'（做）像'费心'→做献祭很费心"
+      ]
+    }
+  },
+  {
+    "word": "sacrilege",
+    "etymology": {
+      "breakdown": [
+        "sacr",
+        "lege"
+      ],
+      "meaning_connection": "词根sacr=神圣（同sacred），lege=拿走→原指偷走圣物，引申为亵渎行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "亵渎圣物",
+        "examples": [
+          {
+            "sentence": "Drawing graffiti on the Terracotta Warriors would be considered sacrilege.",
+            "sentence_zh": "在兵马俑上涂鸦会被视为亵渎圣物。"
+          },
+          {
+            "sentence": "Using the temple bell as a dinner gong is pure sacrilege.",
+            "sentence_zh": "把寺庙铜钟当晚餐铃铛纯属亵渎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "冒渎行为",
+        "examples": [
+          {
+            "sentence": "Putting ketchup on Peking duck is sacrilege to foodies.",
+            "sentence_zh": "给北京烤鸭挤番茄酱在吃货眼里是冒渎行为。"
+          },
+          {
+            "sentence": "Calling Shakespeare 'overrated' is academic sacrilege.",
+            "sentence_zh": "说莎士比亚'被高估'是学术界的冒渎。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "commit sacrilege",
+        "meaning": "犯下渎圣罪",
+        "examples": [
+          {
+            "sentence": "The thief who stole the golden Buddha committed sacrilege.",
+            "sentence_zh": "偷盗金佛像的小偷犯了渎圣罪。"
+          }
+        ]
+      }
+    ],
+    "teach": "sacrilege是'神圣'与'盗窃'的魔性组合⚡️：想象把故宫铜缸熔了做手机壳📱（绝对sacrilege！）。中世纪偷教堂蜡烛都算sacrilege🕯️，现在说'奶茶比酒好喝'可能被当culinary sacrilege🧋。搭配'cultural sacrilege'形容对经典的魔改，比如让孙悟空用智能手机🐒。记住：任何神圣事物被冒犯都能用这个词！",
+    "recite": {
+      "tips": [
+        "联想记忆：'寺可裂祭'→寺庙(sacr)裂开(lege)的祭祀场面",
+        "易混词对比：sacred（神圣的） vs sacrilege（亵渎神圣的）"
+      ]
+    }
+  },
+  {
+    "word": "sacrilegious",
+    "etymology": {
+      "breakdown": [
+        "sacri",
+        "leg",
+        "ious"
+      ],
+      "meaning_connection": "词根sacri=神圣，leg=盗窃，-ious表性质→原指偷盗圣物的行为，引申为亵渎神圣"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "冒渎的",
+        "examples": [
+          {
+            "sentence": "Using temple incense to flavor hotpot is absolutely sacrilegious.",
+            "sentence_zh": "用庙里的香火煮火锅简直大不敬。"
+          },
+          {
+            "sentence": "His sacrilegious parody of Buddha's teachings went viral.",
+            "sentence_zh": "他对佛经的亵渎性恶搞视频在网上疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "犯渎圣罪的",
+        "examples": [
+          {
+            "sentence": "The sacrilegious act of spray-painting terracotta warriors shocked archaeologists.",
+            "sentence_zh": "给兵马俑喷涂鸦的渎圣行为震惊考古界。"
+          },
+          {
+            "sentence": "Eating Peking duck in a church would be considered sacrilegious.",
+            "sentence_zh": "在教堂里吃北京烤鸭会被视为渎圣。"
+          }
+        ]
+      }
+    ],
+    "teach": "sacrilegious本质是'偷神圣'💎：想象把故宫金銮殿龙椅搬去拍短视频的行为🚫，或把《兰亭序》真迹当火锅垫🍲！搭配'sacrilegious joke'(渎神笑话)和'sacrilegious act'(渎圣行为)。地道表达用'playing with holy fire'形容玩火自焚式亵渎🔥。记住：这词严重程度≈在少林寺跳女团舞🦚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'塞块垃圾事儿'→往圣物里塞垃圾是渎圣",
+        "易混词对比：sacred(神圣的)/sacrilegious(渎圣的)像天使😇与恶魔😈",
+        "记忆tip：拆解成sacri(圣)+leg(偷)+ious→偷圣物的性质"
+      ]
+    }
+  },
+  {
+    "word": "sacristy",
+    "etymology": {
+      "breakdown": [
+        "sacr",
+        "ist",
+        "y"
+      ],
+      "meaning_connection": "词根sacr=神圣（同sacred），-ist表人，-y表场所→神职人员管理圣器的场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣器收藏室",
+        "examples": [
+          {
+            "sentence": "The priest found a 15th-century chalice in the sacristy.",
+            "sentence_zh": "神父在圣器室发现了一只15世纪的圣杯。"
+          },
+          {
+            "sentence": "Tourists aren't allowed to enter the sacristy where holy relics are kept.",
+            "sentence_zh": "游客禁止进入存放圣物的圣器室。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣器安置所",
+        "examples": [
+          {
+            "sentence": "The incense burner is regularly cleaned in the sacristy.",
+            "sentence_zh": "香炉定期在圣器安置所进行清洁。"
+          },
+          {
+            "sentence": "Light filtered through the stained-glass windows of the sacristy.",
+            "sentence_zh": "光线透过圣器安置所的彩绘玻璃窗洒落进来。"
+          }
+        ]
+      }
+    ],
+    "teach": "sacristy其实是教堂的'神圣储物间'⛪！就像《哈利波特》有求必应屋🧙♂️，但专门存放圣器（比如吸血鬼害怕的圣水💦）。搭配说'rob the sacristy'比抢银行罪加一等，地道表达'holy of holies'（至圣所）指代核心重地。记住：这里不放拖把，只放圣物！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛克瑞士'→瑞士军刀般精密的圣器室",
+        "易混词：sacred（神圣的）/secret（秘密的）"
+      ]
+    }
+  },
+  {
+    "word": "sacrosanct",
+    "etymology": {
+      "breakdown": [
+        "sacro",
+        "sanct"
+      ],
+      "meaning_connection": "词根sacro=神圣（来自拉丁语sacer），sanct=神圣（同源词sanctuary）→双重神圣叠加，强调至高神圣性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "极神圣的",
+        "examples": [
+          {
+            "sentence": "The Terracotta Warriors are considered sacrosanct cultural relics in China.",
+            "sentence_zh": "兵马俑在中国被视为极其神圣的文物。"
+          },
+          {
+            "sentence": "Some fans treat their idol's autograph as sacrosanct objects.",
+            "sentence_zh": "某些粉丝将偶像的签名视作圣物般供奉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hold something sacrosanct",
+        "meaning": "将...奉为神圣",
+        "examples": [
+          {
+            "sentence": "Ancient Egyptians held cats sacrosanct as embodiments of gods.",
+            "sentence_zh": "古埃及人将猫奉为神明化身般神圣。"
+          }
+        ]
+      }
+    ],
+    "teach": "sacrosanct是'神圣Pro Max版'✨！罗马神庙用sacro+sanct双重认证（像防伪标识🏛️），现在多用于吐槽：比如程序员觉得自己的代码神圣不可侵犯💻（sacrosanct code），或广东人认为早茶传统sacrosanct🍵。要说'神圣不可侵犯'可以戏称holy grail（圣杯），搭配sacrosanct principle（铁律）/sacrosanct place（圣地）使用。记住：这个词自带BGM《哈利路亚》🎵",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛克肉三克他'→比赛克（sac-）肉（ro）三克（sanct）他（神圣不可侵犯）",
+        "易混词对比：sacred（普通神圣）vs sacrosanct（超级神圣）→就像普通会员和SVIP的区别"
+      ]
+    }
   }
 ]

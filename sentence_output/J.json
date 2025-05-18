@@ -1754,5 +1754,279 @@
         "易混词：Jamaica（国家名） vs. Japanese（日本人）"
       ]
     }
+  },
+  {
+    "word": "jamaican",
+    "etymology": {
+      "breakdown": [
+        "Jamaica",
+        "an"
+      ],
+      "meaning_connection": "源自牙买加(Jamaica)国名，后缀-an表'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "牙买加的",
+        "examples": [
+          {
+            "sentence": "The Jamaican bobsleigh team inspired the movie Cool Runnings.",
+            "sentence_zh": "牙买加雪车队激发了电影《冰上轻驰》的创作。"
+          },
+          {
+            "sentence": "Jamaican Blue Mountain coffee costs more than my daily lunch.",
+            "sentence_zh": "牙买加蓝山咖啡比我的每日午餐还贵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "牙买加人的",
+        "examples": [
+          {
+            "sentence": "Jamaican sprinters dominate the world's short-distance races.",
+            "sentence_zh": "牙买加短跑选手统治世界短跑赛事。"
+          },
+          {
+            "sentence": "My Jamaican neighbor teaches me how to make jerk chicken.",
+            "sentence_zh": "我的牙买加邻居教我制作烟熏烤鸡。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Jamaican patois",
+        "meaning": "牙买加克里奥尔语",
+        "examples": [
+          {
+            "sentence": "'Wah gwaan' is a greeting in Jamaican patois meaning 'what's going on'.",
+            "sentence_zh": "'Wah gwaan'是牙买加方言问候语，意为'最近怎么样'。"
+          }
+        ]
+      }
+    ],
+    "teach": "Jamaican=闪电侠⚡+咖啡豆☕+雷鬼乐🎵！这个加勒比海岛国盛产：1) 博尔特这样的短跑天才 2) 每磅$50的蓝山咖啡 3) 鲍勃·马利的雷鬼文化。说'超快'可以用Jamaican speed（牙买加速度），'放松状态'叫in Jamaican mode（雷鬼式的慵懒）。记住：听到'ya mon'就是在说正宗牙买加腔啦！🇯🇲",
+    "recite": {
+      "tips": [
+        "谐音梗：'炸麦啃'→牙买加人炸麦片当零食",
+        "易混词：Caribbean（加勒比的）vs Jamaican",
+        "联想：国旗上的黄绿黑=咖啡/森林/雷鬼乐"
+      ]
+    }
+  },
+  {
+    "word": "jamb",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自古法语'jambe'（腿）→ 像人腿一样支撑门框的直立结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "门窗侧壁",
+        "examples": [
+          {
+            "sentence": "The cat left scratch marks on the wooden jamb of our front door.",
+            "sentence_zh": "猫咪在我们前门的木质门框上留下了抓痕。"
+          },
+          {
+            "sentence": "He leaned against the marble jamb while waiting for the elevator.",
+            "sentence_zh": "等电梯时他倚靠着大理石门框。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "侧柱",
+        "examples": [
+          {
+            "sentence": "The antique clock was mounted between two stone jambs in the hallway.",
+            "sentence_zh": "那座古董钟被安装在走廊的两根石制侧柱之间。"
+          },
+          {
+            "sentence": "Modern jambs often contain hidden wiring for smart home systems.",
+            "sentence_zh": "现代建筑的侧柱常暗藏智能家居系统的线路。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "door jamb",
+        "meaning": "门框立柱",
+        "examples": [
+          {
+            "sentence": "The delivery guy dented our door jamb with the refrigerator.",
+            "sentence_zh": "送货员搬冰箱时撞凹了我们的门框。"
+          }
+        ]
+      }
+    ],
+    "teach": "jamb其实是建筑界的'门面担当'🚪！它源于法语'腿'（jambe），就像给门窗当大腿支撑整个结构💪。装修师傅说的'包门套'就是covering the jambs，'量尺寸'得measure the jambs like tailoring pants👖。记住：下次踢到门框时，你踢的是建筑的'大长腿'！🦵",
+    "recite": {
+      "tips": [
+        "谐音梗：'简伯'→简伯(jamb)是门框界的阿伯",
+        "易混词：jam果酱/jamb门框→果酱粘在门框上"
+      ]
+    }
+  },
+  {
+    "word": "jamboree",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能来自斯瓦希里语'jambo'(问候)+英语后缀'ree'，原指喧闹的聚会"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大喝大闹的聚会",
+        "examples": [
+          {
+            "sentence": "The neighbors called the police when our karaoke turned into a midnight jamboree.",
+            "sentence_zh": "当我们的卡拉OK变成午夜狂欢时，邻居报了警。"
+          },
+          {
+            "sentence": "That birthday jamboree left confetti on the ceiling for months.",
+            "sentence_zh": "那场生日狂欢让天花板上的彩纸屑挂了几个月。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大型集会",
+        "examples": [
+          {
+            "sentence": "The tech jamboree in Hangzhou attracted 50,000 developers.",
+            "sentence_zh": "杭州的科技大会吸引了五万名开发者。"
+          },
+          {
+            "sentence": "Our annual dumpling-making jamboree breaks Guinness records every year.",
+            "sentence_zh": "我们年度包饺子集会每年都刷新吉尼斯纪录。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "童子军欢乐聚会",
+        "examples": [
+          {
+            "sentence": "At the scout jamboree, kids learned to build shelters with instant noodles packages.",
+            "sentence_zh": "童子军聚会上，孩子们学会了用方便面包装搭帐篷。"
+          },
+          {
+            "sentence": "The international jamboree featured a TikTok dance challenge around campfires.",
+            "sentence_zh": "国际童子军聚会围绕篝火举办了抖音舞蹈挑战赛。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "international jamboree",
+        "meaning": "国际童子军大会",
+        "examples": [
+          {
+            "sentence": "The 24th World Scout Jamboree was held in West Virginia with 45,000 participants.",
+            "sentence_zh": "第24届世界童子军大会在西弗吉尼亚举行，有4.5万人参加。"
+          }
+        ]
+      }
+    ],
+    "teach": "jamboree其实是'酱爆嗨'🍗！这个词自带BGM，想象广场舞大妈遇上电音节🎵——1920年童子军用这词命名狂欢大会，现在连程序员大会都能叫code jamboree💻。说'热闹得像庙会'叫lively as a jamboree，记住：凡是有烤肠+尖叫+人挤人的场合，都可以祭出这个词！🎪🎉🥳",
+    "recite": {
+      "tips": [
+        "谐音梗：'酱爆梨'→狂欢时水果乱飞",
+        "易混词：gala(正式庆典) vs jamboree(闹腾聚会)"
+      ]
+    }
+  },
+  {
+    "word": "jammed",
+    "etymology": {
+      "breakdown": [
+        "jam",
+        "med"
+      ],
+      "meaning_connection": "jam原指'果酱'，引申为'堵塞'，-med为过去分词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "轧住的",
+        "examples": [
+          {
+            "sentence": "The subway doors stayed jammed during rush hour.",
+            "sentence_zh": "高峰时段地铁门一直轧住关不上。"
+          },
+          {
+            "sentence": "My zipper got jammed with popcorn crumbs.",
+            "sentence_zh": "我的拉链被爆米花碎屑轧住了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "堵塞的",
+        "examples": [
+          {
+            "sentence": "The printer is jammed with overdue homework.",
+            "sentence_zh": "打印机被拖延的作业塞堵塞了。"
+          },
+          {
+            "sentence": "Beijing's highways become jammed museums during holidays.",
+            "sentence_zh": "假期时北京高速路变成堵塞的停车场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "拥挤的",
+        "examples": [
+          {
+            "sentence": "The live-streaming room was jammed with 100,000 viewers.",
+            "sentence_zh": "直播间挤进了十万观众。"
+          },
+          {
+            "sentence": "Hotpot restaurants get jammed like sardine cans on weekends.",
+            "sentence_zh": "周末火锅店拥挤得像沙丁鱼罐头。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "traffic jam",
+        "meaning": "交通堵塞",
+        "examples": [
+          {
+            "sentence": "We played Werewolf during a 3-hour traffic jam.",
+            "sentence_zh": "我们在三小时交通堵塞时玩狼人杀。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jam-packed",
+        "meaning": "挤满的",
+        "examples": [
+          {
+            "sentence": "The Dali 3-month rental homes are jam-packed with digital nomads.",
+            "sentence_zh": "大理的三个月租民宿挤满了数字游民。"
+          }
+        ]
+      }
+    ],
+    "teach": "jammed这词像被卡住的珍珠奶茶吸管🧋！古英语中jam指'用力挤压'，就像早高峰地铁里被迫贴面的打工人👔。说'堵车'除了traffic jam还能用gridlock（网格锁定）🚦，'挤爆了'叫packed like sardines（沙丁鱼罐头）🐟。记住：任何比北京地铁还挤的场合，都配得上jammed这个词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'煎馍的'→煎馍(jammed)时太挤翻不了面",
+        "易混词：crammed（塞满）侧重人为填充，jammed侧重被动卡住"
+      ]
+    }
   }
 ]

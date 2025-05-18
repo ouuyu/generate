@@ -1757,5 +1757,251 @@
         "易混词对比：gaining（开槽）vs grooving（开沟）"
       ]
     }
+  },
+  {
+    "word": "gainsay",
+    "etymology": {
+      "breakdown": [
+        "gain",
+        "say"
+      ],
+      "meaning_connection": "中古英语gainsaien，由gain-(反对) + say(说)组成，字面意思是'反着说'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "否定",
+        "examples": [
+          {
+            "sentence": "No one can gainsay the popularity of bubble tea in Asia.",
+            "sentence_zh": "没人能否认珍珠奶茶在亚洲的火爆程度。"
+          },
+          {
+            "sentence": "Even the strictest teacher couldn't gainsay his perfect test scores.",
+            "sentence_zh": "就连最严厉的老师也无法否定他完美的考试成绩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "反驳",
+        "examples": [
+          {
+            "sentence": "She gainsaid every point in the debate like a TikTok arguer.",
+            "sentence_zh": "她像抖音辩手一样反驳了辩论中的每个观点。"
+          },
+          {
+            "sentence": "The CEO gainsaid the rumors about company bankruptcy with sales data.",
+            "sentence_zh": "CEO用销售数据反驳了公司破产的谣言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "否认",
+        "examples": [
+          {
+            "sentence": "His alibi was without gainsay during the police interrogation.",
+            "sentence_zh": "在警方审讯中，他的不在场证明无可否认。"
+          },
+          {
+            "sentence": "The celebrity issued a gainsay of the scandal on Weibo.",
+            "sentence_zh": "该明星在微博上发布了针对丑闻的否认声明。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "beyond gainsay",
+        "meaning": "无可辩驳",
+        "examples": [
+          {
+            "sentence": "The success of Huawei is beyond gainsay in global markets.",
+            "sentence_zh": "华为在全球市场的成功无可辩驳。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "give gainsay",
+        "meaning": "提出反对",
+        "examples": [
+          {
+            "sentence": "No one dared give gainsay to the emperor's decision.",
+            "sentence_zh": "无人敢对皇帝的决定提出反对。"
+          }
+        ]
+      }
+    ],
+    "teach": "gainsay是'杠精'的鼻祖词汇🤺！字面意思是'反着说(gain-反对+say说)'，就像微博评论区永远唱反调的键盘侠⌨️。要表达'铁证如山'可以说beyond gainsay（杠都杠不动），'抬杠专业户'叫habitual gainsayer。记住：遇到gainsay高手时，最佳回应是'您说得对'🙏+白眼表情三连🙄🙄🙄",
+    "recite": {
+      "tips": [
+        "谐音梗：'跟谁杠'→gainsay就是跟谁都要杠",
+        "易混词对比：deny(单纯否认)/gainsay(带对抗性的反驳)"
+      ]
+    }
+  },
+  {
+    "word": "gait",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'gata'（路径），后引申为行走方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "步法",
+        "examples": [
+          {
+            "sentence": "The panda's waddling gait attracts millions of viewers on Douyin.",
+            "sentence_zh": "熊猫摇摆的步法在抖音吸引了数百万观众。"
+          },
+          {
+            "sentence": "Her catwalk gait could be recognized from 100 meters away.",
+            "sentence_zh": "她标志性的台步在百米外就能辨认。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "步态",
+        "examples": [
+          {
+            "sentence": "The AI system analyzes elderly people's gait to predict fall risks.",
+            "sentence_zh": "该AI系统通过分析老年人步态预测跌倒风险。"
+          },
+          {
+            "sentence": "His drunken gait made the security guard suspicious.",
+            "sentence_zh": "他醉酒的步态引起了保安的怀疑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "训练...的步法",
+        "examples": [
+          {
+            "sentence": "The coach gaited the racehorse with virtual reality technology.",
+            "sentence_zh": "教练用VR技术训练赛马的步法。"
+          },
+          {
+            "sentence": "She professionally gaited show dogs for competition.",
+            "sentence_zh": "她专业训练赛犬的表演步法。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abnormal gait",
+        "meaning": "异常步态",
+        "examples": [
+          {
+            "sentence": "The doctor noticed the patient's abnormal gait immediately.",
+            "sentence_zh": "医生立即注意到患者不自然的步态。"
+          }
+        ]
+      }
+    ],
+    "teach": "gait是行走的'灵魂画师'🎨！企鹅的gait像穿着西装喝醉的大叔🐧，超模的catwalk gait是移动的黄金比例📏。训练马匹gait时就像在调试生物机器人🤖。说'走路带风'可以用swagger gait，'机械步'叫robot gait。记住：你的gait就是你的人生BGM！",
+    "recite": {
+      "tips": [
+        "谐音梗：'给特'→给特种兵训练步法(gait)",
+        "对比记忆：gate是门，gait是走路过门的姿势"
+      ]
+    }
+  },
+  {
+    "word": "gaiter",
+    "etymology": {
+      "breakdown": [
+        "gait",
+        "er"
+      ],
+      "meaning_connection": "词根gait=行走（来自古法语'gaite'），-er表示物品→行走时使用的护具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "绑腿",
+        "examples": [
+          {
+            "sentence": "Hikers wear gaiters to prevent snow from entering their boots.",
+            "sentence_zh": "徒步者穿着绑腿防止雪进入靴子。"
+          },
+          {
+            "sentence": "The soldier's leather gaiters clicked rhythmically as he marched.",
+            "sentence_zh": "士兵的皮质绑腿随着行军发出有节奏的声响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "长统橡胶靴",
+        "examples": [
+          {
+            "sentence": "Fishermen pull on their yellow gaiters before wading into the river.",
+            "sentence_zh": "渔民在趟水前会穿上黄色长统胶靴。"
+          },
+          {
+            "sentence": "These waterproof gaiters are essential for rice farmers during planting season.",
+            "sentence_zh": "这些防水长统靴是插秧季节稻农的必备品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "knee gaiters",
+        "meaning": "及膝绑腿",
+        "examples": [
+          {
+            "sentence": "Cyclists in the 1900s wore knee gaiters to protect their trousers.",
+            "sentence_zh": "20世纪初的自行车手会穿戴及膝绑腿保护裤装。"
+          }
+        ]
+      }
+    ],
+    "teach": "gaiter是行走界的'防毒面具'🦵！拿破仑军队曾用皮革绑腿防泥泞⚔️，现代版就像给腿穿冲锋衣🧥。搭配'雨靴+绑腿'叫full gaiters setup（雨天遛狗神器🐕），'溅满泥的绑腿'直接说mud-spattered就像咖啡拉花☕。记住：北方人穿它防雪，南方人穿它摸鱼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖特'→盖住特别部位",
+        "易混词：boot（整体靴子）vs gaiter（附加护具）"
+      ]
+    }
+  },
+  {
+    "word": "gal",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "缩写自galileo（伽利略），纪念这位发现重力原理的科学家"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "重力加速度单位（1cm/s²）",
+        "examples": [
+          {
+            "sentence": "The Moon's gravity is about 162 gals compared to Earth's 980 gals.",
+            "sentence_zh": "月球重力约为162伽，而地球重力为980伽。"
+          },
+          {
+            "sentence": "This high-precision instrument can detect changes of 0.001 gal.",
+            "sentence_zh": "这台高精度仪器能检测0.001伽的变化。"
+          }
+        ]
+      }
+    ],
+    "teach": "gal其实是理科生的浪漫💫——1gal=1cm/s²，相当于你在电梯里偷吃薯片时袋子飘起来的速度📈。要说'这里重力好弱'，老外会说like Moon walking（像月球漫步），测重力叫take gal readings就像用体重秤称棉花糖🍬。记住：你的体重数字去掉两个零，就是你在月球上的gal值！",
+    "recite": {
+      "tips": [
+        "视觉联想：gal→重力单位就像'嘎啦'一声苹果落地",
+        "易混词对比：gal（伽）vs girl（女孩）→ 前者让物体下落，后者让你心跳漏拍"
+      ]
+    }
   }
 ]

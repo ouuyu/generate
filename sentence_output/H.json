@@ -1715,5 +1715,261 @@
         "易混词：hag vs witch（后者更中性）"
       ]
     }
+  },
+  {
+    "word": "haggard",
+    "etymology": {
+      "breakdown": [
+        "hag",
+        "ard"
+      ],
+      "meaning_connection": "词源关联：古法语hagard（野鹰）→原指捕猎时未驯服的鹰，-ard后缀表性质，后引申为'憔悴'（因驯鹰过程导致消瘦）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "野鹰",
+        "examples": [
+          {
+            "sentence": "The falconer's haggard escaped into the Scottish moors.",
+            "sentence_zh": "驯鹰人的野鹰逃进了苏格兰荒原。"
+          },
+          {
+            "sentence": "Medieval paintings often depict haggards with piercing yellow eyes.",
+            "sentence_zh": "中世纪绘画中的野鹰常有着锐利的黄眼睛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "憔悴的",
+        "examples": [
+          {
+            "sentence": "After pulling three all-nighters, his face looked haggard like a zombie.",
+            "sentence_zh": "连熬三夜后，他的脸憔悴得像丧尸。"
+          },
+          {
+            "sentence": "The actress deliberately appeared haggard for her role as a famine victim.",
+            "sentence_zh": "这位女演员为扮演饥荒灾民故意呈现憔悴面容。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "野性的",
+        "examples": [
+          {
+            "sentence": "Her haggard beauty reminded people of untamed mustangs.",
+            "sentence_zh": "她野性的美让人想起未驯服的野马。"
+          },
+          {
+            "sentence": "The haggard landscape of Iceland inspired Game of Thrones.",
+            "sentence_zh": "冰岛野性的景观启发了《权力的游戏》取景。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "haggard look",
+        "meaning": "憔悴面容",
+        "examples": [
+          {
+            "sentence": "Pandas' haggard look during mating season is actually evolutionary strategy.",
+            "sentence_zh": "熊猫发情期的憔悴面容其实是进化策略。"
+          }
+        ]
+      }
+    ],
+    "teach": "haggard是'熬夜冠军专属词'🦅！它本是中世纪驯鹰术语，形容没被驯服的野鹰（就像当代996社畜拒绝被驯化🤣）。说'你看起来很憔悴'可以讲'You look like a haggard hawk'（像饿了三天的鹰），'野性美'叫haggard charm如同未修剪的蔷薇丛🌹。熬夜后照镜子时，记得这个词比'累'更高级！",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑哥的'→野鹰是黑哥的(haggard)宠物",
+        "易混词对比：haggard（长期憔悴） vs. exhausted（暂时精疲力尽）",
+        "记忆tip：想象一只拒绝上班的野鹰，熬出黑眼圈的样子"
+      ]
+    }
+  },
+  {
+    "word": "haggis",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自苏格兰盖尔语'taigis'，可能受古法语'hachis'（剁碎）影响"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "羊杂碎香肚（苏格兰传统食物）",
+        "examples": [
+          {
+            "sentence": "The haggis was piping hot when served with neeps and tatties.",
+            "sentence_zh": "羊杂碎香肚搭配芜菁甘蓝和土豆泥上桌时还冒着热气。"
+          },
+          {
+            "sentence": "Tourists either love or hate haggis after their first bite.",
+            "sentence_zh": "游客们对羊杂碎香肚往往第一口就决定爱憎。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "address the haggis",
+        "meaning": "苏格兰传统祝酒仪式",
+        "examples": [
+          {
+            "sentence": "The poet recited Burns' poem while addressing the haggis with a dagger.",
+            "sentence_zh": "诗人用匕首对着羊杂碎香肚，朗诵着彭斯的诗篇。"
+          }
+        ]
+      }
+    ],
+    "teach": "haggis堪称苏格兰国菜中的'黑暗料理王'👑！这道把羊心肝肺塞进羊胃的美食，就像英国版卤煮+灌肠合体🐑💥。搭配威士忌叫'neat with haggis'🥃，最难吃版本叫'bagpipe surprise'（风笛惊魂🎵）。记住：真正的haggis爱好者会说'it's braw!'（超棒！）而不是'eww!'",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨吉斯'→吃完嗨起来的羊杂吉尼斯",
+        "易混词对比：haggis vs. sausage（香肠是普通青年，haggis是文艺重金属青年）"
+      ]
+    }
+  },
+  {
+    "word": "haggle",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'hagg'（砍伐），模拟讨价还价时'刀光剑影'的场面"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "争论",
+        "examples": [
+          {
+            "sentence": "The couple haggled over whose turn it was to walk the dog.",
+            "sentence_zh": "这对夫妻为谁该去遛狗争论不休。"
+          },
+          {
+            "sentence": "Scholars haggled for hours about Confucius' exact wording.",
+            "sentence_zh": "学者们为孔子原句争论数小时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "杀价",
+        "examples": [
+          {
+            "sentence": "Tourists haggle fiercely at Yiwu wholesale market.",
+            "sentence_zh": "游客们在义乌批发市场拼命杀价。"
+          },
+          {
+            "sentence": "My grandma haggles even over 1 RMB at wet markets.",
+            "sentence_zh": "我奶奶在菜市场连一块钱都要杀价。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "乱砍",
+        "examples": [
+          {
+            "sentence": "The butcher haggled the pork ribs with cleaver.",
+            "sentence_zh": "屠夫用砍刀乱劈猪肋排。"
+          },
+          {
+            "sentence": "He haggled the melon into uneven chunks.",
+            "sentence_zh": "他把西瓜乱砍成不规则的块。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杀价",
+        "examples": [
+          {
+            "sentence": "The art of haggle is disappearing in cashless societies.",
+            "sentence_zh": "移动支付让杀价艺术逐渐消失。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "haggle over",
+        "meaning": "为...讨价还价",
+        "examples": [
+          {
+            "sentence": "We haggled over the jade pendant until sunset.",
+            "sentence_zh": "我们为那块玉坠讨价还价到日落。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "haggle down",
+        "meaning": "砍价成功",
+        "examples": [
+          {
+            "sentence": "She haggled down the silk scarf from 300 to 80 RMB.",
+            "sentence_zh": "她把真丝围巾从300元砍到80元。"
+          }
+        ]
+      }
+    ],
+    "teach": "haggle是菜市场的刀光剑影🗡️！源自北欧维京人砍价(hack)也要带斧头的彪悍传统🪓。'杀价成功'叫talk the price down，'绝不还价'说fixed price like LV👜。记住：在潘家园砍价要带着'对半砍再踹两脚'的气势，但星巴克可别用这招☕！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨够'→嗨够(haggle)本钱才罢休",
+        "易混词：haggle(砍价) vs. hustle(催促)"
+      ]
+    }
+  },
+  {
+    "word": "haggling",
+    "etymology": {
+      "breakdown": [
+        "haggle",
+        "ing"
+      ],
+      "meaning_connection": "haggle源自古斯堪的纳维亚语'hagg'=砍，-ing表进行时→像在菜市场不停'砍'价的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "讨价还价",
+        "examples": [
+          {
+            "sentence": "The tourist was haggling over a jade bracelet at Panjiayuan Market.",
+            "sentence_zh": "游客在潘家园市场为玉镯讨价还价。"
+          },
+          {
+            "sentence": "My grandma enjoys haggling with street vendors for 2-hour discounts.",
+            "sentence_zh": "我奶奶喜欢和小贩砍价两小时要折扣。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "haggling over prices",
+        "meaning": "就价格争执",
+        "examples": [
+          {
+            "sentence": "The couple were haggling over the price of wedding photos like stock traders.",
+            "sentence_zh": "这对新人像股票交易员般为婚纱照价格争执。"
+          }
+        ]
+      }
+    ],
+    "teach": "haggling其实是'黑戈舞'💃：中世纪北欧人砍(hack)木头价就像跳踢踏舞🪓，现在演变成菜市场'对半砍'的传统。'砍价高手'叫shrewd haggler（精明砍客），'不还价商店'用fixed price就像爱情公寓不能砍房租🏠。记住：不会haggling的人买切糕会破产！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨够零'→嗨到够零点还在砍价",
+        "易混词：bargain（交易）侧重结果，haggling强调过程"
+      ]
+    }
   }
 ]

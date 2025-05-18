@@ -1852,5 +1852,302 @@
         "易混词对比：vague(adj.) vs vaguely(adv.)"
       ]
     }
+  },
+  {
+    "word": "vagueness",
+    "etymology": {
+      "breakdown": [
+        "vague",
+        "ness"
+      ],
+      "meaning_connection": "vague源自拉丁语vagus（漫游的）+后缀-ness表状态→像雾霾天看路牌的状态🌫️"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "含糊",
+        "examples": [
+          {
+            "sentence": "The vagueness of the contract led to a hotpot broth dispute.",
+            "sentence_zh": "合同的含糊其辞引发了一场火锅汤底纠纷。"
+          },
+          {
+            "sentence": "His answer had the vagueness of a fortune cookie message.",
+            "sentence_zh": "他的回答像签语饼上的预言般含糊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "暧昧",
+        "examples": [
+          {
+            "sentence": "The vagueness in their relationship status confused all matchmaking aunties.",
+            "sentence_zh": "他们关系的暧昧状态急坏了说亲的阿姨们。"
+          },
+          {
+            "sentence": "WeChat messages full of emojis create deliberate vagueness.",
+            "sentence_zh": "充满表情包的微信消息制造刻意暧昧。"
+          }
+        ]
+      }
+    ],
+    "teach": "vagueness是薛定谔的清晰度🐱：像老板说'改天请你吃饭'的日期📅，像女生说'随便'时的餐厅选择🍲。搭配'conscious vagueness'（故意含糊）就像太极推手☯️，'deliberate vagueness'（刻意暧昧）像奶茶店'去冰'选项🧊。要吐槽'说话模糊'？用'beat around the bush'（灌木丛里打转）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微信呢'→聊天记录越看越vagueness",
+        "易混词：ambiguity（歧义）vs vagueness（模糊）",
+        "记忆法：vague+ness=雾里看花-ness"
+      ]
+    }
+  },
+  {
+    "word": "vain",
+    "etymology": {
+      "breakdown": [
+        "van",
+        "in"
+      ],
+      "meaning_connection": "词根van=空，in为后缀→原指'像风一样抓不住的'，衍生出'无价值'和'虚荣'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无价值的",
+        "examples": [
+          {
+            "sentence": "The influencer's apology proved vain after her scandal.",
+            "sentence_zh": "这位网红的道歉在丑闻后显得毫无价值。"
+          },
+          {
+            "sentence": "All my attempts to fix the printer were vain.",
+            "sentence_zh": "我修理打印机的所有尝试都是徒劳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "自负的",
+        "examples": [
+          {
+            "sentence": "The peacock is a symbol of vain creatures.",
+            "sentence_zh": "孔雀是虚荣生物的代表。"
+          },
+          {
+            "sentence": "His vain attitude lost him 5K followers on Douyin.",
+            "sentence_zh": "他自负的态度让他在抖音掉了五千粉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "idiom",
+        "form": "in vain",
+        "meaning": "徒劳地",
+        "examples": [
+          {
+            "sentence": "We queued in vain - the bubble tea shop sold out.",
+            "sentence_zh": "我们白排队了——奶茶店售罄了。"
+          },
+          {
+            "sentence": "Doctors fought in vain to save the TikTok challenge participant.",
+            "sentence_zh": "医生们徒劳地试图挽救那位抖音挑战者。"
+          }
+        ]
+      }
+    ],
+    "teach": "vain是个'双面娇娃'👯♀️！当表示'徒劳'时，就像用漏勺舀汤🥄（a vain effort）；表示'虚荣'时，像开十级美颜直播📱（vain appearance）。'白忙活'说in vain就像抢不到红包🧧，'爱显摆'的人像开了屏的孔雀🦚。记住：人生三大vain——P图两小时，点赞个位数！",
+    "recite": {
+      "tips": [
+        "谐音梗：'胃疼'→虚荣心强到胃疼",
+        "易混词对比：vane(风向标) vs vein(静脉) vs vain(虚荣)"
+      ]
+    }
+  },
+  {
+    "word": "vainglorious",
+    "etymology": {
+      "breakdown": [
+        "vain",
+        "glori",
+        "ous"
+      ],
+      "meaning_connection": "vain=空虚的，glori=荣耀，-ous=形容词后缀→追求空虚的荣耀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "自以为了不起的",
+        "examples": [
+          {
+            "sentence": "The vainglorious peacock spilled coffee on his designer suit while showing off.",
+            "sentence_zh": "那只自命不凡的孔雀炫耀时把咖啡洒在了名牌西装上。"
+          },
+          {
+            "sentence": "His vainglorious speech about his gaming skills was interrupted by a 5-year-old prodigy.",
+            "sentence_zh": "他对自己游戏技术夸夸其谈时被一个5岁神童打断了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "自负的",
+        "examples": [
+          {
+            "sentence": "The vainglorious influencer demanded free desserts for 'promoting' the cafe.",
+            "sentence_zh": "那个自负的网红要求免费甜点作为'宣传'咖啡馆的报酬。"
+          },
+          {
+            "sentence": "Her vainglorious attitude disappeared when she failed the spicy hotpot challenge.",
+            "sentence_zh": "当她未能通过麻辣火锅挑战时，自负的态度顿时消失了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "虚荣心强的",
+        "examples": [
+          {
+            "sentence": "His vainglorious collection of limited edition sneakers bankrupted three credit cards.",
+            "sentence_zh": "他虚荣心爆棚收集限量版球鞋刷爆了三张信用卡。"
+          },
+          {
+            "sentence": "The vainglorious streamer rented a Ferrari just for the livestream background.",
+            "sentence_zh": "那个虚荣心强的主播只为直播背景租了辆法拉利。"
+          }
+        ]
+      }
+    ],
+    "teach": "vainglorious=空虚(vain)+荣耀(glory)👑，就像开十级美颜的直播滤镜📱！古罗马凯旋将军脸上涂红泥游行（怕他骄傲），现代版就是朋友圈P图九宫格🤳。搭配：vainglorious display（孔雀开屏式炫耀），vainglorious boast（凡尔赛发言）。说'装X'用all hat no cattle（光有帽子没有牛）🤠。记住：真正的王者不需要头顶生菜碗当皇冠🥬！",
+    "recite": {
+      "tips": [
+        "谐音梗：'胃胀gloryous'→吃饱撑的虚荣",
+        "易混词对比：vain vs vein（静脉→虚荣像血管一样遍布全身）",
+        "记忆tip：拆解为vain（虚的）+glory（荣耀）=虚假的荣耀"
+      ]
+    }
+  },
+  {
+    "word": "vainly",
+    "etymology": {
+      "breakdown": [
+        "vain",
+        "ly"
+      ],
+      "meaning_connection": "词根vain=空无结果的（来自拉丁语vanus'空的'），后缀-ly构成副词→表示'徒劳地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "枉然地",
+        "examples": [
+          {
+            "sentence": "He vainly tried to convince his cat to take a bath.",
+            "sentence_zh": "他枉然尝试说服他的猫洗澡。"
+          },
+          {
+            "sentence": "The student vainly searched for his homework in a mountain of instant noodle cups.",
+            "sentence_zh": "学生在泡面杯堆成的山里枉然寻找作业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "无益地",
+        "examples": [
+          {
+            "sentence": "She waved her arms vainly at the departing taxi.",
+            "sentence_zh": "她无益地对着远去的出租车挥手。"
+          },
+          {
+            "sentence": "The politician vainly promised to solve all problems within 24 hours.",
+            "sentence_zh": "政客无益地承诺24小时内解决所有问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "徒然",
+        "examples": [
+          {
+            "sentence": "I waited vainly for my blind date who never showed up.",
+            "sentence_zh": "我徒然等待始终未现身的相亲对象。"
+          },
+          {
+            "sentence": "The old man vainly attempted to use smartphone with his gloves on.",
+            "sentence_zh": "老人徒然尝试戴着手套操作智能手机。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in vain",
+        "meaning": "徒劳地",
+        "examples": [
+          {
+            "sentence": "All my dieting efforts were in vain when I saw the durian buffet.",
+            "sentence_zh": "看到榴莲自助餐时，我所有的节食努力都徒劳了。"
+          }
+        ]
+      }
+    ],
+    "teach": "vainly是'无效努力'的emoji版🙅♂️💨！就像西西弗斯推石头上山的神话⛰️，或者用漏勺打水（as useful as a chocolate teapot🍫☕）。搭配'in vain'比说useless更高级，比如'健身卡办完就失踪'叫New Year's resolution made in vain🎆。记住：当你的努力像对牛弹琴时🎻🐄，就用vainly！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂了你'→喂了你(vainly)那么多猫粮主子还是不理你",
+        "易混词对比：vain(adj.) vs vainly(adv.) 就像'空'和'空地'"
+      ]
+    }
+  },
+  {
+    "word": "valance",
+    "etymology": {
+      "breakdown": [
+        "val",
+        "ance"
+      ],
+      "meaning_connection": "词根val=垂下（源自拉丁语valere），后缀-ance表状态→垂挂的装饰物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "短帷幔",
+        "examples": [
+          {
+            "sentence": "The velvet valance hid the curtain rods elegantly.",
+            "sentence_zh": "天鹅绒短帷幔优雅地遮住了窗帘杆。"
+          },
+          {
+            "sentence": "She embroidered pandas on the valance for her nursery.",
+            "sentence_zh": "她在婴儿房的短帷幔上绣了熊猫图案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "窗帘上端的短幔",
+        "examples": [
+          {
+            "sentence": "The valance with tassels matched the Qing Dynasty furniture perfectly.",
+            "sentence_zh": "带流苏的窗帘短幔与清代家具相得益彰。"
+          },
+          {
+            "sentence": "Light-filtering valances are trending in Scandinavian decor.",
+            "sentence_zh": "透光窗帘短幔正在北欧风格装修中流行。"
+          }
+        ]
+      }
+    ],
+    "teach": "valance其实是'窗帘的刘海'💇‍♀️！中世纪贵族用帷幔遮住床柱(valance→垂挂物)，就像现在遮住窗帘杆。搭配说法：'valance board'(幔头板)是它的骨架，'swag valance'(波浪幔)就像窗帘烫了卷发💈。地道表达说'window dressing'（窗饰）时其实常包含valance！记住：valance决定窗帘的'发型'👑",
+    "recite": {
+      "tips": [
+        "谐音梗：'围栏丝'→围栏上挂丝质短幔",
+        "易混词：curtain（整体窗帘）vs valance（顶部装饰部分）",
+        "记忆tip：把valance拆成'V字垂落'(V+alance)"
+      ]
+    }
   }
 ]

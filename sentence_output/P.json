@@ -1895,5 +1895,277 @@
         "记忆tip：想象字母d像划桨的动作"
       ]
     }
+  },
+  {
+    "word": "paddler",
+    "etymology": {
+      "breakdown": [
+        "paddle",
+        "er"
+      ],
+      "meaning_connection": "词根paddle表示'桨'或'涉水'，后缀-er表示'从事...的人'→原指使用桨或涉水行进的人，衍生出不同工具使用者的含义。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "涉水者",
+        "examples": [
+          {
+            "sentence": "The paddler in yellow rain boots searched for clams at low tide.",
+            "sentence_zh": "穿黄色雨靴的涉水者在退潮时寻找蛤蜊。"
+          },
+          {
+            "sentence": "Village paddlers often carry bamboo baskets across the shallow stream.",
+            "sentence_zh": "村里的涉水者常背着竹篓蹚过浅溪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "明轮船",
+        "examples": [
+          {
+            "sentence": "The antique paddler on the Yangtze River still uses steam power.",
+            "sentence_zh": "长江上的古董明轮船仍使用蒸汽动力。"
+          },
+          {
+            "sentence": "Tourists love taking photos with the red-wheeled paddler in Suzhou.",
+            "sentence_zh": "游客爱和苏州的红色明轮合影。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "划桨者",
+        "examples": [
+          {
+            "sentence": "Dragon boat paddlers train 6 hours daily before the competition.",
+            "sentence_zh": "龙舟划手赛前每天训练6小时。"
+          },
+          {
+            "sentence": "The blind paddler navigates using echolocation like bats.",
+            "sentence_zh": "这位盲人划桨者像蝙蝠一样用回声定位。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mud paddler",
+        "meaning": "泥浆跋涉者",
+        "examples": [
+          {
+            "sentence": "Rice farmers become expert mud paddlers during planting season.",
+            "sentence_zh": "插秧季节稻农都成了泥浆跋涉专家。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "paddler's blister",
+        "meaning": "桨手水泡",
+        "examples": [
+          {
+            "sentence": "Her hands were covered with paddler's blisters after the marathon.",
+            "sentence_zh": "马拉松赛后她满手都是桨手水泡。"
+          }
+        ]
+      }
+    ],
+    "teach": "paddler是水陆两栖生物🐸！当涉水者时像赶海的渔夫👢（mud paddler），当明轮船时像水上摩天轮🎡（red-wheeled paddler），当划桨者时堪比人肉发动机💪（dragon boat paddler）。记住：后缀-er让它从动作变身为职业，就像'教师'来自'教导'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍的了'→拍得了(paddler)船桨的才是好划手",
+        "易混词对比：pedaler（骑自行车者）vs paddler（划船者）",
+        "记忆口诀：桨(addle)人(er)涉水/划船/开明轮"
+      ]
+    }
+  },
+  {
+    "word": "paddling",
+    "etymology": {
+      "breakdown": [
+        "paddle",
+        "ing"
+      ],
+      "meaning_connection": "paddle源自中古英语'padell'（桨），-ing表动作进行"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "划桨",
+        "examples": [
+          {
+            "sentence": "The rhythmic paddling of dragon boats echoes across West Lake during festivals.",
+            "sentence_zh": "节日期间，西湖上龙舟有节奏的划桨声此起彼伏。"
+          },
+          {
+            "sentence": "Paddling in the Amazon requires avoiding piranhas.",
+            "sentence_zh": "在亚马逊河划船要小心避开食人鱼。"
+          }
+        ]
+      }
+    ],
+    "teach": "paddling就像鸭子划水🦆：表面悠闲实际疯狂倒腾！英国'剑桥划船赛'的paddling能溅起3米高水花💦，而广东龙舟的paddling要配合锣鼓点🥁。说'手忙脚乱'可以用paddle like a duck（像鸭子般乱划），'齐心协力'则是paddle in sync🚣♀️。记住：好的paddling要让船飞起来，不是让你掉下去！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍得灵'→船桨拍水灵得很",
+        "易混词：pedaling（踩踏板）vs paddling（划桨）"
+      ]
+    }
+  },
+  {
+    "word": "paddock",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能源自古英语，指'小围场'，与'park'同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "围场（尤指赛马场）",
+        "examples": [
+          {
+            "sentence": "The jockey was brushing the horse in the paddock before the race.",
+            "sentence_zh": "骑师在赛前于围场里为马匹刷毛。"
+          },
+          {
+            "sentence": "We saw the newborn foal playing in the paddock at the Hong Kong Jockey Club.",
+            "sentence_zh": "我们在香港赛马会看到新生的小马驹在围场里玩耍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "临时畜栏",
+        "examples": [
+          {
+            "sentence": "The farmers built a temporary paddock for the sheep during the flood.",
+            "sentence_zh": "农民们在洪水期间为羊群搭建了临时畜栏。"
+          },
+          {
+            "sentence": "A kangaroo escaped from the paddock at the wildlife park yesterday.",
+            "sentence_zh": "昨天野生动物园里一只袋鼠从临时围栏逃脱了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paddock jacket",
+        "meaning": "骑师夹克",
+        "examples": [
+          {
+            "sentence": "He wore a bright red paddock jacket at the equestrian event.",
+            "sentence_zh": "他在马术比赛上穿了件鲜红色的骑师夹克。"
+          }
+        ]
+      }
+    ],
+    "teach": "paddock其实是'怕逃客'🏇！中世纪贵族怕赛马逃跑就建围场（就像现在怕手机没电带充电宝🔋）。澳洲人把后院叫paddock，就像北方人把院子叫'场院'🌾。说'圈养'可以叫keep in paddock，'放养'是free-range就像散养土鸡蛋🍳。记住：paddock就是给'四条腿员工'的开放式办公室！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍抖'→在围场里拍抖身上的草屑",
+        "对比记忆：paddock（小围场） vs. pasture（大牧场）"
+      ]
+    }
+  },
+  {
+    "word": "paddy",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自马来语padi（稻米），18世纪通过殖民贸易传入英语；'爱尔兰人'义项源自Patrick的昵称Paddy"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "稻",
+        "examples": [
+          {
+            "sentence": "The terraced paddy fields in Yunnan look like giant staircases to heaven.",
+            "sentence_zh": "云南的梯田犹如通往天堂的巨型阶梯。"
+          },
+          {
+            "sentence": "Ducks swimming in the paddy help control pests naturally.",
+            "sentence_zh": "稻田里游动的鸭子能天然除虫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "谷",
+        "examples": [
+          {
+            "sentence": "Before cooking, the paddy needs to be hulled to remove the husk.",
+            "sentence_zh": "烹饪前需去壳才能得到食用稻谷。"
+          },
+          {
+            "sentence": "The village celebrates when the paddy is harvested each autumn.",
+            "sentence_zh": "每年秋收稻谷时全村都会庆祝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "爱尔兰人（非正式）",
+        "examples": [
+          {
+            "sentence": "The pub was full of Paddies celebrating St. Patrick's Day.",
+            "sentence_zh": "酒馆里挤满了庆祝圣帕特里克节的爱尔兰人。"
+          },
+          {
+            "sentence": "My grandfather was a proud Paddy from Dublin.",
+            "sentence_zh": "我祖父是来自都柏林的骄傲爱尔兰人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "警察（俚语）",
+        "examples": [
+          {
+            "sentence": "Quick! Hide the beer, the paddies are coming!",
+            "sentence_zh": "快把啤酒藏起来！条子来了！"
+          },
+          {
+            "sentence": "In old gangster movies, they always shout 'Run! It's the paddy wagon!'",
+            "sentence_zh": "在老派黑帮片里总有人喊'快跑！警车来了！'"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paddy wagon",
+        "meaning": "警车/囚车",
+        "examples": [
+          {
+            "sentence": "The protesters were loaded into the paddy wagon singing.",
+            "sentence_zh": "抗议者们唱着歌被押上警车。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "paddy field",
+        "meaning": "稻田",
+        "examples": [
+          {
+            "sentence": "The paddy fields turn golden when harvest season comes.",
+            "sentence_zh": "收获季节来临时稻田会变成金色。"
+          }
+        ]
+      }
+    ],
+    "teach": "paddy是个'精分'单词🌾👮：在亚洲指稻田（视觉联想：袁隆平爷爷的杂交水稻），在欧美俚语却指爱尔兰人（因为圣帕特里克日满街的绿色Paddy装饰🎩）和警察（源自纽约爱尔兰裔警察历史🚔）。记住：说'paddy wagon'比'police car'更swag，但别对真警察这样说哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕滴'→警察怕滴酒驾测试",
+        "易混词对比：paddy（稻/警察） vs. daddy（爸爸）"
+      ]
+    }
   }
 ]
