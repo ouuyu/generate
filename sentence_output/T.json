@@ -15195,5 +15195,284 @@
         "易混词对比：oak（橡木）vs teak（柚木），就像普通SUV vs 劳斯莱斯"
       ]
     }
+  },
+  {
+    "word": "team",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'tēam'，指'一组动物'，后引申为'一群人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "队",
+        "examples": [
+          {
+            "sentence": "The League of Legends team practiced until 3am for the finals.",
+            "sentence_zh": "英雄联盟战队为决赛训练到凌晨三点。"
+          },
+          {
+            "sentence": "Our WeChat mini-program development team has 5 members.",
+            "sentence_zh": "我们的微信小程序开发团队有5名成员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "组",
+        "examples": [
+          {
+            "sentence": "The research team discovered a new tea fermentation method.",
+            "sentence_zh": "科研小组发现了一种新的茶叶发酵方法。"
+          },
+          {
+            "sentence": "A team of pandas are eating bamboo shoots in Chengdu.",
+            "sentence_zh": "一组熊猫正在成都吃竹笋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把马(牛)套在同一辆车上",
+        "examples": [
+          {
+            "sentence": "Farmers team oxen to plow the fields during spring.",
+            "sentence_zh": "农民在春季把牛套在一起犁田。"
+          },
+          {
+            "sentence": "The vintage photo shows workers teaming horses for transport.",
+            "sentence_zh": "这张老照片显示工人们正在套马运输。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把...编成一组",
+        "examples": [
+          {
+            "sentence": "The teacher teamed international students with local peers.",
+            "sentence_zh": "老师把留学生和本地学生编成一组。"
+          },
+          {
+            "sentence": "WeChat's algorithm teams users with similar interests.",
+            "sentence_zh": "微信算法把兴趣相似的用户编成一组。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "驾驶卡车",
+        "examples": [
+          {
+            "sentence": "My uncle teams across China delivering hot pot ingredients.",
+            "sentence_zh": "我叔叔驾驶卡车在全国运送火锅食材。"
+          },
+          {
+            "sentence": "During Spring Festival, many drivers team non-stop for deliveries.",
+            "sentence_zh": "春节期间，许多司机不停歇地开车送货。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "协作",
+        "examples": [
+          {
+            "sentence": "Programmers and designers team to create apps like Douyin.",
+            "sentence_zh": "程序员和设计师协作开发抖音等应用。"
+          },
+          {
+            "sentence": "The pandas teamed up to steal the keeper's bamboo basket.",
+            "sentence_zh": "熊猫们协作偷走了饲养员的竹篮。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "team up",
+        "meaning": "组队合作",
+        "examples": [
+          {
+            "sentence": "Huawei teamed up with Porsche Design on a special edition phone.",
+            "sentence_zh": "华为与保时捷设计合作推出特别版手机。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dream team",
+        "meaning": "梦之队",
+        "examples": [
+          {
+            "sentence": "China's diving dream team won 7 gold medals.",
+            "sentence_zh": "中国跳水梦之队夺得7枚金牌。"
+          }
+        ]
+      }
+    ],
+    "teach": "team这个词就像火锅拼桌🍲！原始意思是'套牲口'🐎（像老北京拉货的马车队），现在变成'组队开黑'🎮（像王者荣耀五排）。地道说法：'强队'叫powerhouse team（像国家队乒乓球🏓），'猪队友'说weak link（像游戏里送人头的）。记住：好的team就像鸳鸯锅，清汤红汤都能涮🥢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢母'→踢足球要组TEAM",
+        "易混词：crew（船员小组）/squad（特警小队）",
+        "联想：T.E.A.M=Together Everyone Achieves More"
+      ]
+    }
+  },
+  {
+    "word": "teammate",
+    "etymology": {
+      "breakdown": [
+        "team",
+        "mate"
+      ],
+      "meaning_connection": "team=团队，mate=伙伴→团队中的伙伴"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "队友",
+        "examples": [
+          {
+            "sentence": "My esports teammate always shares spicy strips with me during tournaments.",
+            "sentence_zh": "我的电竞队友总在比赛时跟我分享辣条。"
+          },
+          {
+            "sentence": "Zhang Jike once threw his table tennis racket to celebrate with his teammate.",
+            "sentence_zh": "张继科曾兴奋扔掉球拍与队友庆祝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "teammate from hell",
+        "meaning": "坑队友",
+        "examples": [
+          {
+            "sentence": "In Honor of Kings, that teammate from hell kept feeding the opponent.",
+            "sentence_zh": "王者荣耀里那个坑队友不断给对手送人头。"
+          }
+        ]
+      }
+    ],
+    "teach": "teammate是'贴膜特工'🤝！古代斯巴达战士互称'盾牌另一侧的人'🛡️，现代队友则是帮你挡诸葛亮大招的兄弟🎮。说'猪队友'用anchor（拖后腿的锚），夸神队友说MVP material（MVP潜力股）。记住：好teammate就像火锅搭档——你涮毛肚他递香油！🥘",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢妹的'→足球赛专踢妹妹的(teammate)",
+        "易混词：classmate（同学）vs roommate（室友）",
+        "记忆tip：team+mate=组队相亲"
+      ]
+    }
+  },
+  {
+    "word": "teamwork",
+    "etymology": {
+      "breakdown": [
+        "team",
+        "work"
+      ],
+      "meaning_connection": "team=团队，work=工作→团队协作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "协同作业",
+        "examples": [
+          {
+            "sentence": "The panda keepers' teamwork ensures every cub gets equal cuddle time.",
+            "sentence_zh": "饲养员们的协同作业保证每只熊猫幼崽获得同等撸猫时间。"
+          },
+          {
+            "sentence": "Building the Great Wall required incredible teamwork across dynasties.",
+            "sentence_zh": "长城的修建需要跨越朝代的惊人协同作业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "协力",
+        "examples": [
+          {
+            "sentence": "The teamwork between chopsticks and hotpot is what makes the meal magical.",
+            "sentence_zh": "筷子与火锅的协力成就了这顿神奇的美食。"
+          },
+          {
+            "sentence": "Their teamwork in the dragon boat race synchronized like a heartbeat.",
+            "sentence_zh": "他们龙舟比赛中的协力如同心跳般同步。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "spirit of teamwork",
+        "meaning": "团队精神",
+        "examples": [
+          {
+            "sentence": "The spirit of teamwork is why Chinese construction projects break world records.",
+            "sentence_zh": "团队精神是中国基建工程破世界纪录的原因。"
+          }
+        ]
+      }
+    ],
+    "teach": "teamwork就像火锅局🍲：每个人都是必不可少的食材🥢！古代长城建造者靠teamwork传递砖块像接力赛🏗️，现代快递小哥用teamwork让包裹飞遍全国📦。说'各忙各的'叫every man for himself（各自为战），'神配合'叫seamless teamwork（天衣无缝）。记住：好的teamwork就像麻将搭子，胡牌时都有功劳🎴！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢我渴'→踢足球时队友递水体现teamwork",
+        "易混词：teamwork(协作) vs. taskwork(独立作业)",
+        "联想记忆：team+work=团队运作就像蚂蚁搬家🐜"
+      ]
+    }
+  },
+  {
+    "word": "teapot",
+    "etymology": {
+      "breakdown": [
+        "tea",
+        "pot"
+      ],
+      "meaning_connection": "复合词，tea=茶，pot=壶→装茶的容器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "茶壶",
+        "examples": [
+          {
+            "sentence": "The glass teapot revealed dancing tea leaves like a miniature aquarium.",
+            "sentence_zh": "玻璃茶壶里茶叶舞动如同微型水族馆。"
+          },
+          {
+            "sentence": "Her grandma's Yixing clay teapot has brewed tea for three generations.",
+            "sentence_zh": "她奶奶的宜兴紫砂壶已经泡了三代人的茶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tempest in a teapot",
+        "meaning": "小题大做",
+        "examples": [
+          {
+            "sentence": "The social media outrage over pineapple pizza was just a tempest in a teapot.",
+            "sentence_zh": "社交媒体对菠萝披萨的愤怒只是小题大做。"
+          }
+        ]
+      }
+    ],
+    "teach": "teapot是东西方文明的'混血儿'🌏：英国有著名的'teapot dome scandal'(茶壶顶丑闻)政治事件，中国有'一片冰心在玉壶'的诗句📜。说'茶壶煮饺子'英语叫dark horse(黑马)，'暴脾气'叫boiling like a teapot♨️。记住：每个teapot里都泡着一段历史！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢破它'→茶壶被踢破(t-pot)",
+        "易混词对比：teacup(茶杯)/teakettle(烧水壶)"
+      ]
+    }
   }
 ]

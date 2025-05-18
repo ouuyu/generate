@@ -14534,5 +14534,300 @@
         "农耕文明彩蛋：汉字'秋'=禾+火，与hærfest（秋天/收获）异曲同工"
       ]
     }
+  },
+  {
+    "word": "hash",
+    "etymology": {
+      "breakdown": [
+        "hach",
+        "er"
+      ],
+      "meaning_connection": "源自古法语hacher（砍碎），最终来自日耳曼语hack（砍）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "剁碎的食物",
+        "examples": [
+          {
+            "sentence": "The chef prepared corned beef hash with perfectly diced potatoes.",
+            "sentence_zh": "厨师用精细切块的土豆制作了腌牛肉杂碎。"
+          },
+          {
+            "sentence": "Sunday brunch isn't complete without a plate of crispy hash browns.",
+            "sentence_zh": "没有一盘酥脆的薯饼，周日早午餐就不完整。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂乱无章的一大堆",
+        "examples": [
+          {
+            "sentence": "My desk is a hash of unfinished reports and empty coffee cups.",
+            "sentence_zh": "我的办公桌堆满了未完成的报告和空咖啡杯。"
+          },
+          {
+            "sentence": "The script was a hash of copied ideas from three different movies.",
+            "sentence_zh": "这个剧本混杂了抄袭三部不同电影的创意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂烩",
+        "examples": [
+          {
+            "sentence": "The conference was a weird hash of tech talks and astrology workshops.",
+            "sentence_zh": "这场会议是技术演讲和占星术研讨会的奇怪混合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "切碎",
+        "examples": [
+          {
+            "sentence": "Grandma hashed the onions so finely they dissolved in the soup.",
+            "sentence_zh": "奶奶把洋葱剁得极碎，都融化在汤里了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "搞糟",
+        "examples": [
+          {
+            "sentence": "He totally hashed the job interview by pretending to be a Jedi.",
+            "sentence_zh": "他假装自己是绝地武士，彻底搞砸了工作面试。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hash out",
+        "meaning": "详细讨论",
+        "examples": [
+          {
+            "sentence": "Let's hash out the wedding plans over hotpot.",
+            "sentence_zh": "我们边吃火锅边详细讨论婚礼计划吧。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hash over",
+        "meaning": "反复讨论",
+        "examples": [
+          {
+            "sentence": "We've hashed over this KPI issue a dozen times already.",
+            "sentence_zh": "这个KPI问题我们已经反复讨论了十几次。"
+          }
+        ]
+      }
+    ],
+    "teach": "hash就像你妈做的剩菜大杂烩🍲！计算机里的哈希算法(hash algorithm)其实和切菜原理一样——把数据'剁碎'成固定长度🔪。要说'乱七八糟'可以用complete hash（像被猫抓过的毛线团🐱），'重新讨论'叫rehash就像微波炉热剩菜♨️。记住：无论是土豆还是数据，hash的本质都是——切它！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨嘘'→喝嗨了把厨房搞得一团糟",
+        "对比记忆：mash（捣碎） vs hash（切碎）",
+        "联想：哈希算法=数字世界的碎纸机"
+      ]
+    }
+  },
+  {
+    "word": "hasp",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语hæpse，与德语Haspe同源，专指金属扣具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "搭扣",
+        "examples": [
+          {
+            "sentence": "The antique chest had a brass hasp shaped like a dragon.",
+            "sentence_zh": "古董箱的铜搭扣是龙形设计的。"
+          },
+          {
+            "sentence": "She broke a nail trying to open the rusty hasp on her diary.",
+            "sentence_zh": "她开日记本生锈的搭扣时崩断了指甲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把搭扣扣上",
+        "examples": [
+          {
+            "sentence": "He hasped the gate securely before the typhoon came.",
+            "sentence_zh": "台风来临前他把大门的搭扣牢牢扣紧。"
+          },
+          {
+            "sentence": "Grandma always hasps her jewelry box with trembling hands.",
+            "sentence_zh": "奶奶总用颤抖的手扣上首饰盒的搭扣。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hasp and staple",
+        "meaning": "整套扣件",
+        "examples": [
+          {
+            "sentence": "The medieval door used hasp and staple locking system.",
+            "sentence_zh": "这扇中世纪门使用搭扣与锁环的整套扣件。"
+          }
+        ]
+      }
+    ],
+    "teach": "hasp是古代的安全系统🔒！想象海盗宝箱的金属扣💍就是hasp，扣上时发出'咔嗒'声像在说'想偷我的金币？没门！'⚔️。现代人说'锁门'用lock，但要说'扣上搭扣'必须用hasp。记住：hasp永远需要搭档——staple（锁环），就像奶茶离不开珍珠🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'害死扑'→没扣好搭扣害死扑街",
+        "易混词：clasp（更小的钩扣）",
+        "记忆法：HASP=Hard As Steel Protector（坚如钢铁的保护者）"
+      ]
+    }
+  },
+  {
+    "word": "hassle",
+    "etymology": {
+      "breakdown": [
+        "has",
+        "le"
+      ],
+      "meaning_connection": "可能源于中古英语haselen（争吵），后缀-le表反复动作→像复读机般来回争吵"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "激烈而持久的争论",
+        "examples": [
+          {
+            "sentence": "The meeting turned into a hassle about who stole the last mooncake.",
+            "sentence_zh": "会议变成了关于谁偷了最后一块月饼的持久争论。"
+          },
+          {
+            "sentence": "Avoid family hassles during holidays by hiding all the remote controls.",
+            "sentence_zh": "藏起所有遥控器可避免假期家庭持久战。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "争论",
+        "examples": [
+          {
+            "sentence": "They're hassling over which dipping sauce goes best with dumplings.",
+            "sentence_zh": "他们正为饺子配什么蘸料最好吃而争论不休。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "与...争辩",
+        "examples": [
+          {
+            "sentence": "The customer hassled the waiter about the missing chopsticks.",
+            "sentence_zh": "顾客因缺少筷子与服务员争执。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使烦恼",
+        "examples": [
+          {
+            "sentence": "Endless pop-up ads hassle mobile game players.",
+            "sentence_zh": "无尽的弹窗广告困扰着手游玩家。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hassle with sb.",
+        "meaning": "与某人纠缠",
+        "examples": [
+          {
+            "sentence": "Don't hassle with scalpers when buying concert tickets.",
+            "sentence_zh": "买演唱会票时别和黄牛纠缠。"
+          }
+        ]
+      }
+    ],
+    "teach": "hassle是吵架界的马拉松🏃♂️！想象两个大妈在菜市场为了一根葱讨价还价三小时（vegetable hassle🥬），或者你总被APP续费弹窗骚扰（subscription hassle💻）。要说'别找麻烦'，美国人会说Don't give me the hassle，搭配'免麻烦'叫hassle-free就像拆快递不用剪刀✂️。记住：hassle就是生活里甩不掉的口香糖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨嗖'→吵架时声音嗨到嗖嗖响",
+        "易混词：argue（普通争吵） vs hassle（持久战）"
+      ]
+    }
+  },
+  {
+    "word": "hassock",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'hase'（野兔）+ '-soc'（袋子）→最初指兔子栖息的草堆"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "座凳厚垫",
+        "examples": [
+          {
+            "sentence": "The grandma knitted a floral hassock for balcony tea time.",
+            "sentence_zh": "奶奶为阳台茶歇编织了花朵坐垫。"
+          },
+          {
+            "sentence": "Ikea's new hassock can transform into a pet bed.",
+            "sentence_zh": "宜家新款坐凳垫可变成宠物窝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "跪垫",
+        "examples": [
+          {
+            "sentence": "The church hassocks are embroidered with Bible verses.",
+            "sentence_zh": "教堂跪垫上绣着圣经经文。"
+          },
+          {
+            "sentence": "Her knees left dents on the velvet hassock after meditation.",
+            "sentence_zh": "冥想后她的膝盖在天鹅绒跪垫上留下凹痕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "草丛",
+        "examples": [
+          {
+            "sentence": "Rabbits vanished into the hassock near Stonehenge.",
+            "sentence_zh": "野兔消失在巨石阵旁的草丛中。"
+          },
+          {
+            "sentence": "Morning dew glittered on the hassock like scattered diamonds.",
+            "sentence_zh": "晨露在草丛上闪烁如碎钻。"
+          }
+        ]
+      }
+    ],
+    "teach": "hassock是英国教堂三件套⛪️（圣经+长椅+跪垫）之一，中世纪僧侣抄经时膝盖的救星！现代用法超分裂——既能当MUJI懒人沙发🛋️（坐垫），又是《动物森友会》里的杂草堆🌿（草丛）。搭配'sink into hassock'（陷进坐垫）和'hassock of wildflowers'（野花丛），地道说法'膝盖杀手'叫knee-killer（硬跪垫专用词）💀🦵🧎",
+    "recite": {
+      "tips": [
+        "谐音梗：'害臊客'→害臊的客人只敢坐跪垫",
+        "易混词：cushion（普通靠垫）vs hassock（加厚多功能垫）",
+        "记忆钩：兔窝→草堆→垫子演变史"
+      ]
+    }
   }
 ]

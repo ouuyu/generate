@@ -15177,5 +15177,318 @@
         "易混词对比：passive(被动) VS impassive(冷漠)"
       ]
     }
+  },
+  {
+    "word": "impassively",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pass",
+        "ive",
+        "ly"
+      ],
+      "meaning_connection": "前缀im-表示'否定'，词根pass表示'感受'，-ive表形容词性质，-ly变副词→字面意思是'没有感受地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "缺乏热情",
+        "examples": [
+          {
+            "sentence": "The audience reacted impassively to the comedian's outdated jokes.",
+            "sentence_zh": "观众对喜剧演员过时的笑话反应冷淡。"
+          },
+          {
+            "sentence": "She impassively scrolled through her ex's wedding photos.",
+            "sentence_zh": "她面无表情地刷着前任的结婚照。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "无表情",
+        "examples": [
+          {
+            "sentence": "The poker player watched impassively as his opponent went all-in.",
+            "sentence_zh": "扑克玩家面无表情地看着对手全押。"
+          },
+          {
+            "sentence": "The AI assistant answered impassively despite the user's anger.",
+            "sentence_zh": "AI助手无动于衷地回答着用户的愤怒提问。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不觉痛苦",
+        "examples": [
+          {
+            "sentence": "The monk sat impassively through the tattoo ceremony.",
+            "sentence_zh": "僧人在纹身仪式中静坐不觉痛苦。"
+          },
+          {
+            "sentence": "The wounded soldier impassively refused morphine.",
+            "sentence_zh": "受伤的士兵冷静地拒绝了吗啡。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "watch impassively",
+        "meaning": "冷眼旁观",
+        "examples": [
+          {
+            "sentence": "The cat watched impassively as the dog destroyed the sofa.",
+            "sentence_zh": "猫咪冷眼旁观狗狗拆沙发。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "respond impassively",
+        "meaning": "冷淡回应",
+        "examples": [
+          {
+            "sentence": "The customer service robot responded impassively to complaints.",
+            "sentence_zh": "客服机器人对投诉冷淡回应。"
+          }
+        ]
+      }
+    ],
+    "teach": "impassively是高级版'冷漠脸'😑：想象你妈看到你期末成绩时的表情→'impassive stare'（死亡凝视👀）。搭配'stone-faced'（石化脸🗿）更生动，说'毫无反应'可用'like a brick wall'（像堵墙🧱）。记住这词就像微信的'微笑'表情😊——表面平静，暗藏杀气！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派实力'→硬派(impassive)实力派演员",
+        "对比：passively（被动地） vs impassively（冷漠地）",
+        "记忆法：im（不）+pass（通过）+ive→情感通不过"
+      ]
+    }
+  },
+  {
+    "word": "impassivity",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pass",
+        "ivity"
+      ],
+      "meaning_connection": "前缀im-表示'否定'，词根pass来自拉丁语pati（感受），-ivity为名词后缀→字面义'无法感受'，引申为情感缺失的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "无感情",
+        "examples": [
+          {
+            "sentence": "The AI's impassivity during emotional conversations unsettled users.",
+            "sentence_zh": "AI在情感对话中表现出的无感情状态让用户不安。"
+          },
+          {
+            "sentence": "His impassivity at the funeral earned him the nickname 'Iceman'.",
+            "sentence_zh": "他在葬礼上的无动于衷为他赢得了'冰人'的绰号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "平静",
+        "examples": [
+          {
+            "sentence": "The Dalai Lama's impassivity in face of provocation is legendary.",
+            "sentence_zh": "达赖喇嘛面对挑衅时的平静已成传奇。"
+          },
+          {
+            "sentence": "Her impassivity during the earthquake saved many panicked tourists.",
+            "sentence_zh": "她在地震中的冷静挽救了许多惊慌的游客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "泰然自若",
+        "examples": [
+          {
+            "sentence": "The CEO maintained perfect impassivity when hearing the stock crashed.",
+            "sentence_zh": "听闻股价暴跌时，CEO保持着完美的泰然自若。"
+          },
+          {
+            "sentence": "Shaolin monks demonstrate impassivity even when standing on burning coals.",
+            "sentence_zh": "少林僧侣即使在炭火上行走也显得泰然自若。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with impassivity",
+        "meaning": "以平静的态度",
+        "examples": [
+          {
+            "sentence": "He drank the notoriously bitter Chinese herbal medicine with impassivity.",
+            "sentence_zh": "他以平静的态度喝下 notoriously bitter 的中药。"
+          }
+        ]
+      }
+    ],
+    "teach": "impassivity是'佛系'的最高境界🧘♂️！词根pass其实是'受难'的意思（如passion本义指基督受难），加个im-就变成'我佛了'😐。形容'面不改色'可以说poker face🃏，'镇定如常'叫keep a stiff upper lip👄。记住这个单词就像看微信'微笑表情'——表面平静，内心可能已经mmp🤣",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派city'→硬汉之城的人都impassivity",
+        "易混词对比：passivity（被动性）vs impassivity（无感性）"
+      ]
+    }
+  },
+  {
+    "word": "impasto",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "past",
+        "o"
+      ],
+      "meaning_connection": "前缀im-表示'向内'，词根past与'paste'(糊状物)同源，-o为意大利语后缀→指将颜料像面团一样厚涂的画法"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "厚涂颜料的绘画技法",
+        "examples": [
+          {
+            "sentence": "Van Gogh's Sunflowers showcases dramatic impasto strokes.",
+            "sentence_zh": "梵高的《向日葵》展现了强烈的厚涂笔触。"
+          },
+          {
+            "sentence": "The impasto technique makes the oil paint look like whipped cream.",
+            "sentence_zh": "厚涂技法让油画颜料像打发的奶油。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "厚涂的颜料层",
+        "examples": [
+          {
+            "sentence": "The impasto on this canvas is so thick you could scrape it off with a knife.",
+            "sentence_zh": "画布上的颜料层厚到能用刀刮下来。"
+          },
+          {
+            "sentence": "Her palette knife left buttery impastos resembling mountain ridges.",
+            "sentence_zh": "她的画刀留下的颜料如黄油般厚重，好似山脊。"
+          }
+        ]
+      }
+    ],
+    "teach": "impasto就是美术界的3D打印🖌️！梵高用这技法时，颜料厚得能当蛋糕裱花🍰（buttery impasto）。现代人用刮刀厚涂，效果像手机里的'浮雕滤镜'📱。搭配说：'build up impasto'（堆叠厚涂）、'knife impasto'（刀刮厚涂）。吐槽颜料费钱可以说'painting with caviar'（像用鱼子酱画画）💰🎨🏔️",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬怕撕脱'→厚涂颜料怕被撕掉",
+        "易混词：glaze（透明薄涂）vs impasto（不透明厚涂）",
+        "记忆TIP：想象用牙膏在画布上挤立体画"
+      ]
+    }
+  },
+  {
+    "word": "impatience",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pati",
+        "ence"
+      ],
+      "meaning_connection": "前缀im-表否定，词根pati=忍受(Latin 'patior')，后缀-ence表状态→'无法忍受的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "性急",
+        "examples": [
+          {
+            "sentence": "His impatience showed when he tapped his foot during the 3-second elevator delay.",
+            "sentence_zh": "电梯延迟3秒时他跺脚暴露了性急。"
+          },
+          {
+            "sentence": "Gen Z's impatience with slow WiFi is scientifically measurable.",
+            "sentence_zh": "Z世代对网速慢的急躁程度是可科学测量的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "难耐",
+        "examples": [
+          {
+            "sentence": "The impatience of kids waiting for hotpot to boil is adorable.",
+            "sentence_zh": "小朋友等待火锅沸腾时的难耐模样很可爱。"
+          },
+          {
+            "sentence": "Her impatience for the new iPhone release made her check Apple's website hourly.",
+            "sentence_zh": "她对新iPhone发布的难耐使她每小时查看苹果官网。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "焦急",
+        "examples": [
+          {
+            "sentence": "The impatience of parents outside gaokao exam halls is palpable.",
+            "sentence_zh": "高考考场外家长的焦急感同身受。"
+          },
+          {
+            "sentence": "Delivery riders' impatience at traffic lights is understandable.",
+            "sentence_zh": "外卖骑手在红绿灯前的焦急可以理解。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "急躁",
+        "examples": [
+          {
+            "sentence": "The panda's impatience while waiting for bamboo shoots went viral.",
+            "sentence_zh": "熊猫等待竹笋时的急躁视频曾风靡网络。"
+          },
+          {
+            "sentence": "His impatience with outdated software earned him the nickname 'CTRL+ALT+DEL'.",
+            "sentence_zh": "他对老旧软件的急躁为他赢得'重启键'的外号。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with impatience",
+        "meaning": "焦急地",
+        "examples": [
+          {
+            "sentence": "Fans waited with impatience for Jay Chou's new album.",
+            "sentence_zh": "歌迷焦急等待周杰伦新专辑。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "impatience threshold",
+        "meaning": "耐心临界值",
+        "examples": [
+          {
+            "sentence": "My impatience threshold is exactly 23 seconds - the average app loading time.",
+            "sentence_zh": "我的耐心临界值是23秒——平均APP加载时间。"
+          }
+        ]
+      }
+    ],
+    "teach": "impatience本质是'没耐心'💢：就像等外卖时不断刷新地图定位🗺️。古人说'心急吃不了热豆腐'，英文叫can't stand the heat（受不了热乎劲儿）🍲。当代人impatience三大诱因：快递延迟🚚、视频缓冲⏳、手机电量低于20%🔋。记住：你的impatience程度≈看本条讲解时的皱眉次数😠",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派生死'→硬派作风的人死磕(impatience)",
+        "易混词：patience（耐心）是impatience的反义词，像硬币正反面🪙",
+        "联想：IM（即时通讯）+patience→没有耐心等待回复"
+      ]
+    }
   }
 ]

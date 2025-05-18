@@ -14710,5 +14710,326 @@
         "易混词：Manila vs. vanilla（香草）"
       ]
     }
+  },
+  {
+    "word": "Manila",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自菲律宾首都马尼拉（Manila）地名，因当地盛产马尼拉麻而得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "马尼拉（菲律宾首都）",
+        "examples": [
+          {
+            "sentence": "The Manila Cathedral is a must-see landmark with 400 years of history.",
+            "sentence_zh": "马尼拉大教堂是拥有400年历史的必看地标。"
+          },
+          {
+            "sentence": "Jollibee fast food from Manila is now conquering Chinese stomachs.",
+            "sentence_zh": "来自马尼拉的快乐蜂快餐正在征服中国胃。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "马尼拉麻（植物纤维）",
+        "examples": [
+          {
+            "sentence": "Traditional Philippine wallets are woven from Manila hemp.",
+            "sentence_zh": "菲律宾传统钱包由马尼拉麻编织而成。"
+          },
+          {
+            "sentence": "This eco-friendly bag is made of 100% Manila fibers.",
+            "sentence_zh": "这款环保袋由100%马尼拉麻纤维制成。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "白棕绳（马尼拉麻制品）",
+        "examples": [
+          {
+            "sentence": "Sailors still prefer Manila ropes for their natural grip.",
+            "sentence_zh": "水手们仍偏爱白棕绳的自然抓握感。"
+          },
+          {
+            "sentence": "The rock climber's Manila rope snapped like overcooked noodles.",
+            "sentence_zh": "登山者的白棕绳像煮过头的面条一样断裂了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Manila envelope",
+        "meaning": "牛皮纸信封",
+        "examples": [
+          {
+            "sentence": "He received a mysterious Manila envelope with no return address.",
+            "sentence_zh": "他收到一个没有寄件地址的神秘牛皮纸信封。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Manila paper",
+        "meaning": "马尼拉纸",
+        "examples": [
+          {
+            "sentence": "Elementary school art classes always smell of Manila paper.",
+            "sentence_zh": "小学美术课总是散发着马尼拉纸的味道。"
+          }
+        ]
+      }
+    ],
+    "teach": "Manila是菲律宾的'麻辣烫'🌶️——首都热辣(热带气候)+麻绳产业发达！马尼拉麻做的绳子比钢铁还强💪，哥伦布用它绑船队发现新大陆⛵。说'劣质绳子'叫junk rope(垃圾绳)，'结实的'说strong as Manila hemp。记住：Manila不是mammilla(乳头)，写错会很尴尬😅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂你啦'→用马尼拉绳绑住骂你啦",
+        "易混词：Manila vs. vanilla（香草）"
+      ]
+    }
+  },
+  {
+    "word": "manipulate",
+    "etymology": {
+      "breakdown": [
+        "manus",
+        "pul",
+        "ate"
+      ],
+      "meaning_connection": "词根manus=手，pul=拉/推，-ate动词后缀→原指'用手操作'，后引申出抽象层面的'操控'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "操纵（人或局势）",
+        "examples": [
+          {
+            "sentence": "The villain manipulated public opinion through fake news.",
+            "sentence_zh": "反派通过假新闻操纵舆论。"
+          },
+          {
+            "sentence": "She manipulated her boyfriend into buying 10 limited edition lipsticks.",
+            "sentence_zh": "她操控男友买了10支限量版口红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "熟练操作（机械）",
+        "examples": [
+          {
+            "sentence": "The factory worker manipulated the robotic arm with chopstick skills.",
+            "sentence_zh": "工人用使用筷子的技巧熟练操作机械臂。"
+          },
+          {
+            "sentence": "Pilots must manipulate multiple controls simultaneously.",
+            "sentence_zh": "飞行员必须同时熟练操作多个控制器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "巧妙处理（信息）",
+        "examples": [
+          {
+            "sentence": "Data scientists manipulate big data to predict trends.",
+            "sentence_zh": "数据科学家巧妙处理大数据以预测趋势。"
+          },
+          {
+            "sentence": "He manipulated the statistics to make his thesis convincing.",
+            "sentence_zh": "他巧妙处理统计数据使论文更有说服力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "假造（账目/证据）",
+        "examples": [
+          {
+            "sentence": "The accountant manipulated the books to hide losses.",
+            "sentence_zh": "会计假造账目隐瞒亏损。"
+          },
+          {
+            "sentence": "Fake influencers often manipulate their follower counts.",
+            "sentence_zh": "假网红常假造粉丝数量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "manipulate into doing",
+        "meaning": "操纵某人做某事",
+        "examples": [
+          {
+            "sentence": "Scammers manipulated elders into transferring money.",
+            "sentence_zh": "骗子操纵老人转账。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "manipulate with care",
+        "meaning": "谨慎操作",
+        "examples": [
+          {
+            "sentence": "Lab staff must manipulate viruses with extreme care.",
+            "sentence_zh": "实验室人员必须极其谨慎地操作病毒样本。"
+          }
+        ]
+      }
+    ],
+    "teach": "manipulate是'提线木偶大师'🎭！词源manus(手)+pul(拉)就像控制木偶线🧵，现代用法分为：1) 黑暗版：PUA式操控（manipulate emotions）2) 技术流：外科医生做微创手术🔪（manipulate instruments）3) 学霸技：用Excel公式玩转数据📊（manipulate data）警告：被manipulate时要说'I'm not your marionette!'🚫",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂你不理他'→操纵者骂你也不理他",
+        "易混词：operate(中性操作) vs manipulate(带操控性)",
+        "记忆场景：想象用手(manu)扭魔方(pul)→灵活操控"
+      ]
+    }
+  },
+  {
+    "word": "manipulated",
+    "etymology": {
+      "breakdown": [
+        "manus",
+        "pil",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "拉丁词根manus=手，pil=填充/操作，-ate表动词，-ed表过去时→原指用手巧妙操作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "熟练控制[操作]",
+        "examples": [
+          {
+            "sentence": "The chef manipulated the dough like a magician performing tricks.",
+            "sentence_zh": "厨师像变魔术般熟练操控面团。"
+          },
+          {
+            "sentence": "She manipulated the 3D modeling software with just one hand.",
+            "sentence_zh": "她仅用单手就熟练操作3D建模软件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "（暗中）控制",
+        "examples": [
+          {
+            "sentence": "The puppet master manipulated every candidate behind the scenes.",
+            "sentence_zh": "幕后操盘手暗中控制着每位候选人。"
+          },
+          {
+            "sentence": "Big data algorithms are manipulating our shopping desires invisibly.",
+            "sentence_zh": "大数据算法正无形中操纵着我们的购物欲望。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "正骨治疗",
+        "examples": [
+          {
+            "sentence": "The TCM doctor manipulated my spine with cracking sounds.",
+            "sentence_zh": "中医正骨时我的脊柱发出咔咔声。"
+          },
+          {
+            "sentence": "He manipulated the dislocated shoulder back into place.",
+            "sentence_zh": "他将脱臼的肩膀手法复位。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be manipulated into",
+        "meaning": "被诱导",
+        "examples": [
+          {
+            "sentence": "Many elderly are manipulated into buying overpriced health products.",
+            "sentence_zh": "许多老人被诱导购买高价保健品。"
+          }
+        ]
+      }
+    ],
+    "teach": "manipulated是手法大师的标配🪢！既能像《大明王朝1566》里吕芳暗中操控朝局🎭（manipulate politics），也能像火锅店师傅表演扯面🍜（manipulate dough）。记住：'被PUA'可以说be emotionally manipulated💔，'暗中控评'叫manipulate public opinion📊。你的手机其实每天都在manipulate你！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂你play的'→操纵者骂你play的(manipulated)游戏角色",
+        "易混词：operate（公开操作）/ manipulate（暗箱操作）",
+        "记忆tip：想象漫威反派Manipulator🦹♂️用手指操控提线木偶"
+      ]
+    }
+  },
+  {
+    "word": "manipulation",
+    "etymology": {
+      "breakdown": [
+        "manus",
+        "ul",
+        "ation"
+      ],
+      "meaning_connection": "词根manus=手（拉丁语），-ul-表小，-ation表行为→原指'用手精巧操作'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "操作",
+        "examples": [
+          {
+            "sentence": "The magician's card manipulation fooled all the audience.",
+            "sentence_zh": "魔术师的纸牌操作骗过了所有观众。"
+          },
+          {
+            "sentence": "Robot manipulation in Tesla factories reaches micrometer precision.",
+            "sentence_zh": "特斯拉工厂的机器人操作精度达到微米级。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "处理",
+        "examples": [
+          {
+            "sentence": "Data manipulation in Python is as easy as slicing tofu.",
+            "sentence_zh": "用Python处理数据就像切豆腐一样简单。"
+          },
+          {
+            "sentence": "The manipulation of crisis requires both wisdom and courage.",
+            "sentence_zh": "危机处理需要智慧与勇气并存。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remote manipulation",
+        "meaning": "远程操控",
+        "examples": [
+          {
+            "sentence": "Surgeons now perform remote manipulation surgeries via 5G networks.",
+            "sentence_zh": "外科医生现已通过5G网络进行远程操控手术。"
+          }
+        ]
+      }
+    ],
+    "teach": "manipulation其实是'手艺人'的绝活👐！最早指街头艺人玩三仙归洞（用手操作），现在可以是你用手机远程开空调📱（remote manipulation）。要说'暗箱操作'叫backstage dealing，'熟练操作'说have nimble fingers就像捏面人师傅🤹♂️。记住：所有manipulation本质都是'无形的手'在搞事情！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骂你pleasure'→被操控还觉得爽",
+        "易混词对比：manufacture(制造) / maneuver(调遣)"
+      ]
+    }
   }
 ]

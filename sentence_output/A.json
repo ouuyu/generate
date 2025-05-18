@@ -14990,5 +14990,348 @@
         "联想：A+Create→不断添加(A)创造(Create)的过程"
       ]
     }
+  },
+  {
+    "word": "accreditation",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cred",
+        "it",
+        "ation"
+      ],
+      "meaning_connection": "前缀ac-表'朝向'，词根cred=信任（同credit），-ation为名词后缀→获得信任的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "官方认证",
+        "examples": [
+          {
+            "sentence": "The university's accreditation was suspended due to panda-shaped campus buildings.",
+            "sentence_zh": "该大学因熊猫造型的校舍被暂停官方认证资格。"
+          },
+          {
+            "sentence": "Getting Weibo verified is like earning social media accreditation.",
+            "sentence_zh": "获得微博加V认证就像拿到社交媒体官方认证。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "委派授权",
+        "examples": [
+          {
+            "sentence": "The journalist's accreditation allowed him to interview the AI robot.",
+            "sentence_zh": "记者的委派授权使他能采访那个AI机器人。"
+          },
+          {
+            "sentence": "With UN accreditation, she could enter the Metaverse summit.",
+            "sentence_zh": "凭借联合国授权，她得以进入元宇宙峰会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accreditation body",
+        "meaning": "认证机构",
+        "examples": [
+          {
+            "sentence": "The dumpling association became an international accreditation body.",
+            "sentence_zh": "饺子协会成为了国际认证机构。"
+          }
+        ]
+      }
+    ],
+    "teach": "accreditation就像'盖公章'🖊️：古代欧洲cred指信用（现在演变成credit card💳）。要吐槽'山寨认证'可说mickey mouse accreditation（米老鼠认证），重要认证叫gold-standard accreditation🏅️。记住：你的英语水平需要emoji认证才算数！😎📜✅",
+    "recite": {
+      "tips": [
+        "谐音梗：'鳄口来得审'→鳄鱼张开口等审查（认证过程）",
+        "易混词对比：certification（技术认证） vs accreditation（官方授权）"
+      ]
+    }
+  },
+  {
+    "word": "accretion",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cret",
+        "ion"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cret表示'生长'（同create），-ion表名词→逐渐生长的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "自然增大",
+        "examples": [
+          {
+            "sentence": "The accretion of dust particles formed a new planet.",
+            "sentence_zh": "尘埃颗粒的自然增大形成了一颗新行星。"
+          },
+          {
+            "sentence": "Tree rings show the accretion of wood over years.",
+            "sentence_zh": "年轮显示木材随年份的自然增长。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "添加",
+        "examples": [
+          {
+            "sentence": "The software's accretion of new features made it bulky.",
+            "sentence_zh": "该软件不断添加新功能导致变得臃肿。"
+          },
+          {
+            "sentence": "The accretion of garlic transformed the bland soup.",
+            "sentence_zh": "大蒜的添加彻底改变了这道寡淡的汤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "添加物",
+        "examples": [
+          {
+            "sentence": "The pearl is an accretion around a grain of sand.",
+            "sentence_zh": "珍珠是沙粒周围的添加物形成的。"
+          },
+          {
+            "sentence": "Archaeologists found cultural accretions in the ruins.",
+            "sentence_zh": "考古学家在废墟中发现文化添加物。"
+          }
+        ]
+      }
+    ],
+    "teach": "accretion就像宇宙级'滚雪球'🌌：从星际尘埃变成星球是它，你手机里越装越多的APP也是它🧩。记住'三不原则'：1) 珍珠奶茶的珍珠是accretion 2) 说'层层叠加'用layer upon layer accretion 3) 吐槽'越改越复杂'叫feature accretion。就像宇宙大爆炸逆向版——越吸越大💫",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱可吸神'→爱吸东西的神(accretion)",
+        "易混词：accumulation(人为堆积) vs accretion(自然增长)"
+      ]
+    }
+  },
+  {
+    "word": "accrual",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "crue",
+        "al"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根crue来自拉丁语'crescere'（生长），后缀-al表名词→指向增长的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "自然增长",
+        "examples": [
+          {
+            "sentence": "The accrual of interest on your savings is like a snowball rolling downhill.",
+            "sentence_zh": "储蓄利息的自然增长就像滚下山的雪球。"
+          },
+          {
+            "sentence": "Knowledge accrual through daily reading compounds over time.",
+            "sentence_zh": "每日阅读带来的知识增长会随时间产生复利效应。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "自然增长额",
+        "examples": [
+          {
+            "sentence": "The accrual on my Alipay Yu'e Bao reached 8.8 yuan this month.",
+            "sentence_zh": "这个月余额宝的自然增长额达到了8.8元。"
+          },
+          {
+            "sentence": "Check the annual accrual column in your housing fund statement.",
+            "sentence_zh": "查看你公积金账单中的年度自然增长额栏目。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accrual basis",
+        "meaning": "权责发生制",
+        "examples": [
+          {
+            "sentence": "Most companies use accrual basis accounting like making mooncake sales records before Mid-Autumn Festival.",
+            "sentence_zh": "多数公司采用权责发生制会计，就像中秋节前就记录月饼销售额。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accrual of benefits",
+        "meaning": "福利累积",
+        "examples": [
+          {
+            "sentence": "The accrual of social security benefits resembles filling a hot pot with ingredients.",
+            "sentence_zh": "社保福利的累积就像往火锅里加食材。"
+          }
+        ]
+      }
+    ],
+    "teach": "accrual是财务界的'种豆得豆'🌱：就像蚂蚁森林每天偷能量💧（daily accrual），也像火锅越煮味道越浓🍲（flavor accrual）。要说'利滚利'叫compound interest snowball❄️，'养老金累积'叫pension accrual就像存小笼包🥟。记住：时间+耐心=美味老汤式财富增值！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅烤肉'→养鹅场每天自然增长（accrual）的烤鹅",
+        "易混词对比：accumulate（主动积累）vs. accrual（被动增长）",
+        "联想：APP里每日签到进度条就是visual accrual"
+      ]
+    }
+  },
+  {
+    "word": "accrue",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "crue"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根crue来自拉丁语'crescere'=生长→逐渐积累的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "自然增加",
+        "examples": [
+          {
+            "sentence": "Interest accrues daily in digital wallets like Alipay.",
+            "sentence_zh": "支付宝等数字钱包的利息每日自然增加。"
+          },
+          {
+            "sentence": "Snowflakes accrue silently outside my Beijing apartment window.",
+            "sentence_zh": "雪花在我北京公寓的窗外无声堆积。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "产生",
+        "examples": [
+          {
+            "sentence": "New problems accrue when solving old ones in programming.",
+            "sentence_zh": "编程中解决旧问题时会产生新问题。"
+          },
+          {
+            "sentence": "Benefits will accrue to early investors in AI startups.",
+            "sentence_zh": "人工智能初创企业的早期投资者将获得收益。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accrue to",
+        "meaning": "归属于",
+        "examples": [
+          {
+            "sentence": "All copyrights accrue to the Douyin content creator.",
+            "sentence_zh": "所有版权归属于抖音内容创作者。"
+          }
+        ]
+      }
+    ],
+    "teach": "accrue就像滚雪球⛄️！古罗马会计在蜡板上记录利息增长(ac-朝向 + crescere生长)📜。说'利滚利'用compound interest snowballs，'积累经验'叫accrue experience就像集五福🎋。记住：你的知识会像复利一样accrue哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿Q入'→阿Q的利息收入(accrue)越来越多",
+        "易混词对比：acquire(主动获取) vs accrue(自然增长)"
+      ]
+    }
+  },
+  {
+    "word": "accrued",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "crue",
+        "d"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根crue来自拉丁语'crescere'（生长），-d为过去分词后缀→指向逐渐增长的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "应计的",
+        "examples": [
+          {
+            "sentence": "The accrued interest on my student loan haunts me like a ghost.",
+            "sentence_zh": "学生贷款的应计利息像幽灵一样纠缠着我。"
+          },
+          {
+            "sentence": "Accountants track accrued expenses like squirrels hoarding nuts.",
+            "sentence_zh": "会计追踪应计费用就像松鼠囤积坚果。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "增值的",
+        "examples": [
+          {
+            "sentence": "Her accrued knowledge in TCM makes her the neighborhood's walking encyclopedia.",
+            "sentence_zh": "她在中医领域增值的知识使她成为社区的活百科全书。"
+          },
+          {
+            "sentence": "The accrued value of my comic book collection could buy three PS5s now.",
+            "sentence_zh": "我漫画收藏的增值价值现在能买三台PS5。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "权责已发生的",
+        "examples": [
+          {
+            "sentence": "Accrued vacation days are like invisible money in your company's piggy bank.",
+            "sentence_zh": "已发生的带薪假期像公司存钱罐里的隐形货币。"
+          },
+          {
+            "sentence": "The lawsuit involved accrued rights from 1990s contracts.",
+            "sentence_zh": "该诉讼涉及上世纪90年代合同已发生的权利。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accrued benefits",
+        "meaning": "累积福利",
+        "examples": [
+          {
+            "sentence": "Didi drivers can check accrued benefits in the app like viewing RPG character stats.",
+            "sentence_zh": "滴滴司机可在APP查看累积福利，就像查看游戏角色属性。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accrued over time",
+        "meaning": "随时间累积",
+        "examples": [
+          {
+            "sentence": "His Mandarin fluency accrued over years of watching 宫斗剧.",
+            "sentence_zh": "他的普通话流利程度源于多年观看宫斗剧的累积。"
+          }
+        ]
+      }
+    ],
+    "teach": "accrued是财务界的复利魔法🪄！就像《西游记》里孙悟空拔毫毛变猴子🐒，1根变10根（accrued value）。说'年终奖'用accrued bonus比year-end bonus更专业，吐槽'加班费'要说accrued overtime（像滚雪球❄️）。记住：所有能像雪球一样越滚越大的东西，都可以用accrued！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿酷热的'→阿宅在酷热中坚持记账(accrued)",
+        "易混词对比：accumulate（主动累积） vs accrued（自然增长）"
+      ]
+    }
   }
 ]

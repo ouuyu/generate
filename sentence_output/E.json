@@ -15375,5 +15375,359 @@
         "易混词对比：electoral（选举的）/ electric（电的）"
       ]
     }
+  },
+  {
+    "word": "electorate",
+    "etymology": {
+      "breakdown": [
+        "elect",
+        "or",
+        "ate"
+      ],
+      "meaning_connection": "词根elect=选择（源自拉丁语eligere），-or表人，-ate表集体→'选择者群体'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "选民集体",
+        "examples": [
+          {
+            "sentence": "The young electorate prefers voting via WeChat mini-programs.",
+            "sentence_zh": "年轻选民更倾向通过微信小程序投票。"
+          },
+          {
+            "sentence": "Ramen shops near polling stations attract the hungry electorate.",
+            "sentence_zh": "投票站旁的拉面店吸引着饥饿的选民们。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "选区",
+        "examples": [
+          {
+            "sentence": "This electorate covers three spicy hotpot districts in Chongqing.",
+            "sentence_zh": "该选区覆盖重庆三个火锅辣度区。"
+          },
+          {
+            "sentence": "Candidates debated while sharing a mala xiangguo pot in our electorate.",
+            "sentence_zh": "候选人在我们选区边辩论边共享麻辣香锅。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "target electorate",
+        "meaning": "目标选民群体",
+        "examples": [
+          {
+            "sentence": "Politicians use douyin dances to attract the target electorate.",
+            "sentence_zh": "政客用抖音舞蹈吸引目标选民群体。"
+          }
+        ]
+      }
+    ],
+    "teach": "electorate是'电子选民'吗？不！但确实像拼多多砍价团👥！古罗马选民真的用陶片(elect=选择)投票，现代选民则用手机抢红包🧧。说'关键选区'用swing electorate就像火锅里的毛肚——决定胜负！记住：你的electorate power比双十一购物车还重要🛒！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来客怼他'→选民(electorate)一来就怼候选人",
+        "易混词：elector（单个选民）vs electorate（全体选民）",
+        "记忆tip：elect（选择）+ or（人）+ ate（吃）= 选民们选择完就去吃庆功宴"
+      ]
+    }
+  },
+  {
+    "word": "electric",
+    "etymology": {
+      "breakdown": [
+        "electr",
+        "ic"
+      ],
+      "meaning_connection": "词根electr来自希腊语'ēlektron'（琥珀，摩擦生电的物质），后缀-ic表示'与...相关的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "电的",
+        "examples": [
+          {
+            "sentence": "The electric atmosphere before the live-streaming sale made everyone excited.",
+            "sentence_zh": "直播带货前的紧张气氛让所有人都很兴奋。"
+          },
+          {
+            "sentence": "Ancient Greeks discovered electric properties by rubbing amber.",
+            "sentence_zh": "古希腊人通过摩擦琥珀发现了电的特性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "导电的",
+        "examples": [
+          {
+            "sentence": "Copper wires are highly electric and essential for power grids.",
+            "sentence_zh": "铜线导电性极佳，是电网的关键材料。"
+          },
+          {
+            "sentence": "The scientist tested which liquids were electric in the experiment.",
+            "sentence_zh": "科学家在实验中测试了哪些液体具有导电性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "电动的",
+        "examples": [
+          {
+            "sentence": "Electric scooters have flooded the streets of Shanghai in recent years.",
+            "sentence_zh": "电动滑板车近年来遍布上海街头。"
+          },
+          {
+            "sentence": "This electric toothbrush has a panda-themed design for the Asian market.",
+            "sentence_zh": "这款电动牙刷为亚洲市场设计了熊猫主题外观。"
+          }
+        ]
+      }
+    ],
+    "teach": "electric的前世今生⚡：古希腊人发现摩擦琥珀(ēlektron)能吸纸屑→这就是静电！现在说'气氛很electric'就像皮卡丘放电🐭💥。'电动自行车'叫e-bike（不是electric bike！），形容'激动得汗毛竖起'说hair-raising experience。记住：从琥珀到特斯拉，都是electric革命🔋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来可锤'→一来电就可以锤你（导电性强）",
+        "易混词：electronic（电子的）vs electric（电的）"
+      ]
+    }
+  },
+  {
+    "word": "electrical",
+    "etymology": {
+      "breakdown": [
+        "electr",
+        "ic",
+        "al"
+      ],
+      "meaning_connection": "词根electr=电（来自希腊语ēlektron琥珀摩擦生电），-ic表性质，-al表相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "电的",
+        "examples": [
+          {
+            "sentence": "The electrical eel can generate enough voltage to stun a horse.",
+            "sentence_zh": "电鳗能产生足以击晕一匹马的电压。"
+          },
+          {
+            "sentence": "Our building had an electrical outage during the hotpot party.",
+            "sentence_zh": "我们大楼在火锅聚餐时突然断电。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有关电的",
+        "examples": [
+          {
+            "sentence": "Tesla's electrical inventions changed modern life.",
+            "sentence_zh": "特斯拉的电学发明改变了现代生活。"
+          },
+          {
+            "sentence": "The panda chewed through electrical wires at the zoo.",
+            "sentence_zh": "这只熊猫在动物园咬断了电线。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "electrical engineering",
+        "meaning": "电气工程",
+        "examples": [
+          {
+            "sentence": "He switched from making dumplings to studying electrical engineering.",
+            "sentence_zh": "他从包饺子转行去学电气工程了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "electrical storm",
+        "meaning": "雷暴",
+        "examples": [
+          {
+            "sentence": "The delivery drones were grounded due to electrical storms.",
+            "sentence_zh": "因为雷暴天气，送货无人机停飞了。"
+          }
+        ]
+      }
+    ],
+    "teach": "electrical其实是'琥珀之力'⚡！古希腊人发现摩擦琥珀(ēlektron)能吸纸屑，这比微信发明'拍一拍'早2000年！记住：'电工'叫electrician就像'魔法师'🧙♂️，'漏电'说electrical leak就像奶茶漏珍珠🥤。下次手机没电时想想：你正体验着古希腊人的黑科技！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来可锤抠'→一来电就可锤子修（电工）",
+        "易混词对比：electric（带电的）/electronic（电子的）"
+      ]
+    }
+  },
+  {
+    "word": "electrically",
+    "etymology": {
+      "breakdown": [
+        "electr",
+        "ic",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根electr=电(来自希腊语'琥珀摩擦生电')，-ic表性质，-al构成形容词，-ly转为副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "电力地",
+        "examples": [
+          {
+            "sentence": "Tesla cars run electrically with zero emissions.",
+            "sentence_zh": "特斯拉汽车完全靠电力驱动，零排放。"
+          },
+          {
+            "sentence": "The old tram was electrically powered by overhead cables.",
+            "sentence_zh": "那辆老式有轨电车通过架空电缆电力驱动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有关电地",
+        "examples": [
+          {
+            "sentence": "This device is electrically insulated for safety.",
+            "sentence_zh": "该设备做了电气绝缘处理以确保安全。"
+          },
+          {
+            "sentence": "Neurons communicate electrically through synapses.",
+            "sentence_zh": "神经元通过突触进行电信号传递。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "electrically charged",
+        "meaning": "带电的",
+        "examples": [
+          {
+            "sentence": "The balloon became electrically charged after rubbing with wool.",
+            "sentence_zh": "气球与羊毛摩擦后带了电。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "electrically conductive",
+        "meaning": "导电的",
+        "examples": [
+          {
+            "sentence": "Graphene is the most electrically conductive material known.",
+            "sentence_zh": "石墨烯是已知导电性最强的材料。"
+          }
+        ]
+      }
+    ],
+    "teach": "electrically就像皮卡丘的十万伏特⚡！词根electr源自希腊人发现琥珀(ḗlektron)摩擦生电，后来爱迪生用电力点亮灯泡💡才有了今天。说'充电'用electrically powered像特斯拉超充桩🔋，'导电'说electrically conductive像用铝箔纸短路电池🔥。记住：带-ly的副词都像漏电一样'刺啦刺啦'很活泼！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来可吹可乐'→电力(electrically)驱动可乐自动贩卖机",
+        "易混词对比：electric(电的)/electrical(电学的)/electronic(电子的)"
+      ]
+    }
+  },
+  {
+    "word": "electrician",
+    "etymology": {
+      "breakdown": [
+        "electr",
+        "ic",
+        "ian"
+      ],
+      "meaning_connection": "词根electr=电（源自希腊语elektron琥珀摩擦生电现象），-ic表性质，-ian表从业者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电学家",
+        "examples": [
+          {
+            "sentence": "The electrician who invented LED lighting won the Nobel Prize.",
+            "sentence_zh": "发明LED照明的电学家获得了诺贝尔奖。"
+          },
+          {
+            "sentence": "Modern electricians often publish papers about quantum physics.",
+            "sentence_zh": "现代电学家常发表量子物理相关的论文。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电气技师",
+        "examples": [
+          {
+            "sentence": "An electrician installed smart sensors in our new apartment.",
+            "sentence_zh": "电气技师在我们的新公寓安装了智能传感器。"
+          },
+          {
+            "sentence": "Tesla's electricians are adjusting the power grid for AI data centers.",
+            "sentence_zh": "特斯拉的电气技师正在为AI数据中心调整电网。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电工",
+        "examples": [
+          {
+            "sentence": "The electrician fixed our WiFi by climbing the pole like a squirrel.",
+            "sentence_zh": "电工像松鼠一样爬杆修好了我们的WiFi。"
+          },
+          {
+            "sentence": "Village electricians often repair cables with bamboo ladders.",
+            "sentence_zh": "乡村电工常用竹梯维修电缆。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "licensed electrician",
+        "meaning": "持证电工",
+        "examples": [
+          {
+            "sentence": "Only licensed electricians can install charging piles for electric cars.",
+            "sentence_zh": "只有持证电工才能安装电动汽车充电桩。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "electrician's tape",
+        "meaning": "电工胶布",
+        "examples": [
+          {
+            "sentence": "He sealed the broken wire with rainbow-colored electrician's tape.",
+            "sentence_zh": "他用彩虹色电工胶布缠好了断裂的电线。"
+          }
+        ]
+      }
+    ],
+    "teach": "electrician其实是'电的驯兽师'⚡：古希腊人发现摩擦琥珀(elektron)会吸引羽毛，这现象后来演变成electricity。美国电工梗叫'wire ninja'（电线忍者）🤺，'电路故障'说have a short就像相亲短路💘。记住：好的electrician让你家电表转得比陀螺慢🌀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来客吸电神'→来访的吸电神仙",
+        "易混词对比：electician（选美评委）vs electrician（电工）"
+      ]
+    }
   }
 ]

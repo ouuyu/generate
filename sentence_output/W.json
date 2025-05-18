@@ -15294,5 +15294,283 @@
         "记忆术：weal中的'eal'看作'ear'+'l'→福利要倾听(ear)民众，伤痕像鞭子(l)"
       ]
     }
+  },
+  {
+    "word": "wealth",
+    "etymology": {
+      "breakdown": [
+        "weal",
+        "th"
+      ],
+      "meaning_connection": "古英语weal=福利/幸福，后缀-th构成名词→原指'幸福状态'，14世纪后特指物质财富"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "财富",
+        "examples": [
+          {
+            "sentence": "His wealth comes from selling spicy crayfish recipes.",
+            "sentence_zh": "他的财富来自售卖麻辣小龙虾配方。"
+          },
+          {
+            "sentence": "In China, new wealth is often invested in real estate.",
+            "sentence_zh": "在中国，新增财富常被投资于房地产。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "资源",
+        "examples": [
+          {
+            "sentence": "The wealth of the ocean includes giant pandas of the sea - dugongs.",
+            "sentence_zh": "海洋资源包含'海中大熊猫'儒艮。"
+          },
+          {
+            "sentence": "Bamboo forests are the wealth of Sichuan's ecosystem.",
+            "sentence_zh": "竹林是四川生态系统的珍贵资源。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "丰富",
+        "examples": [
+          {
+            "sentence": "The night market offers a wealth of stinky tofu varieties.",
+            "sentence_zh": "夜市提供丰富多样的臭豆腐品类。"
+          },
+          {
+            "sentence": "Li Bai's poetry shows a wealth of imagination.",
+            "sentence_zh": "李白的诗歌展现出丰富的想象力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "a wealth of",
+        "meaning": "大量的",
+        "examples": [
+          {
+            "sentence": "The museum has a wealth of Tang Dynasty pottery figures.",
+            "sentence_zh": "该博物馆藏有大量唐代陶俑。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wealth gap",
+        "meaning": "贫富差距",
+        "examples": [
+          {
+            "sentence": "Hotpot consumption reflects the wealth gap in cities.",
+            "sentence_zh": "火锅消费水平反映城市贫富差距。"
+          }
+        ]
+      }
+    ],
+    "teach": "wealth其实是'幸福感'变形💰！古代欧洲人认为weal(幸福)+th=wealth，就像用'福'字倒贴求财运🧧。说'暴发户'叫new money（对应old money世家），'隐形富豪'叫stealth wealth就像穿着睡衣收租的大妈👘。记住：wealth不只有money，还包括你的表情包库存和奶茶会员积分！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂尔食'→喂你食物就是最大财富",
+        "易混词：health(健康)才是真wealth",
+        "记忆法：we(我们)+al(all全部)+th(土豪缩写)=我们都是土豪"
+      ]
+    }
+  },
+  {
+    "word": "wealthy",
+    "etymology": {
+      "breakdown": [
+        "wealth",
+        "y"
+      ],
+      "meaning_connection": "wealth（财富）+形容词后缀-y→表示'充满财富的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "富有的",
+        "examples": [
+          {
+            "sentence": "The wealthy businessman owns three panda-shaped islands.",
+            "sentence_zh": "那位富商拥有三座熊猫形状的岛屿。"
+          },
+          {
+            "sentence": "Her family is so wealthy they use gold leaf as tissue paper.",
+            "sentence_zh": "她家富到用金箔当餐巾纸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "丰裕的",
+        "examples": [
+          {
+            "sentence": "This region has wealthy natural resources like tea and bamboo.",
+            "sentence_zh": "该地区拥有茶叶和竹子等丰裕的自然资源。"
+          },
+          {
+            "sentence": "The museum has a wealthy collection of Ming Dynasty porcelain.",
+            "sentence_zh": "该博物馆藏有大量明代瓷器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "充分的",
+        "examples": [
+          {
+            "sentence": "She gave a wealthy explanation that covered all aspects.",
+            "sentence_zh": "她给出了涵盖所有方面的充分解释。"
+          },
+          {
+            "sentence": "The novel provides wealthy details about Tang Dynasty fashion.",
+            "sentence_zh": "这部小说提供了关于唐代服饰的充分细节。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wealthy in",
+        "meaning": "富含...的",
+        "examples": [
+          {
+            "sentence": "Sichuan cuisine is wealthy in spicy flavors.",
+            "sentence_zh": "川菜富含辛辣风味。"
+          }
+        ]
+      }
+    ],
+    "teach": "wealthy就像哆啦A梦的口袋🎒！当形容人时是'家里有矿'💰（filthy rich），形容资源时像火锅里的毛肚🥘（abundant），形容信息时像知乎高赞回答📚（comprehensive）。要说'暴发户'叫new money，'土豪'是tuhao已被牛津收录！记住：真正的wealthy是精神物质双丰收💎✨🍜",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂了鸡'→富豪用鲍鱼喂鸡",
+        "对比记忆：wealthy（持续富有） vs. rich（暂时有钱）"
+      ]
+    }
+  },
+  {
+    "word": "wean",
+    "etymology": {
+      "breakdown": [
+        "wen"
+      ],
+      "meaning_connection": "源自古英语'wenian'，原指'使习惯'，后特指'使戒除母乳'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使断奶",
+        "examples": [
+          {
+            "sentence": "The panda keeper is weaning the cub onto bamboo shoots.",
+            "sentence_zh": "饲养员正让熊猫幼崽改吃竹笋断奶。"
+          },
+          {
+            "sentence": "Mothers in Yunnan often wean babies with rice porridge.",
+            "sentence_zh": "云南妈妈常用米粥给宝宝断奶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使戒除",
+        "examples": [
+          {
+            "sentence": "It took 3 months to wean him off bubble tea addiction.",
+            "sentence_zh": "花了三个月才让他戒掉奶茶瘾。"
+          },
+          {
+            "sentence": "The app helps wean people from excessive smartphone use.",
+            "sentence_zh": "这个应用帮助戒除手机过度使用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "幼儿",
+        "examples": [
+          {
+            "sentence": "The wean clung to his mother's qipao sleeve.",
+            "sentence_zh": "幼儿紧紧抓着妈妈的旗袍袖子。"
+          },
+          {
+            "sentence": "Scottish grannies call toddlers 'wee weans' affectionately.",
+            "sentence_zh": "苏格兰奶奶亲昵地称小孩为'小不点儿'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wean off",
+        "meaning": "逐步戒除",
+        "examples": [
+          {
+            "sentence": "She weaned herself off Douyin by limiting to 10 minutes daily.",
+            "sentence_zh": "她通过每天限刷10分钟抖音来戒瘾。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wean on",
+        "meaning": "从小培养",
+        "examples": [
+          {
+            "sentence": "GenZ were weaned on mobile payments and takeout apps.",
+            "sentence_zh": "Z世代是伴着移动支付和外卖App长大的。"
+          }
+        ]
+      }
+    ],
+    "teach": "wean本质是'戒断手术'✂️：从断奶(wean a baby)到戒奶茶(wean off boba)都适用！苏格兰人把小孩叫wean就像东北叫'小嘎豆'👶🏻。要说'戒不掉'可以说cold turkey（火鸡式突然戒断），但wean off更温柔像'奶茶减肥法'🥤→🍵。记住：所有成瘾都能wean，包括你的短视频瘾！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂嗯'→妈妈一边喂奶一边嗯嗯哼歌",
+        "对比记忆：quit是立刻停止，wean是渐进式"
+      ]
+    }
+  },
+  {
+    "word": "weaning",
+    "etymology": {
+      "breakdown": [
+        "wean",
+        "ing"
+      ],
+      "meaning_connection": "古英语'wenian'表示'适应'，-ing表行为过程→使婴儿适应非母乳食品的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "断奶",
+        "examples": [
+          {
+            "sentence": "The panda cub's weaning process is recorded live by the zoo.",
+            "sentence_zh": "熊猫幼崽的断奶过程被动物园全程直播。"
+          },
+          {
+            "sentence": "Grandma insists traditional Chinese weaning starts with rice paste.",
+            "sentence_zh": "奶奶坚持传统中式断奶要从米糊开始。"
+          }
+        ]
+      }
+    ],
+    "teach": "weaning其实是'味ning'训练👶🍼：古人发现用蜂蜜抹乳头能加速断蜜(wean)，现代版叫'辅食刺客'🥑。'强制断奶'说cold turkey（像突然戒烟的冷火鸡），'自然离乳'是baby-led weaning就像离职创业🚀。记住：小孩断奶和程序员戒奶茶一样难！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂宁'→停止(宁)喂食",
+        "易混词对比：winning/weaning（赢了vs断奶）",
+        "联想：WEAN=When Eating Alternatives Needed（需要替代食物时）"
+      ]
+    }
   }
 ]

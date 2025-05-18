@@ -14390,5 +14390,226 @@
         "易混词对比：disorganized（无条理的）侧重混乱，uncoordinated侧重不配合"
       ]
     }
+  },
+  {
+    "word": "uncorrected",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "correct",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，词根correct=改正，-ed表形容词→'未被改正的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "未改正的",
+        "examples": [
+          {
+            "sentence": "The uncorrected typos in his thesis looked like confetti.",
+            "sentence_zh": "他论文中未改正的错字像散落的五彩纸屑。"
+          },
+          {
+            "sentence": "An uncorrected clock in Tokyo showed 3pm during midnight.",
+            "sentence_zh": "东京一个未校正的钟表在午夜显示下午三点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未加管教的",
+        "examples": [
+          {
+            "sentence": "The uncorrected puppy chewed all my AirPods cases.",
+            "sentence_zh": "那只未经管教的幼犬咬坏了我所有AirPods保护套。"
+          },
+          {
+            "sentence": "His uncorrected behavior eventually got him fired.",
+            "sentence_zh": "他未经约束的行为最终导致被解雇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未调整的",
+        "examples": [
+          {
+            "sentence": "The uncorrected lens caused weird facial distortions in selfies.",
+            "sentence_zh": "未调整的镜头导致自拍时面部奇怪变形。"
+          },
+          {
+            "sentence": "Uncorrected piano keys sound like crying cats.",
+            "sentence_zh": "未调音的钢琴键听起来像猫在哭叫。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncorrected就像没P过的生图📸！原始数据(raw data)叫uncorrected stats📊，熊孩子叫uncorrected child👶🏻，而'放任不管'可以说leave it uncorrected就像火锅不调火候会煮糊🍲。记住：所有uncorrected的东西都需要'美图秀秀'一下！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺可来ktv的'→没校正的跑调歌声",
+        "易混词对比：uncorrected vs. incorrect→前者是'没被改正'，后者是'本身就是错的'"
+      ]
+    }
+  },
+  {
+    "word": "uncorrelated",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "correlate",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表示否定，词根correlate表示'相互关联'，-ed构成形容词→字面意思为'未被关联的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不相关的",
+        "examples": [
+          {
+            "sentence": "The rise of dumpling prices and UFO sightings are uncorrelated phenomena.",
+            "sentence_zh": "饺子价格上涨与UFO目击是两件毫不相关的事。"
+          },
+          {
+            "sentence": "His love for Spicy Hot Pot is uncorrelated with his Sichuan heritage.",
+            "sentence_zh": "他对麻辣火锅的热爱与他的四川血统并无必然联系。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "uncorrelated variables",
+        "meaning": "不相关变量",
+        "examples": [
+          {
+            "sentence": "In this experiment, temperature and WiFi speed are uncorrelated variables.",
+            "sentence_zh": "本实验中，温度与WiFi速度是不相关变量。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncorrelated就像火锅里的西瓜🍉和辣椒🌶️——强行组CP但毫无关系！统计学中用它表示'各玩各的'，比如你的熬夜频率和老板的发量uncorrelated🤣。搭配：uncorrelated assets（不相关资产）/uncorrelated events（独立事件）。地道说法：'风马牛不相及'叫have nothing to do with each other🐴🐮",
+    "recite": {
+      "tips": [
+        "谐音梗：'安可来了的'→演唱会安可和票房uncorrelated",
+        "易混词：unrelated（主观无关） vs uncorrelated（客观无统计关联）",
+        "记忆法：un+coral（珊瑚）+ted→珊瑚和泰迪熊不相关"
+      ]
+    }
+  },
+  {
+    "word": "uncorroborated",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "corrobor",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，corrobor=证实（来自拉丁语corroborare），-ate为动词后缀，-ed表形容词→未被证实的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "未经证实的",
+        "examples": [
+          {
+            "sentence": "The UFO sighting remains uncorroborated by radar data.",
+            "sentence_zh": "该UFO目击事件仍缺乏雷达数据证实。"
+          },
+          {
+            "sentence": "His alibi was uncorroborated like a Weibo rumor without reposts.",
+            "sentence_zh": "他的不在场证明如同微博零转发的谣言般无人佐证。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "uncorroborated testimony",
+        "meaning": "孤证",
+        "examples": [
+          {
+            "sentence": "The court dismissed the case based on uncorroborated testimony.",
+            "sentence_zh": "法院因仅有孤证而驳回该案。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncorroborated就是'查无此证'🚨！想象你发朋友圈说'今天遇到马云'却没人点赞评论→这就是uncorroborated claim（就像法律界的'开局一张图'🌌）。搭配'uncorroborated evidence'（三无证据）和'remain uncorroborated'（持续待验证），吐槽谣言可以说'That's totally uncorroborated!'（纯属空穴来风！）🕵️♂️📜🚫",
+    "recite": {
+      "tips": [
+        "拆解记忆：un（不）+corrob（合唱团）+rated（评分）→'合唱团评分无效'因为未经认证",
+        "易混词对比：unconfirmed（未确认的，可能为真）/uncorroborated（明确缺乏佐证）"
+      ]
+    }
+  },
+  {
+    "word": "uncorrupted",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "corrupt",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表示否定，词根corrupt来自拉丁语corrumpere（破坏），-ed构成形容词→未被破坏的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "未腐败的",
+        "examples": [
+          {
+            "sentence": "The archaeologists found uncorrupted food in the 2,000-year-old tomb.",
+            "sentence_zh": "考古学家在2000年前的古墓中发现未腐败的食物。"
+          },
+          {
+            "sentence": "This encryption keeps data uncorrupted during transmission.",
+            "sentence_zh": "这种加密技术让数据在传输过程中保持未腐败状态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未堕落的",
+        "examples": [
+          {
+            "sentence": "His uncorrupted innocence reminds people of childhood.",
+            "sentence_zh": "他未堕落的纯真让人想起童年时光。"
+          },
+          {
+            "sentence": "The monk maintained an uncorrupted soul in the bustling city.",
+            "sentence_zh": "这位僧人在喧嚣都市中保持着未堕落的心灵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "廉洁的",
+        "examples": [
+          {
+            "sentence": "The uncorrupted official refused all gifts including mooncakes.",
+            "sentence_zh": "这位廉洁的官员连月饼在内的所有礼品都拒收。"
+          },
+          {
+            "sentence": "Singapore is famous for its uncorrupted government system.",
+            "sentence_zh": "新加坡以其廉洁的政府体系闻名。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncorrupted是职场锦鲤🐟！字面像'没被咖喱污染'(un-corrupt-ed)的米饭🍚，实际形容像包青天⚖️的清官。说'两袖清风'可以用clean-handed，'拒腐蚀'叫reject bribes like hot potatoes（像躲烫手山芋）。记住：当别人都在'吃拿卡要'，你要做uncorrupted的白莲花！💮",
+    "recite": {
+      "tips": [
+        "谐音梗：'安康葡萄藤'→安康(uncorrupted)的葡萄藤没被虫蛀",
+        "易混词对比：incorruptible（强调不易被腐蚀的特质）",
+        "联想记忆：UN+corrupted→联合国级别的廉洁标准"
+      ]
+    }
   }
 ]

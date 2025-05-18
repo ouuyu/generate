@@ -14666,5 +14666,292 @@
         "记忆tip：baro(压力)+meter(仪表)=气压测量仪"
       ]
     }
+  },
+  {
+    "word": "baron",
+    "etymology": {
+      "breakdown": [
+        "bar",
+        "on"
+      ],
+      "meaning_connection": "古法语baron=战士, 后演变为封建制度中的贵族头衔，-on表人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "男爵",
+        "examples": [
+          {
+            "sentence": "The baron hosted a medieval feast in his castle last weekend.",
+            "sentence_zh": "这位男爵上周末在他的城堡举办了中世纪宴会。"
+          },
+          {
+            "sentence": "Baron is the lowest rank in British peerage, just like '倔强青铜' in Honor of Kings.",
+            "sentence_zh": "男爵是英国贵族最低等级，就像《王者荣耀》里的倔强青铜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "巨头",
+        "examples": [
+          {
+            "sentence": "As a tech baron, he owns 3 private jets and a football club.",
+            "sentence_zh": "作为科技巨头，他拥有3架私人飞机和一支足球队。"
+          },
+          {
+            "sentence": "The oil barons control 70% of global energy trade.",
+            "sentence_zh": "石油巨头们掌控着全球70%的能源贸易。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "robber baron",
+        "meaning": "强盗大亨（指19世纪靠剥削致富的美国资本家）",
+        "examples": [
+          {
+            "sentence": "Some say today's tech giants are modern robber barons.",
+            "sentence_zh": "有人说如今的科技巨头是现代版强盗大亨。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "press baron",
+        "meaning": "传媒大亨",
+        "examples": [
+          {
+            "sentence": "The press baron owns 15 newspapers and 8 TV stations.",
+            "sentence_zh": "这位传媒大亨拥有15家报纸和8个电视台。"
+          }
+        ]
+      }
+    ],
+    "teach": "baron=霸道总裁👑！中世纪版是穿天鹅绒的男爵（feudal baron），现代版是穿西装的商业巨头（business baron）。英国至今还有'培根男爵'这种奇葩封号🥓，说人'土豪'可以用tycoon或mogul。记住：baron结尾发音像'荣'，当上baron就光荣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白荣'→白手起家光荣的baron",
+        "易混词对比：baron vs barren（贫瘠的）→baron有o=有钱人圆润，barren双r=土地干裂"
+      ]
+    }
+  },
+  {
+    "word": "baroness",
+    "etymology": {
+      "breakdown": [
+        "baron",
+        "ess"
+      ],
+      "meaning_connection": "词根baron=男爵，后缀-ess表示女性→贵族体系中女性的爵位称谓"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "男爵夫人（男爵配偶）",
+        "examples": [
+          {
+            "sentence": "The baroness hosted a tea party in her rose garden.",
+            "sentence_zh": "男爵夫人在她的玫瑰园举办了下午茶会。"
+          },
+          {
+            "sentence": "As a baroness, she has the right to sit in the House of Lords.",
+            "sentence_zh": "作为男爵夫人，她有权列席英国上议院。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "女性男爵（独立爵位）",
+        "examples": [
+          {
+            "sentence": "Baroness Thatcher was the first female British prime minister.",
+            "sentence_zh": "撒切尔女男爵是英国首位女性首相。"
+          },
+          {
+            "sentence": "The tech baroness donated 1 billion to space exploration.",
+            "sentence_zh": "这位科技界女男爵为太空探索捐赠了10亿。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "iron baroness",
+        "meaning": "铁腕女男爵（媒体用语）",
+        "examples": [
+          {
+            "sentence": "The 'Iron Baroness' reformed the education system dramatically.",
+            "sentence_zh": "这位'铁腕女男爵'大刀阔斧改革了教育体系。"
+          }
+        ]
+      }
+    ],
+    "teach": "baroness是贵族界的女王蜂👑！后缀-ess透露性别秘密：像actress（女演员）一样，-ess专门制造女性头衔。现代用法更炸裂：硅谷女大佬可能被媒体封为'tech baroness'💻，比男爵还威风！要夸女强人可以说'she rules like a baroness'（她像女男爵般统治），吐槽阶级固化用'born a baroness'（天生贵族）🍷",
+    "recite": {
+      "tips": [
+        "谐音梗：'掰了女士'→掰了(baroness)权杖的女士",
+        "易混词对比：baron（男爵） vs baroness（女男爵/男爵夫人）",
+        "记忆tip：想象《唐顿庄园》老夫人戴着-ess项链"
+      ]
+    }
+  },
+  {
+    "word": "baronet",
+    "etymology": {
+      "breakdown": [
+        "baron",
+        "et"
+      ],
+      "meaning_connection": "baron（男爵）+ 指小后缀-et，表示'小男爵'，实为英国世袭爵位中最低等级"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "准男爵（英国世袭爵位最低等级，高于骑士但低于男爵）",
+        "examples": [
+          {
+            "sentence": "The baronet's family crest featured three durians, a nod to their Malaysian plantations.",
+            "sentence_zh": "这位准男爵的家徽上有三颗榴莲，暗示其马来西亚种植园发家史。"
+          },
+          {
+            "sentence": "As a baronet, he could sit in the House of Commons but needed 50 pounds to enter the House of Lords.",
+            "sentence_zh": "作为准男爵，他能进入下议院但需支付50英镑才能踏入上议院。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hereditary baronet",
+        "meaning": "世袭准男爵",
+        "examples": [
+          {
+            "sentence": "The tea tycoon's hereditary baronetcy came with a requirement to donate 1000 pu'er cakes annually.",
+            "sentence_zh": "这位茶叶大亨的世袭准男爵爵位附带每年捐献1000饼普洱茶的条件。"
+          }
+        ]
+      }
+    ],
+    "teach": "baronet其实是'男爵青春版'👑！这个1611年发明的爵位就像会员卡💳——花钱就能买（当时价格=1080英镑）。现代梗：'社恐准男爵'（baronet who hates balls）拒绝参加舞会🤵♂️。搭配：'create a baronet册封准男爵'比'授勋knighthood'更隆重。地道说法：'爵位水货'叫tinsel nobility（闪亮却廉价）✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'白肉啃它'→准男爵啃老本",
+        "易混词对比：baron（男爵）vs baronet（准男爵）就像CEO和部门经理"
+      ]
+    }
+  },
+  {
+    "word": "baronial",
+    "etymology": {
+      "breakdown": [
+        "baron",
+        "ial"
+      ],
+      "meaning_connection": "词根baron=男爵，后缀-ial表'具有...性质的'，原指男爵领地的宏大风格"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "男爵的",
+        "examples": [
+          {
+            "sentence": "The baronial crest was embroidered with golden threads.",
+            "sentence_zh": "男爵纹章用金线刺绣而成。"
+          },
+          {
+            "sentence": "This baronial privilege dates back to the Magna Carta.",
+            "sentence_zh": "这项男爵特权可追溯至《大宪章》时期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "适于男爵身份的",
+        "examples": [
+          {
+            "sentence": "She hosted the banquet with baronial elegance.",
+            "sentence_zh": "她以符合男爵身份的高雅姿态主持宴会。"
+          },
+          {
+            "sentence": "The baronial hunting lodge could accommodate 50 horses.",
+            "sentence_zh": "这座适合男爵身份的狩猎小屋可容纳50匹马。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "宏大的",
+        "examples": [
+          {
+            "sentence": "The newlyweds took baronial photos at the Great Wall.",
+            "sentence_zh": "新婚夫妇在长城拍摄了气势宏大的婚纱照。"
+          },
+          {
+            "sentence": "Huawei's baronial R&D center resembles a spaceship.",
+            "sentence_zh": "华为宏大的研发中心形似宇宙飞船。"
+          }
+        ]
+      }
+    ],
+    "teach": "baronial是'凡尔赛'本赛🏰！中世纪男爵(baron)的城堡必须宏伟到让农民腿软😨，现代用来说土豪别墅/企业总部。说'豪宅'别用big house，要说baronial mansion（凡尔赛宫本宫）。搭配baronial hall（殿堂级大厅）和baronial feast（满汉全席式宴会）。记住：当你说'这会议室太baronial'，等于吐槽甲方爸爸在烧钱💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白肉腻哦'→男爵顿顿吃豪华白肉都腻了",
+        "易混词：barren（荒芜的） vs baronial（豪华的）→少个字母差个阶层",
+        "记忆链：baron（男爵）→baronial→bar（酒吧）+on（开）→男爵开的酒吧必然豪华"
+      ]
+    }
+  },
+  {
+    "word": "barony",
+    "etymology": {
+      "breakdown": [
+        "baron",
+        "y"
+      ],
+      "meaning_connection": "词根baron源自古法语指'男爵'，后缀-y表示'性质/领地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "男爵领地",
+        "examples": [
+          {
+            "sentence": "The barony included three villages and a vineyard that produced terrible wine.",
+            "sentence_zh": "这块男爵领地包含三个村庄和一座产出劣质葡萄酒的葡萄园。"
+          },
+          {
+            "sentence": "They turned the ancient barony into a themed hotel where guests can play lords for a weekend.",
+            "sentence_zh": "他们把古老的男爵领地改造成主题酒店，客人可以体验当周末领主。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "男爵爵位",
+        "examples": [
+          {
+            "sentence": "He inherited the barony along with his father's collection of ugly medieval portraits.",
+            "sentence_zh": "他继承了男爵爵位以及父亲那批难看的中世纪肖像画收藏。"
+          },
+          {
+            "sentence": "Buying a barony online became a bizarre trend among tech billionaires last year.",
+            "sentence_zh": "去年科技富豪们兴起一股在网上购买男爵爵位的怪异风潮。"
+          }
+        ]
+      }
+    ],
+    "teach": "barony是'霸道总裁'的古代版🏰！想象《权力的游戏》里小指头说'I own a barony'（我有块地）时的嘚瑟表情😏。现代版'领地'可以是你的王者荣耀段位🎮，而'爵位'好比微博认证加V💎。要吹牛可以说'My barony is the last parking spot in the CBD'（我的领地是CBD最后一个停车位）🚗",
+    "recite": {
+      "tips": [
+        "谐音梗：'败荣誉'→败家子继承爵位搞砸家族荣誉",
+        "易混词对比：barony（领地） vs balcony（阳台）→领主在barony收租，你在balcony收衣服"
+      ]
+    }
   }
 ]

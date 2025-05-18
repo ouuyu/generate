@@ -14839,5 +14839,347 @@
         "易混词对比：satyr（色狼） vs satire（讽刺文学）→后者多支笔✒️"
       ]
     }
+  },
+  {
+    "word": "sauce",
+    "etymology": {
+      "breakdown": [
+        "sau",
+        "ce"
+      ],
+      "meaning_connection": "来自古法语'sauce'（调味汁），源自拉丁语'salsa'（腌制品），词根sau/sal=盐，-ce为后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "酱油",
+        "examples": [
+          {
+            "sentence": "This secret-recipe soy sauce has been brewed for 365 days.",
+            "sentence_zh": "这款秘制酱油已经酿造了365天。"
+          },
+          {
+            "sentence": "She accidentally spilled dark sauce on her white qipao.",
+            "sentence_zh": "她不小心把酱油洒在白色旗袍上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "调味汁",
+        "examples": [
+          {
+            "sentence": "The chef's special chili sauce makes hot pot 300% better.",
+            "sentence_zh": "主厨特制辣椒酱让火锅美味度提升300%。"
+          },
+          {
+            "sentence": "Dumplings without dipping sauce are like phones without WiFi.",
+            "sentence_zh": "没有蘸料的饺子就像没有WiFi的手机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "酱",
+        "examples": [
+          {
+            "sentence": "This strawberry sauce turns milk into pink galaxy.",
+            "sentence_zh": "这款草莓酱能把牛奶变成粉色银河。"
+          },
+          {
+            "sentence": "The secret to good jianbing is the fermented bean sauce.",
+            "sentence_zh": "好煎饼果子的秘诀在于甜面酱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给...调味",
+        "examples": [
+          {
+            "sentence": "She sauced the noodles with three kinds of chili oils.",
+            "sentence_zh": "她用三种辣椒油给面条调味。"
+          },
+          {
+            "sentence": "Grandma sauced the mooncakes with osmanthus honey.",
+            "sentence_zh": "奶奶用桂花蜜给月饼调味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使增加趣味",
+        "examples": [
+          {
+            "sentence": "He sauced his speech with emoji references.",
+            "sentence_zh": "他用表情包梗让演讲更有趣。"
+          },
+          {
+            "sentence": "The blogger sauced her travel vlog with dinosaur effects.",
+            "sentence_zh": "博主用恐龙特效给旅行视频增加趣味。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on the sauce",
+        "meaning": "酗酒",
+        "examples": [
+          {
+            "sentence": "Ever since he got promoted, he's been on the sauce daily.",
+            "sentence_zh": "自从升职后他天天酗酒。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sauce up",
+        "meaning": "增强效果",
+        "examples": [
+          {
+            "sentence": "Let's sauce up the presentation with AR effects.",
+            "sentence_zh": "咱们用AR特效给演示文稿增色吧。"
+          }
+        ]
+      }
+    ],
+    "teach": "sauce就是舌尖上的魔法棒🧙：酱油(soy sauce)源自中国周朝🏯，而番茄酱(ketchup)其实来自闽南语'鲑汁'🐟！说'重口味'叫heavy sauce，'没味道'是weak sauce🍜。记住：人生就像火锅——你的sauce决定你的flavor！🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗦食'→嗦粉必须配sauce",
+        "易混词：source（源头）vs sauce（酱汁）→ 黄河source的水用来酿sauce",
+        "记忆法：所有sauce都含'sau'，就像所有酱都含'salt'"
+      ]
+    }
+  },
+  {
+    "word": "saucepan",
+    "etymology": {
+      "breakdown": [
+        "sauce",
+        "pan"
+      ],
+      "meaning_connection": "sauce（酱汁）+ pan（平底锅）→ 专门用于制作酱汁的锅"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "(长柄有盖)深平底锅",
+        "examples": [
+          {
+            "sentence": "She stirred the tomato sauce in a shiny stainless steel saucepan.",
+            "sentence_zh": "她在闪亮的不锈钢深平底锅中搅拌番茄酱。"
+          },
+          {
+            "sentence": "The chef grabbed the saucepan handle with a checkered towel.",
+            "sentence_zh": "厨师用格子毛巾抓住深平底锅手柄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "炖锅",
+        "examples": [
+          {
+            "sentence": "Grandma's secret herbal soup always simmers in that copper saucepan.",
+            "sentence_zh": "奶奶的秘制草药汤总是在那个铜炖锅里慢炖。"
+          },
+          {
+            "sentence": "This enamel saucepan is perfect for making hot pot broth at home.",
+            "sentence_zh": "这个珐琅炖锅非常适合在家煮火锅汤底。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "non-stick saucepan",
+        "meaning": "不粘炖锅",
+        "examples": [
+          {
+            "sentence": "My non-stick saucepan makes scrambling eggs a breeze.",
+            "sentence_zh": "我的不粘炖锅让炒蛋变得轻而易举。"
+          }
+        ]
+      }
+    ],
+    "teach": "saucepan其实是厨房里的'酱缸将军'👨‍🍳！中世纪欧洲贵族专门用银制saucepan调酱显摆（引发过铅中毒事件⚰️）。视觉记忆：手柄像长颈鹿脖子🦒+锅盖像蒙古包⛺。实用搭配：'simmer in saucepan'(文火炖)、'scorch saucepan'(烧糊锅)；吐槽'黑暗料理'叫culinary disaster🍳💥。记住：没有saucepan的厨房就像没有BGM的抖音！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗦粉'→用saucepan煮螺蛳粉",
+        "易混词：pot（无柄锅）vs saucepan（带柄锅）",
+        "记忆tip：想象字母S形锅柄+auce（发音同'澳丝'）→澳洲丝滑酱汁锅"
+      ]
+    }
+  },
+  {
+    "word": "saucer",
+    "etymology": {
+      "breakdown": [
+        "sauce",
+        "er"
+      ],
+      "meaning_connection": "源自中古法语'saussier'（装酱汁的容器），后缀-er表工具→最初指盛酱汁的小碟，后演变为茶托"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "茶碟",
+        "examples": [
+          {
+            "sentence": "The barista placed a jasmine tea on the saucer with a lotus pattern.",
+            "sentence_zh": "咖啡师将茉莉花茶放在绘有莲花的茶碟上。"
+          },
+          {
+            "sentence": "My grandma's antique saucer collection includes pieces from the Qing Dynasty.",
+            "sentence_zh": "奶奶收藏的古董茶碟中有清代物件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "茶托",
+        "examples": [
+          {
+            "sentence": "The flying saucer-shaped tea tray became a viral product on Douyin.",
+            "sentence_zh": "这个飞碟造型的茶托在抖音上成了爆款商品。"
+          },
+          {
+            "sentence": "In traditional tea ceremonies, the saucer should never make noise when lifted.",
+            "sentence_zh": "传统茶道中，端起茶托时不应发出声响。"
+          }
+        ]
+      }
+    ],
+    "teach": "saucer其实是'酱碟'变身的🍽️：中世纪法国贵族用银质saussier盛酱汁，后来英国人用它接茶渍（难怪叫tea saucer）。现代'飞碟'叫flying saucer就像倒扣的茶托🛸。搭配：saucer eyes（动漫式大眼睛👀），saucer lip（奶茶杯防漏嘴）。吐槽咖啡溢出来可以说'This isn't a saucer, it's a swimming pool!'🏊",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗦瑟'→嗦粉时瑟缩着怕弄脏茶碟",
+        "易混词：sauce（酱汁）是saucer的'妈妈'",
+        "记忆法：想象星巴克logo美人鱼端着saucer喝咖啡"
+      ]
+    }
+  },
+  {
+    "word": "saucy",
+    "etymology": {
+      "breakdown": [
+        "sauce",
+        "y"
+      ],
+      "meaning_connection": "源自sauce（酱汁），后缀-y表示性质→像酱汁一样'浓烈泼辣'的个性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "莽撞的",
+        "examples": [
+          {
+            "sentence": "The saucy intern directly corrected the CEO's PowerPoint typos.",
+            "sentence_zh": "那个莽撞的实习生直接纠正了CEO的PPT错字。"
+          },
+          {
+            "sentence": "Her saucy reply to the teacher went viral on Douyin.",
+            "sentence_zh": "她对老师莽撞的回复在抖音上疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "活泼的",
+        "examples": [
+          {
+            "sentence": "The saucy pandas at Chengdu Base always steal visitors' hats.",
+            "sentence_zh": "成都基地那些活泼的熊猫总偷游客的帽子。"
+          },
+          {
+            "sentence": "His saucy wink made the live-stream audience scream.",
+            "sentence_zh": "他活泼的眨眼让直播间观众尖叫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "漂亮的",
+        "examples": [
+          {
+            "sentence": "She wore a saucy cheongsam to the Spring Festival gala.",
+            "sentence_zh": "她穿了件漂亮的旗袍参加春晚。"
+          },
+          {
+            "sentence": "The saucy new sneakers sold out in 3 seconds on Tmall.",
+            "sentence_zh": "那双漂亮的潮鞋在天猫3秒售罄。"
+          }
+        ]
+      }
+    ],
+    "teach": "saucy是'酱油系'人格🍶！既像四川火锅般泼辣（莽撞），又像气泡水般欢腾（活泼），还能形容糖醋排骨的诱人色泽（漂亮）💃。说人'没大没小'叫saucy as a monkey🐵，夸穿搭时髦可以说saucy outfit。记住：老干妈般的性格才配叫truly saucy！🔥",
+    "recite": {
+      "tips": [
+        "谐音梗：'扫席'→扫酒席的活泼服务员",
+        "易混词：naughty（淘气）不含'漂亮'义",
+        "联想：sauce（酱汁）+y→酱料般浓烈的个性"
+      ]
+    }
+  },
+  {
+    "word": "saudi",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "直接源自阿拉伯语'السعودية'（as-Su‘ūdiyya），指沙特王室家族（Al Saud）统治的领土"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "沙特阿拉伯的",
+        "examples": [
+          {
+            "sentence": "The Saudi football team stunned Argentina in 2022 World Cup.",
+            "sentence_zh": "沙特足球队在2022世界杯爆冷击败阿根廷队。"
+          },
+          {
+            "sentence": "Saudi dates are considered the best in the Middle East.",
+            "sentence_zh": "沙特椰枣被公认为中东最佳。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "沙特人的",
+        "examples": [
+          {
+            "sentence": "My Saudi roommate taught me how to wear ghutra properly.",
+            "sentence_zh": "我的沙特室友教我正确佩戴阿拉伯头巾。"
+          },
+          {
+            "sentence": "Saudi students often bring camel milk chocolate as gifts.",
+            "sentence_zh": "沙特学生常带骆驼奶巧克力当礼物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Saudi Arabia",
+        "meaning": "沙特阿拉伯",
+        "examples": [
+          {
+            "sentence": "The Red Sea Project is transforming Saudi Arabia's tourism.",
+            "sentence_zh": "红海项目正在改变沙特阿拉伯的旅游业。"
+          }
+        ]
+      }
+    ],
+    "teach": "沙特就像沙漠里的金矿💎！记得他们用石油美元建垂直城市🛢️（'Saudi Vision 2030'），土豪到用镀金飞机接世界杯球员✈️。要说'土豪'不妨学阿拉伯语'شايف خير'(shaif khair)，字面意思是'你看到钱了吗'💰？记住：在沙特，咖啡里要加豆蔻才地道☕！",
+    "recite": {
+      "tips": [
+        "谐音梗：'扫地的'→石油土豪也亲自扫地？",
+        "对比记忆：Saudi vs. Sudan（苏丹）"
+      ]
+    }
   }
 ]
