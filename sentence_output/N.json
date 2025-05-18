@@ -5331,5 +5331,319 @@
         "对比：immigration(移入) vs naturalization(融入)"
       ]
     }
+  },
+  {
+    "word": "naturalize",
+    "etymology": {
+      "breakdown": [
+        "nature",
+        "al",
+        "ize"
+      ],
+      "meaning_connection": "词根nature=自然，-al表形容词，-ize表动词化→'使自然化'，引申为'归化'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "授予国籍",
+        "examples": [
+          {
+            "sentence": "After marrying a Frenchman, she was naturalized as a citizen of France.",
+            "sentence_zh": "嫁给法国人后，她被授予法国国籍。"
+          },
+          {
+            "sentence": "The athlete was naturalized to compete for his adopted country.",
+            "sentence_zh": "这名运动员被归化以代表他的入籍国家参赛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "移植（动植物）",
+        "examples": [
+          {
+            "sentence": "The giant pandas naturalized in Mexico have adapted well to the local bamboo.",
+            "sentence_zh": "在墨西哥被移养的大熊猫已适应了当地的竹子。"
+          },
+          {
+            "sentence": "This tropical plant can't be naturalized in cold climates.",
+            "sentence_zh": "这种热带植物无法在寒冷气候中移栽成活。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "采纳（外来文化）",
+        "examples": [
+          {
+            "sentence": "Chinese restaurants have naturalized pizza by creating durian flavor.",
+            "sentence_zh": "中餐馆通过发明榴莲口味使比萨本土化。"
+          },
+          {
+            "sentence": "The naturalized version of Halloween now includes giving red envelopes.",
+            "sentence_zh": "本土化的万圣节现在包含发红包的环节。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "naturalize as",
+        "meaning": "归化为...",
+        "examples": [
+          {
+            "sentence": "He naturalized as a Canadian after living there for 10 years.",
+            "sentence_zh": "在加拿大居住十年后，他归化成为加拿大人。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "naturalized citizen",
+        "meaning": "归化公民",
+        "examples": [
+          {
+            "sentence": "Naturalized citizens enjoy the same rights as native-born ones.",
+            "sentence_zh": "归化公民享有与本土出生公民同等的权利。"
+          }
+        ]
+      }
+    ],
+    "teach": "naturalize就像文化火锅🍲：既能'涮'出新国籍（get naturalized），又能'煮'化外来物种（naturalize plants），还能'炖'出混搭文化（naturalized traditions）。说'移民'别总用immigrate，入籍成功要说I got naturalized🎉，而'文化杂交'叫cultural naturalization🌎。记住：归化不是消失，是给原味加辣🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拿铁来热'→拿铁来(natura)加热(lize)成星巴克本土化饮品",
+        "易混词对比：native（天生的）vs naturalized（后天归化的）",
+        "记忆口诀：自然(nature)化(-ize)三件套：换护照🌍、移植物🌱、改菜单🍜"
+      ]
+    }
+  },
+  {
+    "word": "naturalized",
+    "etymology": {
+      "breakdown": [
+        "nature",
+        "al",
+        "ize",
+        "ed"
+      ],
+      "meaning_connection": "词根nature=自然，-al表性质，-ize表使动，-ed表过去式/分词→使具有自然属性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "自然化的",
+        "examples": [
+          {
+            "sentence": "The naturalized garden design blends perfectly with the mountain landscape.",
+            "sentence_zh": "自然化的花园设计与山景完美融合。"
+          },
+          {
+            "sentence": "Her naturalized accent makes it hard to tell she's originally from Paris.",
+            "sentence_zh": "她自然化的口音让人难以察觉她原籍巴黎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "归化的",
+        "examples": [
+          {
+            "sentence": "As a naturalized citizen, he can vote in the elections.",
+            "sentence_zh": "作为归化公民，他可以在选举中投票。"
+          },
+          {
+            "sentence": "The panda has become a naturalized resident of Mexico City Zoo.",
+            "sentence_zh": "这只熊猫已成为墨西哥城动物园的归化居民。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "接收（外国人）入籍",
+        "examples": [
+          {
+            "sentence": "The country naturalized over 10,000 tech talents last year.",
+            "sentence_zh": "该国去年接收了超万名技术人才入籍。"
+          },
+          {
+            "sentence": "My uncle was naturalized after running a Sichuan restaurant for 8 years.",
+            "sentence_zh": "我叔叔经营川菜馆八年后被接收入籍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "将（植物等）引进异域种植",
+        "examples": [
+          {
+            "sentence": "Chili peppers were naturalized in China during the Ming Dynasty.",
+            "sentence_zh": "辣椒在明朝时期被引进中国种植。"
+          },
+          {
+            "sentence": "This rose species was naturalized from France to Yunnan.",
+            "sentence_zh": "该玫瑰品种从法国引种至云南。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "naturalized species",
+        "meaning": "归化种",
+        "examples": [
+          {
+            "sentence": "Kudzu vines are notorious naturalized species in America.",
+            "sentence_zh": "葛藤是美国著名的入侵归化种。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "become naturalized",
+        "meaning": "完成归化",
+        "examples": [
+          {
+            "sentence": "After the swans became naturalized, they started nesting by the CBD skyscrapers.",
+            "sentence_zh": "天鹅完成归化后，开始在CBD摩天大楼旁筑巢。"
+          }
+        ]
+      }
+    ],
+    "teach": "naturalized就像文化火锅🍲！当植物'归化'时，就像辣椒从美洲跳进川菜锅🌶️；人'入籍'时，像饺子蘸了本地醋🥟（get naturalized）；'自然化'发音像北京人儿化音🗣️。说'新移民'可用fresh-off-the-boat（刚下船），植物入侵叫go native🌿。记住：被naturalized的物种都可能成为地头蛇！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拿车来入籍'→富豪靠买车入籍(naturalized)",
+        "对比记忆：native（原生）vs naturalized（归化）",
+        "联想：-ize结尾动词常表示'使...化'"
+      ]
+    }
+  },
+  {
+    "word": "naturally",
+    "etymology": {
+      "breakdown": [
+        "nature",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根nature=自然，-al表形容词后缀，-ly表副词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "自然地",
+        "examples": [
+          {
+            "sentence": "The panda cub naturally climbed onto its mother's back.",
+            "sentence_zh": "熊猫幼崽自然地爬上了妈妈的背部。"
+          },
+          {
+            "sentence": "She speaks English naturally after living in London for 10 years.",
+            "sentence_zh": "在伦敦生活10年后，她说英语非常自然。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "以自然力",
+        "examples": [
+          {
+            "sentence": "The Great Wall was weathered naturally over centuries.",
+            "sentence_zh": "长城经过数个世纪的自然风化。"
+          },
+          {
+            "sentence": "These caves were formed naturally by underground rivers.",
+            "sentence_zh": "这些洞穴由地下河自然形成。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "天生地",
+        "examples": [
+          {
+            "sentence": "Monkeys are naturally good at climbing trees.",
+            "sentence_zh": "猴子天生擅长爬树。"
+          },
+          {
+            "sentence": "She's naturally gifted in playing the guzheng.",
+            "sentence_zh": "她天生有弹古筝的天赋。"
+          }
+        ]
+      }
+    ],
+    "teach": "naturally就像大自然母亲🌿的魔法棒！当熊猫宝宝滚下坡(naturally)，当张家界石柱(naturally formed)🗿，当云南人天生会唱山歌🎤——这都是nature的杰作。说'天生丽质'用born naturally beautiful，'顺其自然'是let it happen naturally🦋。记住：自然的就是最贵的！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拿球来踢'→足球明星自然(naturally)的接球动作",
+        "易混词对比：naturally vs normally（前者强调天生/自然力，后者强调常规）",
+        "记忆口诀：nature自然-ly变副词，三步变形记心里"
+      ]
+    }
+  },
+  {
+    "word": "naturalness",
+    "etymology": {
+      "breakdown": [
+        "nature",
+        "al",
+        "ness"
+      ],
+      "meaning_connection": "词根nature=自然，-al表形容词后缀，-ness表名词性质→从自然属性引申出'天然状态'与'理所当然'两层含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "自然（属性）",
+        "examples": [
+          {
+            "sentence": "The naturalness of her acting makes audiences forget she's performing.",
+            "sentence_zh": "她表演的自然度让观众忘记是在看戏。"
+          },
+          {
+            "sentence": "Japanese gardens emphasize the naturalness of stone arrangements.",
+            "sentence_zh": "日式庭院注重石头摆放的自然感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "当然（合理）",
+        "examples": [
+          {
+            "sentence": "He accepted the award with the naturalness of breathing.",
+            "sentence_zh": "他领奖时的坦然如同呼吸般自然。"
+          },
+          {
+            "sentence": "The naturalness of pandas eating bamboo never gets old.",
+            "sentence_zh": "熊猫吃竹子的理所当然永远看不腻。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with naturalness",
+        "meaning": "自然而然地",
+        "examples": [
+          {
+            "sentence": "She switches between Mandarin and Shanghainese with naturalness.",
+            "sentence_zh": "她在普通话和上海话间切换得浑然天成。"
+          }
+        ]
+      }
+    ],
+    "teach": "naturalness是社恐的终极伪装👤！当你说'I replied with naturalness'时，其实心跳快得像5G信号塔📶（搭配：fake naturalness装自然）。地道表达'太做作'叫try-hard，反之'浑然天成'可说like second nature🌿。记住：真正的naturalness就像放屁时假装是椅子响💨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拿车了内饰'→新车内饰的自然质感",
+        "易混词：nature（自然）vs nurture（培养）",
+        "记忆法：nature+al+ness=自然到让你'耐锤'（耐得住考验）"
+      ]
+    }
   }
 ]

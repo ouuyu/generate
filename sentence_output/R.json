@@ -5215,5 +5215,294 @@
         "记忆桩：联想游戏《红色警戒》中的盟军步兵单位"
       ]
     }
+  },
+  {
+    "word": "raiding",
+    "etymology": {
+      "breakdown": [
+        "raid",
+        "ing"
+      ],
+      "meaning_connection": "古诺尔斯语rāð（骑马突袭）+进行时后缀-ing"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "对…进行突然袭击",
+        "examples": [
+          {
+            "sentence": "The meme shows cats raiding the fridge at midnight.",
+            "sentence_zh": "这个梗图展示猫咪深夜突袭冰箱的场景。"
+          },
+          {
+            "sentence": "Vikings were expert at raiding coastal villages.",
+            "sentence_zh": "维京人擅长突袭沿海村落。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "raiding party",
+        "meaning": "突击小队",
+        "examples": [
+          {
+            "sentence": "The gaming streamer organized a raiding party in World of Warcraft.",
+            "sentence_zh": "游戏主播在魔兽世界里组织了突击小队。"
+          }
+        ]
+      }
+    ],
+    "teach": "raiding就是'闪电战'⚡！现代版包括：宿舍突袭泡面柜🍜（midnight snack raiding），双十一突袭购物车🛒（coupon raiding）。游戏术语'开团'叫raid本，办公室抢零食是desk raiding。记住：所有突然行动都能用raid，比如'突袭检查'是spot check raid！💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷丁'→雷电般(raid)的突袭",
+        "易混词对比：invade指大规模入侵，raid强调快速突袭",
+        "联想记忆：Raid杀虫剂💀的闪电击杀效果"
+      ]
+    }
+  },
+  {
+    "word": "rail",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语reille（横木），与拉丁语regula（直尺）相关，原指笔直的杆状物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "横杆",
+        "examples": [
+          {
+            "sentence": "The monkey bars are made of stainless steel rails.",
+            "sentence_zh": "攀爬架由不锈钢横杆组成。"
+          },
+          {
+            "sentence": "He knocked over the towel rail in the bathroom.",
+            "sentence_zh": "他撞倒了浴室的毛巾杆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "围栏",
+        "examples": [
+          {
+            "sentence": "The panda enclosure has bamboo-themed rails.",
+            "sentence_zh": "熊猫馆的围栏采用竹子主题设计。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "铁轨",
+        "examples": [
+          {
+            "sentence": "High-speed rail tracks require precision welding.",
+            "sentence_zh": "高铁轨道需要精密焊接。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给...铺铁轨",
+        "examples": [
+          {
+            "sentence": "Workers are railing the new metro line 24/7.",
+            "sentence_zh": "工人们正在24小时不间断地铺设新地铁线轨道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "责骂",
+        "examples": [
+          {
+            "sentence": "The coach railed at the team for missing practice.",
+            "sentence_zh": "教练因队员缺席训练而大发雷霆。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "off the rails",
+        "meaning": "失控",
+        "examples": [
+          {
+            "sentence": "The meeting went completely off the rails when the wifi crashed.",
+            "sentence_zh": "当网络崩溃时，会议彻底失控了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rail against",
+        "meaning": "激烈批评",
+        "examples": [
+          {
+            "sentence": "He kept railing against the new company policy during lunch.",
+            "sentence_zh": "午餐时他不断抨击公司新政策。"
+          }
+        ]
+      }
+    ],
+    "teach": "rail这词就像过山车🎢！当它指'铁轨'时，能送你到远方（bullet train rails）；变成动词就暴躁得像地铁早高峰🚇（rail at colleagues）。铁轨失控叫go off the rails，就像你熬夜加班后的精神状态😵‍💫。记住：物理轨道用rail，情绪脱轨也用rail！",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐哦'→尖锐(rail)的金属杆",
+        "易混词：trail（小径）vs rail（轨道）"
+      ]
+    }
+  },
+  {
+    "word": "railhead",
+    "etymology": {
+      "breakdown": [
+        "rail",
+        "head"
+      ],
+      "meaning_connection": "rail指'铁轨'，head指'头部'→铁轨的头部即终点/起点"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "铁路末站",
+        "examples": [
+          {
+            "sentence": "The last bubble tea shop before the railhead sells train-themed cups.",
+            "sentence_zh": "铁路末站前的最后一家奶茶店售卖火车主题杯子。"
+          },
+          {
+            "sentence": "Mongolian herders trade wool at the railhead every month.",
+            "sentence_zh": "蒙古牧民每月在铁路末站交易羊毛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "铁路线的终点",
+        "examples": [
+          {
+            "sentence": "The railhead in Tibet has a giant 'End of the World' selfie board.",
+            "sentence_zh": "西藏的铁路线终点设有巨型'世界尽头'自拍牌。"
+          },
+          {
+            "sentence": "Our high-speed rail adventure stops at the railhead near the Gobi Desert.",
+            "sentence_zh": "我们的高铁之旅停在戈壁滩附近的铁路线终点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "铁路线的起点",
+        "examples": [
+          {
+            "sentence": "The first train from Chengdu railhead carries 3 tons of hotpot ingredients.",
+            "sentence_zh": "从成都铁路线起点发出的首班列车载有3吨火锅食材。"
+          },
+          {
+            "sentence": "Tourists take 'start-of-journey' photos at the Qinghai-Tibet railhead.",
+            "sentence_zh": "游客们在青藏铁路起点拍摄'旅程开始'打卡照。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "reach the railhead",
+        "meaning": "抵达铁路终点",
+        "examples": [
+          {
+            "sentence": "After reaching the railhead, we switched to yak transportation.",
+            "sentence_zh": "抵达铁路终点后，我们换乘牦牛运输。"
+          }
+        ]
+      }
+    ],
+    "teach": "railhead是铁轨的'双头蛇'🐍：既是起点又是终点！就像火锅店的鸳鸯锅🥘，同一口锅既是开吃起点也是光盘终点。说'最后一站'可用the end of the line（字面和railhead同义），'起点站'叫terminus就像游戏里的复活点🎮。记住：所有railhead都藏着泡面香味和离别故事🚄！",
+    "recite": {
+      "tips": [
+        "视觉联想：rail+head→火车头'顶'着铁轨跑",
+        "易混词对比：railroad（铁路系统） vs railhead（端点）"
+      ]
+    }
+  },
+  {
+    "word": "railing",
+    "etymology": {
+      "breakdown": [
+        "rail",
+        "ing"
+      ],
+      "meaning_connection": "rail（横杆）+ 后缀ing（表物体）→ 原指由横杆组成的围栏结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "扶手",
+        "examples": [
+          {
+            "sentence": "The golden railing in the Forbidden City shines under sunset.",
+            "sentence_zh": "故宫的金色扶手在夕阳下闪闪发光。"
+          },
+          {
+            "sentence": "Hold the railing when climbing the Great Wall steps.",
+            "sentence_zh": "爬长城台阶时要握紧扶手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "栏杆",
+        "examples": [
+          {
+            "sentence": "Pandas often lean against the railings in Chengdu Research Base.",
+            "sentence_zh": "熊猫经常倚靠在成都基地的栏杆上。"
+          },
+          {
+            "sentence": "The lotus pond is surrounded by marble railings.",
+            "sentence_zh": "荷花池周围环绕着大理石栏杆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抱怨",
+        "examples": [
+          {
+            "sentence": "His constant railings about spicy food amused Sichuan locals.",
+            "sentence_zh": "他对辣食的持续抱怨逗乐了四川本地人。"
+          },
+          {
+            "sentence": "The teacher's railings against smartphone use became legendary.",
+            "sentence_zh": "老师反对使用智能手机的抱怨成了传奇。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "safety railing",
+        "meaning": "安全护栏",
+        "examples": [
+          {
+            "sentence": "The safety railing saved many clumsy tourists at Huangshan.",
+            "sentence_zh": "黄山的安全护栏救过许多笨手笨脚的游客。"
+          }
+        ]
+      }
+    ],
+    "teach": "railing是个'精分'单词🤪！作为栏杆时，它像长城上的垛口🧱（safety railing）；作为抱怨时，又像大妈在菜市场砍价🗣️（endless railings）。视觉记忆：把字母'l'看成栏杆立柱，'a'是抱怨时张大的嘴👄。搭配'leaning on railings'（倚栏远眺）和'launch into railings'（开始抱怨）就像硬币两面🪙",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐铃'→锐利的铃铛挂在栏杆上叮当响",
+        "易混词：vs. sailing（航行）→栏杆(rail) vs. 帆船(sail)"
+      ]
+    }
   }
 ]

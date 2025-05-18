@@ -5103,5 +5103,281 @@
         "易混词：jam（果酱）/ham（火腿）→早餐CP"
       ]
     }
+  },
+  {
+    "word": "hamburger",
+    "etymology": {
+      "breakdown": [
+        "Hamburg",
+        "er"
+      ],
+      "meaning_connection": "源自德国汉堡市(Hamburg)，-er表'来自...的事物'。最初指'汉堡式牛排'，后演变为夹在面包中的肉饼。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "汉堡包（现代快餐）",
+        "examples": [
+          {
+            "sentence": "KFC's new plant-based hamburger tastes suspiciously like real meat.",
+            "sentence_zh": "肯德基新款植物基汉堡尝起来可疑地像真肉。"
+          },
+          {
+            "sentence": "She customized her hamburger with durian sauce and pickled ginger.",
+            "sentence_zh": "她用榴莲酱和腌姜定制了自己的汉堡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "汉堡牛排（纯牛肉饼）",
+        "examples": [
+          {
+            "sentence": "The chef shaped the premium wagyu beef into thick hamburgers.",
+            "sentence_zh": "厨师将顶级和牛捏成厚实的汉堡牛排。"
+          },
+          {
+            "sentence": "In 19th-century America, hamburger steak was considered working-class food.",
+            "sentence_zh": "19世纪的美国，汉堡牛排被视为工人阶级食物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "德国汉堡港（地理名称）",
+        "examples": [
+          {
+            "sentence": "The Hamburg hamburger has nothing to do with the port of Hamburg.",
+            "sentence_zh": "汉堡包与汉堡港其实毫无关系。"
+          },
+          {
+            "sentence": "Sailors from Hamburg brought the recipe to America in the 1800s.",
+            "sentence_zh": "19世纪汉堡港的水手将食谱带到了美国。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make hamburger out of",
+        "meaning": "彻底击败（俚语）",
+        "examples": [
+          {
+            "sentence": "The esports team made hamburger out of their opponents.",
+            "sentence_zh": "这支电竞队伍把对手打得落花流水。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hamburger helper",
+        "meaning": "汉堡辅助食材（品牌名）",
+        "examples": [
+          {
+            "sentence": "College students love hamburger helper for its affordability.",
+            "sentence_zh": "大学生因其价格实惠而喜爱汉堡辅助食材。"
+          }
+        ]
+      }
+    ],
+    "teach": "hamburger其实是地理误会🌍！德国汉堡港的水手带去的'汉堡式牛排'被美国人夹进面包🍞，就像肉夹馍遇上了西方馒头。要说'难吃的汉堡'用地道表达是mystery meat（谜之肉），'豪华汉堡'叫gourmet burger就像给肉饼穿西装🤵。记住：每个hamburger都在演绎'从港口到快餐'的逆袭故事！",
+    "recite": {
+      "tips": [
+        "谐音梗：'汉饱嗝'→吃完汉堡打饱嗝",
+        "易混词：burger vs. sandwich（后者泛指所有夹心面包）",
+        "记忆法：Ham(火腿)+burger→但其实传统汉堡不用火腿肉"
+      ]
+    }
+  },
+  {
+    "word": "hamlet",
+    "etymology": {
+      "breakdown": [
+        "ham",
+        "let"
+      ],
+      "meaning_connection": "词根ham=家园（同home），后缀-let表'小'→字面意'小家园'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小村",
+        "examples": [
+          {
+            "sentence": "The painter set up his easel in a picturesque hamlet near Suzhou.",
+            "sentence_zh": "画家在苏州附近一个风景如画的小村支起画架。"
+          },
+          {
+            "sentence": "Every hamlet in Guizhou has its own secret recipe for sour fish soup.",
+            "sentence_zh": "贵州每个小村庄都有独门酸汤鱼配方。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "部落",
+        "examples": [
+          {
+            "sentence": "The Miao hamlet preserved centuries-old silver craftsmanship.",
+            "sentence_zh": "这个苗族部落保存着数百年的银饰工艺。"
+          },
+          {
+            "sentence": "We stayed overnight in a Tibetan hamlet where yaks freely roamed.",
+            "sentence_zh": "我们在牦牛随意漫步的藏族部落住了一晚。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sleepy hamlet",
+        "meaning": "宁静的小村落",
+        "examples": [
+          {
+            "sentence": "The once sleepy hamlet now bustles with tourists taking selfies.",
+            "sentence_zh": "曾经宁静的小村现在挤满了拍自拍的游客。"
+          }
+        ]
+      }
+    ],
+    "teach": "hamlet是'汉堡缩小版'🍔→把家乡(home)切成-let小份就成了小村落🏡。说'穷乡僻壤'用one-horse town（只有一匹马的小镇），形容'世外桃源'可用hidden hamlet像《桃花源记》里的秘境🌸。记住：莎士比亚《哈姆雷特》其实是个'小村庄王子'的悲剧🎭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'还沒特'→还沒特别开发的小村",
+        "易混词：village（规模＞hamlet）vs. hamlet（＜10户人家）"
+      ]
+    }
+  },
+  {
+    "word": "hammer",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'hamor'，与古北欧语'hamarr'（岩石/锤子）同源，暗示早期锤子可能用石头制成"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "锤子",
+        "examples": [
+          {
+            "sentence": "The IKEA assembly manual requires a hammer and infinite patience.",
+            "sentence_zh": "宜家组装说明书需要锤子和无限的耐心。"
+          },
+          {
+            "sentence": "Thor's Mjolnir is the most famous hammer in mythology.",
+            "sentence_zh": "雷神之锤是神话中最著名的锤子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "锤打",
+        "examples": [
+          {
+            "sentence": "He hammered the golden nail for good luck during Spring Festival.",
+            "sentence_zh": "他在春节时锤打金钉以求好运。"
+          },
+          {
+            "sentence": "Street vendors hammer sugar cubes into dinosaur shapes.",
+            "sentence_zh": "街头小贩把糖块锤打成恐龙形状。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "连续锤打",
+        "examples": [
+          {
+            "sentence": "The neighbor kept hammering until 3AM renovating his apartment.",
+            "sentence_zh": "邻居装修公寓持续锤打到凌晨三点。"
+          },
+          {
+            "sentence": "Raindrops hammered on the tin roof like drum solos.",
+            "sentence_zh": "雨滴像鼓点独奏般连续敲打铁皮屋顶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hammer out",
+        "meaning": "敲定/解决",
+        "examples": [
+          {
+            "sentence": "Diplomats hammered out a trade deal after 72 hours of hotpot.",
+            "sentence_zh": "外交官们吃了72小时火锅后终于敲定贸易协议。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hammer home",
+        "meaning": "反复强调",
+        "examples": [
+          {
+            "sentence": "The teacher hammered home the importance of wearing masks.",
+            "sentence_zh": "老师反复强调戴口罩的重要性。"
+          }
+        ]
+      }
+    ],
+    "teach": "hammer是暴力美学代言人🔨！古希腊医生用锤子敲病人脑袋治头痛💢（最早'脑洞大开'疗法），网络梗'banhammer'指管理员封号大招💥。搭配'selling hammers to Thor'（班门弄斧），'hammer time'出自MC Hammer经典舞步🕺。说'被打得惨'用地道表达'took a hammering'，像被双十一数据锤爆的服务器🤖。记住：无论是钉钉子还是钉方案，都得靠hammer power！",
+    "recite": {
+      "tips": [
+        "谐音梗：'还骂'→被hammer砸到脚后还在骂",
+        "易混对比：hammer vs. mallet（木槌）→ 就像铁锅与砂锅的区别",
+        "记忆tip：想象微信表情里的[锤]符号砸开核桃🧠"
+      ]
+    }
+  },
+  {
+    "word": "hammered",
+    "etymology": {
+      "breakdown": [
+        "hammer",
+        "ed"
+      ],
+      "meaning_connection": "hammer=锤子，-ed表被动/完成→被锤子加工过的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "锤成的",
+        "examples": [
+          {
+            "sentence": "The hammered copper teapot shines like a Tibetan singing bowl.",
+            "sentence_zh": "这把锤制铜茶壶亮得像西藏颂钵。"
+          },
+          {
+            "sentence": "Traditional hammered dulcimers produce crisper sounds than factory-made ones.",
+            "sentence_zh": "传统手工锤制的扬琴比工厂生产的音色更清亮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "铸打成的",
+        "examples": [
+          {
+            "sentence": "The hammered bronze statue of Confucius weighs over 300kg.",
+            "sentence_zh": "这尊铸打而成的孔子铜像重达300公斤。"
+          },
+          {
+            "sentence": "Miao silver jewelry is famous for its hammered patterns.",
+            "sentence_zh": "苗族银饰以铸打花纹闻名。"
+          }
+        ]
+      }
+    ],
+    "teach": "hammered其实是'千锤百炼'⚒️！英国约克大教堂的玫瑰花窗就是用锤打金属片制成的，像在敲电子木鱼🔨。说'手工打造'可以用hand-hammered，'工业压制'叫machine-pressed。记住：被生活hammered时，你就成了艺术品🎨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'害么的'→害得用锤子么的(hammered)",
+        "易混词对比：hammered vs. forged（前者强调锤打痕迹，后者侧重锻造工艺）"
+      ]
+    }
   }
 ]

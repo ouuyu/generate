@@ -5167,5 +5167,276 @@
         "联想：王者荣耀里的'quest'就是打野发育"
       ]
     }
+  },
+  {
+    "word": "question",
+    "etymology": {
+      "breakdown": [
+        "quest",
+        "ion"
+      ],
+      "meaning_connection": "词根quest=寻求（如quest本义就是'探索'），-ion构成名词→寻求答案的对象"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "问题",
+        "examples": [
+          {
+            "sentence": "The ultimate question in Chinese households is: 'Have you eaten yet?'",
+            "sentence_zh": "中国家庭终极问题是：'吃了吗？'"
+          },
+          {
+            "sentence": "His math question stumped even the AI tutor.",
+            "sentence_zh": "他的数学题连AI家教都答不上来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "询问",
+        "examples": [
+          {
+            "sentence": "The tourist's question about spicy hotpot made locals laugh.",
+            "sentence_zh": "游客对麻辣火锅的询问让本地人忍俊不禁。"
+          },
+          {
+            "sentence": "Her questioning eyes said everything when seeing my unfinished homework.",
+            "sentence_zh": "她看到我未完成的作业时，询问的眼神说明了一切。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "询问",
+        "examples": [
+          {
+            "sentence": "The grandma questioned me about my relationship status for 20 minutes.",
+            "sentence_zh": "奶奶就我的感情状况盘问了20分钟。"
+          },
+          {
+            "sentence": "Douyin live streamers constantly question viewers: 'Any questions?'",
+            "sentence_zh": "抖音主播不断询问观众：'还有问题吗？'"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "审问",
+        "examples": [
+          {
+            "sentence": "The detective questioned the suspect while eating malatang.",
+            "sentence_zh": "侦探吃着麻辣烫审问嫌疑人。"
+          },
+          {
+            "sentence": "Customs officers questioned my suitcase full of laoganma.",
+            "sentence_zh": "海关官员审问我装满老干妈的行李箱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "怀疑",
+        "examples": [
+          {
+            "sentence": "I question the safety of eating 10 spicy crayfish at once.",
+            "sentence_zh": "我怀疑一次性吃10只辣小龙虾的安全性。"
+          },
+          {
+            "sentence": "Netizens questioned the truth behind the influencer's 'natural beauty'.",
+            "sentence_zh": "网友质疑网红'纯天然美貌'背后的真相。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "beyond question",
+        "meaning": "毋庸置疑",
+        "examples": [
+          {
+            "sentence": "The popularity of bubble tea is beyond question worldwide.",
+            "sentence_zh": "奶茶在全球的流行度毋庸置疑。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "call into question",
+        "meaning": "提出质疑",
+        "examples": [
+          {
+            "sentence": "The new policy calls into question our overtime culture.",
+            "sentence_zh": "新政策对加班文化提出了质疑。"
+          }
+        ]
+      }
+    ],
+    "teach": "question就像社交场合的辣椒面🌶️——适量引发对话（ask questions），过量就成审问（interrogate）！英语里'没问题'说no sweat（连汗都不出💦），'灵魂拷问'叫grill someone（像烧烤般翻来覆去🍢）。记住：question作动词时眼神要犀利些🔍，作名词时语气要无辜些🥺！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快死撑'→被question时硬撑",
+        "易混词：problem（待解决的问题）vs question（寻求答案的提问）",
+        "记忆tip：question mark?就是脑袋上的小卷毛❓"
+      ]
+    }
+  },
+  {
+    "word": "questionable",
+    "etymology": {
+      "breakdown": [
+        "question",
+        "able"
+      ],
+      "meaning_connection": "question（问题）+ able（能够...的）→ 能够引发问题的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可疑的",
+        "examples": [
+          {
+            "sentence": "The influencer's sudden wealth raised questionable eyebrows.",
+            "sentence_zh": "网红突然暴富引发了可疑的挑眉。"
+          },
+          {
+            "sentence": "That 'organic' label looks questionable under UV light.",
+            "sentence_zh": "那个'有机'标签在紫外线下看着很可疑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不可靠的",
+        "examples": [
+          {
+            "sentence": "His alibi was as questionable as a 3-yuan Rolex.",
+            "sentence_zh": "他的不在场证明和3块钱的劳力士一样不可靠。"
+          },
+          {
+            "sentence": "The WiFi signal becomes questionable near elevator.",
+            "sentence_zh": "电梯附近的WiFi信号变得不可靠。"
+          }
+        ]
+      }
+    ],
+    "teach": "questionable就像泡面包装上的牛肉🍜：看着诱人实则存疑！这个词自带侦探滤镜🔍，比如questionable sources（可疑消息源）比八卦公众号还不靠谱。形容'不靠谱操作'可以说dodgy practice，记住：当同事的方案让你皱眉时，它就是questionable的🤨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快审题宝'→快审题宝(questionable)的答案很可疑",
+        "易混词对比：doubtful（主观怀疑） vs questionable（客观有问题）",
+        "记忆口诀：question（问题）+ able = 能出问题的"
+      ]
+    }
+  },
+  {
+    "word": "questioned",
+    "etymology": {
+      "breakdown": [
+        "quest",
+        "ion",
+        "ed"
+      ],
+      "meaning_connection": "词根quest=寻找/询问，-ion表名词后缀，-ed表过去式→原指'被询问的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "询问（某人）",
+        "examples": [
+          {
+            "sentence": "The journalist questioned the CEO about the leaked memes.",
+            "sentence_zh": "记者就泄露的表情包事件质询首席执行官。"
+          },
+          {
+            "sentence": "My mom questioned me like a detective when I came home late.",
+            "sentence_zh": "我晚回家时妈妈像侦探一样盘问我。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "怀疑（某事）",
+        "examples": [
+          {
+            "sentence": "Netizens questioned the authenticity of the influencer's 'unfiltered' photos.",
+            "sentence_zh": "网友质疑网红所谓'未修图'照片的真实性。"
+          },
+          {
+            "sentence": "Scientists questioned the results until three labs replicated them.",
+            "sentence_zh": "科学家们质疑该结果，直到三家实验室成功复现。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be questioned about",
+        "meaning": "被问及",
+        "examples": [
+          {
+            "sentence": "The celebrity was questioned about his bizarre Weibo posts.",
+            "sentence_zh": "该明星被问及他奇怪的微博发文。"
+          }
+        ]
+      }
+    ],
+    "teach": "questioned是'灵魂拷问'💥的过去式！就像老师抽查背诵《出师表》📜（questioned students），或者丈母娘审视女婿的工资单💸（questioned his salary）。'提出质疑'说raise questions像投反对票🗳️，'毫无疑问'是beyond question就像微信已读标志✅。记住：当被questioned时，要么你有锦囊妙计🧠，要么准备社死！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快审他'→警察蜀黍快审(questioned)他",
+        "易混词对比：questioned（被询问）vs. quizzed（突击测验）"
+      ]
+    }
+  },
+  {
+    "word": "questioner",
+    "etymology": {
+      "breakdown": [
+        "quest",
+        "ion",
+        "er"
+      ],
+      "meaning_connection": "词根quest=寻找/询问，-ion表名词后缀，-er表行为者→不断提出问题的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "质问者",
+        "examples": [
+          {
+            "sentence": "The persistent questioner made the politician sweat during the press conference.",
+            "sentence_zh": "这位穷追不舍的质问者让政客在记者会上直冒冷汗。"
+          },
+          {
+            "sentence": "As a journalist, she's known for being a sharp questioner who never avoids tough topics.",
+            "sentence_zh": "身为记者，她以尖锐质问闻名，从不回避敏感话题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发问者",
+        "examples": [
+          {
+            "sentence": "The teacher smiled at the young questioner who kept raising his hand.",
+            "sentence_zh": "老师对那个不停举手的小发问者报以微笑。"
+          },
+          {
+            "sentence": "In Confucius' classroom, every student was encouraged to be an active questioner.",
+            "sentence_zh": "在孔子的课堂里，每个学生都被鼓励成为积极的发问者。"
+          }
+        ]
+      }
+    ],
+    "teach": "questioner其实是'行走的问号❓'：古罗马法庭上质问者(quaestor)要举蜡板追问真相🕵️♂️。'打破砂锅问到底'叫grill someone（像烧烤一样盘问），'好奇宝宝'叫inquisitive mind（侦探级好奇心）。记住：当questioner要有熊猫🐼的执着和柯基犬🐶的刨根问底精神！",
+    "recite": {
+      "tips": [
+        "谐音梗：'快审特'→快速审讯的特派员(questioner)",
+        "易混词：questioner(提问者) vs questionnaire(问卷)"
+      ]
+    }
   }
 ]

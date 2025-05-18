@@ -5015,5 +5015,244 @@
         "易混词对比：walnut(胡桃木)颜色较浅，mahogany偏红棕"
       ]
     }
+  },
+  {
+    "word": "maid",
+    "etymology": {
+      "breakdown": [
+        "maid"
+      ],
+      "meaning_connection": "源自古英语'mægden'，指年轻未婚女性，后衍生出'女仆'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "少女",
+        "examples": [
+          {
+            "sentence": "The painting depicts a fair-haired maid gathering flowers in the meadow.",
+            "sentence_zh": "画中描绘了一位金发少女在草地上采花。"
+          },
+          {
+            "sentence": "In medieval ballads, the brave knight often rescues the distressed maid.",
+            "sentence_zh": "中世纪民谣中，勇敢的骑士常会解救落难少女。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "未婚女子",
+        "examples": [
+          {
+            "sentence": "At the Tudor court, maids of honour were unmarried noblewomen.",
+            "sentence_zh": "都铎王朝宫廷中，荣誉侍女都是未婚的贵族女子。"
+          },
+          {
+            "sentence": "The term 'old maid' was unfortunately used to describe unmarried women in the past.",
+            "sentence_zh": "过去不幸地用'老处女'一词形容未婚女性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "女仆",
+        "examples": [
+          {
+            "sentence": "The Downton Abbey drama portrays the lives of maids in an aristocratic household.",
+            "sentence_zh": "《唐顿庄园》戏剧描绘了贵族家庭中女仆们的生活。"
+          },
+          {
+            "sentence": "She worked as a live-in maid to pay for her university tuition.",
+            "sentence_zh": "她曾做住家女佣来支付大学学费。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "maid of honor",
+        "meaning": "首席伴娘",
+        "examples": [
+          {
+            "sentence": "Her sister will be the maid of honor at the wedding next month.",
+            "sentence_zh": "她妹妹将成为下月婚礼的首席伴娘。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "chamber maid",
+        "meaning": "客房服务员",
+        "examples": [
+          {
+            "sentence": "The chamber maid left chocolate mints on our pillows every evening.",
+            "sentence_zh": "客房服务员每晚都会在我们枕边留下巧克力薄荷糖。"
+          }
+        ]
+      }
+    ],
+    "teach": "maid这个词就像时光机⏳！当指'少女'时让人想到迪士尼公主👸（fair maiden）；当指'女仆'时秒变《唐顿庄园》厨房场景🍲（housemaid）。有趣的是法语中'小姐'(mademoiselle)和maid同源！说'家政服务'别用maid而要说cleaning service更礼貌，就像不用'小二'改说'服务员'🎎。记住：现代用domestic helper比maid更得体！",
+    "recite": {
+      "tips": [
+        "谐音梗：'美的'→古代少女(made)追求美的",
+        "易混词：maid vs. made（前者是人，后者是make过去式）",
+        "记忆法：mai(卖)+d(的)→'卖身的'→旧时女仆"
+      ]
+    }
+  },
+  {
+    "word": "maiden",
+    "etymology": {
+      "breakdown": [
+        "maid",
+        "en"
+      ],
+      "meaning_connection": "古英语'mægden'（年轻女性）演变而来，后缀-en表小称→最初指'小女仆'，后演变为'未婚少女'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "年轻未婚女子",
+        "examples": [
+          {
+            "sentence": "The village maiden wore peony-patterned apron while making zongzi.",
+            "sentence_zh": "包粽子的村姑穿着牡丹花围裙。"
+          },
+          {
+            "sentence": "In Tang Dynasty poetry, maidens picking tea leaves were common subjects.",
+            "sentence_zh": "唐诗中采茶的少女是常见题材。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "处女",
+        "examples": [
+          {
+            "sentence": "The terracotta warriors were buried with the emperor's maiden sacrifices.",
+            "sentence_zh": "兵马俑与皇帝的处女人殉一同下葬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "初次的",
+        "examples": [
+          {
+            "sentence": "Zhang Yining won her maiden Olympic gold in Athens 2004.",
+            "sentence_zh": "张怡宁在2004年雅典奥运会赢得个人首金。"
+          },
+          {
+            "sentence": "The maiden flight of C919 witnessed by thousands.",
+            "sentence_zh": "数千人见证了C919的首飞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无经验的",
+        "examples": [
+          {
+            "sentence": "His maiden attempt at making jianbing ended in sticky chaos.",
+            "sentence_zh": "他第一次尝试煎饼以面糊灾难告终。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "maiden name",
+        "meaning": "娘家姓",
+        "examples": [
+          {
+            "sentence": "Many Chinese women keep their maiden names after marriage.",
+            "sentence_zh": "许多中国女性婚后保留娘家姓。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "maiden voyage",
+        "meaning": "首航",
+        "examples": [
+          {
+            "sentence": "The Titanic sank during its maiden voyage.",
+            "sentence_zh": "泰坦尼克号在首航中沉没。"
+          }
+        ]
+      }
+    ],
+    "teach": "maiden是古典感爆棚的单词👘！想象《红楼梦》里的黛玉就是典型maiden（'闺中女儿'），而现代用法像游戏《英雄联盟》里的'maiden champion'（处女英雄）🎮。说'初次尝试'可以戏称maiden try像新手司机上路🚗，而maiden work则是'处女作'像网红发第一条抖音📱。记住：从深闺少女到太空首飞，maiden承包所有'第一次'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'美的嗯'→未婚少女爱美的嗯(maiden)",
+        "易混词：virgin（更强调贞洁）/ debut（中性首秀）",
+        "记忆锚点：'待字闺中'四个字对应maiden所有含义"
+      ]
+    }
+  },
+  {
+    "word": "maidenhead",
+    "etymology": {
+      "breakdown": [
+        "maiden",
+        "head"
+      ],
+      "meaning_connection": "maiden=少女，head=状态/性质→字面意'少女的状态'，引申为生理特征"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "处女膜",
+        "examples": [
+          {
+            "sentence": "The biology textbook explains the function of maidenhead with scientific accuracy.",
+            "sentence_zh": "生物教科书用科学准确性解释处女膜的功能。"
+          },
+          {
+            "sentence": "Ancient medical texts often misunderstood the maidenhead's biological purpose.",
+            "sentence_zh": "古代医书常误解处女膜的生物学作用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "处女时期",
+        "examples": [
+          {
+            "sentence": "Shakespeare's plays frequently depict the transition from maidenhead to marriage.",
+            "sentence_zh": "莎士比亚戏剧常描绘从少女时期到婚姻的转变。"
+          },
+          {
+            "sentence": "Her grandmother often reminisced about the customs of maidenhead in 1950s Shanghai.",
+            "sentence_zh": "她祖母常追忆1950年代上海少女时期的习俗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "处女性",
+        "examples": [
+          {
+            "sentence": "The concept of maidenhead carried different cultural values across dynasties.",
+            "sentence_zh": "处女性的概念在不同朝代承载着不同的文化价值。"
+          },
+          {
+            "sentence": "Modern sociology studies how perceptions of maidenhead evolve with time.",
+            "sentence_zh": "现代社会学研究人们对处女性的认知如何随时间演变。"
+          }
+        ]
+      }
+    ],
+    "teach": "maidenhead是'少女力'三重奏💃：1) 医学解剖学上的'处女膜'像城堡吊桥🏰（保护机制）2) 作为人生阶段的'少女时期'充满青苹果味🍏 3) 文化概念的'处女性'随时代变迁如微信版本更新⏳。搭配：lose one's maidenhead（告别少女时代）/ maidenhead of dawn（黎明初现）。地道说法：'老古董思想'叫dinosaur ideas🦖",
+    "recite": {
+      "tips": [
+        "拆字记忆：maiden(少女)+head(状态)=少女的完整状态",
+        "易混词对比：maiden voyage（首航）vs maidenhead（处女身份）",
+        "文化tip：英国有小镇叫Maidenhead，当地徽章是少女头像"
+      ]
+    }
   }
 ]

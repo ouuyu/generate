@@ -5093,5 +5093,258 @@
         "联想：un+assail(攻击)+able→无法被攻击的"
       ]
     }
+  },
+  {
+    "word": "unassisted",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "assist",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表示'否定'，词根assist表示'帮助'，-ed构成形容词→字面意思是'没有受到帮助的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无助的",
+        "examples": [
+          {
+            "sentence": "The unassisted climber refused to use safety ropes on Mount Everest.",
+            "sentence_zh": "这位无辅助登山者拒绝在珠峰使用安全绳。"
+          },
+          {
+            "sentence": "She gave birth unassisted in a taxi during rush hour.",
+            "sentence_zh": "她在交通高峰期独自在出租车里分娩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "独力的",
+        "examples": [
+          {
+            "sentence": "The 8-year-old completed the 1000-piece jigsaw puzzle unassisted.",
+            "sentence_zh": "这个8岁孩子独立完成了1000片拼图。"
+          },
+          {
+            "sentence": "His unassisted goal broke the stadium's decibel record.",
+            "sentence_zh": "他独力完成的进球打破了体育场分贝记录。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "unassisted childbirth",
+        "meaning": "无辅助分娩",
+        "examples": [
+          {
+            "sentence": "The documentary explores the risks of unassisted childbirth in modern society.",
+            "sentence_zh": "这部纪录片探讨现代社会无辅助分娩的风险。"
+          }
+        ]
+      }
+    ],
+    "teach": "unassisted是'孤勇者认证章'🏅！就像独臂侠杨过练成黯然销魂掌🗡️（unassisted martial arts），或当代大学生不看攻略通关老头环🎮（unassisted gaming）。搭配：'solo成就'叫unassisted achievement，'自力更生'说go it alone。记住：当你说'I did it unassisted'时，骄傲度堪比单手解开九连环💪！",
+    "recite": {
+      "tips": [
+        "拆解记忆：un(不)+assist(帮助)+ed=没人帮的",
+        "易混词对比：unaided（更强调缺乏工具）/independent（更强调自主性）",
+        "联想：游戏里的'无伤通关'成就图标就是unassisted的最佳视觉化"
+      ]
+    }
+  },
+  {
+    "word": "unassuming",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "assum",
+        "ing"
+      ],
+      "meaning_connection": "前缀un-表否定，词根assum来自assume（假定），-ing形容词后缀→不摆架子的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "谦逊的",
+        "examples": [
+          {
+            "sentence": "The Nobel laureate remains unassuming despite his fame, still riding his old bicycle to lab.",
+            "sentence_zh": "这位诺奖得主虽名声显赫却保持谦逊，仍骑旧自行车去实验室。"
+          },
+          {
+            "sentence": "Her unassuming manner makes everyone feel comfortable at once.",
+            "sentence_zh": "她谦逊的态度立刻让所有人感到自在。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不装腔作势的",
+        "examples": [
+          {
+            "sentence": "The billionaire wears unassuming clothes like ordinary cotton T-shirts.",
+            "sentence_zh": "这位亿万富翁穿着普通的棉T恤，毫不做作。"
+          },
+          {
+            "sentence": "I love this unassuming little restaurant that serves authentic Peking duck.",
+            "sentence_zh": "我爱这家不做作的小餐馆，提供地道的北京烤鸭。"
+          }
+        ]
+      }
+    ],
+    "teach": "unassuming是'佛系人设'的最高境界🍵！词源像拒绝摆拍的明星🚫📸（un+assuming）。形容人时像大隐于市的扫地僧🧹（unassuming master），说场所时像藏在胡同里的米其林🏮（unassuming gem）。搭配：unassuming charm（低调的魅力）/ unassuming elegance（内敛的优雅）。说'装X失败'可用try-hard作对比，真大佬都像unassuming的武侠高手⚔️",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺修明'→俺修炼到天明还很谦逊",
+        "易混词对比：humble强调谦卑，unassuming侧重自然不做作",
+        "记忆tip：想象周星驰电影里穿着背心拖鞋的绝世高手"
+      ]
+    }
+  },
+  {
+    "word": "unattached",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "attach",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，词根attach=固定/连接，-ed表形容词→字面意思为'未被连接的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无关系的",
+        "examples": [
+          {
+            "sentence": "The leaked document was proved to be unattached to our company.",
+            "sentence_zh": "被泄露的文件被证实与我司无关。"
+          },
+          {
+            "sentence": "His comments are completely unattached to the main topic.",
+            "sentence_zh": "他的发言与主题完全无关。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无隶属的",
+        "examples": [
+          {
+            "sentence": "This research institute remains unattached to any university.",
+            "sentence_zh": "该研究所不隶属任何高校。"
+          },
+          {
+            "sentence": "As an unattached journalist, she reports independently.",
+            "sentence_zh": "作为无隶属机构的记者，她独立进行报道。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "独立的",
+        "examples": [
+          {
+            "sentence": "The unattached bathroom surprised the Airbnb guests.",
+            "sentence_zh": "独立卫浴让民宿客人惊喜不已。"
+          },
+          {
+            "sentence": "She runs an unattached design studio in Beijing's hutong.",
+            "sentence_zh": "她在北京胡同经营独立设计工作室。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未婚的",
+        "examples": [
+          {
+            "sentence": "The matchmaking event was for unattached professionals.",
+            "sentence_zh": "这场相亲活动面向未婚职场人士。"
+          },
+          {
+            "sentence": "At 35 and unattached, she enjoys her singlehood.",
+            "sentence_zh": "35岁未婚的她享受单身状态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未被查封的",
+        "examples": [
+          {
+            "sentence": "Only two apartments remain unattached in this building.",
+            "sentence_zh": "这栋楼仅剩两套房未被查封。"
+          },
+          {
+            "sentence": "The unattached bank account allowed him to withdraw money.",
+            "sentence_zh": "未被查封的银行账户让他得以取款。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未任命的",
+        "examples": [
+          {
+            "sentence": "Three ministerial positions are still unattached.",
+            "sentence_zh": "仍有三个部长职位未任命。"
+          },
+          {
+            "sentence": "The unattached ambassador position caused diplomatic delays.",
+            "sentence_zh": "大使职位未任命导致外交延误。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不连接的",
+        "examples": [
+          {
+            "sentence": "The unattached USB cable kept falling off the desk.",
+            "sentence_zh": "未连接的数据线不断从桌面掉落。"
+          },
+          {
+            "sentence": "These unattached train carriages will be assembled tomorrow.",
+            "sentence_zh": "这些未连接的车厢将于明日编组。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "politically unattached",
+        "meaning": "无党派人士",
+        "examples": [
+          {
+            "sentence": "As a politically unattached scholar, his views are neutral.",
+            "sentence_zh": "作为无党派学者，他的观点中立。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "remain unattached",
+        "meaning": "保持独立/单身",
+        "examples": [
+          {
+            "sentence": "The startup chose to remain unattached to tech giants.",
+            "sentence_zh": "这家初创企业选择不依附科技巨头。"
+          }
+        ]
+      }
+    ],
+    "teach": "unattached就像单身贵族💍的VIP通行证！古罗马时期'un-'前缀就像现在的'取关'按钮🚫（unfollow），而'attach'原指用钉子固定🔨。说'保持独立'可讲remain unattached like Tesla's Supercharger（特斯拉超充站独立运营⚡），'未婚状态'戏称attachment-free like WeChat before login（像未登录的微信零好友🌪️）。记住：物理断开用'unplugged'，抽象独立才用'unattached'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺太迟'→因为未婚所以被催'俺太迟结婚'",
+        "易混词：detached（分离的）侧重物理分隔，unattached侧重关系缺失"
+      ]
+    }
   }
 ]

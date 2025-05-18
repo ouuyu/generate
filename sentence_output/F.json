@@ -5525,5 +5525,332 @@
         "易混词对比：faded(褪色) vs faked(伪造)"
       ]
     }
+  },
+  {
+    "word": "falcon",
+    "etymology": {
+      "breakdown": [
+        "falcon"
+      ],
+      "meaning_connection": "源自拉丁语'falco'，指钩状的利爪，形容猛禽的捕食特征。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "隼",
+        "examples": [
+          {
+            "sentence": "The peregrine falcon dives faster than a Formula 1 car.",
+            "sentence_zh": "游隼俯冲速度比F1赛车还快。"
+          },
+          {
+            "sentence": "Ancient Chinese nobles used jade falcon pendants as status symbols.",
+            "sentence_zh": "中国古代贵族用玉隼吊坠彰显地位。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "猎鹰",
+        "examples": [
+          {
+            "sentence": "Mongolian eagle hunters train golden falcons to catch foxes.",
+            "sentence_zh": "蒙古驯鹰人训练金雕猎捕狐狸。"
+          },
+          {
+            "sentence": "In Dubai's falcon hospital, the birds have first-class medical care.",
+            "sentence_zh": "迪拜猎鹰医院为这些猛禽提供头等医疗服务。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "falconry",
+        "meaning": "驯鹰术",
+        "examples": [
+          {
+            "sentence": "UNESCO listed Central Asian falconry as intangible cultural heritage.",
+            "sentence_zh": "联合国教科文组织将中亚驯鹰术列为非物质文化遗产。"
+          }
+        ]
+      }
+    ],
+    "teach": "falcon是天空的U型锁🔒！阿拉伯土豪的猎鹰坐飞机有专属座位✈️，而《刺客信条》里艾吉奥的宠物鹰就叫'Falco'🎮。说'目光锐利'可以叫falcon-eyed（猎鹰般的眼神），'突然袭击'说swoop like a falcon（像鹰隼般俯冲）🦅。记住：这单词自带VIP气场！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛看'→佛祖看着(falcon)神雕侠侣",
+        "易混词对比：eagle体型更大，falcon更敏捷"
+      ]
+    }
+  },
+  {
+    "word": "falconer",
+    "etymology": {
+      "breakdown": [
+        "falcon",
+        "er"
+      ],
+      "meaning_connection": "falcon=猎鹰，-er表示'从事...的人'→与猎鹰共事的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "以鹰狩猎者",
+        "examples": [
+          {
+            "sentence": "The Mongolian falconer whistled to summon his golden eagle from the sky.",
+            "sentence_zh": "蒙古驯鹰人吹响口哨，召唤空中的金雕降落。"
+          },
+          {
+            "sentence": "Medieval falconers used hoods to calm their birds during royal banquets.",
+            "sentence_zh": "中世纪的驯鹰者在皇家宴会上用头罩使猎鹰保持安静。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "放鹰者",
+        "examples": [
+          {
+            "sentence": "The Kazakh falconer released his saker falcon to chase the hare across the grassland.",
+            "sentence_zh": "哈萨克放鹰者放出他的猎隼，在草原上追捕野兔。"
+          },
+          {
+            "sentence": "Modern falconers must pass rigorous tests before being allowed to fly their birds.",
+            "sentence_zh": "现代放鹰者必须通过严格考核才能放飞猎鹰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "养鹰者",
+        "examples": [
+          {
+            "sentence": "The emperor's chief falconer bred peregrine falcons for generations.",
+            "sentence_zh": "御用养鹰人世代培育游隼。"
+          },
+          {
+            "sentence": "Qatari falconers build air-conditioned aviaries for their prized birds.",
+            "sentence_zh": "卡塔尔养鹰者为珍贵猎鹰建造带空调的鹰舍。"
+          }
+        ]
+      }
+    ],
+    "teach": "falconer是天空的DJ🎧！中世纪贵族把驯鹰当作'空中特斯拉'🏹，阿拉伯土豪的猎鹰有专属护照📘（真实新闻！）。养鹰人必备行头：皮手套（防利爪）、鹰铃（GPS前身）🔔。说'专业驯鹰'用fly falconry，'菜鸟驯鹰师'叫novice falconer就像刚拿到驾照🚗。记住：能指挥猛禽的人，绝对是个狠人！🦅✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'福客呢'→养福客(falconer)呢",
+        "易混词：falconer vs. falconet（小猎鹰）",
+        "记忆法：falcon+er=养鹰人，就像baker=烘焙师"
+      ]
+    }
+  },
+  {
+    "word": "falconry",
+    "etymology": {
+      "breakdown": [
+        "falcon",
+        "ry"
+      ],
+      "meaning_connection": "falcon（猎鹰）+ 后缀-ry（表示技艺）→ 与猎鹰相关的技艺"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "放鹰捕猎",
+        "examples": [
+          {
+            "sentence": "The Mongolian nomads practice falconry to hunt foxes on the grasslands.",
+            "sentence_zh": "蒙古游牧民族在草原上用放鹰捕猎的方式捕捉狐狸。"
+          },
+          {
+            "sentence": "In the desert, falconry is more efficient than using rifles for hunting.",
+            "sentence_zh": "在沙漠中，放鹰捕猎比用步枪打猎更高效。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "训鹰术",
+        "examples": [
+          {
+            "sentence": "Learning falconry requires at least three years of apprenticeship.",
+            "sentence_zh": "学习训鹰术至少需要三年学徒期。"
+          },
+          {
+            "sentence": "The documentary shows how falconry masters communicate with golden eagles.",
+            "sentence_zh": "这部纪录片展示了训鹰师如何与金雕交流。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "practice falconry",
+        "meaning": "从事鹰猎活动",
+        "examples": [
+          {
+            "sentence": "It's illegal to practice falconry without a license in most countries.",
+            "sentence_zh": "在多数国家无证从事鹰猎活动是违法的。"
+          }
+        ]
+      }
+    ],
+    "teach": "falconry是古代版无人机狩猎🚁！成吉思汗的猎鹰部队曾用金雕抓狼🐺（历史趣闻），现代阿联酋土豪玩falconry就像我们玩电子宠物🐦（文化对比）。'熬鹰'叫manning the hawk，'鹰猎装备'说falconry gear，吐槽训练难可以说'比教猫游泳还难'（It's harder than teaching cats to swim）🧤🦅🏹",
+    "recite": {
+      "tips": [
+        "视觉联想：falcon+ry→'猎鹰人'的'日用品'（ry发音同'日用品'的'日'）",
+        "易混词对比：falconry（驯鹰术）vs. archery（射箭术）",
+        "记忆口诀：Falcon飞，-ry艺，古代土豪的无人机"
+      ]
+    }
+  },
+  {
+    "word": "fall",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'feallan'，与德语'fallen'同源，基本义为'从高处向下移动'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "落下",
+        "examples": [
+          {
+            "sentence": "The fall of cherry blossoms looks like pink snow.",
+            "sentence_zh": "樱花飘落如粉雪纷飞。"
+          },
+          {
+            "sentence": "Newton discovered gravity by watching an apple's fall.",
+            "sentence_zh": "牛顿通过观察苹果坠落发现了万有引力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "瀑布",
+        "examples": [
+          {
+            "sentence": "Niagara Falls attracts millions of tourists with its thunderous roar.",
+            "sentence_zh": "尼亚加拉瀑布以其雷鸣般的轰响吸引数百万游客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "采伐量",
+        "examples": [
+          {
+            "sentence": "The annual fall of timber must comply with environmental regulations.",
+            "sentence_zh": "年度木材采伐量必须符合环保规定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "下降",
+        "examples": [
+          {
+            "sentence": "A sudden fall in temperature caused the viral trend of 'celebrity shoulder blankets'.",
+            "sentence_zh": "气温骤降引发了'明星披肩毯'的病毒式流行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "堕落",
+        "examples": [
+          {
+            "sentence": "The movie depicts the fall of a talented pianist into drug addiction.",
+            "sentence_zh": "这部电影讲述一位天才钢琴家堕入毒瘾的故事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "秋天",
+        "examples": [
+          {
+            "sentence": "Pumpkin spice latte signals the arrival of fall in Starbucks.",
+            "sentence_zh": "南瓜拿铁预示着星巴克的秋天到来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "倒下",
+        "examples": [
+          {
+            "sentence": "The influencer fell flat while attempting viral dance moves.",
+            "sentence_zh": "网红尝试病毒舞蹈动作时直接平地摔。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "落下",
+        "examples": [
+          {
+            "sentence": "Snowflakes are falling on the Great Wall like cotton candy.",
+            "sentence_zh": "雪花像棉花糖般落在长城上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "下跌",
+        "examples": [
+          {
+            "sentence": "Bitcoin fell below $30K causing meme stocks to trend.",
+            "sentence_zh": "比特币跌破3万美元引发模因股热潮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变成",
+        "examples": [
+          {
+            "sentence": "After the scandal, he fell from being a national idol to a nobody.",
+            "sentence_zh": "丑闻后他从国民偶像沦为人人喊打。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fall in love",
+        "meaning": "坠入爱河",
+        "examples": [
+          {
+            "sentence": "They fell in love during the Shanghai lockdown while group-buying groceries.",
+            "sentence_zh": "他们在上海封控期间团购买菜时坠入爱河。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fall flat",
+        "meaning": "完全失败",
+        "examples": [
+          {
+            "sentence": "The new spicy crayfish flavor ice cream fell flat with consumers.",
+            "sentence_zh": "新款麻辣小龙虾味冰淇淋彻底翻车。"
+          }
+        ]
+      }
+    ],
+    "teach": "fall是英语界的变形金刚🤖！作名词时可以是物理坠落（牛顿苹果🍎），也可以是道德沦丧（天使堕落👼→Devil）；作动词时既能描述股价跳水📉（stock falls），也能说爱情降临💘（fall in love）。美国人把秋天叫fall因为树叶纷纷fall down，而英国人用autumn显得更高贵🍁。记住：'跌成狗'叫fall like a stone，'躺平'是fall flat on face！",
+    "recite": {
+      "tips": [
+        "谐音梗：'佛哦'→佛祖哦(fall)从莲花座掉下来",
+        "易混对比：fell（砍伐）/ felt（感觉）",
+        "季节记忆：fall=落叶季，autumn=文艺季"
+      ]
+    }
   }
 ]

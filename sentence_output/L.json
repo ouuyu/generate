@@ -5406,5 +5406,313 @@
         "记忆口诀：灯(lamp)在柱(post)上站，夜归不再怕黑暗"
       ]
     }
+  },
+  {
+    "word": "lamprey",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自古法语lamproie，可能源自拉丁语lampetra（'舔石头'），因其吸附岩石的习性得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "八目鳗",
+        "examples": [
+          {
+            "sentence": "The lamprey's circular mouth looks like a living suction cup.",
+            "sentence_zh": "八目鳗的圆形嘴巴就像活体吸盘。"
+          },
+          {
+            "sentence": "Medieval kings considered lamprey pie a delicacy, though it looks like a nightmare.",
+            "sentence_zh": "中世纪的国王视八目鳗派为珍馐，尽管它看起来像噩梦。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sea lamprey",
+        "meaning": "海八目鳗",
+        "examples": [
+          {
+            "sentence": "Sea lampreys invaded the Great Lakes like aquatic vampires.",
+            "sentence_zh": "海八目鳗像水生吸血鬼般入侵五大湖。"
+          }
+        ]
+      }
+    ],
+    "teach": "八目鳗是'吸血鬼鱼'🧛🐟：1) 亨利一世据说因吃太多八目鳗撑死 2) 想象它像会游泳的电动牙刷🚿🦷，用舌头锉开猎物皮肤吸血 3) 搭配'lamprey infestation''lamprey pie' 4) 说'丑东西'可叫that lamprey-looking thing🤢 5) 记住：七鳃鳗其实有七个鼻孔👃👃👃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'烂扒鱼'→烂烂的扒皮鱼",
+        "易混词：eel（普通鳗鱼没有吸盘嘴）"
+      ]
+    }
+  },
+  {
+    "word": "lampshade",
+    "etymology": {
+      "breakdown": [
+        "lamp",
+        "shade"
+      ],
+      "meaning_connection": "lamp（灯）+ shade（罩子）→ 字面意思为'灯的罩子'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "灯罩",
+        "examples": [
+          {
+            "sentence": "The cat knocked over the lamp and broke its antique lampshade.",
+            "sentence_zh": "猫咪打翻了台灯，摔坏了那个古董灯罩。"
+          },
+          {
+            "sentence": "She DIYed a lampshade using recycled paper and coffee stains.",
+            "sentence_zh": "她用再生纸和咖啡渍DIY了一个灯罩。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lampshade effect",
+        "meaning": "灯罩效应（影视术语）",
+        "examples": [
+          {
+            "sentence": "The director used lampshade effect to mock clichés in this comedy.",
+            "sentence_zh": "导演用灯罩效应在这部喜剧里嘲讽老套桥段。"
+          }
+        ]
+      }
+    ],
+    "teach": "lampshade其实是'灯の胖次'🩲！维多利亚时期人们用蚕丝做灯罩像穿裙子💃（silk lampshade），现代设计师把灯罩玩出花：宜家爆款像倒扣的草莓蛋糕🍓（STRAWBERRY lampshade）。说'老土'叫old-school like granny's lampshade，'简约风'说clean-lined shade。记住：好灯罩让你家从城中村变凡尔赛！",
+    "recite": {
+      "tips": [
+        "谐音梗：'烂破鞋的'→破鞋改造成波西米亚风灯罩",
+        "易混词：lampshade（灯罩） vs lampshell（腕足类动物）"
+      ]
+    }
+  },
+  {
+    "word": "lance",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'lancea'，原指轻型投掷武器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "长矛",
+        "examples": [
+          {
+            "sentence": "The museum displayed a Tang Dynasty lance with dragon engravings.",
+            "sentence_zh": "博物馆展出一柄刻有龙纹的唐代长矛。"
+          },
+          {
+            "sentence": "Lance practice was part of ancient imperial examinations.",
+            "sentence_zh": "长矛操练曾是古代武举考试内容。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "柳叶刀",
+        "examples": [
+          {
+            "sentence": "Surgeons use a lance to drain abscesses in traditional Chinese medicine.",
+            "sentence_zh": "中医外科用柳叶刀为痈疽排脓。"
+          },
+          {
+            "sentence": "The acupuncture lance looks scarier than it actually feels.",
+            "sentence_zh": "针灸用的锋针看着吓人实际不痛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "执矛战士",
+        "examples": [
+          {
+            "sentence": "The lances of the Forbidden City were selected from Manchu elite.",
+            "sentence_zh": "紫禁城的执戟侍卫选自满洲精锐。"
+          },
+          {
+            "sentence": "Modern Olympic fencers are descendants of medieval lances.",
+            "sentence_zh": "现代奥运击剑选手是中世纪枪骑士的后裔。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "以长矛攻击",
+        "examples": [
+          {
+            "sentence": "The cavalry lanced through the enemy formation like hot knives through butter.",
+            "sentence_zh": "骑兵队如热刀切黄油般长矛贯穿敌阵。"
+          },
+          {
+            "sentence": "In the Three Kingdoms period, warriors often lanced each other from horseback.",
+            "sentence_zh": "三国时期武将常策马挺矛相刺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "急进",
+        "examples": [
+          {
+            "sentence": "The express train lanced through the countryside at 350km/h.",
+            "sentence_zh": "高铁以350公里时速在乡间疾驰。"
+          },
+          {
+            "sentence": "His career lanced forward after the viral TED talk.",
+            "sentence_zh": "他的职业在TED演讲爆红后突飞猛进。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lance corporal",
+        "meaning": "一等兵（执矛步兵演变而来的军衔）",
+        "examples": [
+          {
+            "sentence": "The lance corporal guarded the terracotta warriors excavation site.",
+            "sentence_zh": "这位一等兵守卫着兵马俑挖掘现场。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "free lance",
+        "meaning": "自由职业者（原指佣枪骑士）",
+        "examples": [
+          {
+            "sentence": "She works as a free lance translator for gaming companies.",
+            "sentence_zh": "她是游戏公司的自由职业翻译。"
+          }
+        ]
+      }
+    ],
+    "teach": "lance是冷兵器界的跨界王🤺！当名词时：1) 战场上是赵子龙的亮银枪⚔️ 2) 医院里是华佗的柳叶刀🩺 3) 职场变身自由职业者名片（free lance）。动词时：要么像吕布刺董卓般突刺（lanced the target）🔪，要么像高铁穿越华北平原般疾驰（lanced through）🚄。记住：现代'兰斯洛特'可能只是个接单写代码的freelancer💻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'冷死'→拿长矛(lance)的士兵冬天冷死",
+        "易混词：lance(长武器) vs laser(激光武器)"
+      ]
+    }
+  },
+  {
+    "word": "lancer",
+    "etymology": {
+      "breakdown": [
+        "lance",
+        "er"
+      ],
+      "meaning_connection": "lance=长矛，-er表执行者→持矛者，后衍生出舞蹈术语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "使用长矛的骑兵",
+        "examples": [
+          {
+            "sentence": "The Polish lancers charged with 4-meter spears glinting in the sun.",
+            "sentence_zh": "波兰枪骑兵发起冲锋时，4米长矛在阳光下闪烁寒光。"
+          },
+          {
+            "sentence": "Ancient Chinese lancers wore pheasant feathers on their helmets.",
+            "sentence_zh": "中国古代枪骑兵头盔上插着雉鸡翎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "兰谢舞",
+        "examples": [
+          {
+            "sentence": "The lancer requires dancers to mimic cavalry movements with imaginary spears.",
+            "sentence_zh": "兰谢舞要求舞者用虚拟长矛模仿骑兵动作。"
+          },
+          {
+            "sentence": "At Vienna balls, the lancer is always accompanied by trumpet fanfares.",
+            "sentence_zh": "维也纳舞会上，兰谢舞总会搭配小号奏鸣。"
+          }
+        ]
+      }
+    ],
+    "teach": "lancer是'矛精'🧙♂️：既是中世纪'美团骑手'（送长矛外卖），又是舞会'空气长矛选手'💃。骑兵冲锋叫charge like lancers（像枪骑兵冲锋），跳舞踩脚说stab my toes（被矛扎了）。记住：拿真矛会戳死人，跳兰谢舞只会戳碎自尊心😵！",
+    "recite": {
+      "tips": [
+        "谐音梗：'轮射'→骑兵轮流射击",
+        "易混词：lance（矛） vs lawn（草坪）→别在草坪上练矛！"
+      ]
+    }
+  },
+  {
+    "word": "lancet",
+    "etymology": {
+      "breakdown": [
+        "lance",
+        "et"
+      ],
+      "meaning_connection": "词根lance=长矛，-et表'小型'→原指小型长矛状武器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "刺血针",
+        "examples": [
+          {
+            "sentence": "The medieval doctor used a silver lancet to bleed patients.",
+            "sentence_zh": "中世纪医生用银制刺血针给病人放血。"
+          },
+          {
+            "sentence": "Modern lancets for diabetes testing are disposable.",
+            "sentence_zh": "现代糖尿病检测用的刺血针是一次性的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小枪",
+        "examples": [
+          {
+            "sentence": "Musketeers carried both heavy rifles and lightweight lancets.",
+            "sentence_zh": "火枪手既携带重型步枪也配备轻便小枪。"
+          },
+          {
+            "sentence": "The cavalry's lancet could be fired from horseback.",
+            "sentence_zh": "骑兵的小枪可在马背上发射。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "尖顶窗",
+        "examples": [
+          {
+            "sentence": "Gothic cathedrals feature beautiful lancet windows.",
+            "sentence_zh": "哥特式大教堂以漂亮的尖顶窗为特色。"
+          },
+          {
+            "sentence": "The setting sun illuminated the stained glass in the lancet.",
+            "sentence_zh": "夕阳照亮了尖顶窗里的彩色玻璃。"
+          }
+        ]
+      }
+    ],
+    "teach": "lancet是医学界最锋利的梗💉！它既是柳叶刀期刊的logo🗡️（全球顶级医学杂志），又是王者荣耀里兰陵王的双刃⚔️。医生们开玩笑说'The Lancet cuts both ways'（柳叶刀双刃剑），既指手术风险，也指论文杀伤力。搭配说'sharp as a lancet'（锋利如柳叶刀）或'lancet eyes'（锐利的目光）。记住：这个单词能捅破论文界和建筑界！🏥🏰✂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'兰切特'→兰陵王切(lancet)刺客",
+        "易混词：lance（长矛）是它大哥",
+        "记忆法：医学+军事+建筑三栖单词"
+      ]
+    }
   }
 ]

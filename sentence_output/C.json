@@ -4676,5 +4676,290 @@
         "记忆tip：最后三个字母-nia正好是'你啊'，联想'加州啊就是你啊'"
       ]
     }
+  },
+  {
+    "word": "caliper",
+    "etymology": {
+      "breakdown": [
+        "caliper"
+      ],
+      "meaning_connection": "源自拉丁语'caliperium'，指测量工具，后演变为现代测量仪器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "测径规",
+        "examples": [
+          {
+            "sentence": "The machinist used a digital caliper to measure the piston diameter with 0.001mm precision.",
+            "sentence_zh": "机械师用数显卡尺以0.001毫米精度测量活塞直径。"
+          },
+          {
+            "sentence": "Ancient Chinese bronze calipers from the Han dynasty are displayed in the National Museum.",
+            "sentence_zh": "汉代青铜卡尺现陈列在国家博物馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "卡钳",
+        "examples": [
+          {
+            "sentence": "Bike mechanics always keep brake calipers clean for optimal performance.",
+            "sentence_zh": "自行车修理工总是保持刹车卡钳清洁以确保最佳性能。"
+          },
+          {
+            "sentence": "The red Brembo calipers on his sports car cost more than my monthly rent.",
+            "sentence_zh": "他跑车上的红色布雷博卡钳比我月租还贵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用测径规测量",
+        "examples": [
+          {
+            "sentence": "Archaeologists carefully calipered the Terracotta Warrior's facial features.",
+            "sentence_zh": "考古学家仔细测量兵马俑的面部特征。"
+          },
+          {
+            "sentence": "Before 3D printing, engineers must caliper the prototype manually.",
+            "sentence_zh": "3D打印前工程师需手动测量原型尺寸。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vernier caliper",
+        "meaning": "游标卡尺",
+        "examples": [
+          {
+            "sentence": "Every middle school physics lab in China has at least ten vernier calipers.",
+            "sentence_zh": "中国每所中学物理实验室都至少有十把游标卡尺。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "brake caliper",
+        "meaning": "制动卡钳",
+        "examples": [
+          {
+            "sentence": "The squeaking sound indicates your brake calipers need lubrication.",
+            "sentence_zh": "刺耳声响说明制动卡钳需要润滑了。"
+          }
+        ]
+      }
+    ],
+    "teach": "卡尺(caliper)是理工男的浪漫💘！它的祖先可能是达芬奇笔记本里的测量工具📐，现代版则像变形金刚🤖——既能当游标卡尺量故宫榫卯结构🏯，又能变身超跑刹车卡钳追高铁🚄。说'精确测量'用take precise measurements like using calipers，机械师黑话叫'卡一下'。记住：没有卡尺量不出的人生精度！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开立拍'→开立拍(caliper)证件照要精确测量",
+        "易混词：caliber（口径）和caliper（卡尺）就像枪管和游标卡尺的关系"
+      ]
+    }
+  },
+  {
+    "word": "caliph",
+    "etymology": {
+      "breakdown": [
+        "caliph"
+      ],
+      "meaning_connection": "源自阿拉伯语'khalīfa'（继承者），指先知穆罕默德的政治继承者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "哈里发（伊斯兰教政教合一领袖）",
+        "examples": [
+          {
+            "sentence": "The first caliph Abu Bakr succeeded Prophet Muhammad in 632 AD.",
+            "sentence_zh": "首任哈里发艾布·伯克尔于公元632年继任穆罕默德。"
+          },
+          {
+            "sentence": "The Ottoman sultans claimed to be caliphs until 1924.",
+            "sentence_zh": "奥斯曼苏丹自称哈里发直至1924年。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "caliphate",
+        "meaning": "哈里发国",
+        "examples": [
+          {
+            "sentence": "The Abbasid Caliphate built the House of Wisdom in Baghdad.",
+            "sentence_zh": "阿拔斯哈里发国在巴格达建立了智慧宫。"
+          },
+          {
+            "sentence": "The concept of caliphate still influences modern Islamic politics.",
+            "sentence_zh": "哈里发国的概念仍影响现代伊斯兰政治。"
+          }
+        ]
+      }
+    ],
+    "teach": "哈里发(caliph)就是伊斯兰世界的'CEO兼教皇'👑！最早的四位'正统哈里发'被称为拉希敦（Rashidun），他们像接力赛跑🏃一样传承先知权力。现代土耳其废除哈里发时，就像拆除了伊斯兰版的'梵蒂冈'🕌。搭配说'establish a caliphate'（建立哈里发国），'claim the caliphate'（宣称哈里发地位）。说'政教合一'可以用'theocracy wrapped in a turban'（头巾包裹的神权政治）🧕",
+    "recite": {
+      "tips": [
+        "谐音梗：'咖喱发'→哈里发爱吃咖喱（其实不吃）",
+        "易混词：caliph vs. calf（小牛）"
+      ]
+    }
+  },
+  {
+    "word": "call",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'kalla'（高声喊叫），与中文'吆喝'异曲同工"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "呼叫",
+        "examples": [
+          {
+            "sentence": "The panda keeper made a special call to summon Mei Lan for dinner.",
+            "sentence_zh": "熊猫饲养员用特殊叫声召唤美兰吃饭。"
+          },
+          {
+            "sentence": "We heard the call of wild swans over Kunming Lake.",
+            "sentence_zh": "我们听见昆明湖上野生天鹅的鸣叫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "访问",
+        "examples": [
+          {
+            "sentence": "The CEO paid a surprise call to the R&D department during lunch break.",
+            "sentence_zh": "CEO在午休时突访研发部门。"
+          },
+          {
+            "sentence": "In ancient times, scholars would make formal calls with name cards.",
+            "sentence_zh": "古时文人拜访要递名帖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "打电话",
+        "examples": [
+          {
+            "sentence": "I got a 3AM call from my friend who forgot the time difference.",
+            "sentence_zh": "我接到朋友凌晨三点的电话，他忘了时差这事。"
+          },
+          {
+            "sentence": "The customer service call lasted 48 minutes and 33 seconds.",
+            "sentence_zh": "这次客服通话持续了48分33秒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "号召",
+        "examples": [
+          {
+            "sentence": "The 'Clear Your Plate' call reduced food waste by 30%.",
+            "sentence_zh": "'光盘行动'号召使食物浪费减少30%。"
+          },
+          {
+            "sentence": "Greta's climate call ignited global student strikes.",
+            "sentence_zh": "格里塔的气候号召引发了全球学生罢课。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "呼叫",
+        "examples": [
+          {
+            "sentence": "Call me when your high-speed train arrives at Xi'an.",
+            "sentence_zh": "你坐的高铁到西安时call我。"
+          },
+          {
+            "sentence": "The captain called everyone's name during the lifeboat drill.",
+            "sentence_zh": "救生演习时船长逐一点名。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "打电话",
+        "examples": [
+          {
+            "sentence": "She called 120 immediately when seeing the car accident.",
+            "sentence_zh": "看到车祸她立刻拨打120。"
+          },
+          {
+            "sentence": "My mom calls me every day at exactly 19:00 Beijing time.",
+            "sentence_zh": "我妈每天北京时间19点整准时来电。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "叫喊",
+        "examples": [
+          {
+            "sentence": "The street vendor is calling out prices like a rapper.",
+            "sentence_zh": "街头小贩叫卖声快得像说唱。"
+          },
+          {
+            "sentence": "No calling in the library except for fire emergencies!",
+            "sentence_zh": "除非火警，图书馆禁止喧哗！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "访问",
+        "examples": [
+          {
+            "sentence": "The British ambassador will call on the mayor tomorrow.",
+            "sentence_zh": "英国大使明日将拜访市长。"
+          },
+          {
+            "sentence": "We called at three teahouses along Pingjiang Road.",
+            "sentence_zh": "我们沿途造访了平江路三家茶馆。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "call for",
+        "meaning": "要求",
+        "examples": [
+          {
+            "sentence": "The recipe calls for exactly 108 sesame seeds.",
+            "sentence_zh": "食谱要求精准放入108粒芝麻。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "call it a day",
+        "meaning": "收工",
+        "examples": [
+          {
+            "sentence": "After selling 200 stinky tofu portions, the vendor called it a day.",
+            "sentence_zh": "卖完200份臭豆腐后，摊主决定收工。"
+          }
+        ]
+      }
+    ],
+    "teach": "call是个社交万金油💬！古人用'喊一嗓子'传讯（call out），现代人用'夺命连环call'催债📱。'call duck'是网红柯尔鸭🦆，'call it a night'是熬夜党的投降白旗🏳️。搭配学：'call the shots'（掌权）像火锅局点菜权🍲，'call you out'（揭穿）像当场识破魔术🎩",
+    "recite": {
+      "tips": [
+        "谐音梗：'抠'→电话抠(call)出来",
+        "易混词：shout（无目的喊） vs call（有对象喊）"
+      ]
+    }
   }
 ]

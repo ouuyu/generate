@@ -5060,5 +5060,282 @@
         "动作记忆：想象右手从额头划到胸前再鞠躬90度"
       ]
     }
+  },
+  {
+    "word": "saint",
+    "etymology": {
+      "breakdown": [
+        "saint"
+      ],
+      "meaning_connection": "源自拉丁语sanctus（神圣的），与sanctuary（圣地）同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣徒",
+        "examples": [
+          {
+            "sentence": "St. Patrick is the patron saint of Ireland.",
+            "sentence_zh": "圣帕特里克是爱尔兰的守护圣徒。"
+          },
+          {
+            "sentence": "The temple enshrines relics of Buddhist saints.",
+            "sentence_zh": "这座寺庙供奉着佛教圣徒的舍利子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "圣人",
+        "examples": [
+          {
+            "sentence": "Confucius is considered a saint by many scholars.",
+            "sentence_zh": "孔子被许多学者视为圣人。"
+          },
+          {
+            "sentence": "She has the patience of a saint when teaching preschoolers.",
+            "sentence_zh": "她教幼儿园小朋友时有着圣人般的耐心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "神圣的",
+        "examples": [
+          {
+            "sentence": "The saint relics are kept in a golden casket.",
+            "sentence_zh": "圣物被保存在一个黄金圣盒中。"
+          },
+          {
+            "sentence": "Pilgrims walk barefoot on the saint ground.",
+            "sentence_zh": "朝圣者们赤脚行走在神圣之地上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "saint's day",
+        "meaning": "圣徒纪念日",
+        "examples": [
+          {
+            "sentence": "We eat mooncakes on Mid-Autumn Festival just like Europeans celebrate saint's days.",
+            "sentence_zh": "我们在中秋节吃月饼就像欧洲人庆祝圣徒纪念日。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "saintly patience",
+        "meaning": "非凡的耐心",
+        "examples": [
+          {
+            "sentence": "The kindergarten teacher showed saintly patience with the crying children.",
+            "sentence_zh": "幼儿园老师对哭泣的孩子们表现出非凡的耐心。"
+          }
+        ]
+      }
+    ],
+    "teach": "saint其实是'闪光'✨的亲戚！古罗马用sanctus形容神性光辉🌞，后来变成对道德楷模的称号。说'脾气好得像圣人'用saintly temper，'装圣人'叫play the saint就像戴天使光环👼。记住：每个妈祖信徒都是living saint（现世圣人）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闪特'→圣人头顶闪光特效",
+        "易混词：saint（圣人） vs. paint（油漆）→圣人拒绝被'漆'成伪君子"
+      ]
+    }
+  },
+  {
+    "word": "salacious",
+    "etymology": {
+      "breakdown": [
+        "sal",
+        "acious"
+      ],
+      "meaning_connection": "词根sal=盐（古罗马隐喻'情欲'），-acious=充满...的→字面意思是'咸湿的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "好色的",
+        "examples": [
+          {
+            "sentence": "The salacious merchant kept winking at waitresses during the banquet.",
+            "sentence_zh": "那个好色的商人在宴会上不停对女服务员眨眼。"
+          },
+          {
+            "sentence": "His salacious comments made everyone uncomfortable at the meeting.",
+            "sentence_zh": "他好色的评论让会议上的每个人都感到不适。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "猥亵的",
+        "examples": [
+          {
+            "sentence": "The school banned students from reading salacious manga.",
+            "sentence_zh": "学校禁止学生阅读猥亵漫画。"
+          },
+          {
+            "sentence": "Police arrested the man for distributing salacious flyers near the kindergarten.",
+            "sentence_zh": "警方逮捕了在幼儿园附近发放猥亵传单的男子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "黄色的",
+        "examples": [
+          {
+            "sentence": "The blogger was fined for posting salacious content.",
+            "sentence_zh": "博主因发布黄色内容被罚款。"
+          },
+          {
+            "sentence": "In ancient China, salacious novels were often circulated secretly.",
+            "sentence_zh": "在古代中国，黄色小说常被秘密传阅。"
+          }
+        ]
+      }
+    ],
+    "teach": "salacious是'咸湿'本湿🌊！词根sal是盐，古罗马人用'加盐'暗指情色（像中文'荤段子'）。'扫黄打非'英语叫porn crackdown🔞，说'下流笑话'用salacious jokes就像说'这瓜保熟吗'🍉。记住：看到sal-词根，不是工资(salary)就是小黄文！",
+    "recite": {
+      "tips": [
+        "谐音梗：'色拉绅士'→表面吃沙拉实际好色",
+        "易混词：delicious（美味的）和salacious（色情的）别点错菜",
+        "记忆法：盐(sal)放多了→咸湿→色情"
+      ]
+    }
+  },
+  {
+    "word": "salad",
+    "etymology": {
+      "breakdown": [
+        "sal",
+        "ad"
+      ],
+      "meaning_connection": "词根sal=盐（古罗马用盐调味生菜），-ad表集合→本义是'用盐拌的菜'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "色拉",
+        "examples": [
+          {
+            "sentence": "This dragon fruit salad is dyed pink with beetroot juice.",
+            "sentence_zh": "这份火龙果沙拉用甜菜根汁染成了粉红色。"
+          },
+          {
+            "sentence": "My grandma puts century eggs in her 'Chinese-style salad'.",
+            "sentence_zh": "我奶奶会在她的'中式色拉'里放皮蛋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fruit salad",
+        "meaning": "水果色拉",
+        "examples": [
+          {
+            "sentence": "We made durian fruit salad for the daring foodies.",
+            "sentence_zh": "我们为勇敢的美食家准备了榴莲水果色拉。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "salad days",
+        "meaning": "少不更事的时期",
+        "examples": [
+          {
+            "sentence": "In my salad days, I thought putting ketchup on everything was cool.",
+            "sentence_zh": "年少轻狂时，我觉得在所有食物上挤番茄酱很酷。"
+          }
+        ]
+      }
+    ],
+    "teach": "salad其实是'盐啦'🧂！古罗马人吃生菜必撒盐（sal），就像我们吃西瓜蘸酸梅粉🍉。地道说法：'轻食党'叫salad dodger（躲色拉的人，讽刺假养生），最惨是rabbit food（兔粮）指难吃的健康餐🥗。记住：真正的沙拉侠敢往里面加辣条和卫龙！🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'色拉的'→色拉的核心就是撒盐的",
+        "易混词：salad vs. salary（后者是'盐资'）",
+        "记忆tip：想象恺撒大帝边吃沙拉边发工资"
+      ]
+    }
+  },
+  {
+    "word": "salamander",
+    "etymology": {
+      "breakdown": [
+        "salamandr"
+      ],
+      "meaning_connection": "源自古希腊语'salamandra'，与火相关的神话生物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "火蜥蜴",
+        "examples": [
+          {
+            "sentence": "The bright orange salamander crawled over the volcanic rocks like living lava.",
+            "sentence_zh": "明橙色的火蜥蜴在火山岩上爬行，如流动的熔岩。"
+          },
+          {
+            "sentence": "Medieval alchemists believed salamanders could survive in fire.",
+            "sentence_zh": "中世纪炼金术师认为火蜥蜴能在火焰中生存。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "火怪",
+        "examples": [
+          {
+            "sentence": "In fantasy novels, salamanders are often depicted as fiery elemental spirits.",
+            "sentence_zh": "奇幻小说常将火怪描绘成火焰元素精灵。"
+          },
+          {
+            "sentence": "The wizard summoned a salamander to light his pipe.",
+            "sentence_zh": "巫师召唤火怪来点烟斗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "耐火的人",
+        "examples": [
+          {
+            "sentence": "The veteran firefighter was called a human salamander by his team.",
+            "sentence_zh": "这位资深消防员被队友称作人形火蜥蜴。"
+          },
+          {
+            "sentence": "Street vendors near hotpot restaurants are real salamanders, standing by boiling pots all day.",
+            "sentence_zh": "火锅店旁的摊贩是真正的耐热者，整天守着沸腾的锅子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "salamander stove",
+        "meaning": "蝾螈炉（一种旧式炉具）",
+        "examples": [
+          {
+            "sentence": "The antique salamander stove in the museum still has visible flame marks.",
+            "sentence_zh": "博物馆里的古董蝾螈炉仍可见火焰灼痕。"
+          }
+        ]
+      }
+    ],
+    "teach": "salamander是神话界的火龙果🔥🦎：1) 中世纪认为它浴火重生→导致哈利波特学院的火焰杯彩蛋 2) 想象成会走路的辣椒酱瓶🌶️ 3) 搭配'salamander tattoo'（火蜥蜴纹身）和'salamander spirit'（烈酒）4) 说人'耐热'可称human salamander 5) 西方火锅店常以此命名→因为蝾螈=不怕烫的吃货代表🍲",
+    "recite": {
+      "tips": [
+        "谐音梗：'色拉慢的'→色拉里慢爬的火蜥蜴",
+        "易混词：chameleon（变色龙）颜色会变，salamander温度耐受"
+      ]
+    }
   }
 ]

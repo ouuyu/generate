@@ -5039,5 +5039,335 @@
         "记忆锚点：板球横木被击飞=保释出狱"
       ]
     }
+  },
+  {
+    "word": "bailiff",
+    "etymology": {
+      "breakdown": [
+        "bail",
+        "iff"
+      ],
+      "meaning_connection": "古法语baille指'管辖权'，-iff表执行者→原指庄园管理者，后演变为法律执行者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "法警",
+        "examples": [
+          {
+            "sentence": "The bailiff calmly removed the screaming influencer from the courtroom.",
+            "sentence_zh": "法警平静地将咆哮的网红请出法庭。"
+          },
+          {
+            "sentence": "A TikTok video showed a bailiff dancing with detained protesters to ease tension.",
+            "sentence_zh": "抖音视频显示法警为缓解紧张情绪与拘留的抗议者共舞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "郡副司法长官",
+        "examples": [
+          {
+            "sentence": "The bailiff organized the medieval fair wearing historical armor.",
+            "sentence_zh": "郡副司法长官穿着历史铠甲组织中世纪集市。"
+          },
+          {
+            "sentence": "As bailiff, he had to settle disputes about sheep grazing rights.",
+            "sentence_zh": "作为郡副司法长官，他需要调解关于牧羊权的纠纷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "乡长",
+        "examples": [
+          {
+            "sentence": "The village bailiff distributed mooncakes during Mid-Autumn Festival.",
+            "sentence_zh": "乡长在中秋节期间分发月饼。"
+          },
+          {
+            "sentence": "Local farmers complained to the bailiff about the new tea plantation policy.",
+            "sentence_zh": "当地农民就新茶园政策向乡长投诉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "high bailiff",
+        "meaning": "高等执达官",
+        "examples": [
+          {
+            "sentence": "The high bailiff's seal was required for property confiscation.",
+            "sentence_zh": "财产没收需要高等执达官的印章。"
+          }
+        ]
+      }
+    ],
+    "teach": "bailiff是法律界的多功能工具人🛡️！中世纪时他们既收租又当保安，现代版像《九品芝麻官》里的衙役📜。要说'强制执行'叫serve a warrant就像外卖小哥送传票🍔，'维持秩序'是keep order好比直播间管理员踢人🚨。记住：bailiff=法律+秩序+历史剧群演！",
+    "recite": {
+      "tips": [
+        "谐音梗：'背了法'→背着法律条文工作的法警",
+        "易混词：sheriff（县治安官）更威风"
+      ]
+    }
+  },
+  {
+    "word": "bairn",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'barn'（孩子），与英语'bear'（生育）同源，字面意思是'被生出来的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小孩",
+        "examples": [
+          {
+            "sentence": "The bairn was giggling while playing with a haggis-shaped plush toy.",
+            "sentence_zh": "那小娃儿抱着哈吉斯形状的玩偶咯咯直笑。"
+          },
+          {
+            "sentence": "Och, yer bairn's got bonnie eyes like Loch Ness!",
+            "sentence_zh": "哎呦，你家崽的眼睛美得像尼斯湖！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wee bairn",
+        "meaning": "小宝贝（苏格兰式亲昵称呼）",
+        "examples": [
+          {
+            "sentence": "Come here, wee bairn, let's have some shortbread!",
+            "sentence_zh": "过来小宝贝，咱们吃点儿黄油酥饼！"
+          }
+        ]
+      }
+    ],
+    "teach": "bairn是苏格兰人最萌的方言词👶🏻！想象穿格子裙的小正太抱着风笛🎵，就像《勇敢传说》里的熊孩子梅莉达。要夸'可爱宝宝'说bonnie bairn（bonnie=漂亮），说'熊孩子'用scunner of a bairn（scunner=讨厌鬼）🥄。记住：用bairn称呼别人家娃，苏格兰大叔会请你喝威士忌🥃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白嗯'→小白嗯(bairn)是乖宝宝",
+        "易混词：child（标准英语）/bairn（苏格兰特色）",
+        "记忆法：把'bairn'拆成bear（生育）+in→刚被生出来的小人儿"
+      ]
+    }
+  },
+  {
+    "word": "bait",
+    "etymology": {
+      "breakdown": [
+        "bat"
+      ],
+      "meaning_connection": "源自古挪威语beita=让咬，最初指让动物咬饵"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "饵",
+        "examples": [
+          {
+            "sentence": "The fisherman used live shrimp as bait to catch yellow croaker.",
+            "sentence_zh": "渔民用活虾作饵钓黄花鱼。"
+          },
+          {
+            "sentence": "Clickbait headlines are the digital version of fishing lures.",
+            "sentence_zh": "标题党就是数字时代的鱼饵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "以饵引诱",
+        "examples": [
+          {
+            "sentence": "Cyber police baited hackers with fake cryptocurrency wallets.",
+            "sentence_zh": "网警用虚假加密货币钱包引诱黑客。"
+          },
+          {
+            "sentence": "Grandma baited the mousetrap with peanut butter.",
+            "sentence_zh": "奶奶用花生酱给捕鼠器下饵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "欺负",
+        "examples": [
+          {
+            "sentence": "Don't bait the new intern by assigning impossible tasks.",
+            "sentence_zh": "别通过分配不可能完成的任务来欺负新人。"
+          },
+          {
+            "sentence": "Bullies often bait their targets with humiliating nicknames.",
+            "sentence_zh": "霸凌者常用侮辱性绰号挑衅目标。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "中途休息",
+        "examples": [
+          {
+            "sentence": "Hikers baited at the tea house before ascending the peak.",
+            "sentence_zh": "登山者在茶馆休息后继续登顶。"
+          },
+          {
+            "sentence": "Delivery drivers usually bait at convenience stores for quick meals.",
+            "sentence_zh": "外卖骑手通常在便利店短暂休息吃便餐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take the bait",
+        "meaning": "上钩",
+        "examples": [
+          {
+            "sentence": "The scammer took the bait and transferred money to the decoy account.",
+            "sentence_zh": "诈骗犯上钩后把钱转到了诱饵账户。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bait and switch",
+        "meaning": "诱饵调包",
+        "examples": [
+          {
+            "sentence": "Some tourist shops use bait and switch tactics with jade products.",
+            "sentence_zh": "部分旅游商店对玉器采用诱饵调包手法。"
+          }
+        ]
+      }
+    ],
+    "teach": "bait是钓鱼佬的祖传秘方🎣！古北欧海盗用beita（让咬）当鱼饵，现代人用'年薪百万'当招聘诱饵💼。说'欺负人'像逗猫棒戏弄猫咪🐱（stop baiting me），'中途休息'是鱼咬饵后的中场休息⏸️。记住：职场PUA就是emotional baiting（情感诱捕）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'贝爷特'→贝爷特别(bait)会用虫子当诱饵",
+        "易混词对比：bite（咬）vs bait（诱使咬）"
+      ]
+    }
+  },
+  {
+    "word": "baited",
+    "etymology": {
+      "breakdown": [
+        "bait",
+        "ed"
+      ],
+      "meaning_connection": "源自古诺尔斯语 'beita'（食物/诱饵），后缀-ed表被动/完成态→原指'被下饵的'，引申出多种含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "引诱",
+        "examples": [
+          {
+            "sentence": "The scammer baited victims with fake job offers.",
+            "sentence_zh": "骗子用虚假工作邀请引诱受害者。"
+          },
+          {
+            "sentence": "TikTok challenges often bait users with viral trends.",
+            "sentence_zh": "抖音挑战常利用病毒式趋势引诱用户参与。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "在…中放诱饵",
+        "examples": [
+          {
+            "sentence": "He baited the mousetrap with peanut butter.",
+            "sentence_zh": "他在捕鼠器上放了花生酱作诱饵。"
+          },
+          {
+            "sentence": "Fishermen were baiting hooks with worms by the river.",
+            "sentence_zh": "渔民们正在河边用虫子给鱼钩装饵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "折磨",
+        "examples": [
+          {
+            "sentence": "The bully baited the new student with constant teasing.",
+            "sentence_zh": "霸凌者通过不断嘲弄来折磨新生。"
+          },
+          {
+            "sentence": "Internet trolls bait celebrities with offensive comments.",
+            "sentence_zh": "网络喷子用攻击性言论折磨名人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "诱饵",
+        "examples": [
+          {
+            "sentence": "The free trial was just a bait for subscription.",
+            "sentence_zh": "免费试用只是订阅服务的诱饵。"
+          },
+          {
+            "sentence": "Clickbait titles are the baits of online media.",
+            "sentence_zh": "标题党就是网络媒体的诱饵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "中途休息",
+        "examples": [
+          {
+            "sentence": "The hiking group baited at a mountain tea house.",
+            "sentence_zh": "徒步队伍在山间茶亭中途休息。"
+          },
+          {
+            "sentence": "We'll bait for 20 minutes before the final climb.",
+            "sentence_zh": "最后攀登前我们将休息20分钟。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take the bait",
+        "meaning": "上钩",
+        "examples": [
+          {
+            "sentence": "She took the bait and bought the overpriced skincare set.",
+            "sentence_zh": "她上了钩，买下那套高价护肤品。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bait and switch",
+        "meaning": "诱导转向",
+        "examples": [
+          {
+            "sentence": "The travel package was a classic bait and switch tactic.",
+            "sentence_zh": "这个旅游套餐是典型的诱导转向策略。"
+          }
+        ]
+      }
+    ],
+    "teach": "baited堪称'钓鱼执法三件套'🎣：1）古维京人用腐烂的鲨鱼肉当饵(这酸爽！)🧅 2）视觉记忆：抖音点赞按钮就像诱饵(bait)勾你一直刷📱 3）'上套了'说rise to the bait，'套路深'叫master baiter（别笑，真这么拼）😈 4）地道表达：'钓鱼帖'叫flame bait，'键盘侠'是troll bait🖥️",
+    "recite": {
+      "tips": [
+        "谐音梗：'备胎的'→用备胎当诱饵(baited)",
+        "易混：bait vs. bite（鱼咬饵叫take a bite）",
+        "记忆tip：所有含义都围绕'诱捕-折磨-休息'的猎人逻辑"
+      ]
+    }
   }
 ]

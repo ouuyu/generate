@@ -5175,5 +5175,327 @@
         "易混词对比：VAR（增值二手商）vs VPN（虚拟专用网络）"
       ]
     }
+  },
+  {
+    "word": "variability",
+    "etymology": {
+      "breakdown": [
+        "vari",
+        "abil",
+        "ity"
+      ],
+      "meaning_connection": "词根vari=变化（同vary），-abil=能力，-ity=名词后缀→变化的能力"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "易变",
+        "examples": [
+          {
+            "sentence": "The variability of spring weather in London makes umbrellas a must-have.",
+            "sentence_zh": "伦敦春季天气的易变性让雨伞成为必备品。"
+          },
+          {
+            "sentence": "Bitcoin's price variability scares traditional investors like a rollercoaster.",
+            "sentence_zh": "比特币价格的易变性像过山车般吓坏传统投资者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "变化性",
+        "examples": [
+          {
+            "sentence": "The variability of regional cuisines makes China a food paradise.",
+            "sentence_zh": "地方菜系的变化性使中国成为美食天堂。"
+          },
+          {
+            "sentence": "Genetic variability explains why some people can drink milk while others can't.",
+            "sentence_zh": "基因变化性解释了为何有人能喝牛奶而有人不能。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "变异性",
+        "examples": [
+          {
+            "sentence": "Scientists measure soil variability before planting cash crops.",
+            "sentence_zh": "科学家在种植经济作物前会测量土壤变异性。"
+          },
+          {
+            "sentence": "The variability in smartphone battery life depends on usage patterns.",
+            "sentence_zh": "智能手机电池续航的变异性取决于使用习惯。"
+          }
+        ]
+      }
+    ],
+    "teach": "variability是宇宙的调色盘🎨！就像重庆的天气能一天经历四季☀️🌧️❄️（weather variability），或者奶茶店糖分选项从'无糖'到'齁甜'🍭（taste variability）。搭配'genetic variability'（基因变异性）和'price variability'（价格波动），吐槽变化大可以说'changes like a mood ring'💍（像情绪戒指般善变）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪了比高低'→东西歪了(variability)要比谁更歪",
+        "易混词：variation（变异）/ variance（方差）"
+      ]
+    }
+  },
+  {
+    "word": "variable",
+    "etymology": {
+      "breakdown": [
+        "vari",
+        "able"
+      ],
+      "meaning_connection": "词根vari=变化，-able表'能够'→能够变化的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "易变的事物",
+        "examples": [
+          {
+            "sentence": "The weather in London is the ultimate variable - sunny, rainy, and foggy all in one day!",
+            "sentence_zh": "伦敦天气是终极易变体——晴天雨天雾天能在一天内集齐。"
+          },
+          {
+            "sentence": "Her mood is a variable even AI can't predict.",
+            "sentence_zh": "她的情绪变化连AI都难以预测。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "变数",
+        "examples": [
+          {
+            "sentence": "The biggest variable in our project is the boss's temper.",
+            "sentence_zh": "我们项目里最大的变数是老板的脾气。"
+          },
+          {
+            "sentence": "Traffic jam is the key variable for food delivery time.",
+            "sentence_zh": "堵车是外卖送达时间的关键变数。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "可变物",
+        "examples": [
+          {
+            "sentence": "The color-changing mug is a perfect variable for magic tricks.",
+            "sentence_zh": "变色杯是魔术表演的完美可变道具。"
+          },
+          {
+            "sentence": "Smartphones have become the most important variable in modern life.",
+            "sentence_zh": "智能手机已成为现代生活中最重要的可变因素。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可变的",
+        "examples": [
+          {
+            "sentence": "The height of this desk is variable to fit different users.",
+            "sentence_zh": "这张书桌高度可调以适应不同使用者。"
+          },
+          {
+            "sentence": "LED lights often have variable colors for mood setting.",
+            "sentence_zh": "LED灯通常有可变颜色来调节氛围。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不定的",
+        "examples": [
+          {
+            "sentence": "His work schedule is as variable as the stock market.",
+            "sentence_zh": "他的工作时间表像股市一样不定。"
+          },
+          {
+            "sentence": "The Wi-Fi speed in this cafe is frustratingly variable.",
+            "sentence_zh": "这家咖啡馆的WiFi速度不定得令人抓狂。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "control variable",
+        "meaning": "控制变量",
+        "examples": [
+          {
+            "sentence": "In this experiment, temperature is the control variable.",
+            "sentence_zh": "本实验中温度是控制变量。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "variable weather",
+        "meaning": "多变天气",
+        "examples": [
+          {
+            "sentence": "Pack both sunscreen and umbrella for variable weather in spring.",
+            "sentence_zh": "春季天气多变，防晒霜和雨伞都要带。"
+          }
+        ]
+      }
+    ],
+    "teach": "variable就像薛定谔的猫🐱⬆️⬇️：数学里它是代数x，编程里是存储容器💾，生活中是女朋友的心情🌧️☀️。搭配'key variable'（关键变量）比说'重要因素'更专业，吐槽天气多变可以说'the weather is being extra variable today'。记住它和variety（多样性）是亲戚，都来自'变化'这个词根！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪了bowl'→碗(vari-able)歪了导致变量",
+        "易混词：various（多样的）强调种类多，variable强调变化性"
+      ]
+    }
+  },
+  {
+    "word": "variably",
+    "etymology": {
+      "breakdown": [
+        "vari",
+        "able",
+        "ly"
+      ],
+      "meaning_connection": "词根vari=变化，-able表可...的，-ly副词后缀→'能变化地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "易变地",
+        "examples": [
+          {
+            "sentence": "The weather acts variably during plum rain season in Jiangnan.",
+            "sentence_zh": "江南梅雨季节的天气总是易变地作妖。"
+          },
+          {
+            "sentence": "Her mood changes as variably as Bitcoin prices.",
+            "sentence_zh": "她的情绪像比特币价格般易变。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不定地",
+        "examples": [
+          {
+            "sentence": "The WiFi signal strength varies variably in the subway.",
+            "sentence_zh": "地铁里的WiFi信号强度不定地波动。"
+          },
+          {
+            "sentence": "He appears variably at weekly meetings like a NPC with random spawn points.",
+            "sentence_zh": "他像随机刷新点的NPC般不定地出现在周会上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "能变地",
+        "examples": [
+          {
+            "sentence": "The smart bulb's color shifts variably with music rhythm.",
+            "sentence_zh": "智能灯泡的颜色能变地随音乐节奏切换。"
+          },
+          {
+            "sentence": "The convertible roof operates variably at the push of a button.",
+            "sentence_zh": "敞篷车顶能变地通过按键开合。"
+          }
+        ]
+      }
+    ],
+    "teach": "variably是'薛定谔的副词'🎭！它像川剧变脸🧑‍🎨（changes variably），像奶茶店的甜度选择🍵（adjust variably），还像老板画的饼大小🫓（fluctuates variably）。搭配记忆：股市→vary variably（波动不定），天气→act variably（反复无常）。地道说法：'看心情'→depends variably🎲",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪了玻璃'→歪斜的(variably)玻璃幕墙",
+        "易混词：variable(可变的) vs varied(多样化的)"
+      ]
+    }
+  },
+  {
+    "word": "variance",
+    "etymology": {
+      "breakdown": [
+        "vari",
+        "ance"
+      ],
+      "meaning_connection": "词根vari=变化，-ance表状态→变化的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不一致",
+        "examples": [
+          {
+            "sentence": "The variance between their test scores shocked the teacher.",
+            "sentence_zh": "他们考试成绩的差异让老师震惊。"
+          },
+          {
+            "sentence": "There's noticeable variance in translation quality among apps.",
+            "sentence_zh": "各款翻译软件的质量存在明显差异。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "变化",
+        "examples": [
+          {
+            "sentence": "Spring in Beijing shows great variance in temperature.",
+            "sentence_zh": "北京春季气温变化极大。"
+          },
+          {
+            "sentence": "The variance in her singing style keeps fans excited.",
+            "sentence_zh": "她演唱风格的多样化让歌迷保持新鲜感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "分歧",
+        "examples": [
+          {
+            "sentence": "The variance in opinions led to heated debates.",
+            "sentence_zh": "意见分歧引发了激烈辩论。"
+          },
+          {
+            "sentence": "Cultural variances often cause misunderstandings.",
+            "sentence_zh": "文化分歧常导致误解。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "at variance with",
+        "meaning": "与...不符",
+        "examples": [
+          {
+            "sentence": "His actions are at variance with his words.",
+            "sentence_zh": "他言行不一。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "variance analysis",
+        "meaning": "差异分析",
+        "examples": [
+          {
+            "sentence": "We conducted variance analysis on sales data.",
+            "sentence_zh": "我们对销售数据进行了差异分析。"
+          }
+        ]
+      }
+    ],
+    "teach": "variance就像火锅蘸料台🍲：有人爱麻酱有人要油碟（分歧），温度从微辣到变态辣🌶️（变化），连同一家店分店味道都可能不同（不一致）。统计学家用它衡量数据波动幅度📊，情侣吵架用它描述观点差异💔。记住'差异大'说wide variance，'求同存异'叫allow variance。",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪润死'→歪掉的润肤乳导致皮肤差异",
+        "易混词：variety(多样性) vs variance(差异性)"
+      ]
+    }
   }
 ]
