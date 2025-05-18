@@ -10772,5 +10772,339 @@
         "联想：journal（期刊）+ -ist = 搞期刊的人"
       ]
     }
+  },
+  {
+    "word": "journalistic",
+    "etymology": {
+      "breakdown": [
+        "journal",
+        "ist",
+        "ic"
+      ],
+      "meaning_connection": "journal=日报（来自拉丁语diurnalis），-ist表从业者，-ic表形容词→与新闻日报工作相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "新闻业的",
+        "examples": [
+          {
+            "sentence": "The WeMedia era challenges traditional journalistic standards.",
+            "sentence_zh": "自媒体时代对传统新闻业标准发起挑战。"
+          },
+          {
+            "sentence": "His blog combines journalistic rigor with meme culture.",
+            "sentence_zh": "他的博客将新闻业严谨性与梗文化相结合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "新闻工作者的",
+        "examples": [
+          {
+            "sentence": "That viral Douyin video reveals journalistic life behind the scenes.",
+            "sentence_zh": "那条爆火抖音视频展现了新闻工作者的幕后生活。"
+          },
+          {
+            "sentence": "Press conferences test journalistic reaction speed like Li Jiaqi's livestream.",
+            "sentence_zh": "记者会考验新闻工作者的反应速度，堪比李佳琦直播间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "报刊特有的",
+        "examples": [
+          {
+            "sentence": "Headline fonts are a typical journalistic visual feature.",
+            "sentence_zh": "标题字体是报刊特有的视觉特征。"
+          },
+          {
+            "sentence": "This WeChat article uses journalistic column formats creatively.",
+            "sentence_zh": "这篇微信公众号文章创新运用了报刊特有的专栏格式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "新闻工作的",
+        "examples": [
+          {
+            "sentence": "Deadline pressure is an essential journalistic experience.",
+            "sentence_zh": "截稿压力是新闻工作的必备体验。"
+          },
+          {
+            "sentence": "Her Xiaohongshu account shares journalistic equipment recommendations.",
+            "sentence_zh": "她的小红书账号分享新闻工作设备推荐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "journalistic ethics",
+        "meaning": "新闻职业道德",
+        "examples": [
+          {
+            "sentence": "The hot search incident sparked discussions about journalistic ethics.",
+            "sentence_zh": "热搜事件引发对新闻职业道德的讨论。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "journalistic style",
+        "meaning": "新闻体",
+        "examples": [
+          {
+            "sentence": "Bilibili creators are adapting journalistic style to video formats.",
+            "sentence_zh": "B站UP主正将新闻体适配视频形式。"
+          }
+        ]
+      }
+    ],
+    "teach": "journalistic本质是'日报基因'📰！古罗马人在《每日纪闻》上刻公告(acta diurna)，就像现在朋友圈刷屏⏩。说'抢新闻'用scoop(本意是舀水)，'标题党'叫clickbait(钓点击的饵)🎣。记住：真正的journalistic精神，是像追连续剧一样追热点，但要有甲骨文考证的严谨🧐！",
+    "recite": {
+      "tips": [
+        "谐音梗：'今日冷死铁'→新闻工作者(journalistic)寒冬跑现场",
+        "对比记忆：journalistic(行业属性) vs reporter(具体职业)"
+      ]
+    }
+  },
+  {
+    "word": "journey",
+    "etymology": {
+      "breakdown": [
+        "journ",
+        "ey"
+      ],
+      "meaning_connection": "词根journ=日（法语jour），-ey表状态→原指'一天的行程'，后延伸为长途旅行"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "旅程",
+        "examples": [
+          {
+            "sentence": "The journey from Beijing to Guangzhou by high-speed rail feels shorter with hotpot takeout.",
+            "sentence_zh": "带着火锅外卖坐高铁从北京到广州，旅程都变短了。"
+          },
+          {
+            "sentence": "Life is a journey best measured in cups of milk tea consumed.",
+            "sentence_zh": "人生这段旅程，最好用喝过的奶茶杯数来衡量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "旅行",
+        "examples": [
+          {
+            "sentence": "Their journey through Yunnan involved eating 18 kinds of wild mushrooms.",
+            "sentence_zh": "他们的云南旅行中吃了18种野生菌。"
+          },
+          {
+            "sentence": "A journey with 5G signal is happier than a palace without WiFi.",
+            "sentence_zh": "有5G信号的旅行，胜过没有WiFi的皇宫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "旅行",
+        "examples": [
+          {
+            "sentence": "They journeyed across the Gobi Desert by camel like ancient tea traders.",
+            "sentence_zh": "他们像古代茶商一样骑着骆驼穿越戈壁沙漠。"
+          },
+          {
+            "sentence": "After retirement, he journeys to a different dumpling restaurant every week.",
+            "sentence_zh": "退休后，他每周都要去不同的饺子馆旅行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "游历",
+        "examples": [
+          {
+            "sentence": "Xu Xiake journeyed all the scenic spots in 16th century China.",
+            "sentence_zh": "徐霞客游历了16世纪中国所有景点。"
+          },
+          {
+            "sentence": "Food bloggers nowadays journey every night market in the city.",
+            "sentence_zh": "现在的美食博主会游历城里每个夜市。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "journey to",
+        "meaning": "前往...的旅程",
+        "examples": [
+          {
+            "sentence": "The journey to Mars may include instant noodle meals.",
+            "sentence_zh": "前往火星的旅程可能会包含方便面餐食。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go on a journey",
+        "meaning": "开始旅行",
+        "examples": [
+          {
+            "sentence": "WeChat Moments makes everyone look like they're always going on a journey.",
+            "sentence_zh": "微信朋友圈让每个人都看起来总是在旅行。"
+          }
+        ]
+      }
+    ],
+    "teach": "journey其实是个'日结工'📅：来自法语jour（日），古代人按天数计算行程🗺️。现在说'长途跋涉'叫schlep（像拖着行李赶地铁🚇），'说走就走的旅行'叫spur-of-the-moment trip（像突然点奶茶外卖🥡）。记住：人生就像外卖配送——重要的不是目的地，而是沿途的风景！",
+    "recite": {
+      "tips": [
+        "谐音梗：'今日腻'→今日腻(journey)了想旅行",
+        "对比：trip是短途小旅行（像奶茶店跑腿），journey是正经长途（像跨省送外卖）",
+        "记忆tip：拆解jour+ney→今日(jour)那(ney)里出发"
+      ]
+    }
+  },
+  {
+    "word": "journeying",
+    "etymology": {
+      "breakdown": [
+        "journey",
+        "ing"
+      ],
+      "meaning_connection": "journey源自古法语'jornee'(白天的行程)，-ing表示正在进行"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "旅行",
+        "examples": [
+          {
+            "sentence": "The influencer is journeying through Yunnan while livestreaming rice noodle eating.",
+            "sentence_zh": "这位网红正在云南旅行，同时直播吃米线。"
+          },
+          {
+            "sentence": "Ancient poets loved journeying and composing poems about moonlit rivers.",
+            "sentence_zh": "古代诗人喜欢旅行并创作关于江月的诗篇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "出游",
+        "examples": [
+          {
+            "sentence": "During Golden Week, millions are journeying to scenic spots with their selfie sticks.",
+            "sentence_zh": "黄金周期间，数百万人带着自拍杆出游景点。"
+          },
+          {
+            "sentence": "Pandas in the wild enjoy journeying to find fresh bamboo shoots.",
+            "sentence_zh": "野生大熊猫喜欢出游寻找新鲜竹笋。"
+          }
+        ]
+      }
+    ],
+    "teach": "journeying是'人在囧途'模式🚗💨！这个词源自'jour'(法语'日')，像徐霞客日行三十里记游记📜。搭配说'journeying on foot'（暴走模式）或'journeying light'（轻装出行）。地道表达用'wanderlust'形容旅行瘾，就像闻到火锅味走不动道🍲！记住：每个journeying的人手机里都装着12306和高德🗺️",
+    "recite": {
+      "tips": [
+        "谐音梗：'绝腻'→旅行太久会'绝对腻味'",
+        "对比记忆：journeying（长途） vs. tripping（短途）",
+        "联想：jour+ney→'今日内'完成旅程"
+      ]
+    }
+  },
+  {
+    "word": "journeyman",
+    "etymology": {
+      "breakdown": [
+        "journey",
+        "man"
+      ],
+      "meaning_connection": "源自中古英语，原指完成学徒期后'按日(journey)计酬'的工匠(man)，现指有技术但未获大师资格的工人。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "雇工",
+        "examples": [
+          {
+            "sentence": "The construction site hired 20 journeymen for temporary support.",
+            "sentence_zh": "工地雇佣了20名临时雇工支援。"
+          },
+          {
+            "sentence": "Medieval journeymen often carried their tools in leather rolls.",
+            "sentence_zh": "中世纪的雇工常把工具裹在皮革卷里携带。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "熟练工人",
+        "examples": [
+          {
+            "sentence": "As a journeyman electrician, he could rewire an entire teahouse in half a day.",
+            "sentence_zh": "作为熟练电工，他半天就能重装整个茶楼的线路。"
+          },
+          {
+            "sentence": "The Porsche factory only promotes journeymen to quality inspectors.",
+            "sentence_zh": "保时捷工厂只提拔熟练工人担任质检员。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "短工",
+        "examples": [
+          {
+            "sentence": "Moonlighting as a journeyman chef, he makes extra money during holidays.",
+            "sentence_zh": "他在节假日兼职做短工厨师赚外快。"
+          },
+          {
+            "sentence": "Spring Festival decorations are mostly done by seasonal journeymen.",
+            "sentence_zh": "春节装饰工程多由季节性短工完成。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "journeyman's license",
+        "meaning": "工匠执照",
+        "examples": [
+          {
+            "sentence": "Getting a plumber's journeyman's license requires 8,000 hours of practice.",
+            "sentence_zh": "获取水管工工匠执照需要8000小时实操。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "journeyman years",
+        "meaning": "游历期（指工匠学成后四处历练的阶段）",
+        "examples": [
+          {
+            "sentence": "During his journeyman years, the carpenter collected techniques from 12 provinces.",
+            "sentence_zh": "木匠在游历期收集了十二个省份的工艺。"
+          }
+        ]
+      }
+    ],
+    "teach": "journeyman其实是'按日薪走路的人'👣！中世纪学徒出师后，要带着锤子⚒️游历欧洲积累经验（这叫wanderjahre）。如今NBA的'角色球员'也叫journeyman，就像剧组里的万能场务💼。搭配：'持证工匠'叫licensed journeyman，'打零工'说work as a journeyman。地道表达：'老油条'英语是seasoned journeyman（字面是'腌制过的工匠'🥓）。",
+    "recite": {
+      "tips": [
+        "谐音梗：'叫你慢'→师傅总对新人喊'叫你慢'点做工",
+        "易混词：apprentice（学徒）vs journeyman（熟练工）vs master（大师）",
+        "记忆链：journey(旅程)+man(人)=带着技术走四方的人"
+      ]
+    }
   }
 ]

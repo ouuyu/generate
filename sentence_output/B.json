@@ -10454,5 +10454,345 @@
         "易混词对比：railing（整体栏杆） vs banister（单根支柱）"
       ]
     }
+  },
+  {
+    "word": "banjo",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自西非方言bandore的变体，美国黑奴带入的乐器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "班卓琴",
+        "examples": [
+          {
+            "sentence": "The farmer played folk songs on his homemade banjo after work.",
+            "sentence_zh": "那个农民下班后用自制的班卓琴弹奏民谣。"
+          },
+          {
+            "sentence": "KFC's Colonel Sanders actually played banjo in a country band when young.",
+            "sentence_zh": "肯德基爷爷年轻时曾在乡村乐队弹奏班卓琴。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "five-string banjo",
+        "meaning": "五弦班卓琴",
+        "examples": [
+          {
+            "sentence": "The bluegrass musician tuned his five-string banjo before the gig.",
+            "sentence_zh": "蓝草音乐家在演出前调校他的五弦班卓琴。"
+          }
+        ]
+      }
+    ],
+    "teach": "班卓琴是'美国琵琶'🎸！它起源于黑奴用葫芦和羊肠做的简易乐器，后来成为乡村音乐灵魂。'弹得烂'叫strum like a chicken（像鸡扒拉），'高手'叫banjo wizard🧙♂️。记住：没有班卓琴的乡村音乐就像没有辣椒的火锅🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'扳脚'→扳着脚弹班卓琴",
+        "易混词：banjo/violin（前者是拨弦，后者是拉弦）",
+        "记忆法：ban+jo=禁止(ban)焦虑(jo)，弹琴解压"
+      ]
+    }
+  },
+  {
+    "word": "bank",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古北欧语'banki'（长凳），货币交易者在长凳上开展业务，后引申为金融机构；'河岸'义项来自古英语'banke'（隆起物）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "银行",
+        "examples": [
+          {
+            "sentence": "The digital yuan allows payments without visiting a physical bank.",
+            "sentence_zh": "数字人民币可实现无实体银行交易。"
+          },
+          {
+            "sentence": "He transferred 6.6 yuan to his crush via mobile bank app.",
+            "sentence_zh": "他通过手机银行给暗恋对象转了6.6元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "堤岸",
+        "examples": [
+          {
+            "sentence": "Lovers carve their names on the willow trees along the river bank.",
+            "sentence_zh": "恋人们在河堤的柳树上刻下彼此名字。"
+          },
+          {
+            "sentence": "The Yangtze River banks are reinforced with eco-friendly materials.",
+            "sentence_zh": "长江两岸采用环保材料加固。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "blood bank",
+        "meaning": "血库",
+        "examples": [
+          {
+            "sentence": "The panda blood bank urgently needs Type Rh-negative donors.",
+            "sentence_zh": "熊猫血库急需Rh阴性血型捐献者。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bank on",
+        "meaning": "依赖",
+        "examples": [
+          {
+            "sentence": "Don't bank on your looks to pass the Gaokao!",
+            "sentence_zh": "别指望靠颜值通过高考！"
+          }
+        ]
+      }
+    ],
+    "teach": "bank是'钱与水的二重奏'💦💸：金融bank源自意大利商人的交易长凳（想象威尼斯商人坐在板凳上数钱💰），河岸bank则像大地伸出的'储蓄罐'🏞️。说'存款见底'可以用tapped out（像被抽干的河床），'月光族'叫bank account challenged（银行账户有挑战）。记住：金融bank让你富，自然bank防洪水！",
+    "recite": {
+      "tips": [
+        "谐音梗：'办卡'→去bank办卡",
+        "易混词：bench（长凳）与bank同源但分道扬镳"
+      ]
+    }
+  },
+  {
+    "word": "bankable",
+    "etymology": {
+      "breakdown": [
+        "bank",
+        "able"
+      ],
+      "meaning_connection": "bank（银行） + -able（能够...的）→ 能被银行接受的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "银行能接受的",
+        "examples": [
+          {
+            "sentence": "Only bankable checks can be cashed immediately.",
+            "sentence_zh": "只有银行能接受的支票才能立即兑现。"
+          },
+          {
+            "sentence": "This digital currency is becoming bankable in some countries.",
+            "sentence_zh": "这种数字货币在一些国家正变得能被银行接受。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "银行肯承兑的",
+        "examples": [
+          {
+            "sentence": "The letter of credit must be bankable to secure the deal.",
+            "sentence_zh": "信用证必须由银行肯承兑才能确保交易安全。"
+          },
+          {
+            "sentence": "Not all promissory notes are bankable in international trade.",
+            "sentence_zh": "在国际贸易中并非所有本票都是银行肯承兑的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "银行肯担保的",
+        "examples": [
+          {
+            "sentence": "The startup finally got a bankable loan with government support.",
+            "sentence_zh": "这家初创企业在政府支持下终于获得了银行肯担保的贷款。"
+          },
+          {
+            "sentence": "Only projects with bankable guarantees qualify for this fund.",
+            "sentence_zh": "只有具备银行肯担保的项目才有资格获得这笔资金。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bankable asset",
+        "meaning": "可银行担保的资产",
+        "examples": [
+          {
+            "sentence": "Real estate is considered the most bankable asset in China.",
+            "sentence_zh": "在中国，房地产被认为是最可银行担保的资产。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bankable star",
+        "meaning": "票房保证的明星（金融术语引申义）",
+        "examples": [
+          {
+            "sentence": "Jackie Chan became a bankable star in Hollywood in the 1990s.",
+            "sentence_zh": "成龙在1990年代成为好莱坞的票房保证。"
+          }
+        ]
+      }
+    ],
+    "teach": "bankable就像金融界的VIP通行证💳！最初指'能被银行接受的'，就像古时候银庄只收成色足的银子💰（bankable silver）。后来引申到娱乐圈，'bankable star'指能让投资人稳赚不赔的明星🌟。记住：说'这项目很靠谱'可以用rock-solid，但要说'银行都认账'必须用bankable！",
+    "recite": {
+      "tips": [
+        "谐音梗：'办卡宝'→能办卡的(bankable)才是宝",
+        "对比记忆：acceptable（可接受的） vs bankable（银行可接受的）",
+        "联想：银行(bank)+能力(able)=有被银行认可的能力"
+      ]
+    }
+  },
+  {
+    "word": "banked",
+    "etymology": {
+      "breakdown": [
+        "bank",
+        "ed"
+      ],
+      "meaning_connection": "bank源自古北欧语'bakki'（河岸），-ed表形容词→原指'像河岸般倾斜的'，后衍生出'堆积'义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有坡面的",
+        "examples": [
+          {
+            "sentence": "The banked curves of Formula 1 tracks allow cars to turn at 300km/h.",
+            "sentence_zh": "F1赛道的倾斜弯道让赛车能以300公里时速过弯。"
+          },
+          {
+            "sentence": "Children love sliding down banked snow hills during winter.",
+            "sentence_zh": "孩子们喜欢冬天从有坡度的雪坡上滑下来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "堆积的",
+        "examples": [
+          {
+            "sentence": "The banked clouds before the typhoon looked like cotton candy mountains.",
+            "sentence_zh": "台风前堆积的云层像棉花糖山。"
+          },
+          {
+            "sentence": "His banked anger finally exploded when his baozi was stolen.",
+            "sentence_zh": "当他的包子被偷时，积压的怒火终于爆发了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "banked turn",
+        "meaning": "倾斜弯道",
+        "examples": [
+          {
+            "sentence": "The roller coaster's banked turn makes riders feel like flying.",
+            "sentence_zh": "过山车的倾斜弯道让乘客有飞翔的感觉。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "banked hours",
+        "meaning": "累积工时",
+        "examples": [
+          {
+            "sentence": "Programmers often use banked hours to exchange for vacation days.",
+            "sentence_zh": "程序员常用累积工时兑换休假。"
+          }
+        ]
+      }
+    ],
+    "teach": "banked是'斜出来的艺术'🎢！古北欧海盗用bakki形容倾斜的河岸⚓️，现在用来描述F1赛道的'压弯'姿势（banked curve）和程序员攒的'工时扑满'💰（banked hours）。说'怒气值满格'可以讲anger is banked up像火山🌋，'云层堆积'叫banked clouds像叠拉面🍜",
+    "recite": {
+      "tips": [
+        "谐音梗：'崩壳的'→斜坡太陡贝壳都崩了",
+        "易混词对比：banket（荷兰语'长椅'）vs banked"
+      ]
+    }
+  },
+  {
+    "word": "banker",
+    "etymology": {
+      "breakdown": [
+        "bank",
+        "er"
+      ],
+      "meaning_connection": "bank=银行/堤岸，-er表'从事...的人'→最初指在威尼斯长椅(banca)上放贷的货币兑换商"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "银行家",
+        "examples": [
+          {
+            "sentence": "The banker approved my loan while eating stinky tofu.",
+            "sentence_zh": "这位银行家吃着臭豆腐批准了我的贷款。"
+          },
+          {
+            "sentence": "Wall Street bankers ride shared bikes to work during financial crises.",
+            "sentence_zh": "金融危机期间华尔街银行家骑共享单车上班。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "庄家（赌局）",
+        "examples": [
+          {
+            "sentence": "The mahjong banker won 10 rounds consecutively with magical luck.",
+            "sentence_zh": "麻将庄家靠着玄学运气连赢十局。"
+          },
+          {
+            "sentence": "In casinos, the banker always has mathematical advantage.",
+            "sentence_zh": "赌场里庄家永远拥有数学优势。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "central banker",
+        "meaning": "央行行长",
+        "examples": [
+          {
+            "sentence": "The central banker's speech moved the cryptocurrency market like earthquake.",
+            "sentence_zh": "央行行长的讲话让加密货币市场地震般波动。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "be the banker",
+        "meaning": "坐庄",
+        "examples": [
+          {
+            "sentence": "Who wants to be the banker in this round of Monopoly?",
+            "sentence_zh": "这轮大富翁游戏谁来坐庄？"
+          }
+        ]
+      }
+    ],
+    "teach": "banker其实是'板凳客'🪑：意大利语banca指长椅，中世纪货币兑换商坐在河岸边的板凳上营业🏦。庄家叫banker因为赌资堆得像河岸(bank)🗻。说'金融巨鳄'用fat cat（肥猫），'存钱罐'是piggy bank🐖。记住：banker数钱时像在砌砖墙🧱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'办卡的'→银行家就是办卡的",
+        "易混词对比：banker(从业者) vs. bank(机构) vs. bankrupt(破产)"
+      ]
+    }
   }
 ]

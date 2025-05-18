@@ -10625,5 +10625,241 @@
         "易混词：accelerator(加速装置) vs. decelerator(减速装置)"
       ]
     }
+  },
+  {
+    "word": "accent",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cent"
+      ],
+      "meaning_connection": "前缀ac-表示'加强'，词根cent来自拉丁语cantus(歌唱)→原指音调变化，引申出'重音'和'特色'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "重音",
+        "examples": [
+          {
+            "sentence": "The accent in 'dumpling' falls on the first syllable.",
+            "sentence_zh": "'饺子'一词的重音在第一个音节。"
+          },
+          {
+            "sentence": "Chinese poetry uses tonal accents to create rhythm.",
+            "sentence_zh": "中国诗词用声调重音创造韵律。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "口音",
+        "examples": [
+          {
+            "sentence": "Her Sichuan accent makes 'hotpot' sound extra spicy.",
+            "sentence_zh": "她的四川口音让'火锅'听起来格外火辣。"
+          },
+          {
+            "sentence": "The AI can recognize over 20 regional English accents.",
+            "sentence_zh": "这个AI能识别20多种地域英语口音。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "特点",
+        "examples": [
+          {
+            "sentence": "The restaurant's accent is its blue-and-white porcelain decor.",
+            "sentence_zh": "这家餐厅的特点是青花瓷装饰。"
+          },
+          {
+            "sentence": "Modern smartphones put accent on camera performance.",
+            "sentence_zh": "现代智能手机以拍照性能为特点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "重读",
+        "examples": [
+          {
+            "sentence": "Teachers often accent wrong words in students' speeches.",
+            "sentence_zh": "老师常会重读学生演讲中的错误词汇。"
+          },
+          {
+            "sentence": "You should accent the last word in this slogan.",
+            "sentence_zh": "你应该重读这条标语最后一个词。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "强调",
+        "examples": [
+          {
+            "sentence": "The policy accents environmental protection.",
+            "sentence_zh": "该政策强调环境保护。"
+          },
+          {
+            "sentence": "Her outfit accents vintage elements.",
+            "sentence_zh": "她的穿搭强调复古元素。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with an accent",
+        "meaning": "带有口音",
+        "examples": [
+          {
+            "sentence": "He speaks Mandarin with a Cantonese accent.",
+            "sentence_zh": "他说普通话带有粤语口音。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "accent lighting",
+        "meaning": "重点照明",
+        "examples": [
+          {
+            "sentence": "The museum uses accent lighting for precious artifacts.",
+            "sentence_zh": "博物馆用重点照明展示珍贵文物。"
+          }
+        ]
+      }
+    ],
+    "teach": "accent就像语言界的火锅蘸料🥘！重庆口音是麻辣🌶️，东北口音是酸菜味🥬（local accent）；语法重音像火锅里的毛肚——必须七上八下👆👇（stress accent）；说'强调某事'就像往蘸料里狂加香菜🌿（accent the point）。地道表达：'口音重'叫thick accent，'没口音'说neutral accent。记住：你的accent就是你的语言DNA！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱森特'→森林特(accent)别需要重点保护",
+        "易混词：accent vs. ascent (上升)",
+        "记忆诀：名词'accent'三步走：声音→腔调→特色"
+      ]
+    }
+  },
+  {
+    "word": "accented",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cent",
+        "ed"
+      ],
+      "meaning_connection": "前缀ac-表示'加强'，词根cent来自拉丁语'cantus'（歌唱），-ed表形容词→原指'加强音调'，后引申为'带有口音的'。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "带...腔调的",
+        "examples": [
+          {
+            "sentence": "The Sichuan-accented Mandarin made the comedy skit 10 times funnier.",
+            "sentence_zh": "带四川腔的普通话让小品好笑十倍。"
+          },
+          {
+            "sentence": "Her British-accented Chinese sounded like a poetic recitation.",
+            "sentence_zh": "她带英国腔的中文听起来像诗朗诵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "带...口音的",
+        "examples": [
+          {
+            "sentence": "The vendor's heavily accented English required translation by WeChat.",
+            "sentence_zh": "小贩浓重口音的英语需要微信翻译。"
+          },
+          {
+            "sentence": "French-accented compliments sound automatically romantic.",
+            "sentence_zh": "带法国口音的赞美自动变浪漫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "heavily accented",
+        "meaning": "口音浓重的",
+        "examples": [
+          {
+            "sentence": "His heavily accented speech became a meme on Bilibili.",
+            "sentence_zh": "他浓重的口音演讲成了B站鬼畜素材。"
+          }
+        ]
+      }
+    ],
+    "teach": "accented其实是语言界的滤镜📸！就像东北话自带笑果🤣，广东腔自动关联港剧📺。要说'塑料英语'用broken English，'魔性口音'叫quirky accent。记住：你的口音不是缺陷，是行走的GPS📍——听两句就知道你老家在哪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱森的'→德国口音说'I see'变成'爱森的'",
+        "易混词：accented（有口音的）vs. ascent（上升）"
+      ]
+    }
+  },
+  {
+    "word": "accentuate",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cent",
+        "uate"
+      ],
+      "meaning_connection": "前缀ac-表示'加强'，词根cent来自拉丁语cantus（歌唱），-uate为动词后缀→原指'加强音调'，后引申为'强调'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "以重音念",
+        "examples": [
+          {
+            "sentence": "The teacher accentuated the second syllable of 'kawaii' like a Japanese anime character.",
+            "sentence_zh": "老师像日漫角色一样重读'kawaii'的第二个音节。"
+          },
+          {
+            "sentence": "AI voice assistants sometimes accentuate wrong syllables in Chinese names.",
+            "sentence_zh": "AI语音助手有时会错误重读中文名的音节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "强调",
+        "examples": [
+          {
+            "sentence": "Her red qipao accentuated the festive atmosphere during Lunar New Year.",
+            "sentence_zh": "她的红色旗袍强调了春节的喜庆氛围。"
+          },
+          {
+            "sentence": "The museum lighting accentuates the cracks on the ancient bronze ware.",
+            "sentence_zh": "博物馆的灯光着重凸显了青铜器上的裂纹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accentuate the positive",
+        "meaning": "突出积极面",
+        "examples": [
+          {
+            "sentence": "Douyin videos often accentuate the positive aspects of rural life.",
+            "sentence_zh": "抖音视频常突出乡村生活的积极面。"
+          }
+        ]
+      }
+    ],
+    "teach": "accentuate是个自带BGM的单词🎵！词根cent来自歌唱(cantus)，就像周杰伦把'哥练的胸肌'重音唱成'胸肌'💪。视觉记忆：想象用荧光笔🖍️在PPT上划重点（accentuate key points）。说'强调差异'用accentuate differences，地道表达'高亮显示'叫highlight。记住：无论是发音还是观点，需要突出时就用它！✨🎤🔦",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱森特喂她'→用重音示爱",
+        "易混词：accent（口音）是名词，accentuate是强化动作"
+      ]
+    }
   }
 ]

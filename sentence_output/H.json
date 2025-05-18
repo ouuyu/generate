@@ -10330,5 +10330,293 @@
         "易混词对比：harassed（被烦的） vs. exhausted（纯体力耗尽）"
       ]
     }
+  },
+  {
+    "word": "harassment",
+    "etymology": {
+      "breakdown": [
+        "harass",
+        "ment"
+      ],
+      "meaning_connection": "动词harass源自古法语'harer'（驱使猎犬）+后缀-ment表行为结果→字面意思是'被猎犬追赶的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "困扰",
+        "examples": [
+          {
+            "sentence": "The constant construction noise became a daily harassment to residents.",
+            "sentence_zh": "持续的施工噪音成了住户的日常困扰。"
+          },
+          {
+            "sentence": "Mosquitoes are nature's ultimate harassment during summer nights.",
+            "sentence_zh": "蚊子是夏夜最天然的困扰源。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "烦扰",
+        "examples": [
+          {
+            "sentence": "Telemarketing calls are a form of modern digital harassment.",
+            "sentence_zh": "推销电话是现代数字烦扰的一种形式。"
+          },
+          {
+            "sentence": "Her ex-boyfriend's persistent messages crossed the line into harassment.",
+            "sentence_zh": "她前男友的持续短信已越界成为烦扰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "骚扰",
+        "examples": [
+          {
+            "sentence": "The company has zero tolerance for sexual harassment in the workplace.",
+            "sentence_zh": "该公司对职场性骚扰采取零容忍政策。"
+          },
+          {
+            "sentence": "Cyber harassment through fake accounts is a growing problem.",
+            "sentence_zh": "通过虚假账号进行的网络骚扰日益严重。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "workplace harassment",
+        "meaning": "职场骚扰",
+        "examples": [
+          {
+            "sentence": "The new HR system allows anonymous reporting of workplace harassment.",
+            "sentence_zh": "新人事系统允许匿名举报职场骚扰。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "racial harassment",
+        "meaning": "种族骚扰",
+        "examples": [
+          {
+            "sentence": "The school implemented anti-racial harassment training for teachers.",
+            "sentence_zh": "该校为教师实施了反种族骚扰培训。"
+          }
+        ]
+      }
+    ],
+    "teach": "harassment其实是'追猎行为'🐺→想象被狼群(hara-)追到怀疑人生(-ssment)！职场骚扰叫cubicle torture（格子间酷刑），网络骚扰可说keyboard bullying（键盘霸凌）💻。记住：遇到harassment要像打地鼠那样反击🔨，保护自己的权益！",
+    "recite": {
+      "tips": [
+        "谐音梗：'害了失眠'→骚扰导致失眠",
+        "易混词对比：harassment（长期骚扰） vs. annoyance（短暂恼怒）"
+      ]
+    }
+  },
+  {
+    "word": "harbinger",
+    "etymology": {
+      "breakdown": [
+        "har",
+        "bing",
+        "er"
+      ],
+      "meaning_connection": "古英语here=军队 + begen=行进 → 原指'军队先遣队'，引申为'预告者'。后缀-er表示人或物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "通告者",
+        "examples": [
+          {
+            "sentence": "The rooster is nature's harbinger of sunrise.",
+            "sentence_zh": "公鸡是大自然宣告日出的使者。"
+          },
+          {
+            "sentence": "Meteorologists serve as harbingers of typhoons in coastal cities.",
+            "sentence_zh": "气象学家是沿海城市台风的通告者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "先驱",
+        "examples": [
+          {
+            "sentence": "Peking Man is considered the harbinger of Chinese civilization.",
+            "sentence_zh": "北京猿人被视为华夏文明的先驱。"
+          },
+          {
+            "sentence": "Elon Musk calls Tesla the harbinger of the electric era.",
+            "sentence_zh": "马斯克称特斯拉是电气时代的先驱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "预兆",
+        "examples": [
+          {
+            "sentence": "The first snow is a harbinger of hot pot season in Beijing.",
+            "sentence_zh": "初雪是北京火锅季的预兆。"
+          },
+          {
+            "sentence": "A sudden stock plunge may be a harbinger of economic crisis.",
+            "sentence_zh": "股市暴跌可能是经济危机的预兆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "预告",
+        "examples": [
+          {
+            "sentence": "The blooming cherry trees harbinger the coming of spring.",
+            "sentence_zh": "盛开的樱花预告着春天的来临。"
+          },
+          {
+            "sentence": "Douyin's new feature harbingers a revolution in short video algorithms.",
+            "sentence_zh": "抖音新功能预告着短视频算法的革命。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "harbinger of doom",
+        "meaning": "凶兆",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese saw solar eclipses as harbingers of doom.",
+            "sentence_zh": "古人将日食视为不祥之兆。"
+          }
+        ]
+      }
+    ],
+    "teach": "harbinger其实是'哈利波特先遣队'⚡！古英语here(军队)+binger(送信人)组成，就像霍格沃茨的猫头鹰信使🦉。现代用法中：春运抢票软件是回家'预告者'🎫，初雪是火锅季'预兆'🍲。搭配'harbinger of hope'比说'好消息'更文艺，形容早春柳芽可以说'willow harbingers'🌱。记住：它比天气预报更有诗意！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈冰哥'→哈尔滨冰雕节(harbinger)预告冬天❄️",
+        "易混词：forerunner侧重'先行者'，harbinger强调'预告性'"
+      ]
+    }
+  },
+  {
+    "word": "harbor",
+    "etymology": {
+      "breakdown": [
+        "har",
+        "bor"
+      ],
+      "meaning_connection": "古英语herebeorg（军队+庇护），原指军舰停泊处，引申为安全场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "港口",
+        "examples": [
+          {
+            "sentence": "The Qingdao harbor is famous for Tsingtao Beer and container cranes.",
+            "sentence_zh": "青岛港以青岛啤酒和集装箱起重机闻名。"
+          },
+          {
+            "sentence": "Pirates secretly entered the harbor under cover of fog.",
+            "sentence_zh": "海盗借着雾霭的掩护悄然入港。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "避难所",
+        "examples": [
+          {
+            "sentence": "The library became his mental harbor during unemployment.",
+            "sentence_zh": "失业期间图书馆成了他的精神避风港。"
+          },
+          {
+            "sentence": "This animal shelter is a safe harbor for stray cats.",
+            "sentence_zh": "这家动物收容所是流浪猫的安全港湾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "庇护",
+        "examples": [
+          {
+            "sentence": "The temple harbored revolutionaries during the war.",
+            "sentence_zh": "战争期间这座寺庙庇护过革命者。"
+          },
+          {
+            "sentence": "Her smile harbored hidden sadness.",
+            "sentence_zh": "她的笑容里藏着不为人知的悲伤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "藏匿",
+        "examples": [
+          {
+            "sentence": "The suspect was harboring stolen iPhones in his basement.",
+            "sentence_zh": "嫌疑犯在地下室藏匿被盗的iPhone。"
+          },
+          {
+            "sentence": "The old book harbors a pressed maple leaf from 1945.",
+            "sentence_zh": "这本旧书里藏着1945年的枫叶标本。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "(使)入港停泊",
+        "examples": [
+          {
+            "sentence": "The cruise ship harbored at midnight with fireworks.",
+            "sentence_zh": "邮轮在烟花中于午夜入港。"
+          },
+          {
+            "sentence": "Fishermen were harboring their boats before the typhoon came.",
+            "sentence_zh": "渔民们在台风来临前将船只泊入港湾。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "safe harbor",
+        "meaning": "安全港（法律术语）",
+        "examples": [
+          {
+            "sentence": "This clause provides a safe harbor for copyright disputes.",
+            "sentence_zh": "该条款为版权纠纷提供安全港原则保护。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "harbor resentment",
+        "meaning": "心怀怨恨",
+        "examples": [
+          {
+            "sentence": "Don't harbor resentment like leftover hotpot broth.",
+            "sentence_zh": "别像隔夜火锅汤底般积攒怨气。"
+          }
+        ]
+      }
+    ],
+    "teach": "harbor是'海港'也是'心港'⚓！古代海盗藏宝图🗺️上的harbor总画着骷髅头💀，如今说'safe harbor'却是法律护身符🛡️。'心怀鬼胎'叫harbor evil intentions，'船舶入港'说The ship is harboring。记住：物理港湾用in harbor（The yacht is in harbor），心理藏匿用harbor（He harbors doubts）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈勃'→哈勃望远镜在太空港(harbor)",
+        "易混对比：port（商业港） vs harbor（天然港湾）",
+        "记忆口诀：harbor=hard+bor（困难时给予保护）"
+      ]
+    }
   }
 ]

@@ -10399,5 +10399,309 @@
         "易混词：sweater(毛衣) vs knitwear(统称针织品)"
       ]
     }
+  },
+  {
+    "word": "knob",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'cnob'，意为圆形块状物，拟声词模仿敲击球形物的声音"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "把手",
+        "examples": [
+          {
+            "sentence": "The brass knob on the antique cabinet was shaped like a lion's head.",
+            "sentence_zh": "古董柜上的黄铜把手做成狮子头形状。"
+          },
+          {
+            "sentence": "She turned the porcelain knob gently to avoid waking the baby.",
+            "sentence_zh": "她轻轻转动陶瓷门把手以免吵醒婴儿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "旋钮",
+        "examples": [
+          {
+            "sentence": "The DJ spun the volume knob counterclockwise for a fade-out effect.",
+            "sentence_zh": "DJ逆时针旋转音量旋钮制造渐弱效果。"
+          },
+          {
+            "sentence": "My grandma's radio has wooden knobs that crackle when adjusted.",
+            "sentence_zh": "奶奶的收音机配有木制旋钮，调节时会发出噼啪声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "球形突出物",
+        "examples": [
+          {
+            "sentence": "Hikers use the knobs on tree trunks as footholds in steep terrain.",
+            "sentence_zh": "徒步者用树干上的球形凸起作为陡峭地形的落脚点。"
+          },
+          {
+            "sentence": "The dinosaur model had realistic knobs along its spine.",
+            "sentence_zh": "恐龙模型脊柱上有逼真的球形突起。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使有球形突出物",
+        "examples": [
+          {
+            "sentence": "The blacksmith knobbed the ends of the iron rods for decoration.",
+            "sentence_zh": "铁匠在铁棒末端做出球形突起作为装饰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "鼓起",
+        "examples": [
+          {
+            "sentence": "The dough began to knob where the yeast was most active.",
+            "sentence_zh": "面团在酵母最活跃处开始鼓起。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "door knob",
+        "meaning": "门把手",
+        "examples": [
+          {
+            "sentence": "The detective found fingerprints on the crystal door knob.",
+            "sentence_zh": "侦探在水晶门把手上发现了指纹。"
+          }
+        ]
+      }
+    ],
+    "teach": "knob是'万物皆可球'综合征患者🏀！从门把手到肿瘤（tumor原意也是knob），从音响旋钮到面团鼓包，它完美演绎'凸起即正义'哲学🧠。英式俚语说'with knobs on'表示'变本加厉'，比如'I'll return your insult with knobs on'（我会加倍奉还你的侮辱）💥。记住：遇到knob就想象在拧奶茶盖珍珠🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'诺布'→诺基亚手机(nokia)的圆形导航键就是经典knob",
+        "易混词对比：knob（可转动的圆形物）vs node（不可动的节点）",
+        "记忆tip：所有knob都像被按下的泡泡纸🔵"
+      ]
+    }
+  },
+  {
+    "word": "knock",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语cnocian，拟声词，模拟敲击声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "敲",
+        "examples": [
+          {
+            "sentence": "The three knocks on the door signaled the start of the mahjong game.",
+            "sentence_zh": "三下敲门声标志着麻将局开始。"
+          },
+          {
+            "sentence": "I recognized her special knock - two quick taps and a long slide.",
+            "sentence_zh": "我认出了她独特的敲门方式——两下快敲加一长滑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "敲打",
+        "examples": [
+          {
+            "sentence": "The carpenter's steady knocks echoed through the hutong.",
+            "sentence_zh": "木匠有节奏的敲打声回荡在胡同里。"
+          },
+          {
+            "sentence": "We heard knocks coming from the broken washing machine.",
+            "sentence_zh": "我们听到坏掉的洗衣机传来敲打声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "敲击",
+        "examples": [
+          {
+            "sentence": "He knocked the watermelon to test its ripeness.",
+            "sentence_zh": "他敲击西瓜测试成熟度。"
+          },
+          {
+            "sentence": "Grandma knocks her pipe against the ashtray after smoking.",
+            "sentence_zh": "奶奶抽完烟会把烟斗在烟灰缸上敲击几下。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "互撞",
+        "examples": [
+          {
+            "sentence": "Dididache bikes were knocking against each other in the parking lot.",
+            "sentence_zh": "滴滴打车自行车在停车场里互相碰撞。"
+          },
+          {
+            "sentence": "My knees knocked from fear during the horror movie.",
+            "sentence_zh": "看恐怖片时我吓得膝盖直打颤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "攻击",
+        "examples": [
+          {
+            "sentence": "The article knocked Weibo's new censorship policy.",
+            "sentence_zh": "该文章猛烈抨击微博的新审查政策。"
+          },
+          {
+            "sentence": "He's always knocking Douyin as time-wasting.",
+            "sentence_zh": "他总攻击抖音是浪费时间。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "knock on wood",
+        "meaning": "讨吉利",
+        "examples": [
+          {
+            "sentence": "\"My flight hasn't been delayed in 5 years\" - \"Knock on wood!\"",
+            "sentence_zh": "\"我坐飞机五年没延误过\"——\"快敲木头讨吉利！\""
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "knock it off",
+        "meaning": "住手",
+        "examples": [
+          {
+            "sentence": "Knock it off! You're spilling the hotpot broth!",
+            "sentence_zh": "住手！火锅汤要洒出来了！"
+          }
+        ]
+      }
+    ],
+    "teach": "knock是自带音效的单词👂！想象敲门三声就是'咚咚咚'🎵（three knocks），膝盖发抖像在敲木鱼🪵（knees knocking），而'knock on wood'习俗源自古人相信敲树能赶走霉运🌳。说'别黑我偶像'可以用Don't knock my idol🤳，遇到好事要立刻敲桌面说Knock on wood🙏！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹磕'→敲门就是来闹磕的",
+        "易混词：knock vs. hit（轻敲vs.猛击）"
+      ]
+    }
+  },
+  {
+    "word": "knockabout",
+    "etymology": {
+      "breakdown": [
+        "knock",
+        "about"
+      ],
+      "meaning_connection": "字面'到处敲打'→引申为'混乱的物理接触'和'喧闹状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "乱打的",
+        "examples": [
+          {
+            "sentence": "Jackie Chan's knockabout comedy always involves teapots flying everywhere.",
+            "sentence_zh": "成龙的打闹喜剧总少不了茶壶满天飞。"
+          },
+          {
+            "sentence": "The knockabout puppetry reminds people of peanut shells cracking during Chinese New Year.",
+            "sentence_zh": "那些乱打的木偶戏让人想起春节磕花生壳的声响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "喧嚣的",
+        "examples": [
+          {
+            "sentence": "The knockabout atmosphere in the wet market is louder than TikTok livestreams.",
+            "sentence_zh": "菜市场的喧嚣气氛比抖音直播还热闹。"
+          },
+          {
+            "sentence": "His knockabout laughter could be heard across three mahjong tables.",
+            "sentence_zh": "他喧嚣的笑声能穿透三张麻将桌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "放荡性的",
+        "examples": [
+          {
+            "sentence": "That knockabout novel describes Tang Dynasty poets drinking like fish.",
+            "sentence_zh": "那本放荡小说描写唐代诗人像鱼一样豪饮。"
+          },
+          {
+            "sentence": "His knockabout youth was wilder than a Sichuan hotpot.",
+            "sentence_zh": "他放荡的青年时代比四川火锅还火辣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "喧闹的争论",
+        "examples": [
+          {
+            "sentence": "The knockabout over pineapple pizza divided the office into two camps.",
+            "sentence_zh": "关于菠萝披萨的喧闹争论把办公室分成两派。"
+          },
+          {
+            "sentence": "Their WeChat knockabout sounded like two crosstalk performers.",
+            "sentence_zh": "他们的微信吵架像两个相声演员在斗嘴。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "单桅帆船",
+        "examples": [
+          {
+            "sentence": "The knockabout with red sails looked like a floating chili pepper.",
+            "sentence_zh": "那艘红帆单桅船像漂流的辣椒。"
+          },
+          {
+            "sentence": "Fishermen used knockabouts to chase the sunset like post-90s chasing KFC Thursday specials.",
+            "sentence_zh": "渔民驾单桅船追日落的样子像90后追肯德基周四特惠。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "knockabout comedy",
+        "meaning": "打闹喜剧",
+        "examples": [
+          {
+            "sentence": "Stephen Chow's knockabout comedies make people snort milk through their noses.",
+            "sentence_zh": "周星驰的打闹喜剧能让人笑得从鼻子里喷奶茶。"
+          }
+        ]
+      }
+    ],
+    "teach": "knockabout是'物理版微博吵架'💥！想象李逵抡板斧(knockabout fight) VS 菜市场大妈砍价(knockabout argument)，或者单身汉(放荡性)的袜子🧦 VS 海鲜市场(喧嚣的)的吆喝。要说'乱糟糟'可以叫a dog's breakfast🐶，'船晃得像醉汉'可以说rolling like a drunken master🍺。记住：带-about的单词都很忙！",
+    "recite": {
+      "tips": [
+        "谐音梗：'闹磕about'→边闹边磕瓜子",
+        "易混词：knockout(击倒)是结果，knockabout是过程"
+      ]
+    }
   }
 ]

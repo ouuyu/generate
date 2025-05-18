@@ -10884,5 +10884,333 @@
         "记忆tip：把-ly看作李宁标志→中国制造的高效象征"
       ]
     }
+  },
+  {
+    "word": "effigy",
+    "etymology": {
+      "breakdown": [
+        "ef",
+        "fig",
+        "y"
+      ],
+      "meaning_connection": "前缀ef-表'出来'，词根fig=塑造，-y为名词后缀→塑造出的形象"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "肖像",
+        "examples": [
+          {
+            "sentence": "The museum displays wax effigies of historical figures like Confucius.",
+            "sentence_zh": "博物馆陈列着孔子等历史人物的蜡像肖像。"
+          },
+          {
+            "sentence": "Her self-portrait evolved from an abstract effigy to hyperrealism.",
+            "sentence_zh": "她的自画像从抽象肖像发展为超写实风格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "雕像",
+        "examples": [
+          {
+            "sentence": "Protesters burned an effigy of the politician made of straw.",
+            "sentence_zh": "抗议者焚烧了用稻草制成的该政客雕像。"
+          },
+          {
+            "sentence": "The terracotta army consists of thousands of life-sized effigies.",
+            "sentence_zh": "兵马俑由数千尊真人大小的陶俑雕像组成。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in effigy",
+        "meaning": "以雕像形式",
+        "examples": [
+          {
+            "sentence": "The corrupt official was hanged in effigy during the demonstration.",
+            "sentence_zh": "示威中用雕像象征性地吊死了那个贪官。"
+          }
+        ]
+      }
+    ],
+    "teach": "effigy是'愤怒的小鸟'版雕像🎯！古代贵族造effigy炫富💎（如秦始皇兵马俑），现代人烧effigy泄愤🔥（比如烧稻草人）。搭配'melt the effigy'指代销毁象征物，'living effigy'形容长得像雕像的明星💃。记住：effigy要么被供着，要么被烧掉，没有中间态！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱妃急'→皇帝急着给爱妃造雕像",
+        "易混词：statue（庄严雕像）vs effigy（常带象征意义）",
+        "记忆法：effigy=EF（恶搞）+ FIGURE（形象）"
+      ]
+    }
+  },
+  {
+    "word": "effing",
+    "etymology": {
+      "breakdown": [
+        "eff",
+        "ing"
+      ],
+      "meaning_connection": "委婉替代f-word的变体，-ing表形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "该死的",
+        "examples": [
+          {
+            "sentence": "The effing elevator broke down again during rush hour.",
+            "sentence_zh": "高峰时段这该死的电梯又坏了。"
+          },
+          {
+            "sentence": "I lost my effing keys in a pile of takeout boxes.",
+            "sentence_zh": "我把该死的钥匙丢在外卖盒堆里了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "混账的",
+        "examples": [
+          {
+            "sentence": "This effing weather ruined our picnic plans.",
+            "sentence_zh": "这混账天气毁了我们的野餐计划。"
+          },
+          {
+            "sentence": "My effing phone died right before the douyin livestream.",
+            "sentence_zh": "我混账手机偏偏在抖音直播前没电了。"
+          }
+        ]
+      }
+    ],
+    "teach": "effing其实是文明版国骂🤬！源自把f-word首字母化用（类似'卧槽'的含蓄版）。当你说'effing traffic'时，就像被美团骑手超车还溅一身水🚗💦。搭配：effing hell（要命哦）/ effing brilliant（ ironically表示'绝了'）。记住：用effing抱怨时，至少能保持表面优雅🍵！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱疯'→用苹果手机(effing)死机时想骂人",
+        "对比：bloody（英式吐槽） vs effing（美式含蓄版）"
+      ]
+    }
+  },
+  {
+    "word": "effluent",
+    "etymology": {
+      "breakdown": [
+        "ef",
+        "flu",
+        "ent"
+      ],
+      "meaning_connection": "前缀ef-=向外(ex-变体)，词根flu=流动，-ent表性质→向外流动的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "流出的",
+        "examples": [
+          {
+            "sentence": "The effluent water from the spa contains beneficial minerals.",
+            "sentence_zh": "温泉流出的水中含有益矿物质。"
+          },
+          {
+            "sentence": "Effluent gases are carefully filtered in modern factories.",
+            "sentence_zh": "现代工厂会仔细过滤流出的气体。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "射出的",
+        "examples": [
+          {
+            "sentence": "The effluent light from the lighthouse saved the ship.",
+            "sentence_zh": "灯塔射出的光线拯救了那艘船。"
+          },
+          {
+            "sentence": "Dragon's effluent fire breath amazed the audience.",
+            "sentence_zh": "龙喷射出的火焰让观众惊叹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "流出物",
+        "examples": [
+          {
+            "sentence": "The effluent from this brewery smells like fermented hops.",
+            "sentence_zh": "这家啤酒厂的流出物闻起来像发酵啤酒花。"
+          },
+          {
+            "sentence": "Scientists are testing the chemical composition of industrial effluent.",
+            "sentence_zh": "科学家正在检测工业流出物的化学成分。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "由河湖等流出之水流",
+        "examples": [
+          {
+            "sentence": "The effluent of West Lake flows into the Qiantang River.",
+            "sentence_zh": "西湖的出水流入钱塘江。"
+          },
+          {
+            "sentence": "Fishermen gathered where the lake effluent meets the sea.",
+            "sentence_zh": "渔民聚集在湖泊出水口与大海交汇处。"
+          }
+        ]
+      }
+    ],
+    "teach": "effluent是'流量担当'💦！古罗马人用fluere表示流动（如fluent流利），加上ef-前缀就成了'外流'。它既可以是啤酒厂的废水🍺（industrial effluent），也可以是火山喷发的岩浆🌋（effluent lava）。搭配词组：'effluent standard排放标准'、'thermal effluent热废水'。说'乱排放'用dump effluent like a boss💼。记住：所有effluent最终都流向'大自然的回收站'♻️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'衣服lu了'→衣服被流出物(effluent)弄湿了",
+        "易混词对比：affluent(富裕的) vs effluent(流出的)→A有钱往里流，E没钱往外流"
+      ]
+    }
+  },
+  {
+    "word": "effort",
+    "etymology": {
+      "breakdown": [
+        "ef",
+        "fort"
+      ],
+      "meaning_connection": "前缀ex-（出）变体ef- + 词根fort（力量）→ 把力量使出来"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "努力",
+        "examples": [
+          {
+            "sentence": "Writing 50,000 words for NaNoWriMo takes tremendous effort, like herding cats with chopsticks.",
+            "sentence_zh": "为全国小说写作月写五万字需要巨大努力，堪比用筷子赶猫。"
+          },
+          {
+            "sentence": "Her effort to learn Peking opera included waking at 5am to practice falsetto.",
+            "sentence_zh": "她学习京剧的努力包括清晨五点起床练假声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "成就",
+        "examples": [
+          {
+            "sentence": "The mooncake recipe was a delicious effort after 20 failed attempts.",
+            "sentence_zh": "在失败20次后，这个月饼配方成为香甜的成就。"
+          },
+          {
+            "sentence": "China's high-speed rail network stands as a monumental effort of engineering.",
+            "sentence_zh": "中国高铁网络是工程学上的巨大成就。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make an effort",
+        "meaning": "做出努力",
+        "examples": [
+          {
+            "sentence": "He made an effort to use chopsticks properly during the hotpot party.",
+            "sentence_zh": "他在火锅聚餐时努力正确使用筷子。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "joint effort",
+        "meaning": "共同努力",
+        "examples": [
+          {
+            "sentence": "The panda conservation program is a joint effort between China and WWF.",
+            "sentence_zh": "大熊猫保护计划是中国与世界自然基金会的共同成就。"
+          }
+        ]
+      }
+    ],
+    "teach": "effort是'使出洪荒之力'💪！古罗马战士的fort（力量）要ex-（出来）才是effort。说'白费力气'叫wasted effort就像用漏勺舀汤🥄，'团队努力'说team effort好比广场舞大妈们的默契👯♀️。记住：每个effort都是未来成就的垫脚石！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱佛特'→爱佛特(effort)别人才会特爱你",
+        "易混词：affect（影响）vs effect（效果）"
+      ]
+    }
+  },
+  {
+    "word": "effortless",
+    "etymology": {
+      "breakdown": [
+        "effort",
+        "less"
+      ],
+      "meaning_connection": "effort表示'努力'，后缀-less表示'没有'→'不需要努力的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "容易的",
+        "examples": [
+          {
+            "sentence": "The math genius solved the problem with effortless ease.",
+            "sentence_zh": "这个数学天才轻而易举地解决了问题。"
+          },
+          {
+            "sentence": "Her effortless charm won everyone's heart at the party.",
+            "sentence_zh": "她轻松自然的魅力赢得了派对上所有人的心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不费力气的",
+        "examples": [
+          {
+            "sentence": "The professional dancer made the difficult moves look effortless.",
+            "sentence_zh": "专业舞者让高难度动作看起来毫不费力。"
+          },
+          {
+            "sentence": "His effortless style of writing makes reading a pleasure.",
+            "sentence_zh": "他行云流水的写作风格让阅读成为一种享受。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "effortless victory",
+        "meaning": "轻松胜利",
+        "examples": [
+          {
+            "sentence": "The team achieved an effortless victory in the competition.",
+            "sentence_zh": "这支队伍在比赛中轻松获胜。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "effortless beauty",
+        "meaning": "自然美",
+        "examples": [
+          {
+            "sentence": "Her effortless beauty needs no makeup.",
+            "sentence_zh": "她天然去雕饰的美不需要任何化妆品。"
+          }
+        ]
+      }
+    ],
+    "teach": "effortless就像吃火锅不用蘸料也香🍲！它源自19世纪形容'像天鹅游水般优雅'🦢，水面优雅水下拼命划水。搭配：effortless chic（毫不费力的时髦）就像穿睡衣出街也能上热搜✨，effortless cooking像方便面变米其林🍜。说'小菜一碟'可叫effortless as pie🥧，记住：真大佬都把hard模式玩成easy模式！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱佛乐死'→爱佛的人乐死了因为修行不费力",
+        "易混词对比：effortless vs. careless（前者是褒义'轻松自如'，后者是贬义'粗心大意'）",
+        "联想记忆：effort+less=努力-少=不费劲"
+      ]
+    }
   }
 ]

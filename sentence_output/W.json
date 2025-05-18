@@ -10879,5 +10879,250 @@
         "易混词：awareness（感知）更被动，watchfulness（警觉）更主动"
       ]
     }
+  },
+  {
+    "word": "watching",
+    "etymology": {
+      "breakdown": [
+        "watch",
+        "ing"
+      ],
+      "meaning_connection": "watch源自古英语'wæccan'（保持清醒），-ing表进行态或动名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "观看",
+        "examples": [
+          {
+            "sentence": "We're watching a livestream where pandas roll down hills like fuzzy dumplings.",
+            "sentence_zh": "我们正在观看熊猫像糯米团子一样从山坡滚下的直播。"
+          },
+          {
+            "sentence": "Grandpa enjoys watching chess games in the park while munching sunflower seeds.",
+            "sentence_zh": "爷爷喜欢边嗑瓜子边观看公园里的象棋对弈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "守望",
+        "examples": [
+          {
+            "sentence": "The lighthouse keeper has been watching the stormy sea for 30 years.",
+            "sentence_zh": "灯塔看守人已守望暴风雨中的海面三十年。"
+          },
+          {
+            "sentence": "Villagers take turns watching the ancient banyan tree during typhoon season.",
+            "sentence_zh": "台风季村民轮流守望那棵古榕树。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "监视",
+        "examples": [
+          {
+            "sentence": "Security cameras are watching the mooncake storage room 24/7.",
+            "sentence_zh": "监控摄像头24小时监视着月饼仓库。"
+          },
+          {
+            "sentence": "The AI system is watching for shoplifters through facial micro-expressions.",
+            "sentence_zh": "AI系统正通过面部微表情监视扒手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "注意",
+        "examples": [
+          {
+            "sentence": "She's watching her step on the icy sidewalk like a penguin.",
+            "sentence_zh": "她像企鹅一样注意着结冰人行道上的脚步。"
+          },
+          {
+            "sentence": "The chef is watching the soup closely to prevent overflowing.",
+            "sentence_zh": "厨师正密切注意着防止汤锅溢出。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "watching brief",
+        "meaning": "监督报告",
+        "examples": [
+          {
+            "sentence": "Lawyers kept a watching brief on the dumpling recipe copyright case.",
+            "sentence_zh": "律师们对饺子配方版权案保持监督报告。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "watching the clock",
+        "meaning": "不断看表",
+        "examples": [
+          {
+            "sentence": "Interns were watching the clock during the overtime meeting.",
+            "sentence_zh": "实习生们在加班会议上不断看表。"
+          }
+        ]
+      }
+    ],
+    "teach": "watching就像猫头鹰眼👁️：古代守夜人watchman要数星星✨（star watching），现代人watch剧像嗑瓜子停不下来📺。'暗中观察'说keep a watchful eye，'摸鱼'是watch the clock⏰。记住：用watching时你的眼球必须像监控云台一样转动！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卧听'→躺着(watching)听直播",
+        "易混词：see强调结果（看到），watch强调过程（观看）",
+        "记忆tip：watch+ing=正在用眼球做追踪运动"
+      ]
+    }
+  },
+  {
+    "word": "watchmaker",
+    "etymology": {
+      "breakdown": [
+        "watch",
+        "maker"
+      ],
+      "meaning_connection": "复合词，由watch（表）和maker（制造者）组成，直译为'制表人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "钟表匠",
+        "examples": [
+          {
+            "sentence": "The Swiss watchmaker spent 3 months assembling this mechanical masterpiece.",
+            "sentence_zh": "这位瑞士钟表匠花费三个月组装这件机械杰作。"
+          },
+          {
+            "sentence": "My grandfather was a watchmaker who could repair antique clocks blindfolded.",
+            "sentence_zh": "我祖父是位蒙着眼也能修古董钟的钟表匠。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "watchmaker's precision",
+        "meaning": "钟表匠般的精确",
+        "examples": [
+          {
+            "sentence": "The rocket launch required watchmaker's precision in timing.",
+            "sentence_zh": "火箭发射需要钟表匠般的精准计时。"
+          },
+          {
+            "sentence": "Her embroidery shows watchmaker's precision in every stitch.",
+            "sentence_zh": "她的刺绣每一针都展现钟表匠般的精确。"
+          }
+        ]
+      }
+    ],
+    "teach": "watchmaker其实是时间魔法师⏳：他们用放大镜🔍和镊子组装比蚂蚁腿还小的零件！瑞士钟表匠地位堪比程序员💻，'修表'叫watch repair就像给时间做手术🩺。记住：说'他手巧'可以夸'has watchmaker's hands'（有双钟表匠的手）✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'我吃没壳'→钟表匠修表时碎屑掉进午饭",
+        "易混词：watchman（守夜人）vs watchmaker（修表人）",
+        "记忆tip：拆解watch+maker=制造时间的人"
+      ]
+    }
+  },
+  {
+    "word": "watchman",
+    "etymology": {
+      "breakdown": [
+        "watch",
+        "man"
+      ],
+      "meaning_connection": "watch=看守+man=人→从事看守工作的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "巡夜者",
+        "examples": [
+          {
+            "sentence": "The watchman patrolled the ancient hutongs with his copper gong.",
+            "sentence_zh": "巡夜人敲着铜锣穿行在老胡同里。"
+          },
+          {
+            "sentence": "Modern watchmen use drones instead of lanterns.",
+            "sentence_zh": "现代巡夜者用无人机代替了灯笼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "看守人",
+        "examples": [
+          {
+            "sentence": "The museum watchman caught a thief trying to steal dinosaur fossils.",
+            "sentence_zh": "博物馆看守人逮到企图偷恐龙化石的小偷。"
+          },
+          {
+            "sentence": "Every construction site in China has a red-armband watchman.",
+            "sentence_zh": "中国每个建筑工地都有戴红袖章的看守人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "night watchman",
+        "meaning": "夜间看守人",
+        "examples": [
+          {
+            "sentence": "The night watchman plays chess with stray cats to stay awake.",
+            "sentence_zh": "夜班看守人和流浪猫下棋保持清醒。"
+          }
+        ]
+      }
+    ],
+    "teach": "watchman其实是'夜之忍者'🌙！中世纪watchman要会吹号角🎺和防野狼🐺，现代版变成刷抖音值班（bored watchman syndrome）。说'值班打瞌睡'用catch forty winks，'认真看守'叫keep a hawk's eye🦅。记住：当watchman至少能见证所有凌晨四点的城市！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卧吃面'→看守人夜班吃泡面",
+        "易混词对比：watchman(职业) vs lookout(放哨者)"
+      ]
+    }
+  },
+  {
+    "word": "watchtower",
+    "etymology": {
+      "breakdown": [
+        "watch",
+        "tower"
+      ],
+      "meaning_connection": "watch=观察，tower=塔→用于观察的高塔"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "瞭望塔",
+        "examples": [
+          {
+            "sentence": "The Great Wall watchtowers were used to spot Mongolian invaders.",
+            "sentence_zh": "长城瞭望塔曾用于侦察蒙古入侵者。"
+          },
+          {
+            "sentence": "Firefighters climbed the watchtower to monitor the forest fire.",
+            "sentence_zh": "消防员登上瞭望塔监测森林火情。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "watchtower就是古代版的'微信位置共享'📍！长城烽火台是最早的watchtower⛰️，现在监狱瞭望塔还用它。搭配：'climb the watchtower'（登塔侦查）就像刷朋友圈看前任动态👀，'manned watchtower'（有人值守的塔）就像24小时在线的淘宝客服💻。要吐槽'视野差'可以说：This view is worse than a watchtower in fog! 🚬",
+    "recite": {
+      "tips": [
+        "谐音梗：'我吃糖'→在瞭望塔偷吃糖被抓住",
+        "易混词：lighthouse（灯塔）专指海上导航用"
+      ]
+    }
   }
 ]

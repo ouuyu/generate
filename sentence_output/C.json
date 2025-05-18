@@ -10132,5 +10132,255 @@
         "记忆tip：想象对镜子(candid本义'明亮的')说真话"
       ]
     }
+  },
+  {
+    "word": "candied",
+    "etymology": {
+      "breakdown": [
+        "candy",
+        "ed"
+      ],
+      "meaning_connection": "candy（糖果）+ -ed（形容词后缀）→ 变成糖果的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "糖制的",
+        "examples": [
+          {
+            "sentence": "The candied hawthorns on a stick are a classic Beijing street food.",
+            "sentence_zh": "糖葫芦是经典的北京街头小吃。"
+          },
+          {
+            "sentence": "My grandma makes candied ginger to help with sore throats.",
+            "sentence_zh": "我奶奶会制作糖渍姜来缓解喉咙痛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "甜蜜的",
+        "examples": [
+          {
+            "sentence": "Their candied words couldn't hide the bitter truth.",
+            "sentence_zh": "他们甜蜜的话语掩盖不了苦涩的真相。"
+          },
+          {
+            "sentence": "The couple's candied love letters were discovered after 50 years.",
+            "sentence_zh": "这对夫妻50年前写的甜蜜情书近日被发现。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "candied fruit",
+        "meaning": "蜜饯水果",
+        "examples": [
+          {
+            "sentence": "Chinese New Year platters always include candied winter melon.",
+            "sentence_zh": "春节果盘里总会包含糖冬瓜。"
+          }
+        ]
+      }
+    ],
+    "teach": "candied是糖衣炮弹的真实写照！🍬 中世纪欧洲医生把药裹上糖衣叫candied medicine（像中药丸的蜜糖衣🍯），而'甜言蜜语'英语说candied words就像裹着白糖的毒苹果🍎。记住：当你听到too candied compliments（过分甜蜜的恭维），小心糖尿病警告⚠️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看地的'→看地的老农吃着糖渍地瓜",
+        "对比记忆：candied（糖渍的） vs. sugary（含糖的）"
+      ]
+    }
+  },
+  {
+    "word": "candle",
+    "etymology": {
+      "breakdown": [
+        "cand",
+        "le"
+      ],
+      "meaning_connection": "词根cand=发光/白炽（同candidate候选人穿白袍），-le表小物品→发光的细小物件"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "蜡烛",
+        "examples": [
+          {
+            "sentence": "The birthday cake was surrounded by 30 dripping candles.",
+            "sentence_zh": "生日蛋糕周围插着30支滴蜡的蜡烛。"
+          },
+          {
+            "sentence": "Romantic dinners with candlelight are banned in IKEA.",
+            "sentence_zh": "宜家禁止在卖场用烛光搞浪漫晚餐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "对着光检查（鸡蛋等）",
+        "examples": [
+          {
+            "sentence": "Farmers candle eggs to check for blood spots.",
+            "sentence_zh": "农场主会透光检查鸡蛋是否有血斑。"
+          },
+          {
+            "sentence": "She candled the amber to see trapped mosquitoes.",
+            "sentence_zh": "她对着光检查琥珀里的被困蚊子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "burn the candle at both ends",
+        "meaning": "过度消耗精力",
+        "examples": [
+          {
+            "sentence": "Burning the candle at both ends leads to 996 syndrome.",
+            "sentence_zh": "蜡烛两头烧会导致996过劳症。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "not hold a candle to",
+        "meaning": "远不如",
+        "examples": [
+          {
+            "sentence": "No robot can hold a candle to my grandma's dumplings.",
+            "sentence_zh": "机器包的饺子远不如我奶奶的手艺。"
+          }
+        ]
+      }
+    ],
+    "teach": "蜡烛曾是古代'人造太阳'☀️！古罗马用蜂蜡蜡烛计时⏳（1根=4小时）。现代人说'burn the midnight candle'就是熬夜爆肝💻，'not hold a candle'原指连举烛照明都不配！最朋克用法是'candlelight protest'🕯️——用烛光代替呐喊。记住：考试前别burn at both ends哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'看抖'→看抖(candle)动的烛光",
+        "易混词：candle vs. kindle（后者是电子阅读器）",
+        "记忆tip：蜡烛(candle)和候选人(candidate)都源自'发光'"
+      ]
+    }
+  },
+  {
+    "word": "candlelight",
+    "etymology": {
+      "breakdown": [
+        "candle",
+        "light"
+      ],
+      "meaning_connection": "复合词，candle=蜡烛，light=光→字面意思为蜡烛发出的光，后引申为'黄昏'（烛光点亮的时间段）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "烛光",
+        "examples": [
+          {
+            "sentence": "The romantic dinner was lit only by flickering candlelight.",
+            "sentence_zh": "摇曳的烛光是这顿浪漫晚餐的唯一光源。"
+          },
+          {
+            "sentence": "Ancient poets often wrote by candlelight, which explains their bad eyesight.",
+            "sentence_zh": "古代诗人常在烛光下写作，这解释了他们的视力问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "黄昏",
+        "examples": [
+          {
+            "sentence": "The market comes alive at candlelight with food stalls lighting up.",
+            "sentence_zh": "黄昏时分夜市随着小吃摊点灯而热闹起来。"
+          },
+          {
+            "sentence": "In Jane Austen's era, candlelight marked the start of evening socials.",
+            "sentence_zh": "简·奥斯汀时代，黄昏意味着晚间社交的开始。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "by candlelight",
+        "meaning": "借着烛光",
+        "examples": [
+          {
+            "sentence": "They played mahjong by candlelight during the blackout.",
+            "sentence_zh": "停电时他们借着烛光打麻将。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "candlelight dinner",
+        "meaning": "烛光晚餐",
+        "examples": [
+          {
+            "sentence": "The proposal happened at a candlelight dinner with Peking duck.",
+            "sentence_zh": "求婚发生在北京烤鸭烛光晚餐上。"
+          }
+        ]
+      }
+    ],
+    "teach": "candlelight是古代人的'智能灯泡'💡！在没有电的时代，烛光=夜间活动许可证（想想《聊斋》里的书生📖）。说'浪漫氛围'直接用candlelit mood，吐槽'停电'叫power outage survival mode🕯️。重要提示：烛光晚餐(candlelight dinner)时千万别点外卖螺蛳粉！",
+    "recice": {
+      "tips": [
+        "谐音梗：'砍倒light'→砍倒电灯只能用烛光",
+        "易混词对比：twilight侧重自然天光，candlelight强调人造光源"
+      ]
+    }
+  },
+  {
+    "word": "candlelit",
+    "etymology": {
+      "breakdown": [
+        "candle",
+        "lit"
+      ],
+      "meaning_connection": "candle=蜡烛，lit=light（照亮）的过去分词→被蜡烛照亮的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "点蜡烛的",
+        "examples": [
+          {
+            "sentence": "The proposal happened at a candlelit hotpot restaurant.",
+            "sentence_zh": "求婚发生在烛光火锅店里。"
+          },
+          {
+            "sentence": "Candlelit mahjong games are trending in Chengdu teahouses.",
+            "sentence_zh": "烛光麻将正在成都茶馆流行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "用烛光照明的",
+        "examples": [
+          {
+            "sentence": "They read paper books in candlelit dorm after power outage.",
+            "sentence_zh": "停电后他们在烛光照明的宿舍读纸质书。"
+          },
+          {
+            "sentence": "Candlelit live-streaming gained 1M viewers last night.",
+            "sentence_zh": "烛光直播昨晚获百万观看。"
+          }
+        ]
+      }
+    ],
+    "teach": "candlelit是浪漫刺客💘：中世纪欧洲因蜡烛昂贵，烛光晚餐=炫富行为💸。现代说'停电'叫power cut，但烛光自习会被夸'有氛围感'（vibes）。搭配'烛光套路'candlelit scheme指假装停电制造浪漫🌹，记住：烛光下连泡面都能吃出米其林感觉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'砍倒lit'→砍倒电灯改用烛光",
+        "易混词对比：candlelight（烛光）vs candlelit（被烛光照亮的）"
+      ]
+    }
   }
 ]

@@ -10426,5 +10426,308 @@
         "联想：ODD（注意缺陷障碍）+LY=像多动症一样奇怪"
       ]
     }
+  },
+  {
+    "word": "odd",
+    "etymology": {
+      "breakdown": [
+        "od",
+        "d"
+      ],
+      "meaning_connection": "源自古诺尔斯语'oddi'（三角形地块的尖端）→'突出部分'→引申为'不匹配/不规则'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "奇数的",
+        "examples": [
+          {
+            "sentence": "The teacher asked us to circle all odd numbers like 1, 3, and 5.",
+            "sentence_zh": "老师让我们圈出所有奇数，如1、3、5。"
+          },
+          {
+            "sentence": "Odd-numbered houses are on the east side of the street.",
+            "sentence_zh": "奇数门牌号的房子在街道东侧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "古怪的",
+        "examples": [
+          {
+            "sentence": "He collects odd things like used subway cards and bottle caps.",
+            "sentence_zh": "他收集地铁卡和瓶盖这类古怪物品。"
+          },
+          {
+            "sentence": "The panda was behaving in an odd manner, standing on its head.",
+            "sentence_zh": "这只熊猫行为古怪地倒立着。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "剩余的",
+        "examples": [
+          {
+            "sentence": "After dividing the mooncakes, there was one odd piece left.",
+            "sentence_zh": "分完月饼后还剩一块。"
+          },
+          {
+            "sentence": "She knit a scarf with the odd balls of yarn.",
+            "sentence_zh": "她用剩余的毛线团织了条围巾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "零散的",
+        "examples": [
+          {
+            "sentence": "We found some odd coins under the sofa cushions.",
+            "sentence_zh": "我们在沙发垫下找到些零散硬币。"
+          },
+          {
+            "sentence": "The old book contained odd pages from different novels.",
+            "sentence_zh": "这本旧书夹杂着不同小说的零散页。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "各种各样的",
+        "examples": [
+          {
+            "sentence": "The flea market sells odd items from vintage phones to dinosaur fossils.",
+            "sentence_zh": "跳蚤市场售卖从复古电话到恐龙化石的各种物品。"
+          },
+          {
+            "sentence": "Her bag contained odd snacks like spicy chocolate and cheese-flavored candy.",
+            "sentence_zh": "她包里装着辣味巧克力、奶酪糖等各种零食。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "少量的",
+        "examples": [
+          {
+            "sentence": "I've got some odd minutes before the meeting starts.",
+            "sentence_zh": "距离开会还有零星几分钟。"
+          },
+          {
+            "sentence": "He earns odd dollars by walking dogs in his neighborhood.",
+            "sentence_zh": "他通过在小区遛狗赚点零钱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "奇特的事物",
+        "examples": [
+          {
+            "sentence": "The museum's collection includes many historical odds and ends.",
+            "sentence_zh": "博物馆收藏包含许多历史奇物。"
+          },
+          {
+            "sentence": "Her Instagram is full of culinary odds like blue noodles.",
+            "sentence_zh": "她的Ins满是蓝色面条之类的饮食奇观。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "怪人",
+        "examples": [
+          {
+            "sentence": "The old man wearing pajamas in the stock exchange was considered an odd.",
+            "sentence_zh": "那个穿睡衣逛证券交易所的老头被当作怪人。"
+          },
+          {
+            "sentence": "Our math teacher, who talks to his calculator, is a loveable odd.",
+            "sentence_zh": "我们那位和计算器说话的数学老师是个可爱的怪人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "odds and ends",
+        "meaning": "零碎物品",
+        "examples": [
+          {
+            "sentence": "My drawer is full of odds and ends like paperclips and expired coupons.",
+            "sentence_zh": "我抽屉装满回形针和过期优惠券等零碎。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "at odds with",
+        "meaning": "与...冲突",
+        "examples": [
+          {
+            "sentence": "His vegan lifestyle is at odds with his family's hotpot tradition.",
+            "sentence_zh": "他的素食习惯与家族火锅传统相冲突。"
+          }
+        ]
+      }
+    ],
+    "teach": "odd就像数学课上的淘气鬼🔢！当它表示'奇数'时像不被2整除的单身数字💔（odd numbers）；'古怪'时像穿袜子拖鞋的教授👴（odd behavior）；'剩余'时像火锅最后一片肥牛🥩（the odd piece）；说'怪人'直接叫odd就像《生活大爆炸》里的谢耳朵🤓。记住：odds and ends是家里那些'留着没用扔了可惜'的东西🗑️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬的'→熬的夜多了人就变odd（古怪）",
+        "易混词对比：weird（令人不适的怪） vs odd（有趣的怪）",
+        "数学记忆：奇数(odd)与偶数(even)永远势不两立"
+      ]
+    }
+  },
+  {
+    "word": "oddment",
+    "etymology": {
+      "breakdown": [
+        "odd",
+        "ment"
+      ],
+      "meaning_connection": "odd表示'零散的/奇怪的'，-ment表名词后缀→原指'不成套的残余物品'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "零头",
+        "examples": [
+          {
+            "sentence": "The fabric store sells oddments at half price every Friday.",
+            "sentence_zh": "布料店每周五以半价出售零头布。"
+          },
+          {
+            "sentence": "She collected yarn oddments to make a rainbow scarf.",
+            "sentence_zh": "她收集毛线零头编织彩虹围巾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "碎屑",
+        "examples": [
+          {
+            "sentence": "Panda bakery uses bread oddments to make pudding.",
+            "sentence_zh": "熊猫烘焙店用面包碎屑制作布丁。"
+          },
+          {
+            "sentence": "Save your nail polish oddments for art projects.",
+            "sentence_zh": "留着指甲油碎屑做手工用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "零碎物件",
+        "examples": [
+          {
+            "sentence": "His drawer was full of charger oddments from old phones.",
+            "sentence_zh": "他的抽屉塞满旧手机的充电器零碎。"
+          },
+          {
+            "sentence": "IKEA sells storage boxes specially for LEGO oddments.",
+            "sentence_zh": "宜家专门出售收纳乐高零碎的整理盒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "奇特的东西",
+        "examples": [
+          {
+            "sentence": "The museum displayed oddments like two-headed teddy bears.",
+            "sentence_zh": "博物馆展出双头泰迪熊之类的奇物。"
+          },
+          {
+            "sentence": "His collection includes oddments from every province.",
+            "sentence_zh": "他的收藏包含各省的奇特物件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "oddment bin",
+        "meaning": "零料箱",
+        "examples": [
+          {
+            "sentence": "Craftsmen always check the oddment bin first.",
+            "sentence_zh": "手艺人总会先翻找零料箱。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "oddment sale",
+        "meaning": "零碎特卖",
+        "examples": [
+          {
+            "sentence": "The oddment sale attracted DIY lovers.",
+            "sentence_zh": "零碎特卖吸引了手工爱好者。"
+          }
+        ]
+      }
+    ],
+    "teach": "oddment是'边角料界的盲盒'🎁！就像火锅店的鸭血边角🍲（meat oddments）能做成冒菜，宜家的布料零头🧵（fabric oddments）能拼成潮流包包。收藏家说'捡破烂'叫hunt for oddments🕵️♂️，'清仓甩卖'叫oddment bonanza💸。记住：你嫌弃的oddment，可能是手作达人的宝藏！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬得慢'→熬得慢才能攒齐oddment",
+        "易混词：fragment（碎片）强调断裂，oddment强调非常规"
+      ]
+    }
+  },
+  {
+    "word": "oddness",
+    "etymology": {
+      "breakdown": [
+        "odd",
+        "ness"
+      ],
+      "meaning_connection": "形容词odd（古怪的）+名词后缀-ness→表示'古怪的性质'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "奇怪",
+        "examples": [
+          {
+            "sentence": "The oddness of his behavior made everyone at the meeting uncomfortable.",
+            "sentence_zh": "他行为的奇怪让会议上的每个人都感到不舒服。"
+          },
+          {
+            "sentence": "She couldn't help but notice the oddness of the cat's obsession with cucumbers.",
+            "sentence_zh": "她无法不注意这只猫对黄瓜的痴迷有多奇怪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "古怪",
+        "examples": [
+          {
+            "sentence": "The oddness of the old house attracted many ghost hunters.",
+            "sentence_zh": "这栋老房子的古怪吸引了许多幽灵猎人。"
+          },
+          {
+            "sentence": "His collection of rubber ducks added to his general air of oddness.",
+            "sentence_zh": "他收集的橡皮鸭子增添了他整体的古怪气质。"
+          }
+        ]
+      }
+    ],
+    "teach": "oddness就像火锅里的草莓🍓——让人忍不住皱眉问'这合理吗？' 在维多利亚时代，收集死亡面具（death mask）被视为高雅爱好，现代人看来就是pure oddness（纯纯的古怪）🤔。要说'这人很怪'可以用'oddball'（怪球），搭配'endearing oddness'（可爱的古怪）或'creepy oddness'（毛骨悚然的古怪）🎭。记住：你的oddness可能是别人的normal！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥德尼斯'→奥德赛(odyssey)般的尼斯湖水怪（odd+ness）",
+        "易混词对比：weirdness（更负面）/quirkiness（更可爱）",
+        "联想记忆：odd（奇数）+ness→像奇数一样不合群"
+      ]
+    }
   }
 ]
