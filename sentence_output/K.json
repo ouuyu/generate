@@ -2294,5 +2294,324 @@
         "记忆链：Kenya→runner→tea"
       ]
     }
+  },
+  {
+    "word": "Kenyan",
+    "etymology": {
+      "breakdown": [
+        "Kenya",
+        "n"
+      ],
+      "meaning_connection": "源自东非国家Kenya（肯尼亚），后缀-n表示归属关系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "肯尼亚人",
+        "examples": [
+          {
+            "sentence": "Kipchoge, the marathon legend, is a proud Kenyan.",
+            "sentence_zh": "马拉松传奇基普乔格是位自豪的肯尼亚人。"
+          },
+          {
+            "sentence": "Kenyans celebrate Mashujaa Day with traditional dances.",
+            "sentence_zh": "肯尼亚人用传统舞蹈庆祝英雄日。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Kenyan coffee",
+        "meaning": "肯尼亚咖啡",
+        "examples": [
+          {
+            "sentence": "Starbucks sources Kenyan coffee beans for its premium blends.",
+            "sentence_zh": "星巴克采购肯尼亚咖啡豆用于其高端拼配。"
+          }
+        ]
+      }
+    ],
+    "teach": "Kenyan=长跑王者🏃+咖啡王者☕！肯尼亚人承包了奥运会长跑奖牌，就像义乌承包了世界杯小国旗🇰🇪。说'肯尼亚特产'用signature Kenyan，'内罗毕夜生活'叫Nairobi nightlife🌃。记住：看到Kenyan就想到——要么在破世界纪录，要么在种世界顶级咖啡豆！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啃椰难'→肯尼亚人啃椰子冠军（实际盛产咖啡）",
+        "易混词：Kenya（国家名）vs Kenyan（国民）"
+      ]
+    }
+  },
+  {
+    "word": "kept",
+    "etymology": {
+      "breakdown": [
+        "keep",
+        "t"
+      ],
+      "meaning_connection": "keep（保持）的规则过去式/分词形态，-t为古英语弱动词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "保持（过去式）",
+        "examples": [
+          {
+            "sentence": "He kept his promise to quit milk tea for 100 days.",
+            "sentence_zh": "他遵守了戒奶茶100天的承诺。"
+          },
+          {
+            "sentence": "The Forbidden City has kept its grandeur for centuries.",
+            "sentence_zh": "紫禁城数百年来保持着它的宏伟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "保存（过去分词）",
+        "examples": [
+          {
+            "sentence": "The secret recipe is kept in a digital vault.",
+            "sentence_zh": "秘方被保存在数字保险库中。"
+          },
+          {
+            "sentence": "Her childhood diaries were kept under the bed.",
+            "sentence_zh": "她的童年日记一直存放在床底下。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kept woman/man",
+        "meaning": "被包养者",
+        "examples": [
+          {
+            "sentence": "The drama satirizes kept men who live in luxury apartments.",
+            "sentence_zh": "这部剧讽刺了住在豪华公寓的被包养男性。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "well-kept secret",
+        "meaning": "严守的秘密",
+        "examples": [
+          {
+            "sentence": "The launch date was a well-kept secret until yesterday.",
+            "sentence_zh": "直到昨日为止，发布日期始终是个严守的秘密。"
+          }
+        ]
+      }
+    ],
+    "teach": "kept就像时间胶囊⏳：当它表示'保持'时，像冷冻的饺子🥟（kept frozen）；表示'保存'时，像故宫文物柜🔒（kept in museum）。要说'月光族'叫kept by paycheck，'藏私房钱'是kept under mattress💵。记住：kept的东西要么很有价值，要么见不得光！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶贴'→酒瓶贴(kept)保存标签",
+        "对比记忆：keep（新鲜）→kept（腌制品）"
+      ]
+    }
+  },
+  {
+    "word": "kerb",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自17世纪英式拼写变体，与'curb'(控制)同源但分化为不同含义。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "路缘石",
+        "examples": [
+          {
+            "sentence": "The delivery scooter jumped the kerb and startled pedestrians.",
+            "sentence_zh": "快递电单车冲上路缘石吓到了行人。"
+          },
+          {
+            "sentence": "She tripped on the painted kerb while staring at her phone.",
+            "sentence_zh": "她盯着手机时被彩绘路缘石绊倒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kerb appeal",
+        "meaning": "房屋临街吸引力",
+        "examples": [
+          {
+            "sentence": "The potted plants added instant kerb appeal to the old house.",
+            "sentence_zh": "盆栽植物立刻为老房子增添了临街魅力。"
+          }
+        ]
+      }
+    ],
+    "teach": "kerb是英式英语的'马路牙子'🦷！就像火锅店的鸳鸯锅中间那道坎🍲，它分隔机动车道和人行道。美国拼写是curb（还表示'控制'），英式kerb专指石头。要说'差点绊倒'可以用trip over the kerb，夸房子临街好看叫kerb appeal就像夸人'侧颜杀'📸。记住：英式kerb是石头，美式curb还管住你乱花钱💸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'磕吧'→走路不看路磕吧(kerb)一声",
+        "易混词对比：kerb(路缘石)/curb(美式拼写+控制含义)"
+      ]
+    }
+  },
+  {
+    "word": "kerchief",
+    "etymology": {
+      "breakdown": [
+        "ker",
+        "chief"
+      ],
+      "meaning_connection": "古法语'covrir chef'（盖住头部）缩写，ker=覆盖，chief=头部→原指包裹头部的布"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "头巾",
+        "examples": [
+          {
+            "sentence": "The grandma tied a floral kerchief under her chin while riding the electric bike.",
+            "sentence_zh": "奶奶骑电动车时在下巴系着碎花头巾。"
+          },
+          {
+            "sentence": "Fishermen's kerchiefs in Qingdao have blue stripes like the sea waves.",
+            "sentence_zh": "青岛渔夫的头巾有海浪般的蓝色条纹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "围巾",
+        "examples": [
+          {
+            "sentence": "She used a silk kerchief as a summer neck accessory with her cheongsam.",
+            "sentence_zh": "她将真丝围巾作为旗袍的夏日颈饰。"
+          },
+          {
+            "sentence": "The cowboy wiped his sweat with the red kerchief around his neck.",
+            "sentence_zh": "牛仔用脖子上的红围巾擦了擦汗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "手帕",
+        "examples": [
+          {
+            "sentence": "Grandpa still keeps a cotton kerchief in his pocket like in the 1980s.",
+            "sentence_zh": "爷爷依然像80年代那样在口袋放棉手帕。"
+          },
+          {
+            "sentence": "Magicians pull endless colorful kerchiefs from their sleeves.",
+            "sentence_zh": "魔术师从袖子里抽出无穷无尽的彩色手帕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pocket kerchief",
+        "meaning": "装饰手帕",
+        "examples": [
+          {
+            "sentence": "His suit's pocket kerchief matched his tie perfectly.",
+            "sentence_zh": "他西装口袋的装饰手帕与领带完美相配。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wave one's kerchief",
+        "meaning": "挥巾告别",
+        "examples": [
+          {
+            "sentence": "At the railway station, lovers waved kerchiefs until the train disappeared.",
+            "sentence_zh": "火车站里，恋人们挥动手帕直到火车消失。"
+          }
+        ]
+      }
+    ],
+    "teach": "kerchief是文艺复兴时期的'emoji围脖'🧣！中世纪骑士会把心上人的kerchief系在盔甲上出征（最早的秀恩爱💘），水手则用它擦汗挡风🌊。现代用法：'pocket square'（口袋方巾）是西装界的青铜器📜，'丢手绢'游戏叫handkerchief tag🏃。记住：方寸之间，从擦鼻涕到时尚单品都能搞定！",
+    "recite": {
+      "tips": [
+        "谐音梗：'可气夫'→可气夫(kerchief)总弄丢老婆的围巾",
+        "易混词对比：handkerchief(手帕) vs neckerchief(围巾)"
+      ]
+    }
+  },
+  {
+    "word": "kernel",
+    "etymology": {
+      "breakdown": [
+        "corn"
+      ],
+      "meaning_connection": "来自古英语'cyrnel'（小种子），与corn（谷物）同源，指坚硬外壳包裹的核心部分"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "核心",
+        "examples": [
+          {
+            "sentence": "The kernel of his argument was about TikTok's algorithm.",
+            "sentence_zh": "他论点的核心是关于抖音的算法。"
+          },
+          {
+            "sentence": "Confucianism forms the kernel of traditional Chinese values.",
+            "sentence_zh": "儒家思想构成中国传统价值观的核心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中心",
+        "examples": [
+          {
+            "sentence": "The Forbidden City was the kernel of ancient Beijing.",
+            "sentence_zh": "紫禁城是古代北京的中心。"
+          },
+          {
+            "sentence": "The kernel of this durian is surprisingly sweet.",
+            "sentence_zh": "这个榴莲的果心意外地甜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "精髓",
+        "examples": [
+          {
+            "sentence": "The kernel of Chinese tea culture lies in its ceremony.",
+            "sentence_zh": "中国茶文化的精髓在于其仪式感。"
+          },
+          {
+            "sentence": "She extracted the kernel of the 2000-year-old philosophy.",
+            "sentence_zh": "她提炼出这门两千年哲学的精髓。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kernel of truth",
+        "meaning": "真实成分",
+        "examples": [
+          {
+            "sentence": "Even rumors about aliens contain a kernel of truth.",
+            "sentence_zh": "就连关于外星人的谣言也包含些许真实成分。"
+          }
+        ]
+      }
+    ],
+    "teach": "kernel就像剥瓜子🥜：1) 计算机内核是操作系统的'瓜子仁'💻 2) 古代粮仓火灾时会疯狂保护kernel（因为种子=文明延续）🌾 3) 说'抓住重点'用get to the kernel 4) '全是废话'的地道表达是no kernel in that nut 🗑️ 记住：剥开硬壳才能吃到美味的kernel！",
+    "recite": {
+      "tips": [
+        "谐音梗：'壳恼'→坚果壳里的烦恼(kernel)",
+        "易混词：kernel vs colonel（上校）→ 上校吃玉米kernel",
+        "记忆法：把K想象成坚果钳子夹开外壳"
+      ]
+    }
   }
 ]

@@ -2425,5 +2425,333 @@
         "易混词对比：fictional（虚构的）vs. factional（派系的）"
       ]
     }
+  },
+  {
+    "word": "factionalism",
+    "etymology": {
+      "breakdown": [
+        "faction",
+        "al",
+        "ism"
+      ],
+      "meaning_connection": "faction(派系)+al(形容词后缀)+ism(主义)→党派主义的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "党派性",
+        "examples": [
+          {
+            "sentence": "The factionalism in the anime fanbase divides people into 'sub vs dub' camps.",
+            "sentence_zh": "动漫粉丝圈的党派性将人们分成'字幕组vs配音版'阵营。"
+          },
+          {
+            "sentence": "His research focuses on political factionalism in K-pop fandoms.",
+            "sentence_zh": "他的研究关注韩娱粉丝圈的政治党派性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "党派活动",
+        "examples": [
+          {
+            "sentence": "The university club elections were tainted by factionalism.",
+            "sentence_zh": "大学社团选举被党派活动玷污。"
+          },
+          {
+            "sentence": "Online gaming guilds often collapse due to factionalism.",
+            "sentence_zh": "网络游戏公会常因党派活动而瓦解。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "派系分裂倾向",
+        "examples": [
+          {
+            "sentence": "The tech company failed because of factionalism between departments.",
+            "sentence_zh": "这家科技公司因部门间的派系分裂倾向而失败。"
+          },
+          {
+            "sentence": "Factionalism in the mahjong club led to three splinter groups.",
+            "sentence_zh": "麻将俱乐部的派系分裂倾向导致了三个分裂小团体。"
+          }
+        ]
+      }
+    ],
+    "teach": "factionalism就像火锅鸳鸯锅🍲：清汤党和红油党势不两立！这个词源自古罗马'factio'(制造分裂的小团体)👥，现代版好比奶茶界'珍珠党vs椰果党'🧋。形容'内斗'可以说like crabs in a bucket(桶里互相拉扯的螃蟹)🦀，记住：有人的地方就有factionalism，就像有WiFi的地方必有信号强弱之争📶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'粉丝闹了ism'→粉丝圈闹派系主义",
+        "易混词对比：fractionalism(碎片化主义) vs factionalism(派系主义)"
+      ]
+    }
+  },
+  {
+    "word": "factious",
+    "etymology": {
+      "breakdown": [
+        "fact",
+        "ious"
+      ],
+      "meaning_connection": "词根fact=做/制造（同factory），-ious表性质→'人为制造分裂的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "好搞派系的",
+        "examples": [
+          {
+            "sentence": "The factious nobles plotted to overthrow the emperor during hotpot banquets.",
+            "sentence_zh": "这些好搞派系的贵族们在火锅宴会上密谋推翻皇帝。"
+          },
+          {
+            "sentence": "Factious debates about mooncake flavors ruined the Mid-Autumn party.",
+            "sentence_zh": "关于月饼口味的派系之争毁了中秋晚会。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "好结党营私的",
+        "examples": [
+          {
+            "sentence": "That factious CEO built his power by creating cliques in the company.",
+            "sentence_zh": "那个结党营私的CEO通过在公司拉帮结派建立势力。"
+          },
+          {
+            "sentence": "The factious scholar formed academic gangs to suppress new theories.",
+            "sentence_zh": "这个结党营私的学者组建学术小团体打压新学说。"
+          }
+        ]
+      }
+    ],
+    "teach": "factious是'火锅拉帮结派学'🍲：词根fact=制造（就像factory造东西），-ious表示'过度'→人为制造小团体🤼。形容'办公室政治'叫play office politics，'搞小圈子'可说form cliques。记住：团结的团队吃鸳鸯锅，factious的人非要搞九宫格！🔥🤺⚔️",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭可涩死'→饭局上搞小团体让人尴尬到死",
+        "易混词对比：fictitious（虚构的）vs. factious（搞派系的）",
+        "联想记忆：factory（工厂）+ ious = 工厂里搞派系斗争"
+      ]
+    }
+  },
+  {
+    "word": "factitious",
+    "etymology": {
+      "breakdown": [
+        "fact",
+        "itious"
+      ],
+      "meaning_connection": "词根fact=做/制造（同factory），-itious表性质→'被做出来的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "人为的",
+        "examples": [
+          {
+            "sentence": "The factitious lake in the desert cost $2 billion to create.",
+            "sentence_zh": "沙漠中这个人工湖耗资20亿美元建造。"
+          },
+          {
+            "sentence": "Her factitious enthusiasm couldn't hide the boredom.",
+            "sentence_zh": "她虚假的热情掩盖不了无聊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不自然的",
+        "examples": [
+          {
+            "sentence": "The influencer's factitious smile looked like frozen dumplings.",
+            "sentence_zh": "网红不自然的微笑像速冻饺子。"
+          },
+          {
+            "sentence": "Avoid factitious ingredients like artificial strawberry flavor.",
+            "sentence_zh": "避免使用人造草莓香精等非天然成分。"
+          }
+        ]
+      }
+    ],
+    "teach": "factitious是'戏精'专用词🎭！词根fact=制造（同factory），-itious=性质→活像影视城的假皇宫🧱。说'假笑'用factitious smile（塑料笑容），'人造景观'叫factitious scenery（比滤镜还假）。记住：自然美是genuine，整容脸是factitious💉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发颗提神石'→人造提神石",
+        "易混词对比：factitious（人为制造） vs fictitious（虚构不存在）",
+        "记忆tip：factory造东西→factitious造假的"
+      ]
+    }
+  },
+  {
+    "word": "factor",
+    "etymology": {
+      "breakdown": [
+        "fac",
+        "tor"
+      ],
+      "meaning_connection": "词根fac=做/制作，-tor表人或工具→原指'制造者'，引申为'促成某事的要素'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "因素",
+        "examples": [
+          {
+            "sentence": "Lack of sleep is a major factor affecting programmers' productivity.",
+            "sentence_zh": "睡眠不足是影响程序员效率的主要因素。"
+          },
+          {
+            "sentence": "The spicy hot pot became the deciding factor in their breakup.",
+            "sentence_zh": "麻辣火锅成了他们分手的决定性因素。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "因数",
+        "examples": [
+          {
+            "sentence": "Finding the greatest common factor is like searching for shared DNA.",
+            "sentence_zh": "寻找最大公因数就像寻找共同DNA。"
+          },
+          {
+            "sentence": "The teacher used Lego blocks to demonstrate factors of 12.",
+            "sentence_zh": "老师用乐高积木演示12的因数。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "代理人",
+        "examples": [
+          {
+            "sentence": "The real estate factor helped us negotiate the price.",
+            "sentence_zh": "房产代理人帮我们谈妥了价格。"
+          },
+          {
+            "sentence": "He works as a factor purchasing tea for foreign clients.",
+            "sentence_zh": "他作为代理人为外国客户采购茶叶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "X factor",
+        "meaning": "未知因素",
+        "examples": [
+          {
+            "sentence": "The X factor in this recipe is grandma's secret chili oil.",
+            "sentence_zh": "这道菜的未知因素是奶奶的秘制辣椒油。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "factor in",
+        "meaning": "将...纳入考虑",
+        "examples": [
+          {
+            "sentence": "We must factor in traffic jams when planning the trip.",
+            "sentence_zh": "计划行程时必须把堵车因素考虑进去。"
+          }
+        ]
+      }
+    ],
+    "teach": "factor就像火锅底料包🍲：数学里是拆解数字的'因数'（2×3=6），生活中是影响结果的'因素'（比如脱发的三大因素：熬夜、压力、写代码💻），历史上还当过商业'代理人'（像丝绸之路上的带货达人🐫）。要说'关键因素'可以叫make-or-break factor，'忽略因素'叫blind spot更地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭可特'→饭量特(factor)大是发胖因素",
+        "易混词对比：factory是'工厂'（制作东西的地方），factor是'制作要素'"
+      ]
+    }
+  },
+  {
+    "word": "factory",
+    "etymology": {
+      "breakdown": [
+        "fact",
+        "ory"
+      ],
+      "meaning_connection": "词根fact=制造（同fabricate），后缀-ory表场所→制造物品的场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "工厂",
+        "examples": [
+          {
+            "sentence": "The bubble tea factory produces 20,000 pearls per hour.",
+            "sentence_zh": "这家奶茶工厂每小时生产2万颗珍珠。"
+          },
+          {
+            "sentence": "Tesla's Shanghai factory looks like a spaceship from the future.",
+            "sentence_zh": "特斯拉上海工厂看起来像来自未来的宇宙飞船。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "产生地",
+        "examples": [
+          {
+            "sentence": "Ancient Xi'an was a factory of poetic masterpieces.",
+            "sentence_zh": "古长安是诗词杰作的产生地。"
+          },
+          {
+            "sentence": "Harvard is often called a factory of Nobel laureates.",
+            "sentence_zh": "哈佛常被称为诺贝尔奖得主的产生地。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "代理店",
+        "examples": [
+          {
+            "sentence": "The Italian leather factory in Guangzhou sells authentic Florentine bags.",
+            "sentence_zh": "广州的意大利皮革代理店售卖正宗佛罗伦萨皮包。"
+          },
+          {
+            "sentence": "This French perfume factory provides customized gift boxes.",
+            "sentence_zh": "这家法国香水代理店提供定制礼盒服务。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "factory outlet",
+        "meaning": "工厂直销店",
+        "examples": [
+          {
+            "sentence": "We bought discounted down jackets at the Canada Goose factory outlet.",
+            "sentence_zh": "我们在加拿大鹅工厂直销店买了折扣羽绒服。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "factory settings",
+        "meaning": "出厂设置",
+        "examples": [
+          {
+            "sentence": "My phone returned to factory settings after the update failed.",
+            "sentence_zh": "更新失败后我的手机恢复了出厂设置。"
+          }
+        ]
+      }
+    ],
+    "teach": "factory是制造界的母体🏭！最早的factory其实是威尼斯商人的海外商站（像丝绸之路的敦煌客栈🏜️）。说'血汗工厂'叫sweatshop，'代工厂'叫OEM factory。记住：iPhone的birth certificate都写着'Designed in California, Assembled in Foxconn factory'📱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'翻个桃梨'→工厂里水果翻新",
+        "易混词对比：factor（因素） vs factory（工厂）"
+      ]
+    }
   }
 ]

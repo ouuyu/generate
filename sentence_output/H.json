@@ -2256,5 +2256,291 @@
         "联想：hail（冰雹）+storm（风暴）= 自带冰弹药的天气BOSS"
       ]
     }
+  },
+  {
+    "word": "hair",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语hær，与德语Haar同源，原始印欧语词根*ker-（角、硬质生长物）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "头发",
+        "examples": [
+          {
+            "sentence": "Her hair flows like black silk in the wind.",
+            "sentence_zh": "她的长发在风中如黑绸般飘动。"
+          },
+          {
+            "sentence": "Barbershops in Chengdu offer free mahjong while you wait for a haircut.",
+            "sentence_zh": "成都理发店提供免费麻将服务等候剪发。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "毛发",
+        "examples": [
+          {
+            "sentence": "The cat left white hairs all over my black cheongsam.",
+            "sentence_zh": "猫咪在我的黑色旗袍上留下满身白毛。"
+          },
+          {
+            "sentence": "Panda's fur actually has both black and white hairs under microscope.",
+            "sentence_zh": "显微镜下熊猫的毛发其实黑白相间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "些微",
+        "examples": [
+          {
+            "sentence": "He missed the train by a hair because of scanning health code.",
+            "sentence_zh": "他因扫码查健康码而以毫厘之差错过火车。"
+          },
+          {
+            "sentence": "The spicy hotpot was a hair too much for my Guangdong tongue.",
+            "sentence_zh": "这火锅对我的广东舌头来说辣了那么一点点。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "let one's hair down",
+        "meaning": "放松",
+        "examples": [
+          {
+            "sentence": "After final exams, students finally let their hair down at KTV.",
+            "sentence_zh": "期末考试后学生们在KTV彻底放松。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "split hairs",
+        "meaning": "吹毛求疵",
+        "examples": [
+          {
+            "sentence": "Don't split hairs over the pronunciation of 'tomato'.",
+            "sentence_zh": "别在'tomato'的发音上钻牛角尖。"
+          }
+        ]
+      }
+    ],
+    "teach": "hair的冷知识：古埃及法老会把头发涂蜂蜜防腐🍯，现代人则用霸王防脱🌱。说'吓到炸毛'叫make one's hair stand on end，'九牛一毛'是a hair in the milk🥛。记住：Tony老师问'剪多少'时，千万别答'a hair'（一点）！💇♀️",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨哟'→嗨哟(hair)我的头发被风吹跑啦",
+        "易混词对比：hare（野兔）比hair多只长耳朵🐰"
+      ]
+    }
+  },
+  {
+    "word": "hairbrush",
+    "etymology": {
+      "breakdown": [
+        "hair",
+        "brush"
+      ],
+      "meaning_connection": "hair=头发，brush=刷子→专用于头发的刷子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "发刷",
+        "examples": [
+          {
+            "sentence": "Her vintage hairbrush has real boar bristles that massage the scalp.",
+            "sentence_zh": "她的复古发刷用野猪鬃毛制作，能按摩头皮。"
+          },
+          {
+            "sentence": "The Dyson hairbrush detangles wet hair like magic without static.",
+            "sentence_zh": "戴森发梳能像魔术般解开湿发纠缠且不起静电。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "electric hairbrush",
+        "meaning": "电动发刷",
+        "examples": [
+          {
+            "sentence": "This electric hairbrush turns your bedhead into salon style in 3 minutes.",
+            "sentence_zh": "这款电动发刷三分钟就能把睡乱的头发变成沙龙造型。"
+          }
+        ]
+      }
+    ],
+    "teach": "hairbrush是头发界的拖把🧹！维多利亚时代贵妇用银背梳子防下毒（历史梗），现代人用按摩发刷解压就像撸猫🐱。要说'炸毛'用bedhead比bird's nest更地道，搭配'hairbrush battle'指闺蜜互借梳子时的塑料情谊💅。记住：好发刷决定你是金毛狮王还是黑长直女神！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨不拉屎'→嗨到头发不用拉屎（专注造型）",
+        "易混词：toothbrush是牙刷，hairbrush才是发刷"
+      ]
+    }
+  },
+  {
+    "word": "haircut",
+    "etymology": {
+      "breakdown": [
+        "hair",
+        "cut"
+      ],
+      "meaning_connection": "字面意思是'剪头发'，古英语中hair指毛发，cut表示切割动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "理发",
+        "examples": [
+          {
+            "sentence": "I got a 50-yuan discount on my haircut during Double 11 sales.",
+            "sentence_zh": "双十一期间我的理发享受了50元优惠。"
+          },
+          {
+            "sentence": "His mom still gives him haircuts with a bowl like in childhood.",
+            "sentence_zh": "他妈妈至今仍用碗扣着给他理发，就像小时候一样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "(男子的)发式",
+        "examples": [
+          {
+            "sentence": "That douyin influencer's dragon haircut went viral last week.",
+            "sentence_zh": "那个抖音网龙的龙形发式上周爆红网络。"
+          },
+          {
+            "sentence": "In 1980s China, the mushroom haircut was considered fashionable.",
+            "sentence_zh": "上世纪80年代，蘑菇头曾是中国时髦发式。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "get a haircut",
+        "meaning": "去理发",
+        "examples": [
+          {
+            "sentence": "Before Spring Festival, barbershops are packed with people getting haircuts.",
+            "sentence_zh": "春节前理发店挤满了剪头发的人。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bad haircut",
+        "meaning": "糟糕的发型",
+        "examples": [
+          {
+            "sentence": "He wore a hat for 3 months after that bad haircut.",
+            "sentence_zh": "那次剪坏头发后他戴了三个月帽子。"
+          }
+        ]
+      }
+    ],
+    "teach": "haircut其实是'头上动土'✂️：中世纪理发师兼职外科医生（看红白旋转灯就知道💈）。说'剪残了'用地道表达butchered（像被屠夫砍过），'帅炸'叫dapper👔。记住：当Tony老师问'剪多短'，千万别比划'一点点'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨咔擦'→理发推子嗨嗨地咔擦响",
+        "易混词对比：hairstyle（发型设计）vs haircut（理发过程）",
+        "记忆tip：想象剪下的头发像韭菜🥬，剪完又会长出来"
+      ]
+    }
+  },
+  {
+    "word": "hairdo",
+    "etymology": {
+      "breakdown": [
+        "hair",
+        "do"
+      ],
+      "meaning_connection": "字面意思'做头发'，20世纪20年代由理发业创造的合成词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "束发",
+        "examples": [
+          {
+            "sentence": "Her elegant updo hairdo stayed perfect despite the typhoon.",
+            "sentence_zh": "她的优雅盘发造型在台风天依然纹丝不乱。"
+          },
+          {
+            "sentence": "The ancient Chinese hairdo with jade pins costs 888 yuan to recreate.",
+            "sentence_zh": "复原这款带玉簪的古风束发需花费888元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发式",
+        "examples": [
+          {
+            "sentence": "That viral douyin hairdo requires 3 curling irons and a prayer.",
+            "sentence_zh": "那个抖音爆款发式需要三个卷发棒和一点运气。"
+          },
+          {
+            "sentence": "His cactus-inspired hairdo won the barber contest.",
+            "sentence_zh": "他的仙人掌创意发式赢得了理发师大赛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "作头发",
+        "examples": [
+          {
+            "sentence": "Getting a hairdo at that salon takes longer than flying to Paris.",
+            "sentence_zh": "在那家沙龙作头发比飞巴黎耗时还久。"
+          },
+          {
+            "sentence": "Her hairdo appointment conflicted with the hotpot reservation.",
+            "sentence_zh": "她的作头发预约和火锅订座时间撞车了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "get a hairdo",
+        "meaning": "做发型",
+        "examples": [
+          {
+            "sentence": "She got a hairdo that makes her look like a pandas emoji.",
+            "sentence_zh": "她做了个让自己像熊猫emoji的发型。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "retro hairdo",
+        "meaning": "复古发型",
+        "examples": [
+          {
+            "sentence": "That retro hairdo from Nirvana's era is trending again.",
+            "sentence_zh": "涅槃乐队时代的复古发型又流行回来了。"
+          }
+        ]
+      }
+    ],
+    "teach": "hairdo是头发界的乐高积木🧩！古埃及人用蜂蜡固定发型💇（最早发胶），现代人花半月工资做'明星同款'💸。'刚做的头发'叫fresh hairdo像新手机📱，'发型垮了'说bad hair day就像台风过境🌪️。记住：好hairdo能让你从'翠花'变'赛琳娜'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨！嘟'→做完发型嗨到嘟嘴自拍",
+        "易混词：hairstyle（常规发型） vs hairdo（精心打造的造型）",
+        "记忆法：拆解为hair+do→'要do头发'"
+      ]
+    }
   }
 ]

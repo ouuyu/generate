@@ -2275,5 +2275,265 @@
         "记忆法：把单词ZONE看成斑马线的条纹"
       ]
     }
+  },
+  {
+    "word": "zoning",
+    "etymology": {
+      "breakdown": [
+        "zone",
+        "ing"
+      ],
+      "meaning_connection": "词根zone=区域，-ing表行为结果→划分区域的行为结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "分区制",
+        "examples": [
+          {
+            "sentence": "The city's zoning separates hotpot restaurants from libraries.",
+            "sentence_zh": "该市分区制将火锅店与图书馆分开布局。"
+          },
+          {
+            "sentence": "Commercial zoning near schools often causes traffic jams during pickup time.",
+            "sentence_zh": "学校附近的商业区划常在接送时段造成拥堵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "zoning laws",
+        "meaning": "分区法规",
+        "examples": [
+          {
+            "sentence": "New zoning laws banned milk tea shops within 500m of schools.",
+            "sentence_zh": "新分区法禁止在学校500米内开设奶茶店。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "zoning out",
+        "meaning": "走神（口语）",
+        "examples": [
+          {
+            "sentence": "I totally zoned out during the online meeting and missed the deadline announcement.",
+            "sentence_zh": "我在线会议时完全走神，错过了截止日期通知。"
+          }
+        ]
+      }
+    ],
+    "teach": "zoning就像城市乐高🧩：中世纪欧洲用城墙划分贵族区/贫民区（历史原型），现代版是'奶茶店不得开在学校旁'的奇葩规定📜。搭配'zoning permit'（分区许可证）像获取火锅店营业资格证🍲，吐槽'这规定太死板'说rigid zoning比钢筋还硬🏗️。记住：好的zoning应该像鸳鸯锅——清红分明但共存一锅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'走您'→分区就是让不同人群'走您'的专属区域",
+        "易混词对比：zoning（规划分区）vs zoning out（灵魂出窍）"
+      ]
+    }
+  },
+  {
+    "word": "zoo",
+    "etymology": {
+      "breakdown": [
+        "zo",
+        "o"
+      ],
+      "meaning_connection": "词根zo=动物，-o为后缀→字面意思就是'动物聚集地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "动物园",
+        "examples": [
+          {
+            "sentence": "The panda in Beijing Zoo refused to pose for tourists today.",
+            "sentence_zh": "北京动物园的熊猫今天拒绝为游客摆造型。"
+          },
+          {
+            "sentence": "Feeding monkeys at the zoo is strictly prohibited, but they still steal your snacks.",
+            "sentence_zh": "动物园严禁投喂猴子，但它们依然会偷走你的零食。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "zoo keeper",
+        "meaning": "动物园管理员",
+        "examples": [
+          {
+            "sentence": "The zoo keeper wears panda slippers to work every Friday.",
+            "sentence_zh": "动物园管理员每周五都穿着熊猫拖鞋上班。"
+          }
+        ]
+      }
+    ],
+    "teach": "zoo其实是古代'动物奥运会'🏟️！伦敦动物园1828年开业时，贵族们穿着礼服看动物就像看戏剧🎭。说'人山人海'用packed like sardines（挤得像沙丁鱼罐头），'混乱场面'叫a three-ring circus（马戏团三场同时演出）🤹。记住：去zoo别穿香蕉黄衣服，你懂的🍌！",
+    "recite": {
+      "tips": [
+        "谐音梗：'祖屋'→祖屋(zoo)里养了珍奇异兽",
+        "易混词：zoo vs. wildlife park（动物园vs野生动物园）",
+        "记忆tip：想象'200'倒过来就是zoo的铁栅栏"
+      ]
+    }
+  },
+  {
+    "word": "zoological",
+    "etymology": {
+      "breakdown": [
+        "zoo",
+        "log",
+        "ical"
+      ],
+      "meaning_connection": "词根zoo=动物，来自希腊语zōion；-log表示'学科'；-ical表形容词后缀→'研究动物的学科的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "动物学的",
+        "examples": [
+          {
+            "sentence": "The zoological park in Shanghai has successfully bred giant pandas for 60 years.",
+            "sentence_zh": "上海动物园已成功繁育大熊猫60年。"
+          },
+          {
+            "sentence": "Her zoological research focuses on the mating dances of peacocks.",
+            "sentence_zh": "她的动物学研究专注于孔雀求偶舞蹈。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "zoological garden",
+        "meaning": "动物园（正式说法）",
+        "examples": [
+          {
+            "sentence": "London Zoological Garden houses over 20,000 animals.",
+            "sentence_zh": "伦敦动物园饲养着超过2万只动物。"
+          }
+        ]
+      }
+    ],
+    "teach": "zoological是'动物园界985'🎓！词根zoo来自希腊语zōion（生命体），和汉字'兽'发音莫名相似🐯。记住：普通动物园叫zoo，搞科研的才配叫zoological garden🌿。搭配'zoological specimen'（动物标本）和'zoological classification'（动物分类），说'动物狂热粉'可用zoology nerd🦉。这单词自带《动物世界》BGM！",
+    "recite": {
+      "tips": [
+        "谐音梗：'祖奥逻辑考'→祖先的动物(zoo)逻辑(log)要考证(-ical)",
+        "对比记忆：zoological（学术的） vs. zoo（日常的） vs. animal（泛指的）",
+        "词根联想：所有带zoo-的都和动物有关，如zoophobia（动物恐惧症）"
+      ]
+    }
+  },
+  {
+    "word": "zoologist",
+    "etymology": {
+      "breakdown": [
+        "zoo",
+        "log",
+        "ist"
+      ],
+      "meaning_connection": "词根zoo=动物，-log=学科/研究，-ist=专业人士→研究动物的专家"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "动物学家",
+        "examples": [
+          {
+            "sentence": "The zoologist spent three years observing pandas' eating habits in Sichuan.",
+            "sentence_zh": "这位动物学家在四川花了三年观察熊猫的进食习惯。"
+          },
+          {
+            "sentence": "As a zoologist, her dream is to discover a new species of frog that can rap.",
+            "sentence_zh": "作为动物学家，她的梦想是发现一种会饶舌的新蛙类。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wildlife zoologist",
+        "meaning": "野生动物学家",
+        "examples": [
+          {
+            "sentence": "The wildlife zoologist got kicked by a zebra while studying its mating dance.",
+            "sentence_zh": "这位野生动物学家在研究斑马求偶舞时被踹了一脚。"
+          }
+        ]
+      }
+    ],
+    "teach": "zoologist是动物界的福尔摩斯🕵️‍♂️！词根zoo在希腊语是'动物'（想想动物园zoo），-logist是'研究狂人'。说'动物专家'除了zoologist，还能用animal whisperer（动物耳语者）🐒。搭配：go on a zoologist expedition（动物考察）就像参加《动物森友会》现实版🌿！",
+    "recite": {
+      "tips": [
+        "谐音梗：'租哦逻辑斯特'→租(zoo)动物还要讲逻辑(-logist)的人",
+        "易混词对比：zoologist vs. veterinarian（兽医）",
+        "记忆tip：拆解zoo+log+ist，像在动物园(zoo)写日志(log)的专家(ist)"
+      ]
+    }
+  },
+  {
+    "word": "zoology",
+    "etymology": {
+      "breakdown": [
+        "zoo",
+        "logy"
+      ],
+      "meaning_connection": "词根zoo=动物（来自希腊语zōion），后缀-logy=学科（来自希腊语logia）→研究动物的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "动物学",
+        "examples": [
+          {
+            "sentence": "Panda breeding programs combine zoology and cute aggression studies.",
+            "sentence_zh": "熊猫繁育计划结合了动物学和可爱侵略性研究。"
+          },
+          {
+            "sentence": "Her zoology thesis on duck-billed platypus made National Geographic.",
+            "sentence_zh": "她关于鸭嘴兽的动物学论文登上了《国家地理》。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "动物区系",
+        "examples": [
+          {
+            "sentence": "The zoology of Madagascar includes 100+ lemur species.",
+            "sentence_zh": "马达加斯加的动物区系包含100多种狐猴。"
+          },
+          {
+            "sentence": "Australia's unique zoology features kangaroos and koalas.",
+            "sentence_zh": "澳大利亚独特的动物区系以袋鼠和考拉为特色。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "field zoology",
+        "meaning": "野外动物学",
+        "examples": [
+          {
+            "sentence": "Field zoology requires mosquito-proof clothing and infinite patience.",
+            "sentence_zh": "野外动物学需要防蚊服装和无限耐心。"
+          }
+        ]
+      }
+    ],
+    "teach": "zoology其实是'动物园逻辑'🐘：想象生物学家在动物园(zoo)写论文(logy)时被长颈鹿舔了电脑💻。说'动物专家'用zoologist就像'熊猫研究员'🐼，'研究动物行为'叫animal behavior就像追星族观察爱豆🌟。记住：zoology决定你能不能认出网红水豚的远房表亲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'祖欧乐鸡'→老祖宗欧洲快乐的鸡动物学",
+        "易混词对比：biology（生物学）vs zoology（专门动物学）"
+      ]
+    }
   }
 ]

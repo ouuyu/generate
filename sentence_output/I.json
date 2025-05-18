@@ -2298,5 +2298,336 @@
         "易混词：ideal vs idea（理想vs点子）"
       ]
     }
+  },
+  {
+    "word": "idealize",
+    "etymology": {
+      "breakdown": [
+        "ide",
+        "al",
+        "ize"
+      ],
+      "meaning_connection": "词根ide=思想/概念（来自希腊语idea），-al表形容词，-ize表动词化→使...成为理想状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使理想化",
+        "examples": [
+          {
+            "sentence": "Romantic poets often idealized rural life in their works.",
+            "sentence_zh": "浪漫主义诗人常在作品中把田园生活理想化。"
+          },
+          {
+            "sentence": "The advertisement idealizes the product's effects with CGI.",
+            "sentence_zh": "广告用电脑特效把产品效果理想化了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "理想化",
+        "examples": [
+          {
+            "sentence": "Teenagers tend to idealize about their future careers.",
+            "sentence_zh": "青少年容易对未来职业产生理想化想象。"
+          },
+          {
+            "sentence": "Don't idealize, every relationship has its imperfections.",
+            "sentence_zh": "别理想化，每段关系都有不完美之处。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "形成思想",
+        "examples": [
+          {
+            "sentence": "Ancient philosophers idealized about the perfect society.",
+            "sentence_zh": "古代哲学家构想过完美社会的形态。"
+          },
+          {
+            "sentence": "The concept of justice has been idealized differently across cultures.",
+            "sentence_zh": "正义的概念在不同文化中被构想成不同形态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "描述理想",
+        "examples": [
+          {
+            "sentence": "The utopian novel idealizes a world without social classes.",
+            "sentence_zh": "这部乌托邦小说描绘了一个没有社会阶级的理想世界。"
+          },
+          {
+            "sentence": "Confucius idealized benevolent governance in The Analects.",
+            "sentence_zh": "孔子在《论语》中描述了仁政的理想状态。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "idealize about",
+        "meaning": "对...作理想化想象",
+        "examples": [
+          {
+            "sentence": "He often idealizes about being a superhero.",
+            "sentence_zh": "他常幻想自己成为超级英雄。"
+          }
+        ]
+      }
+    ],
+    "teach": "idealize就像美颜相机📸！把现实P成完美状态就叫idealize：给爱豆打榜时粉丝滤镜全开💫（idealize idols），柏拉图构想理想国🏛️（idealized society）。记住'十级美颜'的英文是heavy idealization，'打破幻想'叫de-idealize🪄。搭配：idealized version（精修版），idealized image（完美人设）",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱滴滤镜'→用爱(ide)的滤镜(-alize)看世界",
+        "对比记忆：ideal（理想）→idealize（动词化）→idealism（理想主义）",
+        "联想：IDE（编程工具）+alize→程序员把代码理想化"
+      ]
+    }
+  },
+  {
+    "word": "idealized",
+    "etymology": {
+      "breakdown": [
+        "ideal",
+        "ize",
+        "ed"
+      ],
+      "meaning_connection": "ideal（理想）+ 动词后缀-ize（使...化）+ 过去分词后缀-ed → 使成为理想状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "理想化的",
+        "examples": [
+          {
+            "sentence": "The movie presents an idealized version of high school life without exams.",
+            "sentence_zh": "这部电影呈现了没有考试的理想化高中生活。"
+          },
+          {
+            "sentence": "Her Instagram feed shows an idealized parenting experience with no messy moments.",
+            "sentence_zh": "她的ins动态展示了没有混乱瞬间的理想化育儿经历。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "idealized image",
+        "meaning": "理想化形象",
+        "examples": [
+          {
+            "sentence": "Advertising often creates idealized images of family gatherings.",
+            "sentence_zh": "广告经常营造家庭聚会的理想化形象。"
+          }
+        ]
+      }
+    ],
+    "teach": "idealized就像美颜相机📸+网红滤镜🌅！古希腊哲学家柏拉图最早提出'理想国'概念🏛️，现代人则用这个词形容精修过的生活照🤳。搭配'idealized memory'（美化过的记忆）和'idealized love'（完美爱情幻想），记住：当有人说'Don't idealized it'，意思就是'别想得太美'🍑！",
+    "recite": {
+      "tips": [
+        "拆解记忆：ideal（理想）+ize（化）= 理想化",
+        "易混对比：idealistic（理想主义的）侧重态度，idealized（理想化的）侧重结果"
+      ]
+    }
+  },
+  {
+    "word": "ideally",
+    "etymology": {
+      "breakdown": [
+        "ideal",
+        "ly"
+      ],
+      "meaning_connection": "ideal（理想的）+后缀-ly（表方式）→以理想的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "完美地",
+        "examples": [
+          {
+            "sentence": "The AI assistant ideally handled all requests with zero errors.",
+            "sentence_zh": "这个AI助手完美处理了所有请求，零差错。"
+          },
+          {
+            "sentence": "The sunrise framed by the Great Wall was ideally captured in her photo.",
+            "sentence_zh": "长城框住的日出在她的照片中得到完美呈现。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "理想地",
+        "examples": [
+          {
+            "sentence": "Ideally, we should finish the project before the Spring Festival rush.",
+            "sentence_zh": "理想情况下，我们应该在春运前完成这个项目。"
+          },
+          {
+            "sentence": "This location is ideally suited for a hotpot restaurant.",
+            "sentence_zh": "这个位置开火锅店再理想不过。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ideally located",
+        "meaning": "位置绝佳",
+        "examples": [
+          {
+            "sentence": "The tea house is ideally located near the West Lake.",
+            "sentence_zh": "这家茶馆位置绝佳，毗邻西湖。"
+          }
+        ]
+      }
+    ],
+    "teach": "ideally就像你妈眼中的相亲对象💑：既要'完美无缺'（perform ideally），又要'理想匹配'（ideally matched）。记住'完美主义'叫perfectionism🦄，现实版理想主义可以说pie in the sky（天上掉馅饼）🍰。搭配用ideally应该+过去分词（ideally cooked dumplings），说'不切实际'用not realistically feasible🚀",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱地里'→在理想的爱地里种瓜得瓜",
+        "易混词对比：ideal（adj.理想的）vs idea（n.想法）"
+      ]
+    }
+  },
+  {
+    "word": "ideational",
+    "etymology": {
+      "breakdown": [
+        "idea",
+        "tion",
+        "al"
+      ],
+      "meaning_connection": "idea=思想/观念，-tion=名词后缀，-al=形容词后缀→与思想观念相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "观念的",
+        "examples": [
+          {
+            "sentence": "The philosopher's ideational framework influenced modern psychology.",
+            "sentence_zh": "这位哲学家的观念体系影响了现代心理学。"
+          },
+          {
+            "sentence": "Laozi's ideational legacy continues to shape Chinese culture.",
+            "sentence_zh": "老子的观念遗产持续影响着中国文化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "思想的",
+        "examples": [
+          {
+            "sentence": "WeChat's success reflects profound ideational changes in communication.",
+            "sentence_zh": "微信的成功反映了交流方式的深刻思想变革。"
+          },
+          {
+            "sentence": "The Great Wall embodies ancient Chinese ideational defense strategies.",
+            "sentence_zh": "长城体现了古代中国的思想防御策略。"
+          }
+        ]
+      }
+    ],
+    "teach": "ideational就像大脑里的火锅底料🧠🍲：不同思想观念（ideas）像花椒八角在脑内翻滚！视觉化记忆：想象孔子（idea）在开腾讯会议（-tional）直播讲学📡。实用搭配：ideational conflict（观念冲突）/ ideational flow（思维流）。地道表达：说'思维固化'用mental rut就像车轮陷进泥坑🚜💨",
+    "recite": {
+      "tips": [
+        "拆解记忆：idea（点子）+tional（很疼→深刻）= 深入的思想",
+        "易混词对比：ideal（理想的）vs ideational（观念的）"
+      ]
+    }
+  },
+  {
+    "word": "identical",
+    "etymology": {
+      "breakdown": [
+        "ident",
+        "ical"
+      ],
+      "meaning_connection": "词根ident来自拉丁语idem（相同），-ical为形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "同一的",
+        "examples": [
+          {
+            "sentence": "The police confirmed it was the identical car used in the bank robbery.",
+            "sentence_zh": "警方确认这是银行劫案中使用的同一辆车。"
+          },
+          {
+            "sentence": "Twins sharing identical DNA still develop unique personalities.",
+            "sentence_zh": "拥有同一DNA的双胞胎仍会形成独特个性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "恒等的",
+        "examples": [
+          {
+            "sentence": "In math, identical equations have the same solution sets.",
+            "sentence_zh": "数学中恒等方程具有相同的解集。"
+          },
+          {
+            "sentence": "The chemical reaction produces identical amounts of products every time.",
+            "sentence_zh": "该化学反应每次产生恒等量的产物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "完全相同的",
+        "examples": [
+          {
+            "sentence": "The counterfeit bills were nearly identical to real ones.",
+            "sentence_zh": "这些假钞与真钞几乎完全相同。"
+          },
+          {
+            "sentence": "All the cloned sheep had identical appearances but different behaviors.",
+            "sentence_zh": "所有克隆羊外表完全相同但行为各异。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "identical twin",
+        "meaning": "同卵双胞胎",
+        "examples": [
+          {
+            "sentence": "The identical twins often played tricks by switching places in class.",
+            "sentence_zh": "这对同卵双胞胎经常在课上互换位置恶作剧。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "identical to",
+        "meaning": "与...完全相同",
+        "examples": [
+          {
+            "sentence": "Her handwriting is identical to her mother's from 30 years ago.",
+            "sentence_zh": "她的笔迹与她母亲30年前的完全相同。"
+          }
+        ]
+      }
+    ],
+    "teach": "identical是'复制粘贴'的学术说法📋！就像《西游记》里的真假美猴王🐵（identical appearance），或者你同时打开两个相同的Word文档💻（identical files）。搭配identical copy（完全相同的副本）或identical match（完美匹配）。说'一模一样'可以甩出spitting image这个地道表达，比如：The baby is the spitting image of his dad👶→'这娃和他爹一个模子刻出来的'",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱等提扣'→爱马仕等提包扣件都是identical的",
+        "易混词：similar（相似）vs identical（相同）就像奶茶七分糖和全糖的区别🧋",
+        "记忆法：词根ident+ical→ID身份证要identical才有效"
+      ]
+    }
   }
 ]

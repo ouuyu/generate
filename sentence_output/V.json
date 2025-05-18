@@ -2391,5 +2391,170 @@
         "易混词：value（价值）和valence（价）是堂兄弟"
       ]
     }
+  },
+  {
+    "word": "valentine",
+    "etymology": {
+      "breakdown": [
+        "valent",
+        "ine"
+      ],
+      "meaning_connection": "源自圣瓦伦丁(St. Valentine)的名字，这位3世纪罗马殉道者后来成为爱情守护神，-ine为名词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "情人",
+        "examples": [
+          {
+            "sentence": "My valentine surprised me with a singing telegram delivered by a panda-costumed performer.",
+            "sentence_zh": "我的情人请了熊猫装表演者送唱歌电报给我惊喜。"
+          },
+          {
+            "sentence": "Ancient Chinese lovers exchanged moon cakes as valentines long before Western traditions came.",
+            "sentence_zh": "在西方传统传入前，中国古代情人就互赠月饼作为定情物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "情人节礼物",
+        "examples": [
+          {
+            "sentence": "The most popular valentine in 2023 was a DIY scratch-off love coupon book.",
+            "sentence_zh": "2023年最火的情人节礼物是自制刮刮乐恋爱券。"
+          },
+          {
+            "sentence": "Forget roses - tech geeks now give smart plant pots as valentines that tweet when thirsty.",
+            "sentence_zh": "别送玫瑰了，科技宅现在送会发推特喊渴的智能花盆当情人节礼物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be my valentine",
+        "meaning": "做我的情人",
+        "examples": [
+          {
+            "sentence": "The baozi-shaped love note said 'Be my valentine or I'll steam you!'",
+            "sentence_zh": "包子形状的情书写着'不做我情人就蒸了你'"
+          }
+        ]
+      }
+    ],
+    "teach": "Valentine其实是'爱的程序员'💻！古罗马时期这位圣徒偷偷给禁婚士兵主持婚礼被捕，在狱中治愈狱长女儿眼疾✝️。现代人说'没情人'叫forever alone🐶，'撒狗粮'叫PDA(public display of affection)。记住：情人节最硬核礼物是帮对象清空淘宝购物车🛒！",
+    "recite": {
+      "tips": [
+        "谐音梗：'碗莲甜'→送碗莲(Valentine)甜过初恋",
+        "易混词：valid（有效的）+ tine（叉尖）= valentine"
+      ]
+    }
+  },
+  {
+    "word": "valet",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'valet'（仆人），与拉丁语'vassus'（仆从）同源，现多指高级酒店或洗车服务人员"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "贴身男仆",
+        "examples": [
+          {
+            "sentence": "The valet discreetly adjusted the count's cufflinks before the ball.",
+            "sentence_zh": "舞会前男仆不动声色地为伯爵调整袖扣。"
+          },
+          {
+            "sentence": "In Downton Abbey, Mr. Bates serves as Lord Grantham's valet with military precision.",
+            "sentence_zh": "《唐顿庄园》中贝茨先生以军人般的精确担任格兰瑟姆伯爵的贴身男仆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "伺候",
+        "examples": [
+          {
+            "sentence": "The luxury hotel valets guests' cars with white-glove service.",
+            "sentence_zh": "这家豪华酒店用白手套礼仪为客人代客泊车。"
+          },
+          {
+            "sentence": "He valeted the vintage Ferrari as if it were a newborn baby.",
+            "sentence_zh": "他伺候那辆古董法拉利的样子就像在照顾新生儿。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "valet parking",
+        "meaning": "代客泊车",
+        "examples": [
+          {
+            "sentence": "The hospital offers free valet parking for pregnant women.",
+            "sentence_zh": "这家医院为孕妇提供免费代客泊车服务。"
+          }
+        ]
+      }
+    ],
+    "teach": "valet是服务界的007🕴️！英国贵族时代贴身男仆要会擦皮鞋👞+调马天尼🍸，现代版就是酒店代泊小哥（valet parking）。说'顶级服务'用white-glove service🤵，吐槽'卑微打工人'可以说human doormat🚪。记住：给车当valet时，你的方向盘可能被当成帝王权杖⚔️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪咧'→服务生弯腰说'您车停歪咧'",
+        "易混词：butler(管家负责整体) vs valet(专注个人服务)"
+      ]
+    }
+  },
+  {
+    "word": "valiantly",
+    "etymology": {
+      "breakdown": [
+        "valiant",
+        "ly"
+      ],
+      "meaning_connection": "古法语valiant=勇敢的，源自拉丁语valere=强壮；后缀-ly构成副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "勇敢地",
+        "examples": [
+          {
+            "sentence": "The delivery man fought valiantly against the snowstorm to deliver hotpot ingredients.",
+            "sentence_zh": "外卖小哥顶着暴风雪勇猛地送达火锅食材。"
+          },
+          {
+            "sentence": "She valiantly defended her thesis against 5 professors.",
+            "sentence_zh": "她勇敢地应对五位教授的论文答辩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "雄赳赳地",
+        "examples": [
+          {
+            "sentence": "The military band marched valiantly past Tian'anmen Square.",
+            "sentence_zh": "军乐队雄赳赳地走过天安门广场。"
+          },
+          {
+            "sentence": "Ducks in the park waddle valiantly like little soldiers.",
+            "sentence_zh": "公园里的鸭子像小士兵般雄赳赳地摇摆前行。"
+          }
+        ]
+      }
+    ],
+    "teach": "valiantly其实是'歪脸特力'💪——想象张飞瞪着眼睛勇猛冲锋的表情😤！迪士尼花木兰'代父从军'就是act valiantly的典范，而广场舞大妈抢C位时也超valiantly🦸‍♀️。说'硬着头皮上'可用screw up one's courage，而'虽败犹荣'就是fail valiantly🎖️。记住：每次吃辣火锅时你都在valiantly战斗！🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂狼体力'→给狼喂食需要英勇体力",
+        "对比记忆：bravely（普通勇敢） vs valiantly（史诗级英勇）",
+        "场景联想：王者荣耀五杀时系统提示'Valiantly!'"
+      ]
+    }
   }
 ]

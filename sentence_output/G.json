@@ -2275,5 +2275,287 @@
         "易混词对比：gale(持续大风) vs gust(阵风)"
       ]
     }
+  },
+  {
+    "word": "gall",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'gealla'（胆汁），与拉丁语'fel'同源，本义指动物胆囊的苦味液体"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "胆汁",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine uses bear gall as an ingredient.",
+            "sentence_zh": "中医将熊胆作为药材使用。"
+          },
+          {
+            "sentence": "The bitterness of gall was compared to life's hardships in ancient poems.",
+            "sentence_zh": "古诗中常以胆汁之苦比喻人生艰辛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "五倍子",
+        "examples": [
+          {
+            "sentence": "Oak galls are used to make iron gall ink for calligraphy.",
+            "sentence_zh": "栎五倍子可制作书法用的鞣酸铁墨水。"
+          },
+          {
+            "sentence": "The round gall on the leaf looks like a tiny planet.",
+            "sentence_zh": "叶片上的圆形五倍子像颗微型星球。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "恼怒",
+        "examples": [
+          {
+            "sentence": "His constant complaints filled her with gall.",
+            "sentence_zh": "他不停的抱怨让她怒火中烧。"
+          },
+          {
+            "sentence": "The gall! He ate my last dumpling without asking!",
+            "sentence_zh": "太气人了！他问都不问就吃掉我最后一个饺子！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "激怒",
+        "examples": [
+          {
+            "sentence": "The neighbor's midnight piano practice galled the whole building.",
+            "sentence_zh": "邻居半夜练钢琴激怒了整栋楼的住户。"
+          },
+          {
+            "sentence": "It galls me when people slurp noodles loudly on the subway.",
+            "sentence_zh": "地铁上大声吸溜面条的行为让我火冒三丈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "磨伤",
+        "examples": [
+          {
+            "sentence": "The new shoes galled my heels during the marathon.",
+            "sentence_zh": "新跑鞋在马拉松比赛中磨破了我的脚后跟。"
+          },
+          {
+            "sentence": "The horse's saddle was galling its back.",
+            "sentence_zh": "马鞍磨伤了马背。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gall and wormwood",
+        "meaning": "极痛苦的事",
+        "examples": [
+          {
+            "sentence": "Losing the final match was gall and wormwood to the team.",
+            "sentence_zh": "决赛失利对队伍而言犹如肝胆俱裂。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "have the gall to",
+        "meaning": "厚颜无耻地",
+        "examples": [
+          {
+            "sentence": "He had the gall to ask for a pay raise after being late 20 times.",
+            "sentence_zh": "他迟到20次后竟有脸要求加薪。"
+          }
+        ]
+      }
+    ],
+    "teach": "gall是'胆汁级'愤怒💢！古人认为胆汁过量会让人暴躁（像中医'肝火旺'），所以英文说'胆汁都沸腾了'（boiling with gall）就是气炸了🤯。被老板骂到'胆汁反流'可以说My boss is a gall-bladder（我老板是个胆汁罐）。记住：物理伤害用'磨伤'，精神伤害用'激怒'，骂人专用have the gall to相当于中文'脸皮比城墙厚'🧱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'搞哦'→被老板搞哦(gall)到胆汁逆流",
+        "易混词：bile（胆汁，更专业）/gall（带情绪色彩）"
+      ]
+    }
+  },
+  {
+    "word": "gallant",
+    "etymology": {
+      "breakdown": [
+        "gal",
+        "ant"
+      ],
+      "meaning_connection": "词根gal源自古法语'galer'（寻欢作乐），后缀-ant表性质→原指骑士风度的华丽，后衍生出英勇含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "英勇的",
+        "examples": [
+          {
+            "sentence": "The gallant firefighter carried three children out of the burning hotpot restaurant.",
+            "sentence_zh": "英勇的消防员从燃烧的火锅店救出三个孩子。"
+          },
+          {
+            "sentence": "His gallant attempt to catch the thief went viral on Douyin.",
+            "sentence_zh": "他追捕小偷的英勇行为在抖音上疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "壮丽的",
+        "examples": [
+          {
+            "sentence": "The gallant Great Wall snakes across mountains like a golden dragon.",
+            "sentence_zh": "壮丽的长城如金龙蜿蜒山间。"
+          },
+          {
+            "sentence": "We attended a gallant naval parade in Qingdao.",
+            "sentence_zh": "我们参加了青岛一场壮丽的海军阅兵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "华丽的",
+        "examples": [
+          {
+            "sentence": "She wore a gallant qipao with phoenix patterns to the banquet.",
+            "sentence_zh": "她穿着绣凤凰的华丽旗袍赴宴。"
+          },
+          {
+            "sentence": "The gallant chandelier in the hotel lobby costs more than a Tesla.",
+            "sentence_zh": "酒店大堂那盏华丽的水晶吊灯比特斯拉还贵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gallant effort",
+        "meaning": "英勇尝试",
+        "examples": [
+          {
+            "sentence": "The delivery boy made a gallant effort to save the melting ice cream.",
+            "sentence_zh": "外卖小哥为拯救融化的冰淇淋做出英勇尝试。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cut a gallant figure",
+        "meaning": "风度翩翩",
+        "examples": [
+          {
+            "sentence": "He cuts a gallant figure in his new Zhongshan suit.",
+            "sentence_zh": "他穿着新中山装显得风度翩翩。"
+          }
+        ]
+      }
+    ],
+    "teach": "gallant是'盖伦特'骑士精神🏰！想象三国赵云七进七出（英勇），故宫琉璃瓦反光（壮丽），还有上海名媛的旗袍秀💃（华丽）。说'装腔作势'可以用put on gallant airs，夸人'真勇'就说truly gallant！记住：这个单词自带BGM《英雄的黎明》🎻",
+    "recite": {
+      "tips": [
+        "谐音梗：'尬兰特'→穿着尬兰特(gallant)盔甲耍帅",
+        "易混词对比：brave偏勇气，gallant更有风度",
+        "记忆口诀：GAL=姑娘，ANT=蚂蚁→姑娘看见蚂蚁都英勇尖叫"
+      ]
+    }
+  },
+  {
+    "word": "gallantly",
+    "etymology": {
+      "breakdown": [
+        "gallant",
+        "ly"
+      ],
+      "meaning_connection": "词根gallant源于古法语'galant'（勇敢的，时髦的），-ly为副词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "漂亮地",
+        "examples": [
+          {
+            "sentence": "The peacock spread its tail feathers gallantly in the sunset.",
+            "sentence_zh": "孔雀在夕阳下华丽地开屏。"
+          },
+          {
+            "sentence": "She gallantly tied the silk scarf in five different styles.",
+            "sentence_zh": "她优雅地用五种方式系这条丝巾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "勇敢地",
+        "examples": [
+          {
+            "sentence": "The firefighter gallantly carried three kittens from the burning building.",
+            "sentence_zh": "消防员英勇地从着火建筑中救出三只小猫。"
+          },
+          {
+            "sentence": "He gallantly stood up against the cyberbullies.",
+            "sentence_zh": "他勇敢地站出来对抗网络暴力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "献殷勤地",
+        "examples": [
+          {
+            "sentence": "The waiter gallantly pulled out the chair for the lady.",
+            "sentence_zh": "服务员殷勤地为女士拉开椅子。"
+          },
+          {
+            "sentence": "He gallantly offered his jacket when it started raining.",
+            "sentence_zh": "开始下雨时，他体贴地递上自己的外套。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gallantly rescue",
+        "meaning": "英勇救援",
+        "examples": [
+          {
+            "sentence": "The coast guard gallantly rescued the drowning swimmer.",
+            "sentence_zh": "海岸警卫队英勇救起溺水者。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gallantly decline",
+        "meaning": "婉拒",
+        "examples": [
+          {
+            "sentence": "She gallantly declined the expensive gift to avoid misunderstanding.",
+            "sentence_zh": "她礼貌地婉拒了贵重礼物以免误会。"
+          }
+        ]
+      }
+    ],
+    "teach": "gallantly是骑士精神三合一✨：1) 源自中世纪骑士(gallant)既要打仗勇猛⚔️又要会写情诗📜 2) 想象孔雀开屏+超人披风+法式鞠躬的合体 3) 实用搭配：fight gallantly（英勇作战）/smile gallantly（风度翩翩地笑）4) 地道说法：'装绅士'叫put on gallant airs🕺 5) 记住：漂亮/勇敢/殷勤就像奶茶三兄弟🧋缺一不可！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖蓝毯'→盖着蓝毯(gallantly)耍帅",
+        "易混词对比：boldly（莽撞地）vs gallantly（得体地勇敢）",
+        "记忆口诀：GALLANT=Gentleman Always Lovingly Leaps And Nods Tactfully（绅士总是体贴地跳跃与颔首）"
+      ]
+    }
   }
 ]

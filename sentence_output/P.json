@@ -2470,5 +2470,274 @@
         "记忆TIP：拆解为PAED（儿童）+ IATRIC（医疗）= 儿童医疗"
       ]
     }
+  },
+  {
+    "word": "paediatrician",
+    "etymology": {
+      "breakdown": [
+        "paed",
+        "iatr",
+        "ician"
+      ],
+      "meaning_connection": "词根paed=儿童（同ped-），iatr=治疗，-ician=从事...的专家→专治儿童的专家"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "儿科医师",
+        "examples": [
+          {
+            "sentence": "The paediatrician used a panda puppet to examine the toddler.",
+            "sentence_zh": "儿科医师用熊猫玩偶给幼儿做检查。"
+          },
+          {
+            "sentence": "During flu season, paediatricians work overtime like Santa's elves.",
+            "sentence_zh": "流感季期间，儿科医师像圣诞老人的小精灵般加班。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chief paediatrician",
+        "meaning": "儿科主任",
+        "examples": [
+          {
+            "sentence": "The chief paediatrician carries lollipops instead of a stethoscope.",
+            "sentence_zh": "这位儿科主任随身带棒棒糖而非听诊器。"
+          }
+        ]
+      }
+    ],
+    "teach": "儿科医师是儿童世界的超级英雄🦸！词根paed-藏在《小王子》(Le Petit Prince)书名里，-iatric和兽医(veterinarian)同源🧑⚕️。说'孩子王'用kid-magnet，'哄孩子'叫work magic with kids。记住：能搞定十个熊孩子的才是真·大佬！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍矮树医生'→蹲着(矮)给小朋友(树苗)看病的医生",
+        "易混词对比：pediatrician(美式拼写) vs paediatrician(英式拼写)",
+        "记忆tip：拆解为'pay(付)+ed(过去式)+iatric(医疗的)'→付钱给治过你的儿医"
+      ]
+    }
+  },
+  {
+    "word": "paediatrics",
+    "etymology": {
+      "breakdown": [
+        "paed",
+        "iatr",
+        "ics"
+      ],
+      "meaning_connection": "词根paed=儿童（同ped-），iatr=治疗，-ics=学科→治疗儿童的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "儿科学",
+        "examples": [
+          {
+            "sentence": "Professor Wang switched from neurosurgery to paediatrics after having twins.",
+            "sentence_zh": "王教授生了双胞胎后从神经外科转向儿科学。"
+          },
+          {
+            "sentence": "The development of paediatrics directly impacts national vaccination rates.",
+            "sentence_zh": "儿科学的发展直接影响国家疫苗接种率。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小儿科",
+        "examples": [
+          {
+            "sentence": "The hospital's paediatrics department has cartoon-shaped infusion chairs.",
+            "sentence_zh": "这家医院的小儿科有卡通造型的输液椅。"
+          },
+          {
+            "sentence": "During flu season, paediatrics wards are busier than metro stations.",
+            "sentence_zh": "流感季节时，小儿科比地铁站还繁忙。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "儿科",
+        "examples": [
+          {
+            "sentence": "AI diagnosis systems are revolutionizing modern paediatrics.",
+            "sentence_zh": "AI诊断系统正在革新现代儿科。"
+          },
+          {
+            "sentence": "The paediatrics conference discussed TikTok-induced tics in teenagers.",
+            "sentence_zh": "儿科会议讨论了抖音引发的青少年抽动症。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paediatrics specialist",
+        "meaning": "儿科专家",
+        "examples": [
+          {
+            "sentence": "The paediatrics specialist calmed the crying baby with a Spiderman sticker.",
+            "sentence_zh": "儿科专家用蜘蛛侠贴纸安抚了哭闹的婴儿。"
+          }
+        ]
+      }
+    ],
+    "teach": "paediatrics其实是'熊孩子管理学'👶🏻：古希腊词根paed-（儿童）+ iatros（医生）= 专门治乱涂乱画和不吃青菜的专家👨⚕️。记住两个爆笑搭配：'paediatrics crisis'（当全班都得流感时的灾难现场）🤧，'paediatrics magic'（医生变出棒棒糖的魔法）🍭。说'哄孩子'的地道表达是'work paediatric miracles'（创造儿科奇迹）✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍迪亚特ricks'→用tricks（技巧）拍迪亚特（治疗儿童）",
+        "易混词对比：pediatrics（美式拼写）vs paediatrics（英式拼写）",
+        "记忆tip：记住前缀paed-和pedal（踏板）无关，别把儿科医生想象成骑童车上班"
+      ]
+    }
+  },
+  {
+    "word": "paella",
+    "etymology": {
+      "breakdown": [
+        "paella"
+      ],
+      "meaning_connection": "源自西班牙瓦伦西亚方言，原指'平底锅'，因传统用宽口浅锅烹饪得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "西班牙海鲜饭",
+        "examples": [
+          {
+            "sentence": "The golden saffron in paella looks like mini sunset on rice.",
+            "sentence_zh": "海鲜饭中的藏红花让米饭像撒满了迷你日落。"
+          },
+          {
+            "sentence": "Making authentic paella requires a special flat pan called 'paellera'.",
+            "sentence_zh": "做正宗海鲜饭需要名为'paellera'的专用平底锅。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "seafood paella",
+        "meaning": "海鲜烩饭",
+        "examples": [
+          {
+            "sentence": "The secret of seafood paella is using lobster broth instead of water.",
+            "sentence_zh": "海鲜烩饭的秘诀在于用龙虾高汤代替清水。"
+          }
+        ]
+      }
+    ],
+    "teach": "paella是西班牙的'火锅'🍲：最初农民用锅乱炖剩菜（像东北乱炖），后来加入海鲜升级成贵族菜🦞。要说'大杂烩'可叫hodgepodge，'黑暗料理'是food fail💥。记住：藏红花让米饭金黄，就像给米饭穿了黄金圣衣✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕噎啦'→吃太急怕噎着的饭",
+        "易混词：pizza（意大利）/paella（西班牙）",
+        "记忆tip：记住双'l'像锅柄的形状"
+      ]
+    }
+  },
+  {
+    "word": "pagan",
+    "etymology": {
+      "breakdown": [
+        "pag",
+        "an"
+      ],
+      "meaning_connection": "词根pag=乡村（源自拉丁语pagus），-an表人→原指'乡下人'，因早期基督教在城市传播更快，乡村保留传统信仰故被称作'异教徒'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "异教徒",
+        "examples": [
+          {
+            "sentence": "Viking raiders were often labeled as pagans by medieval monks.",
+            "sentence_zh": "中世纪修道士常把维京掠夺者称作异教徒。"
+          },
+          {
+            "sentence": "The temple welcomes both believers and pagans.",
+            "sentence_zh": "这座寺庙同时欢迎信徒与异教徒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无宗教信仰者",
+        "examples": [
+          {
+            "sentence": "As a pagan, he celebrates Christmas only for the turkey.",
+            "sentence_zh": "作为无信仰者，他过圣诞只为了火鸡大餐。"
+          },
+          {
+            "sentence": "Modern pagans may simply enjoy nature worship.",
+            "sentence_zh": "现代无宗教信仰者可能只是崇尚自然崇拜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "异教的",
+        "examples": [
+          {
+            "sentence": "The pagan ritual involved dancing around a giant durian.",
+            "sentence_zh": "这个异教仪式包括围着巨大榴莲跳舞。"
+          },
+          {
+            "sentence": "Chinese lion dance was once considered pagan by Western missionaries.",
+            "sentence_zh": "西方传教士曾将中国舞狮视为异教活动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "异教徒的",
+        "examples": [
+          {
+            "sentence": "Her pagan necklace featured Thor's hammer.",
+            "sentence_zh": "她异教徒风格的项链装饰着雷神之锤。"
+          },
+          {
+            "sentence": "The museum displays pagan artifacts from Siberia.",
+            "sentence_zh": "博物馆展出西伯利亚的异教徒器物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pagan festival",
+        "meaning": "异教节日",
+        "examples": [
+          {
+            "sentence": "Halloween originated from a Celtic pagan festival.",
+            "sentence_zh": "万圣节起源于凯尔特异教节日。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "neo-pagan",
+        "meaning": "新异教主义者",
+        "examples": [
+          {
+            "sentence": "Neo-pagans in Berlin host midnight yoga under full moon.",
+            "sentence_zh": "柏林的新异教主义者举办满月午夜瑜伽。"
+          }
+        ]
+      }
+    ],
+    "teach": "pagan这词自带村口大爷气质👴！最初基督徒用'乡下人(paganus)'嘲笑信多神教的乡亲🌾，现在指所有非主流信仰。说人'迷信'可以叫pagan beliefs（异教信仰），'无神论者聚会'叫pagan gathering就像漫展但供的是宙斯手办⚡️。记住：当你说别人pagan时，可能你家端午祭祖在对方眼里也是pagan！",
+    "recite": {
+      "tips": [
+        "谐音梗：'陪跟'→异教徒总陪着跟随古老传统",
+        "易混词：pagan vs. pioneer（先驱者）→ 前者信旧神，后者闯新路"
+      ]
+    }
   }
 ]

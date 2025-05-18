@@ -2006,5 +2006,291 @@
         "易混词对比：beg（真诚乞讨） vs cadge（带有欺骗性）"
       ]
     }
+  },
+  {
+    "word": "cadmium",
+    "etymology": {
+      "breakdown": [
+        "cadmi",
+        "um"
+      ],
+      "meaning_connection": "源自拉丁语cadmia（锌矿石），因与锌伴生被发现，-um为金属元素后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "镉",
+        "examples": [
+          {
+            "sentence": "The red pigment in this traditional Chinese painting contains cadmium.",
+            "sentence_zh": "这幅国画中的红色颜料含有镉元素。"
+          },
+          {
+            "sentence": "Old batteries must be recycled properly due to their cadmium content.",
+            "sentence_zh": "旧电池因含镉必须专业回收处理。"
+          }
+        ]
+      }
+    ],
+    "teach": "镉(cadmium)是元素界的变色龙🦎！名字来自希腊矿工发现的'伪银'矿石，后来发现它能让烟花呈现妖艳红色🎆。记住：'镉黄'叫cadmium yellow就像咸蛋黄🥚，'镉中毒'说cadmium poisoning要像躲臭豆腐般避开🚫。",
+    "recite": {
+      "tips": [
+        "谐音梗：'开袋霉'→开袋发霉的电池含镉",
+        "易混词对比：calcium（钙） vs cadmium（镉）",
+        "记忆tip：Cd是化学符号，联想CD光盘的金属镀层"
+      ]
+    }
+  },
+  {
+    "word": "cadre",
+    "etymology": {
+      "breakdown": [
+        "cadre"
+      ],
+      "meaning_connection": "源自法语'cadre'（框架），借指组织机构中的核心骨架"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "框架",
+        "examples": [
+          {
+            "sentence": "The steel cadre of the Bird's Nest Stadium reflects traditional Chinese ceramics.",
+            "sentence_zh": "鸟巢体育馆的钢制框架体现了中国传统陶瓷纹样。"
+          },
+          {
+            "sentence": "Builders are assembling the cadre for the new Hong Kong-Zhuhai-Macao Bridge section.",
+            "sentence_zh": "工人正在组装港珠澳大桥新段的钢结构框架。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "干部",
+        "examples": [
+          {
+            "sentence": "Village cadres in Zhejiang are teaching farmers to sell pomelos via livestream.",
+            "sentence_zh": "浙江的村干部正在教农民通过直播卖柚子。"
+          },
+          {
+            "sentence": "The young cadre from Tibet carries a notebook with yak leather cover.",
+            "sentence_zh": "这位来自西藏的年轻干部带着牦牛皮封面的笔记本。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "party cadre",
+        "meaning": "党员干部",
+        "examples": [
+          {
+            "sentence": "Party cadres in Yan'an still wear the iconic sun-dyed blue uniforms.",
+            "sentence_zh": "延安的党员干部仍穿着标志性的晒蓝布制服。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cadre training",
+        "meaning": "干部培训",
+        "examples": [
+          {
+            "sentence": "The cadre training includes tea-picking experiences in Longjing village.",
+            "sentence_zh": "干部培训包含龙井村的采茶体验。"
+          }
+        ]
+      }
+    ],
+    "teach": "cadre就像乐高骨架🧱→既能指建筑框架（国家大剧院的钛合金cadre），又指组织骨架（穿中山装的party cadre）。'框架干部'记忆法：干部就是国家机器的'人形框架'👔。搭配说'基层干部'用grassroots cadre，吐槽官僚主义说'paper cadre'（纸面干部）📄。记住：好cadre要像钢筋水泥，撑起发展大厦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开裆'→干部(cadre)要'开裆'裤深入群众",
+        "易混词对比：cadre（骨干人员） vs. career（职业生涯）",
+        "视觉联想：干部名单=框架结构图"
+      ]
+    }
+  },
+  {
+    "word": "Caesarean",
+    "etymology": {
+      "breakdown": [
+        "Caesar",
+        "ean"
+      ],
+      "meaning_connection": "源自罗马统治者Julius Caesar的名字，-ean表示'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "恺撒的",
+        "examples": [
+          {
+            "sentence": "The Caesarean laurel wreath became a symbol of imperial power.",
+            "sentence_zh": "恺撒的月桂冠成了帝国权力的象征。"
+          },
+          {
+            "sentence": "This coin features typical Caesarean facial profiles.",
+            "sentence_zh": "这枚硬币刻有典型的恺撒侧面像。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "帝国的",
+        "examples": [
+          {
+            "sentence": "The Caesarean legions conquered half of Europe.",
+            "sentence_zh": "帝国军团征服了半个欧洲。"
+          },
+          {
+            "sentence": "Ancient Roman roads demonstrate Caesarean engineering brilliance.",
+            "sentence_zh": "古罗马道路展现了帝国工程学的辉煌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "专制独裁者",
+        "examples": [
+          {
+            "sentence": "Modern dictators often dream of being Caesareans.",
+            "sentence_zh": "现代独裁者常幻想成为恺撒式的统治者。"
+          },
+          {
+            "sentence": "The protestors condemned the mayor as a petty Caesarean.",
+            "sentence_zh": "抗议者谴责市长是个小恺撒式的独裁者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Caesarean section",
+        "meaning": "剖腹产（源自传说恺撒剖腹出生）",
+        "examples": [
+          {
+            "sentence": "The panda at Beijing Zoo delivered twins via Caesarean section.",
+            "sentence_zh": "北京动物园的熊猫通过剖腹产诞下双胞胎。"
+          }
+        ]
+      }
+    ],
+    "teach": "Caesarean是史上最强'冠名权'案例👑！Julius Caesar的名字不仅变成皇帝称号（俄语'沙皇'tsar也源自于此），还诞生了'专制者'的代名词🗡️。最绝的是剖腹产英文叫Caesarean section，因为传说恺撒是剖腹出生的（其实古罗马那时剖腹产基本致命）🤰。搭配：'小独裁者'叫would-be Caesarean，'权力更迭'说Caesarean succession。记住：每个霸道总裁心里都住着个Caesarean！",
+    "recite": {
+      "tips": [
+        "谐音梗：'切萨仁'→切开撒盐的独裁者",
+        "易混词对比：Caesarean（恺撒相关） vs. Caesura（诗歌停顿）"
+      ]
+    }
+  },
+  {
+    "word": "caesura",
+    "etymology": {
+      "breakdown": [
+        "caes",
+        "ura"
+      ],
+      "meaning_connection": "词根caes=切割（同源词incise），-ura表动作结果→原指诗歌中的'切割停顿'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "（诗歌）停顿",
+        "examples": [
+          {
+            "sentence": "The caesura in Li Bai's poem creates dramatic tension like a guzheng's sudden silence.",
+            "sentence_zh": "李白诗中的停顿制造出古筝骤停般的戏剧张力。"
+          },
+          {
+            "sentence": "Modern rap battles use caesurae as effectively as ancient epic poetry.",
+            "sentence_zh": "现代说唱对战运用诗句停顿的技巧不输古代史诗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "中断",
+        "examples": [
+          {
+            "sentence": "The 2008 Olympics opening ceremony had a deliberate caesura before the scroll unfurled.",
+            "sentence_zh": "2008奥运开幕式的卷轴展开前刻意设计了停顿。"
+          },
+          {
+            "sentence": "Her speech included a caesura so long that people thought the mic was broken.",
+            "sentence_zh": "她的演讲停顿长得让人以为麦克风坏了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "rhetorical caesura",
+        "meaning": "修辞性停顿",
+        "examples": [
+          {
+            "sentence": "Zhuge Liang's empty city stratagem relied on a rhetorical caesura in military action.",
+            "sentence_zh": "诸葛亮的空城计利用了军事行动中的策略性停顿。"
+          }
+        ]
+      }
+    ],
+    "teach": "caesura是文学界的'战术呼吸'🎭！就像京剧亮相时的定场⚡（dramatic caesura），或火锅沸腾时关火片刻🍲（strategic pause）。搭配：'插入停顿'叫insert a caesura，'利用停顿'叫leverage the caesura。地道说法：'吊胃口'叫leave someone hanging就像诗句突然卡住🤐。记住：好的caesura能让观众集体倒吸气！",
+    "recite": {
+      "tips": [
+        "谐音梗：'切酥啦'→切月饼时故意停顿",
+        "易混词：pause（普通暂停）vs caesura（艺术性中断）",
+        "记忆法：想象指挥家突然收棒👨🎤的手势"
+      ]
+    }
+  },
+  {
+    "word": "cafe",
+    "etymology": {
+      "breakdown": [
+        "cafe"
+      ],
+      "meaning_connection": "源自法语'café'，原指'咖啡'，后引申为提供咖啡饮品的场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "咖啡馆",
+        "examples": [
+          {
+            "sentence": "The cat cafe in Beijing allows you to sip latte while petting Maine Coons.",
+            "sentence_zh": "北京的猫咖让你能边喝拿铁边撸缅因猫。"
+          },
+          {
+            "sentence": "WeChat Moments photos are mostly taken in aesthetic cafes.",
+            "sentence_zh": "朋友圈照片大多拍摄于网红咖啡馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小餐馆",
+        "examples": [
+          {
+            "sentence": "The roadside cafe serves the best jianbing in the neighborhood.",
+            "sentence_zh": "这家街边小馆卖全小区最好吃的煎饼。"
+          },
+          {
+            "sentence": "Midnight cafes near universities always have spicy crayfish.",
+            "sentence_zh": "大学城附近的深夜食堂必有麻辣小龙虾。"
+          }
+        ]
+      }
+    ],
+    "teach": "cafe是法国人留给我们最优雅的发明☕！巴黎最早的咖啡馆其实是'文人澡堂'——伏尔泰边泡澡边喝咖啡写作🖋️。要说'网红店打卡'叫hit up a cafe，'续杯'是refill就像给手机充电🔋。记住：真正的cafe连WIFI密码都是波德莱尔的诗！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开啡'→开家咖啡馆",
+        "易混词：cafeteria（自助食堂）比cafe多几个字母就像食堂比咖啡馆多几口大锅"
+      ]
+    }
   }
 ]

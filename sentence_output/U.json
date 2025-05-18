@@ -2220,5 +2220,271 @@
         "易混词对比：umpteenth（序数）vs umpteen（基数）"
       ]
     }
+  },
+  {
+    "word": "unabashed",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "a",
+        "bash",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，a-强化语气，词根bash=羞愧（原指'打'→被打会脸红），-ed构成形容词→字面'没被打脸的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不脸红的",
+        "examples": [
+          {
+            "sentence": "The toddler gave an unabashed smile after drawing on the wall.",
+            "sentence_zh": "小孩在墙上涂鸦后毫无愧色地笑了。"
+          },
+          {
+            "sentence": "He drank the last bubble tea with unabashed satisfaction.",
+            "sentence_zh": "他喝完最后一杯奶茶时脸上毫无掩饰的满足。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不害羞的",
+        "examples": [
+          {
+            "sentence": "She sang anime songs in the subway with unabashed enthusiasm.",
+            "sentence_zh": "她在地铁里毫无顾忌地高唱动漫歌曲。"
+          },
+          {
+            "sentence": "The unabashed tourist took selfies with every Terracotta Warrior.",
+            "sentence_zh": "这个毫不害羞的游客和每个兵马俑都拍了自拍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "脸皮厚的",
+        "examples": [
+          {
+            "sentence": "His unabashed request for a third helping of hotpot shocked the host.",
+            "sentence_zh": "他厚着脸皮要第三份火锅的行为震惊了主人。"
+          },
+          {
+            "sentence": "The scammer made unabashed claims about his fake credentials.",
+            "sentence_zh": "骗子大言不惭地吹嘘自己的假学历。"
+          }
+        ]
+      }
+    ],
+    "teach": "unabashed是社牛终极形态🤪！词根bash本指'击打'（如bash someone），古人觉得挨打会脸红→不脸红的就是unabashed。想夸人'放得开'说unabashed confidence（比如吃螺蛳粉不放酸笋的勇气），骂人'厚脸皮'用shameless更狠。记住：当你说'I'm unabashedly eating durian in the elevator'时，别人其实在默默诅咒你😈",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿爸洗的'→阿爸洗掉(unabashed)你的羞耻心",
+        "对比记忆：bashful（害羞的）vs unabashed（不害臊的）像硬币正反面",
+        "场景联想：想象熊猫🐼 unabashedly 抢游客手机的样子"
+      ]
+    }
+  },
+  {
+    "word": "unabated",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "a",
+        "bat",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，a-加强语气，词根bat=击打→原指'未被击败的'，引申为'持续不减'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不衰退的",
+        "examples": [
+          {
+            "sentence": "The popularity of bubble tea continues unabated worldwide.",
+            "sentence_zh": "珍珠奶茶在全球的热度持续不减。"
+          },
+          {
+            "sentence": "His enthusiasm for collecting sneakers remains unabated after 20 years.",
+            "sentence_zh": "他对收集球鞋的热情二十年来未曾衰退。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不减弱的",
+        "examples": [
+          {
+            "sentence": "The sandstorm raged unabated for three days in the Gobi Desert.",
+            "sentence_zh": "戈壁滩的沙尘暴肆虐三日不见减弱。"
+          },
+          {
+            "sentence": "Her determination to master Peking opera grew unabated despite the difficulties.",
+            "sentence_zh": "她学习京剧的决心虽遇困难却丝毫未减。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with unabated force",
+        "meaning": "以不減的力度",
+        "examples": [
+          {
+            "sentence": "The Yangtze River flows with unabated force through the Three Gorges.",
+            "sentence_zh": "长江以不减的力度奔流穿过三峡。"
+          }
+        ]
+      }
+    ],
+    "teach": "unabated是'打不死的小强'🪳：想象被揍(bat)却依然(un)生龙活虎💪。形容'双十一购物热情不减'是shopping frenzy continues unabated，要说'风雨无阻'就是proceed unabated🌧️☔。记住：这个词专治各种'三分钟热度'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'油腻不退'→中年大叔的热情油腻(unabated)不退",
+        "易混词对比：abated（减弱）vs unabated（未减）像刹车与油门"
+      ]
+    }
+  },
+  {
+    "word": "unable",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "able"
+      ],
+      "meaning_connection": "前缀un-表否定，able意为'能够'→字面意思'不能的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不能的",
+        "examples": [
+          {
+            "sentence": "I'm unable to resist spicy crayfish at midnight.",
+            "sentence_zh": "我无法抗拒深夜的麻辣小龙虾。"
+          },
+          {
+            "sentence": "The app was unable to process so many livestream orders at once.",
+            "sentence_zh": "该应用无法同时处理这么多直播订单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不会的",
+        "examples": [
+          {
+            "sentence": "He's unable to use chopsticks properly after 3 years in China.",
+            "sentence_zh": "在中国待了三年，他还是不会正确使用筷子。"
+          }
+        ]
+      }
+    ],
+    "teach": "unable就像被封印的超能力🦸！比如：1) 古罗马奴隶unable投票🗳️；2) 想象Wi-Fi信号被掐断📶（unable to connect）；3) 实用搭配：'physically unable'（生理上不能）/ 'morally unable'（道德上不能）；4) 地道说法'I'm toast'（我完蛋了=完全无法应对）；5) 三连击emoji：🚫💪❌",
+    "recite": {
+      "tips": [
+        "拆解记忆：un（不）+able（能）=不能",
+        "易混词对比：disable（使失去能力） vs unable（没有能力）",
+        "联想：U盘(U)无法(able)读取→unable"
+      ]
+    }
+  },
+  {
+    "word": "unacceptable",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "accept",
+        "able"
+      ],
+      "meaning_connection": "前缀un-表否定，词根accept=接受，后缀-able表可能性→字面为'不能被接受的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无法接受的",
+        "examples": [
+          {
+            "sentence": "Spitting in public is unacceptable in modern society.",
+            "sentence_zh": "当众吐痰在现代社会是无法接受的。"
+          },
+          {
+            "sentence": "The 300% price hike for masks was absolutely unacceptable during the pandemic.",
+            "sentence_zh": "疫情期间口罩涨价300%是绝对无法接受的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不受欢迎的",
+        "examples": [
+          {
+            "sentence": "His racist remarks made him unacceptable in the community.",
+            "sentence_zh": "他的种族主义言论使他在社区里不受欢迎。"
+          },
+          {
+            "sentence": "Plastic straws are becoming increasingly unacceptable in eco-conscious cafes.",
+            "sentence_zh": "在环保意识强的咖啡馆里，塑料吸管越来越不受欢迎。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "completely unacceptable",
+        "meaning": "完全不可接受",
+        "examples": [
+          {
+            "sentence": "Food delivery being 2 hours late is completely unacceptable.",
+            "sentence_zh": "外卖迟到两小时是完全不可接受的。"
+          }
+        ]
+      }
+    ],
+    "teach": "unacceptable就像被退回的外卖🚫🍔：前缀un-是拒收印章，accept是接单按钮，-able是'可能性'标签。当你说'This is unacceptable!'时，就像给差评时点击愤怒表情😡。搭配'politically unacceptable'（政治不正确）或'socially unacceptable'（违背公序良俗），地道吐槽用'That's beyond the pale!'（太过分了）💢🚷👎",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺不接这包'→快递员拒收(un-accept-able)包裹",
+        "易混对比：unacceptable（主观上不接受）vs. unacceptable（客观上达不到标准）"
+      ]
+    }
+  },
+  {
+    "word": "unacceptably",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "accept",
+        "able",
+        "ly"
+      ],
+      "meaning_connection": "前缀un-表否定，词根accept=接受，-able=能...的，-ly=副词后缀→字面'不能被接受地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不能接受地",
+        "examples": [
+          {
+            "sentence": "The wifi speed here is unacceptably slow for livestreaming.",
+            "sentence_zh": "这里的网速慢得无法接受直播需求。"
+          },
+          {
+            "sentence": "The restaurant charged unacceptably high prices for tap water.",
+            "sentence_zh": "这家餐厅对白开水收取高到离谱的价格。"
+          }
+        ]
+      }
+    ],
+    "teach": "unacceptably就像被踩到尾巴的猫🐱！古罗马人用accept表示'接住投来的橄榄'，加un-就变成'扔回对方脸上'🤺。说'太离谱'可以用That's beyond the pale（越过栅栏→越界），'突破底线'叫cross the line🚧。记住：当老板说unacceptably时，你的表情应该像吃了柠檬🍋！",
+    "recite": {
+      "tips": [
+        "拆解记忆：un(不)+accept(接受)+ably(能...地)=接不住",
+        "对比记忆：acceptable是'能接住的'，unacceptable是'会漏接的'"
+      ]
+    }
   }
 ]

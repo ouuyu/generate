@@ -2371,5 +2371,231 @@
         "易混词：earthworm（蚯蚓）和earthquake别搞混，一个在土里扭，一个让大地抖"
       ]
     }
+  },
+  {
+    "word": "earthwork",
+    "etymology": {
+      "breakdown": [
+        "earth",
+        "work"
+      ],
+      "meaning_connection": "earth=泥土/地球，work=工程→与泥土相关的工程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "土木工事",
+        "examples": [
+          {
+            "sentence": "The Great Wall's earthwork sections were built with rammed soil layers.",
+            "sentence_zh": "长城的土木工事部分采用夯土层建造。"
+          },
+          {
+            "sentence": "Archaeologists found ancient earthwork defenses dating back to the Warring States period.",
+            "sentence_zh": "考古学家发现了战国时期的土木防御工事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "土方工程",
+        "examples": [
+          {
+            "sentence": "The subway construction requires massive earthwork to dig tunnels.",
+            "sentence_zh": "地铁建设需要大量土方工程来挖掘隧道。"
+          },
+          {
+            "sentence": "Modern earthwork machinery can move hills within days.",
+            "sentence_zh": "现代土方工程机械能在数日内移山填海。"
+          }
+        ]
+      }
+    ],
+    "teach": "earthwork是基建狂魔的祖传手艺🏗️！古代版'愚公移山'就是人力earthwork⛏️，现在变成'蓝翔毕业班'的挖掘机秀🤖。说'大兴土木'用break ground（破土），'挖土方'叫cut-and-fill like a terraforming game🎮。记住：你的快递能次日达，全靠earthwork铺路！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿死我渴'→古代修earthwork的民工心声",
+        "易混词对比：earthworm（蚯蚓）是自然界的earthwork专家"
+      ]
+    }
+  },
+  {
+    "word": "earthworm",
+    "etymology": {
+      "breakdown": [
+        "earth",
+        "worm"
+      ],
+      "meaning_connection": "复合词，earth=土地，worm=蠕虫→土里钻的虫子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "蚯蚓",
+        "examples": [
+          {
+            "sentence": "The earthworm wriggled out after the rain like a tiny dragon.",
+            "sentence_zh": "雨后蚯蚓像迷你龙一样扭动着钻出来。"
+          },
+          {
+            "sentence": "Charles Darwin studied earthworms for 39 years and called them 'nature's plows'.",
+            "sentence_zh": "达尔文研究蚯蚓39年，称它们为'大自然的犁'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "earthworm castings",
+        "meaning": "蚯蚓粪肥",
+        "examples": [
+          {
+            "sentence": "Organic farmers treasure earthworm castings more than gold.",
+            "sentence_zh": "有机农场主视蚯蚓粪比黄金还珍贵。"
+          }
+        ]
+      }
+    ],
+    "teach": "earthworm是自然界的打洞工程师🏗️！它们每天能吃下自身体重1/3的土（相当于你每天吃200个汉堡🍔），排泄物能让土壤变肥沃💩。中文叫'地龙'超霸气，英文里钓鱼佬说'worm juice'指蚯蚓体液🎣。记住：没有蚯蚓的话，人类文明可能还在吃土！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿死虫'→饿(e)死(arth)虫(worm)其实是土地清道夫",
+        "易混词：silkworm（蚕）是丝绸厂厂长，earthworm是农田CEO"
+      ]
+    }
+  },
+  {
+    "word": "earthy",
+    "etymology": {
+      "breakdown": [
+        "earth",
+        "y"
+      ],
+      "meaning_connection": "词根earth=泥土/地球，后缀-y表示'具有...性质的'→像泥土般的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "土的",
+        "examples": [
+          {
+            "sentence": "The farmer's hands had an earthy smell after planting potatoes.",
+            "sentence_zh": "农民种完土豆后，双手带着泥土的气息。"
+          },
+          {
+            "sentence": "This ceramic mug has an earthy texture that reminds me of childhood in the countryside.",
+            "sentence_zh": "这个陶瓷杯的粗犷质地让我想起乡村童年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "土质的",
+        "examples": [
+          {
+            "sentence": "The earthy flavor of beetroot comes from geosmin, a compound produced by soil bacteria.",
+            "sentence_zh": "甜菜的泥土风味来自土臭素，一种土壤细菌产生的化合物。"
+          },
+          {
+            "sentence": "Pu'er tea's earthy taste is highly prized by connoisseurs.",
+            "sentence_zh": "普洱茶的土壤气息深受茶客推崇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "土味的",
+        "examples": [
+          {
+            "sentence": "His earthy jokes about rural life always make the villagers roar with laughter.",
+            "sentence_zh": "他那些乡村生活的土味笑话总让村民捧腹。"
+          },
+          {
+            "sentence": "The douyin video went viral for its earthy but heartwarming proposal style.",
+            "sentence_zh": "这个抖音视频因土味但温暖的求婚方式走红。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "earthy humor",
+        "meaning": "粗俗幽默",
+        "examples": [
+          {
+            "sentence": "Comedians in nightclubs often use earthy humor involving toilet jokes.",
+            "sentence_zh": "夜总会的喜剧演员常用马桶笑话类的粗俗幽默。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "earthy colors",
+        "meaning": "大地色系",
+        "examples": [
+          {
+            "sentence": "Her autumn collection features earthy colors like ochre and burnt sienna.",
+            "sentence_zh": "她的秋季系列主打赭石色等大地色系。"
+          }
+        ]
+      }
+    ],
+    "teach": "earthy是'土到极致便是潮'的完美诠释🏆！从字面看是捏泥土的触感🏺（earthy clay），品红酒时说earthy是在夸有矿物感🍷，而'土味情话'叫earthy pick-up lines就像挖掘机式浪漫💘。记住：说人'很土'别用earthy，要用corny（老掉牙的）或tacky（俗气的）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿死体'→饿到吃土(earthy)的体质",
+        "对比记忆：earthy（自然的土感） vs. dirty（肮脏的）",
+        "联想：微信表情里[便便]就是最earthy的表情包"
+      ]
+    }
+  },
+  {
+    "word": "earwig",
+    "etymology": {
+      "breakdown": [
+        "ear",
+        "wig"
+      ],
+      "meaning_connection": "古英语ēar-wicga，字面意思是'耳朵扭动者'，因传说这种昆虫会钻入人耳而得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "蠼螋（一种尾部有钳状器官的小昆虫）",
+        "examples": [
+          {
+            "sentence": "The earwig curled its pincers when I touched the flower pot.",
+            "sentence_zh": "当我触碰花盆时，那只蠼螋卷起了它的钳尾。"
+          },
+          {
+            "sentence": "Ancient medical texts falsely claimed earwigs could crawl into brains.",
+            "sentence_zh": "古代医书错误地宣称蠼螋会爬进人脑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "like an earwig in the ear",
+        "meaning": "像耳边蠼螋般烦人",
+        "examples": [
+          {
+            "sentence": "His complaints stuck in my mind like an earwig in the ear.",
+            "sentence_zh": "他的抱怨像耳边蠼螋般挥之不去。"
+          }
+        ]
+      }
+    ],
+    "teach": "earwig其实是古代'耳虫'恐惧症的产物👂🐛！中世纪欧洲人相信它们会钻耳入脑（实际并不会）。现代英语用earworm表示'脑内循环的魔性旋律'🎵，而要说'烦人精'可以用nagging earwig。记住：遇到真蠼螋时，它比你更怕被'打耳洞'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一耳歪个'→耳朵歪了因为蠼螋钻入",
+        "易混词对比：firefly（萤火虫）vs earwig（蠼螋）",
+        "记忆tip：想象戴着蓝牙耳机(ear)的人突然手舞足蹈(wiggle)"
+      ]
+    }
   }
 ]
