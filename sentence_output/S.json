@@ -1930,5 +1930,348 @@
         "易混词对比：sacred（普通神圣）vs sacrosanct（超级神圣）→就像普通会员和SVIP的区别"
       ]
     }
+  },
+  {
+    "word": "sad",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'sæd'，表示'满足的'，后语义转为'沉重的'，最终演变为'悲伤的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "忧愁的",
+        "examples": [
+          {
+            "sentence": "The panda looked sad after finishing all its bamboo.",
+            "sentence_zh": "这只熊猫吃完所有竹子后露出忧愁的表情。"
+          },
+          {
+            "sentence": "His sad eyes reminded me of a rainy Tuesday afternoon.",
+            "sentence_zh": "他忧愁的眼神让我想起某个阴雨的周二下午。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "悲哀的",
+        "examples": [
+          {
+            "sentence": "The sad melody made everyone think of their childhood.",
+            "sentence_zh": "这悲哀的旋律让所有人都想起了童年。"
+          },
+          {
+            "sentence": "It's sad to see the last cup of milk tea disappear.",
+            "sentence_zh": "看着最后一杯奶茶消失真是悲哀。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sad to say",
+        "meaning": "遗憾地说",
+        "examples": [
+          {
+            "sentence": "Sad to say, the hotpot restaurant ran out of spicy broth.",
+            "sentence_zh": "遗憾地说，火锅店的辣锅底卖完了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sad sack",
+        "meaning": "倒霉蛋",
+        "examples": [
+          {
+            "sentence": "He's such a sad sack - always gets the slowest delivery guy.",
+            "sentence_zh": "他真是个倒霉蛋，总遇到最慢的外卖小哥。"
+          }
+        ]
+      }
+    ],
+    "teach": "sad这个词就像融化的冰淇淋🍦！最早居然表示'满足'（惊不惊喜？），后来变成形容钱包空空的emo状态💸。网络梗有'sad reacts only'（仅限哭哭表情），'太惨了'可以说sadder than...（比...还惨，比如sadder than a wifi-less phone📱）。搭配：sad face（哭哭脸）/sad news（噩耗），'郁闷'说down in the dumps就像被丢进垃圾堆🗑️",
+    "recrite": {
+      "tips": [
+        "谐音梗：'塞的'→心里塞塞的所以sad",
+        "易混词：sad（情绪）/sod（草皮）",
+        "记忆法：把d想成下垂的嘴角"
+      ]
+    }
+  },
+  {
+    "word": "sadden",
+    "etymology": {
+      "breakdown": [
+        "sad",
+        "en"
+      ],
+      "meaning_connection": "词根sad=悲哀的，后缀-en表'使...化'→字面意思就是'使变得悲哀'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使忧愁",
+        "examples": [
+          {
+            "sentence": "The cancellation of the Jay Chou concert saddened millions of fans.",
+            "sentence_zh": "周杰伦演唱会取消让数百万粉丝感到忧愁。"
+          },
+          {
+            "sentence": "Seeing the abandoned puppies saddened the whole neighborhood.",
+            "sentence_zh": "看到被遗弃的小狗让整个小区的人都感到难过。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使悲哀",
+        "examples": [
+          {
+            "sentence": "The documentary about stray animals saddened the audience deeply.",
+            "sentence_zh": "关于流浪动物的纪录片让观众深感悲哀。"
+          },
+          {
+            "sentence": "The news of the old teahouse closing saddened the regular customers.",
+            "sentence_zh": "老茶馆关闭的消息让老主顾们非常悲哀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "忧愁",
+        "examples": [
+          {
+            "sentence": "Her eyes saddened when she talked about her hometown.",
+            "sentence_zh": "当谈到家乡时，她的眼神变得忧愁。"
+          },
+          {
+            "sentence": "The music gradually saddened as the story reached its tragic climax.",
+            "sentence_zh": "当故事达到悲剧高潮时，音乐逐渐变得忧愁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "悲哀",
+        "examples": [
+          {
+            "sentence": "The willow branches seemed to sadden in the autumn wind.",
+            "sentence_zh": "柳枝在秋风中仿佛也显得悲哀。"
+          },
+          {
+            "sentence": "His expression saddened upon receiving the test results.",
+            "sentence_zh": "收到考试结果后，他的表情变得悲哀。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be saddened by",
+        "meaning": "因...感到悲伤",
+        "examples": [
+          {
+            "sentence": "The whole nation was saddened by the earthquake news.",
+            "sentence_zh": "全国人民都为地震消息感到悲伤。"
+          }
+        ]
+      }
+    ],
+    "teach": "sadden就像雨天里漏水的屋顶🌧️！它把悲伤(sad)变成了动词，就像给emoji😭加了个魔法棒✨（使别人悲伤）。说'心碎'可以讲heartbroken，但'让人心碎'就是sadden someone。记住：当乌云遮住太阳时，整个世界都会sadden☁️→🌞→☹️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'腮等'→腮帮子等着掉眼泪",
+        "对比记忆：sad（形容词）→ sadden（动词）就像happy→happiness"
+      ]
+    }
+  },
+  {
+    "word": "saddened",
+    "etymology": {
+      "breakdown": [
+        "sad",
+        "en",
+        "ed"
+      ],
+      "meaning_connection": "sad（悲伤）+ -en（使动后缀）→ 使悲伤"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使悲哀",
+        "examples": [
+          {
+            "sentence": "The canceled concert saddened thousands of fans holding lightsticks.",
+            "sentence_zh": "演唱会的取消让成千上万拿着应援棒的粉丝感到悲伤。"
+          },
+          {
+            "sentence": "It saddened her when her favorite bubble tea shop closed down.",
+            "sentence_zh": "当她最爱的奶茶店关门时，她感到非常难过。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "忧愁",
+        "examples": [
+          {
+            "sentence": "He saddened at the sight of abandoned shared bikes in the river.",
+            "sentence_zh": "看到河里被丢弃的共享单车，他感到忧愁。"
+          },
+          {
+            "sentence": "The panda saddened when its bamboo snacks ran out.",
+            "sentence_zh": "当竹制零食吃完时，熊猫变得忧愁起来。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be saddened by",
+        "meaning": "因...而悲伤",
+        "examples": [
+          {
+            "sentence": "Netizens were saddened by the disappearance of the beloved internet meme.",
+            "sentence_zh": "网友因心爱的网络梗消失而感到悲伤。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "feel saddened",
+        "meaning": "感到忧伤",
+        "examples": [
+          {
+            "sentence": "She felt saddened seeing her WeChat steps ranking at the bottom.",
+            "sentence_zh": "看到自己的微信运动排名垫底，她感到忧伤。"
+          }
+        ]
+      }
+    ],
+    "teach": "saddened就像被雨淋湿的猫猫🐱！古英语中'sad'原指'吃饱喝足后的满足'，后来竟变成'悲伤'（就像吃太撑也会难过🤢）。要说'心碎'可以用heartbroken，'忧郁'说blue更地道🎵。记住：当你的爱豆宣布恋爱时，你就是saddened的活教材💔！搭配：saddened expression（忧伤表情）/ deeply saddened（深感悲痛）。",
+    "recite": {
+      "tips": [
+        "谐音梗：'腮疼的'→悲伤到腮帮子都疼",
+        "易混词对比：sorrow（深沉悲伤）vs sadness（一般性难过）",
+        "记忆tip：想象微信'捂脸哭'表情😭就是saddened最佳图示"
+      ]
+    }
+  },
+  {
+    "word": "saddle",
+    "etymology": {
+      "breakdown": [
+        "sad",
+        "dle"
+      ],
+      "meaning_connection": "古英语sadol，可能与'sit'（坐）相关，-dle为工具后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "马鞍",
+        "examples": [
+          {
+            "sentence": "The cowboy's leather saddle had intricate dragon patterns.",
+            "sentence_zh": "牛仔的皮马鞍上雕刻着繁复的龙纹。"
+          },
+          {
+            "sentence": "She adjusted the saddle before riding through the tea fields.",
+            "sentence_zh": "她穿过茶园前调整了马鞍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "自行车座",
+        "examples": [
+          {
+            "sentence": "My new shared-bike has a gel saddle for comfort.",
+            "sentence_zh": "新共享单车的凝胶车座坐着很舒服。"
+          },
+          {
+            "sentence": "The delivery guy's saddle was covered in rain.",
+            "sentence_zh": "外卖小哥的车座被雨水打湿了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给...装鞍",
+        "examples": [
+          {
+            "sentence": "We saddled the camel for desert tourism.",
+            "sentence_zh": "我们给骆驼装鞍开展沙漠旅游项目。"
+          },
+          {
+            "sentence": "He saddled his electric bike with two takeout boxes.",
+            "sentence_zh": "他在电动车后座绑了两个外卖箱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使负担",
+        "examples": [
+          {
+            "sentence": "The boss saddled me with 3 projects during Spring Festival.",
+            "sentence_zh": "春节时老板让我同时负责3个项目。"
+          },
+          {
+            "sentence": "Don't saddle your kids with your unrealized dreams.",
+            "sentence_zh": "别让你未实现的梦想成为孩子的负担。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "跨上马鞍",
+        "examples": [
+          {
+            "sentence": "She saddled up and rode towards the sunset.",
+            "sentence_zh": "她翻身上马奔向夕阳。"
+          },
+          {
+            "sentence": "Delivery riders saddle up before dawn every day.",
+            "sentence_zh": "外卖骑手们每天拂晓前就跨上电动车。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in the saddle",
+        "meaning": "掌权中",
+        "examples": [
+          {
+            "sentence": "The new CEO is firmly in the saddle now.",
+            "sentence_zh": "新任CEO已稳坐交椅。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "saddle sore",
+        "meaning": "骑马/骑车后的肌肉酸痛",
+        "examples": [
+          {
+            "sentence": "Cycling 50km gave me terrible saddle sore.",
+            "sentence_zh": "骑行50公里让我屁股痛得要命。"
+          }
+        ]
+      }
+    ],
+    "teach": "saddle简直是职场人的写照💼！当名词是舒适坐垫（像老板的真皮座椅🤴），当动词却是'甩锅'（saddle sb. with work）。马鞍演变史超有趣：成吉思汗的弓形马鞍能射箭🏹，现代电动车鞍座能挂奶茶🍵。说'压力山大'可以用saddled with，骑共享单车屁股痛叫saddle sore🐴。记住：人生就像骑马，不被saddle住，就得学会saddle up！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒痘'→骑马晒出鞍部痘痘",
+        "易混词：paddle（划桨）vs saddle（马鞍）→ 一个在水里划，一个在马背上跨"
+      ]
+    }
   }
 ]

@@ -1963,5 +1963,325 @@
         "易混词对比：abductor（带离） vs adductor（内收肌，往里带）"
       ]
     }
+  },
+  {
+    "word": "abed",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bed"
+      ],
+      "meaning_connection": "前缀a-表示'在...状态中'，bed即'床'→字面意义为'在床上的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "在床上",
+        "examples": [
+          {
+            "sentence": "The cat lay abed all morning, ignoring its empty food bowl.",
+            "sentence_zh": "猫咪整个上午都赖在床上，对空食碗视而不见。"
+          },
+          {
+            "sentence": "Stay abed if you have a fever—stop checking work emails!",
+            "sentence_zh": "发烧就老实卧床，别再查工作邮件了！"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "abed是古代英语遗留的活化石⏳，现代人更爱说in bed（除非你想装莎士比亚📜）。想象社畜的终极梦想：周日abed到中午🛌 vs 打工人现实：7am already out of bed💼。搭配推荐：'lie abed'赖床 vs 'toss abed'辗转难眠，地道说法：'I'm abed with flu'比'I'm sick in bed'更有文学细菌🦠",
+    "recite": {
+      "tips": [
+        "视觉联想：a+bed=一张床飘在空中☁️（因为a-前缀表示悬浮状态）",
+        "易混词：abed（静态）vs aboard（动态上车/船）"
+      ]
+    }
+  },
+  {
+    "word": "aberrant",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "err",
+        "ant"
+      ],
+      "meaning_connection": "前缀ab-表示'偏离'，词根err表示'漫游/错误'，后缀-ant表性质→字面意思'走偏的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "偏离正路的",
+        "examples": [
+          {
+            "sentence": "The aberrant driver ignored all traffic lights.",
+            "sentence_zh": "那个偏离正路的司机无视所有交通灯。"
+          },
+          {
+            "sentence": "His aberrant behavior made him walk backwards into the elevator.",
+            "sentence_zh": "他偏离常轨的行为让他倒着走进电梯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "畸变的",
+        "examples": [
+          {
+            "sentence": "The scientist studied aberrant chromosomes under microscope.",
+            "sentence_zh": "科学家在显微镜下研究畸变的染色体。"
+          },
+          {
+            "sentence": "This aberrant tulip has black petals instead of red.",
+            "sentence_zh": "这朵畸变的郁金香长出了黑色而非红色的花瓣。"
+          }
+        ]
+      }
+    ],
+    "teach": "aberrant是'跑偏专业户'🤪！词根err就是error（错误），像玩王者荣耀时队友总err到敌方塔下送人头🎮。说'不正常'可以用freak，形容'离谱操作'叫go off the rails（脱轨）🚂。记住：aberrant的程度比weird更严重，就像把螺蛳粉煮成甜品🍮！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊白跑'→啊白跑(aberrant)了完全走错路",
+        "易混词：abnormal（普通异常）vs aberrant（严重偏离）",
+        "记忆法：把aberrant拆成ab(离开)+err(错误)+ant(蚂蚁)→蚂蚁错误离开了队伍"
+      ]
+    }
+  },
+  {
+    "word": "aberration",
+    "etymology": {
+      "breakdown": [
+        "ab",
+        "err",
+        "ation"
+      ],
+      "meaning_connection": "前缀ab-表示'偏离'，词根err=游走/错误（同error），-ation为名词后缀→原指偏离正确路线的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "偏离正轨",
+        "examples": [
+          {
+            "sentence": "His sudden love for durian was seen as a dietary aberration by his vegan friends.",
+            "sentence_zh": "他突然爱上榴莲被素食主义朋友视为饮食偏离。"
+          },
+          {
+            "sentence": "The politician's honesty was an aberration in that corrupt system.",
+            "sentence_zh": "这位政客的诚实在那腐败体系中是个例外。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "畸变",
+        "examples": [
+          {
+            "sentence": "The funhouse mirror created hilarious facial aberrations.",
+            "sentence_zh": "哈哈镜造成了滑稽的面部畸变。"
+          },
+          {
+            "sentence": "Lens aberration makes the photo edges look like melted cheese.",
+            "sentence_zh": "镜头畸变让照片边缘看起来像融化的芝士。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "光行差",
+        "examples": [
+          {
+            "sentence": "Astronomers calculate stellar aberration to adjust telescope angles.",
+            "sentence_zh": "天文学家计算恒星光行差来调整望远镜角度。"
+          },
+          {
+            "sentence": "The Hubble telescope corrects chromatic aberration with precision mirrors.",
+            "sentence_zh": "哈勃望远镜用精密镜片校正色差问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "心理失常",
+        "examples": [
+          {
+            "sentence": "Wearing socks with sandals was considered a temporary mental aberration.",
+            "sentence_zh": "穿凉鞋配袜子曾被当作暂时性心理失常。"
+          },
+          {
+            "sentence": "His obsession with collecting belly button lint was clearly an aberration.",
+            "sentence_zh": "他痴迷收集肚脐绒毛显然是心理异常。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chromatic aberration",
+        "meaning": "色差",
+        "examples": [
+          {
+            "sentence": "High-end cameras minimize chromatic aberration like a pro makeup artist hides pores.",
+            "sentence_zh": "高端相机减少色差就像专业化妆师隐藏毛孔。"
+          }
+        ]
+      }
+    ],
+    "teach": "aberration是'跑偏三件套'🎯：1) 物理上指光线跑偏（像差）🔦，2) 行为上指人跑偏（失常）🤪，3) 历史上还指地球公转导致的星光偏移🌍。搭配'mental aberration'比说'脑子进水'更学术，'optical aberration'能让你的自拍变形更科学！记住：所有'aberration'都是'ab-(跑)+err(错)'的产物🚧。",
+    "recite": {
+      "tips": [
+        "谐音梗：'A杯乱入'→A罩杯乱入D杯派对（严重失常）",
+        "对比记忆：error是小错误，aberration是大跑偏",
+        "视觉联想：🚦绿灯时突然右转的汽车=ab(偏离)+err(行驶路线)"
+      ]
+    }
+  },
+  {
+    "word": "abet",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bet"
+      ],
+      "meaning_connection": "前缀a-表示'加强'，古英语bet意为'诱使'→原指用诱饵引动物出洞，后引申为教唆犯罪"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "教唆犯罪",
+        "examples": [
+          {
+            "sentence": "The hacker was accused of abetting credit card fraud.",
+            "sentence_zh": "该黑客被指控教唆信用卡诈骗。"
+          },
+          {
+            "sentence": "Streaming pirated movies may abet copyright infringement.",
+            "sentence_zh": "播放盗版电影可能构成教唆侵权。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "煽动暴力",
+        "examples": [
+          {
+            "sentence": "Some tweets abetted the riots during the protest.",
+            "sentence_zh": "某些推文煽动了抗议活动中的暴乱。"
+          },
+          {
+            "sentence": "The cult leader abetted his followers to attack journalists.",
+            "sentence_zh": "邪教头目怂恿信徒袭击记者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "支持（消极行为）",
+        "examples": [
+          {
+            "sentence": "Turning off surveillance cameras abets shoplifting.",
+            "sentence_zh": "关闭监控摄像头等于纵容偷窃。"
+          },
+          {
+            "sentence": "His silence abetted the bullying in the classroom.",
+            "sentence_zh": "他的沉默助长了教室里的霸凌行为。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "aid and abet",
+        "meaning": "同谋协助",
+        "examples": [
+          {
+            "sentence": "The accountant aided and abetted tax evasion.",
+            "sentence_zh": "该会计协助促成逃税行为。"
+          }
+        ]
+      }
+    ],
+    "teach": "abet是'恶魔耳语'👂💀：词源像用肉骨头(a-)引诱(bet)恶犬咬人🐕！记住'教唆三要素'：1) 知道对方要干坏事 2) 主动提供帮助 3) 像吃瓜群众喊'打起来'👊。说'怂恿做傻事'用egg on（像递鸡蛋砸人🥚），'共犯'叫partner in crime🍕。法律界有句名言：Silence abets violence（沉默纵容暴力）⚖️",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊呸'→教唆别人吐口水",
+        "易混词：assist帮助（中性） vs abet帮助（贬义）",
+        "记忆场景：想象对朋友说'我赌(abet)你不敢跳湖'"
+      ]
+    }
+  },
+  {
+    "word": "abeyance",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bey",
+        "ance"
+      ],
+      "meaning_connection": "前缀a-表示'远离'，古法语词根beyer=期待，-ance为名词后缀→原指'期待状态'，引申为'暂时搁置'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "中止",
+        "examples": [
+          {
+            "sentence": "The construction project is in abeyance due to panda habitat protection.",
+            "sentence_zh": "因保护大熊猫栖息地，该建设项目暂时中止。"
+          },
+          {
+            "sentence": "Her gym membership remains in abeyance until she finishes her hotpot marathon.",
+            "sentence_zh": "她的健身房会员资格暂停，直到她结束火锅狂欢季。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "归属待定",
+        "examples": [
+          {
+            "sentence": "The disputed island's sovereignty has been in abeyance for centuries.",
+            "sentence_zh": "这个争议岛屿的主权归属已悬置数个世纪。"
+          },
+          {
+            "sentence": "The inheritance is held in abeyance until DNA test results arrive.",
+            "sentence_zh": "遗产归属暂搁，等待DNA检测结果。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fall into abeyance",
+        "meaning": "被搁置",
+        "examples": [
+          {
+            "sentence": "The tradition of morning tea ceremonies fell into abeyance during the bubble tea craze.",
+            "sentence_zh": "早茶仪式传统在珍珠奶茶热潮期间被搁置。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hold in abeyance",
+        "meaning": "暂缓执行",
+        "examples": [
+          {
+            "sentence": "The court held the verdict in abeyance for more mooncake evidence.",
+            "sentence_zh": "法院为获取更多月饼证据暂缓判决。"
+          }
+        ]
+      }
+    ],
+    "teach": "abeyance就像冷冻中的饺子❄️：明明包好了却要等春节才煮（归属待定），或是健身计划因火锅局暂缓（中止）🥟。法律人常说'hold in abeyance'就像把文件放冰箱保鲜🍱，而'fall into abeyance'像遗忘在冰箱三年的速冻汤圆🗄️。记住这个'啊呗等死'的过程就是abeyance的精髓！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿伯厌食'→阿伯把减肥计划中止(abeyance)了",
+        "易混词对比：suspension强调主动暂停，abeyance更侧重被动搁置"
+      ]
+    }
   }
 ]

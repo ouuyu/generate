@@ -2088,5 +2088,342 @@
         "易混词对比：surface指自然表面，facing特指人工覆盖层"
       ]
     }
+  },
+  {
+    "word": "facsimile",
+    "etymology": {
+      "breakdown": [
+        "fac",
+        "simile"
+      ],
+      "meaning_connection": "词根fac=做（同fact），simile=相似→制作出相似之物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "摹本",
+        "examples": [
+          {
+            "sentence": "The museum displays a facsimile of the Mona Lisa with a smiling emoji added.",
+            "sentence_zh": "博物馆展出的蒙娜丽莎摹本被加上了微笑表情。"
+          },
+          {
+            "sentence": "This facsimile of the Declaration of Independence is used in history classes.",
+            "sentence_zh": "这份独立宣言摹本用于历史课教学。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "传真",
+        "examples": [
+          {
+            "sentence": "She received a facsimile from 1995 with retro fax machine sounds.",
+            "sentence_zh": "她收到一份1995年的传真，带着复古传真机音效。"
+          },
+          {
+            "sentence": "The dinosaur-shaped facsimile machine still works in their office.",
+            "sentence_zh": "他们办公室的恐龙造型传真机仍能使用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "传真",
+        "examples": [
+          {
+            "sentence": "Please facsimile the contract with a handwritten 'LOL' at the bottom.",
+            "sentence_zh": "请传真合同并在底部手写'哈哈'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "临摹",
+        "examples": [
+          {
+            "sentence": "The artist facsimiled the terracotta warriors using chocolate.",
+            "sentence_zh": "艺术家用巧克力临摹了兵马俑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "复制的",
+        "examples": [
+          {
+            "sentence": "The facsimile edition comes with QR codes to ancient memes.",
+            "sentence_zh": "复制版附有古代表情包的二维码。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in facsimile",
+        "meaning": "精确复制",
+        "examples": [
+          {
+            "sentence": "The Forbidden City souvenir shops sell mini palaces in facsimile.",
+            "sentence_zh": "故宫纪念品店出售精确复制的迷你宫殿。"
+          }
+        ]
+      }
+    ],
+    "teach": "facsimile是古代的Ctrl+C📜：词根fac（做）+simile（相似）= 造个双胞胎！传真机就像电子信鸽📠，而摹本就像用PS修古画🖌️。说'山寨货'用knockoff，'高仿'用exact replica。记住：从敦煌壁画摹本到微信扫描，都是facsimile的魔法✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发个相似'→传真就是在发相似物",
+        "对比记忆：fake是假货，facsimile是官方认证的复制品"
+      ]
+    }
+  },
+  {
+    "word": "fact",
+    "etymology": {
+      "breakdown": [
+        "fac",
+        "t"
+      ],
+      "meaning_connection": "词根fac=做/制造（来自拉丁语facere），后缀-t表结果→'已被制造出来的事'即事实"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "事实",
+        "examples": [
+          {
+            "sentence": "The fact that pandas eat 14 hours a day explains their TikTok popularity.",
+            "sentence_zh": "熊猫每天进食14小时的事实解释了它们在抖音的走红。"
+          },
+          {
+            "sentence": "It's an undeniable fact that hotpot is the ultimate social lubricant in China.",
+            "sentence_zh": "火锅是中国终极社交润滑剂是不可否认的事实。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "真实性",
+        "examples": [
+          {
+            "sentence": "The fact of his WeChat payment record proved he was at the scene.",
+            "sentence_zh": "他的微信支付记录真实性证明了他在现场。"
+          },
+          {
+            "sentence": "Documentaries must distinguish between artistic fiction and historical fact.",
+            "sentence_zh": "纪录片必须区分艺术虚构与历史真实性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "真相",
+        "examples": [
+          {
+            "sentence": "The fact behind the viral meme turned out to be a marketing stunt.",
+            "sentence_zh": "这个爆红表情包背后的真相原来是场营销噱头。"
+          },
+          {
+            "sentence": "She finally faced the fact that her baozi recipe needed improvement.",
+            "sentence_zh": "她终于面对包子配方需要改进的真相。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "细节",
+        "examples": [
+          {
+            "sentence": "The police report included every fact about the stolen mooncake shipment.",
+            "sentence_zh": "警方报告包含了月饼失窃案的每个细节。"
+          },
+          {
+            "sentence": "Ancient tea recipes record fascinating facts about brewing techniques.",
+            "sentence_zh": "古茶方记载了关于冲泡技巧的迷人细节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "论据",
+        "examples": [
+          {
+            "sentence": "His debate speech was full of solid facts about 5G development.",
+            "sentence_zh": "他的辩论发言充满关于5G发展的扎实论据。"
+          },
+          {
+            "sentence": "The dumpling shop owner presented facts to dispute the hygiene accusation.",
+            "sentence_zh": "饺子馆老板出示论据反驳卫生指控。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in fact",
+        "meaning": "实际上",
+        "examples": [
+          {
+            "sentence": "In fact, the Great Wall is not visible from space with naked eyes.",
+            "sentence_zh": "实际上，肉眼从太空看不到长城。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "facts and figures",
+        "meaning": "精确数据",
+        "examples": [
+          {
+            "sentence": "The livestreamer memorized all facts and figures about durian exports.",
+            "sentence_zh": "主播熟记关于榴莲出口的所有精确数据。"
+          }
+        ]
+      }
+    ],
+    "teach": "fact是个'实锤'🔨：词根fac=制造（如factory工厂），造出来的就是事实！古代衙门断案要'查证事实'叫establish facts，就像现代调监控📹。网络时代要区分hard facts（硬核事实）和fake news（假新闻）🌐。记住：'无可辩驳的事实'说indisputable fact，'冷知识'叫fun fact🍵",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭可特'→特能吃是事实(fact)",
+        "易混词对比：factor(因素) vs fact(事实)",
+        "记忆tip：factory生产facts，都有fac词根"
+      ]
+    }
+  },
+  {
+    "word": "faction",
+    "etymology": {
+      "breakdown": [
+        "fact",
+        "ion"
+      ],
+      "meaning_connection": "词根fact=做/制造（来自拉丁语facere），-ion表名词→'人为制造出来的团体'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小派系",
+        "examples": [
+          {
+            "sentence": "The drama club split into two factions: musical lovers vs Shakespeare purists.",
+            "sentence_zh": "戏剧社分裂成两个派系：音乐剧爱好者 vs 莎士比亚原教旨主义者。"
+          },
+          {
+            "sentence": "Factions in the company are fighting over the new mascot design.",
+            "sentence_zh": "公司内的小派系正在为吉祥物设计打架。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "内讧",
+        "examples": [
+          {
+            "sentence": "The family chat group exploded in faction during the mooncake debate.",
+            "sentence_zh": "家族群在月饼辩论中爆发内讧。"
+          },
+          {
+            "sentence": "Faction within the fanclub began when the idol changed haircolor.",
+            "sentence_zh": "当偶像染发后，粉丝团内部开始内讧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "political faction",
+        "meaning": "政治派系",
+        "examples": [
+          {
+            "sentence": "The policy was blocked by rival political factions.",
+            "sentence_zh": "该政策被敌对政治派系阻挠。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "faction leader",
+        "meaning": "派系头目",
+        "examples": [
+          {
+            "sentence": "The faction leader organized a hotpot truce meeting.",
+            "sentence_zh": "派系头目组织了火锅停战会议。"
+          }
+        ]
+      }
+    ],
+    "teach": "faction本质是'塑料姐妹花'💐！古罗马元老院就有optimates和populares两大fact-ion（做事的团体）斗得你死我活⚔️。职场中叫'小团体'用clique更贴切，'站队'叫take sides。记住：当同事问'吃哪家外卖？'可能是在试探你的faction立场！🤺",
+    "recite": {
+      "tips": [
+        "谐音梗：'腹黑审'→腹黑审查引发派系斗争",
+        "易混词对比：faction（负面内斗） vs fraction（数学分数）",
+        "记忆tip：fact+ion=事实(fact)上搞小动作的团体"
+      ]
+    }
+  },
+  {
+    "word": "factional",
+    "etymology": {
+      "breakdown": [
+        "fact",
+        "ion",
+        "al"
+      ],
+      "meaning_connection": "词根fact=做/制造（如factory工厂），-ion表名词后缀，-al表形容词后缀→原指'制造分裂的行为'，引申为'派系斗争的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "派系的",
+        "examples": [
+          {
+            "sentence": "The factional conflicts in the fandom caused chaos on Weibo.",
+            "sentence_zh": "粉丝圈内的派系冲突导致微博上乱成一团。"
+          },
+          {
+            "sentence": "Ancient Chinese court dramas always depict factional struggles.",
+            "sentence_zh": "古装宫斗剧总在描绘派系斗争。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "小派别的",
+        "examples": [
+          {
+            "sentence": "Factional debates about spiciness divide Sichuan hotpot lovers.",
+            "sentence_zh": "关于辣度的小派别争论让四川火锅爱好者分裂。"
+          },
+          {
+            "sentence": "The company's factional meetings resembled Game of Thrones scenes.",
+            "sentence_zh": "公司小派别的会议现场堪比《权力的游戏》。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "factional interests",
+        "meaning": "派系利益",
+        "examples": [
+          {
+            "sentence": "They prioritized factional interests over company survival.",
+            "sentence_zh": "他们把派系利益看得比公司存亡还重。"
+          }
+        ]
+      }
+    ],
+    "teach": "factional是'分家狂魔'🤺！词根fact本指制造，加上-ion和-al就成了'制造分裂的'。就像奶茶店员工为'珍珠该煮几分钟'分成激进派和保守派🧋。说'窝里斗'可以用in-fighting，'拉帮结派'叫form cliques。记住：每当看到同事分成'粽子甜咸党'时，你就见证了factional的力量！",
+    "recite": {
+      "tips": [
+        "谐音梗：'粉丝闹'→粉丝(factional)内部闹分裂",
+        "易混词对比：fictional（虚构的）vs. factional（派系的）"
+      ]
+    }
   }
 ]

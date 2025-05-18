@@ -2028,5 +2028,280 @@
         "易混词：crammed（塞满）侧重人为填充，jammed侧重被动卡住"
       ]
     }
+  },
+  {
+    "word": "jammer",
+    "etymology": {
+      "breakdown": [
+        "jam",
+        "er"
+      ],
+      "meaning_connection": "jam表示'干扰'或'堵塞'，-er表示'实施某动作的人或物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电气干扰",
+        "examples": [
+          {
+            "sentence": "The military uses jammers to block enemy communications.",
+            "sentence_zh": "军队使用干扰器阻断敌方通讯。"
+          },
+          {
+            "sentence": "Some students built a WiFi jammer to prevent online exams monitoring, which is totally illegal.",
+            "sentence_zh": "有些学生制作WiFi干扰器逃避在线考试监控，这完全违法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "人为干扰台",
+        "examples": [
+          {
+            "sentence": "The concert venue installed signal jammers to prevent drone filming.",
+            "sentence_zh": "演唱会场地安装了信号干扰台防止无人机拍摄。"
+          },
+          {
+            "sentence": "News reported that jammers caused GPS failures in the entire district.",
+            "sentence_zh": "新闻报道干扰台导致整个片区GPS失灵。"
+          }
+        ]
+      }
+    ],
+    "teach": "jammer是电子战里的'静音键🔇'！就像KTV里切歌会打断原唱🎤，干扰器(jammer)能让无人机变'无头苍蝇'🪂。说'屏蔽信号'用block signals，'电磁干扰'叫EMI(electromagnetic interference)。记住：用jammer干扰考场信号？小心警察叔叔请你'喝茶'☕！",
+    "recite": {
+      "tips": [
+        "视觉联想：WiFi图标上打❌就像被jammer攻击",
+        "易混词：hammer(锤子)和jammer，一个敲钉子，一个敲信号"
+      ]
+    }
+  },
+  {
+    "word": "jamming",
+    "etymology": {
+      "breakdown": [
+        "jam",
+        "ing"
+      ],
+      "meaning_connection": "jam原指'果酱'→引申为'堵塞'，-ing表名词化，描述无线电信号被'果酱式'堵塞的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "干扰",
+        "examples": [
+          {
+            "sentence": "The concert was ruined by signal jamming from nearby construction.",
+            "sentence_zh": "附近施工的信号干扰毁了这场音乐会。"
+          },
+          {
+            "sentence": "Birds' radar jamming ability inspired stealth technology.",
+            "sentence_zh": "鸟类的雷达干扰能力启发了隐身技术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "人为干扰",
+        "examples": [
+          {
+            "sentence": "Military jamming made our GPS show we were in the South China Sea.",
+            "sentence_zh": "军用人为干扰让我们的GPS显示身处南海。"
+          },
+          {
+            "sentence": "The hacker used WiFi jamming to create Internet paralysis.",
+            "sentence_zh": "黑客用WiFi人为干扰制造网络瘫痪。"
+          }
+        ]
+      }
+    ],
+    "teach": "jamming就像往收音机里倒果酱🍓！二战时英国用'果酱战术'干扰德军雷达（史称Window战术）🎭，现代版是外卖小哥用蓝牙耳机对抗导航干扰📡。说'完全没信号'用地道表达blackout zone，搭配：electronic warfare（电子战）/signal blocker（信号屏蔽器）💥。记住：你的5G和果酱不能共存！",
+    "recite": {
+      "tips": [
+        "谐音梗：'酱茗'→果酱(jam)让茶茗信号中断",
+        "易混词对比：jamming（主动干扰）vs interference（自然干扰）"
+      ]
+    }
+  },
+  {
+    "word": "jammy",
+    "etymology": {
+      "breakdown": [
+        "jam",
+        "y"
+      ],
+      "meaning_connection": "jam=果酱，-y为形容词后缀→沾满果酱的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "粘上果酱的",
+        "examples": [
+          {
+            "sentence": "The toddler's jammy fingers left strawberry prints on the iPad.",
+            "sentence_zh": "小孩粘满果酱的手指在iPad上留下草莓印。"
+          },
+          {
+            "sentence": "Her toast was suspiciously jammy after the breakfast meeting.",
+            "sentence_zh": "早餐会后她的吐司可疑地沾满果酱。"
+          }
+        ]
+      }
+    ],
+    "teach": "jammy就像被幸运果酱砸中🍓！英国人用它形容'走狗屎运'（lucky duck），比如中彩票叫jammy git。搭配'jammy dodger'既指果酱夹心饼🍪，也指逃过惩罚的幸运儿。地道说法：'He's jammy as toast'（他幸运得像烤面包片）🧴🦸‍♂️🎰",
+    "recite": {
+      "tips": [
+        "谐音梗：'粘米'→果酱粘住米粒",
+        "易混词：jelly（啫喱状果酱）vs jam（带果肉的酱）"
+      ]
+    }
+  },
+  {
+    "word": "jangle",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语，拟声词，模仿金属碰撞或争吵的刺耳声响"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "吵架",
+        "examples": [
+          {
+            "sentence": "The couple next door keep jangling about whose turn it is to wash smelly socks.",
+            "sentence_zh": "隔壁夫妻不断争吵该谁洗臭袜子。"
+          },
+          {
+            "sentence": "Twitter threads often jangle into meaningless fights.",
+            "sentence_zh": "推特讨论常演变成无意义的争吵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使发出刺耳声",
+        "examples": [
+          {
+            "sentence": "The delivery man jangled his keys like a heavy metal concert.",
+            "sentence_zh": "快递员把钥匙晃得如同重金属演唱会。"
+          },
+          {
+            "sentence": "She angrily jangled the wind chimes to interrupt our meeting.",
+            "sentence_zh": "她愤怒地摇晃风铃打断我们的会议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "吵嚷",
+        "examples": [
+          {
+            "sentence": "The jangle of mahjong tiles continued until 3 AM.",
+            "sentence_zh": "麻将牌的哗啦声持续到凌晨三点。"
+          },
+          {
+            "sentence": "The kindergarten was full of happy jangles during snack time.",
+            "sentence_zh": "幼儿园点心时间充满欢乐的喧闹声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "刺耳声",
+        "examples": [
+          {
+            "sentence": "The jangle of construction work ruined my online class.",
+            "sentence_zh": "施工的刺耳噪音毁了我的网课。"
+          },
+          {
+            "sentence": "His alarm clock makes a jangle like falling saucepans.",
+            "sentence_zh": "他的闹钟发出像锅具坠地的刺耳声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "空谈",
+        "examples": [
+          {
+            "sentence": "The meeting was just political jangle without real decisions.",
+            "sentence_zh": "这场会议只是没有实际决议的政治空谈。"
+          },
+          {
+            "sentence": "Ignore his jangle about cryptocurrency - he doesn't even own a wallet.",
+            "sentence_zh": "别理他关于加密货币的空谈——他连钱包都没有。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jangle on",
+        "meaning": "喋喋不休",
+        "examples": [
+          {
+            "sentence": "My aunt jangled on about her new yoga instructor for hours.",
+            "sentence_zh": "我阿姨喋喋不休地讲她的新瑜伽教练讲了几个小时。"
+          }
+        ]
+      }
+    ],
+    "teach": "jangle是声音界的辣椒粉🌶️！想象：1) 中世纪骑士打架时盔甲叮当响⚔️就是原始jangle 2) 像摇晃装满硬币的存钱罐🐷（money box jangle）3) 搭配：'nerves jangle'形容紧张得脑壳疼，'jangle someone's nerves'相当于中文'魔音穿脑' 4) 地道说法：用'like a jangling monkey'形容吵闹的熊孩子🙉 5) 记住：吵架声+金属声+废话声=三合一噪音套餐！",
+    "recite": {
+      "tips": [
+        "谐音梗：'酱锅'→酱锅碰撞发出jangle声",
+        "易混词对比：jingle（悦耳的叮当声） vs jangle（刺耳的噪音）",
+        "记忆tip：所有让唐僧念紧箍咒的声音都是jangle😖"
+      ]
+    }
+  },
+  {
+    "word": "jangling",
+    "etymology": {
+      "breakdown": [
+        "jangle",
+        "ing"
+      ],
+      "meaning_connection": "jangle来自古法语'jangler'（喋喋不休），拟声词，模仿金属碰撞声，-ing表进行时"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "铁器碰撞发出刺耳声",
+        "examples": [
+          {
+            "sentence": "The jangling keys in his pocket made him sound like a walking hardware store.",
+            "sentence_zh": "他口袋里叮当作响的钥匙让他像个行走的五金店。"
+          },
+          {
+            "sentence": "Jangling spoons in the cafeteria triggered my misophonia.",
+            "sentence_zh": "食堂里勺子碰撞的声音触发了我的恐音症。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "烦扰神经",
+        "examples": [
+          {
+            "sentence": "The jangling advertisements before movies are worse than spoilers.",
+            "sentence_zh": "电影前的聒噪广告比剧透还令人烦躁。"
+          },
+          {
+            "sentence": "Her jangling laughter cut through the library like a chainsaw.",
+            "sentence_zh": "她刺耳的笑声像电锯般划破图书馆的宁静。"
+          }
+        ]
+      }
+    ],
+    "teach": "jangling是听觉界的辣椒水🌶️！想象把十部安卓手机同时收到短信的提示音🔔和指甲刮黑板的声音混合——这就是jangling的杀伤力！古代盔甲碰撞声（historical jangling）催生了这个拟声词，现代版可形容抖音外放的邻居😈。搭配：jangling nerves（神经刺痛）/ jangling alarm（刺耳闹铃），说'吵死了'用earsplitting比noisy更地道💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'煎个铃'→煎锅里的铃铛叮叮当当",
+        "对比：clinking（清脆的碰杯声） vs jangling（刺耳的金属声）",
+        "记忆tip：J+angle（角度）→声音以尖锐角度刺入耳朵"
+      ]
+    }
   }
 ]

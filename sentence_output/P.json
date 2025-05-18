@@ -2167,5 +2167,308 @@
         "易混词对比：paddy（稻/警察） vs. daddy（爸爸）"
       ]
     }
+  },
+  {
+    "word": "padlock",
+    "etymology": {
+      "breakdown": [
+        "pad",
+        "lock"
+      ],
+      "meaning_connection": "古英语pad=脚踏板（早期挂锁需脚踩固定），lock=锁定→需外力固定的锁具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "挂锁",
+        "examples": [
+          {
+            "sentence": "The rusty padlock on the childhood diary resisted all attempts to open it.",
+            "sentence_zh": "童年日记本上的锈蚀挂锁抗拒一切打开的尝试。"
+          },
+          {
+            "sentence": "Bike-sharing systems now use smart padlocks instead of mechanical ones.",
+            "sentence_zh": "共享单车系统如今使用智能挂锁替代机械锁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "关闭",
+        "examples": [
+          {
+            "sentence": "The sudden padlock of the internet café left gamers staring at black screens.",
+            "sentence_zh": "网吧突然关闭让玩家们盯着黑屏发呆。"
+          },
+          {
+            "sentence": "The padlock on the playground during pandemic became children's nightmare.",
+            "sentence_zh": "疫情期间游乐场的关闭成了孩子们的噩梦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "禁止进入",
+        "examples": [
+          {
+            "sentence": "The red padlock icon on the website indicated adult content restriction.",
+            "sentence_zh": "网站上的红色禁止进入图标表示成人内容限制。"
+          },
+          {
+            "sentence": "Archaeological sites often have symbolic padlocks to protect cultural relics.",
+            "sentence_zh": "考古遗址常用象征性的禁止进入标识保护文物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "put a padlock on",
+        "meaning": "禁止使用",
+        "examples": [
+          {
+            "sentence": "The school put a padlock on students' smartphones during classes.",
+            "sentence_zh": "学校上课时禁止学生使用智能手机。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "under padlock",
+        "meaning": "被封锁中",
+        "examples": [
+          {
+            "sentence": "The Forbidden City was under padlock during dynastic changes.",
+            "sentence_zh": "紫禁城在朝代更迭期间处于封锁状态。"
+          }
+        ]
+      }
+    ],
+    "teach": "padlock是锁具界的霸道总裁🔐！中世纪挂锁要脚踩(pad)才能锁(lock)住，像现在共享单车的姿势🚲。说'封锁区域'地道表达是off-limits（如军事禁区），'禁止恋爱'叫no-dating policy就像学校储物柜的挂锁💔。记住：当生活给你padlock，你可能需要找锁匠🔧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍都牢'→拍一下就牢靠",
+        "易混对比：padlock（挂锁）vs. deadlock（死锁）",
+        "记忆口诀：pad+lock=脚踏+锁定=挂锁"
+      ]
+    }
+  },
+  {
+    "word": "padlocked",
+    "etymology": {
+      "breakdown": [
+        "pad",
+        "lock",
+        "ed"
+      ],
+      "meaning_connection": "pad可能源自中古荷兰语'ped'(脚踏板)，lock指锁具，-ed表过去分词→原指用踏板式锁具固定"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "（用挂锁）锁上",
+        "examples": [
+          {
+            "sentence": "The angry landlord padlocked the shared bike to a tree.",
+            "sentence_zh": "愤怒的房东用挂锁把共享单车锁在了树上。"
+          },
+          {
+            "sentence": "My diary from 2008 is still padlocked with a Hello Kitty lock.",
+            "sentence_zh": "我2008年的日记本至今还用凯蒂猫挂锁锁着。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be padlocked shut",
+        "meaning": "被锁死",
+        "examples": [
+          {
+            "sentence": "The mall was padlocked shut during the quarantine.",
+            "sentence_zh": "隔离期间商场被挂锁彻底锁闭。"
+          }
+        ]
+      }
+    ],
+    "teach": "padlocked是挂锁界的霸道总裁🔐！它的祖先可能是荷兰码头工人锁货箱用的踏板锁(pad+lock)，现在常用来形容'物理封印'场景：比如被城管锁住的小贩三轮车🛺（padlocked food cart），或者女朋友锁住的情书盒💌（sweetly padlocked）。说'彻底封锁'可以用sealed tighter than a padlocked vault（比金库挂锁还严实）💸",
+    "recite": {
+      "tips": [
+        "视觉联想：挂锁的U形就像被锁住时撅起的嘴唇👄",
+        "易混词对比：locked（普通上锁）vs padlocked（特指挂锁）"
+      ]
+    }
+  },
+  {
+    "word": "padre",
+    "etymology": {
+      "breakdown": [
+        "pater"
+      ],
+      "meaning_connection": "源自拉丁语pater（父亲）→教会中对神职人员的尊称"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神父",
+        "examples": [
+          {
+            "sentence": "The Portuguese padre built an orphanage in Macau.",
+            "sentence_zh": "这位葡萄牙神父在澳门修建了孤儿院。"
+          },
+          {
+            "sentence": "Padre Carlo makes the best sacramental wine in Sicily.",
+            "sentence_zh": "卡洛神父酿制西西里最棒的圣礼葡萄酒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "随军牧师",
+        "examples": [
+          {
+            "sentence": "British soldiers called their battlefield padre 'whisky angel'.",
+            "sentence_zh": "英军士兵称战地随军牧师为'威士忌天使'。"
+          },
+          {
+            "sentence": "The navy padre kept playing mahjong with sailors during storms.",
+            "sentence_zh": "暴风雨时海军牧师总和水手们打麻将。"
+          }
+        ]
+      }
+    ],
+    "teach": "padre其实是'爸爸'的教会版👨🏫！就像《教父》里马龙·白兰度被称为Godfather，神父是灵魂教父🙏。军事用语中'呼叫padre'等于现代人说'找心理医生'🪖。搭配：1) parish padre（堂区神父） 2) battlefield padre（战地牧师）。地道表达：holy Joe（戏称神职人员）✝️🍷📿",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕醉'→神父怕醉圣酒",
+        "易混词：pastor（新教牧师） vs padre（天主教神父）",
+        "记忆法：联想《Padre Padrone》电影名"
+      ]
+    }
+  },
+  {
+    "word": "paean",
+    "etymology": {
+      "breakdown": [
+        "pae",
+        "an"
+      ],
+      "meaning_connection": "源自希腊语'paian'（对医神阿波罗的赞美诗），后缀-an表属性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "凯歌",
+        "examples": [
+          {
+            "sentence": "The warriors sang a paean after defeating the fire dragon.",
+            "sentence_zh": "战士们屠龙后高唱凯歌。"
+          },
+          {
+            "sentence": "Her graduation speech became a paean to perseverance.",
+            "sentence_zh": "她的毕业演讲化作一首坚持的凯歌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "欢乐歌",
+        "examples": [
+          {
+            "sentence": "The harvest paean echoed through Douyin's rice field live streams.",
+            "sentence_zh": "丰收的欢歌回荡在抖音的稻田直播间里。"
+          },
+          {
+            "sentence": "Pandas rolling in hay produce natural paeans of joy.",
+            "sentence_zh": "熊猫在干草堆打滚时发出天然的欢乐颂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赞美歌",
+        "examples": [
+          {
+            "sentence": "The poet composed a paean to Huangshan's sea of clouds.",
+            "sentence_zh": "诗人创作了赞美黄山云海的颂歌。"
+          },
+          {
+            "sentence": "This spicy hotpot deserves a culinary paean!",
+            "sentence_zh": "这麻辣火锅值得一首美食赞美诗！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paean of victory",
+        "meaning": "胜利赞歌",
+        "examples": [
+          {
+            "sentence": "Esports fans chanted paeans of victory when EDG won.",
+            "sentence_zh": "EDG夺冠时电竞粉齐唱胜利赞歌。"
+          }
+        ]
+      }
+    ],
+    "teach": "paean是古希腊'夸夸群'🎭！医神阿波罗听到这歌能治愈伤病💊，现代人用它夸奶茶好喝🍵（paean to boba）。'点赞狂魔'叫paean singer，'彩虹屁'是modern paean🌈。记住：当你想把'yyds'说得高级时，就用paean！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍案'→拍案(paean)叫绝唱赞歌",
+        "易混词：peon（苦工）vs paean（赞歌）",
+        "记忆法：'P'AEAN就像举着'P'牌喝彩"
+      ]
+    }
+  },
+  {
+    "word": "paediatric",
+    "etymology": {
+      "breakdown": [
+        "paed",
+        "iatr",
+        "ic"
+      ],
+      "meaning_connection": "希腊语词根paed=儿童，iatr=治疗，-ic表形容词→'治疗儿童的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "儿科的",
+        "examples": [
+          {
+            "sentence": "The paediatric ward has cartoon murals and tiny hospital gowns.",
+            "sentence_zh": "儿科病房画着卡通壁画，配备迷你病号服。"
+          },
+          {
+            "sentence": "She specializes in paediatric dentistry where the lollipop is the ultimate reward.",
+            "sentence_zh": "她专攻儿童牙科，棒棒糖是终极奖励。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paediatric nurse",
+        "meaning": "儿科护士",
+        "examples": [
+          {
+            "sentence": "The paediatric nurse calmed the toddler with bubble-blowing gloves.",
+            "sentence_zh": "儿科护士用吹泡泡手套安抚幼儿。"
+          }
+        ]
+      }
+    ],
+    "teach": "儿科(paediatric)就是'拍矮帝儿科'👶：希腊词根paed（儿童）+ iatros（医生）= 专治小矮人的医学👨⚕️。儿童医院叫paediatric hospital像霍格沃茨校医院🏥，'儿童剂量'说paediatric dose像迷你奶茶杯🧋。记住：所有带paed-的词都和小不点有关！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派敌爱吹可'→派（paed）对敌人（iatr）爱吹（ic）可（儿科）爱小孩",
+        "易混词：pediatric（美式拼写）vs paediatric（英式拼写）",
+        "记忆TIP：拆解为PAED（儿童）+ IATRIC（医疗）= 儿童医疗"
+      ]
+    }
   }
 ]

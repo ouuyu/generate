@@ -2025,5 +2025,278 @@
         "对比记忆：idealism(理想主义) vs. realism(现实主义)→前者是梦露的裙摆，后者是办公室的Excel表"
       ]
     }
+  },
+  {
+    "word": "idealist",
+    "etymology": {
+      "breakdown": [
+        "ide(a)",
+        "al",
+        "ist"
+      ],
+      "meaning_connection": "词根idea=思想/理念，-al表形容词，-ist表'...主义者'→执着于理念的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "理想主义者",
+        "examples": [
+          {
+            "sentence": "The young idealist quit his job to save endangered pandas.",
+            "sentence_zh": "这位年轻的理想主义者辞职去拯救濒危熊猫。"
+          },
+          {
+            "sentence": "Every startup founder starts as an idealist holding a unicorn plushie.",
+            "sentence_zh": "每个创业者最初都是抱着独角兽玩偶的理想主义者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "唯心主义者",
+        "examples": [
+          {
+            "sentence": "The philosopher argued like an idealist about the nature of reality.",
+            "sentence_zh": "这位哲学家像唯心主义者般争论现实的本质。"
+          },
+          {
+            "sentence": "In the debate, he played the role of the idealist against materialists.",
+            "sentence_zh": "辩论中他扮演唯心主义者对抗唯物主义者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "唯心论的",
+        "examples": [
+          {
+            "sentence": "Kant's idealist philosophy influenced modern thought profoundly.",
+            "sentence_zh": "康德的唯心论哲学深刻影响了现代思想。"
+          },
+          {
+            "sentence": "Her idealist approach ignored practical constraints.",
+            "sentence_zh": "她唯心论的方法忽视了现实约束。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "理想主义的",
+        "examples": [
+          {
+            "sentence": "The idealist proposal got 0 votes in the budget meeting.",
+            "sentence_zh": "这份理想主义的提案在预算会议上获得零票。"
+          },
+          {
+            "sentence": "His idealist views on education were considered too radical.",
+            "sentence_zh": "他关于教育的理想主义观点被认为过于激进。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "starving idealist",
+        "meaning": "空想家（字面：挨饿的理想主义者）",
+        "examples": [
+          {
+            "sentence": "He went from being a starving idealist to a pragmatic entrepreneur.",
+            "sentence_zh": "他从空想家变成了务实的企业家。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "idealist worldview",
+        "meaning": "理想主义世界观",
+        "examples": [
+          {
+            "sentence": "The novel portrays an idealist worldview through its protagonist.",
+            "sentence_zh": "小说通过主角展现了理想主义世界观。"
+          }
+        ]
+      }
+    ],
+    "teach": "idealist是'满脑子泡泡的梦想家'🫧！柏拉图就是终极idealist—他幻想哲学家当国王👑，现代版就是相信'用爱发电'的年轻人💡。搭配说'utopian idealist（乌托邦理想主义者）'就像追彩虹🌈，地道吐槽用'pie in the sky（天上掉馅饼）'形容空想。记住：每个idealist心里都住着个认为世界该像《动物森友会》的小人儿🐻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱滴里洗头'→在洗发店大谈理想的顾客",
+        "易混词：idealistic（a.理想主义的）vs ideological（a.意识形态的）",
+        "记忆法：ideal(理想)+ist(人)=脑子里只有ideal的人"
+      ]
+    }
+  },
+  {
+    "word": "idealistic",
+    "etymology": {
+      "breakdown": [
+        "ideal",
+        "ist",
+        "ic"
+      ],
+      "meaning_connection": "ideal（理想）+ -ist（主义者）+ -ic（形容词后缀）→ 追求理想状态的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "理想主义的",
+        "examples": [
+          {
+            "sentence": "His idealistic plan to solve world hunger with instant noodles made everyone chuckle.",
+            "sentence_zh": "他想用方便面解决世界饥饿的理想主义计划让所有人发笑。"
+          },
+          {
+            "sentence": "The young teacher's idealistic approach collided with the reality of students sleeping in class.",
+            "sentence_zh": "这位年轻教师的理想主义作风与学生课堂上睡觉的现实发生了碰撞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "唯心论的",
+        "examples": [
+          {
+            "sentence": "Plato's idealistic philosophy contrasts sharply with modern materialism.",
+            "sentence_zh": "柏拉图的唯心论哲学与现代唯物主义形成鲜明对比。"
+          },
+          {
+            "sentence": "Her idealistic belief that thoughts can alter reality reminds me of The Secret.",
+            "sentence_zh": "她认为思想可以改变现实的唯心论信念让我想起《秘密》这本书。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "唯心主义者的",
+        "examples": [
+          {
+            "sentence": "The idealistic poet refused to write commercial jingles for toothpaste ads.",
+            "sentence_zh": "这位唯心主义诗人拒绝为牙膏广告写商业顺口溜。"
+          },
+          {
+            "sentence": "As an idealistic artist, he would rather starve than compromise his vision.",
+            "sentence_zh": "作为唯心主义艺术家，他宁愿挨饿也不愿妥协自己的艺术理念。"
+          }
+        ]
+      }
+    ],
+    "teach": "idealistic是'仙气飘飘'的完美代言人🧚♂️：当你说别人idealistic，可能在夸TA坚持理想（褒义），也可能在说TA不食人间烟火（贬义）。就像相信'用爱发电'💡或觉得'喝露水能饱'🌫️。搭配：idealistic youth（理想青年） VS pie-in-the-sky idealism（空中楼阁的理想主义）。记住：当现实给你一巴掌时，idealism就会变成delusion（幻觉）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱滴里是铁'→爱理想主义爱得死心塌地",
+        "易混词对比：idealistic（理想化的） vs ideological（意识形态的）",
+        "记忆tip：把idealistic拆成'I deal with ideas'（我处理想法）"
+      ]
+    }
+  },
+  {
+    "word": "idealistically",
+    "etymology": {
+      "breakdown": [
+        "ideal",
+        "istic",
+        "ally"
+      ],
+      "meaning_connection": "ideal（理想）+-istic（...性质的）+-ally（副词后缀）→ 理想化性质的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "理想上地",
+        "examples": [
+          {
+            "sentence": "Idealistically, every student should have access to quality education.",
+            "sentence_zh": "理想上，每个学生都应获得优质教育。"
+          },
+          {
+            "sentence": "He spoke idealistically about world peace at the TEDx talk.",
+            "sentence_zh": "他在TEDx演讲中理想化地谈论世界和平。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不切实际地",
+        "examples": [
+          {
+            "sentence": "She idealistically believed she could finish the 10,000-word essay in one night.",
+            "sentence_zh": "她不切实际地认为自己能一夜写完万字论文。"
+          },
+          {
+            "sentence": "Planning to visit 30 countries in a month is traveling idealistically.",
+            "sentence_zh": "计划一个月游历30个国家是不切实际的旅行。"
+          }
+        ]
+      }
+    ],
+    "teach": "idealistically就像追星族眼中的爱豆✨——完美无瑕（ideal）但现实可能塌房🏚️！记住：说'理论上可行'用in theory，'天真幻想'叫pie in the sky🍰。搭配：idealistically perfect（理想化完美）/ idealistically naive（理想化幼稚）。当朋友说'我要每天早起学8小时'，你可以回：'That's...idealistically impressive🌝'",
+    "recite": {
+      "tips": [
+        "拆解记忆：ideal（理想）+ ally（盟友）→ 理想盟友总是说得美好",
+        "对比词：pragmatically（实用主义地）是它的反义词"
+      ]
+    }
+  },
+  {
+    "word": "idealization",
+    "etymology": {
+      "breakdown": [
+        "ideal",
+        "ize",
+        "ation"
+      ],
+      "meaning_connection": "词根ideal=理想，-ize表'使...化'，-ation表名词→使成为理想状态的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "理想化",
+        "examples": [
+          {
+            "sentence": "The idealization of rural life often ignores mosquito attacks.",
+            "sentence_zh": "对田园生活的理想化描述常忽略蚊虫叮咬。"
+          },
+          {
+            "sentence": "His idealization of ancient poets made him carry a wine gourd everywhere.",
+            "sentence_zh": "他对古代诗人的理想化让他走到哪都带着酒葫芦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "理想化事物",
+        "examples": [
+          {
+            "sentence": "The AI girlfriend in the movie is an idealization of companionship.",
+            "sentence_zh": "电影里的AI女友是陪伴关系的理想化产物。"
+          },
+          {
+            "sentence": "Mooncakes with five-yolk fillings are an idealization of Mid-Autumn treats.",
+            "sentence_zh": "五黄馅月饼是中秋美食的理想化版本。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "romantic idealization",
+        "meaning": "浪漫化想象",
+        "examples": [
+          {
+            "sentence": "Dating apps often lead to romantic idealization before meeting in person.",
+            "sentence_zh": "交友软件常导致线下见面前的浪漫化想象。"
+          }
+        ]
+      }
+    ],
+    "teach": "idealization是自带美颜滤镜的单词📸！就像网红景点照vs现实杂草丛生🌿（scenic spot idealization），或是相亲照vs本人🤳（profile idealization）。说'过度美化'用rose-tinted glasses，'打破幻想'叫burst the bubble💥。记住：你的idealization可能是别人的照骗！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱滴滤镜'→爱情理想化",
+        "易混词：ideal vs idea（理想vs点子）"
+      ]
+    }
   }
 ]

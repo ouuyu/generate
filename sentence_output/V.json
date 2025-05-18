@@ -2149,5 +2149,247 @@
         "记忆tip：把valance拆成'V字垂落'(V+alance)"
       ]
     }
+  },
+  {
+    "word": "vale",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'vallis'，指自然形成的低洼地形。作为告别语时，是古英语'farewell'的诗歌变体。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "谷",
+        "examples": [
+          {
+            "sentence": "The Yangtze River snakes through the verdant vale like a jade belt.",
+            "sentence_zh": "长江如翡翠腰带般蜿蜒穿过苍翠山谷。"
+          },
+          {
+            "sentence": "Terraced fields in the vale create a stunning landscape painting.",
+            "sentence_zh": "山谷中的梯田构成绝美的山水画卷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "溪谷",
+        "examples": [
+          {
+            "sentence": "We found wild strawberries growing by the mountain vale.",
+            "sentence_zh": "我们在山间溪谷旁发现了野草莓。"
+          },
+          {
+            "sentence": "The morning mist floating over the vale looked like liquid jade.",
+            "sentence_zh": "晨雾笼罩溪谷宛如流动的碧玉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "告别",
+        "examples": [
+          {
+            "sentence": "His final vale was written with a trembling brush.",
+            "sentence_zh": "他用颤抖的毛笔写下了最后的告别辞。"
+          },
+          {
+            "sentence": "The poet's vale to spring is full of lingering nostalgia.",
+            "sentence_zh": "诗人对春天的告别充满缠绵的眷恋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "interj.",
+        "meaning": "再见",
+        "examples": [
+          {
+            "sentence": "\"Vale, my friend!\" the old scholar said in classical Latin.",
+            "sentence_zh": "老学者用古典拉丁语说道：\"别了，吾友！\""
+          },
+          {
+            "sentence": "The theater actor dramatically exclaimed \"Vale!\" before the curtain fell.",
+            "sentence_zh": "话剧演员在幕布落下前戏剧性地高呼\"珍重！\""
+          }
+        ]
+      }
+    ],
+    "teach": "vale是自带BGM的单词🎵！作为'山谷'时让人想起《指环王》的瑞文戴尔🏔️，作告别语时自带莎士比亚戏剧效果🎭。搭配'deep vale'形容幽深峡谷，'eternal vale'指永恒的离别（不是永恒峡谷！）。地道表达用'vale of tears'比喻尘世苦难，比直接说'hard life'高级三个level✨。记住：说vale告别时请自动切换朗诵腔！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哇咧'→看到壮丽山谷哇咧(vale)一声",
+        "易混词对比：valley(常规山谷) vs vale(诗意山谷)"
+      ]
+    }
+  },
+  {
+    "word": "valediction",
+    "etymology": {
+      "breakdown": [
+        "vale",
+        "dict",
+        "ion"
+      ],
+      "meaning_connection": "词根vale=告别（拉丁语'valeo'表'再见'），dict=说（如dictionary），-ion表名词→说再见的话"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "告别",
+        "examples": [
+          {
+            "sentence": "The astronaut's valediction before boarding the rocket moved millions watching live.",
+            "sentence_zh": "宇航员登上火箭前的告别仪式感动了数百万直播观众。"
+          },
+          {
+            "sentence": "In Chinese culture, 'zai jian' is the most common valediction.",
+            "sentence_zh": "在中国文化中，'再见'是最常见的告别语。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "告别辞",
+        "examples": [
+          {
+            "sentence": "The graduate's valediction quoted both Confucius and Einstein.",
+            "sentence_zh": "毕业生的告别辞同时引用了孔子和爱因斯坦的名言。"
+          },
+          {
+            "sentence": "Her valediction as CEO included a WeChat red packet QR code.",
+            "sentence_zh": "她作为CEO的告别演讲里包含了微信红包二维码。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "valediction speech",
+        "meaning": "告别演说",
+        "examples": [
+          {
+            "sentence": "The professor ended his 40-year career with a valediction speech in Peking University's lecture hall.",
+            "sentence_zh": "教授在北京大学讲堂以告别演说结束了40年职业生涯。"
+          }
+        ]
+      }
+    ],
+    "teach": "valediction是'含着眼泪说拜拜'的仪式感👋！古罗马人告别时说'Vale!'（相当于'保重'），现代人用emoji挥手🤗。要表达'最后的告别'可以说final valediction就像毕业季的宿舍夜谈🎓，'突然告别'叫abrupt valediction好比被家长发现早恋时的逃跑现场💨。记住：说valediction时要像拆盲盒——可能再见，可能再也不见！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外了弟可省'→弟弟出国前外了(bye了)可要省着点花钱",
+        "易混词：benediction（祝福辞）是开心的，valediction是伤感的"
+      ]
+    }
+  },
+  {
+    "word": "valedictory",
+    "etymology": {
+      "breakdown": [
+        "vale",
+        "dict",
+        "ory"
+      ],
+      "meaning_connection": "词根vale=告别（拉丁语valere），dict=说，-ory表性质→'说再见的行为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "告别的",
+        "examples": [
+          {
+            "sentence": "The graduate's valedictory speech made everyone reach for tissues.",
+            "sentence_zh": "毕业生的告别演讲让所有人都伸手拿纸巾。"
+          },
+          {
+            "sentence": "Her valedictory tweet with a crying emoji got 10K retweets.",
+            "sentence_zh": "她带哭泣表情的告别推文获得1万转发。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "告别辞",
+        "examples": [
+          {
+            "sentence": "The CEO's valedictory was shorter than a TikTok video - just 15 seconds.",
+            "sentence_zh": "CEO的告别辞比抖音视频还短——只有15秒。"
+          },
+          {
+            "sentence": "His valedictory contained three memes and a dad joke.",
+            "sentence_zh": "他的告别辞包含三个表情包和一个冷笑话。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "valedictory address",
+        "meaning": "告别演说",
+        "examples": [
+          {
+            "sentence": "The professor's valedictory address went viral for its cat references.",
+            "sentence_zh": "教授的告别演说因为频繁提到猫而走红。"
+          }
+        ]
+      }
+    ],
+    "teach": "valedictory是'说再见的高级玩家'🎤：词根vale-来自拉丁语告别时喊的'Vale!'（相当于'拜拜咯'👋），加上dict-（说）就成了正式告别。毕业生代表发言叫valedictorian（告别演说者），就像毕业季的C位主播🎓。说'突然离职'可用ghost离开（像鬼魂般消失👻），'深情告别'用bid farewell像古装剧抱拳。记住：优雅告别能让你像退场的超级英雄🦸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'为了打开行李'→告别时(valedictory)总要整理行囊",
+        "易混词：victory（胜利）vs valedictory（告别）→胜利时不用告别",
+        "记忆桩：想象毕业典礼上校长说'Vale-dict-ory'时，鸽子群突然起飞🕊️"
+      ]
+    }
+  },
+  {
+    "word": "valence",
+    "etymology": {
+      "breakdown": [
+        "val",
+        "ence"
+      ],
+      "meaning_connection": "词根val=价值/力量（同value），-ence表性质→衡量元素结合能力的数值"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "原子价",
+        "examples": [
+          {
+            "sentence": "Oxygen's valence of 2 makes it the matchmaker of molecules.",
+            "sentence_zh": "氧的2价特性让它成为分子界的红娘。"
+          },
+          {
+            "sentence": "Students groaned when the teacher mentioned valence electrons.",
+            "sentence_zh": "老师提到价电子时学生们集体哀嚎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "化合价",
+        "examples": [
+          {
+            "sentence": "The valence of hydrogen is like its dating capacity in chemistry.",
+            "sentence_zh": "氢的化合价就像它在化学界的'恋爱能力'。"
+          },
+          {
+            "sentence": "This compound's weird valence confused even the TA.",
+            "sentence_zh": "这个化合物诡异的化合价连助教都懵了。"
+          }
+        ]
+      }
+    ],
+    "teach": "valence其实是元素界的'社交能力值'💍！就像氢原子(valence=1)是化学界的社恐单身狗🐶，氧原子(valence=2)是海王🌊。记住'价'就是握手数🤝：1价=单身手，2价=双手联谊，3价=三手联弹！化学式就是原子们的结婚证💌",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪楞死'→价电子歪了会死机",
+        "易混词：value（价值）和valence（价）是堂兄弟"
+      ]
+    }
   }
 ]

@@ -2053,5 +2053,366 @@
         "记忆法：RADAR = Rapid Alien Detection And Rescue（快速外星人侦测与救援）"
       ]
     }
+  },
+  {
+    "word": "radial",
+    "etymology": {
+      "breakdown": [
+        "radi",
+        "al"
+      ],
+      "meaning_connection": "词根radi=光线/轮辐，后缀-al表形容词性质→像光线般辐射的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "光线的",
+        "examples": [
+          {
+            "sentence": "The radial patterns of sunrise inspired Van Gogh's Starry Night.",
+            "sentence_zh": "日出的光线状图案启发了梵高的《星空》。"
+          },
+          {
+            "sentence": "Jade artifacts with radial carvings were found in Liangzhu ruins.",
+            "sentence_zh": "良渚遗址出土了带有光线状刻纹的玉器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "放射状的",
+        "examples": [
+          {
+            "sentence": "Beijing's radial subway lines resemble a glowing octopus.",
+            "sentence_zh": "北京放射状的地铁线路像发光的章鱼。"
+          },
+          {
+            "sentence": "The radial explosion of fireworks lit up the Spring Festival night.",
+            "sentence_zh": "烟花的放射状爆发照亮了除夕夜空。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "半径的",
+        "examples": [
+          {
+            "sentence": "The radial distance from Tiananmen Square defines Beijing's ring roads.",
+            "sentence_zh": "以天安门广场为圆心的半径距离定义了北京环线。"
+          },
+          {
+            "sentence": "Shared bikes have radial tire pressure indicators.",
+            "sentence_zh": "共享单车配备半径向的胎压指示器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "射线",
+        "examples": [
+          {
+            "sentence": "CT scanners detect radials passing through the body.",
+            "sentence_zh": "CT扫描仪检测穿过人体的射线。"
+          },
+          {
+            "sentence": "The sun's radials created rainbow halos in Huangshan's sea of clouds.",
+            "sentence_zh": "阳光的射线在黄山云海中形成彩虹光晕。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "radial symmetry",
+        "meaning": "辐射对称",
+        "examples": [
+          {
+            "sentence": "Chinese lattice windows often exhibit perfect radial symmetry.",
+            "sentence_zh": "中式花窗常呈现完美的辐射对称。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "radial engine",
+        "meaning": "星型发动机",
+        "examples": [
+          {
+            "sentence": "Early aircraft used radial engines resembling sunflower petals.",
+            "sentence_zh": "早期飞机使用形似向日葵花瓣的星型发动机。"
+          }
+        ]
+      }
+    ],
+    "teach": "radial是宇宙的向日葵🌻！从自行车轮辐🚴（radial spokes）到故宫藻井的放射纹饰🏯，再到5G信号塔的辐射覆盖📶，都在演绎'从中心炸开'的视觉哲学。记住：说'光芒四射'用radial glow，吐槽'堵成放射线'说the traffic radiates like sunbeams💥。你的生活半径就是你的radial边界！",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达哟'→雷达发出的射线(radial)",
+        "易混词：radius是半径，radial是半径的/放射的",
+        "记忆法：想象微信启动页的地球放射状光芒"
+      ]
+    }
+  },
+  {
+    "word": "radially",
+    "etymology": {
+      "breakdown": [
+        "radi",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根radi=光线/轮辐（同radio收音机），-al形容词后缀，-ly副词后缀→像轮辐般放射状延伸"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "辐射状地",
+        "examples": [
+          {
+            "sentence": "The crowd dispersed radially like firework sparks after the concert.",
+            "sentence_zh": "演唱会结束后人群如同烟花火星般辐射状散开。"
+          },
+          {
+            "sentence": "Beijing's subway lines expand radially from the Forbidden City.",
+            "sentence_zh": "北京地铁线路以故宫为中心辐射状延伸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "沿半径方向",
+        "examples": [
+          {
+            "sentence": "Tire treads are designed to drain water radially outward.",
+            "sentence_zh": "轮胎花纹设计成沿半径方向向外排水。"
+          },
+          {
+            "sentence": "The drone blades rotate radially at 2000 RPM.",
+            "sentence_zh": "无人机桨叶沿半径方向以每分钟2000转旋转。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "桡侧地（解剖学）",
+        "examples": [
+          {
+            "sentence": "The thumb is positioned radially in the human hand.",
+            "sentence_zh": "大拇指位于手的桡侧。"
+          },
+          {
+            "sentence": "The pulse is usually taken at the radially located artery.",
+            "sentence_zh": "通常测量位于桡侧的动脉脉搏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "radially symmetrical",
+        "meaning": "辐射对称的",
+        "examples": [
+          {
+            "sentence": "Starfish are classic examples of radially symmetrical creatures.",
+            "sentence_zh": "海星是辐射对称生物的典型代表。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "radially polarized",
+        "meaning": "径向极化的",
+        "examples": [
+          {
+            "sentence": "The new laser uses radially polarized light for precision cutting.",
+            "sentence_zh": "新型激光器采用径向极化光进行精密切割。"
+          }
+        ]
+      }
+    ],
+    "teach": "radially是宇宙级强迫症患者🌌！从海星⭐到北京地铁图🚇，从轮胎排水槽🚗到核爆蘑菇云☢️，全都严格按半径排列。解剖学里甚至要求脉搏必须在桡骨侧💪测量（不然医生会皱眉）。搭配：radially arranged像向日葵种子🌻，radially growing像洋葱切片🧅。说'乱糟糟'可以吐槽：not even radially organized!（连辐射状都排不齐）",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达离'→雷达(radi)离圆心等距(al-ly)",
+        "易混词：radically（根本地）是改革派，radially是强迫症"
+      ]
+    }
+  },
+  {
+    "word": "radiance",
+    "etymology": {
+      "breakdown": [
+        "radi",
+        "ance"
+      ],
+      "meaning_connection": "词根radi=射线/光芒（同源词radio），后缀-ance表状态→辐射光芒的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "光辉",
+        "examples": [
+          {
+            "sentence": "The radiance of the Terracotta Warriors' bronze weapons still amazes archaeologists.",
+            "sentence_zh": "兵马俑青铜武器的光辉仍令考古学家惊叹。"
+          },
+          {
+            "sentence": "Her wedding dress had the radiance of morning dew on lotus leaves.",
+            "sentence_zh": "她的婚纱带着荷叶晨露般的光辉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发光",
+        "examples": [
+          {
+            "sentence": "The radiance from the giant panda-shaped solar panels lit up the whole village.",
+            "sentence_zh": "熊猫造型太阳能板的发光照亮了整个村庄。"
+          },
+          {
+            "sentence": "Scientists measured the radiance of fireflies in the bamboo forest.",
+            "sentence_zh": "科学家测量了竹林中萤火虫的发光强度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "容光焕发",
+        "examples": [
+          {
+            "sentence": "The radiance on her face after winning the mahjong tournament was unforgettable.",
+            "sentence_zh": "她赢得麻将比赛后容光焕发的样子令人难忘。"
+          },
+          {
+            "sentence": "His radiance when tasting authentic Sichuan hotpot moved everyone.",
+            "sentence_zh": "他品尝正宗四川火锅时容光焕发的样子感动了所有人。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "solar radiance",
+        "meaning": "太阳辐射",
+        "examples": [
+          {
+            "sentence": "Solar radiance in Tibet is strong enough to cook instant noodles.",
+            "sentence_zh": "西藏的太阳辐射强到能泡熟方便面。"
+          }
+        ]
+      }
+    ],
+    "teach": "radiance是自带美颜滤镜的词✨！古希腊人认为太阳神赫利俄斯(Helios)每天驾着金光马车🌅，这就是radi的词源。形容'颜值巅峰'可以说in full radiance（全盛光芒），'突然变美'叫radiance boost（发光强化）。记住：你的笑容应该像手机闪光灯📸️一样有radiance！",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达人死'→雷达人死后化作光芒(radiance)",
+        "易混词对比：radiant（形容词）- radiance（名词）",
+        "记忆tip：拆解为'radio'+'ance'→像收音机信号般的光芒"
+      ]
+    }
+  },
+  {
+    "word": "radiant",
+    "etymology": {
+      "breakdown": [
+        "radi",
+        "ant"
+      ],
+      "meaning_connection": "词根radi=射线/辐射，后缀-ant表性质→像射线般发散的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "发光的",
+        "examples": [
+          {
+            "sentence": "The radiant mooncake packaging glows in the dark like a mini moon.",
+            "sentence_zh": "会发光的月饼包装在黑暗中如小月亮般闪耀。"
+          },
+          {
+            "sentence": "Fireflies create radiant trails in summer nights.",
+            "sentence_zh": "萤火虫在夏夜划出发光的轨迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "明亮的",
+        "examples": [
+          {
+            "sentence": "Her radiant smile outshone the neon lights of Times Square.",
+            "sentence_zh": "她明亮的笑容让时代广场的霓虹都黯然失色。"
+          },
+          {
+            "sentence": "The radiant screen of Huawei Mate series hurts my eyes in bed.",
+            "sentence_zh": "华为Mate系列明亮的屏幕在床上刺疼我的眼睛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "辐射的",
+        "examples": [
+          {
+            "sentence": "The radiant heat from this Mongolian hotpot could melt glaciers.",
+            "sentence_zh": "这个蒙古火锅的辐射热足以融化冰川。"
+          },
+          {
+            "sentence": "Radiant floor heating is secretly competing with air conditioning in Shanghai.",
+            "sentence_zh": "地暖正在上海与空调展开秘密较量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "容光焕发的",
+        "examples": [
+          {
+            "sentence": "After three hours of spa, she looked radiant enough to star in a skincare ad.",
+            "sentence_zh": "三小时水疗后她容光焕发得能代言护肤品广告。"
+          },
+          {
+            "sentence": "The radiant bride dropped her phone but still kept smiling.",
+            "sentence_zh": "容光焕发的新娘手机掉了也保持微笑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "radiant energy",
+        "meaning": "辐射能",
+        "examples": [
+          {
+            "sentence": "Solar panels convert radiant energy into electricity.",
+            "sentence_zh": "太阳能板将辐射能转化为电力。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "radiant with joy",
+        "meaning": "喜气洋洋",
+        "examples": [
+          {
+            "sentence": "The lottery winner was radiant with joy until realizing the tax amount.",
+            "sentence_zh": "彩票得主在意识到税额前一直喜气洋洋。"
+          }
+        ]
+      }
+    ],
+    "teach": "radiant是'发光体'的终极认证✨！物理学里它是暖气片散热♨️（radiant heat），恋爱中是你约会后的脸蛋🍎（radiant blush），美容业称它为'水光肌'💧（radiant skin）。说人'光彩照人'用glowing like a light bulb💡，搭配推荐：radiant beauty（发光美貌）/ radiant eyes（星星眼）。记住：从核反应堆到素颜美女，都配得上radiant！",
+    "recite": {
+      "tips": [
+        "谐音梗：'雷达安特'→雷达安了特别(radiant)发光",
+        "易混词对比：radiant vs. radioactive（前者是自然发光，后者特指辐射）",
+        "记忆tip：radi-开头的都跟'射线'有关，比如radio（收音机靠无线电波）"
+      ]
+    }
   }
 ]

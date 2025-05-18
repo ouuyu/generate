@@ -1756,5 +1756,255 @@
         "易混词对比：caddis vs. cadis（后者是法国地名）"
       ]
     }
+  },
+  {
+    "word": "caddy",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自马来语'kati'（茶叶重量单位），后演变成指茶叶容器"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小盒子",
+        "examples": [
+          {
+            "sentence": "She keeps her jewelry in a silver caddy shaped like a panda.",
+            "sentence_zh": "她把首饰存放在熊猫形状的银制小盒里。"
+          },
+          {
+            "sentence": "The carpenter made a wooden caddy for chess pieces.",
+            "sentence_zh": "木匠做了个存放象棋棋子的木制小盒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "茶叶罐",
+        "examples": [
+          {
+            "sentence": "The antique caddy preserves pu'er tea's aroma perfectly.",
+            "sentence_zh": "这个古董茶叶罐完美保存了普洱茶的香气。"
+          },
+          {
+            "sentence": "He accidentally broke the lid of his grandmother's porcelain tea caddy.",
+            "sentence_zh": "他不小心打碎了祖母瓷茶叶罐的盖子。"
+          }
+        ]
+      }
+    ],
+    "teach": "caddy是'茶叶界的保险箱'🍵：18世纪英国主妇会锁起茶叶罐（像现在藏零食柜🔒），因为茶叶比iPhone还贵！装光盘的叫CD caddy💿，就像给光盘穿盔甲。要说'小容器'可用'itty-bitty box'，存茶秘诀叫'keep it caddy'就像猫咪藏小鱼干🐱➡️🐟。记住：你的茶叶罐决定你在下午茶圈的地位！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开屉'→开茶叶罐抽屉",
+        "易混词对比：caddy vs candy（糖果罐装糖🍬）"
+      ]
+    }
+  },
+  {
+    "word": "cadence",
+    "etymology": {
+      "breakdown": [
+        "cad",
+        "ence"
+      ],
+      "meaning_connection": "词根cad=落下（如cascade瀑布），-ence表名词→声音的起落"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "韵律",
+        "examples": [
+          {
+            "sentence": "The cadence of ancient Chinese poems makes them sound like songs.",
+            "sentence_zh": "古诗的韵律让它们听起来像歌声。"
+          },
+          {
+            "sentence": "Her voice had the cadence of a lullaby when reading bedtime stories.",
+            "sentence_zh": "她读睡前故事时的声音带着摇篮曲般的韵律。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抑扬",
+        "examples": [
+          {
+            "sentence": "Peking opera performers master the cadence of every syllable.",
+            "sentence_zh": "京剧演员精准掌控每个字的抑扬顿挫。"
+          },
+          {
+            "sentence": "The cadence of his southern accent made his speech musical.",
+            "sentence_zh": "他南方口音的抑扬顿挫让讲话充满乐感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "调子",
+        "examples": [
+          {
+            "sentence": "The cadence of this folk song imitates flowing water.",
+            "sentence_zh": "这首民歌的调子模仿了流水的声音。"
+          },
+          {
+            "sentence": "WeChat voice messages often capture the unique cadence of laughter.",
+            "sentence_zh": "微信语音常常能捕捉到笑声的独特调子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "节奏",
+        "examples": [
+          {
+            "sentence": "The cadence of typing sounds like raindrops on the roof.",
+            "sentence_zh": "打字的节奏如同雨滴落在屋顶。"
+          },
+          {
+            "sentence": "Drummers control the cadence of the entire marching band.",
+            "sentence_zh": "鼓手掌控整个乐队的行进节奏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with cadence",
+        "meaning": "带着节奏",
+        "examples": [
+          {
+            "sentence": "The grandma danced with cadence to the square music.",
+            "sentence_zh": "奶奶跟着广场舞音乐有节奏地扭动。"
+          }
+        ]
+      }
+    ],
+    "teach": "cadence是语言的波浪🌊！古罗马演说家西塞罗靠它掌控全场（演说术称为'西塞罗节奏'），现代主播用它让你刷火箭🚀（直播话术的cadence）。搭配'fall into cadence'像军训走正步👟，'lose cadence'则是KTV跑调🎤。记住：说'他讲话没节奏'别说no rhythm，要说his speech lacks cadence更地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'磕蹬死'→磕磕蹬蹬的节奏（骑车过减速带的感觉）",
+        "易混词：rhythm是内在节奏，cadence是听觉感知的起伏",
+        "记忆法：把单词拆成CAD+ENCE→CAD制图的波浪线就是韵律"
+      ]
+    }
+  },
+  {
+    "word": "cadet",
+    "etymology": {
+      "breakdown": [
+        "cad",
+        "et"
+      ],
+      "meaning_connection": "词根cad=落下/降临（拉丁语cadere），后缀-et表'小'→原指贵族家庭的幼子，后转为军校学员"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "军官学校学生",
+        "examples": [
+          {
+            "sentence": "The cadet polished his boots until they reflected his determined face.",
+            "sentence_zh": "这名军校学员把靴子擦得能照出他坚毅的面容。"
+          },
+          {
+            "sentence": "Cadets at Whampoa Military Academy famously ate breakfast in 3 minutes flat.",
+            "sentence_zh": "黄埔军校的学员以3分钟吃完早餐著称。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cadet corps",
+        "meaning": "学生军训队",
+        "examples": [
+          {
+            "sentence": "Our school's cadet corps won the national drill competition.",
+            "sentence_zh": "我校学生军训队赢得了全国队列比赛。"
+          }
+        ]
+      }
+    ],
+    "teach": "cadet其实是'小降落伞'🪂：最初指贵族家幼子（像飘落的继承权），后来变成军校生👨‍🎓。说'菜鸟新兵'可用rookie cadet，而'老油条学员'叫salty cadet（像腌黄瓜🥒）。记住：当cadet要像火锅里的毛肚——经受滚烫考验才能成熟！",
+    "recite": {
+      "tips": [
+        "谐音梗：'可待他'→可待他(cadet)成为将军",
+        "易混词：cadet vs. candidate（候选人）→军校生最终要'当选'军官"
+      ]
+    }
+  },
+  {
+    "word": "cadge",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自16世纪英国俚语，可能模仿乞丐(cadge)的乞讨声演变而来"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "行乞",
+        "examples": [
+          {
+            "sentence": "The disheveled man cadged for coins near the subway station.",
+            "sentence_zh": "那个邋遢的男子在地铁站附近行乞讨硬币。"
+          },
+          {
+            "sentence": "In Victorian London, children often cadged by singing carols.",
+            "sentence_zh": "在维多利亚时代的伦敦，孩子们常靠唱颂歌行乞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "乞讨",
+        "examples": [
+          {
+            "sentence": "He cadged a cigarette from the convenience store clerk.",
+            "sentence_zh": "他向便利店店员乞讨了一支香烟。"
+          },
+          {
+            "sentence": "My roommate always cadges my charging cable without asking.",
+            "sentence_zh": "我室友总是不问自取地乞讨我的充电线。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "贩卖",
+        "examples": [
+          {
+            "sentence": "Street vendors cadged counterfeit handbags to tourists.",
+            "sentence_zh": "街头小贩向游客贩卖假冒手提包。"
+          },
+          {
+            "sentence": "In 1920s Chicago, gangsters cadged illegal alcohol.",
+            "sentence_zh": "1920年代的芝加哥，黑帮分子贩卖私酒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cadge off",
+        "meaning": "占...便宜",
+        "examples": [
+          {
+            "sentence": "Stop cadging off your parents' Netflix account!",
+            "sentence_zh": "别再蹭你父母的Netflix账号了！"
+          }
+        ]
+      }
+    ],
+    "teach": "cadge这词活像现代葛朗台💸！最初指街头艺人'卖艺乞讨'🎪（cadge for coins），现在朋友蹭饭也叫'cadge a meal'🍔。英国俚语说'on the cadge'就像微信讨红包🧧，而'专业乞丐'叫cadger就像全天候蹲点的PDD砍价专家🔪。记住：偶尔cadge是社交，经常cadge会没朋友！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开价'→乞丐开价(cadge)讨钱",
+        "易混词对比：beg（真诚乞讨） vs cadge（带有欺骗性）"
+      ]
+    }
   }
 ]

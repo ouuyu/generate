@@ -1939,5 +1939,311 @@
         "易混词对比：dam（水坝） vs damn（该死）"
       ]
     }
+  },
+  {
+    "word": "damage",
+    "etymology": {
+      "breakdown": [
+        "damn",
+        "age"
+      ],
+      "meaning_connection": "来自古法语damage（损失），词源可拆解为damn（谴责）+age（状态）→被谴责造成的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "损害",
+        "examples": [
+          {
+            "sentence": "The hailstorm caused serious damage to lychee crops in Guangdong.",
+            "sentence_zh": "冰雹给广东的荔枝作物造成严重损害。"
+          },
+          {
+            "sentence": "Drinking bubble tea daily does permanent damage to your wallet.",
+            "sentence_zh": "每天喝奶茶会对钱包造成永久性损害。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "伤害",
+        "examples": [
+          {
+            "sentence": "The scandal did irreparable damage to the celebrity's reputation.",
+            "sentence_zh": "丑闻对这位明星的名誉造成不可挽回的伤害。"
+          },
+          {
+            "sentence": "No physical damage was found after the panda rolled down the hill.",
+            "sentence_zh": "熊猫滚下山坡后未见身体伤害。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "损害",
+        "examples": [
+          {
+            "sentence": "Scammers damaged over 10,000 shared bikes with fake QR codes.",
+            "sentence_zh": "诈骗分子用假二维码损害了超万辆共享单车。"
+          },
+          {
+            "sentence": "Eating hotpot while watching dramas damages both chopsticks and plot comprehension.",
+            "sentence_zh": "边吃火锅边追剧会损害筷子和剧情理解力。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "brain damage",
+        "meaning": "脑损伤",
+        "examples": [
+          {
+            "sentence": "TikTok challenge videos sometimes make me suspect I have brain damage.",
+            "sentence_zh": "刷抖音挑战视频时常让我怀疑自己有脑损伤。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "damage control",
+        "meaning": "损害控制",
+        "examples": [
+          {
+            "sentence": "The PR team worked overnight for damage control after the live-streaming accident.",
+            "sentence_zh": "直播事故后公关团队通宵进行损害控制。"
+          }
+        ]
+      }
+    ],
+    "teach": "damage就是'打马季'🐎（谐音梗警告）！古罗马人用damnum表示'损失'，后来演变成法语damage。现代用法里：手机碎屏叫screen damage📱，感情受伤叫emotional damage💔。记住：说'严重损害'用'do/cause serious damage'就像火锅洒在白衬衫上🌶️，'轻微刮伤'叫'minor damage'就像共享单车上的小划痕🚲。",
+    "recite": {
+      "tips": [
+        "谐音梗：'大妈急'→大妈急得造成damage",
+        "易混词对比：damage（可修复损害） vs. destruction（彻底毁灭）",
+        "记忆口诀：DAMAGE=Don't Abuse, Might Age Greatly (别滥用，否则老化快)"
+      ]
+    }
+  },
+  {
+    "word": "damaged",
+    "etymology": {
+      "breakdown": [
+        "damage",
+        "ed"
+      ],
+      "meaning_connection": "damage（损坏）+ -ed（形容词后缀）→ 表示已被损坏的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "被损坏的",
+        "examples": [
+          {
+            "sentence": "The damaged iPhone still had 1% battery to send a final SOS message.",
+            "sentence_zh": "这部损坏的iPhone仍剩1%电量发出最后求救信息。"
+          },
+          {
+            "sentence": "Her damaged umbrella turned into a modern art installation in the wind.",
+            "sentence_zh": "她损坏的雨伞在风中变成了现代艺术装置。"
+          }
+        ]
+      }
+    ],
+    "teach": "damaged就像被熊孩子玩坏的乐高🧩！古法语'damage'本指财产损失💰，现在连心灵受伤都能用（emotionally damaged）。说'轻微损坏'用slightly damaged像奶茶洒在键盘上☕，'严重损坏'叫beyond repair就像被猫主子推下桌的显示器🐾。记住：damaged goods在恋爱中指'情伤者'哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆毛举的'→呆毛举着(damaged)坏掉的手办",
+        "易混词对比：broken（完全破碎） vs damaged（可修复的损坏）",
+        "记忆tip：把-ed想象成创可贴🧴，贴在damage后面表示'已受伤状态'"
+      ]
+    }
+  },
+  {
+    "word": "damaging",
+    "etymology": {
+      "breakdown": [
+        "damage",
+        "ing"
+      ],
+      "meaning_connection": "damage源自拉丁语damnum（损失），-ing表形容词化→造成损失的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "破坏性的",
+        "examples": [
+          {
+            "sentence": "The damaging comments on Weibo triggered hot discussion.",
+            "sentence_zh": "微博上的破坏性评论引发热议。"
+          },
+          {
+            "sentence": "Typhoon Doksuri left damaging trails in Fujian province.",
+            "sentence_zh": "台风杜苏芮在福建省留下破坏性痕迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "损害的",
+        "examples": [
+          {
+            "sentence": "Eating stinky tofu daily can be damaging to relationships.",
+            "sentence_zh": "天天吃臭豆腐可能损害人际关系。"
+          },
+          {
+            "sentence": "The damaging evidence made the influencer lose 1M followers overnight.",
+            "sentence_zh": "损害性证据让网红一夜掉粉百万。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "environmentally damaging",
+        "meaning": "破坏环境的",
+        "examples": [
+          {
+            "sentence": "Bubble tea straws are considered environmentally damaging.",
+            "sentence_zh": "奶茶吸管被视为破坏环境的产物。"
+          }
+        ]
+      }
+    ],
+    "teach": "damaging就像被熊孩子玩坏的乐高🎢！它源于古罗马赔偿金damnum💸，现在形容'破坏性'就像摔碎手办(collectible figures)，'损害性'好比在故宫墙上刻'到此一游'✏️。说'严重损害'用severely damaging如同火锅泼白衬衫🍲，'名誉损害'说reputation damaging堪比社死现场📉。记住：看到damaging就想起你妈发现你期末考卷时的表情😱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'大妈进'→大妈进(damaging)菜市场搞破坏",
+        "易混词对比：damaging（持续损害） vs. destructive（彻底毁灭）"
+      ]
+    }
+  },
+  {
+    "word": "damask",
+    "etymology": {
+      "breakdown": [
+        "damask"
+      ],
+      "meaning_connection": "源自叙利亚首都大马士革(Damascus)，因该地盛产精美绸缎而得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "花缎",
+        "examples": [
+          {
+            "sentence": "The Ming Dynasty collector cherished a piece of Persian damask with peony patterns.",
+            "sentence_zh": "这位明代收藏家珍藏着一块波斯牡丹纹花缎。"
+          },
+          {
+            "sentence": "Her qipao was made from silk damask that shimmered like moonlight.",
+            "sentence_zh": "她的旗袍用流光溢彩的花缎制成，宛如月光流淌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "淡红色",
+        "examples": [
+          {
+            "sentence": "The sunset painted the Forbidden City in delicate damask.",
+            "sentence_zh": "夕阳给紫禁城镀上淡淡的玫红色。"
+          },
+          {
+            "sentence": "She blushed to the shade of damask rose when receiving flowers.",
+            "sentence_zh": "收到鲜花时她的脸颊泛起大马士革玫瑰般的红晕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "花缎的",
+        "examples": [
+          {
+            "sentence": "The damask tablecloth became the star of the Mid-Autumn banquet.",
+            "sentence_zh": "这块花缎桌布成了中秋宴会的焦点。"
+          },
+          {
+            "sentence": "His damask waistcoat featured intricate carp motifs.",
+            "sentence_zh": "他的花缎马甲上织着精美的锦鲤纹样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "淡红色的",
+        "examples": [
+          {
+            "sentence": "The damask clouds over West Lake inspired countless poets.",
+            "sentence_zh": "西湖上空淡红色的云霞激发了无数诗人的灵感。"
+          },
+          {
+            "sentence": "Her damask lipstick matched the autumn maple leaves perfectly.",
+            "sentence_zh": "她淡红色的唇膏与秋日的枫叶相得益彰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使织出花纹",
+        "examples": [
+          {
+            "sentence": "The master craftsman damasked the fabric with a flying phoenix design.",
+            "sentence_zh": "匠人在面料上织出飞凤纹样。"
+          },
+          {
+            "sentence": "This Jacquard loom can damask 16 types of cloud patterns.",
+            "sentence_zh": "这台提花机能织出十六种云纹花样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "织花纹",
+        "examples": [
+          {
+            "sentence": "The new apprentice is learning to damask on traditional looms.",
+            "sentence_zh": "新学徒正在学习用传统织机织花。"
+          },
+          {
+            "sentence": "These silkworms' cocoons will eventually damask into brocade.",
+            "sentence_zh": "这些蚕茧终将织成华美的锦缎。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "damask rose",
+        "meaning": "大马士革玫瑰",
+        "examples": [
+          {
+            "sentence": "The perfume was distilled from authentic damask roses.",
+            "sentence_zh": "这款香水用正宗大马士革玫瑰蒸馏而成。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "damask steel",
+        "meaning": "大马士革钢",
+        "examples": [
+          {
+            "sentence": "The legendary sword was forged from damask steel with visible wave patterns.",
+            "sentence_zh": "这柄传奇宝剑用可见波纹的大马士革钢锻造。"
+          }
+        ]
+      }
+    ],
+    "teach": "damask是丝绸之路上流动的宝石💎：1) 大马士革钢刀上的花纹叫damask，和你奶奶的缎子被面是同一个词！2) 想象在长安西市，波斯商人展开一匹damask，阳光下纹理如水波流动🌊 3) '绸缎般光滑'说smooth as damask，'脸上泛红'叫damask flush 4) 英国人把'老古董'叫old damask，就像我们说'老掉牙的绸缎'🧵",
+    "recite": {
+      "tips": [
+        "谐音梗：'大马赛克'→大马士革的花缎像精致马赛克",
+        "易混词：brocade(提花锦缎)更厚重，damask偏轻薄"
+      ]
+    }
   }
 ]

@@ -1897,5 +1897,249 @@
         "易混词对比：backlight（背光源）vs highlight（高光）"
       ]
     }
+  },
+  {
+    "word": "backlog",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "log"
+      ],
+      "meaning_connection": "原指壁炉后方堆积的柴火(log)，引申为积压事务。back表示'向后'，log指'原木'→像滚木游戏般越堆越高"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "积压待办的事务",
+        "examples": [
+          {
+            "sentence": "My weekend backlog includes 3 unwashed laundry mountains and 20 unanswered WeChat messages.",
+            "sentence_zh": "我的周末待办清单包括3座脏衣服山和20条未回复微信。"
+          },
+          {
+            "sentence": "The CEO's email backlog could fill a Shaolin scripture library.",
+            "sentence_zh": "CEO积压的邮件能塞满一座少林寺藏经阁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "积压而未交付的订货",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop has a 300-cup backlog during discount days.",
+            "sentence_zh": "奶茶店促销期间积压了300杯未交付订单。"
+          },
+          {
+            "sentence": "Tesla's backlog reaches Mars due to Chinese New Year bonuses.",
+            "sentence_zh": "因春节年终奖效应，特斯拉订单积压量堪比火星距离。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "储备",
+        "examples": [
+          {
+            "sentence": "Grandmas backlog enough pickled vegetables to survive zombie apocalypse.",
+            "sentence_zh": "奶奶们储备的腌菜足够熬过僵尸末日。"
+          },
+          {
+            "sentence": "Squirrels backlog acorns like Bitcoin miners hoard GPUs.",
+            "sentence_zh": "松鼠囤积橡果的样子堪比矿工囤显卡。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "clear the backlog",
+        "meaning": "清理积压",
+        "examples": [
+          {
+            "sentence": "I need 3 all-nighters to clear my Douban watchlist backlog.",
+            "sentence_zh": "我得熬三个通宵才能清完豆瓣待看片单。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "backlog grooming",
+        "meaning": "待办事项梳理",
+        "examples": [
+          {
+            "sentence": "Our weekly backlog grooming session is longer than Emperor's harem selection.",
+            "sentence_zh": "我们每周的需求梳理会比皇帝选妃还耗时。"
+          }
+        ]
+      }
+    ],
+    "teach": "backlog是当代打工人的'功德林'📚！像《清明上河图》里堆积的货物🚢，你的待办事项就是现代版'漕运积压'。说'忙到飞起'可叫buried in backlog（埋在待办堆里），'优先处理'叫tackle the backlog like hotpot ingredients🍲——先涮最鲜嫩的肥牛！记住：每个人的backlog都是部《三国演义》——分久必合，合久必炸💥。",
+    "recite": {
+      "tips": [
+        "谐音梗：'白壳老鸽'→积压文件多到像白壳里的老鸽子飞不动",
+        "易混词对比：backlog vs. logbook（前者是积压，后者是记录簿）",
+        "记忆tip：想象微信未读红点长成西瓜🍉的样子"
+      ]
+    }
+  },
+  {
+    "word": "backpack",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "pack"
+      ],
+      "meaning_connection": "字面即'背上的包裹'，1960年代美国学生反文化运动中流行化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "远足用的背包",
+        "examples": [
+          {
+            "sentence": "His vintage backpack smelled like 10-year-old instant noodles from Mount Everest.",
+            "sentence_zh": "他的复古登山包散发着珠峰上十年泡面的味道。"
+          },
+          {
+            "sentence": "We packed 20 baozi into the backpack for the Great Wall hike.",
+            "sentence_zh": "我们往登山包里塞了20个包子准备爬长城。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "双肩背包",
+        "examples": [
+          {
+            "sentence": "The panda-shaped backpack made the kindergarten kid look like a walking zoo.",
+            "sentence_zh": "熊猫造型的双肩包让幼儿园小朋友像移动动物园。"
+          },
+          {
+            "sentence": "Her backpack always contains emergency hotpot condiments.",
+            "sentence_zh": "她的双肩包里永远备着应急火锅蘸料。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backpack through",
+        "meaning": "背包旅行",
+        "examples": [
+          {
+            "sentence": "They backpacked through Sichuan eating nothing but spicy rabbit heads.",
+            "sentence_zh": "他们背包游四川时只吃麻辣兔头。"
+          }
+        ]
+      }
+    ],
+    "teach": "backpack是社畜的移动工位💻！1960年代美国嬉皮士靠它流浪🚬，如今打工人用它装电脑（digital nomad必备）。说'轻装出行'叫travel light，'负重前行'直接吐槽This backpack feels like carrying my mortgage！记住：双肩包越鼓，人生压力越大😩💸🎒",
+    "recite": {
+      "tips": [
+        "谐音梗：'白客派克'→程序员(白客)的标配背包",
+        "易混词对比：knapsack(军用包)/rucksack(专业登山包)"
+      ]
+    }
+  },
+  {
+    "word": "backpacker",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "pack",
+        "er"
+      ],
+      "meaning_connection": "组合词back（背部）+pack（背包）+er（人）→后背背包旅行的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "背包旅行者",
+        "examples": [
+          {
+            "sentence": "The Great Wall hostels are full of international backpackers sharing travel stories.",
+            "sentence_zh": "长城周边的青年旅舍挤满了分享旅行故事的国际背包客。"
+          },
+          {
+            "sentence": "As a backpacker, she traveled across Yunnan with just 2000 yuan in her pocket.",
+            "sentence_zh": "作为背包客，她揣着2000元就穷游了云南全境。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "backpacker culture",
+        "meaning": "背包客文化",
+        "examples": [
+          {
+            "sentence": "The backpacker culture in Yangshuo mixes rock climbing and beer fish.",
+            "sentence_zh": "阳朔的背包客文化融合了攀岩和啤酒鱼。"
+          },
+          {
+            "sentence": "Hostel notice boards are the social media of backpacker culture.",
+            "sentence_zh": "青旅留言板就是背包客文化的朋友圈。"
+          }
+        ]
+      }
+    ],
+    "teach": "backpacker是移动的'人形蜗牛'🐌！这些人把全部家当背在身上🎒，像《西游记》里背着行李的沙僧👨‍🦲。他们管'穷游'叫shoestring travel（鞋带旅行），'拼车'说hitch a ride就像挂在拖拉机后座🚜。记住：真正的backpacker宁可饿肚子也要买景区门票！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白嫖客'→穷游的背包客（注意是玩笑说法）",
+        "对比：backpacker（自主旅行） vs tourist（观光客）"
+      ]
+    }
+  },
+  {
+    "word": "backpacking",
+    "etymology": {
+      "breakdown": [
+        "back",
+        "pack",
+        "ing"
+      ],
+      "meaning_connection": "back（背部）+ pack（背包）+ ing（行为）→ 背着包的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "徒步旅行",
+        "examples": [
+          {
+            "sentence": "Backpacking through Yunnan lets you taste 18 kinds of wild mushrooms.",
+            "sentence_zh": "在云南徒步旅行能尝到18种野生菌。"
+          },
+          {
+            "sentence": "His backpacking photos always feature instant noodles against scenic backgrounds.",
+            "sentence_zh": "他的徒步旅行照片总是风景配泡面。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go backpacking",
+        "meaning": "去徒步旅行",
+        "examples": [
+          {
+            "sentence": "They went backpacking with a tent but forgot the poles.",
+            "sentence_zh": "他们带帐篷去徒步却忘了支架。"
+          }
+        ]
+      }
+    ],
+    "teach": "backpacking是穷游党的尊严🎒！最早指1930年代美国失业青年背行李搭便车找工作🚗💨，现在变成朋友圈晒'用腿丈量世界'的标配。说'轻装徒步'用ultralight backpacking，吐槽装备太重叫'蜗牛搬家'🐌。记住：真正的backpacker最后都会发现——最重的是相机和三脚架！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白开'→白开水+背包=穷游标配",
+        "易混词：hiking（短途徒步）vs backpacking（过夜长途）"
+      ]
+    }
   }
 ]

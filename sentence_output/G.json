@@ -2003,5 +2003,277 @@
         "易混词对比：gal（伽）vs girl（女孩）→ 前者让物体下落，后者让你心跳漏拍"
       ]
     }
+  },
+  {
+    "word": "gala",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自意大利语'gala'（庆典），与法语'gala'同源，最终可能来自古日耳曼语'*walhaz'（宴会）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "节日庆典",
+        "examples": [
+          {
+            "sentence": "The Mid-Autumn gala features floating lanterns and mooncake buffets.",
+            "sentence_zh": "中秋庆典包含放花灯和月饼自助餐。"
+          },
+          {
+            "sentence": "We're organizing a gala for stray cats adoption day.",
+            "sentence_zh": "我们正在为流浪猫领养日筹办庆典。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "祝贺仪式",
+        "examples": [
+          {
+            "sentence": "The Nobel Prize gala has stricter dress code than Met Gala.",
+            "sentence_zh": "诺贝尔颁奖晚宴的着装要求比Met Gala更严格。"
+          },
+          {
+            "sentence": "They held a gala to celebrate the successful launch of their new product.",
+            "sentence_zh": "他们举办了庆功宴祝贺新产品成功上市。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gala dinner",
+        "meaning": "晚宴",
+        "examples": [
+          {
+            "sentence": "The gala dinner served Peking duck carved by robot chefs.",
+            "sentence_zh": "晚宴提供由机器人厨师片制的北京烤鸭。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gala performance",
+        "meaning": "庆典演出",
+        "examples": [
+          {
+            "sentence": "The Spring Festival gala performance will include AI-generated crosstalk.",
+            "sentence_zh": "春晚将包含AI生成的相声节目。"
+          }
+        ]
+      }
+    ],
+    "teach": "gala其实是'尬啦'🎉：想象罗马人尬舞(gala)庆祝胜利的场面💃。要说'隆重聚会'可以叫shindig（原指狂欢），'高端派对'说soirée就像在凡尔赛宫吃马卡龙🍰。记住：任何gala本质都是穿着正装吃自助餐！",
+    "recite": {
+      "tips": [
+        "谐音梗：'咖啦'→明星咖啦(gala)走红毯",
+        "易混词对比：gala vs. festival（后者侧重传统节日）"
+      ]
+    }
+  },
+  {
+    "word": "galactic",
+    "etymology": {
+      "breakdown": [
+        "galact",
+        "ic"
+      ],
+      "meaning_connection": "词根galact=乳汁/银河（希腊语gala'奶'），-ic表形容词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "乳汁的",
+        "examples": [
+          {
+            "sentence": "The galactic fluid in this alien movie glows like blue milk.",
+            "sentence_zh": "这部外星电影里的乳状液体像蓝色牛奶般发光。"
+          },
+          {
+            "sentence": "Ancient Greeks believed the Milky Way was formed by Hera's galactic spray.",
+            "sentence_zh": "古希腊人认为银河是由赫拉喷洒的乳汁形成的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "银河的",
+        "examples": [
+          {
+            "sentence": "Chinese astronomers discovered a galactic dance of twin black holes.",
+            "sentence_zh": "中国天文学家发现双黑洞的银河之舞。"
+          },
+          {
+            "sentence": "The galactic center tastes like raspberries, according to radio telescopes.",
+            "sentence_zh": "射电望远镜显示银河系中心闻起来像覆盆子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "极大的",
+        "examples": [
+          {
+            "sentence": "Douyin's galactic traffic crashed servers during Spring Festival.",
+            "sentence_zh": "春节期间抖音的巨大流量冲垮了服务器。"
+          },
+          {
+            "sentence": "His galactic ego couldn't fit through the office door.",
+            "sentence_zh": "他膨胀的自我大得挤不进办公室门。"
+          }
+        ]
+      }
+    ],
+    "teach": "galactic是'银河'也是'奶'🥛！古希腊人真把银河当赫拉女神的母乳（galactic milk）🤱，现代天文学家却说它闻起来像奶茶🍵！说'超大份'用galactic size就像奶茶店的'宇宙杯'🌌，'蠢到银河系'叫galactically stupid。记住：看到牛奶洒了可以说'a galactic accident'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'该拉可踢'→银河(gala)该拉出来踢一脚",
+        "易混词：cosmic（宇宙的）vs galactic（银河的）",
+        "联想：galaxy=银河，-tic=的→银河的"
+      ]
+    }
+  },
+  {
+    "word": "galaxy",
+    "etymology": {
+      "breakdown": [
+        "gala",
+        "xy"
+      ],
+      "meaning_connection": "来自希腊语galaxias（乳白色环带），gala=牛奶，-xy可能表示'状态'。古希腊人仰望夜空时，看到如牛奶泼洒的银河🌌"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "银河（特指银河系）",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese poets called the galaxy \"Yinhe\" meaning Silver River.",
+            "sentence_zh": "中国古代诗人称银河为\"银汉\"。"
+          },
+          {
+            "sentence": "The Milky Way galaxy contains our solar system.",
+            "sentence_zh": "银河系包含我们的太阳系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "星系",
+        "examples": [
+          {
+            "sentence": "The Andromeda Galaxy will collide with ours in 4 billion years.",
+            "sentence_zh": "仙女座星系将在40亿年后与银河系相撞。"
+          },
+          {
+            "sentence": "Astronomers discovered a galaxy shaped like a giant panda.",
+            "sentence_zh": "天文学家发现了一个形似熊猫的星系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一群显赫人物",
+        "examples": [
+          {
+            "sentence": "The ceremony gathered a galaxy of tech billionaires.",
+            "sentence_zh": "典礼云集了科技界的亿万富翁们。"
+          },
+          {
+            "sentence": "CCTV's Spring Festival Gala always features a galaxy of stars.",
+            "sentence_zh": "央视春晚总是群星璀璨。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "galaxy of talent",
+        "meaning": "人才济济",
+        "examples": [
+          {
+            "sentence": "Huawei's research center is a galaxy of tech talent.",
+            "sentence_zh": "华为研究中心可谓人才济济。"
+          }
+        ]
+      }
+    ],
+    "teach": "galaxy是宇宙级凡尔赛💫！古希腊人说银河是赫拉乳汁喷洒的（所以词根gala=牛奶🥛）。说'大咖云集'不用star而用galaxy才够排面✨，比如'发布会现场a galaxy of influencers'。记住：夸人牛别说you're a star，要说you're a whole galaxy! 🌠",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖了颗星'→盖过所有星星的才是星系",
+        "易混词：universe（宇宙）是galaxy的豪华大礼包"
+      ]
+    }
+  },
+  {
+    "word": "gale",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'galinn'（疯狂的）→形容风的狂暴状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "狂风",
+        "examples": [
+          {
+            "sentence": "The gale blew away my new umbrella like a kite.",
+            "sentence_zh": "狂风把我的新伞像风筝一样吹跑了。"
+          },
+          {
+            "sentence": "Fishermen hurried back to shore when the gale warning sounded.",
+            "sentence_zh": "当大风警报响起时，渔民们急忙返回岸边。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "定期租金",
+        "examples": [
+          {
+            "sentence": "The castle's gale was paid in silver coins every quarter.",
+            "sentence_zh": "这座城堡的地租每季度用银币支付。"
+          },
+          {
+            "sentence": "Peasants protested against the increased gale during the barley harvest.",
+            "sentence_zh": "农民们在大麦收获期间抗议增加的地租。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gale force",
+        "meaning": "大风强度",
+        "examples": [
+          {
+            "sentence": "The typhoon reached gale force 10 near Zhoushan Islands.",
+            "sentence_zh": "台风在舟山群岛附近达到10级大风强度。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gale warning",
+        "meaning": "大风警报",
+        "examples": [
+          {
+            "sentence": "All flights were canceled after the gale warning was issued.",
+            "sentence_zh": "大风警报发布后所有航班都被取消。"
+          }
+        ]
+      }
+    ],
+    "teach": "gale是风与钱的奇幻组合🌪️💷！作为'狂风'时能把外卖小哥吹成风筝🪁，作为'地租'时又像《唐顿庄园》里收租的严肃管家🎩。记住：刮gale时要抱紧电线杆，付gale时要数清硬币！说'风太大'可以用It's blowing a gale，'交房租'则用pay the gale。",
+    "recite": {
+      "tips": [
+        "谐音梗：'给力'→gale级大风真给力",
+        "易混词对比：gale(持续大风) vs gust(阵风)"
+      ]
+    }
   }
 ]
