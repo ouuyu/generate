@@ -9341,5 +9341,306 @@
         "记忆tip：想象字母e像蜷曲的鳗鱼形状"
       ]
     }
+  },
+  {
+    "word": "eerie",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自苏格兰方言，原指'因迷信而恐惧'，与古英语'earg'(胆小的)可能有关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "怪诞的",
+        "examples": [
+          {
+            "sentence": "The abandoned theme park had an eerie collection of broken animatronics.",
+            "sentence_zh": "废弃游乐园里破损的电动玩偶透着怪诞感。"
+          },
+          {
+            "sentence": "She received an eerie voicemail with reversed audio.",
+            "sentence_zh": "她收到一段音频倒放的怪诞语音留言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可怕的",
+        "examples": [
+          {
+            "sentence": "An eerie silence fell when the lights suddenly went out in the hospital.",
+            "sentence_zh": "医院灯光突然熄灭时，可怕的寂静降临。"
+          },
+          {
+            "sentence": "That eerie howl from the mountain kept villagers awake all night.",
+            "sentence_zh": "山上传来的可怕嚎叫让村民整夜难眠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "奇异的",
+        "examples": [
+          {
+            "sentence": "The AI generated eerie paintings resembling human dreams.",
+            "sentence_zh": "AI绘制出类似人类梦境的奇异画作。"
+          },
+          {
+            "sentence": "We encountered an eerie blue glow in the deep sea exploration.",
+            "sentence_zh": "深海探索时我们遇见奇异的蓝色荧光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "令人迷惑不解的",
+        "examples": [
+          {
+            "sentence": "The eerie coincidences in their life stories shocked everyone.",
+            "sentence_zh": "他们人生故事中令人迷惑不解的巧合震惊了所有人。"
+          },
+          {
+            "sentence": "An eerie mathematical pattern appeared in ancient architecture.",
+            "sentence_zh": "古代建筑中出现令人迷惑不解的数学规律。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eerie silence",
+        "meaning": "诡异的寂静",
+        "examples": [
+          {
+            "sentence": "The eerie silence before the earthquake made birds stop chirping.",
+            "sentence_zh": "地震前诡异的寂静让鸟儿停止了鸣叫。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "eerie resemblance",
+        "meaning": "离奇的相似",
+        "examples": [
+          {
+            "sentence": "The doll bore an eerie resemblance to the missing girl.",
+            "sentence_zh": "这个娃娃与失踪女孩有着离奇的相似。"
+          }
+        ]
+      }
+    ],
+    "teach": "eeree就像恐怖片BGM🎵+午夜凶铃📞+数学考试最后大题📊的混合体！苏格兰人最早用它形容见鬼的感觉👻，现代可描述《三体》智子降维打击的震撼场面☄️。搭配'eerie glow'（诡异微光）和'eerie coincidence'（毛骨悚然的巧合）。英国人说'spooky'比'eerie'更口语化，就像'吓人'和'瘆人'的区别😱",
+    "recite": {
+      "tips": [
+        "谐音梗：'一饿日'→饿到出现幻觉所以瘆人",
+        "易混词对比：weird(古怪但不可怕) vs eerie(带恐惧感)",
+        "视觉化：想象雾中若隐若现的青铜面具🚶♂️💨"
+      ]
+    }
+  },
+  {
+    "word": "eerily",
+    "etymology": {
+      "breakdown": [
+        "eer",
+        "ily"
+      ],
+      "meaning_connection": "词根eer=恐惧（同eerie），-ily副词后缀→令人毛骨悚然地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "怪诞的",
+        "examples": [
+          {
+            "sentence": "The AI-generated portrait smiled eerily with three eyes.",
+            "sentence_zh": "AI生成的三眼肖像诡异地微笑着。"
+          },
+          {
+            "sentence": "Eerily accurate horoscopes made everyone check their phones nervously.",
+            "sentence_zh": "准得诡异的星座运势让所有人紧张地查看手机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "奇异的",
+        "examples": [
+          {
+            "sentence": "The abandoned mall was eerily decorated with mannequins in wedding dresses.",
+            "sentence_zh": "废弃商场里诡异地点缀着穿婚纱的模特。"
+          },
+          {
+            "sentence": "Her eerily perfect Mandarin surprised the locals in Chengdu.",
+            "sentence_zh": "她标准得诡异的成都话让本地人震惊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可怕的",
+        "examples": [
+          {
+            "sentence": "The elevator stopped eerily between floors at midnight.",
+            "sentence_zh": "电梯在午夜诡异地停在了楼层之间。"
+          },
+          {
+            "sentence": "Eerily synchronized blinking of the crowd was captured on CCTV.",
+            "sentence_zh": "监控拍到人群诡异同步的眨眼瞬间。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eerily quiet",
+        "meaning": "反常的寂静",
+        "examples": [
+          {
+            "sentence": "The panda base was eerily quiet during feeding time.",
+            "sentence_zh": "投喂时间熊猫基地反常地安静。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "eerily similar",
+        "meaning": "瘆人地相似",
+        "examples": [
+          {
+            "sentence": "The twin brothers' handwriting was eerily similar.",
+            "sentence_zh": "双胞胎兄弟的字迹瘆人地相似。"
+          }
+        ]
+      }
+    ],
+    "teach": "eerily是恐怖片导演最爱词🎬！词源来自古英语'恐惧'，就像突然发现全公司同事都在用机械舞步走路🤖。说'瘆得慌'用creepily，但eerily更带科幻感👽。搭配推荐：eerily accurate（准得邪门）、eerily beautiful（美得诡异）。记住：当你的Siri突然用方言回答时，那就是eerily时刻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一蕊梨'→诡异的一蕊梨花",
+        "易混词对比：weirdly（单纯奇怪） VS eerily（带恐怖感）",
+        "记忆tip：想象eerie（原形）字母像倒立的鬼影👻"
+      ]
+    }
+  },
+  {
+    "word": "eff",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "粗话'f**k'的委婉缩写形式，源于首字母发音"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "搞砸",
+        "examples": [
+          {
+            "sentence": "I totally effed up my WeChat mini-program submission.",
+            "sentence_zh": "我把微信小程序提交搞得一团糟。"
+          },
+          {
+            "sentence": "He effed the live-stream by accidentally turning on beauty filter to maximum.",
+            "sentence_zh": "他误开十级美颜把直播搞砸了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eff up",
+        "meaning": "彻底弄糟",
+        "examples": [
+          {
+            "sentence": "The AI effed up my translation by turning '鸡汤' into 'chicken soup for toilet'.",
+            "sentence_zh": "AI翻译把'鸡汤'译成'马桶鸡汤'彻底翻车。"
+          }
+        ]
+      }
+    ],
+    "teach": "eff是文明社会的'防暴粗口盾牌🛡️'：就像用'我去'代替'卧槽'。当你说'I effed up'时，就像熊猫把竹键盘砸了🐼，既表达崩溃又保持体面。搭配'eff up'比说failure更带自嘲幽默感，比如'My cooking effed up the hotpot'（我的厨艺毁了这锅火锅）🍲",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨夫'→姨夫总爱搞砸事情",
+        "易混词对比：affect（影响）vs eff（搞砸）→前者正经后者搞笑"
+      ]
+    }
+  },
+  {
+    "word": "efface",
+    "etymology": {
+      "breakdown": [
+        "ef",
+        "face"
+      ],
+      "meaning_connection": "前缀ef-表示'彻底'，词根face源自拉丁语facies(表面)→原指'从表面彻底清除'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抹去（物理痕迹）",
+        "examples": [
+          {
+            "sentence": "The archaeologist carefully effaced the dirt to reveal oracle bone inscriptions.",
+            "sentence_zh": "考古学家小心抹去泥土，露出甲骨文刻痕。"
+          },
+          {
+            "sentence": "Time had effaced the graffiti on the Great Wall bricks.",
+            "sentence_zh": "时间抹去了长城砖块上的涂鸦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "消除（抽象存在）",
+        "examples": [
+          {
+            "sentence": "The new policy effaced all traces of the old management system.",
+            "sentence_zh": "新政策彻底消除了旧管理体系的痕迹。"
+          },
+          {
+            "sentence": "Her smile effaced the awkwardness between them.",
+            "sentence_zh": "她的笑容消除了两人之间的尴尬。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "忘却（记忆）",
+        "examples": [
+          {
+            "sentence": "No amount of alcohol could efface that embarrassing moment.",
+            "sentence_zh": "再多的酒精也无法忘却那个社死瞬间。"
+          },
+          {
+            "sentence": "The old man's dementia effaced even his children's names.",
+            "sentence_zh": "老人的痴呆症让他连子女的名字都忘却了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "efface oneself",
+        "meaning": "保持低调",
+        "examples": [
+          {
+            "sentence": "The bodyguard effaced himself behind the celebrity.",
+            "sentence_zh": "保镖在明星身后保持低调存在。"
+          }
+        ]
+      }
+    ],
+    "teach": "efface就像橡皮擦三连击🧽：擦黑板（物理抹去）、消音键（消除存在）、格式化U盘（彻底忘却）💾。法语里说'faire effacement'比delete更文艺，就像用宣纸吸墨汁般优雅🖋️。搭配记忆：'efface the evidence'（毁灭证据）、'efface the memory'（清除记忆）。说'忘得一干二净'可以用：vanished without a trace🚮",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨face'→阿姨用洗面奶(efface)彻底洗脸",
+        "易混词对比：erase侧重删除，efface强调彻底性",
+        "记忆tip：想象EF字母组合成橡皮擦形状"
+      ]
+    }
   }
 ]

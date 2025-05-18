@@ -8673,5 +8673,335 @@
         "易混词对比：champion（冠军）少个h就是柔弱小花"
       ]
     }
+  },
+  {
+    "word": "camp",
+    "etymology": {
+      "breakdown": [
+        "camp"
+      ],
+      "meaning_connection": "来自拉丁语'campus'（平地），经西班牙语演变为南美特有词汇"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "南美草原",
+        "examples": [
+          {
+            "sentence": "Gauchos ride across the campo with their cattle under endless skies.",
+            "sentence_zh": "牛仔们在无垠天空下驱赶牛群穿越南美草原。"
+          },
+          {
+            "sentence": "The campo turns golden when Patagonian winds blow in autumn.",
+            "sentence_zh": "当巴塔哥尼亚的秋风吹过，草原会变成金色。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "campo abierto",
+        "meaning": "开阔草原",
+        "examples": [
+          {
+            "sentence": "The armadillos dig burrows in campo abierto.",
+            "sentence_zh": "犰狳在开阔草原上挖掘洞穴。"
+          }
+        ]
+      }
+    ],
+    "teach": "campo其实是'看坡'👀！想象潘帕斯草原如绿色海浪🌊，高乔人在这里策马奔腾就像草原版《头文字D》🏎️。记住：'大草原'英语是prairie（北美），steppe（中亚），而campo专指南美！搭配'campo life'（草原生活）和'campo sunset'（草原落日），地道说法叫'pampas dream'（草原梦）🐎🌾🦙",
+    "recite": {
+      "tips": [
+        "谐音梗：'看破'→看破(campo)红尘去草原",
+        "易混词：camp（营地）vs campo（草原）",
+        "记忆法：camp+o=南美特有的圆形(o)草原"
+      ]
+    }
+  },
+  {
+    "word": "campsite",
+    "etymology": {
+      "breakdown": [
+        "camp",
+        "site"
+      ],
+      "meaning_connection": "camp源自拉丁语'campus'（田野），site表示'地点'→田野中的驻扎地点"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "营地",
+        "examples": [
+          {
+            "sentence": "We set up tents at a lakeside campsite with perfect mountain views.",
+            "sentence_zh": "我们在能看见绝美山景的湖边营地搭帐篷。"
+          },
+          {
+            "sentence": "This luxury campsite provides Wi-Fi and hot showers for digital nomads.",
+            "sentence_zh": "这个豪华营地为数字游民提供Wi-Fi和热水淋浴。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "campsite reservation",
+        "meaning": "营地预约",
+        "examples": [
+          {
+            "sentence": "All campsite reservations during National Day were sold out in 3 seconds.",
+            "sentence_zh": "国庆期间的营地预约3秒内全部售罄。"
+          }
+        ]
+      }
+    ],
+    "teach": "露营文化⛺️最早是蒙古包迁徙式生活，现在变成逃离996的解药💊。说'野营'用pitch a tent（搭帐篷），'豪华露营'叫glamping=glamorous+camping✨。记住：真正的campsite不该有老板的夺命连环call📱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'砍木塞'→在营地砍木塞当柴火",
+        "易混词：campus（校园）vs campsite（营地）"
+      ]
+    }
+  },
+  {
+    "word": "campus",
+    "etymology": {
+      "breakdown": [
+        "camp",
+        "us"
+      ],
+      "meaning_connection": "词根camp=田野，-us表地点→原指'开阔场地'，后专指大学校园"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "校园（物理空间）",
+        "examples": [
+          {
+            "sentence": "The Peking University campus has its own subway station.",
+            "sentence_zh": "北大校园内有专属地铁站。"
+          },
+          {
+            "sentence": "Bike-sharing systems are flooding every campus in China.",
+            "sentence_zh": "共享单车系统正涌入中国每所大学的校园。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大学生活（抽象概念）",
+        "examples": [
+          {
+            "sentence": "Campus romance usually ends with graduation season.",
+            "sentence_zh": "校园恋情往往以毕业季告终。"
+          },
+          {
+            "sentence": "Live-streaming has become part of modern campus culture.",
+            "sentence_zh": "直播已成为现代大学生活的一部分。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on campus",
+        "meaning": "在校内",
+        "examples": [
+          {
+            "sentence": "The 24-hour library on campus saves all-nighters.",
+            "sentence_zh": "校园内的24小时图书馆拯救了熬夜复习党。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "campus life",
+        "meaning": "校园生活",
+        "examples": [
+          {
+            "sentence": "Campus life isn't complete without group-buying milk tea.",
+            "sentence_zh": "没有拼单奶茶的校园生活是不完整的。"
+          }
+        ]
+      }
+    ],
+    "teach": "campus其实是'学术露营'⛺️！古罗马学生真的在田野(camp)上课🏛️。说'毕业多年'用off-campus years（校外岁月），'校花校草'叫campus celebrity（校园顶流）。记住：你的campus就是你的青春修炼场🎓！搭配：campus recruitment（校招）/ campus network（校园网）",
+    "recite": {
+      "tips": [
+        "谐音梗：'看破事'→校园里看破红尘那些事",
+        "易混词对比：compass（指南针）和campus（指南针指向校园方向）"
+      ]
+    }
+  },
+  {
+    "word": "can",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语cann（容器）与古诺尔斯语kanna（杯）同源，情态动词用法源于'知道如何做'的语义演变"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "装罐",
+        "examples": [
+          {
+            "sentence": "My grandma still cans peaches using 1950s methods.",
+            "sentence_zh": "我奶奶仍用1950年代的方法装罐桃。"
+          },
+          {
+            "sentence": "Fishermen can sardines right on their boats.",
+            "sentence_zh": "渔民直接在渔船上装罐沙丁鱼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "罐头",
+        "examples": [
+          {
+            "sentence": "Emergency kits always contain spam cans.",
+            "sentence_zh": "应急包总会有午餐肉罐头。"
+          },
+          {
+            "sentence": "He collects vintage Coke cans from 80s China.",
+            "sentence_zh": "他收藏80年代中国的复古可乐罐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "容器",
+        "examples": [
+          {
+            "sentence": "Paint cans should be kept away from children.",
+            "sentence_zh": "油漆容器需远离儿童。"
+          },
+          {
+            "sentence": "She repurposed milk cans as flower pots.",
+            "sentence_zh": "她把牛奶罐改造成了花盆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "aux.",
+        "meaning": "能",
+        "examples": [
+          {
+            "sentence": "Can your grandma use Douyin filters?",
+            "sentence_zh": "你奶奶会用抖音滤镜吗？"
+          },
+          {
+            "sentence": "This robot can make 100 jiaozi per hour.",
+            "sentence_zh": "这个机器人每小时能包100个饺子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "aux.",
+        "meaning": "可以",
+        "examples": [
+          {
+            "sentence": "You can pet the pandas if they consent.",
+            "sentence_zh": "如果熊猫同意，你可以摸它们。"
+          },
+          {
+            "sentence": "Can I pay with WeChat here?",
+            "sentence_zh": "这里可以用微信支付吗？"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "can't help doing",
+        "meaning": "忍不住",
+        "examples": [
+          {
+            "sentence": "I can't help laughing when seeing his meme face.",
+            "sentence_zh": "看到他的表情包我忍不住大笑。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "can do with",
+        "meaning": "将就着用",
+        "examples": [
+          {
+            "sentence": "We can do with one shared power bank.",
+            "sentence_zh": "我们可以将就着共用一个共享充电宝。"
+          }
+        ]
+      }
+    ],
+    "teach": "can是英语界的'套娃'🤯：当罐头时像梅林午餐肉🥫（spam can），当能力时像会功夫的熊猫🐼（can do kungfu），当许可时像扫码通过的闸机🚦（can enter）。说'尽力而为'是give it all you've got，'无能为力'叫can't do squat💪。记住：物理容器装食物，情态容器装可能性！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啃'→能(can)啃骨头才算好牙口",
+        "易混词对比：can（能力）vs. may（许可）"
+      ]
+    }
+  },
+  {
+    "word": "Canadian",
+    "etymology": {
+      "breakdown": [
+        "Canada",
+        "ian"
+      ],
+      "meaning_connection": "词根Canada来自原住民语'kanata'意为'村落'，后缀-ian表'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "加拿大的",
+        "examples": [
+          {
+            "sentence": "The Canadian maple syrup tastes like liquid gold.",
+            "sentence_zh": "加拿大枫糖浆喝起来像液态黄金。"
+          },
+          {
+            "sentence": "Canadian winters turn even pandas into ice sculpture lovers.",
+            "sentence_zh": "加拿大的冬天能让熊猫都变成冰雕爱好者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Canadian dollar",
+        "meaning": "加拿大元",
+        "examples": [
+          {
+            "sentence": "The loonie coin features a cute aquatic bird.",
+            "sentence_zh": "加拿大1元硬币上印着呆萌的潜鸟。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Canadian bacon",
+        "meaning": "加拿大腌肉",
+        "examples": [
+          {
+            "sentence": "Canadian bacon is actually lean back bacon, not the fatty belly kind.",
+            "sentence_zh": "加拿大腌肉其实是瘦背肉，不是肥五花。"
+          }
+        ]
+      }
+    ],
+    "teach": "Canadian=枫叶国身份证🍁！这个词源自原住民说的'kanata'（村落），后来变成国名。说'地道加拿大人'用true north strong（国歌歌词），吐槽'太加拿大了'指过分礼貌（比如为路怒症道歉）。记住：Canadian things=枫糖浆+冰球+说sorry三连❄️",
+    "recite": {
+      "tips": [
+        "谐音梗：'开哪的？'→开加拿大(Canadian)来的车",
+        "易混词：Canadian vs. Canada（前者形容词后者国名）"
+      ]
+    }
   }
 ]

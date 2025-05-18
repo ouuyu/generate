@@ -9434,5 +9434,219 @@
         "易混词对比：larvae（幼虫复数）vs lava（岩浆）"
       ]
     }
+  },
+  {
+    "word": "larynx",
+    "etymology": {
+      "breakdown": [
+        "laryng",
+        "x"
+      ],
+      "meaning_connection": "词根laryng来自希腊语'larynx'（喉管），后缀-x在解剖学术语中常见"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "喉头",
+        "examples": [
+          {
+            "sentence": "The opera singer's larynx is insured for millions.",
+            "sentence_zh": "这位歌剧演唱家的喉头投保了数百万。"
+          },
+          {
+            "sentence": "Swallowing hotpot too fast may irritate your larynx.",
+            "sentence_zh": "吃火锅太急可能刺激喉头。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "larynx是你的声音保险箱🗝️！古希腊医生发现这里像乐器簧片般振动（所以词根带'ring'回响🎵）。说'嗓子哑了'地道表达是lost my voice，'清嗓子'叫clear one's throat就像重启音箱🔈。记住：辣条和larynx是死对头🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'冷饮咳死'→喝冷饮咳到喉头疼",
+        "易混词：pharynx（咽）是larynx的楼上邻居"
+      ]
+    }
+  },
+  {
+    "word": "lasagne",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自意大利语'lasagna'，指多层宽面片与酱料交替烘烤的料理"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "烤宽面条",
+        "examples": [
+          {
+            "sentence": "The bubbling cheese on this lasagne could heal broken hearts.",
+            "sentence_zh": "这份烤宽面条上冒泡的芝士能治愈破碎的心。"
+          },
+          {
+            "sentence": "Making lasagne is like building a delicious edible skyscraper.",
+            "sentence_zh": "做烤宽面条就像建造美味的可食用摩天楼。"
+          }
+        ]
+      }
+    ],
+    "teach": "lasagne是意大利人的千层快乐🍝！最早的配方出现在14世纪，当时叫'lasanis'（意为'煮锅'）。现代版像代码分层：面片=HTML，肉酱=CSS，芝士=JavaScript🧀️。说'太好吃'用to die for（'这芝士值得为它死'），搭配红酒叫red wine pairing🍷。记住：每层芝士都是对生活的热爱！",
+    "recite": {
+      "tips": [
+        "视觉记忆：'la-sag-ne'→'拉- sag（下垂）-呢'→芝士多到下垂的宽面",
+        "易混词对比：spaghetti（细面）像电线，lasagne像叠起来的A4纸"
+      ]
+    }
+  },
+  {
+    "word": "lascivious",
+    "etymology": {
+      "breakdown": [
+        "lasci",
+        "ous"
+      ],
+      "meaning_connection": "词根lasci来自拉丁语lascivia（淫荡），-ous为形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "好色的",
+        "examples": [
+          {
+            "sentence": "The emperor's lascivious behavior became legend in Chinese operas.",
+            "sentence_zh": "皇帝的好色行径在戏曲中成了传奇桥段。"
+          },
+          {
+            "sentence": "He gave her a lascivious wink while eating spicy crayfish.",
+            "sentence_zh": "他吃着麻辣小龙虾时朝她抛了个媚眼。"
+          }
+        ]
+      }
+    ],
+    "teach": "这个词自带马赛克🚫：词源里的lascivia是罗马酒神节的保留节目🍷。想象李逵看潘金莲的眼神👀→就是lascivious gaze（色眯眯凝视）。说'老色批'可用dirty old man，'油腻男'是greasy guy。记住：这词比'好色'更文雅，但杀伤力更强💣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉丝猥琐'→拉丝芝士般黏腻的猥琐",
+        "易混词：lustful（赤裸裸的欲念） vs lascivious（带着文艺范儿的色）"
+      ]
+    }
+  },
+  {
+    "word": "lasciviousness",
+    "etymology": {
+      "breakdown": [
+        "lasciv",
+        "ious",
+        "ness"
+      ],
+      "meaning_connection": "词根lasciv=顽皮/放纵，-ious表特性，-ness表状态→放纵欲望的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "好色",
+        "examples": [
+          {
+            "sentence": "The poet's lasciviousness was thinly veiled in his verses about peaches.",
+            "sentence_zh": "诗人描写桃子的诗句中隐隐透露着好色之心。"
+          },
+          {
+            "sentence": "Ancient Greek comedies often mocked the gods' lasciviousness.",
+            "sentence_zh": "古希腊喜剧常调侃众神的好色本性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "淫乱",
+        "examples": [
+          {
+            "sentence": "The preacher condemned the lasciviousness of the nightclub scene.",
+            "sentence_zh": "牧师痛斥夜店场景的淫乱风气。"
+          },
+          {
+            "sentence": "Pompeii's ruins preserve frescoes that shocked 18th-century archaeologists with their lasciviousness.",
+            "sentence_zh": "庞贝古城的壁画因其淫乱内容震惊了18世纪的考古学家。"
+          }
+        ]
+      }
+    ],
+    "teach": "lasciviousness是欲望的探戈💃：词源来自拉丁语'lascivia'(顽皮)，就像《西游记》里猪八戒看到美女走不动道🐷。说'色眯眯'可以用leer at，'花心大萝卜'是Casanova。记住：这个词自带马赛克效果，使用时请戴好学术滤镜🎓！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拉丝维生素'→拉丝行为(lasciviousness)需要补充道德维生素",
+        "易混词对比：lust(欲望)是火焰🔥，lasciviousness是火苗蔓延的状态",
+        "联想记忆：Las Vegas(拉斯维加斯)+vice(恶习)=lasciviousness"
+      ]
+    }
+  },
+  {
+    "word": "laser",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "1960年发明的缩写：Light Amplification by Stimulated Emission of Radiation（受激辐射光放大）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "激光",
+        "examples": [
+          {
+            "sentence": "The cat chased the laser dot like it was the meaning of life.",
+            "sentence_zh": "猫咪追逐激光红点就像追逐猫生意义。"
+          },
+          {
+            "sentence": "Laser eye surgery can turn your world from 480p to 4K instantly.",
+            "sentence_zh": "激光近视手术能让你的视界从480p瞬间升级到4K。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "激光器",
+        "examples": [
+          {
+            "sentence": "This laser can engrave your ex's name on a grain of rice.",
+            "sentence_zh": "这台激光器能在米粒上刻前任名字。"
+          },
+          {
+            "sentence": "Barcode scanners contain miniature lasers.",
+            "sentence_zh": "条形码扫描仪内置微型激光器。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "laser beam",
+        "meaning": "激光束",
+        "examples": [
+          {
+            "sentence": "The concert used laser beams to draw constellations in the air.",
+            "sentence_zh": "演唱会用激光束在空中绘制星座图案。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "laser focus",
+        "meaning": "极度专注",
+        "examples": [
+          {
+            "sentence": "She had laser focus when playing Honor of Kings.",
+            "sentence_zh": "她打王者荣耀时有着激光般的专注力。"
+          }
+        ]
+      }
+    ],
+    "teach": "laser其实是科学家的懒惰缩写梗🤓：'光受激辐射放大'太长懒得念！想象激光就像超级英雄🔦（普通手电筒是路人甲）。说'极度专注'用laser focus就像猫咪盯激光点🐈，'精确打击'说surgical precision（手术精度）⚔️。记住：你的专注度决定了你是激光笔还是太阳灶！",
+    "recite": {
+      "tips": [
+        "谐音梗：'累射'→激光器累到射不动",
+        "易混词：lazer（游戏外设品牌）"
+      ]
+    }
   }
 ]

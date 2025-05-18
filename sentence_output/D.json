@@ -8746,5 +8746,256 @@
         "易混词对比：deactivate（人为停用） vs. disable（功能丧失）"
       ]
     }
+  },
+  {
+    "word": "dead",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语dēad，与德语tot同源，原始印欧语词根*dheu-（死亡）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "死的",
+        "examples": [
+          {
+            "sentence": "The archaeologists found a dead warrior buried with his PlayStation.",
+            "sentence_zh": "考古学家发现一位陪葬PlayStation的死亡战士。"
+          },
+          {
+            "sentence": "My phone battery is deader than dinosaurs.",
+            "sentence_zh": "我手机电量比恐龙灭绝还彻底。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不活泼的",
+        "examples": [
+          {
+            "sentence": "The party became dead after the WiFi crashed.",
+            "sentence_zh": "WiFi崩溃后派对彻底冷场。"
+          },
+          {
+            "sentence": "This meme is so dead it belongs in a museum.",
+            "sentence_zh": "这个梗老得该进博物馆了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "麻木的",
+        "examples": [
+          {
+            "sentence": "My fingers went dead after holding ice cubes for TikTok.",
+            "sentence_zh": "为拍抖音握冰块后我手指完全麻木。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "熄灭的",
+        "examples": [
+          {
+            "sentence": "Campers must ensure the bonfire is completely dead.",
+            "sentence_zh": "露营者必须确保篝火彻底熄灭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "死者",
+        "examples": [
+          {
+            "sentence": "The dead in this cemetery outnumber living residents.",
+            "sentence_zh": "墓园死者数量超过现居活人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "完全地",
+        "examples": [
+          {
+            "sentence": "You're dead wrong about pineapple on pizza.",
+            "sentence_zh": "你认为披萨加菠萝难吃完全错了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "直接地",
+        "examples": [
+          {
+            "sentence": "Walk dead straight to find the hidden hotpot place.",
+            "sentence_zh": "笔直走就能找到那家隐蔽火锅店。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "dead end",
+        "meaning": "死胡同",
+        "examples": [
+          {
+            "sentence": "My career hit a dead end like a GPS failure.",
+            "sentence_zh": "我的职业陷入像GPS失灵的死胡同。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "drop dead gorgeous",
+        "meaning": "美到窒息",
+        "examples": [
+          {
+            "sentence": "The sunset over the Great Wall was drop dead gorgeous.",
+            "sentence_zh": "长城上的日落美得令人窒息。"
+          }
+        ]
+      }
+    ],
+    "teach": "dead这个词就像薛定谔的猫🐱！当它说电池dead是'彻底没电'⚡，说派对dead是'冷过南极'❄️，说'dead serious'却是'极其认真'🧐。要吐槽过气网红可以说'that trend is deader than disco'（比迪斯科还凉）。记住：dead作副词时就像瞄准镜🎯——表示'准准地'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'待的'→待在棺材里的=死的",
+        "对比记忆：dead（状态）/died（动作）"
+      ]
+    }
+  },
+  {
+    "word": "deadening",
+    "etymology": {
+      "breakdown": [
+        "dead",
+        "en",
+        "ing"
+      ],
+      "meaning_connection": "词根dead=死亡，-en表使动，-ing表过程/结果→使声音'死亡'的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "减弱",
+        "examples": [
+          {
+            "sentence": "The deadening of thunder after the storm passed felt like nature's volume knob turning down.",
+            "sentence_zh": "暴风雨后雷声的减弱就像大自然调低了音量旋钮。"
+          },
+          {
+            "sentence": "His enthusiasm experienced a gradual deadening after 100 failed job applications.",
+            "sentence_zh": "在100次求职失败后，他的热情逐渐减弱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "消音材料",
+        "examples": [
+          {
+            "sentence": "The studio walls were lined with egg-carton shaped deadening to trap echoes.",
+            "sentence_zh": "录音室墙上贴满了鸡蛋盒形状的消音材料来吸收回声。"
+          },
+          {
+            "sentence": "Advanced deadening in luxury cars makes the horn sound like a kitten's meow.",
+            "sentence_zh": "豪华车里的高级消音材料让喇叭声听起来像小猫叫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sound deadening",
+        "meaning": "隔音处理",
+        "examples": [
+          {
+            "sentence": "The sound deadening in this library is so effective that a dropped pin sounds like a feather landing.",
+            "sentence_zh": "图书馆的隔音处理极佳，掉根针听起来像羽毛落地。"
+          }
+        ]
+      }
+    ],
+    "teach": "deadening是'声音入土为安'⚰️！想象KTV包厢的海绵墙🧽（sound deadening）把狼嚎变成猫叫。说'隔音差'可以吐槽它'sounds like a tin can'（像铁罐头），要夸'超安静'就说'library-level hush'（图书馆级静谧）。记住：好的deadening能让广场舞大妈秒变芭蕾演员🩰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歹叮咛'→歹徒叮咛要用消音材料",
+        "对比记忆：dampening(阻尼)是减弱震动，deadening专治声音"
+      ]
+    }
+  },
+  {
+    "word": "deadline",
+    "etymology": {
+      "breakdown": [
+        "dead",
+        "line"
+      ],
+      "meaning_connection": "原指美国内战时期监狱周围的'死亡线'，越线者会被射杀→引申为不可逾越的截止界限"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "最后期限",
+        "examples": [
+          {
+            "sentence": "The professor extended our thesis deadline after the campus WiFi crashed.",
+            "sentence_zh": "校园WiFi崩溃后，教授延长了我们的论文截止期限。"
+          },
+          {
+            "sentence": "Missing the visa application deadline means waiting another semester.",
+            "sentence_zh": "错过签证申请截止日意味着要再等一学期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "截止期限",
+        "examples": [
+          {
+            "sentence": "Double Eleven shopping carts automatically clear at payment deadline.",
+            "sentence_zh": "双十一购物车会在付款截止时限自动清空。"
+          },
+          {
+            "sentence": "We're working against the deadline to fix the bug before launch.",
+            "sentence_zh": "我们正在与截止期限赛跑以修复上线前的漏洞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "meet the deadline",
+        "meaning": "赶上截止日期",
+        "examples": [
+          {
+            "sentence": "The team pulled three all-nighters to meet the game release deadline.",
+            "sentence_zh": "团队连续通宵三天赶上了游戏发布截止日。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tight deadline",
+        "meaning": "紧迫期限",
+        "examples": [
+          {
+            "sentence": "Designing the mascot in two days was a ridiculously tight deadline.",
+            "sentence_zh": "两天设计完吉祥物简直是个离谱的紧迫期限。"
+          }
+        ]
+      }
+    ],
+    "teach": "deadline是字面意义的'死亡线'💀！源自战俘营警戒线（越线者死），现在变成打工人最怕的红线🚧。'赶deadline'叫race against the clock⏰，'错过截止日'说miss the boat⛵。记住：每个deadline都是薛定谔的猫——截止前既完成又没完成🐱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'呆的来'→呆到deadline才来",
+        "易混词对比：due date（温和版截止日）vs deadline（致命版）",
+        "记忆tip：想象DDL是头顶悬着的刀🔪"
+      ]
+    }
   }
 ]

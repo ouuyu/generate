@@ -8804,5 +8804,351 @@
         "易混词对比：doorkeeper（纯物理门卫）vs gatekeeper（有决策权）"
       ]
     }
+  },
+  {
+    "word": "gatepost",
+    "etymology": {
+      "breakdown": [
+        "gate",
+        "post"
+      ],
+      "meaning_connection": "gate=门，post=柱→字面组合即为门柱"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "门柱",
+        "examples": [
+          {
+            "sentence": "The red lanterns hanging on the gatepost swayed in the wind during Spring Festival.",
+            "sentence_zh": "春节期间挂在门柱上的红灯笼在风中摇曳。"
+          },
+          {
+            "sentence": "Grandpa carved our family motto into the stone gatepost.",
+            "sentence_zh": "爷爷把家训刻在了石制门柱上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "between you and me and the gatepost",
+        "meaning": "天知地知你知我知",
+        "examples": [
+          {
+            "sentence": "This secret is just between you and me and the gatepost.",
+            "sentence_zh": "这个秘密只有天知地知你知我知。"
+          }
+        ]
+      }
+    ],
+    "teach": "gatepost是古代朋友圈的'原生态微博墙'🏯！古人常在门柱刻字留言（比如'出入平安'），相当于现在的弹幕📜。要说'门庭若市'可用a thriving gatepost（字面是热闹的门柱），而'冷清'就说deserted as a broken gatepost🕸️。记住：门柱就像家的颜文字，左边柱=(￣▽￣*)右边柱=(*￣▽￣)",
+    "recite": {
+      "tips": [
+        "视觉联想：门柱(gatepost)像两个站岗的emoji卫兵💂♂️💂♂️",
+        "文化梗：'门当户对'里的'门'就是指gatepost的规格"
+      ]
+    }
+  },
+  {
+    "word": "gateway",
+    "etymology": {
+      "breakdown": [
+        "gate",
+        "way"
+      ],
+      "meaning_connection": "复合词，字面意思是'门的路径'，引申为通道或入口"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "门",
+        "examples": [
+          {
+            "sentence": "The vermilion gateway of the Forbidden City attracts millions of tourists.",
+            "sentence_zh": "故宫的朱红色大门吸引着数百万游客。"
+          },
+          {
+            "sentence": "She stood under the school's granite gateway taking selfies.",
+            "sentence_zh": "她站在学校的花岗岩校门下自拍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "通路",
+        "examples": [
+          {
+            "sentence": "The Silk Road was the ancient gateway between East and West.",
+            "sentence_zh": "丝绸之路是连接东西方的古代通道。"
+          },
+          {
+            "sentence": "This alley serves as a gateway to the night market.",
+            "sentence_zh": "这条小巷是通往夜市的通道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gateway to success",
+        "meaning": "成功之门",
+        "examples": [
+          {
+            "sentence": "Gaokao is considered a gateway to success for many Chinese students.",
+            "sentence_zh": "高考被许多中国学生视为成功之门。"
+          }
+        ]
+      }
+    ],
+    "teach": "gateway就像火锅店的九宫格锅🍲——既是入口（physical gate），又是连接不同风味的通道（passageway）！网络梗'网关少女'指总卡在路由器设置页的女生👩💻。搭配'gateway drug'比喻入门级事物（如'奶茶是肥胖的gateway drug'）。说'必经之路'可以用the only gateway in town🚪。记住：每个gateway后面都藏着新世界！",
+    "recite": {
+      "tips": [
+        "谐音梗：'给他喂'→把网关(gateway)想象成需要投喂的数据黑洞",
+        "易混词对比：gateway(实体/抽象通道) vs. portal(神秘入口，常带玄幻色彩)"
+      ]
+    }
+  },
+  {
+    "word": "gather",
+    "etymology": {
+      "breakdown": [
+        "gad",
+        "er"
+      ],
+      "meaning_connection": "古英语gaderian=带来一起，词根gad=走/聚集，-er表反复动作→原指反复收集的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "集合",
+        "examples": [
+          {
+            "sentence": "The annual alumni gather features Peking duck buffet.",
+            "sentence_zh": "年度校友集会提供北京烤鸭自助餐。"
+          },
+          {
+            "sentence": "A sudden gather of delivery bikes blocked the alley.",
+            "sentence_zh": "外卖电动车突然的聚集堵住了小巷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "聚集",
+        "examples": [
+          {
+            "sentence": "The gather of livestreamers at the night market created chaos.",
+            "sentence_zh": "夜市上网红的聚集引发了混乱。"
+          },
+          {
+            "sentence": "We observed a gather of fireflies near the rice fields.",
+            "sentence_zh": "我们在稻田附近观察到萤火虫的聚集。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "聚集",
+        "examples": [
+          {
+            "sentence": "Crowds gather around the AI robot serving bubble tea.",
+            "sentence_zh": "人群聚集在制作奶茶的AI机器人周围。"
+          },
+          {
+            "sentence": "Dust gathers quickly on my gaming console.",
+            "sentence_zh": "灰尘在我的游戏机上快速积聚。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "集合",
+        "examples": [
+          {
+            "sentence": "Protesters gathered at the square with Douyin slogans.",
+            "sentence_zh": "抗议者带着抖音标语在广场集合。"
+          },
+          {
+            "sentence": "The hiking group gathers at 6 AM near the convenience store.",
+            "sentence_zh": "徒步小组清晨6点在便利店旁集合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "渐增",
+        "examples": [
+          {
+            "sentence": "Excitement gathers as the Spring Festival Gala approaches.",
+            "sentence_zh": "随着春晚临近，兴奋感逐渐增加。"
+          },
+          {
+            "sentence": "Dark clouds gathered before the heavy rain in Guangzhou.",
+            "sentence_zh": "广州暴雨前乌云渐浓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使聚集",
+        "examples": [
+          {
+            "sentence": "The concert gathered fans from all over the country.",
+            "sentence_zh": "这场演唱会聚集了全国各地的粉丝。"
+          },
+          {
+            "sentence": "Taobao's discount event gathers millions of shoppers.",
+            "sentence_zh": "淘宝折扣活动使数百万购物者聚集。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "搜集",
+        "examples": [
+          {
+            "sentence": "She gathers WeChat stickers like a digital archaeologist.",
+            "sentence_zh": "她像数字考古学家般搜集微信表情包。"
+          },
+          {
+            "sentence": "The app gathers user data to improve recommendations.",
+            "sentence_zh": "该应用搜集用户数据以改进推荐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "积聚",
+        "examples": [
+          {
+            "sentence": "He gathered enough mileage points for a free flight.",
+            "sentence_zh": "他积聚了足够里程兑换免费机票。"
+          },
+          {
+            "sentence": "The influencer gathered 10 million followers in 3 months.",
+            "sentence_zh": "该网红三个月内积聚了千万粉丝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gather up",
+        "meaning": "收拢",
+        "examples": [
+          {
+            "sentence": "Gather up your mahjong tiles before leaving.",
+            "sentence_zh": "离开前把你的麻将牌收拢好。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gather round",
+        "meaning": "围拢",
+        "examples": [
+          {
+            "sentence": "Children gathered round to see the panda cake.",
+            "sentence_zh": "孩子们围拢过来看熊猫蛋糕。"
+          }
+        ]
+      }
+    ],
+    "teach": "gather就像中国大妈抢购🧧！无论是广场舞集结（gather in the square）还是双11囤货（gather supplies），本质都是'聚'的艺术🎭。说'人群聚集'用flock together更生动，比如'Fans flock together like ducks to Douyin hotspots'（粉丝像鸭子般涌向抖音热点）。记住：从收集红包🧧到积累经验📚，都是gather的魔法！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖着'→盖着(gather)被子聚暖",
+        "易混词：collect强调有目的收集，gather侧重自然聚集"
+      ]
+    }
+  },
+  {
+    "word": "gathered",
+    "etymology": {
+      "breakdown": [
+        "gather",
+        "ed"
+      ],
+      "meaning_connection": "gather源自古英语'gaderian'意为'聚集'，-ed构成过去式/分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "（使）聚集",
+        "examples": [
+          {
+            "sentence": "Hundreds of fireflies gathered in the bamboo forest like floating LEDs.",
+            "sentence_zh": "数百只萤火虫在竹林中聚集，像漂浮的LED灯。"
+          },
+          {
+            "sentence": "She gathered her plush toys for a teddy bear tea party.",
+            "sentence_zh": "她把毛绒玩具聚集起来举办泰迪熊茶话会。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "收集",
+        "examples": [
+          {
+            "sentence": "The AI assistant gathered memes from 20 social platforms.",
+            "sentence_zh": "这个AI助手从20个社交平台收集表情包。"
+          },
+          {
+            "sentence": "Grandma gathered wild mushrooms with 40 years of experience.",
+            "sentence_zh": "奶奶凭着40年经验采集野生蘑菇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "推断",
+        "examples": [
+          {
+            "sentence": "From his WeChat status, I gathered he got promoted.",
+            "sentence_zh": "从他微信状态我推断他升职了。"
+          },
+          {
+            "sentence": "The detective gathered the truth from a dropped earring.",
+            "sentence_zh": "侦探从一只耳坠推断出真相。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gathered from",
+        "meaning": "从...得知",
+        "examples": [
+          {
+            "sentence": "This rumor was gathered from Douyin comments.",
+            "sentence_zh": "这个谣言是从抖音评论区传出的。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gathered around",
+        "meaning": "围绕聚集",
+        "examples": [
+          {
+            "sentence": "Netizens gathered around the viral panda video.",
+            "sentence_zh": "网友们围着爆红的熊猫视频聚集。"
+          }
+        ]
+      }
+    ],
+    "teach": "gathered是社交达人👥！古英语里'gaderian'原指农民收麦子🌾，现在既指大妈抢鸡蛋（gathered in supermarket），也指数据爬虫（gathered information）。说'收集情报'可以用intel gathering（军事术语），'群众吃瓜'叫crowds gathered like melon-eating🦸。记住：gathered既要有物理聚集，也要有脑内推理🧠！",
+    "recite": {
+      "tips": [
+        "谐音梗：'盖热的'→火锅店盖热的(gathered)人群",
+        "易混词：collect强调系统性，gather侧重自然聚集"
+      ]
+    }
   }
 ]

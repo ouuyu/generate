@@ -9267,5 +9267,234 @@
         "记忆法：想象《鬼吹灯》里的精绝古城就是超级necropolis"
       ]
     }
+  },
+  {
+    "word": "necrosis",
+    "etymology": {
+      "breakdown": [
+        "necro",
+        "sis"
+      ],
+      "meaning_connection": "词根necro=死亡，后缀-sis=病理状态→细胞或组织死亡的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "坏死",
+        "examples": [
+          {
+            "sentence": "The plant showed signs of necrosis after being exposed to extreme cold.",
+            "sentence_zh": "植物在极端寒冷后出现坏死迹象。"
+          },
+          {
+            "sentence": "Gangrene is a type of necrosis that turns tissue black.",
+            "sentence_zh": "坏疽是一种使组织变黑的坏死类型。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "枯斑",
+        "examples": [
+          {
+            "sentence": "The rose leaves developed necrosis spots due to fungal infection.",
+            "sentence_zh": "玫瑰叶片因真菌感染出现枯斑。"
+          },
+          {
+            "sentence": "Banana necrosis appears as brown patches on the peel.",
+            "sentence_zh": "香蕉枯斑表现为表皮上的褐色斑块。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "coagulative necrosis",
+        "meaning": "凝固性坏死",
+        "examples": [
+          {
+            "sentence": "Heart attacks often cause coagulative necrosis in myocardial tissue.",
+            "sentence_zh": "心脏病发作常导致心肌组织凝固性坏死。"
+          }
+        ]
+      }
+    ],
+    "teach": "necrosis是细胞的'僵尸化'🧟！就像《植物大战僵尸》里被啃食的植物🌿，当细胞遭遇缺血/毒素就会'死而不僵'（枯斑就像植物叶片上的僵尸牙印☠️）。搭配：1) Avascular necrosis 股骨头坏死 2) Necrotic tissue 坏死组织。说'彻底完蛋'可以用：deader than necrotic tissue（比坏死组织还凉）💀🧪🔬",
+    "recite": {
+      "tips": [
+        "谐音梗：'捏克罗西斯'→捏住坏死组织",
+        "易混词对比：apoptosis（程序性死亡）vs necrosis（意外死亡）",
+        "记忆tip：想象细胞戴着'NE-CRO-SIS'三个墓碑的死亡金属项链"
+      ]
+    }
+  },
+  {
+    "word": "necrotic",
+    "etymology": {
+      "breakdown": [
+        "necro",
+        "tic"
+      ],
+      "meaning_connection": "词根necro=死亡，后缀-tic表示性质→像植物大战僵尸里被吃掉的脑子🧠"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "坏死的",
+        "examples": [
+          {
+            "sentence": "The necrotic pumpkin was removed from Halloween decorations.",
+            "sentence_zh": "万圣节装饰中腐烂的南瓜被移除了。"
+          },
+          {
+            "sentence": "After 3 days in the fridge, the durian flesh turned necrotic.",
+            "sentence_zh": "冰箱存放三天后，榴莲果肉坏死变质了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "枯斑的",
+        "examples": [
+          {
+            "sentence": "Necrotic spots on rose petals look like coffee stains.",
+            "sentence_zh": "玫瑰花瓣上的枯斑像咖啡渍。"
+          },
+          {
+            "sentence": "My cactus got necrotic patches from overwatering.",
+            "sentence_zh": "我的仙人掌因浇水过多出现枯斑。"
+          }
+        ]
+      }
+    ],
+    "teach": "necrotic是'死透透'💀的科学说法！就像《植物大战僵尸》里被啃剩的植物残骸🌱→游戏里叫'墓碑模式'，医学叫necrosis。说'彻底凉凉'可以戏称total necrosis，'发霉水果'用necrotic fruit比说rotten更专业🔬。记住：看到-necro-词根就像看到骷髅标志☠️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶磕肉疼'→坏死(necrotic)组织让人肉疼",
+        "易混词对比：rotten（日常腐烂） vs necrotic（专业坏死）",
+        "联想：NEC手机品牌+robot→像坏死的机器人"
+      ]
+    }
+  },
+  {
+    "word": "nectar",
+    "etymology": {
+      "breakdown": [
+        "nectar"
+      ],
+      "meaning_connection": "源自希腊语néktar，指希腊神话中赋予神永生力量的饮料。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "神酒",
+        "examples": [
+          {
+            "sentence": "According to mythology, only the gods can drink nectar.",
+            "sentence_zh": "神话中只有神明才能饮用神酒。"
+          },
+          {
+            "sentence": "The golden goblet was said to contain the nectar of Olympus.",
+            "sentence_zh": "传说那个金杯盛着奥林匹斯的神酒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "甜美饮料",
+        "examples": [
+          {
+            "sentence": "The tropical cocktail was like nectar to my thirsty throat.",
+            "sentence_zh": "那杯热带鸡尾酒对我干渴的喉咙来说如同琼浆玉液。"
+          },
+          {
+            "sentence": "After the marathon, the sports drink tasted like nectar.",
+            "sentence_zh": "跑完马拉松后，运动饮料喝起来甘之如饴。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "甘露",
+        "examples": [
+          {
+            "sentence": "The morning dew was considered nectar by ancient poets.",
+            "sentence_zh": "古人将晨露视作天降甘露。"
+          },
+          {
+            "sentence": "Bees collect nectar from flowers like tiny golden harvesters.",
+            "sentence_zh": "蜜蜂采花蜜如同微型的金色收割者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nectar of the gods",
+        "meaning": "神之饮品",
+        "examples": [
+          {
+            "sentence": "This premium pu'er tea is the nectar of the gods.",
+            "sentence_zh": "这款顶级普洱茶堪称神之饮品。"
+          }
+        ]
+      }
+    ],
+    "teach": "nectar其实是神仙版快乐水🥤！希腊众神靠它续命（宙斯可能每天吨吨吨三杯），现在说某个饮料是nectar相当于中文'YYDS'💫。搭配推荐：1）nectar-sweet形容甜到犯规 2）drink the nectar of life指享受人生。吐槽难喝饮料可以说'This is anything but nectar!'（这玩意儿也配叫甘露？）🤢",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶可特'→奶茶特调版神仙奶盖",
+        "易混词：ambrosia（特指神食，常和nectar成对出现）",
+        "记忆法：NECTAR=Nature's Elixir Collected Through Aromatic Roses"
+      ]
+    }
+  },
+  {
+    "word": "nectarine",
+    "etymology": {
+      "breakdown": [
+        "nectar",
+        "ine"
+      ],
+      "meaning_connection": "词根nectar=希腊神话中的神酒（引申为甘美之物），后缀-ine表属性→如神酒般甜美的果实"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "蜜桃",
+        "examples": [
+          {
+            "sentence": "The vendor shouted 'nectarines sweeter than first love!' at the market.",
+            "sentence_zh": "商贩在集市吆喝'比初恋还甜的蜜桃！'"
+          },
+          {
+            "sentence": "Her cheeks turned pink like sun-kissed nectarines.",
+            "sentence_zh": "她的脸颊泛红像晒过太阳的蜜桃。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nectarine orchard",
+        "meaning": "蜜桃园",
+        "examples": [
+          {
+            "sentence": "Wuxi's nectarine orchards attract bloggers every summer.",
+            "sentence_zh": "无锡的蜜桃园每年夏天吸引大量博主打卡。"
+          }
+        ]
+      }
+    ],
+    "teach": "nectarine其实是'神仙快乐果'🍑！希腊神话中nectar是众神饮用的长生酒（类似我们的蟠桃宴🍷），后来英国人把表面光滑的桃子叫nectarine。要说'甜过初恋'可以说sweeter than a nectarine，'桃色新闻'叫juicy gossip就像爆汁的蜜桃💦。记住：吃nectarine时你在品尝神的饮料！",
+    "recite": {
+      "tips": [
+        "谐音梗：'捏颗桃润'→捏颗蜜桃润喉",
+        "易混词对比：peach（毛桃）vs nectarine（油桃）"
+      ]
+    }
   }
 ]

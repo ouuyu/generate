@@ -9228,5 +9228,186 @@
         "对比记忆：abuse（动词）是abusive的源头，就像'骂人'和'骂人的'关系"
       ]
     }
+  },
+  {
+    "word": "abut",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "but"
+      ],
+      "meaning_connection": "前缀a-表示'朝向/接近'，古英语but意为'外部'→指物体边缘相互靠近的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "邻接",
+        "examples": [
+          {
+            "sentence": "The teahouse abuts the ancient city wall in Xi'an, forming a perfect photo spot.",
+            "sentence_zh": "这家茶馆邻接西安古城墙，构成了绝佳的拍照点。"
+          },
+          {
+            "sentence": "Our vegetable garden abuts the neighbor's koi pond, creating accidental salad ingredients.",
+            "sentence_zh": "我们的菜园邻接邻居的锦鲤池，意外获得了免费沙拉食材。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "毗邻",
+        "examples": [
+          {
+            "sentence": "The new metro line will abut the Forbidden City's east wall.",
+            "sentence_zh": "新地铁线将毗邻故宫东墙。"
+          },
+          {
+            "sentence": "Their balcony abuts ours, making midnight snack exchanges dangerously convenient.",
+            "sentence_zh": "他家阳台毗邻我家，让夜宵投喂变得危险地便利。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abut against",
+        "meaning": "紧靠",
+        "examples": [
+          {
+            "sentence": "The bookshelf abuts against the bed, perfect for midnight reading marathons.",
+            "sentence_zh": "书架紧靠床边，非常适合深夜阅读马拉松。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "abut on",
+        "meaning": "毗连",
+        "examples": [
+          {
+            "sentence": "Our hotpot restaurant abuts on the Sichuan Opera theater - spicy culture collision!",
+            "sentence_zh": "我们的火锅店毗连川剧院，上演麻辣文化碰撞！"
+          }
+        ]
+      }
+    ],
+    "teach": "abut是'贴贴式建筑学'🏗️：就像两栋楼共用一堵墙（party wall），或者重庆轻轨穿楼而过🚝。说'紧挨着'可以用cheek by jowl（脸颊贴下巴），形容'完美衔接'说snug as a bug in a rug🐛。记住：当两个abutter（毗邻业主）吵架时，比谁家的wifi信号更强！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊不疼'→啊不疼(abut)因为贴着膏药",
+        "易混词：adjacent强调相邻但不接触，abut必须物理接触",
+        "视觉记忆：想象AB字母背靠背站立"
+      ]
+    }
+  },
+  {
+    "word": "abutment",
+    "etymology": {
+      "breakdown": [
+        "abut",
+        "ment"
+      ],
+      "meaning_connection": "前缀a-表示'朝向'，词根but表示'末端'，-ment为名词后缀→原指'使末端相接'，引申出连接部位的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "邻接",
+        "examples": [
+          {
+            "sentence": "The ancient city wall's abutment with the modern shopping mall creates a surreal view.",
+            "sentence_zh": "古城墙与现代化商场的邻接处形成了超现实的景观。"
+          },
+          {
+            "sentence": "Check the abutment between your Lego pieces before pressing them together.",
+            "sentence_zh": "拼接乐高积木前要先检查邻接处是否对齐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "桥台",
+        "examples": [
+          {
+            "sentence": "The rainbow-colored abutments of the new bridge have become Instagram hotspots.",
+            "sentence_zh": "新桥的彩虹色桥台已成为ins打卡点。"
+          },
+          {
+            "sentence": "Stone lions guard the abutments of Marco Polo Bridge like ancient emojis.",
+            "sentence_zh": "卢沟桥的桥台石狮像古代表情包般镇守两岸。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "abutment pressure",
+        "meaning": "桥台压力",
+        "examples": [
+          {
+            "sentence": "The abutment pressure calculation is as precise as making xiaolongbao pleats.",
+            "sentence_zh": "桥台压力计算要像捏小笼包褶子般精准。"
+          }
+        ]
+      }
+    ],
+    "teach": "abutment是建筑界的'鸳鸯锅'🍲：一边连着桥梁（桥台），一边接着河岸（邻接）。赵州桥的'abutment'藏着古人智慧💡，说'严丝合缝'可以用fit together like abutments。记住：好的abutment就像奶茶和珍珠的关系🧋——连接得恰到好处！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊不疼'→桥台(abutment)坚固得撞上去啊不疼",
+        "易混词对比：adjoin（相邻）侧重状态，abutment强调连接部位"
+      ]
+    }
+  },
+  {
+    "word": "abysmal",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "bysm",
+        "al"
+      ],
+      "meaning_connection": "前缀a-表示'无'，词根bysm来自希腊语'abyssos'(深渊)，-al为形容词后缀→字面意思是'无底的深渊'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "深不可测的",
+        "examples": [
+          {
+            "sentence": "The abysmal depth of Marianas Trench could swallow Mount Everest.",
+            "sentence_zh": "马里亚纳海沟的深度足以吞没珠穆朗玛峰。"
+          },
+          {
+            "sentence": "Her knowledge of Peking Opera is truly abysmal.",
+            "sentence_zh": "她对京剧的了解深不可测。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "极差的",
+        "examples": [
+          {
+            "sentence": "The restaurant got abysmal reviews for serving instant noodles as ramen.",
+            "sentence_zh": "这家餐厅因用泡面冒充拉面而获得极差评价。"
+          },
+          {
+            "sentence": "His abysmal performance in the game made fans cry.",
+            "sentence_zh": "他在比赛中的糟糕表现让粉丝落泪。"
+          }
+        ]
+      }
+    ],
+    "teach": "abysmal是深渊级形容词🌊！它本是地理术语（如马里亚纳海沟），现在常用来吐槽：说'演技差'是abysmal acting（深渊级演技）🤢，'服务烂'叫abysmal service（像掉进无底洞找不到服务员）🕳️。记住：当你说'I feel abysmal'，等于在说'我丧到地心'💔",
+    "recite": {
+      "tips": [
+        "谐音梗：'额不是魔'→深渊里'额不是魔鬼'也吓得哆嗦",
+        "易混词：abysmal(极差) vs. awesome(极好) → 就像海底与山峰",
+        "联想：abyss(深渊)+mal(坏)→坏到无底"
+      ]
+    }
   }
 ]

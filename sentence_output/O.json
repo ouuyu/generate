@@ -9009,5 +9009,344 @@
         "记忆法：OC=欧式橱柜，CUPY=茶杯→橱柜里的茶杯'占据'了所有空间"
       ]
     }
+  },
+  {
+    "word": "occupying",
+    "etymology": {
+      "breakdown": [
+        "oc",
+        "cup",
+        "y",
+        "ing"
+      ],
+      "meaning_connection": "前缀oc-表示'朝向'，词根cup表示'拿取'，-ing表进行时→原指持续持有某物，引申出多种占领和使用场景"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "军事占领",
+        "examples": [
+          {
+            "sentence": "The meme of cats occupying keyboards perfectly illustrates this verb.",
+            "sentence_zh": "猫咪占领键盘的表情包完美诠释这个动词。"
+          },
+          {
+            "sentence": "Historical photos show troops occupying railway stations in 1945.",
+            "sentence_zh": "历史照片显示1945年军队占领火车站的情形。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "占用空间",
+        "examples": [
+          {
+            "sentence": "A giant panda plush is occupying half my bed.",
+            "sentence_zh": "巨型熊猫玩偶占据了我半张床。"
+          },
+          {
+            "sentence": "The new shopping mall occupies an area equal to 20 soccer fields.",
+            "sentence_zh": "新商场占地面积相当于20个足球场。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使忙碌",
+        "examples": [
+          {
+            "sentence": "TikTok is occupying too much of teenagers' time lately.",
+            "sentence_zh": "近期抖音占据了青少年过多时间。"
+          },
+          {
+            "sentence": "The project occupied her throughout the Spring Festival holiday.",
+            "sentence_zh": "这个项目占用了她整个春节假期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "担任职务",
+        "examples": [
+          {
+            "sentence": "The professor occupying the dean position used to sell baozi.",
+            "sentence_zh": "担任院长的教授曾经卖过包子。"
+          },
+          {
+            "sentence": "He's been occupying the CEO seat for 15 years like a koala clinging to a tree.",
+            "sentence_zh": "他像考拉抱树一样占据CEO位置已达15年。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "occupy oneself with",
+        "meaning": "忙于某事",
+        "examples": [
+          {
+            "sentence": "Grandma occupies herself with square dancing and raising orchids.",
+            "sentence_zh": "奶奶忙于跳广场舞和养兰花。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "occupied territory",
+        "meaning": "被占领土",
+        "examples": [
+          {
+            "sentence": "Pigeons treat my balcony as their occupied territory.",
+            "sentence_zh": "鸽子们把我的阳台当作它们的被占领土。"
+          }
+        ]
+      }
+    ],
+    "teach": "occupying就像贪吃蛇游戏🐍：1)军事占领像俄罗斯方块堆满屏幕🎮；2)火锅店排队时你的包在占座🎒；3)打王者荣耀占据你所有碎片时间📱；4)当课代表就像在老师心里'占坑'🧑‍🏫。搭配说'fully occupy attention'（完全占据注意力），地道表达用'My brain is fully occupied'形容忙到冒烟💨。记住：物理空间+抽象精力+职位都能occupy！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦！Q派'→哦！Q派(occupy)来占领地盘了",
+        "易混词：occupation（职业/占领）是名词形式",
+        "记忆tip：想象老板椅上的猫，同时'占领'和'担任'CEO"
+      ]
+    }
+  },
+  {
+    "word": "occur",
+    "etymology": {
+      "breakdown": [
+        "oc",
+        "cur"
+      ],
+      "meaning_connection": "前缀oc-表示'朝向'，词根cur表示'跑'→原指事件跑到眼前，引申为'发生'与'浮现脑海'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "发生",
+        "examples": [
+          {
+            "sentence": "The idea of bubble tea first occurred in Taiwan in the 1980s.",
+            "sentence_zh": "珍珠奶茶的概念最早于1980年代发生在台湾。"
+          },
+          {
+            "sentence": "Accidents often occur when cyclists check WeChat while riding.",
+            "sentence_zh": "骑车刷微信时事故常发生。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "被想到",
+        "examples": [
+          {
+            "sentence": "It suddenly occurred to me that I forgot to redeem my Double 11 coupons.",
+            "sentence_zh": "我突然想到自己忘了兑换双十一优惠券。"
+          },
+          {
+            "sentence": "Did it occur to you to bring a power bank for your phone?",
+            "sentence_zh": "你可曾想到要给手机带充电宝？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "存在",
+        "examples": [
+          {
+            "sentence": "This plant occurs naturally only in Yunnan province.",
+            "sentence_zh": "该植物仅天然存在于云南省。"
+          },
+          {
+            "sentence": "Typos occur frequently in live-streaming subtitles.",
+            "sentence_zh": "直播字幕中经常存在错别字。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "occur to sb",
+        "meaning": "某人突然想到",
+        "examples": [
+          {
+            "sentence": "It never occurred to him that hotpot could be delivered.",
+            "sentence_zh": "他从未想到火锅也能外卖。"
+          }
+        ]
+      }
+    ],
+    "teach": "occur就像地鼠机游戏🐭！事件发生(occur)像地鼠突然冒头🎯，灵光乍现(occur to)像地鼠顶出灯泡💡，天然存在(occur)像地鼠藏在洞里🕳️。记住搭配：'It occurs to me that...'比'I think...'更地道，就像说'我DNA动了'比'我觉得'更网络化🌐",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦嗑'→哦嗑(occur)瓜子时灵感突发",
+        "易混词：happen强调偶然性，occur更正式",
+        "记忆tip：想象Occur先生(🕴️)总是不打招呼就出现"
+      ]
+    }
+  },
+  {
+    "word": "occurrence",
+    "etymology": {
+      "breakdown": [
+        "oc",
+        "cur",
+        "ence"
+      ],
+      "meaning_connection": "前缀oc-表示'朝向'，词根cur表示'跑'，-ence为名词后缀→原指事情跑到眼前的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "发生",
+        "examples": [
+          {
+            "sentence": "The occurrence of solar eclipses can be predicted centuries in advance.",
+            "sentence_zh": "日食的发生可以提前几个世纪预测。"
+          },
+          {
+            "sentence": "Rain is a frequent occurrence during plum rain season.",
+            "sentence_zh": "梅雨季节下雨是频繁发生的现象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "事件",
+        "examples": [
+          {
+            "sentence": "Finding a parking space in Shanghai is a rare occurrence.",
+            "sentence_zh": "在上海找到停车位是罕见事件。"
+          },
+          {
+            "sentence": "The CCTV Spring Festival Gala has become an annual occurrence.",
+            "sentence_zh": "央视春晚已成为年度事件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "出现",
+        "examples": [
+          {
+            "sentence": "The occurrence of pandas in the wild thrilled researchers.",
+            "sentence_zh": "野生大熊猫的出现让研究者兴奋不已。"
+          },
+          {
+            "sentence": "Sudden occurrence of gray hair made her buy black sesame paste.",
+            "sentence_zh": "白发的突然出现让她买了黑芝麻糊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "common occurrence",
+        "meaning": "常见现象",
+        "examples": [
+          {
+            "sentence": "Traffic jams are a common occurrence during holidays.",
+            "sentence_zh": "节假日交通堵塞是常见现象。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "rare occurrence",
+        "meaning": "罕见事件",
+        "examples": [
+          {
+            "sentence": "Seeing a snow leopard is a rare occurrence in nature.",
+            "sentence_zh": "在自然界看到雪豹是罕见事件。"
+          }
+        ]
+      }
+    ],
+    "teach": "occurrence就像盲盒里的隐藏款🎁！词根cur（跑）让它自带动感，比如'跑'来的意外叫事件（traffic occurrence），'跑'来的现象叫出现（occurrence of stars）。搭配说'常见现象'用common occurrence就像说'奶茶店排队'🥤，而rare occurrence就像'中彩票'🎫。记住：所有occurrence都是时间线上跑出来的小精灵🧚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鹅啃人'事件→突然发生的occurrence",
+        "易混词：incident（事故）通常指坏事，occurrence中性",
+        "记忆法：occur（发生）+ rence（名词）= 反复发生的事"
+      ]
+    }
+  },
+  {
+    "word": "occurring",
+    "etymology": {
+      "breakdown": [
+        "oc",
+        "cur",
+        "ing"
+      ],
+      "meaning_connection": "前缀oc-表示'朝向'，词根cur表示'跑'，-ing表名词→'跑向眼前的事物'引申为'发生的事件'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "事件",
+        "examples": [
+          {
+            "sentence": "The viral Douyin challenge became a cultural occurring nationwide.",
+            "sentence_zh": "这个病毒式传播的抖音挑战成为全国性的文化事件。"
+          },
+          {
+            "sentence": "Meteor showers are regular astronomical occurings.",
+            "sentence_zh": "流星雨是规律的天文事件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "事故",
+        "examples": [
+          {
+            "sentence": "The subway door malfunction was an unfortunate occurring during rush hour.",
+            "sentence_zh": "地铁门故障是早高峰期间的不幸事故。"
+          },
+          {
+            "sentence": "Safety protocols exist to prevent workplace occurings.",
+            "sentence_zh": "安全规程的存在是为了预防工作场所事故。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "事变",
+        "examples": [
+          {
+            "sentence": "Historians still debate the significance of the Marco Polo Bridge occurring.",
+            "sentence_zh": "历史学家仍在争论卢沟桥事变的意义。"
+          },
+          {
+            "sentence": "The sudden occurring forced diplomats to work overtime.",
+            "sentence_zh": "突发事变迫使外交官们加班工作。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "natural occurring",
+        "meaning": "自然现象",
+        "examples": [
+          {
+            "sentence": "Aurora borealis is the most spectacular natural occurring.",
+            "sentence_zh": "极光是最壮观的自然现象。"
+          }
+        ]
+      }
+    ],
+    "teach": "occurring就像生命中的盲盒🎁：可能是美团外卖准时送达的小确幸（daily occurring），也可能是手机掉进火锅的悲剧🍲（unfortunate occurring）。记住：'突发状况'叫out of the blue occurring，'历史转折点'叫watershed occurring⏳。三个emoji教你区分：普通事件📅/事故🚨/事变⚔️",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦！咖喱'→哦！咖喱撒了(occurring)是厨房事故",
+        "易混词对比：incident(小事件) vs occurring(更正式)"
+      ]
+    }
   }
 ]

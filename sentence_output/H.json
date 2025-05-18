@@ -8964,5 +8964,220 @@
         "易混词对比：hung（hang过去式） vs hanged（绞刑专用过去式）"
       ]
     }
+  },
+  {
+    "word": "hangover",
+    "etymology": {
+      "breakdown": [
+        "hang",
+        "over"
+      ],
+      "meaning_connection": "字面'悬挂在上面'→指醉酒后持续的不适感，引申为事物残留的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "宿醉",
+        "examples": [
+          {
+            "sentence": "His hangover was so bad he mistook soy sauce for cola.",
+            "sentence_zh": "他宿醉严重到把酱油当可乐喝。"
+          },
+          {
+            "sentence": "The only cure for a baijiu hangover is hotpot and regrets.",
+            "sentence_zh": "白酒宿醉的唯一解药是火锅和忏悔。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "残留物",
+        "examples": [
+          {
+            "sentence": "The sticky hangover of bubble tea on the table annoyed the librarian.",
+            "sentence_zh": "桌上奶茶的黏腻残留惹恼了图书管理员。"
+          },
+          {
+            "sentence": "Archaeologists found the hangover of ancient rice wine in pottery.",
+            "sentence_zh": "考古学家在陶器中发现古代米酒的残留物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "遗物",
+        "examples": [
+          {
+            "sentence": "The Great Wall is the most magnificent hangover from imperial China.",
+            "sentence_zh": "长城是封建时代最壮观的遗物。"
+          },
+          {
+            "sentence": "These porcelain fragments are cultural hangovers from the Song Dynasty.",
+            "sentence_zh": "这些瓷片是宋代的文化遗物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "have a hangover",
+        "meaning": "处于宿醉状态",
+        "examples": [
+          {
+            "sentence": "He tried to code while having a hangover - worst bug ever.",
+            "sentence_zh": "他宿醉时尝试编程——写出了史上最烂的代码。"
+          }
+        ]
+      }
+    ],
+    "teach": "hangover是酒精和时间开的玩笑🤪！宿醉像脑内有支广场舞队💃，残留物像火锅店衣服上的味道🍲，遗物像你前男友留在家的丑袜子🧦。说'醉得不行'用I'm dying of hangover，'历史痕迹'叫historical hangover。记住：好的hangover叫文化遗产，坏的hangover叫黑历史！",
+    "recite": {
+      "tips": [
+        "谐音梗：'还搞我'→宿醉时身体抗议",
+        "易混词对比：hangover（宿醉）vs leftover（剩菜）",
+        "记忆：悬挂(hang)在头顶的阴影(over)"
+      ]
+    }
+  },
+  {
+    "word": "hank",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'hönk'，指悬挂或弯曲成环的物体"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "一束（尤指纱线）",
+        "examples": [
+          {
+            "sentence": "Grandma kept colorful hanks of wool in her knitting basket.",
+            "sentence_zh": "奶奶的编织篮里放着五颜六色的毛线束。"
+          },
+          {
+            "sentence": "The artisan dyed 30 hanks of silk thread for the embroidery.",
+            "sentence_zh": "工匠为刺绣染制了三十束丝线。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一圈（绳索等）",
+        "examples": [
+          {
+            "sentence": "The sailor coiled the rope into neat hanks on the deck.",
+            "sentence_zh": "水手将缆绳在甲板上盘成整齐的圈。"
+          },
+          {
+            "sentence": "We found a hank of Christmas lights tangled beyond repair.",
+            "sentence_zh": "我们发现一圈圣诞灯线缠得无法解开。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用帆眼圈系牢",
+        "examples": [
+          {
+            "sentence": "The crew hanked the sails before the typhoon arrived.",
+            "sentence_zh": "船员在台风来临前用帆眼圈固定好船帆。"
+          },
+          {
+            "sentence": "Learning to properly hank a sail is basic for naval cadets.",
+            "sentence_zh": "学习正确系帆是海军学员的基本功。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hank of hair",
+        "meaning": "一缕头发",
+        "examples": [
+          {
+            "sentence": "The forensic scientist found a hank of blonde hair at the scene.",
+            "sentence_zh": "法医在现场发现一缕金发。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hank over",
+        "meaning": "（航海）绕桩系缆",
+        "examples": [
+          {
+            "sentence": "Hank the mooring line over the bollard!",
+            "sentence_zh": "把系泊缆绳绕在系缆桩上！"
+          }
+        ]
+      }
+    ],
+    "teach": "hank是'拧麻花'专业户🌀！当名词时像毛线团成'一坨'🧶（a hank of yarn），当动词时变成水手打'蝴蝶结'🎀（hank the sail）。英语谚语说'get in a hank'指陷入困境，就像耳机线永远解不开😵。要形容'头发乱糟糟'可以说a hank of messy hair，系鞋带打结叫make a hank knot👟",
+    "recite": {
+      "tips": [
+        "谐音梗：'焊客'→电焊工把电线绕成圈(hank)",
+        "对比记忆：hank（整齐的圈） vs tangle（混乱的缠结）",
+        "联想：H字母形状本身就是个绳圈"
+      ]
+    }
+  },
+  {
+    "word": "hanker",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能源自古斯堪的纳维亚语'hank'（钩子）→像被钩子钩住般渴望"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "渴望",
+        "examples": [
+          {
+            "sentence": "I hanker for the spicy crayfish from Changsha night market.",
+            "sentence_zh": "我渴望吃到长沙夜市的麻辣小龙虾。"
+          },
+          {
+            "sentence": "After watching Kung Fu Panda, the kid hankers to learn martial arts.",
+            "sentence_zh": "看完《功夫熊猫》后，这孩子渴望学武术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "热切希望",
+        "examples": [
+          {
+            "sentence": "She hankers after a promotion like a cat craving tuna.",
+            "sentence_zh": "她热切希望升职就像猫咪渴望金枪鱼。"
+          },
+          {
+            "sentence": "We hanker to see the cherry blossoms in Wuhan this spring.",
+            "sentence_zh": "我们热切希望今年春天能看到武汉的樱花。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hanker after/for",
+        "meaning": "渴望得到",
+        "examples": [
+          {
+            "sentence": "Food bloggers constantly hanker after viral snacks.",
+            "sentence_zh": "美食博主不断渴望得到网红零食。"
+          }
+        ]
+      }
+    ],
+    "teach": "hanker是灵魂级嘴馋😋！这个词自带'钩子'（古语hank），像被火锅香气勾住般渴望🍲。说'特别想要'可以用hankering（名词版的渴望），比如'I have a hankering for stinky tofu'（馋臭豆腐了）。记住：hanker比want更饥渴，就像半夜刷到烧烤直播时的感觉🔥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'很渴'→渴望到喉咙冒烟",
+        "易混词：long for更诗意，hanker更接地气"
+      ]
+    }
   }
 ]
