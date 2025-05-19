@@ -16835,5 +16835,317 @@
         "易混词对比：electric(电力的)/electronic(电子的)"
       ]
     }
+  },
+  {
+    "word": "electronically",
+    "etymology": {
+      "breakdown": [
+        "electron",
+        "ic",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "electron=电子（来自希腊语'琥珀'，因摩擦生电现象），-ic表形容词，-al再转为副词，-ly变副词后缀→与电子相关的运作方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "电子化地",
+        "examples": [
+          {
+            "sentence": "The document was signed electronically using facial recognition.",
+            "sentence_zh": "这份文件通过人脸识别实现了电子化签署。"
+          },
+          {
+            "sentence": "All subway tickets are now paid electronically via QR codes.",
+            "sentence_zh": "所有地铁票现在都通过二维码电子支付。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "通过电子设备",
+        "examples": [
+          {
+            "sentence": "She sent her mom 50 voice messages electronically during quarantine.",
+            "sentence_zh": "隔离期间她用电子设备给妈妈发了50条语音消息。"
+          },
+          {
+            "sentence": "The concert was broadcast electronically to 20 million viewers.",
+            "sentence_zh": "这场音乐会通过电子设备向两千万观众直播。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "communicate electronically",
+        "meaning": "电子通讯",
+        "examples": [
+          {
+            "sentence": "LDR couples often communicate electronically via video calls.",
+            "sentence_zh": "异地恋情侣常通过视频通话进行电子通讯。"
+          }
+        ]
+      }
+    ],
+    "teach": "electronically就像电子宠物机🐣：希腊人发现琥珀(electron)摩擦生电，现在连相亲都电子化💘！说'电子支付'用go electronic，'数字游民'叫digital nomad就是带着笔记本全球办公💻。记住：当生活被electronically包围，连放鸽子都是已读不回✉️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来可搓你可立'→电子设备一来就能立刻搓屏幕操作",
+        "对比记忆：electric（电的）是形容词，electronically才是副词形式"
+      ]
+    }
+  },
+  {
+    "word": "electronics",
+    "etymology": {
+      "breakdown": [
+        "electron",
+        "ics"
+      ],
+      "meaning_connection": "electron来源于希腊语'琥珀'（摩擦生电的古老发现），后缀-ics表示'学科'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电子学",
+        "examples": [
+          {
+            "sentence": "The electronics behind smartphone touchscreens involve quantum mechanics.",
+            "sentence_zh": "智能手机触屏背后的电子学涉及量子力学原理。"
+          },
+          {
+            "sentence": "Her passion for electronics began with taking apart a Nintendo Switch.",
+            "sentence_zh": "她对电子学的热爱始于拆解任天堂Switch。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "consumer electronics",
+        "meaning": "消费电子产品",
+        "examples": [
+          {
+            "sentence": "During Singles' Day, Xiaomi's consumer electronics sell out in minutes.",
+            "sentence_zh": "双十一期间小米消费电子产品几分钟售罄。"
+          },
+          {
+            "sentence": "The CES exhibition showcases cutting-edge consumer electronics every year.",
+            "sentence_zh": "国际消费电子展每年展示最前沿的消费电子产品。"
+          }
+        ]
+      }
+    ],
+    "teach": "electronics本质是'琥珀之力'⚡：古希腊人发现摩擦琥珀(elektron)能吸纸屑，这现象成就了今天的华为5G📶！说'电子设备发烧友'叫tech geek，'电路烧了'说fried circuit就像烧烤架糊了🍖。记住：你的手机比阿波罗登月电脑强百万倍💻🚀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来可拆螺丝'→电子学总要拆东西",
+        "易混词：electric（电的） vs electronic（电子的）"
+      ]
+    }
+  },
+  {
+    "word": "electrophoresis",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "phoresis"
+      ],
+      "meaning_connection": "electro=电，phoresis=携带/运输→带电粒子的迁移运动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电泳",
+        "examples": [
+          {
+            "sentence": "The lab used gel electrophoresis to separate DNA fragments like sorting QQ candies by color.",
+            "sentence_zh": "实验室用凝胶电泳分离DNA片段，就像按颜色分拣QQ糖。"
+          },
+          {
+            "sentence": "Scientists observe protein movement through electrophoresis, just like watching e-scooters race in different lanes.",
+            "sentence_zh": "科学家通过电泳观察蛋白质运动，就像看电动滑板车在不同赛道竞速。"
+          }
+        ]
+      }
+    ],
+    "teach": "电泳其实是微观世界的'电动车大赛'🏍️：带电粒子在电场里飙车（electro+phoresis），跑得快的像外卖小哥冲刺，慢的像堵车时的公交车🚌。做实验常说'跑胶'（run a gel），失败时DNA条带会变成'二维码糊了'🤳。记住：电泳=微观秋名山漂移！",
+    "recite": {
+      "tips": [
+        "视觉联想：想象奶茶里的珍珠在通电后按甜度排队",
+        "易混词对比：electrolysis（电解）是拆分子，electrophoresis是赛跑"
+      ]
+    }
+  },
+  {
+    "word": "electrophysiological",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "physio",
+        "logical"
+      ],
+      "meaning_connection": "electro=电，physio=生理，-logical=学科的→研究生物电活动的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "电生理学的",
+        "examples": [
+          {
+            "sentence": "The electrophysiological study revealed how fireflies control their bioluminescence.",
+            "sentence_zh": "电生理学研究揭示了萤火虫控制发光的机制。"
+          },
+          {
+            "sentence": "Doctors use electrophysiological tests to diagnose nerve damage like checking a circuit board.",
+            "sentence_zh": "医生用电生理检测诊断神经损伤，就像检查电路板。"
+          }
+        ]
+      }
+    ],
+    "teach": "这个超长单词其实是'人体皮卡丘'研究🔋！electro-代表闪电侠⚡，physio-是希腊医神招牌，合起来就是研究生物电的学科。比如心电图就是electrophysiological技术，而'神经传导'专业说法是action potential（动作电位）。搭配：electrophysiological recording（电生理记录）/ electrophysiological disorder（电生理紊乱）💡🧠⚡",
+    "recite": {
+      "tips": [
+        "拆解记忆：electro（电）+physio（生理）+logical（学科）",
+        "联想：皮卡丘的十万伏特就是天然electrophysiological现象"
+      ]
+    }
+  },
+  {
+    "word": "electroplate",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "plate"
+      ],
+      "meaning_connection": "electro=电，plate=金属板→通过电流在金属表面镀层"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "电镀",
+        "examples": [
+          {
+            "sentence": "The factory electroplates copper with gold to make fake jewelry.",
+            "sentence_zh": "这家工厂给铜镀金制作假首饰。"
+          },
+          {
+            "sentence": "My uncle electroplated his old bike to make it look brand new.",
+            "sentence_zh": "我叔叔给旧自行车电镀让它焕然一新。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电镀物品",
+        "examples": [
+          {
+            "sentence": "The electroplate on this spoon is starting to peel off.",
+            "sentence_zh": "这把勺子上的电镀层开始剥落了。"
+          },
+          {
+            "sentence": "Museum curators use special gloves when handling ancient electroplates.",
+            "sentence_zh": "博物馆管理员处理古代电镀文物时会戴专用手套。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "electroplated gold",
+        "meaning": "镀金",
+        "examples": [
+          {
+            "sentence": "Her electroplated gold necklace turned green after swimming.",
+            "sentence_zh": "她的镀金项链游泳后变绿了。"
+          }
+        ]
+      }
+    ],
+    "teach": "electroplate是金属界的'美颜滤镜'📸！工业革命时期镀银餐具让平民假装贵族🍴（electroplated silverware），现代手机镀膜防指纹就像给钢铁侠战衣抛光🤖。实用搭配：'electroplated coating'（电镀涂层）比'镀了个寂寞'强，地道说法'fake it till you make it'（装到成功）完美诠释电镀精神💎",
+    "recite": {
+      "tips": [
+        "谐音梗：'一颗螺丝不累它'→电镀让螺丝不生锈",
+        "易混词对比：galvanize（热镀锌） vs electroplate（电镀）",
+        "联想记忆：电解(electro)+盘子(plate)=给盘子通电镀层"
+      ]
+    }
+  },
+  {
+    "word": "electrostatic",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "static"
+      ],
+      "meaning_connection": "electro表示'电的'，static表示'静止的'→指静止不动的电荷现象"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "静电的",
+        "examples": [
+          {
+            "sentence": "The electrostatic effect makes your hair stand up when rubbing balloons.",
+            "sentence_zh": "摩擦气球时静电效应会让你的头发竖起来。"
+          },
+          {
+            "sentence": "Electstatic cling causes socks to stick together in the dryer.",
+            "sentence_zh": "静电吸附会让袜子烘干时黏在一起。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "静电学的",
+        "examples": [
+          {
+            "sentence": "The electrostatic theory explains why lightning occurs.",
+            "sentence_zh": "静电学理论解释了闪电的成因。"
+          },
+          {
+            "sentence": "Electrostatic experiments with amber date back to ancient Greece.",
+            "sentence_zh": "用琥珀做的静电学实验可追溯至古希腊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "electrostatic discharge",
+        "meaning": "静电释放",
+        "examples": [
+          {
+            "sentence": "Computer technicians wear anti-static wristbands to prevent electrostatic discharge.",
+            "sentence_zh": "电脑技师佩戴防静电手环防止静电释放。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "electrostatic painting",
+        "meaning": "静电喷涂",
+        "examples": [
+          {
+            "sentence": "Tesla's car frames are coated using electrostatic painting technology.",
+            "sentence_zh": "特斯拉车架采用静电喷涂技术上色。"
+          }
+        ]
+      }
+    ],
+    "teach": "electrostatic是'怒发冲冠'的科学说法⚡！古希腊人发现摩擦琥珀(electron词源)能吸纸屑，这是最早记录的静电现象。说'被电到'的地道表达是got zapped（像被外星射线击中👽）。记住：冬天脱毛衣的噼啪声就是electrostatic在唱歌🎤，而你——是个人形皮卡丘！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来客超死呆客'→来客被静电吓得呆住",
+        "对比记忆：electric（流动的电）vs electrostatic（静止的电）",
+        "联想：静电=电子在跳广场舞💃，谁也不愿离开原位"
+      ]
+    }
   }
 ]

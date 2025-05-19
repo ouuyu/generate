@@ -16724,5 +16724,301 @@
         "易混词对比：newfound vs. newly-found（前者更常用）"
       ]
     }
+  },
+  {
+    "word": "newish",
+    "etymology": {
+      "breakdown": [
+        "new",
+        "ish"
+      ],
+      "meaning_connection": "词根new=新的，后缀-ish表'稍带...性质'→介于全新和半旧之间的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "尚新的",
+        "examples": [
+          {
+            "sentence": "His newish iPhone already has three cracks on the screen.",
+            "sentence_zh": "他那部尚新的iPhone屏幕已经有三道裂痕。"
+          },
+          {
+            "sentence": "The restaurant's newish decor still smells like paint.",
+            "sentence_zh": "这家餐厅尚新的装修还散发着油漆味。"
+          }
+        ]
+      }
+    ],
+    "teach": "newish就像刚拆封的薯片袋🥫——还没过期但已经软了！视觉记忆：'牛+鱼'=半新不旧就像超市冷藏柜的'新鲜'三文鱼🐟。搭配'newish graduate'（应届毕业生）和'newish smell'（新物气味）。地道说法：'半新不旧'叫broken-in（如broken-in shoes磨合好的鞋）🆕➡️🔄",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛尾虚'→牛尾巴新鲜度存疑",
+        "易混词：newborn（全新）vs newish（半新）"
+      ]
+    }
+  },
+  {
+    "word": "newly",
+    "etymology": {
+      "breakdown": [
+        "new",
+        "ly"
+      ],
+      "meaning_connection": "new=新的，-ly副词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "重新",
+        "examples": [
+          {
+            "sentence": "The Forbidden City's golden tiles were newly gilded for the 600th anniversary.",
+            "sentence_zh": "故宫的金瓦为600周年纪念重新镀金。"
+          },
+          {
+            "sentence": "After the fire, the noodle shop was newly decorated with bamboo elements.",
+            "sentence_zh": "火灾后，面馆用竹元素重新装修。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "最近",
+        "examples": [
+          {
+            "sentence": "The newly opened hotpot chain uses robot waiters.",
+            "sentence_zh": "最近开业的火锅连锁使用机器人服务员。"
+          },
+          {
+            "sentence": "This WeChat feature was newly added after the Spring Festival update.",
+            "sentence_zh": "这个微信功能是春节更新后最近新增的。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "newly discovered",
+        "meaning": "新发现的",
+        "examples": [
+          {
+            "sentence": "The newly discovered dinosaur species was named 'Malaosaurus' for its love of spicy food.",
+            "sentence_zh": "这个新发现的恐龙品种因嗜辣被命名为'麻辣龙'。"
+          }
+        ]
+      }
+    ],
+    "teach": "newly就像手机系统更新提示📱！'重新'像APP重装♻️（newly installed），'最近'像朋友圈三天可见⏰（newly posted）。说'新婚夫妇'用newlyweds就像刚出炉的小笼包🥟，'新晋富豪'叫newly rich仿佛突然中彩票🎫。记住：带-ly的都很新鲜，像刚拆封的螺蛳粉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛里'→牛肉丸里(newly)加了新配方",
+        "对比记忆：newly强调状态，recently侧重时间"
+      ]
+    }
+  },
+  {
+    "word": "newlywed",
+    "etymology": {
+      "breakdown": [
+        "newly",
+        "wed"
+      ],
+      "meaning_connection": "newly表示'新近地'，wed来自古英语'weddian'=承诺，组合指'刚完成结婚承诺的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "新婚者",
+        "examples": [
+          {
+            "sentence": "The newlywed wore a qipao with phoenix embroidery for the tea ceremony.",
+            "sentence_zh": "这位新婚者穿着凤凰刺绣旗袍参加敬茶仪式。"
+          },
+          {
+            "sentence": "Every newlywed in the village receives a pair of lucky red chopsticks.",
+            "sentence_zh": "村里每位新婚者都会获赠一双吉祥红筷子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "新婚夫妇",
+        "examples": [
+          {
+            "sentence": "The hotel offers Peking duck banquets for Chinese newlyweds.",
+            "sentence_zh": "这家酒店为中式新婚夫妇提供烤鸭宴席。"
+          },
+          {
+            "sentence": "These newlyweds take wedding photos at the Great Wall every season.",
+            "sentence_zh": "这对新婚夫妇每季都在长城拍婚纱照。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "newlywed bliss",
+        "meaning": "新婚甜蜜期",
+        "examples": [
+          {
+            "sentence": "During their newlywed bliss, they ate hotpot together 21 days in a row.",
+            "sentence_zh": "新婚甜蜜期里他们连续21天一起吃火锅。"
+          }
+        ]
+      }
+    ],
+    "teach": "newlywed是'新焊上的'💑：就像刚出锅的小龙虾🦞（newly+wed），还冒着幸福的泡泡。中文说'蜜月期'英语叫honeymoon phase🍯，但吐槽'婚后原形毕露'可以说the magic is gone✨。记住：newlywed的幸福度≈收到的红包厚度🧧！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛里屋的'→牛郎织女刚搬进新房",
+        "易混词对比：newborn（新生儿） vs newlywed（新婚儿）"
+      ]
+    }
+  },
+  {
+    "word": "newness",
+    "etymology": {
+      "breakdown": [
+        "new",
+        "ness"
+      ],
+      "meaning_connection": "形容词new（新的）+名词后缀ness→表示性质或状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "崭新",
+        "examples": [
+          {
+            "sentence": "The newness of the iPhone's titanium frame made tech bloggers drool.",
+            "sentence_zh": "iPhone钛合金边框的崭新质感让科技博主们垂涎三尺。"
+          },
+          {
+            "sentence": "She carefully peeled off the protective film to preserve the newness of her laptop.",
+            "sentence_zh": "她小心翼翼地撕掉保护膜，以保持笔记本的崭新状态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "新奇",
+        "examples": [
+          {
+            "sentence": "The newness of bubble tea in 1990s Taiwan sparked a nationwide craze.",
+            "sentence_zh": "90年代珍珠奶茶在台湾的新奇性引发了全民狂热。"
+          },
+          {
+            "sentence": "Foreign tourists are fascinated by the newness of Peking opera makeup.",
+            "sentence_zh": "外国游客对京剧脸谱的新奇性着迷不已。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "珍奇",
+        "examples": [
+          {
+            "sentence": "The newness of pandas made them diplomatic gifts in ancient China.",
+            "sentence_zh": "熊猫的珍奇性使它们成为古代中国的外交礼物。"
+          },
+          {
+            "sentence": "Museum visitors marvel at the newness of the unearthed terracotta warriors.",
+            "sentence_zh": "博物馆游客对出土兵马俑的珍奇性赞叹不已。"
+          }
+        ]
+      }
+    ],
+    "teach": "newness就像拆盲盒的瞬间🎁！古人用'如获至宝'形容珍奇感（precious newness），现代人说'开箱爽过吸猫'🐱来形容崭新感（fresh newness）。搭配'wear off'表示新奇感消退→'The newness of my AirPods wore off after losing one earbud'😭。记住：newness有效期=奶茶里的冰块🧊→转瞬即逝！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛'ness→像牛魔王拿到新法宝🐮",
+        "对比记忆：novelty强调创新性，newness侧重状态新"
+      ]
+    }
+  },
+  {
+    "word": "news",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自14世纪古英语'niwesse'（新发生的事），由形容词new+名词后缀-ness构成。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "新闻",
+        "examples": [
+          {
+            "sentence": "The news about the panda's pregnancy broke Weibo records.",
+            "sentence_zh": "大熊猫怀孕的新闻打破了微博记录。"
+          },
+          {
+            "sentence": "Douyin's algorithm pushes news based on your noodle preferences.",
+            "sentence_zh": "抖音算法会根据你的面条偏好推送新闻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "消息",
+        "examples": [
+          {
+            "sentence": "Good news! Your mahjong set just got delivered.",
+            "sentence_zh": "好消息！你的麻将套装刚送到。"
+          },
+          {
+            "sentence": "The bad news is we're out of chili oil.",
+            "sentence_zh": "坏消息是我们的辣椒油用完了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "报导",
+        "examples": [
+          {
+            "sentence": "CCTV's news coverage of the Lantern Festival went viral.",
+            "sentence_zh": "央视的元宵节报导视频火爆网络。"
+          },
+          {
+            "sentence": "The local news featured a grandma growing watermelons on her balcony.",
+            "sentence_zh": "当地媒体报导了在阳台种西瓜的老奶奶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "breaking news",
+        "meaning": "突发新闻",
+        "examples": [
+          {
+            "sentence": "Breaking news: A new bubble tea flavor causes hour-long queues.",
+            "sentence_zh": "突发新闻：新奶茶口味引发排队一小时。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "no news is good news",
+        "meaning": "没有消息就是好消息",
+        "examples": [
+          {
+            "sentence": "My mom says no news from my landlord means no rent increase.",
+            "sentence_zh": "我妈说房东没消息就意味着不涨房租。"
+          }
+        ]
+      }
+    ],
+    "teach": "news其实是'N-E-W-S'四大方向📍：North东（故宫新展）、East西（重庆火锅节）、West南（海南免税店）、South北（哈尔滨冰雕）的八卦合集！古代驿站跑死马送news🐎，现在5G刷抖音看news⚡。要说'假新闻'用fake news就像注水猪肉🥩，'热搜新闻'叫viral news像辣条蔓延🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛死'→重磅新闻牛死了（夸张说法）",
+        "易混词：information偏向系统信息，news侧重新鲜事"
+      ]
+    }
   }
 ]

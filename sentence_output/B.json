@@ -16047,5 +16047,317 @@
         "易混词：barista（咖啡师）vs bartender（酒保）→一个醒神一个醉人"
       ]
     }
+  },
+  {
+    "word": "barter",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语barater（欺骗/交易），可能源自原始印欧语词根*bher-（携带）→ 带着物品去交换"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "物物交换",
+        "examples": [
+          {
+            "sentence": "The villagers still use barter to exchange pumpkins for fish.",
+            "sentence_zh": "村民们仍用南瓜换鱼的物物交换方式。"
+          },
+          {
+            "sentence": "Barter was common when WeChat Pay wasn't invented yet.",
+            "sentence_zh": "在微信支付还没发明的年代，物物交换很常见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "交换",
+        "examples": [
+          {
+            "sentence": "She bartered her handmade dumplings for guitar lessons.",
+            "sentence_zh": "她用手工饺子交换吉他课。"
+          },
+          {
+            "sentence": "Gamers often barter virtual items in MMORPGs.",
+            "sentence_zh": "玩家常在网游里交换虚拟道具。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "barter system",
+        "meaning": "物物交换体系",
+        "examples": [
+          {
+            "sentence": "The flea market operates on a barter system - no cash allowed.",
+            "sentence_zh": "这个跳蚤市场实行物物交换体系——禁用现金。"
+          }
+        ]
+      }
+    ],
+    "teach": "barter是人类最古老的「咸鱼APP」📱！原始人用石头换兽皮就像现代人用闲置球鞋换耳机🎧。想用英语说「以物易物」可以说swap meet，而「亏本买卖」叫bad bargain就像用iPhone换到假充电宝⚡。记住：当你barter时，本质是在玩真人版《动物森友会》🦊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'把他'→把他(barter)的东西换过来",
+        "易混词：trade（正规贸易） vs barter（原始交换）"
+      ]
+    }
+  },
+  {
+    "word": "basal",
+    "etymology": {
+      "breakdown": [
+        "bas",
+        "al"
+      ],
+      "meaning_connection": "词根bas=基础（同base），-al表形容词后缀→像建筑物的地基那样根本的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "基础的",
+        "examples": [
+          {
+            "sentence": "The basal principle of Chinese cuisine is 'harmony of five flavors'.",
+            "sentence_zh": "中华料理的基础原则是'五味调和'。"
+          },
+          {
+            "sentence": "Learning radicals is the basal step in mastering Chinese characters.",
+            "sentence_zh": "学习偏旁部首是掌握汉字的基础步骤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "基本的",
+        "examples": [
+          {
+            "sentence": "The basal metabolic rate determines how many hot pots you can eat without gaining weight.",
+            "sentence_zh": "基础代谢率决定你能吃多少顿火锅不发胖。"
+          },
+          {
+            "sentence": "Understanding basal arithmetic is crucial for calculating discount coupons.",
+            "sentence_zh": "掌握基本算术对计算折扣券至关重要。"
+          }
+        ]
+      }
+    ],
+    "teach": "basal其实是'base'的学术版👔！想象你吃火锅时点的'基础套餐'🥘（basal diet），就像生物学里的'基础代谢'⚖️。搭配'basal layer'（基层）和'basal temperature'（基础体温），说'基本功'可以戏称basal skills，就像扎马步是功夫的basal pose🧘。记住：所有高大上的东西都站在basal的肩膀上！",
+    "recite": {
+      "tips": [
+        "谐音梗：'背馕'→背馕(basal)是新疆人的基础主食",
+        "易混词对比：basic（日常基础）vs basal（学术/生物基础）",
+        "记忆tip：把's'想象成地基钢筋"
+      ]
+    }
+  },
+  {
+    "word": "basalt",
+    "etymology": {
+      "breakdown": [
+        "basalt"
+      ],
+      "meaning_connection": "源自拉丁语'basaltes'，指一种来自埃塞俄比亚的坚硬黑色岩石"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "玄武岩",
+        "examples": [
+          {
+            "sentence": "The Great Wall's foundation contains layers of basalt from volcanic eruptions.",
+            "sentence_zh": "长城的地基包含火山喷发形成的玄武岩层。"
+          },
+          {
+            "sentence": "Basalt columns at Zhangye Danxia look like giant organ pipes.",
+            "sentence_zh": "张掖丹霞的玄武岩柱宛如巨型管风琴。"
+          }
+        ]
+      }
+    ],
+    "teach": "玄武岩是地球的巧克力脆皮🍫！这种火山岩覆盖了月球表面70%（难怪嫦娥三号着陆那么稳）。说'坚硬如石'英语是hard as basalt，地质学家调侃玄武岩是'大地的条形码'📊。记住：看到六边形石柱就是basalt在跳广场舞💃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'不撒手'→玄武岩(basalt)坚硬得掰不开",
+        "易混词：granite（花岗岩）更花哨，basalt更低调"
+      ]
+    }
+  },
+  {
+    "word": "basaltic",
+    "etymology": {
+      "breakdown": [
+        "basalt",
+        "ic"
+      ],
+      "meaning_connection": "词根basalt来自拉丁语basaltes（一种硬岩石），-ic表示'与...相关的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "玄武岩的",
+        "examples": [
+          {
+            "sentence": "The basaltic columns at Giant's Causeway look like giant stepping stones.",
+            "sentence_zh": "巨人堤道的玄武岩柱群像是巨人的台阶。"
+          },
+          {
+            "sentence": "This basaltic soil produces excellent tea leaves in Fujian.",
+            "sentence_zh": "福建的这种玄武岩土壤能种出优质茶叶。"
+          }
+        ]
+      }
+    ],
+    "teach": "basaltic是地球的巧克力脆皮🌋！玄武岩(basalt)形成时就像冷却的火锅牛油🍲，而-ic后缀让它变成形容词。说'火山地貌'用basaltic landscape就像描述'重庆火锅底料'🌶️。记住：看到六边形石柱就是basaltic的签名！",
+    "recite": {
+      "tips": [
+        "视觉联想法：basalt+ic= '巴西踢'→巴西球员在玄武岩上踢球⚽",
+        "易混词对比：granitic（花岗岩的）vs basaltic（玄武岩的）"
+      ]
+    }
+  },
+  {
+    "word": "base",
+    "etymology": {
+      "breakdown": [
+        "bas",
+        "e"
+      ],
+      "meaning_connection": "词根bas=低处/基础，-e为词尾。从'底部'衍生出军事'基地'和棒球'垒'等含义，负面含义来自'低劣'的本义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "底部",
+        "examples": [
+          {
+            "sentence": "The base of this bronze ding is inscribed with ancient characters.",
+            "sentence_zh": "这件青铜鼎的底部铸有古文字。"
+          },
+          {
+            "sentence": "Melted ice cream pooled at the base of the cone.",
+            "sentence_zh": "融化的冰淇淋堆积在甜筒底部。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "垒",
+        "examples": [
+          {
+            "sentence": "The runner slid into second base amid a cloud of dust.",
+            "sentence_zh": "跑垒员在一阵尘土中滑上二垒。"
+          },
+          {
+            "sentence": "Chinese baseball teams often use panda motifs on their base bags.",
+            "sentence_zh": "中国棒球队常在垒包上使用熊猫图案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "基础",
+        "examples": [
+          {
+            "sentence": "The Great Wall was built on a base of compacted earth.",
+            "sentence_zh": "长城建立在夯实的土层基础上。"
+          },
+          {
+            "sentence": "Mao Zedong Thought is the theoretical base of Chinese socialism.",
+            "sentence_zh": "毛泽东思想是中国社会主义的理论基础。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "基地",
+        "examples": [
+          {
+            "sentence": "The moon base in sci-fi movies always has a Beijing roast duck restaurant.",
+            "sentence_zh": "科幻片里的月球基地总会有北京烤鸭店。"
+          },
+          {
+            "sentence": "China's Antarctic research base uses solar panels shaped like lotus leaves.",
+            "sentence_zh": "中国南极科考站采用荷叶造型的太阳能板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "以...作基础",
+        "examples": [
+          {
+            "sentence": "This AI system is based on ancient Chinese medical texts.",
+            "sentence_zh": "这个AI系统以中医典籍为基础。"
+          },
+          {
+            "sentence": "The spicy hotpot recipe is based on Chongqing traditions.",
+            "sentence_zh": "这款麻辣火锅配方以重庆传统做法为基础。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "卑鄙的",
+        "examples": [
+          {
+            "sentence": "Stealing mooncakes from children is a base act.",
+            "sentence_zh": "偷小孩子的月饼是卑鄙行为。"
+          },
+          {
+            "sentence": "The villain in the drama had an overly base smile.",
+            "sentence_zh": "剧中反派的笑容过于猥琐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "低劣的",
+        "examples": [
+          {
+            "sentence": "Counterfeit baijiu often has a base aftertaste.",
+            "sentence_zh": "假白酒常有劣质余味。"
+          },
+          {
+            "sentence": "The knockoff sneakers used base materials that dissolved in rain.",
+            "sentence_zh": "山寨运动鞋用的劣质材料遇雨就化。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "base on",
+        "meaning": "基于",
+        "examples": [
+          {
+            "sentence": "The AI's dialect recognition is based on thousands of Sichuan opera recordings.",
+            "sentence_zh": "该AI的方言识别基于数千段川剧录音。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "off base",
+        "meaning": "大错特错",
+        "examples": [
+          {
+            "sentence": "Saying Peking duck is just roasted chicken is totally off base.",
+            "sentence_zh": "说北京烤鸭只是烧鸡简直大错特错。"
+          }
+        ]
+      }
+    ],
+    "teach": "base就像火锅的鸳鸯锅🍲——清汤代表'基础'，红汤象征'卑鄙'！军事基地像海底捞分店🏢，棒球垒包像撒了辣椒面的糯米糍🧂。说人'low'可以吐槽'your taste is so base'（你品味真low），'打基础'叫lay the base就像和面准备包饺子🥟。记住：base上能建高楼，下能踩小人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'贝斯手'→乐队base（基础）是贝斯",
+        "易混词对比：basis(抽象基础) vs base(实体基础)",
+        "记忆口诀：Base四兄弟——底垒基痞"
+      ]
+    }
   }
 ]

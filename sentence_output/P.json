@@ -16522,5 +16522,328 @@
         "易混词：parley（正式谈判）vs. chat（闲聊）"
       ]
     }
+  },
+  {
+    "word": "parliament",
+    "etymology": {
+      "breakdown": [
+        "parle",
+        "ment"
+      ],
+      "meaning_connection": "源自法语'parlement'（谈话），词根parle=说话，-ment表机构→'谈话的场所'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "国会",
+        "examples": [
+          {
+            "sentence": "The British Parliament has debated the tea tax for 300 years.",
+            "sentence_zh": "英国国会辩论茶叶税已经持续了300年。"
+          },
+          {
+            "sentence": "The new law was passed by Parliament with a majority vote.",
+            "sentence_zh": "新法律以多数票在国会获得通过。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "议会",
+        "examples": [
+          {
+            "sentence": "The Scottish Parliament building resembles a fleet of ships.",
+            "sentence_zh": "苏格兰议会大厦外形像一支船队。"
+          },
+          {
+            "sentence": "In the animal kingdom, meerkats hold the most chaotic parliament meetings.",
+            "sentence_zh": "在动物界，猫鼬召开的议会会议最为混乱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "member of parliament",
+        "meaning": "国会议员",
+        "examples": [
+          {
+            "sentence": "The MP brought his pet corgi to the parliament building.",
+            "sentence_zh": "这位议员带着他的柯基犬进入议会大厦。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "parliamentary procedure",
+        "meaning": "议会程序",
+        "examples": [
+          {
+            "sentence": "Using parliamentary procedure to decide lunch menus always ends in chaos.",
+            "sentence_zh": "用议会程序决定午餐菜单总会导致混乱。"
+          }
+        ]
+      }
+    ],
+    "teach": "parliament其实是'吵架现场'🗣️！源自法语'parler'(说话)，英国议会真的有'发言石'💎（必须站在上面讲话）。搭配'hung parliament'（悬峙议会）就像火锅店AA制僵局🍲，'dissolve parliament'（解散议会）相当于班级群突然被解散📱。记住：议会就是合法抬杠俱乐部！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕了门特'→看到议会大门就怕",
+        "易混词：congress(美国国会)/diet(日本国会)",
+        "联想记忆：parliament≈parrot(鹦鹉)+talk→像鹦鹉一样不停说话的场所"
+      ]
+    }
+  },
+  {
+    "word": "parliamentarian",
+    "etymology": {
+      "breakdown": [
+        "parliament",
+        "arian"
+      ],
+      "meaning_connection": "parliament源自法语'parlement'（说话的地方），-arian表示'相关的人'→在议会说话的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "议会法规专家",
+        "examples": [
+          {
+            "sentence": "The parliamentarian resolved the filibuster dispute with a 17th-century precedent.",
+            "sentence_zh": "这位议会法规专家用17世纪的先例解决了阻挠议事争议。"
+          },
+          {
+            "sentence": "Like a referee in soccer, the parliamentarian ensures procedural fairness.",
+            "sentence_zh": "就像足球裁判，议会法规专家确保程序公正。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "国会议员",
+        "examples": [
+          {
+            "sentence": "The parliamentarian brought her service dog to the legislative session.",
+            "sentence_zh": "这位国会议员带着她的服务犬参加立法会议。"
+          },
+          {
+            "sentence": "Young parliamentarians are pushing for emoji use in official documents.",
+            "sentence_zh": "年轻议员们正推动在官方文件中使用表情符号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "熟悉议会法规的资深议员",
+        "examples": [
+          {
+            "sentence": "The silver-haired parliamentarian could recite every amendment while blindfolded.",
+            "sentence_zh": "这位白发苍苍的资深议员蒙着眼都能背出每条修正案。"
+          },
+          {
+            "sentence": "New MPs often seek guidance from veteran parliamentarians.",
+            "sentence_zh": "新任议员常向资深议会法规专家寻求指导。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chief parliamentarian",
+        "meaning": "首席议会法规专家",
+        "examples": [
+          {
+            "sentence": "The chief parliamentarian carries a pocket-sized rulebook at all times.",
+            "sentence_zh": "首席议会法规专家随时带着口袋大小的议事规则手册。"
+          }
+        ]
+      }
+    ],
+    "teach": "parliamentarian其实是'人形议事规则百科'📚！英国议会至今保留用红绿灯系统🚦（green/amber/red papers）标记法案优先级。搭配说'seasoned parliamentarian'（老辣议员）就像陈年茅台🍶，'rookie parliamentarian'（菜鸟议员）则像第一次泡茶的功夫茶杯🍵。说'议会老油条'用地道表达是procedural wizard（程序魔法师）🧙♂️",
+    "recite": {
+      "tips": [
+        "拆解记忆：parlia（说话）+ment（地方）+arian（人）→在议会说话的人",
+        "易混词对比：parliament（议会） vs. paramedic（急救员）"
+      ]
+    }
+  },
+  {
+    "word": "parliamentary",
+    "etymology": {
+      "breakdown": [
+        "parliament",
+        "ary"
+      ],
+      "meaning_connection": "词根parliament=议会（来自法语'parler'说话），-ary表'与...相关的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "国会的",
+        "examples": [
+          {
+            "sentence": "The parliamentary committee debated the dumpling tax for 8 hours.",
+            "sentence_zh": "国会委员会就饺子税辩论了8小时。"
+          },
+          {
+            "sentence": "His parliamentary immunity saved him from hotpot bribery charges.",
+            "sentence_zh": "他的国会豁免权使他免于火锅贿赂指控。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "议会的",
+        "examples": [
+          {
+            "sentence": "The parliamentary hearing went viral when a minister quoted TikTok.",
+            "sentence_zh": "当一位部长引用抖音时，议会听证会视频疯传。"
+          },
+          {
+            "sentence": "British parliamentary traditions include shouting 'Hear hear!' like livestream comments.",
+            "sentence_zh": "英国议会传统包括像直播弹幕一样喊'听啊听啊！'"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "议会制度的",
+        "examples": [
+          {
+            "sentence": "Japan's parliamentary system allows anime producers to influence policy.",
+            "sentence_zh": "日本的议会制度允许动漫制作人影响政策。"
+          },
+          {
+            "sentence": "The parliamentary democracy operates like a group chat with strict rules.",
+            "sentence_zh": "议会民主制就像有严格规则的群聊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parliamentary procedure",
+        "meaning": "议会程序",
+        "examples": [
+          {
+            "sentence": "The debate about bubble tea flavors followed strict parliamentary procedure.",
+            "sentence_zh": "关于奶茶口味的辩论遵循严格议会程序。"
+          }
+        ]
+      }
+    ],
+    "teach": "parliamentary本质是'吵架艺术'💢！英国议会源自'parler'(说法语)，真的会扔文件打架📄。'议会质询'叫grill像烧烤🍖，'表决通过'说pass the bill像发红包🧧。记住：所有parliamentary都像班主任开会👔，吵得凶但最后要交作业！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕了门tree'→议员怕了门口的抗议树",
+        "对比：congressional(美国国会) vs parliamentary(英国议会)"
+      ]
+    }
+  },
+  {
+    "word": "parlous",
+    "etymology": {
+      "breakdown": [
+        "parl",
+        "ous"
+      ],
+      "meaning_connection": "源自中古英语'perilous'的缩略，词根parl=危险（同peril），-ous表性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "危险的",
+        "examples": [
+          {
+            "sentence": "Cycling on Chongqing's hills is a parlous adventure.",
+            "sentence_zh": "在重庆的山地骑自行车是危险的冒险。"
+          },
+          {
+            "sentence": "The parlous state of the old bridge made villagers use vines to cross.",
+            "sentence_zh": "旧桥的危险状态让村民不得不靠藤蔓过河。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不易对付的",
+        "examples": [
+          {
+            "sentence": "Dealing with WeChat customer service can be parlous for elders.",
+            "sentence_zh": "对老年人来说应付微信客服很不易对付。"
+          },
+          {
+            "sentence": "The parlous math problem defeated even the teacher.",
+            "sentence_zh": "这道不易对付的数学题连老师都难倒了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "精明的",
+        "examples": [
+          {
+            "sentence": "The parlous merchant could sell ice to pandas.",
+            "sentence_zh": "这个精明的商人能把冰卖给熊猫。"
+          },
+          {
+            "sentence": "Her parlous negotiation skills got us free hotpot for a year.",
+            "sentence_zh": "她精明的谈判技巧为我们争取到一年免费火锅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "麻烦的",
+        "examples": [
+          {
+            "sentence": "Changing train tickets during Spring Festival is parlous.",
+            "sentence_zh": "春运期间改火车票是件麻烦事。"
+          },
+          {
+            "sentence": "It's parlous to teach my grandma to use TikTok filters.",
+            "sentence_zh": "教奶奶用抖音滤镜非常麻烦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "非常地",
+        "examples": [
+          {
+            "sentence": "The AI-generated poem was parlous close to Li Bai's style.",
+            "sentence_zh": "这首AI生成的诗非常接近李白的风格。"
+          },
+          {
+            "sentence": "She's parlous good at mimicking regional accents.",
+            "sentence_zh": "她非常擅长模仿各地方言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "极度地",
+        "examples": [
+          {
+            "sentence": "The durian ice cream tasted parlous awful to him.",
+            "sentence_zh": "榴莲冰淇淋对他来说极度难吃。"
+          },
+          {
+            "sentence": "I'm parlous tired after climbing Huangshan with 100 selfies.",
+            "sentence_zh": "在黄山边爬边拍100张自拍后我极度疲惫。"
+          }
+        ]
+      }
+    ],
+    "teach": "parlous是'危险'和'厉害'的量子叠加态🐱‍👤！它像四川火锅🌶️——既危险（辣到喷火）又精明（懂得用香油降温）。说'极度聪明'可以用parlous clever就像诸葛亮借东风🌪️，形容'麻烦事'就像教爸妈用健康码📱。记住：遇到parlous situation时，请默念'我比孙悟空还parlous'🐒！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕乐死'→危险到让人怕乐死",
+        "对比记忆：perilous（正式危险）vs parlous（带着英式傲娇的危险）"
+      ]
+    }
   }
 ]

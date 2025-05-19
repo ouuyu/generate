@@ -16946,5 +16946,292 @@
         "易混词对比：feasting（狂欢进食）vs fasting（禁食）就像美团和辟谷APP"
       ]
     }
+  },
+  {
+    "word": "feat",
+    "etymology": {
+      "breakdown": [
+        "fat",
+        "e"
+      ],
+      "meaning_connection": "源自拉丁语'factum'（行为），古法语'fait'演变为中古英语'fete'，字母e脱落形成现代拼写"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "壮举",
+        "examples": [
+          {
+            "sentence": "Building the Great Wall was an engineering feat that still amazes tourists today.",
+            "sentence_zh": "建造长城是至今仍令游客惊叹的工程壮举。"
+          },
+          {
+            "sentence": "Eating 50 dumplings in one sitting is considered a feat among college students.",
+            "sentence_zh": "一口气吃掉50个饺子被大学生视为壮举。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "功绩",
+        "examples": [
+          {
+            "sentence": "The general's military feats are recorded in ancient bamboo scrolls.",
+            "sentence_zh": "将军的军事功绩被记载在古老的竹简上。"
+          },
+          {
+            "sentence": "Her scientific feat of discovering this herb earned her a Nobel Prize.",
+            "sentence_zh": "她发现这种药草的科学功绩为她赢得了诺贝尔奖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "技艺表演",
+        "examples": [
+          {
+            "sentence": "The acrobat's balancing feat on the high wire left the audience breathless.",
+            "sentence_zh": "杂技演员在钢丝上的平衡技艺表演让观众屏息凝神。"
+          },
+          {
+            "sentence": "At the night market, vendors demonstrate knife skills feats with watermelon carving.",
+            "sentence_zh": "夜市摊贩用西瓜雕刻展示刀工技艺表演。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "灵巧的",
+        "examples": [
+          {
+            "sentence": "The feat craftsmanship of this cloisonné vase took 3 years to complete.",
+            "sentence_zh": "这个景泰蓝花瓶的灵巧工艺耗时三年完成。"
+          },
+          {
+            "sentence": "Pandas may look clumsy but their feat climbing skills surprise many.",
+            "sentence_zh": "熊猫看似笨拙但它们灵巧的爬树技巧令人惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "合适的",
+        "examples": [
+          {
+            "sentence": "This compact suitcase is feat for short business trips.",
+            "sentence_zh": "这个紧凑的行李箱适合短途出差。"
+          },
+          {
+            "sentence": "The minimalist design is feat for small apartments in megacities.",
+            "sentence_zh": "极简主义设计适合大都市的小公寓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "整洁的",
+        "examples": [
+          {
+            "sentence": "Her feat braided hair stayed perfect even after hiking.",
+            "sentence_zh": "她整洁的辫子即使在徒步后也保持完美。"
+          },
+          {
+            "sentence": "The scholar's feat study with categorized books impressed visitors.",
+            "sentence_zh": "学者整洁的书房分类有序的书籍让访客印象深刻。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "no small feat",
+        "meaning": "了不起的成就",
+        "examples": [
+          {
+            "sentence": "Memorizing 100 Tang poems is no small feat for foreigners.",
+            "sentence_zh": "对外国人来说背诵100首唐诗是了不起的成就。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "feat of strength",
+        "meaning": "力量展示",
+        "examples": [
+          {
+            "sentence": "The strongman's feat of strength included lifting a refrigerator.",
+            "sentence_zh": "大力士的力量展示包括举起一台冰箱。"
+          }
+        ]
+      }
+    ],
+    "teach": "feat这个词像功夫熊猫的招式🐼💪：当名词时是'胸口碎大石'的壮举🎪（acrobatic feats），当形容词时像李小龙的灵巧身段👊（feat movements）。说'了不起'用no small feat就像夸人'能喝十斤白酒'🍶，夸人整洁可以说neat as a new pin（像新别针一样整齐）📌。记住：完成feat的人值得一顿火锅犒劳🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'飞特'→特技演员飞(feat)起来的特技",
+        "易混词：feat vs. feet（脚）→ 壮举(feat)需要双脚(feet)来完成"
+      ]
+    }
+  },
+  {
+    "word": "feather",
+    "etymology": {
+      "breakdown": [
+        "feath",
+        "er"
+      ],
+      "meaning_connection": "古英语'fether'，与飞翔相关，-er为名词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "羽毛",
+        "examples": [
+          {
+            "sentence": "The peacock proudly displayed its iridescent feathers.",
+            "sentence_zh": "孔雀骄傲地展示它彩虹般的羽毛。"
+          },
+          {
+            "sentence": "Ancient Chinese arrows used eagle feathers for stability.",
+            "sentence_zh": "中国古代箭矢用鹰羽保持飞行稳定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "长羽毛",
+        "examples": [
+          {
+            "sentence": "The baby penguins are starting to feather at 3 months old.",
+            "sentence_zh": "小企鹅三个月大时开始长出羽毛。"
+          },
+          {
+            "sentence": "These dinosaur fossils show evidence of feathering.",
+            "sentence_zh": "这些恐龙化石显示出长羽毛的证据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "用羽毛装饰",
+        "examples": [
+          {
+            "sentence": "Miao minority artisans feather silver headdresses with pheasant plumes.",
+            "sentence_zh": "苗族工匠用雉鸡羽毛装饰银头饰。"
+          },
+          {
+            "sentence": "She feathered her graduation cap with colorful quills.",
+            "sentence_zh": "她用彩色羽毛装饰毕业帽。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "feather one's nest",
+        "meaning": "中饱私囊",
+        "examples": [
+          {
+            "sentence": "The corrupt official was caught feathering his nest with public funds.",
+            "sentence_zh": "该贪官被查获用公款中饱私囊。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "a feather in one's cap",
+        "meaning": "值得骄傲的成就",
+        "examples": [
+          {
+            "sentence": "Winning this award is another feather in Huawei's cap.",
+            "sentence_zh": "获得该奖项是华为又一值得骄傲的成就。"
+          }
+        ]
+      }
+    ],
+    "teach": "羽毛(feather)是鸟类的'天然羽绒服'🦅！古人用羽毛笔(quill pen)写字✍️，就像现代人用手机打字。说'轻如鸿毛'是light as a feather，'炫耀'叫ruffle one's feathers（炸毛）。记住：鸟人用feather装饰帽子🧢，贪官用feather装点nest(窝)！",
+    "recite": {
+      "tips": [
+        "谐音梗：'飞热儿'→飞起来很热的羽毛",
+        "易混词：leather（皮革） vs feather（羽毛）",
+        "联想记忆：F+earth+er→来自地球的羽毛"
+      ]
+    }
+  },
+  {
+    "word": "feathered",
+    "etymology": {
+      "breakdown": [
+        "feather",
+        "ed"
+      ],
+      "meaning_connection": "feather（羽毛）+ -ed（形容词后缀）→ 具有羽毛特征的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有羽毛的",
+        "examples": [
+          {
+            "sentence": "The Peking Opera headdress is decorated with feathered pheasant plumes.",
+            "sentence_zh": "京剧头饰上装饰着带羽毛的雉鸡翎。"
+          },
+          {
+            "sentence": "Archaeologists found feathered dinosaur fossils in Liaoning province.",
+            "sentence_zh": "考古学家在辽宁发现了带羽毛的恐龙化石。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "羽状的",
+        "examples": [
+          {
+            "sentence": "The chef carved a feathered radish for the cold dish decoration.",
+            "sentence_zh": "厨师为凉菜雕了朵羽状萝卜花。"
+          },
+          {
+            "sentence": "Her calligraphy shows feathered strokes resembling flying birds.",
+            "sentence_zh": "她的书法笔触如飞鸟般带有羽状效果。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "用羽毛覆盖的",
+        "examples": [
+          {
+            "sentence": "The feathered arrow flew silently through the night.",
+            "sentence_zh": "用羽毛包裹的箭矢在夜色中无声穿行。"
+          },
+          {
+            "sentence": "Ink brushes with feathered handles were imperial tributes.",
+            "sentence_zh": "笔杆裹羽的毛笔曾是皇室贡品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "feathered friend",
+        "meaning": "鸟类朋友",
+        "examples": [
+          {
+            "sentence": "My feathered friend wakes me up at 5am every day.",
+            "sentence_zh": "我的鸟类朋友每天清晨五点准时叫我起床。"
+          }
+        ]
+      }
+    ],
+    "teach": "feathered是鸟类的'羽绒服'🧥！从始祖鸟化石到京剧翎子，羽毛总在人类文明里扑腾🦚。说'轻如鸿毛'英文是light as a feather，而'羽翼丰满'叫fully-fledged（连鸟嘴都画好了🐦）。记住：当看到feathered，不是鸟在飞，就是艺术家在作弊（画羽毛假装会飞）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'发热的'→鸟类穿羽毛外套会发热",
+        "易混词：feathered（有羽毛的） vs. leather（皮革的）→ 鸟毛和牛皮"
+      ]
+    }
   }
 ]

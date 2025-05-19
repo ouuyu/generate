@@ -16670,5 +16670,302 @@
         "易混词：veteran（老兵）vs veterinarian（兽医）→老兵养军犬可能需要后者"
       ]
     }
+  },
+  {
+    "word": "veterinary",
+    "etymology": {
+      "breakdown": [
+        "veterin",
+        "ary"
+      ],
+      "meaning_connection": "词根veterin=牲畜（源自拉丁语veterinae），-ary表相关→最初指治疗牲畜的医术"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "兽医的",
+        "examples": [
+          {
+            "sentence": "The veterinary clinic has special equipment for pandas.",
+            "sentence_zh": "这家兽医诊所有治疗熊猫的专用设备。"
+          },
+          {
+            "sentence": "Douyin's veterinary live streams attract millions of pet lovers.",
+            "sentence_zh": "抖音的兽医直播吸引了数百万宠物爱好者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "兽医",
+        "examples": [
+          {
+            "sentence": "The veterinary saved my cat after it ate a whole durian.",
+            "sentence_zh": "兽医救活了吃下一整颗榴莲的猫咪。"
+          },
+          {
+            "sentence": "Veterinaries in safari parks often treat lions like house cats.",
+            "sentence_zh": "野生动物园的兽医常把狮子当家猫治疗。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "veterinary medicine",
+        "meaning": "兽医学",
+        "examples": [
+          {
+            "sentence": "Chinese veterinary medicine includes acupuncture for horses.",
+            "sentence_zh": "中国兽医学包含针对马匹的针灸疗法。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "veterinary surgeon",
+        "meaning": "兽医外科医生",
+        "examples": [
+          {
+            "sentence": "The veterinary surgeon removed a hairball the size of a tennis ball.",
+            "sentence_zh": "兽医外科医生取出了网球大小的毛球。"
+          }
+        ]
+      }
+    ],
+    "teach": "veterinary其实是'牲畜界的华佗'🐄！古罗马军队用这个词称呼治战马的军医🛡️，现代兽医要会接生小熊猫🐼也要治吃撑的柯基🍗。'宠物医院'叫vet clinic（vet是简写），给猫做绝育说'neuter the cat'比直白说更地道。记住：能同时对付拆家的哈士奇和emo的布偶猫才是真·veterinary！",
+    "recite": {
+      "tips": [
+        "谐音梗：'为它奶瑞'→为宠物奶制品把脉的兽医",
+        "易混词：veteran（老兵）和veterinary（兽医）别搞混，一个拿枪一个拿针管"
+      ]
+    }
+  },
+  {
+    "word": "veto",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "直接源自拉丁语'veto'=我禁止，古罗马护民官有权用此词阻止元老院决议"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "否决权",
+        "examples": [
+          {
+            "sentence": "The permanent members of UN Security Council hold veto power.",
+            "sentence_zh": "联合国安理会常任理事国拥有否决权。"
+          },
+          {
+            "sentence": "My mom has veto over my weekend plans like the US President.",
+            "sentence_zh": "我妈妈对我的周末计划有总统般的否决权。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "否决",
+        "examples": [
+          {
+            "sentence": "The director vetoed the proposal of replacing coffee machines with tea sets.",
+            "sentence_zh": "总监否决了用茶具替换咖啡机的提案。"
+          },
+          {
+            "sentence": "China vetoed the resolution concerning Xinjiang at UN.",
+            "sentence_zh": "中国在联合国否决了涉及新疆的决议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "禁止",
+        "examples": [
+          {
+            "sentence": "The school vetoed students bringing durians to dormitories.",
+            "sentence_zh": "学校禁止学生带榴莲进宿舍。"
+          },
+          {
+            "sentence": "My wallet vetoes me from buying another limited edition sneakers.",
+            "sentence_zh": "我的钱包禁止我再买限量版球鞋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pocket veto",
+        "meaning": "搁置否决（不签署任其过期）",
+        "examples": [
+          {
+            "sentence": "The mayor used pocket veto on the bike-sharing regulation.",
+            "sentence_zh": "市长对共享单车规定使用了搁置否决。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "veto player",
+        "meaning": "具有否决权的参与者",
+        "examples": [
+          {
+            "sentence": "My girlfriend is the ultimate veto player in our travel plans.",
+            "sentence_zh": "我女友是我们旅行计划的终极否决者。"
+          }
+        ]
+      }
+    ],
+    "teach": "veto是权力的红色按钮🔴！源于古罗马护民官大喊'我禁止'🗣️，现在常任理事国一票否决就像灭霸打响指💥。说'行使否决权'叫cast a veto，'被否决'叫get vetoed就像外卖被取消📱。记住：当你妈说'不行'，她就在行使mommy veto权力！👩‍⚖️",
+    "recite": {
+      "tips": [
+        "谐音梗：'未投'→未投赞成票=否决",
+        "易混词：vote（投票）vs veto（否决）",
+        "联想：VE-TO→'喂停'→喝止命令"
+      ]
+    }
+  },
+  {
+    "word": "vetting",
+    "etymology": {
+      "breakdown": [
+        "vet",
+        "ing"
+      ],
+      "meaning_connection": "源自古法语'vet'（检查）+ 现代英语'-ing'（动名词后缀），原指检查马匹牙齿判断年龄，现引申为审查"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "审查",
+        "examples": [
+          {
+            "sentence": "The Weibo celebrity underwent strict vetting before endorsement.",
+            "sentence_zh": "这位微博网红在代言前经历了严格审查。"
+          },
+          {
+            "sentence": "TikTok's content vetting includes AI and manual review.",
+            "sentence_zh": "TikTok的内容审查包含AI和人工审核。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "修正",
+        "examples": [
+          {
+            "sentence": "The contract went through three rounds of vetting.",
+            "sentence_zh": "该合同经过三轮修正。"
+          },
+          {
+            "sentence": "Historical documents need professional vetting before publication.",
+            "sentence_zh": "历史文献出版前需要专业修正。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vetting process",
+        "meaning": "审查流程",
+        "examples": [
+          {
+            "sentence": "Douyin's vetting process can detect 99% of inappropriate content.",
+            "sentence_zh": "抖音的审查流程能识别99%违规内容。"
+          }
+        ]
+      }
+    ],
+    "teach": "vetting就像海关安检仪🛃！起源于兽医(vet)检查马牙判断年龄🐎（所以叫'兽医级检查'）。网络审查叫content vetting就像筛子过滤茶叶渣🍵，说'背景调查'用vetting history比check更专业。记住：当你说'被审查'时，老外会说'I got vetted'就像快递过X光机📦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪听'→内容歪了就要vetting",
+        "易混词对比：audit（审计）侧重财务，vetting侧重资质"
+      ]
+    }
+  },
+  {
+    "word": "vex",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语vexare，意为'摇晃、骚扰'，后引申为'烦扰'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使烦恼",
+        "examples": [
+          {
+            "sentence": "The constant notifications from that app really vex me.",
+            "sentence_zh": "那个应用不断弹出的通知真让我烦恼。"
+          },
+          {
+            "sentence": "It vexes her when people chew gum loudly in the library.",
+            "sentence_zh": "有人在图书馆大声嚼口香糖让她很苦恼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使苦恼",
+        "examples": [
+          {
+            "sentence": "The math problem vexed the students for hours.",
+            "sentence_zh": "这道数学题让学生们苦恼了好几个小时。"
+          },
+          {
+            "sentence": "His mysterious disappearance continues to vex the police.",
+            "sentence_zh": "他的神秘失踪继续让警方感到苦恼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "烦恼",
+        "examples": [
+          {
+            "sentence": "She vexed over the decision all night.",
+            "sentence_zh": "她为这个决定烦恼了一整晚。"
+          },
+          {
+            "sentence": "Don't vex about things you can't change.",
+            "sentence_zh": "不要为无法改变的事情烦恼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vex at",
+        "meaning": "因...而烦恼",
+        "examples": [
+          {
+            "sentence": "He vexed at the slow internet speed.",
+            "sentence_zh": "他因网速慢而烦恼。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vex with",
+        "meaning": "被...困扰",
+        "examples": [
+          {
+            "sentence": "The village was vexed with drought for months.",
+            "sentence_zh": "村庄数月来被干旱困扰。"
+          }
+        ]
+      }
+    ],
+    "teach": "vex就像脑袋里有只嗡嗡叫的蚊子🦟！这个词最初描述'摇晃'的动作，后来演变成'烦扰'别人的意思。当你的室友半夜弹吉他🎸(vex the neighbors)，或当你被一道数学题卡住🧮(vex over a problem)，都是vex在作祟。要说'烦死了'，老外会说'It's driving me nuts!'🌰。记住：vex比annoy程度更深，就像蚊子vs苍蝇的区别！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪克斯'→被歪掉的X光片让人vex",
+        "易混词对比：vex(长期烦恼) vs annoy(短暂不快)",
+        "联想记忆：V+EX→非常(very)极端(extreme)的烦恼"
+      ]
+    }
   }
 ]
