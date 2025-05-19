@@ -16541,5 +16541,332 @@
         "易混词：savvy(实践智慧) vs. understand(普通理解)"
       ]
     }
+  },
+  {
+    "word": "saw",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "作为'锯子'含义源自古英语sagu；作为'看到'过去式来自see的变位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "锯子",
+        "examples": [
+          {
+            "sentence": "The carpenter sharpened his saw before cutting the mahogany.",
+            "sentence_zh": "木匠在切割红木前先磨快了锯子。"
+          },
+          {
+            "sentence": "Electric saws make DIY projects much easier nowadays.",
+            "sentence_zh": "如今电动锯让手工项目变得轻松多了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "谚语",
+        "examples": [
+          {
+            "sentence": "'A stitch in time saves nine' is my grandma's favorite saw.",
+            "sentence_zh": "'小洞不补大洞吃苦'是奶奶最爱的谚语。"
+          },
+          {
+            "sentence": "Ancient Chinese saws about farming are still useful today.",
+            "sentence_zh": "中国古代农谚至今仍有价值。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "锯",
+        "examples": [
+          {
+            "sentence": "He's sawing a giant ice block for the Harbin festival.",
+            "sentence_zh": "他正在为哈尔滨冰雪节锯巨型冰块。"
+          },
+          {
+            "sentence": "The lumberjack sawed the tree trunk into neat sections.",
+            "sentence_zh": "伐木工将树干锯成整齐的段落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "来回移动",
+        "examples": [
+          {
+            "sentence": "The violinist sawed the bow across the strings passionately.",
+            "sentence_zh": "小提琴手激情地来回拉动琴弓。"
+          },
+          {
+            "sentence": "The old fan saws back and forth with a squeaky noise.",
+            "sentence_zh": "旧风扇带着吱呀声来回摆动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "拉锯",
+        "examples": [
+          {
+            "sentence": "Two carpenters were sawing at the construction site all morning.",
+            "sentence_zh": "两个木匠在工地拉锯了整个上午。"
+          },
+          {
+            "sentence": "The rusty saw barely saws through the damp wood.",
+            "sentence_zh": "这把生锈的锯子几乎锯不动潮湿的木头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "移动",
+        "examples": [
+          {
+            "sentence": "The pendulum saws steadily in the antique clock.",
+            "sentence_zh": "古董钟里的钟摆稳定地摆动。"
+          },
+          {
+            "sentence": "His hand saws through the air while explaining.",
+            "sentence_zh": "他讲解时手在空中来回比划。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "irregular_verb",
+        "form": "see-saw-seen",
+        "meaning": "看见（过去式）",
+        "examples": [
+          {
+            "sentence": "I saw your mom dancing in the square yesterday!",
+            "sentence_zh": "我昨天看见你妈妈在广场跳舞！"
+          },
+          {
+            "sentence": "He saw the Great Wall for the first time last summer.",
+            "sentence_zh": "他去年夏天第一次见到了长城。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "saw off",
+        "meaning": "锯断",
+        "examples": [
+          {
+            "sentence": "The thief sawed off the bicycle lock in 10 seconds.",
+            "sentence_zh": "小偷10秒钟就锯断了自行车锁。"
+          }
+        ]
+      }
+    ],
+    "teach": "saw是个精分患者🤪！当名词时既是木匠的好帮手🪚，又是智慧结晶的谚语📜；当动词时既能物理切割（saw wood），又能抽象摆动（saw the air）。最绝的是它还是see的'过去式马甲'👀！记住：'来回移动'像锯木头→拉小提琴🎻，'谚语'就像被锯下来的智慧木屑✂️。说'我看见了'千万别用'I saw it'，小心变成'我锯了它'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骚'→锯子锯木头发出骚骚声",
+        "易混词：see（看见）vs saw（锯子/看见过去式）"
+      ]
+    }
+  },
+  {
+    "word": "sawdust",
+    "etymology": {
+      "breakdown": [
+        "saw",
+        "dust"
+      ],
+      "meaning_connection": "saw=锯子，dust=灰尘→锯木材时产生的粉末状废料"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "锯屑",
+        "examples": [
+          {
+            "sentence": "The carpenter sneezed violently amid floating sawdust.",
+            "sentence_zh": "木匠在飞舞的锯屑中打了个大喷嚏。"
+          },
+          {
+            "sentence": "Hamster cages often use sawdust as bedding material.",
+            "sentence_zh": "仓鼠笼子常用锯屑当垫料。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make sawdust",
+        "meaning": "进行锯木作业",
+        "examples": [
+          {
+            "sentence": "Grandpa's workshop starts making sawdust at 6am every day.",
+            "sentence_zh": "爷爷的木工房每天六点就开始锯木头。"
+          }
+        ]
+      }
+    ],
+    "teach": "sawdust是木头流的'血'🩸！中世纪木匠用锯屑止血⚔️（真事！），现代人用它做烟熏培根🥓。说'忙得团团转'可以调侃I'm up to my elbows in sawdust，而'无用的东西'叫sawdust literature（锯屑文学）🌲。记住：每根IKEA家具都曾有过锯屑形态！",
+    "recite": {
+      "tips": [
+        "视觉记忆：想象电锯惊魂logo变成木屑飘落",
+        "易混词对比：sanddust（沙尘）vs sawdust（木屑）",
+        "文化梗：'锯屑奶茶'是伐木工人黑色幽默"
+      ]
+    }
+  },
+  {
+    "word": "sawing",
+    "etymology": {
+      "breakdown": [
+        "saw",
+        "ing"
+      ],
+      "meaning_connection": "saw（锯子）+ -ing（动名词后缀）→ 使用锯子进行切割的动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "锯切",
+        "examples": [
+          {
+            "sentence": "The rhythmic sawing of timber echoed through the carpenter's workshop.",
+            "sentence_zh": "有节奏的锯木声在木匠的工作间里回荡。"
+          },
+          {
+            "sentence": "Modern sawing techniques can cut through steel like butter.",
+            "sentence_zh": "现代锯切技术可以像切黄油一样锯开钢材。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sawing machine",
+        "meaning": "锯床",
+        "examples": [
+          {
+            "sentence": "This sawing machine can process 100 logs per hour with laser precision.",
+            "sentence_zh": "这台锯床每小时能以激光精度加工100根原木。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "sawing motion",
+        "meaning": "锯切动作",
+        "examples": [
+          {
+            "sentence": "The chef demonstrated the proper sawing motion for carving Peking duck.",
+            "sentence_zh": "厨师展示了片北京烤鸭的标准锯切动作。"
+          }
+        ]
+      }
+    ],
+    "teach": "sawing是人类最古老的'暴力拆快递'方式🔪！石器时代用燧石锯骨器，现在有电锯惊魂级设备⚡。说'费力工作'叫sawing through（像锯厚木头），'轻松完成'是saw like hot knife through butter🍞。记住：生活就像锯木头，一推一拉才前进🔄！",
+    "recite": {
+      "tips": [
+        "谐音梗：'骚音'→锯木头的声音很骚",
+        "易混词：sewing（缝纫）是穿针引线，sawing是刀光剑影",
+        "动作记忆：模仿拉锯动作同时发音"
+      ]
+    }
+  },
+  {
+    "word": "sawmill",
+    "etymology": {
+      "breakdown": [
+        "saw",
+        "mill"
+      ],
+      "meaning_connection": "saw=锯子，mill=工厂→锯木头的工厂"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "锯木厂",
+        "examples": [
+          {
+            "sentence": "The abandoned sawmill now serves as an art exhibition space.",
+            "sentence_zh": "废弃的锯木厂现在成了艺术展览空间。"
+          },
+          {
+            "sentence": "Pine trees from Canada are processed in Oregon sawmills.",
+            "sentence_zh": "加拿大的松树在俄勒冈州的锯木厂加工。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "锯木机",
+        "examples": [
+          {
+            "sentence": "The new laser-guided sawmill increased production by 300%.",
+            "sentence_zh": "新型激光导向锯木机使产量提升300%。"
+          },
+          {
+            "sentence": "He lost two fingers operating the antique sawmill.",
+            "sentence_zh": "他操作老式锯木机时失去了两根手指。"
+          }
+        ]
+      }
+    ],
+    "teach": "sawmill是木头界的理发店💇♂️！19世纪美国用漂流木当免费原料（伐木工梗：Timber!），现代锯木机就像巨型电推剪✂️嗡嗡作响。搭配：①run a sawmill（经营锯木厂）②sawmill dust（锯末）。吐槽'噪音大'说louder than a sawmill（比锯木厂还吵）🌲🪓🚧",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗦味'→锯木厂满是木头味",
+        "易混词对比：windmill（风车）vs sawmill（锯木厂）",
+        "联想：saw（锯）+ mill（磨坊）= 锯木厂"
+      ]
+    }
+  },
+  {
+    "word": "sawn",
+    "etymology": {
+      "breakdown": [
+        "saw",
+        "n"
+      ],
+      "meaning_connection": "saw（锯）的过去分词形式，-n为过去分词常见后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "锯开（过去分词）",
+        "examples": [
+          {
+            "sentence": "The illegally sawn ancient trees were confiscated by the forest police.",
+            "sentence_zh": "被非法锯开的古树被森林公安没收。"
+          },
+          {
+            "sentence": "These planks are sawn from Canadian maple wood.",
+            "sentence_zh": "这些木板是用加拿大枫木锯成的。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sawn-off",
+        "meaning": "截短的（尤指枪管）",
+        "examples": [
+          {
+            "sentence": "The gangster threatened people with a sawn-off shotgun.",
+            "sentence_zh": "歹徒用锯短枪管的猎枪威胁民众。"
+          }
+        ]
+      }
+    ],
+    "teach": "sawn是锯子(saw)的'犯罪记录'🔪！就像光头强的作案现场（熊出没梗），当木头被sawn时总会留下锯齿状证据🪵。'锯短猎枪'叫sawn-off shotgun就像把甘蔗砍成小段🎋。记住：see-saw-sawn就像'看-锯-锯完了'三部曲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'丧'→木头被锯得'丧'心病狂",
+        "易混词对比：seen（see的过去分词）vs sawn"
+      ]
+    }
   }
 ]

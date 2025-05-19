@@ -16757,5 +16757,243 @@
         "联想记忆：AC米兰(AC)球员说话erbic(谐音'恶弊刻')→尖酸刻薄"
       ]
     }
+  },
+  {
+    "word": "acetate",
+    "etymology": {
+      "breakdown": [
+        "acet",
+        "ate"
+      ],
+      "meaning_connection": "词根acet=醋（源自拉丁语acetum），后缀-ate表示化学盐类→'醋的盐'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "醋酸盐",
+        "examples": [
+          {
+            "sentence": "The lab assistant spilled sodium acetate all over the periodic table poster.",
+            "sentence_zh": "实验助手把醋酸钠洒在了元素周期表海报上。"
+          },
+          {
+            "sentence": "Vinegar smell comes from acetic acid reacting with acetate compounds.",
+            "sentence_zh": "醋味来源于乙酸与醋酸盐化合物的反应。"
+          }
+        ]
+      }
+    ],
+    "teach": "acetate是个化学吃货🍽️！词根acet就是'醋'，古罗马人用醋腌鱼时就在制造醋酸盐（就像用老陈醋泡腊八蒜🧄）。现代acetate纤维做的衣服👗连汗水都能变成醋酸味！搭配：cellulose acetate（醋酸纤维素）、acetate film（醋酸胶片）。说'化学渣渣'可以调侃：lab disaster💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱吸甜醋'→醋酸酸盐",
+        "易混词：acid（酸） vs acetate（酸盐）",
+        "记忆法：ACE（扑克A）+TATE（音似'甜'）→王牌调味料"
+      ]
+    }
+  },
+  {
+    "word": "acetic",
+    "etymology": {
+      "breakdown": [
+        "acet",
+        "ic"
+      ],
+      "meaning_connection": "词根acet=醋（源自拉丁语acetum），-ic为形容词后缀→'似醋的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "醋的",
+        "examples": [
+          {
+            "sentence": "The acetic smell of dumpling sauce reminds me of grandma's cooking.",
+            "sentence_zh": "饺子蘸料的醋香让我想起奶奶的手艺。"
+          },
+          {
+            "sentence": "This ancient pickle jar still retains faint acetic notes.",
+            "sentence_zh": "这个古法泡菜坛仍留有淡淡醋香。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "乙酸的",
+        "examples": [
+          {
+            "sentence": "Vinegar contains 4-8% acetic acid by volume.",
+            "sentence_zh": "食用醋含4-8%体积分数的乙酸。"
+          },
+          {
+            "sentence": "The lab uses glacial acetic acid for pH adjustment.",
+            "sentence_zh": "实验室用冰乙酸调节pH值。"
+          }
+        ]
+      }
+    ],
+    "teach": "acet-词根就像流泪的洋葱🧅！古罗马人用acetum指醋（现在意大利语aceto仍如此），乙酸分子式CH₃COOH像醋坛子打翻的符号☢️。说'酸溜溜'可用puckery face（皱脸表情），'醋意大发'是green with envy🍋。记住：acetic既是厨房帮手👨🍳，也是化学武器💣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'A酸踢'→乙酸踢走细菌",
+        "易混词对比：acidic（泛指酸性）vs acetic（特指乙酸/醋相关）"
+      ]
+    }
+  },
+  {
+    "word": "acetone",
+    "etymology": {
+      "breakdown": [
+        "acet",
+        "one"
+      ],
+      "meaning_connection": "词根acet=醋/酸（来自拉丁语acetum），后缀-one表示酮类化合物→最初从醋中提取的酸性酮"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "丙酮",
+        "examples": [
+          {
+            "sentence": "Nail polish remover smells strongly because it contains acetone.",
+            "sentence_zh": "卸甲水气味刺鼻因为含有丙酮。"
+          },
+          {
+            "sentence": "The lab assistant spilled acetone that dissolved a styrofoam cup instantly.",
+            "sentence_zh": "实验室助理打翻丙酮，瞬间溶解了一个泡沫塑料杯。"
+          }
+        ]
+      }
+    ],
+    "teach": "丙酮是化学界的灭霸🧪！它能瞬间溶解塑料就像灭霸打响指💥（acetone vs. polystyrene），但最初居然是从醋里发现的——难怪闻起来像醉了的老陈醋🍶。美甲师说'卸甲水味'叫acetone breath，'强力清洁剂'叫ace cleaner（谐音梗预警）。记住：它就像液态的橡皮擦，擦除一切非金属物体！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱吸痛'→爱吸丙酮手痛（腐蚀性警告）",
+        "易混词：ethanol（乙醇）/acetone（丙酮）就像啤酒🍺vs消毒液🧴"
+      ]
+    }
+  },
+  {
+    "word": "acetylcholine",
+    "etymology": {
+      "breakdown": [
+        "acetyl",
+        "choline"
+      ],
+      "meaning_connection": "acetyl（乙酰基）源自拉丁语'acetum'（醋）+希腊语'hyle'（物质），choline（胆碱）源自希腊语'chole'（胆汁）+化学后缀-ine"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "乙酰胆碱",
+        "examples": [
+          {
+            "sentence": "Acetylcholine acts like a text message between nerve cells.",
+            "sentence_zh": "乙酰胆碱就像神经细胞之间的短信。"
+          },
+          {
+            "sentence": "When acetylcholine levels drop, your brain feels like a lagging smartphone.",
+            "sentence_zh": "当乙酰胆碱水平下降，你的大脑就像卡顿的手机。"
+          }
+        ]
+      }
+    ],
+    "teach": "乙酰胆碱是大脑的'微信消息'💬！这个神经递质名字藏着醋坛子🧂（acetyl来自醋）和胆汁🤢（choline来自胆汁）的混搭史。如果它罢工，记忆力就像被清空的聊天记录🗑️。要说'脑子转不动'可以用brain fog（脑雾），重要如'Alzheimer患者缺乏它'就像手机欠费停机📵。记住：它是你思维的5G信号！",
+    "recite": {
+      "tips": [
+        "拆解记忆：'ace（王牌）'+'tyl（贴了）'+'choline（可灵）'→王牌贴了可灵",
+        "易混词对比：acetylcholine（神经递质） vs. adrenaline（肾上腺素）"
+      ]
+    }
+  },
+  {
+    "word": "acetylene",
+    "etymology": {
+      "breakdown": [
+        "acet",
+        "yl",
+        "ene"
+      ],
+      "meaning_connection": "acet-源自拉丁语'acetum'（醋），-yl表示化学基团，-ene表示烯烃→因其刺鼻气味类似醋酸"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "乙炔",
+        "examples": [
+          {
+            "sentence": "Acetylene torches can cut through steel like hot knife through butter.",
+            "sentence_zh": "乙炔焊枪切割钢材如同热刀切黄油。"
+          },
+          {
+            "sentence": "Miners' helmets used to be lit by acetylene lamps before LED era.",
+            "sentence_zh": "在LED时代之前，矿工头盔常用乙炔灯照明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电石气",
+        "examples": [
+          {
+            "sentence": "The distinct smell of acetylene comes from calcium carbide reaction.",
+            "sentence_zh": "电石气的特殊气味来自碳化钙的化学反应。"
+          },
+          {
+            "sentence": "Street vendors in 1980s China used acetylene for popcorn machines.",
+            "sentence_zh": "上世纪80年代中国街头爆米花机常用电石气。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acetylene welding",
+        "meaning": "乙炔焊接",
+        "examples": [
+          {
+            "sentence": "The bicycle repair master still prefers acetylene welding to modern techniques.",
+            "sentence_zh": "这位修车老师傅仍偏爱乙炔焊接而非现代技术。"
+          }
+        ]
+      }
+    ],
+    "teach": "乙炔是化学界的'臭豆腐'🤢💥：闻着像腐烂大蒜（因含磷化氢），却能产生3000℃高温火焰🔥！工业革命时期戏称'恶魔的呼吸'👹，现在仍是烧烤届隐藏大佬——街边烤红薯桶很多靠它加热🍠。搭配说'acetylene cylinder'（钢瓶）和'oxy-acetylene torch'（氧炔焊枪），吐槽价格贵可以说'costs an arm and a leg'（贵到要卖肾）",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱吸铁力'→乙炔能'吸'附金属进行焊接",
+        "易混词：ethylene（乙烯）/ethane（乙烷）",
+        "记忆法：ACE（扑克A）+TY（踢）+LENE（力呢）→王牌气体踢出力道"
+      ]
+    }
+  },
+  {
+    "word": "ACH",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "首字母缩写词，无词源分析"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "自动化票证交换所",
+        "examples": [
+          {
+            "sentence": "The ACH system processes billions of transactions daily.",
+            "sentence_zh": "ACH系统每日处理数十亿笔交易。"
+          },
+          {
+            "sentence": "Direct deposit through ACH saves companies printing costs.",
+            "sentence_zh": "通过ACH直接存款为公司节省打印成本。"
+          }
+        ]
+      }
+    ],
+    "teach": "ACH其实是金融界的'外卖小哥'🏍️！这个电子快递系统每天运送万亿美金💵，比圣诞老人还忙。企业发工资说'run payroll through ACH'，就像用支付宝转账🧾。下次看到工资到账短信，记得感谢这位隐形快递员！",
+    "recite": {
+      "tips": [
+        "首字母记忆法：Always Carrying Huge-money（永远搬运巨款）"
+      ]
+    }
   }
 ]

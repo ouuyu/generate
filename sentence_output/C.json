@@ -16038,5 +16038,155 @@
         "易混词：windlass（水平轴绞盘）"
       ]
     }
+  },
+  {
+    "word": "capsule",
+    "etymology": {
+      "breakdown": [
+        "caps",
+        "ule"
+      ],
+      "meaning_connection": "词根caps=容器/盒子（同capture的'抓住'），后缀-ule表小→'小容器'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "胶囊",
+        "examples": [
+          {
+            "sentence": "The probiotic capsule smells like yogurt candy.",
+            "sentence_zh": "这个益生菌胶囊闻起来像酸奶糖。"
+          },
+          {
+            "sentence": "Grandpa stores his afternoon tea in empty capsule shells.",
+            "sentence_zh": "爷爷用空胶囊壳装下午茶茶叶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蒴果",
+        "examples": [
+          {
+            "sentence": "Poppies burst their capsules scattering seeds like pepper.",
+            "sentence_zh": "罂粟蒴果裂开时像撒胡椒粉般散播种子。"
+          },
+          {
+            "sentence": "The cotton capsule looks like a fluffy marshmallow.",
+            "sentence_zh": "棉花蒴果像蓬松的棉花糖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "瓶帽",
+        "examples": [
+          {
+            "sentence": "The champagne capsule twisted off with a satisfying pop.",
+            "sentence_zh": "香槟瓶帽砰的一声被拧开。"
+          },
+          {
+            "sentence": "Collectors trade Coca-Cola capsules from the 1980s.",
+            "sentence_zh": "收藏家交易80年代的可口可乐瓶帽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "航天舱",
+        "examples": [
+          {
+            "sentence": "The Shenzhou capsule landed with parachutes like a giant jellyfish.",
+            "sentence_zh": "神舟飞船返回舱带着降落伞像巨型水母般着陆。"
+          },
+          {
+            "sentence": "Astronauts grow lettuce in their space capsule now.",
+            "sentence_zh": "宇航员现在在航天舱里种生菜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "time capsule",
+        "meaning": "时间胶囊",
+        "examples": [
+          {
+            "sentence": "They buried a time capsule containing memes from 2020.",
+            "sentence_zh": "他们埋了个装2020年网络梗的时间胶囊。"
+          }
+        ]
+      }
+    ],
+    "teach": "capsule是宇宙级多面手🚀！当药丸💊时保护你的肠胃，当蒴果🌱时包裹植物宝宝，当瓶盖🍾时封印气泡快乐水，当航天舱👨‍🚀时承载人类星辰大海。要说'浓缩版'可以用capsule version，比如'胶囊衣橱'就叫capsule wardrobe（但别真的把衣服塞进胶囊里！）",
+    "recite": {
+      "tips": [
+        "谐音梗：'开破手雷'→航天舱返回时像手雷开破大气层",
+        "对比记忆：capsule vs. tablet（药片是扁平的，胶囊是立体的）",
+        "联想：所有含义都指向'保护性小容器'"
+      ]
+    }
+  },
+  {
+    "word": "captaincy",
+    "etymology": {
+      "breakdown": [
+        "captain",
+        "cy"
+      ],
+      "meaning_connection": "captain（首领）+后缀-cy（表状态/职位）→首领的身份或职位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "舰长的职位",
+        "examples": [
+          {
+            "sentence": "His promotion to captaincy came with a golden anchor insignia.",
+            "sentence_zh": "他晋升舰长职位时获授金色船锚徽章。"
+          },
+          {
+            "sentence": "The captaincy of Titanic was supposed to be a prestige assignment.",
+            "sentence_zh": "泰坦尼克号的舰长职位原本是份荣耀任命。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大将的才略",
+        "examples": [
+          {
+            "sentence": "Zhuge Liang's captaincy in the Battle of Red Cliffs became legendary.",
+            "sentence_zh": "诸葛亮在赤壁之战展现的大将才略成为传奇。"
+          },
+          {
+            "sentence": "Her captaincy shone through when resolving the crew mutiny.",
+            "sentence_zh": "她在平息船员哗变时展现出卓越将才。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "舰长的衔头",
+        "examples": [
+          {
+            "sentence": "The letter was addressed with his formal captaincy title.",
+            "sentence_zh": "信件上标注着他正式的舰长衔头。"
+          },
+          {
+            "sentence": "Pirates mocked the captaincy by calling him 'toilet cleaner'.",
+            "sentence_zh": "海盗们用'厕所清洁工'嘲弄他的舰长衔头。"
+          }
+        ]
+      }
+    ],
+    "teach": "captaincy是'帽子戏法'🧢：词根captain来自拉丁caput（头），-cy后缀像顶官帽🎓。说'领导力'可用show captaincy，'空有头衔'叫captaincy in name only（像光头强当舰长🐻）。记住：真正的captaincy是浪来了还能淡定喝奶茶☕️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶神器'→当上舰长(captaincy)用佩剑开香槟",
+        "易混词：captain（具体的人） vs captaincy（抽象职位）"
+      ]
+    }
   }
 ]

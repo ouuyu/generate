@@ -17020,5 +17020,259 @@
         "易混词：information偏向系统信息，news侧重新鲜事"
       ]
     }
+  },
+  {
+    "word": "newscaster",
+    "etymology": {
+      "breakdown": [
+        "news",
+        "caster"
+      ],
+      "meaning_connection": "news=新闻（源自古英语'新事物'），caster=播报者（源自'投掷'，如broadcast '广播'的字面意思就是'广泛投掷'）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "新闻广播员",
+        "examples": [
+          {
+            "sentence": "The newscaster's voice trembled when announcing the panda's birth at the zoo.",
+            "sentence_zh": "播报动物园熊猫出生时，新闻主播的声音激动得发抖。"
+          },
+          {
+            "sentence": "Behind the serious image, the newscaster secretly collects rubber ducks.",
+            "sentence_zh": "严肃形象背后，这名新闻主播私下收藏橡皮鸭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "新闻评论广播员",
+        "examples": [
+          {
+            "sentence": "As a political newscaster, he always carries a lucky mahjong tile in his pocket.",
+            "sentence_zh": "作为政论主播，他口袋里总带着一张幸运麻将牌。"
+          },
+          {
+            "sentence": "The finance newscaster explained stock trends using hotpot ingredients analogies.",
+            "sentence_zh": "这位财经评论员用火锅食材比喻解释股市走势。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "celebrity newscaster",
+        "meaning": "明星主播",
+        "examples": [
+          {
+            "sentence": "The celebrity newscaster's dumpling recipe went viral during the Spring Festival.",
+            "sentence_zh": "春节期间，这位明星主播的饺子食谱意外走红。"
+          }
+        ]
+      }
+    ],
+    "teach": "newscaster其实是'新闻投手'🎙️：想象他们把新闻像棒球⚾一样'投掷'到千家万户（broadcast原意就是广泛投掷）！主播必备技能：1) 遇到突发新闻能像报菜名一样流畅 2) 憋笑功力要堪比相声演员🎭。'翻车现场'叫flub（主播失误），'黄金时段'叫prime time就像火锅里的肥牛片🥩。记住：优秀newscaster能让天气预报听起来像悬疑剧！",
+    "recite": {
+      "tips": [
+        "视觉联想：新闻主播=人形WiFi发射器📡（casting信号）",
+        "易混词：announcer（泛指播报员）vs newscaster（专业新闻播报员）",
+        "谐音梗：'牛撕开撕他'→牛（news）撕开（caste）他的严肃形象"
+      ]
+    }
+  },
+  {
+    "word": "newsdesk",
+    "etymology": {
+      "breakdown": [
+        "news",
+        "desk"
+      ],
+      "meaning_connection": "合成词：news（新闻）+ desk（办公桌）→ 处理新闻的工作台"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "新闻组",
+        "examples": [
+          {
+            "sentence": "The newsdesk at CCTV is always buzzing during breaking news events.",
+            "sentence_zh": "央视新闻组在突发新闻事件期间总是忙得不可开交。"
+          },
+          {
+            "sentence": "Our Weibo trending topics are monitored by the newsdesk 24/7.",
+            "sentence_zh": "我们的微博热搜由新闻组全天候监控。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "newsdesk editor",
+        "meaning": "新闻组编辑",
+        "examples": [
+          {
+            "sentence": "The newsdesk editor rejected my Douyin viral video as 'not newsworthy'.",
+            "sentence_zh": "新闻组编辑以'没有新闻价值'为由拒绝了我的抖音爆款视频。"
+          }
+        ]
+      }
+    ],
+    "teach": "newsdesk是新闻界的火锅店🍲！记者们像毛肚一样被扔进沸腾的新闻锅底（breaking news），编辑像捞面师傅一样筛选热点🕵️♂️。要说'突发新闻'用breaking news比'hot news'更地道，'假新闻'叫fake news就像地沟油🚫。记住：每个热搜都可能是新闻组的KPI！",
+    "recite": {
+      "tips": [
+        "视觉联想：想象央视大楼里摆满显示器的巨大环形桌",
+        "易混词对比：newsroom（开放式新闻办公区） vs newsdesk（核心决策组）"
+      ]
+    }
+  },
+  {
+    "word": "newsletter",
+    "etymology": {
+      "breakdown": [
+        "news",
+        "letter"
+      ],
+      "meaning_connection": "news=新闻，letter=信件→字面意思是'新闻信件'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "时事通讯",
+        "examples": [
+          {
+            "sentence": "The museum's monthly newsletter features dinosaur egg discoveries.",
+            "sentence_zh": "博物馆的月度时事通讯以恐龙蛋发现为特色。"
+          },
+          {
+            "sentence": "Subscribe to our newsletter to get spicy hotpot recipes weekly.",
+            "sentence_zh": "订阅我们的时事通讯，每周获取麻辣火锅食谱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "业务通讯",
+        "examples": [
+          {
+            "sentence": "Alibaba's internal newsletter announced new maternity leave policies.",
+            "sentence_zh": "阿里巴巴的内部业务通讯宣布了新的产假政策。"
+          },
+          {
+            "sentence": "The tech startup's newsletter smells like fresh printer ink every Monday.",
+            "sentence_zh": "这家科技初创公司的业务通讯每周一都散发着新鲜打印机油墨的味道。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "email newsletter",
+        "meaning": "电子通讯",
+        "examples": [
+          {
+            "sentence": "My grandma prints out her email newsletters to read with a magnifier.",
+            "sentence_zh": "我奶奶会把电子通讯打印出来用放大镜阅读。"
+          }
+        ]
+      }
+    ],
+    "teach": "newsletter是古代朋友圈📜！中世纪商人用羊皮纸写newsletter传播胡椒价格，相当于今天的公众号推文📱。现代人说'垃圾邮件'叫spam（午餐肉梗🍖），'爆款推文'叫viral content（像病毒扩散🦠）。记住：好的newsletter要像小笼包——皮薄馅多汁水足！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛撕了的'→牛撕了的(newsletter)报纸",
+        "易混词：newspaper（报纸）/ bulletin（公告）",
+        "记忆tip：想象news+letter字面组合"
+      ]
+    }
+  },
+  {
+    "word": "newsman",
+    "etymology": {
+      "breakdown": [
+        "news",
+        "man"
+      ],
+      "meaning_connection": "合成词，news=新闻，man=人→与新闻相关的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "报童",
+        "examples": [
+          {
+            "sentence": "The newsman on his bicycle used to deliver morning papers by 6am.",
+            "sentence_zh": "骑自行车的报童过去常在6点前送达晨报。"
+          },
+          {
+            "sentence": "Every newsman in 1930s Shanghai wore a distinctive cap.",
+            "sentence_zh": "上世纪30年代上海的每个报童都戴着特色帽子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "送报人",
+        "examples": [
+          {
+            "sentence": "Our neighborhood newsman always puts the newspaper inside the door when it rains.",
+            "sentence_zh": "我们社区的送报人下雨时总把报纸放在门内。"
+          },
+          {
+            "sentence": "The deaf newsman communicated through handwritten notes with customers.",
+            "sentence_zh": "这位失聪的送报人通过手写纸条与顾客交流。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "新闻记者",
+        "examples": [
+          {
+            "sentence": "The veteran newsman broke the corruption scandal with hidden camera footage.",
+            "sentence_zh": "这位资深新闻记者用隐蔽摄像机 footage 揭露了腐败丑闻。"
+          },
+          {
+            "sentence": "As a newsman, he carries a press card and a power bank at all times.",
+            "sentence_zh": "作为新闻记者，他随时带着记者证和充电宝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "war newsman",
+        "meaning": "战地记者",
+        "examples": [
+          {
+            "sentence": "The war newsman's helmet had 'PRESS' painted in bold letters.",
+            "sentence_zh": "这位战地记者的头盔上用粗体写着'PRESS'。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "newsman's bag",
+        "meaning": "记者包",
+        "examples": [
+          {
+            "sentence": "Her newsman's bag contained a notebook, three pens and spicy gluten snacks.",
+            "sentence_zh": "她的记者包里装着笔记本、三支笔和辣条。"
+          }
+        ]
+      }
+    ],
+    "teach": "newsman是时空穿梭者⏳！当报童时像《雾都孤儿》里蹬着旧皮鞋跑街的男孩👦（newsboy cap）；当记者时秒变《王牌特工》里西装笔挺的科林叔🧥（press badge）。搭配说'跑新闻'用cover the news，'独家新闻'叫scoop就像挖到宝藏💎！记住：从油墨报纸到直播时代，newsman永远在抢头条！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛撕门'→牛气的记者撕开真相之门",
+        "易混词对比：reporter（侧重报道者）/ correspondent（驻外记者）",
+        "记忆tip：联想《人民日报》的'人'字+news"
+      ]
+    }
   }
 ]

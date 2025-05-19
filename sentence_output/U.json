@@ -16038,5 +16038,241 @@
         "易混词对比：bold（主动大胆）vs undaunted（被动无畏）"
       ]
     }
+  },
+  {
+    "word": "undecided",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "decide",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，decide=决定，-ed表形容词→未被决定的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "未定的",
+        "examples": [
+          {
+            "sentence": "The match result is still undecided after 3 hours of overtime.",
+            "sentence_zh": "经过3小时加时赛，比赛结果仍未定。"
+          },
+          {
+            "sentence": "She's undecided between Peking duck and hotpot for dinner.",
+            "sentence_zh": "她在晚餐选北京烤鸭还是火锅间犹豫不决。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不明确的",
+        "examples": [
+          {
+            "sentence": "His undecided attitude caused confusion in the team.",
+            "sentence_zh": "他模棱两可的态度导致团队混乱。"
+          },
+          {
+            "sentence": "The undecided border issue has lasted for decades.",
+            "sentence_zh": "这个悬而未决的边界问题已持续数十年。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "remain undecided",
+        "meaning": "保持未决状态",
+        "examples": [
+          {
+            "sentence": "The jury remained undecided after 3 days of deliberation.",
+            "sentence_zh": "陪审团经过三天审议仍未能作出决定。"
+          }
+        ]
+      }
+    ],
+    "teach": "undecided就像选择困难症晚期患者🔄！古罗马元老院投票时用白/黑石子表态，投灰石子的就是undecided🤍🖤。说'骑墙派'可用fence-sitter，形容优柔寡断叫hem and haw（支支吾吾）。记住：你的undecided程度≈午饭选食堂时的纠结指数🍱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺滴塞的'→俺的赛果被塞住了所以未定",
+        "易混词：uncertain（不确定的）更侧重缺乏信心",
+        "联想：UN（联合国）+decided→联合国议案常悬而未决"
+      ]
+    }
+  },
+  {
+    "word": "undeclared",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "declare",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，declare=宣布，-ed构成形容词→未被宣布的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "未申报的",
+        "examples": [
+          {
+            "sentence": "The customs officer found undeclared durians in his luggage.",
+            "sentence_zh": "海关官员在他行李中发现未申报的榴莲。"
+          },
+          {
+            "sentence": "Undeclared income may lead to serious tax problems.",
+            "sentence_zh": "未申报收入可能导致严重税务问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未宣布的",
+        "examples": [
+          {
+            "sentence": "The two countries are in an undeclared trade war.",
+            "sentence_zh": "两国正处于未公开宣布的贸易战中。"
+          },
+          {
+            "sentence": "Her undeclared candidacy caused chaos in the election.",
+            "sentence_zh": "她未公开的参选意向导致选举混乱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "undeclared major",
+        "meaning": "未确定专业",
+        "examples": [
+          {
+            "sentence": "60% Harvard freshmen enter as undeclared majors.",
+            "sentence_zh": "60%哈佛新生以未定专业身份入学。"
+          }
+        ]
+      }
+    ],
+    "teach": "undeclared就像考试时偷偷传的小纸条📝！历史上英国对北美殖民地征收'未申报税'(undeclared taxes)引发波士顿倾茶事件☕️。搭配'undeclared war'（未宣战战争）就像两猫打架前不喵喵叫🐱 vs 🐱，地道说法'ghost assets'指那些未申报的财产👻。记住：该declare时就declare，不然变幽灵资产！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺的可乐red'→藏红色可乐未申报",
+        "对比记忆：declared像高举的公告牌，undeclared像藏在口袋里的纸条",
+        "场景联想：海关安检仪就是undeclared物品的照妖镜"
+      ]
+    }
+  },
+  {
+    "word": "undefeated",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "defeat",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定 + defeat（击败） + 后缀-ed→未被击败过的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "（选手或运动队）未被打败过的",
+        "examples": [
+          {
+            "sentence": "The esports team remained undefeated throughout the League of Legends World Championship.",
+            "sentence_zh": "这支电竞战队在英雄联盟全球总决赛中保持不败战绩。"
+          },
+          {
+            "sentence": "She's the undefeated queen of spicy hotpot challenges in Chengdu.",
+            "sentence_zh": "她是成都麻辣火锅挑战赛的不败女王。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "未输过的",
+        "examples": [
+          {
+            "sentence": "The AI Go player is currently undefeated against human opponents.",
+            "sentence_zh": "这款人工智能围棋选手目前对人类对手保持全胜。"
+          },
+          {
+            "sentence": "My grandma's homemade dumpling recipe is undefeated in our family cooking contests.",
+            "sentence_zh": "奶奶的手工饺子配方在我们家的厨艺大赛中从未输过。"
+          }
+        ]
+      }
+    ],
+    "teach": "undefeated是'独孤求败'🤺的英文版！就像火锅界的海底捞🥘（连续10年销冠）和乒乓球界的马龙🏓（超级全满贯）。要说'保持不败'可以用run the table（清台不败），'打破不败金身'叫snap the streak。记住：真正的undefeated是广场舞大妈们的斗志💃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺的飞的'→俺的飞的（undefeated）无人机比赛没输过",
+        "易混词对比：undefeated（未败） vs. undefined（未定义）→比赛结果不是undefined，是undefeated！",
+        "记忆tip：把un-de-feat-ed拆成'不(de)-废(feat)-它(ed)'→不废它=不败"
+      ]
+    }
+  },
+  {
+    "word": "undefended",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "defend",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，词根defend=防御，-ed表形容词→字面为'未被防御的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无防御的",
+        "examples": [
+          {
+            "sentence": "The undefended castle was easily captured by the enemy.",
+            "sentence_zh": "这座不设防的城堡被敌军轻易攻陷。"
+          },
+          {
+            "sentence": "Like an undefended goal in soccer, the system was hacked in minutes.",
+            "sentence_zh": "就像足球比赛中无人防守的球门，该系统几分钟内就被攻破。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无论据证实的",
+        "examples": [
+          {
+            "sentence": "His undefended claim about aliens was ridiculed on Weibo.",
+            "sentence_zh": "他关于外星人的无证据说法在微博遭到群嘲。"
+          },
+          {
+            "sentence": "The undefended accusation collapsed like a house of cards.",
+            "sentence_zh": "这项无论据支持的指控像纸牌屋般迅速崩塌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无辩护人的",
+        "examples": [
+          {
+            "sentence": "The undefended defendant kept silent like a mime artist.",
+            "sentence_zh": "没有辩护人的被告像默剧演员般始终保持沉默。"
+          },
+          {
+            "sentence": "In this mock trial, the undefended panda was found guilty of stealing bamboo.",
+            "sentence_zh": "在这次模拟法庭中，无人辩护的熊猫被判偷窃竹子罪成立。"
+          }
+        ]
+      }
+    ],
+    "teach": "undefended是'三无产品'🚫：军事上像没保安的售楼处🏠（undefended position），辩论时像'我说对就对'的霸道总裁💼（undefended argument），法庭上像单排吃鸡的菜鸟🐤（undefended accused）。记住：'空城计'叫undefended stratagem，'裸考'可说go into exams undefended📚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺的分的'→俺的分数(undefended)没人辩护",
+        "易混词对比：defenseless（纯指无防护） vs undefended（强调故意不设防）",
+        "记忆口诀：Un-开头三无产品，防御/证据/律师都不齐"
+      ]
+    }
   }
 ]

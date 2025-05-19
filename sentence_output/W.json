@@ -17099,5 +17099,348 @@
         "易混词对比：waiving（放弃）vs weaving（编织）"
       ]
     }
+  },
+  {
+    "word": "web",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'webb'，原指编织物，后衍生出网状结构相关含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "网",
+        "examples": [
+          {
+            "sentence": "The spider's web glistened with morning dew in my balcony.",
+            "sentence_zh": "我家阳台上的蜘蛛网挂着晨露闪闪发光。"
+          },
+          {
+            "sentence": "The city is a complex web of subway lines.",
+            "sentence_zh": "这座城市拥有错综复杂的地铁线网。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蛛丝",
+        "examples": [
+          {
+            "sentence": "A single strand of web can be stronger than steel.",
+            "sentence_zh": "一根蛛丝的强度可能超过钢铁。"
+          },
+          {
+            "sentence": "Harry Potter used the Acromantula's web in potion-making.",
+            "sentence_zh": "哈利·波特曾用八眼巨蛛的蛛丝制作魔药。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蹼",
+        "examples": [
+          {
+            "sentence": "Ducks use their webbed feet to swim efficiently.",
+            "sentence_zh": "鸭子用带蹼的脚掌高效游泳。"
+          },
+          {
+            "sentence": "The frog's web allows it to be an excellent swimmer.",
+            "sentence_zh": "青蛙的蹼使它成为游泳能手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "织物",
+        "examples": [
+          {
+            "sentence": "This traditional web is woven with golden threads.",
+            "sentence_zh": "这件传统织物用金线织就。"
+          },
+          {
+            "sentence": "Silk webs were highly valued in the ancient Silk Road.",
+            "sentence_zh": "在古代丝绸之路上，丝织品备受推崇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "圈套",
+        "examples": [
+          {
+            "sentence": "The detective finally broke through the criminal's web of lies.",
+            "sentence_zh": "侦探最终突破了罪犯精心编织的谎言圈套。"
+          },
+          {
+            "sentence": "Be careful not to get caught in his web of deceit.",
+            "sentence_zh": "小心别落入他设的骗局圈套。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "卷筒纸",
+        "examples": [
+          {
+            "sentence": "The printing press uses giant webs of paper.",
+            "sentence_zh": "印刷机使用巨型卷筒纸。"
+          },
+          {
+            "sentence": "Newspapers are printed on continuous webs in modern factories.",
+            "sentence_zh": "现代报业工厂在连续卷筒纸上印刷报纸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "结网",
+        "examples": [
+          {
+            "sentence": "The spider webs between two bamboo poles every night.",
+            "sentence_zh": "这只蜘蛛每晚都在两根竹竿间结网。"
+          },
+          {
+            "sentence": "Observing how spiders web is a popular biology experiment.",
+            "sentence_zh": "观察蜘蛛结网是常见的生物实验。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "形成网",
+        "examples": [
+          {
+            "sentence": "Cracks webbed across the ancient porcelain vase.",
+            "sentence_zh": "裂纹在古瓷器表面形成了网状纹路。"
+          },
+          {
+            "sentence": "Lightning webbed through the stormy sky.",
+            "sentence_zh": "闪电在暴风雨的天空中形成网状光痕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "织蜘蛛网于",
+        "examples": [
+          {
+            "sentence": "The abandoned house was completely webbed by spiders.",
+            "sentence_zh": "蜘蛛在这栋废弃房屋里织满了网。"
+          },
+          {
+            "sentence": "The old tree was webbed with silver threads after the rain.",
+            "sentence_zh": "雨后，老树上布满了银丝般的蛛网。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使落入圈套",
+        "examples": [
+          {
+            "sentence": "The villain webbed the hero in an elaborate trap.",
+            "sentence_zh": "反派设计精巧的陷阱使英雄落入圈套。"
+          },
+          {
+            "sentence": "She felt webbed in his manipulative relationship.",
+            "sentence_zh": "她感觉自己陷入了他的操控性关系中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "World Wide Web",
+        "meaning": "万维网",
+        "examples": [
+          {
+            "sentence": "Tim Berners-Lee invented the World Wide Web in 1989.",
+            "sentence_zh": "蒂姆·伯纳斯-李于1989年发明了万维网。"
+          },
+          {
+            "sentence": "The web has fundamentally changed how we access information.",
+            "sentence_zh": "万维网从根本上改变了我们获取信息的方式。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "web page",
+        "meaning": "网页",
+        "examples": [
+          {
+            "sentence": "I designed my first web page using HTML in middle school.",
+            "sentence_zh": "我初中时就用HTML设计了第一个网页。"
+          },
+          {
+            "sentence": "This museum's web page has virtual tour options.",
+            "sentence_zh": "该博物馆的网页提供虚拟游览功能。"
+          }
+        ]
+      }
+    ],
+    "teach": "web这个词就像蜘蛛侠的发射器🕷️！从蜘蛛结网到互联网🌐，从鸭蹼到阴谋网🕸️，它完美演绎了'万物皆可网'。当你说'caught in the web'既可能指粘上蛛丝，也可能是陷入情网💘。要吐槽网速慢？用'the web is crawling today'（今天网速像蜗牛）。记住：好的Wi-Fi就像蜘蛛网——要够大够结实！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外部'→蜘蛛在外部结web",
+        "易混词：net(渔网)/web(蛛网)，前者用于捕捞，后者强调连接性",
+        "记忆tip：想象微信(WeChat)的'We'+字母b→'web'是社交网络的基底"
+      ]
+    }
+  },
+  {
+    "word": "webbed",
+    "etymology": {
+      "breakdown": [
+        "web",
+        "ed"
+      ],
+      "meaning_connection": "web=网，-ed表形容词后缀→像网一样的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "网状的",
+        "examples": [
+          {
+            "sentence": "The spider's webbed feet left prints like tiny snowflakes.",
+            "sentence_zh": "蜘蛛的网状足印像小雪花般散落。"
+          },
+          {
+            "sentence": "Her webbed gloves trapped heat like a fisherman's net.",
+            "sentence_zh": "她的网状手套像渔网般锁住热量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有蹼的",
+        "examples": [
+          {
+            "sentence": "The duckling's webbed feet slapped happily in the puddle.",
+            "sentence_zh": "小鸭的蹼足在水坑里欢快拍打。"
+          },
+          {
+            "sentence": "Olympic swimmers train with webbed gloves to mimic frog kicks.",
+            "sentence_zh": "奥运选手戴着蹼状手套训练蛙泳动作。"
+          }
+        ]
+      }
+    ],
+    "teach": "webbed简直是动物界的凉鞋🩴！鸭子的蹼脚就像天然泳蹼🏊，而蜘蛛网🕸️结构还被用在防弹衣上（bulletproof webbed material）。说'笨拙'可以用web-footed like a duck，'紧密相连'叫interwoven就像火锅里的粉丝网🍜。记住：从鸭子脚到互联网(web)，都是连接的艺术！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外布的'→外表布满网状",
+        "易混词：web（网）vs wedge（楔子）"
+      ]
+    }
+  },
+  {
+    "word": "webbing",
+    "etymology": {
+      "breakdown": [
+        "web",
+        "ing"
+      ],
+      "meaning_connection": "词根web=编织物，后缀-ing表'材料/产物'→编织而成的带状物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "带子",
+        "examples": [
+          {
+            "sentence": "The webbing on this backpack glows in the dark like fireflies.",
+            "sentence_zh": "这款背包的带子像萤火虫般在黑暗中发光。"
+          },
+          {
+            "sentence": "Military webbing can support the weight of three watermelons.",
+            "sentence_zh": "军用织带能承受三个西瓜的重量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "边带",
+        "examples": [
+          {
+            "sentence": "The webbing between chair legs prevents toddlers from crawling under.",
+            "sentence_zh": "椅子腿间的边带能防止幼儿爬入。"
+          },
+          {
+            "sentence": "Spider-Man's costume has red webbing patterns that move when he flexes.",
+            "sentence_zh": "蜘蛛侠战衣的红色边带纹路会随着肌肉运动而变化。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nylon webbing",
+        "meaning": "尼龙织带",
+        "examples": [
+          {
+            "sentence": "This eco-friendly bag uses recycled nylon webbing from fishing nets.",
+            "sentence_zh": "这款环保包采用渔网回收制成的尼龙织带。"
+          }
+        ]
+      }
+    ],
+    "teach": "webbing是蜘蛛侠的时尚密码🕷️！它既是安全带的生命线（safety webbing），又是球鞋上的潮流条纹👟。想夸'这带子真结实'就说'bulletproof webbing'（防弹织带），说'勒得慌'用'straps digging in'。记住：所有交叉的条状物，从口罩耳带到AJ鞋带，都是webbing的变体🧵！",
+    "recite": {
+      "tips": [
+        "谐音梗：'围脖ing'→正在织围脖（webbing）",
+        "易混词：web（网页） vs webbing（织带）",
+        "记忆法：想象把网页(web)打印出来编织成带子"
+      ]
+    }
+  },
+  {
+    "word": "Weberian",
+    "etymology": {
+      "breakdown": [
+        "Weber",
+        "ian"
+      ],
+      "meaning_connection": "源自德国社会学家Max Weber的姓氏，后缀-ian表示'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "韦伯式的",
+        "examples": [
+          {
+            "sentence": "The Weberian analysis of bureaucracy explains why DMV offices feel like time machines to the 1950s.",
+            "sentence_zh": "韦伯式的官僚制度分析解释了为何车管所总让人感觉穿越到1950年代。"
+          },
+          {
+            "sentence": "His WeChat posts show a Weberian obsession with rational-legal authority.",
+            "sentence_zh": "他的朋友圈动态显示出对法理型权威的韦伯式执着。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Weberian ideal type",
+        "meaning": "韦伯式理想类型",
+        "examples": [
+          {
+            "sentence": "Comparing real-world governments to the Weberian ideal type is like judging your cooking against Michelin standards.",
+            "sentence_zh": "用韦伯式理想类型衡量现实政府，就像用米其林标准评价自家厨艺。"
+          }
+        ]
+      }
+    ],
+    "teach": "韦伯粉必备词🔍：就像提到'鲁迅体'就想到横眉冷对✍️，Weberian自带学术贵族滤镜。记住两个搭配：'Weberian thesis'（韦伯命题）和'Weberian paralysis'（过度分析导致的决策瘫痪）。说'掉书袋'可以用'Weberian wannabe'（装深沉）。韦伯若玩微博，大概会天天发#科层制观察日记#📚☕️",
+    "recite": {
+      "tips": [
+        "谐音梗：'微博人'→混微博的韦伯学者",
+        "易混词：Victorian（维多利亚式的）vs Weberian"
+      ]
+    }
   }
 ]

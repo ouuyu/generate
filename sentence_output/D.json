@@ -16388,5 +16388,303 @@
         "对比：announcement（普通通知）vs declaration（正式宣告）"
       ]
     }
+  },
+  {
+    "word": "declarative",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "clar",
+        "ative"
+      ],
+      "meaning_connection": "前缀de-表'完全'，词根clar=清楚(同clear)，-ative表性质→彻底说清楚的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "宣言的",
+        "examples": [
+          {
+            "sentence": "The May Fourth Movement's declarative speeches ignited youth patriotism.",
+            "sentence_zh": "五四运动的宣言式演讲点燃了青年爱国热情。"
+          },
+          {
+            "sentence": "Her wedding vow was unexpectedly declarative, sounding like a UN resolution.",
+            "sentence_zh": "她的婚礼誓言意外地像宣言，仿佛联合国决议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "陈述的",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese poetry often uses declarative lines to depict landscapes.",
+            "sentence_zh": "中国古诗常用陈述句式描绘山水。"
+          },
+          {
+            "sentence": "The witness gave a purely declarative account without emotional coloring.",
+            "sentence_zh": "证人给出了完全陈述性的证词，毫无情绪渲染。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "说明的",
+        "examples": [
+          {
+            "sentence": "IKEA manuals are the epitome of declarative instructions.",
+            "sentence_zh": "宜家说明书是说明性指引的典范。"
+          },
+          {
+            "sentence": "His recipe video has clear declarative voice-over.",
+            "sentence_zh": "他的美食视频配有清晰的说明性旁白。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "公告的",
+        "examples": [
+          {
+            "sentence": "The declarative tone of the neighborhood notice annoyed residents.",
+            "sentence_zh": "小区公告的宣告式语气惹恼了居民。"
+          },
+          {
+            "sentence": "Government declarative documents always use red letterhead.",
+            "sentence_zh": "政府公告性文件总是使用红头格式。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "declarative sentence",
+        "meaning": "陈述句",
+        "examples": [
+          {
+            "sentence": "Elementary students start with declarative sentences in composition.",
+            "sentence_zh": "小学生作文从写陈述句开始。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "declarative mood",
+        "meaning": "陈述语气",
+        "examples": [
+          {
+            "sentence": "News anchors must master the declarative mood.",
+            "sentence_zh": "新闻主播必须掌握陈述语气。"
+          }
+        ]
+      }
+    ],
+    "teach": "declarative是语言界的公告栏📜！从政府红头文件到小区停电通知，再到你妈'今晚吃鱼'的声明🐟，都属此类。搭配'declarative style'（宣告体）和'declarative power'（宣示力），说'官腔十足'可以叫sound like a declarative robot🤖。记住：当你想模仿新闻联播时，就切换到declarative模式！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟可来啦他舞'→弟弟来跳宣告舞",
+        "对比记忆：declarative（客观陈述） vs. expressive（情感表达）",
+        "联想：CLAR=clear（清楚），宣告就要清清楚楚"
+      ]
+    }
+  },
+  {
+    "word": "declaratory",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "clar",
+        "atory"
+      ],
+      "meaning_connection": "前缀de-表示'完全'，词根clar=清楚（同clear），-atory表形容词→彻底说清楚的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "宣言的",
+        "examples": [
+          {
+            "sentence": "The TikTok CEO's declaratory speech sparked global discussions.",
+            "sentence_zh": "TikTok CEO的宣言式演讲引发全球讨论。"
+          },
+          {
+            "sentence": "Panda's declaratory eating stance: bamboo only, no substitutes!",
+            "sentence_zh": "熊猫的宣言式进食立场：只吃竹子，没有替代品！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "公布的",
+        "examples": [
+          {
+            "sentence": "The declaratory Weibo post got 100K reposts in an hour.",
+            "sentence_zh": "这份公布性微博一小时内获得10万转发。"
+          },
+          {
+            "sentence": "China's declaratory moon exploration plan amazed the world.",
+            "sentence_zh": "中国公布的探月计划震惊世界。"
+          }
+        ]
+      }
+    ],
+    "teach": "declaratory=大声宣布的📢！就像古代城门贴皇榜🏛️（declaratory notice），也像老板在年会上宣布'今年双休日不调休'🗓️（declaratory speech）。搭配'declaratory judgment'（宣告式判决）和'declaratory act'（宣言法案），说'官宣'可以用drop a declaratory bomb💣（字面：扔宣言炸弹）。记住：当事情需要敲锣打鼓宣布时，就用declaratory！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟可来托瑞'→弟弟可以托瑞幸发宣言",
+        "易混词：declarative（陈述的）vs declaratory（宣言的）",
+        "记忆锚：Declaration of Independence→最著名的declaratory document"
+      ]
+    }
+  },
+  {
+    "word": "declare",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "clare"
+      ],
+      "meaning_connection": "前缀de-表'完全'，词根clare来自拉丁语clarare（使清晰）→彻底说清楚"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "宣布",
+        "examples": [
+          {
+            "sentence": "The mayor declared the dumpling festival open with a giant chopstick.",
+            "sentence_zh": "市长用巨型筷子宣布饺子节开幕。"
+          },
+          {
+            "sentence": "TikTok declared July as 'Spicy Hotpot Challenge Month'.",
+            "sentence_zh": "TikTok宣布七月为'麻辣火锅挑战月'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "声明",
+        "examples": [
+          {
+            "sentence": "The Weibo post declared support for traditional paper-cutting art.",
+            "sentence_zh": "该微博博文声明支持传统剪纸艺术。"
+          },
+          {
+            "sentence": "He declared his love by writing 100 love letters with calligraphy.",
+            "sentence_zh": "他用书法写百封情书来表明爱意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "申报",
+        "examples": [
+          {
+            "sentence": "You must declare all the pu'er tea cakes at customs.",
+            "sentence_zh": "必须在海关申报所有普洱茶饼。"
+          },
+          {
+            "sentence": "I forgot to declare my new smartphone when returning from Hong Kong.",
+            "sentence_zh": "我从香港回来时忘记申报新手机了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "断言",
+        "examples": [
+          {
+            "sentence": "The chef declared Sichuan cuisine to be the ultimate test for spice lovers.",
+            "sentence_zh": "主厨断言川菜是对嗜辣者的终极考验。"
+          },
+          {
+            "sentence": "She declared the Forbidden City to be the most Instagrammable spot in Beijing.",
+            "sentence_zh": "她断言故宫是北京最适合拍照打卡的地点。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "declare war on",
+        "meaning": "向...宣战",
+        "examples": [
+          {
+            "sentence": "The government declared war on counterfeit luxury bags.",
+            "sentence_zh": "政府向假冒奢侈品包宣战。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "declare oneself",
+        "meaning": "表明身份",
+        "examples": [
+          {
+            "sentence": "The undercover food critic finally declared himself after the meal.",
+            "sentence_zh": "卧底美食评论家在用餐后终于表明身份。"
+          }
+        ]
+      }
+    ],
+    "teach": "declare就像古代的榜文📜！当皇上'宣布'圣旨要敲锣打鼓🥁，'声明'立场像在衙门贴告示🏛️，'申报'物品像过关递文书🛃，'断言'某事像包公拍惊堂木⚖️。有趣的是：海关申报叫'declare'，因为古代商队也要向关防'明说(clare)'带了什么丝绸瓷器。说'我郑重声明'英语是I do declare (自带甄嬛传语气)🎭。",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟可来啊'→弟弟来申报边境通行证",
+        "对比：announce侧重通知，declare强调正式性",
+        "记忆法：de+clear=彻底说清楚"
+      ]
+    }
+  },
+  {
+    "word": "declared",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "clar",
+        "ed"
+      ],
+      "meaning_connection": "前缀de-表'完全'，词根clar=清楚（同clear），-ed表形容词→'完全说清楚的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "公告的",
+        "examples": [
+          {
+            "sentence": "The declared winner was holding a durian instead of a trophy.",
+            "sentence_zh": "公告的获胜者举着榴莲而不是奖杯。"
+          },
+          {
+            "sentence": "All declared ingredients must pass food safety checks.",
+            "sentence_zh": "所有公告的食材成分都必须通过食品安全检查。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "公然的",
+        "examples": [
+          {
+            "sentence": "His declared love for stinky tofu shocked the French chef.",
+            "sentence_zh": "他对臭豆腐公然的喜爱震惊了法国主厨。"
+          },
+          {
+            "sentence": "The declared intention to eat 50 dumplings made everyone gasp.",
+            "sentence_zh": "公然宣称要吃50个饺子的意图让所有人倒吸凉气。"
+          }
+        ]
+      }
+    ],
+    "teach": "declared是'喇叭式官宣'📢！古罗马宣告战争要爬上神庙台阶(de-)让所有人听清楚(clar)。现代版就像微博热搜'官宣'💑（declared relationship），'公然摸鱼'叫declared lazy就像在工位挂睡觉招牌🛌。搭配：declared policy（公告政策）/ declared enemy（公敌），'装都不装'说no need to declare就像吃螺蛳粉还开风扇🍜💨",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟可来嗲的'→弟弟公然撒娇",
+        "对比：announced（普通通知）vs declared（正式公告）"
+      ]
+    }
   }
 ]

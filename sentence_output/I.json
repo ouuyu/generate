@@ -16946,5 +16946,307 @@
         "记忆tip：把im-想成'姨妈'总挑剔你不完美"
       ]
     }
+  },
+  {
+    "word": "imperfection",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "per",
+        "fect",
+        "ion"
+      ],
+      "meaning_connection": "前缀im-=否定 + per-=完全 + fect=做 + -ion名词后缀→未完成的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不完美",
+        "examples": [
+          {
+            "sentence": "The slight asymmetry of her eyebrows became her charming imperfection.",
+            "sentence_zh": "她眉毛的轻微不对称成了迷人的不完美。"
+          },
+          {
+            "sentence": "Japanese wabi-sabi philosophy celebrates imperfection in pottery.",
+            "sentence_zh": "日本侘寂哲学赞美陶器中的不完美。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "缺点",
+        "examples": [
+          {
+            "sentence": "His blind loyalty was the only imperfection in his character.",
+            "sentence_zh": "他盲目的忠诚是性格中唯一的缺点。"
+          },
+          {
+            "sentence": "The smartphone's battery life remains its biggest imperfection.",
+            "sentence_zh": "电池续航仍是这款手机最大的缺点。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "minor imperfection",
+        "meaning": "微小瑕疵",
+        "examples": [
+          {
+            "sentence": "The jade pendant was discounted due to minor imperfections.",
+            "sentence_zh": "这块玉佩因微小瑕疵而打折出售。"
+          }
+        ]
+      }
+    ],
+    "teach": "imperfection其实是'完美强迫症的良药'💊！米开朗基罗故意在雕塑留道划痕，因为'只有神才能创造完美'⛪。说'小缺点'用quirks（比如always misplacing keys🔑），形容'可爱缺陷'叫endearing flaws就像熊猫的黑眼圈🐼。记住：你的imperfections才是防伪标识！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬破费可省'→有瑕疵(imperfection)反而省钱",
+        "易混词对比：defect（严重缺陷）vs. imperfection（可接受的不足）",
+        "记忆tip：想象IMPERfect王子🤴总做不好PPT"
+      ]
+    }
+  },
+  {
+    "word": "imperfectly",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "perfect",
+        "ly"
+      ],
+      "meaning_connection": "前缀im-表示否定，词根perfect=完美，后缀-ly构成副词→字面为'不完美地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不完全地",
+        "examples": [
+          {
+            "sentence": "The AI translated the ancient poem imperfectly, missing its rhyme scheme.",
+            "sentence_zh": "AI对古诗的翻译不完全，遗漏了韵律结构。"
+          },
+          {
+            "sentence": "My limited Japanese makes me understand anime dialogues only imperfectly.",
+            "sentence_zh": "我有限的日语水平只能让我不完全理解动漫对话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "有缺点地",
+        "examples": [
+          {
+            "sentence": "The hand-painted sneakers were made imperfectly on purpose for vintage style.",
+            "sentence_zh": "这双手绘球鞋被故意制作得有缺点，以营造复古风格。"
+          },
+          {
+            "sentence": "He sang the high notes imperfectly but with touching emotion.",
+            "sentence_zh": "他唱高音时有缺点，但感情动人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不完备地",
+        "examples": [
+          {
+            "sentence": "The fire escape plan was prepared imperfectly without considering disabled people.",
+            "sentence_zh": "消防逃生方案准备得不完备，未考虑残障人士。"
+          },
+          {
+            "sentence": "Ancient maps described the world imperfectly with sea monsters at the edges.",
+            "sentence_zh": "古代地图不完备地描绘世界，边缘画着海怪。"
+          }
+        ]
+      }
+    ],
+    "teach": "imperfectly是'佛系副词'🙏：就像用美颜相机仍保留一颗痘📸（imperfectly beautiful），或像《清明上河图》故意画错透视🏯（imperfectly accurate）。搭配'execute imperfectly'（执行有瑕疵）、'remember imperfectly'（记忆偏差），地道说法叫'rough around the edges'（毛边感）。记住：完美主义是病，imperfectly才是人生！🎭",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬破瓷砖'→瓷砖没铺好所以不完全(imperfectly)",
+        "对比记忆：perfectly vs. imperfectly 像滤镜前vs原相机",
+        "拆分记忆：im(不)+perfect(完美)+ly(地)=不完美地"
+      ]
+    }
+  },
+  {
+    "word": "imperial",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "per",
+        "ial"
+      ],
+      "meaning_connection": "前缀im-表'进入'，词根per表'通过/掌控'，-ial表形容词后缀→原指'掌控一切的'，现发展为多重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "帝王的",
+        "examples": [
+          {
+            "sentence": "The Forbidden City showcases imperial power through its golden roofs.",
+            "sentence_zh": "紫禁城用金顶彰显帝王威权。"
+          },
+          {
+            "sentence": "Qing imperial edicts were written in Manchu and Chinese.",
+            "sentence_zh": "清代圣旨用满汉双语书写。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "宗主国的",
+        "examples": [
+          {
+            "sentence": "British imperial policies triggered the Opium War.",
+            "sentence_zh": "英国宗主国政策引发了鸦片战争。"
+          },
+          {
+            "sentence": "The imperial tax system drained colonies' resources.",
+            "sentence_zh": "宗主国税收体系榨干了殖民地资源。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "至尊的",
+        "examples": [
+          {
+            "sentence": "The imperial craftsmanship of this jade seal is breathtaking.",
+            "sentence_zh": "这方玉玺的至尊工艺令人叹服。"
+          },
+          {
+            "sentence": "She ordered an imperial suite at the Peninsula Hotel.",
+            "sentence_zh": "她在半岛酒店预订了至尊套房。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "壮丽的",
+        "examples": [
+          {
+            "sentence": "The imperial view from Mount Tai inspired countless poets.",
+            "sentence_zh": "泰山壮丽景色激发了无数诗人。"
+          },
+          {
+            "sentence": "An imperial sunset painted the sky crimson over the Great Wall.",
+            "sentence_zh": "长城上空壮丽的晚霞染红了天际。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "特等品",
+        "examples": [
+          {
+            "sentence": "This pu'er tea is classified as imperial grade.",
+            "sentence_zh": "这款普洱茶被列为特等品。"
+          },
+          {
+            "sentence": "Only imperial silks were allowed for dragon robes.",
+            "sentence_zh": "只有特等丝绸可用于制作龙袍。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "imperial examination",
+        "meaning": "科举考试",
+        "examples": [
+          {
+            "sentence": "The imperial examination system lasted over 1300 years in China.",
+            "sentence_zh": "中国科举制度延续了1300余年。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "imperial garden",
+        "meaning": "御花园",
+        "examples": [
+          {
+            "sentence": "The Summer Palace was originally an imperial garden.",
+            "sentence_zh": "颐和园原本是皇家御花园。"
+          }
+        ]
+      }
+    ],
+    "teach": "imperial就像故宫的屋顶🏯——最上层铺着黄金（帝王），压着琉璃瓦（宗主国），映着日月（至尊），衬着蓝天（壮丽）！知道'龙颜大怒'英文叫imperial wrath吗？'特供香烟'叫imperial tobacco🚬。记住：看到'御用'俩字，直接上imperial准没错！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派爷'→硬派(im)爷(perial)作风很帝王",
+        "易混词对比：empire是帝国，imperial是形容词",
+        "视觉记忆：把字母I想成权杖，perial想成紫袍(purple+royal)"
+      ]
+    }
+  },
+  {
+    "word": "imperialism",
+    "etymology": {
+      "breakdown": [
+        "imper",
+        "ial",
+        "ism"
+      ],
+      "meaning_connection": "词根imper=命令/统治（源自拉丁语imperium），-ial表形容词后缀，-ism表主义/体系→帝国统治的意识形态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "帝国主义",
+        "examples": [
+          {
+            "sentence": "The Opium War exposed the brutality of Western imperialism in 19th century China.",
+            "sentence_zh": "鸦片战争揭露了19世纪西方帝国主义在华的暴行。"
+          },
+          {
+            "sentence": "Modern economic imperialism often wears the mask of globalization.",
+            "sentence_zh": "现代经济帝国主义常戴着全球化的面具。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "帝制",
+        "examples": [
+          {
+            "sentence": "The Forbidden City stands as a magnificent relic of Chinese imperialism.",
+            "sentence_zh": "紫禁城是中国帝制时代的宏伟遗迹。"
+          },
+          {
+            "sentence": "Roman imperialism created both glorious achievements and bloody colosseums.",
+            "sentence_zh": "罗马帝制既创造了辉煌成就，也建造了血腥斗兽场。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cultural imperialism",
+        "meaning": "文化霸权主义",
+        "examples": [
+          {
+            "sentence": "Hollywood movies are sometimes accused of cultural imperialism.",
+            "sentence_zh": "好莱坞电影时常被指责为文化霸权主义。"
+          }
+        ]
+      }
+    ],
+    "teach": "imperialism是'帝国养成游戏'🎮：从罗马鹰旗🏛️到星巴克全球扩张☕，本质上都是imper（统治）+ism（主义）。说'强权压迫'可用iron fist（铁拳）🗜️，'经济控制'叫neo-colonialism（新殖民主义）💸。记住：当某个国家开始到处送'民主套餐'，可能只是imperialism换了包装🍔！",
+    "recite": {
+      "tips": [
+        "视觉联想：im(否定)+pear(梨)+lism→'不是分梨而是抢梨'的霸权主义",
+        "易混词对比：imperial(帝国的) vs. imperious(专横的)"
+      ]
+    }
   }
 ]
