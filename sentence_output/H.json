@@ -15429,5 +15429,219 @@
         "易混词：hacked(被黑) vs hatched(阴影线)"
       ]
     }
+  },
+  {
+    "word": "hatchery",
+    "etymology": {
+      "breakdown": [
+        "hatch",
+        "ery"
+      ],
+      "meaning_connection": "词根hatch=孵化，后缀-ery=场所→专门用于孵化的场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "孵卵处",
+        "examples": [
+          {
+            "sentence": "The panda hatchery in Chengdu has a 24/7 live stream of baby pandas.",
+            "sentence_zh": "成都的大熊猫孵育基地提供幼崽24小时直播。"
+          },
+          {
+            "sentence": "This high-tech hatchery can control temperature for different dinosaur eggs.",
+            "sentence_zh": "这个高科技孵化场能为不同恐龙蛋调控温度。"
+          }
+        ]
+      }
+    ],
+    "teach": "hatchery是'蛋蛋快乐屋'🥚→想象《功夫熊猫》里阿宝破壳而出的场景🎬！现代hatchery就像母婴会所👶🏻+ICU监护仪💻的结合体。养鸡场叫chicken hatchery，互联网大厂堪称码农hatchery👨💻。地道说法：'孵化失败'叫bad hatch，'刚孵化'叫freshly hatched🦆",
+    "recite": {
+      "tips": [
+        "视觉联想：hatch+ery=黑客(hatch)在机房(ery)孵代码",
+        "易混词对比：hatch（孵化）/ hack（黑客）"
+      ]
+    }
+  },
+  {
+    "word": "hatchet",
+    "etymology": {
+      "breakdown": [
+        "hach",
+        "et"
+      ],
+      "meaning_connection": "源自古法语hachete（小斧），后缀-et表示'小型'，字面意思就是'小斧头'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "短柄斧",
+        "examples": [
+          {
+            "sentence": "The survival expert used a hatchet to split kindling for the campfire.",
+            "sentence_zh": "野外生存专家用手斧劈开引火柴生营火。"
+          },
+          {
+            "sentence": "Grandpa's hatchet has been sharpened so often it's half its original size.",
+            "sentence_zh": "爷爷的短柄斧因常年打磨，现在只有原来一半大小。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "战斧",
+        "examples": [
+          {
+            "sentence": "Native American warriors often carried tomahawks - a type of hatchet.",
+            "sentence_zh": "美洲原住民战士常携带战斧——一种短柄斧。"
+          },
+          {
+            "sentence": "The Viking buried his hatchet with his fallen comrade.",
+            "sentence_zh": "维京人将战友的战斧与他一同下葬。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bury the hatchet",
+        "meaning": "和解",
+        "examples": [
+          {
+            "sentence": "After years of feuding, the two families finally buried the hatchet.",
+            "sentence_zh": "经过多年争执，两个家族最终握手言和。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hatchet job",
+        "meaning": "恶意攻击",
+        "examples": [
+          {
+            "sentence": "That restaurant review was a total hatchet job - the critic didn't even taste the food.",
+            "sentence_zh": "那篇餐馆评论纯粹是恶意攻击，评论家压根没尝过菜品。"
+          }
+        ]
+      }
+    ],
+    "teach": "hatchet是斧头界的'小钢炮'🪓！北美原住民会用战斧(tomahawk)交换货物，后来演变成'bury the hatchet'（埋斧头）表示停战🤝。现代说'hatchet man'指公司裁员专员⚡，而'hatchet job'就像差评师乱砍的斧头❌。记住：真正的勇士既能挥舞战斧，也懂得何时埋斧头！",
+    "recite": {
+      "tips": [
+        "谐音梗：'还切它'→斧头当然还能继续切",
+        "易混词：axe（长柄斧） vs hatchet（短柄斧）",
+        "记忆tip：hat+chet→戴帽子的小个子斧头"
+      ]
+    }
+  },
+  {
+    "word": "hatching",
+    "etymology": {
+      "breakdown": [
+        "hatch",
+        "ing"
+      ],
+      "meaning_connection": "来自动词hatch（孵化）+后缀-ing表动作/结果→原指鸟类破壳而出时的裂纹，引申为绘画/制图中的排线阴影"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "阴影线",
+        "examples": [
+          {
+            "sentence": "The artist used delicate hatching to create 3D effects in the Peking Opera portrait.",
+            "sentence_zh": "画家用细腻的阴影线在京剧脸谱中营造立体感。"
+          },
+          {
+            "sentence": "Her notebook margins were filled with hatching patterns mimicking Song Dynasty woodblock prints.",
+            "sentence_zh": "她笔记本边缘画满模仿宋代木版画的排线纹样。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "剖面线",
+        "examples": [
+          {
+            "sentence": "The engineer marked the cross-section with 45-degree hatching in the Terracotta Warrior restoration blueprint.",
+            "sentence_zh": "工程师在兵马俑修复图纸中用45度剖面线标注截面。"
+          },
+          {
+            "sentence": "Different materials are distinguished by the density of hatching in the Great Wall architectural drawings.",
+            "sentence_zh": "长城建筑图中通过剖面线疏密区分不同材质。"
+          }
+        ]
+      }
+    ],
+    "teach": "hatching是艺术家的魔法棒🪄：达芬奇用它画蒙娜丽莎衣褶，工程师用它切西瓜般展示机械内脏🍉。'画阴影'叫apply hatching（像给烤鸭刷酱），'密集排线'说cross-hatching就像编竹篮🎋。记住：当你的设计图hatching得像蚂蚁搬家🐜，甲方就知道你加班了！",
+    "recite": {
+      "tips": [
+        "视觉记忆：想象'黑客(hatch)帝国'代码雨💻就是动态hatching",
+        "对比：hatching（规则排线）vs shading（渐变阴影）"
+      ]
+    }
+  },
+  {
+    "word": "hatchway",
+    "etymology": {
+      "breakdown": [
+        "hatch",
+        "way"
+      ],
+      "meaning_connection": "hatch（舱门） + way（通道）→ 连接不同空间的开口"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "舱口",
+        "examples": [
+          {
+            "sentence": "The sailor emerged from the hatchway covered in squid ink.",
+            "sentence_zh": "水手从舱口钻出来时浑身沾满乌贼墨汁。"
+          },
+          {
+            "sentence": "Pirates always film dramatic entrance scenes through hatchways.",
+            "sentence_zh": "海盗电影总爱拍摄从舱口破门而入的戏剧性镜头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地窖口",
+        "examples": [
+          {
+            "sentence": "The potato delivery guy fell into the hatchway of the cellar.",
+            "sentence_zh": "送土豆的小哥掉进了地窖口。"
+          },
+          {
+            "sentence": "Grandma stores her secret chili sauce jars under the hatchway.",
+            "sentence_zh": "奶奶把秘制辣椒酱藏在地窖口下面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "天窗",
+        "examples": [
+          {
+            "sentence": "Sunlight streamed through the attic hatchway onto the dusty piano.",
+            "sentence_zh": "阳光透过阁楼天窗照在积灰的钢琴上。"
+          },
+          {
+            "sentence": "The cat uses the roof hatchway as its private observatory.",
+            "sentence_zh": "那只猫把屋顶天窗当作私人天文台。"
+          }
+        ]
+      }
+    ],
+    "teach": "hatchway是空间魔术师🪄！舱口版像《泰坦尼克号》的逃生通道🚢，地窖口版像《哈利波特》的消失柜🧙♂️，天窗版则是《盗梦空间》的维度入口🌀。记住：任何让物体'咻——'一声消失的开口都可能是hatchway！搭配'escape hatchway（紧急出口）'和'cargo hatchway（货舱口）'，说'窄到卡住'用tight as a pickle jar（像泡菜罐子那么紧）🥒",
+    "recite": {
+      "tips": [
+        "谐音梗：'还缺位'→舱口还缺位(hatchway)子",
+        "易混词对比：hatch（孵化）vs hatchway（通道口）",
+        "记忆tip：想象每个hatchway都藏着《夺宝奇兵》的冒险"
+      ]
+    }
   }
 ]

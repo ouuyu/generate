@@ -15628,5 +15628,275 @@
         "易混词对比：mannequin(静态模特) vs. model(真人模特)"
       ]
     }
+  },
+  {
+    "word": "manner",
+    "etymology": {
+      "breakdown": [
+        "man",
+        "er"
+      ],
+      "meaning_connection": "源自古法语maniere（处理方式），与拉丁语manus（手）相关→原指'手的动作方式'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "样子",
+        "examples": [
+          {
+            "sentence": "The professor spoke in a manner of ancient Confucian scholars.",
+            "sentence_zh": "教授讲话带着古代儒生的样子。"
+          },
+          {
+            "sentence": "Her manner of drinking tea resembles a Tang Dynasty painting.",
+            "sentence_zh": "她喝茶的样子宛如唐画中人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "礼貌",
+        "examples": [
+          {
+            "sentence": "Using chopsticks to point at people shows bad manners.",
+            "sentence_zh": "用筷子指人是不礼貌的。"
+          },
+          {
+            "sentence": "The child displayed excellent manners by offering tea first.",
+            "sentence_zh": "这孩子先敬茶显得很有礼貌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "风格",
+        "examples": [
+          {
+            "sentence": "The novel is written in the manner of Jin Yong's martial arts style.",
+            "sentence_zh": "这部小说模仿了金庸的武侠风格。"
+          },
+          {
+            "sentence": "This calligraphy shows the typical manner of Wang Xizhi.",
+            "sentence_zh": "这幅书法展现了王羲之的典型风格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "方式",
+        "examples": [
+          {
+            "sentence": "The manner of making tofu here follows 500-year-old traditions.",
+            "sentence_zh": "这里制作豆腐的方式遵循五百年传统。"
+          },
+          {
+            "sentence": "They settled the dispute in a peaceful manner.",
+            "sentence_zh": "他们以和平方式解决了争端。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in a ... manner",
+        "meaning": "以...方式",
+        "examples": [
+          {
+            "sentence": "She eats hotpot in an extremely slow manner.",
+            "sentence_zh": "她以极慢的方式吃火锅。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "table manners",
+        "meaning": "餐桌礼仪",
+        "examples": [
+          {
+            "sentence": "Burping after meals is considered good table manners in some cultures.",
+            "sentence_zh": "在某些文化中，饭后打嗝被视为良好的餐桌礼仪。"
+          }
+        ]
+      }
+    ],
+    "teach": "manner就像社交场合的隐形礼服👔！中世纪欧洲贵族靠'手的动作(main)'展示教养🤲（good manners），现代人用'以...方式'造句就像选微信表情包🎭（in a funny manner）。说'没礼貌'别用no manner，要说like a bull in a china shop（瓷器店里的牛）🐮！记住：你的manners决定了你能进米其林还是大排档🍽️。",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢呢'→动作慢呢要注意manner",
+        "易混词对比：method（系统方法） vs manner（个人风格）",
+        "记忆口诀：手上(main)有礼(er)，做人有样"
+      ]
+    }
+  },
+  {
+    "word": "mannered",
+    "etymology": {
+      "breakdown": [
+        "manner",
+        "ed"
+      ],
+      "meaning_connection": "词根manner=举止/方式，后缀-ed表'具有...特性'→原指'有礼貌的'，后引申出'做作的'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "守规矩的",
+        "examples": [
+          {
+            "sentence": "The mannered children bowed before tasting the mooncakes.",
+            "sentence_zh": "这些守规矩的孩子在品尝月饼前先行礼。"
+          },
+          {
+            "sentence": "Her mannered reply to the criticism impressed everyone.",
+            "sentence_zh": "她对批评的得体回应令众人印象深刻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "矫饰的",
+        "examples": [
+          {
+            "sentence": "The influencer's mannered laughter sounded like a broken violin.",
+            "sentence_zh": "这个网红的做作笑声像坏掉的小提琴声。"
+          },
+          {
+            "sentence": "He rejected the mannered style of classical poetry.",
+            "sentence_zh": "他拒绝古典诗歌的矫揉造作风格。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "well-mannered",
+        "meaning": "彬彬有礼的",
+        "examples": [
+          {
+            "sentence": "The well-mannered panda keeper always shares bamboo politely.",
+            "sentence_zh": "这位彬彬有礼的熊猫饲养员总是礼貌地分享竹子。"
+          }
+        ]
+      }
+    ],
+    "teach": "mannered是个'双面间谍'🎭！本义是'有教养的'像故宫礼仪官👘，贬义时变成'做作的'像直播网红假笑🤳。形容'假客气'说put on airs（摆架子），'真优雅'用refined manners。记住：当英语老师说'Your English is mannered'，可能不是夸奖哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢热的'→刚开始显得很manner-ed（拘谨）",
+        "易混词对比：mannered（后天培养的）vs. natural（自然的）",
+        "记忆tip：mannered结尾的-ed像两副面孔"
+      ]
+    }
+  },
+  {
+    "word": "mannerism",
+    "etymology": {
+      "breakdown": [
+        "manner",
+        "ism"
+      ],
+      "meaning_connection": "词根manner=行为方式，后缀-ism=主义/特征→刻意表现的行为特征"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "矫揉造作",
+        "examples": [
+          {
+            "sentence": "Her constant hair-flipping became an annoying mannerism during meetings.",
+            "sentence_zh": "她开会时不停甩头发的动作成了令人烦躁的矫揉造作。"
+          },
+          {
+            "sentence": "The influencer's exaggerated mannerisms made her parody videos go viral.",
+            "sentence_zh": "网红的夸张造作让她模仿视频迅速走红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "习性",
+        "examples": [
+          {
+            "sentence": "The professor's mannerism of adjusting his glasses mid-sentence is endearing.",
+            "sentence_zh": "教授说话途中扶眼镜的习性显得很可爱。"
+          },
+          {
+            "sentence": "Pandas' mannerism of rolling downhill is actually an energy-saving strategy.",
+            "sentence_zh": "熊猫滚下山坡的习性其实是节能策略。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "distinctive mannerism",
+        "meaning": "鲜明习性",
+        "examples": [
+          {
+            "sentence": "The CEO's distinctive mannerism of tapping his pen helps relieve stress.",
+            "sentence_zh": "CEO转笔的鲜明习性其实有助于减压。"
+          }
+        ]
+      }
+    ],
+    "teach": "mannerism就像行为艺术🎭！文艺复兴后期有'矫饰主义'艺术流派（Mannerism），故意扭曲人体比例🤸。现代指：1）装腔作势像抖音滤镜过度👑 2）自然习性像猫主子踩奶🐾。搭配：develop mannerisms（养成习惯）/ unconscious mannerism（无意识小动作）。说'装模作样'可用put on airs🦚",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛮拧ism'→强行(mannerism)装酷",
+        "易混词对比：habit（中性习惯） vs mannerism（带特征的习惯）",
+        "记忆法：拆解成manner（方式）+ ism（主义）= 刻意为之的做派"
+      ]
+    }
+  },
+  {
+    "word": "mannish",
+    "etymology": {
+      "breakdown": [
+        "man",
+        "ish"
+      ],
+      "meaning_connection": "man-表示'男性'，-ish为形容词后缀表'具有...特性的'→原指具有男性特征的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "男子似的",
+        "examples": [
+          {
+            "sentence": "The actress shocked fans with her mannish crew cut at Cannes.",
+            "sentence_zh": "这位女演员在戛纳电影节以男子般的平头造型震惊粉丝。"
+          },
+          {
+            "sentence": "Some Victorian women adopted mannish tailoring as a silent protest.",
+            "sentence_zh": "部分维多利亚时代女性通过穿着男性化剪裁表达无声抗议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "成人似的",
+        "examples": [
+          {
+            "sentence": "The child's mannish politeness made everyone chuckle.",
+            "sentence_zh": "这孩子成人般的礼貌让大家都忍俊不禁。"
+          },
+          {
+            "sentence": "Her mannish negotiation style belied her twelve years of age.",
+            "sentence_zh": "她成人式的谈判风格让人忘记她只有十二岁。"
+          }
+        ]
+      }
+    ],
+    "teach": "mannish是'猛男式'👔的终极描述！就像女装大佬穿西装叫mannish style，小学生装大人说mannish manners。搭配'假小子'用tomboyish作对比，说'装成熟'可以用play grown-up。记住：-ish结尾常带贬义，夸女生帅最好用androgynous（中性美）🌈！",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛮腻屎'→嫌弃男生邋遢的样子",
+        "易混词对比：manly（褒义阳刚） vs mannish（常含贬义）",
+        "记忆法：想象穿爸爸西装的小孩👶👔"
+      ]
+    }
   }
 ]

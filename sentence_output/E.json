@@ -16365,5 +16365,212 @@
         "易混词：anode（阳极）vs cathode（阴极）如同支付宝（收钱）vs 微信（付款）"
       ]
     }
+  },
+  {
+    "word": "electroencephalogram",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "encephalo",
+        "gram"
+      ],
+      "meaning_connection": "electro=电，encephalo=脑，gram=图→记录脑电活动的图形"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "脑电图",
+        "examples": [
+          {
+            "sentence": "The doctor analyzed the electroencephalogram to check for abnormal brain waves.",
+            "sentence_zh": "医生分析脑电图以检查异常脑电波。"
+          },
+          {
+            "sentence": "Getting an electroencephalogram feels like wearing a high-tech hairnet.",
+            "sentence_zh": "做脑电图就像戴了个高科技发网。"
+          }
+        ]
+      }
+    ],
+    "teach": "electroencephalogram是医学界的'读心术帽子'🧠⚡！这个词由三部分构成：电(electro)+脑(encephalo)+图(gram)，就像给大脑装了个WiFi信号接收器📶。做检查时电极贴满头的造型，活像顶着章鱼博士的机械触手🐙。搭配短语：abnormal EEG（异常脑电）、sleep EEG（睡眠脑电）。记住：你的每个想法都会在这张图上跳迪斯科💃！",
+    "recite": {
+      "tips": [
+        "拆解记忆：'electro（电）+ encephalo（脑）+ gram（图）'",
+        "联想：脑电图像大脑发的朋友圈📱"
+      ]
+    }
+  },
+  {
+    "word": "electrolysis",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "lysis"
+      ],
+      "meaning_connection": "electro=电，lysis=分解→用电分解物质的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电分解",
+        "examples": [
+          {
+            "sentence": "Electrolysis of water produces hydrogen bubbles like soda fizz.",
+            "sentence_zh": "水的电分解会产生像汽水冒泡般的氢气。"
+          },
+          {
+            "sentence": "Middle school chemistry labs often demonstrate electrolysis with potato batteries.",
+            "sentence_zh": "中学化学课常用土豆电池演示电分解。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电解",
+        "examples": [
+          {
+            "sentence": "Aluminum production relies on massive electrolysis tanks as big as swimming pools.",
+            "sentence_zh": "铝生产依赖游泳池大小的巨型电解槽。"
+          },
+          {
+            "sentence": "The electrolysis experiment made the copper wire grow furry green crystals.",
+            "sentence_zh": "电解实验让铜线长出毛茸茸的绿色结晶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "以电针除痣",
+        "examples": [
+          {
+            "sentence": "Beauty salons use electrolysis to zap unwanted hair with tiny lightning bolts.",
+            "sentence_zh": "美容院用电解法像微型闪电般清除多余毛发。"
+          },
+          {
+            "sentence": "The ancient Egyptian papyrus recorded early electrolysis for tattoo removal.",
+            "sentence_zh": "古埃及纸草书记载了最早的纹身电解祛除术。"
+          }
+        ]
+      }
+    ],
+    "teach": "electrolysis是科学版雷电法师⚡：1) 1800年伏特发明电池后，人们才发现水能被'电劈'成氢氧（氢气可燃爆💥）2) 想象成雷神之锤🔨砸开分子 3) 搭配'perform electrolysis/undergo electrolysis' 4) 吐槽'脸像被电解过'可说'my face looks like a science experiment' 5) 电解三件套：电池🔋+导线🧵+泡泡🫧",
+    "recite": {
+      "tips": [
+        "谐音梗：'一颗巧克力sis'→电解像融化巧克力",
+        "易混词：electrolyte（电解质）是被电解的物质",
+        "记忆法：electro（电）+lysis（医疗术语常见后缀）"
+      ]
+    }
+  },
+  {
+    "word": "electrolyte",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "lyte"
+      ],
+      "meaning_connection": "词根electro=电，lyte=可溶解→'可被电分解的物质'，这个造词法就像把'雷电泡腾片'⚡💊扔进水里看它滋滋分解"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电解物",
+        "examples": [
+          {
+            "sentence": "The scientist dropped electrolyte into water, creating tiny lightning in the beaker.",
+            "sentence_zh": "科学家将电解物滴入水中，在烧杯里制造出微型闪电。"
+          },
+          {
+            "sentence": "Pickles are nature's electrolyte snacks for marathon runners.",
+            "sentence_zh": "腌黄瓜是大自然为马拉松选手准备的电解物零食。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电解质",
+        "examples": [
+          {
+            "sentence": "Sports drinks advertise their electrolytes with neon-colored labels.",
+            "sentence_zh": "运动饮料用荧光色标签标榜其电解质成分。"
+          },
+          {
+            "sentence": "Coconut water is called 'nature's electrolyte cocktail'.",
+            "sentence_zh": "椰子水被称为'大自然的电解质鸡尾酒'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电解液",
+        "examples": [
+          {
+            "sentence": "The battery leaked blue electrolyte onto the toy car.",
+            "sentence_zh": "电池里的蓝色电解液漏到了玩具车上。"
+          },
+          {
+            "sentence": "Tesla's secret sauce may lie in their electrolyte formula.",
+            "sentence_zh": "特斯拉的秘诀可能藏在他们的电解液配方里。"
+          }
+        ]
+      }
+    ],
+    "teach": "电解质是身体里的'魔法粉末'🧙♂️：1) 历史梗：古希腊人发现被电鳗🐡电击后肌肉抽搐，其实是被电解了 2) 想象成'电流的搬运工'🚚，就像外卖小哥在神经细胞间送电信号 3) 搭配：balance electrolytes（平衡电解质）/ electrolyte imbalance（电解质紊乱） 4) 地道说法：'累到电解质耗尽'叫running on empty⚡ 5) 记住三元素：⚡+💧+🏃=电解质！",
+    "recite": {
+      "tips": [
+        "谐音梗：'来电聊他'→电解质就是来电（electro）时能聊（lyte）的物质",
+        "易混词：electron（电子）是单身汉，electrolyte（电解质）是能导电的'已婚人士'",
+        "记忆法：把'lyte'想成'light（光）'+'water（水）'→水电发光"
+      ]
+    }
+  },
+  {
+    "word": "electrolytic",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "lyt",
+        "ic"
+      ],
+      "meaning_connection": "electro=电 (如electric), lyt=分解 (来自希腊语lysis), -ic=形容词后缀→用电分解的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "电解的",
+        "examples": [
+          {
+            "sentence": "The electrolytic process separates water into hydrogen and oxygen bubbles.",
+            "sentence_zh": "电解过程把水分解成氢气和氧气泡泡。"
+          },
+          {
+            "sentence": "This electrolytic cell looks like a mad scientist's coffee maker.",
+            "sentence_zh": "这个电解槽看起来像疯狂科学家的咖啡机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "电解质的",
+        "examples": [
+          {
+            "sentence": "Electrolytic drinks help marathon runners recharge like human batteries.",
+            "sentence_zh": "电解质饮料让马拉松选手像人体电池般充电。"
+          },
+          {
+            "sentence": "The pickle juice is a natural electrolytic solution for cramps.",
+            "sentence_zh": "腌黄瓜汁是治疗抽筋的天然电解质溶液。"
+          }
+        ]
+      }
+    ],
+    "teach": "电解(electrolytic)就是给物质'电疗'💡！就像把水分子送进健身房🏋️♂️，正负极教练强行把它们拆成氢氧两队。电解质饮料则是运动后的'电力充值'🔋，'盐糖水'配方俗称sweat in a bottle（瓶装汗水）。记住：电解=电+分解，就像用闪电劈开可乐罐🥤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一颗锂铁克'→锂电池需要电解液",
+        "易混词：electric（电的）vs electrolytic（电解的）",
+        "联想：电解=电子警察(electro)拆散(lyt)分子情侣"
+      ]
+    }
   }
 ]

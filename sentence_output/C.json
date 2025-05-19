@@ -15394,5 +15394,231 @@
         "易混词：surrender(普通投降) vs capitulation(正式书面投降)"
       ]
     }
+  },
+  {
+    "word": "capo",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自意大利语'capo'（头领），音乐术语借指'固定琴弦的头部装置'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "品柱（吉他等乐器部件）",
+        "examples": [
+          {
+            "sentence": "The guitarist slid the capo to the third fret to change the key.",
+            "sentence_zh": "吉他手将变调夹滑到第三品以改变调性。"
+          },
+          {
+            "sentence": "My capo smells like pine because it's made of cedar wood.",
+            "sentence_zh": "我的变调夹有松木香，因为它是雪松材质的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "分支头目（黑手党组织）",
+        "examples": [
+          {
+            "sentence": "The capo reported directly to the don in this crime family.",
+            "sentence_zh": "这个犯罪家族的小头目直接向教父汇报。"
+          },
+          {
+            "sentence": "Police arrested a capo who disguised as a pizza chef.",
+            "sentence_zh": "警方逮捕了伪装成披萨师傅的黑手党头目。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "capo dei capi",
+        "meaning": "头目中的头目（黑手党最高领袖）",
+        "examples": [
+          {
+            "sentence": "The FBI has been tracking the capo dei capi for decades.",
+            "sentence_zh": "联邦调查局已追踪黑手党最高首领数十年。"
+          }
+        ]
+      }
+    ],
+    "teach": "capo是音乐界和黑帮的跨界明星🎸🔫！吉他变调夹像给琴弦戴'发箍'👑（capo on guitar），而黑帮capo则是区域'分店长'💼。趣知识：《教父》电影里阿尔·帕西诺的角色最终成为capo dei capi🍝。搭配：'install a capo'（装变调夹），'capo regime'（头目政权）。说'小喽啰'可以用small fry🐟，记住这个能文能武的单词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡脖'→变调夹卡住琴脖",
+        "易混词：cape（披风）vs capo（变调夹/头目）",
+        "联想：吉他变调夹像琴颈的'领带夹'"
+      ]
+    }
+  },
+  {
+    "word": "capped",
+    "etymology": {
+      "breakdown": [
+        "cap",
+        "ped"
+      ],
+      "meaning_connection": "cap=帽子，-ped=过去式/分词后缀→原指脱帽动作的完成状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "脱帽致意",
+        "examples": [
+          {
+            "sentence": "The old gentleman capped politely when the funeral procession passed by.",
+            "sentence_zh": "当送葬队伍经过时，老绅士脱帽致意。"
+          },
+          {
+            "sentence": "In Victorian England, men capped to ladies as automatically as breathing.",
+            "sentence_zh": "在维多利亚时代的英格兰，男士们向女士脱帽致意如同呼吸般自然。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cap in hand",
+        "meaning": "恭敬地",
+        "examples": [
+          {
+            "sentence": "He stood cap in hand before the judge like a 19th-century chimney sweep.",
+            "sentence_zh": "他恭敬地站在法官面前，活像19世纪的扫烟囱工人。"
+          }
+        ]
+      }
+    ],
+    "teach": "capped其实是'帽礼'🎩的考古现场！中世纪骑士掀面甲(cap)示友好演变而来🤺，现代版就像外卖小哥点头说'用餐愉快'🍔。说'毕恭毕敬'可用hat in hand比cap更现代，突发奇想可用tip one's hat💡。记住：当别人capped时，你的发际线安全了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶的'→开瓶(capped)时脱帽庆祝",
+        "易混词对比：caped（穿披风的）vs capped（脱帽的）→超人穿披风从不脱帽"
+      ]
+    }
+  },
+  {
+    "word": "capper",
+    "etymology": {
+      "breakdown": [
+        "cap",
+        "er"
+      ],
+      "meaning_connection": "词根cap=帽子/覆盖，后缀-er表示人或工具→衍生出'戴帽人'和'封盖装置'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "诱骗者",
+        "examples": [
+          {
+            "sentence": "The capper lured victims with free iPhone giveaways.",
+            "sentence_zh": "诈骗者用免费送iPhone的幌子诱骗受害者。"
+          },
+          {
+            "sentence": "Ancient cappers often pretended to be fortune tellers.",
+            "sentence_zh": "古代的江湖骗子常伪装成算命先生。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "帽商",
+        "examples": [
+          {
+            "sentence": "The capper at Panjiayuan Market sells traditional Chinese hats.",
+            "sentence_zh": "潘家园市场的帽商专卖中国传统帽子。"
+          },
+          {
+            "sentence": "Milan cappers created the world's most expensive fedora.",
+            "sentence_zh": "米兰帽商制作过全球最贵的软呢帽。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "封口机",
+        "examples": [
+          {
+            "sentence": "This automatic capper can seal 1000 bottles per minute.",
+            "sentence_zh": "这台自动封口机每分钟能密封1000个瓶子。"
+          },
+          {
+            "sentence": "Lao Gan Ma uses special cappers for their chili sauce jars.",
+            "sentence_zh": "老干妈辣椒酱使用特制封口机封装。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bottle capper",
+        "meaning": "瓶盖封装机",
+        "examples": [
+          {
+            "sentence": "Craft beer brewers love manual bottle cappers.",
+            "sentence_zh": "精酿啤酒师钟情手动瓶盖封装机。"
+          }
+        ]
+      }
+    ],
+    "teach": "capper这词就像变魔术🎩！当'骗子'用时堪比《猫鼠游戏》主角🃏（con artist），当'帽商'时让人想起《哈利波特》的分院帽🧙，当'封口机'时立刻变身流水线终结者🤖。记住：看到超市货架上的老干妈，别忘了它经过capper的'盖世神功'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶儿'→开瓶器(capper)也是封口机",
+        "易混词：clapper（鼓掌者）vs capper",
+        "记忆口诀：帽子戏法有三变（骗子/商人/机器）"
+      ]
+    }
+  },
+  {
+    "word": "capping",
+    "etymology": {
+      "breakdown": [
+        "cap",
+        "ing"
+      ],
+      "meaning_connection": "词根cap=覆盖/帽子，-ing表动作/结果→原指加盖行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "髓盖（牙齿治疗中覆盖牙髓的材料）",
+        "examples": [
+          {
+            "sentence": "The dentist used calcium hydroxide for capping the exposed pulp.",
+            "sentence_zh": "牙医用氢氧化钙作髓盖保护暴露的牙髓。"
+          },
+          {
+            "sentence": "Modern capping techniques can prevent root canal treatment in 80% cases.",
+            "sentence_zh": "现代盖髓术可在80%病例中避免根管治疗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "盖髓术（牙科手术）",
+        "examples": [
+          {
+            "sentence": "Direct capping requires absolute isolation of the tooth.",
+            "sentence_zh": "直接盖髓术要求牙齿完全隔离。"
+          },
+          {
+            "sentence": "Her capping procedure was as painless as getting a bubble tea.",
+            "sentence_zh": "她的盖髓手术像买奶茶一样无痛。"
+          }
+        ]
+      }
+    ],
+    "teach": "capping其实是牙医界的'戴帽子'🎓！就像给受伤的牙髓戴上安全帽⛑️（直接盖髓），或者像火锅加盖防止烫伤🍲（间接盖髓）。牙医说'保髓'叫vital pulp therapy，但患者只关心'能不能啃鸭脖'🦆。记住：capping就是牙髓的'创可贴时刻'！",
+    "recite": {
+      "tips": [
+        "视觉联想：把牙髓想象成需要雨伞☔保护的嫩芽",
+        "易混词对比：cap（帽子）→capping（盖帽动作/牙科术语）"
+      ]
+    }
   }
 ]

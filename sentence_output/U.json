@@ -15253,5 +15253,226 @@
         "记忆tip：un+critical=考试时'不判断'直接选C"
       ]
     }
+  },
+  {
+    "word": "uncritically",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "critical",
+        "ly"
+      ],
+      "meaning_connection": "前缀un-表否定，词根critical=批评的，后缀-ly构成副词→字面意为'以不批评的方式'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不加批评地",
+        "examples": [
+          {
+            "sentence": "Fans sometimes accept celebrity endorsements uncritically.",
+            "sentence_zh": "粉丝有时会不加批判地接受明星代言。"
+          },
+          {
+            "sentence": "The AI chatbot repeated online rumors uncritically.",
+            "sentence_zh": "这个AI聊天机器人不加甄别地复述了网络谣言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不加鉴别地",
+        "examples": [
+          {
+            "sentence": "Tourists buying jade often trust street vendors uncritically.",
+            "sentence_zh": "游客购买玉石时常会不加鉴别地轻信街头小贩。"
+          },
+          {
+            "sentence": "Swallowing health myths uncritically may lead to danger.",
+            "sentence_zh": "对健康谣言全盘接受可能导致危险。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncritically就像无脑转发谣言的朋友圈📱！这个词描述的是'闭眼点赞'状态👀，比如看爱豆微博时自动屏蔽所有负面评论💫。要形容'盲目相信'可以用'drink the Kool-Aid'（原指邪教集体服毒事件），'无脑吹'叫fangirling/fanboying。记住：对待信息要像吃小龙虾🦞→得先剥壳看肉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺可懒得挑'→uncritically全盘接受",
+        "易混词对比：critically（批判地）vs uncritically（无批判地）"
+      ]
+    }
+  },
+  {
+    "word": "uncrossed",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "cross",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表示否定，词根cross=十字/交叉，-ed构成形容词→字面指'未被划十字的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "未划线的",
+        "examples": [
+          {
+            "sentence": "Her uncrossed shopping list still had 10 bubble tea flavors to try.",
+            "sentence_zh": "她未划线的购物清单上还有10种奶茶口味待尝试。"
+          },
+          {
+            "sentence": "Keep the answer sheet uncrossed until the exam begins.",
+            "sentence_zh": "考试开始前请保持答题卡未划线。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未受挫折的",
+        "examples": [
+          {
+            "sentence": "The young entrepreneur's uncrossed ambition led him to create a new social app.",
+            "sentence_zh": "这位年轻创业者未受挫折的雄心促使他开发了新的社交应用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不受反抗的",
+        "examples": [
+          {
+            "sentence": "The new policy passed through the meeting uncrossed.",
+            "sentence_zh": "新政策在会议上未受反抗地通过了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未戴十字架的",
+        "examples": [
+          {
+            "sentence": "The uncrossed priest surprised the congregation during the Easter service.",
+            "sentence_zh": "复活节礼拜时未戴十字架的神父让会众很惊讶。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncrossed是'佛系状态'🙏：1) 像考试卷没被划过的干净（物理未划线）2) 像锦鲤附体没遭过社会毒打（未受挫折）3) 像地铁安检没人拦你（不受反抗）4) 像神父忘带工作证（未戴十字架）。搭配：keep sth uncrossed（保持某物未触碰）, go uncrossed（顺利通过）。说'一帆风顺'可以用smooth sailing⛵️",
+    "recite": {
+      "tips": [
+        "视觉记忆：想象锦鲤游过没被划线的彩票🎫",
+        "易混词：unchecked（未检查的）"
+      ]
+    }
+  },
+  {
+    "word": "uncrowded",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "crowd",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表否定，crowd表示'人群'，-ed构成形容词→没有人群的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "不拥挤的",
+        "examples": [
+          {
+            "sentence": "The uncrowded subway at 3am feels like a private limousine.",
+            "sentence_zh": "凌晨3点不拥挤的地铁像私人豪华轿车。"
+          },
+          {
+            "sentence": "Finding an uncrowded hotpot restaurant during holidays is rarer than pandas.",
+            "sentence_zh": "节假日找到不拥挤的火锅店比熊猫还稀有。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "宽敞的",
+        "examples": [
+          {
+            "sentence": "Her uncrowded balcony fits 20 succulent plants and a yoga mat.",
+            "sentence_zh": "她宽敞的阳台能放下20盆多肉植物和瑜伽垫。"
+          },
+          {
+            "sentence": "The uncrowded countryside roads are perfect for learning to ride a bike.",
+            "sentence_zh": "宽敞的乡间小路最适合学骑自行车。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncrowded其实是'人从众𠈌'的反义词🚶‍♂️💨！想象早高峰地铁( crowded)VS蒙古草原(uncrowded)🐎，'人少'还能说sparsely populated（像撒芝麻），'宽松环境'叫breathing room💨。记住这个单词时，想想你在环球影城抢到VIP通道的快乐🎢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺可绕得的'→地方宽敞到可以绕圈跑",
+        "易混词对比：empty（完全空的）VS uncrowded（有空间但不一定无人）"
+      ]
+    }
+  },
+  {
+    "word": "uncrowned",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "crown",
+        "ed"
+      ],
+      "meaning_connection": "前缀un-表示否定，crown表示皇冠，-ed表形容词→字面即'未被加冕的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "未戴皇冠的",
+        "examples": [
+          {
+            "sentence": "The uncrowned statue of Queen Elizabeth stood in the sculptor's studio.",
+            "sentence_zh": "未戴皇冠的伊丽莎白女王雕像矗立在雕塑家的工作室里。"
+          },
+          {
+            "sentence": "Disney's uncrowned Elsa looks completely different from her ice-queen image.",
+            "sentence_zh": "没戴皇冠的迪士尼艾莎看起来与她的冰雪女王形象截然不同。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "未举行加冕礼的",
+        "examples": [
+          {
+            "sentence": "The uncrowned king had to rule amidst political chaos.",
+            "sentence_zh": "这位未加冕的国王不得不在政治动荡中执政。"
+          },
+          {
+            "sentence": "British tabloids called him 'the uncrowned prince of pop' for years before his official recognition.",
+            "sentence_zh": "在他获得官方认可前，英国小报多年来称他为'流行乐未加冕的王子'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the uncrowned king/queen",
+        "meaning": "无冕之王/后",
+        "examples": [
+          {
+            "sentence": "Jay Chou was considered the uncrowned king of Mandopop in his early career.",
+            "sentence_zh": "周杰伦在职业生涯早期被视为华语流行乐的无冕之王。"
+          }
+        ]
+      }
+    ],
+    "teach": "uncrowned就像被美团外卖偷走的皇冠👑！这个词完美形容：1) 忘记戴王冠匆忙出门的女王（literally uncrowned）2) 抖音网红自称'带货界无冕之王'（figuratively uncrowned）。搭配用：'学术界的无冕女王'叫uncrowned academic queen，'实际统治者'说uncrowned ruler。地道表达：'虚有其表'可以说all crown but no kingdom（有皇冠无王国）🤴💍",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺可绕的'→俺可绕的(uncrowned)路避开加冕典礼",
+        "易混词：crowned/uncrowned 就像泡面包装图案vs实物"
+      ]
+    }
   }
 ]

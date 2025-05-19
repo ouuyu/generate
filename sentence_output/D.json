@@ -15669,5 +15669,190 @@
         "易混词：precision（精确）也需要'切'的动作"
       ]
     }
+  },
+  {
+    "word": "decisive",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "cis",
+        "ive"
+      ],
+      "meaning_connection": "前缀de-表示'彻底'，词根cis表示'切'，-ive为形容词后缀→原指'能切断犹豫的'，引申出'果断的'和'决定性的'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "决定性的",
+        "examples": [
+          {
+            "sentence": "The decisive goal was scored with only 3 seconds left.",
+            "sentence_zh": "决胜球在最后3秒被踢进。"
+          },
+          {
+            "sentence": "Alibaba's IPO became a decisive moment for Chinese e-commerce.",
+            "sentence_zh": "阿里巴巴上市成为中国电商的决定性时刻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "坚定的",
+        "examples": [
+          {
+            "sentence": "Her decisive refusal stopped the pyramid scheme recruiter.",
+            "sentence_zh": "她坚定的拒绝阻止了传销人员的游说。"
+          },
+          {
+            "sentence": "The judge gave a decisive ruling against the copyright infringement.",
+            "sentence_zh": "法官对侵权行为作出了坚定裁决。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "果断的",
+        "examples": [
+          {
+            "sentence": "His decisive action saved the drowning panda cub.",
+            "sentence_zh": "他果断的行动救起了溺水的熊猫幼崽。"
+          },
+          {
+            "sentence": "The chef's decisive seasoning made the mapo tofu legendary.",
+            "sentence_zh": "厨师果断的调味让麻婆豆腐成为传奇。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "decisive factor",
+        "meaning": "决定性因素",
+        "examples": [
+          {
+            "sentence": "Battery life is the decisive factor when Chinese buyers choose smartphones.",
+            "sentence_zh": "中国消费者选购手机时，续航是决定性因素。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "decisive victory",
+        "meaning": "压倒性胜利",
+        "examples": [
+          {
+            "sentence": "The Chinese women's volleyball team achieved a decisive victory in Rio.",
+            "sentence_zh": "中国女排在里约取得压倒性胜利。"
+          }
+        ]
+      }
+    ],
+    "teach": "decisive是'快刀斩乱麻'🗡️的完美代言！想象关羽温酒斩华雄（decisive action）⚔️，或诸葛亮空城计（decisive moment）🎭。说'优柔寡断'是wishy-washy像泡发的方便面🍜，而'雷厉风行'叫cut the Gordian knot像拆快递✂️。记住：做决定时要么decisive要么die-cisive（梗：犹豫会死）💀",
+    "recite": {
+      "tips": [
+        "谐音梗：'敌塞息雾'→敌人塞住呼吸果断撤退",
+        "对比记忆：decision是名词，decisive是形容词",
+        "联想：cis词根=切，手术incision就是'切进去'"
+      ]
+    }
+  },
+  {
+    "word": "decisively",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "cis",
+        "ive",
+        "ly"
+      ],
+      "meaning_connection": "前缀de-表'完全'，词根cis=切割(如scissors剪刀)，-ive表性质，-ly变副词→像快刀斩乱麻般彻底解决"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "果断地",
+        "examples": [
+          {
+            "sentence": "The CEO decisively canceled the project when he saw the budget.",
+            "sentence_zh": "当CEO看到预算时，果断取消了该项目。"
+          },
+          {
+            "sentence": "She decisively blocked her ex's WeChat after the breakup.",
+            "sentence_zh": "分手后她果断拉黑了前任的微信。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "决然地",
+        "examples": [
+          {
+            "sentence": "The judge decisively rejected the bribe offer.",
+            "sentence_zh": "法官决然地拒绝了贿赂。"
+          },
+          {
+            "sentence": "He decisively quit his job to start a hotpot restaurant.",
+            "sentence_zh": "他决然辞职开起了火锅店。"
+          }
+        ]
+      }
+    ],
+    "teach": "decisively是职场'快刀斩乱麻'🔪！想象李佳琦砍价时喊'所有女生，三二一上链接！'的果断💸。搭配：decisively win（碾压式获胜）/ act decisively（雷厉风行）。说'优柔寡断'像火锅选锅底：indecisive like choosing between spicy and clear soup🍲。记住：cis词根=切割，像剪刀(scissors)咔嚓解决问题✂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'敌塞我利'→果断决策让敌人塞车我们得利",
+        "易混词：definitely(肯定地) vs. decisively(果断地)",
+        "记忆法：de+cis+ive=完全切割→快刀斩乱麻"
+      ]
+    }
+  },
+  {
+    "word": "decisiveness",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "cis",
+        "ive",
+        "ness"
+      ],
+      "meaning_connection": "前缀de-表'完全'，词根cis=切割，-ive形容词后缀，-ness名词后缀→完全切割(犹豫)的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "果断性",
+        "examples": [
+          {
+            "sentence": "A CEO's decisiveness is like a samurai's sword cutting through doubts.",
+            "sentence_zh": "CEO的果断性如同武士刀斩断疑虑。"
+          },
+          {
+            "sentence": "Her decisiveness in ordering mala hotpot saved us 30 minutes of menu debate.",
+            "sentence_zh": "她果断点麻辣火锅的决定为我们省下30分钟菜单争论。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with decisiveness",
+        "meaning": "以决断力",
+        "examples": [
+          {
+            "sentence": "He deleted WeChat games with decisiveness before finals.",
+            "sentence_zh": "期末考试前他果断删除了微信小游戏。"
+          }
+        ]
+      }
+    ],
+    "teach": "decisiveness是'快刀斩乱麻'⚔️：词根cis来自凯撒名言'我来我见我征服'的拉丁文。当代用法像双11秒杀剁手🔪（act with decisiveness），拖延症患者最缺这个！记住：犹豫就会败北，果断就会白给→但至少省时间⏳",
+    "recite": {
+      "tips": [
+        "拆解记忆：de(彻底)+cis(切)+ness→彻底切断的状态",
+        "对比记忆：decision是决定，decisiveness是决定力"
+      ]
+    }
   }
 ]

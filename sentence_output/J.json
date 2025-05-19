@@ -16134,5 +16134,173 @@
         "易混词对比：jury（陪审团） vs juror（单个陪审员）"
       ]
     }
+  },
+  {
+    "word": "jury",
+    "etymology": {
+      "breakdown": [
+        "jur",
+        "y"
+      ],
+      "meaning_connection": "词根jur=法律/发誓，-y表集体名词→原指宣誓执行法律职责的团体"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "陪审团",
+        "examples": [
+          {
+            "sentence": "The jury watched the defendant slurp spicy hotpot during the trial.",
+            "sentence_zh": "陪审团目睹被告在庭审时狂吃麻辣火锅。"
+          },
+          {
+            "sentence": "Twelve ordinary citizens formed the jury that decided the viral internet case.",
+            "sentence_zh": "十二名普通市民组成的陪审团裁决了这起网络热议案件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "评判委员会",
+        "examples": [
+          {
+            "sentence": "The jury of the chili pepper eating contest all wore fireproof suits.",
+            "sentence_zh": "吃辣椒大赛的评委们全都穿着防火服。"
+          },
+          {
+            "sentence": "As a jury member for the comedy festival, she laughed until her ribs hurt.",
+            "sentence_zh": "作为喜剧节的评委，她笑到肋骨疼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "应急的",
+        "examples": [
+          {
+            "sentence": "They made a jury-rigged tent using bamboo and Douyin live stream banners.",
+            "sentence_zh": "他们用竹子和抖音直播横幅搭了个临时帐篷。"
+          },
+          {
+            "sentence": "The jury mast saved the ship after the typhoon hit.",
+            "sentence_zh": "台风过后应急桅杆救了这艘船。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jury duty",
+        "meaning": "陪审义务",
+        "examples": [
+          {
+            "sentence": "He brought a hot pot set to jury duty claiming it was 'essential for deliberations'.",
+            "sentence_zh": "他带火锅套装去履行陪审义务，声称'对审议至关重要'。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "jury-rigged",
+        "meaning": "临时拼凑的",
+        "examples": [
+          {
+            "sentence": "The jury-rigged karaoke system used cooking pots as speakers.",
+            "sentence_zh": "这个临时拼凑的KTV系统用炒菜锅当喇叭。"
+          }
+        ]
+      }
+    ],
+    "teach": "jury是法庭版《十二怒汉》👨⚖️👩⚖️：古罗马人认为发誓(jur)者才配裁决。'应急的'释义来自航海术语🌊，比如用泡面箱当救生艇(jury-rigged)。说'被选中当陪审团'就像中彩票🎫（get called for jury duty），临时方案叫jury-rigged就像用自拍杆当钓鱼竿🎣。记住：庄严宣誓和土味应急都是jury！",
+    "recite": {
+      "tips": [
+        "谐音梗：'狙累'→陪审团狙击嫌犯累坏了",
+        "易混词对比：jury(陪审团)/judge(法官)→前者是平民天团，后者是专业大佬"
+      ]
+    }
+  },
+  {
+    "word": "jus",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拉丁语原词，同时承载'法律'与'汁液'双重含义，体现古罗马'法律如生命之源'的隐喻"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "法律",
+        "examples": [
+          {
+            "sentence": "The concept of jus naturale influenced modern human rights theories.",
+            "sentence_zh": "自然法的概念影响了现代人权理论。"
+          },
+          {
+            "sentence": "Roman jus civile was carved on bronze tablets for public display.",
+            "sentence_zh": "罗马民法曾被刻在青铜板上公开展示。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "权利",
+        "examples": [
+          {
+            "sentence": "Jus sanguinis determines citizenship by bloodline in many countries.",
+            "sentence_zh": "血统主义权利决定许多国家的公民身份归属。"
+          },
+          {
+            "sentence": "The debate over jus ad bellum continues at the UN.",
+            "sentence_zh": "关于开战权的辩论仍在联合国持续。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "汁液",
+        "examples": [
+          {
+            "sentence": "French chefs reduce jus de viande to intensify flavors.",
+            "sentence_zh": "法国厨师收浓肉汁来强化风味。"
+          },
+          {
+            "sentence": "The secret of this dish lies in the citrus jus infusion.",
+            "sentence_zh": "这道菜的秘诀在于柑橘汁的注入。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "jus gentium",
+        "meaning": "万国法",
+        "examples": [
+          {
+            "sentence": "Ancient maritime trade relied on jus gentium principles.",
+            "sentence_zh": "古代海上贸易依赖万国法原则。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "au jus",
+        "meaning": "带原汁",
+        "examples": [
+          {
+            "sentence": "Prime rib served au jus is a Thanksgiving classic.",
+            "sentence_zh": "带原汁上桌的优质肋排是感恩节经典菜。"
+          }
+        ]
+      }
+    ],
+    "teach": "jus是法律界的'酱香拿铁'⚖️☕！古罗马人认为法律如肉汁(jus)般滋养社会🍖，法语里'au jus'指'保留原汁'就像法律保留传统精华。说'钻法律空子'叫find loopholes in the law就像用吸管偷喝浓汤🥄，'法学生'叫law nerds比'legal professionals'更接地气！记住：当jus飘着肉香时别翻法典📖，当它在法典里时别加黑胡椒🌑。",
+    "recite": {
+      "tips": [
+        "谐音梗：'夹死'→法律条款夹死(jus)你的自由",
+        "易混词：justice（正义）是jus的衍生词",
+        "记忆法：想象法官用滴管往法典上滴肉汁"
+      ]
+    }
   }
 ]

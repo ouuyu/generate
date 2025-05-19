@@ -15983,5 +15983,299 @@
         "易混词：cursed（普通诅咒）vs accursed（超级加倍版诅咒）"
       ]
     }
+  },
+  {
+    "word": "accusation",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cus",
+        "ation"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cus来自拉丁语causari（责备），-ation为名词后缀→指向某人提出责备"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "控告",
+        "examples": [
+          {
+            "sentence": "The accusation of embezzlement shocked the tech community.",
+            "sentence_zh": "这起挪用公款的指控震惊了科技圈。"
+          },
+          {
+            "sentence": "Her TikTok video contained serious accusations against the company.",
+            "sentence_zh": "她的抖音视频包含对该公司的严重控告。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "指责",
+        "examples": [
+          {
+            "sentence": "Fans threw eggs at the referee after his unfair accusation.",
+            "sentence_zh": "裁判的不公正指责引发球迷扔鸡蛋抗议。"
+          },
+          {
+            "sentence": "The Weibo post was full of baseless accusations.",
+            "sentence_zh": "这条微博满是无端指责。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "false accusation",
+        "meaning": "诬告",
+        "examples": [
+          {
+            "sentence": "The livestreamer sued for false accusation of selling fake goods.",
+            "sentence_zh": "该主播因被诬告售假而提起诉讼。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "level an accusation",
+        "meaning": "提出指控",
+        "examples": [
+          {
+            "sentence": "Douyin bloggers leveled accusations of food safety violations.",
+            "sentence_zh": "抖音博主对食品安全违规行为提出指控。"
+          }
+        ]
+      }
+    ],
+    "teach": "accusation是'律师函警告'⚖️：词根cus像'咔哧'咬住不放（比如excuse=找借口开脱）。当你说'你偷我外卖'时就是casual accusation（日常指责），但说'你偷我专利'就成了legal accusation（法律指控）💼。记住：随口accuse可能被反诉defamation（诽谤）哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'A酷谁醒'→酷哥醒来被指控",
+        "易混词对比：accusation（正式指控）vs. blame（普通责备）"
+      ]
+    }
+  },
+  {
+    "word": "accusatory",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cus",
+        "atory"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cus来自拉丁语causa（原因），-atory表形容词→'指向原因的'，引申为指控性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "控诉的",
+        "examples": [
+          {
+            "sentence": "The documentary takes an accusatory tone toward plastic pollution.",
+            "sentence_zh": "这部纪录片对塑料污染采取控诉口吻。"
+          },
+          {
+            "sentence": "Her accusatory finger pointed directly at the broken vase.",
+            "sentence_zh": "她控诉般的手指直指破碎的花瓶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "指责的",
+        "examples": [
+          {
+            "sentence": "Stop giving me those accusatory looks when I eat durian!",
+            "sentence_zh": "我吃榴莲时别再给我那种指责的眼神了！"
+          },
+          {
+            "sentence": "The teacher's accusatory question made the students blush.",
+            "sentence_zh": "老师指责的提问让学生们脸红了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accusatory letter",
+        "meaning": "问责信",
+        "examples": [
+          {
+            "sentence": "The CEO received an accusatory letter about the missing milk tea funds.",
+            "sentence_zh": "CEO收到关于消失的奶茶基金的问责信。"
+          }
+        ]
+      }
+    ],
+    "teach": "accusatory就像柯南扶眼镜的反光⚡！词根cus藏在because里（因为要追责嘛）。说'甩锅'用pass the buck🍳，'背黑锅'叫be the scapegoat🐐。记住：当女朋友用accusatory眼神看你时，赶紧点奶茶赔罪🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊！苦嫂唾哩'→被嫂子指责时喷出的苦水",
+        "易混词：accusation（n.指控）/ excuse（n.借口）"
+      ]
+    }
+  },
+  {
+    "word": "accuse",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cuse"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cuse来自拉丁语causari（诉讼）→原指'面向法庭提出指控'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "指责",
+        "examples": [
+          {
+            "sentence": "The teacher accused the student of copying homework during lunch break.",
+            "sentence_zh": "老师指责该学生在午休时抄袭作业。"
+          },
+          {
+            "sentence": "Netizens angrily accused the influencer of selling fake skincare products.",
+            "sentence_zh": "网友愤怒指责该网红售卖虚假护肤品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "控告",
+        "examples": [
+          {
+            "sentence": "Prosecutors accused the CEO of embezzling company funds to buy NFTs.",
+            "sentence_zh": "检方控告该CEO挪用公司资金购买NFT。"
+          },
+          {
+            "sentence": "He was accused of stealing bicycles to pay for online games.",
+            "sentence_zh": "他被控告盗窃自行车以充值网游。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "归咎于",
+        "examples": [
+          {
+            "sentence": "The coach accused the poor air quality for the team's loss.",
+            "sentence_zh": "教练将球队失利归咎于糟糕的空气质量。"
+          },
+          {
+            "sentence": "She accused her lack of sleep for forgetting her Zoom meeting password.",
+            "sentence_zh": "她把忘记Zoom会议密码归咎于睡眠不足。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "指责",
+        "examples": [
+          {
+            "sentence": "When the WiFi crashed, everyone started accusing without evidence.",
+            "sentence_zh": "当WiFi崩溃时，人们开始无证据地互相指责。"
+          },
+          {
+            "sentence": "The couple kept accusing instead of fixing the broken fridge.",
+            "sentence_zh": "这对夫妇不停互相指责而非修理坏掉的冰箱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "控告",
+        "examples": [
+          {
+            "sentence": "The victim decided to accuse after finding the surveillance footage.",
+            "sentence_zh": "发现监控录像后，受害者决定提出控告。"
+          },
+          {
+            "sentence": "You may accuse within one year according to the new cyber law.",
+            "sentence_zh": "根据新网络法，你可以在一年内提出控告。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "accuse sb. of sth.",
+        "meaning": "指控某人某事",
+        "examples": [
+          {
+            "sentence": "He was accused of using AI to write all his love letters.",
+            "sentence_zh": "他被指控用AI写所有情书。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wrongly accuse",
+        "meaning": "误告",
+        "examples": [
+          {
+            "sentence": "The delivery boy was wrongly accused of eating the customer's spicy crayfish.",
+            "sentence_zh": "外卖小哥被误告偷吃了顾客的麻辣小龙虾。"
+          }
+        ]
+      }
+    ],
+    "teach": "accuse就像法庭剧里的惊堂木⚖️！古代罗马人上法庭要说'ad causam'（去诉讼），演变成今天的accuse。说'背黑锅'可以用take the blame🐢，'甩锅'是pass the buck💸。记住：正式指控用accuse，日常埋怨用blame，严重诬陷用frame！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鳄鱼Q死'→鳄鱼被指控Q币诈骗",
+        "易混对比：accuse（正式指控）/ blame（日常埋怨）/ charge（法律起诉）",
+        "联想记忆：AC米兰+C罗(cuse)→球迷指控裁判偏袒"
+      ]
+    }
+  },
+  {
+    "word": "accused",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "cus",
+        "ed"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，词根cus来自拉丁语causari（指控），-ed表被动→被指控的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "被告",
+        "examples": [
+          {
+            "sentence": "The accused wore a mask that looked like durian during the trial.",
+            "sentence_zh": "庭审时被告戴着榴莲造型的面具。"
+          },
+          {
+            "sentence": "All accused have the right to hire lawyers who can argue in memes.",
+            "sentence_zh": "所有被告都有权聘请会用表情包辩论的律师。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "the accused",
+        "meaning": "刑事被告",
+        "examples": [
+          {
+            "sentence": "The accused suddenly performed a Peking Opera aria in court.",
+            "sentence_zh": "刑事被告突然在法庭上唱起京剧选段。"
+          }
+        ]
+      }
+    ],
+    "teach": "accused是法庭上的'背锅侠'🧑⚖️！词根cus和'靠死(cause)'同源——古代被告常靠装死逃审判💀。搭配'wrongly accused'（冤枉）就像窦娥冤六月飞雪❄️，说'甩锅'用shift blame like hot potato🍠。记住：前缀ac-表'朝向'，被告就是被口水(cus)喷的人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鳄烤死的'→被告鳄鱼装死逃审判",
+        "易混词：accuser（原告）像举着🔪的追砍者"
+      ]
+    }
   }
 ]

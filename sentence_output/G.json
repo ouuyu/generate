@@ -15459,5 +15459,298 @@
         "记忆法：gentile=gen(种族)+tile(瓦片)→不同信仰就像不同颜色的屋顶瓦片"
       ]
     }
+  },
+  {
+    "word": "gentility",
+    "etymology": {
+      "breakdown": [
+        "gentil",
+        "ity"
+      ],
+      "meaning_connection": "词根gentil=高贵的（来自法语gentilhomme→绅士），-ity表性质状态→最初指贵族血统，后衍生出行为举止的优雅"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "出身高贵",
+        "examples": [
+          {
+            "sentence": "The faded portrait still hinted at the family's lost gentility.",
+            "sentence_zh": "泛黄的画像仍透露出这个家族消逝的贵族血统。"
+          },
+          {
+            "sentence": "In Jane Austen's novels, marrying into gentility was a common theme.",
+            "sentence_zh": "简·奥斯汀小说中，通过婚姻跻身上流是常见主题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "上流阶层",
+        "examples": [
+          {
+            "sentence": "The teahouse was frequented by the local gentility playing mahjong.",
+            "sentence_zh": "这家茶馆常有当地上流人士打麻将。"
+          },
+          {
+            "sentence": "Bridgerton depicts the extravagant balls of English gentility.",
+            "sentence_zh": "《布里奇顿》描绘了英国上流社会的奢华舞会。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "有教养",
+        "examples": [
+          {
+            "sentence": "His gentility showed when he helped elders with their coats.",
+            "sentence_zh": "他帮长辈披外套时显露出良好教养。"
+          },
+          {
+            "sentence": "The professor's gentility made even criticism sound polite.",
+            "sentence_zh": "教授的修养让批评听起来都彬彬有礼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "假斯文",
+        "examples": [
+          {
+            "sentence": "Her exaggerated gentility with pinky-up tea drinking was laughable.",
+            "sentence_zh": "她翘着小指喝茶的做作优雅令人发笑。"
+          },
+          {
+            "sentence": "The nouveau riche's forced gentility earned them the nickname 'parvenu'.",
+            "sentence_zh": "暴发户强装的体面让他们得了'暴发户'的绰号。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "air of gentility",
+        "meaning": "故作高雅",
+        "examples": [
+          {
+            "sentence": "The influencer's air of gentility collapsed when she cursed in livestream.",
+            "sentence_zh": "网红故作的高雅形象在直播爆粗时崩塌。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "veneer of gentility",
+        "meaning": "表面教养",
+        "examples": [
+          {
+            "sentence": "Under his veneer of gentility lay ruthless business tactics.",
+            "sentence_zh": "他表面教养下藏着残酷的商业手段。"
+          }
+        ]
+      }
+    ],
+    "teach": "gentility就像英式下午茶🍵：正宗贵族血统像大吉岭红茶般稀有，现代人装的'体面'就像超市茶包🫖。说人'假正经'可用all fur coat and no knickers（穿皮草没内裤），真贵族反而低调如Cambridge don👨‍🎓。记住：真gentility是骨子里的，就像成都人吃火锅的从容🌶️",
+    "recite": {
+      "tips": [
+        "谐音梗：'剪贴理'→剪贴画式的礼仪(gentility)",
+        "易混词：gentle温和的 / genteel过分文雅的",
+        "联想：gentility→gentleman→唐顿庄园管家"
+      ]
+    }
+  },
+  {
+    "word": "gentle",
+    "etymology": {
+      "breakdown": [
+        "gen",
+        "tle"
+      ],
+      "meaning_connection": "词根gen=出生/种族（如gene基因），-tle表性质→指出身高贵的，引申为'文雅的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "温和的",
+        "examples": [
+          {
+            "sentence": "The panda keeper uses gentle voice to calm newborn cubs.",
+            "sentence_zh": "熊猫饲养员用温和的声音安抚新生幼崽。"
+          },
+          {
+            "sentence": "A gentle breeze carried the scent of osmanthus through Hangzhou.",
+            "sentence_zh": "温和的微风带着桂花香穿梭在杭州街头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "文雅的",
+        "examples": [
+          {
+            "sentence": "Her gentle manners during the tea ceremony impressed everyone.",
+            "sentence_zh": "她在茶道展示中的文雅举止令众人惊艳。"
+          },
+          {
+            "sentence": "The scholar's gentle handwriting looked like dancing cranes.",
+            "sentence_zh": "学者文雅的笔迹宛如起舞的仙鹤。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gentle reminder",
+        "meaning": "委婉提醒",
+        "examples": [
+          {
+            "sentence": "My mom left a gentle reminder sticky note on my gaming console.",
+            "sentence_zh": "妈妈在我的游戏机上贴了张委婉提醒的便利贴。"
+          }
+        ]
+      }
+    ],
+    "teach": "gentle其实是'基因贵族'🧬！中世纪认为好教养刻在DNA里（词根gen）。视觉化联想：像撸猫手法🐱（gentle touch）VS 鲁智深倒拔垂杨柳💪。说'斯文败类'叫wolf in sheep's clothing，夸人'温润如玉'可说as gentle as jade。记住：gentle的人连吃火锅都只涮三秒🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'剪头哦'→Tony老师剪头要gentle",
+        "易混词：tender（柔软的）多指物体，gentle侧重气质"
+      ]
+    }
+  },
+  {
+    "word": "gentleman",
+    "etymology": {
+      "breakdown": [
+        "gentle",
+        "man"
+      ],
+      "meaning_connection": "gentle源自拉丁语'gentilis'（贵族），man表人→原指有爵位的男性，后演变为有教养的男士"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "绅士",
+        "examples": [
+          {
+            "sentence": "A true gentleman holds umbrellas for ladies during summer rains in Guangzhou.",
+            "sentence_zh": "真正的绅士会在广州夏雨中为女士撑伞。"
+          },
+          {
+            "sentence": "He proved himself a gentleman by offering his seat to pregnant women on the subway.",
+            "sentence_zh": "他在地铁上给孕妇让座，证明了自己是个绅士。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "先生",
+        "examples": [
+          {
+            "sentence": "\"Ladies and gentlemen\" is the classic opening for Peking Opera performances.",
+            "sentence_zh": "京剧表演的经典开场白是\"女士们先生们\"。"
+          },
+          {
+            "sentence": "The gentleman in traditional Chinese gown is actually our AI professor.",
+            "sentence_zh": "那位穿长衫的先生其实是我们的AI教授。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "old gentleman",
+        "meaning": "老先生",
+        "examples": [
+          {
+            "sentence": "The old gentleman practices tai chi by the West Lake every dawn.",
+            "sentence_zh": "那位老先生每天黎明都在西湖边打太极。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gentleman's agreement",
+        "meaning": "君子协定",
+        "examples": [
+          {
+            "sentence": "We made a gentleman's agreement to split the hotpot bill evenly.",
+            "sentence_zh": "我们达成了平分火锅账单的君子协定。"
+          }
+        ]
+      }
+    ],
+    "teach": "gentleman其实是'腱子肉男士'💪：中世纪贵族(gentle)要精通骑马击剑🤺，现代gentleman要会剥小龙虾🦞。英国人说'He's no gentleman'比骂脏话还狠😠，夸人绅士说'He's such a Darcy'（《傲慢与偏见》男主）。记住：真gentleman在抢埋单时动作要优雅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'煎特man'→煎牛排的特工才算gentleman",
+        "易混词：gentleman(有教养) vs. gentle man(性格温和)",
+        "记忆法：gentle+man=优雅+男人=穿西装不挤地铁的稀有生物"
+      ]
+    }
+  },
+  {
+    "word": "gentlemanly",
+    "etymology": {
+      "breakdown": [
+        "gentle",
+        "man",
+        "ly"
+      ],
+      "meaning_connection": "gentle（温和的）+ man（人）+ ly（形容词后缀）→ 形容具备绅士特质的行为或态度"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "绅士的",
+        "examples": [
+          {
+            "sentence": "His gentlemanly behavior of holding umbrellas for strangers went viral on Douyin.",
+            "sentence_zh": "他为陌生人撑伞的绅士行为在抖音上走红。"
+          },
+          {
+            "sentence": "The waiter's gentlemanly manner of serving tea reminded people of Mr. Bean's clumsy parody.",
+            "sentence_zh": "服务员斟茶的绅士风度让人想起憨豆先生的笨拙模仿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "绅士派头的",
+        "examples": [
+          {
+            "sentence": "That gentlemanly three-piece suit costs half his monthly salary.",
+            "sentence_zh": "那套绅士派头的三件套西装花了他半月工资。"
+          },
+          {
+            "sentence": "Her gentlemanly cigar-smoking posture shocked the Victorian society.",
+            "sentence_zh": "她抽雪茄的绅士派头姿势震惊了维多利亚时代社会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gentlemanly agreement",
+        "meaning": "君子协定",
+        "examples": [
+          {
+            "sentence": "Their gentlemanly agreement on mahjong debts was written on a hotpot menu.",
+            "sentence_zh": "他们关于麻将赌债的君子协定写在火锅菜单背面。"
+          }
+        ]
+      }
+    ],
+    "teach": "gentlemanly是'爷们儿力'爆表的形容词💂♂️！源自中世纪'穿丝绸不打架'的贵族准则，现代版就像穿汉服骑共享单车🚲。搭配'gentlemanly bet'（绅士赌约）指输家请奶茶🥤，'gentlemanly sport'特指斯诺克这类装X运动🎱。记住：真正的gentlemanly是帮女生拧瓶盖后说'我指甲油没花吧'💅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'剪头慢离'→剪头时慢条斯理很gentlemanly",
+        "易混词对比：gentlemanly（气质） vs. genteel（做作的优雅）"
+      ]
+    }
   }
 ]

@@ -16155,5 +16155,253 @@
         "易混词：resistance是纯电阻，impedance是总阻力（含电抗）"
       ]
     }
+  },
+  {
+    "word": "impede",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "ped",
+        "e"
+      ],
+      "meaning_connection": "前缀im-表'向内'，词根ped=脚（参考pedal踏板），原指'用脚镣束缚'→引申为阻碍"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "妨碍",
+        "examples": [
+          {
+            "sentence": "The Great Wall couldn't impede the spread of chili peppers in China.",
+            "sentence_zh": "长城也未能妨碍辣椒在中国的传播。"
+          },
+          {
+            "sentence": "Panda cubs often impede their keepers' work by clinging to their legs.",
+            "sentence_zh": "熊猫幼崽常抱着饲养员的腿妨碍工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "阻碍",
+        "examples": [
+          {
+            "sentence": "Fog impeded the high-speed trains, causing delays.",
+            "sentence_zh": "大雾阻碍了高铁运行导致延误。"
+          },
+          {
+            "sentence": "Mandarin's tones initially impede Western learners' progress.",
+            "sentence_zh": "汉语的四声最初会阻碍西方学习者的进步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "阻止",
+        "examples": [
+          {
+            "sentence": "No firewall can impede determined VPN users.",
+            "sentence_zh": "任何防火墙都无法阻止坚定的VPN使用者。"
+          },
+          {
+            "sentence": "The folded arms of Terracotta Warriors seem to impede evil spirits.",
+            "sentence_zh": "兵马俑环抱的手臂似要阻止邪灵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impede progress",
+        "meaning": "阻碍进展",
+        "examples": [
+          {
+            "sentence": "Bureaucracy impedes the progress of scientific research.",
+            "sentence_zh": "官僚主义阻碍科研进展。"
+          }
+        ]
+      }
+    ],
+    "teach": "impede是'绊脚石'🦶！想象罗马士兵给战马套脚镣(im+pede)的画面🐎，就像现代堵车阻碍你抢奶茶🥤。说'拖后腿'用impede比用stop更专业，比如'开会阻碍我摸鱼'→Meetings impede my meme time。遇到阻碍时记得喊：Get out of my way! 🚧",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派的'→硬派作风会阻碍(impede)团队合作",
+        "易混词对比：impede（持续阻碍）/prevent（彻底阻止）",
+        "记忆tip：im(不)+pede(脚)→让你迈不开腿"
+      ]
+    }
+  },
+  {
+    "word": "impediment",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "ped",
+        "iment"
+      ],
+      "meaning_connection": "前缀im-表示'向内'，词根ped表示'脚'，-ment是名词后缀→原指'缠住双脚'，引申为各种障碍"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "妨碍",
+        "examples": [
+          {
+            "sentence": "The Great Wall was built as an impediment to northern invasions.",
+            "sentence_zh": "长城最初是作为抵御北方入侵的障碍而建。"
+          },
+          {
+            "sentence": "Bureaucratic red tape is the biggest impediment to startup growth.",
+            "sentence_zh": "官僚主义繁文缛节是初创企业发展的最大阻碍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "口吃",
+        "examples": [
+          {
+            "sentence": "The king's speech impediment was movingly portrayed in the film.",
+            "sentence_zh": "影片中国王的口吃问题被感人地呈现出来。"
+          },
+          {
+            "sentence": "Virtual reality therapy shows promise in treating speech impediments.",
+            "sentence_zh": "虚拟现实疗法在治疗言语障碍方面展现出希望。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impediment to",
+        "meaning": "对...的阻碍",
+        "examples": [
+          {
+            "sentence": "Lack of WiFi is no longer an impediment to mobile gaming.",
+            "sentence_zh": "没有WiFi已不再是手游的障碍。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "remove impediments",
+        "meaning": "消除障碍",
+        "examples": [
+          {
+            "sentence": "The new policy aims to remove impediments for foreign investors.",
+            "sentence_zh": "新政旨在消除外商投资障碍。"
+          }
+        ]
+      }
+    ],
+    "teach": "impediment是'绊脚石'🥌：想象古罗马士兵脚(ped)被藤蔓缠住(im)的窘态！说'拖后腿'可用be an impediment like wet socks🧦，'扫清障碍'叫clear the impediments就像玩跳房子时踢开石子🦵。记住：无论口吃还是路障，都让你'迈不开腿'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派的门'→硬派(impedi)的门(ment)很难推开",
+        "易混词对比：obstacle（客观障碍物） vs impediment（侧重阻碍行动的特性）",
+        "记忆tip：拆解im+ped+iment→我(im)的脚(ped)被卡住了"
+      ]
+    }
+  },
+  {
+    "word": "impel",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "pel"
+      ],
+      "meaning_connection": "前缀im-表示'向内'，词根pel表示'推动'→原指从内部施加推力，引申出'驱使'和'激励'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "推动",
+        "examples": [
+          {
+            "sentence": "The Yangtze River's current impels cargo ships toward Shanghai.",
+            "sentence_zh": "长江的水流推动货船驶向上海。"
+          },
+          {
+            "sentence": "New policies impel the development of AI in Shenzhen.",
+            "sentence_zh": "新政策推动深圳人工智能发展。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "激励",
+        "examples": [
+          {
+            "sentence": "Jack Ma's speech impelled many young entrepreneurs to start businesses.",
+            "sentence_zh": "马云的演讲激励了许多年轻人创业。"
+          },
+          {
+            "sentence": "The coach's words impel players to break personal records.",
+            "sentence_zh": "教练的话激励运动员突破个人纪录。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "驱使",
+        "examples": [
+          {
+            "sentence": "Starvation impelled the refugees to cross the border.",
+            "sentence_zh": "饥饿驱使难民们越过边境。"
+          },
+          {
+            "sentence": "Ancient emperors were impelled by greed to conquer more lands.",
+            "sentence_zh": "古代帝王被贪欲驱使征服更多土地。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "迫使",
+        "examples": [
+          {
+            "sentence": "The typhoon impelled all flights to be canceled at Hong Kong Airport.",
+            "sentence_zh": "台风迫使香港机场所有航班取消。"
+          },
+          {
+            "sentence": "The scandal impelled the minister to resign immediately.",
+            "sentence_zh": "丑闻迫使部长立即辞职。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impel sb. to do sth.",
+        "meaning": "促使某人做某事",
+        "examples": [
+          {
+            "sentence": "The stock crash impelled investors to withdraw their money.",
+            "sentence_zh": "股市暴跌促使投资者撤资。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "be impelled by",
+        "meaning": "受...驱使",
+        "examples": [
+          {
+            "sentence": "Many scientists are impelled by pure curiosity.",
+            "sentence_zh": "许多科学家受纯粹好奇心驱使。"
+          }
+        ]
+      }
+    ],
+    "teach": "impel就像人体内的洪荒之力💥！当表示'推动'时，像高铁被电磁力推进🚄（impel trains）；'激励'时像老板画大饼让你加班🍕（impel employees）；'驱使'时像饿着肚子找宵夜🍢（impelled by hunger）；'迫使'时像台风逼你宅家追剧🌀（impel cancellation）。记住：impel比push更'内力澎湃'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬派噢'→硬派作风驱使(impel)行动",
+        "易混词：compel(外力强迫) vs impel(内在驱动)"
+      ]
+    }
   }
 ]

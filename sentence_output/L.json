@@ -16362,5 +16362,305 @@
         "易混词对比：LED（发光二极管）vs LCD（需要背光源）"
       ]
     }
+  },
+  {
+    "word": "lea",
+    "etymology": {
+      "breakdown": [
+        "lea"
+      ],
+      "meaning_connection": "源自古英语'lēah'，指开阔的草地或林地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "草地",
+        "examples": [
+          {
+            "sentence": "The poet described a lea where sheep grazed peacefully.",
+            "sentence_zh": "诗人描写了一片羊群安静吃草的草地。"
+          },
+          {
+            "sentence": "Picnickers spread their blankets across the sunny lea.",
+            "sentence_zh": "野餐者在阳光明媚的草地上铺开毯子。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "lea其实是英语中的'青青草原'🐑！古英语中'lēah'专指放牧的草地，就像《小羊肖恩》的拍摄现场🎬。说'辽阔草地'可以用expansive lea，而'被遗忘的角落'叫forgotten lea就像微博热搜过气话题🌾。记住：看到lea就想象风吹草低见牛羊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'李啊'→李啊(lea)在草地上放羊",
+        "易混词对比：meadow（开花草地）vs lea（放牧草地）"
+      ]
+    }
+  },
+  {
+    "word": "leach",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'leccan'表示'过滤'，与德语'leckeren'（滴落）同源，模拟液体缓慢渗透的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "过滤",
+        "examples": [
+          {
+            "sentence": "Traditional soy sauce is made by leaching fermented soybeans.",
+            "sentence_zh": "传统酱油通过过滤发酵大豆制成。"
+          },
+          {
+            "sentence": "The tea ceremony master leaches matcha powder with bamboo whisk.",
+            "sentence_zh": "茶道师用竹筅过滤抹茶粉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "萃取",
+        "examples": [
+          {
+            "sentence": "Scientists leach rare metals from old smartphones.",
+            "sentence_zh": "科学家从旧手机中萃取稀有金属。"
+          },
+          {
+            "sentence": "This machine can leach collagen from fish scales.",
+            "sentence_zh": "这台机器能从鱼鳞中萃取胶原蛋白。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "滤掉",
+        "examples": [
+          {
+            "sentence": "Nutrients easily leach out when boiling vegetables.",
+            "sentence_zh": "煮蔬菜时营养容易滤掉。"
+          },
+          {
+            "sentence": "The dye began to leach after 3 washes.",
+            "sentence_zh": "洗涤三次后染料开始滤掉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "过滤器",
+        "examples": [
+          {
+            "sentence": "The antique coffee leach is displayed in museum.",
+            "sentence_zh": "这个古董咖啡过滤器在博物馆展出。"
+          },
+          {
+            "sentence": "A DIY leach can be made with cloth and charcoal.",
+            "sentence_zh": "用布和木炭可以自制过滤器。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "leach out",
+        "meaning": "流失",
+        "examples": [
+          {
+            "sentence": "Calcium leaches out when bones are soaked in vinegar.",
+            "sentence_zh": "骨头浸泡在醋中时钙质会流失。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "leach away",
+        "meaning": "逐渐消失",
+        "examples": [
+          {
+            "sentence": "Her confidence leached away after repeated failures.",
+            "sentence_zh": "屡次失败后她的信心逐渐消失。"
+          }
+        ]
+      }
+    ],
+    "teach": "leach就像个液体小偷🦹♂️！它偷偷带走咖啡的香气☕（leach flavor），又悄悄顺走中药的有效成分🌿（leach nutrients）。化学家用它'打劫'矿石里的贵金属💎（leach metals），环保人士却骂它是营养流失的叛徒💦（nutrients leach away）。记住：凡是'雁过拔毛'式的提取，都用leach！",
+    "recite": {
+      "tips": [
+        "谐音梗：'滤取'→直接音义结合",
+        "易混词对比：leach(物理过滤) vs extract(化学提取)"
+      ]
+    }
+  },
+  {
+    "word": "leaching",
+    "etymology": {
+      "breakdown": [
+        "leach",
+        "ing"
+      ],
+      "meaning_connection": "源自古英语'leccan'表示'使渗漏'，-ing表过程→描述物质被液体溶解带走的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "浸提",
+        "examples": [
+          {
+            "sentence": "Tea leaching is an art that requires precise water temperature.",
+            "sentence_zh": "茶叶浸提是门需要精准水温的艺术。"
+          },
+          {
+            "sentence": "The coffee machine simulates manual leaching for better flavor.",
+            "sentence_zh": "这台咖啡机模拟手工浸提以获得更佳风味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "土壤养分流失",
+        "examples": [
+          {
+            "sentence": "Excessive rain causes nutrient leaching in farmland.",
+            "sentence_zh": "过量降雨导致农田养分流失。"
+          },
+          {
+            "sentence": "The yellow leaves indicate nitrogen leaching has occurred.",
+            "sentence_zh": "发黄的叶片表明发生了氮元素流失。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acid leaching",
+        "meaning": "酸浸",
+        "examples": [
+          {
+            "sentence": "Acid leaching is used to extract rare earth elements.",
+            "sentence_zh": "酸浸法被用于提取稀土元素。"
+          }
+        ]
+      }
+    ],
+    "teach": "leaching就像泡茶包🍵+洗牛仔裤👖的双重过程！想象你泡茶时颜色慢慢渗出（这就是leaching），而暴雨冲走土壤养分🌧️也是同样原理。化学实验中叫'萃取'，环保领域却成了'污染扩散'☢️。记住：good tea需要controlled leaching，但soil leaching会让农民哭晕在厕所🚽",
+    "recite": {
+      "tips": [
+        "谐音梗：'离京'→养分离京(leaching)导致土地贫瘠",
+        "易混词对比：leaching(被动溶解) vs. extraction(主动抽取)"
+      ]
+    }
+  },
+  {
+    "word": "lead",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'lædan'（引导）与'lead'（铅）同形但词源不同，英语史上最著名的'同形异源词'案例"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "铅",
+        "examples": [
+          {
+            "sentence": "The Forbidden City's golden roofs actually contain lead for durability.",
+            "sentence_zh": "故宫的金顶其实含铅以增强耐久性。"
+          },
+          {
+            "sentence": "Pencil cores haven't contained lead since the 16th century.",
+            "sentence_zh": "铅笔芯自16世纪起就不再含铅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "领导地位",
+        "examples": [
+          {
+            "sentence": "China has taken the lead in 5G technology development.",
+            "sentence_zh": "中国在5G技术发展中处于领导地位。"
+          },
+          {
+            "sentence": "The marathon runner from Kenya held the lead throughout the race.",
+            "sentence_zh": "这位肯尼亚马拉松选手全程保持领先。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "引导",
+        "examples": [
+          {
+            "sentence": "Tour guides lead visitors through the Terracotta Army pits with laser pointers.",
+            "sentence_zh": "导游用激光笔引导游客参观兵马俑坑。"
+          },
+          {
+            "sentence": "AI navigation leads delivery robots to your doorstep.",
+            "sentence_zh": "人工智能导航引导送货机器人到达你家门口。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "通向",
+        "examples": [
+          {
+            "sentence": "This ancient tea road leads to the Himalayas.",
+            "sentence_zh": "这条古茶道通向喜马拉雅山脉。"
+          },
+          {
+            "sentence": "All subway lines in Beijing eventually lead to the Forbidden City.",
+            "sentence_zh": "北京所有地铁线最终都通向故宫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "领头的",
+        "examples": [
+          {
+            "sentence": "The lead scientist in the Chang'e project is only 35 years old.",
+            "sentence_zh": "嫦娥项目的首席科学家年仅35岁。"
+          },
+          {
+            "sentence": "Watch the lead goose when wild ducks migrate over the Great Wall.",
+            "sentence_zh": "野鸭飞越长城时注意观察领头雁。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lead the way",
+        "meaning": "带路",
+        "examples": [
+          {
+            "sentence": "Baidu's autonomous vehicles lead the way in smart transportation.",
+            "sentence_zh": "百度自动驾驶汽车在智能交通领域率先开路。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "lead to",
+        "meaning": "导致",
+        "examples": [
+          {
+            "sentence": "Eating too much hotpot leads to emergency dentist visits.",
+            "sentence_zh": "火锅吃太多会导致紧急看牙医。"
+          }
+        ]
+      }
+    ],
+    "teach": "lead是个'人格分裂'单词💫：作名词时既是重金属铅☢️（heavy lead），又是领导力👑（take the lead）。视觉记忆：古代罗马水管（plumbum）含铅→ plumbing管道工术语来源。说'带头作用'用play a leading role，'误入歧途'是lead astray。记住：领导(lead)要像指南针🧭，不能像铅球铅坠⚖️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'乐的'→当领导(lead)乐的",
+        "易混词：lead（领导）vs. led（LED灯）",
+        "铅元素符号Pb正是来自拉丁语plumbum"
+      ]
+    }
   }
 ]
