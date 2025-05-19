@@ -1,4 +1,3 @@
-// sentence/generate_sentences.js
 require('dotenv').config(); // 加载 .env 文件中的环境变量
 
 const fs = require('fs').promises; // 导入文件系统模块（使用 promises 版本）
@@ -6,6 +5,7 @@ const Excel = require('exceljs'); // 导入 exceljs 库来处理 Excel 文件
 const { OpenAI } = require('openai'); // 导入 openai 库
 const yargs = require('yargs/yargs'); // 导入 yargs 库来处理命令行参数
 const { hideBin } = require('yargs/helpers'); // yargs 的辅助函数
+const pLimit = require('p-limit'); // 导入 p-limit 库
 
 // 解析命令行参数
 const argv = yargs(hideBin(process.argv))
@@ -26,6 +26,12 @@ const argv = yargs(hideBin(process.argv))
     description: '处理的起始字母 (A-Z)', // 添加 letter 参数
     type: 'string',
     demandOption: true // letter 参数是必需的
+  })
+  .option('concurrency', {
+    alias: 'c',
+    description: '并发请求的数量', // 添加并发参数
+    type: 'number',
+    default: 5 // 默认并发数量为 5
   })
   .help() // 添加 help 信息
   .argv; // 获取解析后的参数
@@ -92,73 +98,17 @@ async function readExcelWords(excelFile) {
   return words; // 返回所有单词
 }
 
-// 主函数
-async function main() {
-  try {
-    const targetLetter = argv.letter.toUpperCase(); // 获取目标字母并转为大写
-    if (targetLetter.length !== 1 || !targetLetter.match(/[A-Z]/)) {
-      console.error('错误： letter 参数必须是单个字母 (A-Z)。');
-      process.exit(1);
-    }
-
-    const existingWords = await loadExistingWords(argv.output); // 加载已有的单词（从当前输出文件）
-    const allWords = await readExcelWords(argv.input); // 读取 Excel 中的所有单词
-
-    // 过滤出以目标字母开头的单词
-    const wordsToProcess = allWords.filter(wordInfo =>
-      wordInfo.word.toUpperCase().startsWith(targetLetter)
-    );
-
-    console.log(`开始为以字母 "${targetLetter}" 开头的 ${wordsToProcess.length} 个单词生成例句...`);
-
-    let success = 0; // 成功计数
-    let failed = 0; // 失败计数
-
-    // 遍历需要处理的单词
-    for (const wordInfo of wordsToProcess) {
-      // 如果单词已存在于输出文件中，则跳过
-      if (existingWords.has(wordInfo.word)) {
-        console.log(`跳过单词 "${wordInfo.word}"，因为已存在相应的例句。`);
-        success++;
-        continue;
-      }
-
-      console.log(`正在处理单词: ${wordInfo.word}`);
-      const wordData = await generateWordData(wordInfo); // 调用 OpenAI 生成数据
-
-      if (wordData) {
-        await saveWordData(wordData, argv.output); // 保存生成的数据到对应的 JSON 文件
-        existingWords.add(wordInfo.word); // 将成功处理的单词添加到已存在列表
-        console.log(`成功生成 ${wordInfo.word} 的数据`);
-        success++;
-      } else {
-        console.error(`单词 "${wordInfo.word}" 处理失败。`);
-        failed++;
-      }
-
-      // 添加延迟以避免触发 API 限制
-      await new Promise(resolve => setTimeout(resolve, 1000)); // 延迟 1 秒
-    }
-
-    console.log(`\n处理完成! 成功: ${success}, 失败: ${failed}`);
-  } catch (error) {
-    console.error('程序执行过程中发生错误:', error);
-    process.exit(0); // 出错时以状态码 0 退出，避免 GH Actions 标记为失败（根据原代码逻辑）
-  }
-}
-
-main(); // 执行主函数
-
-// 从 JSON 文件加载已存在的单词列表
-async function loadExistingWords(jsonFile) {
+// 从 JSON 文件加载已存在的完整数据
+async function loadFullExistingData(jsonFile) {
   try {
     const content = await fs.readFile(jsonFile, 'utf-8'); // 读取 JSON 文件内容
     const data = JSON.parse(content); // 解析 JSON 内容
-    // 返回一个 Set，包含所有已存在的单词，以便快速查找
-    return new Set(data.map(item => item.word));
+    // 如果解析结果是数组则返回，否则返回空数组
+    return Array.isArray(data) ? data : [];
   } catch (error) {
-    // 如果文件不存在或解析失败，返回一个空的 Set
-    return new Set();
+    // 如果文件不存在或解析失败，返回一个空数组
+    console.warn(`文件 ${jsonFile} 不存在或无法读取，将从空数据开始。`);
+    return [];
   }
 }
 
@@ -185,42 +135,108 @@ async function generateWordData(wordInfo) {
 
     const response = completion.choices[0].message.content; // 获取模型的回复内容
     try {
-      console.log(response); // 打印原始回复（通常是 JSON 字符串）
-      return JSON.parse(response); // 尝试解析回复为 JSON 对象
+      console.log(`原始响应 (${wordInfo.word}):`, response); // 打印原始回复
+      const parsedData = JSON.parse(response); // 尝试解析回复为 JSON 对象
+       // 确保解析后的数据结构正确，例如包含 sentence, pos, definition
+       if (parsedData && typeof parsedData === 'object' && parsedData.sentence && parsedData.pos && parsedData.definition) {
+         // 返回包含原始 wordInfo 的完整数据
+         return {
+           word: wordInfo.word,
+           translation: wordInfo.translation,
+           ...parsedData // 合并解析出的数据
+         };
+       } else {
+         console.error(`解析 ${wordInfo.word} 的响应格式不正确。`);
+         return null; // 格式不正确返回 null
+       }
     } catch (error) {
       console.error(`解析 ${wordInfo.word} 的响应失败:`, error); // 解析失败时报错
       return null; // 解析失败返回 null
     }
   } catch (error) {
-    console.error(`生成 ${wordInfo.word} 的数据时发生错误:`, error); // 调用 API 失败时报错
+    console.error(`生成 ${wordInfo.word} 的数据时发生错误:`, error.message); // 调用 API 失败时报错
     return null; // API 调用失败返回 null
   }
 }
 
-// 将单词数据保存到 JSON 文件（追加模式）
-async function saveWordData(wordData, jsonFile) {
+// 将完整的数据数组保存到 JSON 文件（覆盖模式）
+async function saveAllWordData(allData, jsonFile) {
   try {
-    let existingData = []; // 初始化一个空数组用于存储现有数据
-
-    try {
-      // 尝试读取已有的 JSON 文件内容
-      const content = await fs.readFile(jsonFile, 'utf-8');
-      // 解析 JSON 内容
-      existingData = JSON.parse(content);
-      // 确保解析结果是数组，否则初始化为空数组
-      if (!Array.isArray(existingData)) {
-          existingData = [];
-      }
-    } catch (error) {
-      // 如果文件不存在或读取/解析失败，existingData 保持为空数组，表示从头开始
-      console.warn(`文件 ${jsonFile} 不存在或无法读取，将创建新文件。`);
-    }
-
-    // 将新的单词数据添加到数组中
-    existingData.push(wordData);
     // 将整个数组写入 JSON 文件，使用漂亮的格式 (null, 2)
-    await fs.writeFile(jsonFile, JSON.stringify(existingData, null, 2), 'utf-8');
+    await fs.writeFile(jsonFile, JSON.stringify(allData, null, 2), 'utf-8');
   } catch (error) {
     console.error('保存数据失败:', error); // 保存失败时报错
+    throw error; // 抛出错误以便上层捕获
   }
 }
+
+// 主函数
+async function main() {
+  try {
+    const targetLetter = argv.letter.toUpperCase(); // 获取目标字母并转为大写
+    if (targetLetter.length !== 1 || !targetLetter.match(/[A-Z]/)) {
+      console.error('错误： letter 参数必须是单个字母 (A-Z)。');
+      process.exit(1);
+    }
+
+    const concurrencyLimit = argv.concurrency; // 获取并发数量
+    const limit = pLimit(concurrencyLimit); // 创建并发限制器
+
+    // 加载已存在的完整数据，并创建已处理单词的 Set
+    let existingData = await loadFullExistingData(argv.output);
+    const existingWordsSet = new Set(existingData.map(item => item.word));
+
+    const allWords = await readExcelWords(argv.input); // 读取 Excel 中的所有单词
+
+    // 过滤出以目标字母开头且尚未处理的单词
+    const wordsToProcess = allWords.filter(wordInfo =>
+      wordInfo.word.toUpperCase().startsWith(targetLetter) && !existingWordsSet.has(wordInfo.word)
+    );
+
+    console.log(`开始为以字母 "${targetLetter}" 开头且未处理的 ${wordsToProcess.length} 个单词生成例句，并发数设置为 ${concurrencyLimit}...`);
+
+    let processedCount = 0; // 已尝试处理的计数（包括成功和失败）
+    const successfulResults = []; // 存储成功生成的数据
+
+    // 使用 p-limit 运行并发任务
+    const tasks = wordsToProcess.map(wordInfo =>
+      limit(async () => {
+        console.log(`正在处理单词: ${wordInfo.word}`);
+        const wordData = await generateWordData(wordInfo); // 调用 OpenAI 生成数据
+        processedCount++; // 增加已处理计数
+        if (wordData) {
+          console.log(`成功生成 ${wordInfo.word} 的数据`);
+          successfulResults.push(wordData); // 将成功结果添加到数组
+        } else {
+          console.error(`单词 "${wordInfo.word}" 处理失败。`);
+        }
+        // 可以选择在这里添加少量延迟，但并发模式下通常不需要显式延迟，除非遇到API速率限制
+        // await new Promise(resolve => setTimeout(resolve, 100));
+      })
+    );
+
+    // 等待所有并发任务完成
+    await Promise.all(tasks);
+
+    // 将新的成功结果添加到现有数据中
+    const updatedData = [...existingData, ...successfulResults];
+
+    // 保存更新后的完整数据
+    if (updatedData.length > 0) {
+         console.log(`\n保存 ${updatedData.length} 条数据到 ${argv.output}...`);
+         await saveAllWordData(updatedData, argv.output);
+         console.log("数据保存成功。");
+    } else {
+        console.log("\n没有生成新的数据需要保存。");
+    }
+
+
+    console.log(`\n处理完成! 总共尝试处理 ${processedCount} 个单词。成功: ${successfulResults.length}, 失败: ${processedCount - successfulResults.length}`);
+
+  } catch (error) {
+    console.error('程序执行过程中发生错误:', error);
+    process.exit(0); // 出错时以状态码 0 退出，避免 GH Actions 标记为失败（根据原代码逻辑）
+  }
+}
+
+main(); // 执行主函数
