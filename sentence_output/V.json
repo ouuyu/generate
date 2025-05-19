@@ -27121,5 +27121,844 @@
         "记忆链：vol（飞）+atile→会飞的东西都不稳定"
       ]
     }
+  },
+  {
+    "word": "viscera",
+    "translation": "n. 内脏, 内容\\n[医] 内脏",
+    "etymology": {
+      "breakdown": [
+        "viscer",
+        "a"
+      ],
+      "meaning_connection": "词根viscer=内脏器官，-a为复数后缀→原指生物体内的柔软器官"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "内脏",
+        "examples": [
+          {
+            "sentence": "Hot pot lovers debate whether duck viscera or beef tripe tastes better.",
+            "sentence_zh": "火锅爱好者争论鸭内脏和牛百叶哪个更好吃。"
+          },
+          {
+            "sentence": "The biologist preserved the shark's viscera in formaldehyde.",
+            "sentence_zh": "生物学家将鲨鱼内脏保存在福尔马林中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "核心内容",
+        "examples": [
+          {
+            "sentence": "The viscera of his speech was about AI ethics.",
+            "sentence_zh": "他演讲的核心内容是关于AI伦理。"
+          },
+          {
+            "sentence": "We need to extract the viscera from these financial reports.",
+            "sentence_zh": "我们需要从这些财务报告中提取核心内容。"
+          }
+        ]
+      }
+    ],
+    "teach": "viscera是重口味单词🌶️！古罗马祭司用动物内脏(viscus)占卜🔮，现在重庆火锅用它们做美味🍲。说'触及本质'可用cut to the viscera，'胆小鬼'叫lily-livered（百合色肝脏emoji🤢）。记住：不管是毛肚还是报告精华，都是viscera！",
+    "recite": {
+      "tips": [
+        "谐音梗：'胃撕啦'→内脏被撕开",
+        "易混词：viscous(粘稠的) vs viscera(内脏)",
+        "联想：VR眼镜(vr)看内脏(viscera)解剖课"
+      ]
+    }
+  },
+  {
+    "word": "visa",
+    "translation": "n. 签证\\nvt. 签发",
+    "etymology": {
+      "breakdown": [
+        "vis",
+        "a"
+      ],
+      "meaning_connection": "词根vis=看（如vision视力），-a为后缀→原指'被查验过的文件'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "签证",
+        "examples": [
+          {
+            "sentence": "Getting a Schengen visa requires 3 months of bank statements.",
+            "sentence_zh": "申请申根签证需提交3个月银行流水。"
+          },
+          {
+            "sentence": "Her passport has visas from 23 countries like trophy stamps.",
+            "sentence_zh": "她的护照上有23国签证像奖章印章。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "签发",
+        "examples": [
+          {
+            "sentence": "The consulate just visaed my study permit application.",
+            "sentence_zh": "领事馆刚签发了我的学签申请。"
+          },
+          {
+            "sentence": "Customs officers visaed the cargo with dragon-shaped ink stamps.",
+            "sentence_zh": "海关用龙形墨戳签发了这批货物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "visa-free",
+        "meaning": "免签",
+        "examples": [
+          {
+            "sentence": "Alipay users enjoy visa-free entry to 15 countries.",
+            "sentence_zh": "支付宝用户可免签入境15国。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "visa run",
+        "meaning": "签证跑（为续签短暂出境）",
+        "examples": [
+          {
+            "sentence": "Thailand backpackers often do visa runs to Laos by speedboat.",
+            "sentence_zh": "泰国背包客常坐快艇到老挝做签证跑。"
+          }
+        ]
+      }
+    ],
+    "teach": "visa本质是'看过章'👀：古罗马海关会在莎草纸上画👁️（vis）表示查验通过。现在说'被拒签'叫get bounced（像篮球被弹回🏀），'签证官'叫visa officer比法官还威严⚖️！记住：你的visa价值=护照含金量÷行李箱重量🧳",
+    "recite": {
+      "tips": [
+        "谐音梗：'微撒'→微微撒钱(visa)办签证",
+        "易混词：vs.（对决）和visa（签证）"
+      ]
+    }
+  },
+  {
+    "word": "visceral",
+    "translation": "a. 内脏的\\n[医] 内脏的",
+    "etymology": {
+      "breakdown": [
+        "viscer",
+        "al"
+      ],
+      "meaning_connection": "词根viscer=内脏（拉丁语viscera），-al表形容词属性→与内脏直接相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "内脏的",
+        "examples": [
+          {
+            "sentence": "The chef demonstrated visceral anatomy using a Peking duck.",
+            "sentence_zh": "厨师用北京烤鸭展示内脏解剖结构。"
+          },
+          {
+            "sentence": "Visceral fat is harder to lose than subcutaneous fat.",
+            "sentence_zh": "内脏脂肪比皮下脂肪更难减掉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "本能的（引申义）",
+        "examples": [
+          {
+            "sentence": "Her visceral reaction to durian was to hold her nose.",
+            "sentence_zh": "她对榴莲的本能反应是捂住鼻子。"
+          },
+          {
+            "sentence": "The horror movie triggered visceral fear in audiences.",
+            "sentence_zh": "这部恐怖片引发观众的本能恐惧。"
+          }
+        ]
+      }
+    ],
+    "teach": "visceral是'肠子都悔青了'的学术版💚！古罗马占卜师通过动物内脏(viscera)预测未来🔮，现在说'发自肺腑'就用visceral feeling。记住：看到火锅毛肚是visceral organs🍲，听情歌心痛是visceral emotion🎵。要夸人'走心'可以说deeply visceral，比'awesome'高级三个level✨！",
+    "recite": {
+      "tips": [
+        "视觉联想：维纳斯(V)在肠子(viscer)里跳钢管舞→既美丽又原始",
+        "易混词对比：visible（可见的）vs visceral（内在的）"
+      ]
+    }
+  },
+  {
+    "word": "visage",
+    "translation": "n. 脸, 面貌, 容貌",
+    "etymology": {
+      "breakdown": [
+        "vis",
+        "age"
+      ],
+      "meaning_connection": "词根vis=看（如vision视力），-age表状态→能被看到的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "脸",
+        "examples": [
+          {
+            "sentence": "The Peking Opera mask completely transformed his visage.",
+            "sentence_zh": "京剧脸谱让他的面容彻底改变。"
+          },
+          {
+            "sentence": "Her visage lit up when seeing hotpot ingredients.",
+            "sentence_zh": "看到火锅食材时她整张脸都亮了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "面貌",
+        "examples": [
+          {
+            "sentence": "The city's visage changes dramatically during Spring Festival.",
+            "sentence_zh": "春节期间城市面貌焕然一新。"
+          },
+          {
+            "sentence": "Douyin filters can alter your digital visage in seconds.",
+            "sentence_zh": "抖音滤镜能秒改你的数字面貌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "容貌",
+        "examples": [
+          {
+            "sentence": "The terracotta warriors each have unique visages.",
+            "sentence_zh": "兵马俑每个都有独特的容貌。"
+          },
+          {
+            "sentence": "His weary visage revealed three sleepless nights.",
+            "sentence_zh": "他疲惫的容貌透露着三天未眠。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "stone visage",
+        "meaning": "石雕面容",
+        "examples": [
+          {
+            "sentence": "The Buddha's stone visage has weathered for centuries.",
+            "sentence_zh": "佛像的石雕面容已历经数百年风霜。"
+          }
+        ]
+      }
+    ],
+    "teach": "visage是'面子工程'👑！词根vis表示'看'（比如视频叫video），你的visage就是别人眼中的'活体二维码'📱。说'整容'用plastic surgery（直译：塑料手术），夸人'颜值在线'说easy on the eyes（字面：看着舒服）。记住：四川变脸表演就是visage魔术秀🎭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微表情'→visage就是放大的微表情",
+        "易混词对比：face（普通脸）vs visage（文艺范的脸）",
+        "记忆tip：vis（看）+ age（年纪）= 看得出年纪的脸"
+      ]
+    }
+  },
+  {
+    "word": "virus",
+    "translation": "n. 病毒, 滤过性病毒, 毒害\\n[化] 病毒",
+    "etymology": {
+      "breakdown": [
+        "vir",
+        "us"
+      ],
+      "meaning_connection": "词根vir=毒液/黏液（拉丁语virus），-us为名词后缀。古罗马人用该词指代蛇的毒液和腐败液体的恶臭。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "病毒",
+        "examples": [
+          {
+            "sentence": "The COVID-19 virus mutated faster than scientists expected.",
+            "sentence_zh": "新冠病毒变异速度超出科学家预期。"
+          },
+          {
+            "sentence": "Zombie movies often feature brain-eating viruses.",
+            "sentence_zh": "僵尸电影常出现吃脑病毒桥段。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "滤过性病毒",
+        "examples": [
+          {
+            "sentence": "Tobacco mosaic virus was the first virus ever discovered.",
+            "sentence_zh": "烟草花叶病毒是人类发现的首个滤过性病毒。"
+          },
+          {
+            "sentence": "This filter can block viruses as small as 0.1 microns.",
+            "sentence_zh": "该过滤器可阻挡0.1微米的滤过性病毒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "毒害",
+        "examples": [
+          {
+            "sentence": "Rumors are the social media virus that poisons relationships.",
+            "sentence_zh": "谣言是毒害人际关系的社交病毒。"
+          },
+          {
+            "sentence": "His jealousy spread like a virus in the office.",
+            "sentence_zh": "他的妒忌像毒害般在办公室蔓延。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "computer virus",
+        "meaning": "电脑病毒",
+        "examples": [
+          {
+            "sentence": "The ransomware virus locked all my douyin drafts.",
+            "sentence_zh": "勒索病毒锁死了我所有抖音草稿。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go viral",
+        "meaning": "病毒式传播",
+        "examples": [
+          {
+            "sentence": "The meme of '退退退' went viral globally.",
+            "sentence_zh": "'退退退'表情包在全球病毒式传播。"
+          }
+        ]
+      }
+    ],
+    "teach": "virus是古罗马的'毒液'🧪→中世纪的'瘴气'☁→现代的'电子病原体'💻！电脑中毒叫bug🪲（其实bug本意是虫子），但真病毒叫virus。说'传播快'可用spread like wildfire🔥，'毒舌'是venomous tongue🐍。记住：无论是生物病毒还是键盘侠🤺，都需要杀毒软件般的免疫力！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外来死'→virus外来病原体",
+        "易混词对比：virus（病毒）vs bacteria（细菌）→ 病毒比细菌小100倍",
+        "联想记忆：把USB插头想象成病毒注射器💉"
+      ]
+    }
+  },
+  {
+    "word": "viscose",
+    "translation": "n. 粘胶, 纤维胶\\n[医] 粘的, 粘胶的, 粘胶丝",
+    "etymology": {
+      "breakdown": [
+        "visc",
+        "ose"
+      ],
+      "meaning_connection": "词根visc=粘性物质（如拉丁文viscum指槲寄生粘液），后缀-ose表化学糖类→原指从纤维素提取的粘稠溶液"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "粘胶纤维",
+        "examples": [
+          {
+            "sentence": "This bamboo viscose T-shirt feels cooler than cotton in summer.",
+            "sentence_zh": "这件竹纤维粘胶T恤夏天穿比棉质更凉爽。"
+          },
+          {
+            "sentence": "Fast fashion brands heavily rely on viscose for its silk-like texture.",
+            "sentence_zh": "快时尚品牌因粘胶纤维的类丝绸质感而大量使用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "纤维胶溶液",
+        "examples": [
+          {
+            "sentence": "Workers carefully handle golden viscose during rayon production.",
+            "sentence_zh": "工人生产人造丝时小心处理金黄色的纤维胶溶液。"
+          },
+          {
+            "sentence": "The invention of viscose revolutionized textile industry in 1890s.",
+            "sentence_zh": "纤维胶的发明在19世纪90年代彻底改变了纺织业。"
+          }
+        ]
+      }
+    ],
+    "teach": "viscose其实是'鼻涕变丝绸'🧪→最早从树皮粘液(visc)提取，现在做成你衣柜里的'假丝绸'👗。搭配：1) viscose rayon（人造丝）2) bamboo viscose（环保竹纤维）。说'廉价光滑面料'可用silky scam（丝绸骗局）😈。记住：它比真丝便宜，但洗澡会变抹布！",
+    "recite": {
+      "tips": [
+        "谐音梗：'维斯扣死'→维斯(visc)扣死(ose)你的钱包（因为要频繁买新衣服）",
+        "易混词：viscous（粘稠的）/ virus（病毒）",
+        "视觉联想：想象用粘蝇纸(visc)卷成丝线(ose)"
+      ]
+    }
+  },
+  {
+    "word": "viscosity",
+    "translation": "n. 粘稠, 粘性\\n[化] 内摩擦; 粘度",
+    "etymology": {
+      "breakdown": [
+        "visc",
+        "osity"
+      ],
+      "meaning_connection": "词根visc=粘稠（拉丁语viscum指槲寄生粘性树脂），-osity表性质→像蜂蜜流动时的阻滞感"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "粘稠",
+        "examples": [
+          {
+            "sentence": "The viscosity of hotpot broth affects how meat slices slide into it.",
+            "sentence_zh": "火锅汤底的粘稠度影响肉片滑入的效果。"
+          },
+          {
+            "sentence": "Lao Gan Ma chili oil has perfect viscosity for sticking to noodles.",
+            "sentence_zh": "老干妈辣椒油的粘稠度能完美附着在面条上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "粘性",
+        "examples": [
+          {
+            "sentence": "The viscosity of bubble tea pearls must pass the 'straw test'.",
+            "sentence_zh": "珍珠奶茶的珍珠粘性需通过'吸管测试'。"
+          },
+          {
+            "sentence": "Rain added viscosity to the dough that stuck to my fingers.",
+            "sentence_zh": "雨水增加了面团的粘性，让它粘在我手指上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "kinematic viscosity",
+        "meaning": "运动粘度",
+        "examples": [
+          {
+            "sentence": "Engineers measure the kinematic viscosity of motor oil at different temperatures.",
+            "sentence_zh": "工程师测量不同温度下机油的运动粘度。"
+          }
+        ]
+      }
+    ],
+    "teach": "viscosity是'液体拖延症'🕰️！想象蜂蜜从勺子上缓慢滴落🍯 vs 水哗啦流走💧。古希腊用橄榄油测量粘度（最早'流量计'），现在抖音用'液体猫挑战'展示粘度实验🐱。说'太粘'用sticky like glue，'超顺滑'说smooth like butter。记住：高viscosity=液体社恐（流动慢），低viscosity=液体社牛（流动快）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂食考city'→投喂考拉时桉树油粘度测试",
+        "易混词：velocity（速度）是快慢，viscosity（粘度）是阻力"
+      ]
+    }
+  },
+  {
+    "word": "visitor",
+    "translation": "n. 参观者, 游客, 访客\\n[法] 视察人, 检视人, 检查员",
+    "etymology": {
+      "breakdown": [
+        "vis",
+        "it",
+        "or"
+      ],
+      "meaning_connection": "词根vis=看（如vision视力），-it表反复动作，-or表人→反复来看的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "参观者",
+        "examples": [
+          {
+            "sentence": "The Terracotta Warriors greet 20,000 visitors daily like a never-ending group photo session.",
+            "sentence_zh": "兵马俑每天接待2万名参观者，像场永不结束的集体合照。"
+          },
+          {
+            "sentence": "Museum visitors must not touch the dinosaur fossils, no matter how cool they look.",
+            "sentence_zh": "博物馆参观者禁止触摸恐龙化石，无论它们看起来多酷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "游客",
+        "examples": [
+          {
+            "sentence": "Hawaiian visitors wear flower necklaces thicker than their swimsuits.",
+            "sentence_zh": "夏威夷游客戴的花环比泳衣还厚重。"
+          },
+          {
+            "sentence": "The Great Wall visitors' footprints could pave a new brick road every year.",
+            "sentence_zh": "长城游客的脚印每年都能铺出一条新砖路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "访客",
+        "examples": [
+          {
+            "sentence": "My grandma keeps visitor slippers in 15 colors like a rainbow hotel.",
+            "sentence_zh": "我奶奶准备了15种颜色的访客拖鞋，像彩虹酒店。"
+          },
+          {
+            "sentence": "The panda base requires visitors to disinfect shoes, because even bamboo lovers hate germs.",
+            "sentence_zh": "熊猫基地要求访客消毒鞋底，因为就算竹子爱好者也讨厌细菌。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "visitor center",
+        "meaning": "游客中心",
+        "examples": [
+          {
+            "sentence": "The visitor center at Mogao Caves sells sand art postcards that never blow away.",
+            "sentence_zh": "莫高窟游客中心出售永远吹不走的沙画明信片。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "visitor visa",
+        "meaning": "访问签证",
+        "examples": [
+          {
+            "sentence": "Getting a visitor visa requires more photos than a K-pop idol's photo book.",
+            "sentence_zh": "办访问签证需要的照片比韩流偶像写真集还多。"
+          }
+        ]
+      }
+    ],
+    "teach": "visitor其实是'看客天团'👀！古罗马神庙的visitor要献上贡品💰，现代游客(visitor)则献上朋友圈点赞👍。说'人山人海'用地道表达a sea of visitors🌊，'限流'叫visitor control就像火锅店发号排队🚦。记住：当visitor多到像春运，景点就变成'人类罐头'🥫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微视的'→短视频平台的访客",
+        "易混词：tourist侧重旅行者，visitor包含所有访问者"
+      ]
+    }
+  },
+  {
+    "word": "voice",
+    "translation": "n. 声音, 嗓音, 嗓子, 愿望, 发言权, 表达, 喉舌, 语态\\nvt. 表达, 吐露, 调音",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语voiz，最终源自拉丁语vox（声音）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "声音",
+        "examples": [
+          {
+            "sentence": "Her voice was as sweet as the sound of wind chimes.",
+            "sentence_zh": "她的声音清脆如风铃。"
+          },
+          {
+            "sentence": "The AI voice assistant can mimic regional dialects.",
+            "sentence_zh": "这款AI语音助手能模仿各地方言。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "嗓音",
+        "examples": [
+          {
+            "sentence": "After karaoke night, he lost his voice completely.",
+            "sentence_zh": "通宵K歌后他完全失声了。"
+          },
+          {
+            "sentence": "The Peking opera performer trained his falsetto voice for decades.",
+            "sentence_zh": "这位京剧演员为练假嗓苦练数十年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发言权",
+        "examples": [
+          {
+            "sentence": "Every employee should have a voice in company decisions.",
+            "sentence_zh": "每位员工都该对公司决策有发言权。"
+          },
+          {
+            "sentence": "The new policy gives villagers more voice in local governance.",
+            "sentence_zh": "新政策让村民在地方治理中有更多话语权。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "语态",
+        "examples": [
+          {
+            "sentence": "The passive voice is often used in academic writing.",
+            "sentence_zh": "学术写作中常使用被动语态。"
+          },
+          {
+            "sentence": "Compare these two sentences in active and passive voice.",
+            "sentence_zh": "对比这两个主动语态和被动语态的句子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "表达",
+        "examples": [
+          {
+            "sentence": "The cartoon character voiced his love for hotpot through a rap song.",
+            "sentence_zh": "这个动漫角色用说唱表达对火锅的热爱。"
+          },
+          {
+            "sentence": "Young people today voice their opinions fiercely on social media.",
+            "sentence_zh": "如今年轻人在社交媒体上激烈表达观点。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "voice mail",
+        "meaning": "语音信箱",
+        "examples": [
+          {
+            "sentence": "Leave me a voice mail if you can't reach me by WeChat.",
+            "sentence_zh": "如果微信联系不上就给我留语音信箱。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "voice-over",
+        "meaning": "画外音",
+        "examples": [
+          {
+            "sentence": "The documentary used Jackie Chan's voice-over narration.",
+            "sentence_zh": "这部纪录片采用成龙配音的画外音。"
+          }
+        ]
+      }
+    ],
+    "teach": "voice就像声带上的变色龙🦎！当名词时可以是周深的空灵嗓音🎤（angelic voice），也可以是联合国的一票否决权🗳️（have a voice）；当动词时就像用微博发声📢（voice concerns）。最惨是'失声'叫lost one's voice，像被辣椒呛到说不出话🌶️。记住：你的voice决定你是KTV歌神还是浴室歌手！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我嘶'→声音嘶哑了",
+        "易混词：sound（泛指声音）/voice（人声）",
+        "记忆法：VOICE= Vocal Output In Communication Everyday（每日交流的语音输出）"
+      ]
+    }
+  },
+  {
+    "word": "voluntarism",
+    "translation": "n. 唯意志论, 志愿主义",
+    "etymology": {
+      "breakdown": [
+        "volunt",
+        "ary",
+        "ism"
+      ],
+      "meaning_connection": "词根volunt=意志（来自拉丁语voluntas），-ary表相关性质，-ism表主义/理论"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "唯意志论",
+        "examples": [
+          {
+            "sentence": "Schopenhauer's voluntarism claims the will is the essence of the universe.",
+            "sentence_zh": "叔本华的唯意志论认为意志是宇宙的本质。"
+          },
+          {
+            "sentence": "His voluntarism made him believe he could lose weight by willpower alone.",
+            "sentence_zh": "他的唯意志论使他相信自己单靠意志力就能减肥。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "志愿主义",
+        "examples": [
+          {
+            "sentence": "The flood relief efforts thrived on local voluntarism.",
+            "sentence_zh": "洪水救灾工作依赖当地志愿主义蓬勃发展。"
+          },
+          {
+            "sentence": "She practices voluntarism by teaching coding to orphans every weekend.",
+            "sentence_zh": "她每个周末通过教孤儿编程来践行志愿主义。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ethical voluntarism",
+        "meaning": "伦理唯意志论",
+        "examples": [
+          {
+            "sentence": "Ethical voluntarism argues moral laws are created by divine will.",
+            "sentence_zh": "伦理唯意志论认为道德法则由神圣意志创造。"
+          }
+        ]
+      }
+    ],
+    "teach": "voluntarism是'我命由我不由天'的哲学版💪！当指唯意志论时，就像哪吒喊'去你的鸟命'⚡；作为志愿主义时，又变成雷锋日记里的螺丝钉🔧。搭配说'practice voluntarism'（践行志愿精神）比volunteer更高级，形容人'voluntaristic'就像说TA是行走的996福报🐼。记住：这个词的灵魂在于volunt（意志）——要么思考自由意志，要么身体力行做好事！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我轮他日暮'→唯意志论者说我轮到他值日到日暮",
+        "易混词：volunteer（志愿者）是实践者，voluntarism是理论/精神"
+      ]
+    }
+  },
+  {
+    "word": "voucher",
+    "translation": "n. 证人, 保证人, 证明者, 凭证, 凭单\\nvt. 证实...的可靠性",
+    "etymology": {
+      "breakdown": [
+        "vouch",
+        "er"
+      ],
+      "meaning_connection": "词根vouch源自古法语'vocher'（召唤作证），后缀-er表人或工具→最初指'作证的人'，后引申为'证明文件'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "证人",
+        "examples": [
+          {
+            "sentence": "The tea house owner served as a voucher for the poet's whereabouts.",
+            "sentence_zh": "茶馆老板为诗人的行踪作证。"
+          },
+          {
+            "sentence": "In ancient China, shopkeepers often acted as vouchers for trade agreements.",
+            "sentence_zh": "在中国古代，店主常担任贸易协议的见证人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "凭证",
+        "examples": [
+          {
+            "sentence": "This steamed bun voucher from 1980s is now a collector's item.",
+            "sentence_zh": "这张80年代的馒头票现在已成收藏品。"
+          },
+          {
+            "sentence": "Show your vaccination voucher to enter the museum.",
+            "sentence_zh": "出示接种凭证方可进入博物馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "证实可靠性",
+        "examples": [
+          {
+            "sentence": "The notary vouchered the authenticity of the handwritten will.",
+            "sentence_zh": "公证员证实了手写遗嘱的真实性。"
+          },
+          {
+            "sentence": "Alipay vouchers every transaction with digital signatures.",
+            "sentence_zh": "支付宝用数字签名验证每笔交易。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gift voucher",
+        "meaning": "礼品券",
+        "examples": [
+          {
+            "sentence": "Hotpot gift vouchers are the most popular New Year presents in Chongqing.",
+            "sentence_zh": "火锅礼品券是重庆最受欢迎的新年礼物。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "voucher system",
+        "meaning": "凭单制度",
+        "examples": [
+          {
+            "sentence": "The 1960s grain voucher system ensured fair distribution.",
+            "sentence_zh": "60年代的粮票制度保障了公平分配。"
+          }
+        ]
+      }
+    ],
+    "teach": "voucher是穿越时空的'证物精灵'🧾！古代它是衙门里的证人👨⚖️（witness），现代变成奶茶店电子券🧋（e-voucher）。'我有证据'说'I have the voucher to prove it'，'优惠券陷阱'叫voucher trap就像抽盲盒🎁。记住：从粮票到区块链，voucher永远在证明'这事靠谱'✅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我扯'→我扯(voucher)张凭证给你",
+        "易混词对比：coupon(纯优惠券) vs voucher(含证明功能)",
+        "记忆tip：把v想象成盖章动作"
+      ]
+    }
+  },
+  {
+    "word": "vulture",
+    "translation": "n. 秃鹫, 贪婪的人\\n[法] 贪婪而残酷者, 劫掠成性者",
+    "etymology": {
+      "breakdown": [
+        "vultur",
+        "e"
+      ],
+      "meaning_connection": "源自拉丁语vultur（撕裂者），词尾-e无实义，原指猛禽撕扯猎物的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "秃鹫",
+        "examples": [
+          {
+            "sentence": "The vulture circled above the Tibetan plateau like a feathered drone.",
+            "sentence_zh": "秃鹫像羽毛无人机般盘旋在青藏高原上空。"
+          },
+          {
+            "sentence": "Ancient Egyptians considered vultures to be divine cleaners of the desert.",
+            "sentence_zh": "古埃及人视秃鹫为沙漠的神圣清洁工。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "贪婪的人",
+        "examples": [
+          {
+            "sentence": "Loan sharks are financial vultures preying on desperate students.",
+            "sentence_zh": "高利贷者是专坑绝望学生的金融秃鹫。"
+          },
+          {
+            "sentence": "The paparazzi swarmed like vultures after the celebrity's scandal.",
+            "sentence_zh": "狗仔队像秃鹫般围着明星的绯闻打转。"
+          }
+        ]
+      }
+    ],
+    "teach": "vulture是职场'啄木鸟'🪶：1) 玛雅神话中，秃鹫神负责运送太阳🌞 2) 想象秃鹫脖子光秃像程序员发型👨‍🦲 3) 说'趁火打劫'用circle like vultures，'黑心商人'叫profit vultures 4) 地道表达：'吃相难看'=feed like a vulture 5) 记住这三要素：秃头💡+盘旋🔄+贪婪🤑",
+    "recite": {
+      "tips": [
+        "谐音梗：'我扯'→秃鹫撕扯(vulture)猎物",
+        "易混词：culture（文化）是创造，vulture是掠夺",
+        "视觉联想：V字领毛衣→秃鹫的V形脖颈"
+      ]
+    }
   }
 ]
