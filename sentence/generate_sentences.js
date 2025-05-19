@@ -5,7 +5,6 @@ const Excel = require('exceljs'); // 导入 exceljs 库来处理 Excel 文件
 const { OpenAI } = require('openai'); // 导入 openai 库
 const yargs = require('yargs/yargs'); // 导入 yargs 库来处理命令行参数
 const { hideBin } = require('yargs/helpers'); // yargs 的辅助函数
-const pLimit = require('p-limit'); // 导入 p-limit 库
 
 // 解析命令行参数
 const argv = yargs(hideBin(process.argv))
@@ -170,6 +169,20 @@ async function saveAllWordData(allData, jsonFile) {
   }
 }
 
+// 处理单个单词的异步函数，用于并发控制
+async function processSingleWord(wordInfo) {
+    console.log(`正在处理单词: ${wordInfo.word}`);
+    const wordData = await generateWordData(wordInfo); // 调用 OpenAI 生成数据
+    if (wordData) {
+      console.log(`成功生成 ${wordInfo.word} 的数据`);
+      return wordData; // 返回成功结果
+    } else {
+      console.error(`单词 "${wordInfo.word}" 处理失败。`);
+      return null; // 返回 null 表示失败
+    }
+}
+
+
 // 主函数
 async function main() {
   try {
@@ -180,7 +193,11 @@ async function main() {
     }
 
     const concurrencyLimit = argv.concurrency; // 获取并发数量
-    const limit = pLimit(concurrencyLimit); // 创建并发限制器
+    if (concurrencyLimit <= 0) {
+      console.error('错误：并发数量必须大于 0。');
+      process.exit(1);
+    }
+
 
     // 加载已存在的完整数据，并创建已处理单词的 Set
     let existingData = await loadFullExistingData(argv.output);
@@ -195,28 +212,50 @@ async function main() {
 
     console.log(`开始为以字母 "${targetLetter}" 开头且未处理的 ${wordsToProcess.length} 个单词生成例句，并发数设置为 ${concurrencyLimit}...`);
 
+    const totalWordsToProcess = wordsToProcess.length;
     let processedCount = 0; // 已尝试处理的计数（包括成功和失败）
+    const runningPromises = []; // 存储正在运行的 Promise
     const successfulResults = []; // 存储成功生成的数据
 
-    // 使用 p-limit 运行并发任务
-    const tasks = wordsToProcess.map(wordInfo =>
-      limit(async () => {
-        console.log(`正在处理单词: ${wordInfo.word}`);
-        const wordData = await generateWordData(wordInfo); // 调用 OpenAI 生成数据
-        processedCount++; // 增加已处理计数
-        if (wordData) {
-          console.log(`成功生成 ${wordInfo.word} 的数据`);
-          successfulResults.push(wordData); // 将成功结果添加到数组
-        } else {
-          console.error(`单词 "${wordInfo.word}" 处理失败。`);
-        }
-        // 可以选择在这里添加少量延迟，但并发模式下通常不需要显式延迟，除非遇到API速率限制
-        // await new Promise(resolve => setTimeout(resolve, 100));
-      })
-    );
+    // 手动并发控制循环
+    while (wordsToProcess.length > 0 || runningPromises.length > 0) {
+        // 如果当前运行的 Promise 数量小于并发限制 且 还有待处理的单词
+        if (runningPromises.length < concurrencyLimit && wordsToProcess.length > 0) {
+            const wordInfo = wordsToProcess.shift(); // 从队列头部取出一个单词
 
-    // 等待所有并发任务完成
-    await Promise.all(tasks);
+            // 创建处理单个单词的 Promise
+            const promise = processSingleWord(wordInfo)
+                .then(result => {
+                    processedCount++; // 增加已处理计数
+                    if (result) {
+                        successfulResults.push(result); // 添加成功结果
+                    }
+                    return result; // 返回结果以便从 runningPromises 中移除
+                })
+                .catch(error => {
+                    processedCount++; // 增加已处理计数
+                    console.error(`处理单词 ${wordInfo.word} 时发生未捕获错误:`, error);
+                    return null; // 返回 null 表示失败
+                })
+                .finally(() => {
+                    // Promise 完成后，将其从 runningPromises 数组中移除
+                    const index = runningPromises.indexOf(promise);
+                    if (index > -1) {
+                        runningPromises.splice(index, 1);
+                    }
+                });
+
+            runningPromises.push(promise); // 将新的 Promise 添加到运行列表中
+
+        } else if (runningPromises.length > 0) {
+            // 如果已达到并发限制 或 待处理队列已空，等待至少一个正在运行的 Promise 完成
+            // Promise.race 会返回最先完成（resolve 或 reject）的 Promise 的结果
+            await Promise.race(runningPromises);
+        } else {
+             // 如果队列为空且没有正在运行的 Promise，退出循环
+             break;
+        }
+    }
 
     // 将新的成功结果添加到现有数据中
     const updatedData = [...existingData, ...successfulResults];
@@ -230,8 +269,8 @@ async function main() {
         console.log("\n没有生成新的数据需要保存。");
     }
 
-
-    console.log(`\n处理完成! 总共尝试处理 ${processedCount} 个单词。成功: ${successfulResults.length}, 失败: ${processedCount - successfulResults.length}`);
+    const failedCount = totalWordsToProcess - successfulResults.length;
+    console.log(`\n处理完成! 总共尝试处理 ${totalWordsToProcess} 个单词。成功: ${successfulResults.length}, 失败: ${failedCount}`);
 
   } catch (error) {
     console.error('程序执行过程中发生错误:', error);
