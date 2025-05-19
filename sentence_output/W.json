@@ -18972,5 +18972,1160 @@
         "记忆法：WEave+Fabric+Thread=WEFT"
       ]
     }
+  },
+  {
+    "word": "Wehrmacht",
+    "translation": "<德>n.(纳粹德国的)国防军",
+    "etymology": {
+      "breakdown": [
+        "Wehr",
+        "macht"
+      ],
+      "meaning_connection": "德语Wehr=防御，macht=力量→直译为'防御力量'，后特指1935-1945纳粹德国军队"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "(纳粹德国)国防军",
+        "examples": [
+          {
+            "sentence": "The Wehrmacht's blitzkrieg tactics shocked Europe in 1939.",
+            "sentence_zh": "1939年德国国防军的闪电战震惊欧洲。"
+          },
+          {
+            "sentence": "This museum exhibits Wehrmacht uniforms with swastika armbands.",
+            "sentence_zh": "该博物馆展出配有卐字袖标的德国国防军制服。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "Wehrmacht是德语'防御力量'🛡️的历史污点版，就像把'保安队'变成'黑社会打手'👊🏻。其灰绿色制服曾被称为'欧洲最恐怖的时装'(搭配: field uniform野战服/iron cross铁十字勋章)。记住：看见这个词就该想到《辛德勒名单》里的红衣小女孩👧🏻🔴。",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪门客特'→歪门邪道的客人特别多",
+        "易混词对比：Bundeswehr(现代德国联邦国防军)"
+      ]
+    }
+  },
+  {
+    "word": "weighing",
+    "translation": "[化] 称量",
+    "etymology": {
+      "breakdown": [
+        "weigh",
+        "ing"
+      ],
+      "meaning_connection": "weigh源自古英语'wegan'（搬运），-ing表进行状态→持续测量重量的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "称重",
+        "examples": [
+          {
+            "sentence": "The weighing of ingredients is crucial in baking mooncakes.",
+            "sentence_zh": "烘焙月饼时精准称料至关重要。"
+          },
+          {
+            "sentence": "Airport weighing showed my luggage was 2kg overweight.",
+            "sentence_zh": "机场称重显示我的行李超重2公斤。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weighing machine",
+        "meaning": "称重设备",
+        "examples": [
+          {
+            "sentence": "The AI-powered weighing machine scolds you if you gain weight.",
+            "sentence_zh": "这款智能体重秤会在你发胖时发出语音吐槽。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "weighing paper",
+        "meaning": "称量纸",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine shops still use red weighing papers.",
+            "sentence_zh": "中药铺至今仍在使用红色称药纸。"
+          }
+        ]
+      }
+    ],
+    "teach": "weighing是'灵魂拷问'时刻⚖️：古代商人用戥(děng)子称药材🌿，现代人用智能秤称体重时仿佛在审判自己（'这数字肯定坏了！'）。说'精打细算'用weigh the pros and cons，'重磅消息'叫heavy news。记住：每次上秤都是和地心引力的谈判！",
+    "recite": {
+      "tips": [
+        "谐音梗：'为难'→称体重时很为难",
+        "易混词：weight（重量）/ weigh（称重）",
+        "记忆tip：字母组合'eight'藏在中间像秤盘"
+      ]
+    }
+  },
+  {
+    "word": "weighted",
+    "translation": "a. 偏向的, 偏重的, 有利的\\n[计] 加权的",
+    "etymology": {
+      "breakdown": [
+        "weight",
+        "ed"
+      ],
+      "meaning_connection": "weight表示'重量'，-ed表形容词后缀→原指'有重量的'，引申为'偏重的'和'有利的'。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "偏向的",
+        "examples": [
+          {
+            "sentence": "The weighted voting system gives more power to senior members.",
+            "sentence_zh": "加权投票制赋予资深成员更大权力。"
+          },
+          {
+            "sentence": "The algorithm shows weighted preference for verified accounts.",
+            "sentence_zh": "该算法对认证账号显示偏向性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "偏重的",
+        "examples": [
+          {
+            "sentence": "The weighted blanket helps with anxiety like a giant hug.",
+            "sentence_zh": "加重毯像巨大拥抱般缓解焦虑。"
+          },
+          {
+            "sentence": "Her training uses weighted hula hoops for extra challenge.",
+            "sentence_zh": "她用加重呼啦圈增加训练难度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有利的",
+        "examples": [
+          {
+            "sentence": "The weighted terms in this contract clearly favor the supplier.",
+            "sentence_zh": "合同中这些有利条款明显偏向供应商。"
+          },
+          {
+            "sentence": "He got a weighted chance to win with VIP privileges.",
+            "sentence_zh": "凭借VIP特权他获得了有利的获胜机会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weighted average",
+        "meaning": "加权平均数",
+        "examples": [
+          {
+            "sentence": "The final score is calculated by weighted average of all tests.",
+            "sentence_zh": "最终成绩按所有测验的加权平均数计算。"
+          }
+        ]
+      }
+    ],
+    "teach": "weighted就像火锅食材沉底原理🍲：肥牛(有利方)总沉在红油下层，毛肚(弱势方)浮在表面🥢。'偏重'时像抱着20斤猫主子🐱，'偏向'时像东北菜分量永远多给10%🥟。说'不公平优势'用loaded dice(灌铅骰子🎲)，'资源倾斜'叫weighted allocation。记住：生活就像加权算法，有人天生参数调得高！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂他的'→偏心家长总喂他的孩子更多",
+        "易混词：weighted(人为加权) vs weighted(自然重量)"
+      ]
+    }
+  },
+  {
+    "word": "weigh",
+    "translation": "vt. 称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚\\nvi. 称分量, 有意义, 重压, 起锚\\nn. 过秤, 称分量",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'wegan'，意为'携带、移动'，后引申为'称重'和'衡量'。有趣的是，它与'wagon（马车）'同源——因为马车需要承载重量！"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "称...重量",
+        "examples": [
+          {
+            "sentence": "The fruit seller weighs durians with an ancient scale.",
+            "sentence_zh": "水果商贩用老式秤称榴莲重量。"
+          },
+          {
+            "sentence": "Weigh your luggage before heading to the airport.",
+            "sentence_zh": "去机场前先称一下行李重量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "衡量",
+        "examples": [
+          {
+            "sentence": "The judge weighs evidence like a chef balances spices.",
+            "sentence_zh": "法官衡量证据就像厨师调配香料。"
+          },
+          {
+            "sentence": "We must weigh the risks before investing in bitcoin.",
+            "sentence_zh": "投资比特币前必须衡量风险。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把...压弯",
+        "examples": [
+          {
+            "sentence": "Snow weighs the bamboo branches into graceful arches.",
+            "sentence_zh": "积雪把竹枝压成优雅的拱形。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "考虑",
+        "examples": [
+          {
+            "sentence": "She's weighing whether to accept the 996 job offer.",
+            "sentence_zh": "她正在考虑是否接受这份996工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "称分量",
+        "examples": [
+          {
+            "sentence": "This newborn panda weighs only 150 grams.",
+            "sentence_zh": "这只新生熊猫幼崽仅重150克。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "有意义",
+        "examples": [
+          {
+            "sentence": "His opinion weighs heavily in the committee.",
+            "sentence_zh": "他的意见在委员会中举足轻重。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "过秤",
+        "examples": [
+          {
+            "sentence": "The weigh of the gold bars confirmed the theft.",
+            "sentence_zh": "金条的过秤确认了盗窃事实。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weigh anchor",
+        "meaning": "起锚",
+        "examples": [
+          {
+            "sentence": "The cruise ship weighed anchor at sunset.",
+            "sentence_zh": "邮轮在日落时分起锚出发。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "weigh in",
+        "meaning": "参加讨论/称重",
+        "examples": [
+          {
+            "sentence": "The professor weighed in on the AI ethics debate.",
+            "sentence_zh": "教授参与了人工智能伦理的讨论。"
+          }
+        ]
+      }
+    ],
+    "teach": "weigh是思维和物理的双重秤杆⚖️！古人用秤砣称盐（weigh salt）🧂，现代人用它衡量利弊（weigh options）💡。说'压力山大'可以用'weigh on my mind'，而'斤斤计较'就是'weigh every penny'💰。记住：当你weigh anchor时，既是物理起锚，也是人生新启航！⛵",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂'→ 称重时要喂(weigh)秤砣",
+        "对比记忆：weight（名词重量）是weigh的结果状态",
+        "联想：W形状就像天平两边的托盘"
+      ]
+    }
+  },
+  {
+    "word": "weight",
+    "translation": "n. 重, 重量, 体重, 砝码, 重大, 影响, 力量\\nvt. 加重量于, 压迫, 使加权, 称重量\\n[计] 粗细",
+    "etymology": {
+      "breakdown": [
+        "weigh",
+        "t"
+      ],
+      "meaning_connection": "源自古英语'gewiht'，与'weigh'(称重)同源，后缀-t构成名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "重量",
+        "examples": [
+          {
+            "sentence": "The weight of this durian surprised the fruit seller.",
+            "sentence_zh": "这颗榴莲的重量让水果摊主大吃一惊。"
+          },
+          {
+            "sentence": "Luggage weight limits make travelers repack their suitcases.",
+            "sentence_zh": "行李重量限制让旅客不得不重新整理行李箱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "体重",
+        "examples": [
+          {
+            "sentence": "Her weight stayed constant despite hotpot feasts.",
+            "sentence_zh": "尽管常吃火锅，她的体重保持稳定。"
+          },
+          {
+            "sentence": "The panda cub's weight doubled in one month.",
+            "sentence_zh": "熊猫幼崽的体重一个月内翻倍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "砝码",
+        "examples": [
+          {
+            "sentence": "The pharmacist added brass weights to the scale.",
+            "sentence_zh": "药剂师往天平上加黄铜砝码。"
+          },
+          {
+            "sentence": "Ancient Chinese steelyard weights were shaped like animals.",
+            "sentence_zh": "中国古代秤砣常铸成动物形状。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "重大影响",
+        "examples": [
+          {
+            "sentence": "His words carried considerable weight in the committee.",
+            "sentence_zh": "他的发言在委员会中举足轻重。"
+          },
+          {
+            "sentence": "The celebrity endorsement added weight to the product launch.",
+            "sentence_zh": "明星代言为新品发布增添了分量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "加重量于",
+        "examples": [
+          {
+            "sentence": "Fishers weight their nets to sink deeper.",
+            "sentence_zh": "渔民给渔网加重使其下沉更深。"
+          },
+          {
+            "sentence": "The diver weighted himself with lead blocks.",
+            "sentence_zh": "潜水员用铅块给自己增加配重。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使加权",
+        "examples": [
+          {
+            "sentence": "Teachers weight final exams more heavily than quizzes.",
+            "sentence_zh": "老师给期末考试赋予比小测验更高的权重。"
+          },
+          {
+            "sentence": "The algorithm weights recent searches more.",
+            "sentence_zh": "该算法会赋予近期搜索更高权重。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pull one's weight",
+        "meaning": "尽本分",
+        "examples": [
+          {
+            "sentence": "In group projects, everyone must pull their weight.",
+            "sentence_zh": "小组项目中每个人都必须尽自己的本分。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "throw one's weight around",
+        "meaning": "滥用权势",
+        "examples": [
+          {
+            "sentence": "The manager was fired for throwing his weight around.",
+            "sentence_zh": "该经理因滥用职权被解雇。"
+          }
+        ]
+      }
+    ],
+    "teach": "weight是个'压力山大'的单词🏋️！古希腊用石头当砝码⚖️，现代人用体重计对抗火锅诱惑🍲。说'很有分量'用carry weight（像举重运动员），'轻如鸿毛'是light as a feather🐦。记住：物理重量用kilos，抽象份量用influence，你的意见也有mental weight哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'围着他'→重要人物身边总围着他(weight)",
+        "易混词：weight(重量) vs wait(等待)→'等外卖时感觉时间特别weight'",
+        "记忆法：W+eight→八个W的重量（想象八个西瓜🍉）"
+      ]
+    }
+  },
+  {
+    "word": "weightless",
+    "translation": "a. 无重量的, 失重的, 不重要的",
+    "etymology": {
+      "breakdown": [
+        "weight",
+        "less"
+      ],
+      "meaning_connection": "weight=重量，-less=无...的→字面'无重量的'，后引申出物理和抽象含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无重量的",
+        "examples": [
+          {
+            "sentence": "The astronaut's toothbrush floats in weightless conditions.",
+            "sentence_zh": "宇航员的牙刷在无重量环境中漂浮。"
+          },
+          {
+            "sentence": "This new material feels weightless like a dragonfly's wing.",
+            "sentence_zh": "这种新材料轻若无物，犹如蜻蜓翅膀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "失重的",
+        "examples": [
+          {
+            "sentence": "Chinese space station astronauts train in weightless simulations underwater.",
+            "sentence_zh": "中国空间站航天员在水下进行失重模拟训练。"
+          },
+          {
+            "sentence": "The moon's gravity makes people feel one-sixth weightless.",
+            "sentence_zh": "月球引力让人感受到六分之一失重。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不重要的",
+        "examples": [
+          {
+            "sentence": "His complaints became weightless after the company's huge success.",
+            "sentence_zh": "在公司巨大成功后，他的抱怨变得无足轻重。"
+          },
+          {
+            "sentence": "Like a weightless feather, her words didn't affect the decision.",
+            "sentence_zh": "她的话如同轻飘飘的羽毛，未影响最终决定。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "feel weightless",
+        "meaning": "感到失重",
+        "examples": [
+          {
+            "sentence": "VR games make players feel weightless in space.",
+            "sentence_zh": "VR游戏让玩家体验太空失重感。"
+          }
+        ]
+      }
+    ],
+    "teach": "weightless是'轻过前任的承诺'💨：物理上指航天员飘浮的失重状态🚀，比喻上可比老板画的大饼🥮（weightless promises）。说'无足轻重'用carry no weight（像羽毛秤不出读数⚖️），'轻如鸿毛'是light as a feather🪶。记住：从太空到职场，weightless无处不在！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂他less'→喂食减少导致体重less",
+        "易混对比：weightless（无重量）vs. worthless（无价值）",
+        "记忆术：把less想象成微信'减重'表情包💪"
+      ]
+    }
+  },
+  {
+    "word": "weightlessness",
+    "translation": "[化] 失重\\n[医] 失重[状态]",
+    "etymology": {
+      "breakdown": [
+        "weight",
+        "less",
+        "ness"
+      ],
+      "meaning_connection": "weight（重量）+ less（无）+ ness（状态）→ 无重量的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "失重",
+        "examples": [
+          {
+            "sentence": "Astronauts train for months to adapt to weightlessness in space.",
+            "sentence_zh": "宇航员需训练数月以适应太空中的失重状态。"
+          },
+          {
+            "sentence": "The zero-gravity plane simulates weightlessness for 30 seconds at a time.",
+            "sentence_zh": "失重飞机每次可模拟30秒的失重体验。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "失重状态",
+        "examples": [
+          {
+            "sentence": "In weightlessness, water forms floating spheres like magic.",
+            "sentence_zh": "在失重状态下，水会形成悬浮的魔法水球。"
+          },
+          {
+            "sentence": "Scientists study plant growth patterns during prolonged weightlessness.",
+            "sentence_zh": "科学家研究长期失重状态下的植物生长模式。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "experience weightlessness",
+        "meaning": "体验失重",
+        "examples": [
+          {
+            "sentence": "Tourists can now experience weightlessness in special amusement parks.",
+            "sentence_zh": "游客现可在特殊主题乐园体验失重感。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "effects of weightlessness",
+        "meaning": "失重效应",
+        "examples": [
+          {
+            "sentence": "The movie realistically depicts the effects of weightlessness on the human body.",
+            "sentence_zh": "这部电影真实展现了失重对人体的影响。"
+          }
+        ]
+      }
+    ],
+    "teach": "weightlessness是宇宙级蹦极体验🪂！就像《流浪地球》里吴京飘着吃火锅🍲（effects of weightlessness）。太空站解决'失重如厕'用气流马桶🚀（cope with weightlessness），说'轻飘飘'用地道表达light as a feather🪶。记住：less后缀是'无',ness后缀是'状态'，合体就是反重力超能力💫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'围了死捏死'→被失重环境围住的感觉",
+        "对比记忆：weight（重量）→ weightless（无重量）→ weightlessness（状态）"
+      ]
+    }
+  },
+  {
+    "word": "weirdly",
+    "translation": "adv. 古怪地",
+    "etymology": {
+      "breakdown": [
+        "weird",
+        "ly"
+      ],
+      "meaning_connection": "词根weird源自古英语'wyrd'（命运），后演变为'离奇的'，后缀-ly构成副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "古怪地",
+        "examples": [
+          {
+            "sentence": "The AI chatbot responded weirdly by reciting recipes when asked about philosophy.",
+            "sentence_zh": "这个AI聊天机器人被问到哲学时，居然用背诵菜谱来古怪地回应。"
+          },
+          {
+            "sentence": "He smiled weirdly while eating stinky tofu for the first time.",
+            "sentence_zh": "他第一次吃臭豆腐时露出了古怪的笑容。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weirdly enough",
+        "meaning": "说也奇怪",
+        "examples": [
+          {
+            "sentence": "Weirdly enough, the broken vending machine only dispenses spicy strips.",
+            "sentence_zh": "说也奇怪，这台坏掉的自动贩卖机只吐出辣条。"
+          }
+        ]
+      }
+    ],
+    "teach": "weirdly这词自带BGM🎵！它老祖宗'wyrd'本是命运三女神🧙‍♀️，现在却形容地铁里跳广场舞的大妈。要说'这人好怪'地道说法是'odd duck'（怪鸭子）🦆，视觉化记忆：weirdly就像火锅里煮冰淇淋🍦——不是不行，但很诡异！",
+    "recite": {
+      "tips": [
+        "谐音梗：'味儿地'→有怪味儿的地方",
+        "易混词对比：wildly（狂野地）vs weirdly（古怪地）",
+        "字形联想：weird=we+ird（ird可看作'ird'后缀）"
+      ]
+    }
+  },
+  {
+    "word": "wen",
+    "translation": "n. 粉瘤, 拥挤不堪的城市\\n[医] 皮脂囊肿, 粉瘤, 表皮囊肿",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语wenn，原指皮肤肿块"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "粉瘤",
+        "examples": [
+          {
+            "sentence": "The surgeon removed a wen the size of a lychee from his scalp.",
+            "sentence_zh": "医生从他头皮上切除了荔枝大小的粉瘤。"
+          },
+          {
+            "sentence": "Ancient Chinese medicine used mugwort to treat wens.",
+            "sentence_zh": "古中医曾用艾草治疗粉瘤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拥挤不堪的城市",
+        "examples": [
+          {
+            "sentence": "Victorian London was described as a wen swelling with factories.",
+            "sentence_zh": "维多利亚时期的伦敦被描述为充满工厂的臃肿都市。"
+          },
+          {
+            "sentence": "The megacity became a wen devouring surrounding villages.",
+            "sentence_zh": "这座大都会成了吞噬周边村庄的肿瘤城市。"
+          }
+        ]
+      }
+    ],
+    "teach": "wen是个'两面派'单词🤹：既指皮肤上的小肉球，又比喻像肿瘤般膨胀的超级都市🏙️。英国作家曾用'大伦敦是个wen'讽刺城市病，就像火锅里煮太久的丸子🧆。搭配：urban wen（城市肿瘤），cultural wen（文化囊肿）。说'挤死了'可以用packed like a wen！💥👥🏥",
+    "recite": {
+      "tips": [
+        "视觉记忆：wen的'e'像粉瘤的突起",
+        "易混词对比：wens（粉瘤） vs. wrens（鹪鹩）"
+      ]
+    }
+  },
+  {
+    "word": "welt",
+    "translation": "n. 贴边, 鞭痕, 殴打\\nvt. 加贴边, 鞭打",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'wealt'，原指'边缘/隆起物'，后衍生出服装加工和暴力行为双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "贴边",
+        "examples": [
+          {
+            "sentence": "The denim jacket features contrast welts on the pockets.",
+            "sentence_zh": "这件牛仔夹克在口袋处设计了撞色贴边。"
+          },
+          {
+            "sentence": "Grandma is reinforcing the welts on my school uniform.",
+            "sentence_zh": "奶奶正在加固我国服上的贴边。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "鞭痕",
+        "examples": [
+          {
+            "sentence": "The character in the wuxia novel bore whip welts on his back.",
+            "sentence_zh": "武侠小说角色背上带着鞭痕。"
+          },
+          {
+            "sentence": "Tiger's welts from the barbed wire healed after 3 months.",
+            "sentence_zh": "老虎被铁丝网刮出的伤痕三个月后才愈合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "加贴边",
+        "examples": [
+          {
+            "sentence": "The tailor is welting the qipao with golden thread.",
+            "sentence_zh": "裁缝正用金线给旗袍滚边。"
+          },
+          {
+            "sentence": "We'll welt these cushion covers for durability.",
+            "sentence_zh": "我们会给这些坐垫套加贴边以增加耐用性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "鞭打",
+        "examples": [
+          {
+            "sentence": "The villain welted the prisoner with a leather belt.",
+            "sentence_zh": "反派用皮带抽打囚犯。"
+          },
+          {
+            "sentence": "Hailstones welted the freshly planted rice seedlings.",
+            "sentence_zh": "冰雹砸伤了新插的稻秧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "welt seam",
+        "meaning": "折边缝",
+        "examples": [
+          {
+            "sentence": "This designer bag uses welt seams to prevent fraying.",
+            "sentence_zh": "这款设计师包使用折边缝防止磨损。"
+          }
+        ]
+      }
+    ],
+    "teach": "welt是裁缝的温柔❤️与暴徒的残忍👊的奇妙结合！想象给汉服缝贴边(welting)就像蛋糕裱花🎂，而鞭打(welting someone)却像暴雨打梨花🌧️。搭配秘籍：'get welted'既是'被暴打'也是'衣服开线'，说'my jeans need welting'比说'裤子破啦'更高级🧵。记住：针线活welt用绣花针✂️，暴力welt用九节鞭⚔️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪了贴'→衣服歪了贴(welt)个边",
+        "易混词：waistband（裤腰）vs welt（贴边）"
+      ]
+    }
+  },
+  {
+    "word": "westward",
+    "translation": "n. 朝西的方向\\na. 向西的\\nadv. 向西的",
+    "etymology": {
+      "breakdown": [
+        "west",
+        "ward"
+      ],
+      "meaning_connection": "west=西方，-ward=朝向→原指面朝日落方向的运动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "朝西的方向",
+        "examples": [
+          {
+            "sentence": "The pioneers set their eyes on the westward where gold was said to exist.",
+            "sentence_zh": "拓荒者们将目光投向据说有黄金的西方。"
+          },
+          {
+            "sentence": "In Chinese tradition, the westward symbolizes the journey to paradise.",
+            "sentence_zh": "在中国传统中，西方象征通往极乐的旅程。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "向西的",
+        "examples": [
+          {
+            "sentence": "The westward migration of wild geese forms a V-shape over the Great Wall.",
+            "sentence_zh": "大雁向西迁徙时在长城上空形成V字队形。"
+          },
+          {
+            "sentence": "They took the westward train to Lanzhou for beef noodles.",
+            "sentence_zh": "他们搭乘西行的列车去兰州吃牛肉面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "向西地",
+        "examples": [
+          {
+            "sentence": "The Belt and Road Initiative extends westward to Europe.",
+            "sentence_zh": "一带一路向西延伸至欧洲。"
+          },
+          {
+            "sentence": "Tourists walk westward along the Yangtze River to catch the sunset.",
+            "sentence_zh": "游客沿长江向西行走以观赏日落。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go westward",
+        "meaning": "向西行进",
+        "examples": [
+          {
+            "sentence": "Ancient merchants went westward through the Gobi Desert with camels.",
+            "sentence_zh": "古代商人骑着骆驼穿越戈壁向西行进。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "westward expansion",
+        "meaning": "西进运动",
+        "examples": [
+          {
+            "sentence": "The westward expansion shaped America's cowboy culture.",
+            "sentence_zh": "西进运动塑造了美国的牛仔文化。"
+          }
+        ]
+      }
+    ],
+    "teach": "westward是自带导航的方向盘🧭！想象成西游记唐僧西天取经👨‍🦲→向西(westward)就是向着落日方向🌅。说'一路向西'可以用head westward，形容'西伯利亚寒流'是westward cold current❄️。记住：west+ward=脚(ward)踩油门往西(west)开！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外使的'→往外国大使的(wes-tward)方向去",
+        "对比记忆：eastward像倒着写的westward"
+      ]
+    }
+  },
+  {
+    "word": "wharf",
+    "translation": "n. 码头\\nvt. 卸在码头上, 靠码头\\nvi. 靠码头, 入坞",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语hwearf（船坞），与荷兰语werf（造船厂）同源，后演变为现代英语专指码头"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "码头",
+        "examples": [
+          {
+            "sentence": "The smuggled Durians were secretly unloaded at the midnight wharf.",
+            "sentence_zh": "走私的榴莲在午夜码头被秘密卸货。"
+          },
+          {
+            "sentence": "Fishermen mending nets on the wharf looked like spiders weaving webs.",
+            "sentence_zh": "码头上补网的渔民像织网的蜘蛛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "卸在码头上",
+        "examples": [
+          {
+            "sentence": "Workers wharfed the containers with cranes dancing in the air.",
+            "sentence_zh": "工人们用空中起舞的起重机把集装箱卸在码头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "靠码头",
+        "examples": [
+          {
+            "sentence": "The cruise ship wharfed gently like a swan docking.",
+            "sentence_zh": "邮轮像天鹅归巢般优雅地靠岸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "入坞",
+        "examples": [
+          {
+            "sentence": "Tugboats helped the oil tanker wharf during the typhoon.",
+            "sentence_zh": "拖船协助油轮在台风天入坞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wharf rat",
+        "meaning": "码头老鼠/常驻码头的人",
+        "examples": [
+          {
+            "sentence": "Old Zhang has been a wharf rat for 30 years, knowing every cargo ship's schedule.",
+            "sentence_zh": "老张当了30年码头老鼠，清楚每艘货船的班次。"
+          }
+        ]
+      }
+    ],
+    "teach": "wharf是水上的停车场🅿️！古时海盗把wharf当'货物收费站'🏴‍☠️，现代物流把它变成'全球淘宝中转站'📦。说'码头工人'用wharfinger（特指码头管理员），'船靠岸'就像奶茶吸管插进杯盖🧋（wharf the straw）。记住：wharf比pier更商用，比dock更露天！⚓️",
+    "recite": {
+      "tips": [
+        "谐音梗：'我服'→看到巨型货轮靠码头(wharf)我服了",
+        "易混词：pier（观光码头）, dock（封闭船坞）, quay（石砌堤岸）"
+      ]
+    }
+  },
+  {
+    "word": "which",
+    "translation": "pron. 哪一个, 那一个",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语hwilc，与who同源，表示从有限集合中选择"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "pron.",
+        "meaning": "哪一个（疑问用法）",
+        "examples": [
+          {
+            "sentence": "Which bubble tea flavor makes you happiest?",
+            "sentence_zh": "哪种奶茶口味让你最快乐？"
+          },
+          {
+            "sentence": "WeChat Pay or Alipay, which do you prefer?",
+            "sentence_zh": "微信支付还是支付宝，你更喜欢哪个？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "pron.",
+        "meaning": "那一个（限定用法）",
+        "examples": [
+          {
+            "sentence": "The dumpling which contains coin brings good luck.",
+            "sentence_zh": "包着硬币的那个饺子会带来好运。"
+          },
+          {
+            "sentence": "This is the metro line which goes to Disneyland.",
+            "sentence_zh": "这是通往迪士尼的那条地铁线。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "which one",
+        "meaning": "哪一个（强调选择）",
+        "examples": [
+          {
+            "sentence": "The waiter asked which one of us ordered stinky tofu.",
+            "sentence_zh": "服务员询问我们中谁点了臭豆腐。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "in which case",
+        "meaning": "在这种情况下",
+        "examples": [
+          {
+            "sentence": "The flight may be delayed, in which case we'll play mahjong.",
+            "sentence_zh": "航班可能延误，那样我们就打麻将。"
+          }
+        ]
+      }
+    ],
+    "teach": "which是选择困难症的天敌🤯！就像在奶茶店纠结'珍珠还是椰果'🧋（which topping），或者淘宝时筛选'包邮的那家店'📦（which store）。记住：问具体选哪个用which one，说'就是它！'用this is the one which... 搭配emoji三件套：🔍（寻找）↔️（二选一）🎯（确定目标）",
+    "recite": {
+      "tips": [
+        "谐音梗：'为妻'→为妻(which)挑选礼物",
+        "易混词对比：what（开放选择）vs which（有限选项）"
+      ]
+    }
+  },
+  {
+    "word": "whine",
+    "translation": "n. 哀叫声, 嘎嘎声, 哀鸣\\nvi. 哭诉, 嘎嘎响, 发呜呜声\\nvt. 哀诉",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语'whinen'，拟声词模拟抱怨声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "哀叫声",
+        "examples": [
+          {
+            "sentence": "The puppy's whine when left alone could melt Antarctica.",
+            "sentence_zh": "小狗独处时的哀叫声能让南极洲融化。"
+          },
+          {
+            "sentence": "A high-pitched whine came from the broken air conditioner.",
+            "sentence_zh": "故障空调发出尖锐的哀鸣声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "嘎嘎声",
+        "examples": [
+          {
+            "sentence": "The whine of the old printer sounded like a dying robot.",
+            "sentence_zh": "旧打印机的嘎嘎声像垂死机器人。"
+          },
+          {
+            "sentence": "Mosquito whines at midnight are the worst alarm clocks.",
+            "sentence_zh": "半夜蚊子的嘎嘎声是最糟的闹钟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "哭诉",
+        "examples": [
+          {
+            "sentence": "Kids whine for bubble tea like cats begging for tuna.",
+            "sentence_zh": "小孩哭求奶茶的样子像猫咪讨金枪鱼。"
+          },
+          {
+            "sentence": "He kept whining about his lost AirPods for three days.",
+            "sentence_zh": "他为丢失的AirPods持续哭诉了三天。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "嘎嘎响",
+        "examples": [
+          {
+            "sentence": "The elevator whined like an overloaded donkey.",
+            "sentence_zh": "电梯嘎嘎作响像超载的驴子。"
+          },
+          {
+            "sentence": "My laptop whines when opening more than five Chrome tabs.",
+            "sentence_zh": "我的笔记本开五个以上Chrome标签页就会嘎嘎响。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "哀诉",
+        "examples": [
+          {
+            "sentence": "She whined her complaints about the spicy hotpot.",
+            "sentence_zh": "她哀诉着对辣火锅的不满。"
+          },
+          {
+            "sentence": "The influencer whined her bad luck on livestream.",
+            "sentence_zh": "网红在直播中哀诉自己的霉运。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "whine about",
+        "meaning": "抱怨某事",
+        "examples": [
+          {
+            "sentence": "Office workers whine about Monday mornings like broken records.",
+            "sentence_zh": "上班族抱怨周一早晨像坏掉的唱片。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "whine and dine",
+        "meaning": "边抱怨边吃喝（非正式）",
+        "examples": [
+          {
+            "sentence": "We whined and dined while watching terrible TV shows.",
+            "sentence_zh": "我们边看烂剧边吃喝抱怨。"
+          }
+        ]
+      }
+    ],
+    "teach": "whine是声音届的戏精🎭！当它作名词时，像被踩尾巴的柯基🐶（小狗whine）；作动词时，像凌晨三点催你改方案的甲方👔（whine about deadlines）。记住：机器发出whine要修了，人总whine就该被静音🔇！说'别抱怨了'可以吼'Stop whining like a boiling kettle!'（别像烧开的水壶似的叫唤）",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪嗯'→声音歪了还嗯嗯叫",
+        "易混词：wine（酒）没有h就很happy"
+      ]
+    }
+  },
+  {
+    "word": "whit",
+    "translation": "n. 些微, 一点点",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'wiht'，表示'小东西'，与'wight'(生物)同源但语义分化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "些微",
+        "examples": [
+          {
+            "sentence": "The influencer didn't care a whit about the negative comments.",
+            "sentence_zh": "那个网红对负面评论毫不在意。"
+          },
+          {
+            "sentence": "After the diet, there wasn't a whit of cream left in her coffee.",
+            "sentence_zh": "节食后，她的咖啡里连一丁点奶油都不剩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一点点",
+        "examples": [
+          {
+            "sentence": "He hasn't changed a whit since his viral Douyin video.",
+            "sentence_zh": "自从抖音视频爆火后，他一点都没变。"
+          },
+          {
+            "sentence": "The new policy made not a whit of difference to delivery drivers.",
+            "sentence_zh": "新政策对外卖骑手来说没有丝毫影响。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "not a whit",
+        "meaning": "毫不",
+        "examples": [
+          {
+            "sentence": "The celebrity chef cared not a whit about calorie counts.",
+            "sentence_zh": "那位明星主厨对卡路里含量毫不在意。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "every whit",
+        "meaning": "完全地",
+        "examples": [
+          {
+            "sentence": "The AI translator is every whit as good as human translators.",
+            "sentence_zh": "这个AI翻译完全不输人类翻译。"
+          }
+        ]
+      }
+    ],
+    "teach": "whit是英语里的'渣渣'🍞！想象面包屑掉在桌上→'就那么一whit'。中世纪人用'not worth a whit'形容毫无价值的东西，就像现代人说'连包辣条都不值'🌶️。搭配'every whit'相当于东北话'杠杠的'💪，说'工资没涨一whit'比说'丝毫没涨'更带感！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微的'→微(whit)不足道的量",
+        "易混词：white(白色)/whit(微量)→白纸上小黑点就是那'一whit'"
+      ]
+    }
   }
 ]

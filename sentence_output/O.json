@@ -18274,5 +18274,938 @@
         "易混词：unity(功能统一) vs oneness(本质同一)"
       ]
     }
+  },
+  {
+    "word": "onerous",
+    "translation": "a. 繁重的, 负有法律责任的\\n[法] 负有义务的, 艰巨的, 繁重的",
+    "etymology": {
+      "breakdown": [
+        "onus",
+        "ous"
+      ],
+      "meaning_connection": "词根onus=负担，-ous表形容词性质→像驮着大象🐘的负担"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "繁重的",
+        "examples": [
+          {
+            "sentence": "The onerous task of grading 300 essays made the teacher crave hotpot.",
+            "sentence_zh": "批改300篇作文的繁重任务让老师疯狂想吃火锅。"
+          },
+          {
+            "sentence": "Delivering packages during Double 11 is an onerous job for couriers.",
+            "sentence_zh": "双十一期间送快递对小哥来说是繁重工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "负有法律责任的",
+        "examples": [
+          {
+            "sentence": "Signing this contract brings onerous obligations to both parties.",
+            "sentence_zh": "签署本合同意味着双方都负有法律责任。"
+          },
+          {
+            "sentence": "The onerous duty of maintaining ancient buildings falls on the government.",
+            "sentence_zh": "维护古建筑的法律责任落在政府肩上。"
+          }
+        ]
+      }
+    ],
+    "teach": "onerous是'哦！累死'😫的完美代言词！这个词来自古罗马法律术语，原指驮运货物的驴子🐴要交税。视觉化记忆：想象你背着三个冰箱爬长城🧊。说'累成狗'用dog-tired，'甩锅'叫shift the burden。搭配：onerous debt（阎王债）/ onerous decision（掉头发决定）。记住：凡是让你想立刻辞职的，都是onerous！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬呢热死'→熬着繁重工作热到虚脱",
+        "易混词：arduous（强调艰辛） vs onerous（强调责任）"
+      ]
+    }
+  },
+  {
+    "word": "onion",
+    "translation": "n. 洋葱\\nvt. 因洋葱使掉泪",
+    "etymology": {
+      "breakdown": [
+        "uni",
+        "on"
+      ],
+      "meaning_connection": "词根uni=单一/统一，-on为名词后缀→因洋葱由多层单一结构的鳞叶组成"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "洋葱",
+        "examples": [
+          {
+            "sentence": "The secret of Lanzhou beef noodles lies in caramelized onions.",
+            "sentence_zh": "兰州牛肉面的秘诀在于焦糖化的洋葱。"
+          },
+          {
+            "sentence": "Her burger contained so many onions that it glowed in the dark.",
+            "sentence_zh": "她的汉堡加了太多洋葱，黑暗中都闪着光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "因洋葱使掉泪",
+        "examples": [
+          {
+            "sentence": "She onion-ed the entire kitchen while making dumpling fillings.",
+            "sentence_zh": "她调饺子馅时用洋葱熏哭了整个厨房。"
+          },
+          {
+            "sentence": "The chef got onion-ed so badly that he looked like watching a Korean drama.",
+            "sentence_zh": "主厨被洋葱熏得痛哭流涕，活像在看韩剧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "know one's onions",
+        "meaning": "精通某事",
+        "examples": [
+          {
+            "sentence": "The street food vendor really knows his onions about chili oil.",
+            "sentence_zh": "这个路边摊老板对辣椒油极为精通。"
+          }
+        ]
+      }
+    ],
+    "teach": "洋葱堪称语言界的催泪弹💣！古埃及人用洋葱给木乃伊防腐⚰️（历史梗），它像职场社畜——剥开层层伪装才能见真心💔（视觉化）。说'精通某事'用know your onions，'辣眼睛'叫eye-watering like cutting onions。记住：人生就像剥洋葱🧅，总有一层让你泪流满面！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦嚄'→切洋葱时发出的痛苦拟声词",
+        "易混词：garlic（蒜）是洋葱的表兄弟但更暴躁"
+      ]
+    }
+  },
+  {
+    "word": "online",
+    "translation": "[计] 联机",
+    "etymology": {
+      "breakdown": [
+        "on",
+        "line"
+      ],
+      "meaning_connection": "字面意思是'在线上'，源自早期计算机通过物理线路连接"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "联机的",
+        "examples": [
+          {
+            "sentence": "The ATM will display 'online service only' during system updates.",
+            "sentence_zh": "系统升级时ATM会显示'仅限联机服务'。"
+          },
+          {
+            "sentence": "Our printer automatically switches to online mode when connected.",
+            "sentence_zh": "我们的打印机连接时会自动切换为联机模式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "在线的",
+        "examples": [
+          {
+            "sentence": "Didi drivers must stay online to receive orders.",
+            "sentence_zh": "滴滴司机必须保持在线才能接单。"
+          },
+          {
+            "sentence": "The museum's online exhibition attracted 1M+ visitors.",
+            "sentence_zh": "该博物馆的在线展览吸引了超百万访客。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go online",
+        "meaning": "上线",
+        "examples": [
+          {
+            "sentence": "Our new game will go online at 8PM sharp.",
+            "sentence_zh": "我们的新游戏将在晚8点整上线。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bring online",
+        "meaning": "使联网",
+        "examples": [
+          {
+            "sentence": "Engineers are bringing the new servers online.",
+            "sentence_zh": "工程师正在使新服务器联网。"
+          }
+        ]
+      }
+    ],
+    "teach": "online就像数字世界的脐带🌐！早期计算机要像晾衣服一样挂满电线才能online（想象ENIAC机房👩💻）。说'掉线'是go offline就像风筝断线🪁，'24小时在线'叫always-on如同便利店霓虹灯🏪。记住：你的Wi-Fi密码就是online世界的钥匙🔑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'昂来嗯'→网络卡顿时的发音",
+        "易混词：inline（内联）vs online"
+      ]
+    }
+  },
+  {
+    "word": "onlooker",
+    "translation": "n. 旁观者, 袖手旁观者",
+    "etymology": {
+      "breakdown": [
+        "on",
+        "look",
+        "er"
+      ],
+      "meaning_connection": "'on'表'在...上'，'look'表'看'，后缀'-er'表'人'→字面意思是'在看的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "旁观者",
+        "examples": [
+          {
+            "sentence": "The street performers attracted hundreds of onlookers waving their phone flashlights.",
+            "sentence_zh": "街头艺人吸引了上百名挥舞手机闪光灯的围观群众。"
+          },
+          {
+            "sentence": "Curious onlookers formed a circle around the panda eating bamboo.",
+            "sentence_zh": "好奇的旁观者围成一圈看熊猫吃竹子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "袖手旁观者",
+        "examples": [
+          {
+            "sentence": "The drowning man cursed the onlookers who just took videos instead of helping.",
+            "sentence_zh": "溺水者咒骂那些只顾拍视频却不施救的看客。"
+          },
+          {
+            "sentence": "True friends never become cold onlookers when you're in trouble.",
+            "sentence_zh": "真正的朋友在你遇到困难时绝不会冷漠旁观。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mere onlooker",
+        "meaning": "纯粹的旁观者",
+        "examples": [
+          {
+            "sentence": "In history's great moments, no one should be a mere onlooker.",
+            "sentence_zh": "在历史的重大时刻，没有人应该做纯粹的看客。"
+          }
+        ]
+      }
+    ],
+    "teach": "onlooker是'吃瓜群众'🍉的优雅说法！这个词自带'前排围观'属性👀，从罗马斗兽场的观众到现代刷抖音的路人，本质都是onlookers。说'冷漠旁观者'用heartless onlooker，'热心围观'叫eager onlookers。记住：当onlooker不可耻，可耻的是把别人的悲剧当真人秀📱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'昂Look啊'→吃瓜群众昂着头看热闹",
+        "易混词对比：spectator（正式场合观众）vs onlooker（随机围观群众）",
+        "记忆tip：拆解为'on+looker'→正在(on)看(look)的人(er)"
+      ]
+    }
+  },
+  {
+    "word": "onset",
+    "translation": "n. 开始, 攻击, 进攻\\n[医] 起始, 开始",
+    "etymology": {
+      "breakdown": [
+        "on",
+        "set"
+      ],
+      "meaning_connection": "字面意思为'在...上放置'→引申为事件或行动的'开始'，军事上指'进攻'的发起状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "开始",
+        "examples": [
+          {
+            "sentence": "The onset of monsoon season turns Mumbai streets into rivers.",
+            "sentence_zh": "季风季节开始时，孟买的街道会变成河流。"
+          },
+          {
+            "sentence": "Smart bracelets can predict the onset of flu by body temperature.",
+            "sentence_zh": "智能手环能通过体温预测流感的开始。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "进攻",
+        "examples": [
+          {
+            "sentence": "The sudden onset of Spartan warriors terrified the Persians.",
+            "sentence_zh": "斯巴达战士的突然进攻使波斯人惊恐万分。"
+          },
+          {
+            "sentence": "Cyber attacks often come with no warning of onset.",
+            "sentence_zh": "网络攻击常常在毫无预警的情况下发动进攻。"
+          }
+        ]
+      }
+    ],
+    "teach": "onset就像游戏里的'第一波兵线'⚔️：既指季节开始的'春天第一场雨'🌧️（onset of spring），也指'团战开团瞬间'🎮（sudden onset）。搭配'早期症状'说early onset Alzheimer（早发性阿尔茨海默症），吐槽'突然加班'用midnight work onset（深夜突袭加班）🌙。记住：人生就像塔防游戏，每个onset都是新关卡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'安塞腰鼓'→陕北安塞腰鼓(onset)一响就是进攻开始",
+        "易混词对比：outset（侧重初始阶段）vs onset（强调突发性）"
+      ]
+    }
+  },
+  {
+    "word": "only",
+    "translation": "a. 唯一的, 仅有的, 最佳的\\nadv. 只有, 仅仅, 只能\\nconj. 但是, 不过",
+    "etymology": {
+      "breakdown": [
+        "on",
+        "ly"
+      ],
+      "meaning_connection": "源自古英语'ānlic'(单一的)，'ān'=one，'-lic'=like→像唯一的样子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "唯一的",
+        "examples": [
+          {
+            "sentence": "The only surviving panda from 1990s is now a national treasure.",
+            "sentence_zh": "这只90年代幸存至今的熊猫现在是国宝。"
+          },
+          {
+            "sentence": "She's the only employee who can operate this ancient tea-making machine.",
+            "sentence_zh": "她是唯一会操作这台古老制茶机的员工。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "仅有的",
+        "examples": [
+          {
+            "sentence": "These are the only remaining Hutongs in downtown Beijing.",
+            "sentence_zh": "这些是北京市中心仅存的胡同。"
+          },
+          {
+            "sentence": "My only defense is that the spicy hotpot was irresistible.",
+            "sentence_zh": "我仅有的辩解是那个麻辣火锅实在让人无法抗拒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "最佳的",
+        "examples": [
+          {
+            "sentence": "This is the only proper way to eat xiaolongbao without spilling the soup.",
+            "sentence_zh": "这是吃小笼包不漏汤汁的最佳方法。"
+          },
+          {
+            "sentence": "For beginners, boiled water is the only safe drink in some areas.",
+            "sentence_zh": "对初学者来说白开水在某些地区是最保险的饮品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "只有",
+        "examples": [
+          {
+            "sentence": "Only 3% of foreigners can use chopsticks to peel shrimp.",
+            "sentence_zh": "只有3%的外国人会用筷子剥虾。"
+          },
+          {
+            "sentence": "This secret recipe is known only to the head chef's family.",
+            "sentence_zh": "这个秘方只有主厨的家族知晓。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "仅仅",
+        "examples": [
+          {
+            "sentence": "I merely suggested adding cilantro, not starting a food war!",
+            "sentence_zh": "我只是建议加香菜，不是要引发美食大战！"
+          },
+          {
+            "sentence": "The Great Wall was built not only for defense but also for signaling.",
+            "sentence_zh": "长城不仅仅是为了防御，还用于传递信号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "只能",
+        "examples": [
+          {
+            "sentence": "During quarantine, we could only communicate through balcony singing.",
+            "sentence_zh": "隔离期间我们只能通过阳台唱歌交流。"
+          },
+          {
+            "sentence": "When the metro breaks down, passengers can only practice crowd shuffle.",
+            "sentence_zh": "地铁故障时乘客们只能练习人群版太空步。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "conj.",
+        "meaning": "但是",
+        "examples": [
+          {
+            "sentence": "I'd love to try stinky tofu, only I just had dental surgery.",
+            "sentence_zh": "我很想尝臭豆腐，但是我刚做完牙科手术。"
+          },
+          {
+            "sentence": "The Peking duck looks amazing, only I'm vegetarian.",
+            "sentence_zh": "北京烤鸭看起来很棒，但是我是素食者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "conj.",
+        "meaning": "不过",
+        "examples": [
+          {
+            "sentence": "The queue for the museum is 3 hours long, only it's totally worth it.",
+            "sentence_zh": "博物馆要排队三小时，不过这完全值得。"
+          },
+          {
+            "sentence": "My Putonghua is terrible, only locals still compliment my 'authentic accent'.",
+            "sentence_zh": "我的普通话很糟，不过当地人还是夸我'口音正宗'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "only too",
+        "meaning": "非常",
+        "examples": [
+          {
+            "sentence": "I'm only too aware that mooncakes can be calorie bombs.",
+            "sentence_zh": "我非常清楚月饼可能是热量炸弹。"
+          }
+        ]
+      }
+    ],
+    "teach": "only就像独生子女证👶→唯一性认证！古人用'ānlic'(独苗)造词，现在演变成三栖明星：形容词时像故宫的九龙壁⑨(唯一文物)，副词时像单身狗粮🍗(仅有的晚餐)，连词时像'但是'的温柔版💁。说'仅此一家'用only available，'不过如此'是only so-so。记住：当only放句首，句子要倒装，就像把饺子倒进锅里🥟！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噢！你！'→唯一(only)特别的你",
+        "易混词：alone(单独状态) vs only(唯一属性)",
+        "记忆tip：O+N+L+Y=One Not Like You"
+      ]
+    }
+  },
+  {
+    "word": "onslaught",
+    "translation": "n. 突击, 猛击, 猛攻",
+    "etymology": {
+      "breakdown": [
+        "on",
+        "slaught"
+      ],
+      "meaning_connection": "古英语on=在...上，slaught源自动词slay(击杀)→原指'在攻击中击杀'，现指猛烈攻击"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "突击",
+        "examples": [
+          {
+            "sentence": "The terracotta warriors stood firm against the Mongol onslaught.",
+            "sentence_zh": "兵马俑般稳固的防线抵挡住了蒙古军的突击。"
+          },
+          {
+            "sentence": "Twitter couldn't handle the onslaught of memes during the World Cup.",
+            "sentence_zh": "推特在世界杯期间无力应对表情包的突然袭击。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "猛击",
+        "examples": [
+          {
+            "sentence": "The boxer's onslaught left his opponent seeing stars.",
+            "sentence_zh": "拳击手的连续猛击让对手眼冒金星。"
+          },
+          {
+            "sentence": "Hailstones came down in an icy onslaught on the rice fields.",
+            "sentence_zh": "冰雹如猛击般砸向稻田。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "猛攻",
+        "examples": [
+          {
+            "sentence": "Double 11 sales begin with an onslaught of discount notifications.",
+            "sentence_zh": "双十一购物节以铺天盖地的打折通知展开猛攻。"
+          },
+          {
+            "sentence": "The ancient city walls collapsed under the cannon onslaught.",
+            "sentence_zh": "古城墙在炮火猛攻下轰然倒塌。"
+          }
+        ]
+      }
+    ],
+    "teach": "onslaught是'暴力拆迁队'💥：词根slay(击杀)藏在里面，就像拆迁队抡大锤拆墙🔨。网络时代指'信息轰炸'📱（如热搜霸榜叫media onslaught），'暴雨袭击'说weather onslaught就像天公在泼水桶🌧️。记住：任何来势汹汹的东西都能用onslaught形容！",
+    "recite": {
+      "tips": [
+        "视觉化：on(在...上)+slaughter(屠杀)→踩着尸体进攻",
+        "易混词对比：attack普通攻击 vs onslaught持续强攻"
+      ]
+    }
+  },
+  {
+    "word": "onrush",
+    "translation": "n. 突进, 突击, 袭击, 洪流",
+    "etymology": {
+      "breakdown": [
+        "on",
+        "rush"
+      ],
+      "meaning_connection": "复合词，on表示'向前'，rush表示'冲'→向前猛冲"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "突进",
+        "examples": [
+          {
+            "sentence": "The onrush of marathon runners kicked up clouds of dust.",
+            "sentence_zh": "马拉松选手的突进扬起阵阵尘土。"
+          },
+          {
+            "sentence": "Nothing could stop the onrush of her curiosity when she saw the UFO.",
+            "sentence_zh": "当她看到UFO时，好奇心驱使她向前突进。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "突击",
+        "examples": [
+          {
+            "sentence": "The special forces made a midnight onrush against the drug cartel.",
+            "sentence_zh": "特种部队对贩毒集团发起午夜突击。"
+          },
+          {
+            "sentence": "Football fans were shocked by the sudden onrush from the rival team.",
+            "sentence_zh": "球迷们被对手球队的突然突击震惊了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "袭击",
+        "examples": [
+          {
+            "sentence": "The coastal town prepared for the onrush of typhoon Mangkhut.",
+            "sentence_zh": "沿海小镇为台风山竹的袭击做准备。"
+          },
+          {
+            "sentence": "His unexpected joke caused an onrush of laughter in the meeting room.",
+            "sentence_zh": "他突如其来的玩笑引发了会议室里的笑声袭击。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "洪流",
+        "examples": [
+          {
+            "sentence": "The broken dam released an onrush of water that flooded three villages.",
+            "sentence_zh": "决堤的大坝释放出淹没三个村庄的洪流。"
+          },
+          {
+            "sentence": "During Singles' Day, the onrush of orders nearly crashed Alibaba's servers.",
+            "sentence_zh": "双十一期间订单洪流几乎冲垮阿里服务器。"
+          }
+        ]
+      }
+    ],
+    "teach": "onrush是'洪荒之力'💥的英文版！想象春运火车站的人潮👨👩👧👦（human onrush），双十一零点付款的洪流💰（shopping onrush），还有哪吒闹海时的浪涛🌊（water onrush）。搭配'brave the onrush'指逆流而上，'stem the onrush'是阻挡洪流。记住：任何来势汹汹的事物都能叫onrush，包括你妈催婚的攻势👰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'昂拉湿'→昂首冲锋(onrush)淋湿全身",
+        "易混词：surge侧重突然性，onrush强调持续性冲击"
+      ]
+    }
+  },
+  {
+    "word": "onshore",
+    "translation": "a. 向陆的, 陆上的, 在国内的\\nadv. 向陆地, 在陆上, 在国内",
+    "etymology": {
+      "breakdown": [
+        "on",
+        "shore"
+      ],
+      "meaning_connection": "on表示'在...之上'，shore指'海岸'→原指在海岸上的活动，后引申出地理和经济双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "向陆的",
+        "examples": [
+          {
+            "sentence": "The onshore wind carried the scent of pine trees from the mountains.",
+            "sentence_zh": "向陆风带来了山上松树的清香。"
+          },
+          {
+            "sentence": "Seagulls followed the onshore current to find food.",
+            "sentence_zh": "海鸥顺着向陆洋流寻找食物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "陆上的",
+        "examples": [
+          {
+            "sentence": "China's largest onshore oil field is in Daqing.",
+            "sentence_zh": "中国最大的陆上油田在大庆。"
+          },
+          {
+            "sentence": "Onshore wind farms look like giant pinwheels.",
+            "sentence_zh": "陆上风电场像巨大的风车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "在国内的",
+        "examples": [
+          {
+            "sentence": "The company shifted its onshore operations to Chengdu.",
+            "sentence_zh": "该公司将国内业务转移到了成都。"
+          },
+          {
+            "sentence": "Onshore tax policies affect local businesses.",
+            "sentence_zh": "国内税收政策影响本地企业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "向陆地",
+        "examples": [
+          {
+            "sentence": "The fishing boats turned onshore before the typhoon came.",
+            "sentence_zh": "渔船在台风来临前转向陆地。"
+          },
+          {
+            "sentence": "Sea turtles swim onshore to lay eggs.",
+            "sentence_zh": "海龟游向陆地来产卵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "在陆上",
+        "examples": [
+          {
+            "sentence": "After months at sea, the sailors enjoyed walking onshore.",
+            "sentence_zh": "在海上数月后，水手们享受在陆上行走。"
+          },
+          {
+            "sentence": "The cargo was transferred onshore by cranes.",
+            "sentence_zh": "货物由起重机转移到陆上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "在国内",
+        "examples": [
+          {
+            "sentence": "The tech giant decided to manufacture onshore.",
+            "sentence_zh": "这家科技巨头决定在国内生产。"
+          },
+          {
+            "sentence": "She prefers keeping her investments onshore.",
+            "sentence_zh": "她更倾向于将投资留在国内。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "onshore wind",
+        "meaning": "向岸风",
+        "examples": [
+          {
+            "sentence": "Kite surfers love strong onshore winds.",
+            "sentence_zh": "风筝冲浪者喜爱强劲的向岸风。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "onshore outsourcing",
+        "meaning": "境内外包",
+        "examples": [
+          {
+            "sentence": "Many IT companies use onshore outsourcing in second-tier cities.",
+            "sentence_zh": "许多IT公司在二线城市采用境内外包。"
+          }
+        ]
+      }
+    ],
+    "teach": "onshore就像回港的渔船🎣！地理上指'向陆地'的海风🌬️（onshore breeze），经济上指'不离家'的境内业务🏠（onshore banking）。记住：offshore是'下海'搞海外业务，onshore是'上岸'做本土生意。要说'回国发展'可以戏称going onshore🐟！",
+    "recite": {
+      "tips": [
+        "谐音梗：'昂首'→昂首(onshore)挺胸回祖国",
+        "易混词对比：onshore(国内)/offshore(海外)就像火锅的鸳鸯锅🥘"
+      ]
+    }
+  },
+  {
+    "word": "opaque",
+    "translation": "n. 不透明物\\na. 不透明的, 不传热的, 不传导的, 阴暗的\\n[计] 白底",
+    "etymology": {
+      "breakdown": [
+        "opac",
+        "que"
+      ],
+      "meaning_connection": "拉丁词根opac=黑暗/遮蔽，-que为形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不透明物",
+        "examples": [
+          {
+            "sentence": "The artist used opaques to create dramatic light effects.",
+            "sentence_zh": "画家用不透明颜料制造强烈的光影效果。"
+          },
+          {
+            "sentence": "This bottle contains chemical opaques for sun protection.",
+            "sentence_zh": "这个瓶子装着防晒用的化学不透明物质。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不透明的",
+        "examples": [
+          {
+            "sentence": "The privacy glass turns opaque with one click.",
+            "sentence_zh": "隐私玻璃一键切换成不透明状态。"
+          },
+          {
+            "sentence": "Opaque stockings were popular in 1990s fashion.",
+            "sentence_zh": "不透明丝袜曾是90年代的流行单品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不传热的",
+        "examples": [
+          {
+            "sentence": "The opaque insulation layer keeps heat out effectively.",
+            "sentence_zh": "这种不传热的绝缘层能有效隔绝高温。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不传导的",
+        "examples": [
+          {
+            "sentence": "Opaque materials are often used in electrical safety equipment.",
+            "sentence_zh": "不导电材料常用于电力安全设备。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "阴暗的",
+        "examples": [
+          {
+            "sentence": "The opaque atmosphere in the room matched his mood.",
+            "sentence_zh": "房间里阴暗的氛围正符合他的心情。"
+          }
+        ]
+      }
+    ],
+    "teach": "opaque简直是'人间真实'代言词💁：物理上像毛玻璃🚪（frosted glass），比喻中像领导讲话🤫（opaque statement），科技领域像防窥膜📱（opaque screen）。搭配'opaque tights'指奶奶最爱的厚连裤袜🧦，'opaque answer'就是'听君一席话如听一席话'的废话文学🌀",
+    "recite": {
+      "tips": [
+        "谐音梗：'OP癌'→得了OP癌(opaque)就变得不透明",
+        "易混词：transparent（透明） vs translucent（半透明）",
+        "记忆tip：所有以opac开头的词都跟'遮光'有关"
+      ]
+    }
+  },
+  {
+    "word": "optional",
+    "translation": "a. 可选择的, 随意的\\n[化] 选购的",
+    "etymology": {
+      "breakdown": [
+        "opt",
+        "ion",
+        "al"
+      ],
+      "meaning_connection": "词根opt=选择（如option），-ion为名词后缀，-al为形容词后缀→具有选择特性的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可选择的",
+        "examples": [
+          {
+            "sentence": "The spicy hotpot is optional for foreigners at Haidilao.",
+            "sentence_zh": "海底捞对外国顾客提供辣锅底可选服务。"
+          },
+          {
+            "sentence": "Wearing hanfu is optional during the Mid-Autumn festival event.",
+            "sentence_zh": "中秋活动期间可自由选择是否穿汉服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "随意的",
+        "examples": [
+          {
+            "sentence": "The professor's lecture includes many optional digressions about ancient poetry.",
+            "sentence_zh": "教授的讲座包含大量关于古诗的随意漫谈。"
+          },
+          {
+            "sentence": "WeChat's 'optional' sticker feature makes chatting more lively.",
+            "sentence_zh": "微信'随意发'的表情功能让聊天更生动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "optional course",
+        "meaning": "选修课",
+        "examples": [
+          {
+            "sentence": "His optional course on Peking Opera always fills up in 3 seconds.",
+            "sentence_zh": "他的京剧选修课总是3秒内被抢光。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "at one's optional",
+        "meaning": "随某人意愿",
+        "examples": [
+          {
+            "sentence": "Adding cilantro is at your optional when ordering malatang.",
+            "sentence_zh": "点麻辣烫时加不加香菜随您心意。"
+          }
+        ]
+      }
+    ],
+    "teach": "optional其实是'傲普选'🤵：像自助火锅的香菜选项🌿（optional ingredient），古代科举的'策论'也是optional题📜。说'随便你'可以用up to you🍵，专业说法叫discretionary（自由裁量权）。记住：遇到optional就像遇到相亲对象——合则来不合则去💘！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬普选'→熬过高考才能普选(optional)课程",
+        "易混词对比：optional（可选的）vs optical（光学的）→ 前者靠选择(opt)，后者靠眼睛(opti)"
+      ]
+    }
+  },
+  {
+    "word": "or",
+    "translation": "conj. 或, 或者\\n[计] 或",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'ōþer'（两者之一），演变自原始日耳曼语'*antheraz'，与拉丁语'aut'同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "conj.",
+        "meaning": "或（非排他性选择）",
+        "examples": [
+          {
+            "sentence": "You can pay by WeChat or Alipay at this night market stall.",
+            "sentence_zh": "这家夜市摊位支持微信或支付宝付款。"
+          },
+          {
+            "sentence": "Would you like bubble tea with pearls or coconut jelly?",
+            "sentence_zh": "您的奶茶要加珍珠还是椰果？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "conj.",
+        "meaning": "或者（排他性选择）",
+        "examples": [
+          {
+            "sentence": "Either study hard now or regret later during final exams.",
+            "sentence_zh": "要么现在努力学习，要么期末考时后悔。"
+          },
+          {
+            "sentence": "The delivery guy said: 'Leave it by the door or I'll eat it myself!'",
+            "sentence_zh": "外卖小哥说：'放门口不然我自己吃了！'"
+          }
+        ]
+      }
+    ],
+    "teach": "这个两字母单词是选择困难症患者的噩梦🤯！当or表示'或'时像鸳鸯锅🍲（清汤or麻辣），表示'否则'时像快递最后通知📦（今天取or退回）。搭配'or something'超实用：'Bring me mooncakes or something'（带点月饼什么的）。记住：'rain or shine'是风雨无阻🌦️，'sink or swim'是破釜沉舟🏊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦→'（恍然大悟做选择时的语气）",
+        "易混词：and（并列）vs or（选择）",
+        "记忆法：把or看作分叉路口➡️⬅️的标识"
+      ]
+    }
+  },
+  {
+    "word": "ore",
+    "translation": "n. 矿石\\n[经] 矿",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'ōra'，与拉丁语'aes'(铜)同源，均指原始金属物质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "矿石",
+        "examples": [
+          {
+            "sentence": "The Minecraft player mined iron ore with his pixelated pickaxe.",
+            "sentence_zh": "我的世界玩家用像素化镐子开采铁矿石。"
+          },
+          {
+            "sentence": "This region produces enough lunar ore to build 1000 spaceships.",
+            "sentence_zh": "该地区出产的月球矿石足以建造1000艘宇宙飞船。"
+          }
+        ]
+      }
+    ],
+    "teach": "ore是个‘含金量’超高的词💰！古希腊人认为矿石是大地流出的‘金属汗珠’💦（比如赫菲斯托斯火山神话）。游戏术语‘挖矿’叫mine ores就像现实版黄金矿工⛏️，而‘富矿’叫rich ore就像抽到SSR卡✨。记住：你的手机芯片就是从沙子里淘出的ore变来的！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥利奥'→奥利奥夹心像矿石分层",
+        "易混词对比：ore（矿石）vs. core（核心）→ 矿石在核心"
+      ]
+    }
   }
 ]
