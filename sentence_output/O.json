@@ -15919,5 +15919,244 @@
         "联想：olf+factory→气味制造工厂"
       ]
     }
+  },
+  {
+    "word": "oligarchic",
+    "etymology": {
+      "breakdown": [
+        "oligo",
+        "arch",
+        "ic"
+      ],
+      "meaning_connection": "前缀oligo=少数，词根arch=统治，-ic表形容词→少数人统治的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "寡头的",
+        "examples": [
+          {
+            "sentence": "The tech giants formed an oligarchic alliance controlling 90% of global data.",
+            "sentence_zh": "科技巨头形成了控制全球90%数据的寡头联盟。"
+          },
+          {
+            "sentence": "In ancient Greece, oligarchic cities were often overthrown by democratic movements.",
+            "sentence_zh": "古希腊的寡头制城邦常被民主运动推翻。"
+          }
+        ]
+      }
+    ],
+    "teach": "oligarchic就像《权力的游戏》里的御前会议👑：oligo(少数)+arch(统治)=几个大佬开小会决定所有人的命运🤫。俄罗斯寡头叫oligarchs，就像《狂飙》里的高启强集团💼。说'小圈子统治'用old boys' club，形容'垄断'用corner the market🃏。记住：你的公司群聊可能也是个mini oligarchy！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奥利给+ark'→诺亚方舟(ark)上奥利给集团垄断船票",
+        "易混词对比：autocratic(独裁的) vs. oligarchic(寡头的)"
+      ]
+    }
+  },
+  {
+    "word": "oligarchy",
+    "etymology": {
+      "breakdown": [
+        "olig",
+        "archy"
+      ],
+      "meaning_connection": "希腊语olig=少数，archy=统治→少数人的统治"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "寡头政治",
+        "examples": [
+          {
+            "sentence": "Ancient Sparta was a classic oligarchy where power belonged to 28 elders.",
+            "sentence_zh": "古斯巴达是典型的寡头政治，权力属于28位长老。"
+          },
+          {
+            "sentence": "Tech oligarchy emerges when five companies control 80% of global data.",
+            "sentence_zh": "当五家公司控制全球80%数据时，科技寡头政治就形成了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "寡头统治集团",
+        "examples": [
+          {
+            "sentence": "The oil oligarchy secretly manipulated gasoline prices.",
+            "sentence_zh": "石油寡头集团暗中操纵汽油价格。"
+          },
+          {
+            "sentence": "Russian oligarchs own Premier League football clubs like expensive toys.",
+            "sentence_zh": "俄罗斯寡头们像买玩具般拥有英超足球俱乐部。"
+          }
+        ]
+      }
+    ],
+    "teach": "oligarchy是'少数派の盛宴'🍷：想象3个人分吃100寸披萨🍕（其他97人只能闻香味）。古希腊用这个词嘲笑斯巴达'28长老煲仔饭'统治模式。现代版叫'马太效应'：比如微信/支付宝垄断移动支付💸。记住：'权力集中'叫power oligarchy，'反抗寡头'可以说break the circle👊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬梨咖喱'→熬制咖喱的配方被少数人(oligarchy)垄断",
+        "易混词对比：monarchy(君主制) vs oligarchy(寡头制)",
+        "记忆tip：olig=VIP候机室，archy=统治→VIP们统治世界"
+      ]
+    }
+  },
+  {
+    "word": "oligonucleotide",
+    "etymology": {
+      "breakdown": [
+        "oligo",
+        "nucleo",
+        "tide"
+      ],
+      "meaning_connection": "前缀oligo-表示'少量'，词根nucleo指'核'，-tide与'核苷酸'相关→指短链的核苷酸分子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "寡核苷酸",
+        "examples": [
+          {
+            "sentence": "CRISPR technology uses oligonucleotides as genetic scissors.",
+            "sentence_zh": "CRISPR基因编辑技术将寡核苷酸用作分子剪刀。"
+          },
+          {
+            "sentence": "The lab synthesized fluorescent oligonucleotides for COVID testing.",
+            "sentence_zh": "实验室合成了荧光寡核苷酸用于新冠检测。"
+          }
+        ]
+      }
+    ],
+    "teach": "oligonucleotide是生物界的乐高积木🧬！'寡'(oligo)说明它比抖音短视频还短🎵，'核苷酸'(nucleotide)是DNA的字母。科学家用它就像用淘宝买基因零件🔧（design oligonucleotides），'基因合成'叫oligo synthesis就像拼多多团购DNA📦。记住：这词念起来像'欧里哥-纽克利-泰德'，是个穿白大褂的学霸👨🔬！",
+    "recite": {
+      "tips": [
+        "拆解记忆：oligo（少）+ nucleo（核）→少量核物质",
+        "联想：就像把长微博（DNA）截成小段（oligo）发朋友圈"
+      ]
+    }
+  },
+  {
+    "word": "oligopolistic",
+    "etymology": {
+      "breakdown": [
+        "oligo",
+        "pol",
+        "istic"
+      ],
+      "meaning_connection": "词根oligo=少数，pol=贩卖/控制，-istic=形容词后缀→'少数人控制的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "由少数把持的",
+        "examples": [
+          {
+            "sentence": "The smartphone market becomes oligopolistic with three brands controlling 80% share.",
+            "sentence_zh": "智能手机市场呈现寡头格局，三大品牌掌控80%份额。"
+          },
+          {
+            "sentence": "Oligopolistic oil companies can manipulate gas prices like puppeteers.",
+            "sentence_zh": "少数把持的石油公司能像操纵木偶般控制油价。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "寡占的",
+        "examples": [
+          {
+            "sentence": "China's telecom industry shows oligopolistic characteristics.",
+            "sentence_zh": "中国电信行业呈现寡占特征。"
+          },
+          {
+            "sentence": "The oligopolistic beer market makes it hard for craft breweries to survive.",
+            "sentence_zh": "寡占的啤酒市场让精酿厂难以生存。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "oligopolistic competition",
+        "meaning": "寡头竞争",
+        "examples": [
+          {
+            "sentence": "Streaming platforms engage in oligopolistic competition with exclusive content.",
+            "sentence_zh": "流媒体平台通过独家内容进行寡头竞争。"
+          }
+        ]
+      }
+    ],
+    "teach": "oligopolistic是'少数派报告'🔍：词根oligo(少数)+pol(控制)就像三个大佬垄断麻将桌🀄，现代版'三国演义'📜。要说'市场被巨头把持'可称Big Tech's playground，'垄断联盟'叫price-fixing cartel💸。记住：当市场变成oligopolistic，消费者就像待宰羔羊🐑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦里go垄断stick'→哦里头几个人垄断了stick",
+        "易混词对比：monopolistic(垄断的) vs oligopolistic(寡占的)",
+        "联想：oligo(奥利奥)只有几块饼干夹心→少数控制"
+      ]
+    }
+  },
+  {
+    "word": "oligopoly",
+    "etymology": {
+      "breakdown": [
+        "oligo",
+        "poly"
+      ],
+      "meaning_connection": "词根oligo=少数，poly=卖方→少数卖家控制的市场结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "寡头垄断（卖方主导）",
+        "examples": [
+          {
+            "sentence": "The smartphone market is an oligopoly dominated by Apple and Samsung.",
+            "sentence_zh": "智能手机市场是被苹果和三星主导的寡头垄断。"
+          },
+          {
+            "sentence": "China's oil industry forms an oligopoly with three major state-owned companies.",
+            "sentence_zh": "中国石油工业由三大国企形成寡头垄断格局。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "寡头买主垄断",
+        "examples": [
+          {
+            "sentence": "Rare earth mining faces an oligopoly with only five global buyers.",
+            "sentence_zh": "稀土开采行业面临仅五个全球买家的寡头买主垄断。"
+          },
+          {
+            "sentence": "The diamond trade was historically an oligopoly controlled by De Beers.",
+            "sentence_zh": "钻石贸易历史上是被戴比尔斯控制的寡头买主垄断。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "oligopoly market",
+        "meaning": "寡头垄断市场",
+        "examples": [
+          {
+            "sentence": "Live streaming platforms are evolving into an oligopoly market.",
+            "sentence_zh": "直播平台正在演变成寡头垄断市场。"
+          }
+        ]
+      }
+    ],
+    "teach": "oligopoly是'少数派报告'📜：就像王者荣耀里永远只遇到V8大佬👑（少数玩家控制全场），或奶茶界被喜茶/蜜雪冰城二分天下🍵。要说'垄断市场'用地道表达叫corner the market（霸占市场角落），记住：oligo+poly=几个大佬打麻将🀄️，其他人只能围观！",
+    "recite": {
+      "tips": [
+        "谐音梗：'噢哩Go跑了'→寡头跑了市场就完了",
+        "易混词对比：monopoly（完全垄断） vs oligopoly（寡头垄断）",
+        "记忆tip：拆解为'oil（石油）+go（走）+poly（多）'联想石油被少数国家控制"
+      ]
+    }
   }
 ]

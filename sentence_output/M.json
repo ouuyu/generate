@@ -15898,5 +15898,274 @@
         "记忆法：想象穿爸爸西装的小孩👶👔"
       ]
     }
+  },
+  {
+    "word": "manoeuvre",
+    "etymology": {
+      "breakdown": [
+        "manu",
+        "oeuvre"
+      ],
+      "meaning_connection": "词根manu=手(如manual)，oeuvre=工作(源自法语)→原指'手工操作'，引申为军事调动和策略运用"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "军事调遣",
+        "examples": [
+          {
+            "sentence": "The tank manoeuvre kicked up clouds of yellow dust in the desert.",
+            "sentence_zh": "坦克调遣在沙漠中扬起滚滚黄尘。"
+          },
+          {
+            "sentence": "Napoleon's manoeuvre at Austerlitz is still studied in military schools.",
+            "sentence_zh": "拿破仑在奥斯特里茨的军事部署至今仍是军校教材。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "演习",
+        "examples": [
+          {
+            "sentence": "The live-fire manoeuvre startled villagers with explosions.",
+            "sentence_zh": "实弹演习的爆炸声惊动了村民。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "策略",
+        "examples": [
+          {
+            "sentence": "Her chess manoeuvre trapped my queen in three moves.",
+            "sentence_zh": "她的棋路三步就将死了我的皇后。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "军事调动",
+        "examples": [
+          {
+            "sentence": "The fleet manoeuvred through the Taiwan Strait.",
+            "sentence_zh": "舰队机动穿过了台湾海峡。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "演习",
+        "examples": [
+          {
+            "sentence": "Fighter jets manoeuvred like dragonflies over the airbase.",
+            "sentence_zh": "战斗机在空军基地上空如蜻蜓般演练战术动作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "运用策略",
+        "examples": [
+          {
+            "sentence": "The startup manoeuvred to secure venture capital.",
+            "sentence_zh": "这家初创公司巧妙运作以获得风投。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "调动",
+        "examples": [
+          {
+            "sentence": "The general manoeuvred troops under cover of fog.",
+            "sentence_zh": "将军借着雾色调动部队。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "操纵",
+        "examples": [
+          {
+            "sentence": "She manoeuvred the crane with joystick precision.",
+            "sentence_zh": "她以游戏杆般的精准度操纵起重机。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "room for manoeuvre",
+        "meaning": "回旋余地",
+        "examples": [
+          {
+            "sentence": "The tight deadline left no room for manoeuvre.",
+            "sentence_zh": "紧迫的工期让人毫无回旋余地。"
+          }
+        ]
+      }
+    ],
+    "teach": "manoeuvre本质是'手活'🤲→既指将军运筹帷幄🗺️（military manoeuvre），也指老司机侧方停车🚗（parking manoeuvre）。英国人说'tactical manoeuvre'时总把oeuvre发成'呜啊'🤵♂️，记住：这个法语血统的单词比maneuver多两个元音字母！说'走位风骚'可以用slick manoeuvring🍃",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢牛蛙'→慢速移动的战术牛蛙（军事术语）",
+        "易混词：manipulate（操控）更侧重暗中控制"
+      ]
+    }
+  },
+  {
+    "word": "manor",
+    "etymology": {
+      "breakdown": [
+        "man",
+        "or"
+      ],
+      "meaning_connection": "词根man=居住（同mansion），后缀-or表场所→领主居住的领地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "庄园",
+        "examples": [
+          {
+            "sentence": "The tea plantation was part of an 18th-century British manor in Fujian.",
+            "sentence_zh": "这片茶园曾是福建某18世纪英国庄园的一部分。"
+          },
+          {
+            "sentence": "They turned the abandoned manor into a escape room venue.",
+            "sentence_zh": "他们把废弃庄园改造成了密室逃脱场馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "采邑",
+        "examples": [
+          {
+            "sentence": "The knight received a manor near Yangzhou as his fief.",
+            "sentence_zh": "这名骑士获得扬州附近的采邑作为封地。"
+          },
+          {
+            "sentence": "Manor system shaped medieval Europe's social structure.",
+            "sentence_zh": "采邑制度塑造了中世纪欧洲的社会结构。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "manor house",
+        "meaning": "庄园主楼",
+        "examples": [
+          {
+            "sentence": "The manor house now serves as a hotpot museum in Chongqing.",
+            "sentence_zh": "这座庄园主楼如今是重庆的火锅博物馆。"
+          }
+        ]
+      }
+    ],
+    "teach": "manor是欧洲版的农家乐🏰！中世纪的manor就像个迷你王国：领主住manor house（庄园主楼），农民交租用粮食🌾（后来变成交钱💸）。现代说'my manor'可以幽默指自己地盘，比如：'This cubicle is my corporate manor.' 记住：逛迪士尼城堡时可以说'This is my temporary manor!'👑",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛮闹'→庄园里蛮热闹",
+        "易混词对比：mansion（豪宅） vs manor（带土地的庄园）",
+        "记忆法：man(人)+or(场所)→人类最早的地盘经济"
+      ]
+    }
+  },
+  {
+    "word": "manorial",
+    "etymology": {
+      "breakdown": [
+        "manor",
+        "ial"
+      ],
+      "meaning_connection": "manor（庄园）源自拉丁语'mansio'（居所），后缀-ial表示'属于...的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "庄园的",
+        "examples": [
+          {
+            "sentence": "The manorial records contain details of medieval farming methods.",
+            "sentence_zh": "庄园档案记载了中世纪的耕作方式细节。"
+          },
+          {
+            "sentence": "We visited a perfectly preserved manorial kitchen from the 14th century.",
+            "sentence_zh": "我们参观了一间保存完好的14世纪庄园厨房。"
+          }
+        ]
+      }
+    ],
+    "teach": "manorial是贵族的凡尔赛文学🏰！就像《唐顿庄园》里的老爷们用这个单词时，其实在说'朕的千亩良田'🌾。搭配要说manorial rights（领主特权）或manorial court（庄园法庭），吐槽'土皇帝'可以用landed gentry（土地乡绅）。记住：这个词一出口，瞬间穿越回骑马射箭的年代🏹",
+    "recite": {
+      "tips": [
+        "拆解记忆：manor（庄园）+ial（的）= 庄园的",
+        "视觉联想：把-ial看作城堡的旗杆🚩",
+        "文化梗：英国至今仍有manorial system残余，女王也曾是兰开斯特庄园领主"
+      ]
+    }
+  },
+  {
+    "word": "manpower",
+    "etymology": {
+      "breakdown": [
+        "man",
+        "power"
+      ],
+      "meaning_connection": "字面理解为'人的力量'→集体劳动力资源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "人力",
+        "examples": [
+          {
+            "sentence": "The Great Wall was built with ancient manpower instead of machines.",
+            "sentence_zh": "长城是依靠古代人力而非机械建造的。"
+          },
+          {
+            "sentence": "Tech companies compete for AI manpower like dragons fighting for treasure.",
+            "sentence_zh": "科技公司争夺AI人才如同巨龙抢宝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "manpower shortage",
+        "meaning": "人力短缺",
+        "examples": [
+          {
+            "sentence": "During Spring Festival, delivery services face severe manpower shortage.",
+            "sentence_zh": "春节期间快递行业面临严重人力短缺。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "manpower resources",
+        "meaning": "人力资源",
+        "examples": [
+          {
+            "sentence": "China's vast manpower resources fuel its manufacturing boom.",
+            "sentence_zh": "中国庞大的人力资源推动制造业繁荣。"
+          }
+        ]
+      }
+    ],
+    "teach": "manpower其实是'人形电池'🔋！工业革命时期这个词特指'肌肉力量'💪，现在连程序员脑力都算。要说'人力不足'可以用short-handed（像打麻将三缺一🎲），'精兵简政'叫lean manpower（像健身教练的腹肌🤵）。记住：manpower决定你能同时开多少台手机抢红包！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢跑我'→人力慢跑我(manpower)追不上机器",
+        "易混词：workforce（更正式）/staff（特定机构人员）",
+        "联想记忆：man+power=人的力量→就像蚂蚁搬家的集体力量🐜"
+      ]
+    }
   }
 ]

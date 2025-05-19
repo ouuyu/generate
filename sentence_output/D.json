@@ -15854,5 +15854,253 @@
         "对比记忆：decision是决定，decisiveness是决定力"
       ]
     }
+  },
+  {
+    "word": "deck",
+    "etymology": {
+      "breakdown": [
+        "deck"
+      ],
+      "meaning_connection": "源自中古荷兰语'dec'（覆盖物），与德语'Decke'（毯子）同源，最初指船舶的覆盖层"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "甲板",
+        "examples": [
+          {
+            "sentence": "Tourists crowded the deck to see the Yangtze River Bridge.",
+            "sentence_zh": "游客挤在甲板上观看长江大桥。"
+          },
+          {
+            "sentence": "The captain stood on the deck holding a telescope.",
+            "sentence_zh": "船长手持望远镜站在甲板上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "汽车后部的行李仓",
+        "examples": [
+          {
+            "sentence": "We put 20 watermelons in the deck of the pickup truck.",
+            "sentence_zh": "我们在皮卡车的后货厢放了20个西瓜。"
+          },
+          {
+            "sentence": "The deck door won't close properly after the accident.",
+            "sentence_zh": "事故后后备箱门关不严实了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "装饰",
+        "examples": [
+          {
+            "sentence": "She decked her room with LED stars for blind dating.",
+            "sentence_zh": "她为相亲用LED星星装饰房间。"
+          },
+          {
+            "sentence": "Shopping malls are decked with red lanterns before Spring Festival.",
+            "sentence_zh": "春节前商场挂满红灯笼装饰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "装甲板",
+        "examples": [
+          {
+            "sentence": "The warship's hull was decked with steel plates.",
+            "sentence_zh": "军舰船体用钢板加固。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hit the deck",
+        "meaning": "迅速趴下",
+        "examples": [
+          {
+            "sentence": "When the firecracker exploded, everyone hit the deck.",
+            "sentence_zh": "鞭炮炸响时所有人都迅速趴下。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "deck out",
+        "meaning": "盛装打扮",
+        "examples": [
+          {
+            "sentence": "She was decked out in hanfu for the cosplay event.",
+            "sentence_zh": "她穿着汉服盛装参加漫展。"
+          }
+        ]
+      }
+    ],
+    "teach": "deck就像变形金刚🤖！作名词时是货船甲板🚢（想象装满集装箱的场面），作动词装饰义时像新年贴窗花🎨（deck the halls），而'hit the deck'这个表达源自水兵听到炮击立即卧倒的场面💥。要吐槽'过度装饰'可以说：'This looks like a Christmas tree threw up!'（这像圣诞树吐出来的装饰品🎄）",
+    "recite": {
+      "tips": [
+        "谐音梗：'待客'→用甲板(deck)待客",
+        "易混词：desk（桌子）vs deck（甲板）→桌子在室内，甲板在船上"
+      ]
+    }
+  },
+  {
+    "word": "decker",
+    "etymology": {
+      "breakdown": [
+        "deck",
+        "er"
+      ],
+      "meaning_connection": "词根deck=甲板/层面，后缀-er表'...的人/物'→原指负责装饰甲板的人，后引申为多层结构的事物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "装饰者",
+        "examples": [
+          {
+            "sentence": "The Christmas tree decker used 300 LED lights this year.",
+            "sentence_zh": "圣诞树装饰者今年用了300盏LED灯。"
+          },
+          {
+            "sentence": "As a cake decker, her buttercream flowers look real enough to smell.",
+            "sentence_zh": "作为蛋糕装饰师，她做的奶油花逼真到仿佛能闻到香味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "有特定层数的船只（用于复合词）",
+        "examples": [
+          {
+            "sentence": "The double-decker ferry between Hong Kong and Macau has a karaoke lounge.",
+            "sentence_zh": "港澳之间的双层渡轮配有卡拉OK厅。"
+          },
+          {
+            "sentence": "Three-decker warships were called 'floating castles' in the 18th century.",
+            "sentence_zh": "18世纪的三层战舰被称为'浮动城堡'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "有特定层面的车辆（用于复合词）",
+        "examples": [
+          {
+            "sentence": "London's red double-decker buses are more punctual than my takeout delivery.",
+            "sentence_zh": "伦敦红色双层巴士比我的外卖配送还准时。"
+          },
+          {
+            "sentence": "The triple-decker sightseeing bus got stuck under a low bridge yesterday.",
+            "sentence_zh": "那辆三层观光巴士昨天卡在了矮桥下。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "double-decker",
+        "meaning": "双层的",
+        "examples": [
+          {
+            "sentence": "I always sit upstairs on double-decker trains to pretend I'm flying.",
+            "sentence_zh": "我总爱坐双层火车的上层，假装自己在飞行。"
+          },
+          {
+            "sentence": "Double-decker burgers require jaw dislocation training.",
+            "sentence_zh": "吃双层汉堡需要接受下巴脱臼训练。"
+          }
+        ]
+      }
+    ],
+    "teach": "decker是'叠叠乐'大师🧙‍♂️！从泰坦尼克号的双层甲板🚢（two-decker），到让你下巴脱臼的巨无霸汉堡🍔（double-decker），再到英国巴士的'头顶观光座'🇬🇧（double-decker bus）。想装X说'三层'？直接throw triple-decker就完事！记住：看到-er结尾就找'专业户'👷，比如baker是烤面包专业户，decker就是叠叠乐专业户！",
+    "recite": {
+      "tips": [
+        "谐音梗：'带壳儿'→带壳(decker)的船才是好船",
+        "易混词对比：decorator（专业装饰师） vs decker（侧重结构层数）",
+        "记忆口诀：deck+er=甲板专业户，数字前缀变叠叠乐"
+      ]
+    }
+  },
+  {
+    "word": "decking",
+    "etymology": {
+      "breakdown": [
+        "deck",
+        "ing"
+      ],
+      "meaning_connection": "deck源自中古荷兰语'dec'（覆盖物），-ing表名词化→原指船上甲板，后引申出各种铺面板材的称呼。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "装饰",
+        "examples": [
+          {
+            "sentence": "The Christmas decking in the mall features giant LED pandas.",
+            "sentence_zh": "商场的圣诞装饰采用了巨型LED熊猫。"
+          },
+          {
+            "sentence": "Her wedding decking included 10,000 origami cranes.",
+            "sentence_zh": "她的婚礼装饰包含一万只折纸鹤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "桥面板",
+        "examples": [
+          {
+            "sentence": "The glass decking of Zhangjiajie Grand Canyon Bridge terrifies tourists.",
+            "sentence_zh": "张家界大峡谷大桥的玻璃桥面板让游客胆战心惊。"
+          },
+          {
+            "sentence": "Workers are replacing rotten wooden decking on the ancient bridge.",
+            "sentence_zh": "工人正在更换古桥上腐烂的木制桥面板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "盖板",
+        "examples": [
+          {
+            "sentence": "The decking of this smartphone is made of aerospace aluminum.",
+            "sentence_zh": "这款手机的盖板采用航空铝材质。"
+          },
+          {
+            "sentence": "Be careful when walking on the slippery pool decking.",
+            "sentence_zh": "在湿滑的泳池盖板上行走要小心。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "composite decking",
+        "meaning": "复合板材",
+        "examples": [
+          {
+            "sentence": "Many balcony gardens use eco-friendly composite decking.",
+            "sentence_zh": "许多阳台花园使用环保复合板材。"
+          }
+        ]
+      }
+    ],
+    "teach": "decking是个'伪装大师'🎭！当它玩'装饰'时就像春节挂灯笼🏮（festive decking），当'桥面板'时变身张家界玻璃桥😱（daredevil decking），当'盖板'时又成了手机后盖📱（sleek decking）。记住：看到decking先问——它现在在'装'什么？搭配说'deck out'=盛装打扮，'hit the deck'=摔倒（字面意思：亲吻decking）💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'待客亭'→用decking(待客亭)材料装修",
+        "易混词对比：decking(建材) vs docking(停靠)",
+        "记忆tip：deck+ing=正在'甲板化'的过程"
+      ]
+    }
   }
 ]

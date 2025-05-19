@@ -16357,5 +16357,268 @@
         "易混词对比：teatime（休闲时段）vs deadline（死亡时段）"
       ]
     }
+  },
+  {
+    "word": "teasing",
+    "etymology": {
+      "breakdown": [
+        "tease",
+        "ing"
+      ],
+      "meaning_connection": "动词tease（挑逗）+后缀-ing构成动名词，原指反复拨弄的动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "戏弄",
+        "examples": [
+          {
+            "sentence": "The class erupted in laughter at the teacher's good-natured teasing.",
+            "sentence_zh": "老师善意的调侃引得全班哄堂大笑。"
+          },
+          {
+            "sentence": "Pandas often engage in bamboo-leaf teasing during mating season.",
+            "sentence_zh": "大熊猫在发情期常进行竹叶挑逗行为。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "teasing out",
+        "meaning": "梳理分析",
+        "examples": [
+          {
+            "sentence": "Researchers are teasing out connections between douyin usage and sleep quality.",
+            "sentence_zh": "研究人员正在剖析抖音使用与睡眠质量间的关联。"
+          }
+        ]
+      }
+    ],
+    "teach": "teasing本质是'薅羊毛式社交'🐑！最早指用梳子(tease)反复梳理羊毛🧶，现代变成朋友间互怼文化🤪。搭配'playful teasing'（友好玩笑）比'mean teasing'（恶意嘲弄）更受欢迎，地道说法是'just ribbing ya'（开玩笑啦）！记住：适度teasing是社交润滑剂，过度就变拔毛了💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢醒'→用玩笑踢醒装睡的人",
+        "易混词：teasing（嬉闹）vs. teaching（教学）"
+      ]
+    }
+  },
+  {
+    "word": "tech",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "technology的缩写形式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "技术学院或学校",
+        "examples": [
+          {
+            "sentence": "He studied robotics at a famous tech in Boston.",
+            "sentence_zh": "他在波士顿一所著名的技术学院学习机器人技术。"
+          },
+          {
+            "sentence": "Many Silicon Valley engineers graduated from local techs.",
+            "sentence_zh": "许多硅谷工程师毕业于当地的技术学校。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go to tech",
+        "meaning": "上技术学校",
+        "examples": [
+          {
+            "sentence": "Instead of university, he chose to go to tech to learn practical skills.",
+            "sentence_zh": "他没有选择大学，而是去技术学校学习实用技能。"
+          }
+        ]
+      }
+    ],
+    "teach": "tech这个词就像程序员格子衫👔的缩写版！它其实是technology的'瘦身版'，就像我们把'清华大学'叫成'清北'📚。去tech上学就像加入复仇者联盟基地🛠️，专门培养技术超级英雄。记住：说'我在MIT'是凡尔赛，说'我在tech'是实干派💻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太渴'→技术学院学生熬夜编程太渴",
+        "易混词对比：tech(技术学校) vs. technique(技术)"
+      ]
+    }
+  },
+  {
+    "word": "technical",
+    "etymology": {
+      "breakdown": [
+        "techn",
+        "ical"
+      ],
+      "meaning_connection": "词根techn=技艺/工艺，后缀-ical表'与...相关的'→原指与特定技艺相关的事物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "技术上的",
+        "examples": [
+          {
+            "sentence": "The livestream host encountered technical difficulties while selling durians.",
+            "sentence_zh": "主播在直播卖榴莲时遇到技术故障。"
+          },
+          {
+            "sentence": "Huawei's technical support team solved my 5G router issue in minutes.",
+            "sentence_zh": "华为技术支持团队五分钟解决了我的5G路由器问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "专门的",
+        "examples": [
+          {
+            "sentence": "This WeChat article uses too many technical terms about cryptocurrency.",
+            "sentence_zh": "这篇公众号文章用了太多关于加密货币的专门术语。"
+          },
+          {
+            "sentence": "The manual includes technical specifications for electric scooters.",
+            "sentence_zh": "说明书包含电动滑板车的专门参数。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "工业的",
+        "examples": [
+          {
+            "sentence": "Shenzhen's technical colleges train skilled manufacturing workers.",
+            "sentence_zh": "深圳的工业技术学院培养熟练制造业工人。"
+          },
+          {
+            "sentence": "Technical alcohol is used for disinfecting electronics production lines.",
+            "sentence_zh": "工业酒精用于消毒电子产品生产线。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "严格根据法律的",
+        "examples": [
+          {
+            "sentence": "The court made a technical interpretation of the new data security law.",
+            "sentence_zh": "法院对新数据安全法做出了严格根据法律的解释。"
+          },
+          {
+            "sentence": "Getting a technical knockout in boxing follows specific rules.",
+            "sentence_zh": "拳击中的技术性击倒严格遵循比赛规则。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "technical support",
+        "meaning": "技术支持",
+        "examples": [
+          {
+            "sentence": "Alibaba Cloud's technical support responds faster than my boyfriend's texts.",
+            "sentence_zh": "阿里云的技术支持回复速度比我男朋友回微信还快。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "technical college",
+        "meaning": "工业学院",
+        "examples": [
+          {
+            "sentence": "Many graduates from technical colleges work in drone manufacturing.",
+            "sentence_zh": "许多工业学院毕业生从事无人机生产工作。"
+          }
+        ]
+      }
+    ],
+    "teach": "technical这个词就像万能扳手🔧！当程序员说'It's technical'时，意思是'说了你也不懂'🤓（技术上的）；淘宝商品详情里的'technical specifications'其实是'看不懂的参数'📊（专门的）；'technical school'毕业生可能正在组装你的手机📱（工业的）；而'technical victory'就像用法律条文赢得辩论⚖️（严格根据法律的）。记住：遇到technical就想象蓝色工装裤👖——专业又实用！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太苛刻闹'→技术问题太苛刻闹心",
+        "易混词对比：technique(技巧) vs technical(技术的)"
+      ]
+    }
+  },
+  {
+    "word": "technicality",
+    "etymology": {
+      "breakdown": [
+        "techn",
+        "ical",
+        "ity"
+      ],
+      "meaning_connection": "词根techn=技艺/技术，-ical表形容词性质，-ity表名词属性→与技术相关的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "专门性",
+        "examples": [
+          {
+            "sentence": "The technicality of quantum physics baffled even the philosophy professor.",
+            "sentence_zh": "量子物理的专门性连哲学教授都难以理解。"
+          },
+          {
+            "sentence": "He joked about the technicality of bubble tea recipes being classified as state secrets.",
+            "sentence_zh": "他开玩笑说奶茶配方的专门性堪比国家机密。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "学术性",
+        "examples": [
+          {
+            "sentence": "The paper's technicality made it read like ancient oracle bone script.",
+            "sentence_zh": "论文的学术性让它读起来像甲骨文。"
+          },
+          {
+            "sentence": "She lightened the technicality of her lecture with memes about programmers.",
+            "sentence_zh": "她用程序员梗图冲淡了讲座的学术性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "技术的使用",
+        "examples": [
+          {
+            "sentence": "The technicality of VR headsets in classrooms still gives teachers motion sickness.",
+            "sentence_zh": "VR眼镜在课堂的技术使用仍会让老师晕3D。"
+          },
+          {
+            "sentence": "Dumpling-making robots show impressive technicality but lack grandma's touch.",
+            "sentence_zh": "包饺子机器人技术使用很惊艳，但缺少奶奶的手法。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "legal technicality",
+        "meaning": "法律细节",
+        "examples": [
+          {
+            "sentence": "The lawsuit was dismissed on a legal technicality about WeChat chat records.",
+            "sentence_zh": "该诉讼因微信聊天记录的法律细节问题被驳回。"
+          }
+        ]
+      }
+    ],
+    "teach": "technicality其实是'科技宅の执着'🤓！就像你给爸妈解释手机功能时他们的表情😵，或者程序员争论tab键该有几个空格⚔️。要说'太专业了'可以用jargon alert（术语警告），'钻牛角尖'叫split hairs（分头发丝）。记住：当男/女朋友说你讲话太technicality，就该切换成emoji语言了💘🐶🍉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太克你考了题'→专门性太强让你考试跪",
+        "对比记忆：technology是技术，technicality是技术性"
+      ]
+    }
   }
 ]

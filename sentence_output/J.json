@@ -16302,5 +16302,348 @@
         "记忆法：想象法官用滴管往法典上滴肉汁"
       ]
     }
+  },
+  {
+    "word": "just",
+    "etymology": {
+      "breakdown": [
+        "jus",
+        "t"
+      ],
+      "meaning_connection": "词根jus=法律/正义，后缀-t强化概念→原指'符合法律的'，引申出'正直'和'精确'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "正直的",
+        "examples": [
+          {
+            "sentence": "The judge wearing Hanfu made a just decision.",
+            "sentence_zh": "穿汉服的法官作出了正直的判决。"
+          },
+          {
+            "sentence": "In Chinese tradition, a just person is called 君子 (junzi).",
+            "sentence_zh": "中国传统文化中正直的人被称为君子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "合理的",
+        "examples": [
+          {
+            "sentence": "Her demand for a 15-minute milk tea break is just.",
+            "sentence_zh": "她要求15分钟奶茶休息时间是合理的。"
+          },
+          {
+            "sentence": "The price of this AI course is just considering its value.",
+            "sentence_zh": "考虑到价值，这个AI课程的价格是合理的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "正确的",
+        "examples": [
+          {
+            "sentence": "TikTok's algorithm made just recommendations for me.",
+            "sentence_zh": "抖音的算法给我推荐了正确的内容。"
+          },
+          {
+            "sentence": "Pressing Ctrl+Z is the just move when you make typos.",
+            "sentence_zh": "打错字时按Ctrl+Z是正确的操作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "应得的",
+        "examples": [
+          {
+            "sentence": "After working overtime for 72 hours, he got his just reward.",
+            "sentence_zh": "加班72小时后，他得到了应得的报酬。"
+          },
+          {
+            "sentence": "The champion received just praise for his mahjong skills.",
+            "sentence_zh": "这位冠军因其麻将技术得到了应得的赞誉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "刚刚",
+        "examples": [
+          {
+            "sentence": "I just finished watching 30 episodes of The Untamed.",
+            "sentence_zh": "我刚刚看完30集《陈情令》。"
+          },
+          {
+            "sentence": "The AI just generated a love poem in ancient style.",
+            "sentence_zh": "这个AI刚刚生成了一首古风情诗。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "正好",
+        "examples": [
+          {
+            "sentence": "This suitcase is just the right size for my 20 spicy crayfish.",
+            "sentence_zh": "这个行李箱正好装下我的20只麻辣小龙虾。"
+          },
+          {
+            "sentence": "His height is just enough to reach the top shelf of hotpot ingredients.",
+            "sentence_zh": "他的身高正好能够到火锅食材架的顶层。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "仅仅",
+        "examples": [
+          {
+            "sentence": "I need just 5 more minutes to finish this mobile game level.",
+            "sentence_zh": "我仅仅需要5分钟就能通关这关手游。"
+          },
+          {
+            "sentence": "The meeting lasted just 10 minutes - a new company record!",
+            "sentence_zh": "会议仅仅持续了10分钟，创公司新纪录！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "just now",
+        "meaning": "刚才",
+        "examples": [
+          {
+            "sentence": "The bubble tea delivery guy left just now.",
+            "sentence_zh": "奶茶外卖小哥刚才离开了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "just about",
+        "meaning": "几乎",
+        "examples": [
+          {
+            "sentence": "I'm just about to beat the high score in this mobile game.",
+            "sentence_zh": "我几乎要打破这个手游的最高分了。"
+          }
+        ]
+      }
+    ],
+    "teach": "just就像火锅蘸料🥘：作形容词时是'正义芝麻酱'（just decision），作副词时是'精准小米辣'🌶️（just 5g）。古代包青天的'正义'和现代人'刚刚'刷完抖音都用它！说'差不多'可用just about，吐槽'就这？'说Is that it？🦸♂️记住：just的多义性就像微信的万能二维码，扫一扫总有新发现！",
+    "recite": {
+      "tips": [
+        "谐音梗：'炸死它'→正义使者just要炸死坏人",
+        "易混词：fair（公平的）/accurate（精确的）",
+        "记忆tip：just的't'像天平⚖️代表公正"
+      ]
+    }
+  },
+  {
+    "word": "justice",
+    "etymology": {
+      "breakdown": [
+        "jus",
+        "tice"
+      ],
+      "meaning_connection": "词根jus=法律/权利，后缀-tice=状态→符合法律权利的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "正义",
+        "examples": [
+          {
+            "sentence": "Superman fights for truth, justice and the American way.",
+            "sentence_zh": "超人为真理、正义和美国精神而战。"
+          },
+          {
+            "sentence": "The villagers painted 'Seek Justice' banners in squid ink.",
+            "sentence_zh": "村民们用墨汁写下「伸张正义」的横幅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "公平",
+        "examples": [
+          {
+            "sentence": "The teacher distributed mooncakes with mathematical justice.",
+            "sentence_zh": "老师像数学公式般精确地分配月饼。"
+          },
+          {
+            "sentence": "Alibaba's algorithm adjusts prices with marketplace justice.",
+            "sentence_zh": "阿里巴巴的算法根据市场公平性调整价格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "公正",
+        "examples": [
+          {
+            "sentence": "The Weibo jury demanded justice for the stolen hotpot recipe.",
+            "sentence_zh": "微博陪审团要求为被盗的火锅配方讨回公正。"
+          },
+          {
+            "sentence": "TikTok's comment section became a court of public justice.",
+            "sentence_zh": "抖音评论区变成了公众公正的法庭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "司法",
+        "examples": [
+          {
+            "sentence": "The Supreme People's Court is the highest organ of justice in China.",
+            "sentence_zh": "最高人民法院是中国最高司法机构。"
+          },
+          {
+            "sentence": "AI judges may revolutionize the speed of justice delivery.",
+            "sentence_zh": "人工智能法官可能彻底改变司法裁决的速度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "审判",
+        "examples": [
+          {
+            "sentence": "The streaming of court proceedings brings justice to your smartphone.",
+            "sentence_zh": "庭审直播让审判直接呈现在你的手机上。"
+          },
+          {
+            "sentence": "Ancient Chinese justice often involved ordeal by hot iron.",
+            "sentence_zh": "中国古代审判常包含铁火考验。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bring to justice",
+        "meaning": "缉拿归案",
+        "examples": [
+          {
+            "sentence": "The scammer selling fake PCR tests was finally brought to justice.",
+            "sentence_zh": "贩卖假核酸检测报告的骗子终于被缉拿归案。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "do justice to",
+        "meaning": "公正对待",
+        "examples": [
+          {
+            "sentence": "No photo can do justice to the spiciness of Chongqing hotpot.",
+            "sentence_zh": "任何照片都无法公正呈现重庆火锅的辣度。"
+          }
+        ]
+      }
+    ],
+    "teach": "justice其实是「法式大餐」⚖️：词根jus是拉丁语「法律酱汁」，-tice是「状态调料」。中国古代的獬豸(xiè zhì)神兽就是正义化身🦄，西方说「天网恢恢」叫the wheels of justice grind slowly（正义之轮转得慢）。说「正义迟到」用justice delayed is justice denied，搭配emoji⏳⚡💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'扎死铁石'→正义要扎透铁石心肠",
+        "易混词：justice（抽象正义）vs. judge（具体法官）",
+        "记忆术：Just(正好)+ice(冰)→正义像冰一样纯粹"
+      ]
+    }
+  },
+  {
+    "word": "justifiable",
+    "etymology": {
+      "breakdown": [
+        "just",
+        "ify",
+        "able"
+      ],
+      "meaning_connection": "词根just=公正的，-ify=使...化，-able=能够...的→能够被公正化的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可辩解的",
+        "examples": [
+          {
+            "sentence": "His tardiness was justifiable due to subway delays.",
+            "sentence_zh": "他的迟到因地铁延误而情有可原。"
+          },
+          {
+            "sentence": "Eating hotpot everyday is justifiable in Chongqing's winter.",
+            "sentence_zh": "在重庆的冬天，天天吃火锅是可以理解的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可证明的",
+        "examples": [
+          {
+            "sentence": "The scientist presented justifiable evidence for the new theory.",
+            "sentence_zh": "科学家为这个新理论提供了可证明的证据。"
+          },
+          {
+            "sentence": "Her calculations were mathematically justifiable.",
+            "sentence_zh": "她的计算结果在数学上是可验证的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有理的",
+        "examples": [
+          {
+            "sentence": "Parents have justifiable concerns about online gaming addiction.",
+            "sentence_zh": "家长对网络游戏成瘾的担忧是合理的。"
+          },
+          {
+            "sentence": "It's justifiable to wear pajamas during online meetings.",
+            "sentence_zh": "在线上会议穿睡衣是有道理的。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "justifiable homicide",
+        "meaning": "正当杀人",
+        "examples": [
+          {
+            "sentence": "Self-defense may be considered justifiable homicide.",
+            "sentence_zh": "自卫可能被视为正当杀人。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "justifiable reason",
+        "meaning": "正当理由",
+        "examples": [
+          {
+            "sentence": "Bubble tea addiction is not a justifiable reason for being late.",
+            "sentence_zh": "奶茶上瘾不能成为迟到的正当理由。"
+          }
+        ]
+      }
+    ],
+    "teach": "justifiable就像法庭上的完美辩护💼：词根just来自正义女神Justitia的天平⚖️，-able让你想到'可以洗白的'🧼。说'合情合理'用地道表达watertight argument（滴水不漏的论点），搭配'无可辩驳'说irrefutably justifiable。记住：能说服老妈让你熬夜追剧的理由才叫truly justifiable！",
+    "recite": {
+      "tips": [
+        "谐音梗：'假撕铁锅'→假装撕毁铁锅需要justifiable理由",
+        "易混词：justified（已被证明合理的） vs justifiable（可被证明合理的）",
+        "记忆法：just+ify+able=能够被正义化的"
+      ]
+    }
   }
 ]

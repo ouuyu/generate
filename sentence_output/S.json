@@ -16008,5 +16008,274 @@
         "易混词对比：safe（安全的）vs saved（被保存的）"
       ]
     }
+  },
+  {
+    "word": "saver",
+    "etymology": {
+      "breakdown": [
+        "save",
+        "er"
+      ],
+      "meaning_connection": "动词save表示'节省'，后缀-er表示'执行动作的人或物'→字面意思是'进行节省的存在物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "节省器具",
+        "examples": [
+          {
+            "sentence": "This smart plug acts as an electricity saver by cutting power automatically.",
+            "sentence_zh": "这个智能插座通过自动断电起到省电装置的作用。"
+          },
+          {
+            "sentence": "Installing a water saver in your shower can reduce usage by 30%.",
+            "sentence_zh": "淋浴间安装节水装置可减少30%用水量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "节约装置",
+        "examples": [
+          {
+            "sentence": "The new fridge comes with a built-in energy saver mode.",
+            "sentence_zh": "新款冰箱配备内置节能模式装置。"
+          },
+          {
+            "sentence": "Time savers like food delivery apps have changed our lifestyles.",
+            "sentence_zh": "外卖APP这类省时装置改变了我们的生活方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "节俭的人",
+        "examples": [
+          {
+            "sentence": "My grandma is a natural saver who still uses 10-year-old handkerchiefs.",
+            "sentence_zh": "我奶奶是天生的节俭者，至今还用着十年前的手帕。"
+          },
+          {
+            "sentence": "As a coupon saver, she never pays full price for anything.",
+            "sentence_zh": "作为优惠券达人，她买东西从不付全价。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "life saver",
+        "meaning": "救命恩人/物",
+        "examples": [
+          {
+            "sentence": "That air conditioner was a real life saver during the heatwave.",
+            "sentence_zh": "那台空调在热浪期间简直是救命神器。"
+          },
+          {
+            "sentence": "My TA became my life saver before the final exam.",
+            "sentence_zh": "我的助教在期末考试前成了我的救命稻草。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "money saver",
+        "meaning": "省钱妙招",
+        "examples": [
+          {
+            "sentence": "Buying in bulk is a proven money saver for large families.",
+            "sentence_zh": "对大家庭而言，批量采购是经过验证的省钱妙招。"
+          },
+          {
+            "sentence": "This app is the ultimate money saver for foodies.",
+            "sentence_zh": "这个APP是吃货们的终极省钱利器。"
+          }
+        ]
+      }
+    ],
+    "teach": "saver就像哆啦A梦的口袋🎒：节能灯泡是'电费守护者'💡，优惠券达人是'钱包卫士'👛，连表情包里的'功德无量'表情都是当代社畜的职场救星🙏。记住：真正的life saver可能是你手机里的外卖红包🧧，而终极money saver永远是——卸载购物APP！💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'谁我'→省钱达人总问'这钱谁我(SAVER)能省？'",
+        "易混对比：savior(救世主)比saver多一个i→想象上帝给救世主发VIP卡(i)"
+      ]
+    }
+  },
+  {
+    "word": "saving",
+    "etymology": {
+      "breakdown": [
+        "save",
+        "ing"
+      ],
+      "meaning_connection": "源自save（保存/挽救），-ing表动作结果或状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "存款",
+        "examples": [
+          {
+            "sentence": "Her life savings disappeared in the P2P lending crash.",
+            "sentence_zh": "她的毕生积蓄在P2P暴雷中化为乌有。"
+          },
+          {
+            "sentence": "Chinese households' saving rate ranks top globally.",
+            "sentence_zh": "中国家庭储蓄率位居全球前列。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "挽救",
+        "examples": [
+          {
+            "sentence": "The firefighter's quick saving of the cat went viral.",
+            "sentence_zh": "消防员快速救猫的视频火了。"
+          },
+          {
+            "sentence": "Face recognition helped the saving of kidnapped children.",
+            "sentence_zh": "人脸识别技术协助解救被拐儿童。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "节约",
+        "examples": [
+          {
+            "sentence": "Energy saving is mandatory for all government buildings.",
+            "sentence_zh": "所有政府大楼必须节能。"
+          },
+          {
+            "sentence": "The water-saving campaign features Zhang Jinglei's voice.",
+            "sentence_zh": "节水宣传片由张靓颖配音。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "节约的",
+        "examples": [
+          {
+            "sentence": "Saving tips for Singles' Day shopping are trending.",
+            "sentence_zh": "双十一省钱攻略正在刷屏。"
+          },
+          {
+            "sentence": "This saving mode extends phone battery life by 30%.",
+            "sentence_zh": "该省电模式延长手机续航30%。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "prep.",
+        "meaning": "除...之外",
+        "examples": [
+          {
+            "sentence": "Saving two absentees, all staff completed the training.",
+            "sentence_zh": "除两人缺席外，全体员工完成培训。"
+          },
+          {
+            "sentence": "Saving spicy food, I can eat anything.",
+            "sentence_zh": "除了辣的食物我什么都吃。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "saving account",
+        "meaning": "储蓄账户",
+        "examples": [
+          {
+            "sentence": "My WeChat saving account earns higher interest than banks.",
+            "sentence_zh": "我的微信零钱通收益比银行高。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "saving face",
+        "meaning": "保全面子",
+        "examples": [
+          {
+            "sentence": "He bought luxury bags just for saving face at reunion.",
+            "sentence_zh": "他买奢侈品只为同学聚会撑场面。"
+          }
+        ]
+      }
+    ],
+    "teach": "saving是'骚操作'三合一💸🚑♻️：1) 存款梗→古人把银子藏灶台叫'藏银'演变而来 2) 视觉化→支付宝余额是digital saving🐜，救人是angel saving👼 3) 搭配→saving grace（救命稻草）/saving private Ryan（拯救大兵瑞恩）4) 地道说'穷'→'living on thin savings'（靠微薄积蓄过活）",
+    "recite": {
+      "tips": [
+        "谐音梗：'赛文'→奥特曼赛文拯救(saving)地球",
+        "对比：save（动词原形）vs savings（复数表储蓄总称）",
+        "记忆链：save（救）→saving（救的结果）→savings（救下来的钱）"
+      ]
+    }
+  },
+  {
+    "word": "savory",
+    "etymology": {
+      "breakdown": [
+        "savor",
+        "y"
+      ],
+      "meaning_connection": "来自古法语'savoré'（调味的），词根savor=滋味，-y表形容词后缀→'有滋味的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "风味极佳的",
+        "examples": [
+          {
+            "sentence": "The savory aroma of Peking duck made everyone's mouth water.",
+            "sentence_zh": "北京烤鸭的诱人香气让所有人直流口水。"
+          },
+          {
+            "sentence": "Grandma's savory steamed buns are legendary in our neighborhood.",
+            "sentence_zh": "奶奶做的香喷喷包子在小区是传奇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可口的",
+        "examples": [
+          {
+            "sentence": "This savory hotpot broth keeps customers coming back.",
+            "sentence_zh": "这锅鲜香火锅汤底让顾客反复光顾。"
+          },
+          {
+            "sentence": "The most savory instant noodles always sell out first.",
+            "sentence_zh": "最美味的那款方便面总是最早售罄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "开胃菜",
+        "examples": [
+          {
+            "sentence": "We ordered cucumber salad and smoked salmon as savories.",
+            "sentence_zh": "我们点了拍黄瓜和烟熏三文鱼作开胃菜。"
+          },
+          {
+            "sentence": "Chinese tea eggs are perfect savory snacks with beer.",
+            "sentence_zh": "茶叶蛋是绝佳的下酒小食。"
+          }
+        ]
+      }
+    ],
+    "teach": "savory是味蕾的彩虹糖🌈！它来自古代厨房战争：法国厨师用savoré形容'香到犯规'的料理👨‍🍳。视觉化记忆：-y后缀像小筷子🥢，夹起savor（滋味）。实用搭配：savory crepe（咸香可丽饼）, savory pie（美味馅饼）。说'馋死人'用地道表达'mouthwatering'，比如看到糖醋排骨时🤤。记住：savory专门形容咸鲜味，甜味请用sweet！",
+    "recite": {
+      "tips": [
+        "谐音梗：'三位爷'→三位老爷抢着吃savory",
+        "易混词对比：savory（咸香）vs. sweet（甜）",
+        "记忆tip：想象'y'是竖起的大拇指👍"
+      ]
+    }
   }
 ]

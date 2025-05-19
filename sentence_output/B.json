@@ -15843,5 +15843,209 @@
         "易混词：except vs barring→后者更强调主动排除"
       ]
     }
+  },
+  {
+    "word": "barrister",
+    "etymology": {
+      "breakdown": [
+        "bar",
+        "ister"
+      ],
+      "meaning_connection": "词根bar指法庭围栏，-ister表职业→'在法庭围栏内工作的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "出庭律师",
+        "examples": [
+          {
+            "sentence": "The barrister wore a horsehair wig during the murder trial.",
+            "sentence_zh": "这位出庭律师在谋杀案审理时戴着马鬃假发。"
+          },
+          {
+            "sentence": "Barristers in Britain must first eat 24 dinners at legal inns.",
+            "sentence_zh": "英国的出庭律师必须先在法律学院吃满24顿晚餐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大律师",
+        "examples": [
+          {
+            "sentence": "The Queen's Counsel barrister charged £500 per minute.",
+            "sentence_zh": "这位御用大律师每分钟收费500英镑。"
+          },
+          {
+            "sentence": "Hong Kong barristers still follow British courtroom traditions.",
+            "sentence_zh": "香港的大律师仍遵循英国法庭传统。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "junior barrister",
+        "meaning": "初级大律师",
+        "examples": [
+          {
+            "sentence": "The junior barrister spilled coffee on his first case documents.",
+            "sentence_zh": "这位初级大律师把咖啡洒在了他的第一份案卷上。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "barrister's gown",
+        "meaning": "律师袍",
+        "examples": [
+          {
+            "sentence": "Her barrister's gown had secret pockets for chocolate bars.",
+            "sentence_zh": "她的律师袍里有藏巧克力棒的暗袋。"
+          }
+        ]
+      }
+    ],
+    "teach": "barrister其实是'把栏杆坐穿'的人⚖️：英国律师分solicitor（文书律师）和barrister（出庭律师），后者要在法庭围栏(bar)内辩论。他们戴的假发源自18世纪防头虱🦲，而必须吃满24顿晚餐的传统就像霍格沃茨入学仪式🍗！记住：想当barrister？先准备好假发和胃药！",
+    "recite": {
+      "tips": [
+        "谐音梗：'百瑞斯特'→百战百瑞斯特(barrister)大律师",
+        "易混词对比：barrister（出庭律师）vs. solicitor（事务律师）",
+        "记忆tip：记住bar（栏杆）+rister（谐音'瑞士特'）→瑞士特工在法庭栏杆后辩论"
+      ]
+    }
+  },
+  {
+    "word": "barrow",
+    "etymology": {
+      "breakdown": [
+        "bear",
+        "ow"
+      ],
+      "meaning_connection": "源自古英语'bearwe'（搬运工具），与动词bear（承载）同源，后缀-ow表工具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "搬运架",
+        "examples": [
+          {
+            "sentence": "The street vendors load their barrows with fresh lychees before dawn.",
+            "sentence_zh": "小贩们在天亮前把新鲜荔枝装上手推车。"
+          },
+          {
+            "sentence": "His antique barrow collapsed under the weight of watermelons.",
+            "sentence_zh": "他的古董搬运架在西瓜重压下散架了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "手推车",
+        "examples": [
+          {
+            "sentence": "The wheelbarrow full of bricks looked like a metal porcupine.",
+            "sentence_zh": "装满砖头的独轮车像只金属刺猬。"
+          },
+          {
+            "sentence": "Grandpa's barrow has outlasted three bicycles in our family.",
+            "sentence_zh": "爷爷的手推车比我们家三辆自行车还长寿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "古墓",
+        "examples": [
+          {
+            "sentence": "The Saxon barrow was accidentally discovered by a farmer planting potatoes.",
+            "sentence_zh": "这座撒克逊古墓被种土豆的农民意外发现。"
+          },
+          {
+            "sentence": "Legends say the barrow on the hill is haunted by a jade-coloured ghost.",
+            "sentence_zh": "传说山上的古墓里住着翡翠色的幽灵。"
+          }
+        ]
+      }
+    ],
+    "teach": "barrow是劳动人民的劳斯莱斯🚜！古代版货拉拉（搬运架）→现代工地小宝马（手推车）→最后变成死人住的豪宅（古墓）🏰。说'推车'用wheelbarrow更亲切，'古墓'可说tumulus显专业。记住：从搬砖到搬自己，barrow承包你的一生！💀",
+    "recite": {
+      "tips": [
+        "谐音梗：'扒楼'→用手推车扒楼运建材",
+        "易混词对比：barrow（推车） vs. borrow（借用）→'借来的推车'"
+      ]
+    }
+  },
+  {
+    "word": "bartender",
+    "etymology": {
+      "breakdown": [
+        "bar",
+        "tender"
+      ],
+      "meaning_connection": "组合词bar（酒吧）+tender（照料者）→在吧台照料酒客的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "酒保",
+        "examples": [
+          {
+            "sentence": "The bartender flawlessly juggled three cocktail shakers at Hooters.",
+            "sentence_zh": "猫头鹰餐厅的酒保完美同时摇晃三个调酒壶。"
+          },
+          {
+            "sentence": "Every bartender in Beijing knows how to make a 'Jianbing' cocktail.",
+            "sentence_zh": "北京每个酒保都会调'煎饼果子'鸡尾酒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "酒吧侍者",
+        "examples": [
+          {
+            "sentence": "The blind bartender at Sensory Bar navigates by memorizing 200 bottle positions.",
+            "sentence_zh": "感官酒吧的盲人侍者靠记忆200个酒瓶位置来工作。"
+          },
+          {
+            "sentence": "This former philosophy PhD bartender gives Nietzsche quotes with every Old Fashioned.",
+            "sentence_zh": "这位哲学博士出身的侍者每杯古典鸡尾酒都附赠尼采名言。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "celebrity bartender",
+        "meaning": "明星调酒师",
+        "examples": [
+          {
+            "sentence": "Jay Chou worked as a celebrity bartender serving 'Mojito' cocktails for one night.",
+            "sentence_zh": "周杰伦曾客串明星调酒师，一夜限定供应'莫吉托'鸡尾酒。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bartender's choice",
+        "meaning": "调酒师特调",
+        "examples": [
+          {
+            "sentence": "When in doubt, ask for a bartender's choice with baijiu as base spirit.",
+            "sentence_zh": "选择困难时，不妨点杯以白酒为基酒的调酒师特调。"
+          }
+        ]
+      }
+    ],
+    "teach": "bartender其实是'吧台慈父'🧔！在19世纪美国西部，酒保要兼任保镖和心理咨询师🤠。'再来一杯'的地道说法是'One for the road'（上路酒），而'喝到断片'叫black out🍻。记住：优秀的bartender能记住300+客人的口味，堪比海底捞服务员！",
+    "recite": {
+      "tips": [
+        "谐音梗：'把他摁倒'→酒保bartender总得把醉汉摁倒",
+        "易混词：barista（咖啡师）vs bartender（酒保）→一个醒神一个醉人"
+      ]
+    }
   }
 ]

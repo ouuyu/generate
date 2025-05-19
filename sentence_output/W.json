@@ -16494,5 +16494,285 @@
         "记忆法：WEASEL= Will Evade All Serious Ethical Laws（会逃避所有正经道德法律）"
       ]
     }
+  },
+  {
+    "word": "weather",
+    "etymology": {
+      "breakdown": [
+        "wea",
+        "ther"
+      ],
+      "meaning_connection": "古英语weder表示'风、雨、空气'，与风力(weather)和等待(wait)同源→既指自然气象也隐喻人生境遇"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "天气",
+        "examples": [
+          {
+            "sentence": "Beijing's weather swings from sandstorms to heatwaves in 24 hours.",
+            "sentence_zh": "北京的天气能在24小时内从沙尘暴切换到高温"
+          },
+          {
+            "sentence": "The weather app said 'sunny' but I got drenched like a wonton soup.",
+            "sentence_zh": "天气软件显示'晴'，结果我被淋成馄饨汤"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "处境",
+        "examples": [
+          {
+            "sentence": "After the layoffs, the company is in rough weather.",
+            "sentence_zh": "裁员后公司处境艰难"
+          },
+          {
+            "sentence": "Their marriage has weathered all kinds of emotional weather.",
+            "sentence_zh": "他们的婚姻经历各种情感风波"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "迎风的",
+        "examples": [
+          {
+            "sentence": "The weather side of the Great Wall shows more erosion.",
+            "sentence_zh": "长城的迎风面风化更严重"
+          },
+          {
+            "sentence": "Sailing on the weather deck feels like riding a dragon.",
+            "sentence_zh": "在迎风甲板航行如骑龙腾云"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "经受住",
+        "examples": [
+          {
+            "sentence": "The Forbidden City has weathered 600 years of history.",
+            "sentence_zh": "故宫经受住了600年历史考验"
+          },
+          {
+            "sentence": "WeChat has weathered multiple social media revolutions.",
+            "sentence_zh": "微信挺过了多次社交软件革命"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "风化",
+        "examples": [
+          {
+            "sentence": "The Terracotta Warriors' colors weather rapidly when exposed.",
+            "sentence_zh": "兵马俑接触空气后色彩快速风化"
+          },
+          {
+            "sentence": "Dunhuang murals weather like melting butter in the desert wind.",
+            "sentence_zh": "敦煌壁画在沙漠风中如融化的黄油般风化"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weather the storm",
+        "meaning": "渡过难关",
+        "examples": [
+          {
+            "sentence": "Small shops are struggling to weather the storm of e-commerce.",
+            "sentence_zh": "小商铺艰难抵抗电商冲击"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "under the weather",
+        "meaning": "身体不适",
+        "examples": [
+          {
+            "sentence": "After eating stinky tofu with durian, I felt under the weather.",
+            "sentence_zh": "吃完臭豆腐配榴莲后浑身不对劲"
+          }
+        ]
+      }
+    ],
+    "teach": "weather是人生多面手🌪☀️！古人用'风'指代命运（同源wait等待），现代人用under the weather说'不舒服'就像手机信号格📶不足。要说'挺过去'就用weather the storm，像火锅熬过所有食材的洗礼🍲。记住：人生如天气，既有艳阳天也有沙尘暴！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪热'→天气歪（异常）就很热",
+        "易混词：whether（是否）是脑内天气，weather是真实天气"
+      ]
+    }
+  },
+  {
+    "word": "weathered",
+    "etymology": {
+      "breakdown": [
+        "weather",
+        "ed"
+      ],
+      "meaning_connection": "weather(天气)+ed(形容词后缀)→被天气影响的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "风化的",
+        "examples": [
+          {
+            "sentence": "The weathered Great Wall bricks tell stories of centuries.",
+            "sentence_zh": "风化斑驳的长城砖块诉说着数百年的故事。"
+          },
+          {
+            "sentence": "Collectors pay high prices for weathered bronze artifacts.",
+            "sentence_zh": "收藏家愿为风化的青铜文物支付高价。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "倾斜的",
+        "examples": [
+          {
+            "sentence": "The weathered roof of the ancient temple leans like a drunk panda.",
+            "sentence_zh": "古寺倾斜的屋顶像喝醉的熊猫般歪斜。"
+          },
+          {
+            "sentence": "Fishermen avoid the weathered lighthouse due to its dangerous tilt.",
+            "sentence_zh": "渔民们避开那座倾斜的灯塔因其危险的角度。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weathered through",
+        "meaning": "经受风雨",
+        "examples": [
+          {
+            "sentence": "The couple weathered through 50 years of marriage like antique porcelain.",
+            "sentence_zh": "这对夫妇如古董瓷器般历经50年婚姻风雨。"
+          }
+        ]
+      }
+    ],
+    "teach": "weathered是时间的纹身师⏳！当石头被weather（天气）+ed（整）成古董，就像你姥姥腌了三十年的咸菜缸🧂（weathered jar）。说'饱经沧桑'可以用weather-beaten，就像被外卖小哥风雨无阻磨破的电动车座🛵。记住：被岁月'盘'出包浆的文物→weathered artifact！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪着的'→被风雨吹歪的",
+        "易混词对比：weathered(自然风化) vs. worn(人为磨损)"
+      ]
+    }
+  },
+  {
+    "word": "weathering",
+    "etymology": {
+      "breakdown": [
+        "weather",
+        "ing"
+      ],
+      "meaning_connection": "weather=天气/风化，-ing表名词化→指经受风吹雨打的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "泻水坡（建筑术语）",
+        "examples": [
+          {
+            "sentence": "The weathering on the Great Wall's steps prevents rainwater erosion.",
+            "sentence_zh": "长城台阶的泻水坡设计防止雨水侵蚀。"
+          },
+          {
+            "sentence": "Modern roofs use stainless steel for better weathering.",
+            "sentence_zh": "现代屋顶采用不锈钢以优化泻水坡性能。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "风化",
+        "examples": [
+          {
+            "sentence": "Wind and sand weathering created the Stone Forest in Yunnan.",
+            "sentence_zh": "风沙风化作用造就了云南石林奇观。"
+          },
+          {
+            "sentence": "The weathering of terracotta warriors reveals ancient craftsmanship.",
+            "sentence_zh": "兵马俑的风化痕迹透露古代工艺细节。"
+          }
+        ]
+      }
+    ],
+    "teach": "weathering是地球的老年斑🧓！建筑中的泻水坡就像火锅店的倾斜桌面🚧（让雨水像毛肚滑走），而地质风化就像重庆小面馆的招牌被岁月腌入味🌪️。说'耐候性强'用weather-resistant（像故宫琉璃瓦），'风化严重'说heavily weathered如被舔过的糖画🍬。记住：再硬的石头也怕weathering的摸鱼式攻击！",
+    "recite": {
+      "tips": [
+        "视觉联想：'WEATHER+ing'→天气(weather)正在(ing)给石头做SPA",
+        "易混词对比：weathering(自然过程) vs erosion(侵蚀结果)"
+      ]
+    }
+  },
+  {
+    "word": "weatherman",
+    "etymology": {
+      "breakdown": [
+        "weather",
+        "man"
+      ],
+      "meaning_connection": "复合词，weather=天气 + man=人→观察天气的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "气象员",
+        "examples": [
+          {
+            "sentence": "The weatherman got hit by hail while reporting live.",
+            "sentence_zh": "气象员在直播报道时被冰雹砸中。"
+          },
+          {
+            "sentence": "A penguin-shaped weatherman forecasts temperatures in Harbin.",
+            "sentence_zh": "哈尔滨有个企鹅造型的气象员播报温度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "天气预报员",
+        "examples": [
+          {
+            "sentence": "The weatherman's umbrella turned inside out during typhoon coverage.",
+            "sentence_zh": "天气预报员报道台风时雨伞被吹翻了。"
+          },
+          {
+            "sentence": "Our local weatherman always wears chili pepper ties on hot days.",
+            "sentence_zh": "我们当地的天气预报员总在高温天戴辣椒图案领带。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "TV weatherman",
+        "meaning": "电视气象主播",
+        "examples": [
+          {
+            "sentence": "The TV weatherman used a durian to explain the tropical storm.",
+            "sentence_zh": "电视气象主播用榴莲讲解热带风暴。"
+          }
+        ]
+      }
+    ],
+    "teach": "weatherman其实是'天气预言家'🔮！古代占星师通过观云☁️预测天气，现代weatherman用超级计算机💻。说'天气预报不准'用地道表达His forecast is as reliable as a magic 8-ball（像神奇八号球一样不靠谱）。记住：当weatherman说'50%降水概率'，意思是他也不知道该不该带伞🌧️☂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪的慢'→天气预报员歪着身子躲暴雨",
+        "易混词对比：weatherman（人） vs weather forecast（预报内容）"
+      ]
+    }
   }
 ]

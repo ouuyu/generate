@@ -15620,5 +15620,135 @@
         "易混词对比：cap（帽子）→capping（盖帽动作/牙科术语）"
       ]
     }
+  },
+  {
+    "word": "cappuccino",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自意大利语cappuccino（原意'小帽子'），因咖啡表面的奶泡形似天主教方济会修士(Capuchin)的小尖帽而得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "卡布奇诺咖啡",
+        "examples": [
+          {
+            "sentence": "The barista created a panda art with cocoa powder on my cappuccino.",
+            "sentence_zh": "咖啡师在我的卡布奇诺上用可可粉画了熊猫图案。"
+          },
+          {
+            "sentence": "Drinking cappuccino after 3pm is considered a crime in Italy.",
+            "sentence_zh": "在意大利下午3点后喝卡布奇诺会被视为'犯罪'。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "soy cappuccino",
+        "meaning": "豆奶卡布奇诺",
+        "examples": [
+          {
+            "sentence": "She always orders soy cappuccino with extra cinnamon.",
+            "sentence_zh": "她总是点加额外肉桂粉的豆奶卡布奇诺。"
+          }
+        ]
+      }
+    ],
+    "teach": "卡布奇诺其实是'修士咖啡'☕：奶泡像Capuchin修士的尖顶帽🧑‍🦲，意大利人认为下午喝它会像修士熬夜祷告一样反常⛪！要说'咖啡续命'地道表达是liquid motivation（液体动力），'咖啡拉花'叫latte art就像拉面师傅秀绝活🍜。记住：合格的cappuccino奶泡必须能撑住三块方糖不沉！",
+    "recite": {
+      "tips": [
+        "视觉记忆：'卡布'谐音'cap不'→不带帽子(cap)的修士不是好咖啡",
+        "易混词对比：latte（拿铁）奶更多，macchiato（玛奇朵）咖啡更多",
+        "文化梗：'Friends'里Rachel在咖啡厅工作永远做不对cappuccino"
+      ]
+    }
+  },
+  {
+    "word": "caprice",
+    "etymology": {
+      "breakdown": [
+        "capr",
+        "ice"
+      ],
+      "meaning_connection": "词根capr=山羊（源自拉丁语caper），后缀-ice表性质→像山羊般跳跃不定的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "反复无常",
+        "examples": [
+          {
+            "sentence": "The stock market's caprice makes investors dizzy.",
+            "sentence_zh": "股市的反复无常让投资者头晕目眩。"
+          },
+          {
+            "sentence": "Her caprice in choosing restaurants drove her boyfriend crazy.",
+            "sentence_zh": "她选餐厅时的反复无常让男友抓狂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "多变",
+        "examples": [
+          {
+            "sentence": "The caprice of spring weather requires carrying both umbrella and sunglasses.",
+            "sentence_zh": "春天天气多变需要随身带伞和墨镜。"
+          },
+          {
+            "sentence": "His paintings reflect the caprice of ocean waves.",
+            "sentence_zh": "他的画作反映了海浪的多变。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "任性",
+        "examples": [
+          {
+            "sentence": "The billionaire's daughter bought luxury bags out of pure caprice.",
+            "sentence_zh": "那位亿万富翁的女儿买奢侈品纯粹出于任性。"
+          },
+          {
+            "sentence": "Don't mistake caprice for personality - said every wise parent ever.",
+            "sentence_zh": "别把任性当个性——每个睿智家长都这么说过。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "a sudden caprice",
+        "meaning": "突发奇想",
+        "examples": [
+          {
+            "sentence": "On a sudden caprice, he booked a flight to Tibet.",
+            "sentence_zh": "他突发奇想订了去西藏的机票。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "caprice of fate",
+        "meaning": "命运无常",
+        "examples": [
+          {
+            "sentence": "By caprice of fate, they met again after 20 years at a hotpot restaurant.",
+            "sentence_zh": "命运无常，20年后他们竟在火锅店重逢。"
+          }
+        ]
+      }
+    ],
+    "teach": "caprice其实是'山羊病'🐐！源自意大利语capriccio（本指山羊惊跳），像山羊一样蹦跶不定的性格🌪️。形容'任性花钱'叫shop till you drop，'善变的人'叫flip-flopper🩴。记住：遇到capricious的人，就当他/她是头穿Prada的山羊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡布奇诺'→任性点单'卡布奇诺不要奶泡'",
+        "易混词对比：whim（短暂念头） vs caprice（持续善变）",
+        "联想：CAPRI裤+hike→穿短裤随意登山的多变性格"
+      ]
+    }
   }
 ]

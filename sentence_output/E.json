@@ -16572,5 +16572,268 @@
         "联想：电解=电子警察(electro)拆散(lyt)分子情侣"
       ]
     }
+  },
+  {
+    "word": "electromagnetic",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "magnet",
+        "ic"
+      ],
+      "meaning_connection": "electro=电（源自希腊语ēlektron琥珀摩擦生电现象），magnet=磁（源自希腊Magnesia地区出产的磁性矿石），-ic=形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "电磁的",
+        "examples": [
+          {
+            "sentence": "The electromagnetic lock on my dorm door failed during a blackout.",
+            "sentence_zh": "停电时我宿舍门的电磁锁失效了。"
+          },
+          {
+            "sentence": "5G networks rely on precise electromagnetic wave control.",
+            "sentence_zh": "5G网络依赖精确的电磁波控制。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "由电磁石产生的",
+        "examples": [
+          {
+            "sentence": "Maglev trains use electromagnetic force to float above tracks.",
+            "sentence_zh": "磁悬浮列车利用电磁力悬浮在轨道上方。"
+          },
+          {
+            "sentence": "The electromagnetic crane lifted scrap metal like magic.",
+            "sentence_zh": "电磁起重机像变魔术般吊起废金属。"
+          }
+        ]
+      }
+    ],
+    "teach": "电磁力就像爱情❤️‍🔥：看不见却真实存在！法拉第发现电磁感应时，用的还是火锅同款铜锅🥘（后来变成发电机）。说'信号干扰'用EM interference，'电磁炉'叫induction cooker（其实也是电磁原理）。记住：你和手机之间就有电磁波在调情📡→📱！",
+    "recite": {
+      "tips": [
+        "拆解记忆：electro（电）+ magnet（磁）= 电磁的",
+        "易混词对比：electric（电的） vs electronic（电子的）",
+        "联想：手机充电时'饿了吗？去吸铁'(electro-magnet-ic)"
+      ]
+    }
+  },
+  {
+    "word": "electromagnetism",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "magnet",
+        "ism"
+      ],
+      "meaning_connection": "electro源自希腊语'ēlektron'（琥珀，因摩擦生电现象），magnet源自希腊语'magnētis lithos'（磁性石头），-ism表学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电磁",
+        "examples": [
+          {
+            "sentence": "The maglev train floats by the power of electromagnetism.",
+            "sentence_zh": "磁悬浮列车通过电磁力实现悬浮。"
+          },
+          {
+            "sentence": "Your smartphone's wireless charging uses electromagnetism principles.",
+            "sentence_zh": "手机无线充电运用了电磁原理。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电磁学",
+        "examples": [
+          {
+            "sentence": "Maxwell's equations are the foundation of classical electromagnetism.",
+            "sentence_zh": "麦克斯韦方程组是经典电磁学的基石。"
+          },
+          {
+            "sentence": "Freshmen often struggle with electromagnetism in physics class.",
+            "sentence_zh": "大一新生常在物理课的电磁学部分犯难。"
+          }
+        ]
+      }
+    ],
+    "teach": "电磁学是电与磁的'包办婚姻'⚡🧲：自从奥斯特发现电流能让指南针跳舞💃，法拉第就给他们'牵红线'（电磁感应）。要说'这个原理很电磁'可以戏称为'伏特与磁铁的爱情故事'❤️。记住两个神搭配：generate electromagnetism（发电磁）/ study electromagnetism（学电磁），遇到复杂公式时就说'This is Greek to me'（完全看不懂）🤯",
+    "recite": {
+      "tips": [
+        "拆解记忆：electro（电）+ magnet（磁）= 电磁",
+        "易混词对比：electromagnetism（电磁学） vs. electrochemistry（电化学）",
+        "联想：电磁场就像看不见的'磁力侠'在操控金属"
+      ]
+    }
+  },
+  {
+    "word": "electromechanical",
+    "etymology": {
+      "breakdown": [
+        "electro",
+        "mechanical"
+      ],
+      "meaning_connection": "electro表示'电的'，mechanical表示'机械的'，组合起来就是'电机的'或'机电的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "电机的",
+        "examples": [
+          {
+            "sentence": "The electromechanical lock opens with both a keycard and fingerprint.",
+            "sentence_zh": "这款电机锁能用门卡和指纹双重开启。"
+          },
+          {
+            "sentence": "His thesis focuses on electromechanical actuators in robotics.",
+            "sentence_zh": "他的论文专注于机器人中的电机执行器。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "电机学的",
+        "examples": [
+          {
+            "sentence": "The electromechanical course made us build a mini wind turbine.",
+            "sentence_zh": "电机学课程要求我们制作微型风力发电机。"
+          },
+          {
+            "sentence": "She won the electromechanical design contest with a solar-powered fan.",
+            "sentence_zh": "她用太阳能风扇赢得了电机学设计大赛。"
+          }
+        ]
+      }
+    ],
+    "teach": "electromechanical是'电'⚡和'机械'⚙️的混血儿！就像会发光的变形金刚🤖，既懂电路板语言又能撸铁。搭配说'electromechanical system'（机电系统）和'electromechanical engineer'（机电工程师）。吐槽设备故障可以说'This thing's more electromechanical than my ex'（这玩意儿比我前任还善变）💔🔧",
+    "recite": {
+      "tips": [
+        "拆解记忆：electro(电子)+mechanical(机械)=机电的",
+        "易混词对比：electronic纯电子，electromechanical含机械部件"
+      ]
+    }
+  },
+  {
+    "word": "electron",
+    "etymology": {
+      "breakdown": [
+        "electr",
+        "on"
+      ],
+      "meaning_connection": "词根electr=电（源自希腊语ήλεκτρον/琥珀摩擦生电现象），后缀-on表示基本粒子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电子",
+        "examples": [
+          {
+            "sentence": "The dancing electrons create the aurora borealis magic",
+            "sentence_zh": "跃动的电子创造了极光奇迹"
+          },
+          {
+            "sentence": "Your phone battery stores electrons like a nano piggy bank",
+            "sentence_zh": "手机电池就像纳米存钱罐储存电子"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "free electron",
+        "meaning": "自由电子",
+        "examples": [
+          {
+            "sentence": "Metals conduct heat because free electrons move like subway commuters",
+            "sentence_zh": "金属导热是因为自由电子像地铁通勤族般流动"
+          }
+        ]
+      }
+    ],
+    "teach": "electron其实是'琥珀宝宝'🧿！古希腊人发现摩擦琥珀(ēlektron)能吸纸屑，这现象后来被命名为electricity⚡。现代人用'electron cloud'形容电子云就像奶茶里的珍珠🌀，而'spin like an electron'已成为形容忙碌的俚语。记住：没有这些微观舞者💃，你的手机连表情包都发不出去！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来可撞'→电子总在原子核周边碰撞",
+        "易混词对比：proton（质子）带正电，electron带负电，就像电池的正负极"
+      ]
+    }
+  },
+  {
+    "word": "electronic",
+    "etymology": {
+      "breakdown": [
+        "electr",
+        "on",
+        "ic"
+      ],
+      "meaning_connection": "词根electr=电（来自希腊语elektron琥珀摩擦生电现象），-on表微小单位（如原子中的electron电子），-ic表形容词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "电子的",
+        "examples": [
+          {
+            "sentence": "The electronic mosquito swatter zapped bugs with satisfying sparks.",
+            "sentence_zh": "电子蚊拍电击蚊子时会产生令人舒适的火花。"
+          },
+          {
+            "sentence": "Her electronic pet from the 90s still beeps nostalgically.",
+            "sentence_zh": "她90年代的电子宠物至今还能发出怀旧的哔哔声。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "电子工业协会接口",
+        "examples": [
+          {
+            "sentence": "The EIA-232 standard defines electronic communication protocols.",
+            "sentence_zh": "EIA-232标准定义了电子工业协会的通信协议。"
+          },
+          {
+            "sentence": "Older printers often used electronic parallel ports.",
+            "sentence_zh": "老式打印机常使用电子工业协会的并行接口。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "electronic music",
+        "meaning": "电子音乐",
+        "examples": [
+          {
+            "sentence": "The DJ mixed traditional guzheng sounds with electronic beats.",
+            "sentence_zh": "DJ将古筝音色与电子节拍混音。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "electronic signature",
+        "meaning": "电子签名",
+        "examples": [
+          {
+            "sentence": "I signed the contract with an electronic chop instead of ink.",
+            "sentence_zh": "我用电子章而非墨水签署了合同。"
+          }
+        ]
+      }
+    ],
+    "teach": "electronic其实是'琥珀神功'⚡！古希腊人发现摩擦琥珀(elektron)会产生静电，现代电子(electr-)产品就像被琥珀附体：从电子烟💨到电子秤⚖️。说'数码产品'用gadgets更地道，'沉迷手机'叫nomophobia（无手机恐惧症）。记住：你的手机就是块会说话的琥珀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来可拆你壳'→电子(electronic)设备一来就能拆解",
+        "易混词对比：electric(电力的)/electronic(电子的)"
+      ]
+    }
   }
 ]

@@ -15643,5 +15643,278 @@
         "记忆tip：想象每个hatchway都藏着《夺宝奇兵》的冒险"
       ]
     }
+  },
+  {
+    "word": "hate",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'hatian'，与德语'hassen'同源，原始印欧语词根*kad-表示'痛苦、怨恨'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "憎恨",
+        "examples": [
+          {
+            "sentence": "The online hate towards pineapple pizza lovers is real.",
+            "sentence_zh": "网络上对菠萝披萨爱好者的憎恨是真实存在的。"
+          },
+          {
+            "sentence": "Her eyes burned with silent hate when seeing the spoiler.",
+            "sentence_zh": "看到剧透时，她眼中燃起无声的憎恨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "厌恶",
+        "examples": [
+          {
+            "sentence": "He has a particular hate for alarm clocks on Monday mornings.",
+            "sentence_zh": "他对周一早晨的闹钟有种特别的厌恶。"
+          },
+          {
+            "sentence": "The cat's hate for bathing is legendary in our neighborhood.",
+            "sentence_zh": "这只猫对洗澡的厌恶在我们小区是传奇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "憎恨",
+        "examples": [
+          {
+            "sentence": "I hate it when my WiFi disconnects during video calls.",
+            "sentence_zh": "我憎恨视频会议时WiFi断连。"
+          },
+          {
+            "sentence": "She hates people who talk loudly in quiet carriages.",
+            "sentence_zh": "她憎恨在静音车厢大声说话的人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "憎恶",
+        "examples": [
+          {
+            "sentence": "Grandma hates seeing food wasted more than anything.",
+            "sentence_zh": "奶奶最憎恶看到食物浪费。"
+          },
+          {
+            "sentence": "The teacher hates students cheating more than failing.",
+            "sentence_zh": "老师比起挂科更憎恶学生作弊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "仇恨",
+        "examples": [
+          {
+            "sentence": "These two rival gangs have hated for generations.",
+            "sentence_zh": "这两个敌对帮派已经仇恨了几代人。"
+          },
+          {
+            "sentence": "They used to date but now they openly hate.",
+            "sentence_zh": "他们曾经约会但现在公开仇恨。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hate crime",
+        "meaning": "仇恨犯罪",
+        "examples": [
+          {
+            "sentence": "The new law imposes harsher penalties for hate crimes.",
+            "sentence_zh": "新法律对仇恨犯罪实施更严厉处罚。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "love-hate relationship",
+        "meaning": "爱恨交织的关系",
+        "examples": [
+          {
+            "sentence": "Many Chinese students have a love-hate relationship with gaokao.",
+            "sentence_zh": "许多中国学生对高考有着爱恨交织的关系。"
+          }
+        ]
+      }
+    ],
+    "teach": "hate就像火锅里的苦瓜🍲，有人厌恶到颤抖（hate bitter melon），有人却爱得深沉。英语里'极度讨厌'说can't stand，'看不顺眼'叫rub the wrong way🐫。职场必备：'我讨厌周一'的地道说法是Monday blues💙。记住：恨香菜党和爱香菜党永远无法和解！",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑特'→网络黑粉(hater)专用词",
+        "易混词：hate vs. heat（恨vs.热）",
+        "记忆tip：把hate的'e'想象成愤怒的眉毛(ಠ益ಠ)"
+      ]
+    }
+  },
+  {
+    "word": "hated",
+    "etymology": {
+      "breakdown": [
+        "hate",
+        "ed"
+      ],
+      "meaning_connection": "hate源自古英语hatian(敌意)，-ed表过去式/分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "憎恨",
+        "examples": [
+          {
+            "sentence": "The villagers hated the corrupt official who embezzled relief funds.",
+            "sentence_zh": "村民憎恨贪污赈灾款的贪官。"
+          },
+          {
+            "sentence": "Shakespeare's Iago was hated by audiences for 400 years.",
+            "sentence_zh": "莎士比亚笔下的伊阿古被观众憎恨了四百年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "讨厌",
+        "examples": [
+          {
+            "sentence": "She hated the mandatory overtime at her 996 job.",
+            "sentence_zh": "她讨厌996工作中的强制加班。"
+          },
+          {
+            "sentence": "All cats hated taking baths as if it were torture.",
+            "sentence_zh": "所有猫都讨厌洗澡仿佛受刑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "不愿",
+        "examples": [
+          {
+            "sentence": "He hated to admit his Douyin addiction affected his work.",
+            "sentence_zh": "他不愿承认抖音成瘾影响了工作。"
+          },
+          {
+            "sentence": "I hated to interrupt her K-pop dance practice.",
+            "sentence_zh": "我不愿打断她的韩团舞蹈练习。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "为…感到抱歉",
+        "examples": [
+          {
+            "sentence": "We hated that your takeout got cold during the delivery.",
+            "sentence_zh": "我们为你的外卖在配送中变凉感到抱歉。"
+          },
+          {
+            "sentence": "She hated to see her students fail the Putonghua test.",
+            "sentence_zh": "她为学生普通话考试不及格感到遗憾。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hated enemy",
+        "meaning": "宿敌",
+        "examples": [
+          {
+            "sentence": "Tom and Jerry are the most famous hated enemies in cartoons.",
+            "sentence_zh": "汤姆和杰瑞是动画界最著名的宿敌。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "much hated",
+        "meaning": "极其讨厌的",
+        "examples": [
+          {
+            "sentence": "The much hated pop-up ads finally got banned.",
+            "sentence_zh": "极其讨厌的弹窗广告终于被禁止了。"
+          }
+        ]
+      }
+    ],
+    "teach": "hated是'恨意拉满'💢的状态！古英语里hate和'战'(heat)同源，像两把对砍的剑⚔️。中文说'恨得牙痒痒'，英文叫'can't stand the sight of'（见不得）。搭配'hated chore'（讨厌的家务）和'hated rival'（死对头），吐槽时用'I loathe...'比hate更地道🤮。记住：hated程度＞disliked！",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑他的'→因为hated所以黑他",
+        "对比：hated（强烈厌恶）/disliked（温和不喜欢）",
+        "联想：红色禁止标志配hated效果更佳"
+      ]
+    }
+  },
+  {
+    "word": "hateful",
+    "etymology": {
+      "breakdown": [
+        "hate",
+        "ful"
+      ],
+      "meaning_connection": "hate=憎恨，后缀-ful表'充满...的'→充满恨意的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "憎恨的",
+        "examples": [
+          {
+            "sentence": "The hateful comments under the celebrity's post were reported by fans.",
+            "sentence_zh": "明星帖子下的仇恨言论被粉丝举报。"
+          },
+          {
+            "sentence": "She gave him a hateful glare after he ate her last dumpling.",
+            "sentence_zh": "当他吃掉她最后一个饺子时，她投去充满恨意的眼神。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可恨的",
+        "examples": [
+          {
+            "sentence": "The hateful villain in the drama finally got his punishment in episode 38.",
+            "sentence_zh": "剧中可恨的反派终于在38集遭到报应。"
+          },
+          {
+            "sentence": "It's hateful when someone cuts in line during rush hour.",
+            "sentence_zh": "高峰时段插队的行为实在可恨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "可恶的",
+        "examples": [
+          {
+            "sentence": "The hateful pop-up ads kept appearing during the livestream.",
+            "sentence_zh": "直播期间不断弹出的广告着实可恶。"
+          },
+          {
+            "sentence": "That hateful AI kept beating me at Go for 10 straight games!",
+            "sentence_zh": "那个可恶的AI连续十局围棋都赢了我！"
+          }
+        ]
+      }
+    ],
+    "teach": "hateful就像火锅里的变态辣🌶️——让人又痛又难忘！词源上它像灌满仇恨的毒苹果🍎（hate+ful）。说'可恨之人'用hateful figure，'恶意留言'是hateful comments。地道吐槽：'这人真下头'英语说'That's downright hateful!' 记住：遇到hateful的人和事，不如来杯奶茶消消气🧋",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑特否'→特别黑(hate)特否(ful)",
+        "易混词对比：hateful（充满恨意的） vs. hatable（可能招恨的）",
+        "记忆tip：把-ful想象成装'恨'的容器溢出来了"
+      ]
+    }
   }
 ]
