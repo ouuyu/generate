@@ -17304,5 +17304,315 @@
         "记忆法：字母J的形状本身就是突出的钩子"
       ]
     }
+  },
+  {
+    "word": "juvenile",
+    "etymology": {
+      "breakdown": [
+        "juven",
+        "ile"
+      ],
+      "meaning_connection": "词根juven=年轻（同rejuvenate返老还童），后缀-ile表属性→与年轻相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "少年",
+        "examples": [
+          {
+            "sentence": "The juvenile was caught stealing steamed buns from a 7-Eleven.",
+            "sentence_zh": "这个少年从便利店偷包子被抓。"
+          },
+          {
+            "sentence": "Juveniles under 16 need parental consent for TikTok livestreams.",
+            "sentence_zh": "16岁以下少年开抖音直播需家长同意。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "少年读物",
+        "examples": [
+          {
+            "sentence": "This juvenile about panda detectives sold out in Xinhua Bookstore.",
+            "sentence_zh": "这本熊猫侦探少年读物在新华书店售罄。"
+          },
+          {
+            "sentence": "She writes juveniles featuring AI-powered schoolbags.",
+            "sentence_zh": "她创作关于智能书包的少年读物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "少年的",
+        "examples": [
+          {
+            "sentence": "The juvenile basketball league banned dunking to prevent injuries.",
+            "sentence_zh": "少年篮球联赛禁止扣篮以防受伤。"
+          },
+          {
+            "sentence": "Juvenile diabetes cases are rising with sugary drink consumption.",
+            "sentence_zh": "随着含糖饮料消费增加，少年糖尿病病例上升。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不成熟的",
+        "examples": [
+          {
+            "sentence": "Posting emoji-only comments is considered juvenile behavior.",
+            "sentence_zh": "只发表情包的评论被视为不成熟行为。"
+          },
+          {
+            "sentence": "His juvenile prank of hiding colleagues' mouse balls caused chaos.",
+            "sentence_zh": "他藏同事鼠标滚球的不成熟恶作剧引发混乱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "适于少年的",
+        "examples": [
+          {
+            "sentence": "This juvenile AI programming course uses Minecraft examples.",
+            "sentence_zh": "这门适于少年的人工智能课程用《我的世界》举例。"
+          },
+          {
+            "sentence": "The museum's juvenile exhibition has interactive dinosaur fossils.",
+            "sentence_zh": "博物馆的青少年展区有可互动的恐龙化石。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "juvenile delinquency",
+        "meaning": "青少年犯罪",
+        "examples": [
+          {
+            "sentence": "Installing facial recognition in internet cafes reduced juvenile delinquency by 30%.",
+            "sentence_zh": "网吧安装人脸识别使青少年犯罪下降30%。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "juvenile court",
+        "meaning": "少年法庭",
+        "examples": [
+          {
+            "sentence": "The juvenile court ordered the boy to write 10,000-character self-criticism.",
+            "sentence_zh": "少年法庭责令男孩写万字检讨书。"
+          }
+        ]
+      }
+    ],
+    "teach": "juvenile是'中二病专属词'🤪！古罗马人用juvenalis形容像刚发芽的豆苗🌱般的少年。说人'幼稚'可以吐槽他'still in juvenile mode'（还在青春模式），地道表达用'wet behind the ears'（耳朵后面还湿着——乳臭未干）。搭配'juvenile humor'指抖音沙雕梗🎭，'juvenile lead'是偶像剧小鲜肉担当🍼。",
+    "recite": {
+      "tips": [
+        "谐音梗：'酒窝内'→少年脸颊有酒窝",
+        "易混词：youthful（褒义） vs juvenile（可能含贬义）",
+        "记忆术：juven+ile→'就闻ile'(i乐)→少年就爱玩手机"
+      ]
+    }
+  },
+  {
+    "word": "juxtapose",
+    "etymology": {
+      "breakdown": [
+        "juxta",
+        "pose"
+      ],
+      "meaning_connection": "词根juxta=靠近（来自拉丁语iūxtā），pose=放置（来自拉丁语pōnere）→字面意思是'靠在一起放置'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "并置",
+        "examples": [
+          {
+            "sentence": "The museum juxtaposes Picasso's sketches with children's doodles.",
+            "sentence_zh": "博物馆将毕加索的素描与儿童涂鸦并置展示。"
+          },
+          {
+            "sentence": "Modern architects often juxtapose glass and concrete in designs.",
+            "sentence_zh": "现代建筑师常在设计中并置玻璃与混凝土材质。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "并列",
+        "examples": [
+          {
+            "sentence": "The textbook juxtaposes Shakespearean sonnets with Tang poetry translations.",
+            "sentence_zh": "教材将莎士比亚十四行诗与唐诗译本并列排版。"
+          },
+          {
+            "sentence": "Smartphone cameras can juxtapose two photos in split-screen mode.",
+            "sentence_zh": "手机相机可以用分屏模式并列两张照片。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "juxtapose A with B",
+        "meaning": "将A与B并列",
+        "examples": [
+          {
+            "sentence": "The ad juxtaposes luxury cars with public transport to provoke thought.",
+            "sentence_zh": "广告将豪车与公共交通并列以引发思考。"
+          }
+        ]
+      }
+    ],
+    "teach": "juxtapose是设计师的魔法🪄！就像把珍珠奶茶和豆汁儿放一起🧋+🥛（视觉冲击），或把周杰伦和莫扎特并列🎹（文化混搭）。记住：要制造戏剧效果就玩juxtapose，比如把'996工作制'和'佛系生活'放一起对比💼 vs 🧘。实用搭配：juxtapose tradition with innovation（传统与创新并列）",
+    "recite": {
+      "tips": [
+        "谐音梗：'加克斯pose'→加个姿势摆一起",
+        "易混词对比：compare侧重比较，juxtapose强调物理并列"
+      ]
+    }
+  },
+  {
+    "word": "juxtaposed",
+    "etymology": {
+      "breakdown": [
+        "juxta",
+        "pos",
+        "ed"
+      ],
+      "meaning_connection": "词根juxta=靠近（来自拉丁语iūxtā），pos=放置（来自拉丁语pōnere），-ed表过去式/分词→原意指'紧挨着放置'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把...并列",
+        "examples": [
+          {
+            "sentence": "The museum juxtaposed Picasso's paintings with children's doodles.",
+            "sentence_zh": "美术馆将毕加索画作与儿童涂鸦并列展示。"
+          },
+          {
+            "sentence": "His thesis juxtaposed ancient Greek philosophy with TikTok trends.",
+            "sentence_zh": "他的论文将古希腊哲学与抖音潮流并置分析。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把...放在另一个旁边",
+        "examples": [
+          {
+            "sentence": "She juxtaposed her new iPhone with a 1990s brick phone for a nostalgic photo.",
+            "sentence_zh": "她把新iPhone和90年代大哥大放在一起拍怀旧照。"
+          },
+          {
+            "sentence": "The chef juxtaposed stinky tofu and foie gras on the same plate.",
+            "sentence_zh": "主厨把臭豆腐和鹅肝酱并排摆在同一餐盘上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "juxtaposed with",
+        "meaning": "与...并置",
+        "examples": [
+          {
+            "sentence": "Beijing hutongs juxtaposed with skyscrapers create surreal cityscapes.",
+            "sentence_zh": "北京胡同与摩天大楼并置形成超现实都市景观。"
+          }
+        ]
+      }
+    ],
+    "teach": "juxtaposed是设计师最爱用的高级词💫！就像把珍珠奶茶和豆汁儿放一起（juxtaposed beverages），或让关羽和奥特曼同框🦸♂️🐉。要吐槽'混搭失败'可以说odd couple，形容'反差萌'用stark contrast。记住：用好juxtaposed，你的PPT立刻贵3000块💰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'加个蛋'饺子→饺子(jux)加蛋(pos)摆一起(ed)",
+        "易混词对比：compared（比较性并列） vs juxtaposed（视觉性并置）",
+        "记忆tip：想象把手机和算盘摆在一起拍照"
+      ]
+    }
+  },
+  {
+    "word": "juxtaposition",
+    "etymology": {
+      "breakdown": [
+        "juxta",
+        "position"
+      ],
+      "meaning_connection": "拉丁语juxta=靠近，position=放置→紧挨着摆放的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "并排",
+        "examples": [
+          {
+            "sentence": "The juxtaposition of skyscrapers and hutongs creates Beijing's unique skyline.",
+            "sentence_zh": "摩天大楼与胡同的并排构成了北京独特的天际线。"
+          },
+          {
+            "sentence": "Modern art often uses juxtaposition of contrasting colors.",
+            "sentence_zh": "现代艺术常用对比色的并排来表现冲击力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "并置",
+        "examples": [
+          {
+            "sentence": "The museum's juxtaposition of dinosaur fossils and VR exhibits shocked visitors.",
+            "sentence_zh": "博物馆将恐龙化石与VR展品并置的做法震惊了参观者。"
+          },
+          {
+            "sentence": "Her photos show clever juxtaposition of bubble tea and traditional tea sets.",
+            "sentence_zh": "她的照片巧妙地将珍珠奶茶与传统茶具并置。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "并列",
+        "examples": [
+          {
+            "sentence": "The juxtaposition of 'Kung Fu Panda' and 'Journey to the West' in the film festival was intentional.",
+            "sentence_zh": "电影节故意将《功夫熊猫》与《西游记》并列放映。"
+          },
+          {
+            "sentence": "Academic papers require clear juxtaposition of arguments.",
+            "sentence_zh": "学术论文需要清晰的论点并列。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in juxtaposition",
+        "meaning": "处于并列状态",
+        "examples": [
+          {
+            "sentence": "Hotpot and ice cream in juxtaposition is a taste adventure.",
+            "sentence_zh": "火锅和冰淇淋的并列是场味觉冒险。"
+          }
+        ]
+      }
+    ],
+    "teach": "juxtaposition就像火锅鸳鸯锅🍲：红汤白汤强行CP！这个词诞生于18世纪艺术评论界🎨，专门描述'把毫不相干的东西硬凑一起'的行为。比如把螺蛳粉和香水放一起叫olfactory juxtaposition👃🤢，'对比强烈'说stark juxtaposition像榴莲配咖啡☕️💣。记住：任何魔性混搭都能用这个词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'加个屎破戏'→强行加戏的并列",
+        "易混词对比：composition是组合，juxtaposition是硬凑"
+      ]
+    }
   }
 ]

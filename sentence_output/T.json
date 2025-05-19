@@ -17182,5 +17182,316 @@
         "对比记忆：technical指具体技术细节，technologically强调整体科技属性"
       ]
     }
+  },
+  {
+    "word": "technologist",
+    "etymology": {
+      "breakdown": [
+        "techno",
+        "log",
+        "ist"
+      ],
+      "meaning_connection": "词根techno=技术，log=学科，-ist=人→研究技术的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "工艺师",
+        "examples": [
+          {
+            "sentence": "The jade technologist restored the broken Han dynasty artifact with gold filigree.",
+            "sentence_zh": "这位玉器工艺师用金丝修复了破碎的汉代文物。"
+          },
+          {
+            "sentence": "As a tea technologist, he developed pu'er compression techniques mimicking dragon scales.",
+            "sentence_zh": "作为茶叶工艺师，他研发了龙鳞纹普洱茶压制技术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "技术员",
+        "examples": [
+          {
+            "sentence": "The PCR technologist processed 1000 nucleic acid tests during the Shanghai lockdown.",
+            "sentence_zh": "这位PCR技术员在上海封控期间处理了1000份核酸检测。"
+          },
+          {
+            "sentence": "High-speed rail technologists wear VR goggles to inspect track welding quality.",
+            "sentence_zh": "高铁技术员佩戴VR眼镜检查轨道焊接质量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "food technologist",
+        "meaning": "食品技术专家",
+        "examples": [
+          {
+            "sentence": "The food technologist invented spicy crayfish flavored mooncakes for Mid-Autumn Festival.",
+            "sentence_zh": "这位食品技术专家为中秋节发明了麻辣小龙虾月饼。"
+          }
+        ]
+      }
+    ],
+    "teach": "technologist是科技界的厨神👨🍳！词根techno来自希腊语'τέχνη'(技艺)，就像三星堆工匠用青铜术🔧(bronze technologist)。现代版是：大厂程序员叫code technologist💻，煎饼果子摊主是pancake technologist🥞。搭配'chief technologist'(首席技术官)比CTO更带匠人气场，说'技术大牛'可称tech wizard🧙♂️。记住：-ist结尾多是人，-ology结尾多是学！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太渴闹逻辑死他'→技术员太渴了还坚持搞逻辑",
+        "易混词：technician(偏实操) vs technologist(偏研发)",
+        "记忆术：tech-no-logist→对技术'不'(no)断'唠叨'(log)的人"
+      ]
+    }
+  },
+  {
+    "word": "technology",
+    "etymology": {
+      "breakdown": [
+        "techno",
+        "logy"
+      ],
+      "meaning_connection": "词根techno=技艺/工艺，源自希腊语tekhnē；后缀-logy=学科/研究→关于技艺的系统研究"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "技术",
+        "examples": [
+          {
+            "sentence": "The technology behind TikTok's algorithm is like a digital dopamine dealer.",
+            "sentence_zh": "抖音算法背后的技术像个数字多巴胺分发器。"
+          },
+          {
+            "sentence": "Ancient Chinese paper-making technology revolutionized human communication.",
+            "sentence_zh": "中国古代造纸技术彻底改变了人类交流方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "工业技术",
+        "examples": [
+          {
+            "sentence": "Shenzhen's electronics manufacturing technology leads the global supply chain.",
+            "sentence_zh": "深圳的电子制造技术主导着全球供应链。"
+          },
+          {
+            "sentence": "The steam engine technology powered the first industrial revolution.",
+            "sentence_zh": "蒸汽机技术推动了第一次工业革命。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "术语",
+        "examples": [
+          {
+            "sentence": "Blockchain technology terms like 'hash rate' confuse most beginners.",
+            "sentence_zh": "像'哈希率'这样的区块链术语让多数新手困惑。"
+          },
+          {
+            "sentence": "Medical technology jargon sounds like Klingon to patients.",
+            "sentence_zh": "医疗技术术语对患者来说像克林贡语。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cutting-edge technology",
+        "meaning": "尖端技术",
+        "examples": [
+          {
+            "sentence": "China's high-speed rail uses cutting-edge technology to achieve 350km/h.",
+            "sentence_zh": "中国高铁运用尖端技术实现350公里时速。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "technology stack",
+        "meaning": "技术栈",
+        "examples": [
+          {
+            "sentence": "Alibaba's technology stack handles 583,000 orders per second during Double 11.",
+            "sentence_zh": "阿里巴巴的技术栈在双十一期间每秒处理58.3万订单。"
+          }
+        ]
+      }
+    ],
+    "teach": "technology其实是'忒克闹逻辑'🤖！古希腊人用technē形容工匠技艺（比如造特洛伊木马🎠），现在变成我们刷脸的AI魔法🔮。说'技术落后'叫stone-age tech（石器技术），'技术宅'叫tech geek就像修长城的码农🧱。记住：你的手机比1969年登月电脑强120万倍🚀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'泰克闹逻辑'→科技(technology)让人又爱又闹心",
+        "对比记忆：technique（技巧）是点，technology（技术）是面"
+      ]
+    }
+  },
+  {
+    "word": "tectonic",
+    "etymology": {
+      "breakdown": [
+        "tecton",
+        "ic"
+      ],
+      "meaning_connection": "词根tecton来自希腊语'tektōn'（木匠/建造者），后缀-ic表形容词→与建筑构造相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "构造的",
+        "examples": [
+          {
+            "sentence": "The tectonic plates movement caused the Sichuan earthquake.",
+            "sentence_zh": "板块构造运动导致了汶川地震。"
+          },
+          {
+            "sentence": "Scientists use GPS to monitor tectonic deformation in Tibet.",
+            "sentence_zh": "科学家用GPS监测青藏高原的构造变形。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "建筑的",
+        "examples": [
+          {
+            "sentence": "The Bird's Nest showcases brilliant tectonic engineering.",
+            "sentence_zh": "鸟巢体育馆展现了卓越的建筑工程学。"
+          },
+          {
+            "sentence": "Ancient Chinese dougong is a unique tectonic system.",
+            "sentence_zh": "中国古代斗拱是独特的建筑结构体系。"
+          }
+        ]
+      }
+    ],
+    "teach": "tectonic其实是'搭积木大师'🧱！词根tecton就是希腊版鲁班（木匠之神），板块构造像拼乐高🌋（tectonic plates），建筑构造像搭麻将牌🏗️（tectonic design）。说'结构复杂'用byzantine（拜占庭式复杂），'豆腐渣工程'叫jerry-built。记住：地球和房子都是tectonic的艺术品！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太磕头呢'→板块碰撞(tectonic)让人磕头",
+        "易混词：architectonic（建筑构图的）更侧重美学"
+      ]
+    }
+  },
+  {
+    "word": "tectonics",
+    "etymology": {
+      "breakdown": [
+        "tecton",
+        "ics"
+      ],
+      "meaning_connection": "词根tecton=建造者（源自希腊语），后缀-ics=学科→研究地球构造的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "构造学",
+        "examples": [
+          {
+            "sentence": "The professor used Lego blocks to explain plate tectonics to kindergarteners.",
+            "sentence_zh": "教授用乐高积木向幼儿园小朋友解释板块构造学。"
+          },
+          {
+            "sentence": "Modern tectonics reveals why Sichuan has so many hotpot-warming earthquakes.",
+            "sentence_zh": "现代构造学揭示了四川为何有这么多适合涮火锅的地震。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "构造地质学",
+        "examples": [
+          {
+            "sentence": "Himalayan tectonics research helps predict when Mount Qomolangma will stop growing.",
+            "sentence_zh": "喜马拉雅构造地质学研究有助于预测珠穆朗玛峰何时停止长高。"
+          },
+          {
+            "sentence": "Oil companies hire tectonics experts to find underground 'dim sum baskets'.",
+            "sentence_zh": "石油公司雇佣构造地质学专家寻找地下的'点心蒸笼'（储油层）。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "plate tectonics",
+        "meaning": "板块构造学",
+        "examples": [
+          {
+            "sentence": "Plate tectonics explains why California has beaches and earthquakes simultaneously.",
+            "sentence_zh": "板块构造学解释了加州为何同时拥有海滩和地震。"
+          }
+        ]
+      }
+    ],
+    "teach": "tectonics是地球的乐高说明书📜！古希腊人认为地球是巨人Atlas搭的积木🏗️（词根tecton=建造者）。说'地震带'用seismic belt就像火锅的'辣度分区'🌶️，'造山运动'叫orogeny好比揉面团做馒头🍞。记住：学tectonics就能看懂地球的皱纹地图🗺️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太磕头你磕死'→研究地质构造太辛苦",
+        "易混词：architecture（建筑学）是人造结构，tectonics是自然结构"
+      ]
+    }
+  },
+  {
+    "word": "teddy",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来源于美国总统西奥多·罗斯福(Theodore Roosevelt)的昵称Teddy，因他拒绝射杀被绑的小熊的典故而得名"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "连衫衬裤",
+        "examples": [
+          {
+            "sentence": "Victorian ladies wore teddies as undergarments with elaborate lace.",
+            "sentence_zh": "维多利亚时代的淑女们穿着带精美蕾丝的连衫衬裤。"
+          },
+          {
+            "sentence": "The vintage teddies in the museum look nothing like modern lingerie.",
+            "sentence_zh": "博物馆里的复古连衫衬裤和现代内衣完全不同。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "泰迪玩具熊",
+        "examples": [
+          {
+            "sentence": "Every Valentine's Day, flower shops sell teddy bears holding roses.",
+            "sentence_zh": "每年情人节花店都售卖抱着玫瑰的泰迪熊。"
+          },
+          {
+            "sentence": "The child hugged his teddy tightly during the thunderstorm.",
+            "sentence_zh": "雷雨天气时孩子紧紧抱着他的泰迪熊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "teddy bear",
+        "meaning": "泰迪熊",
+        "examples": [
+          {
+            "sentence": "Build-A-Bear Workshop lets you customize your own teddy bear.",
+            "sentence_zh": "'自造泰迪熊'工坊让你定制专属泰迪熊。"
+          }
+        ]
+      }
+    ],
+    "teach": "teddy是史上最反差萌单词🐻！本意是性感内衣👙（连衫衬裤），却因罗斯福总统拒绝猎熊的梗变成呆萌玩具熊🧸。要说'毛绒玩具'美国人只说teddy bear，就像说'奶茶'必加bubble🌭。记住：teddy内衣让你性感，teddy熊给你温暖，这就是传说中的'又纯又欲'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'泰迪'→音译梗自带萌点",
+        "易混词对比：teddy(玩具熊) vs. puppy(小狗玩偶)"
+      ]
+    }
   }
 ]

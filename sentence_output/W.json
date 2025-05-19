@@ -17442,5 +17442,345 @@
         "易混词：Victorian（维多利亚式的）vs Weberian"
       ]
     }
+  },
+  {
+    "word": "wed",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'weddian'，原指'承诺、抵押'，后特指婚姻契约"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "与...结婚",
+        "examples": [
+          {
+            "sentence": "He wed his college sweetheart in a hotpot-themed ceremony.",
+            "sentence_zh": "他在火锅主题婚礼上与大学恋人结婚。"
+          },
+          {
+            "sentence": "The celebrity secretly wed a chef famous for Peking duck.",
+            "sentence_zh": "这位明星秘密迎娶了以北京烤鸭闻名的主厨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使结合",
+        "examples": [
+          {
+            "sentence": "The design weds traditional paper-cutting with augmented reality.",
+            "sentence_zh": "这个设计将传统剪纸与增强现实技术相结合。"
+          },
+          {
+            "sentence": "This dish weds Sichuan peppercorns with French foie gras.",
+            "sentence_zh": "这道菜将四川花椒与法国鹅肝完美结合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "结婚",
+        "examples": [
+          {
+            "sentence": "They chose to wed during the Lantern Festival for double happiness.",
+            "sentence_zh": "他们选择在元宵节结婚讨个双喜临门。"
+          },
+          {
+            "sentence": "Many couples prefer to wed in autumn when osmanthus blooms.",
+            "sentence_zh": "许多情侣偏爱在桂花飘香的秋天结婚。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wed to",
+        "meaning": "坚持于",
+        "examples": [
+          {
+            "sentence": "He's wed to the idea of reviving ancient tea ceremonies.",
+            "sentence_zh": "他执着于复兴古代茶道的想法。"
+          }
+        ]
+      }
+    ],
+    "teach": "wed这词自带红双喜剪纸特效💮！古代结婚要'抵押'(wed本意)全部家当💍，现在结婚证比支付宝绑卡还快📲。说'闪婚'用whirlwind wedding像龙卷风🌪️，'婚礼开支'叫marriage coffers就像存钱罐🐷。记住：无论是wed一个人还是wed两种文化，都需要长期'兼容性更新'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外的'→娶了个外的(wed)国媳妇",
+        "易混词：marry(日常用)/wed(正式用) 就像'领证'和'大婚'的区别"
+      ]
+    }
+  },
+  {
+    "word": "wedded",
+    "etymology": {
+      "breakdown": [
+        "wed",
+        "ed"
+      ],
+      "meaning_connection": "wed=结婚，-ed表过去分词/形容词化→从'已结婚的'引申出'紧密结合的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "已结婚的",
+        "examples": [
+          {
+            "sentence": "The newly wedded couple went to Sanya for their honeymoon.",
+            "sentence_zh": "这对新婚夫妇去三亚度蜜月。"
+          },
+          {
+            "sentence": "Wedded bliss lasts until the first argument about washing dishes.",
+            "sentence_zh": "新婚的甜蜜持续到第一次为洗碗争吵前。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "热爱的",
+        "examples": [
+          {
+            "sentence": "He's wedded to his vintage camera collection.",
+            "sentence_zh": "他痴迷于收藏老式相机。"
+          },
+          {
+            "sentence": "The chef is wedded to traditional Sichuan recipes.",
+            "sentence_zh": "这位厨师执着于传统川菜配方。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wedded to sth",
+        "meaning": "执着于某事物",
+        "examples": [
+          {
+            "sentence": "Old professors are often wedded to their teaching methods.",
+            "sentence_zh": "老教授们常固守自己的教学方式。"
+          }
+        ]
+      }
+    ],
+    "teach": "wedded是'焊死型爱情'💍：字面是结婚证钢印（wedded couple），实际可以形容任何'上头'状态——比如对奶茶的忠诚（wedded to bubble tea）🧋。搭配'deeply wedded'比'married'更文雅，说'爱情坟墓'别用graveyard，要说'the wedded battlefield'🎯。记住：真爱就像螺蛳粉，闻着劝退吃着上头！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪滴的'→歪着头戴婚戒",
+        "易混词对比：wedded（状态） vs married（动作）"
+      ]
+    }
+  },
+  {
+    "word": "wedding",
+    "etymology": {
+      "breakdown": [
+        "wed",
+        "ing"
+      ],
+      "meaning_connection": "古英语'wedd'指'抵押/誓言'，-ing表事件→用誓言绑定的人生仪式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "婚礼",
+        "examples": [
+          {
+            "sentence": "The couple streamed their wedding on Douyin with 10 million viewers.",
+            "sentence_zh": "这对新人在抖音直播婚礼，吸引千万观众。"
+          },
+          {
+            "sentence": "Traditional Chinese weddings include tea ceremonies and red envelopes.",
+            "sentence_zh": "中式传统婚礼包含敬茶和红包环节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "结婚",
+        "examples": [
+          {
+            "sentence": "Their wedding was held on the Great Wall during sunset.",
+            "sentence_zh": "他们的结婚仪式在长城日落时分举行。"
+          },
+          {
+            "sentence": "Wedding customs vary from handing tea to smashing plates.",
+            "sentence_zh": "从敬茶到摔盘子，各地结婚习俗千差万别。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "结婚周年纪念日",
+        "examples": [
+          {
+            "sentence": "For their golden wedding, the couple renewed vows in their original 1980s outfits.",
+            "sentence_zh": "金婚纪念日上，这对夫妇穿着80年代的结婚礼服重温誓言。"
+          },
+          {
+            "sentence": "Paper wedding refers to the 1st anniversary when gifts are wrapped like origami.",
+            "sentence_zh": "纸婚指第一周年纪念，礼物要包装得像折纸作品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "结合",
+        "examples": [
+          {
+            "sentence": "The wedding of AI and traditional art created stunning digital paintings.",
+            "sentence_zh": "人工智能与传统艺术的结合诞生了惊艳的数字绘画。"
+          },
+          {
+            "sentence": "This dish is a perfect wedding of Sichuan spice and Cantonese freshness.",
+            "sentence_zh": "这道菜完美结合了川菜的麻辣与粤菜的鲜甜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wedding anniversary",
+        "meaning": "结婚纪念日",
+        "examples": [
+          {
+            "sentence": "They celebrate wedding anniversary by eating their original wedding cake flavor.",
+            "sentence_zh": "他们通过品尝当年结婚蛋糕的口味来庆祝结婚纪念日。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wedding crasher",
+        "meaning": "混婚礼的人",
+        "examples": [
+          {
+            "sentence": "That influencer became famous as a professional wedding crasher in five-star hotels.",
+            "sentence_zh": "那位网红靠混五星级酒店婚礼蹭吃蹭喝出名。"
+          }
+        ]
+      }
+    ],
+    "teach": "wedding其实是'赌约'💍！古英语'wedd'指抵押品（像订婚戒指💎），后来变成用誓言(wed)绑定(ding)的仪式。说'结婚破财'用地道表达expensive hobby（烧钱爱好），'闪婚'叫whirlwind romance🌪️。记住：中式婚礼要'三书六礼'，西式要'something borrowed, something blue'👰♀️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外的厅'→婚礼都在外面的厅堂办",
+        "易混词：marriage(婚姻状态) vs wedding(婚礼仪式)"
+      ]
+    }
+  },
+  {
+    "word": "wedge",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'wecg'，指用于固定或分开物体的工具，后引申为'分裂的起因'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "楔子",
+        "examples": [
+          {
+            "sentence": "The carpenter used a wooden wedge to split the log.",
+            "sentence_zh": "木匠用木楔劈开圆木。"
+          },
+          {
+            "sentence": "Grandma keeps a rusted iron wedge for cracking walnuts.",
+            "sentence_zh": "奶奶用生锈的铁楔子敲核桃。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "楔形物",
+        "examples": [
+          {
+            "sentence": "The Great Wall snakes through mountains like a stone wedge.",
+            "sentence_zh": "长城如同石楔般蜿蜒穿行山间。"
+          },
+          {
+            "sentence": "Her wedge heels left imprints in the snow.",
+            "sentence_zh": "她的坡跟鞋在雪地上留下楔形印记。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "导致分裂的东西",
+        "examples": [
+          {
+            "sentence": "The leaked email drove a wedge between the business partners.",
+            "sentence_zh": "被泄露的邮件导致商业伙伴分道扬镳。"
+          },
+          {
+            "sentence": "Political differences became the wedge in their 20-year friendship.",
+            "sentence_zh": "政治分歧成为他们二十年友谊的裂痕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "楔住",
+        "examples": [
+          {
+            "sentence": "Wedging a coin in the door crack prevents automatic locking.",
+            "sentence_zh": "在门缝楔入硬币可防止自动上锁。"
+          },
+          {
+            "sentence": "The movers wedged the sofa vertically in the elevator.",
+            "sentence_zh": "搬家工人把沙发竖着楔进电梯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "挤进",
+        "examples": [
+          {
+            "sentence": "She wedged herself into the crowded subway during rush hour.",
+            "sentence_zh": "早高峰时她硬挤进了拥挤的地铁。"
+          },
+          {
+            "sentence": "The cat wedged its head into the fish tank opening.",
+            "sentence_zh": "猫咪把脑袋挤进了鱼缸开口。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "thin end of the wedge",
+        "meaning": "开端的小事可能引发重大后果",
+        "examples": [
+          {
+            "sentence": "Allowing overtime pay cuts is the thin end of the wedge.",
+            "sentence_zh": "允许削减加班费只是恶性循环的开始。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wedge issue",
+        "meaning": "引发分歧的争议话题",
+        "examples": [
+          {
+            "sentence": "Abortion remains a wedge issue in US elections.",
+            "sentence_zh": "堕胎问题仍是美国大选中的分裂性议题。"
+          }
+        ]
+      }
+    ],
+    "teach": "wedge是'万能插队神器'🔪！当名词时，它可以是劈柴的三角楔（就像李逵的斧头🪓），也可以是导致友谊小船翻车的'矛盾楔子'（💔）。当动词时，就像早高峰挤地铁的社畜👔（wedge into subway），或是猫主子硬钻纸箱的执着🐈⬛。搭配'thin end of the wedge'形容小事酿大祸，说'引发争议'用drive a wedge between就像拆散鸳鸯的王母娘娘☁️",
+    "recite": {
+      "tips": [
+        "谐音梗：'危机'→矛盾楔子(wedge)引发危机",
+        "对比记忆：edge（边缘）少个w就没了'插入'的动作"
+      ]
+    }
   }
 ]

@@ -16756,5 +16756,331 @@
         "易混词对比：vs. motto（简短格言，不含宗教性）"
       ]
     }
+  },
+  {
+    "word": "manual",
+    "etymology": {
+      "breakdown": [
+        "manu",
+        "al"
+      ],
+      "meaning_connection": "词根manu=手，后缀-al表性质→与手相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "手册",
+        "examples": [
+          {
+            "sentence": "The IKEA manual made assembling furniture look deceptively simple.",
+            "sentence_zh": "宜家手册让组装家具看起来简单得具有欺骗性。"
+          },
+          {
+            "sentence": "Read the manual carefully before operating your new rice cooker.",
+            "sentence_zh": "使用新电饭煲前请仔细阅读说明书。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "指南",
+        "examples": [
+          {
+            "sentence": "This survival manual teaches you how to open coconut with bare hands.",
+            "sentence_zh": "这本生存指南教你如何徒手开椰子。"
+          },
+          {
+            "sentence": "The museum provides audio manuals in 12 languages.",
+            "sentence_zh": "博物馆提供12种语言的语音导览手册。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "手的",
+        "examples": [
+          {
+            "sentence": "Pandas have a pseudo-thumb for manual dexterity.",
+            "sentence_zh": "熊猫有伪拇指来增强手的灵活性。"
+          },
+          {
+            "sentence": "Traditional tea masters undergo decades of manual training.",
+            "sentence_zh": "传统茶道大师需经历数十年的手部训练。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "手动的",
+        "examples": [
+          {
+            "sentence": "Manual transmission cars are disappearing in China.",
+            "sentence_zh": "手动挡汽车正在中国逐渐消失。"
+          },
+          {
+            "sentence": "This vintage camera requires manual focusing.",
+            "sentence_zh": "这台复古相机需要手动对焦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "手工的",
+        "examples": [
+          {
+            "sentence": "Her manual embroidery of the pandas went viral on Douyin.",
+            "sentence_zh": "她手工刺绣的大熊猫作品在抖音上走红。"
+          },
+          {
+            "sentence": "The manual production process takes three months per piece.",
+            "sentence_zh": "每件作品的手工制作过程需时三个月。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "体力的",
+        "examples": [
+          {
+            "sentence": "Manual laborers deserve higher social recognition.",
+            "sentence_zh": "体力劳动者值得更高的社会认可。"
+          },
+          {
+            "sentence": "His manual job at the construction site paid for his daughter's education.",
+            "sentence_zh": "他在工地的体力工作支付了女儿的学费。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "manual labor",
+        "meaning": "体力劳动",
+        "examples": [
+          {
+            "sentence": "Delivery drivers engage in intense manual labor during Singles' Day.",
+            "sentence_zh": "双十一期间快递员进行高强度体力劳动。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "manual dexterity",
+        "meaning": "手的灵活度",
+        "examples": [
+          {
+            "sentence": "Surgeons need manual dexterity to perform microsurgeries.",
+            "sentence_zh": "外科医生需要手部灵活性来进行显微手术。"
+          }
+        ]
+      }
+    ],
+    "teach": "manual是'手'的变形金刚🤖！当名词是'说明书'就像宜家图示📖（assembly manual），当形容词变成'手工的'像老师傅捏陶瓷🏺（manual craftsmanship）。记住：手动挡叫manual transmission，而'搬砖'的地道说法是manual labor💪。下次看到manual，想想你灵活的手指正在创造什么！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢牛'→慢牛(manual)耕地靠手工",
+        "易混词对比：manual(手工的) vs menu(菜单)"
+      ]
+    }
+  },
+  {
+    "word": "manually",
+    "etymology": {
+      "breakdown": [
+        "manu",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根manu=手（如manufacture手工制造），-al形容词后缀，-ly副词后缀→用手工方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "用手工",
+        "examples": [
+          {
+            "sentence": "The artisan manually carves mahjong tiles with jade dust flying everywhere.",
+            "sentence_zh": "匠人手工雕刻麻将牌，玉屑飞溅。"
+          },
+          {
+            "sentence": "I had to manually reset the router 9 times during the online exam.",
+            "sentence_zh": "线上考试时我手动重启了9次路由器。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "manually operated",
+        "meaning": "手动操作的",
+        "examples": [
+          {
+            "sentence": "The manually operated noodle press makes perfect biangbiang noodles.",
+            "sentence_zh": "这台手动压面机能做出完美的裤带面。"
+          }
+        ]
+      }
+    ],
+    "teach": "manually是'纯手工认证'标签✋！就像拉面师傅徒手扯面🍜（vs机器面），或程序员被迫手敲代码💻（vs自动生成）。搭配：manually adjusted（手工调试）/ manually crafted（匠心打造）。说'纯手工'可以炫耀这是handmade with blood and tears🩹",
+    "recite": {
+      "tips": [
+        "谐音梗：'蛮牛力'→用蛮牛力气手动操作",
+        "易混词：automatic（自动的）是死对头"
+      ]
+    }
+  },
+  {
+    "word": "manufactory",
+    "etymology": {
+      "breakdown": [
+        "manu",
+        "fact",
+        "ory"
+      ],
+      "meaning_connection": "词根manu=手，fact=制作，-ory表场所→手工制作的场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "制造厂",
+        "examples": [
+          {
+            "sentence": "The antique clock came from a 19th-century Swiss manufactory.",
+            "sentence_zh": "这座古董钟产自19世纪的瑞士制造厂。"
+          },
+          {
+            "sentence": "This porcelain manufactory still uses traditional techniques.",
+            "sentence_zh": "这家瓷器制造厂仍沿用传统工艺。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "工厂",
+        "examples": [
+          {
+            "sentence": "The silk manufactory in Hangzhou attracts thousands of tourists.",
+            "sentence_zh": "杭州的丝绸工厂吸引着成千上万的游客。"
+          },
+          {
+            "sentence": "They transformed the old manufactory into a hipster coffee shop.",
+            "sentence_zh": "他们把旧工厂改造成了网红咖啡馆。"
+          }
+        ]
+      }
+    ],
+    "teach": "manufactory是'手工大佬'🛠️的根据地！词根manu(手)+fact(制作)，就像鲁班用木头造宫殿🏯。现代工厂虽然机械化，但最贵的手表还是叫manufacture（手工制作）。搭配说'state-owned manufactory'（国营工厂）比factory更复古，'倒闭工厂'叫defunct manufactory就像废弃的霍格沃茨🏭。记住：带-ory结尾的常是场所（如laboratory）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢牛factory'→老黄牛般的慢工出细活",
+        "易混词对比：factory（普通工厂） vs manufactory（侧重手工制造）",
+        "记忆法：拆解manu(手)+fact(做)→用手制作的场所"
+      ]
+    }
+  },
+  {
+    "word": "manufacture",
+    "etymology": {
+      "breakdown": [
+        "manu",
+        "fact",
+        "ure"
+      ],
+      "meaning_connection": "词根manu=手（如manual），fact=制作（如factory），-ure表行为→原指'手工制作'，后泛指工业化生产"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "工业产品",
+        "examples": [
+          {
+            "sentence": "This Xiaomi factory produces 20,000 manufactures daily.",
+            "sentence_zh": "这家小米工厂每日生产2万件工业产品。"
+          },
+          {
+            "sentence": "The exhibition displays German manufactures from the 19th century.",
+            "sentence_zh": "展览陈列着19世纪的德国工业制品。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "制造过程",
+        "examples": [
+          {
+            "sentence": "The manufacture of jade carvings requires extreme patience.",
+            "sentence_zh": "玉雕的制造过程需要极大耐心。"
+          },
+          {
+            "sentence": "AI has revolutionized the manufacture of smartphones.",
+            "sentence_zh": "人工智能彻底革新了智能手机的制造。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "工业化生产",
+        "examples": [
+          {
+            "sentence": "BYD manufactures electric buses for global markets.",
+            "sentence_zh": "比亚迪为全球市场制造电动大巴。"
+          },
+          {
+            "sentence": "This workshop manufactures traditional paper lanterns.",
+            "sentence_zh": "该作坊手工制造传统纸灯笼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "伪造",
+        "examples": [
+          {
+            "sentence": "The merchant was caught manufacturing fake antiques.",
+            "sentence_zh": "该商人因伪造古董被抓获。"
+          },
+          {
+            "sentence": "Some influencers manufacture their online personas.",
+            "sentence_zh": "部分网红虚构网络人设。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "从事制造",
+        "examples": [
+          {
+            "sentence": "This town has manufactured porcelain since Ming Dynasty.",
+            "sentence_zh": "该镇自明代起就从事瓷器制造。"
+          },
+          {
+            "sentence": "Our company manufactures exclusively for European clients.",
+            "sentence_zh": "我司专为欧洲客户进行制造。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "manufacture consent",
+        "meaning": "操纵舆论",
+        "examples": [
+          {
+            "sentence": "Some media outlets manufacture consent through selective reporting.",
+            "sentence_zh": "部分媒体通过选择性报道操纵舆论。"
+          }
+        ]
+      }
+    ],
+    "teach": "manufacture是'手造宇宙'✋🏭！词根manu=手（像手动挡汽车🚗），fact=制作（像工厂factory🏗️）。说'中国制造'用Made in China更地道，但'假新闻'就叫manufactured news（像3D打印的假文物🗿）。记住：真生产用manufacture，假编造也用manufacture，就像用同一把剑练武和演戏⚔️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢牛翻车'→制造业要稳步发展",
+        "易混词：factory是工厂，manufacture是制造行为"
+      ]
+    }
   }
 ]

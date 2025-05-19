@@ -17000,5 +17000,372 @@
         "视觉联想：把re-看作回收站图标，absorb是吸管喝奶茶→把撒掉的奶茶吸回来"
       ]
     }
+  },
+  {
+    "word": "re",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语res（事物），在法语中演变为ré（关于），进入英语后语义扩展"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "prep.",
+        "meaning": "关于",
+        "examples": [
+          {
+            "sentence": "The email re: your dumpling order has been sent.",
+            "sentence_zh": "关于您饺子订单的邮件已发出。"
+          },
+          {
+            "sentence": "We had a discussion re: whether mooncakes should have durian filling.",
+            "sentence_zh": "我们就月饼该不该有榴莲馅进行了讨论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "不动产",
+        "examples": [
+          {
+            "sentence": "His family's re includes three courtyard houses in Beijing.",
+            "sentence_zh": "他家的不动产包括北京的三套四合院。"
+          },
+          {
+            "sentence": "Investing in re became popular after the housing reform.",
+            "sentence_zh": "房改后投资不动产开始流行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "房地产",
+        "examples": [
+          {
+            "sentence": "The re market in first-tier cities is like a roller coaster.",
+            "sentence_zh": "一线城市房地产市场如同过山车。"
+          },
+          {
+            "sentence": "She made her fortune in re during the boom years.",
+            "sentence_zh": "她在房地产黄金年代积累了财富。"
+          }
+        ]
+      }
+    ],
+    "teach": "这个两字母单词堪称职场影帝🎭！作介词时像邮件标题的锦衣卫📮（Re: Project Update），作名词时秒变包租公🏘️（real estate缩写）。要说'炒房'叫flip properties，'房产证'是property deed。记住：re=关于+房产，就像微信既能聊天又能付款💳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热'→房地产(re)市场总是很热",
+        "易混词对比：re vs. reply（前者是'关于'，后者是'回复'）"
+      ]
+    }
+  },
+  {
+    "word": "reach",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'rǣcan'，表示'伸展手臂'，后衍生出空间/目标双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "伸出",
+        "examples": [
+          {
+            "sentence": "The baby's reach for the mooncake was captured in viral videos.",
+            "sentence_zh": "宝宝伸手够月饼的视频在网上疯传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "延伸",
+        "examples": [
+          {
+            "sentence": "The reach of the Yangtze River bridges amazed the engineers.",
+            "sentence_zh": "长江大桥的延伸长度令工程师惊叹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "区域",
+        "examples": [
+          {
+            "sentence": "This delivery app covers the entire reach of third-ring road.",
+            "sentence_zh": "该外卖App覆盖三环内全部区域。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "范围",
+        "examples": [
+          {
+            "sentence": "The influencer's reach exceeds 10 million followers.",
+            "sentence_zh": "该网红的粉丝范围超1000万。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "流域",
+        "examples": [
+          {
+            "sentence": "Pandas only inhabit the upper reach of Yangtze River.",
+            "sentence_zh": "大熊猫仅栖息在长江上游流域。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "岬",
+        "examples": [
+          {
+            "sentence": "The lighthouse stands on a rocky reach into the sea.",
+            "sentence_zh": "灯塔矗立在海中的岩石岬角上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "到达",
+        "examples": [
+          {
+            "sentence": "Didi drivers always reach your pin within 3 minutes.",
+            "sentence_zh": "滴滴司机总能在3分钟内到达你的定位点。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "达到",
+        "examples": [
+          {
+            "sentence": "Her livestream sales reached crazy 100 million RMB.",
+            "sentence_zh": "她的直播销售额达到了惊人的1亿人民币。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "伸出",
+        "examples": [
+          {
+            "sentence": "Tourists reach their phones to snap the cherry blossoms.",
+            "sentence_zh": "游客们伸出手机拍摄樱花。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "延伸",
+        "examples": [
+          {
+            "sentence": "The new subway line reaches the outskirts of Beijing.",
+            "sentence_zh": "新地铁线延伸至北京郊区。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "影响",
+        "examples": [
+          {
+            "sentence": "K-pop reaches even grandma square-dancing groups.",
+            "sentence_zh": "韩流甚至影响到广场舞大妈群体。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "达到",
+        "examples": [
+          {
+            "sentence": "Our KPI reached with 3 seconds to spare.",
+            "sentence_zh": "我们在最后3秒达到了KPI。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "延伸",
+        "examples": [
+          {
+            "sentence": "The Great Wall reaches across northern China.",
+            "sentence_zh": "长城在中国北方延伸。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "伸出手",
+        "examples": [
+          {
+            "sentence": "She reached for the last spicy crayfish at the table.",
+            "sentence_zh": "她伸手去拿桌上最后一只麻辣小龙虾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "传到",
+        "examples": [
+          {
+            "sentence": "News about the celebrity divorce reached every corner of Weibo.",
+            "sentence_zh": "明星离婚的消息传到了微博每个角落。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "within reach",
+        "meaning": "触手可及",
+        "examples": [
+          {
+            "sentence": "Keep your health code within reach when taking subways.",
+            "sentence_zh": "乘地铁时要把健康码放在触手可及处。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "reach out to",
+        "meaning": "联系",
+        "examples": [
+          {
+            "sentence": "Fans reach out to idols via bullet comments.",
+            "sentence_zh": "粉丝通过弹幕联系偶像。"
+          }
+        ]
+      }
+    ],
+    "teach": "reach就像孙悟空的金箍棒👋→能'伸长'到天庭（空间reach），能'够到'王母的蟠桃（动作reach），还能'影响'玉帝决策（抽象reach）。说'超出能力范围'用beyond one's reach就像跳起来够不到货架上的老干妈🌶️，而'网红影响力'叫social media reach就像病毒视频传播📱。记住：无论物理还是虚拟，能延伸到的都叫reach！",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐尺'→用尖锐的尺子延伸测量",
+        "易混对比：arrive（到达某点）vs reach（过程性到达）"
+      ]
+    }
+  },
+  {
+    "word": "reachable",
+    "etymology": {
+      "breakdown": [
+        "reach",
+        "able"
+      ],
+      "meaning_connection": "reach（到达）+ able（能够…的）→ 能够到达的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "可到达的",
+        "examples": [
+          {
+            "sentence": "The mountain peak is reachable within 3 hours by cable car.",
+            "sentence_zh": "乘坐缆车3小时内可到达这座山峰。"
+          },
+          {
+            "sentence": "Make sure your emergency contact is reachable 24/7.",
+            "sentence_zh": "确保你的紧急联系人24小时可联系到。"
+          }
+        ]
+      }
+    ],
+    "teach": "reachable就像手机信号格📶——满格时万物可达，没信号时连老妈都找不到你👵！说'随时能找到某人'用地道表达always on the grid（永远在线）。搭配'reachable goal'（可实现目标）和'barely reachable'（勉强够得着）。记住：你的梦想应该像WiFi密码一样reachable！🔑",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐气包'→有锐气的人总能到达(reachable)目标",
+        "易混词对比：reachable（可到达的） vs. approachable（可接近的，指人友善）"
+      ]
+    }
+  },
+  {
+    "word": "react",
+    "etymology": {
+      "breakdown": [
+        "re",
+        "act"
+      ],
+      "meaning_connection": "前缀re-表示'反向/再次'，词根act表示'行动'→原指'反向行动'，后衍生出化学/行为等多领域含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "起反应",
+        "examples": [
+          {
+            "sentence": "The audience reacted with stunned silence to the magic show finale.",
+            "sentence_zh": "观众对魔术表演压轴戏报以震惊的沉默。"
+          },
+          {
+            "sentence": "My skin reacts badly to this TikTok viral face cream.",
+            "sentence_zh": "我的皮肤对这款抖音爆款面霜严重过敏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "起作用",
+        "examples": [
+          {
+            "sentence": "The medicine finally reacted after three hours.",
+            "sentence_zh": "三小时后药物终于起效了。"
+          },
+          {
+            "sentence": "These two chemicals react violently when mixed.",
+            "sentence_zh": "这两种化学物质混合时会剧烈反应。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "反攻",
+        "examples": [
+          {
+            "sentence": "The Jedi reacted swiftly to the Sith's attack.",
+            "sentence_zh": "绝地武士对西斯进攻迅速反攻。"
+          },
+          {
+            "sentence": "Our esports team needs to react to their jungle invasion.",
+            "sentence_zh": "我们电竞战队必须对他们的野区入侵发起反攻。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "react against",
+        "meaning": "反抗",
+        "examples": [
+          {
+            "sentence": "Gen Z often reacts against traditional workplace culture.",
+            "sentence_zh": "Z世代经常反抗传统职场文化。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "react with",
+        "meaning": "与...发生反应",
+        "examples": [
+          {
+            "sentence": "Sodium reacts with water like TikTok challenges - explosively!",
+            "sentence_zh": "钠与水反应就像抖音挑战——炸裂！"
+          }
+        ]
+      }
+    ],
+    "teach": "react是化学课代表🧪+动作游戏玩家🎮：1) 化学版：就像小苏打遇醋嘶嘶冒泡(react with acid) 2) 游戏版：BOSS出招后你要快速react⚡。'慢半拍'叫slow to react，'过度反应'是overreact像被踩尾巴的猫🐱。记住：生活就像酸碱中和，总要学会react得当！",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐艾克特'→锐哥(react)迅速反击",
+        "易混词：respond侧重回应，react强调动作反馈",
+        "记忆口诀：re反向+act行动=化学反应+行为反馈"
+      ]
+    }
   }
 ]

@@ -16678,5 +16678,291 @@
         "记忆tip：geo+desic=地球(geo)表面设计师(designer)"
       ]
     }
+  },
+  {
+    "word": "geographer",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "graph",
+        "er"
+      ],
+      "meaning_connection": "geo=地球（如Google Earth🌍），graph=写/画（如Instagram📸），-er表人→'画地球的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "地理学者",
+        "examples": [
+          {
+            "sentence": "The geographer used Douyin videos to document disappearing glaciers.",
+            "sentence_zh": "这位地理学者用抖音视频记录消失的冰川。"
+          },
+          {
+            "sentence": "Ancient Chinese geographers drew maps with tea stains and ink.",
+            "sentence_zh": "中国古代地理学者用茶渍和墨水绘制地图。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "urban geographer",
+        "meaning": "城市地理学家",
+        "examples": [
+          {
+            "sentence": "The urban geographer studied why Chengdu has more mahjong parlors than gyms.",
+            "sentence_zh": "这位城市地理学家研究为何成都麻将馆比健身房多。"
+          }
+        ]
+      }
+    ],
+    "teach": "geographer其实是'地球灵魂画手'🗺️：古希腊人用geo指代大地女神盖亚，graph是ins网红同款词根（如photograph）。想吐槽'路痴'说directionally challenged🧭，'活地图'叫human GPS。记住：没有geographer，高德地图只能显示'前方右转进入异世界'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡窝搁这佛'→地理学家在鸡窝研究板块运动🐔",
+        "易混对比：geography（地理学）vs geology（地质学）"
+      ]
+    }
+  },
+  {
+    "word": "geographic",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "graph",
+        "ic"
+      ],
+      "meaning_connection": "词根geo=地球/土地，graph=写/记录，-ic表性质→记录地球特征的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "地理(学)的",
+        "examples": [
+          {
+            "sentence": "The geographic features of Sichuan include spicy hotpot and giant pandas.",
+            "sentence_zh": "四川的地理特征包括麻辣火锅和大型猫熊。"
+          },
+          {
+            "sentence": "This app shows your geographic location with emoji landmarks.",
+            "sentence_zh": "这个应用用表情符号地标显示你的地理位置。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "地区(性)的",
+        "examples": [
+          {
+            "sentence": "Geographic dialects make the word 'mantou' sound different across China.",
+            "sentence_zh": "地区性方言让'馒头'这个词在全中国发音各异。"
+          },
+          {
+            "sentence": "We study geographic price differences of bubble tea.",
+            "sentence_zh": "我们研究珍珠奶茶的地区价格差异。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geographic information system (GIS)",
+        "meaning": "地理信息系统",
+        "examples": [
+          {
+            "sentence": "GIS helps Didi drivers navigate through hutong alleys.",
+            "sentence_zh": "地理信息系统帮助滴滴司机穿梭胡同小巷。"
+          }
+        ]
+      }
+    ],
+    "teach": "geographic其实是'地球纹身师'🌍✏️！geo-像火锅里的九宫格（地理分区），-graph像外卖小哥画地图（记录特征）。说'地方特色'用geographic features就像螺蛳粉的臭味攻击🍜💨，'地域黑'叫geographic discrimination就像豆腐脑甜咸党大战⚔️。记住：你的美团地址就是geographic data宝藏！🗺️",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡窝graphic'→母鸡用爪子画地图",
+        "易混词对比：geographic（地理的） vs geological（地质的）→后者多个'logical'像科学家讲道理"
+      ]
+    }
+  },
+  {
+    "word": "geographical",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "graph",
+        "ical"
+      ],
+      "meaning_connection": "geo=地球（希腊语gē），graph=写/记录（希腊语graphein），-ical=形容词后缀→记录地球特征的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "地理学的",
+        "examples": [
+          {
+            "sentence": "The geographical distribution of pandas shows they're all in China.",
+            "sentence_zh": "熊猫的地理分布显示它们全在中国。"
+          },
+          {
+            "sentence": "His geographical research focuses on disappearing islands.",
+            "sentence_zh": "他的地理学研究专注于正在消失的岛屿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "地理的",
+        "examples": [
+          {
+            "sentence": "WeChat's geographical tagging helps find nearby hotpot restaurants.",
+            "sentence_zh": "微信的地理标记功能能帮你找到附近的火锅店。"
+          },
+          {
+            "sentence": "The Great Wall creates a clear geographical boundary.",
+            "sentence_zh": "长城形成了清晰的地理分界线。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geographical features",
+        "meaning": "地理特征",
+        "examples": [
+          {
+            "sentence": "The geographical features of Tibet attract millions of tourists.",
+            "sentence_zh": "西藏的地理特征吸引了数百万游客。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "geographical location",
+        "meaning": "地理位置",
+        "examples": [
+          {
+            "sentence": "Singapore's geographical location makes it a trading hub.",
+            "sentence_zh": "新加坡的地理位置使其成为贸易枢纽。"
+          }
+        ]
+      }
+    ],
+    "teach": "geographical=用放大镜看地球仪🌍！词根geo是希腊大地女神盖亚的名字（所以地理学家都是'拜地教'😄）。说'地理位置优越'用prime location更地道，'路痴'叫geographically challenged🗺️。搭配记忆：地理隔离→geographical isolation（就像火锅里的鸳鸯锅），地理坐标→geolocation（你外卖定位的科技狠活）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡窝graphical'→鸡窝也要讲地理分布",
+        "易混词对比：geological（地质的）vs geographical（地理的）→前者研究石头，后者研究地图"
+      ]
+    }
+  },
+  {
+    "word": "geographically",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "graph",
+        "ical",
+        "ly"
+      ],
+      "meaning_connection": "geo=地球/土地, graph=写/记录, -ical=形容词后缀, -ly=副词后缀→'以描绘地球的方式'引申为地理层面"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "在地理上",
+        "examples": [
+          {
+            "sentence": "Geographically, Chengdu is closer to the Himalayas than to the sea.",
+            "sentence_zh": "从地理上看，成都离喜马拉雅山比离海更近。"
+          },
+          {
+            "sentence": "The Great Wall snakes geographically along mountain ridges.",
+            "sentence_zh": "长城在地理上沿着山脊蜿蜒。"
+          }
+        ]
+      }
+    ],
+    "teach": "geographically就像用高德地图🗺️看世界：geo（地球）是糯米团子🍡，graph（描绘）是师傅捏它的手👐。说'地理位置优越'用prime location，'偏远地区'叫back of beyond。记住：用geo-开头的词都和大妈跳广场舞的地面有关💃！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡窝搁哪儿飞'→鸡窝搁哪儿(geo)飞都得看地理",
+        "易混词对比：geological（地质的）vs geographical（地理的）→前者研究石头，后者研究地图"
+      ]
+    }
+  },
+  {
+    "word": "geography",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "graphy"
+      ],
+      "meaning_connection": "词根geo=土地/地球，graphy=记录/描述→描述地球特征的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "地理学",
+        "examples": [
+          {
+            "sentence": "Ancient Chinese geography included feng shui theories about dragon veins.",
+            "sentence_zh": "中国古代地理学包含关于龙脉的风水理论。"
+          },
+          {
+            "sentence": "Studying geography helps understand why Sichuan loves spicy food while Guangdong prefers soup.",
+            "sentence_zh": "学习地理能理解为何四川嗜辣而广东爱煲汤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地理（特征）",
+        "examples": [
+          {
+            "sentence": "The geography of Chongqing makes it the 8D magic city with elevators as public transport.",
+            "sentence_zh": "重庆的地理特征使其成为电梯当公交的8D魔幻城市。"
+          },
+          {
+            "sentence": "Japan's island geography explains its obsession with fresh seafood.",
+            "sentence_zh": "日本的岛国地理特征解释了其对生鲜海鲜的执着。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "physical geography",
+        "meaning": "自然地理",
+        "examples": [
+          {
+            "sentence": "The Himalayas belong to physical geography studies.",
+            "sentence_zh": "喜马拉雅山脉属于自然地理研究范畴。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "human geography",
+        "meaning": "人文地理",
+        "examples": [
+          {
+            "sentence": "The spread of bubble tea shops is a classic case of human geography.",
+            "sentence_zh": "奶茶店的扩散是人文地理学的经典案例。"
+          }
+        ]
+      }
+    ],
+    "teach": "地理(geo+graphy)就是地球的'自拍'📸！古希腊人最早用geo-这个词根时，可能正蹲在爱琴海边玩沙子🏖️。'地理决定论'说火锅分布和盆地地形有关🌶️，要吐槽'路痴'可以说：Your mental geography needs GPS update!🗺️ 记住：geo开头的词都接地气（geology地质学/geometry几何学）。",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡熬鸽子飞'→鸡熬汤时鸽子带着地理书飞走了",
+        "易混词对比：geography(地理学) vs geology(地质学) → 前者研究地表，后者研究地心"
+      ]
+    }
   }
 ]

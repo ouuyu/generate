@@ -17567,5 +17567,297 @@
         "易混词：alliance(政治联盟) vs league(竞技联盟)"
       ]
     }
+  },
+  {
+    "word": "leak",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古诺尔斯语'leka'（滴落），拟声词模仿液体滴漏声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "漏洞",
+        "examples": [
+          {
+            "sentence": "That privacy leak exposed 3 million users' hotpot preferences.",
+            "sentence_zh": "那个隐私漏洞泄露了300万用户的火锅口味偏好。"
+          },
+          {
+            "sentence": "The submarine had a leak near the dumpling storage compartment.",
+            "sentence_zh": "潜艇在饺子储藏舱附近出现了漏洞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "漏处",
+        "examples": [
+          {
+            "sentence": "We found the leak in the roof after the third bowl of instant noodles floated by.",
+            "sentence_zh": "当第三碗泡面漂过时，我们发现了屋顶的漏处。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "漏出",
+        "examples": [
+          {
+            "sentence": "The gas leak caused all the pandas in the zoo to start hiccuping.",
+            "sentence_zh": "煤气漏出导致动物园所有熊猫开始打嗝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "泄漏",
+        "examples": [
+          {
+            "sentence": "The celebrity's leaked diet plan consisted entirely of stinky tofu.",
+            "sentence_zh": "那位明星被泄漏的饮食计划全是臭豆腐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "漏",
+        "examples": [
+          {
+            "sentence": "My water bottle leaks when I practice kung fu moves.",
+            "sentence_zh": "我练功夫动作时水壶会漏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "泄漏",
+        "examples": [
+          {
+            "sentence": "News leaked that the Forbidden City will host a breakdancing competition.",
+            "sentence_zh": "消息泄漏故宫将举办街舞大赛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使渗漏",
+        "examples": [
+          {
+            "sentence": "The cat leaked all the soy sauce by knocking over the bottle.",
+            "sentence_zh": "猫打翻瓶子使酱油全部渗漏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "leak out",
+        "meaning": "泄露",
+        "examples": [
+          {
+            "sentence": "The exam answers leaked out through a WeChat group.",
+            "sentence_zh": "考题答案通过微信群泄露了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "spring a leak",
+        "meaning": "出现漏洞",
+        "examples": [
+          {
+            "sentence": "Our hotpot pot sprang a leak during the spicy challenge.",
+            "sentence_zh": "我们的火锅在辣度挑战赛中出现了漏洞。"
+          }
+        ]
+      }
+    ],
+    "teach": "leak是液体界的八卦记者💦！古维京人用leka形容酒桶漏酒（现在用来形容手机漏电⚡）。说'消息走漏'叫The cat is out of the bag（猫从袋子里漏出来了🐱）。搭配：leak like a sieve（漏得像筛子）、plumber's leak（水管工的噩梦🚽）。记住：所有leak最终都会flow到微博上！",
+    "recite": {
+      "tips": [
+        "谐音梗：'李克'→李克(leak)总理说不要泄漏国家机密",
+        "易混词对比：leak（非故意泄漏） vs. release（主动发布）"
+      ]
+    }
+  },
+  {
+    "word": "leakage",
+    "etymology": {
+      "breakdown": [
+        "leak",
+        "age"
+      ],
+      "meaning_connection": "leak（漏洞）+ age（状态后缀）→ 漏出的状态或物质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "漏",
+        "examples": [
+          {
+            "sentence": "The landlord found water leakage stains on the ceiling.",
+            "sentence_zh": "房东发现天花板上有漏水渍痕。"
+          },
+          {
+            "sentence": "A tiny leakage in the submarine could be deadly.",
+            "sentence_zh": "潜水艇上微小的渗漏可能致命。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "漏出物",
+        "examples": [
+          {
+            "sentence": "The lab technician collected radioactive leakage for analysis.",
+            "sentence_zh": "实验室技术员收集放射性泄漏物进行分析。"
+          },
+          {
+            "sentence": "Residents reported an oily leakage from the truck.",
+            "sentence_zh": "居民报告卡车有油状泄漏物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "泄漏",
+        "examples": [
+          {
+            "sentence": "The celebrity's PR team tried to cover up the information leakage.",
+            "sentence_zh": "明星公关团队试图掩盖信息泄漏事件。"
+          },
+          {
+            "sentence": "VPN can prevent data leakage during online shopping.",
+            "sentence_zh": "VPN能防止网购时的数据泄漏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "memory leakage",
+        "meaning": "内存泄漏",
+        "examples": [
+          {
+            "sentence": "The app crash was caused by memory leakage in Android system.",
+            "sentence_zh": "该应用闪退是由安卓系统内存泄漏导致。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "prevent leakage",
+        "meaning": "防泄漏",
+        "examples": [
+          {
+            "sentence": "This thermos uses double-layer design to prevent heat leakage.",
+            "sentence_zh": "这款保温杯采用双层设计防止热量泄漏。"
+          }
+        ]
+      }
+    ],
+    "teach": "leakage是个会'漏'的万金油💦！当它表示物理泄漏时，像奶茶杯底的珍珠逃跑路线🥤；表示信息泄漏时，像微信群里的八卦不胫而走📢；说'防泄漏'用prevent leakage就像给手机贴防窥膜📱。记住：所有泄漏最终都会像藏不住的打嗝声💨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'离柜记'→钱离柜就泄漏",
+        "易混词对比：leak（动词漏） vs leakage（名词泄漏）"
+      ]
+    }
+  },
+  {
+    "word": "leaked",
+    "etymology": {
+      "breakdown": [
+        "leak",
+        "ed"
+      ],
+      "meaning_connection": "leak源自古北欧语'leka'（滴落），-ed表过去分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vbl.",
+        "meaning": "漏的",
+        "examples": [
+          {
+            "sentence": "The leaked milk formed a map of Africa on the table.",
+            "sentence_zh": "漏出的牛奶在桌上形成了非洲地图轮廓。"
+          },
+          {
+            "sentence": "A leaked memo revealed the company's plans to ban afternoon naps.",
+            "sentence_zh": "泄露的备忘录显示公司计划禁止午睡。"
+          }
+        ]
+      }
+    ],
+    "teach": "leaked是互联网时代的暴雨⛈️：就像奶茶杯漏珍珠会留下痕迹🧋，明星八卦被leaked会霸榜热搜🔥。说'消息走漏'用the cat is out of the bag（猫从袋子里跑出来了），'严防泄露'叫plug the leaks像堵住奶茶杯盖的孔🕳️。记住：每个leaked秘密都是瓜田里的猹在狂奔！",
+    "recite": {
+      "tips": [
+        "谐音梗：'离壳的'→鸡蛋离壳就会leaked",
+        "易混词对比：leaked（被动泄露） vs. leaky（持续漏的）"
+      ]
+    }
+  },
+  {
+    "word": "leaking",
+    "etymology": {
+      "breakdown": [
+        "leak",
+        "ing"
+      ],
+      "meaning_connection": "leak源自古北欧语'leka'（滴落），-ing表示进行时或动名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "泄漏",
+        "examples": [
+          {
+            "sentence": "A leaking of classified documents caused chaos in the gaming industry.",
+            "sentence_zh": "机密文件泄漏导致游戏行业大乱。"
+          },
+          {
+            "sentence": "The roof leaking ruined my limited edition sneaker collection.",
+            "sentence_zh": "屋顶漏水毁了我的限量版球鞋收藏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "漏的",
+        "examples": [
+          {
+            "sentence": "My leaking air mattress turned the camping trip into a nightmare.",
+            "sentence_zh": "漏气的充气床垫让露营变成了噩梦。"
+          },
+          {
+            "sentence": "The leaking faucet sounds like a hip-hop beat at 3am.",
+            "sentence_zh": "漏水的水龙头在凌晨三点听起来像嘻哈节奏。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "leaking out",
+        "meaning": "逐渐泄露",
+        "examples": [
+          {
+            "sentence": "News about the celebrity divorce is slowly leaking out.",
+            "sentence_zh": "明星离婚的消息正在慢慢泄露出来。"
+          }
+        ]
+      }
+    ],
+    "teach": "leaking就像你藏不住的秘密🤫！古北欧海盗用'leka'形容船漏水⛵，现代人用它形容手机漏电🔋。说'消息走漏'用leak like a sieve（像筛子一样漏），'完全暴露'叫spring a leak（突然漏了）。记住：任何leaking都会让事情变得像没盖的珍珠奶茶🥤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'离坑'→离开坑就漏水",
+        "易混词：leak（漏） vs. bleak（荒凉的）"
+      ]
+    }
   }
 ]

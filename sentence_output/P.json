@@ -17056,5 +17056,229 @@
         "易混词：provincialism（省域主义）侧重地理，parochialism更重心理"
       ]
     }
+  },
+  {
+    "word": "parody",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "ody"
+      ],
+      "meaning_connection": "前缀para-=旁边/相似，词根ody来自希腊语ōidē(歌曲)→模仿原曲的歌曲"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "打油诗文",
+        "examples": [
+          {
+            "sentence": "The poet wrote a parody of Tang poems using emoji characters.",
+            "sentence_zh": "诗人用表情符号创作了唐诗打油诗。"
+          },
+          {
+            "sentence": "His parody of Li Bai's style went viral on Douyin.",
+            "sentence_zh": "他模仿李白风格的打油诗在抖音爆红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "诙谐的模仿诗文",
+        "examples": [
+          {
+            "sentence": "The Peking Opera parody of Avengers made the audience roar with laughter.",
+            "sentence_zh": "复仇者联盟的京剧版诙谐模仿让观众捧腹。"
+          },
+          {
+            "sentence": "WeChat groups are flooded with parodies of classic poems during Mid-Autumn Festival.",
+            "sentence_zh": "中秋节期间微信群总被经典诗词的诙谐改编刷屏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拙劣的模仿",
+        "examples": [
+          {
+            "sentence": "That so-called 'luxury bag' is just a parody of the real designer product.",
+            "sentence_zh": "那个所谓'奢侈品包'不过是对正品的拙劣模仿。"
+          },
+          {
+            "sentence": "His attempt at Sichuan cuisine was a terrible parody of authentic mapo tofu.",
+            "sentence_zh": "他做的川菜是对正宗麻婆豆腐的灾难性模仿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "拙劣模仿",
+        "examples": [
+          {
+            "sentence": "The comedy show parodied CCTV news broadcast style perfectly.",
+            "sentence_zh": "这档喜剧节目完美拙劣模仿了央视新闻播报风格。"
+          },
+          {
+            "sentence": "She parodied her boss's signature catchphrase at the annual party.",
+            "sentence_zh": "她在年会上滑稽模仿了老板的口头禅。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "作模仿诗文",
+        "examples": [
+          {
+            "sentence": "The writer parodied The Romance of Three Kingdoms with modern office politics.",
+            "sentence_zh": "作者用现代办公室政治改编模仿了三国演义。"
+          },
+          {
+            "sentence": "Students were asked to parody classical poems with internet slang.",
+            "sentence_zh": "学生被要求用网络流行语模仿创作古诗词。"
+          }
+        ]
+      }
+    ],
+    "teach": "parody就像B站的鬼畜视频🎭！从古希腊对史诗的滑稽改编(para+ody)，到如今对《甄嬛传》的方言配音🎤。说'山寨货'可以用cheap parody，'高级黑'叫sophisticated parody。记住：好的parody比原版更洗脑，就像蜜雪冰城主题曲的魔性改编🍦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍弱迪'→拍了个弱化迪士尼的 parody",
+        "易混词对比：parody(戏仿) vs. plagiarism(抄袭)",
+        "记忆口诀：旁边(para)唱(ody)歪调，不是原创是戏仿"
+      ]
+    }
+  },
+  {
+    "word": "parole",
+    "etymology": {
+      "breakdown": [
+        "par",
+        "ole"
+      ],
+      "meaning_connection": "词根par=说话（同paragraph），-ole为名词后缀→原指'通过言语作出的承诺'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "假释",
+        "examples": [
+          {
+            "sentence": "The prisoner got parole after teaching yoga in jail for 5 years.",
+            "sentence_zh": "这名囚犯在监狱教了五年瑜伽后获得假释。"
+          },
+          {
+            "sentence": "Breaking parole conditions will send you back to eating prison food.",
+            "sentence_zh": "违反假释条件会让你回去吃牢饭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "誓言",
+        "examples": [
+          {
+            "sentence": "Medieval knights took parole not to escape during captivity.",
+            "sentence_zh": "中世纪骑士被俘时会立下不逃跑的誓言。"
+          },
+          {
+            "sentence": "His business parole was as reliable as a bitcoin miner's promise.",
+            "sentence_zh": "他的商业誓言就像比特币矿工的承诺一样不可靠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "宣誓后释放",
+        "examples": [
+          {
+            "sentence": "The judge paroled the hacker on condition he teaches cybersecurity.",
+            "sentence_zh": "法官在黑客承诺教授网络安全课程后将其宣誓释放。"
+          },
+          {
+            "sentence": "Pirates were sometimes paroled to become navy consultants.",
+            "sentence_zh": "海盗有时会被宣誓释放转任海军顾问。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on parole",
+        "meaning": "处于假释期",
+        "examples": [
+          {
+            "sentence": "He's streaming games on Douyu while on parole.",
+            "sentence_zh": "他假释期间在斗鱼直播游戏。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "break parole",
+        "meaning": "违反假释规定",
+        "examples": [
+          {
+            "sentence": "Breaking parole to eat hotpot will land you back in jail.",
+            "sentence_zh": "违反假释规定去吃火锅会让你重回监狱。"
+          }
+        ]
+      }
+    ],
+    "teach": "parole是'说话算话'🗣️的终极考验！起源于战俘的honor system（信用释放体系），就像你妈说'写完作业才能玩手机'📱。搭配'on parole'比'缓刑'更高级，地道说法'假释中'叫walking on thin ice（如履薄冰）❄️。记住：parole的本质就是用嘴巴换自由🕊️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕漏'→怕漏(parole)跑要发誓",
+        "易混词：parole（假释）vs patrol（巡逻）→假释的人最怕遇到巡逻"
+      ]
+    }
+  },
+  {
+    "word": "paroxysm",
+    "etymology": {
+      "breakdown": [
+        "para",
+        "oxys",
+        "m"
+      ],
+      "meaning_connection": "前缀para-=超出常规，oxys=尖锐/激烈，-m为名词后缀→原指疾病突然剧烈发作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "（感情/现象的）突发",
+        "examples": [
+          {
+            "sentence": "A paroxysm of laughter erupted when he wore durian socks on stage.",
+            "sentence_zh": "当他穿着榴莲袜子上台时，引发一阵爆笑。"
+          },
+          {
+            "sentence": "The stock market showed paroxysms of volatility during the UFO sighting.",
+            "sentence_zh": "UFO目击事件期间股市出现剧烈波动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "（疾病）发作",
+        "examples": [
+          {
+            "sentence": "Grandpa's sneezing paroxysm always starts with 3 rapid 'achoo's.",
+            "sentence_zh": "爷爷的打喷嚏发作总是以连续三个'阿嚏'开始。"
+          },
+          {
+            "sentence": "The patient experienced nocturnal paroxysms resembling werewolf transformations.",
+            "sentence_zh": "患者夜间发作的症状酷似狼人变身。"
+          }
+        ]
+      }
+    ],
+    "teach": "paroxysm是'暴走'的学术说法⚡！古希腊医生用这个词描述疟疾的忽冷忽热（像在跳科目三💃）。搭配：a paroxysm of anger（怒发冲冠）/ coughing paroxysm（咳到灵魂出窍）。地道说法：go ballistic（字面是导弹发射，表暴怒）。记住：所有突然发作都像被雷神之锤砸到🔨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍摇滚神'→发作时像在拍摇滚MV",
+        "易混词：spasm（肌肉痉挛）vs paroxysm（全面爆发）",
+        "记忆法：para（异常）+oxy（氧气面罩）= 急救室里的突发状况"
+      ]
+    }
   }
 ]

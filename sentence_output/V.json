@@ -17267,5 +17267,262 @@
         "记忆tip：VEX三个字母都带'尖锐角'→像被尖锐物持续戳刺的感觉"
       ]
     }
+  },
+  {
+    "word": "via",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语via，意为'道路'，引申为'通过某种途径'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "prep.",
+        "meaning": "经由",
+        "examples": [
+          {
+            "sentence": "The Silk Road connected China to Europe via Central Asia.",
+            "sentence_zh": "丝绸之路通过中亚连接中国与欧洲。"
+          },
+          {
+            "sentence": "I sent her a love letter via carrier pigeon.",
+            "sentence_zh": "我用信鸽给她寄了封情书。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "prep.",
+        "meaning": "通过",
+        "examples": [
+          {
+            "sentence": "Many people now watch CCTV Spring Festival Gala via Douyin.",
+            "sentence_zh": "如今很多人通过抖音观看央视春晚。"
+          },
+          {
+            "sentence": "We solved the math problem via WeChat group discussion.",
+            "sentence_zh": "我们通过微信群讨论解决了这道数学题。"
+          }
+        ]
+      }
+    ],
+    "teach": "via就像快递单上的路线图🚚！古罗马人沿着via（道路）送信，现代人用via（通过）发微信。要说'通过朋友认识'地道说法是through mutual friends，'转机'叫via就像在机场玩真人版跳一跳✈️。记住：你的外卖via小哥，你的爱情via缘分！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪啊'→路线歪了(via)要绕道",
+        "易混词对比：via（途径）vs. visa（签证）"
+      ]
+    }
+  },
+  {
+    "word": "viability",
+    "etymology": {
+      "breakdown": [
+        "vi",
+        "abil",
+        "ity"
+      ],
+      "meaning_connection": "词根vi=生命（如vitamin），-abil=能够（如ability），-ity=名词后缀→维持生命的能力"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "生存能力",
+        "examples": [
+          {
+            "sentence": "The panda cub's viability depends on zookeepers' 24/7 care.",
+            "sentence_zh": "熊猫幼崽的生存能力依赖饲养员全天候照料。"
+          },
+          {
+            "sentence": "Startup viability is like a toddler walking on a balance beam.",
+            "sentence_zh": "创业公司的生存能力就像幼儿走平衡木。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发育能力",
+        "examples": [
+          {
+            "sentence": "Scientists test seed viability by sprouting them on wet paper towels.",
+            "sentence_zh": "科学家用湿纸巾发芽法测试种子发育能力。"
+          },
+          {
+            "sentence": "The viability of these tulip bulbs surprised the Dutch gardeners.",
+            "sentence_zh": "这些郁金香球茎的发育能力令荷兰园艺师惊讶。"
+          }
+        ]
+      }
+    ],
+    "teach": "viability是生命值进度条🌱！古罗马人用vi（生命）造词时绝对没想到：现代人用它讨论商业计划书（business viability）像讨论盆栽🪴，说'养不活'用not commercially viable就像说多肉又双叒叕死了💀。搭配：economic viability（经济可行性）, viability assessment（生存力评估）。记住：你的存款viability决定你能养活多少爱好！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪脖bility'→歪脖子树也有生存能力",
+        "对比：vitality（活力）vs viability（生存力）→ 前者是电量🔋，后者是续航里程🛣️"
+      ]
+    }
+  },
+  {
+    "word": "viable",
+    "etymology": {
+      "breakdown": [
+        "vi",
+        "able"
+      ],
+      "meaning_connection": "词根vi=生命（来自拉丁语vita），-able表能够→能够存活的生命"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "能养活的",
+        "examples": [
+          {
+            "sentence": "The panda cub is now viable without artificial feeding.",
+            "sentence_zh": "这只熊猫幼崽现在无需人工喂养也能存活。"
+          },
+          {
+            "sentence": "This farming method makes desert areas viable for crops.",
+            "sentence_zh": "这种耕作方式使沙漠地区能够种植作物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "能生长发育的",
+        "examples": [
+          {
+            "sentence": "The startup finally became viable after three years of losses.",
+            "sentence_zh": "这家初创企业在亏损三年后终于能够持续发展了。"
+          },
+          {
+            "sentence": "Only 30% of the seedlings were viable in the harsh climate.",
+            "sentence_zh": "在这种恶劣气候下只有30%的幼苗能够正常生长。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "economically viable",
+        "meaning": "经济上可行的",
+        "examples": [
+          {
+            "sentence": "Electric cars are becoming economically viable in China.",
+            "sentence_zh": "电动汽车在中国正变得经济可行。"
+          }
+        ]
+      }
+    ],
+    "teach": "viable就像手机续航📱！原始意思是'能活'，比如早产儿👶（viable baby）；现在常指商业计划能'续命'💸（viable project）。有趣的是这个词和维生素(vitamin)同源，都来自生命(vita)！说'这事成不了'可以用non-viable，比impossible更专业。搭配：viable option（可行选择）/viable solution（可行方案）",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪脖'→歪脖树也能活(viable)",
+        "易混词对比：vital（至关重要的）vs viable（能存活的）",
+        "记忆链：vitamin→vital→viable 都与'生命'相关"
+      ]
+    }
+  },
+  {
+    "word": "viaduct",
+    "etymology": {
+      "breakdown": [
+        "via",
+        "duct"
+      ],
+      "meaning_connection": "词根via=道路，duct=引导→引导道路跨越障碍的建筑"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "高架桥",
+        "examples": [
+          {
+            "sentence": "The new viaduct in Chongqing looks like a roller coaster at night.",
+            "sentence_zh": "重庆新建的高架桥夜间宛如过山车轨道。"
+          },
+          {
+            "sentence": "Pigeons nest under the viaduct, dodging passing trains.",
+            "sentence_zh": "鸽子在高架桥下筑巢，与飞驰的列车擦肩而过。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "railway viaduct",
+        "meaning": "铁路高架桥",
+        "examples": [
+          {
+            "sentence": "The 30km railway viaduct cuts through the megacity like a steel dragon.",
+            "sentence_zh": "三十公里的铁路高架桥如钢铁巨龙贯穿这座超级都市。"
+          }
+        ]
+      }
+    ],
+    "teach": "viaduct是'空中的路'🛣️！古罗马人用via表示道路（现在GPS还在用），duct就像导管（比如aqueduct引水道）。重庆的'8D魔幻高架'就是现代viaduct代表🚗💨。要说'堵在高架上'地道表达是stuck on the flyover，搭配说'viaduct construction'（高架施工）和'viaduct lighting'（高架景观灯）🌉✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪啊大可'→歪着看高架桥很可怕",
+        "易混词：aqueduct（引水道）只走水，viaduct走车和人",
+        "记忆法：via(路)+duct(引导)=空中引路者"
+      ]
+    }
+  },
+  {
+    "word": "vial",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自古法语fiole（瓶子），最终源自拉丁语phiala（饮器）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "小瓶",
+        "examples": [
+          {
+            "sentence": "The wizard carefully uncorked the glowing blue vial.",
+            "sentence_zh": "巫师小心翼翼地拔开发着蓝光的小瓶塞子。"
+          },
+          {
+            "sentence": "Her perfume collection occupies 20 crystal vials on the dresser.",
+            "sentence_zh": "她的香水收藏占据了梳妆台上的20个水晶小瓶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "装入小瓶",
+        "examples": [
+          {
+            "sentence": "The vaccine is vialsed in sterile environments.",
+            "sentence_zh": "疫苗在无菌环境中被分装入小瓶。"
+          },
+          {
+            "sentence": "They vial dragon's blood with golden syringes in the lab.",
+            "sentence_zh": "他们在实验室里用金色注射器将龙血装入小瓶。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tears in a vial",
+        "meaning": "珍藏的泪水（文学比喻）",
+        "examples": [
+          {
+            "sentence": "The poem describes a widow keeping her tears in a vial.",
+            "sentence_zh": "诗中描述寡妇将泪水保存在小瓶中。"
+          }
+        ]
+      }
+    ],
+    "teach": "vial是魔法师的移动硬盘💾！中世纪的炼金术士用vial装点金石🧪，现在装疫苗💉。哈利波特的记忆瓶叫pensieve，但装福灵剂的才是vial！说'小瓶装万物'用fits the world in a vial，装逼时可以说'I carry my soul in glass vials'（我灵魂寄存玻璃瓶）✨🧴⚗️",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪哦'→歪掉的药瓶(vial)",
+        "易混词对比：vial vs. violin（小提琴装不进vial）"
+      ]
+    }
   }
 ]

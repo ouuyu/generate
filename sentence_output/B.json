@@ -16610,5 +16610,256 @@
         "易混词：cellar专指地窖，basement是整层地下室"
       ]
     }
+  },
+  {
+    "word": "bash",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词起源，模仿重击声响"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "猛击",
+        "examples": [
+          {
+            "sentence": "He bashed the watermelon open with his fist like a kung fu master.",
+            "sentence_zh": "他像功夫大师般用拳头猛击开西瓜。"
+          },
+          {
+            "sentence": "The hailstones bashed against our windows during the storm.",
+            "sentence_zh": "暴风雨中冰雹猛击着我们的窗户。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "打坏",
+        "examples": [
+          {
+            "sentence": "My little brother accidentally bashed my PS5 controller while dancing.",
+            "sentence_zh": "弟弟跳舞时不小心打坏了我的PS5手柄。"
+          },
+          {
+            "sentence": "The delivery guy bashed the package marked 'Fragile'.",
+            "sentence_zh": "快递员打坏了标着'易碎品'的包裹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "猛撞",
+        "examples": [
+          {
+            "sentence": "The car door got a huge bash from the shopping cart.",
+            "sentence_zh": "购物车给车门造成了巨大猛撞。"
+          },
+          {
+            "sentence": "That bash on my head came from a falling durian.",
+            "sentence_zh": "我头上的猛撞来自掉落的榴莲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "猛击",
+        "examples": [
+          {
+            "sentence": "One bash from Thor's hammer created a crater.",
+            "sentence_zh": "雷神之锤的猛击造成了一个大坑。"
+          },
+          {
+            "sentence": "The boxer's final bash knocked out his opponent.",
+            "sentence_zh": "拳击手的最后一记猛击使对手昏迷。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bash in",
+        "meaning": "砸碎",
+        "examples": [
+          {
+            "sentence": "Burglars bashed in the jewelry store window.",
+            "sentence_zh": "盗贼砸碎了珠宝店的橱窗。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "have a bash",
+        "meaning": "尝试",
+        "examples": [
+          {
+            "sentence": "Why not have a bash at making Sichuan hotpot?",
+            "sentence_zh": "何不尝试做四川火锅？"
+          }
+        ]
+      }
+    ],
+    "teach": "bash就像绿巨人发飙💥！这个拟声词自带'砰！'的音效🎵，从打地鼠游戏（bash the mole）到春节砸金蛋（bash the egg），暴力又欢乐🤹。说'尝试'用have a bash就像说'让我锤一锤'🔨，而电脑极客说的Bash shell其实是'温柔敲键盘版'的bash⌨️。记住：真实的bash会留下凹痕，人生的bash会留下回忆！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拜石'→拜石头才能猛击",
+        "易混词：smash(粉碎性击打)/ punch(精准击打)"
+      ]
+    }
+  },
+  {
+    "word": "bashful",
+    "etymology": {
+      "breakdown": [
+        "bash",
+        "ful"
+      ],
+      "meaning_connection": "古英语bæsc=尴尬的，-ful=充满...的→充满尴尬状态的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "害羞的",
+        "examples": [
+          {
+            "sentence": "The bashful panda hid behind bamboo when tourists took photos.",
+            "sentence_zh": "害羞的熊猫在游客拍照时躲到竹子后面。"
+          },
+          {
+            "sentence": "He became bashful when receiving compliments on his new haircut.",
+            "sentence_zh": "被夸奖新发型时他变得害羞起来。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bashful smile",
+        "meaning": "腼腆的微笑",
+        "examples": [
+          {
+            "sentence": "She gave a bashful smile while accepting the award.",
+            "sentence_zh": "她领奖时露出腼腆的微笑。"
+          }
+        ]
+      }
+    ],
+    "teach": "bashful就像被班主任点名的小学生👶！这个词来自古英语的'尴尬'(bash)，想象被当众夸奖时脚趾抠出三室一厅🏠的场面。说'害羞到爆'可以叫shy as a mimosa（含羞草级害羞），搭配'bashful glance'(偷瞄)/'bashful reply'(怯生生回答)。记住：bashful是又甜又怂的害羞，像奶茶里突然沉底的珍珠🥤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白食福'→白吃宴席时害羞的表情",
+        "易混词对比：shy(普通害羞) / bashful(带扭捏感的害羞)"
+      ]
+    }
+  },
+  {
+    "word": "bashfully",
+    "etymology": {
+      "breakdown": [
+        "bashful",
+        "ly"
+      ],
+      "meaning_connection": "形容词bashful（害羞的）+副词后缀-ly"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "忸怩地",
+        "examples": [
+          {
+            "sentence": "The panda cub hid bashfully behind its mother when tourists took photos.",
+            "sentence_zh": "当游客拍照时，熊猫幼崽扭捏地躲在妈妈身后。"
+          },
+          {
+            "sentence": "He bashfully twisted the corner of his shirt while confessing his love.",
+            "sentence_zh": "他告白时忸怩地绞着衣角。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "羞怯地",
+        "examples": [
+          {
+            "sentence": "The AI assistant answered bashfully when complimented on its humor.",
+            "sentence_zh": "当被夸赞幽默时，AI助手羞怯地回应。"
+          },
+          {
+            "sentence": "She bashfully accepted the award with flushed cheeks.",
+            "sentence_zh": "她双颊通红地羞怯接过了奖项。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "害羞地",
+        "examples": [
+          {
+            "sentence": "The kitten peeked bashfully from under the couch.",
+            "sentence_zh": "小猫害羞地从沙发底下偷看。"
+          },
+          {
+            "sentence": "My nephew bashfully showed me his crayon drawing of a dragon.",
+            "sentence_zh": "侄子害羞地给我看他画的蜡笔小龙。"
+          }
+        ]
+      }
+    ],
+    "teach": "bashfully就像微信表情包里的[脸红]🐼！这个词自带萌属性：想象抖音网红被夸时捂脸跑开的画面📸，或者熊猫崽啃竹子时偷瞄你的样子🎋。说'害羞到爆'可以用shy to death，'装害羞'叫play coy。记住：真正的bashful连emoji都会发烫🌡️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白食佛里'→白吃斋饭的和尚害羞地(bashfully)低头",
+        "易混词：shyly（天生内向）vs bashfully（带可爱感的害羞）",
+        "场景记忆：想象第一次见相亲对象搓手手的表情"
+      ]
+    }
+  },
+  {
+    "word": "bashing",
+    "etymology": {
+      "breakdown": [
+        "bash",
+        "ing"
+      ],
+      "meaning_connection": "bash源于拟声词，模拟击打声，-ing表名词化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "猛击",
+        "examples": [
+          {
+            "sentence": "The boxer's bashing left his opponent dizzy.",
+            "sentence_zh": "拳击手的猛击让对手头晕目眩。"
+          },
+          {
+            "sentence": "Neighbors complained about the bashing sounds from the renovation.",
+            "sentence_zh": "邻居们投诉装修的敲击声太吵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "抨击",
+        "examples": [
+          {
+            "sentence": "The celebrity faced online bashing after the scandal.",
+            "sentence_zh": "丑闻后该明星遭到网友猛烈抨击。"
+          },
+          {
+            "sentence": "Political bashing during elections is as common as dumplings during Spring Festival.",
+            "sentence_zh": "选举时的政治抨击就像春节饺子一样常见。"
+          }
+        ]
+      }
+    ],
+    "teach": "bashing是键盘侠的拳击手套🥊+矿工的铁镐⛏️！网上骂战叫keyboard bashing（键盘猛击），就像愤怒地砸键盘⌨️；说'被全网黑'用地道表达get bashed left and right。记住：现实的bashing会留淤青，网络的bashing会留差评🌟！搭配：take bashing（挨骂）/give sb a bashing（痛批）",
+    "recite": {
+      "tips": [
+        "谐音梗：'白猩'→白猩猩(bashing)捶胸口",
+        "易混词对比：crash（撞击）vs bash（猛击）前者更强调破坏性"
+      ]
+    }
   }
 ]

@@ -16686,5 +16686,325 @@
         "对比：announced（普通通知）vs declared（正式公告）"
       ]
     }
+  },
+  {
+    "word": "decline",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "clin",
+        "e"
+      ],
+      "meaning_connection": "前缀de-表示'向下'，词根clin表示'倾斜'→原指身体或物体向下弯曲，引申出'下降'和'拒绝'两种含义。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "衰退",
+        "examples": [
+          {
+            "sentence": "The decline of Blockbuster is a classic case study in business schools.",
+            "sentence_zh": "百视达的衰退是商学院经典案例。"
+          },
+          {
+            "sentence": "WeChat's active users show no sign of decline.",
+            "sentence_zh": "微信活跃用户数未见衰退迹象。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "跌落",
+        "examples": [
+          {
+            "sentence": "A sudden decline in blood pressure requires immediate attention.",
+            "sentence_zh": "血压突然跌落需要立即处理。"
+          },
+          {
+            "sentence": "The stock market decline wiped out his bitcoin profits.",
+            "sentence_zh": "股市暴跌抹去了他的比特币收益。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使降低",
+        "examples": [
+          {
+            "sentence": "She declined her voice when mentioning the surprise party.",
+            "sentence_zh": "提到惊喜派对时她压低了声音。"
+          },
+          {
+            "sentence": "The app declines screen brightness automatically at night.",
+            "sentence_zh": "这款应用夜间会自动降低屏幕亮度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "婉谢",
+        "examples": [
+          {
+            "sentence": "He declined the interview invitation politely via WeChat.",
+            "sentence_zh": "他通过微信婉拒了采访邀请。"
+          },
+          {
+            "sentence": "I had to decline the hotpot offer because of sore throat.",
+            "sentence_zh": "因为嗓子疼不得不婉拒火锅邀请。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "下降",
+        "examples": [
+          {
+            "sentence": "Temperatures will decline sharply after the typhoon.",
+            "sentence_zh": "台风过后气温将急剧下降。"
+          },
+          {
+            "sentence": "Didi's market share is declining due to competition.",
+            "sentence_zh": "滴滴市场份额因竞争正在下降。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on the decline",
+        "meaning": "在衰退中",
+        "examples": [
+          {
+            "sentence": "DVD players are definitely on the decline.",
+            "sentence_zh": "DVD播放机绝对在走下坡路。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "decline and fall",
+        "meaning": "衰亡",
+        "examples": [
+          {
+            "sentence": "The book analyzes the decline and fall of Nokia.",
+            "sentence_zh": "这本书分析诺基亚的衰亡史。"
+          }
+        ]
+      }
+    ],
+    "teach": "decline是人生过山车🎢！当它表示'下降'时，就像双十一后的银行卡余额📉（sharp decline）；表示'婉拒'时，就像谢绝长辈给你的相亲对象💔（politely decline）；'衰退'时像被遗忘的共享单车🌧️（economic decline）。地道说法：'断崖式下跌'叫precipitous decline，'委婉拒绝'用decline with thanks🍵",
+    "recite": {
+      "tips": [
+        "谐音梗：'低快来'→股价低快来(decline)抄底",
+        "易混词对比：refuse更强硬，decline更委婉",
+        "记忆tip：de（下）+cline（倾斜）=向下倾斜"
+      ]
+    }
+  },
+  {
+    "word": "declining",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "clin",
+        "ing"
+      ],
+      "meaning_connection": "前缀de-表示'向下'，词根clin表示'倾斜'，-ing形成现在分词/形容词→原指向下倾斜的动作，引申为'衰退'状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "倾斜的",
+        "examples": [
+          {
+            "sentence": "The Leaning Tower of Pisa has a declining angle of 3.97 degrees.",
+            "sentence_zh": "比萨斜塔有3.97度的倾斜角度。"
+          },
+          {
+            "sentence": "Ancient Chinese pagodas sometimes have intentionally declining roofs for drainage.",
+            "sentence_zh": "中国古代宝塔的屋檐常刻意设计成倾斜角度以便排水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "衰退中的",
+        "examples": [
+          {
+            "sentence": "Panda populations are no longer declining thanks to conservation efforts.",
+            "sentence_zh": "由于保护措施，熊猫数量已不再衰退。"
+          },
+          {
+            "sentence": "The declining popularity of bubble tea reflects changing youth trends.",
+            "sentence_zh": "奶茶人气衰退反映了年轻人喜好的变化。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "declining years",
+        "meaning": "晚年",
+        "examples": [
+          {
+            "sentence": "In his declining years, the calligrapher still practiced writing daily.",
+            "sentence_zh": "这位书法家在晚年仍坚持每日练字。"
+          }
+        ]
+      }
+    ],
+    "teach": "declining是人生抛物线📉：物理上像比萨斜塔🍕（declining tower），经济上像双11后的钱包💸（declining balance）。搭配'declining market'指熊市🐻，'declining health'要说成go downhill（像下坡路⛰️）。记住：所有斜塔终将停止倾斜，但你的发际线可能不会😭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'低可乐宁'→低可乐销量(declining)导致股价下跌",
+        "易混词对比：descending（垂直下降）vs declining（缓慢衰退）",
+        "联想记忆：clin-词根与recline（斜靠椅）同源"
+      ]
+    }
+  },
+  {
+    "word": "decode",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "code"
+      ],
+      "meaning_connection": "前缀de-表示'去除/反向'，code=密码→反向破解密码"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "解码",
+        "examples": [
+          {
+            "sentence": "Archaeologists decoded the oracle bone script using AI algorithms.",
+            "sentence_zh": "考古学家用AI算法解码甲骨文。"
+          },
+          {
+            "sentence": "My grandma can't decode the QR code on her red envelope.",
+            "sentence_zh": "我奶奶不会扫红包上的二维码。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "译解",
+        "examples": [
+          {
+            "sentence": "Linguists are decoding the emoji messages sent by Gen Z.",
+            "sentence_zh": "语言学家正在破译Z世代发送的emoji信息。"
+          },
+          {
+            "sentence": "The AI decoded the ancient poem into modern Mandarin.",
+            "sentence_zh": "人工智能将古诗译解成现代白话文。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "decode the message",
+        "meaning": "破解信息",
+        "examples": [
+          {
+            "sentence": "The meme group spent hours decoding the hidden message in the viral video.",
+            "sentence_zh": "表情包小组花了数小时破解爆红视频里的隐藏信息。"
+          }
+        ]
+      }
+    ],
+    "teach": "decode就像拆快递📦！前缀de-是'拆开'动作，code就是那层密码胶带。古代用'阴符'兵书加密📜，现代用'蜜雪冰城'主题曲当密码🔑。'破解密码'说crack the code，'脑回路清奇'叫hard to decode🤯。记住：生活处处需解码，老板眼神最复杂！",
+    "recite": {
+      "tips": [
+        "谐音梗：'敌寇的'→破解敌寇的密码",
+        "易混词对比：decode（解码）vs. encode（编码）→像扫码枪的收/发模式"
+      ]
+    }
+  },
+  {
+    "word": "decoder",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "code",
+        "er"
+      ],
+      "meaning_connection": "前缀de-表示'反向'，code指'代码'，-er表示'人或工具'→反向破解代码的人或装置"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "译电员",
+        "examples": [
+          {
+            "sentence": "The decoder successfully translated the enemy's cipher during WWII.",
+            "sentence_zh": "这位译电员在二战期间成功破译了敌人的密码。"
+          },
+          {
+            "sentence": "Modern decoders need both linguistic skills and mathematical talents.",
+            "sentence_zh": "现代译电员需要语言能力和数学天赋兼备。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "译码器",
+        "examples": [
+          {
+            "sentence": "This Bluetooth decoder can transform signals into music.",
+            "sentence_zh": "这个蓝牙译码器能把信号转换成音乐。"
+          },
+          {
+            "sentence": "Ancient Chinese 'Tiger Tallies' were physical decoders for military orders.",
+            "sentence_zh": "古代中国的虎符就是军事命令的实体译码器。"
+          }
+        ]
+      }
+    ],
+    "teach": "decoder是现实版谍战片主角🕵️！最初指《模仿游戏》里破译恩尼格玛密码的图灵🔐，现在连你家机顶盒都是数字decoder📺。搭配'video decoder'（视频解码器）和'mind decoder'（读心术夸张说法），地道表达'crack the code'（破解密码）就像拆盲盒时猜中隐藏款🎁。记住：每个程序员都是当代decoder💻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'敌寇的'→破译敌寇的密码",
+        "易混词对比：encoder（编码器）vs decoder（解码器）像打包快递vs拆快递",
+        "记忆tip：de（打开）+code（密码）+r（人）= 开锁专家"
+      ]
+    }
+  },
+  {
+    "word": "decoding",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "code",
+        "ing"
+      ],
+      "meaning_connection": "前缀de-表'反向'，code=编码，-ing表动作→逆向解构编码的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "解码",
+        "examples": [
+          {
+            "sentence": "Ancient script decoding requires both linguistics and archaeology knowledge.",
+            "sentence_zh": "古代文字解码需要语言学与考古学双重知识。"
+          },
+          {
+            "sentence": "The AI's meme decoding ability surprises netizens.",
+            "sentence_zh": "AI的表情包解码能力震惊网友。"
+          }
+        ]
+      }
+    ],
+    "teach": "decoding就像拆快递📦！从甲骨文破译到破解女友的'嗯=生气'密码🔐，本质都是把加密信息变回薯片（原始信息）🍟。程序员说'decode this'像在玩密室逃脱，而'cultural decoding'则是理解奶茶名称背后的梗（比如'暴打柠檬'🍋）。记住：生活处处需要decode技能！",
+    "recite": {
+      "tips": [
+        "谐音梗：'敌寇定'→破译敌方密码",
+        "对比：encoding（编码）是打包快递，decoding是拆快递"
+      ]
+    }
   }
 ]

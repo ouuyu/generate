@@ -17496,5 +17496,307 @@
         "易混词：characteristic（内在特性）vs feature（外在特点）"
       ]
     }
+  },
+  {
+    "word": "feathery",
+    "etymology": {
+      "breakdown": [
+        "feather",
+        "y"
+      ],
+      "meaning_connection": "feather=羽毛，-y为形容词后缀表示'具有...特性的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "生有羽毛的",
+        "examples": [
+          {
+            "sentence": "The archaeopteryx had feathery wings resembling modern birds.",
+            "sentence_zh": "始祖鸟长着类似现代鸟类的羽翼。"
+          },
+          {
+            "sentence": "Her Halloween costume included feathery angel wings from Taobao.",
+            "sentence_zh": "她的万圣节服装包含淘宝买的羽毛天使翅膀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "柔软如羽毛的",
+        "examples": [
+          {
+            "sentence": "This feathery duvet makes me sleep like a panda.",
+            "sentence_zh": "这床羽绒被让我睡得像熊猫一样香。"
+          },
+          {
+            "sentence": "The baker decorated the cake with feathery coconut flakes.",
+            "sentence_zh": "烘焙师用蓬松的椰蓉装饰蛋糕。"
+          }
+        ]
+      }
+    ],
+    "teach": "feathery是羽毛(feather)变来的形容词🪶！古人用羽毛笔写字✍️（feathery quill），现代人用羽绒被(feathery duvet)取暖。形容'轻飘飘'可以说light as feather，'蓬松发型'叫feathery haircut就像炸毛的麻雀🐦。记住：-y结尾常把名词变形容词，比如sunny/rainy！",
+    "recite": {
+      "tips": [
+        "谐音梗：'飞得累'→羽毛(feathery)飞累了就软趴趴",
+        "对比记忆：feathery vs. leathery（皮革般坚硬的）"
+      ]
+    }
+  },
+  {
+    "word": "featured",
+    "etymology": {
+      "breakdown": [
+        "feat",
+        "ure",
+        "ed"
+      ],
+      "meaning_connection": "词根feat=制造/形状（与fabric同源），-ure表名词后缀，-ed表形容词→原指'被塑造出的形态'，后引申为'容貌特征'和'特色内容'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "面貌秀丽的",
+        "examples": [
+          {
+            "sentence": "The featured actress in this drama has delicate fox-like eyes.",
+            "sentence_zh": "这部剧的女主角长着精致的狐狸眼。"
+          },
+          {
+            "sentence": "Tang Dynasty paintings often depict featured ladies with round faces.",
+            "sentence_zh": "唐代绘画常描绘面庞圆润的丽人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "被作为特色的",
+        "examples": [
+          {
+            "sentence": "This featured restaurant on Dianping serves exploding chili crayfish.",
+            "sentence_zh": "大众点评的推荐餐厅供应爆辣小龙虾。"
+          },
+          {
+            "sentence": "The featured product today is a self-heating hotpot comb.",
+            "sentence_zh": "今日主推商品是自热火锅套餐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "featured content",
+        "meaning": "精选内容",
+        "examples": [
+          {
+            "sentence": "Douyin's featured content changes every 15 minutes.",
+            "sentence_zh": "抖音的精选内容每15分钟更新一次。"
+          }
+        ]
+      }
+    ],
+    "teach": "featured是个'两面派'单词🎭！表示'美貌'时像故宫文创美妆💄（featured packaging），表示'特色'时像淘宝首页推荐位🛒（featured items）。古代欧洲贵族用featured形容'五官如雕塑'🗿，现代小编用featured表示'流量加持'📈。记住：你的颜值和才华，总有一个能get featured！",
+    "recite": {
+      "tips": [
+        "谐音梗：'妃妾的'→古代妃妾(featured)需容貌出众",
+        "易混词对比：featured（被展示的） vs. characteristic（内在特性的）"
+      ]
+    }
+  },
+  {
+    "word": "featureless",
+    "etymology": {
+      "breakdown": [
+        "feature",
+        "less"
+      ],
+      "meaning_connection": "feature=特征/特色，-less=缺乏→缺乏特征的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无特色的",
+        "examples": [
+          {
+            "sentence": "The featureless skyline made the city look like a giant spreadsheet.",
+            "sentence_zh": "毫无特色的天际线让城市看起来像张巨型表格。"
+          },
+          {
+            "sentence": "His featureless resume was rejected by all tech giants.",
+            "sentence_zh": "他那毫无亮点的简历被所有科技巨头拒绝了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "平凡的",
+        "examples": [
+          {
+            "sentence": "That featureless instant noodle became popular during quarantine.",
+            "sentence_zh": "那款平平无奇的泡面在隔离期间突然爆红。"
+          },
+          {
+            "sentence": "The AI-generated landscape was strangely featureless yet calming.",
+            "sentence_zh": "AI生成的风景有种奇怪的平凡感却又令人平静。"
+          }
+        ]
+      }
+    ],
+    "teach": "featureless就是'大众脸'👤的终极形态！就像淘宝爆款手机壳📱（featureless design），或是食堂万年不变的炒青菜🥬（featureless taste）。要说'毫无特色'可以用vanilla（原味冰淇淋🍦），搭配用'featureless landscape像没开滤镜的自拍'，记住：当你说something is featureless，等于在发'好人卡'💌！",
+    "recite": {
+      "tips": [
+        "谐音梗：'废车累死'→废车(feature)累死(less)跑不动当然平凡",
+        "对比记忆：featured（有特色的）vs featureless（无特色的）像滤镜前后对比照"
+      ]
+    }
+  },
+  {
+    "word": "febrile",
+    "etymology": {
+      "breakdown": [
+        "febr",
+        "ile"
+      ],
+      "meaning_connection": "词根febr源自拉丁语febris（发烧），-ile表示'与...相关的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "发热的",
+        "examples": [
+          {
+            "sentence": "The child's febrile condition required immediate sponge baths.",
+            "sentence_zh": "孩子发热的状况需要立即进行海绵擦浴。"
+          },
+          {
+            "sentence": "Her febrile cheeks glowed like overripe peaches in the dim light.",
+            "sentence_zh": "在昏暗灯光下，她发热的脸颊像熟透的桃子般发红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "热病的",
+        "examples": [
+          {
+            "sentence": "Doctors wore special masks during the febrile epidemic.",
+            "sentence_zh": "医生在热病流行期间佩戴特殊口罩。"
+          },
+          {
+            "sentence": "Ancient texts describe febrile seasons when miasma filled the air.",
+            "sentence_zh": "古籍记载过空气中充满瘴气的热病季节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "热性的",
+        "examples": [
+          {
+            "sentence": "This febrile herb is banned in summer according to TCM theory.",
+            "sentence_zh": "根据中医理论，这种热性草药在夏季禁用。"
+          },
+          {
+            "sentence": "The febrile nature of durian makes it unsuitable for people with heat constitution.",
+            "sentence_zh": "榴莲的热性特质使其不适合体热人群食用。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "febrile seizure",
+        "meaning": "高热惊厥",
+        "examples": [
+          {
+            "sentence": "The baby's first febrile seizure terrified the new parents.",
+            "sentence_zh": "宝宝的首次高热惊厥吓坏了新手父母。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "febrile response",
+        "meaning": "发热反应",
+        "examples": [
+          {
+            "sentence": "Vaccination may cause mild febrile response in children.",
+            "sentence_zh": "疫苗接种可能引起儿童轻微的发热反应。"
+          }
+        ]
+      }
+    ],
+    "teach": "febrile是体温计🌡️里的拉丁幽灵！古罗马人认为发烧(febris)是恶魔在血液里跳舞💃，现代医学发现这是免疫系统在开派对🎉。说'烧得像火锅'可以用burning up，'低烧'叫run a temperature。记住：febrile的前半截和February（二月）同源——古罗马人认为这是净化身体的发热月❄️🔥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肺不来'→肺部发炎发热所以罢工",
+        "易混词：fever（发烧症状）/ febrile（发烧相关）",
+        "记忆tip：联想FEB=Fire Energy Burning（燃烧的火能量）"
+      ]
+    }
+  },
+  {
+    "word": "feckless",
+    "etymology": {
+      "breakdown": [
+        "feck",
+        "less"
+      ],
+      "meaning_connection": "来自苏格兰语feck(效果)+否定后缀-less→字面意思是'没有效果的'，引申为无能/不负责任"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "无效的",
+        "examples": [
+          {
+            "sentence": "The feckless air conditioner just blew hot air during the heatwave.",
+            "sentence_zh": "这台无效的空调在热浪期间只会吹热风。"
+          },
+          {
+            "sentence": "All his feckless attempts to lose weight ended in midnight hotpot.",
+            "sentence_zh": "他所有无效的减肥尝试都以深夜火锅告终。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无能的",
+        "examples": [
+          {
+            "sentence": "The feckless intern accidentally sent memes to the CEO.",
+            "sentence_zh": "那个无能的实习生不小心把表情包发给了CEO。"
+          },
+          {
+            "sentence": "Feckless at cooking, he managed to burn instant noodles.",
+            "sentence_zh": "他烹饪无能，居然把泡面煮糊了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不负责任的",
+        "examples": [
+          {
+            "sentence": "His feckless promise to walk the dog lasted exactly one day.",
+            "sentence_zh": "他不负责任的遛狗承诺只坚持了一天。"
+          },
+          {
+            "sentence": "The feckless driver parked across three charging spots.",
+            "sentence_zh": "那个不负责任的司机横占了三个充电车位。"
+          }
+        ]
+      }
+    ],
+    "teach": "feckless是'废柴本柴'🤦♂️！词源像被抽走电池的玩具🔋(feck-less)。说人'不靠谱'可以用feckless colleague（像总忘保存文件的同事💻），'摆烂'叫feckless attitude（像承诺减肥却狂炫奶茶🍹）。记住：当你的健身卡变成洗澡卡时，你就feckless了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'废壳乐死'→废物的外壳快乐至死",
+        "易混词：reckless(鲁莽的) vs feckless(无能的)"
+      ]
+    }
   }
 ]

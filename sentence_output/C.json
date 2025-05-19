@@ -16188,5 +16188,369 @@
         "易混词：captain（具体的人） vs captaincy（抽象职位）"
       ]
     }
+  },
+  {
+    "word": "captain",
+    "etymology": {
+      "breakdown": [
+        "cap",
+        "tain"
+      ],
+      "meaning_connection": "词根cap=head（头），tain=holder（持有者）→字面意思是'抓头的人'，引申为领导者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "船长",
+        "examples": [
+          {
+            "sentence": "The captain shouted 'All hands on deck!' during the storm.",
+            "sentence_zh": "暴风雨中船长大喊'全体船员甲板集合！'"
+          },
+          {
+            "sentence": "Captain Jack Sparrow always carries a bottle of rum.",
+            "sentence_zh": "杰克·斯派罗船长总是带着一瓶朗姆酒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "指挥官",
+        "examples": [
+          {
+            "sentence": "The police captain coordinated the rescue operation.",
+            "sentence_zh": "警察指挥官协调了救援行动。"
+          },
+          {
+            "sentence": "Captain America's shield is made of vibranium.",
+            "sentence_zh": "美国队长的盾牌是用振金制作的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "海军上校",
+        "examples": [
+          {
+            "sentence": "The promotion made him the youngest captain in naval history.",
+            "sentence_zh": "这次晋升使他成为海军史上最年轻的上校。"
+          },
+          {
+            "sentence": "Captain's insignia features four gold stripes.",
+            "sentence_zh": "海军上校的肩章有四道金杠。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "首领",
+        "examples": [
+          {
+            "sentence": "He was elected captain of the football team by teammates.",
+            "sentence_zh": "他被队友们推选为足球队队长。"
+          },
+          {
+            "sentence": "The debate team captain prepared 100 rebuttal cards.",
+            "sentence_zh": "辩论队队长准备了100张反驳卡片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "率领",
+        "examples": [
+          {
+            "sentence": "She will captain the expedition to the South Pole.",
+            "sentence_zh": "她将率领南极探险队。"
+          },
+          {
+            "sentence": "The veteran captained the rookie pilots through the mission.",
+            "sentence_zh": "这位老兵带领新飞行员完成了任务。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "指挥",
+        "examples": [
+          {
+            "sentence": "Admiral Nelson captained HMS Victory at Trafalgar.",
+            "sentence_zh": "纳尔逊上将在特拉法尔加海战中指挥胜利号。"
+          },
+          {
+            "sentence": "Who will captain the orchestra for this symphony?",
+            "sentence_zh": "谁将指挥乐团演奏这首交响曲？"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "captain of industry",
+        "meaning": "工业巨头",
+        "examples": [
+          {
+            "sentence": "Elon Musk is considered a modern captain of industry.",
+            "sentence_zh": "埃隆·马斯克被视为当代工业巨头。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "captain's chair",
+        "meaning": "船长椅",
+        "examples": [
+          {
+            "sentence": "The antique captain's chair was sold for $50,000.",
+            "sentence_zh": "这把古董船长椅以五万美元成交。"
+          }
+        ]
+      }
+    ],
+    "teach": "captain是'带头大哥'👑！从海盗船长的木质假腿🏴‍☠️，到《星际迷航》里柯克船长的太空椅🪐，再到奶茶店的'值班队长'🧋（shift captain），所有带头人物都适用。说'掌舵人'可用the captain of the ship（字面或比喻）。三个精准场景：1）航班机长叫captain 2）餐厅领班叫captain 3）《英雄联盟》战队队长也叫captain！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶挺'→船长开香槟庆祝",
+        "易混词：chief（部落首领）/commander（军事指挥官）",
+        "记忆tip：captain和capital（首都）都来自'头'的概念"
+      ]
+    }
+  },
+  {
+    "word": "caption",
+    "etymology": {
+      "breakdown": [
+        "cap",
+        "tion"
+      ],
+      "meaning_connection": "词根cap=抓住/头部（如capital首都），-tion表名词→抓住内容核心的表述"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "说明文字",
+        "examples": [
+          {
+            "sentence": "The museum caption explains this dinosaur fossil was found in Sichuan.",
+            "sentence_zh": "博物馆说明文称这具恐龙化石发现于四川。"
+          },
+          {
+            "sentence": "Always read the safety caption before using new skincare products.",
+            "sentence_zh": "使用新护肤品前务必阅读安全说明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "字幕",
+        "examples": [
+          {
+            "sentence": "C-drama fans rely on English captions to understand historical terms.",
+            "sentence_zh": "国剧爱好者依赖英文字幕理解历史术语。"
+          },
+          {
+            "sentence": "The auto-generated captions turned 'Peking Opera' into 'Beijing Duck'.",
+            "sentence_zh": "自动生成字幕把'京剧'识别成了'北京烤鸭'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "标题",
+        "examples": [
+          {
+            "sentence": "WeChat article captions must grab attention within 0.3 seconds.",
+            "sentence_zh": "微信公众号标题必须在0.3秒内吸引注意力。"
+          },
+          {
+            "sentence": "The viral video's caption was 'When hotpot fights back'.",
+            "sentence_zh": "那个爆火视频的标题是《当火锅反击时》。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "添加标题",
+        "examples": [
+          {
+            "sentence": "She captioned her Douyin video 'Try not to laugh challenge'.",
+            "sentence_zh": "她给抖音视频加了个《忍住别笑挑战》的标题。"
+          },
+          {
+            "sentence": "Ancient Chinese paintings were often captioned with poetic couplets.",
+            "sentence_zh": "中国古画常以诗句题跋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "添加说明",
+        "examples": [
+          {
+            "sentence": "The archaeologist captioned the artifact with its dynasty and usage.",
+            "sentence_zh": "考古学家为文物标注了朝代和用途说明。"
+          },
+          {
+            "sentence": "Remember to caption your WeChat Moments photos for context.",
+            "sentence_zh": "发朋友圈照片记得添加文字说明。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "closed caption",
+        "meaning": "隐藏式字幕",
+        "examples": [
+          {
+            "sentence": "International students use closed captions to learn slang.",
+            "sentence_zh": "留学生用隐藏字幕学习俚语。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "caption contest",
+        "meaning": "配文大赛",
+        "examples": [
+          {
+            "sentence": "The panda meme caption contest got 100k entries in 2 hours.",
+            "sentence_zh": "熊猫表情包配文大赛两小时内收到10万投稿。"
+          }
+        ]
+      }
+    ],
+    "teach": "caption就像文字的'火锅蘸料'🍲！字幕是影视的'翻译官'📺（Netflix captions），标题是文章的'店招'🏮（clickbait caption），说明文字是展品的'导游'🗣️（museum caption）。想吐槽视频字幕错误？说'AI caption needs glasses'👓；夸标题党用'This caption slaps!'👊 记住：好caption能让哑巴文物开口说话！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶神'→开瓶器说明书(caption)写得神",
+        "易混词：caption vs capital（首都/大写）→ 标题(caption)要抓人，首都(capital)要大气"
+      ]
+    }
+  },
+  {
+    "word": "captivate",
+    "etymology": {
+      "breakdown": [
+        "capt",
+        "ive",
+        "ate"
+      ],
+      "meaning_connection": "词根capt=抓住（同capture），-ive表倾向性，-ate动词后缀→像被抓住般着迷"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "迷住",
+        "examples": [
+          {
+            "sentence": "The panda's clumsy movements captivated tourists at Chengdu base.",
+            "sentence_zh": "熊猫笨拙的动作迷住了成都基地的游客。"
+          },
+          {
+            "sentence": "Her recital of Tang poetry captivated the foreign diplomats.",
+            "sentence_zh": "她的唐诗朗诵迷住了外国使节们。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "迷惑",
+        "examples": [
+          {
+            "sentence": "The scammer captivated elders with fake health lectures.",
+            "sentence_zh": "诈骗犯用虚假养生讲座迷惑老年人。"
+          },
+          {
+            "sentence": "The magic show captivated children like hypnotism.",
+            "sentence_zh": "魔术表演像催眠般迷惑了孩子们。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "be captivated by",
+        "meaning": "被...迷住",
+        "examples": [
+          {
+            "sentence": "Gen Zs are captivated by Hanfu culture revival.",
+            "sentence_zh": "Z世代被汉服文化复兴迷住了。"
+          }
+        ]
+      }
+    ],
+    "teach": "captivate是爱情与诈骗的双面词💘！就像贾宝玉初见林黛玉被'逮住'(capt)了魂，或像唐僧被白骨精迷惑🍑。说'被迷得神魂颠倒'可以用spellbound，'圈粉'叫gain fans就像爱豆用舞台captivate观众🎤。记住：美好事物用'迷住'，危险诱惑用'迷惑'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开瓶贴'→开瓶器贴纸迷住收集者",
+        "易混词：capture抓住 vs captivate迷住",
+        "联想：CAPTCHA验证码就是'抓住'机器人"
+      ]
+    }
+  },
+  {
+    "word": "captivating",
+    "etymology": {
+      "breakdown": [
+        "captiv",
+        "ate",
+        "ing"
+      ],
+      "meaning_connection": "词根captiv=捕获（源自拉丁语capere），-ate表动词，-ing表形容词→像被捕获般吸引人的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "迷人的",
+        "examples": [
+          {
+            "sentence": "The captivating neon lights of Hong Kong's streets make tourists stop and stare.",
+            "sentence_zh": "香港街道上迷人的霓虹灯让游客驻足凝视。"
+          },
+          {
+            "sentence": "Her captivating smile could sell out livestreaming products in 3 seconds.",
+            "sentence_zh": "她迷人的微笑能让直播商品3秒售罄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有魅力的",
+        "examples": [
+          {
+            "sentence": "The panda's captivating clumsiness attracts millions of viewers online.",
+            "sentence_zh": "熊猫有魅力的笨拙吸引了数百万网友观看。"
+          },
+          {
+            "sentence": "His captivating storytelling turned boring history into viral TikTok videos.",
+            "sentence_zh": "他有魅力的讲述把枯燥历史变成爆款抖音视频。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "captivating performance",
+        "meaning": "迷人表演",
+        "examples": [
+          {
+            "sentence": "The Sichuan opera face-changing act gave a captivating performance at the UN.",
+            "sentence_zh": "川剧变脸在联合国献上了迷人表演。"
+          }
+        ]
+      }
+    ],
+    "teach": "captivating就像电子榨菜🍜让人停不下来！词源是'被捕获'（captive），像抖音小姐姐的眼神👀勾住你的注意力。要说'美得挪不开眼'可以说eye-candy（眼睛糖果），'魅力四射'叫radiate charisma（散发魅力）。记住：好的内容要像糖葫芦🍡，既captivating又让人回味！",
+    "recite": {
+      "tips": [
+        "谐音梗：'开屏停ving'→孔雀开屏让人停驻观看",
+        "易混词对比：capturing（捕捉动作） vs captivating（吸引状态）"
+      ]
+    }
   }
 ]

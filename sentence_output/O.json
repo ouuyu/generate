@@ -16725,5 +16725,339 @@
         "记忆tip：字母O像平底锅，m像折叠的蛋皮"
       ]
     }
+  },
+  {
+    "word": "omen",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'ōmen'，指通过自然现象或事件预测未来"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "预兆",
+        "examples": [
+          {
+            "sentence": "The sudden crow's cry was considered an omen of bad luck in ancient China.",
+            "sentence_zh": "乌鸦突然啼叫在古代中国被视为凶兆。"
+          },
+          {
+            "sentence": "Finding a four-leaf clover is said to be a good omen.",
+            "sentence_zh": "发现四叶草据说是个好兆头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "前兆",
+        "examples": [
+          {
+            "sentence": "The strange behavior of animals before earthquakes is often seen as an omen.",
+            "sentence_zh": "地震前动物的异常行为常被视为前兆。"
+          },
+          {
+            "sentence": "Dark clouds gathering are an omen of the coming storm.",
+            "sentence_zh": "乌云密布是暴风雨来临的前兆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "征兆",
+        "examples": [
+          {
+            "sentence": "Her high fever was the first omen of the serious illness.",
+            "sentence_zh": "她发高烧是重病的第一个征兆。"
+          },
+          {
+            "sentence": "The sudden drop in stock prices was an omen of the economic crisis.",
+            "sentence_zh": "股价突然下跌是经济危机的征兆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "预示",
+        "examples": [
+          {
+            "sentence": "The red sky at dawn omens a fine day.",
+            "sentence_zh": "朝霞预示着晴天。"
+          },
+          {
+            "sentence": "The ancient oracle bones were used to omen the harvest.",
+            "sentence_zh": "古代甲骨被用来预示收成。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "有...的前兆",
+        "examples": [
+          {
+            "sentence": "The darkening sky omened the coming typhoon.",
+            "sentence_zh": "天空变暗预示着台风即将来临。"
+          },
+          {
+            "sentence": "His pale face omened his poor health condition.",
+            "sentence_zh": "他苍白的脸色是他健康状况不佳的前兆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "显出...的预兆",
+        "examples": [
+          {
+            "sentence": "The tea leaves in the cup omened a stranger's visit.",
+            "sentence_zh": "杯中茶叶显示出将有陌生人到访的预兆。"
+          },
+          {
+            "sentence": "The ancient turtle shell cracks omened a bountiful year.",
+            "sentence_zh": "古龟甲裂纹显示出丰年的预兆。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ill omen",
+        "meaning": "凶兆",
+        "examples": [
+          {
+            "sentence": "Breaking a mirror is considered an ill omen in Western culture.",
+            "sentence_zh": "在西方文化中，打碎镜子被视为凶兆。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "good omen",
+        "meaning": "吉兆",
+        "examples": [
+          {
+            "sentence": "Seeing a rainbow after rain is regarded as a good omen.",
+            "sentence_zh": "雨后见彩虹被视为吉兆。"
+          }
+        ]
+      }
+    ],
+    "teach": "omen就像古代天气预报☁️+水晶球占卜🔮！在罗马，祭司通过鸟飞行的方向解读omen（'鸟语'占卜术🐦）；中国人看'紫气东来'说这是圣人将至的omen🌈。遇到bad omen时英国人会说'break a leg'（反话祝好运🦵），而'writing on the wall'（墙上的字）就是最著名的omen。你的星座运势就是现代版omen占卜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦闷'→哦~闷(omen)得慌，要出事",
+        "易混词对比：omen(客观预兆) vs premonition(主观预感)"
+      ]
+    }
+  },
+  {
+    "word": "ominous",
+    "etymology": {
+      "breakdown": [
+        "omin",
+        "ous"
+      ],
+      "meaning_connection": "词根omin来自拉丁语omen(预兆)，-ous表形容词→充满预兆的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "恶兆的",
+        "examples": [
+          {
+            "sentence": "The black cat crossing your path is considered ominous in some cultures.",
+            "sentence_zh": "在某些文化中，黑猫拦路被视为恶兆。"
+          },
+          {
+            "sentence": "His ominous silence before the exam made everyone nervous.",
+            "sentence_zh": "他考试前不祥的沉默让所有人都紧张起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不吉利的",
+        "examples": [
+          {
+            "sentence": "Breaking a mirror is said to bring seven years of ominous luck.",
+            "sentence_zh": "据说打碎镜子会带来七年不吉利的运气。"
+          },
+          {
+            "sentence": "The ominous gray clouds suggested a coming storm.",
+            "sentence_zh": "不吉利的乌云预示着暴风雨即将来临。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "预兆的",
+        "examples": [
+          {
+            "sentence": "The sudden drop in stock prices was an ominous sign of economic downturn.",
+            "sentence_zh": "股价突然下跌是经济衰退的预兆。"
+          },
+          {
+            "sentence": "Scientists view the melting glaciers as an ominous warning of climate change.",
+            "sentence_zh": "科学家将冰川融化视为气候变化的一个预兆警告。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ominous silence",
+        "meaning": "不祥的沉默",
+        "examples": [
+          {
+            "sentence": "The ominous silence in the courtroom made the defendant sweat.",
+            "sentence_zh": "法庭上不祥的沉默让被告汗流浃背。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "ominous clouds",
+        "meaning": "不祥的云",
+        "examples": [
+          {
+            "sentence": "Ominous clouds gathered before the tsunami hit the coast.",
+            "sentence_zh": "海啸袭击海岸前聚集了不祥的云层。"
+          }
+        ]
+      }
+    ],
+    "teach": "ominous就像恐怖片BGM🎵！古罗马占卜师靠鸟内脏预知未来🔮（词根omin=预兆），现代人说'bad vibes'就是它的通俗版👻。要形容'不祥预感'说I've got a bad feeling about this，'凶兆'直接叫bad omen。记住：看到乌云压顶☁️→That sky looks ominous!",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦，霉no死'→哦不，霉运要命",
+        "易混词：ominous(不吉利的) vs. enormous(巨大的)"
+      ]
+    }
+  },
+  {
+    "word": "ominously",
+    "etymology": {
+      "breakdown": [
+        "omin",
+        "ous",
+        "ly"
+      ],
+      "meaning_connection": "词根omin=预兆(来自拉丁语omen)，-ous表形容词，-ly表副词→充满预兆地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "恶兆地",
+        "examples": [
+          {
+            "sentence": "The raven cried ominously before the power outage.",
+            "sentence_zh": "断电前乌鸦发出不祥的鸣叫。"
+          },
+          {
+            "sentence": "Fortune cookies cracking ominously is never a good sign.",
+            "sentence_zh": "幸运饼干不祥地裂开绝非好兆头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "预示地",
+        "examples": [
+          {
+            "sentence": "Dark clouds gathered ominously over the Forbidden City.",
+            "sentence_zh": "乌云在紫禁城上空预示性地聚集。"
+          },
+          {
+            "sentence": "The stock chart dipped ominously like a dragon diving.",
+            "sentence_zh": "股票走势如龙俯冲般预示性下跌。"
+          }
+        ]
+      }
+    ],
+    "teach": "ominously就像恐怖片BGM🎵！古罗马占卜师盯着鸟内脏说'ominous'⚡，现在形容'要凉凉'的预感（如deadline前电脑蓝屏💻）。搭配：ominous silence（暴风雨前的寂静），ominous sign（凶兆）。地道说法：'写满flag'叫the writing is on the wall✍️。记住：当奶茶突然不甜时...该词就派上用场了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦，明显死'→不祥之兆",
+        "对比：ominous(adj.) vs. ominously(adv.)",
+        "视觉联想：⚡乌鸦+闪电+破碎镜子"
+      ]
+    }
+  },
+  {
+    "word": "omission",
+    "etymology": {
+      "breakdown": [
+        "o",
+        "miss",
+        "ion"
+      ],
+      "meaning_connection": "前缀o-=ob-（反向），词根miss=发送（如missile导弹），-ion表名词→'该发送却反向操作'引申出遗漏含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "省略",
+        "examples": [
+          {
+            "sentence": "The director's cut version fixed the controversial omissions in the film.",
+            "sentence_zh": "导演剪辑版修正了原片中备受争议的省略片段。"
+          },
+          {
+            "sentence": "Using ellipsis (...) is a common way to indicate intentional omission in writing.",
+            "sentence_zh": "使用省略号（...）是写作中表示有意省略的常见方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "遗漏",
+        "examples": [
+          {
+            "sentence": "The accountant discovered a crucial omission in the tax report after 3 Red Bulls.",
+            "sentence_zh": "会计喝了三罐红牛后发现了税务报告中的关键遗漏。"
+          },
+          {
+            "sentence": "Her name's omission from the credits caused a Twitter storm.",
+            "sentence_zh": "演职员表中遗漏她的名字引发了推特风暴。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "疏忽",
+        "examples": [
+          {
+            "sentence": "The fatal accident resulted from an omission in safety checks.",
+            "sentence_zh": "这起致命事故源于安全检查的疏忽。"
+          },
+          {
+            "sentence": "His omission to lock the door invited uninvited raccoons.",
+            "sentence_zh": "他疏忽未锁门导致浣熊不请自来。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sin of omission",
+        "meaning": "不作为之过",
+        "examples": [
+          {
+            "sentence": "Forgetting mom's birthday is a classic sin of omission.",
+            "sentence_zh": "忘记妈妈生日是典型的不作为之过。"
+          }
+        ]
+      }
+    ],
+    "teach": "omission其实是'哦！没戏！'🤦‍♂️——当你发现重要内容被漏掉时的反应！像发微博忘记@当事人（social media omission），或者奶茶店忘记加珍珠（bubble tea omission）💔。记住：字典里'遗漏'和'社死'是近义词！搭配'sin of omission'比'忘记'更高级，说'工资漏发'用payroll omission🤑",
+    "recite": {
+      "tips": [
+        "谐音梗：'欧米秀'→欧洲大米选秀漏掉亚洲品种",
+        "易混词：mission（任务）少个o就变遗漏",
+        "记忆tip：把miss（错过）+ion（离子）想象成漏掉的电子"
+      ]
+    }
   }
 ]
