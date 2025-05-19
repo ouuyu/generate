@@ -17253,5 +17253,285 @@
         "易混词：geometric（几何的）是画图，geomagnetic是吸铁"
       ]
     }
+  },
+  {
+    "word": "geometric",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "metr",
+        "ic"
+      ],
+      "meaning_connection": "geo=地球/空间（如geography），metr=测量（如meter），-ic=形容词后缀→测量空间的学问"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "几何学的",
+        "examples": [
+          {
+            "sentence": "The geometric principles in Euclid's Elements still influence modern architecture.",
+            "sentence_zh": "《几何原本》中的几何学原理仍影响现代建筑。"
+          },
+          {
+            "sentence": "Her research focuses on geometric algorithms in autonomous driving.",
+            "sentence_zh": "她的研究聚焦自动驾驶中的几何学算法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "几何学图形的",
+        "examples": [
+          {
+            "sentence": "The designer used geometric patterns inspired by Persian mosaics.",
+            "sentence_zh": "设计师采用了波斯马赛克风格的几何学图形。"
+          },
+          {
+            "sentence": "The viral TikTok filter transforms faces into geometric compositions.",
+            "sentence_zh": "这个爆火的抖音滤镜能把人脸变成几何学图形组合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geometric progression",
+        "meaning": "几何级数增长",
+        "examples": [
+          {
+            "sentence": "Short video platforms show geometric progression in user engagement.",
+            "sentence_zh": "短视频平台的用户互动呈现几何级数增长。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "geometric mean",
+        "meaning": "几何平均数",
+        "examples": [
+          {
+            "sentence": "Economists use geometric mean to calculate average investment returns.",
+            "sentence_zh": "经济学家用几何平均数计算投资回报均值。"
+          }
+        ]
+      }
+    ],
+    "teach": "geometric是数学家的视觉诗📐！古希腊人用geo(土地)+metr(测量)丈量尼罗河（最早几何学起源）🌊。说'成倍增长'用grow geometrically像病毒传播🦠，'极简设计'叫geometric style就像蒙德里安的红黄蓝格子🎨。记住：看到geo想地球，看到metr量起来！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡鸭没空吃'→鸡鸭忙着研究几何没空吃饭",
+        "易混词：geographic（地理的）vs geometric（几何的）",
+        "联想：王者荣耀地图就是geo+metric的完美结合"
+      ]
+    }
+  },
+  {
+    "word": "geometrical",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "metr",
+        "ical"
+      ],
+      "meaning_connection": "词根geo=土地，metr=测量，-ical=形容词后缀→本义'测量土地的'，后发展为几何学概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "几何学的",
+        "examples": [
+          {
+            "sentence": "The geometrical proof in the math exam made students cry.",
+            "sentence_zh": "数学考试里的几何证明题让学生们哭晕。"
+          },
+          {
+            "sentence": "Ancient Egyptians used geometrical methods to build pyramids.",
+            "sentence_zh": "古埃及人运用几何学方法建造金字塔。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "几何图形的",
+        "examples": [
+          {
+            "sentence": "Her dress features bold geometrical patterns from the 1980s.",
+            "sentence_zh": "她的连衣裙带有80年代风格的醒目几何图案。"
+          },
+          {
+            "sentence": "The architect designed a building with perfect geometrical proportions.",
+            "sentence_zh": "建筑师设计了具有完美几何比例的建筑。"
+          }
+        ]
+      }
+    ],
+    "teach": "几何(geo+metry)其实是'量地术'📐！古希腊人在沙滩上画几何图形🏖️，就像我们用手机玩《纪念碑谷》游戏📱。说'死板的规矩'叫geometrical precision（几何精度），'完美对称'可说geometrical harmony（几何和谐）✨记住：人生不像几何题，没有标准解法！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡鸭没头'→鸡鸭没头只剩几何形状",
+        "易混词：geographic（地理的）vs geometrical（几何的）",
+        "记忆tip：geo（地）+meter（米）= 在地上量米→几何测量"
+      ]
+    }
+  },
+  {
+    "word": "geometrically",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "metr",
+        "ic",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "geo=地球/土地（如geography），metr=测量（如meter），-ic=形容词后缀，-al=形容词后缀，-ly=副词后缀→最初指'用土地测量的方式'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "用几何学方法",
+        "examples": [
+          {
+            "sentence": "The architect designed the roof geometrically to create perfect sound reflection.",
+            "sentence_zh": "建筑师用几何学方法设计屋顶以实现完美声波反射。"
+          },
+          {
+            "sentence": "Cutting a pizza geometrically ensures everyone gets equal toppings.",
+            "sentence_zh": "用几何学方法切披萨能保证每块配料均匀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "呈几何级数地",
+        "examples": [
+          {
+            "sentence": "Douyin's user growth increased geometrically during the pandemic.",
+            "sentence_zh": "疫情期间抖音用户呈几何级数增长。"
+          },
+          {
+            "sentence": "The AI's learning ability improves geometrically with more data.",
+            "sentence_zh": "该人工智能的学习能力随着数据增加呈几何级数提升。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geometrically precise",
+        "meaning": "几何级精确的",
+        "examples": [
+          {
+            "sentence": "The Forbidden City's layout is geometrically precise.",
+            "sentence_zh": "故宫的布局有着几何级精确度。"
+          }
+        ]
+      }
+    ],
+    "teach": "几何学(geometry)其实是'量地术'📐：古希腊人用geo(土地)+metry(测量)来分田地🌾。中文'呈几何增长'就像疯狂繁殖的兔子🐇，而'几何纹样'就像青铜器上的饕餮纹👺。说'爆炸式增长'可用spread geometrically，吐槽排列整齐说aligned geometrically🗂️。记住：万物皆可几何！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡鹅没力口粮'→鸡和鹅饿到没力气因为粮食要几何均分",
+        "易混词：geographical（地理的）vs geometrical（几何的）",
+        "记忆法：把geo想成'地'字，metr想成'米'（测量单位）"
+      ]
+    }
+  },
+  {
+    "word": "geometry",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "metry"
+      ],
+      "meaning_connection": "geo=土地，metry=测量→原指土地测量术，引申为研究空间关系的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "几何学",
+        "examples": [
+          {
+            "sentence": "Ancient Egyptians used geometry to rebuild farmland after Nile floods.",
+            "sentence_zh": "古埃及人运用几何学在尼罗河泛滥后重建农田。"
+          },
+          {
+            "sentence": "The geometry of Beijing's hutong alleys forms perfect right angles.",
+            "sentence_zh": "北京胡同的几何结构形成完美的直角。"
+          }
+        ]
+      }
+    ],
+    "teach": "geometry其实是'量土术'🌍：希腊人用geo（土地）+ metry（测量）画地界🧮。说'完全不懂'用clueless as a circle in square（像圆在方里一样懵），'解题快'叫crack geometry like walnuts砸核桃🥜。记住：人生就像解析几何，坐标系由你定！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡鸭没腿'→鸡鸭没了腿只能画几何图形",
+        "对比：geography（地理）是画地图，geometry是画图形"
+      ]
+    }
+  },
+  {
+    "word": "geomorphological",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "morpho",
+        "logical"
+      ],
+      "meaning_connection": "geo=地球（希腊语gē），morpho=形态（希腊语morphē），logical=学科的（源自logos=理性）→研究地球表面形态的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "地貌的",
+        "examples": [
+          {
+            "sentence": "The geomorphological features of Zhangjiajie inspired Avatar's floating mountains.",
+            "sentence_zh": "张家界的地貌特征激发了《阿凡达》悬浮山的创作灵感。"
+          },
+          {
+            "sentence": "This geomorphological map shows ancient riverbeds under Shanghai.",
+            "sentence_zh": "这幅地貌图揭示了上海地下古河床的分布。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "地形的",
+        "examples": [
+          {
+            "sentence": "Geomorphological changes caused Sichuan's new hot spring resorts.",
+            "sentence_zh": "地形变化造就了四川新增的温泉度假区。"
+          },
+          {
+            "sentence": "The military uses geomorphological data to plan maneuvers.",
+            "sentence_zh": "军队利用地形数据规划演习路线。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geomorphological process",
+        "meaning": "地貌形成过程",
+        "examples": [
+          {
+            "sentence": "The Three Gorges were shaped by slow geomorphological processes.",
+            "sentence_zh": "长江三峡由缓慢的地貌形成过程塑造。"
+          }
+        ]
+      }
+    ],
+    "teach": "这个词是地理学家的乐高积木🧩！geo+morpho=地球变形记🌍，就像重庆的3D地形是天然过山车轨道🎢。说'地形复杂'可以说labyrinthine terrain（迷宫般的地形），'鬼斧神工'叫geomorphological wonder。记住：这个词拆开就是'地球形状研究'，比女朋友的脸部轮廓还难分析😉！",
+    "recite": {
+      "tips": [
+        "拆解记忆：geo(地理)+morph(形态)+ology(学)=地形学",
+        "易混词对比：geological（地质的）侧重岩石，geomorphological侧重地表形状"
+      ]
+    }
   }
 ]

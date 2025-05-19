@@ -17437,5 +17437,280 @@
         "易混词：scarf（围巾）和scab别搞混，一个裹脖子一个长皮肤"
       ]
     }
+  },
+  {
+    "word": "scabbard",
+    "etymology": {
+      "breakdown": [
+        "scab",
+        "bard"
+      ],
+      "meaning_connection": "古法语escaubers指'剑的护套'，bard可能与'保护'相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "鞘",
+        "examples": [
+          {
+            "sentence": "The samurai's katana gleamed when drawn from its lacquered scabbard.",
+            "sentence_zh": "武士刀从漆鞘中抽出时寒光闪闪。"
+          },
+          {
+            "sentence": "His scabbard got stuck after eating hotpot due to humidity.",
+            "sentence_zh": "吃完火锅后他的刀鞘因湿气卡住了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "入鞘",
+        "examples": [
+          {
+            "sentence": "The knight scabbarded his sword with a metallic click.",
+            "sentence_zh": "骑士收剑入鞘发出金属咔嗒声。"
+          },
+          {
+            "sentence": "She hastily scabbarded the knife before the security check.",
+            "sentence_zh": "她在安检前匆忙把刀插回刀鞘。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in scabbard",
+        "meaning": "鞘中",
+        "examples": [
+          {
+            "sentence": "A sword in scabbard poses no threat.",
+            "sentence_zh": "入鞘之剑不构成威胁。"
+          }
+        ]
+      }
+    ],
+    "teach": "scabbard是剑的睡衣👘！中世纪欧洲骑士的scabbard会垫羊毛防锈🛡️，就像给手机贴膜📱。说'刀剑入库'叫sheathe the weapons🐉，但'亮剑'就是draw the sword⚔️。记住：scabbard和sheath的区别就像手机壳和手机套——前者更正式！",
+    "recite": {
+      "tips": [
+        "谐音梗：'是壳吧'→刀剑的壳吧(scabbard)",
+        "易混词：sheath(通用鞘) vs scabbard(专用剑鞘)"
+      ]
+    }
+  },
+  {
+    "word": "scabby",
+    "etymology": {
+      "breakdown": [
+        "scab",
+        "y"
+      ],
+      "meaning_connection": "scab指'痂'，-y为形容词后缀→像结痂般的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "结痂的",
+        "examples": [
+          {
+            "sentence": "The stray cat had a scabby ear from street fights.",
+            "sentence_zh": "这只流浪猫因打架耳朵结着痂。"
+          },
+          {
+            "sentence": "Don't pick at your scabby knee or it'll leave a mark!",
+            "sentence_zh": "别抠结痂的膝盖，会留疤的！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "下贱的",
+        "examples": [
+          {
+            "sentence": "That scabby trick of stealing tips disgusted everyone.",
+            "sentence_zh": "偷小费的下贱把戏让所有人作呕。"
+          },
+          {
+            "sentence": "He's known for his scabby behavior at poker games.",
+            "sentence_zh": "他因在牌局中的卑劣行径出名。"
+          }
+        ]
+      }
+    ],
+    "teach": "scabby是'痂王'🩹+‘人渣’🤢的双面侠！结痂像披萨上的芝士拉丝🧀（scabby wound），形容人品时堪比臭豆腐味的香水💨（scabby character）。搭配'scabby mutt'骂流浪狗🐶，'scabby deal'说黑心交易💸。记住：伤口结痂会好，人品结痂快跑！",
+    "recite": {
+      "tips": [
+        "谐音梗：'撕开皮'→结痂的伤口撕开皮",
+        "易混词对比：scabby/scandalous（后者更侧重丑闻性质）",
+        "联想：SCAB+BY=痂在身边→要么是伤口，要么是烂人"
+      ]
+    }
+  },
+  {
+    "word": "scabrous",
+    "etymology": {
+      "breakdown": [
+        "scabr",
+        "ous"
+      ],
+      "meaning_connection": "词根scabr=粗糙/痂，源自拉丁语scabere（抓挠），-ous表形容词→像被反复抓挠后的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "粗糙的",
+        "examples": [
+          {
+            "sentence": "The scabrous surface of shark skin inspired swimsuit designs.",
+            "sentence_zh": "鲨鱼皮肤的粗糙表面启发了泳衣设计。"
+          },
+          {
+            "sentence": "His fingertips traced the scabrous bark of the ancient gingko.",
+            "sentence_zh": "他的指尖抚过古银杏树粗糙的树皮。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "多痂的",
+        "examples": [
+          {
+            "sentence": "The stray cat's scabrous ears told stories of street battles.",
+            "sentence_zh": "流浪猫结痂的耳朵诉说着街头战斗的故事。"
+          },
+          {
+            "sentence": "Traditional Chinese medicine uses scabrous herbs for wound healing.",
+            "sentence_zh": "中医使用多痂类草药促进伤口愈合。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "难解决的",
+        "examples": [
+          {
+            "sentence": "The scabrous math problem stumped even the professor.",
+            "sentence_zh": "这道棘手的数学题连教授都难住了。"
+          },
+          {
+            "sentence": "AI faces scabrous ethical dilemmas in autonomous driving.",
+            "sentence_zh": "人工智能在自动驾驶领域面临棘手的道德困境。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "猥亵的",
+        "examples": [
+          {
+            "sentence": "Victorian novels often hinted at scabrous topics through metaphors.",
+            "sentence_zh": "维多利亚时代小说常用隐喻暗示猥亵话题。"
+          },
+          {
+            "sentence": "The comedian crossed the line with scabrous jokes about disabled people.",
+            "sentence_zh": "该喜剧演员拿残疾人开低俗玩笑越界了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "scabrous details",
+        "meaning": "不堪的细节",
+        "examples": [
+          {
+            "sentence": "The biography omitted the scabrous details of the artist's early life.",
+            "sentence_zh": "传记省略了这位艺术家早年不堪的细节。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "scabrous humor",
+        "meaning": "下流幽默",
+        "examples": [
+          {
+            "sentence": "His scabrous humor made half the audience walk out.",
+            "sentence_zh": "他的下流幽默让半数观众离场。"
+          }
+        ]
+      }
+    ],
+    "teach": "scabrous这词就像砂纸📜！物理上描述树皮/鲨鱼皮的粗糙感（scabrous texture），医学上指结痂伤口💉（scabrous wound），抽象概念形容'棘手问题'像带刺的榴莲🧶（scabrous issue），猥亵含义则像被马赛克遮住的内容🚫（scabrous content）。记住：看到-scabr-词根就联想到'抓挠后的残留物'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'撕开不乐死'→撕开结痂(scabrous)的伤口不快乐",
+        "易混词对比：scandalous（丑闻的）侧重道德批判，scabrous侧重生理不适感"
+      ]
+    }
+  },
+  {
+    "word": "scaffold",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'eschafaut'（高台），可能来自拉丁语'catafalicum'（灵柩台），与建筑和处刑场景相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "脚手架",
+        "examples": [
+          {
+            "sentence": "Workers are dismantling bamboo scaffolds after the Lantern Festival decorations.",
+            "sentence_zh": "工人们正在拆除元宵节装饰用的竹制脚手架。"
+          },
+          {
+            "sentence": "The bird built its nest on the construction scaffold, refusing to move.",
+            "sentence_zh": "那只鸟在施工脚手架上筑巢，拒不搬迁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "绞刑台",
+        "examples": [
+          {
+            "sentence": "In medieval Europe, public scaffolds were often painted black as a warning.",
+            "sentence_zh": "中世纪欧洲的公共绞刑台常被漆成黑色作为警示。"
+          },
+          {
+            "sentence": "The novel describes how roses grew around the abandoned scaffold.",
+            "sentence_zh": "小说描写了废弃绞刑台周围长出玫瑰的场景。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "scaffold board",
+        "meaning": "脚手架木板",
+        "examples": [
+          {
+            "sentence": "The painter tripped over a loose scaffold board.",
+            "sentence_zh": "画家被一块松动的脚手架木板绊倒。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go to the scaffold",
+        "meaning": "上断头台",
+        "examples": [
+          {
+            "sentence": "The revolutionary walked to the scaffold singing the Marseillaise.",
+            "sentence_zh": "那位革命者高唱马赛曲走向断头台。"
+          }
+        ]
+      }
+    ],
+    "teach": "scaffold是建筑工地的'钢铁侠战衣'🦾，也是刽子手的'KPI考核台'⚖️！维多利亚时期伦敦绞刑台叫Tyburn Tree，围观群众会买'VIP站位票'🎫。现代说'搭建支持体系'叫build scaffolds就像乐高积木🧩，'职场绞刑'可以说career scaffold（比如被公开裁员）。记住：攀登用脚手架是上升，站上断头台是终结！",
+    "recite": {
+      "tips": [
+        "谐音梗：'似盖房'→脚手架就像盖房时的临时盖子",
+        "易混词对比：scaffold（实体架）vs framework（抽象框架）"
+      ]
+    }
   }
 ]

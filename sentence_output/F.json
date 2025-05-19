@@ -18136,5 +18136,312 @@
         "联想：FBI的F就是federal的F"
       ]
     }
+  },
+  {
+    "word": "federalism",
+    "etymology": {
+      "breakdown": [
+        "federal",
+        "ism"
+      ],
+      "meaning_connection": "词根federal源自拉丁语foedus（条约），-ism表示'主义/制度'→通过条约联合的政治体系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "联邦制",
+        "examples": [
+          {
+            "sentence": "Canadian federalism allows Quebec to maintain its unique civil law system.",
+            "sentence_zh": "加拿大联邦制允许魁北克保留独特的民法体系。"
+          },
+          {
+            "sentence": "The debate over federalism vs. unitary system lasted 3 months in the constitutional convention.",
+            "sentence_zh": "制宪会议上关于联邦制与单一制的辩论持续了三个月。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "联邦主义",
+        "examples": [
+          {
+            "sentence": "Hamilton's federalism emphasized strong central government in The Federalist Papers.",
+            "sentence_zh": "汉密尔顿在《联邦党人文集》中主张加强中央权力的联邦主义。"
+          },
+          {
+            "sentence": "Modern European federalism inspires cross-border environmental policies.",
+            "sentence_zh": "现代欧洲联邦主义促成了跨境环保政策。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "cooperative federalism",
+        "meaning": "合作型联邦制",
+        "examples": [
+          {
+            "sentence": "Germany's cooperative federalism requires states to implement federal laws.",
+            "sentence_zh": "德国合作型联邦制要求各州执行联邦法律。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "dual federalism",
+        "meaning": "二元联邦制",
+        "examples": [
+          {
+            "sentence": "Early American dual federalism was like layer cake with clear state/federal divisions.",
+            "sentence_zh": "早期美国二元联邦制像分层蛋糕，明确划分州与联邦权力。"
+          }
+        ]
+      }
+    ],
+    "teach": "federalism是政治版'分锅吃饭'🍲→中央和地方像火锅鸳鸯锅各管半边（dual federalism）🤝。美国建国时吵这个就像微信群'AA制还是班长请客'💸，最后《联邦党人文集》成了最强群公告📜。记住'联邦制三原则'：1) 写进宪法=群规@全体成员📃 2) 权力划分=抢红包手气最佳者决定下一轮🎁 3) 最高法院=群主仲裁👨‍⚖️",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥的肉离席'→联邦制就是肥肉(权力)在中央和地方间分配",
+        "对比记忆：federalism（分权）vs. unitarism（集权）像共享充电宝vs.独享充电器"
+      ]
+    }
+  },
+  {
+    "word": "federalist",
+    "etymology": {
+      "breakdown": [
+        "feder",
+        "al",
+        "ist"
+      ],
+      "meaning_connection": "词根feder=联盟（来自拉丁语foedus），-al表形容词，-ist表'...主义者'→主张联盟制的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "联邦制拥护者",
+        "examples": [
+          {
+            "sentence": "The federalists advocated for a strong central government during the constitutional debate.",
+            "sentence_zh": "制宪会议期间联邦党人主张建立强有力的中央政府。"
+          },
+          {
+            "sentence": "Modern federalists in Europe support deeper EU integration.",
+            "sentence_zh": "当代欧洲的联邦主义者支持欧盟进一步一体化。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Federalist Papers",
+        "meaning": "《联邦党人文集》",
+        "examples": [
+          {
+            "sentence": "Hamilton co-authored the Federalist Papers to promote ratification of the U.S. Constitution.",
+            "sentence_zh": "汉密尔顿参与撰写《联邦党人文集》以推动美国宪法获批。"
+          },
+          {
+            "sentence": "Law students still quote Federalist Paper No.78 when debating judicial review.",
+            "sentence_zh": "法学院学生在争论司法审查时仍会引用《联邦党人文集》第78篇。"
+          }
+        ]
+      }
+    ],
+    "teach": "联邦党人就像拼多多砍价群🗳️：想联合各州(feder)搞团购式治国！他们的对手'反联邦党人'被戏称'州权单身狗'🐶（states' rights advocates）。《联邦党人文集》其实是史上最强安利文案✍️，用85篇文章把美国宪法'推销'给13个州。'中央集权'说strong federalism时要像端火锅汤底🍲——不能泼洒！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥的肉list'→联邦党人列出的宪法'肥肉清单'",
+        "易混对比：federalism（联邦制） vs. feudalism（封建制）",
+        "记忆tip：把federalist拆成fed（喂）+era（时代）+list（名单）→被中央'喂养'的时代支持者名单"
+      ]
+    }
+  },
+  {
+    "word": "federally",
+    "etymology": {
+      "breakdown": [
+        "federal",
+        "ly"
+      ],
+      "meaning_connection": "词根fed=信任（如faith），-eral表性质，-ly表副词→基于信任的联合体运作方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "同盟地",
+        "examples": [
+          {
+            "sentence": "The states worked federally to resist the invasion.",
+            "sentence_zh": "各州以同盟方式合作抵抗入侵。"
+          },
+          {
+            "sentence": "NATO countries act federally in military exercises.",
+            "sentence_zh": "北约国家在军演中采取同盟行动模式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "联邦地",
+        "examples": [
+          {
+            "sentence": "In the US, education is administered federally and locally.",
+            "sentence_zh": "美国的教育事务由联邦和地方共同管理。"
+          },
+          {
+            "sentence": "The healthcare system operates federally in Canada.",
+            "sentence_zh": "加拿大的医疗系统以联邦模式运行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "联邦政府地",
+        "examples": [
+          {
+            "sentence": "The project is funded federally through tax dollars.",
+            "sentence_zh": "该项目通过联邦政府税收资金支持。"
+          },
+          {
+            "sentence": "Federally employed workers enjoy special benefits.",
+            "sentence_zh": "联邦政府雇员享有特殊福利。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "federally mandated",
+        "meaning": "联邦强制的",
+        "examples": [
+          {
+            "sentence": "Wearing masks was federally mandated during the pandemic.",
+            "sentence_zh": "疫情期间戴口罩是联邦强制要求。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "federally recognized",
+        "meaning": "联邦承认的",
+        "examples": [
+          {
+            "sentence": "This tribal holiday is now federally recognized.",
+            "sentence_zh": "该部落节日现已获得联邦承认。"
+          }
+        ]
+      }
+    ],
+    "teach": "federally就像火锅联盟🍲：各州/省像食材在联邦(fed)锅里涮，既要保持个性又要统一调味🧂。美国说'联邦的'用federal，但加拿大偏说federally表示强调🤓。要吐槽'官僚主义'可以说red tape（红色胶带📜），记住：联邦快递(FedEx)其实取自Federal Express的缩写🚚！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥的弱'→联邦(federally)里肥的州补贴弱的州",
+        "易混词对比：federal（adj.） vs. federally（adv.）"
+      ]
+    }
+  },
+  {
+    "word": "federate",
+    "etymology": {
+      "breakdown": [
+        "feder",
+        "ate"
+      ],
+      "meaning_connection": "词根feder=联盟（来自拉丁语foedus），后缀-ate表'使成为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "同盟的",
+        "examples": [
+          {
+            "sentence": "The federate armies marched under unified banners.",
+            "sentence_zh": "同盟军队在统一旗帜下行军。"
+          },
+          {
+            "sentence": "Federate universities share library resources across campuses.",
+            "sentence_zh": "同盟大学各校区共享图书馆资源。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "联邦制度下的",
+        "examples": [
+          {
+            "sentence": "Texas has unique laws as a federate state of the USA.",
+            "sentence_zh": "作为美国联邦州，德州有独特的法律。"
+          },
+          {
+            "sentence": "The federate tax system operates like a financial spiderweb.",
+            "sentence_zh": "联邦税收系统运作如财务蜘蛛网。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使联合",
+        "examples": [
+          {
+            "sentence": "The treaty federated the squabbling kingdoms into one nation.",
+            "sentence_zh": "条约将争吵不休的王国联合成一个国家。"
+          },
+          {
+            "sentence": "Tech giants are federating their cloud services recently.",
+            "sentence_zh": "科技巨头们最近在联合各自的云服务。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "结成同盟",
+        "examples": [
+          {
+            "sentence": "Small businesses federated to compete with Amazon.",
+            "sentence_zh": "小企业们结成同盟对抗亚马逊。"
+          },
+          {
+            "sentence": "The streaming platforms may federate against piracy.",
+            "sentence_zh": "流媒体平台可能联合反盗版。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "federate with",
+        "meaning": "与...结盟",
+        "examples": [
+          {
+            "sentence": "Our startup federated with ByteDance for AI development.",
+            "sentence_zh": "我们初创公司与字节跳动结盟开发AI。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "federated system",
+        "meaning": "联邦制系统",
+        "examples": [
+          {
+            "sentence": "WeChat's federated login works like a digital passport.",
+            "sentence_zh": "微信的联合登录系统像数字护照。"
+          }
+        ]
+      }
+    ],
+    "teach": "federate就像复仇者联盟🦸！词根feder=联盟（拉丁语foedus），-ate是'使成'后缀。美国宪法就是最牛'联名款'📜（federate constitution），'被联合'说federated就像奶茶店加盟🤝。记住：独立是stand-alone，联合是federate！",
+    "recite": {
+      "tips": [
+        "谐音梗：'费的累他'→联合起来费钱又累",
+        "易混词：federal(联邦的) vs. federate(使联合)"
+      ]
+    }
   }
 ]

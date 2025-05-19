@@ -17718,5 +17718,362 @@
         "记忆诀：re+action→需要再次行动"
       ]
     }
+  },
+  {
+    "word": "reactive",
+    "etymology": {
+      "breakdown": [
+        "re",
+        "act",
+        "ive"
+      ],
+      "meaning_connection": "前缀re-=回/再，词根act=行动，-ive表性质→做出回应的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "反动的",
+        "examples": [
+          {
+            "sentence": "The Qing Dynasty suppressed reactive forces after the Taiping Rebellion.",
+            "sentence_zh": "太平天国后清朝镇压了反动势力。"
+          },
+          {
+            "sentence": "His reactive political views made him controversial on Weibo.",
+            "sentence_zh": "他的反动政治观点使他在微博上备受争议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "反应的",
+        "examples": [
+          {
+            "sentence": "Lithium is highly reactive with water, like spiciness reacts to Sichuan hotpot.",
+            "sentence_zh": "锂与水极易反应，就像辣度遇到四川火锅时的剧烈程度。"
+          },
+          {
+            "sentence": "The reactive speed of 5G networks surpasses human blink reflex.",
+            "sentence_zh": "5G网络的反应速度超越人类眨眼反射。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "reactive power",
+        "meaning": "无功功率",
+        "examples": [
+          {
+            "sentence": "Smart grids optimize reactive power to prevent blackouts.",
+            "sentence_zh": "智能电网优化无功功率以防停电。"
+          }
+        ]
+      }
+    ],
+    "teach": "reactive是化学课上的社牛💥+历史课上的杠精👴：作为'反应的'时像钠丢进水里的火爆场面🧪，作为'反动的'时像总说'当年更好'的顽固派📜。搭配说'reactive mindset'（应激思维）比'玻璃心'专业，吐槽守旧派可用'dinosaurs in reactive mode'（反动模式的恐龙）🦖。记住：化学reactive要快，政治reactive要坏！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞艾克踢舞'→元素在试管里踢踏舞式反应",
+        "易混词对比：responsive（积极回应）vs reactive（被动反应）"
+      ]
+    }
+  },
+  {
+    "word": "reactivity",
+    "etymology": {
+      "breakdown": [
+        "re",
+        "act",
+        "ivity"
+      ],
+      "meaning_connection": "前缀re-=反向/再次，词根act=行动，后缀-ivity=性质→反向行动或再次行动的特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "反应",
+        "examples": [
+          {
+            "sentence": "The reactivity of sodium in water creates mini fireworks.",
+            "sentence_zh": "钠在水中的反应会产生小型烟花效果。"
+          },
+          {
+            "sentence": "Social media increases the reactivity of public opinion.",
+            "sentence_zh": "社交媒体提高了舆论的反应速度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "反动",
+        "examples": [
+          {
+            "sentence": "Historical reactivity often leads to cultural renaissance.",
+            "sentence_zh": "历史性的反动常引发文化复兴。"
+          },
+          {
+            "sentence": "The reactivity against strict policies sparked debates.",
+            "sentence_zh": "针对严格政策的反动引发了辩论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "反应性",
+        "examples": [
+          {
+            "sentence": "Gold's low reactivity makes it ideal for jewelry.",
+            "sentence_zh": "金的低反应性使其成为理想的珠宝材料。"
+          },
+          {
+            "sentence": "The reactivity of this chemical requires glove protection.",
+            "sentence_zh": "该化学品的反应性需要手套防护。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "活动性",
+        "examples": [
+          {
+            "sentence": "Volcanic reactivity is monitored by satellite systems.",
+            "sentence_zh": "火山活动性通过卫星系统监测。"
+          },
+          {
+            "sentence": "The reactor's reactivity must stay within safe limits.",
+            "sentence_zh": "反应堆的活动性必须保持在安全范围内。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chemical reactivity",
+        "meaning": "化学反应性",
+        "examples": [
+          {
+            "sentence": "The periodic table organizes elements by chemical reactivity.",
+            "sentence_zh": "元素周期表按化学反应性排列元素。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "social reactivity",
+        "meaning": "社会响应性",
+        "examples": [
+          {
+            "sentence": "The mayor praised citizens' social reactivity during the crisis.",
+            "sentence_zh": "市长赞扬了危机期间市民的社会响应性。"
+          }
+        ]
+      }
+    ],
+    "teach": "reactivity就像化学界的爆脾气💥：钠金属遇水就炸（高反应性），黄金却高冷不理人（低反应性）👑。要说'反应快'可以叫quick on the draw（像西部牛仔拔枪），'反应过度'叫jump the gun（抢跑）🏃。记住：你的reactivity决定你是火药桶还是佛系青年🧘！",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐ACT五体'→尖锐的动作五体投地（形容强烈反应）",
+        "对比：reactivity（客观性质）vs response（主观回应）"
+      ]
+    }
+  },
+  {
+    "word": "reactor",
+    "etymology": {
+      "breakdown": [
+        "re",
+        "act",
+        "or"
+      ],
+      "meaning_connection": "前缀re-表示'回'，词根act表示'行动'，后缀-or表示'执行者/工具'→原指'做出反向行动的人或装置'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "反应者",
+        "examples": [
+          {
+            "sentence": "The comedian waited for the audience to be a good reactor to his jokes.",
+            "sentence_zh": "喜剧演员等待观众对他的笑话做出良好反应。"
+          },
+          {
+            "sentence": "She's a fast reactor when encountering spicy hotpot.",
+            "sentence_zh": "她遇到麻辣火锅时反应特别快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "反应器",
+        "examples": [
+          {
+            "sentence": "The lab's glass reactor looks like a giant boba tea shaker.",
+            "sentence_zh": "实验室的玻璃反应器像巨型奶茶摇杯。"
+          },
+          {
+            "sentence": "This micro reactor can produce 10 tons of sauce annually.",
+            "sentence_zh": "这个微型反应器年产10吨调味酱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "反应堆",
+        "examples": [
+          {
+            "sentence": "The nuclear reactor is protected like a durian with 3 layers of armor.",
+            "sentence_zh": "核反应堆像榴莲般被三层防护壳包裹。"
+          },
+          {
+            "sentence": "Panda-shaped cooling towers disguise the reactor complex.",
+            "sentence_zh": "熊猫造型的冷却塔伪装了反应堆建筑群。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "电抗器",
+        "examples": [
+          {
+            "sentence": "The reactor in substations acts like a traffic police for electricity.",
+            "sentence_zh": "变电站里的电抗器像指挥电流的交警。"
+          },
+          {
+            "sentence": "This tiny reactor prevents your phone charger from overheating.",
+            "sentence_zh": "这个小电抗器防止手机充电器过热。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nuclear reactor",
+        "meaning": "核反应堆",
+        "examples": [
+          {
+            "sentence": "The nuclear reactor provides enough energy to bake 100 million mooncakes.",
+            "sentence_zh": "该核反应堆产生的能量足够烘烤1亿个月饼。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "chemical reactor",
+        "meaning": "化学反应器",
+        "examples": [
+          {
+            "sentence": "Our soy sauce is brewed in 100-year-old chemical reactors.",
+            "sentence_zh": "我们的酱油用百年历史的化学反应器酿造。"
+          }
+        ]
+      }
+    ],
+    "teach": "reactor是科学界的'多面手'🤹：既能当核电厂的'火锅'(nuclear reactor☢️)，又能做实验室的'奶茶摇杯'(chemical reactor🧪)。记住：核反应堆安全壳就像多层粽子叶🍀，而'反应堆爆炸'的地道说法是go critical（字面却是'达到临界'）。搭配说'启动反应堆'用fire up，'关闭'叫scram（源自紧急停堆的缩写）。",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐克特'→特锐克(reactor)反应特别快",
+        "易混词：actor（演员）是表演者，reactor（反应堆）是能量表演者"
+      ]
+    }
+  },
+  {
+    "word": "read",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'rǣdan'，原意包含'解读'和'建议'双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "读",
+        "examples": [
+          {
+            "sentence": "She reads three cheesy romance novels every week.",
+            "sentence_zh": "她每周要读三本狗血言情小说。"
+          },
+          {
+            "sentence": "Reading shampoo ingredients is my bathroom hobby.",
+            "sentence_zh": "阅读洗发水成分表是我的如厕爱好。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "理解",
+        "examples": [
+          {
+            "sentence": "I can't read his WeChat status updates at all.",
+            "sentence_zh": "我完全看不懂他的微信朋友圈动态。"
+          },
+          {
+            "sentence": "Reading between the lines, this resignation letter blames the boss.",
+            "sentence_zh": "从字里行间能读出，这封辞职信在骂领导。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有学问的",
+        "examples": [
+          {
+            "sentence": "His read comments on Zhihu earned him 100k followers.",
+            "sentence_zh": "他在知乎上渊博的评论收获10万粉丝。"
+          },
+          {
+            "sentence": "The most read professor always forgets where he put his glasses.",
+            "sentence_zh": "这位博学的教授总找不到他的眼镜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "阅读材料",
+        "examples": [
+          {
+            "sentence": "This viral post is perfect light read for subway commute.",
+            "sentence_zh": "这篇爆款文章是地铁通勤的完美轻松读物。"
+          },
+          {
+            "sentence": "Add some emoji to make your blog post an easier read.",
+            "sentence_zh": "加些表情符号让你的博文更易读。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "read out",
+        "meaning": "朗读",
+        "examples": [
+          {
+            "sentence": "The teacher made me read out my cringy middle school diary.",
+            "sentence_zh": "老师让我朗读初中写的羞耻日记。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "read up on",
+        "meaning": "研读",
+        "examples": [
+          {
+            "sentence": "I need to read up on how to fake understanding NFTs.",
+            "sentence_zh": "我得恶补如何假装懂NFT。"
+          }
+        ]
+      }
+    ],
+    "teach": "read是个变色龙单词🦎！作动词时像扫描仪📖（read QR codes），作形容词时像戴眼镜的熊猫博士🐼（a read scholar），作名词时像Kindle里的电子书📱。英国人说'Good read'就像我们说'下饭神剧'🍚，'读心术'叫mind reading就像测核酸捅到灵魂深处🧠！记住：read过去式/分词还是read，但发音变red，英语就是如此不讲武德🤺！",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐的'→锐利的目光才能read quickly",
+        "对比：read（阅读）vs lead（领导）vs bread（面包）"
+      ]
+    }
   }
 ]

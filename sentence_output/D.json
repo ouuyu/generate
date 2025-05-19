@@ -17286,5 +17286,350 @@
         "记忆tip：de(去掉)+compose(组成)=分解"
       ]
     }
+  },
+  {
+    "word": "decomposing",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "com",
+        "pose",
+        "ing"
+      ],
+      "meaning_connection": "前缀de-表'反向'，com-表'共同'，pose表'放置'→原指将组合物拆开放置，引申为'分解'和'腐烂'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "腐烂",
+        "examples": [
+          {
+            "sentence": "The decomposing durian smelled like a mix of gym socks and caramel.",
+            "sentence_zh": "腐烂的榴莲闻起来像运动袜混合焦糖的味道。"
+          },
+          {
+            "sentence": "Time-lapse photography shows decomposing bananas turning into liquid.",
+            "sentence_zh": "延时摄影显示腐烂的香蕉逐渐变成液体。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "分解",
+        "examples": [
+          {
+            "sentence": "Plastic bags take 1000 years to finish decomposing in nature.",
+            "sentence_zh": "塑料袋在自然界完全分解需要1000年。"
+          },
+          {
+            "sentence": "The app teaches kids how composting accelerates decomposing.",
+            "sentence_zh": "这个APP教孩子堆肥如何加速有机物分解。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "decomposing leaves",
+        "meaning": "腐烂中的落叶",
+        "examples": [
+          {
+            "sentence": "The forest floor smelled earthy from decomposing leaves.",
+            "sentence_zh": "森林地面因腐烂落叶散发着泥土气息。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "decomposing process",
+        "meaning": "分解过程",
+        "examples": [
+          {
+            "sentence": "Maggots play a crucial role in the decomposing process.",
+            "sentence_zh": "蛆虫在分解过程中起关键作用。"
+          }
+        ]
+      }
+    ],
+    "teach": "decomposing是自然界最真实的'拆快递'📦！就像你的双十一包裹最终会变成快递盒山🗑️，所有有机物都会经历'反向组合(de-com-pose)'的魔法：蘑菇是地球的清洁工🍄，把落叶变巧克力蛋糕般的腐殖质。搭配说'开始腐烂'用start decomposing，'加速分解'叫speed up decomposition。记住：你我最终都会加入这场终极回收计划♻️！",
+    "recite": {
+      "tips": [
+        "视觉联想：迪士尼《狮子王》circle of life场景",
+        "易混词对比：decay(整体腐烂) vs decompose(系统性分解)"
+      ]
+    }
+  },
+  {
+    "word": "decomposition",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "com",
+        "posit",
+        "ion"
+      ],
+      "meaning_connection": "前缀de-表'反向/去除'，com-表'共同'，词根posit=放置，-ion为名词后缀→字面意思'将组合物拆解归位'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "分解",
+        "examples": [
+          {
+            "sentence": "The decomposition of leaves provides nutrients for new plants.",
+            "sentence_zh": "树叶的分解为新植物提供养分。"
+          },
+          {
+            "sentence": "Mathematicians study prime number decomposition patterns.",
+            "sentence_zh": "数学家研究质数分解规律。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "腐败",
+        "examples": [
+          {
+            "sentence": "The smell indicated the decomposition of forgotten takeout.",
+            "sentence_zh": "这股气味说明忘拿的外卖已经腐败。"
+          },
+          {
+            "sentence": "Forensic experts analyze body decomposition stages.",
+            "sentence_zh": "法医专家分析尸体腐败阶段。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "变质",
+        "examples": [
+          {
+            "sentence": "The decomposition of milk ruined my cereal breakfast.",
+            "sentence_zh": "牛奶变质毁了我的麦片早餐。"
+          },
+          {
+            "sentence": "Metal decomposition causes rust on bicycles.",
+            "sentence_zh": "金属变质导致自行车生锈。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "thermal decomposition",
+        "meaning": "热分解",
+        "examples": [
+          {
+            "sentence": "Thermal decomposition turns limestone into quicklime.",
+            "sentence_zh": "热分解将石灰岩转化为生石灰。"
+          }
+        ]
+      }
+    ],
+    "teach": "decomposition是自然界的回收站♻️！当树叶分解时像被撕碎的情书✉️（leaf decomposition），食物腐败堪比僵尸末日🧟（food decomposition），而数学分解就像拆乐高积木🧩（number decomposition）。记住：'变质'说go bad更口语，'分解任务'叫break down tasks。你的冰箱就是decomposition研究最佳实验室！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟看破这神'→弟弟看破(de-com)这神奇的分解(posit-ion)",
+        "易混词对比：composition（组成）是它的反义词"
+      ]
+    }
+  },
+  {
+    "word": "decompression",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "compress",
+        "ion"
+      ],
+      "meaning_connection": "前缀de-表'反向'，compress表'压缩'，-ion表名词→反向压缩的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "降压",
+        "examples": [
+          {
+            "sentence": "The decompression process in scuba diving must be carefully calculated.",
+            "sentence_zh": "水肺潜水中的降压过程必须精确计算。"
+          },
+          {
+            "sentence": "Mountain climbers need gradual decompression to avoid altitude sickness.",
+            "sentence_zh": "登山者需要渐进式降压以避免高原反应。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "解除压缩",
+        "examples": [
+          {
+            "sentence": "WinRAR automatically starts decompression when you double-click the archive.",
+            "sentence_zh": "双击压缩包时WinRAR会自动开始解压。"
+          },
+          {
+            "sentence": "The 10GB game requires 30 minutes for full decompression.",
+            "sentence_zh": "这个10GB的游戏需要30分钟完全解压。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "decompression sickness",
+        "meaning": "减压病",
+        "examples": [
+          {
+            "sentence": "Pearl divers often suffer from decompression sickness.",
+            "sentence_zh": "采珠人常患减压病。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "decompression chamber",
+        "meaning": "减压舱",
+        "examples": [
+          {
+            "sentence": "Astronauts train in decompression chambers to simulate space conditions.",
+            "sentence_zh": "宇航员在减压舱内训练以模拟太空环境。"
+          }
+        ]
+      }
+    ],
+    "teach": "decompression就像给可乐开罐🥤：电脑解压是释放被压扁的数据气泡💾，潜水减压是防止血液变成沸腾的可乐🩸。'压力山大'说under pressure，'彻底放松'叫full decompression就像从996切换到度假模式🏖️。记住：解压技术拯救了我们的硬盘和血管！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟看破神仙'→弟弟通过解压(decompression)看破修仙秘籍",
+        "易混词对比：compress压缩 vs decompress解压"
+      ]
+    }
+  },
+  {
+    "word": "deconstruct",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "con",
+        "struct"
+      ],
+      "meaning_connection": "前缀de-=反向/去除，con-=共同/加强，词根struct=建造→逆向拆解建筑结构"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "解构（文学作品等）",
+        "examples": [
+          {
+            "sentence": "The professor deconstructed Harry Potter to reveal Marxist themes.",
+            "sentence_zh": "教授解构《哈利波特》以揭示其中的马克思主义主题。"
+          },
+          {
+            "sentence": "Deconstructing memes shows how internet culture reinvents old jokes.",
+            "sentence_zh": "解构表情包能展现网络文化如何重构老笑话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "拆析",
+        "examples": [
+          {
+            "sentence": "She deconstructed her failed relationship like a murder case.",
+            "sentence_zh": "她像分析凶杀案般拆析自己失败的感情。"
+          },
+          {
+            "sentence": "Tech reviewers deconstruct smartphones to the last screw.",
+            "sentence_zh": "科技测评师会把智能手机拆解到最后一颗螺丝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deconstruct into",
+        "meaning": "分解为",
+        "examples": [
+          {
+            "sentence": "The chef deconstructed mooncakes into molecular components.",
+            "sentence_zh": "主厨将月饼分解成分子级成分。"
+          }
+        ]
+      }
+    ],
+    "teach": "deconstruct是学术界的乐高大师🧩！就像把火锅拆成底料+荤素碟🍲（deconstruct food），或把《甄嬛传》看成职场攻略📜（deconstruct drama）。搭配'deconstruct stereotypes'打破刻板印象，'deconstruct to the core'彻底解构。说'过度分析'可以用over-deconstruct就像用显微镜吃小龙虾🔍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'滴咖啡砖头'→像滴管分析咖啡砖成分",
+        "易混词对比：destroy（毁灭）vs deconstruct（拆解分析）",
+        "记忆tip：想象把宜家家具逆向组装说明书📦"
+      ]
+    }
+  },
+  {
+    "word": "deconstruction",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "con",
+        "struct",
+        "ion"
+      ],
+      "meaning_connection": "前缀de-=相反/移除，con-=共同，词根struct=建造，-ion=名词后缀→字面意思是'拆解建造'，后衍生为哲学概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "解构主义（哲学概念）",
+        "examples": [
+          {
+            "sentence": "Derrida's deconstruction challenges binary oppositions like good vs evil.",
+            "sentence_zh": "德里达的解构主义挑战善恶对立的二元论。"
+          },
+          {
+            "sentence": "Applying deconstruction to TikTok videos reveals hidden power dynamics.",
+            "sentence_zh": "用解构主义分析抖音视频能揭露隐藏的权力关系。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "文本拆析（文学批评）",
+        "examples": [
+          {
+            "sentence": "Her deconstruction of the romance novel exposed its patriarchal assumptions.",
+            "sentence_zh": "她对爱情小说的拆析揭露了其中的父权预设。"
+          },
+          {
+            "sentence": "The professor's deconstruction of the poem left us questioning every word.",
+            "sentence_zh": "教授对这首诗的拆析让我们开始质疑每个用词。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "practice deconstruction",
+        "meaning": "实践解构",
+        "examples": [
+          {
+            "sentence": "Architects now practice deconstruction by designing buildings that seem unfinished.",
+            "sentence_zh": "建筑师通过设计看似未完成的建筑来实践解构主义。"
+          }
+        ]
+      }
+    ],
+    "teach": "解构就像拆乐高🧩+找茬👓的双重游戏！德里达发明这个词时，就像把'完美'的哲学大厦炸成烟花🎆。想吐槽时可以说'Let's deconstruct this!'（咱们拆穿它），比如拆解'转发有好运'其实就是数据收割🌐。记住：看破不说破的叫禅宗，看破又拆破的叫deconstruction！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟看啥'→弟弟看啥都拆解(deconstruction)",
+        "对比记忆：construction是搭积木，deconstruction是拆积木"
+      ]
+    }
   }
 ]

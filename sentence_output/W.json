@@ -18094,5 +18094,304 @@
         "易混词对比：wedding（婚礼）vs weeding（除草）→新娘说'我要除草(weeding)'比'我要婚礼(wedding)'更可怕"
       ]
     }
+  },
+  {
+    "word": "weedy",
+    "etymology": {
+      "breakdown": [
+        "weed",
+        "y"
+      ],
+      "meaning_connection": "weed=杂草，-y=形容词后缀→形容像杂草一样的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "尽是杂草的",
+        "examples": [
+          {
+            "sentence": "The weedy backyard became a perfect habitat for fireflies.",
+            "sentence_zh": "杂草丛生的后院成了萤火虫的完美栖息地。"
+          },
+          {
+            "sentence": "Grandpa complained about his weedy rice field every summer.",
+            "sentence_zh": "爷爷每年夏天都抱怨他那长满杂草的稻田。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "似杂草的",
+        "examples": [
+          {
+            "sentence": "She wore a dress with weedy patterns that swayed like real grass.",
+            "sentence_zh": "她穿着印有杂草纹样的裙子，走起来像真草在摇曳。"
+          },
+          {
+            "sentence": "The artist's weedy brushstrokes gave the painting a wild feeling.",
+            "sentence_zh": "画家杂草般的笔触赋予作品野性美。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "瘦弱的",
+        "examples": [
+          {
+            "sentence": "The weedy kitten somehow defeated the big dog in the viral video.",
+            "sentence_zh": "这只瘦弱的小猫在网红视频里居然打败了大狗。"
+          },
+          {
+            "sentence": "His weedy arms couldn't even open the tight jar lid.",
+            "sentence_zh": "他瘦弱的手臂连紧实的罐子盖都拧不开。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "蔓生的",
+        "examples": [
+          {
+            "sentence": "The weedy vines completely covered the abandoned bicycle.",
+            "sentence_zh": "蔓生的藤本植物完全覆盖了废弃自行车。"
+          },
+          {
+            "sentence": "Weedy morning glories climbed up the streetlight like natural decorations.",
+            "sentence_zh": "蔓生的牵牛花像天然装饰品攀上路灯。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weedy patch",
+        "meaning": "杂草丛生的地块",
+        "examples": [
+          {
+            "sentence": "Children turned the weedy patch behind school into a secret base.",
+            "sentence_zh": "孩子们把学校后面杂草丛生的空地改造成了秘密基地。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "weedy look",
+        "meaning": "瘦弱的外表",
+        "examples": [
+          {
+            "sentence": "Despite his weedy look, he's actually a martial arts master.",
+            "sentence_zh": "尽管外表瘦弱，他其实是武术高手。"
+          }
+        ]
+      }
+    ],
+    "teach": "weedy就像杂草界的斜杠青年🌱/💪/🦴：当形容土地时，它比'乱'更生动（就像你半个月没打理的蚂蚁森林）；说人瘦弱时比'skinny'更毒舌（想象豆芽菜成精）；作'蔓生'解时自带野蛮生长特效🌿。搭配推荐：weedy talent（野路子才华）/weedy persistence（杂草般的韧性）。记住：说人weak太伤人，换成weedy瞬间变萌！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微的'→微胖的反义词是微(weedy)瘦",
+        "易混词对比：weed vs weedy（前者是名词杂草，后者是形容词状态）",
+        "记忆口诀：weed+y=像杂草般又乱又顽强"
+      ]
+    }
+  },
+  {
+    "word": "week",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'wice'，与德语'Woche'同源，原始印欧语词根*weik-表示'转动'，可能与月亮周期变化相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "星期（7天周期）",
+        "examples": [
+          {
+            "sentence": "Chinese students call the week before final exams 'dark week'.",
+            "sentence_zh": "中国学生把期末考试前一周称为'黑暗周'。"
+          },
+          {
+            "sentence": "The delivery service guarantees your hotpot ingredients within one week.",
+            "sentence_zh": "该配送服务保证一周内送达火锅食材。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "工作周（区别于周末）",
+        "examples": [
+          {
+            "sentence": "Weekday subway crowds in Beijing are like canned sardines.",
+            "sentence_zh": "北京工作周的地铁拥挤得像沙丁鱼罐头。"
+          },
+          {
+            "sentence": "Her week starts with 8 consecutive meetings every Monday.",
+            "sentence_zh": "她每周的工作周从周一连续8个会议开始。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "week in, week out",
+        "meaning": "一周又一周地",
+        "examples": [
+          {
+            "sentence": "He practices Peking Opera week in, week out for 20 years.",
+            "sentence_zh": "他二十年如一周地练习京剧。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hump week",
+        "meaning": "周三（一周中点）",
+        "examples": [
+          {
+            "sentence": "On hump week, office workers start counting down to weekend.",
+            "sentence_zh": "一到周三，上班族就开始倒数周末。"
+          }
+        ]
+      }
+    ],
+    "teach": "week其实是'月亮的皱纹'🌗！古罗马人用月亮周期划分时间（7天=月亮从新月到上弦月的时间）。'加班周'叫hell week👹，'摸鱼周三'叫hump day🐫（翻过驼峰就到周末）。记住：你的week决定你几点能吃到海底捞！",
+    "recite": {
+      "tips": [
+        "谐音梗：'胃渴'→连续工作一周胃都渴了",
+        "易混词：weak（虚弱）vs week（周）→ '连续weak加班后需要week休息'"
+      ]
+    }
+  },
+  {
+    "word": "weekday",
+    "etymology": {
+      "breakdown": [
+        "week",
+        "day"
+      ],
+      "meaning_connection": "week表示'周'，day表示'日'→字面意思为一周中的日子"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "周日",
+        "examples": [
+          {
+            "sentence": "He always goes to church on weekdays.",
+            "sentence_zh": "他总是在周日去教堂。"
+          },
+          {
+            "sentence": "Weekday is my favorite day to relax.",
+            "sentence_zh": "周日是我最爱的休息日。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "平日",
+        "examples": [
+          {
+            "sentence": "The subway is crowded on weekdays.",
+            "sentence_zh": "平日地铁总是很拥挤。"
+          },
+          {
+            "sentence": "She only wears casual clothes on weekdays.",
+            "sentence_zh": "平日她只穿休闲装。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on weekdays",
+        "meaning": "在平时",
+        "examples": [
+          {
+            "sentence": "I usually go to bed early on weekdays.",
+            "sentence_zh": "平时我通常早睡。"
+          }
+        ]
+      }
+    ],
+    "teach": "weekday就像打工人和学生的日常🎒：从周一到周五就像在跑马拉松🏃‍♂️（weekday routine），而周日则是充电宝时刻🔋（Sunday recharge）。说'工作日忙成狗'可以吐槽说'I'm a weekday zombie'（平日僵尸），'周末综合征'叫weekday blues就像周一早上的熊猫眼🐼。记住：weekday=你的生存模式，weekend=你的生活模式！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微课的'→平日都在上微课",
+        "易混词对比：weekday（平日）vs. weekend（周末）"
+      ]
+    }
+  },
+  {
+    "word": "weekend",
+    "etymology": {
+      "breakdown": [
+        "week",
+        "end"
+      ],
+      "meaning_connection": "week（周）+ end（结束）→ 一周的终结时段"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "周末",
+        "examples": [
+          {
+            "sentence": "Beijing's hutongs are most lively during the weekend.",
+            "sentence_zh": "北京的胡同在周末最为热闹。"
+          },
+          {
+            "sentence": "WeChat Moments are flooded with food pics every weekend.",
+            "sentence_zh": "每到周末朋友圈就被美食照片刷屏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "周末休假",
+        "examples": [
+          {
+            "sentence": "Her weekend in Chengdu involved eating 15 hotpot meals.",
+            "sentence_zh": "她在成都的周末休假期间吃了15顿火锅。"
+          },
+          {
+            "sentence": "A good weekend requires at least 20 hours of sleep.",
+            "sentence_zh": "一个完美的周末休假需要至少20小时的睡眠。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "long weekend",
+        "meaning": "小长假",
+        "examples": [
+          {
+            "sentence": "People queue for hours during long weekends at the Great Wall.",
+            "sentence_zh": "小长假期间人们在长城要排队数小时。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "weekend getaway",
+        "meaning": "周末短途旅行",
+        "examples": [
+          {
+            "sentence": "Shanghainese love weekend getaways to Moganshan for bamboo shoots.",
+            "sentence_zh": "上海人喜欢周末去莫干山短途旅行吃笋。"
+          }
+        ]
+      }
+    ],
+    "teach": "weekend其实是'尾刻的'🎉！中世纪英国工人用week's end指周六下午休息（当时只休半天！）。现在说'周末加班'叫weekend slavery（周末奴役），'报复性熬夜'是revenge bedtime procrastination⏰。记住：真正的weekend应该像火锅——沸腾而自由！🍲✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'胃空的'→周末把胃吃空",
+        "易混词：weekday（工作日）vs weekend（周末）"
+      ]
+    }
   }
 ]

@@ -17814,5 +17814,295 @@
         "对比记忆：vividly（生动地）侧重画面感，vibrantly强调动态活力"
       ]
     }
+  },
+  {
+    "word": "vibrate",
+    "etymology": {
+      "breakdown": [
+        "vibr",
+        "ate"
+      ],
+      "meaning_connection": "词根vibr=摆动，-ate表动词→原指快速来回运动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "振动",
+        "examples": [
+          {
+            "sentence": "My phone vibrates like an electric toothbrush when receiving WeChat messages.",
+            "sentence_zh": "收到微信时我手机震得像电动牙刷。"
+          },
+          {
+            "sentence": "The bridge vibrates slightly when heavy trucks pass by.",
+            "sentence_zh": "重型卡车经过时桥梁会轻微振动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "颤动",
+        "examples": [
+          {
+            "sentence": "Her voice vibrated with excitement when talking about K-pop concerts.",
+            "sentence_zh": "谈及韩流演唱会时她的声音激动得发颤。"
+          },
+          {
+            "sentence": "The jelly on the plate vibrates when you tap the table.",
+            "sentence_zh": "轻敲桌子时盘子里的果冻会颤动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "摇摆",
+        "examples": [
+          {
+            "sentence": "The lanterns vibrate in the wind during the Mid-Autumn Festival.",
+            "sentence_zh": "中秋节的灯笼在风中摇摆。"
+          },
+          {
+            "sentence": "His decision vibrated between staying single or getting married.",
+            "sentence_zh": "他在保持单身和结婚之间摇摆不定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使振动",
+        "examples": [
+          {
+            "sentence": "The DJ vibrated the entire dance floor with heavy bass.",
+            "sentence_zh": "DJ用重低音让整个舞池都在震动。"
+          },
+          {
+            "sentence": "Construction work vibrates my coffee into a mini tsunami.",
+            "sentence_zh": "施工震动让我的咖啡泛起迷你海啸。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vibrate with",
+        "meaning": "因...而震颤",
+        "examples": [
+          {
+            "sentence": "The stadium vibrated with cheers when the national team scored.",
+            "sentence_zh": "国家队得分时体育馆因欢呼声而震动。"
+          }
+        ]
+      }
+    ],
+    "teach": "vibrate是万物颤抖的灵魂💃！物理学里它是手机震动📳（vibrate mode），生物学里是声带颤抖🗣️（vibrate with emotion），恋爱里是心跳加速💓（heart vibrates），连犹豫不决都是脑电波在摇摆🤯（vibrate between choices）。记住：'手机振'用vibrate，'手发抖'用tremble！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外摆的'→外面摆动的(vibrate)招牌",
+        "易混词对比：vibrate（规律震动） vs. tremble（恐惧颤抖）",
+        "联想记忆：VIP振动模式→vi-brate"
+      ]
+    }
+  },
+  {
+    "word": "vibrating",
+    "etymology": {
+      "breakdown": [
+        "vibrat(e)",
+        "ing"
+      ],
+      "meaning_connection": "词根vibrate来自拉丁语'vibrare'（摇动），-ing表进行时或形容词化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "振动的",
+        "examples": [
+          {
+            "sentence": "The vibrating massage chair made him sneeze uncontrollably.",
+            "sentence_zh": "振动的按摩椅让他打喷嚏停不下来。"
+          },
+          {
+            "sentence": "We found the missing phone by following its vibrating sound.",
+            "sentence_zh": "我们循着振动声找到了丢失的手机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "振动",
+        "examples": [
+          {
+            "sentence": "The vibrating of subway trains affects nearby antique buildings.",
+            "sentence_zh": "地铁列车的振动会影响附近的古建筑。"
+          },
+          {
+            "sentence": "Doctors use high-frequency vibrating to break kidney stones.",
+            "sentence_zh": "医生用高频振动击碎肾结石。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vibrating mode",
+        "meaning": "振动模式",
+        "examples": [
+          {
+            "sentence": "Put your phone on vibrating mode during the concert.",
+            "sentence_zh": "音乐会期间请将手机设为振动模式。"
+          }
+        ]
+      }
+    ],
+    "teach": "vibrating是手机的灵魂抖动📳！从拉丁语'vibrare'（像跳广场舞的大妈🕺）演变而来。'振到没电'说vibrate to death，'开振动'叫set to vibrate。这个单词自带BGM——想象手机在桌上跳踢踏舞💃，这就是vibrating的视觉化！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外不锐停'→外置设备(vibrating)震动不停",
+        "易混词对比：vibrate（动词） vs. vibration（名词）"
+      ]
+    }
+  },
+  {
+    "word": "vibration",
+    "etymology": {
+      "breakdown": [
+        "vibrat",
+        "ion"
+      ],
+      "meaning_connection": "词根vibrat=震动（来自拉丁语vibrare），-ion表名词→物理上的往复运动"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "振动",
+        "examples": [
+          {
+            "sentence": "The vibration of my phone scared my cat during zoom meetings.",
+            "sentence_zh": "视频会议时我手机的震动吓到了猫咪。"
+          },
+          {
+            "sentence": "Scientists measure earthquake vibrations with precise instruments.",
+            "sentence_zh": "科学家用精密仪器测量地震振动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "颤动",
+        "examples": [
+          {
+            "sentence": "Her voice had a nervous vibration when speaking to her crush.",
+            "sentence_zh": "和暗恋对象说话时她的声音带着紧张的颤抖。"
+          },
+          {
+            "sentence": "The vibration of guitar strings creates beautiful music.",
+            "sentence_zh": "吉他琴弦的颤动创造出美妙音乐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "good vibrations",
+        "meaning": "积极氛围",
+        "examples": [
+          {
+            "sentence": "Our team has good vibrations during hackathons.",
+            "sentence_zh": "黑客马拉松期间我们团队氛围超好。"
+          }
+        ]
+      }
+    ],
+    "teach": "vibration是宇宙的通用语言🌌！从手机震动📳到声波颤抖🎵，再到'好人卡'发放时的心碎震颤💔。说'氛围好'用good vibrations就像吃火锅时的沸腾气泡🍲，'手抖'叫hand vibrations像奶茶喝多了的咖啡因反应☕。记住：万物皆可vibrate，包括看到工资条时你的瞳孔地震！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪脖train'→歪脖子坐火车(vibration)颠得慌",
+        "易混词对比：vibration(物理振动) vs. vibe(抽象氛围)",
+        "联想记忆：Wi-Fi信号图标📶就是典型的vibration图案"
+      ]
+    }
+  },
+  {
+    "word": "vibrational",
+    "etymology": {
+      "breakdown": [
+        "vibrat(e)",
+        "ion",
+        "al"
+      ],
+      "meaning_connection": "词根vibrate=振动，-ion表名词后缀，-al表形容词后缀→'与振动相关的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "振动的",
+        "examples": [
+          {
+            "sentence": "The vibrational frequency of this nanomaterial can shatter diamonds.",
+            "sentence_zh": "这种纳米材料的振动频率能震碎钻石。"
+          },
+          {
+            "sentence": "Tibetan singing bowls produce deep vibrational healing effects.",
+            "sentence_zh": "西藏颂钵能产生深层的振动疗愈效果。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vibrational energy",
+        "meaning": "振动能量",
+        "examples": [
+          {
+            "sentence": "Quantum physicists measure vibrational energy at absolute zero.",
+            "sentence_zh": "量子物理学家会测量绝对零度下的振动能量。"
+          }
+        ]
+      }
+    ],
+    "teach": "vibrational是宇宙的抖音模式📳！从手机震动到太阳耀斑🌞都是振动，连猫呼噜声都是50Hz振动🐈。说'震到脑壳疼'叫vibing too hard，'灵魂共振'叫frequency alignment💞。记住：你的WiFi和佛祖的钵盂都在玩振动！",
+    "recite": {
+      "tips": [
+        "视觉联想：把单词拆成vibrate（振动）+ional→像手机在跳舞的emoji📳💃",
+        "易混词对比：vibrant（鲜艳的）vs vibrational（振动的）→ 一个用眼睛看👀，一个用身体感🤲"
+      ]
+    }
+  },
+  {
+    "word": "vibrato",
+    "etymology": {
+      "breakdown": [
+        "vibr",
+        "ato"
+      ],
+      "meaning_connection": "词根vibr=振动，后缀-ato来自意大利语（音乐术语常见）→ 字面意思就是'制造振动的效果'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "颤音（音乐术语）",
+        "examples": [
+          {
+            "sentence": "The erhu player's vibrato made the melody sound like crying willows.",
+            "sentence_zh": "二胡演奏者的颤音让旋律宛如垂柳呜咽。"
+          },
+          {
+            "sentence": "Her vibrato on the high note was as unstable as a newbie riding a共享单车.",
+            "sentence_zh": "她高音的颤音就像新手骑共享单车一样不稳定。"
+          }
+        ]
+      }
+    ],
+    "teach": "vibrato是音乐界的抖音🎵！想象小提琴弦像手机振动模式📳（物理振动），而歌唱家的颤音像外卖小哥赶单时的声线颤抖🚴。搭配'produce vibrato'（制造颤音）和'wide vibrato'（大幅度颤音），地道说法是'shaky voice'（颤抖声线）🎤。记住：好颤音像老陈醋——要醇要匀！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微波炉透'→微波炉振动(vibrato)热饭",
+        "易混词：vibrate（物理振动）vs vibrato（艺术处理）"
+      ]
+    }
   }
 ]

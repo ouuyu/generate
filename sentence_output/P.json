@@ -17597,5 +17597,259 @@
         "记忆法：双写r像交叉的剑"
       ]
     }
+  },
+  {
+    "word": "parse",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语pars（部分），原指语法分解"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "语法分析",
+        "examples": [
+          {
+            "sentence": "The professor parsed the ancient poem word by word like dissecting a frog.",
+            "sentence_zh": "教授逐字解析古诗，像解剖青蛙般细致。"
+          },
+          {
+            "sentence": "Chatbots must parse sentences to understand 'I want hotpot' versus 'I hate hotpot'.",
+            "sentence_zh": "聊天机器人需分析句子才能区分'我想吃火锅'和'我讨厌火锅'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "数据分列",
+        "examples": [
+          {
+            "sentence": "Python can parse CSV files faster than you can say 'pandas'.",
+            "sentence_zh": "Python分列CSV文件的速度比你说出'pandas'还快。"
+          },
+          {
+            "sentence": "The app parses your shopping list into categories: snacks, instant noodles, and more snacks.",
+            "sentence_zh": "这个APP把你的购物清单分列为：零食、泡面、以及更多零食。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parse out",
+        "meaning": "解析出",
+        "examples": [
+          {
+            "sentence": "The algorithm parsed out 20 slang terms from livestream comments.",
+            "sentence_zh": "算法从直播弹幕中解析出20个网络流行语。"
+          }
+        ]
+      }
+    ],
+    "teach": "parse就像语言手术刀🔪+数据分拣机📊！语法分析时像语文老师划主谓宾✏️（parse sentences），处理数据时像快递员分拣包裹📦（parse data）。程序员常说'Let me parse this'就像说'让我理理思路'💡。记住：遇到长难句就parse it like a pineapple🍍——先削皮再切块！",
+    "recite": {
+      "tips": [
+        "谐音梗：'扒丝'→给句子扒丝抽茧",
+        "易混词：analyze（整体分析）vs parse（结构化拆分）"
+      ]
+    }
+  },
+  {
+    "word": "parsimonious",
+    "etymology": {
+      "breakdown": [
+        "parsi",
+        "monious"
+      ],
+      "meaning_connection": "词根parsi源自拉丁语'parcere'（节约），后缀-monious表'倾向性'→像守财奴数金币的强烈倾向"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "过度节俭的",
+        "examples": [
+          {
+            "sentence": "The parsimonious professor reused tea bags until they turned white.",
+            "sentence_zh": "这位节俭过度的教授反复使用茶包直到发白。"
+          },
+          {
+            "sentence": "Her parsimonious habit of saving used toothpicks made her family groan.",
+            "sentence_zh": "她收集用过的牙签的极端节俭习惯让家人叫苦不迭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "吝啬小气的",
+        "examples": [
+          {
+            "sentence": "The parsimonious landlord charged tenants for breathing his hallway air.",
+            "sentence_zh": "吝啬的房东连租客呼吸楼道空气都要收费。"
+          },
+          {
+            "sentence": "His parsimonious tipping made waiters spill drinks 'accidentally'.",
+            "sentence_zh": "他给的小费太吝啬，服务员总'不小心'打翻饮料。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parsimonious with",
+        "meaning": "对...吝啬",
+        "examples": [
+          {
+            "sentence": "He's parsimonious with compliments but generous with criticism.",
+            "sentence_zh": "他吝于赞美却从不吝啬批评。"
+          }
+        ]
+      }
+    ],
+    "teach": "parsimonious是葛朗台转世💰！这个词来自拉丁语'parcere'（节约），就像把牙膏皮剪开再刮三天✂️。要说'抠门'可以叫penny-pincher（掐便士的人），'铁公鸡'是stingy as a lobster🦞。记住：当AA制朋友连餐巾纸都要平分时，就是parsimonious本尊了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕失money啊死'→怕丢钱怕到死",
+        "易混词对比：frugal（褒义的节俭） vs parsimonious（贬义的吝啬）",
+        "联想记忆：parse（解析）+ money（钱）→ 把每分钱都解析到极致"
+      ]
+    }
+  },
+  {
+    "word": "parsimony",
+    "etymology": {
+      "breakdown": [
+        "parsi",
+        "mony"
+      ],
+      "meaning_connection": "词根parsi=节约（来自拉丁语parcere），后缀-mony表状态→极度节约的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "过度节俭",
+        "examples": [
+          {
+            "sentence": "His parsimony reached the point of reusing tea bags for a week.",
+            "sentence_zh": "他的节俭到了茶包重复使用一周的程度。"
+          },
+          {
+            "sentence": "The billionaire's parsimony with air conditioning shocked his staff.",
+            "sentence_zh": "这位亿万富翁在空调使用上的吝啬让员工震惊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "吝啬",
+        "examples": [
+          {
+            "sentence": "The landlord's parsimony in building maintenance caused the pipes to burst.",
+            "sentence_zh": "房东在房屋维护上的吝啬导致管道爆裂。"
+          },
+          {
+            "sentence": "Her parsimony with compliments made her praise truly valuable.",
+            "sentence_zh": "她对赞美的吝啬反而让她的表扬弥足珍贵。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "惜墨如金",
+        "examples": [
+          {
+            "sentence": "The poet's parsimony with words created stunning minimalism.",
+            "sentence_zh": "这位诗人惜墨如金的风格造就了惊人的极简主义。"
+          },
+          {
+            "sentence": "Academic writing values parsimony over verbosity.",
+            "sentence_zh": "学术写作重视简练而非冗长。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "principle of parsimony",
+        "meaning": "简约原则（奥卡姆剃刀）",
+        "examples": [
+          {
+            "sentence": "Scientists use the principle of parsimony to choose the simplest explanation.",
+            "sentence_zh": "科学家用简约原则选择最简单的解释。"
+          }
+        ]
+      }
+    ],
+    "teach": "parsimony其实是'抠门学'🧮！就像《葛朗台》里数金币的老头💰，或像程序员省到用tab键代替4个空格⌨️。科学界的'奥卡姆剃刀'原则也叫parsimony，专剃多余假设✂️。说'铁公鸡'可以用penny-pincher，'吝啬鬼'是Scrooge（狄更斯人物名）。记住：该省省该花花，别让parsimony变成pathology！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕谁摸你'→守财奴怕人摸他钱包",
+        "对比：frugal(节俭中性) vs parsimony(过度贬义)",
+        "联想：parse(解析)+money(钱)→解析每一分钱"
+      ]
+    }
+  },
+  {
+    "word": "parsley",
+    "etymology": {
+      "breakdown": [
+        "petro",
+        "selinon"
+      ],
+      "meaning_connection": "来自希腊语petro（石头）+ selinon（芹菜），因常生长在多石地带得名，中世纪拉丁语演变为petrosilium"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "皱叶欧芹",
+        "examples": [
+          {
+            "sentence": "The chef garnished the steak with curly parsley like green confetti.",
+            "sentence_zh": "厨师用卷曲的欧芹装饰牛排，像绿色的彩屑。"
+          },
+          {
+            "sentence": "Parsley in hotpot dipping sauce is the soul of Chongqing style.",
+            "sentence_zh": "油碟里的欧芹碎是重庆火锅的灵魂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "荷兰芹",
+        "examples": [
+          {
+            "sentence": "Flat-leaf parsley is essential for authentic tabbouleh salad.",
+            "sentence_zh": "平叶荷兰芹是正宗塔布勒沙拉的必备。"
+          },
+          {
+            "sentence": "She grows Italian parsley in her balcony herb garden.",
+            "sentence_zh": "她在阳台香草园种植意大利荷兰芹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parsley soup",
+        "meaning": "欧芹汤",
+        "examples": [
+          {
+            "sentence": "French parsley soup tastes like spring in a bowl.",
+            "sentence_zh": "法式欧芹汤喝起来像装在碗里的春天。"
+          }
+        ]
+      }
+    ],
+    "teach": "欧芹是调味界的'绿茶'🌿：古希腊人用它编冠军花环🏆，中世纪却认为吃它会变寡妇（纯属谣言！）。'装饰性配角'叫parsley role，'毫无用处'说like parsley on fish（像鱼上的欧芹——多余）。记住：它比香菜（coriander）叶片更锯齿，味道更清新！👃➿",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕谁理'→欧芹怕被谁理睬（存在感低）",
+        "易混词：celery芹菜（粗茎）/parsley欧芹（细叶）",
+        "记忆法：parsley=park+seldom→公园里少见的香草"
+      ]
+    }
   }
 ]

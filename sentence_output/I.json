@@ -17879,5 +17879,275 @@
         "易混词对比：permeable（可渗透的）就像筛子vs impermeable像不锈钢盆"
       ]
     }
+  },
+  {
+    "word": "impermissible",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "permiss",
+        "ible"
+      ],
+      "meaning_connection": "前缀im-表示否定，词根permiss来自permit（允许），-ible表'可...的'→字面意思'不可允许的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不允许的",
+        "examples": [
+          {
+            "sentence": "Using VPNs to bypass the Great Firewall is impermissible by law.",
+            "sentence_zh": "法律不允许使用VPN翻越防火墙。"
+          },
+          {
+            "sentence": "The teacher made it clear that cheating with AI is impermissible.",
+            "sentence_zh": "老师明确表示用AI作弊是不允许的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不许可的",
+        "examples": [
+          {
+            "sentence": "Parking your shared bike in subway stations is impermissible.",
+            "sentence_zh": "在地铁站停放共享单车是不许可的。"
+          },
+          {
+            "sentence": "Posting sensitive content on Weibo is impermissible.",
+            "sentence_zh": "在微博发布敏感内容是不被许可的。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impermissible conduct",
+        "meaning": "禁止行为",
+        "examples": [
+          {
+            "sentence": "Spitting in public is considered impermissible conduct in civilized cities.",
+            "sentence_zh": "在文明城市，随地吐痰属于禁止行为。"
+          }
+        ]
+      }
+    ],
+    "teach": "impermissible就是'没门儿'🚪的豪华版！想象交警对你摇手指👮♂️说'No parking here'的样子。搭配'impermissible delay'（不可接受的延误）就像高铁晚点3小时⏳，'impermissible risk'（不可承受风险）好比用5G手机当暖手宝🔥。记住：带im-的词都自带拒绝特效，就像微信弹出的'该内容无法查看'❌。",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨母撇西伯利'→姨母撇下西伯利亚(im-permiss-ible)不允许的流放",
+        "易混词对比：impermissible vs. impossible → 前者是'不允许'，后者是'不可能'"
+      ]
+    }
+  },
+  {
+    "word": "impersonal",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "person",
+        "al"
+      ],
+      "meaning_connection": "前缀im-表否定，词根person=人，后缀-al表性质→原指'非人的'，引申出客观/无人情味等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "客观的",
+        "examples": [
+          {
+            "sentence": "The AI gave an impersonal analysis of the stock market trends.",
+            "sentence_zh": "AI对股市走势做出了客观分析。"
+          },
+          {
+            "sentence": "Scientific reports should maintain an impersonal tone.",
+            "sentence_zh": "科学报告应保持客观语气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "和个人无关的",
+        "examples": [
+          {
+            "sentence": "The policy change was purely impersonal, not targeting any individual.",
+            "sentence_zh": "政策调整纯属事务性，不针对任何个人。"
+          },
+          {
+            "sentence": "His criticism was strictly impersonal and professional.",
+            "sentence_zh": "他的批评完全是对事不对人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "没有人情味的",
+        "examples": [
+          {
+            "sentence": "The new boss's impersonal management style made employees feel like cogs in a machine.",
+            "sentence_zh": "新老板冷漠的管理方式让员工觉得自己像机器零件。"
+          },
+          {
+            "sentence": "The hospital's impersonal atmosphere added to patients' anxiety.",
+            "sentence_zh": "医院冷冰冰的氛围加剧了病人的焦虑。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "非人称的",
+        "examples": [
+          {
+            "sentence": "\"It rains\" is an impersonal construction in English.",
+            "sentence_zh": "\"It rains\"是英语中的非人称结构。"
+          },
+          {
+            "sentence": "The impersonal verb form is common in weather expressions.",
+            "sentence_zh": "非人称动词形式常见于天气表达中。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "非人称动词(或代词)",
+        "examples": [
+          {
+            "sentence": "In Spanish, the impersonal \"se\" is frequently used.",
+            "sentence_zh": "西班牙语中经常使用非人称代词\"se\"。"
+          },
+          {
+            "sentence": "Linguists debate whether Chinese has true impersonals.",
+            "sentence_zh": "语言学家争论汉语是否存在真正的非人称动词。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impersonal force",
+        "meaning": "客观力量",
+        "examples": [
+          {
+            "sentence": "Market fluctuations are seen as an impersonal force beyond individual control.",
+            "sentence_zh": "市场波动被视为个人无法控制的客观力量。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "impersonal pronoun",
+        "meaning": "非人称代词",
+        "examples": [
+          {
+            "sentence": "\"One\" functions as an impersonal pronoun in formal English.",
+            "sentence_zh": "\"One\"在正式英语中充当非人称代词。"
+          }
+        ]
+      }
+    ],
+    "teach": "impersonal就像机器人客服🤖！当它表示'客观'时，像天气预报员说'今日降水概率70%'☔；表示'无人情味'时，像银行自动回复'您的申请正在处理中...'💼；语法中的'非人称'就像中文说'下雨了'根本不管是谁说的🌧️。记住：前缀im-是'非人'警报器，看到就要想起'莫得感情'的终结者表情🔴！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬破桑拿'→僵硬(impersonal)的桑拿服务",
+        "易混词对比：personal（个人的）vs impersonal（非个人的）就像热脸贴冷屁股"
+      ]
+    }
+  },
+  {
+    "word": "impersonality",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "personal",
+        "ity"
+      ],
+      "meaning_connection": "前缀im-表否定，词根personal=个人的，-ity表性质→非个人性质的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "非人格性",
+        "examples": [
+          {
+            "sentence": "The impersonality of AI chatbots sometimes creeps users out.",
+            "sentence_zh": "AI聊天机器人的非人格性有时会吓到用户。"
+          },
+          {
+            "sentence": "Buddhism emphasizes the impersonality of desires.",
+            "sentence_zh": "佛教强调欲望的非人格性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "客观性",
+        "examples": [
+          {
+            "sentence": "Scientific papers require absolute impersonality in data analysis.",
+            "sentence_zh": "科学论文要求数据分析的绝对客观性。"
+          },
+          {
+            "sentence": "The judge's impersonality was questioned when he smiled at the defendant.",
+            "sentence_zh": "法官对被告微笑时，他的客观性受到质疑。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with impersonality",
+        "meaning": "以客观态度",
+        "examples": [
+          {
+            "sentence": "She handled the complaint with clinical impersonality.",
+            "sentence_zh": "她以近乎冷酷的客观态度处理投诉。"
+          }
+        ]
+      }
+    ],
+    "teach": "impersonality是'莫得感情'🤖的学术说法！就像《流浪地球》的MOSS系统⚡，既客观又让人后背发凉🧊。要形容'公事公办'可以说businesslike（像做生意般不带感情），'冷冰冰的态度'叫icy demeanor❄️。记住：当HR说'我们会客观处理'时，impersonality这个词就在暗中观察👀！",
+    "recite": {
+      "tips": [
+        "拆解记忆：im(不)+person(人)+ality→不像人的特性",
+        "易混词对比：personality(个性) vs impersonality(无个性)"
+      ]
+    }
+  },
+  {
+    "word": "impersonally",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "person",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "前缀im-表否定，词根person=人，-al构成形容词，-ly构成副词→原指'非个人化地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "与个人无关地",
+        "examples": [
+          {
+            "sentence": "The AI assistant replied impersonally without using any emojis.",
+            "sentence_zh": "AI助手不带任何表情符号地机械回复。"
+          },
+          {
+            "sentence": "Government documents are often written impersonally to avoid bias.",
+            "sentence_zh": "政府文件通常采用客观表述以避免偏见。"
+          }
+        ]
+      }
+    ],
+    "teach": "impersonally就像银行的自动语音服务📞：永远用'尊敬的客户'称呼你（而不是你的名字），就像词根person被im-前缀强行戴上了口罩😷。搭配'handle impersonally'（公事公办）、'speak impersonally'（官方腔），地道说法叫'by the book'（照章办事）📚。记住：当老板开始用impersonally的语气说话，你该准备找新工作了💼！",
+    "recite": {
+      "tips": [
+        "拆解记忆：im(不)+person(人)+ally(联盟)→'不是人的联盟'当然客观"
+      ]
+    }
   }
 ]

@@ -17601,5 +17601,335 @@
         "记忆tip：把'ing'想象成被针扎的表情😫"
       ]
     }
+  },
+  {
+    "word": "acid",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "id"
+      ],
+      "meaning_connection": "词根ac=尖锐/酸味（同源词acerbic），后缀-id表性质→原指醋的尖锐味道"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "酸类物质",
+        "examples": [
+          {
+            "sentence": "The battery leaked acid that dissolved my favorite socks.",
+            "sentence_zh": "电池漏出的酸溶解了我最爱的袜子。"
+          },
+          {
+            "sentence": "Citric acid makes lemons taste like nature's sour candy.",
+            "sentence_zh": "柠檬酸让柠檬尝起来像天然酸糖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "尖刻",
+        "examples": [
+          {
+            "sentence": "His acid comments burned deeper than hotpot chili oil.",
+            "sentence_zh": "他的尖刻评论比火锅辣油更灼人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "迷幻药",
+        "examples": [
+          {
+            "sentence": "The 1960s counterculture famously experimented with acid.",
+            "sentence_zh": "1960年代反文化运动以实验迷幻药闻名。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "酸的",
+        "examples": [
+          {
+            "sentence": "The acid taste of hawthorn candies makes your cheeks suck in.",
+            "sentence_zh": "山楂糖的酸味让人腮帮子发紧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "尖刻的",
+        "examples": [
+          {
+            "sentence": "Her acid wit could deflate egos faster than a pin pops balloons.",
+            "sentence_zh": "她尖刻的机智戳破膨胀自尊的速度比针扎气球还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "敏锐的",
+        "examples": [
+          {
+            "sentence": "The detective had an acid mind that noticed every inconsistency.",
+            "sentence_zh": "侦探思维敏锐，能察觉每个矛盾点。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acid test",
+        "meaning": "严峻考验",
+        "examples": [
+          {
+            "sentence": "The final exam is the acid test for all medical students.",
+            "sentence_zh": "期末考试是医学生的严峻考验。"
+          }
+        ]
+      }
+    ],
+    "teach": "acid是个'酸'到骨子里的词🧪！化学层面像你喝醋时的表情😖（acid taste），语言层面像微博评论区毒舌💬（acid remarks）。迷幻药释义来自LSD的液态形态💊，'acid test'原是黄金纯度测试→现在指终极考验🔥。记住：'酸别人'可以说throw shade，'柠檬精'是sour grape！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱吸的'→化学家爱吸的(acid)试剂",
+        "易混词：bitter（苦味）vs acid（酸味）",
+        "视觉联想：柠檬+毒蛇舌头的组合形象"
+      ]
+    }
+  },
+  {
+    "word": "acidic",
+    "etymology": {
+      "breakdown": [
+        "acid",
+        "ic"
+      ],
+      "meaning_connection": "词根acid=酸（来自拉丁语'acidus'），后缀-ic表性质→'具有酸特性的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "酸性的",
+        "examples": [
+          {
+            "sentence": "The pH test proved the rainwater had become acidic.",
+            "sentence_zh": "PH测试显示雨水已呈酸性。"
+          },
+          {
+            "sentence": "Yogurt tastes slightly acidic due to lactic acid.",
+            "sentence_zh": "酸奶因乳酸而略带酸味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "尖刻的",
+        "examples": [
+          {
+            "sentence": "Her acidic comments about the movie sparked online debates.",
+            "sentence_zh": "她对电影的尖刻评论引发了网络论战。"
+          },
+          {
+            "sentence": "The professor's acidic humor made students both laugh and sweat.",
+            "sentence_zh": "教授尖酸的幽默让学生们又笑又冒汗。"
+          }
+        ]
+      }
+    ],
+    "teach": "acidic这词就像柠檬精🍋！化学上指'酸性的'（如酸雨acid rain），形容人时秒变'毒舌'💢。搭配：acidic reply（酸溜溜的回复），acidic soil（酸性土壤）。说人'刻薄'可用sharp-tongued，但acidic更显化学攻击性🧪！记住：遇到acidic的人，请用碱性微笑中和😊→🌡️→😄",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱吸滴'→爱吸酸性饮料（牙齿会掉）",
+        "易混词对比：acid（酸）vs. acrid（辛辣的）",
+        "视觉联想：酸柠檬表情包+毒蛇吐信子"
+      ]
+    }
+  },
+  {
+    "word": "acidification",
+    "etymology": {
+      "breakdown": [
+        "acid",
+        "ify",
+        "ation"
+      ],
+      "meaning_connection": "词根acid=酸，后缀-ify表示'使...化'，-ation表名词→使变成酸的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "使发酸",
+        "examples": [
+          {
+            "sentence": "The acidification of milk produces yogurt with a tangy flavor.",
+            "sentence_zh": "牛奶酸化后会变成带酸味的酸奶。"
+          },
+          {
+            "sentence": "Ancient winemakers used natural acidification to preserve grape juice.",
+            "sentence_zh": "古代酿酒师利用自然酸化来保存葡萄汁。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "酸化",
+        "examples": [
+          {
+            "sentence": "Ocean acidification threatens coral reefs like the Great Barrier Reef.",
+            "sentence_zh": "海洋酸化威胁着大堡礁等珊瑚礁生态系统。"
+          },
+          {
+            "sentence": "The acidification of soil can turn roses blue in some regions.",
+            "sentence_zh": "在某些地区，土壤酸化能使玫瑰变成蓝色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "成酸性",
+        "examples": [
+          {
+            "sentence": "The acidification of the lake made it uninhabitable for most fish.",
+            "sentence_zh": "湖泊的成酸性使得大多数鱼类无法生存。"
+          },
+          {
+            "sentence": "Scientists monitor the acidification process in carbonated drinks.",
+            "sentence_zh": "科学家监测碳酸饮料中的成酸性过程。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "ocean acidification",
+        "meaning": "海洋酸化",
+        "examples": [
+          {
+            "sentence": "Ocean acidification is making seashells dissolve faster in seawater.",
+            "sentence_zh": "海洋酸化正导致海贝壳在海水中的溶解速度加快。"
+          }
+        ]
+      }
+    ],
+    "teach": "acidification就像给地球喂柠檬🍋！当二氧化碳溶入海水（CO₂+H₂O=H₂CO₃），就像往奶茶里挤柠檬汁🥤→pH值下降就是'海洋酸化'🌊。搭配：'soil acidification'（土壤酸化）会种出蓝色绣球花💙，'reverse acidification'（逆转酸化）像给胃酸过多的胃吃达喜💊。记住：过度acidification会让海鲜变成'酸菜鱼'🐟！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱吸的肺咳醒'→酸化的空气让肺咳醒",
+        "易混词对比：acid（酸）/ acetic（醋酸的）",
+        "联想：ACID（数据库事务特性）+ ify = 让数据'变酸'的进程"
+      ]
+    }
+  },
+  {
+    "word": "acidify",
+    "etymology": {
+      "breakdown": [
+        "acid",
+        "ify"
+      ],
+      "meaning_connection": "词根acid=酸，后缀-ify=使...化→字面意思'使酸化'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使变酸",
+        "examples": [
+          {
+            "sentence": "The factory accidentally acidified the river with chemical waste.",
+            "sentence_zh": "工厂的化学废料意外使河流变酸。"
+          },
+          {
+            "sentence": "Adding lemon juice will acidify the milk for homemade cheese.",
+            "sentence_zh": "加入柠檬汁会使牛奶变酸以制作自制奶酪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成酸",
+        "examples": [
+          {
+            "sentence": "Scientists can acidify alkaline solutions in the lab.",
+            "sentence_zh": "科学家可以在实验室中将碱性溶液变成酸性。"
+          },
+          {
+            "sentence": "The rain acidified the soil, making it unsuitable for farming.",
+            "sentence_zh": "雨水使土壤成酸性，变得不适合耕种。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "变酸",
+        "examples": [
+          {
+            "sentence": "The milk left outside acidified overnight in the summer heat.",
+            "sentence_zh": "在夏日高温下，放在外面的牛奶一夜之间变酸了。"
+          },
+          {
+            "sentence": "When wine acidifies, it turns into vinegar naturally.",
+            "sentence_zh": "当葡萄酒变酸时，它就自然变成了醋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acidify the ocean",
+        "meaning": "使海洋酸化",
+        "examples": [
+          {
+            "sentence": "Carbon emissions are acidifying the ocean at an alarming rate.",
+            "sentence_zh": "碳排放正在以惊人的速度使海洋酸化。"
+          }
+        ]
+      }
+    ],
+    "teach": "acidify就像化学界的柠檬精🍋！当你把碱性物质变成酸性时，就像给傲娇的苏打水灌醋⚗️（acidify soda）。说'食物变质'可以用turn sour，但'海水酸化'必须用acidify🌊。记住：化学实验里叫'酸化'，牛奶放坏叫'变酸'，环保议题里叫'海洋酸化'！地球正在变成一颗酸糖🍬，而我们都是见证人。",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱吸地飞'→爱吸地的飞虫遇到酸化土壤会坠落",
+        "易混词对比：sour（自然变酸） vs acidify（化学过程）",
+        "记忆法：acid(酸)+ify(化)=酸化三步骤：1)实验室操作 2)牛奶变质 3)环保危机"
+      ]
+    }
+  },
+  {
+    "word": "acidity",
+    "etymology": {
+      "breakdown": [
+        "acid",
+        "ity"
+      ],
+      "meaning_connection": "词根acid=酸，后缀-ity表性质→酸的性质"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "酸性",
+        "examples": [
+          {
+            "sentence": "The acidity of this vinegar can dissolve eggshells in 24 hours.",
+            "sentence_zh": "这种醋的酸性能在24小时内溶解蛋壳。"
+          },
+          {
+            "sentence": "Lemon juice's acidity makes my puffer fish cheeks tingle.",
+            "sentence_zh": "柠檬汁的酸性让我河豚般的脸颊刺痛。"
+          }
+        ]
+      }
+    ],
+    "teach": "酸度就像你的前任👋——数值越高越扎心！古罗马用acid测黄金纯度⚖️，现代人测奶茶pH值🧋。说'酸死了'用'It's like battery acid!'，'微酸'叫tangy就像初恋的暧昧🍋。记住：高acidity=柠檬精本精！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱吸弟弟'→爱吸弟弟(acidity)的柠檬茶",
+        "对比记忆：acid(酸) vs. alkali(碱)像奶茶鸳鸯配",
+        "联想：-ity结尾都是名词属性（类似stupidity）"
+      ]
+    }
   }
 ]
