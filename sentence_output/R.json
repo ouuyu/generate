@@ -18369,5 +18369,325 @@
         "易混词：reader（读者） vs. leader（领导）→多一个a就变跟班"
       ]
     }
+  },
+  {
+    "word": "readership",
+    "etymology": {
+      "breakdown": [
+        "reader",
+        "ship"
+      ],
+      "meaning_connection": "reader表示'读者'，后缀-ship表示'状态/群体'→读者群体的总称"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "读者（群体）",
+        "examples": [
+          {
+            "sentence": "The magazine's loyal readership includes cat lovers worldwide.",
+            "sentence_zh": "该杂志的忠实读者包括全球爱猫人士。"
+          },
+          {
+            "sentence": "Douluo Dalu's readership spans three generations in China.",
+            "sentence_zh": "《斗罗大陆》的读者群在中国横跨三代人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "读者人数",
+        "examples": [
+          {
+            "sentence": "Our WeChat article reached a readership of 100,000 in 2 hours.",
+            "sentence_zh": "我们的微信文章2小时内触达10万读者。"
+          },
+          {
+            "sentence": "The newspaper's readership is declining like melting ice cream.",
+            "sentence_zh": "该报的读者人数像融化的冰淇淋一样持续下降。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "target readership",
+        "meaning": "目标读者群",
+        "examples": [
+          {
+            "sentence": "Bilibili's target readership is Gen Z who love bullet comments.",
+            "sentence_zh": "B站的目标读者群是热爱弹幕的Z世代。"
+          }
+        ]
+      }
+    ],
+    "teach": "readership是文字的'吃货团'🍜：就像火锅店统计顾客数👥，出版社用readership衡量作品热度。'小众读者'叫niche readership（像螺蛳粉爱好者），'爆款文章'说viral readership（像魔性洗脑神曲）🎶。记住：你的朋友圈也是mini readership！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热的ship'→火爆的读者群像发热的船",
+        "对比记忆：audience（观众） vs readership（读者）",
+        "后缀联想：-ship家族→friendship/hardship/leadership"
+      ]
+    }
+  },
+  {
+    "word": "readily",
+    "etymology": {
+      "breakdown": [
+        "ready",
+        "ly"
+      ],
+      "meaning_connection": "词根ready=准备好的，-ly副词后缀→处于准备好的状态，引申出'迅速''乐意'等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "迅速地",
+        "examples": [
+          {
+            "sentence": "The new AI assistant readily processed 1000 requests per second.",
+            "sentence_zh": "新AI助手每秒能迅速处理1000个请求。"
+          },
+          {
+            "sentence": "TikTok videos are readily shared among Gen Z users.",
+            "sentence_zh": "Z世代用户会迅速分享抖音视频。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "轻易地",
+        "examples": [
+          {
+            "sentence": "You can readily find this slang in Bilibili's bullet comments.",
+            "sentence_zh": "你能在B站弹幕里轻易找到这个网络梗。"
+          },
+          {
+            "sentence": "The QR code payment is readily accepted by street vendors.",
+            "sentence_zh": "扫码支付被街头小贩轻易接受。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "乐意地",
+        "examples": [
+          {
+            "sentence": "Chinese netizens readily create memes for every hot event.",
+            "sentence_zh": "中国网民乐意为每个热点事件制作表情包。"
+          },
+          {
+            "sentence": "The grandma readily taught the foreigner to make dumplings.",
+            "sentence_zh": "奶奶乐意外国人教包饺子。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "readily available",
+        "meaning": "随时可得的",
+        "examples": [
+          {
+            "sentence": "Shared bikes are readily available in first-tier cities.",
+            "sentence_zh": "共享单车在一线城市随时可得。"
+          }
+        ]
+      }
+    ],
+    "teach": "readily就像自动门感应到人🚪→'唰'地打开（迅速），像拆快递不用剪刀📦（轻易），像火锅店服务员看到空杯马上加酸梅汤🍹（乐意）。搭配'readily admit'就像广东人爽快承认爱吃福建人😋，'readily absorb'像海绵宝宝吸水🧽。记住这个万能副词：当事情快/易/爽时就用它！⚡🤲💖",
+    "recite": {
+      "tips": [
+        "谐音梗：'热得利'→天气热得利(readily)索开空调",
+        "对比记忆：easy侧重难度低，readily强调主观意愿强",
+        "场景联想：外卖小哥/学霸/热心大妈三种'readily'状态"
+      ]
+    }
+  },
+  {
+    "word": "readiness",
+    "etymology": {
+      "breakdown": [
+        "readi",
+        "ness"
+      ],
+      "meaning_connection": "词根readi=准备就绪（来自ready），后缀-ness表状态→准备好的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "预备",
+        "examples": [
+          {
+            "sentence": "The astronauts showed perfect readiness before the Shenzhou launch.",
+            "sentence_zh": "航天员在神舟发射前展现出完美的预备状态。"
+          },
+          {
+            "sentence": "Her emergency kit demonstrated admirable readiness for earthquakes.",
+            "sentence_zh": "她的应急包展现出对地震的充分预备。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "准备",
+        "examples": [
+          {
+            "sentence": "Douyin livestreamers check equipment with military-level readiness.",
+            "sentence_zh": "抖音主播们以军事级准备检查设备。"
+          },
+          {
+            "sentence": "The readiness of hotpot ingredients took longer than eating them.",
+            "sentence_zh": "火锅食材的准备时间比吃它们还长。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "敏捷",
+        "examples": [
+          {
+            "sentence": "The panda keeper moved with surprising readiness to catch falling bamboo.",
+            "sentence_zh": "熊猫饲养员以惊人的敏捷接住掉落的竹子。"
+          },
+          {
+            "sentence": "His fingers danced across the guzheng with lightning readiness.",
+            "sentence_zh": "他的手指以闪电般的敏捷在古筝上飞舞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in readiness",
+        "meaning": "准备就绪",
+        "examples": [
+          {
+            "sentence": "The marathon volunteers stood in readiness with energy drinks.",
+            "sentence_zh": "马拉松志愿者们手持功能饮料准备就绪。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "combat readiness",
+        "meaning": "战备状态",
+        "examples": [
+          {
+            "sentence": "The PLA Navy maintains high combat readiness during holidays.",
+            "sentence_zh": "解放军海军在节假日保持高度战备状态。"
+          }
+        ]
+      }
+    ],
+    "teach": "readiness就像火锅店的备菜台🥘！'预备'是切好的毛肚（in readiness），'准备'是调好的蘸料（combat readiness），'敏捷'是服务员躲溅油的身手⚡。说'准备充分'可以叫battle-ready（战斗准备），而'手忙脚乱'正相反是like a headless chicken（无头鸡）😅 记住：readiness决定你能多快涮上肉！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热的尼斯'→地中海的尼斯随时准备迎接阳光",
+        "易混词：readiness（准备状态） vs willingness（意愿）"
+      ]
+    }
+  },
+  {
+    "word": "reading",
+    "etymology": {
+      "breakdown": [
+        "read",
+        "ing"
+      ],
+      "meaning_connection": "动词read（阅读）+后缀-ing构成名词/形容词，表示与阅读相关的行为或属性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "阅读（行为）",
+        "examples": [
+          {
+            "sentence": "His bedtime reading ritual includes a cup of osmanthus tea.",
+            "sentence_zh": "他的睡前阅读仪式包括一杯桂花茶。"
+          },
+          {
+            "sentence": "Speed reading is a must-have skill for WeChat article marathons.",
+            "sentence_zh": "快速阅读是刷微信文章马拉松的必备技能。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "知识（通过阅读获得）",
+        "examples": [
+          {
+            "sentence": "Her wide reading on TCM makes her the go-to person for herbal advice.",
+            "sentence_zh": "她广泛的中医阅读使她成为草药咨询的首选。"
+          },
+          {
+            "sentence": "The professor's reading on ancient scripts could fill the Forbidden City.",
+            "sentence_zh": "这位教授关于古代文字的学识能填满整个紫禁城。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "读物",
+        "examples": [
+          {
+            "sentence": "This bubble tea shop provides light readings about zodiac signs.",
+            "sentence_zh": "这家奶茶店提供关于星座的轻松读物。"
+          },
+          {
+            "sentence": "Airport readings are always overpriced like scallion pancake at tourist spots.",
+            "sentence_zh": "机场读物总是像景区葱油饼一样溢价。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "阅读的",
+        "examples": [
+          {
+            "sentence": "The reading room smells like old books and chrysanthemum tea.",
+            "sentence_zh": "阅览室弥漫着旧书和菊花茶的气味。"
+          },
+          {
+            "sentence": "Her reading glasses have panda-shaped frames from Chengdu.",
+            "sentence_zh": "她的阅读眼镜是成都买的熊猫造型框架。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "reading comprehension",
+        "meaning": "阅读理解",
+        "examples": [
+          {
+            "sentence": "Gaokao English reading comprehension passages are longer than the Great Wall.",
+            "sentence_zh": "高考英语阅读理解文章比长城还长。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "reading material",
+        "meaning": "阅读材料",
+        "examples": [
+          {
+            "sentence": "My subway reading material is always Douban book reviews.",
+            "sentence_zh": "我的地铁阅读材料永远是豆瓣书评。"
+          }
+        ]
+      }
+    ],
+    "teach": "reading这个词就像电子阅读器📚！当它表示'阅读行为'时，就像刷短视频的手指停不下来🤳（evening reading）。表示'知识'时，像老北京说书人的肚子里的墨水🖋️（wide reading）。作形容词时，就像戴老花镜看药品说明书👓（reading glasses）。记住：reading room不是'读房间'，而是让你变成文化人的地方！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞丁'→瑞丁(reading)图书馆",
+        "易混词：reading（阅读） vs leading（领导）→领导在阅读"
+      ]
+    }
   }
 ]

@@ -17442,5 +17442,309 @@
         "联想：car+bine→车上用的双管(bine)武器"
       ]
     }
+  },
+  {
+    "word": "carbohydrate",
+    "etymology": {
+      "breakdown": [
+        "carbo",
+        "hydr",
+        "ate"
+      ],
+      "meaning_connection": "carbo=碳（来自拉丁语carbo'煤炭'），hydr=水（希腊语hydor），-ate=化学后缀→字面意思'碳与水的化合物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "碳水化合物",
+        "examples": [
+          {
+            "sentence": "Rice and noodles are rich in carbohydrates, just like your phone battery stores energy.",
+            "sentence_zh": "米饭面条富含碳水化合物，就像手机电池储存能量。"
+          },
+          {
+            "sentence": "Marathon runners load up on carbohydrates before races like squirrels storing nuts.",
+            "sentence_zh": "马拉松选手赛前补充碳水，像松鼠囤松果般认真。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "糖类",
+        "examples": [
+          {
+            "sentence": "The nutrition label shows this bubble tea contains 50g of carbohydrates.",
+            "sentence_zh": "营养标签显示这杯奶茶含50克糖类。"
+          },
+          {
+            "sentence": "Fruits contain natural carbohydrates that make them sweet.",
+            "sentence_zh": "水果含有天然的糖类物质所以香甜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "complex carbohydrates",
+        "meaning": "复合碳水化合物",
+        "examples": [
+          {
+            "sentence": "Brown rice provides complex carbohydrates for sustained energy.",
+            "sentence_zh": "糙米提供的复合碳水能持续供能。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "carbohydrate loading",
+        "meaning": "碳水补充法",
+        "examples": [
+          {
+            "sentence": "Athletes practice carbohydrate loading like filling a gas tank before a long trip.",
+            "sentence_zh": "运动员采用碳水补充法，就像长途前加满油箱。"
+          }
+        ]
+      }
+    ],
+    "teach": "碳水化合物其实是'碳加水'的魔法✨！19世纪化学家发现糖类分子式像碳(carbo)和水(hydr)结婚💒，比如葡萄糖C₆H₁₂O₆=6个碳+6个水。说'戒碳水'地道表达是cut carbs🚫🍚，'碳水炸弹'叫carb bomb💣。记住：碳水就是你的生物充电宝🔋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡脖嗨拽他'→卡路里让你嗨但拽住他（控制摄入）",
+        "易混词：carbon（碳元素）vs carbohydrate（碳水化合物）",
+        "记忆法：把CHO想象成'吃喝哦'三个拼音首字母"
+      ]
+    }
+  },
+  {
+    "word": "carbon",
+    "etymology": {
+      "breakdown": [
+        "carbo",
+        "n"
+      ],
+      "meaning_connection": "源自拉丁语carbo（木炭），后缀-n构成物质名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "碳",
+        "examples": [
+          {
+            "sentence": "Diamond is the hardest naturally occurring form of carbon.",
+            "sentence_zh": "钻石是自然界中硬度最高的碳形态。"
+          },
+          {
+            "sentence": "Carbon dating revealed the terracotta warriors were 2,200 years old.",
+            "sentence_zh": "碳测年技术显示兵马俑距今2200年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "副本",
+        "examples": [
+          {
+            "sentence": "Please keep the carbon of your contract in a safe place.",
+            "sentence_zh": "请将合同副本妥善保存。"
+          },
+          {
+            "sentence": "Before photocopiers existed, people used carbon paper to make duplicates.",
+            "sentence_zh": "在复印机出现前，人们用复写纸制作副本。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "复写纸",
+        "examples": [
+          {
+            "sentence": "The detective found a carbon sheet in the suspect's drawer.",
+            "sentence_zh": "侦探在嫌疑人抽屉里发现一张复写纸。"
+          },
+          {
+            "sentence": "Old-fashioned receipts were made with carbon paper between sheets.",
+            "sentence_zh": "老式收据是用夹在纸张间的复写纸制作的。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "carbon copy",
+        "meaning": "完全相同的复制品",
+        "examples": [
+          {
+            "sentence": "The new shopping mall is a carbon copy of the Tokyo one.",
+            "sentence_zh": "新购物中心是东京商场的完美复刻。"
+          },
+          {
+            "sentence": "Her son is a carbon copy of his father when young.",
+            "sentence_zh": "她儿子简直是父亲年轻时的翻版。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "carbon footprint",
+        "meaning": "碳足迹",
+        "examples": [
+          {
+            "sentence": "Eating local food reduces your carbon footprint.",
+            "sentence_zh": "食用本地食物能减少碳足迹。"
+          },
+          {
+            "sentence": "High-speed trains have lower carbon footprint than airplanes.",
+            "sentence_zh": "高铁的碳足迹低于飞机。"
+          }
+        ]
+      }
+    ],
+    "teach": "碳(carbon)的故事就像元素界的影分身术💨！它既是钻石💎的原料（硬核本尊），又是复印件的来源（影分身术）。现代人说'low carbon'就像给地球开节能模式🌍，而'carbon copy'梗来自复写纸时代📜。实用搭配：'carbon neutral碳中和'（像支付宝种树🌳抵消碳排放），'carbon dating碳测年'（考古界的时光机⏳）。记住：你是由18%碳原子构成的星际物质✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡本'→刷卡(card)留副本(carbon)",
+        "易混词：carbo（碳水化合物）vs carbon",
+        "记忆法：C是碳的化学符号，像被复写的字母"
+      ]
+    }
+  },
+  {
+    "word": "carbonaceous",
+    "etymology": {
+      "breakdown": [
+        "carbon",
+        "aceous"
+      ],
+      "meaning_connection": "词根carbon=碳，后缀-aceous表示'具有...性质的'→'具有碳性质的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "碳的",
+        "examples": [
+          {
+            "sentence": "The carbonaceous meteorite contains diamond crystals.",
+            "sentence_zh": "这块碳质陨石含有钻石晶体。"
+          },
+          {
+            "sentence": "Scientists found carbonaceous signatures in Martian soil.",
+            "sentence_zh": "科学家在火星土壤中发现碳质特征。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "碳质的",
+        "examples": [
+          {
+            "sentence": "This carbonaceous shale is ideal for fossil preservation.",
+            "sentence_zh": "这种碳质页岩非常适合保存化石。"
+          },
+          {
+            "sentence": "The artist uses carbonaceous chalk for sketching.",
+            "sentence_zh": "这位艺术家用碳质粉笔进行素描。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "含碳的",
+        "examples": [
+          {
+            "sentence": "Carbonaceous asteroids may hold clues to life's origins.",
+            "sentence_zh": "含碳小行星可能蕴藏生命起源的线索。"
+          },
+          {
+            "sentence": "Our new carbonaceous water filter removes impurities effectively.",
+            "sentence_zh": "我们的新型含碳净水器能有效去除杂质。"
+          }
+        ]
+      }
+    ],
+    "teach": "carbonaceous是'碳里碳气'的学霸词🔬！就像烧烤架上的碳(carbon)遇到化学学霸(-aceous)🧪，瞬间变成科学术语。要说'这个东西很碳'，老外会说carbon-laden（碳负载），而'碳基生物'就是carbon-based lifeform🚀。记住：看到-aceous结尾，就像看到火锅里的'鸳鸯锅'——一半科学一半美味！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡本哪儿死'→碳元素卡在物质里",
+        "对比记忆：carbon（碳） vs. carbonate（碳酸盐）",
+        "联想：-aceous结尾常表示'富含...的'，如herbaceous（草本的）"
+      ]
+    }
+  },
+  {
+    "word": "carbonate",
+    "etymology": {
+      "breakdown": [
+        "carbon",
+        "ate"
+      ],
+      "meaning_connection": "词根carbon=碳，后缀-ate表化学盐类→含碳的化合物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "碳酸盐",
+        "examples": [
+          {
+            "sentence": "The white cliffs of Dover are mainly composed of calcium carbonate.",
+            "sentence_zh": "多佛白崖主要由碳酸钙构成。"
+          },
+          {
+            "sentence": "Bubble tea pearls contain food-grade carbonates for chewiness.",
+            "sentence_zh": "奶茶珍珠含有食品级碳酸盐来增加嚼劲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使碳酸盐化",
+        "examples": [
+          {
+            "sentence": "The factory carbonates wastewater to neutralize acidity.",
+            "sentence_zh": "工厂将废水碳酸盐化以中和酸性。"
+          },
+          {
+            "sentence": "Ancient sea organisms carbonated sediments to form limestone.",
+            "sentence_zh": "远古海洋生物使沉积物碳酸盐化形成石灰岩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使充满二氧化碳",
+        "examples": [
+          {
+            "sentence": "The machine carbonates water in 3 seconds to make sparkling water.",
+            "sentence_zh": "这台机器3秒内给水注入二氧化碳制成气泡水。"
+          },
+          {
+            "sentence": "During photosynthesis, plants carbonate the air we breathe.",
+            "sentence_zh": "光合作用中，植物使空气充满二氧化碳。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sodium carbonate",
+        "meaning": "碳酸钠",
+        "examples": [
+          {
+            "sentence": "Sodium carbonate is used to make glass and detergents.",
+            "sentence_zh": "碳酸钠用于制造玻璃和洗涤剂。"
+          }
+        ]
+      }
+    ],
+    "teach": "carbonate是化学界的泡泡机💥！当名词时像珍珠奶茶里的'珍珠弹'🧋（calcium carbonate），当动词时像可乐疯狂冒泡🥤（carbonated drink）。实验室里'碳酸盐化'就像给石头喝汽水🗿，而'充二氧化碳'简直是水的SPA体验💦。搭配记忆：washing soda=碳酸钠🧼，club soda=碳酸水🍾",
+    "recite": {
+      "tips": [
+        "谐音梗：'卡蹦脆'→碳酸盐制品卡蹦脆",
+        "易混词：carbon（碳）vs. carbonate（碳酸盐）",
+        "联想：CO₂分子像两个手拉手的小气球🎈"
+      ]
+    }
   }
 ]

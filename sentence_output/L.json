@@ -18813,5 +18813,283 @@
         "联想：ing结尾→正在进行时的学习"
       ]
     }
+  },
+  {
+    "word": "lease",
+    "etymology": {
+      "breakdown": [
+        "leas",
+        "e"
+      ],
+      "meaning_connection": "源自古英语'læs'（草原放牧权），后缀-e表名词/动词，本指土地租赁权"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "租约",
+        "examples": [
+          {
+            "sentence": "The WeWork lease specifies no durian in the office.",
+            "sentence_zh": "WeWork租约规定办公室禁带榴莲。"
+          },
+          {
+            "sentence": "Her panda costume rental came with a 3-day lease.",
+            "sentence_zh": "她的熊猫玩偶服租赁附带3天租约。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "租期",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop's lease expires after Mid-Autumn Festival.",
+            "sentence_zh": "奶茶店的租期到中秋节后截止。"
+          },
+          {
+            "sentence": "During the 5-year lease, rent cannot be increased.",
+            "sentence_zh": "五年租期内不得涨租金。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "出租",
+        "examples": [
+          {
+            "sentence": "She leases her spare room to a TikTok streamer.",
+            "sentence_zh": "她把闲置房间出租给抖音主播。"
+          },
+          {
+            "sentence": "The company leases electric scooters with cartoon helmets.",
+            "sentence_zh": "该公司出租配有卡通头盔的电动车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "租得",
+        "examples": [
+          {
+            "sentence": "We leased a hotpot restaurant with VR dining booths.",
+            "sentence_zh": "我们租下带VR包厢的火锅店。"
+          },
+          {
+            "sentence": "He leased the entire panda base for his proposal.",
+            "sentence_zh": "他为求婚租下整个熊猫基地。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on lease",
+        "meaning": "租赁中",
+        "examples": [
+          {
+            "sentence": "All shared power banks are currently on lease.",
+            "sentence_zh": "所有共享充电宝目前都在租赁中。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "lease out",
+        "meaning": "出租",
+        "examples": [
+          {
+            "sentence": "The grandma leases out her mahjong skills at 50 yuan per hour.",
+            "sentence_zh": "奶奶以每小时50元出租麻将技艺。"
+          }
+        ]
+      }
+    ],
+    "teach": "lease是个'二房东'单词🏠！它源自草原放牧权(leas)🐑，现在连共享单车都能lease。'签租约'叫sign a lease像签火锅自助协议🥘，'短租'说short-term lease就像租汉服拍照📸。记住：房东用lease out（出租），租客用lease（租得），就像咸鱼交易←→剁手的关系！",
+    "recite": {
+      "tips": [
+        "谐音梗：'立字据'→租房要立lease字据",
+        "易混对比：rent（普通租赁）vs lease（长期/正式租赁）"
+      ]
+    }
+  },
+  {
+    "word": "leased",
+    "etymology": {
+      "breakdown": [
+        "lease",
+        "ed"
+      ],
+      "meaning_connection": "lease源自古法语'laisser'（留下），-ed表过去分词→'被留下的东西'引申为'租用物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "租用的",
+        "examples": [
+          {
+            "sentence": "The leased BMW had a Hello Kitty steering wheel cover.",
+            "sentence_zh": "这辆租来的宝马方向盘套着凯蒂猫保护套。"
+          },
+          {
+            "sentence": "Our leased office smells like the previous tenant's stinky tofu.",
+            "sentence_zh": "我们租的办公室还残留着上任租户的臭豆腐味。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "leased line",
+        "meaning": "专线",
+        "examples": [
+          {
+            "sentence": "The bank uses a leased line to transfer data securely.",
+            "sentence_zh": "该银行用专线安全传输数据。"
+          }
+        ]
+      }
+    ],
+    "teach": "leased藏着资本主义的香气💸！古代英国领主(lease)把土地'留下'给农民种，就像现在共享充电宝🔋租给你用。说'租来的快乐'叫hired happiness，'租期到了'喊The lease is up!就像共享单车突然上锁🚲。记住：lease的东西终究要还，就像前任借走的心💔",
+    "recite": {
+      "tips": [
+        "谐音梗：'离席的'→租用的东西终究要离席",
+        "易混词：rent（普通租赁）vs lease（长期契约租赁）"
+      ]
+    }
+  },
+  {
+    "word": "leasehold",
+    "etymology": {
+      "breakdown": [
+        "lease",
+        "hold"
+      ],
+      "meaning_connection": "lease=租赁契约，hold=持有状态→持有租赁契约的状态"
+    },
+    "meanings": [
+      {
+        "part_of_peech": "a.",
+        "meaning": "租赁的",
+        "examples": [
+          {
+            "sentence": "The leasehold apartment comes with a rooftop hotpot space.",
+            "sentence_zh": "这套租赁公寓附带天台火锅区。"
+          },
+          {
+            "sentence": "Leasehold properties in Shanghai Disneyland area are highly sought after.",
+            "sentence_zh": "上海迪士尼周边的租赁房产非常抢手。"
+          }
+        ]
+      },
+      {
+        "part_of_peech": "n.",
+        "meaning": "租赁权",
+        "examples": [
+          {
+            "sentence": "Foreigners can obtain leasehold but not freehold in this district.",
+            "sentence_zh": "外国人在此区域可获得租赁权而非永久产权。"
+          },
+          {
+            "sentence": "The 70-year leasehold has become a hot topic in real estate.",
+            "sentence_zh": "70年租赁权成为房地产热议话题。"
+          }
+        ]
+      },
+      {
+        "part_of_peech": "n.",
+        "meaning": "租赁物",
+        "examples": [
+          {
+            "sentence": "This shared bike is actually a leasehold from the manufacturer.",
+            "sentence_zh": "这辆共享单车其实是厂家的租赁物。"
+          },
+          {
+            "sentence": "The company manages over 10,000 leaseholds across the country.",
+            "sentence_zh": "该公司管理着全国超1万件租赁物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "leasehold interest",
+        "meaning": "租赁权益",
+        "examples": [
+          {
+            "sentence": "His leasehold interest in the tech park is worth millions.",
+            "sentence_zh": "他在科技园的租赁权益价值数百万。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "leasehold improvement",
+        "meaning": "租赁改良工程",
+        "examples": [
+          {
+            "sentence": "The hotpot restaurant made leasehold improvements with Sichuanese decor.",
+            "sentence_zh": "火锅店进行了四川风格的租赁改良工程。"
+          }
+        ]
+      }
+    ],
+    "teach": "leasehold就像'云养猫'🐱💻！你拥有使用权（撸猫权），但猫咪本体还是别人的（永久产权）。70年租赁权≈猫的平均寿命15年续约5次📜。搭配'leaseback'（回租）就像把猫借给原主人撸，'ground lease'（土地租赁）则是云养东北虎🐅！说'短租'用short-term leasehold，'转租'叫sublease就像二手猫咖转手☕。",
+    "recite": {
+      "tips": [
+        "谐音梗：'离死hold'→离开时死死抓住租赁权不放",
+        "易混词对比：freehold（永久产权）vs leasehold（租赁权）",
+        "记忆tip：想象租房合同(lease)上按着手印(hold)"
+      ]
+    }
+  },
+  {
+    "word": "leaseholder",
+    "etymology": {
+      "breakdown": [
+        "lease",
+        "hold",
+        "er"
+      ],
+      "meaning_connection": "lease=租赁协议，hold=持有，-er=人→持有租赁协议的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "租赁人",
+        "examples": [
+          {
+            "sentence": "The leaseholder turned the old factory into a trendy art space.",
+            "sentence_zh": "租赁人将旧工厂改造成了时髦的艺术空间。"
+          },
+          {
+            "sentence": "As a leaseholder, you can sublet the apartment with the landlord's permission.",
+            "sentence_zh": "作为租赁人，你可以在房东同意下转租公寓。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "long-term leaseholder",
+        "meaning": "长期承租人",
+        "examples": [
+          {
+            "sentence": "The tea shop owner is a long-term leaseholder of this 200-year-old building.",
+            "sentence_zh": "这位茶馆老板是这栋200年建筑的长期承租人。"
+          }
+        ]
+      }
+    ],
+    "teach": "leaseholder是'房本临时持有者'📜：就像共享单车会员卡💳，你有使用权但没所有权！英国女王才是伦敦最大leaseholder👑（皇室土地永久租赁）。说'二房东'用subleaseholder，'租约到期'叫lease expires就像奶茶店会员卡失效🧋。记住：holder不一定都是owner哦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'离死hold的'→快到期还死死hold着租赁权",
+        "易混词对比：landlord（房东）vs leaseholder（租客）"
+      ]
+    }
   }
 ]

@@ -18249,5 +18249,215 @@
         "记忆tip：拆解为AC（交流电）+KNOW（知道）+LED（引导）+GE（哥），'交流知道哥引导你确认'"
       ]
     }
+  },
+  {
+    "word": "acknowledgment",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "know",
+        "ledge",
+        "ment"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，know表示'知道'，-ledge为名词后缀，-ment表行为结果→原指'使知道的行为'，引申出确认和感谢双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "承认",
+        "examples": [
+          {
+            "sentence": "The company issued an acknowledgment of the data breach.",
+            "sentence_zh": "公司发布声明承认数据泄露事件。"
+          },
+          {
+            "sentence": "His nod was a silent acknowledgment of his mistake.",
+            "sentence_zh": "他的点头是对错误的无声承认。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "答谢",
+        "examples": [
+          {
+            "sentence": "The book's acknowledgment page thanks 237 beta readers.",
+            "sentence_zh": "本书致谢页感谢了237位试读读者。"
+          },
+          {
+            "sentence": "We received flowers as an acknowledgment of our help.",
+            "sentence_zh": "我们收到鲜花作为对我们帮助的答谢。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "认可",
+        "examples": [
+          {
+            "sentence": "Nobel Prize is the highest acknowledgment in academia.",
+            "sentence_zh": "诺贝尔奖是学术界的最高认可。"
+          },
+          {
+            "sentence": "The designer gained acknowledgment from Vogue magazine.",
+            "sentence_zh": "这位设计师获得了《Vogue》杂志的认可。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "收到的通知",
+        "examples": [
+          {
+            "sentence": "I got an acknowledgment email after submitting the assignment.",
+            "sentence_zh": "提交作业后我收到了确认邮件。"
+          },
+          {
+            "sentence": "The system sends automatic acknowledgments for every order.",
+            "sentence_zh": "系统会对每笔订单自动发送接收通知。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in acknowledgment of",
+        "meaning": "为感谢...",
+        "examples": [
+          {
+            "sentence": "This scholarship is given in acknowledgment of his volunteer work.",
+            "sentence_zh": "这项奖学金是为表彰他的志愿者工作而设立。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "acknowledgment receipt",
+        "meaning": "回执",
+        "examples": [
+          {
+            "sentence": "Remember to keep the acknowledgment receipt for warranty service.",
+            "sentence_zh": "记得保存好回执单以便保修服务。"
+          }
+        ]
+      }
+    ],
+    "teach": "acknowledgment就像社交礼仪中的彩虹屁🌈！中世纪贵族要公开'承认(acknowledge)'对手地位🤺，现代人用它在论文致谢里花式夸导师📚。说'收到请回复'是read receipt（已读回执），但更地道的催促说法是'ping me back'💻。记住：这个单词自带掌声👏+鞠躬🙇+收据🧾三连效果！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我可懒得慢'→我虽然懒得慢(acknowledgment)，但还是会给你回执",
+        "易混词对比：admission（被迫承认）vs acknowledgment（主动承认）"
+      ]
+    }
+  },
+  {
+    "word": "acme",
+    "etymology": {
+      "breakdown": [
+        "acme"
+      ],
+      "meaning_connection": "源自希腊语akmē，意为'最高点'或'巅峰'，直接借用到英语中表示顶点。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "顶点",
+        "examples": [
+          {
+            "sentence": "Reaching the acme of Mount Everest requires tremendous courage.",
+            "sentence_zh": "登上珠穆朗玛峰的顶点需要极大的勇气。"
+          },
+          {
+            "sentence": "The acme of her career was winning the Nobel Prize.",
+            "sentence_zh": "她职业生涯的顶点是获得诺贝尔奖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "极度",
+        "examples": [
+          {
+            "sentence": "His happiness was at its acme when his daughter was born.",
+            "sentence_zh": "女儿出生时，他的快乐达到了极度。"
+          },
+          {
+            "sentence": "The tension in the room reached its acme before the final announcement.",
+            "sentence_zh": "在最终宣布之前，房间里的紧张气氛达到了极度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "最高点",
+        "examples": [
+          {
+            "sentence": "The stock market hit its acme before the sudden crash.",
+            "sentence_zh": "股市在突然崩盘前达到了最高点。"
+          },
+          {
+            "sentence": "The acme of the mountain is covered with snow all year round.",
+            "sentence_zh": "这座山的最高点终年被积雪覆盖。"
+          }
+        ]
+      }
+    ],
+    "teach": "acme就像游戏里的满级成就🏆！想象你终于通关《原神》所有关卡🎮（acme of gaming），或者吃火锅时辣到灵魂出窍🌶️（acme of spiciness）。搭配：reach the acme（达到巅峰），acme of perfection（完美至极）。地道说法：'到顶了'可以说hit the ceiling，但用acme更装逼！记住：人生就像登山🧗，每个acme都是新的起点！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿克萌'→阿克萌(acme)到顶点就卖萌",
+        "易混词对比：peak（自然形成的顶峰） vs acme（抽象的极致）",
+        "联想记忆：AC米兰(AC Milan)夺得欧冠时就是他们的acme"
+      ]
+    }
+  },
+  {
+    "word": "acolyte",
+    "etymology": {
+      "breakdown": [
+        "a",
+        "colyte"
+      ],
+      "meaning_connection": "前缀a-表示'朝向'，colyte源自希腊语akolouthos（跟随者）→原指宗教仪式中的随从"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "侍僧",
+        "examples": [
+          {
+            "sentence": "The young acolyte carefully lit the incense in the temple.",
+            "sentence_zh": "年轻的侍僧在寺庙里仔细点燃香火。"
+          },
+          {
+            "sentence": "Dressed in white robes, the acolyte assisted during the solemn ceremony.",
+            "sentence_zh": "身着白袍的侍僧在庄严仪式中提供协助。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "助手",
+        "examples": [
+          {
+            "sentence": "The famous chef's acolyte could chop onions at lightning speed.",
+            "sentence_zh": "这位名厨的助手能以闪电般的速度切洋葱。"
+          },
+          {
+            "sentence": "As an acolyte to the scientist, she had the privilege of witnessing breakthrough discoveries.",
+            "sentence_zh": "作为科学家的助手，她有荣幸见证突破性发现。"
+          }
+        ]
+      }
+    ],
+    "teach": "acolyte其实是'宗教界实习生'🙏：中世纪时指帮神父提香炉的跟班（想象《哈利波特》里帮斯内普拿材料的德拉科🤵♂️）。网络梗指'大佬的腿部挂件'，比如马斯克身边的火箭工程师就叫'SpaceX acolyte'🚀。搭配说senior acolyte（资深跟班）或tech acolyte（科技信徒），地道表达用shadow表示'如影随形的助手'🌑。记住：每个蝙蝠侠都需要罗宾！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱磕lite'→爱磕轻量版(light)的追随者",
+        "易混词对比：apprentice（学徒）vs acolyte（侧重宗教/权威追随）",
+        "记忆tip：拆解a+colyte→'一个(a)跟着(colyte)走的人'"
+      ]
+    }
   }
 ]

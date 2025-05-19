@@ -17962,5 +17962,279 @@
         "联想：数学公式里的s=scalar就像火锅里的s=spicy🌶️"
       ]
     }
+  },
+  {
+    "word": "scald",
+    "etymology": {
+      "breakdown": [
+        "scald"
+      ],
+      "meaning_connection": "源自古法语eschauder，最终源自拉丁语excaldare（ex-表示'出'，caldare表示'加热'），字面意思为'用热水处理'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "烫伤",
+        "examples": [
+          {
+            "sentence": "The chef got a painful scald from the boiling soup.",
+            "sentence_zh": "厨师被沸腾的汤汁烫伤了，疼得厉害。"
+          },
+          {
+            "sentence": "A scald from hot tea is more common than you think in bubble tea shops.",
+            "sentence_zh": "在奶茶店里被热茶烫伤比你想象的更常见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "烫洗",
+        "examples": [
+          {
+            "sentence": "The traditional scald method is still used to sterilize milk bottles.",
+            "sentence_zh": "传统的烫洗法仍被用来给奶瓶消毒。"
+          },
+          {
+            "sentence": "Grandma's secret to crispy vegetables is a quick scald before stir-frying.",
+            "sentence_zh": "奶奶做脆嫩蔬菜的秘诀是炒前快速烫洗一下。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "烫伤",
+        "examples": [
+          {
+            "sentence": "Be careful not to scald your tongue when drinking the freshly brewed tea.",
+            "sentence_zh": "喝新泡的茶时要小心别烫伤舌头。"
+          },
+          {
+            "sentence": "The steam from the hot pot scalded his hand as he reached for the meat.",
+            "sentence_zh": "他伸手夹肉时被火锅的蒸汽烫伤了手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "烫洗",
+        "examples": [
+          {
+            "sentence": "Chinese chefs often scald vegetables to retain their bright color.",
+            "sentence_zh": "中国厨师常烫洗蔬菜以保持鲜亮的颜色。"
+          },
+          {
+            "sentence": "You should scald the cutting board with boiling water after preparing raw meat.",
+            "sentence_zh": "处理完生肉后应该用开水烫洗砧板。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "scald milk",
+        "meaning": "烫牛奶（加热至接近沸腾）",
+        "examples": [
+          {
+            "sentence": "The recipe says to scald milk before adding it to the dough.",
+            "sentence_zh": "食谱上说要把牛奶烫一下再加到面团里。"
+          }
+        ]
+      }
+    ],
+    "teach": "scald就是'热锅上的蚂蚁'🔥🐜！古罗马人用热水消毒（scald）手术器械就像我们烫餐具🍽️。被火锅烫伤叫get scalded，就像碰到烫手山芋🤲。说'小心烫'可以喊'It's scalding hot!'，记住：scald比普通hot更疼💢！搭配：scald prevention（防烫伤）、scald injury（烫伤损伤）。",
+    "recite": {
+      "tips": [
+        "谐音梗：'思锅的'→想着火锅(scald)被烫伤",
+        "易混词对比：burn（一般烧伤）vs scald（液体/蒸汽烫伤）",
+        "记忆法：SCALD = Sudden Contact with Amazingly Liquid Danger"
+      ]
+    }
+  },
+  {
+    "word": "scalded",
+    "etymology": {
+      "breakdown": [
+        "scald",
+        "ed"
+      ],
+      "meaning_connection": "源自古法语escalder，最终源自拉丁语excaldare（ex-表示'出'+caldus表示'热'），字面意思是'使过热'。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "烫伤（皮肤）",
+        "examples": [
+          {
+            "sentence": "Aunt Li scalded her fingers while pouring boiling water for tea.",
+            "sentence_zh": "李阿姨倒开水泡茶时烫伤了手指。"
+          },
+          {
+            "sentence": "The toddler cried when scalded by splashed hotpot soup.",
+            "sentence_zh": "小朋友被飞溅的火锅汤烫到后大哭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "将（牛奶等）加热至接近沸腾",
+        "examples": [
+          {
+            "sentence": "Traditional yogurt-making requires scalded milk cooled to 40°C.",
+            "sentence_zh": "传统酸奶制作需要将牛奶加热后冷却至40度。"
+          },
+          {
+            "sentence": "The barista carefully scalded the milk for latte art.",
+            "sentence_zh": "咖啡师精心加热牛奶准备拉花。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "scalded milk",
+        "meaning": "加热过的牛奶",
+        "examples": [
+          {
+            "sentence": "Scalded milk develops a skin that's perfect for making milk tea.",
+            "sentence_zh": "加热后结奶皮的牛奶最适合制作奶茶。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "scalding hot",
+        "meaning": "滚烫的",
+        "examples": [
+          {
+            "sentence": "The xiaolongbao arrived scalding hot with visible steam.",
+            "sentence_zh": "端上桌的小笼包还冒着滚烫的热气。"
+          }
+        ]
+      }
+    ],
+    "teach": "scalded其实是'高温刺客'🔥！古罗马人用excaldare描述泡温泉♨️时被烫到（现在你懂为什么叫'spa'了吧）。说'烫死了'可以喊'I'm scalded!'，而'小心烫口'在地道口语是Watch out for dragon breath!（龙息警告）。记住：scalded milk的温度就像恋爱初期的心跳💗——接近沸腾但还没冒泡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'是烤的'→食物被烤的(scalded)过头了",
+        "易混词对比：scald（液体烫伤） vs. burn（火焰烧伤）",
+        "记忆tip：想象'SC'开头就像'Sizzling Chicken'（滋滋作响的炸鸡)"
+      ]
+    }
+  },
+  {
+    "word": "scalding",
+    "etymology": {
+      "breakdown": [
+        "scald",
+        "ing"
+      ],
+      "meaning_connection": "源自古诺尔斯语'skālda'（烫伤），后缀-ing表状态/性质→形容液体或言辞具有'灼伤'特性"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "滚烫的",
+        "examples": [
+          {
+            "sentence": "The scalding hotpot broth made her reach for the iced tea immediately.",
+            "sentence_zh": "滚烫的火锅汤底让她立刻伸手去拿冰茶。"
+          },
+          {
+            "sentence": "Be careful with the scalding shower water in winter hotels.",
+            "sentence_zh": "小心冬季酒店里滚烫的淋浴水。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "将近沸腾的",
+        "examples": [
+          {
+            "sentence": "The kettle was left until the water became scalding but not yet boiling.",
+            "sentence_zh": "水壶被搁置直到水温将近沸腾却还未沸腾。"
+          },
+          {
+            "sentence": "Scalding milk at 80°C is perfect for making yogurt.",
+            "sentence_zh": "加热至80°C将近沸腾的牛奶最适合制作酸奶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "沸腾的",
+        "examples": [
+          {
+            "sentence": "The scalding magma erupted like a furious dragon.",
+            "sentence_zh": "沸腾的岩浆像暴怒的巨龙般喷发。"
+          },
+          {
+            "sentence": "Avoid touching the scalding steam from the dumpling pot.",
+            "sentence_zh": "别碰蒸饺锅里沸腾的水蒸气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "灼人的",
+        "examples": [
+          {
+            "sentence": "Her scalding criticism left the rookie anchor in tears.",
+            "sentence_zh": "她灼人的批评让新人主播泪流满面。"
+          },
+          {
+            "sentence": "The desert sun felt like scalding needles on his skin.",
+            "sentence_zh": "沙漠的阳光像灼人的针扎在他皮肤上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "尖锐辛辣的",
+        "examples": [
+          {
+            "sentence": "The blogger's scalding satire on influencer culture went viral.",
+            "sentence_zh": "博主关于网红文化的尖锐辛辣讽刺迅速走红。"
+          },
+          {
+            "sentence": "His scalding reply silenced all the trolls.",
+            "sentence_zh": "他尖锐辛辣的回复让所有喷子闭嘴。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "scalding hot",
+        "meaning": "滚烫的",
+        "examples": [
+          {
+            "sentence": "The scalding hot oden is a must-try in Japanese convenience stores.",
+            "sentence_zh": "滚烫的关东煮是日本便利店的必尝美食。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "scalding tears",
+        "meaning": "滚烫的泪水",
+        "examples": [
+          {
+            "sentence": "She wiped away scalding tears while watching the finale.",
+            "sentence_zh": "她看着大结局时擦去滚烫的泪水。"
+          }
+        ]
+      }
+    ],
+    "teach": "scalding是'烫烫三兄弟'🔥👬🔥：1) 物理烫伤→古维京战士用沸水守城(历史梗) 2) 视觉化：像火锅红油里的翻滚辣椒🌶️ 3) 实用搭配：scalding coffee（烫嘴咖啡）/scalding review（毒舌影评）4) 地道表达：'烫到跳脚'说ouch-hot! 5) 记住：从开水到毒舌，能'灼伤'你的都叫scalding！",
+    "recite": {
+      "tips": [
+        "谐音梗：'是膏定'→被烫伤后肯定要贴膏药",
+        "易混词：scolding（责骂）vs scalding（滚烫）→妈妈scolding时的话可能很scalding",
+        "记忆tip：想象被scalding tea烫到后发出'ssss'声"
+      ]
+    }
   }
 ]

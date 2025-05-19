@@ -18406,5 +18406,284 @@
         "记忆tip：词根vicar=替代，+ious=充满...的→充满替代感的"
       ]
     }
+  },
+  {
+    "word": "vice",
+    "etymology": {
+      "breakdown": [
+        "vic",
+        "e"
+      ],
+      "meaning_connection": "拉丁语vitium=缺陷/错误，古英语时期衍生出'钳制'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "恶习",
+        "examples": [
+          {
+            "sentence": "Binge-watching dramas has become his pandemic vice.",
+            "sentence_zh": "刷剧成了他疫情期间的恶习。"
+          },
+          {
+            "sentence": "The monk warned against the vice of greed with a TikTok analogy.",
+            "sentence_zh": "和尚用抖音类比警告贪欲的危害。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "老虎钳",
+        "examples": [
+          {
+            "sentence": "He fixed the wobbling chair leg with a vintage vice.",
+            "sentence_zh": "他用老式虎钳修好了摇晃的椅子腿。"
+          },
+          {
+            "sentence": "The blacksmith's vice left marks like panda paws on the metal.",
+            "sentence_zh": "铁匠的老虎钳在金属上留下熊猫爪般的印记。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "钳住",
+        "examples": [
+          {
+            "sentence": "She viced the leaking pipe with Hello Kitty duct tape.",
+            "sentence_zh": "她用凯蒂猫胶带紧急钳住漏水管道。"
+          },
+          {
+            "sentence": "The robot arm viced the egg without cracking it.",
+            "sentence_zh": "机械臂稳稳钳住鸡蛋毫无破损。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "prep.",
+        "meaning": "代替",
+        "examples": [
+          {
+            "sentence": "The assistant manager will preside vice the CEO who's in metaverse.",
+            "sentence_zh": "副总将代替身处元宇宙的CEO主持会议。"
+          },
+          {
+            "sentence": "Vice real beef, this hotpot uses 3D-printed protein.",
+            "sentence_zh": "这顿火锅用3D打印蛋白代替真牛肉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vice versa",
+        "meaning": "反之亦然",
+        "examples": [
+          {
+            "sentence": "In China, you follow WeChat trends and vice versa.",
+            "sentence_zh": "在中国，你追随微信潮流，反之亦然。"
+          }
+        ]
+      }
+    ],
+    "teach": "vice是天使恶魔二合一👼😈！作'恶习'时，它像深夜偷吃螺蛳粉的罪恶感🍜；当'老虎钳'时，又变身五金店钢铁直男🔧；作为介词时秒变替身演员（vice president）。搭配'vice squad'指扫黄组，'vice-like grip'形容死党关系。说'恶习难改'用地道表达old habits die harder than Windows XP！",
+    "recite": {
+      "tips": [
+        "谐音梗：'歪撕'→歪着撕咬(vice)是恶习",
+        "易混词：vs.（对决）≠ vice（代替）"
+      ]
+    }
+  },
+  {
+    "word": "viceroy",
+    "etymology": {
+      "breakdown": [
+        "vice",
+        "roy"
+      ],
+      "meaning_connection": "vice表示'副的'，roy来自法语roi=国王→'副国王'即总督"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "总督",
+        "examples": [
+          {
+            "sentence": "The viceroy of India lived in a palace with 340 rooms.",
+            "sentence_zh": "印度总督曾住在有340个房间的宫殿里。"
+          },
+          {
+            "sentence": "This viceroy butterfly mimics the monarch's pattern for protection.",
+            "sentence_zh": "这种副王蛱蝶通过模仿帝王蝶花纹来保护自己。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "viceroy's staff",
+        "meaning": "总督权杖",
+        "examples": [
+          {
+            "sentence": "The viceroy's staff was made of ivory and gold.",
+            "sentence_zh": "总督的权杖由象牙和黄金制成。"
+          }
+        ]
+      }
+    ],
+    "teach": "viceroy本质是'代班国王'👑！就像《甄嬛传》里的摄政王（但没实权）。蝴蝶版viceroy是'职场coser'🦋，靠模仿帝王蝶躲避天敌。搭配'viceroy's decree'（总督令）和'play the viceroy'（摆官架子）。说'傀儡统治者'可用puppet ruler🎭。记住：真正的roy穿龙袍，vice-roy穿蟒袍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外事佬'→管外事的viceroy",
+        "易混词：victory（胜利）和viceroy（总督）"
+      ]
+    }
+  },
+  {
+    "word": "vicinity",
+    "etymology": {
+      "breakdown": [
+        "vicin",
+        "ity"
+      ],
+      "meaning_connection": "词根vicin=邻近（同源词vicinus拉丁语'邻居'），-ity表性质→'邻近性'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "附近区域",
+        "examples": [
+          {
+            "sentence": "The panda base is in the vicinity of Dujiangyan's earthquake ruins.",
+            "sentence_zh": "熊猫基地在都江堰地震遗址附近。"
+          },
+          {
+            "sentence": "All hotpot restaurants in the vicinity offer free mahjong rooms.",
+            "sentence_zh": "附近所有火锅店都提供免费麻将包间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "接近状态",
+        "examples": [
+          {
+            "sentence": "Due to the vicinity of our dorms, we share Didis every morning.",
+            "sentence_zh": "由于宿舍位置邻近，我们每天拼滴滴上班。"
+          },
+          {
+            "sentence": "The vicinity of the two subway stations creates fierce competition among bubble tea shops.",
+            "sentence_zh": "两个地铁站的接近导致奶茶店竞争激烈。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in the vicinity (of)",
+        "meaning": "在...附近",
+        "examples": [
+          {
+            "sentence": "There are always mysterious cats in the vicinity of Peking University's fish pond.",
+            "sentence_zh": "北大未名湖鱼塘附近总出现神秘猫群。"
+          }
+        ]
+      }
+    ],
+    "teach": "vicinity是'为你吸铁石'🧲！古罗马人用vicinus称呼邻居，就像现代人用'隔壁老王'👨。要说'就在旁边'可以夸张说within spitting distance（唾沫能吐到的距离），'周边商户'叫vicinity stores就像火锅店周围的解辣酸奶铺🍶。记住：你的外卖范围就是你的vicinity疆域！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微吸你腿'→稍微吸住你腿的距离就是附近",
+        "易混词对比：vicinity（空间接近）vs. proximity（抽象接近）"
+      ]
+    }
+  },
+  {
+    "word": "vicious",
+    "etymology": {
+      "breakdown": [
+        "vic",
+        "ious"
+      ],
+      "meaning_connection": "词根vic=恶习/缺陷（同源于vice），-ious表性质→充满恶习的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "邪恶的",
+        "examples": [
+          {
+            "sentence": "The villain in the drama has a vicious smile that chills audiences.",
+            "sentence_zh": "剧中反派邪恶的笑容让观众不寒而栗。"
+          },
+          {
+            "sentence": "Ancient alchemists were often accused of practicing vicious arts.",
+            "sentence_zh": "古代炼金术士常被指控施行邪术。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "恶毒的",
+        "examples": [
+          {
+            "sentence": "She regretted spreading vicious rumors about her colleague.",
+            "sentence_zh": "她后悔散播关于同事的恶毒谣言。"
+          },
+          {
+            "sentence": "The online troll left vicious comments under the charity post.",
+            "sentence_zh": "网络喷子在那条慈善帖下留下恶毒评论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "恶性的",
+        "examples": [
+          {
+            "sentence": "Doctors warned about the vicious cycle of insomnia and anxiety.",
+            "sentence_zh": "医生警告失眠与焦虑的恶性循环。"
+          },
+          {
+            "sentence": "The stock market entered a vicious downward spiral.",
+            "sentence_zh": "股市陷入恶性下跌漩涡。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vicious circle",
+        "meaning": "恶性循环",
+        "examples": [
+          {
+            "sentence": "Poverty and lack of education often form a vicious circle.",
+            "sentence_zh": "贫困与缺乏教育常形成恶性循环。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vicious attack",
+        "meaning": "恶意攻击",
+        "examples": [
+          {
+            "sentence": "The celebrity's Weibo suffered vicious attacks after the scandal.",
+            "sentence_zh": "丑闻后该明星的微博遭到恶意攻击。"
+          }
+        ]
+      }
+    ],
+    "teach": "vicious其实是'恶习成精'👹！词源vic-藏在vice（恶习）里，就像火锅里的地沟油🚬。形容人恶毒可以说'dog eat dog'（狗咬狗），'恶性竞争'叫cutthroat competition（割喉式竞争）。记住：这个单词自带暗黑特效💀，用的时候要像处理火锅里的辣椒一样小心！",
+    "recite": {
+      "tips": [
+        "谐音梗：'尾气死'→尾气致死真vicious",
+        "易混词对比：viscous（粘稠的）vs vicious（邪恶的）→ 记住：糖浆粘稠(viscous)，反派邪恶(vicious)"
+      ]
+    }
   }
 ]

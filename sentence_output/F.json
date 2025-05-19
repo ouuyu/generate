@@ -18746,5 +18746,300 @@
         "记忆口诀：牛羊变封地，封地变人民币"
       ]
     }
+  },
+  {
+    "word": "federated",
+    "etymology": {
+      "breakdown": [
+        "feder",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根feder=联盟（来自拉丁语foedus条约），-ate表动词后缀，-ed表过去分词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "联邦的",
+        "examples": [
+          {
+            "sentence": "The federated states share defense resources like Avengers assemble.",
+            "sentence_zh": "联邦州共享国防资源就像复仇者联盟集结。"
+          },
+          {
+            "sentence": "Russia is a federated country spanning two continents.",
+            "sentence_zh": "俄罗斯是横跨两大洲的联邦制国家。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "联合的",
+        "examples": [
+          {
+            "sentence": "WeChat's federated login works like a universal metro card.",
+            "sentence_zh": "微信联合登录功能就像万能地铁卡。"
+          },
+          {
+            "sentence": "The federated database connects 300 libraries nationwide.",
+            "sentence_zh": "这个联合数据库连接全国300家图书馆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "结成同盟",
+        "examples": [
+          {
+            "sentence": "Tech giants federated against cyber attacks like superhero teams.",
+            "sentence_zh": "科技巨头们像超级英雄战队般结盟对抗网络攻击。"
+          },
+          {
+            "sentence": "Ancient tribes federated to resist Mongol invasions.",
+            "sentence_zh": "古代部落结成同盟抵抗蒙古入侵。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "federated learning",
+        "meaning": "联邦学习",
+        "examples": [
+          {
+            "sentence": "Huawei's federated learning protects privacy like separate hotpot pots.",
+            "sentence_zh": "华为的联邦学习技术像分格火锅般保护隐私。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "federated identity",
+        "meaning": "联合身份认证",
+        "examples": [
+          {
+            "sentence": "Alipay's federated identity lets you pay with facial recognition across stores.",
+            "sentence_zh": "支付宝的联合身份认证让你刷脸走遍连锁店。"
+          }
+        ]
+      }
+    ],
+    "teach": "federated就像火锅联盟🍲：各州像格子锅保持独立又共享汤底（联邦制），科技公司像拼桌吃饭共享数据（联合学习）。说'强强联合'叫power federation💪，'各自为政'反义词是balkanized（巴尔干化）🗺️。记住：fed开头的词总在搞团建！",
+    "recite": {
+      "tips": [
+        "谐音梗：'费的馒头'→联邦制省经费(federated)不用每个州都造馒头厂",
+        "易混词：federal（联邦政府的）vs federated（已结盟的）"
+      ]
+    }
+  },
+  {
+    "word": "feeble",
+    "etymology": {
+      "breakdown": [
+        "fee",
+        "ble"
+      ],
+      "meaning_connection": "古法语fieble（虚弱）+后缀-ble表性质→原指'易弯曲的'，后引申为'无力的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "微弱的",
+        "examples": [
+          {
+            "sentence": "The feeble light of fireflies could hardly compete with city neon signs.",
+            "sentence_zh": "萤火虫微弱的光芒难以与城市霓虹灯抗衡。"
+          },
+          {
+            "sentence": "Her voice was as feeble as a mosquito's buzz after the concert.",
+            "sentence_zh": "演唱会结束后她的声音微弱得像蚊子叫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "衰弱的",
+        "examples": [
+          {
+            "sentence": "The once mighty boxer now walks with feeble steps.",
+            "sentence_zh": "曾经强壮的拳击手如今步履蹒跚。"
+          },
+          {
+            "sentence": "Grandpa's hands grew feeble but his mahjong skills remained sharp.",
+            "sentence_zh": "爷爷的手变得衰弱，但麻将技术依然犀利。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无效的",
+        "examples": [
+          {
+            "sentence": "Their feeble excuses couldn't explain the missing mooncakes.",
+            "sentence_zh": "他们蹩脚的借口无法解释月饼失踪的原因。"
+          },
+          {
+            "sentence": "The firewall provided only feeble protection against hackers.",
+            "sentence_zh": "这个防火墙对黑客的防护形同虚设。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "feeble attempt",
+        "meaning": "徒劳的尝试",
+        "examples": [
+          {
+            "sentence": "His feeble attempt to diet lasted exactly one milk tea.",
+            "sentence_zh": "他徒劳的节食尝试坚持了刚好一杯奶茶的时间。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "feeble-minded",
+        "meaning": "意志薄弱的",
+        "examples": [
+          {
+            "sentence": "Don't be feeble-minded when facing spicy hotpot!",
+            "sentence_zh": "面对麻辣火锅时不要意志薄弱！"
+          }
+        ]
+      }
+    ],
+    "teach": "feeble是'废伯'👴🏻：想象老伯颤抖的手连麻将牌都拿不稳（feeble hands），说话声音比猫咪打呼还轻（feeble voice）。说'弱爆了'可以用pathetic更地道，比如'My phone signal is pathetic in elevators'📱。搭配feeble excuse(烂借口)和feeble light(烛光)时，记住它总带着'随时会断气'的即视感💨",
+    "recite": {
+      "tips": [
+        "谐音梗：'废伯'→老伯伯虚弱的样子",
+        "对比记忆：weak普通虚弱，feeble带'病态+可笑'意味",
+        "联想：FEEBLE=Far From Energetic Brave Lively Entity"
+      ]
+    }
+  },
+  {
+    "word": "feebleness",
+    "etymology": {
+      "breakdown": [
+        "feeble",
+        "ness"
+      ],
+      "meaning_connection": "feeble源自拉丁语'flebilis'（可悲的），-ness为名词后缀表状态→形容虚弱到令人叹息的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "虚弱（身体）",
+        "examples": [
+          {
+            "sentence": "After running a marathon, the feebleness in his legs made him crawl up stairs.",
+            "sentence_zh": "跑完马拉松后，他双腿虚弱得爬楼梯要用跪的。"
+          },
+          {
+            "sentence": "The panda's feebleness after illness required caregivers to hand-feed it bamboo.",
+            "sentence_zh": "这只熊猫病后的虚弱需要饲养员亲手喂竹子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "微弱（事物）",
+        "examples": [
+          {
+            "sentence": "The feebleness of candlelight couldn't compete with smartphones in the blackout.",
+            "sentence_zh": "停电时蜡烛的微弱光线根本拼不过手机屏幕。"
+          },
+          {
+            "sentence": "Archaeologists detected the feebleness of ink traces on 2,000-year-old bamboo slips.",
+            "sentence_zh": "考古学家检测到两千年前竹简上墨迹的微弱痕迹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "with feebleness",
+        "meaning": "虚弱地",
+        "examples": [
+          {
+            "sentence": "The rescued kitten meowed with feebleness but stole everyone's heart.",
+            "sentence_zh": "被救的小猫虚弱地叫着，却偷走了所有人的心。"
+          }
+        ]
+      }
+    ],
+    "teach": "feebleness是连表情包都发不动的虚弱💤！想象：1) 罗马角斗士受伤后'feeble'的哀叹是'非~搏~了~'🗡️ 2) 就像手机剩1%电量时还在坚持扫码的倔强📱 搭配：'physical feebleness'（体虚），'feebleness of memory'（记性差）。地道说法：'weak as a kitten'（弱如幼猫）🐱💫☁️",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥不了身子'→虚弱胖不起来",
+        "易混词对比：weakness（普通虚弱） vs feebleness（令人担忧的虚弱）",
+        "记忆tip：feeble+ness=付费(fee)也治不了(ble)的病态(ness)"
+      ]
+    }
+  },
+  {
+    "word": "feebly",
+    "etymology": {
+      "breakdown": [
+        "feeble",
+        "ly"
+      ],
+      "meaning_connection": "词根feeble来自拉丁语'flebilis'（可悲的），-ly副词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "柔弱地",
+        "examples": [
+          {
+            "sentence": "The kitten meowed feebly after being stuck in the tree for hours.",
+            "sentence_zh": "小猫被困在树上数小时后，柔弱地喵喵叫着。"
+          },
+          {
+            "sentence": "She feebly protested when her friends forced her to eat stinky tofu.",
+            "sentence_zh": "当朋友们强迫她吃臭豆腐时，她柔弱地抗议着。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "无力地",
+        "examples": [
+          {
+            "sentence": "After running a marathon, he feebly raised his hand to hail a taxi.",
+            "sentence_zh": "跑完马拉松后，他无力地抬手招呼出租车。"
+          },
+          {
+            "sentence": "The dying phone feebly flashed its last 1% battery warning.",
+            "sentence_zh": "快没电的手机无力地闪烁着最后1%的电量警告。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "微弱地",
+        "examples": [
+          {
+            "sentence": "The candlelight flickered feebly in the ancient temple.",
+            "sentence_zh": "烛光在古寺中微弱地摇曳。"
+          },
+          {
+            "sentence": "The WiFi signal feebly reached the corner of the library.",
+            "sentence_zh": "WiFi信号微弱地覆盖到图书馆的角落。"
+          }
+        ]
+      }
+    ],
+    "teach": "feebly是'战五渣'的官方认证章💀！想象：比林黛玉葬花还柔弱🌸（feebly weep），比通宵赶deadline还无力😴（feebly type），比手机剩1%电量还微弱🔋（feebly glow）。搭配'挣扎'说struggle feebly，'抗议'说protest feebly，地道表达可以用'weak as a kitten'（弱如幼猫）🐱。记住：凡是用feebly修饰的动作，都是青铜选手操作！",
+    "recite": {
+      "tips": [
+        "谐音梗：'废不理'→废到没人理",
+        "易混词对比：faintly（隐约地）更侧重感官不易察觉",
+        "联想法：feeble=废+ble→废伯乐(连伯乐都废了)"
+      ]
+    }
   }
 ]

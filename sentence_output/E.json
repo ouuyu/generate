@@ -18460,5 +18460,353 @@
         "易混词对比：eligible(adj.合格的) vs. illegible(adj.字迹难认的)"
       ]
     }
+  },
+  {
+    "word": "elide",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "lide"
+      ],
+      "meaning_connection": "前缀e-表示'向外'，词根lide源自拉丁语laedere'打击'→字面义'击打出去'，引申为'省略'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "省略(元音、辅音)",
+        "examples": [
+          {
+            "sentence": "In Beijing dialect, people often elide the final 'n' sound.",
+            "sentence_zh": "北京话里人们常省略尾音'n'。"
+          },
+          {
+            "sentence": "The poet deliberately elided vowels to create rhythm.",
+            "sentence_zh": "诗人有意省略元音以创造韵律。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "删去(字、句等)",
+        "examples": [
+          {
+            "sentence": "The editor elided three paragraphs about UFO sightings.",
+            "sentence_zh": "编辑删去了关于UFO目击的三段文字。"
+          },
+          {
+            "sentence": "Ancient scribes would elide politically sensitive phrases.",
+            "sentence_zh": "古代抄写员会删去政治敏感语句。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "取消",
+        "examples": [
+          {
+            "sentence": "The meeting was elided due to CEO's sudden hotpot craving.",
+            "sentence_zh": "由于CEO突然想吃火锅，会议被取消了。"
+          },
+          {
+            "sentence": "The court elided the controversial clause.",
+            "sentence_zh": "法院取消了争议条款。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "elide over",
+        "meaning": "跳过(细节)",
+        "examples": [
+          {
+            "sentence": "The report elided over the data manipulation issue.",
+            "sentence_zh": "报告跳过了数据篡改问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "elide是文字界的灭霸🖐️！当它'省略'音素时像四川话吞字🌶️（'不知道'→'不造'）；'删除'文本时像秦始皇焚书🔥（但更文明）；'取消'时像你妈撤回催婚语音🎙️。搭配：elide details就像跳过健身卡推销，地道说'cut corners'💨。记住：elide过的文字就像被P掉的发际线——假装不存在！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一来的'→一来就把字给删了",
+        "易混词对比：delete是普通删除，elide是学术性/语音性省略"
+      ]
+    }
+  },
+  {
+    "word": "eligible",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "lig",
+        "ible"
+      ],
+      "meaning_connection": "前缀e-=向外，词根lig=选择（同select），-ible=能够→能够被选出来的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有资格当选的",
+        "examples": [
+          {
+            "sentence": "Only citizens eligible to vote can participate in the presidential election.",
+            "sentence_zh": "只有具备投票资格的公民才能参与总统大选。"
+          },
+          {
+            "sentence": "The puppy became eligible for adoption after passing health checks.",
+            "sentence_zh": "这只小狗通过健康检查后具备了领养资格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "合格的",
+        "examples": [
+          {
+            "sentence": "Her TOEFL score made her eligible for Ivy League applications.",
+            "sentence_zh": "她的托福成绩使她具备申请常春藤盟校的资格。"
+          },
+          {
+            "sentence": "This expired coupon is no longer eligible for use.",
+            "sentence_zh": "这张过期的优惠券不再具备使用资格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "有资格者",
+        "examples": [
+          {
+            "sentence": "The scholarship will be awarded to 10 eligibles among 5,000 applicants.",
+            "sentence_zh": "该奖学金将从5000名申请者中选拔10位合格者授予。"
+          },
+          {
+            "sentence": "VIP eligibles enjoy unlimited bubble tea refills here.",
+            "sentence_zh": "本店VIP资格享有奶茶无限续杯特权。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eligible bachelor",
+        "meaning": "黄金单身汉",
+        "examples": [
+          {
+            "sentence": "That tech CEO is considered the most eligible bachelor in Silicon Valley.",
+            "sentence_zh": "那位科技公司CEO被视为硅谷最抢手的钻石王老五。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "become eligible",
+        "meaning": "获得资格",
+        "examples": [
+          {
+            "sentence": "Your account becomes eligible for withdrawals after identity verification.",
+            "sentence_zh": "账户完成实名认证后即具备提现资格。"
+          }
+        ]
+      }
+    ],
+    "teach": "eligible就像选秀海选现场🎤！词根lig=选择（想想select），加上-ible变成'能被选中的'。古代欧洲贵族比武招亲时👑，只有eligible骑士才能接绣球💐。说'条件达标'可以用meet the eligibility criteria（就像通关游戏🎮），吐槽'不够格'说not cut out for it（像裁错尺寸的裤子👖）。记住：eligible的人自带绿色通行证🟢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱理就不理'→够eligible才理你",
+        "易混词对比：eligible（符合条件） vs. illegible（字迹难辨）→多一个l就变'糊咖'",
+        "记忆tip：把lig想象成ligament（韧带）→ 通过'选拔韧带'的严格考验"
+      ]
+    }
+  },
+  {
+    "word": "eliminate",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "limin",
+        "ate"
+      ],
+      "meaning_connection": "前缀e-=向外，词根limin=门槛→原指赶出门外，后发展出'排除'含义，-ate为动词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "除去",
+        "examples": [
+          {
+            "sentence": "The chef eliminated fish bones with surgical precision.",
+            "sentence_zh": "厨师用外科手术般的精准度除去鱼刺。"
+          },
+          {
+            "sentence": "Baidu's algorithm eliminates duplicate search results automatically.",
+            "sentence_zh": "百度算法自动除去重复的搜索结果。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "排除",
+        "examples": [
+          {
+            "sentence": "The detective eliminated all impossible suspects like in a Sherlock Holmes novel.",
+            "sentence_zh": "侦探像福尔摩斯小说那样排除了所有不可能的嫌疑人。"
+          },
+          {
+            "sentence": "WeChat Pay eliminated password input for small transactions.",
+            "sentence_zh": "微信支付排除了小额交易的密码输入环节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "淘汰",
+        "examples": [
+          {
+            "sentence": "The singing competition eliminated 50% contestants in the first round.",
+            "sentence_zh": "唱歌比赛首轮就淘汰了50%的选手。"
+          },
+          {
+            "sentence": "Flip phones were gradually eliminated by smartphones.",
+            "sentence_zh": "翻盖手机逐渐被智能手机淘汰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "消除",
+        "examples": [
+          {
+            "sentence": "TikTok's beauty filter can eliminate all your acne in real time.",
+            "sentence_zh": "抖音的美颜滤镜能实时消除你的痘痘。"
+          },
+          {
+            "sentence": "Alipay claims to eliminate 99.9% of payment risks.",
+            "sentence_zh": "支付宝宣称能消除99.9%的支付风险。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eliminate from",
+        "meaning": "从...中清除",
+        "examples": [
+          {
+            "sentence": "Spam messages should be eliminated from our inbox.",
+            "sentence_zh": "垃圾邮件应该从收件箱中清除。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "eliminate the possibility",
+        "meaning": "排除可能性",
+        "examples": [
+          {
+            "sentence": "The doctor eliminated the possibility of food poisoning.",
+            "sentence_zh": "医生排除了食物中毒的可能性。"
+          }
+        ]
+      }
+    ],
+    "teach": "eliminate是'灭霸'响指👆！打游戏时eliminate敌人就像吃鸡里淘汰对手🎮，解题时eliminate错误选项像刮刮乐排除错误答案✏️。'彻底消除'说wipe out the map🗺️，'排除法'叫process of elimination🔍。记住：词根limin是'门槛'，eliminate就是把东西踢出门外🚪！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一厘米内特'→一厘米内的特工都被eliminate了",
+        "易混词：exterminate（彻底灭绝）/ eradicate（根除疾病）",
+        "记忆法：想象门卫(e)把坏人(limin)踢出去(ate)"
+      ]
+    }
+  },
+  {
+    "word": "elimination",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "limin",
+        "ation"
+      ],
+      "meaning_connection": "前缀e-表示'出', 词根limin来自limen(门槛)→'赶出门槛', 后缀-ation表名词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "除去",
+        "examples": [
+          {
+            "sentence": "The elimination of typos is crucial for academic papers.",
+            "sentence_zh": "除去错别字对学术论文至关重要。"
+          },
+          {
+            "sentence": "Kungfu Panda's elimination of chopstick skills surprised everyone.",
+            "sentence_zh": "功夫熊猫对筷子技术的剔除让所有人惊讶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "消除",
+        "examples": [
+          {
+            "sentence": "Noise elimination headphones are subway commuters' best friends.",
+            "sentence_zh": "降噪耳机是地铁通勤者的最佳伙伴。"
+          },
+          {
+            "sentence": "The elimination of poverty requires generational effort.",
+            "sentence_zh": "消除贫困需要几代人的努力。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "消灭",
+        "examples": [
+          {
+            "sentence": "The elimination of mosquitoes involves both chemical and biological methods.",
+            "sentence_zh": "消灭蚊子需要化学和生物手段双管齐下。"
+          },
+          {
+            "sentence": "Ancient Chinese believed mugwort could aid in evil spirits' elimination.",
+            "sentence_zh": "古人认为艾草有助于消灭邪祟。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "elimination round",
+        "meaning": "淘汰赛",
+        "examples": [
+          {
+            "sentence": "The spicy hotpot challenge's elimination round left contestants in tears.",
+            "sentence_zh": "麻辣火锅挑战的淘汰赛让选手泪流满面。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "waste elimination",
+        "meaning": "排泄",
+        "examples": [
+          {
+            "sentence": "Panda's poor waste elimination efficiency results in undigested bamboo.",
+            "sentence_zh": "熊猫低效的排泄系统导致竹子无法完全消化。"
+          }
+        ]
+      }
+    ],
+    "teach": "elimination是'扫地出门'大扫除🧹！古罗马把罪犯赶出(e-)门槛(limen)就是最早淘汰制⚔️。说'彻底消灭'可以用total elimination像灭霸响指👆，'淘汰赛'叫elimination round像吃鸡游戏🎮。记住：你的待办事项清单也需要定期elimination！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一厘米内审'→精确到毫米的剔除",
+        "易混词对比：delete(数字删除) vs eliminate(物理消除)"
+      ]
+    }
   }
 ]

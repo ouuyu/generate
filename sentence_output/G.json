@@ -17789,5 +17789,309 @@
         "易混词：chiffon（雪纺更挺括）"
       ]
     }
+  },
+  {
+    "word": "Georgian",
+    "etymology": {
+      "breakdown": [
+        "George",
+        "ian"
+      ],
+      "meaning_connection": "源自英国国王乔治(George)的名字，后缀-ian表示'属于...的'或'...的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "乔治亚州人",
+        "examples": [
+          {
+            "sentence": "A Georgian proudly served peach cobbler at the state fair.",
+            "sentence_zh": "一位乔治亚州人在州博览会上自豪地提供桃子馅饼。"
+          },
+          {
+            "sentence": "The Georgian explained why Atlanta's traffic is legendary.",
+            "sentence_zh": "这位乔治亚州人解释了为什么亚特兰大的交通状况如此'闻名'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "乔治亚人",
+        "examples": [
+          {
+            "sentence": "The Georgian diplomat brought khachapuri to the UN meeting.",
+            "sentence_zh": "这位乔治亚外交官带着奶酪面包来到联合国会议。"
+          },
+          {
+            "sentence": "Every Georgian knows how to toast properly with wine.",
+            "sentence_zh": "每个乔治亚人都懂得如何用葡萄酒正确祝酒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "乔治王时代的",
+        "examples": [
+          {
+            "sentence": "Jane Austen's novels capture Georgian society perfectly.",
+            "sentence_zh": "简·奥斯汀的小说完美展现了乔治王时代的社会风貌。"
+          },
+          {
+            "sentence": "Georgian London was filled with coffeehouses and wig shops.",
+            "sentence_zh": "乔治王时代的伦敦遍布咖啡馆和假发店。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "乔治王时代艺术风格的",
+        "examples": [
+          {
+            "sentence": "The Georgian townhouse had symmetrical windows and a fanlight door.",
+            "sentence_zh": "这栋乔治王时代风格的联排别墅拥有对称的窗户和扇形气窗门。"
+          },
+          {
+            "sentence": "Bath's Georgian architecture attracts millions of tourists yearly.",
+            "sentence_zh": "巴斯城的乔治王时代建筑每年吸引数百万游客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "乔治亚的",
+        "examples": [
+          {
+            "sentence": "Georgian wine is gaining popularity in international markets.",
+            "sentence_zh": "乔治亚葡萄酒在国际市场上越来越受欢迎。"
+          },
+          {
+            "sentence": "The Georgian alphabet looks like delicate jewelry to foreigners.",
+            "sentence_zh": "对外国人来说，乔治亚字母就像精致的珠宝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Georgian era",
+        "meaning": "乔治王时代（1714-1830）",
+        "examples": [
+          {
+            "sentence": "The Georgian era saw the rise of the British Empire.",
+            "sentence_zh": "乔治王时代见证了大英帝国的崛起。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Georgian polyphony",
+        "meaning": "乔治亚复调音乐",
+        "examples": [
+          {
+            "sentence": "Georgian polyphony was added to UNESCO's intangible cultural heritage list.",
+            "sentence_zh": "乔治亚复调音乐被列入联合国教科文组织非物质文化遗产名录。"
+          }
+        ]
+      }
+    ],
+    "teach": "Georgian这个词就像时间旅行器⏳！当指人时：美国乔治亚州人带着桃子🍑，高加索的乔治亚人举着葡萄酒杯🍷；当指时代时：想象简·奥斯汀穿着帝国腰线裙👗在巴斯喝下午茶☕。搭配要说'Georgian hospitality'（乔治亚式热情招待）或'Georgian windows'（乔治亚式对称窗）。记住：'I'm Georgian'可能得到桃子或葡萄酒，取决于你站在哪块大陆！🗺️",
+    "recite": {
+      "tips": [
+        "谐音梗：'饺治ian'→乔治亚人既会包饺子又会治理国家",
+        "易混词：Georgia（美国州名）vs Georgia（高加索国家）"
+      ]
+    }
+  },
+  {
+    "word": "geostationary",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "station",
+        "ary"
+      ],
+      "meaning_connection": "geo=地球，station=固定位置，-ary=形容词后缀→与地球位置保持固定的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "对地静止的（特指卫星）",
+        "examples": [
+          {
+            "sentence": "Meteorological satellites in geostationary orbit can monitor typhoons 24/7.",
+            "sentence_zh": "地球静止轨道上的气象卫星能24小时监测台风。"
+          },
+          {
+            "sentence": "Your GPS navigation depends on geostationary satellites overhead.",
+            "sentence_zh": "你用的GPS导航依赖头顶的地球静止卫星。"
+          }
+        ]
+      }
+    ],
+    "teach": "geostationary其实是太空中的'定海神针'🌍！这些卫星就像麻将桌上的老手🀄，永远用同一面朝向地球（geo+stationary）。北斗卫星系统就包含这类'宇宙路灯'💡。搭配说launch into geostationary orbit（发射至静止轨道），地道表达叫'eye in the sky'（天空之眼）。记住：它们其实在以时速1.1万公里狂奔，只是和地球自转完美同步🚀！",
+    "recite": {
+      "tips": [
+        "拆解记忆：geo（地理）+station（车站）+ary→地球的'太空车站'",
+        "易混词对比：geosynchronous（地球同步）范围更广，包含椭圆轨道"
+      ]
+    }
+  },
+  {
+    "word": "geothermal",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "therm",
+        "al"
+      ],
+      "meaning_connection": "词根geo=地球，therm=热，-al为形容词后缀→与地球热量相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "地温的",
+        "examples": [
+          {
+            "sentence": "The geothermal gradient affects underground parking lot temperatures.",
+            "sentence_zh": "地温梯度会影响地下停车场的温度。"
+          },
+          {
+            "sentence": "Pandas' caves maintain constant temperature using geothermal properties.",
+            "sentence_zh": "熊猫洞穴利用地温特性保持恒温。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "地热的",
+        "examples": [
+          {
+            "sentence": "Icelanders bake bread using geothermal steam like natural ovens.",
+            "sentence_zh": "冰岛人用地热蒸汽像天然烤箱般烤面包。"
+          },
+          {
+            "sentence": "Hotpot restaurants near volcanoes use geothermal energy to boil broth.",
+            "sentence_zh": "火山附近火锅店用地热能源煮沸汤底。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geothermal power",
+        "meaning": "地热发电",
+        "examples": [
+          {
+            "sentence": "Tibet's Yangbajing generates electricity from geothermal power.",
+            "sentence_zh": "西藏羊八井通过地热发电。"
+          }
+        ]
+      }
+    ],
+    "teach": "geothermal是地球的充电宝🔋！geo（地球）+therm（热）就像火锅下的电磁炉🔥，冰岛人用它烤面包🍞，重庆人用它烫毛肚（误）。搭配'geothermal spa'（地热温泉）和'geothermal gradient'（地温梯度），说'天然桑拿'可用earth's sauna🌋。记住：地球是个大暖男！♨️",
+    "recite": {
+      "tips": [
+        "拆解记忆：geo（地理）+thermal（热的）= 地热的",
+        "易混词对比：geocentric（地心的）vs geothermal（地热的）",
+        "联想：地热=地球在发微信'热'表情🥵"
+      ]
+    }
+  },
+  {
+    "word": "geranium",
+    "etymology": {
+      "breakdown": [
+        "geran",
+        "ium"
+      ],
+      "meaning_connection": "词根geran来自希腊语geranos（鹤），因果实形状似鹤嘴，-ium表植物类别"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "老鹳草属植物",
+        "examples": [
+          {
+            "sentence": "The wild geraniums along the Great Wall bloom like purple stars.",
+            "sentence_zh": "长城沿线野生的老鹳草如紫色星辰般绽放。"
+          },
+          {
+            "sentence": "Grandpa's arthritis ointment contains geranium extract.",
+            "sentence_zh": "爷爷的关节炎药膏含有老鹳草提取物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "天竺葵",
+        "examples": [
+          {
+            "sentence": "Her balcony is a riot of red geraniums in terracotta pots.",
+            "sentence_zh": "她的阳台上陶土盆里的红色天竺葵开得热闹非凡。"
+          },
+          {
+            "sentence": "The lemon-scented geranium leaves are used in Turkish delight.",
+            "sentence_zh": "柠檬香天竺葵的叶子被用于制作土耳其软糖。"
+          }
+        ]
+      }
+    ],
+    "teach": "geranium其实是'仙鹤草'🦩→古希腊人觉得它的果实像鹤嘴！在欧洲，窗台上的天竺葵是主妇的骄傲👩🌾，要说'养花高手'叫green thumb（绿拇指），'花开富贵'说in full bloom💐。记住：你家阳台缺盆geranium就像火锅缺辣锅底🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'姐累呢'→姐姐累的时候闻天竺葵提神",
+        "易混词：peony（牡丹）vs geranium（天竺葵）",
+        "记忆法：想象鹤嘴叼着天竺葵的画面"
+      ]
+    }
+  },
+  {
+    "word": "gerbil",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "直接源自法语gerbille，最终可能来自阿拉伯语yarbū。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "沙鼠（南非传播鼠疫的啮齿动物）",
+        "examples": [
+          {
+            "sentence": "The researchers wore protective suits while handling plague-carrying gerbils.",
+            "sentence_zh": "研究人员在接触携带鼠疫的沙鼠时穿着防护服。"
+          },
+          {
+            "sentence": "A gerbil's cheek pouches can store food equal to its body size.",
+            "sentence_zh": "沙鼠的颊囊可以储存相当于自身体积的食物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gerbil wheel",
+        "meaning": "沙鼠跑轮（比喻重复枯燥的工作）",
+        "examples": [
+          {
+            "sentence": "Working overtime felt like running on a gerbil wheel.",
+            "sentence_zh": "加班感觉就像在沙鼠跑轮上原地奔跑。"
+          },
+          {
+            "sentence": "The stock trader compared the market to a giant gerbil wheel.",
+            "sentence_zh": "股票交易员把市场比作巨大的沙鼠跑轮。"
+          }
+        ]
+      }
+    ],
+    "teach": "gerbil是职场摸鱼大师🏃‍♂️💨：它们的跑轮(girbil wheel)就是现代人的工作日常——拼命奔跑却原地打转。当说'my brain is a gerbil'等于承认自己智商掉线🧠⚡。要形容'瞎忙'可以说gerbiling around，记住：真正的沙鼠都比你懂work-life balance！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哥播'→动物哥（ger）在直播间（bil）啃瓜子",
+        "易混词：hamster（仓鼠没有长尾巴） vs gerbil（沙鼠尾巴像小扫把）"
+      ]
+    }
   }
 ]

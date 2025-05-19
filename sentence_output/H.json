@@ -17889,5 +17889,314 @@
         "易混词：meadow（天然草地）vs hayfield（人工草田）"
       ]
     }
+  },
+  {
+    "word": "haystack",
+    "etymology": {
+      "breakdown": [
+        "hay",
+        "stack"
+      ],
+      "meaning_connection": "hay=干草，stack=堆叠→干草堆"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "干草堆",
+        "examples": [
+          {
+            "sentence": "The farmer's cat loved napping on top of the haystack.",
+            "sentence_zh": "农夫的猫最爱在干草堆顶上打盹。"
+          },
+          {
+            "sentence": "We found a family of hedgehogs living inside the haystack.",
+            "sentence_zh": "我们在干草堆里发现了一窝刺猬。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "needle in a haystack",
+        "meaning": "大海捞针",
+        "examples": [
+          {
+            "sentence": "Finding my AirPods in the dorm is like looking for a needle in a haystack.",
+            "sentence_zh": "在宿舍找我的AirPods就像大海捞针。"
+          },
+          {
+            "sentence": "Tracking down the original meme template is a real needle-in-a-haystack situation.",
+            "sentence_zh": "追踪原始表情包模板真是大海捞针。"
+          }
+        ]
+      }
+    ],
+    "teach": "haystack是草垛界的大别墅🏡！英语谚语'needle in a haystack'比中文'大海捞针'更具体——想象在2000斤干草里找绣花针🧵！搭配'haystack haircut'指蓬乱发型（像被雷劈过的草堆⚡），'make hay'表示抓住时机（源自晒草要趁晴天☀️）。记住：你的房间乱得像haystack时，妈妈就会说'tidy up or sleep outside!'",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑stack'→发霉的干草堆黑漆漆",
+        "易混词：haystack（干草堆）vs. hayride（干草车）",
+        "记忆法：把单词拆成hay(干草)+stack(堆)=干草堆"
+      ]
+    }
+  },
+  {
+    "word": "haywire",
+    "etymology": {
+      "breakdown": [
+        "hay",
+        "wire"
+      ],
+      "meaning_connection": "原指农场捆干草用的铁丝（wire），因容易断裂/缠绕引申为'混乱失控'状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "失控的",
+        "examples": [
+          {
+            "sentence": "The robot vacuum went haywire and started chasing my cat.",
+            "sentence_zh": "扫地机器人突然失控开始追我的猫。"
+          },
+          {
+            "sentence": "Traffic lights went haywire during the thunderstorm.",
+            "sentence_zh": "雷暴期间交通信号灯全部乱套了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "疯狂的",
+        "examples": [
+          {
+            "sentence": "Stock market went haywire after the news broke out.",
+            "sentence_zh": "消息传出后股市陷入疯狂波动。"
+          },
+          {
+            "sentence": "My sleep schedule is completely haywire during finals week.",
+            "sentence_zh": "期末周我的作息时间完全颠三倒四。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "go haywire",
+        "meaning": "出故障",
+        "examples": [
+          {
+            "sentence": "The elevator went haywire and stopped between floors.",
+            "sentence_zh": "电梯突发故障卡在楼层之间。"
+          }
+        ]
+      }
+    ],
+    "teach": "haywire的疯狂史🐴：美国农场主最怕干草捆铁丝(hay wire)突然崩开——就像你手机同时弹出100条微信通知📱！说'系统崩溃'可用go haywire，'彻底混乱'叫complete chaos。记住：当生活像炸开的干草堆时，大喊'Everything's gone haywire!'🤯",
+    "recite": {
+      "tips": [
+        "视觉联想：想象被haywire缠住的暴躁山羊🐐",
+        "易混词对比：mayhem（故意破坏） vs haywire（意外失控）"
+      ]
+    }
+  },
+  {
+    "word": "hazard",
+    "etymology": {
+      "breakdown": [
+        "hasard"
+      ],
+      "meaning_connection": "源自阿拉伯语'al-zahr'(骰子游戏)，经古法语传入英语，原指赌博风险，引申为泛指危险"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "冒险",
+        "examples": [
+          {
+            "sentence": "Investing in dogecoin is more like a hazard than investment.",
+            "sentence_zh": "投资狗狗币更像冒险而非投资。"
+          },
+          {
+            "sentence": "The Everest climbers laughed at the hazard with bravado.",
+            "sentence_zh": "那些珠峰攀登者用虚张声势的笑面对冒险。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "危险",
+        "examples": [
+          {
+            "sentence": "Wet floors are a slip hazard in all shopping malls.",
+            "sentence_zh": "在所有商场里，湿地板都是滑倒危险源。"
+          },
+          {
+            "sentence": "The hazard sign with skull symbol made tourists nervous.",
+            "sentence_zh": "带骷髅图案的危险标志让游客们紧张起来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "机会",
+        "examples": [
+          {
+            "sentence": "The poker player saw a hazard to win back his losses.",
+            "sentence_zh": "牌手看到了挽回损失的机会。"
+          },
+          {
+            "sentence": "In ancient times, hazards were often decided by dice throws.",
+            "sentence_zh": "古时常以掷骰决定机会归属。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "冒...的危险",
+        "examples": [
+          {
+            "sentence": "He hazarded his savings to start a bubble tea shop.",
+            "sentence_zh": "他冒着积蓄风险开了家奶茶店。"
+          },
+          {
+            "sentence": "Don't hazard your health for overtime pay.",
+            "sentence_zh": "别为加班费冒健康风险。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "赌运气",
+        "examples": [
+          {
+            "sentence": "She hazarded a guess that the meeting would end before lunch.",
+            "sentence_zh": "她赌运气猜会议会在午饭前结束。"
+          },
+          {
+            "sentence": "I'll hazard all my game coins on this final round!",
+            "sentence_zh": "我要把所有游戏币赌在这最后一局！"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "at hazard",
+        "meaning": "在危险中",
+        "examples": [
+          {
+            "sentence": "The panda's habitat is at hazard due to bamboo flowering.",
+            "sentence_zh": "因竹子开花，熊猫栖息地正面临危险。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hazard a guess",
+        "meaning": "斗胆猜测",
+        "examples": [
+          {
+            "sentence": "May I hazard a guess that you forgot your anniversary again?",
+            "sentence_zh": "我斗胆猜你是不是又忘了结婚纪念日？"
+          }
+        ]
+      }
+    ],
+    "teach": "hazard是危险的骰子🎲：这个词来自阿拉伯赌徒说的'al-zahr'，连中世纪骑士都为此倾家荡产💸。现代用法就像玩扫雷游戏💣——'chemical hazard'（化学危险）标志比表情包更吓人。要说'风险很大'可以用dice with death（和死神掷骰子），搭配'hazard pay'（危险津贴）和'hazard lights'（双闪灯）🚨。记住：人生就像hazard，不是冒险就是危险！",
+    "recite": {
+      "tips": [
+        "谐音梗：'害人的'→hazard就是害人的危险",
+        "易混词对比：danger强调确定性危险，hazard侧重偶然性风险"
+      ]
+    }
+  },
+  {
+    "word": "hazardous",
+    "etymology": {
+      "breakdown": [
+        "hazard",
+        "ous"
+      ],
+      "meaning_connection": "源自阿拉伯语'al-zahr'（骰子游戏），-ous表性质→原指赌博的冒险性，引申为'危险的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "危险的",
+        "examples": [
+          {
+            "sentence": "Delivering packages during typhoons is a hazardous job.",
+            "sentence_zh": "台风天送快递是危险工作。"
+          },
+          {
+            "sentence": "The hazardous chemicals were marked with skull symbols.",
+            "sentence_zh": "这些危险化学品标有骷髅符号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "冒险的",
+        "examples": [
+          {
+            "sentence": "His hazardous investment in cryptocurrency paid off.",
+            "sentence_zh": "他在加密货币上的冒险投资获得了回报。"
+          },
+          {
+            "sentence": "Crossing the desert alone is extremely hazardous.",
+            "sentence_zh": "独自穿越沙漠极其冒险。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "碰运气的",
+        "examples": [
+          {
+            "sentence": "Buying blind boxes is a hazardous way to collect figurines.",
+            "sentence_zh": "买盲盒是收集手办的碰运气方式。"
+          },
+          {
+            "sentence": "The outcome of this game is completely hazardous.",
+            "sentence_zh": "这场比赛的结果全凭运气。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hazardous waste",
+        "meaning": "危险废弃物",
+        "examples": [
+          {
+            "sentence": "The hospital has special containers for hazardous waste.",
+            "sentence_zh": "医院设有专门容器盛放医疗危险废弃物。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "hazardous journey",
+        "meaning": "冒险旅程",
+        "examples": [
+          {
+            "sentence": "Their hazardous journey through the Amazon was filmed by National Geographic.",
+            "sentence_zh": "他们穿越亚马逊的冒险旅程被国家地理频道记录。"
+          }
+        ]
+      }
+    ],
+    "teach": "hazardous其实是'赌命行为'🎲！源自阿拉伯骰子游戏'al-zahr'，中世纪骑士们用生命赌博⚔️。说'作死'可以用play hazardous games，'高危职业'叫hazardous occupation🚧。记住：所有hazardous的事情都像在雷区跳广场舞💣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'害砸的'→危害会砸到(hazardous)你",
+        "易混词对比：dangerous（泛指危险） vs hazardous（含不可控风险）",
+        "记忆口诀：H打头总没好事→hard, harm, hazardous"
+      ]
+    }
   }
 ]

@@ -18314,5 +18314,364 @@
         "易混词对比：Nicaragua(国家) vs Nicaraguan(人或形容词)"
       ]
     }
+  },
+  {
+    "word": "nice",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语nescius（无知的），经古法语演变后含义转为'愚蠢的'，14世纪后逆转为'精确的'，最终发展为现代'美好的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "美好的",
+        "examples": [
+          {
+            "sentence": "WeChat Pay makes it nice to split bills with friends.",
+            "sentence_zh": "微信支付让和朋友AA结账变得很美好。"
+          },
+          {
+            "sentence": "That hotpot place has a nice atmosphere with Sichuan opera performances.",
+            "sentence_zh": "那家火锅店有川剧表演，氛围很棒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "和蔼的",
+        "examples": [
+          {
+            "sentence": "The noodle shop owner is always nice to delivery guys.",
+            "sentence_zh": "面馆老板对外卖小哥总是很和蔼。"
+          },
+          {
+            "sentence": "Tour guides in Xi'an are especially nice to foreign visitors.",
+            "sentence_zh": "西安的导游对外国游客特别友善。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "正派的",
+        "examples": [
+          {
+            "sentence": "He's a nice guy who returns lost wallets.",
+            "sentence_zh": "他是个会归还遗失钱包的正派人。"
+          },
+          {
+            "sentence": "In ancient Beijing, nice tea merchants never diluted their products.",
+            "sentence_zh": "在老北京，正派的茶商从不以次充好。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "做得好的",
+        "examples": [
+          {
+            "sentence": "This Peking duck is really nice with crispy skin.",
+            "sentence_zh": "这份北京烤鸭皮脆肉嫩，做得真好。"
+          },
+          {
+            "sentence": "Your calligraphy is especially nice today.",
+            "sentence_zh": "你今天的书法写得特别好。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "细微的",
+        "examples": [
+          {
+            "sentence": "There's a nice difference between Sichuan and Hunan chili.",
+            "sentence_zh": "四川辣椒和湖南辣椒有细微差别。"
+          },
+          {
+            "sentence": "Tea masters notice nice changes in water temperature.",
+            "sentence_zh": "茶道大师能察觉水温的微妙变化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "挑剔的",
+        "examples": [
+          {
+            "sentence": "She's too nice about her jade collection.",
+            "sentence_zh": "她对翡翠收藏品过分挑剔。"
+          },
+          {
+            "sentence": "Grandpa is nice with his tea leaves - only Longjing will do.",
+            "sentence_zh": "爷爷对茶叶很讲究——非龙井不喝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nice and...",
+        "meaning": "非常...（表强调）",
+        "examples": [
+          {
+            "sentence": "This bing chilling is nice and cold!",
+            "sentence_zh": "这冰淇淋冰冰凉凉真舒服！"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "nice try",
+        "meaning": "想得美（幽默拒绝）",
+        "examples": [
+          {
+            "sentence": "\"Can I pay with WeChat points?\" \"Nice try!\"",
+            "sentence_zh": "\"能用微信积分付款吗？\"\"想得美！\""
+          }
+        ]
+      }
+    ],
+    "teach": "nice这个词就像四川变脸🎭！最初竟是'愚蠢'的意思（历史剧透🔍），现在却能夸烤鸭'皮脆'（nice and crispy）、赞大妈'热心'（so nice）、损人'假正经'（too nice）。搭配学：'nice one'夸人666👍，'nice going'反讽翻车了🤦。记住：说人nice可能真表扬，说事nice八成是客气！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶丝'→奶茶丝滑(nice)口感",
+        "易混词：kind侧重本性善良，nice强调让人舒适"
+      ]
+    }
+  },
+  {
+    "word": "nicely",
+    "etymology": {
+      "breakdown": [
+        "nice",
+        "ly"
+      ],
+      "meaning_connection": "形容词nice（美好的）+副词后缀-ly"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "漂亮地",
+        "examples": [
+          {
+            "sentence": "She decorated the mooncake boxes nicely with silk ribbons.",
+            "sentence_zh": "她用丝绸缎带把月饼盒装饰得十分漂亮。"
+          },
+          {
+            "sentence": "The AI-generated peony painting was framed nicely in golden wood.",
+            "sentence_zh": "AI生成的牡丹画被用金丝木框精致装裱。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "谨慎地",
+        "examples": [
+          {
+            "sentence": "He handled the antique blue-and-white porcelain nicely to avoid damage.",
+            "sentence_zh": "他小心翼翼地搬运这件青花瓷古董以防损坏。"
+          },
+          {
+            "sentence": "The diplomat worded his reply about Taiwan question very nicely.",
+            "sentence_zh": "外交官在台湾问题上的答复措辞极为谨慎。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "恰好地",
+        "examples": [
+          {
+            "sentence": "This hotpot seasoning packet fits nicely for 2-3 people.",
+            "sentence_zh": "这份火锅底料恰好适合2-3人食用。"
+          },
+          {
+            "sentence": "The new bike lane aligns nicely with commuter routes.",
+            "sentence_zh": "新建自行车道与通勤路线完美契合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "do nicely",
+        "meaning": "表现良好",
+        "examples": [
+          {
+            "sentence": "The new Didi driver did nicely during the rainstorm.",
+            "sentence_zh": "这位新滴滴司机在暴雨天表现相当出色。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "nicely put",
+        "meaning": "说得好",
+        "examples": [
+          {
+            "sentence": "\"Harmony without uniformity\" - nicely put!",
+            "sentence_zh": "\"和而不同\"——说得好！"
+          }
+        ]
+      }
+    ],
+    "teach": "nicely像太极大师☯️：'漂亮'时是旗袍开叉的弧度👗，'谨慎'时像端满开水的茶壶🍵，'恰好'时就是支付宝到账的'叮'声💵！想夸人穿搭用dressed nicely，说'刚好赶上'用fit nicely，记住：该词自带'刚刚好'的强迫症属性！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶昔里'→奶昔里(nicely)冰块比例刚刚好",
+        "易混词对比：nicely（程度恰当）vs. neatly（整洁地）"
+      ]
+    }
+  },
+  {
+    "word": "niceness",
+    "etymology": {
+      "breakdown": [
+        "nice",
+        "ness"
+      ],
+      "meaning_connection": "形容词nice（美好的）+名词后缀-ness→抽象化状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "美好特质",
+        "examples": [
+          {
+            "sentence": "The niceness of freshly baked bread made the whole street smell like heaven.",
+            "sentence_zh": "新鲜面包的美好特质让整条街闻起来像天堂。"
+          },
+          {
+            "sentence": "WeChat's niceness lies in its all-in-one functionality.",
+            "sentence_zh": "微信的美好特质在于其多功能合一的设计。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "友善行为",
+        "examples": [
+          {
+            "sentence": "The niceness of offering free charging stations boosted the cafe's popularity.",
+            "sentence_zh": "提供免费充电站的友善行为提升了这家咖啡馆的人气。"
+          },
+          {
+            "sentence": "His niceness in sharing hotpot ingredients won everyone's hearts.",
+            "sentence_zh": "他分享火锅食材的友善行为赢得了所有人的心。"
+          }
+        ]
+      }
+    ],
+    "teach": "niceness是'美好力'🍃！就像奶茶里的波霸💎（美好特质）和外卖小哥的'注意烫口'便签📝（友善行为）。要说'假客气'用toxic positivity（虚伪正能量），'真贴心'叫heartwarming gesture（暖心举动）。记住：真正的niceness就像香菜——爱的人超爱，恨的人...🤢",
+    "recite": {
+      "tips": [
+        "谐音梗：'耐撕nis'→经得起撕的才是真美好",
+        "易混词对比：kindness（善意）更主观，niceness（美好）更客观"
+      ]
+    }
+  },
+  {
+    "word": "nicety",
+    "etymology": {
+      "breakdown": [
+        "nice",
+        "ty"
+      ],
+      "meaning_connection": "来自nice（美好的）+名词后缀-ty，原指'美好品质'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "美好",
+        "examples": [
+          {
+            "sentence": "The nicety of cherry blossoms attracts tourists worldwide.",
+            "sentence_zh": "樱花的优美吸引着全球游客。"
+          },
+          {
+            "sentence": "We admired the nicety of the porcelain's glaze at Jingdezhen.",
+            "sentence_zh": "我们在景德镇赞叹瓷器釉面的精美。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "准确",
+        "examples": [
+          {
+            "sentence": "The nicety of his Mandarin pronunciation surprised everyone.",
+            "sentence_zh": "他普通话发音的准确性让所有人惊讶。"
+          },
+          {
+            "sentence": "Ancient Chinese astronomers calculated eclipses with astonishing nicety.",
+            "sentence_zh": "中国古代天文学家以惊人的准确度计算日食。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "精密",
+        "examples": [
+          {
+            "sentence": "The nicety of this jade carving shows master-level craftsmanship.",
+            "sentence_zh": "这件玉雕的精密程度展现出大师级工艺。"
+          },
+          {
+            "sentence": "Silk production requires nicety in controlling temperature and humidity.",
+            "sentence_zh": "丝绸生产需要精密控制温湿度。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "拘泥细节",
+        "examples": [
+          {
+            "sentence": "His nicety about table manners made the dinner awkward.",
+            "sentence_zh": "他对餐桌礼仪的过分讲究让晚餐变得尴尬。"
+          },
+          {
+            "sentence": "Don't bother with such niceties when eating hotpot!",
+            "sentence_zh": "吃火锅时别在意这些细枝末节！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "纤细",
+        "examples": [
+          {
+            "sentence": "The nicety of these ivory carvings is breathtaking.",
+            "sentence_zh": "这些牙雕作品的纤细程度令人惊叹。"
+          },
+          {
+            "sentence": "She paints orchid petals with extraordinary nicety.",
+            "sentence_zh": "她画兰花瓣时的笔触异常纤细。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "to a nicety",
+        "meaning": "精确地",
+        "examples": [
+          {
+            "sentence": "The chef seasoned the soup to a nicety.",
+            "sentence_zh": "厨师将汤的味道调得恰到好处。"
+          }
+        ]
+      }
+    ],
+    "teach": "nicety就像苏州园林的漏窗🎋——美好(nicety of scenery)又精密(nicety of design)！当你说'splitting hairs'时就像在显微镜🔬下数头发丝（过分拘泥细节），而'恰到好处'就叫hit the nicety like 珍珠奶茶的甜度☕️。记住：夸刺绣用nicety of needlework，吐槽处女座用too much nicety！",
+    "recite": {
+      "tips": [
+        "谐音梗：'奶昔体'→奶昔般细腻的字体",
+        "易混词：delicacy(精致)/precision(精确)",
+        "记忆法：nice+ty=美好的特质集合"
+      ]
+    }
   }
 ]

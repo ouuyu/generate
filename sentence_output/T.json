@@ -18296,5 +18296,235 @@
         "易混词对比：totter（更侧重衰老导致的蹒跚）"
       ]
     }
+  },
+  {
+    "word": "teetering",
+    "etymology": {
+      "breakdown": [
+        "teeter",
+        "ing"
+      ],
+      "meaning_connection": "源自古北欧语'titra'（颤抖），现指摇晃动作的持续状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "摇晃地站立或移动",
+        "examples": [
+          {
+            "sentence": "The panda was teetering on the bamboo branch like a drunk uncle after hot pot.",
+            "sentence_zh": "熊猫在竹枝上摇晃，像吃完火锅喝醉的大叔。"
+          },
+          {
+            "sentence": "Newborn lambs teeter on their skinny legs like living cotton balls.",
+            "sentence_zh": "新生小羊用细腿踉跄行走，像会走路的棉花糖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "玩跷跷板",
+        "examples": [
+          {
+            "sentence": "Kids were teetering wildly on the seesaw, nearly launching each other into the sandbox.",
+            "sentence_zh": "孩子们疯狂玩跷跷板，差点把对方弹进沙坑。"
+          },
+          {
+            "sentence": "The couple teetered gently on the park seesaw like a romantic balance scale.",
+            "sentence_zh": "情侣在公园轻晃跷跷板，像浪漫的天平。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "濒临危险",
+        "examples": [
+          {
+            "sentence": "The crypto market is teetering on the edge of another crash.",
+            "sentence_zh": "加密货币市场正濒临又一次崩盘。"
+          },
+          {
+            "sentence": "That ancient treehouse is teetering between collapse and becoming a tourist attraction.",
+            "sentence_zh": "那座老树屋在坍塌和成为景点间摇摇欲坠。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "teeter on the brink/edge of",
+        "meaning": "濒临...边缘",
+        "examples": [
+          {
+            "sentence": "Polar bears are teetering on the edge of extinction due to melting ice.",
+            "sentence_zh": "由于冰川融化，北极熊正濒临灭绝。"
+          }
+        ]
+      }
+    ],
+    "teach": "teetering是现实版'走钢丝'🎪！既形容醉酒企鹅🐧般的步伐，又暗示命运在跷跷板上反复横跳🛹（life is teetering）。记住：当项目'在危险边缘试探'可以说'the project is teetering'，而'濒临崩溃'直接说'teetering on collapse'比用'danger'更生动！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢他'→小孩踢他(teetering)导致跷跷板不稳",
+        "易混词：toddle（幼儿蹒跚）vs teeter（危险摇晃）",
+        "联想：字母tt像两根支撑不稳的拐杖"
+      ]
+    }
+  },
+  {
+    "word": "teething",
+    "etymology": {
+      "breakdown": [
+        "tooth",
+        "ing"
+      ],
+      "meaning_connection": "tooth=牙齿，-ing表状态→牙齿生长中的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "出牙期",
+        "examples": [
+          {
+            "sentence": "The baby's teething caused our panda-shaped teether to disappear.",
+            "sentence_zh": "宝宝出牙期让我们的熊猫牙胶神秘失踪。"
+          },
+          {
+            "sentence": "Teething rings are selling like hotcakes in the maternity store.",
+            "sentence_zh": "母婴店的磨牙环最近卖得超火。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "初期困难",
+        "examples": [
+          {
+            "sentence": "Our startup is going through teething problems with the new app.",
+            "sentence_zh": "我们初创公司的新APP正经历成长阵痛。"
+          },
+          {
+            "sentence": "The teething stage of learning Python made me lose 3 hairs per day.",
+            "sentence_zh": "学习Python的初期困难让我每天掉三根头发。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "teething troubles",
+        "meaning": "初期问题",
+        "examples": [
+          {
+            "sentence": "Even TikTok had teething troubles with video buffering at first.",
+            "sentence_zh": "就连抖音最初也有视频缓冲的初期问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "teething是'牙牙学语'的硬核版🦷！想象小宝宝像土拨鼠啃玉米🌽一样狂咬东西(teething phase)，或者创业公司像长牙期婴儿👶🏻一样磕磕绊绊(teething problems)。要说'长牙好痛'可以吐槽cutting teeth like knives，实用搭配：rub gums（按摩牙龈）+ frozen teether（冰冻牙胶）。记住：每个大佬都经历过teething阶段！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢醒'→宝宝牙疼踢醒全家",
+        "易混词对比：toothless（没牙的）vs teething（长牙中的）",
+        "视觉联想：把创业公司LOGOP成流口水的长牙宝宝"
+      ]
+    }
+  },
+  {
+    "word": "telecom",
+    "etymology": {
+      "breakdown": [
+        "tele",
+        "com"
+      ],
+      "meaning_connection": "前缀tele=远程（如telephone），com=communication的缩写→远距离通信技术"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电信",
+        "examples": [
+          {
+            "sentence": "China's telecom giants are rolling out 6G research like hotpot ingredients.",
+            "sentence_zh": "中国电信巨头布局6G研究就像下火锅食材一样积极。"
+          },
+          {
+            "sentence": "The telecom tower blinked like a giant firefly in the night.",
+            "sentence_zh": "电信塔在夜晚闪烁如巨型萤火虫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "telecom operator",
+        "meaning": "电信运营商",
+        "examples": [
+          {
+            "sentence": "Telecom operators compete fiercely like street vendors selling SIM cards.",
+            "sentence_zh": "电信运营商竞争激烈得像街头推销电话卡的小贩。"
+          }
+        ]
+      }
+    ],
+    "teach": "telecom其实是'忒乐通'📶：古代用狼烟tele-communication，现代用5G直播吃播🍜。说'信号差'叫dead zone（死亡区），'话费套餐'是plan就像选奶茶配料🧋。记住：你的流量决定你能刷多久短视频！",
+    "recite": {
+      "tips": [
+        "谐音梗：'忒乐控'→特别快乐控制信号",
+        "易混词对比：telegram（电报）是爷爷辈的telecom"
+      ]
+    }
+  },
+  {
+    "word": "telegram",
+    "etymology": {
+      "breakdown": [
+        "tele",
+        "gram"
+      ],
+      "meaning_connection": "前缀tele=远程，词根gram=书写→'远程书写'的信息传递方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "电报系统",
+        "examples": [
+          {
+            "sentence": "Before WeChat, overseas students relied on telegram to contact families.",
+            "sentence_zh": "在微信出现前，留学生靠电报系统联系家人。"
+          },
+          {
+            "sentence": "The invention of telegram revolutionized 19th-century communication.",
+            "sentence_zh": "电报系统的发明彻底改变了19世纪的通讯方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一封电报",
+        "examples": [
+          {
+            "sentence": "He received a telegram with just three words: 'Come back immediately'",
+            "sentence_zh": "他收到只有三个字的电报：'速归'。"
+          },
+          {
+            "sentence": "The wedding telegram was delivered by a boy in uniform.",
+            "sentence_zh": "婚礼电报由穿制服的报童送达。"
+          }
+        ]
+      }
+    ],
+    "teach": "telegram是古代的'已读不回'💌！电报按字收费催生出'电报体'（如'母病速归'），就像现在年轻人发'在？'一样省流量💸。现代梗'你电报我吧'其实是说'你火星了'📡。搭配：send a telegram（拍电报）比发微信慢100年，urgent telegram（加急电报）相当于古代闪送🚨。记住：telegram比鸽子快，但比不上5G！",
+    "recite": {
+      "tips": [
+        "谐音梗：'太累个gram'→发电报太累改发微信",
+        "易混词：telegram(电报)/telegraph(电报机)",
+        "记忆法：tele-远程+gram写=隔空写字"
+      ]
+    }
   }
 ]
