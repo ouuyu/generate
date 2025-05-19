@@ -17931,5 +17931,323 @@
         "联想：-ity结尾都是名词属性（类似stupidity）"
       ]
     }
+  },
+  {
+    "word": "acidly",
+    "etymology": {
+      "breakdown": [
+        "acid",
+        "ly"
+      ],
+      "meaning_connection": "词根acid=酸/尖锐，后缀-ly构成副词→像酸一样具有腐蚀性地说话"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "尖刻地",
+        "examples": [
+          {
+            "sentence": "She commented acidly on his pineapple pizza preference.",
+            "sentence_zh": "她尖刻地评论了他爱吃菠萝披萨的喜好。"
+          },
+          {
+            "sentence": "The professor acidly remarked that the thesis smelled like ChatGPT.",
+            "sentence_zh": "教授尖酸地说这篇论文闻起来像ChatGPT写的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "敏锐地",
+        "examples": [
+          {
+            "sentence": "The detective observed acidly that the alibi had loopholes.",
+            "sentence_zh": "侦探敏锐地发现不在场证明有漏洞。"
+          },
+          {
+            "sentence": "Her review acidly pinpointed the plot's inconsistencies.",
+            "sentence_zh": "她的评论犀利地指出了剧情漏洞。"
+          }
+        ]
+      }
+    ],
+    "teach": "acidly是语言界的柠檬精🍋！当它表示'尖刻'时像往伤口挤柠檬汁（acidly sarcastic），表示'敏锐'时像用ph试纸测谎言🔍（acidly perceptive）。搭配'acidly witty'（毒舌式幽默）和'acidly accurate'（一针见血的）。说'嘴毒'可以用sharp-tongued像被酸雨淋过的舌头☔️",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱吸敌'→爱吸敌(acidly)的毒液发言",
+        "对比记忆：acrid（辛辣的）侧重气味，acidly侧重语言"
+      ]
+    }
+  },
+  {
+    "word": "acidosis",
+    "etymology": {
+      "breakdown": [
+        "acid",
+        "osis"
+      ],
+      "meaning_connection": "词根acid=酸，后缀-osis=异常状态→体液酸性异常"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "酸中毒",
+        "examples": [
+          {
+            "sentence": "Diabetic patients must monitor for signs of acidosis.",
+            "sentence_zh": "糖尿病患者必须警惕酸中毒症状。"
+          },
+          {
+            "sentence": "The marathon runner developed acidosis from excessive lactic acid buildup.",
+            "sentence_zh": "马拉松选手因乳酸堆积过多出现酸中毒。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "acidosis是身体在'吃柠檬大赛'🍋中败北的状态！当你的pH值像股票暴跌📉，比醋坛子还酸时就会发生。记住两个致命组合：keto diet+dehydration=代谢性酸中毒，就像泡菜坛子发酵过头🥒。急救时要说'pH imbalance'比说'I'm sour'专业多了～",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱吸多酸死'→爱喝碳酸饮料导致酸中毒",
+        "易混词对比：alkalosis（碱中毒）是它的反义词"
+      ]
+    }
+  },
+  {
+    "word": "acknowledge",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "know",
+        "ledge"
+      ],
+      "meaning_connection": "前缀ac-表加强，know表知晓，-ledge为名词后缀→强调已知晓的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "承认",
+        "examples": [
+          {
+            "sentence": "The company finally acknowledged the data breach after Douyin trending.",
+            "sentence_zh": "在抖音热搜后该公司终于承认数据泄露。"
+          },
+          {
+            "sentence": "He acknowledged his mistake by sending 100 red packets in WeChat group.",
+            "sentence_zh": "他在微信群发了100个红包以承认错误。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "告知收悉",
+        "examples": [
+          {
+            "sentence": "Taobao automatically acknowledges order receipt via chaoxiaozi notification.",
+            "sentence_zh": "淘宝通过超效字通知自动告知订单收悉。"
+          },
+          {
+            "sentence": "Please acknowledge this work email by replying 'Roger'.",
+            "sentence_zh": "请回复'收到'告知此工作邮件收悉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "答谢",
+        "examples": [
+          {
+            "sentence": "The livestream host acknowledged gifts with customized thank-you dances.",
+            "sentence_zh": "主播用定制答谢舞感谢收到的礼物。"
+          },
+          {
+            "sentence": "Baidu Map acknowledges user reports by giving digital red envelopes.",
+            "sentence_zh": "百度地图用数字红包答谢用户上报路况。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "报偿",
+        "examples": [
+          {
+            "sentence": "The government acknowledged firefighters' bravery with special medals.",
+            "sentence_zh": "政府用特制勋章报偿消防员的英勇。"
+          },
+          {
+            "sentence": "Alibaba acknowledges employees' overtime with '996 survivor' badges.",
+            "sentence_zh": "阿里巴巴用'996幸存者'徽章报偿员工加班。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acknowledge receipt of",
+        "meaning": "确认收到",
+        "examples": [
+          {
+            "sentence": "WeChat Pay acknowledges receipt of your complaint within 3 seconds.",
+            "sentence_zh": "微信支付在3秒内确认收到您的投诉。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "generally acknowledged",
+        "meaning": "公认的",
+        "examples": [
+          {
+            "sentence": "Hotpot is generally acknowledged as the best social food in China.",
+            "sentence_zh": "火锅是公认的中国最佳社交美食。"
+          }
+        ]
+      }
+    ],
+    "teach": "acknowledge就像多功能扫码枪📲：'承认'时像扫到过期健康码😅，'告知收悉'像快递柜取件码📦，'答谢'像直播间的礼物特效🎁，'报偿'像积分兑换扫码✔️。要说'已读不回'英语叫left on read，'收到请回复'说RSVP就像抢红包时看到的'手气最佳'💨！记住：这个单词的核心动作是把隐形的东西'显形化'👀",
+    "recite": {
+      "tips": [
+        "谐音梗：'我可懒得记'→需要被承认(acknowledge)的事",
+        "易混词对比：admit侧重不情愿承认，acknowledge更中性"
+      ]
+    }
+  },
+  {
+    "word": "acknowledged",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "know",
+        "ledge",
+        "ed"
+      ],
+      "meaning_connection": "前缀ac-表'加强'，know=知道，-ledge=名词后缀，-ed=形容词后缀→'被充分知晓的'引申为'公认的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "公认的",
+        "examples": [
+          {
+            "sentence": "Lu Xun is an acknowledged master of modern Chinese literature.",
+            "sentence_zh": "鲁迅是公认的中国现代文学大师。"
+          },
+          {
+            "sentence": "Peking duck is the acknowledged king of Chinese gourmet.",
+            "sentence_zh": "北京烤鸭是公认的中式美食之王。"
+          }
+        ]
+      }
+    ],
+    "teach": "acknowledged就像故宫的'正大光明'匾额🏯——大家都认（know）这个理儿！要夸'业界公认'可以说industry-acknowledged，吐槽'伪专家'用self-acknowledged（自封的）。记住：被acknowledged的成就，就像全聚德烤鸭🦆——百年老字号盖了章的！",
+    "recite": {
+      "tips": [
+        "拆解记忆：ac（阿珂）+ know（知道）+ ledge（ledge排行榜）→ 阿珂知道排行榜上的都是公认的",
+        "易混词对比：recognized（被认可） vs acknowledged（被公认）→ 后者认可范围更大"
+      ]
+    }
+  },
+  {
+    "word": "acknowledgement",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "know",
+        "ledge",
+        "ment"
+      ],
+      "meaning_connection": "前缀ac-表示'朝向'，know即'知道'，-ledge为名词后缀，-ment表行为结果→使某事被知晓的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "承认",
+        "examples": [
+          {
+            "sentence": "The politician's acknowledgement of the scandal shocked the public.",
+            "sentence_zh": "政客对丑闻的承认震惊了公众。"
+          },
+          {
+            "sentence": "The museum displayed an acknowledgement of the stolen artifacts' origin.",
+            "sentence_zh": "博物馆展出了对被盗文物来源的承认声明。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "确认",
+        "examples": [
+          {
+            "sentence": "The system sends an automatic acknowledgement when receiving emails.",
+            "sentence_zh": "系统收到邮件时会自动发送确认回执。"
+          },
+          {
+            "sentence": "The courier requires a signature as acknowledgement of delivery.",
+            "sentence_zh": "快递员要求签收作为送达确认。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "感谢",
+        "examples": [
+          {
+            "sentence": "The Nobel Prize winner gave heartfelt acknowledgements to her mentor.",
+            "sentence_zh": "诺贝尔奖得主向导师表达了诚挚感谢。"
+          },
+          {
+            "sentence": "The book's acknowledgements section reads like a who's who of academia.",
+            "sentence_zh": "该书的致谢部分宛如学术界的名人录。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "收到的通知",
+        "examples": [
+          {
+            "sentence": "The copyright office issues an acknowledgement within 3 working days.",
+            "sentence_zh": "版权局会在3个工作日内发出受理通知。"
+          },
+          {
+            "sentence": "Keep the payment acknowledgement for future reference.",
+            "sentence_zh": "请保存付款通知以备查询。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in acknowledgement of",
+        "meaning": "作为对...的认可",
+        "examples": [
+          {
+            "sentence": "The mayor bowed in acknowledgement of the citizens' support.",
+            "sentence_zh": "市长鞠躬致意以示对市民支持的认可。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "acknowledgement receipt",
+        "meaning": "回执",
+        "examples": [
+          {
+            "sentence": "The express company's electronic acknowledgement receipt has legal effect.",
+            "sentence_zh": "快递公司的电子回执单具有法律效力。"
+          }
+        ]
+      }
+    ],
+    "teach": "acknowledgement就像社交礼仪三件套🙇✨：1) 中世纪骑士行礼(acknowledge defeat认输)演化而来 2) 想象成'知识(Know)'的快递签收单📦，没签收就是'已读不回' 3) 搭配：give acknowledgement（给予认可）/ nod in acknowledgement（点头确认） 4) 说'聊表谢意'可以用a token acknowledgement 🎁",
+    "recite": {
+      "tips": [
+        "谐音梗：'我可懒得记'→发感谢信时假装谦虚",
+        "易混词：recognition（广义认可）vs acknowledgement（具体确认）",
+        "记忆tip：拆解为AC（交流电）+KNOW（知道）+LED（引导）+GE（哥），'交流知道哥引导你确认'"
+      ]
+    }
   }
 ]

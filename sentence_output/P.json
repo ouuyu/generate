@@ -17851,5 +17851,277 @@
         "记忆法：parsley=park+seldom→公园里少见的香草"
       ]
     }
+  },
+  {
+    "word": "parsnip",
+    "etymology": {
+      "breakdown": [
+        "pars",
+        "nip"
+      ],
+      "meaning_connection": "部分学者认为pars可能源自拉丁语'pastinaca'（胡萝卜属植物），nip可能源自古英语'næp'（萝卜），整体指代外形介于胡萝卜和萝卜之间的根茎植物"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "欧洲防风草",
+        "examples": [
+          {
+            "sentence": "The roasted parsnip tastes like a sweet potato with nutty flavor.",
+            "sentence_zh": "烤欧洲防风草吃起来像带坚果味的红薯。"
+          },
+          {
+            "sentence": "Her secret stew recipe includes parsnips and star anise.",
+            "sentence_zh": "她的私房炖菜秘方包含欧洲防风草和八角。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "欧洲萝卜",
+        "examples": [
+          {
+            "sentence": "Parsnips were used as natural sweeteners before sugar became widely available.",
+            "sentence_zh": "在蔗糖普及前，欧洲萝卜曾被用作天然甜味剂。"
+          },
+          {
+            "sentence": "The white carrot-shaped parsnip is actually a cousin of celery.",
+            "sentence_zh": "这种白色胡萝卜状的欧洲萝卜其实是芹菜的近亲。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wild parsnip",
+        "meaning": "野生防风草",
+        "examples": [
+          {
+            "sentence": "Beware of wild parsnip sap which can cause skin burns under sunlight.",
+            "sentence_zh": "小心野生防风草汁液，它在阳光下会导致皮肤灼伤。"
+          }
+        ]
+      }
+    ],
+    "teach": "parsnip是蔬菜界的'混血王子'👑！这个白色胡萝卜其实是中世纪欧洲的'穷人甜品'🍠（当时糖比黄金贵）。要说'难吃蔬菜'美国人会说tastes like dirt（吃土味），但英国人却爱做成parsnip crisps（防风草薯片）🍟。记住：它长得像萝卜但属于芹菜科，就像猕猴桃🥝其实是中国土特产！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕失眠'→欧洲人怕失眠就吃parsnip（含镇静成分）",
+        "易混词对比：parsnip（根茎类） vs turnip（圆萝卜）",
+        "记忆tip：pars(部分)+nip(捏)→捏着吃的白色根茎"
+      ]
+    }
+  },
+  {
+    "word": "parson",
+    "etymology": {
+      "breakdown": [
+        "person"
+      ],
+      "meaning_connection": "源自拉丁语persona（人），通过古法语persone演变，专指'担任圣职的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "教区牧师",
+        "examples": [
+          {
+            "sentence": "The parson grows organic vegetables in the churchyard.",
+            "sentence_zh": "这位牧师在教堂墓地种植有机蔬菜。"
+          },
+          {
+            "sentence": "Our parson plays heavy metal guitar after Sunday service.",
+            "sentence_zh": "我们的教区牧师在周日礼拜后演奏重金属吉他。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parson's nose",
+        "meaning": "煮熟的禽类臀部（英式幽默说法）",
+        "examples": [
+          {
+            "sentence": "Grandpa always fights me for the parson's nose of the roast duck.",
+            "sentence_zh": "爷爷总和我抢烤鸭的鸭屁股吃。"
+          }
+        ]
+      }
+    ],
+    "teach": "parson其实是'上帝的打工人'👨‍💼：中世纪时牧师要包办教区居民出生结婚去世全流程📜，就像现在居委会主任兼民政局局长。英国俚语说'as poor as a parson'（穷得像牧师）因为传统上牧师薪资微薄💸，但能免费吃教堂养肥的鸽子🐦！记住：想当parson得会主持婚礼、种菜、弹吉他三项技能！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕神'→现代人怕神(parson)催婚",
+        "易混词：pastor（新教牧师） vs parson（英国国教牧师）"
+      ]
+    }
+  },
+  {
+    "word": "parsonage",
+    "etymology": {
+      "breakdown": [
+        "parson",
+        "age"
+      ],
+      "meaning_connection": "parson=牧师，-age=场所后缀→牧师居住的场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "教区牧师的住所",
+        "examples": [
+          {
+            "sentence": "The old parsonage by the church has a haunted attic according to villagers.",
+            "sentence_zh": "据村民说，教堂旁的古老牧师住宅有个闹鬼的阁楼。"
+          },
+          {
+            "sentence": "They serve afternoon tea in the parsonage's rose garden every Sunday.",
+            "sentence_zh": "每周日他们会在牧师住所的玫瑰园里供应下午茶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "牧师住所",
+        "examples": [
+          {
+            "sentence": "The new parsonage comes with a built-in Bible study room.",
+            "sentence_zh": "新牧师住所配有内置的圣经研读室。"
+          },
+          {
+            "sentence": "A stray cat permanently resides in the parsonage's kitchen.",
+            "sentence_zh": "一只流浪猫长期驻扎在牧师住所的厨房里。"
+          }
+        ]
+      }
+    ],
+    "usages": [],
+    "teach": "parsonage其实是'牧师豪宅'🏰！英国牧师过去靠什一税住大房子（tithe-funded luxury），现代牧师可能只能住'教堂隔壁小公寓'🏘️。说'住在教堂旁边'可以叫live next to the steeple（住在尖塔旁），而'简朴住所'叫modest dwelling。记住：每个parsonage都有吃不完的圣餐面包🍞！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕省银子'→牧师住parsonage不用省房租",
+        "易混词：vicarage（同样指牧师住所，但特指英国国教）",
+        "记忆tip：parson+age=牧师的年纪越大房子越好"
+      ]
+    }
+  },
+  {
+    "word": "part",
+    "etymology": {
+      "breakdown": [
+        "par",
+        "t"
+      ],
+      "meaning_connection": "词根par=部分/划分，-t为古英语后缀→原指被分割的片段，引申出'零件'和'角色'等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "部分",
+        "examples": [
+          {
+            "sentence": "The spicy part of hotpot is always gone first.",
+            "sentence_zh": "火锅的辣锅部分总是最先被吃完。"
+          },
+          {
+            "sentence": "The best part of my job is free milk tea.",
+            "sentence_zh": "我工作最棒的部分是免费奶茶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "零件",
+        "examples": [
+          {
+            "sentence": "My bike needs a new chain part.",
+            "sentence_zh": "我的自行车需要新的链条零件。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "角色",
+        "examples": [
+          {
+            "sentence": "He played the part of a drunken poet.",
+            "sentence_zh": "他饰演了一个醉酒诗人的角色。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "分开",
+        "examples": [
+          {
+            "sentence": "Use chopsticks to part the stinky tofu into smaller pieces.",
+            "sentence_zh": "用筷子把臭豆腐分成小块。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "分手",
+        "examples": [
+          {
+            "sentence": "They parted at the subway station after 3 years together.",
+            "sentence_zh": "在一起三年后，他们在地铁站分手了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "部分的",
+        "examples": [
+          {
+            "sentence": "I only have part knowledge about Peking Opera.",
+            "sentence_zh": "我对京剧只有部分了解。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "部分地",
+        "examples": [
+          {
+            "sentence": "The movie is part funny and part scary.",
+            "sentence_zh": "这部电影既有点搞笑又有点恐怖。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "play a part in",
+        "meaning": "在...中起作用",
+        "examples": [
+          {
+            "sentence": "Laziness plays a part in my unfinished homework.",
+            "sentence_zh": "懒惰在我未完成的作业中起到了作用。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "for the most part",
+        "meaning": "多半",
+        "examples": [
+          {
+            "sentence": "For the most part, pandas just eat and sleep.",
+            "sentence_zh": "熊猫多半只是吃和睡。"
+          }
+        ]
+      }
+    ],
+    "teach": "part就像乐高积木🧩！作名词时可以是机器零件🔧（bike parts），也可以是电影角色🎬（play a part）；作动词时像掰开流心月饼🥮（part the mooncake）；作形容词时像只吃半份的烤鱼🐟（part portion）。'分手'说part ways就像拆开鸳鸯锅🍲，'起作用'说play a part就像火锅里的花椒🌶️。记住：part就是万物皆可分割！",
+    "recite": {
+      "tips": [
+        "谐音梗：'扒它'→把东西扒开(part)成几部分",
+        "易混词：portion(分配好的部分) vs part(自然部分)"
+      ]
+    }
   }
 ]

@@ -17533,5 +17533,261 @@
         "易混词对比：geological（地质的）侧重岩石，geomorphological侧重地表形状"
       ]
     }
+  },
+  {
+    "word": "geomorphology",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "morph",
+        "ology"
+      ],
+      "meaning_connection": "geo=地球（如'地理'），morph=形态（如'变形金刚'变形叫transform），-ology=学科（如'生物学'biology）→研究地球表面形态的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "地形学",
+        "examples": [
+          {
+            "sentence": "Geomorphology explains why Sichuan Basin is perfect for hotpot ingredients growth.",
+            "sentence_zh": "地形学解释了为何四川盆地最适合种植火锅食材。"
+          },
+          {
+            "sentence": "The geomorphology of Zhangjiajie inspired the floating mountains in Avatar.",
+            "sentence_zh": "张家界的地形特征启发了《阿凡达》中的悬浮山。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fluvial geomorphology",
+        "meaning": "河流地貌学",
+        "examples": [
+          {
+            "sentence": "Fluvial geomorphology helps predict Yangtze River flood patterns.",
+            "sentence_zh": "河流地貌学有助于预测长江洪水模式。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "urban geomorphology",
+        "meaning": "城市地貌学",
+        "examples": [
+          {
+            "sentence": "Urban geomorphology studies how Chongqing's hills affect subway construction.",
+            "sentence_zh": "城市地貌学研究重庆山体如何影响地铁建设。"
+          }
+        ]
+      }
+    ],
+    "teach": "geomorphology是地球的'脸型分析师'👩⚕️！geo-代表大地母亲🌍，-morph是'变脸'绝活（就像川剧变脸🎭），-ology是正经学科学位🎓。说'这地方长得俊'用picturesque landscape，吐槽'地形坑爹'说treacherous terrain🏞️。记住：你的家乡地貌，决定了你爬坡上学还是划船上班！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡毛佛乐记'→研究鸡毛(geo)佛(morph)祖(ology)乐队的山地演唱会选址",
+        "易混词对比：geology（地质学）研究地下，geomorphology（地形学）研究地表"
+      ]
+    }
+  },
+  {
+    "word": "geophysical",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "phys",
+        "ical"
+      ],
+      "meaning_connection": "geo=地球（古希腊语gē），phys=自然/物理（源自physis=自然），-ical=形容词后缀→研究地球物理现象的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "地球物理学的",
+        "examples": [
+          {
+            "sentence": "The geophysical survey revealed dinosaur fossils under this shopping mall.",
+            "sentence_zh": "地球物理勘探发现这家商场下方有恐龙化石。"
+          },
+          {
+            "sentence": "China's geophysical stations can detect earthquakes within 10 seconds.",
+            "sentence_zh": "中国地球物理观测站能在10秒内检测到地震。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geophysical prospecting",
+        "meaning": "地球物理勘探",
+        "examples": [
+          {
+            "sentence": "Geophysical prospecting helped discover the Terracotta Warriors.",
+            "sentence_zh": "地球物理勘探技术协助发现了兵马俑。"
+          }
+        ]
+      }
+    ],
+    "teach": "geophysical是'地球的CT扫描仪'🌍！geo+physics就像给地球做B超👩⚕️（geophysical imaging），'物探'叫geophysical survey相当于给地壳量血压💉。实用搭配：'重力勘探'叫gravity prospecting，'地磁异常'说magnetic anomaly。记住：geo开头的词都'接地气'，比如geek（极客）其实该去学geology！⚡🧲🌋",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡飞狗跳物理课'→geo+physical",
+        "易混词对比：geographic（地理的）vs geophysical（物理的）"
+      ]
+    }
+  },
+  {
+    "word": "geophysicist",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "physic",
+        "ist"
+      ],
+      "meaning_connection": "geo=地球（来自希腊语Gaia），physic=物理（来自希腊语physis=自然），-ist=从事…的人→研究地球物理现象的学者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "地球物理学者",
+        "examples": [
+          {
+            "sentence": "The geophysicist used seismic waves to predict volcano eruptions like weather forecasts.",
+            "sentence_zh": "这位地球物理学者用地震波预测火山爆发，像天气预报一样。"
+          },
+          {
+            "sentence": "As a geophysicist, her job is to decode the Earth's magnetic field changes.",
+            "sentence_zh": "作为地球物理学者，她的工作是破译地球磁场变化。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "marine geophysicist",
+        "meaning": "海洋地球物理学者",
+        "examples": [
+          {
+            "sentence": "Marine geophysicists discovered the 'Dragon Palace' hydrothermal vents in the South China Sea.",
+            "sentence_zh": "海洋地球物理学者在南海发现了'龙宫'热液喷口。"
+          }
+        ]
+      }
+    ],
+    "teach": "geophysicist是地球的'老中医'🌍！他们用CT机（地震波）给地球做体检🩺，专治板块'骨质疏松'（地震）和'高烧不退'（火山）。搭配说'field geophysicist'（野外工作者）像地质界的贝爷，'applied geophysicist'（应用方向）则是基建狂魔背后的男人👷♂️。记住：想当地球医生？先学会和岩浆讲道理！",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡飞贼苦'→搞地球物理的学者常与极端环境搏斗",
+        "易混词对比：geologist(地质学者)研究岩石，geophysicist研究物理现象"
+      ]
+    }
+  },
+  {
+    "word": "geopolitical",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "polit",
+        "ical"
+      ],
+      "meaning_connection": "geo=地球/地理（如Google Earth🌍），polit=政治（如politics），-ical=形容词后缀→地理与政治交叉的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "地缘政治的",
+        "examples": [
+          {
+            "sentence": "The Belt and Road Initiative reflects China's geopolitical strategy.",
+            "sentence_zh": "一带一路倡议体现了中国的地缘政治战略。"
+          },
+          {
+            "sentence": "TikTok's global expansion faces geopolitical challenges.",
+            "sentence_zh": "TikTok的全球扩张面临地缘政治挑战。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geopolitical tensions",
+        "meaning": "地缘政治紧张",
+        "examples": [
+          {
+            "sentence": "The chip war has escalated geopolitical tensions between major powers.",
+            "sentence_zh": "芯片战争加剧了主要大国间的地缘政治紧张。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "geopolitical landscape",
+        "meaning": "地缘政治格局",
+        "examples": [
+          {
+            "sentence": "Ukraine crisis reshaped the global geopolitical landscape.",
+            "sentence_zh": "乌克兰危机重塑了全球地缘政治格局。"
+          }
+        ]
+      }
+    ],
+    "teach": "geopolitical是地球仪🌍遇上联合国大会💺的混血儿！就像下围棋时既要占地（geo）又要谋势（political），中美博弈就是超大型真人版《文明》游戏🎮。说'大国博弈'用great power rivalry，'战略要地'叫geostrategic hub。记住：看国际新闻就像看吃鸡决赛圈🧭，毒圈（geopolitical risk）缩到哪都得懂！",
+    "recite": {
+      "tips": [
+        "谐音梗：'急哦破题口'→着急破解地缘政治难题",
+        "易混词对比：geographic(地理的) vs geopolitical(地缘政治的)"
+      ]
+    }
+  },
+  {
+    "word": "georgette",
+    "etymology": {
+      "breakdown": [
+        "George",
+        "ette"
+      ],
+      "meaning_connection": "源自20世纪法国女装设计师Georgette de la Plante的名字，后缀-ette表示'小'或'仿制'，指这种轻薄的纱料"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "乔其纱（一种轻薄透明的绉纱）",
+        "examples": [
+          {
+            "sentence": "The qipao made of georgette fluttered like a butterfly in the wind.",
+            "sentence_zh": "乔其纱旗袍在风中如蝴蝶般飘动。"
+          },
+          {
+            "sentence": "Her georgette scarf dissolved into the sunset like morning mist.",
+            "sentence_zh": "她的乔其纱围巾如晨雾般融进夕阳里。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "georgette crepe",
+        "meaning": "乔其绉",
+        "examples": [
+          {
+            "sentence": "This vintage dress uses double-layer georgette crepe for opacity.",
+            "sentence_zh": "这件复古裙采用双层乔其绉保证不透光。"
+          }
+        ]
+      }
+    ],
+    "teach": "georgette是'仙女快乐纱'🧚♀️：名字来自巴黎设计师Georgette，比亲妈还懂女生想要'若隐若现'的小心机💃。搭配说'georgette blouse'（纱衬衫）或'georgette drape'（纱帘），'薄如蝉翼'英文叫sheer as dragonfly wings🦋。记住：穿georgette转圈圈，你就是人间蒲公英！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饺切特'→饺子皮切特(别)太厚学乔其纱",
+        "易混词：chiffon（雪纺更挺括）"
+      ]
+    }
   }
 ]

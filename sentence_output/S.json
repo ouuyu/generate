@@ -17712,5 +17712,255 @@
         "易混词对比：scaffold（实体架）vs framework（抽象框架）"
       ]
     }
+  },
+  {
+    "word": "scaffolding",
+    "etymology": {
+      "breakdown": [
+        "scaffold",
+        "ing"
+      ],
+      "meaning_connection": "scaffold源于古法语'eschaffaut'（高台），-ing表集合名词→原指临时搭建的工作平台"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "脚手架",
+        "examples": [
+          {
+            "sentence": "Workers dismantled the bamboo scaffolding after the temple renovation.",
+            "sentence_zh": "寺庙翻新后，工人们拆除了竹制脚手架。"
+          },
+          {
+            "sentence": "The Great Wall restoration used eco-friendly steel scaffolding.",
+            "sentence_zh": "长城修缮工程使用了环保钢结构脚手架。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "台架",
+        "examples": [
+          {
+            "sentence": "The museum displayed dinosaur fossils on metal scaffolding.",
+            "sentence_zh": "博物馆在金属台架上展示恐龙化石。"
+          },
+          {
+            "sentence": "Opera singers sometimes perform on movable scaffolding stages.",
+            "sentence_zh": "歌剧演员有时在可移动台架上表演。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "支杆和木板",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese scaffolding uses no nails, just rope knots.",
+            "sentence_zh": "传统中式脚手架不用钉子，仅靠绳结固定支杆木板。"
+          },
+          {
+            "sentence": "The collapsed scaffolding revealed poorly maintained wooden planks.",
+            "sentence_zh": "坍塌的脚手架暴露出保养不善的木板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "支柱（比喻）",
+        "examples": [
+          {
+            "sentence": "His argument lacked the scaffolding of solid evidence.",
+            "sentence_zh": "他的论点缺乏坚实证据的支撑。"
+          },
+          {
+            "sentence": "Confucian ethics serves as scaffolding for East Asian cultures.",
+            "sentence_zh": "儒家伦理是东亚文化的思想支柱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mental scaffolding",
+        "meaning": "思维框架",
+        "examples": [
+          {
+            "sentence": "Children need mental scaffolding to understand abstract concepts.",
+            "sentence_zh": "儿童需要思维框架来理解抽象概念。"
+          }
+        ]
+      }
+    ],
+    "teach": "脚手架(scaffolding)是建筑界的乐高积木🧱！古埃及人建金字塔时就懂用木架（史上最早'996'工地👷）。说'临时支撑'可用stopgap measure，'基础不牢'叫built on sand🏜️。记住：好脚手架让你建摩天楼，烂脚手架让你上社会新闻头条📰！",
+    "recite": {
+      "tips": [
+        "谐音梗：'私开房顶'→搭脚手架私闯房顶",
+        "易混词对比：scaffold（单数指刑台）vs scaffolding（复数指施工架）",
+        "记忆tip：想象'SC'是'Safety First'缩写，'affold'像'afford'+'old'→负担古老建筑"
+      ]
+    }
+  },
+  {
+    "word": "scalable",
+    "etymology": {
+      "breakdown": [
+        "scal",
+        "able"
+      ],
+      "meaning_connection": "词根scal=攀登/梯子（来自拉丁语scala），-able表'可...的'→原指'可攀爬的'，后引申出其他含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "可攀登的",
+        "examples": [
+          {
+            "sentence": "The scalable cliffs attract professional rock climbers.",
+            "sentence_zh": "这些可攀登的悬崖吸引着专业攀岩者。"
+          },
+          {
+            "sentence": "This mountain is scalable even for beginners with proper equipment.",
+            "sentence_zh": "这座山即使对初学者来说，在装备齐全的情况下也是可攀登的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "可用称量的",
+        "examples": [
+          {
+            "sentence": "The new drug must be scalable to microgram precision.",
+            "sentence_zh": "这种新药必须能精确称量到微克级别。"
+          },
+          {
+            "sentence": "Gold is highly scalable due to its stable properties.",
+            "sentence_zh": "黄金因其稳定的特性而极易称量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "可去鳞的",
+        "examples": [
+          {
+            "sentence": "The fish is perfectly scalable with this special knife.",
+            "sentence_zh": "用这把特殊的刀可以完美去除这条鱼的鳞片。"
+          },
+          {
+            "sentence": "Scalable fish are preferred in sushi preparation.",
+            "sentence_zh": "寿司制作中偏好选用易去鳞的鱼类。"
+          }
+        ]
+      }
+    ],
+    "teach": "scalable是个'三面间谍'词汇🕵️♂️！1) 本义来自古罗马攻城梯（scala）🗡️，2) 科技圈偷它表示'可扩展'就像乐高积木无限叠高🧱，3) 厨师用来说'可刮鳞'的鱼🐟。搭配：scalable system（可扩展系统）/scalable fish（易处理的鱼）。说'这事搞不定'可以用俚语：It doesn't scale!（这事没法扩大规模！）",
+    "recite": {
+      "tips": [
+        "谐音梗：'是开了吧'→系统是开了吧(scalable)才能扩展",
+        "易混词：scalable vs. measurable（前者侧重可扩展性，后者侧重可测量性）"
+      ]
+    }
+  },
+  {
+    "word": "scalar",
+    "etymology": {
+      "breakdown": [
+        "scal",
+        "ar"
+      ],
+      "meaning_connection": "词根scal=阶梯/爬升，-ar表形容词后缀→原指'梯状的'，数学引申为'纯量'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "数量",
+        "examples": [
+          {
+            "sentence": "Temperature is a scalar quantity in physics class.",
+            "sentence_zh": "温度在物理课中是个标量数值。"
+          },
+          {
+            "sentence": "The scalar difference between two dumpling recipes lies in chili dosage.",
+            "sentence_zh": "两个饺子食谱的数值差异在于辣椒用量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "纯量",
+        "examples": [
+          {
+            "sentence": "Unlike vectors, scalars have no direction in space.",
+            "sentence_zh": "与矢量不同，纯量在空间中没有方向。"
+          },
+          {
+            "sentence": "Mass is the most delicious scalar in Newton's equations.",
+            "sentence_zh": "质量是牛顿方程里最'好吃'的纯量。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "数量的",
+        "examples": [
+          {
+            "sentence": "We made scalar comparisons of bubble tea shops' sugar levels.",
+            "sentence_zh": "我们对奶茶店的糖分做了数量化比较。"
+          },
+          {
+            "sentence": "The scalar analysis of spicy hotpot made my tongue numb.",
+            "sentence_zh": "对麻辣火锅的数量分析让我的舌头麻了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "梯状的",
+        "examples": [
+          {
+            "sentence": "Terraced fields create scalar patterns on mountainsides.",
+            "sentence_zh": "梯田在山腰形成梯状图案。"
+          },
+          {
+            "sentence": "The scalar roof design mimics ancient Chinese pagodas.",
+            "sentence_zh": "这个梯状屋顶设计模仿了中国古塔。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "scalar field",
+        "meaning": "标量场",
+        "examples": [
+          {
+            "sentence": "Temperature distribution is a classic scalar field.",
+            "sentence_zh": "温度分布是经典的标量场。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "scalar multiplication",
+        "meaning": "标量乘法",
+        "examples": [
+          {
+            "sentence": "Learning scalar multiplication is like seasoning hotpot - just adjust the quantity!",
+            "sentence_zh": "学习标量乘法就像调制火锅底料——只需调整量！"
+          }
+        ]
+      }
+    ],
+    "teach": "scalar其实是'数学界的梯子'📊！古代建筑师用scal-词根设计阶梯金字塔🗿，现在程序员用它处理标量数据💻。要说'翻倍增长'可以说scale up like rocket（像火箭般飙升），'微量变化'叫scalar tweak（标量微调）。记住：当你说'梯状'时在想古迹🏛️，说'纯量'时在做数学题🧮！",
+    "recite": {
+      "tips": [
+        "谐音梗：'是刻度啊'→scalar就是测量刻度",
+        "易混词：scalar vs. scale（前者是量/梯状，后者是规模/鳞片）",
+        "联想：数学公式里的s=scalar就像火锅里的s=spicy🌶️"
+      ]
+    }
   }
 ]

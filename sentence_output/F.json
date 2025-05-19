@@ -18443,5 +18443,308 @@
         "易混词：federal(联邦的) vs. federate(使联合)"
       ]
     }
+  },
+  {
+    "word": "federated",
+    "etymology": {
+      "breakdown": [
+        "feder",
+        "ate",
+        "ed"
+      ],
+      "meaning_connection": "词根feder=联盟（拉丁语foedus），-ate表动词后缀，-ed表过去分词→结盟的，联邦制的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "联邦的",
+        "examples": [
+          {
+            "sentence": "The federated states share military resources but keep local laws.",
+            "sentence_zh": "联邦制国家共享军事资源但保留地方法律。"
+          },
+          {
+            "sentence": "Russia is a federated nation spanning 11 time zones.",
+            "sentence_zh": "俄罗斯是横跨11个时区的联邦制国家。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "联合的",
+        "examples": [
+          {
+            "sentence": "Alibaba's federated logistics system connects 100+ courier companies.",
+            "sentence_zh": "阿里巴巴的联合物流系统接入了100多家快递公司。"
+          },
+          {
+            "sentence": "This federated database pools resources from multiple hospitals.",
+            "sentence_zh": "这个联合数据库汇集了多家医院的资源。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "结成同盟（federate的过去分词）",
+        "examples": [
+          {
+            "sentence": "The tribes federated to resist colonial invasion.",
+            "sentence_zh": "这些部落结成同盟抵抗殖民入侵。"
+          },
+          {
+            "sentence": "Tech giants federated their AI research efforts last year.",
+            "sentence_zh": "科技巨头们去年联合了人工智能研究力量。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "federated learning",
+        "meaning": "联邦学习（隐私保护型机器学习）",
+        "examples": [
+          {
+            "sentence": "WeChat uses federated learning to analyze typing habits without uploading raw data.",
+            "sentence_zh": "微信使用联邦学习分析打字习惯而不上传原始数据。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "federated identity",
+        "meaning": "联合身份认证",
+        "examples": [
+          {
+            "sentence": "Login with Weibo is a typical federated identity service.",
+            "sentence_zh": "微博登录是典型的联合身份认证服务。"
+          }
+        ]
+      }
+    ],
+    "teach": "federated就像火锅联盟🍲：重庆火锅(麻辣)和潮汕牛肉锅(清汤)组成'联邦'但保持特色🤝。科技圈最火的是federated learning——就像各家餐馆共享菜谱但锁紧厨房门🔒。说'强强联合'可用federated power，吐槽'表面团结'说federated in name only💸。记住：fed开头总与'联合'有关，就像联邦快递(FedEx)连接全球🌐！",
+    "recite": {
+      "tips": [
+        "谐音梗：'非得累的'→搞联邦非得累的(federated)",
+        "易混词：federal(联邦的) VS federated(已联合的)",
+        "联想：FIFA(国际足联)就是典型的federated organization"
+      ]
+    }
+  },
+  {
+    "word": "federation",
+    "etymology": {
+      "breakdown": [
+        "feder",
+        "ation"
+      ],
+      "meaning_connection": "词根feder=联盟/条约（拉丁语foedus），-ation表行为结果→通过条约形成的组织"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "联邦",
+        "examples": [
+          {
+            "sentence": "The Russian Federation spans eleven time zones.",
+            "sentence_zh": "俄罗斯联邦横跨十一个时区。"
+          },
+          {
+            "sentence": "Malaysia is a federation of 13 states and 3 territories.",
+            "sentence_zh": "马来西亚是由13个州和3个联邦直辖区组成的联邦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "联合",
+        "examples": [
+          {
+            "sentence": "The Galaxy Federation in sci-fi often has alien ambassadors.",
+            "sentence_zh": "科幻中的银河联合体常有外星人大使。"
+          },
+          {
+            "sentence": "We formed a neighborhood federation to fight spam takeout flyers.",
+            "sentence_zh": "我们成立社区联合体对抗垃圾外卖传单。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "联盟",
+        "examples": [
+          {
+            "sentence": "The International Wushu Federation sets kungfu competition rules.",
+            "sentence_zh": "国际武术联盟制定武术比赛规则。"
+          },
+          {
+            "sentence": "Our gaming federation has members from 15 countries.",
+            "sentence_zh": "我们的电竞联盟拥有来自15个国家的成员。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "federation council",
+        "meaning": "联邦委员会",
+        "examples": [
+          {
+            "sentence": "The Federation Council approved the new space program.",
+            "sentence_zh": "联邦委员会批准了新的太空计划。"
+          }
+        ]
+      }
+    ],
+    "teach": "federation本质是'组团打怪'👥：就像复仇者联盟🦸♂️或奶茶品牌联名🥤，把独立个体(feder)变成超级团队。'联邦快递'FedEx其实就是Federal Express的缩写✈️。要说'强强联合'可以叫power federation，'松散联盟'则是loose federation。记住：fed开头单词多与'联盟'有关，比如federal（联邦的）🍔（美国联邦汉堡？）",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥的ration'→胖子的联盟要 ration（配给）食物",
+        "易混词对比：federation（政治实体）vs. alliance（临时同盟）"
+      ]
+    }
+  },
+  {
+    "word": "fedora",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自1882年法国戏剧《Fédora》中女主角所戴的同款帽子🎭"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "男式浅顶软呢帽",
+        "examples": [
+          {
+            "sentence": "The detective adjusted his fedora while examining the crime scene.",
+            "sentence_zh": "侦探勘查现场时扶了扶他的软呢帽。"
+          },
+          {
+            "sentence": "He tipped his fedora like a 1940s gangster in the vintage photo.",
+            "sentence_zh": "老照片里他像1940年代黑帮那样轻触帽檐。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fedora hat",
+        "meaning": "软呢礼帽",
+        "examples": [
+          {
+            "sentence": "Her fedora hat collection includes styles from Milan to Tokyo.",
+            "sentence_zh": "她的软呢帽藏品涵盖从米兰到东京的各种款式。"
+          }
+        ]
+      }
+    ],
+    "teach": "fedora是黑客与绅士的接头暗号💻！这顶帽子从法国戏剧火到《夺宝奇兵》🎬，程序员最爱它配T恤的极客造型（geek chic）。说'戴帽'用rock a fedora，就像周杰伦'牛仔很忙'造型🤠。记住：真正的fedora帽檐能卷起暴雨⛈️，淘宝爆款只能卷泡面🍜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥多了'→戴fedora显脸肥",
+        "易混词：相比beret（贝雷帽），fedora有硬挺帽檐"
+      ]
+    }
+  },
+  {
+    "word": "fee",
+    "etymology": {
+      "breakdown": [
+        "feo"
+      ],
+      "meaning_connection": "源自古英语feo（牲畜），早期用牲畜作为支付手段，引申为'费用'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "费用",
+        "examples": [
+          {
+            "sentence": "The museum waived the entrance fee during Lunar New Year.",
+            "sentence_zh": "春节期间博物馆免收门票费。"
+          },
+          {
+            "sentence": "My WeChat Pay automatically deducts the monthly bike-sharing fee.",
+            "sentence_zh": "我的微信支付会自动扣除共享单车月费。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小费",
+        "examples": [
+          {
+            "sentence": "In hotpot restaurants, it's customary to give the sauce-mixing staff a small fee.",
+            "sentence_zh": "在火锅店，通常会给调酱料的员工小额小费。"
+          },
+          {
+            "sentence": "The delivery guy refused the fee despite riding through heavy rain.",
+            "sentence_zh": "尽管冒雨送货，外卖小哥还是拒收小费。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "封地",
+        "examples": [
+          {
+            "sentence": "The knight received a fee of 500 mu of farmland from the king.",
+            "sentence_zh": "骑士从国王处获得五百亩农田作为封地。"
+          },
+          {
+            "sentence": "This ancient fee included fishing rights in the Yangtze River.",
+            "sentence_zh": "这块古老封地包含长江捕鱼权。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "付费给",
+        "examples": [
+          {
+            "sentence": "The company will fee the consultant in digital RMB.",
+            "sentence_zh": "公司将用数字人民币支付顾问费用。"
+          },
+          {
+            "sentence": "Parents often fee tutors during Mid-Autumn Festival.",
+            "sentence_zh": "家长常在中秋节给家教老师付费。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "license fee",
+        "meaning": "许可费",
+        "examples": [
+          {
+            "sentence": "The TV license fee includes access to 4K documentary channels.",
+            "sentence_zh": "电视许可费包含4K纪录片频道观看权。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fee simple",
+        "meaning": "完全所有权",
+        "examples": [
+          {
+            "sentence": "He owns the courtyard house in fee simple.",
+            "sentence_zh": "他完全拥有这套四合院的所有权。"
+          }
+        ]
+      }
+    ],
+    "teach": "fee的前世今生就像移动支付💸进化史！最初用牛羊当fee(古英语feo)🐄，后来变成'封地'就像分红包🧧，现在扫码付fee快如闪电⚡。吐槽'天价挂号费'说highway robbery（拦路抢劫），'隐形消费'叫hidden fees就像火锅店的调料费🌶️。记住：你的电子钱包里流动着千年经济史！",
+    "recite": {
+      "tips": [
+        "谐音梗：'费'→中文直接借用",
+        "易混词对比：fare（车费）vs fee（服务费）",
+        "记忆口诀：牛羊变封地，封地变人民币"
+      ]
+    }
   }
 ]

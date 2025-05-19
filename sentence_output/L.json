@@ -18470,5 +18470,348 @@
         "对比：jumping（普通跳跃）vs leaping（大幅跨越）"
       ]
     }
+  },
+  {
+    "word": "learn",
+    "etymology": {
+      "breakdown": [
+        "leorn"
+      ],
+      "meaning_connection": "源自古英语'leornian'，原指'获取知识'，与德语'lernen'同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "学习",
+        "examples": [
+          {
+            "sentence": "Pandas learn to climb trees by falling off them repeatedly.",
+            "sentence_zh": "熊猫通过不断从树上摔下来学会攀爬。"
+          },
+          {
+            "sentence": "I'm learning to make xiaolongbao from a 90-year-old chef.",
+            "sentence_zh": "我正在跟一位90岁老师傅学习做小笼包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "认识到",
+        "examples": [
+          {
+            "sentence": "She learned the importance of VPN when traveling abroad.",
+            "sentence_zh": "她在国外旅行时认识到了VPN的重要性。"
+          },
+          {
+            "sentence": "We've learned that spicy hotpot cures homesickness.",
+            "sentence_zh": "我们认识到麻辣火锅能治思乡病。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "得知",
+        "examples": [
+          {
+            "sentence": "I just learned that bubble tea originated in Taiwan in the 1980s.",
+            "sentence_zh": "我刚得知珍珠奶茶起源于1980年代的台湾。"
+          },
+          {
+            "sentence": "The whole office learned about the merger through WeChat groups.",
+            "sentence_zh": "全公司通过微信群得知了合并消息。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "learn from",
+        "meaning": "向...学习",
+        "examples": [
+          {
+            "sentence": "Chinese tech companies learn from Silicon Valley while innovating.",
+            "sentence_zh": "中国科技公司在创新同时向硅谷学习。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "learn the ropes",
+        "meaning": "掌握诀窍",
+        "examples": [
+          {
+            "sentence": "New employees need a month to learn the ropes of douyin operations.",
+            "sentence_zh": "新员工需要一个月掌握抖音运营的诀窍。"
+          }
+        ]
+      }
+    ],
+    "teach": "learn的进化史就像知识从竹简📜到Kindle📱！古人'学习'(learn)要凿壁偷光💡，现代人刷B站就能learn。'得知坏消息'说learn the hard way（付出代价才明白），'速成'叫learn the ropes（学系绳结的航海术语🚢）。记住：人生就像学微信小程序 - 永远在learn update！🧠",
+    "recite": {
+      "tips": [
+        "谐音梗：'乐嗯'→快乐地(le)嗯嗯点头(arn)学习",
+        "易混词：learn强调学习结果，study侧重学习过程",
+        "记忆tip：把learn拆成'ear'+'n'→用耳朵听是学习的基础👂"
+      ]
+    }
+  },
+  {
+    "word": "learned",
+    "etymology": {
+      "breakdown": [
+        "learn",
+        "ed"
+      ],
+      "meaning_connection": "动词learn（学习）的过去分词形式-ed转化为形容词，表示'通过学习获得的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有学问的",
+        "examples": [
+          {
+            "sentence": "The learned professor can recite all 300 Tang Poems backwards.",
+            "sentence_zh": "这位博学的教授能倒背唐诗三百首。"
+          },
+          {
+            "sentence": "We consulted a learned monk about this Buddhist paradox.",
+            "sentence_zh": "我们向一位学识渊博的僧人请教这个佛学悖论。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "学术上的",
+        "examples": [
+          {
+            "sentence": "This learned journal specializes in AI ethics research.",
+            "sentence_zh": "这本学术期刊专攻人工智能伦理研究。"
+          },
+          {
+            "sentence": "His learned discourse on tea culture lasted 3 hours.",
+            "sentence_zh": "他关于茶文化的学术演讲持续了三小时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "learn的过去式",
+        "examples": [
+          {
+            "sentence": "She learned to make dumplings from her Beijing grandma.",
+            "sentence_zh": "她跟北京奶奶学会了包饺子。"
+          },
+          {
+            "sentence": "We learned the hard way that stinky tofu smells worse than it tastes.",
+            "sentence_zh": "我们吃了亏才明白臭豆腐闻着比吃着臭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "learn的过去分词",
+        "examples": [
+          {
+            "sentence": "Having learned from past failures, he succeeded in the gaokao.",
+            "sentence_zh": "从过往失败中吸取教训后，他高考取得了成功。"
+          },
+          {
+            "sentence": "The newly learned skill helped him get a promotion.",
+            "sentence_zh": "新学会的技能助他获得了晋升。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "learned behavior",
+        "meaning": "习得行为",
+        "examples": [
+          {
+            "sentence": "Using chopsticks is a learned behavior for Westerners.",
+            "sentence_zh": "使用筷子对西方人来说是后天习得的行为。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "learned friend",
+        "meaning": "博学的朋友（律师尊称）",
+        "examples": [
+          {
+            "sentence": "As my learned friend mentioned, this case involves complex IP issues.",
+            "sentence_zh": "如我博学的同行所言，本案涉及复杂的知识产权问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "learned是学霸的勋章🎓！当形容词时像戴着老花镜的教授👓（a learned scholar），当动词时像你妈问你'功课学了吗'📚（Have you learned your lessons?）。英国法庭称律师为'learned friend'⚖️，就像武侠片里喊'前辈'🤝。形容'书呆子'可说walking dictionary📖，记住：真学霸是把learned变成形容词的人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'乐的'→学霸乐得(learned)当书虫",
+        "易混词对比：learned（形容词读/'lɜːrnɪd/） vs. learn-ed（动词分词读/lɜːrnd/）",
+        "记忆tip：字母多的(learned)是形容词，就像戴眼镜的教授头发多"
+      ]
+    }
+  },
+  {
+    "word": "learner",
+    "etymology": {
+      "breakdown": [
+        "learn",
+        "er"
+      ],
+      "meaning_connection": "动词learn（学习）+后缀-er（表示人）→学习的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "学习者",
+        "examples": [
+          {
+            "sentence": "The online platform provides personalized courses for every learner.",
+            "sentence_zh": "该在线平台为每位学习者提供个性化课程。"
+          },
+          {
+            "sentence": "As a language learner, she watches Friends without subtitles.",
+            "sentence_zh": "作为语言学习者，她看《老友记》时不带字幕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "初学者",
+        "examples": [
+          {
+            "sentence": "The cooking class separates professional chefs from learners.",
+            "sentence_zh": "烹饪课程将专业厨师与初学者分开教学。"
+          },
+          {
+            "sentence": "This piano book uses emojis to help learners remember notes.",
+            "sentence_zh": "这本钢琴教材用表情符号帮助初学者记忆音符。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fast learner",
+        "meaning": "学得快的人",
+        "examples": [
+          {
+            "sentence": "My grandma is a fast learner at using TikTok filters.",
+            "sentence_zh": "我奶奶学用抖音滤镜特别快。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "learner's permit",
+        "meaning": "学习驾照",
+        "examples": [
+          {
+            "sentence": "He got his learner's permit but still rides an e-bike to school.",
+            "sentence_zh": "他考了学习驾照但还是骑电驴上学。"
+          }
+        ]
+      }
+    ],
+    "teach": "learner其实是'练人'👨🎓！英语里学车叫learner driver（让人想起驾校教练的怒吼🗣️），学霸叫quick learner就像海绵🧽吸水。搭配'learner-friendly'形容对新手友好的设计（比如奶茶店的自助点单屏🍹），说'菜鸟'可以用green learner（绿油油的新苗🌱）。记住：每个expert都曾是learner！",
+    "recite": {
+      "tips": [
+        "谐音梗：'乐呢'→当learner就要乐在其中",
+        "对比：beginner更强调零基础，learner可指任何阶段学习者",
+        "联想：L+earner→用耳朵(ear)赚钱的人要先学习"
+      ]
+    }
+  },
+  {
+    "word": "learning",
+    "etymology": {
+      "breakdown": [
+        "learn",
+        "ing"
+      ],
+      "meaning_connection": "动词learn（学习）加-ing后缀名词化"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "学问",
+        "examples": [
+          {
+            "sentence": "The old scholar's learning fills three floors of the library.",
+            "sentence_zh": "这位老学者的学问能填满图书馆三层楼。"
+          },
+          {
+            "sentence": "Traditional Chinese medicine contains profound learning about herbs.",
+            "sentence_zh": "中医蕴含着关于草药的深厚学问。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "学识",
+        "examples": [
+          {
+            "sentence": "Her learning in astrophysics amazed the interviewers.",
+            "sentence_zh": "她在天体物理学方面的学识让面试官惊叹。"
+          },
+          {
+            "sentence": "The artisan's learning was passed down through generations.",
+            "sentence_zh": "这位工匠的学识通过世代相传。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "学习",
+        "examples": [
+          {
+            "sentence": "Spaced repetition enhances language learning efficiency.",
+            "sentence_zh": "间隔重复能提升语言学习效率。"
+          },
+          {
+            "sentence": "Mobile apps have revolutionized our learning methods.",
+            "sentence_zh": "手机应用彻底改变了我们的学习方式。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lifelong learning",
+        "meaning": "终身学习",
+        "examples": [
+          {
+            "sentence": "Grandpa Wang practices lifelong learning by taking online courses.",
+            "sentence_zh": "王爷爷通过上网课践行终身学习。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "learning curve",
+        "meaning": "学习曲线",
+        "examples": [
+          {
+            "sentence": "The learning curve for making dumplings is surprisingly steep.",
+            "sentence_zh": "包饺子的学习曲线意外地陡峭。"
+          }
+        ]
+      }
+    ],
+    "teach": "learning就像大脑的健身卡🏋️！古人'学而时习之'时绝想不到现在能躺着刷抖音学习📱。当说'没文化'时老外会说'the lights are on but nobody's home'（灯亮着但没人在家）😂 记住：真正的learning是像火锅🍲一样——什么都能涮（吸收）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'乐宁'→快乐宁静的学习状态",
+        "对比：learning（过程）vs knowledge（结果）",
+        "联想：ing结尾→正在进行时的学习"
+      ]
+    }
   }
 ]

@@ -18075,5 +18075,299 @@
         "对比：read（阅读）vs lead（领导）vs bread（面包）"
       ]
     }
+  },
+  {
+    "word": "readability",
+    "etymology": {
+      "breakdown": [
+        "read",
+        "ability"
+      ],
+      "meaning_connection": "read=阅读 + ability=能力→阅读的能力/难易程度"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "易读性",
+        "examples": [
+          {
+            "sentence": "The readability of this children's book is enhanced by cute panda illustrations.",
+            "sentence_zh": "这本童书的易读性因可爱的熊猫插图而提升。"
+          },
+          {
+            "sentence": "Teachers assess the readability of texts before assigning them to students.",
+            "sentence_zh": "教师会在布置课文前评估其易读性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "可读性",
+        "examples": [
+          {
+            "sentence": "The faded ink seriously affected the readability of this ancient manuscript.",
+            "sentence_zh": "褪色的墨水严重影响这份古籍的可读性。"
+          },
+          {
+            "sentence": "Modern typography greatly improves the readability of digital content.",
+            "sentence_zh": "现代排版技术大幅提升了数字内容的可读性。"
+          }
+        ]
+      }
+    ],
+    "teach": "readability就是文字的'好吃程度'🍜！像火锅分微辣/变态辣🌶️，易读性决定了你'吃'文字的难易度。检查英文可读性有个神奇工具叫'Flesch-Kincaid'指数，就像给文章测辣度表🌡️。搭配说high/low readability（像评价奶茶甜度🍵），地道吐槽难懂文章说'This reads like stereo instructions'（像看音响说明书一样晕）💫",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞德能力'→瑞德（read）的阅读能力",
+        "易混词对比：readability（易读性）vs. legibility（字迹清晰度）"
+      ]
+    }
+  },
+  {
+    "word": "readable",
+    "etymology": {
+      "breakdown": [
+        "read",
+        "able"
+      ],
+      "meaning_connection": "read=阅读，-able=能...的→能够被阅读的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "值得一读的",
+        "examples": [
+          {
+            "sentence": "This WeChat article about panda diplomacy is surprisingly readable.",
+            "sentence_zh": "这篇关于熊猫外交的公众号文章出奇地值得一读。"
+          },
+          {
+            "sentence": "Lu Xun's essays remain highly readable even after a century.",
+            "sentence_zh": "鲁迅的杂文即使过了百年仍然非常值得一读。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "易读的",
+        "examples": [
+          {
+            "sentence": "The new traffic signs use highly readable sans-serif fonts.",
+            "sentence_zh": "新版交通标识使用了极易阅读的无衬线字体。"
+          },
+          {
+            "sentence": "Good subtitles should be readable at a single glance.",
+            "sentence_zh": "优秀字幕应该做到一目了然。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "读起来津津有味的",
+        "examples": [
+          {
+            "sentence": "The detective novel was so readable that I finished it in one sitting.",
+            "sentence_zh": "这本侦探小说读起来津津有味，我一口气就看完了。"
+          },
+          {
+            "sentence": "Her travel journals are always readable with witty observations.",
+            "sentence_zh": "她的旅行笔记总是妙趣横生令人捧卷不倦。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "machine readable",
+        "meaning": "机器可读的",
+        "examples": [
+          {
+            "sentence": "QR codes are machine readable patterns.",
+            "sentence_zh": "二维码是机器可读的图形。"
+          }
+        ]
+      }
+    ],
+    "teach": "readable就像火锅的辣度表🌶️：'值得一读'是牛油锅底香浓够劲，'易读'像鸳鸯锅清晰分区，'津津有味'则是毛肚七上八下的快乐🥢！说'难以下咽的文章'叫unreadable garbage🗑️，'轻松读物'说light reading就像嗑瓜子🥜。记住：好的readable文章应该像珍珠奶茶——吸管一插就顺畅到底🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞德鹅煲'→值得一读的(readable)广东名菜",
+        "对比记忆：legible专指字迹清晰可辨，readable侧重内容吸引力"
+      ]
+    }
+  },
+  {
+    "word": "readdress",
+    "etymology": {
+      "breakdown": [
+        "re",
+        "address"
+      ],
+      "meaning_connection": "前缀re-=再次，address=处理/地址→原指'重新处理'或'修改地址'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使重新着手",
+        "examples": [
+          {
+            "sentence": "The team readdressed the project after the AI revolution.",
+            "sentence_zh": "团队在AI革命后重新着手这个项目。"
+          },
+          {
+            "sentence": "We need to readdress our teaching methods for Gen Z students.",
+            "sentence_zh": "我们需要为Z世代学生重新调整教学方法。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "更改收信人地址",
+        "examples": [
+          {
+            "sentence": "She readdressed the parcel when she moved to Shanghai.",
+            "sentence_zh": "她搬到上海时修改了包裹的收件地址。"
+          },
+          {
+            "sentence": "The post office can readdress your mail for 2 yuan per item.",
+            "sentence_zh": "邮局可以每件2元的价格帮你改寄邮件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "readdress the balance",
+        "meaning": "重新调整平衡",
+        "examples": [
+          {
+            "sentence": "The new policy readdresses the balance between work and life.",
+            "sentence_zh": "新政策重新调整了工作与生活的平衡。"
+          }
+        ]
+      }
+    ],
+    "teach": "readdress就像快递改地址📦！当你要'重新着手'时，像程序员发现bug后回炉重造💻（readdress the code）；'改地址'时像双十一填错收货地址急吼吼修改🏃♂️（readdress the package）。搭配'readdress a wrong'=纠正错误，地道说法'back to the drawing board'（重新规划）就像改地址要重新画地图🗺️。记住：re+address=给生活按下重置键！",
+    "recite": {
+      "tips": [
+        "谐音梗：'瑞递ress'→瑞士快递改地址(ress发音类似'瑞士')",
+        "易混词对比：redirect是转寄，readdress是修改收件人"
+      ]
+    }
+  },
+  {
+    "word": "reader",
+    "etymology": {
+      "breakdown": [
+        "read",
+        "er"
+      ],
+      "meaning_connection": "词根read=阅读，后缀-er表示'执行动作的人或物'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "读者",
+        "examples": [
+          {
+            "sentence": "The novel's cliffhanger ending left readers screaming in Weibo comments.",
+            "sentence_zh": "小说悬念式结局让微博读者在评论区尖叫。"
+          },
+          {
+            "sentence": "As a loyal reader of this magazine, she collects every issue since 2010.",
+            "sentence_zh": "作为杂志忠实读者，她收集了自2010年起的每一期。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "读物",
+        "examples": [
+          {
+            "sentence": "This bilingual reader helps beginners learn through Harry Potter stories.",
+            "sentence_zh": "这本双语读物通过《哈利波特》故事帮助初学者学习。"
+          },
+          {
+            "sentence": "The graded reader series uses only 300 basic words to retell classics.",
+            "sentence_zh": "这套分级读物仅用300个基础词汇重述经典。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "文选",
+        "examples": [
+          {
+            "sentence": "The Confucian classics reader includes annotated versions of the Analects.",
+            "sentence_zh": "这部儒家经典文选包含注解版《论语》。"
+          },
+          {
+            "sentence": "Our poetry reader features Tang Dynasty masterpieces with modern translations.",
+            "sentence_zh": "我们的诗歌文选收录带有现代译文的唐代名篇。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "校对人",
+        "examples": [
+          {
+            "sentence": "The publishing house has professional readers who check manuscripts for errors.",
+            "sentence_zh": "出版社有专业校对人员检查手稿错误。"
+          },
+          {
+            "sentence": "Before digitalization, newspaper readers worked overnight to catch typos.",
+            "sentence_zh": "数字化之前，报纸校对员通宵工作抓排版错误。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "讲师",
+        "examples": [
+          {
+            "sentence": "As a reader at Oxford, he teaches Tolkien's original manuscripts.",
+            "sentence_zh": "作为牛津大学讲师，他教授托尔金的手稿原典。"
+          },
+          {
+            "sentence": "The history reader specializes in Silk Road archaeology.",
+            "sentence_zh": "这位历史学讲师专攻丝绸之路考古。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mind reader",
+        "meaning": "读心者",
+        "examples": [
+          {
+            "sentence": "Stop expecting me to be a mind reader! Just tell me what you want for dinner.",
+            "sentence_zh": "别指望我会读心术！直接说你想吃什么。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tarot card reader",
+        "meaning": "塔罗牌占卜师",
+        "examples": [
+          {
+            "sentence": "The tarot card reader at the night market predicted my final exam results.",
+            "sentence_zh": "夜市塔罗牌占卜师预测了我的期末考试成绩。"
+          }
+        ]
+      }
+    ],
+    "teach": "reader的终极形态是量子阅读法📚→既能当纸质书校对人✏️（古代职业），又能变身电子阅读器💻（现代产品）。英国大学reader头衔相当于副教授👨🏫，比教授低但比讲师高。'资深读者'叫avid reader就像追更网络小说的书虫🐛，'快速阅读'说speed read要配防蓝光眼镜👓。记住：真正的reader连奶茶杯上的段子都不会放过！🧋",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐的'→眼光锐利的reader",
+        "易混词：reader（读者） vs. leader（领导）→多一个a就变跟班"
+      ]
+    }
   }
 ]

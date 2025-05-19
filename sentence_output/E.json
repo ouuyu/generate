@@ -18264,5 +18264,201 @@
         "易混词：fairy(仙女)/elf(精灵)区别就像嫦娥vs红孩儿"
       ]
     }
+  },
+  {
+    "word": "elicit",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "lic",
+        "it"
+      ],
+      "meaning_connection": "前缀e-表示'向外'，词根lic意为'引诱'，-it为后缀→原义'引诱出来'，后演变为'引出答案/反应'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "引出（回答/信息）",
+        "examples": [
+          {
+            "sentence": "The detective's clever questioning elicited key details about the mahjong parlor incident.",
+            "sentence_zh": "侦探巧妙的提问引出了麻将馆事件的关键细节。"
+          },
+          {
+            "sentence": "Good teachers elicit students' ideas instead of giving direct answers.",
+            "sentence_zh": "优秀教师会引导学生说出想法而非直接给答案。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "推导出（结论）",
+        "examples": [
+          {
+            "sentence": "Researchers elicited a surprising pattern from WeChat emoji usage data.",
+            "sentence_zh": "研究者从微信表情使用数据中推导出惊人规律。"
+          },
+          {
+            "sentence": "Ancient astronomers elicited the moon's phases by observing turtle shell cracks.",
+            "sentence_zh": "古代天文学家通过观察龟甲裂纹推导出月相变化。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "引起（反应）",
+        "examples": [
+          {
+            "sentence": "The spicy hotpot elicited tears from the foreign visitor.",
+            "sentence_zh": "麻辣火锅引得外国游客泪流满面。"
+          },
+          {
+            "sentence": "Unexpected fireworks elicited screams of delight during the Spring Festival Gala.",
+            "sentence_zh": "春晚突然的烟花表演引起观众惊喜尖叫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "elicit from",
+        "meaning": "从...中获取",
+        "examples": [
+          {
+            "sentence": "She elicited childhood memories from her grandma through old photos.",
+            "sentence_zh": "她通过老照片唤起奶奶的童年回忆。"
+          }
+        ]
+      }
+    ],
+    "teach": "elicit就像钓鱼高手🎣：1)历史梗：16世纪英国用'licit'（合法）和'elicit'玩文字游戏，说真相就像'合法引诱' 2)视觉化：想象从熊猫怀里掏出小饼干🐼→eliciting snacks 3)搭配：elicit laughter（逗笑）/ elicit truth（套话） 4)地道表达：'套话'说fish for info🕵️ 5)记住：好老师都是elicit专家，差老师只会dictate！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一粒砂糖'→用糖引出蚂蚁",
+        "易混词对比：illicit（非法的）是e-的反义词",
+        "记忆法：e(出)+lic(诱惑)+it→诱惑出来"
+      ]
+    }
+  },
+  {
+    "word": "elicitation",
+    "etymology": {
+      "breakdown": [
+        "e",
+        "licit",
+        "ation"
+      ],
+      "meaning_connection": "前缀e-表示'出来'，词根licit源于拉丁语lacere（引诱），后缀-ation表名词→像钓鱼般'引出答案'🎣"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "（通过提问）引出",
+        "examples": [
+          {
+            "sentence": "The lawyer's skillful elicitation revealed the key evidence.",
+            "sentence_zh": "律师巧妙的提问引出了关键证据。"
+          },
+          {
+            "sentence": "Socrates was a master of elicitation through dialogues.",
+            "sentence_zh": "苏格拉底是通过对话引出真理的大师。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "（从物质中）抽出",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine uses special methods for herb elicitation.",
+            "sentence_zh": "中药采用特殊方法进行草药成分提取。"
+          },
+          {
+            "sentence": "The elicitation process separates caffeine from coffee beans.",
+            "sentence_zh": "提取工序将咖啡因从咖啡豆中分离出来。"
+          }
+        ]
+      }
+    ],
+    "teach": "elicitation本质是'知识钓鱼术'🎣！就像用'你妈和女友掉水里'的死亡提问套真话💬，或像用榨汁机暴力提取柠檬精华🍋（juice elicitation）。搭配'laborious elicitation'（艰难套话）、'chemical elicitation'（化学萃取），地道说法'抽丝剥茧'叫draw out like a spider's thread🕷️。记住：审讯专家和咖啡师都是elicitation高手！",
+    "recite": {
+      "tips": [
+        "谐音梗：'一粒喜提神'→提神饮料的萃取过程",
+        "易混词对比：extraction（物理提取）vs elicitation（常指信息获取）",
+        "联想：e（出）+licit（引诱）= 引诱出来"
+      ]
+    }
+  },
+  {
+    "word": "eligibility",
+    "etymology": {
+      "breakdown": [
+        "elig",
+        "ibility"
+      ],
+      "meaning_connection": "词根elig=选择（同elect），-ibility表可能性→具备被选择的条件"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "适任",
+        "examples": [
+          {
+            "sentence": "Panda keepers must prove their eligibility by passing bamboo-handling tests.",
+            "sentence_zh": "熊猫饲养员需通过竹子处理测试证明自己适任。"
+          },
+          {
+            "sentence": "Her dual-language eligibility made her perfect for the UN internship.",
+            "sentence_zh": "她的双语能力使她完全胜任联合国实习。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "合格",
+        "examples": [
+          {
+            "sentence": "The app checks your eligibility for VIP membership in 3 seconds.",
+            "sentence_zh": "这个APP能在3秒内检测你是否具备VIP会员资格。"
+          },
+          {
+            "sentence": "Students' eligibility for the scholarship depends on both grades and extracurriculars.",
+            "sentence_zh": "学生能否获得奖学金取决于成绩和课外活动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eligibility criteria",
+        "meaning": "资格标准",
+        "examples": [
+          {
+            "sentence": "The eligibility criteria for this dating app include owning at least three cats.",
+            "sentence_zh": "该交友软件的注册资格标准是至少养三只猫。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "verify eligibility",
+        "meaning": "核实资格",
+        "examples": [
+          {
+            "sentence": "Banks now use AI to instantly verify loan eligibility.",
+            "sentence_zh": "银行使用AI即时核实贷款资格。"
+          }
+        ]
+      }
+    ],
+    "teach": "eligibility就像选秀海选📋：词根elig=古代奥运会选拔运动员🏅，-ibility=评委手里的晋级卡💳。说'不够格'用not cut out for（像裁错尺寸的戏服），'破格录取'叫exceptionally qualified（像免试保送清华🎓）。记住：你的eligibility就是你的人生VIP通行证！",
+    "recite": {
+      "tips": [
+        "谐音梗：'埃及离不离'→法老选妃看eligibility",
+        "易混词对比：eligible(adj.合格的) vs. illegible(adj.字迹难认的)"
+      ]
+    }
   }
 ]

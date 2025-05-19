@@ -18149,5 +18149,329 @@
         "拆解记忆：im(不)+person(人)+ally(联盟)→'不是人的联盟'当然客观"
       ]
     }
+  },
+  {
+    "word": "impersonate",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "person",
+        "ate"
+      ],
+      "meaning_connection": "前缀im-表示'进入'，person即'人'，-ate为动词后缀→原指'进入他人角色'，引申出模仿/扮演等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "模仿（声音/行为）",
+        "examples": [
+          {
+            "sentence": "The comedian perfectly impersonates duck quacks with his armpit.",
+            "sentence_zh": "这位喜剧演员用腋窝完美模仿鸭子叫。"
+          },
+          {
+            "sentence": "She can impersonate her strict math teacher's nasal tone.",
+            "sentence_zh": "她能惟妙惟肖地模仿数学老师的鼻腔音。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "扮演（角色）",
+        "examples": [
+          {
+            "sentence": "In the Peking Opera, one actor impersonates multiple characters by changing masks.",
+            "sentence_zh": "京剧中一位演员通过变脸扮演多个角色。"
+          },
+          {
+            "sentence": "The child impersonated a dinosaur by stomping around with cardboard claws.",
+            "sentence_zh": "孩子戴着纸板爪跺脚扮演恐龙。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "体现（抽象概念）",
+        "examples": [
+          {
+            "sentence": "The Statue of Liberty impersonates freedom and hope.",
+            "sentence_zh": "自由女神像体现自由与希望。"
+          },
+          {
+            "sentence": "Mulan's story impersonates the spirit of filial piety.",
+            "sentence_zh": "花木兰的故事体现孝道精神。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "impersonate a celebrity",
+        "meaning": "模仿名人",
+        "examples": [
+          {
+            "sentence": "TikTokers love to impersonate Elon Musk's awkward dance moves.",
+            "sentence_zh": "抖音用户热衷模仿马斯克尴尬的舞步。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "impersonate with intent to deceive",
+        "meaning": "以欺骗为目的假冒",
+        "examples": [
+          {
+            "sentence": "He was arrested for impersonating a police officer to get free hotpot.",
+            "sentence_zh": "他因冒充警察骗免单火锅被捕。"
+          }
+        ]
+      }
+    ],
+    "teach": "impersonate就像'人间变声器'🎭！古人用面具表现神灵（impersonate deities），现代人用变声器装客服💁（impersonate customer service）。'cosplay本尊'叫spot-on impersonation神还原，'拙劣模仿'叫poor impersonation宛如买家秀😂。记住：演得好是artistry，演不好就成catfish（诈骗）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬破嗓捏'→硬破嗓子捏着鼻子模仿",
+        "易混词对比：impersonate（扮演他人） vs. personify（拟人化）",
+        "记忆口诀：im+person+ate=把别人'吃透'才能模仿"
+      ]
+    }
+  },
+  {
+    "word": "impersonation",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "person",
+        "ation"
+      ],
+      "meaning_connection": "前缀im-表示'进入'，person指'人'，-ation为名词后缀→原指'进入他人角色'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "扮演",
+        "examples": [
+          {
+            "sentence": "His impersonation of Jack Sparrow at the cosplay party won first prize.",
+            "sentence_zh": "他在漫展上扮演的杰克船长获得了一等奖。"
+          },
+          {
+            "sentence": "The actress's impersonation of the queen required 3 hours of makeup daily.",
+            "sentence_zh": "这位女演员扮演女王每天需要3小时化妆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "装扮",
+        "examples": [
+          {
+            "sentence": "Halloween impersonations range from zombies to KFC grandpa.",
+            "sentence_zh": "万圣节装扮从丧尸到肯德基爷爷应有尽有。"
+          },
+          {
+            "sentence": "Her TikTok impersonation of office workers went viral.",
+            "sentence_zh": "她装扮上班族的抖音视频爆红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "模仿",
+        "examples": [
+          {
+            "sentence": "The comedian's impersonation of regional accents is hilarious.",
+            "sentence_zh": "这位喜剧演员模仿各地方言简直绝了。"
+          },
+          {
+            "sentence": "AI voice impersonation technology can now clone your speech patterns.",
+            "sentence_zh": "AI语音模仿技术现已能克隆你的说话方式。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "celebrity impersonation",
+        "meaning": "名人模仿",
+        "examples": [
+          {
+            "sentence": "Elvis impersonation contests are still popular in the US.",
+            "sentence_zh": "猫王模仿大赛在美国依然盛行。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "criminal impersonation",
+        "meaning": "冒名顶替",
+        "examples": [
+          {
+            "sentence": "He was arrested for criminal impersonation after pretending to be a pilot.",
+            "sentence_zh": "他因假冒飞行员涉嫌刑事冒名被捕。"
+          }
+        ]
+      }
+    ],
+    "teach": "impersonation堪称'戏精必修课'🎭！莎士比亚时代就有专职'国王扮演者'👑（因为真国王怕被刺杀）。现代最赚钱的模仿是山寨明星商演💸，比如'广东谢霆锋'每场5万元！说'以假乱真'用spot-on impersonation，'劣质模仿'叫poor impersonation像淘宝买家秀😂。记住：好的impersonation就像珍珠奶茶——三分形似七分神韵🧋！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬破身内省'→强行(硬)突破(破)他人身份(身)进行内省(模仿)",
+        "易混词对比：impersonation（外在模仿） vs. embodiment（内在化身）",
+        "记忆口诀：im+person+ation→我(person)硬(im)要变成别人的状态(ation)"
+      ]
+    }
+  },
+  {
+    "word": "impersonator",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "person",
+        "ate",
+        "or"
+      ],
+      "meaning_connection": "前缀im-表示'进入'，person即'人'，-ate动词后缀，-or表执行者→进入他人角色的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "演员",
+        "examples": [
+          {
+            "sentence": "The Elvis impersonator made 500 yuan per hour at the theme park.",
+            "sentence_zh": "这位猫王模仿者在主题公园每小时赚500元。"
+          },
+          {
+            "sentence": "Professional impersonators need to master both looks and mannerisms.",
+            "sentence_zh": "专业模仿者需同时掌握外形特征和神态动作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "模拟艺人",
+        "examples": [
+          {
+            "sentence": "The AI impersonator's livestream got 10 million views mimicking celebrities.",
+            "sentence_zh": "这位AI模拟艺人的明星模仿直播获得千万观看。"
+          },
+          {
+            "sentence": "Chinese opera impersonators spend years learning vocal techniques.",
+            "sentence_zh": "戏曲反串艺人需要经年累月学习声腔技巧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "celebrity impersonator",
+        "meaning": "名人模仿者",
+        "examples": [
+          {
+            "sentence": "The Jackie Chan impersonator even fooled the star's own mother.",
+            "sentence_zh": "这位成龙模仿者甚至骗过了明星本人的母亲。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "voice impersonator",
+        "meaning": "声音模仿艺人",
+        "examples": [
+          {
+            "sentence": "The voice impersonator earned fame by dubbing for cartoon characters.",
+            "sentence_zh": "这位声音模拟艺人通过为动画角色配音走红。"
+          }
+        ]
+      }
+    ],
+    "teach": "impersonator本质是'人形变色龙'🦎！最古老的模仿者可追溯到古希腊戏剧面具🎭，现代最贵模仿者时薪堪比程序员💻（据说某马斯克模仿者时薪2万）。记住：'模仿得像'说nailed the impression，'露馅了'叫the gig is up！这行当精髓在于：三分靠长相，七分靠演技，剩下九十分靠滤镜美颜📱！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬破嗓呐特'→硬要破嗓子的特型演员",
+        "易混词：impersonator（职业模仿者） vs. imitator（广义模仿者）",
+        "记忆tip：想象银行ATM机是'钞票模仿者'(cash impersonator)"
+      ]
+    }
+  },
+  {
+    "word": "impertinence",
+    "etymology": {
+      "breakdown": [
+        "im",
+        "per",
+        "tin",
+        "ence"
+      ],
+      "meaning_connection": "前缀im-表否定，per-表'完全'，词根tin来自tenere（持有），-ence为名词后缀→原指'不坚守本分'，引申出越界行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "不切题",
+        "examples": [
+          {
+            "sentence": "The student's answer was pure impertinence to the professor's question.",
+            "sentence_zh": "学生对教授问题的回答完全文不对题。"
+          },
+          {
+            "sentence": "His long speech about dinosaurs was an impertinence in this finance meeting.",
+            "sentence_zh": "他关于恐龙的冗长演讲在这次财务会议上显得离题万里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "鲁莽",
+        "examples": [
+          {
+            "sentence": "Grabbing the CEO's microphone showed shocking impertinence.",
+            "sentence_zh": "抢CEO的麦克风展现了惊人的鲁莽。"
+          },
+          {
+            "sentence": "Her impertinence in correcting the judge made the courtroom gasp.",
+            "sentence_zh": "她鲁莽地纠正法官，让法庭众人倒吸冷气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无礼",
+        "examples": [
+          {
+            "sentence": "Calling elders by nicknames is considered impertinence in Confucian culture.",
+            "sentence_zh": "在儒家文化中，用绰号称呼长辈被视为无礼。"
+          },
+          {
+            "sentence": "The tourist's impertinence of touching the ceremonial artifacts angered the locals.",
+            "sentence_zh": "游客触碰仪式器物的无礼行为激怒了当地居民。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "sheer impertinence",
+        "meaning": "极其无礼",
+        "examples": [
+          {
+            "sentence": "Writing complaints in red ink is sheer impertinence in Japanese business culture.",
+            "sentence_zh": "在日本商务文化中用红笔写投诉是极其无礼的。"
+          }
+        ]
+      }
+    ],
+    "teach": "impertinence就像闯进熊猫产房还开闪光灯📸！这个词原本形容'不守本分'，就像火锅局非要唱卡拉OK🎤（social impertinence）。搭配'show impertinence'比说rude更高级，比如对甲方爸爸说'你行你上啊'💢。地道说法叫'getting too big for your britches'（裤子都装不下你的膨胀）👖💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'姨母疼你死'→无礼行为让姨母气得胃疼",
+        "易混词：impudence更侧重厚颜无耻，impertinence强调不合时宜的冒犯"
+      ]
+    }
   }
 ]

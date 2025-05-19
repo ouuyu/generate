@@ -18393,5 +18393,283 @@
         "易混词：weekday（工作日）vs weekend（周末）"
       ]
     }
+  },
+  {
+    "word": "weekender",
+    "etymology": {
+      "breakdown": [
+        "weekend",
+        "er"
+      ],
+      "meaning_connection": "由weekend（周末）+后缀-er（表人）构成，字面意思是'周末行动的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "外出度周末的人",
+        "examples": [
+          {
+            "sentence": "The coastal town is full of weekenders from Shanghai carrying giant selfie sticks.",
+            "sentence_zh": "这个海滨小镇挤满了来自上海、扛着巨型自拍杆的周末游客。"
+          },
+          {
+            "sentence": "As a frequent weekender, she keeps a pre-packed suitcase with mosquito repellent and instant noodles.",
+            "sentence_zh": "作为资深周末客，她常备装有驱蚊液和泡面的行李箱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weekender bag",
+        "meaning": "周末旅行包",
+        "examples": [
+          {
+            "sentence": "His weekender bag contains 3 charging banks and a portable karaoke mic.",
+            "sentence_zh": "他的周末旅行包里装着3个充电宝和便携K歌话筒。"
+          },
+          {
+            "sentence": "The luxury brand's weekender bag costs more than a rural family's annual income.",
+            "sentence_zh": "这款奢侈品牌的周末旅行包价格超过农村家庭年收入。"
+          }
+        ]
+      }
+    ],
+    "teach": "weekender本质是都市候鸟🦜！就像北京白领周五晚集体'迁徙'到阿那亚⛱️，周日晚上又像灰姑娘的马车变回打工人👔。记住：真weekender会在行李箱塞满脏衣服带回家洗🧺，'假装度假'说play tourist🍹，周末堵车叫weekender traffic🚗💨。",
+    "recite": {
+      "tips": [
+        "谐音梗：'胃抗议的'→周末暴饮暴食的weekender",
+        "易混词对比：commuter（通勤者）vs weekender（周末客）",
+        "记忆tip：想象字母e像高铁座位💺，两个e=往返票"
+      ]
+    }
+  },
+  {
+    "word": "weekly",
+    "etymology": {
+      "breakdown": [
+        "week",
+        "ly"
+      ],
+      "meaning_connection": "week表示'周'，后缀-ly构成形容词或副词"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "周刊",
+        "examples": [
+          {
+            "sentence": "The New York Times Weekly is my favorite weekend read.",
+            "sentence_zh": "《纽约时报周刊》是我最爱的周末读物。"
+          },
+          {
+            "sentence": "She writes a column for a tech weekly in Shenzhen.",
+            "sentence_zh": "她为深圳某科技周刊撰写专栏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "周报",
+        "examples": [
+          {
+            "sentence": "Our CEO requires department weeklys every Monday morning.",
+            "sentence_zh": "我们CEO要求每周一早上提交部门周报。"
+          },
+          {
+            "sentence": "The school weekly announced the canteen's new spicy hotpot option.",
+            "sentence_zh": "校周报公告食堂新增麻辣火锅选项。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "每周的",
+        "examples": [
+          {
+            "sentence": "Our weekly team meeting always ends with hotpot.",
+            "sentence_zh": "我们的每周团队会议总是以火锅收尾。"
+          },
+          {
+            "sentence": "The weekly salary payment makes delivery riders feel secure.",
+            "sentence_zh": "每周发薪让外卖骑手感到安心。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "一周一次的",
+        "examples": [
+          {
+            "sentence": "Her weekly yoga class is more popular than bubble tea.",
+            "sentence_zh": "她的一周一次瑜伽课比奶茶还受欢迎。"
+          },
+          {
+            "sentence": "The weekly garbage collection happens every Thursday.",
+            "sentence_zh": "一周一次的垃圾回收在每周四进行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "周刊的",
+        "examples": [
+          {
+            "sentence": "The magazine's weekly edition sells out in minutes.",
+            "sentence_zh": "该杂志的周刊版几分钟就会售罄。"
+          },
+          {
+            "sentence": "His weekly column has 10 million followers online.",
+            "sentence_zh": "他的周刊专栏拥有千万网络粉丝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "每周",
+        "examples": [
+          {
+            "sentence": "We video-call our parents weekly from different time zones.",
+            "sentence_zh": "我们每周从不同时区给父母打视频电话。"
+          },
+          {
+            "sentence": "The app updates weekly with new sticker packs.",
+            "sentence_zh": "该应用每周更新表情包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "一周一次",
+        "examples": [
+          {
+            "sentence": "This medicine should be taken weekly for best results.",
+            "sentence_zh": "此药应一周服用一次效果最佳。"
+          },
+          {
+            "sentence": "They meet weekly at the same hotpot restaurant.",
+            "sentence_zh": "他们一周一次在同一家火锅店聚会。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weekly basis",
+        "meaning": "按周计算",
+        "examples": [
+          {
+            "sentence": "Rent is calculated on a weekly basis in this shared apartment.",
+            "sentence_zh": "这个合租公寓的租金按周计算。"
+          }
+        ]
+      }
+    ],
+    "teach": "weekly就像你的周末火锅局🍲！词根week+ly后缀就像火锅底料+配菜，能煮出名词（周刊）、形容词（每周的）、副词（每周）三种风味🌶️。说'周刊'用weekly像点鸳鸯锅，'周报'像清汤锅。地道说法：'每周必做'叫weekly ritual（比如奶茶日），'周更'叫weekly update📅。记住：-ly这个后缀就像火锅蘸料，能让单词变身！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂可乐'→周刊编辑部每周喂读者精神可乐",
+        "易混词：monthly（月刊）←→weekly（周刊）"
+      ]
+    }
+  },
+  {
+    "word": "weep",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'wēpan'，拟声词，模仿哭泣声"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "哭",
+        "examples": [
+          {
+            "sentence": "The movie's ending left the audience in silent weep.",
+            "sentence_zh": "电影结局让观众陷入无声的哭泣。"
+          },
+          {
+            "sentence": "Her sudden weep during the meeting confused everyone.",
+            "sentence_zh": "她在会议中突然哭泣让所有人不知所措。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "流泪",
+        "examples": [
+          {
+            "sentence": "Onions always make my eyes weep uncontrollably.",
+            "sentence_zh": "洋葱总是让我眼泪失控。"
+          },
+          {
+            "sentence": "The statue's eyes seem to weep in the moonlight.",
+            "sentence_zh": "月光下雕像的眼睛似乎在流泪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "哀悼",
+        "examples": [
+          {
+            "sentence": "The whole nation wept for the passing of Yuan Longping.",
+            "sentence_zh": "举国哀悼袁隆平院士的逝世。"
+          },
+          {
+            "sentence": "Ancient poets often wept over the ruins of past dynasties.",
+            "sentence_zh": "古代诗人常为前朝遗址哀悼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "悲叹",
+        "examples": [
+          {
+            "sentence": "She wept her misfortune to anyone who would listen.",
+            "sentence_zh": "她向每个愿意听的人悲叹自己的不幸。"
+          },
+          {
+            "sentence": "The old man wept the changes of his hometown.",
+            "sentence_zh": "老人悲叹家乡的变化。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weep over",
+        "meaning": "为...哭泣",
+        "examples": [
+          {
+            "sentence": "Don't weep over the spilt milk tea.",
+            "sentence_zh": "别为打翻的奶茶哭泣（覆水难收）。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "weep one's heart out",
+        "meaning": "痛哭",
+        "examples": [
+          {
+            "sentence": "After the breakup, she wept her heart out while eating spicy hotpot.",
+            "sentence_zh": "失恋后她一边吃麻辣火锅一边痛哭。"
+          }
+        ]
+      }
+    ],
+    "teach": "weep是哭戏专业户🎭：从黛玉葬花式哀悼(weep over)，到切洋葱流泪(eyes weep)，再到'西湖的水我的泪'式悲叹(weep one's heart out)💧。说'哭成泪人'用地道表达cry one's eyes out，'假装哭'是crocodile tears🐊。记住：小声啜泣用weep，嚎啕大哭用sob！",
+    "recite": {
+      "tips": [
+        "谐音梗：'卫婆'→卫婆(weep)整天以泪洗面",
+        "易混词对比：weep(安静流泪) vs sob(抽泣) vs wail(嚎哭)",
+        "记忆tip：w+ee(眼睛)+p(泼)→眼睛里泼水→流泪"
+      ]
+    }
   }
 ]
