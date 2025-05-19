@@ -17086,5 +17086,356 @@
         "记忆法：SAX=Sexy Air eXpert（性感空气专家）"
       ]
     }
+  },
+  {
+    "word": "say",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'secgan'，与德语'sagen'同源，表示发声行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "说",
+        "examples": [
+          {
+            "sentence": "She says 'ni hao' with perfect Beijing accent.",
+            "sentence_zh": "她用标准北京腔说'你好'。"
+          },
+          {
+            "sentence": "My grandma always says I look like a peeled egg.",
+            "sentence_zh": "奶奶总说我长得像剥壳的鸡蛋。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "讲",
+        "examples": [
+          {
+            "sentence": "The professor will say the history of Mahjong today.",
+            "sentence_zh": "教授今天要讲解麻将的历史。"
+          },
+          {
+            "sentence": "Let me say how we make dumplings step by step.",
+            "sentence_zh": "让我讲讲包饺子的具体步骤。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "念",
+        "examples": [
+          {
+            "sentence": "The monk says Buddhist scriptures every dawn.",
+            "sentence_zh": "僧人每天黎明念诵佛经。"
+          },
+          {
+            "sentence": "Children say multiplication tables like rap songs.",
+            "sentence_zh": "孩子们像唱rap一样念乘法表。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "说明",
+        "examples": [
+          {
+            "sentence": "The manual says to add water before microwaving.",
+            "sentence_zh": "说明书说明微波前要加水。"
+          },
+          {
+            "sentence": "The sign says no durians in subway.",
+            "sentence_zh": "标识说明地铁禁止榴莲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "指明",
+        "examples": [
+          {
+            "sentence": "The clock says it's time for afternoon tea.",
+            "sentence_zh": "时钟指明到了下午茶时间。"
+          },
+          {
+            "sentence": "The ballot says you must choose within 1 minute.",
+            "sentence_zh": "选票指明必须1分钟内完成选择。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "说",
+        "examples": [
+          {
+            "sentence": "Don't interrupt when elders are saying.",
+            "sentence_zh": "长辈说话时不要插嘴。"
+          },
+          {
+            "sentence": "He kept saying through mouthful of hotpot.",
+            "sentence_zh": "他满嘴火锅还在不停说。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "讲",
+        "examples": [
+          {
+            "sentence": "The tour guide will say about terracotta warriors soon.",
+            "sentence_zh": "导游马上要讲兵马俑的故事。"
+          },
+          {
+            "sentence": "Teachers should say slowly to beginners.",
+            "sentence_zh": "教师对初学者应当慢慢讲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "意见",
+        "examples": [
+          {
+            "sentence": "Everyone has a say in choosing hotpot soup base.",
+            "sentence_zh": "选择火锅锅底时每人都有意见权。"
+          },
+          {
+            "sentence": "The final say belongs to the project manager.",
+            "sentence_zh": "最终意见由项目经理决定。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发言权",
+        "examples": [
+          {
+            "sentence": "Junior staff have no say in company decisions.",
+            "sentence_zh": "基层员工在公司决策中没有发言权。"
+          },
+          {
+            "sentence": "The new policy gives students more say.",
+            "sentence_zh": "新政策给予学生更多发言权。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "that is to say",
+        "meaning": "也就是说",
+        "examples": [
+          {
+            "sentence": "We work 996, that is to say 9am to 9pm, 6 days/week.",
+            "sentence_zh": "我们工作996，也就是说早9晚9每周6天。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go without saying",
+        "meaning": "不言而喻",
+        "examples": [
+          {
+            "sentence": "It goes without saying that bubble tea is essential.",
+            "sentence_zh": "奶茶必不可少是不言而喻的。"
+          }
+        ]
+      }
+    ],
+    "teach": "say这个词就像复读机🦜！当动词时像微信语音条🎤（say hello），当名词时像公司会议里抢到的话筒🎙️（have a say）。要说'我插不上话'可以吐槽'I'm just a NPC'，'发表意见'叫weigh in就像火锅局里点菜🥢。记住：你的say决定你能涮毛肚还是只能吃青菜！",
+    "recite": {
+      "tips": [
+        "谐音梗：'sei'→东北人说'你sei啊'(你是谁)",
+        "易混词：tell(转述内容) speak(使用语言) say(具体说话)"
+      ]
+    }
+  },
+  {
+    "word": "saying",
+    "etymology": {
+      "breakdown": [
+        "say",
+        "ing"
+      ],
+      "meaning_connection": "动词say（说）加上-ing后缀，表示'说的内容'或'说的行为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "叙述",
+        "examples": [
+          {
+            "sentence": "His saying of the incident missed some key details.",
+            "sentence_zh": "他对事件的叙述遗漏了一些关键细节。"
+          },
+          {
+            "sentence": "The witness's saying was recorded by the police.",
+            "sentence_zh": "证人的叙述被警方记录了下来。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "话",
+        "examples": [
+          {
+            "sentence": "Her final saying to me was 'see you tomorrow'.",
+            "sentence_zh": "她对我说的最后一句话是'明天见'。"
+          },
+          {
+            "sentence": "These are the sayings of Chairman Mao.",
+            "sentence_zh": "这些都是毛主席的话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "说",
+        "examples": [
+          {
+            "sentence": "Saying is easier than doing.",
+            "sentence_zh": "说比做容易。"
+          },
+          {
+            "sentence": "Your saying doesn't match your actions.",
+            "sentence_zh": "你的说和做不一致。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "言论",
+        "examples": [
+          {
+            "sentence": "His controversial saying caused a storm on Weibo.",
+            "sentence_zh": "他具有争议性的言论在微博上引发风暴。"
+          },
+          {
+            "sentence": "The celebrity's saying about feminism went viral.",
+            "sentence_zh": "这位名人关于女性主义的言论迅速传播。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "as the saying goes",
+        "meaning": "俗话说",
+        "examples": [
+          {
+            "sentence": "As the saying goes, 'A journey of a thousand miles begins with a single step'.",
+            "sentence_zh": "俗话说'千里之行始于足下'。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "go without saying",
+        "meaning": "不言而喻",
+        "examples": [
+          {
+            "sentence": "It goes without saying that health is more important than wealth.",
+            "sentence_zh": "健康比财富更重要，这是不言而喻的。"
+          }
+        ]
+      }
+    ],
+    "teach": "saying就像语言里的方便面🍜：速食又百搭！古人云'一言既出驷马难追'📜，现代人说'朋友圈金句'📱（social media saying）。搭配'老话'用old saying（如old saying tells us...），'网络流行语'叫internet saying。要表达'说了等于没说'可以吐槽'That goes without saying...duh!'🙄。记住：好的saying能像表情包一样传遍全网💥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'晒鹰'→古人晒鹰时说的名言(saying)",
+        "易混词对比：saying(言论) vs. proverb(谚语)",
+        "记忆法：把saying想象成说(say)出来的东西(ing)"
+      ]
+    }
+  },
+  {
+    "word": "scab",
+    "etymology": {
+      "breakdown": [
+        "skab"
+      ],
+      "meaning_connection": "源自古北欧语'skabb'（痂），与德语'Schaβe'同源，本指皮肤损伤后的自然愈合层"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "痂",
+        "examples": [
+          {
+            "sentence": "Don't pick at the scab on your knee or it'll leave a meme-worthy scar.",
+            "sentence_zh": "别抠膝盖上的结痂，否则会留下值得发朋友圈的疤痕。"
+          },
+          {
+            "sentence": "The panda's bamboo cut formed a heart-shaped scab.",
+            "sentence_zh": "熊猫被竹子划伤后结了个爱心状的痂。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "恶棍",
+        "examples": [
+          {
+            "sentence": "That loan shark is a notorious scab in Chinatown.",
+            "sentence_zh": "那个放高利贷的是唐人街出了名的恶棍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "工贼",
+        "examples": [
+          {
+            "sentence": "Union members called him scab for crossing the picket line.",
+            "sentence_zh": "工会成员因他破坏罢工称其工贼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "结痂",
+        "examples": [
+          {
+            "sentence": "Her vaccination wound scabbed over in three days.",
+            "sentence_zh": "她的疫苗伤口三天就结痂了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "当工贼",
+        "examples": [
+          {
+            "sentence": "Workers who scab during strikes risk permanent isolation.",
+            "sentence_zh": "罢工期间当工贼可能遭永久孤立。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "scab over",
+        "meaning": "愈合结痂",
+        "examples": [
+          {
+            "sentence": "The cut will scab over faster if you stop scratching it.",
+            "sentence_zh": "如果你停止抓挠，伤口会更快结痂愈合。"
+          }
+        ]
+      }
+    ],
+    "teach": "scab是人体创可贴🩹也是职场背叛者💔！当'痂'讲时像火锅烫伤的勋章🌶️，当'工贼'用时堪比游戏里的挂机猪队友🎮。搭配'scab labor'指罢工顶替者，'scab picker'则是强迫症抠痂党🤦。地道说法：'He's lower than a scab'比工贼还下作！",
+    "recite": {
+      "tips": [
+        "谐音梗：'是盖布'→伤口上是盖布(scab)形成的痂",
+        "易混词：scarf（围巾）和scab别搞混，一个裹脖子一个长皮肤"
+      ]
+    }
   }
 ]

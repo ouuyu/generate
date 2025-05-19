@@ -16549,5 +16549,288 @@
         "联想：UN（联合国）+ demanding → 联合国不严格要求成员国"
       ]
     }
+  },
+  {
+    "word": "undemocratic",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "demo",
+        "crat",
+        "ic"
+      ],
+      "meaning_connection": "前缀un-表否定，词根demo=人民，crat=统治，-ic为形容词后缀→'不由人民统治的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "非民主的",
+        "examples": [
+          {
+            "sentence": "The undemocratic voting system sparked nationwide protests.",
+            "sentence_zh": "非民主的投票制度引发全国性抗议。"
+          },
+          {
+            "sentence": "Critics call the new policy an undemocratic move.",
+            "sentence_zh": "评论家称新政是非民主的行为。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不民主的",
+        "examples": [
+          {
+            "sentence": "Banning memes is considered undemocratic by netizens.",
+            "sentence_zh": "网民认为禁止表情包是不民主的。"
+          },
+          {
+            "sentence": "His undemocratic leadership style resembles a feudal lord.",
+            "sentence_zh": "他不民主的领导风格像封建领主。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "undemocratic practices",
+        "meaning": "不民主的做法",
+        "examples": [
+          {
+            "sentence": "Censoring university debates is one of the undemocratic practices.",
+            "sentence_zh": "审查大学辩论是不民主的做法之一。"
+          }
+        ]
+      }
+    ],
+    "teach": "undemocratic就像班级里独裁的班长🚨：前缀un-是'反对票'✖️，demo是'人民大会堂'🏛️，crat是'龙椅'👑。搭配'undemocratic regime'(不民主政权)像强制收手机的老师📵，'undemocratic decision'像宿舍断电不投票⚡。地道说法叫top-down（自上而下决策）🤴，像不像你妈突然没收你的压岁钱？💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺的魔窟 attic'→不民主的阁楼",
+        "易混词对比：autocratic(独裁的)更极端",
+        "记忆tip：拆解成UN(联合国)+demo(演示)+cratic→联合国演示不民主操作"
+      ]
+    }
+  },
+  {
+    "word": "undeniable",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "deny",
+        "able"
+      ],
+      "meaning_connection": "前缀un-表示'否定'，词根deny表示'否认'，后缀-able表示'能够'→字面意思'不能否认的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不可否认的",
+        "examples": [
+          {
+            "sentence": "The success of spicy hotpot is an undeniable cultural phenomenon in China.",
+            "sentence_zh": "麻辣火锅的成功是中国不可否认的文化现象。"
+          },
+          {
+            "sentence": "It's undeniable that bubble tea has conquered the world like a delicious tsunami.",
+            "sentence_zh": "不可否认，珍珠奶茶像美味的浪潮般征服了世界。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "undeniable fact",
+        "meaning": "不可否认的事实",
+        "examples": [
+          {
+            "sentence": "That pandas are the national treasures is an undeniable fact.",
+            "sentence_zh": "熊猫是国宝是不可否认的事实。"
+          }
+        ]
+      }
+    ],
+    "teach": "undeniable就像被当场抓获的偷吃现场🍗！想象你嘴上沾着辣椒油却说没吃火锅（deny），但牙缝里的香菜出卖了你（un+deny+able）。说'铁证如山'可以用hard to deny，'实锤了'叫undeniable proof。记住：当证据像粘在脸上的饭粒一样明显时，就用undeniable！🔍🍚💥",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺的奶嘴'→小宝宝咬住奶嘴不松口，这事实俺的奶嘴(undeniable)",
+        "易混词对比：unforgettable（难忘的）vs undeniable（不可否认的）",
+        "记忆tip：把'un-'想成摇头，'deny'想成否认的动作，'able'想成'可以'→连起来就是'摇头否认都不可以'"
+      ]
+    }
+  },
+  {
+    "word": "undeniably",
+    "etymology": {
+      "breakdown": [
+        "un",
+        "deny",
+        "able",
+        "ly"
+      ],
+      "meaning_connection": "前缀un-表否定，deny=否认，-able=可...的，-ly=副词后缀→'无法否认地'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "确凿无疑地",
+        "examples": [
+          {
+            "sentence": "The terracotta warriors are undeniably one of the greatest archaeological discoveries.",
+            "sentence_zh": "兵马俑确凿无疑是史上最伟大的考古发现之一。"
+          },
+          {
+            "sentence": "Hotpot is undeniably the best winter food in Chongqing.",
+            "sentence_zh": "火锅确凿无疑是重庆冬季最佳美食。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "不可否认地",
+        "examples": [
+          {
+            "sentence": "WeChat Pay has undeniably changed how Chinese people shop.",
+            "sentence_zh": "微信支付不可否认地改变了中国人的购物方式。"
+          },
+          {
+            "sentence": "The Great Wall is undeniably impressive when you see it in person.",
+            "sentence_zh": "亲眼见到长城时，它不可否认地令人震撼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "undeniably true",
+        "meaning": "千真万确",
+        "examples": [
+          {
+            "sentence": "It's undeniably true that pandas are the most diplomatic animals.",
+            "sentence_zh": "熊猫是最具外交范的动物，这一点千真万确。"
+          }
+        ]
+      }
+    ],
+    "teach": "undeniably就像法庭上的终极证据🔍：当你说'undeniably delicious'（不可否认的美味），相当于给食物盖了'真香'认证章🍗！这个词自带了'不接受反驳'的气场💥，比如'高铁undeniably比绿皮车快'就像说'1+1undeniably=2'一样无可争议。要表达绝对肯定时，甩出这个单词就赢麻了🎯！",
+    "recite": {
+      "tips": [
+        "拆解记忆：un（不）+deny（否认）+ably→'不能否认地'",
+        "对比记忆：undeniable（adj.）→undeniably（adv.）就像'sure'和'surely'的关系"
+      ]
+    }
+  },
+  {
+    "word": "under",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'under'，与德语'unter'同源，基本义始终为'下方位置关系'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "prep.",
+        "meaning": "在...之下（空间）",
+        "examples": [
+          {
+            "sentence": "The cat hid under the mahjong table during the earthquake drill.",
+            "sentence_zh": "地震演练时猫咪躲在麻将桌下。"
+          },
+          {
+            "sentence": "Ancient Chinese stored ice under layers of straw in summer.",
+            "sentence_zh": "古人夏季把冰块储存在稻草层下方。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "prep.",
+        "meaning": "低于（数值）",
+        "examples": [
+          {
+            "sentence": "This hotpot restaurant only hires chefs under 30 years old.",
+            "sentence_zh": "这家火锅店只雇佣30岁以下的厨师。"
+          },
+          {
+            "sentence": "Temperatures under -20℃ make smartphone batteries die instantly.",
+            "sentence_zh": "零下20度以下的气温会让手机电池瞬间没电。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "下面的",
+        "examples": [
+          {
+            "sentence": "The under layer of this mooncake contains salted egg yolk.",
+            "sentence_zh": "这款月饼的下层是咸蛋黄。"
+          },
+          {
+            "sentence": "Check the under side of the Taobao package for the tracking number.",
+            "sentence_zh": "查看淘宝包裹的下面找快递单号。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "从属的",
+        "examples": [
+          {
+            "sentence": "As an under manager, he secretly eats more dumplings than the boss.",
+            "sentence_zh": "作为副经理，他偷偷比老板多吃饺子。"
+          },
+          {
+            "sentence": "The under dragon in the parade kept stepping on his own costume.",
+            "sentence_zh": "舞龙队伍里的从属龙不断踩到自己的龙衣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "在下面",
+        "examples": [
+          {
+            "sentence": "The submarine went under and never resurfaced.",
+            "sentence_zh": "潜艇潜到下面再没浮上来。"
+          },
+          {
+            "sentence": "Dig under until you hit the time capsule from 1998.",
+            "sentence_zh": "往下挖直到碰到1998年的时光胶囊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "under control",
+        "meaning": "受控制",
+        "examples": [
+          {
+            "sentence": "The spicy hotpot situation was finally under control after 5 milk teas.",
+            "sentence_zh": "喝完5杯奶茶后，辣火锅局面终于得到控制。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "under the weather",
+        "meaning": "身体不适",
+        "examples": [
+          {
+            "sentence": "After eating 50 dumplings, I'm feeling under the weather.",
+            "sentence_zh": "吃完50个饺子后，我觉得不太舒服。"
+          }
+        ]
+      }
+    ],
+    "teach": "under就像火锅的鸳鸯锅分隔板🍲——既表示物理上下（毛肚在辣汤under分隔板），也象征等级高低（实习生under总经理）📉。说'压力山大'可以用under pressure，'暗中进行'叫under the table就像麻将桌底下踢脚提醒🦶。记住：under永远让你处在'第二层'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'安得'→安得广厦千万间，大庇天下寒士俱欢颜（杜甫式记忆）",
+        "易混词对比：under vs below → under有接触感（锅盖under锅），below纯方位（云below飞机）"
+      ]
+    }
   }
 ]

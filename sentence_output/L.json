@@ -17859,5 +17859,330 @@
         "易混词：leak（漏） vs. bleak（荒凉的）"
       ]
     }
+  },
+  {
+    "word": "leaky",
+    "etymology": {
+      "breakdown": [
+        "leak",
+        "y"
+      ],
+      "meaning_connection": "leak表示'泄漏'，-y为形容词后缀→像筛子一样的东西"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "有漏洞的",
+        "examples": [
+          {
+            "sentence": "The leaky faucet sounds like a hip-hop beat at 3am.",
+            "sentence_zh": "漏水的水龙头在凌晨三点像在打嘻哈节奏。"
+          },
+          {
+            "sentence": "Our leaky office roof turns into a waterfall every rainy season.",
+            "sentence_zh": "我们漏水的办公室屋顶每到雨季就变成水帘洞。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "易泄漏秘密的",
+        "examples": [
+          {
+            "sentence": "Never trust a leaky colleague who spills tea like a broken teapot.",
+            "sentence_zh": "千万别信任漏勺同事，他们泄密像破茶壶倒水。"
+          },
+          {
+            "sentence": "That influencer is as leaky as a gossip magazine.",
+            "sentence_zh": "那个网红嘴快得像八卦杂志。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "爱哭的",
+        "examples": [
+          {
+            "sentence": "My leaky baby cousin cries more often than TikTok notifications pop up.",
+            "sentence_zh": "我爱哭的小表弟哭得比抖音通知弹窗还频繁。"
+          },
+          {
+            "sentence": "After watching romance dramas, she becomes as leaky as a broken dam.",
+            "sentence_zh": "看完爱情剧后，她哭得像决堤的水坝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "leaky gut",
+        "meaning": "肠道渗透",
+        "examples": [
+          {
+            "sentence": "Eating too much spicy hotpot may lead to leaky gut syndrome.",
+            "sentence_zh": "吃太多麻辣火锅可能导致肠道渗透问题。"
+          }
+        ]
+      }
+    ],
+    "teach": "leaky是行走的筛子🕳️！物理漏洞像奶茶杯漏珍珠🧋（leaky cup），嘴不严实像微博热搜🔍（leaky mouth），爱哭鬼像被洋葱包围的厨师👩🍳（leaky eyes）。说'大嘴巴'用地道表达 loose lips，'哭包'叫 crybaby。记住：leaky的东西都需要补丁！",
+    "recite": {
+      "tips": [
+        "谐音梗：'篱笆隙'→篱笆有缝隙(leaky)会漏风",
+        "易混词：leaky（持续漏） vs. leaking（正在漏）",
+        "记忆tip：把y想象成张大的嘴或眼泪形状"
+      ]
+    }
+  },
+  {
+    "word": "lean",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'hleonian'表示'倾斜'，与德语'lehnen'同源，核心概念始终围绕'非垂直状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "瘦肉",
+        "examples": [
+          {
+            "sentence": "The nutritionist recommends eating 70% lean and 30% fat for muscle building.",
+            "sentence_zh": "营养师建议增肌饮食按瘦肉70%肥肉30%搭配。"
+          },
+          {
+            "sentence": "Hot pot lovers debate whether lean or marbled beef tastes better.",
+            "sentence_zh": "火锅爱好者争论纯瘦肉和雪花牛肉哪个更好吃。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "倾斜",
+        "examples": [
+          {
+            "sentence": "The Leaning Tower of Pisa has a 4-degree lean to the south.",
+            "sentence_zh": "比萨斜塔有4度向南倾斜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "瘦的",
+        "examples": [
+          {
+            "sentence": "After 100 days of keto diet, his face became surprisingly lean.",
+            "sentence_zh": "生酮饮食100天后，他的脸瘦得惊人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "贫乏的",
+        "examples": [
+          {
+            "sentence": "The lean soil in this area only supports cactus growth.",
+            "sentence_zh": "该地区贫瘠的土壤只适合仙人掌生长。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "倚靠",
+        "examples": [
+          {
+            "sentence": "She leans against the Great Wall while taking wefies.",
+            "sentence_zh": "她靠在长城上拍自拍。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "倾斜",
+        "examples": [
+          {
+            "sentence": "Bamboo shoots lean gracefully after spring rain.",
+            "sentence_zh": "春雨后的竹笋优雅地倾斜着。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使倾斜",
+        "examples": [
+          {
+            "sentence": "The worker leans the ladder at 75 degrees for safety.",
+            "sentence_zh": "工人将梯子倾斜75度确保安全。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "lean on",
+        "meaning": "依赖",
+        "examples": [
+          {
+            "sentence": "Many startups lean on Alibaba Cloud for data security.",
+            "sentence_zh": "许多初创企业依赖阿里云保障数据安全。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "lean towards",
+        "meaning": "倾向于",
+        "examples": [
+          {
+            "sentence": "Gen Z leans towards flexible work arrangements.",
+            "sentence_zh": "Z世代更倾向于弹性工作制。"
+          }
+        ]
+      }
+    ],
+    "teach": "lean是个变形金刚🤖！作名词时是健身房最爱的瘦肉🥩（lean pork），作形容词时像被房贷掏空的钱包💸（lean budget），作动词时像喝醉的比萨斜塔🍷（lean dangerously）。记住：物理倾斜用lean，精神依赖用lean on！地道说法'骨感美'叫lean and toned，'精兵简政'是lean management。",
+    "recite": {
+      "tips": [
+        "谐音梗：'拎'→拎着瘦肉身体倾斜",
+        "易混词：lean vs. slender（后者只形容修长体型）"
+      ]
+    }
+  },
+  {
+    "word": "leaning",
+    "etymology": {
+      "breakdown": [
+        "lean",
+        "ing"
+      ],
+      "meaning_connection": "动词lean表示'倾斜'，-ing后缀转化为名词，引申出'倾向'和'爱好'的抽象含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "倾斜",
+        "examples": [
+          {
+            "sentence": "The Leaning Tower of Pisa attracts millions of tourists taking perspective photos.",
+            "sentence_zh": "比萨斜塔吸引数百万游客拍摄视觉错位照片。"
+          },
+          {
+            "sentence": "The bamboo showed a 15-degree leaning after the typhoon.",
+            "sentence_zh": "台风后竹子呈现15度倾斜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "倾向",
+        "examples": [
+          {
+            "sentence": "His political leanings became clear from his Weibo reposts.",
+            "sentence_zh": "从他的微博转发能看出政治倾向。"
+          },
+          {
+            "sentence": "The survey revealed a strong leaning towards online shopping among seniors.",
+            "sentence_zh": "调查显示老年人有强烈的网购倾向。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "爱好",
+        "examples": [
+          {
+            "sentence": "Her culinary leanings began with watching MasterChef at age 8.",
+            "sentence_zh": "她对烹饪的爱好始于8岁看《厨神当道》。"
+          },
+          {
+            "sentence": "The programmer's unexpected leaning for Peking opera surprised his colleagues.",
+            "sentence_zh": "这个程序员对京剧的爱好让同事大跌眼镜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "have a leaning towards",
+        "meaning": "偏爱",
+        "examples": [
+          {
+            "sentence": "Gen Z has a strong leaning towards short video platforms.",
+            "sentence_zh": "Z世代强烈偏爱短视频平台。"
+          }
+        ]
+      }
+    ],
+    "teach": "leaning就像歪头杀🤔：物理倾斜是比萨斜塔🗼，思想倾斜是粉圈站队🎭，爱好倾斜则是深夜刷美食视频🍜。要说'特别爱好'可以用soft spot（软肋→偏爱点），'明显倾向'说pronounced leaning就像奶茶店糖度刻度⚖️。记住：人生就像leaning tower，有点歪才有趣！",
+    "recite": {
+      "tips": [
+        "谐音梗：'拎宁'→拎着东西身体宁(leaning)歪了",
+        "易混词对比：tendency更正式，leaning更口语化"
+      ]
+    }
+  },
+  {
+    "word": "leanness",
+    "etymology": {
+      "breakdown": [
+        "lean",
+        "ness"
+      ],
+      "meaning_connection": "词根lean意为'倾斜'或'瘦的'，后缀-ness表示状态→原指倾斜的不稳定状态，引申为'贫瘠'和'瘦削'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "贫瘠",
+        "examples": [
+          {
+            "sentence": "The leanness of Gobi Desert soil makes farming nearly impossible.",
+            "sentence_zh": "戈壁土壤的贫瘠使农耕几乎不可能。"
+          },
+          {
+            "sentence": "Modern agriculture technologies can transform leanness into fertility.",
+            "sentence_zh": "现代农业科技能将贫瘠转化为肥沃。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无脂肪",
+        "examples": [
+          {
+            "sentence": "Bodybuilders pursue extreme leanness before competitions.",
+            "sentence_zh": "健美选手在赛前追求极致无脂肪状态。"
+          },
+          {
+            "sentence": "The leanness of Tibetan antelope helps it survive high-altitude cold.",
+            "sentence_zh": "藏羚羊的无脂肪特性帮助它在高寒环境生存。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "贫弱",
+        "examples": [
+          {
+            "sentence": "The leanness of hospital supplies became critical during the pandemic.",
+            "sentence_zh": "疫情期间医疗物资的贫弱状况变得严峻。"
+          },
+          {
+            "sentence": "Economic leanness often forces startups to innovate.",
+            "sentence_zh": "经济贫弱常迫使初创企业创新。"
+          }
+        ]
+      }
+    ],
+    "teach": "leanness是'瘦骨仙'三合一状态🍖➡️🌵➡️💸：1) 形容土地像撒哈拉沙漠般贫瘠🏜️ 2) 指肉体像健身网红般零脂肪💪 3) 描述资源像月光族钱包般贫弱👛。搭配'leanness of wallet'（钱包干瘪）比直接说poor更幽默，说'皮包骨'可用skin-and-bone leanness🐶。记住：leanness= lean（倾斜）+ ness（状态），就像歪倒的瘦骆驼🐫！",
+    "recite": {
+      "tips": [
+        "谐音梗：'离你死'→贫瘠到寸草不生",
+        "易混词：lean（瘦的）vs. leanness（瘦的状态）",
+        "联想：NBA球员休赛期leanness→赛季期muscular💪"
+      ]
+    }
   }
 ]

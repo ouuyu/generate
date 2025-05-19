@@ -17782,5 +17782,317 @@
         "对比记忆：edge（边缘）少个w就没了'插入'的动作"
       ]
     }
+  },
+  {
+    "word": "wedlock",
+    "etymology": {
+      "breakdown": [
+        "wed",
+        "lock"
+      ],
+      "meaning_connection": "古英语wed=誓约，lock=锁定→用誓言锁定的关系"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "结婚生活",
+        "examples": [
+          {
+            "sentence": "Their wedlock began with a pandas-themed wedding in Chengdu.",
+            "sentence_zh": "他们的婚姻生活始于成都的熊猫主题婚礼。"
+          },
+          {
+            "sentence": "The influencer documents her chaotic wedlock with 10 million followers.",
+            "sentence_zh": "这位网红向千万粉丝记录她鸡飞狗跳的婚姻生活。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "out of wedlock",
+        "meaning": "非婚生的",
+        "examples": [
+          {
+            "sentence": "The drama features a child born out of wedlock in 1930s Shanghai.",
+            "sentence_zh": "这部电视剧讲述1930年代上海一个非婚生子女的故事。"
+          },
+          {
+            "sentence": "Tea houses were buzzing with gossip about births out of wedlock.",
+            "sentence_zh": "茶馆里满是关于非婚生子的闲言碎语。"
+          }
+        ]
+      }
+    ],
+    "teach": "wedlock其实是爱情锁🔒的祖先！中世纪新婚夫妇要当众系同心结（wedlock的字面意思），就像现在情侣挂连心锁🗝️。说'奉子成婚'叫shotgun wedding（霰弹枪婚礼💒），'七年之痒'是the seven-year itch🐛。记住：婚姻就像火锅——开始沸腾翻滚，最后熬成老汤底🥘！",
+    "recite": {
+      "tips": [
+        "谐音梗：'外的牢'→婚姻像甜蜜的牢笼",
+        "易混词对比：wedding（婚礼仪式）vs wedlock（婚姻状态）",
+        "记忆tip：wed+lock=用戒指💍锁住对方"
+      ]
+    }
+  },
+  {
+    "word": "wee",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "来自中古英语'wee'（少量）, 可能与'weight'同源，表示'小重量'的概念"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "很小的",
+        "examples": [
+          {
+            "sentence": "The panda cub was just a wee ball of fur when born.",
+            "sentence_zh": "熊猫幼崽出生时只是个小毛球。"
+          },
+          {
+            "sentence": "She added a wee bit of chili oil to the noodles.",
+            "sentence_zh": "她往面条里加了微量的辣椒油。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一点点",
+        "examples": [
+          {
+            "sentence": "Could I have a wee of your mooncake?",
+            "sentence_zh": "我能尝一点点你的月饼吗？"
+          },
+          {
+            "sentence": "There's not a wee of truth in that rumor.",
+            "sentence_zh": "那个谣言没有丝毫真实性。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "a wee bit",
+        "meaning": "稍微",
+        "examples": [
+          {
+            "sentence": "The soup needs a wee bit more salt.",
+            "sentence_zh": "这汤需要再加一点点盐。"
+          }
+        ]
+      },
+      {
+        "type": "idiom",
+        "form": "the wee hours",
+        "meaning": "凌晨时分",
+        "examples": [
+          {
+            "sentence": "They finished the hotpot in the wee hours.",
+            "sentence_zh": "他们吃火锅吃到凌晨。"
+          }
+        ]
+      }
+    ],
+    "teach": "wee是'微小届'的扛把子🎤！苏格兰人用它就像四川人用'咪咪'（比如'咪咪辣'🌶️）。说'稍微'不用'slightly'，用'a wee bit'才够萌，比如'奶茶糖度a wee bit less'🍼。熬夜到凌晨叫'the wee hours'，就像熊猫眼🐼那么小（但痛苦无限大）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微'→直接对应中文'微'",
+        "易混词：tiny（客观小） vs wee（带感情色彩的小可爱）",
+        "记忆法：想象苏格兰大叔用拇指食指比划'一丢丢'🤏"
+      ]
+    }
+  },
+  {
+    "word": "weed",
+    "etymology": {
+      "breakdown": [
+        "weod"
+      ],
+      "meaning_connection": "源自古英语'weod'，泛指草本植物，后特指无用杂草"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "杂草",
+        "examples": [
+          {
+            "sentence": "The dandelions in my yard are considered weeds by my neighbor.",
+            "sentence_zh": "我院子里的蒲公英被邻居视为杂草。"
+          },
+          {
+            "sentence": "Ancient farmers used moonlight to identify weeds in rice fields.",
+            "sentence_zh": "古代农民借助月光识别稻田里的杂草。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "野草",
+        "examples": [
+          {
+            "sentence": "These wild weeds actually make perfect salad ingredients.",
+            "sentence_zh": "这些野生杂草其实是绝佳的沙拉食材。"
+          },
+          {
+            "sentence": "The abandoned lot was overtaken by shoulder-high weeds.",
+            "sentence_zh": "废弃空地被齐肩高的野草占据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "除草",
+        "examples": [
+          {
+            "sentence": "Grandma weeds in her garden every morning with a bamboo hat.",
+            "sentence_zh": "奶奶每天戴着竹斗笠在菜园除草。"
+          },
+          {
+            "sentence": "Robotic lawnmowers can now autonomously weed your yard.",
+            "sentence_zh": "机器人割草机现已能自动为庭院除草。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "除...的草",
+        "examples": [
+          {
+            "sentence": "He weeded the vegetable patch while listening to Peking opera.",
+            "sentence_zh": "他边听京剧边给菜畦除草。"
+          },
+          {
+            "sentence": "The AI system can weed specific invasive plants without harming crops.",
+            "sentence_zh": "该AI系统能精准清除特定入侵植物而不伤庄稼。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "剔除",
+        "examples": [
+          {
+            "sentence": "The editor weeded out 80% of my emojis from the thesis draft.",
+            "sentence_zh": "编辑从论文稿中剔除了我80%的表情符号。"
+          },
+          {
+            "sentence": "We need to weed the outdated regulations from our employee handbook.",
+            "sentence_zh": "需要从员工手册中剔除过时的规定。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "weed out",
+        "meaning": "淘汰",
+        "examples": [
+          {
+            "sentence": "The math test weeded out 60% of the programming applicants.",
+            "sentence_zh": "数学测试淘汰了60%的程序员应聘者。"
+          },
+          {
+            "sentence": "Ancient imperial exams were designed to weed out weak candidates.",
+            "sentence_zh": "古代科举考试旨在筛选淘汰能力不足者。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "grow like a weed",
+        "meaning": "疯长",
+        "examples": [
+          {
+            "sentence": "My little cousin grows like a weed - 10cm taller in three months!",
+            "sentence_zh": "我表弟像野草般疯长——三个月蹿高10厘米！"
+          },
+          {
+            "sentence": "Starbucks stores grew like weeds in Beijing during 2008 Olympics.",
+            "sentence_zh": "2008年奥运会期间星巴克在北京如野草蔓延。"
+          }
+        ]
+      }
+    ],
+    "teach": "weed这词就像园丁的瑞士军刀🌿：当名词是'抢营养的坏邻居'(weeds steal nutrients)，当动词是'植物界的剪刀手爱德华'✂️(weed the garden)。说'飞速生长'用grow like a weed比'雨后春笋'更地道，'大浪淘沙'可以幽默地说weed out the weaklings。记住：人生如花园，总有些weed要处理！",
+    "recite": {
+      "tips": [
+        "谐音梗：'威的'→威猛的(weed)野草",
+        "易混词：weed(杂草) vs. seed(种子)→前者多余后者必要",
+        "记忆tip：把字母W看成杂草形状🌱"
+      ]
+    }
+  },
+  {
+    "word": "weeding",
+    "etymology": {
+      "breakdown": [
+        "weed",
+        "ing"
+      ],
+      "meaning_connection": "weed=杂草，-ing表动作过程→原指清除杂草的动作，后引申为淘汰旧物的行为"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "除草",
+        "examples": [
+          {
+            "sentence": "The robot developed by DJI can automate rice field weeding.",
+            "sentence_zh": "大疆研发的机器人能自动完成稻田除草。"
+          },
+          {
+            "sentence": "Weeding under the scorching sun makes me envy office workers.",
+            "sentence_zh": "烈日下除草时，我特别羡慕坐办公室的人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "汰旧更新",
+        "examples": [
+          {
+            "sentence": "The library's annual weeding removed books older than Xi Jinping.",
+            "sentence_zh": "图书馆年度汰旧时清除了比习近平年纪还大的书籍。"
+          },
+          {
+            "sentence": "App store weeding eliminates zombie applications monthly.",
+            "sentence_zh": "应用商店每月汰旧更新都会清理僵尸应用。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chemical weeding",
+        "meaning": "化学除草",
+        "examples": [
+          {
+            "sentence": "Organic farms prohibit chemical weeding but allow duck weeding.",
+            "sentence_zh": "有机农场禁止化学除草，但允许鸭群除草。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "collection weeding",
+        "meaning": "馆藏剔旧",
+        "examples": [
+          {
+            "sentence": "Harvard Library's weeding criteria would shock Chinese bibliophiles.",
+            "sentence_zh": "哈佛图书馆的剔旧标准会让中国藏书家震惊。"
+          }
+        ]
+      }
+    ],
+    "teach": "weeding是园丁和图书管理员的共同语言🌱📚！古代除草用青铜锄头⚔️（现在可能用大疆无人机），而图书馆'除草'时，那些比《新华字典》还老的图书就该'毕业'了🎓。说'淘汰旧物'可以叫clear the deadwood（清枯木），'选择性保留'叫cherry-picking🍒。记住：无论是杂草还是过时的知识，都需要定期weeding！",
+    "recite": {
+      "tips": [
+        "谐音梗：'威丁'→威猛园丁(weeding)在除草",
+        "易混词对比：wedding（婚礼）vs weeding（除草）→新娘说'我要除草(weeding)'比'我要婚礼(wedding)'更可怕"
+      ]
+    }
   }
 ]

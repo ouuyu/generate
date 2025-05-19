@@ -17059,5 +17059,303 @@
         "记忆tip：把miss（错过）+ion（离子）想象成漏掉的电子"
       ]
     }
+  },
+  {
+    "word": "omit",
+    "etymology": {
+      "breakdown": [
+        "ob",
+        "mit"
+      ],
+      "meaning_connection": "前缀ob-表示'反向'，词根mit表示'发送'→原指'故意不发送出去'，引申出忽略/删除的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "省略",
+        "examples": [
+          {
+            "sentence": "The editor omitted three paragraphs to meet word count.",
+            "sentence_zh": "编辑为满足字数要求省略了三段文字。"
+          },
+          {
+            "sentence": "This simplified recipe omits hard-to-find ingredients.",
+            "sentence_zh": "这个简化版食谱省略了难买的食材。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "删除",
+        "examples": [
+          {
+            "sentence": "She angrily omitted his contact from her phone.",
+            "sentence_zh": "她生气地从手机里删除了他的联系方式。"
+          },
+          {
+            "sentence": "The censored version omits all political references.",
+            "sentence_zh": "审查版删除了所有政治相关表述。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "疏忽",
+        "examples": [
+          {
+            "sentence": "The accountant omitted to record a transaction.",
+            "sentence_zh": "会计疏忽了记录一笔交易。"
+          },
+          {
+            "sentence": "I omitted locking the door in my hurry.",
+            "sentence_zh": "我匆忙间疏忽了锁门。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "遗漏",
+        "examples": [
+          {
+            "sentence": "The report omitted key safety data.",
+            "sentence_zh": "报告遗漏了关键安全数据。"
+          },
+          {
+            "sentence": "They omitted my name from the credits by mistake.",
+            "sentence_zh": "他们不小心在致谢名单中遗漏了我的名字。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "omit to do",
+        "meaning": "忘记做",
+        "examples": [
+          {
+            "sentence": "Never omit to check your blind spot when driving.",
+            "sentence_zh": "开车时千万别忘记检查盲区。"
+          }
+        ]
+      }
+    ],
+    "teach": "omit就像地铁逃票🚇！本来是应该'发送(mit)'出去的，你非要'反向(ob)'操作👉。说'故意省略'就像跳过广告会员💎（omit ads），'不小心遗漏'像忘回老板微信💬（omit replying）。搭配'omit the details'比'不说细节'更地道，'重大遗漏'叫glaring omission就像考试漏答题✏️。记住：被omit的东西就像被踢出群聊🙅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦迷途'→哦迷途(omit)时漏看路标",
+        "易混对比：emit（发射）是往外送，omit是往回扣",
+        "记忆法：字母O像被删除的圆圈⭕"
+      ]
+    }
+  },
+  {
+    "word": "omitted",
+    "etymology": {
+      "breakdown": [
+        "omit",
+        "ted"
+      ],
+      "meaning_connection": "词根omit=省略，-ed表形容词→'被省略的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "省略了的",
+        "examples": [
+          {
+            "sentence": "The omitted chapter contained spicy palace drama.",
+            "sentence_zh": "被省略的章节包含劲爆的宫斗剧情。"
+          },
+          {
+            "sentence": "Omitted details in the contract caused a watermelon-sized problem.",
+            "sentence_zh": "合同中省略的细节引发了西瓜般大的问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "省去的",
+        "examples": [
+          {
+            "sentence": "The omitted salt made the hotpot taste like bathwater.",
+            "sentence_zh": "省去的盐让火锅吃起来像洗脚水。"
+          },
+          {
+            "sentence": "With omitted steps, the IKEA cabinet became abstract art.",
+            "sentence_zh": "省去安装步骤后，宜家柜子变成了抽象艺术品。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deliberately omitted",
+        "meaning": "故意省略",
+        "examples": [
+          {
+            "sentence": "The CEO's salary was deliberately omitted from the report.",
+            "sentence_zh": "CEO的薪资被故意从报告中省略。"
+          }
+        ]
+      }
+    ],
+    "teach": "omitted是'省流版'📜的终极表达！就像电视剧删减片段（deliberately omitted scenes）或奶茶去糖（omitted sugar）🍵。要知道'重要信息被省略'可以说left out in the cold❄️，'跳过步骤'叫cut corners✂️。记住：被omitted的东西可能让你哭得像没加料的方便面😭！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦密的'→哦~这是秘密(omitted)内容",
+        "易混词对比：emit（发射）vs omitted（省略）→发射是往外扔，省略是往里藏"
+      ]
+    }
+  },
+  {
+    "word": "omnibus",
+    "etymology": {
+      "breakdown": [
+        "omni",
+        "bus"
+      ],
+      "meaning_connection": "词根omni=全部，bus=公共马车→原指'所有人的交通工具'，后衍生出'综合'含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "公共汽车",
+        "examples": [
+          {
+            "sentence": "The red omnibus in London is more iconic than the Queen's corgis.",
+            "sentence_zh": "伦敦的红色公共汽车比女王的柯基犬更具标志性。"
+          },
+          {
+            "sentence": "Victorian omnibus conductors wore hats taller than champagne bottles.",
+            "sentence_zh": "维多利亚时期的公共马车售票员戴着比香槟瓶还高的帽子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "精选集",
+        "examples": [
+          {
+            "sentence": "This Stephen Chow omnibus contains all his meme-worthy movie scenes.",
+            "sentence_zh": "这部周星驰精选集包含他所有适合做表情包的电影片段。"
+          },
+          {
+            "sentence": "The Miyazaki omnibus sold out faster than hot pot tickets.",
+            "sentence_zh": "宫崎骏作品汇编卖得比火锅券还快。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "综合性的",
+        "examples": [
+          {
+            "sentence": "The omnibus bill included policies from UFO research to pickle subsidies.",
+            "sentence_zh": "这项综合法案包含了从UFO研究到泡菜补贴的各项政策。"
+          },
+          {
+            "sentence": "Her omnibus bag could fit a microwave and three watermelons.",
+            "sentence_zh": "她多功能包的容量能塞下微波炉加三个西瓜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "omnibus edition",
+        "meaning": "合集版本",
+        "examples": [
+          {
+            "sentence": "The omnibus edition of Three-Body Problem is thicker than a mahjong table.",
+            "sentence_zh": "《三体》合集版比麻将桌还厚。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "omnibus survey",
+        "meaning": "综合调查",
+        "examples": [
+          {
+            "sentence": "The omnibus survey covered topics from AI ethics to spicy hot pot tolerance.",
+            "sentence_zh": "这项综合调查涵盖从AI伦理到麻辣火锅耐受度等话题。"
+          }
+        ]
+      }
+    ],
+    "teach": "omnibus是单词界的乐高积木🧩！作为'公共汽车'时像移动的沙丁鱼罐头🚌（catch the omnibus）；当'精选集'用时堪比B站年度混剪🎬（K-pop omnibus）；作形容词时像瑞士军刀🔧（omnibus tool）。最绝的是：古罗马omnibus字面意思是'给所有人'，现在地铁广播'本次列车开往全宇宙'就是现代版omnibus announcement！",
+    "recite": {
+      "tips": [
+        "谐音梗：'欧米巴士'→豪华欧米茄(Ω)巴士",
+        "易混词：vehicle泛指车辆，omnibus特指大型公共交通工具",
+        "记忆术：omni(全)+bus(巴士)=什么都能装的万能巴士"
+      ]
+    }
+  },
+  {
+    "word": "omnipotence",
+    "etymology": {
+      "breakdown": [
+        "omni",
+        "pot",
+        "ence"
+      ],
+      "meaning_connection": "前缀omni-表示'全'，词根pot表示'力量'，后缀-ence表状态→'拥有全部力量的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "全能",
+        "examples": [
+          {
+            "sentence": "The smartphone gives users an illusion of digital omnipotence.",
+            "sentence_zh": "智能手机让用户产生数字全能的错觉。"
+          },
+          {
+            "sentence": "No country has omnipotence in global affairs, not even the US.",
+            "sentence_zh": "没有国家能在全球事务中全能，包括美国。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "无限力量",
+        "examples": [
+          {
+            "sentence": "Superman's omnipotence is always limited by kryptonite.",
+            "sentence_zh": "超人的无限力量总被氪石限制。"
+          },
+          {
+            "sentence": "Ancient emperors dreamed of omnipotence but often died from mercury poisoning.",
+            "sentence_zh": "古代帝王追求无限力量，却常死于丹药汞中毒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "全能之神",
+        "examples": [
+          {
+            "sentence": "The concept of omnipotence appears in over 86% of human religions.",
+            "sentence_zh": "全能之神的概念存在于86%的人类宗教中。"
+          },
+          {
+            "sentence": "Marvel's One-Above-All is literally the omnipotence in comics.",
+            "sentence_zh": "漫威的OAA就是漫画界字面意义上的全能之神。"
+          }
+        ]
+      }
+    ],
+    "teach": "omnipotence是'欧米茄级能力'💪：词根omni-像WIFI信号📶全覆盖，pot-像充电宝🔋。DC宇宙说'God is omnipotent'时总被打脸🤡（比如被蝙蝠侠暴揍）。说'无所不能'可用almighty（更口语），装逼时用omniscient+omnipotent组合拳🥊。记住：自称omnipotent的，不是骗子就是灭霸！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哦妈你别死'→哦妈有omnipotence怎么会死",
+        "易混词：omnivorous（杂食的） vs omnipotence",
+        "记忆tip：拆解为OMNI（全）+POTENCY（效力）"
+      ]
+    }
   }
 ]

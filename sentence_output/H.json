@@ -16867,5 +16867,335 @@
         "记忆tip：想象用鼻孔看人的法国贵族"
       ]
     }
+  },
+  {
+    "word": "have",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "古英语habban，与德语haben同源，印欧语词根*kehp-（抓住）"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "有（所有权）",
+        "examples": [
+          {
+            "sentence": "I have three cats named Dumpling, Noodle and Hotpot.",
+            "sentence_zh": "我有三只猫分别叫饺子、面条和火锅。"
+          },
+          {
+            "sentence": "Do you have the new Mi Band with Pokémon battle function?",
+            "sentence_zh": "你有带宝可梦对战功能的小米手环吗？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "怀有（情感/想法）",
+        "examples": [
+          {
+            "sentence": "She has serious doubts about this blind date arranged by her mom.",
+            "sentence_zh": "她对妈妈安排的这次相亲怀有严重疑虑。"
+          },
+          {
+            "sentence": "WeChat users have great enthusiasm for red envelope games.",
+            "sentence_zh": "微信用户对抢红包游戏怀有极大热情。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "拿/吃（具体动作）",
+        "examples": [
+          {
+            "sentence": "Have some stinky tofu, it smells like your ex's promises but tastes better!",
+            "sentence_zh": "吃点臭豆腐，闻起来像前任的承诺但味道好多了！"
+          },
+          {
+            "sentence": "Let me have your Didi ride-sharing code.",
+            "sentence_zh": "让我扫下你的滴滴拼车码。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "进行（活动）",
+        "examples": [
+          {
+            "sentence": "We're having a heated debate about whether pineapple belongs on pizza.",
+            "sentence_zh": "我们正在激烈争论菠萝该不该放在披萨上。"
+          },
+          {
+            "sentence": "Chinese families will have reunion dinners with 10+ dishes.",
+            "sentence_zh": "中国家庭会进行十道菜以上的团圆饭。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "aux.",
+        "meaning": "已经（构成完成时）",
+        "examples": [
+          {
+            "sentence": "I've had enough of your 60-second voice messages!",
+            "sentence_zh": "我已经受够你的60秒语音方阵了！"
+          },
+          {
+            "sentence": "The bubble tea shop has run out of tapioca pearls again.",
+            "sentence_zh": "奶茶店的珍珠已经又卖完了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "have to",
+        "meaning": "不得不",
+        "examples": [
+          {
+            "sentence": "You have to try this Sichuan hotpot with brain flowers!",
+            "sentence_zh": "你不得不试试这个涮脑花的四川火锅！"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "have got",
+        "meaning": "拥有（口语）",
+        "examples": [
+          {
+            "sentence": "I've got 200 unread messages in my work WeChat group.",
+            "sentence_zh": "我工作微信群有200条未读消息。"
+          }
+        ]
+      }
+    ],
+    "teach": "have是英语界的'有'emoji🤲！从拥有奶茶自由（have money）到'心里有苦'（have sorrows），再到'干饭人'的have lunch🍚。最狠的是have a baby👶——这个have要还18年房贷！记住：说'我有了'用I'm pregnant，说'I have a problem'可能是要借钱💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'海雾'→海雾中啥都have（有）又好像没有",
+        "易混词对比：have vs. own（法律所有权）",
+        "记忆tip：所有have都像往购物车🛒里装东西"
+      ]
+    }
+  },
+  {
+    "word": "haven",
+    "etymology": {
+      "breakdown": [
+        "haf",
+        "en"
+      ],
+      "meaning_connection": "源自古英语'hæfen'，与'海港'相关，后引申为安全场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "港口",
+        "examples": [
+          {
+            "sentence": "The pirate ship sneaked into a secret haven at midnight.",
+            "sentence_zh": "海盗船半夜溜进了秘密港口。"
+          },
+          {
+            "sentence": "Qingdao's beer festival turns the city into a haven for hop lovers.",
+            "sentence_zh": "青岛啤酒节让整座城市变成啤酒爱好者的港湾。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "避难所",
+        "examples": [
+          {
+            "sentence": "The panda base in Chengdu is a haven for bamboo addicts.",
+            "sentence_zh": "成都熊猫基地是竹子上瘾者的避难所。"
+          },
+          {
+            "sentence": "Her blanket fort became a haven during final exams.",
+            "sentence_zh": "她的毯子堡垒成了期末考试期间的避难所。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "庇护",
+        "examples": [
+          {
+            "sentence": "The temple havened refugees during the flood.",
+            "sentence_zh": "寺庙在洪水期间庇护了难民。"
+          },
+          {
+            "sentence": "Grandma's kitchen always havens stray cats.",
+            "sentence_zh": "奶奶的厨房总是收留流浪猫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "safe haven",
+        "meaning": "安全港",
+        "examples": [
+          {
+            "sentence": "Bitcoin investors seek safe haven during stock market crashes.",
+            "sentence_zh": "比特币投资者在股市暴跌时寻找安全港。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tax haven",
+        "meaning": "避税天堂",
+        "examples": [
+          {
+            "sentence": "Some celebrities register companies in tax havens.",
+            "sentence_zh": "某些明星在避税天堂注册公司。"
+          }
+        ]
+      }
+    ],
+    "teach": "haven是'嗨完'后的归宿🍻！最初指渔船躲风浪的港湾⚓，现在奶茶店可以是社恐的haven🧋。'避税天堂'叫tax haven就像游戏里的存档点🎮，而'safe haven'就是现实版防空洞🛡️。记住：当你被甲方虐到崩溃时，需要个haven装死🦥（地道表达：I need a mental haven）。",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑吻'→黑暗中的吻需要haven",
+        "对比记忆：heaven是天堂，haven是人间的避风港",
+        "联想：HA+VEN→'哈'一笑+'闻'到香味→令人安心的场所"
+      ]
+    }
+  },
+  {
+    "word": "haversack",
+    "etymology": {
+      "breakdown": [
+        "haver",
+        "sack"
+      ],
+      "meaning_connection": "haver=燕麦（德语Habern），sack=袋→原指装燕麦的粗布袋，后被军队用作行军背包"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "粗帆布背包",
+        "examples": [
+          {
+            "sentence": "The scout stuffed his haversack with instant noodles and spicy strips.",
+            "sentence_zh": "童子军往帆布包里塞满方便面和辣条。"
+          },
+          {
+            "sentence": "Her vintage haversack smells like her grandmother's mothball-filled closet.",
+            "sentence_zh": "她的复古帆布包闻起来像奶奶装满樟脑丸的衣柜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "military haversack",
+        "meaning": "军用帆布包",
+        "examples": [
+          {
+            "sentence": "The PLA's haversack design was inspired by 1930s German models.",
+            "sentence_zh": "解放军军用背包的设计灵感源自1930年代德军款式。"
+          }
+        ]
+      }
+    ],
+    "teach": "haversack是'土味LV'🎒！拿破仑士兵背着它装燕麦行军（haver=燕麦🌾），现代驴友用它装自热火锅🍲。说'破书包'用ratty old haversack，'塞到爆炸'叫stuffed like a Thanksgiving haversack。记住：这包装过军粮也装过辣条，是穿越时空的干饭神器！",
+    "recite": {
+      "tips": [
+        "谐音梗：'还我塞'→还我塞满的背包",
+        "易混词对比：backpack（现代双肩包）更轻便，haversack（单肩帆布包）更复古"
+      ]
+    }
+  },
+  {
+    "word": "havoc",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'havot'（劫掠），可能源自劫掠时的呐喊声，后演变为大规模破坏的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大破坏",
+        "examples": [
+          {
+            "sentence": "The typhoon caused widespread havoc in coastal villages.",
+            "sentence_zh": "台风给沿海村落带来了大面积破坏。"
+          },
+          {
+            "sentence": "The toddler created havoc by emptying all the kitchen cabinets.",
+            "sentence_zh": "那个幼儿把厨房柜子清空，造成一片狼藉。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "蹂躏",
+        "examples": [
+          {
+            "sentence": "The invaders left a trail of havoc across the countryside.",
+            "sentence_zh": "入侵者在乡间留下了蹂躏的痕迹。"
+          },
+          {
+            "sentence": "Locust swarms brought havoc to the wheat fields.",
+            "sentence_zh": "蝗虫群给麦田带来了蹂躏。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "严重破坏",
+        "examples": [
+          {
+            "sentence": "The earthquake havoced the ancient temple complex.",
+            "sentence_zh": "地震严重破坏了古寺庙群。"
+          },
+          {
+            "sentence": "Hackers havoced the company's database last night.",
+            "sentence_zh": "黑客昨晚严重破坏了公司的数据库。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "wreak havoc",
+        "meaning": "造成严重破坏",
+        "examples": [
+          {
+            "sentence": "The new virus variant is wreaking havoc globally.",
+            "sentence_zh": "新型病毒变种正在全球造成严重破坏。"
+          },
+          {
+            "sentence": "The construction noise wreaked havoc with my sleep schedule.",
+            "sentence_zh": "施工噪音严重扰乱了我的睡眠作息。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "cry havoc",
+        "meaning": "发出破坏信号（古语）",
+        "examples": [
+          {
+            "sentence": "Shakespeare's Julius Caesar famously says 'Cry havoc and let slip the dogs of war!'",
+            "sentence_zh": "莎士比亚的《凯撒大帝》有名句'发出破坏信号，放出战争的恶犬！'"
+          }
+        ]
+      }
+    ],
+    "teach": "havoc就像你家二哈拆家现场🐶💥！源自古代战争呐喊声（想象蒙古骑兵大喊'哈沃克！'劫掠），现在说'造成破坏'用地道表达wreak havoc，就像台风过境的便利店🏪。记住：网络崩溃叫digital havoc（数字灾难），而'一团糟'可以说complete havoc就像打翻的珍珠奶茶🧋洒在键盘上！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨！我磕！'→嗨过头把东西磕坏了",
+        "易混词对比：havoc vs. damage（前者程度更严重）",
+        "记忆tip：把'havoc'拆成'have'+'oc'（想象有OC漫画被撕毁的惨状）"
+      ]
+    }
   }
 ]

@@ -17528,5 +17528,264 @@
         "易混词对比：newspaper（报纸成品）vs newsprint（纸张原材料）"
       ]
     }
+  },
+  {
+    "word": "newsreader",
+    "etymology": {
+      "breakdown": [
+        "news",
+        "reader"
+      ],
+      "meaning_connection": "news=新闻 + reader=阅读者→新闻的传递者或阅读工具"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "新闻广播员",
+        "examples": [
+          {
+            "sentence": "The newsreader's voice trembled when announcing the panda's birth.",
+            "sentence_zh": "播音员宣布熊猫出生时声音激动到颤抖。"
+          },
+          {
+            "sentence": "A professional newsreader can pronounce 'sichuan' correctly 100% of the time.",
+            "sentence_zh": "专业播音员能百分百正确读出'四川'发音。"
+          }
+        ]
+      }
+    ],
+    "teach": "newsreader是'人形新闻联播机'📻！想象罗永浩在直播间读新闻（带弹幕版），就是现代newsreader的终极形态🎤。搭配说'chief newsreader'（主播一哥）或'AI newsreader'（虚拟主播），吐槽语速快可以说'faster than my girlfriend scrolling Xiaohongshu'👩💻。记住：他们每天要吃掉整本新华字典！📚",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛撕reader'→牛气冲天的撕稿播音员",
+        "易混词对比：anchor（电视台主播） vs. newsreader（广播/泛称）"
+      ]
+    }
+  },
+  {
+    "word": "newsreel",
+    "etymology": {
+      "breakdown": [
+        "news",
+        "reel"
+      ],
+      "meaning_connection": "news=新闻（源自古英语'niwes'），reel=卷轴/影片（源自中古荷兰语'reele'）→字面意思是'新闻卷轴'，早期电影以胶片卷轴形式播放"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "新闻影片",
+        "examples": [
+          {
+            "sentence": "Charlie Chaplin once starred in a newsreel about WWI bond sales.",
+            "sentence_zh": "卓别林曾主演过一战债券销售的新闻短片。"
+          },
+          {
+            "sentence": "The newsreel captured the first moon landing in grainy black-and-white.",
+            "sentence_zh": "这部新闻影片用模糊的黑白画面记录了首次登月。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "newsreel footage",
+        "meaning": "新闻影片素材",
+        "examples": [
+          {
+            "sentence": "The documentary used rare newsreel footage of 1930s Shanghai.",
+            "sentence_zh": "这部纪录片使用了1930年代上海的珍贵新闻影片素材。"
+          }
+        ]
+      }
+    ],
+    "teach": "newsreel是上世纪的大数据📽️！在抖音出现前80年，人们通过电影院播放的10分钟新闻短片了解世界🌍（相当于民国版'今日头条'）。搭配：'digitize newsreels'（数字化新闻片），'fake newsreel'（摆拍新闻片）地道说法'old footage'特指这种复古影像📜。记住：每个newsreel都是会动的历史教科书！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛撕卷'→老牛撕胶卷(newsreel)",
+        "易混词对比：newsletter（文字简报） vs newsreel（影像新闻）",
+        "记忆法：拆解为news+reel→新闻像钓鱼线轴(reel)一样被卷起来放映"
+      ]
+    }
+  },
+  {
+    "word": "newsroom",
+    "etymology": {
+      "breakdown": [
+        "news",
+        "room"
+      ],
+      "meaning_connection": "news=新闻 + room=空间→原指存放新闻的物理空间，后演变为新闻生产场所"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "新闻编辑部",
+        "examples": [
+          {
+            "sentence": "The CCTV newsroom looks like a spaceship control center with 360° screens.",
+            "sentence_zh": "央视新闻编辑部像太空船控制中心，环绕着360度大屏。"
+          },
+          {
+            "sentence": "Journalists in the newsroom were chasing the latest Weibo trends.",
+            "sentence_zh": "编辑部里的记者们正在追踪微博最新热搜。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "报刊阅览室",
+        "examples": [
+          {
+            "sentence": "Grandpa spends his mornings in the library's newsroom reading Global Times.",
+            "sentence_zh": "爷爷每天早晨在图书馆报刊阅览室读《环球时报》。"
+          },
+          {
+            "sentence": "The university newsroom provides 200+ international magazines.",
+            "sentence_zh": "该校报刊阅览室提供200多种国际杂志。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "售报处",
+        "examples": [
+          {
+            "sentence": "The railway station newsroom sells People's Daily in 15 languages.",
+            "sentence_zh": "火车站售报处出售15种语言的《人民日报》。"
+          },
+          {
+            "sentence": "I bought a panda-themed postcard at the hotel's newsroom.",
+            "sentence_zh": "我在酒店售报处买了张熊猫主题明信片。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "digital newsroom",
+        "meaning": "数字新闻中心",
+        "examples": [
+          {
+            "sentence": "Xinhua's digital newsroom can produce 500 videos daily.",
+            "sentence_zh": "新华社数字新闻中心日产出500条视频。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "newsroom culture",
+        "meaning": "新闻编辑部文化",
+        "examples": [
+          {
+            "sentence": "The newsroom culture here values both speed and accuracy.",
+            "sentence_zh": "这里的编辑部文化既重速度也重准确。"
+          }
+        ]
+      }
+    ],
+    "teach": "newsroom是新闻界的'厨房'🍳！这里记者像大厨爆炒热点🌶️（hot topics），编辑像摆盘师傅（layout editors）。想知道'抢头条'怎么说？叫scoop the story！'假新闻'叫fake news就像地沟油🚫。记住：现代newsroom里最忙的不是人，是AI写稿机器人🤖！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛死入墓'→报社牛人扎堆(newsroom)",
+        "易混词对比：classroom（教室）vs newsroom（编辑部）",
+        "联想：把news想象成流动的信息流💦，room是装信息的容器📦"
+      ]
+    }
+  },
+  {
+    "word": "newsstand",
+    "etymology": {
+      "breakdown": [
+        "news",
+        "stand"
+      ],
+      "meaning_connection": "复合词，news（新闻）+ stand（摊位）→ 贩卖新闻的摊位"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "报摊",
+        "examples": [
+          {
+            "sentence": "The old man reads the Global Times at the newsstand every morning.",
+            "sentence_zh": "老人每天早晨在报摊阅读环球时报。"
+          },
+          {
+            "sentence": "I bought a lottery ticket from the newsstand near the subway station.",
+            "sentence_zh": "我从地铁站旁的报摊买了张彩票。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "报刊出售处",
+        "examples": [
+          {
+            "sentence": "The airport newsstand sells magazines in 12 languages.",
+            "sentence_zh": "机场报刊出售处售卖12种语言的杂志。"
+          },
+          {
+            "sentence": "She works part-time at the newsstand in the hospital lobby.",
+            "sentence_zh": "她在医院大堂的报刊出售处做兼职。"
+          }
+        ]
+      }
+    ],
+    "teach": "newsstand是街头的信息加油站⛽！在智能手机时代，它就像活化石一样展示着纸质媒体的黄金时代📰。说'买报纸'别用buy newspaper，地道说法是grab a paper（顺手拿一份），'最新一期'叫fresh-off-the-press（刚下印刷机的）🔥。记住：每个newsstand都是城市故事的集散地！",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛粪堆'→牛粪堆(newsstand)上卖报纸（不建议真坐）",
+        "易混词对比：bookstall（书摊）vs newsstand（报摊）"
+      ]
+    }
+  },
+  {
+    "word": "newsworthy",
+    "etymology": {
+      "breakdown": [
+        "news",
+        "worthy"
+      ],
+      "meaning_connection": "news（新闻）+ worthy（值得的）→ 值得被报道的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "有报道价值的",
+        "examples": [
+          {
+            "sentence": "A panda eating hotpot is definitely newsworthy.",
+            "sentence_zh": "熊猫吃火锅绝对有报道价值。"
+          },
+          {
+            "sentence": "The discovery of a new tea variety was deemed newsworthy by local media.",
+            "sentence_zh": "当地媒体认为发现新茶种具有报道价值。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make something newsworthy",
+        "meaning": "使某事具有新闻价值",
+        "examples": [
+          {
+            "sentence": "The celebrity's unexpected visit made the small teahouse newsworthy.",
+            "sentence_zh": "明星的突然造访让这家小茶馆有了新闻价值。"
+          }
+        ]
+      }
+    ],
+    "teach": "newsworthy就像新闻界的'火锅底料'🍲——不是所有食材都能下锅！狗咬人不是新闻（dog bites man），人咬狗才是(newsworthy)🐶❗️搭配：go viral（病毒式传播）/ breaking news（突发新闻）。说'这事不值得报道'用地道表达：not worth a column inch（不值一个版面）📰",
+    "recite": {
+      "tips": [
+        "谐音梗：'牛死我急'→牛死了记者急（因为很newsworthy）",
+        "易混词对比：noteworthy（值得注意的）vs newsworthy（有新闻价值的）"
+      ]
+    }
   }
 ]

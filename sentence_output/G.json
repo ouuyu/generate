@@ -16964,5 +16964,294 @@
         "易混词对比：geography(地理学) vs geology(地质学) → 前者研究地表，后者研究地心"
       ]
     }
+  },
+  {
+    "word": "geological",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "log",
+        "ical"
+      ],
+      "meaning_connection": "词根geo=地球，log=学科/研究，-ical=形容词后缀→研究地球的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "地质学的",
+        "examples": [
+          {
+            "sentence": "The professor showed us a geological map that looked like dinosaur skin.",
+            "sentence_zh": "教授给我们看了一张像恐龙皮肤的地质学地图。"
+          },
+          {
+            "sentence": "Her geological research explains why Sichuan hotpot tastes better with local minerals.",
+            "sentence_zh": "她的地质学研究解释了为什么四川火锅搭配本地矿物质更美味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "地质的",
+        "examples": [
+          {
+            "sentence": "Zhangjiajie's geological wonders attract Instagram photographers worldwide.",
+            "sentence_zh": "张家界的地质奇观吸引着全球的Instagram摄影师。"
+          },
+          {
+            "sentence": "The geological age of this rock matches the time when dinosaurs ordered takeout.",
+            "sentence_zh": "这块岩石的地质年代与恐龙叫外卖的时期吻合。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geological survey",
+        "meaning": "地质勘测",
+        "examples": [
+          {
+            "sentence": "The geological survey team found coal under my grandma's mahjong table.",
+            "sentence_zh": "地质勘测队在奶奶的麻将桌下发现了煤矿。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "geological time scale",
+        "meaning": "地质年代表",
+        "examples": [
+          {
+            "sentence": "Memorizing the geological time scale is harder than remembering all your ex's birthdays.",
+            "sentence_zh": "背诵地质年代表比记住所有前任的生日还难。"
+          }
+        ]
+      }
+    ],
+    "teach": "geological其实是'地球的日志'🌍📓！就像你每天发朋友圈记录生活，地质学家用岩石层记录地球46亿年的朋友圈⛰️。说'历史悠久'可以用geological time（地质时间），'基础牢固'可以说geological stability（地质稳定性）。记住：你的爱情可能比地质变化还难预测！💔",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡窝逻辑'→鸡窝(geo)里研究(log)下蛋规律",
+        "易混词对比：geographic（地理的）VS geological（地质的）→前者管地图🗺️，后者管石头🪨",
+        "联想法：geo=地球仪+log=日记本→地球日记本"
+      ]
+    }
+  },
+  {
+    "word": "geologically",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "log",
+        "ical",
+        "ly"
+      ],
+      "meaning_connection": "geo=地球（希腊语gē），log=学科（如biology中的-logy），-ical=形容词后缀，-ly=副词后缀→与地球科学相关的方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "从地质上来说",
+        "examples": [
+          {
+            "sentence": "Geologically speaking, the Himalayas are still teenagers growing about 5cm per year.",
+            "sentence_zh": "从地质上来说，喜马拉雅山还是'青少年'，每年约长高5厘米。"
+          },
+          {
+            "sentence": "This region is geologically active, like a TikTok dancer's knees.",
+            "sentence_zh": "该地区地质活动频繁，就像抖音舞者的膝盖。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geologically significant",
+        "meaning": "具有地质意义的",
+        "examples": [
+          {
+            "sentence": "Zhangye Danxia landform is geologically significant for studying red sandstone erosion.",
+            "sentence_zh": "张掖丹霞地貌对研究红砂岩侵蚀具有重要地质意义。"
+          }
+        ]
+      }
+    ],
+    "teach": "geologically是地球的'体检报告'🌍！就像医生用CT扫描人体👨⚕️，地质学家用这个副词扫描地球46亿年的病历（如'geologically young'=地球年龄里的00后）。搭配'geologically speaking'就像说'按地球朋友圈显示...'🗻，说'地质不稳定'可幽默说geologically moody（地质版emo）⚡",
+    "recite": {
+      "tips": [
+        "拆解记忆：geo(地理)+log(学科)=地质学报告",
+        "易混对比：geographically(地理上) vs geologically(地质上)"
+      ]
+    }
+  },
+  {
+    "word": "geologist",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "log",
+        "ist"
+      ],
+      "meaning_connection": "词根geo=地球，log=研究，-ist表示人→研究地球的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "地质学家",
+        "examples": [
+          {
+            "sentence": "The geologist identified volcanic rocks while eating mala hotpot in Sichuan.",
+            "sentence_zh": "这位地质学家在四川吃麻辣火锅时辨认出了火山岩。"
+          },
+          {
+            "sentence": "As a TikTok geologist, she explains earthquakes with dance moves.",
+            "sentence_zh": "作为抖音地质学家，她用舞蹈动作解释地震原理。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地质学者",
+        "examples": [
+          {
+            "sentence": "The geologist from Peking University decoded the Great Wall's building materials.",
+            "sentence_zh": "这位北大地质学者破译了长城建筑材料的秘密。"
+          },
+          {
+            "sentence": "My uncle the geologist always brings a rock hammer to family BBQs.",
+            "sentence_zh": "我地质学者叔叔总带着地质锤参加家庭烧烤。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "field geologist",
+        "meaning": "野外地质学家",
+        "examples": [
+          {
+            "sentence": "Field geologists in Xinjiang carry GPS and naan bread.",
+            "sentence_zh": "新疆的野外地质学家带着GPS和馕饼工作。"
+          }
+        ]
+      }
+    ],
+    "teach": "地质学家是地球的'读石人'🗿！Geo-代表地球（像高德地图Gaode Map📍），-log是研究（像逻辑思维💡），合起来就是破解45亿年密码的侦探🔍。在中国要说'搞地质的'叫dirt scientist（泥土科学家），野外标配是'地质三宝'：锤子🔨、放大镜🔎、罗盘🧭。记住：他们才是真正'阅山无数'的人！",
+    "recite": {
+      "tips": [
+        "谐音梗：'急哦logist'→急着研究岩石的人",
+        "易混词对比：geography(地理学)是画地图的，geology(地质学)是挖石头的"
+      ]
+    }
+  },
+  {
+    "word": "geology",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "logy"
+      ],
+      "meaning_connection": "词根geo=地球/土地，后缀-logy=学科→研究地球的学科"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "地质学",
+        "examples": [
+          {
+            "sentence": "Studying geology helps predict earthquake risks in Sichuan.",
+            "sentence_zh": "学习地质学有助于预测四川地震风险。"
+          },
+          {
+            "sentence": "Her geology professor collects volcanic rocks like Pokémon.",
+            "sentence_zh": "她的地质学教授像收集宝可梦一样收集火山岩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地质情况",
+        "examples": [
+          {
+            "sentence": "The geology of Zhangjiajie inspired Avatar's floating mountains.",
+            "sentence_zh": "张家界的地质情况启发了《阿凡达》的悬浮山。"
+          },
+          {
+            "sentence": "Beijing's subway construction slowed down due to complex geology.",
+            "sentence_zh": "北京地铁建设因复杂地质情况而延缓。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "economic geology",
+        "meaning": "经济地质学",
+        "examples": [
+          {
+            "sentence": "Economic geology reveals why Shanxi has so much coal.",
+            "sentence_zh": "经济地质学揭示了山西煤矿丰富的原因。"
+          }
+        ]
+      }
+    ],
+    "teach": "geology是地球的'体检报告'📄！古希腊人用geo-（地球）造词时，还不知道会有微信运动步数🌍。'地质狗'叫rock hound，说'这地方石头多'地道表达是stony broke（双关：石头多/穷得叮当响）💰。搭配：oil-bearing geology（含油地质层）像火锅里的牛油层🥘，folding geology（褶皱地质）像被揉皱的A4纸📑",
+    "recite": {
+      "tips": [
+        "谐音梗：'鸡熬落鸡'→鸡熬出来的落汤鸡（比喻地质变迁）",
+        "易混词对比：geography（地理学）研究地表，geology（地质学）研究地壳"
+      ]
+    }
+  },
+  {
+    "word": "geomagnetic",
+    "etymology": {
+      "breakdown": [
+        "geo",
+        "magnet",
+        "ic"
+      ],
+      "meaning_connection": "geo=地球（希腊语gē），magnet=磁（希腊语magnēs），-ic=形容词后缀→与地球磁场相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "地磁的",
+        "examples": [
+          {
+            "sentence": "The compass needle aligns with the geomagnetic field like a diligent student facing the teacher.",
+            "sentence_zh": "指南针针尖对齐地磁场，就像乖学生面向老师。"
+          },
+          {
+            "sentence": "Geomagnetic storms make auroras dance like TikTok influencers at night.",
+            "sentence_zh": "地磁暴让极光如抖音网红般在夜空起舞。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "geomagnetic storm",
+        "meaning": "地磁暴",
+        "examples": [
+          {
+            "sentence": "The strongest geomagnetic storm in 20 years made pigeons deliver takeout to wrong addresses.",
+            "sentence_zh": "20年来最强地磁暴让送外卖的鸽子们集体迷路。"
+          }
+        ]
+      }
+    ],
+    "teach": "geomagnetic其实是地球的'磁力滤镜'🌍🧲！古代指南针（司南）就是最早的geomagnetic应用，像古人版的GPS导航🗺️。现代科学家研究geomagnetic reversal（地磁逆转），就像担心地球的磁铁没电了🔋。搭配：'geomagnetic anomaly'（地磁异常）比女朋友的心情还难预测，'geomagnetic latitude'（地磁纬度）决定了极光表演的VIP座位💺。记住：你的手机导航正在和geomagnetic field谈恋爱呢！",
+    "recite": {
+      "tips": [
+        "拆解记忆：geo（地理课）+ magnet（吸铁石）= 地球大磁铁",
+        "易混词：geometric（几何的）是画图，geomagnetic是吸铁"
+      ]
+    }
   }
 ]

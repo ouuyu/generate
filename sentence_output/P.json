@@ -17280,5 +17280,322 @@
         "记忆法：para（异常）+oxy（氧气面罩）= 急救室里的突发状况"
       ]
     }
+  },
+  {
+    "word": "parodic",
+    "etymology": {
+      "breakdown": [
+        "parody",
+        "ic"
+      ],
+      "meaning_connection": "源自parody（戏仿），后缀-ic表示'与...相关的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "戏仿的",
+        "examples": [
+          {
+            "sentence": "The parodic video of government meetings went viral with its paper cup microphones.",
+            "sentence_zh": "用纸杯当话筒的政府会议戏仿视频火爆全网。"
+          },
+          {
+            "sentence": "His parodic impression of the tech CEO included endless buzzwords.",
+            "sentence_zh": "他对那位科技公司CEO的戏仿模仿包含了无数流行词。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "滑稽模仿的",
+        "examples": [
+          {
+            "sentence": "The parodic subway map replaced stations with memes.",
+            "sentence_zh": "这张滑稽模仿的地铁图把站名全换成了网络梗图。"
+          },
+          {
+            "sentence": "During Mid-Autumn Festival, parodic mooncake flavors like 'spicy crayfish' emerged.",
+            "sentence_zh": "中秋期间出现了'麻辣小龙虾'等滑稽模仿口味的月饼。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parodic style",
+        "meaning": "戏仿风格",
+        "examples": [
+          {
+            "sentence": "The influencer's parodic style makes even tax tutorials hilarious.",
+            "sentence_zh": "这位博主的戏仿风格让报税教程都变得爆笑。"
+          }
+        ]
+      }
+    ],
+    "teach": "parodic是高级幽默的体现🎭！就像'奥利给'大叔魔性正能量💪，真正的戏仿(parody)要像《武林外传》解构武侠🗡️。搭配'parodic remake'(戏仿翻拍)和'parodic account'(高仿号)，说'拙劣模仿'用cheap imitation🍌。记住：好的parodic作品就像火锅里的脑花——要够味又要保持形状！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派来的'→派来的(parodic)搞笑特工",
+        "易混词对比：parodic(戏仿的) vs. paradic(天堂的)"
+      ]
+    }
+  },
+  {
+    "word": "parquet",
+    "etymology": {
+      "breakdown": [
+        "parc",
+        "et"
+      ],
+      "meaning_connection": "源自法语parc（围场）+指小后缀-et→原指小围栏区域，后指剧场分隔座位区，再引申为地板花纹"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "镶木地板",
+        "examples": [
+          {
+            "sentence": "The antique parquet in the Forbidden City still gleams after 600 years.",
+            "sentence_zh": "故宫的古老镶木地板历经600年依然光可鉴人。"
+          },
+          {
+            "sentence": "I dropped my AirPods and it left a dent in the herringbone parquet.",
+            "sentence_zh": "我的AirPods掉在人字形镶木地板上砸出了凹痕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "(剧场)正厅池座",
+        "examples": [
+          {
+            "sentence": "The parquet seats at National Centre for the Performing Arts offer the best view.",
+            "sentence_zh": "国家大剧院的正厅池座拥有最佳观赏视角。"
+          },
+          {
+            "sentence": "We upgraded our tickets from balcony to parquet.",
+            "sentence_zh": "我们把票从楼座升级到了正厅池座。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "铺镶木地板",
+        "examples": [
+          {
+            "sentence": "They decided to parquet the entire living room with sustainable bamboo.",
+            "sentence_zh": "他们决定用环保竹料给整个客厅铺镶木地板。"
+          },
+          {
+            "sentence": "The craftsman is parqueting a dragon pattern for the Lunar New Year.",
+            "sentence_zh": "匠人正在为春节铺设龙形图案的镶木地板。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parquet floor",
+        "meaning": "拼花地板",
+        "examples": [
+          {
+            "sentence": "The Versailles-style parquet floor makes your selfies look luxurious.",
+            "sentence_zh": "凡尔赛风格的拼花地板让自拍显得奢华。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "parquet circle",
+        "meaning": "剧场前厅后座",
+        "examples": [
+          {
+            "sentence": "The parquet circle is actually better than front rows for viewing ballet.",
+            "sentence_zh": "观看芭蕾时前厅后座其实比前排更合适。"
+          }
+        ]
+      }
+    ],
+    "teach": "parquet是地板界的乐高积木🧩！法国凡尔赛宫最早用几何图案的parquet炫富（比地毯贵10倍💸），剧场池座叫parquet因为早期真用木栏分隔座位🎭。说'地板咯吱响'用creaky parquet，夸'高级地板'说exquisite parquetry。记住：能拼出蒙娜丽莎的地板才配叫parquet！🖼️",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕磕'→镶木地板怕磕碰",
+        "易混词：banquet（宴会）和parquet（地板）别搞混，除非你想吃地板"
+      ]
+    }
+  },
+  {
+    "word": "parrot",
+    "etymology": {
+      "breakdown": [
+        "par",
+        "rot"
+      ],
+      "meaning_connection": "词源存争议，可能来自法语perrot（小Pierre的昵称），拟声化鹦鹉叫声。后缀-rot表重复动作"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "鹦鹉",
+        "examples": [
+          {
+            "sentence": "The rainbow lorikeet is Australia's most colorful parrot species.",
+            "sentence_zh": "彩虹吸蜜鹦鹉是澳洲最艳丽的鹦鹉品种。"
+          },
+          {
+            "sentence": "My grandpa's parrot can recite Tang poems better than me!",
+            "sentence_zh": "爷爷的鹦鹉背唐诗比我厉害多了！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "应声虫",
+        "examples": [
+          {
+            "sentence": "That politician is just a parrot of his party's propaganda.",
+            "sentence_zh": "那位政客不过是其党派宣传的应声虫。"
+          },
+          {
+            "sentence": "Don't be a meeting parrot—share your original ideas!",
+            "sentence_zh": "别当会议应声虫，要提出原创想法！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "机械地模仿",
+        "examples": [
+          {
+            "sentence": "Some students just parrot answers without understanding.",
+            "sentence_zh": "有些学生不理解内容，只会机械复述答案。"
+          },
+          {
+            "sentence": "The AI assistant won't just parrot your questions back at you.",
+            "sentence_zh": "这个AI助手不会把你的问题原封不动反弹回来。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parrot fashion",
+        "meaning": "机械模仿式",
+        "examples": [
+          {
+            "sentence": "Memorizing vocabulary parrot fashion leads to quick forgetting.",
+            "sentence_zh": "死记硬背背单词会导致快速遗忘。"
+          }
+        ]
+      }
+    ],
+    "teach": "鹦鹉(parrot)是动物界的复读机📢！加勒比海盗用鹦鹉当'船载Siri'🏴‍☠️，网络梗'Polly want a cracker'是英语国家驯鹦鹉必教句。说人'学舌'可以用human parrot🦜，'无脑跟风'叫parrot opinions就像抖音洗脑神曲循环🎵。记住：当parrot作动词时，贬义程度堪比微信'拍一拍'尴尬现场！",
+    "recite": {
+      "tips": [
+        "谐音梗：'派若特'→派出所的鹦鹉学舌（警民关系特和谐）",
+        "易混词：模仿程度不同→copy（普通复制） < parrot（无脑复读） < plagiarize（恶意抄袭）",
+        "记忆锚点：抖音鹦鹉哥@会算术的肥啾 = 活体parrot动词演示"
+      ]
+    }
+  },
+  {
+    "word": "parry",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'parer'(防备)，可能受意大利语'parare'(准备)影响，与西班牙语'parar'(停止)同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "挡开(武器等)",
+        "examples": [
+          {
+            "sentence": "The fencer parried the opponent's lunge with a quick wrist movement.",
+            "sentence_zh": "击剑选手用手腕快速转动挡开了对手的突刺。"
+          },
+          {
+            "sentence": "He parried the flying durian with his cooking pot.",
+            "sentence_zh": "他用炒锅挡开了飞来的榴莲。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "回避(问题)",
+        "examples": [
+          {
+            "sentence": "The celebrity parried the awkward question by talking about her new pet hedgehog.",
+            "sentence_zh": "那位明星通过谈论她的新宠物刺猬回避了尴尬问题。"
+          },
+          {
+            "sentence": "When asked about his age, he parried with a joke about being older than the Great Wall.",
+            "sentence_zh": "被问及年龄时，他用比长城还古老的玩笑回避了问题。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "格挡动作",
+        "examples": [
+          {
+            "sentence": "The knight's perfect parry sent sparks flying from the clashing swords.",
+            "sentence_zh": "骑士完美的格挡动作使相击的剑迸出火花。"
+          },
+          {
+            "sentence": "In table tennis, a backhand parry can be more effective than a smash.",
+            "sentence_zh": "乒乓球中反手格挡有时比扣杀更有效。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "机智的回避",
+        "examples": [
+          {
+            "sentence": "Her verbal parry about 'being as single as a one-chopstick' went viral on Weibo.",
+            "sentence_zh": "她关于'单身得像一根筷子'的机智回避在微博疯传。"
+          },
+          {
+            "sentence": "The politician's parry involved comparing the question to a blind date with a durian.",
+            "sentence_zh": "政客将问题比作和榴莲相亲，巧妙回避了提问。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "parry and thrust",
+        "meaning": "攻防转换",
+        "examples": [
+          {
+            "sentence": "Their debate was like a duel full of parries and thrusts about hot pot ingredients.",
+            "sentence_zh": "他们的辩论就像关于火锅食材的攻防对决。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "parry a blow",
+        "meaning": "化解打击",
+        "examples": [
+          {
+            "sentence": "The boxer parried the blow just like avoiding his mother's slipper in childhood.",
+            "sentence_zh": "拳击手化解重拳的样子就像小时候躲妈妈的拖鞋。"
+          }
+        ]
+      }
+    ],
+    "teach": "parry是职场和武侠的通用技能🤺！古人用它挡箭(parry arrows)，现代人用它挡催婚(parry questions)。'工资太低'的回避可以说'饿不死就行'(barely keep the wolf from the door)，'格挡+反击'叫parry-riposte就像用表情包怼杠精💥。记住：面对老板的灵魂拷问，要像打太极一样四两拨千斤！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕锐'→怕尖锐物品所以要parry",
+        "易混词：parry(挡开) vs. carry(携带)，想象挡开(carry走)不需要的东西",
+        "记忆法：双写r像交叉的剑"
+      ]
+    }
   }
 ]

@@ -17493,5 +17493,282 @@
         "易混词对比：teddy(玩具熊) vs. puppy(小狗玩偶)"
       ]
     }
+  },
+  {
+    "word": "tedious",
+    "etymology": {
+      "breakdown": [
+        "ted",
+        "ious"
+      ],
+      "meaning_connection": "词根ted=厌倦（同拉丁语taedium），-ious表形容词属性→令人厌倦的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "沉闷的",
+        "examples": [
+          {
+            "sentence": "The professor's lecture was as tedious as watching paint dry.",
+            "sentence_zh": "教授的讲座沉闷得像看油漆晾干。"
+          },
+          {
+            "sentence": "Their date became tedious when he talked about Excel formulas for 2 hours.",
+            "sentence_zh": "当他连续两小时谈论Excel公式时，约会变得极度沉闷。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "冗长乏味的",
+        "examples": [
+          {
+            "sentence": "Filling out the 50-page form felt more tedious than climbing Mount Everest.",
+            "sentence_zh": "填写这份50页的表格比攀登珠穆朗玛峰还要冗长乏味。"
+          },
+          {
+            "sentence": "The meeting became tedious after the third hour of budget discussions.",
+            "sentence_zh": "预算讨论进行到第三小时后，会议变得冗长乏味。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tedious work",
+        "meaning": "繁琐的工作",
+        "examples": [
+          {
+            "sentence": "Data entry is the most tedious work in our office.",
+            "sentence_zh": "数据录入是我们办公室最繁琐的工作。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tediously long",
+        "meaning": "冗长得令人发指",
+        "examples": [
+          {
+            "sentence": "The movie's credit roll was tediously long with 500+ names.",
+            "sentence_zh": "这部电影的演职人员表冗长得令人发指，列了500多个名字。"
+          }
+        ]
+      }
+    ],
+    "teach": "tedious是'特慢'的学术说法🐢！想象看Windows系统更新进度条⏳（99%卡3小时）就是终极tedious体验。说'无聊到爆'可以吐槽：It's more tedious than counting rice grains（比数米粒还无聊）。重要tip：用monotonous形容重复性无聊，tedious专指漫长型无聊📜。你的手机电量从1%到0%的过程——就是tedious本尊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢地而死'→无聊到用脚踢地板致死",
+        "易混词对比：boring（主观感受） vs tedious（客观属性）",
+        "视觉联想：无限加载的缓冲图标+打哈欠的emoji😴"
+      ]
+    }
+  },
+  {
+    "word": "tediously",
+    "etymology": {
+      "breakdown": [
+        "tedious",
+        "ly"
+      ],
+      "meaning_connection": "词根tedious=乏味的，-ly表副词后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "沉闷地",
+        "examples": [
+          {
+            "sentence": "The professor tediously explained the math formula for three hours without a break.",
+            "sentence_zh": "教授沉闷地讲解了三个小时数学公式，中间不带休息的。"
+          },
+          {
+            "sentence": "She tediously scrolled through endless spreadsheets at work.",
+            "sentence_zh": "她在工作中沉闷地翻阅着无尽的电子表格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "长而乏味地",
+        "examples": [
+          {
+            "sentence": "The meeting dragged on tediously like a slow-motion replay of a snail race.",
+            "sentence_zh": "会议长而乏味地进行着，就像蜗牛赛跑的慢动作回放。"
+          },
+          {
+            "sentence": "He described his vacation tediously, listing every meal he ate in detail.",
+            "sentence_zh": "他长而乏味地描述了他的假期，详细列出了他吃的每一顿饭。"
+          }
+        ]
+      }
+    ],
+    "teach": "tediously就像看慢动作的树懒🦥视频：来自拉丁语'taedium'(无聊)，形容让人想用头撞墙的漫长过程🧱。搭配'tediously slow'(慢得抓狂)就像等快递更新物流信息📦，'tediously detailed'(详细到崩溃)堪比老妈唠叨你穿秋裤👖。记得：当老板说'briefly'结果讲了2小时，那就是tediously本尊了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢地饿死'→无聊到踢地板饿死",
+        "易混词对比：tedious(adj.) vs. tediously(adv.)"
+      ]
+    }
+  },
+  {
+    "word": "tedium",
+    "etymology": {
+      "breakdown": [
+        "taed",
+        "ium"
+      ],
+      "meaning_connection": "词根taed=厌倦（同源词有tedious），后缀-ium表状态→令人厌倦的状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "单调乏味",
+        "examples": [
+          {
+            "sentence": "The tedium of data entry made him consider becoming a panda caretaker.",
+            "sentence_zh": "数据录入的单调乏味让他考虑转行当熊猫饲养员。"
+          },
+          {
+            "sentence": "Zoom meetings without screen sharing are pure tedium.",
+            "sentence_zh": "没有屏幕共享的Zoom会议纯粹是种折磨。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "沉闷",
+        "examples": [
+          {
+            "sentence": "The tedium of rainy season was broken by viral TikTok challenges.",
+            "sentence_zh": "雨季的沉闷被抖音挑战赛打破。"
+          },
+          {
+            "sentence": "Classical music saved him from the tedium of treadmill workouts.",
+            "sentence_zh": "古典音乐拯救了他跑步机锻炼时的沉闷。"
+          }
+        ]
+      }
+    ],
+    "teach": "tedium=特无聊🥱！想象等核酸报告时的焦灼+看领导PPT时的困倦📊。搭配：break the tedium（破闷）像突然收到红包🧧，sink into tedium（陷入无聊）就像追更的剧停更🐼。地道说法叫'same old same old'（老一套），比'It's boring'更native！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢爹姆'→踢老爹的姆指解闷",
+        "易混词：boredom（主观无聊） vs tedium（客观沉闷）",
+        "视觉化：像无限滚动的手机通知栏📱"
+      ]
+    }
+  },
+  {
+    "word": "tee",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自字母T的象形，17世纪高尔夫术语"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "T字形",
+        "examples": [
+          {
+            "sentence": "The intersection forms a perfect tee like a Tetris block.",
+            "sentence_zh": "这个十字路口像俄罗斯方块一样形成完美的T字形。"
+          },
+          {
+            "sentence": "Her necklace pendant was a delicate silver tee.",
+            "sentence_zh": "她项链吊坠是个精致的银色T字形饰物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "发球区",
+        "examples": [
+          {
+            "sentence": "Golfers gossip like aunties when waiting at the tee.",
+            "sentence_zh": "高尔夫球手在发球区等待时像阿姨们一样闲聊。"
+          },
+          {
+            "sentence": "The rookie trembled when stepping onto the championship tee.",
+            "sentence_zh": "新手走上锦标赛发球区时紧张得发抖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "球座",
+        "examples": [
+          {
+            "sentence": "He collects novelty tees shaped like cartoon characters.",
+            "sentence_zh": "他收集卡通人物形状的创意高尔夫球座。"
+          },
+          {
+            "sentence": "The biodegradable tee dissolved after 3 rounds.",
+            "sentence_zh": "这个可降解球座在三轮比赛后溶解了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "搁在球座上",
+        "examples": [
+          {
+            "sentence": "She teed up the ball while humming a pop song.",
+            "sentence_zh": "她哼着流行歌把球搁在球座上。"
+          },
+          {
+            "sentence": "Teeing the ball incorrectly may cause embarrassing whiffs.",
+            "sentence_zh": "错误放置球座可能导致尴尬的挥空杆。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "T字形的",
+        "examples": [
+          {
+            "sentence": "The tee junction caused endless delivery scooter accidents.",
+            "sentence_zh": "这个T字形路口导致无数外卖电动车事故。"
+          },
+          {
+            "sentence": "Her tee-shaped earrings swung as she debated hotpot toppings.",
+            "sentence_zh": "她争论火锅配料时，T字形耳环不停晃动。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "tee off",
+        "meaning": "开球",
+        "examples": [
+          {
+            "sentence": "Executives tee off at dawn to avoid missing meetings.",
+            "sentence_zh": "高管们黎明开球以免错过会议。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "tee up",
+        "meaning": "准备就绪",
+        "examples": [
+          {
+            "sentence": "The project is all teed up for the Lunar New Year launch.",
+            "sentence_zh": "项目已为农历新年上线准备就绪。"
+          }
+        ]
+      }
+    ],
+    "teach": "tee是个三面手🦸：作名词时是高尔夫球场的VIP座位💺（on the tee），作动词时像给高尔夫球宝宝摆婴儿床👶（tee up），作形容词时如同你喝奶茶的吸管形状🥤（tee-shaped）。打高尔夫时说'开球'就像说'T台走起'——tee off！记住：生活就像高尔夫，每次tee up都是新机会⛳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'踢'→把球'踢'(tee)上球座",
+        "易混词：tea（茶）和tee（T字），想象用T形吸管喝奶茶"
+      ]
+    }
   }
 ]

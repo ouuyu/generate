@@ -16861,5 +16861,317 @@
         "易混词对比：crash（撞击）vs bash（猛击）前者更强调破坏性"
       ]
     }
+  },
+  {
+    "word": "basic",
+    "etymology": {
+      "breakdown": [
+        "bas",
+        "ic"
+      ],
+      "meaning_connection": "词根bas=基础（来自希腊语basis），-ic表形容词后缀→像建筑物的地基般根本的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "基本原理",
+        "examples": [
+          {
+            "sentence": "The basic of Chinese cuisine lies in balancing five flavors.",
+            "sentence_zh": "中华料理的精髓在于五味调和的基本原理。"
+          },
+          {
+            "sentence": "Learning the basics of mahjong takes just 5 minutes.",
+            "sentence_zh": "掌握麻将的基本规则只需五分钟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "要素",
+        "examples": [
+          {
+            "sentence": "Patience is one of the basics for raising pandas.",
+            "sentence_zh": "耐心是饲养大熊猫的必备要素之一。"
+          },
+          {
+            "sentence": "The basics of hotpot are broth, meat and dipping sauce.",
+            "sentence_zh": "火锅三要素是锅底、肉片和蘸料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "基本的",
+        "examples": [
+          {
+            "sentence": "My basic salary can buy 300 stinky tofu per month.",
+            "sentence_zh": "我的基本工资够每月买300份臭豆腐。"
+          },
+          {
+            "sentence": "The basic requirement for this job is loving spicy food.",
+            "sentence_zh": "该职位的基本要求是能吃辣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "碱性的",
+        "examples": [
+          {
+            "sentence": "The pH test shows this mineral water is slightly basic.",
+            "sentence_zh": "酸碱测试显示这款矿泉水呈弱碱性。"
+          },
+          {
+            "sentence": "Basic solutions turn red litmus paper blue.",
+            "sentence_zh": "碱性溶液会使红色石蕊试纸变蓝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "BASIC语言",
+        "examples": [
+          {
+            "sentence": "My grandpa still writes diary programs in BASIC.",
+            "sentence_zh": "我爷爷至今仍用BASIC语言写日记程序。"
+          },
+          {
+            "sentence": "The vintage computer only runs BASIC as its OS.",
+            "sentence_zh": "这台古董电脑的操作系统只有BASIC语言。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "basic training",
+        "meaning": "基础训练",
+        "examples": [
+          {
+            "sentence": "Panda cubs receive basic training for independent living.",
+            "sentence_zh": "熊猫幼崽会接受独立生活的基础训练。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "back to basics",
+        "meaning": "回归本质",
+        "examples": [
+          {
+            "sentence": "This restaurant goes back to basics with no MSG added.",
+            "sentence_zh": "这家餐厅回归本质，完全不加味精。"
+          }
+        ]
+      }
+    ],
+    "teach": "basic这个词就像白米饭🍚：看似简单却能演绎无限可能！它来自古希腊词'地基'🧱（basis），计算机BASIC语言就是'初学者通用符号指令码'的缩写💻。说人'很basic'在俚语里是贬义（指没品味），但'basic necessities'（生活必需品）可是生存根本⚡️。记住：酸的反义词不是'sour'而是'basic'（碱性）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'贝嫂'→维多利亚·贝克汉姆最爱basic款（基础款）",
+        "易混词对比：base(基础n.) vs basic(基本的adj.)",
+        "记忆法：BASIC语言=Beginners' All-purpose Symbolic Instruction Code首字母"
+      ]
+    }
+  },
+  {
+    "word": "basically",
+    "etymology": {
+      "breakdown": [
+        "basic",
+        "ally"
+      ],
+      "meaning_connection": "basic=基础，-ally=副词后缀→从基础层面来说"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "基本上",
+        "examples": [
+          {
+            "sentence": "This smartphone is basically a mini computer with a camera.",
+            "sentence_zh": "这部智能手机基本就是个带摄像头的小电脑。"
+          },
+          {
+            "sentence": "The meeting was basically three hours of staring at PowerPoint slides.",
+            "sentence_zh": "会议基本上就是盯着PPT看了三小时。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "主要地",
+        "examples": [
+          {
+            "sentence": "The dish is basically soy sauce and sugar with some magic.",
+            "sentence_zh": "这道菜主要是酱油和糖，外加一些魔法。"
+          },
+          {
+            "sentence": "My weekend was basically sleeping and takeout.",
+            "sentence_zh": "我的周末主要就是睡觉和叫外卖。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "basically speaking",
+        "meaning": "简而言之",
+        "examples": [
+          {
+            "sentence": "Basically speaking, all relationships need trust and WiFi.",
+            "sentence_zh": "简而言之，所有关系都需要信任和WiFi。"
+          }
+        ]
+      }
+    ],
+    "teach": "basically是英语里的'老铁'🤝！它像火锅汤底🍲——所有料都在这基础上煮（basically a soup foundation）。网络梗'It's basically...'常用来戏仿废话文学🤪，比如'空气basically是气体混合物'。搭配：basically correct（基本正确）、basically the same（大同小异）。想吐槽'这根本就是...'可以说：It's basically a... 🎭🍜🐔",
+    "recite": {
+      "tips": [
+        "谐音梗：'背诗咖喱'→背诗咖喱(basically)背到主要部分",
+        "易混词对比：fundamentally（更正式）/essentially（更哲学）"
+      ]
+    }
+  },
+  {
+    "word": "basil",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希腊语'basileus'(国王)，传说古代国王用罗勒制作香水"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "罗勒（香草植物）",
+        "examples": [
+          {
+            "sentence": "Fresh basil leaves make the tomato soup smell like an Italian summer.",
+            "sentence_zh": "新鲜罗勒叶让番茄汤散发着意大利夏日的气息。"
+          },
+          {
+            "sentence": "She grows purple basil in her kitchen like a tiny herb emperor.",
+            "sentence_zh": "她在厨房种植紫罗勒，像个微型香草皇帝。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "holy basil",
+        "meaning": "圣罗勒（印度神圣植物）",
+        "examples": [
+          {
+            "sentence": "In Ayurveda, holy basil is called 'the queen of herbs'.",
+            "sentence_zh": "在阿育吠陀医学中，圣罗勒被称为'草药皇后'。"
+          }
+        ]
+      }
+    ],
+    "teach": "basil其实是'香草界的霸道总裁'👑！传说古希腊人认为只有国王(basileus)才配使用罗勒香水，现代吃货用它做三杯鸡🍗和青酱意面🍝。说'香料杀手'用herb killer，'种啥死啥'叫black thumb（黑拇指）。记住：basil+tomato=爱情的味道💘！",
+    "recite": {
+      "tips": [
+        "谐音梗：'百岁'→百岁老人最爱罗勒养生",
+        "易混词：parsley(欧芹)/mint(薄荷)"
+      ]
+    }
+  },
+  {
+    "word": "basilica",
+    "etymology": {
+      "breakdown": [
+        "basil",
+        "ica"
+      ],
+      "meaning_connection": "词根basil源自希腊语βασιλικός（皇家），-ica表场所→最初指古罗马的皇家法庭建筑，后特指基督教长方形大教堂"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "长方形廊柱大厅（古罗马时期）",
+        "examples": [
+          {
+            "sentence": "Roman merchants traded spices in the basilica's shaded colonnades.",
+            "sentence_zh": "罗马商人们在长方形廊柱大厅的阴凉柱廊下交易香料。"
+          },
+          {
+            "sentence": "The ruined basilica in Pompeii still shows its original checkerboard floor.",
+            "sentence_zh": "庞贝古城的长方形大厅遗址仍保留着原始棋盘格地板。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "长方形教堂（基督教）",
+        "examples": [
+          {
+            "sentence": "St. Peter's Basilica can hold 60,000 worshippers under its massive dome.",
+            "sentence_zh": "圣彼得大教堂的巨型穹顶可容纳六万名信徒。"
+          },
+          {
+            "sentence": "The basilica's nave is longer than three football fields.",
+            "sentence_zh": "这座长方形教堂的中殿比三个足球场还长。"
+          }
+        ]
+      }
+    ],
+    "teach": "basilica是古代凡尔赛宫🏛️！原为罗马皇帝处理政务的'皇家大厅'(basil=皇家)，后来被基督徒'抢来'当教堂⛪。现代购物中心设计就偷师这种长廊结构，比如逛SKP时🛍️，你其实走在21世纪的basilica里！说'宏伟教堂'用imposing basilica，'历史遗迹'叫timeworn basilica🕰️。记住：basilica就是古代的'超级综合体'！",
+    "recite": {
+      "tips": [
+        "谐音梗：'百事利卡'→百事可乐在古罗马大厅搞促销",
+        "易混词对比：cathedral（主教座堂）必须设主教座，basilica只需教皇认证",
+        "记忆tip：basilica=basil（罗勒叶）+ica→想象用香草装饰的巨型教堂"
+      ]
+    }
+  },
+  {
+    "word": "basilisk",
+    "etymology": {
+      "breakdown": [
+        "basil",
+        "isk"
+      ],
+      "meaning_connection": "源自希腊语basiliskos（小国王），传说中蛇怪的目光能致命，-isk表小称后缀"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "蛇怪（传说中的致命生物）",
+        "examples": [
+          {
+            "sentence": "The basilisk in Harry Potter can petrify people with its gaze.",
+            "sentence_zh": "《哈利·波特》中的蛇怪能用目光使人石化。"
+          },
+          {
+            "sentence": "Medieval maps marked basilisks' territories with skull symbols.",
+            "sentence_zh": "中世纪地图用骷髅符号标记蛇怪领地。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "basilisk stare",
+        "meaning": "致命凝视",
+        "examples": [
+          {
+            "sentence": "Her basilisk stare silenced the entire meeting room.",
+            "sentence_zh": "她的致命凝视让整个会议室鸦雀无声。"
+          }
+        ]
+      }
+    ],
+    "teach": "basilisk是古希腊的'眼神杀'👑🐍：传说它由蛇孵公鸡蛋诞生（鸡蛇兽），瞪谁谁凉凉❄️。现代用来形容'死亡凝视'，比如甲方看设计稿的眼神就叫basilisk stare。搭配：'像蛇怪一样凶悍'（fierce as a basilisk），'石化效果'（petrifying effect）。记住这词就像记住灭霸的响指💥！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白死了skr'→见到蛇怪白死了",
+        "易混词对比：dragon（喷火龙）vs basilisk（瞪眼蛇）",
+        "记忆tip：词根basil=国王，蛇怪是爬行动物界的王"
+      ]
+    }
   }
 ]

@@ -17082,5 +17082,194 @@
         "易混词：factory是工厂，manufacture是制造行为"
       ]
     }
+  },
+  {
+    "word": "manufactured",
+    "etymology": {
+      "breakdown": [
+        "manu",
+        "fact",
+        "ure",
+        "ed"
+      ],
+      "meaning_connection": "manu=手（拉丁语manus），fact=制作（拉丁语facere），-ure=过程后缀，-ed=形容词后缀→原指'手工制作完成的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "制造的",
+        "examples": [
+          {
+            "sentence": "The manufactured mooncakes with AI-designed patterns are surprisingly popular.",
+            "sentence_zh": "采用AI设计图案的机制月饼意外走红。"
+          },
+          {
+            "sentence": "This manufactured crisis turned out to be a marketing stunt.",
+            "sentence_zh": "这场人为制造的危机最终被证明是营销噱头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "已制成的",
+        "examples": [
+          {
+            "sentence": "The manufactured components await final assembly in Foxconn.",
+            "sentence_zh": "已制成的零件在富士康等待最后组装。"
+          },
+          {
+            "sentence": "Prefer locally manufactured goods to reduce carbon footprint.",
+            "sentence_zh": "优先选择本地制成的商品以减少碳足迹。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "manufactured goods",
+        "meaning": "工业制成品",
+        "examples": [
+          {
+            "sentence": "China's export of manufactured goods broke records again.",
+            "sentence_zh": "中国工业制成品出口再破纪录。"
+          }
+        ]
+      }
+    ],
+    "teach": "manufactured藏着人类进化史🦾！从古罗马'手(manu)工制作(fact)'的陶罐🏺，到义乌小商品城的流水线⚙️。说'假新闻'用manufactured news比fake更专业，'中国制造'叫China-manufactured才有内味🇨🇳。记住：看到-manu-就想到'徒手搓手机'的魔幻现实！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢牛发达'→制造业慢牛(manufactured)发达",
+        "易混词对比：manufactured（制成品） vs. handmade（手工品）",
+        "记忆锚点：拆解manu(手)+fact(事实)→用手把想法变成事实"
+      ]
+    }
+  },
+  {
+    "word": "manufacturer",
+    "etymology": {
+      "breakdown": [
+        "manu",
+        "fact",
+        "ure",
+        "er"
+      ],
+      "meaning_connection": "manu=手（拉丁语manus），fact=制作（拉丁语facere），-ure表过程，-er表执行者→原指手工制造者，后泛指生产商"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "制造业者",
+        "examples": [
+          {
+            "sentence": "This tea manufacturer still rolls Longjing leaves by hand.",
+            "sentence_zh": "这家茶叶制造商仍用手工炒制龙井。"
+          },
+          {
+            "sentence": "As a pencil manufacturer, their factory smells like fresh cedar all year.",
+            "sentence_zh": "作为铅笔制造商，他们的工厂全年散发着雪松清香。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "厂商",
+        "examples": [
+          {
+            "sentence": "The smartphone manufacturer offers free dumplings in their cafeteria.",
+            "sentence_zh": "这家手机厂商食堂提供免费饺子。"
+          },
+          {
+            "sentence": "Tesla is not just an EV manufacturer but also a tech company.",
+            "sentence_zh": "特斯拉不仅是电动车厂商更是科技公司。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "original equipment manufacturer",
+        "meaning": "原始设备制造商（OEM）",
+        "examples": [
+          {
+            "sentence": "Many iPhone components come from Chinese OEM manufacturers.",
+            "sentence_zh": "iPhone许多部件来自中国代工厂商。"
+          }
+        ]
+      }
+    ],
+    "teach": "manufacturer是'手工'(manu)与'制作'(fact)的爱情结晶💞！古代工匠用手造物→现代富士康用机器人造iPhone🤖。要说'代工厂'叫sweatshop（血汗工厂），但'高端制造商'用craftsman（工匠精神）🔨。记住：每个manufacturer都是现实版'我的世界'玩家！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢牛facture'→慢牛(manu)工厂(factory)",
+        "易混词对比：manufacturer(制造商) vs. merchant(商人)",
+        "联想记忆：MAN（人）+U（你）+FACT（事实）+URE（真的）→人和你一起把事实造出来"
+      ]
+    }
+  },
+  {
+    "word": "manufacturing",
+    "etymology": {
+      "breakdown": [
+        "manu",
+        "fact",
+        "ure",
+        "ing"
+      ],
+      "meaning_connection": "manu=手（拉丁语manus），fact=制作（拉丁语facere），-ure=名词后缀，-ing=动名词→原指'手工制作'，工业革命后特指机械化生产"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "制造业",
+        "examples": [
+          {
+            "sentence": "China's manufacturing accounts for 30% of global output like a dumpling-making machine 🥟.",
+            "sentence_zh": "中国制造业占全球产量30%，像台巨型饺子机。"
+          },
+          {
+            "sentence": "The rise of 3D printing is transforming traditional manufacturing.",
+            "sentence_zh": "3D打印的兴起正在变革传统制造业。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "制造业的",
+        "examples": [
+          {
+            "sentence": "Foxconn's manufacturing plants operate 24/7 like never-sleeping pandas 🐼.",
+            "sentence_zh": "富士康的制造工厂像永不睡觉的熊猫24小时运转。"
+          },
+          {
+            "sentence": "The manufacturing process of smartphone involves 1,000+ precise steps.",
+            "sentence_zh": "智能手机的制造过程包含1000多道精密工序。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "manufacturing base",
+        "meaning": "制造基地",
+        "examples": [
+          {
+            "sentence": "Shenzhen became the world's hardware manufacturing base faster than hotpot boils 🍲.",
+            "sentence_zh": "深圳成为全球硬件制造基地的速度比火锅沸腾还快。"
+          }
+        ]
+      }
+    ],
+    "teach": "manufacturing其实是'手造'变'机造'的进化史👐→🤖！古代威尼斯工匠(manu)手工制作(fact)玻璃，现在机器人每分钟造100台手机。说'血汗工厂'叫sweatshop，'智能制造'是smart manufacturing就像给机器人大脑装北斗导航🧠。记住：Made in China背后的manufacturing能让全球每人每天换新袜子🧦！",
+    "recite": {
+      "tips": [
+        "谐音梗：'慢牛facturing'→制造业像慢牛稳步前进",
+        "易混词对比：manufacture(制造动作) vs. manufacturing(制造行业)",
+        "记忆链：manu(手)→factory(工厂)→未来感加-ing"
+      ]
+    }
   }
 ]
