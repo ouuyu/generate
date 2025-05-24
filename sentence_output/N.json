@@ -37458,5 +37458,183 @@
         "对比记忆：southwards（向南）/eastwards（向东）/westwards（向西）"
       ]
     }
+  },
+  {
+    "word": "nunnery",
+    "translation": "n. 女修道院, 尼姑庵",
+    "etymology": {
+      "breakdown": [
+        "nun",
+        "ery"
+      ],
+      "meaning_connection": "nun=修女/尼姑，-ery=场所后缀→修女聚居地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "女修道院",
+        "examples": [
+          {
+            "sentence": "The French nunnery preserves 12th-century Gregorian chants.",
+            "sentence_zh": "这家法国女修道院保存着12世纪的格里高利圣咏。"
+          },
+          {
+            "sentence": "Visiting a nunnery requires dressing modestly.",
+            "sentence_zh": "参观女修道院需衣着得体。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "尼姑庵",
+        "examples": [
+          {
+            "sentence": "The nunnery on Wutai Mountain serves vegetarian noodles to pilgrims.",
+            "sentence_zh": "五台山的尼姑庵为香客提供素面。"
+          },
+          {
+            "sentence": "She decided to ordain at a nunnery after traveling the Silk Road.",
+            "sentence_zh": "游历丝绸之路后，她决定在尼姑庵出家。"
+          }
+        ]
+      }
+    ],
+    "teach": "nunnery其实是修女版闺蜜宿舍👯♀️！莎士比亚在《哈姆雷特》里让男主对女主说'Get thee to a nunnery'（去当修女吧），其实是在骂'你该进修道院反省'😈。现代用法：'quiet as a nunnery'（安静如庵堂）形容极致宁静🧘♀️，'nunnery diet'指清淡饮食🥗。记住：不是所有nunnery都像《修女也疯狂》那么嗨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'囊内里'→囊(na)内(nun)的修道院(ery)",
+        "易混词对比：monastery（男修道院）vs nunnery",
+        "视觉记忆：nun+ery=修女(nun)的领地(ery)，就像'bakery'是面包师的地盘"
+      ]
+    }
+  },
+  {
+    "word": "nurse",
+    "translation": "n. 护士, 保姆, 奶妈\\nvt. 看护, 照顾, 培养\\nvi. 喂奶, 看护病人",
+    "etymology": {
+      "breakdown": [
+        "nur",
+        "se"
+      ],
+      "meaning_connection": "词根nur与营养(nourish)同源，-se为古英语后缀→本义为'哺乳者'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "护士",
+        "examples": [
+          {
+            "sentence": "The nurse in PPE looked like a space ranger during the pandemic.",
+            "sentence_zh": "穿防护服的护士在疫情期间像太空战士。"
+          },
+          {
+            "sentence": "Night shift nurses deserve triple salary for staring at monitors.",
+            "sentence_zh": "夜班护士盯着监护仪该拿三倍工资。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "保姆",
+        "examples": [
+          {
+            "sentence": "The British royal family hires nurses who can speak Mandarin.",
+            "sentence_zh": "英国王室雇佣会说普通话的保姆。"
+          },
+          {
+            "sentence": "AI nurses now read bedtime stories in bilingual kindergartens.",
+            "sentence_zh": "人工智能保姆在双语幼儿园讲睡前故事。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "奶妈",
+        "examples": [
+          {
+            "sentence": "In ancient times, wealthy families would hire wet nurses.",
+            "sentence_zh": "古代大户人家会雇佣奶妈。"
+          },
+          {
+            "sentence": "The imperial nurse's portrait hangs in the Palace Museum.",
+            "sentence_zh": "这位皇家奶妈的画像保存在故宫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "看护",
+        "examples": [
+          {
+            "sentence": "He nursed the injured pigeon back to health with an eyedropper.",
+            "sentence_zh": "他用滴管照料受伤的鸽子恢复健康。"
+          },
+          {
+            "sentence": "Bamboo forests nurse newborn pandas like natural incubators.",
+            "sentence_zh": "竹林像天然恒温箱般看护新生熊猫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "培养",
+        "examples": [
+          {
+            "sentence": "The incubator nurses tech startups with free cloud services.",
+            "sentence_zh": "孵化器用免费云服务培育科技初创企业。"
+          },
+          {
+            "sentence": "She nursed her WeChat official account to 100k followers.",
+            "sentence_zh": "她把微信公众号培养到10万粉丝。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "喂奶",
+        "examples": [
+          {
+            "sentence": "The new mother is learning to nurse comfortably in public.",
+            "sentence_zh": "这位新手妈妈正在学习如何自在哺乳。"
+          },
+          {
+            "sentence": "Modern nursing rooms provide privacy for nursing mothers.",
+            "sentence_zh": "现代化母婴室为哺乳妈妈提供私密空间。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "nurse a grudge",
+        "meaning": "怀恨在心",
+        "examples": [
+          {
+            "sentence": "He's been nursing a grudge since his coworker ate his durian.",
+            "sentence_zh": "自从同事吃了他的榴莲他就耿耿于怀。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "nursing home",
+        "meaning": "养老院",
+        "examples": [
+          {
+            "sentence": "The high-end nursing home has mahjong robots.",
+            "sentence_zh": "这家高端养老院配备麻将机器人。"
+          }
+        ]
+      }
+    ],
+    "teach": "nurse是移动的爱心充电宝🔋！从罗马时期用山羊奶喂养婴儿的nutrix（拉丁语源），到现代ICU里的蓝光天使👼。说'资深护士'要用seasoned nurse（像老坛酸菜般有年头），'夜班'叫graveyard shift（听着就提神）。记住：能nurse病人的是天使，能nurse仇恨的是恶魔👿！",
+    "recite": {
+      "tips": [
+        "谐音梗：'乐死'→护士让病人快乐康复",
+        "易混词：nurture（培育）是nurse的升级版",
+        "记忆术：nurse=nutrition（营养）+rescue（救助）"
+      ]
+    }
   }
 ]
