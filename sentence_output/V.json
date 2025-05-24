@@ -33089,5 +33089,161 @@
         "记忆tip：想象抖音神曲从'通俗'变'庸俗'的过程"
       ]
     }
+  },
+  {
+    "word": "voluntary",
+    "translation": "a. 自动的, 自愿的, 故意的, 志愿的, 自发的\\nn. 自愿行动, 志愿者, 自由调",
+    "etymology": {
+      "breakdown": [
+        "volunt",
+        "ary"
+      ],
+      "meaning_connection": "词根volunt=意志（来自拉丁语voluntas），-ary表性质→与意志相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "自动的",
+        "examples": [
+          {
+            "sentence": "The automatic doors make voluntary movements when sensing people.",
+            "sentence_zh": "感应到人时自动门会做出自动开关动作。"
+          },
+          {
+            "sentence": "Robotic vacuum cleaners perform voluntary cleaning routines.",
+            "sentence_zh": "扫地机器人执行自动清洁程序。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "自愿的",
+        "examples": [
+          {
+            "sentence": "She made a voluntary confession to eating the last mooncake.",
+            "sentence_zh": "她自愿坦白吃掉了最后一个月饼。"
+          },
+          {
+            "sentence": "Many netizens provide voluntary translations for foreign dramas.",
+            "sentence_zh": "许多网友自愿为海外剧集提供翻译。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "故意的",
+        "examples": [
+          {
+            "sentence": "His voluntary mistake in the game caused heated discussions.",
+            "sentence_zh": "他在比赛中故意的失误引发热议。"
+          },
+          {
+            "sentence": "The comedian's voluntary mispronunciation became his signature style.",
+            "sentence_zh": "喜剧演员故意的发音错误成了他的标志风格。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "志愿的",
+        "examples": [
+          {
+            "sentence": "Voluntary teachers in rural areas deserve our respect.",
+            "sentence_zh": "乡村志愿教师值得我们尊敬。"
+          },
+          {
+            "sentence": "The voluntary blood donation bus is parked near the metro station.",
+            "sentence_zh": "无偿献血车停靠在地铁站附近。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "自发的",
+        "examples": [
+          {
+            "sentence": "Voluntary applause broke out when the doctor finished the 8-hour surgery.",
+            "sentence_zh": "医生完成8小时手术后，现场响起自发掌声。"
+          },
+          {
+            "sentence": "The voluntary organization of neighborhood防疫志愿队 moved everyone.",
+            "sentence_zh": "居民自发组织的防疫志愿队感动了所有人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "自愿行动",
+        "examples": [
+          {
+            "sentence": "His voluntary of sharing passwords led to data leakage.",
+            "sentence_zh": "他自愿分享密码的行为导致数据泄露。"
+          },
+          {
+            "sentence": "The millionaire's voluntary of donating his fortune surprised the public.",
+            "sentence_zh": "该富豪自愿捐献财产的行为震惊公众。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "志愿者",
+        "examples": [
+          {
+            "sentence": "Over 14,000 voluntaries served during the Beijing Olympics.",
+            "sentence_zh": "北京奥运会期间有超1.4万名志愿者服务。"
+          },
+          {
+            "sentence": "The pink-vested voluntaries guide tourists at the scenic spot.",
+            "sentence_zh": "穿粉色马甲的志愿者在景区为游客指路。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "自由调",
+        "examples": [
+          {
+            "sentence": "This church organ has exquisite voluntaries from Baroque period.",
+            "sentence_zh": "这座教堂管风琴保存着巴洛克时期的精美自由调。"
+          },
+          {
+            "sentence": "The pianist improvised a voluntary before the formal performance.",
+            "sentence_zh": "钢琴家在正式演出前即兴演奏了自由调。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "voluntary work",
+        "meaning": "志愿工作",
+        "examples": [
+          {
+            "sentence": "Her voluntary work at the panda base earned her the title 'Honorary Zookeeper'.",
+            "sentence_zh": "她在熊猫基地的志愿工作为她赢得'荣誉饲养员'称号。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "voluntary muscle",
+        "meaning": "随意肌",
+        "examples": [
+          {
+            "sentence": "Facial expressions involve both voluntary and involuntary muscles.",
+            "sentence_zh": "面部表情同时涉及随意肌和不随意肌。"
+          }
+        ]
+      }
+    ],
+    "teach": "voluntary是'自由意志'的变形金刚🤖！作形容词时像自动门感应人→自动的（voluntary movement）；作名词时像穿红马甲的朝阳群众→志愿者（Olympic voluntaries）；音乐领域秒变即兴钢琴师🎹（organ voluntary）。最绝的是故意行为就像'我自愿背锅'时的微妙表情😏。搭配'voluntary confession'比'主动承认'更地道，说'志愿工作'别用volunteer work而是voluntary service！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我轮腿累'→志愿者(voluntary)跑腿跑到腿累",
+        "易混词：volunteer侧重人，voluntary侧重性质"
+      ]
+    }
   }
 ]
