@@ -32113,5 +32113,744 @@
         "联想：Windows系统总弹出'vulnerability update'提醒🔔"
       ]
     }
+  },
+  {
+    "word": "vita",
+    "translation": "n. 个人简历\\n[医] 生活, 生存, 生命",
+    "etymology": {
+      "breakdown": [
+        "vit",
+        "a"
+      ],
+      "meaning_connection": "词根vit=生命，后缀-a表阴性名词→原指'生命记录'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "个人简历",
+        "examples": [
+          {
+            "sentence": "His vita lists 5 invented languages like Klingon.",
+            "sentence_zh": "他的简历里列着5种自创语言（包括克林贡语）。"
+          },
+          {
+            "sentence": "The professor's vita is longer than 'The Lord of the Rings' trilogy.",
+            "sentence_zh": "这位教授的简历比《指环王》三部曲还长。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "curriculum vitae",
+        "meaning": "完整履历（正式）",
+        "examples": [
+          {
+            "sentence": "She submitted her curriculum vitae printed on papyrus as a joke.",
+            "sentence_zh": "她开玩笑地提交了印在莎草纸上的履历。"
+          }
+        ]
+      }
+    ],
+    "teach": "vita其实是拉丁语'生命'💀的痕迹！现代简历就像人生压缩包🗂️，而古代欧洲学者写vita会从'在修道院抓老鼠'开始写起🐭。说'精简简历'用one-page vita（一页定生死），'美化简历'叫polish your vita就像给自拍加滤镜🤳。记住：你的vita决定HR是否给你续命！",
+    "recite": {
+      "tips": [
+        "谐音梗：'微它'→微信里的vita微它",
+        "易混词对比：vita(简历) vs. video(视频简历)"
+      ]
+    }
+  },
+  {
+    "word": "vogue",
+    "translation": "n. 时尚, 时髦, 流行\\na. 流行的, 时髦的",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自法语'vogue'（流行），原指'划船动作的节奏感'，后引申为'时尚浪潮'的流动感"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "时尚",
+        "examples": [
+          {
+            "sentence": "Bubble tea became the vogue among Shanghai office workers in 2018.",
+            "sentence_zh": "2018年奶茶成为上海上班族的时尚。"
+          },
+          {
+            "sentence": "The vogue for hanfu reflects cultural confidence revival.",
+            "sentence_zh": "汉服时尚折射出文化自信的复兴。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "流行",
+        "examples": [
+          {
+            "sentence": "Livestreaming e-commerce is in vogue across rural China.",
+            "sentence_zh": "直播电商正在中国农村地区流行。"
+          },
+          {
+            "sentence": "The vogue for AI chatbots peaked after ChatGPT's release.",
+            "sentence_zh": "AI聊天机器人的流行在ChatGPT发布后达到顶峰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "时髦的",
+        "examples": [
+          {
+            "sentence": "Vogue street snacks often appear on Xiaohongshu first.",
+            "sentence_zh": "时髦的街头小吃往往最先出现在小红书上。"
+          },
+          {
+            "sentence": "Her vogue outfit combined qipao with sneakers.",
+            "sentence_zh": "她时髦的穿搭将旗袍与运动鞋混搭。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "in vogue",
+        "meaning": "正流行",
+        "examples": [
+          {
+            "sentence": "Using douyin filters is totally in vogue now.",
+            "sentence_zh": "使用抖音滤镜现在完全正流行。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vogue word",
+        "meaning": "流行语",
+        "examples": [
+          {
+            "sentence": "'Yeet hau' was the vogue word among GenZ last summer.",
+            "sentence_zh": "'耶啵'是去年夏天Z世代的流行语。"
+          }
+        ]
+      }
+    ],
+    "teach": "vogue是'我潮人'🌊！就像《Vogue》杂志每期封面都是时尚风向标👗，说'过气'用go out of vogue就像火锅里的last piece没人夹🥢。记住：'装潮人'叫pose as vogue（摆拍假装时尚），真时尚是effortlessly vogue（毫不费力的时髦）💅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我够'→我够(vogue)时尚吗？",
+        "易混词：fashion侧重款式，vogue强调流行范围"
+      ]
+    }
+  },
+  {
+    "word": "void",
+    "translation": "n. 空虚, 空间, 空白, 空隙, 空虚感\\na. 空的, 无效的, 无人的, 没有的, 无用的\\n[计] 脱墨; 空白点",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语'vocivus'（空的），经古法语'vuide'进入英语，天生带着'空荡荡'的基因"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "空虚感",
+        "examples": [
+          {
+            "sentence": "After finishing a 100-episode drama, she felt a void in her heart.",
+            "sentence_zh": "追完100集电视剧后，她心里泛起空虚感。"
+          },
+          {
+            "sentence": "The void left by his pet hamster was unexpectedly deep.",
+            "sentence_zh": "仓鼠去世留下的空虚感意外地深。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "空白区域",
+        "examples": [
+          {
+            "sentence": "There's a mysterious void behind my fridge collecting dust bunnies.",
+            "sentence_zh": "冰箱后面有个收集灰尘的神秘空白区。"
+          },
+          {
+            "sentence": "Architects designed a plant-filled void in the shopping mall.",
+            "sentence_zh": "建筑师在商场设计了种满植物的空白区域。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无效的",
+        "examples": [
+          {
+            "sentence": "The contract became void after the company ate its own stamp.",
+            "sentence_zh": "公司吞掉公章后合同变得无效。"
+          },
+          {
+            "sentence": "Your parking ticket is void if you lick the barcode.",
+            "sentence_zh": "舔过条形码的停车票就无效了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无人的",
+        "examples": [
+          {
+            "sentence": "The void subway carriage at 3am is both creepy and peaceful.",
+            "sentence_zh": "凌晨三点无人的地铁车厢既恐怖又宁静。"
+          },
+          {
+            "sentence": "She enjoyed singing in the void elevator like a superstar.",
+            "sentence_zh": "她喜欢在无人的电梯里像明星般唱歌。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fill the void",
+        "meaning": "填补空虚",
+        "examples": [
+          {
+            "sentence": "He tried to fill the void with 10 orders of spicy crayfish.",
+            "sentence_zh": "他试图用十份麻辣小龙虾填补空虚。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "null and void",
+        "meaning": "完全无效",
+        "examples": [
+          {
+            "sentence": "Your gym membership goes null and void if you only take selfies there.",
+            "sentence_zh": "如果只在健身房自拍，会员资格就完全无效。"
+          }
+        ]
+      }
+    ],
+    "teach": "void是宇宙级空虚☄️！就像奶茶喝到底的空杯🥤（empty void），或是分手后的聊天记录🗑️（emotional void）。说'心里空落落'可以讲feeling void，'作废发票'叫voided ticket🚫。搭配'fill the void'比'吃顿好的'高级多了！记住：void比empty更哲学，就像薛定谔的猫箱📦——既空又满。",
+    "recite": {
+      "tips": [
+        "谐音梗：'我饿的'→胃里void的感觉",
+        "对比记忆：empty指物理空，void常带情感色彩",
+        "画个黑洞图案帮助记忆宇宙级空虚"
+      ]
+    }
+  },
+  {
+    "word": "vocabulary",
+    "translation": "n. 词汇(量), 词汇表\\n[计] 词表",
+    "etymology": {
+      "breakdown": [
+        "voc",
+        "abul",
+        "ary"
+      ],
+      "meaning_connection": "词根voc=声音/呼唤（如voice），-ary表集合体→能发出的所有声音的集合"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "词汇量",
+        "examples": [
+          {
+            "sentence": "His Douyin-addicted vocabulary shrinks to just 'awsl' and 'yyds'.",
+            "sentence_zh": "他沉迷抖音后词汇量萎缩到只剩'啊我死了'和'永远滴神'。"
+          },
+          {
+            "sentence": "A chef's vocabulary includes 50 ways to say 'spicy' in Sichuan dialect.",
+            "sentence_zh": "四川厨师的词汇量包含50种说'辣'的方言表达。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "词汇表",
+        "examples": [
+          {
+            "sentence": "The CET-6 vocabulary booklet has become a weapon against insomnia.",
+            "sentence_zh": "六级词汇本已变成对抗失眠的武器。"
+          },
+          {
+            "sentence": "Her phone's vocabulary automatically updates with new internet slang.",
+            "sentence_zh": "她的手机词汇表会自动更新网络流行语。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "active vocabulary",
+        "meaning": "积极词汇",
+        "examples": [
+          {
+            "sentence": "My active vocabulary in English is mostly food delivery terms.",
+            "sentence_zh": "我的英文积极词汇主要是外卖术语。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vocabulary explosion",
+        "meaning": "词汇爆发期",
+        "examples": [
+          {
+            "sentence": "Toddlers experience vocabulary explosion like ChatGPT learning memes.",
+            "sentence_zh": "幼儿的词汇爆发期就像ChatGPT学习表情包。"
+          }
+        ]
+      }
+    ],
+    "teach": "vocabulary其实是'音库'🗣️：词根voc=声音（像vocal歌手），你的词汇量就是你能调用的声音武器库💥。说'词汇贫乏'叫verbal poverty（语言贫穷），'专业术语'叫jargon就像程序员说'撸代码'💻。记住：词汇量决定你在吵架时是战五渣还是辩论赛冠军🏆！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我开不了瑞'→词汇量不够开不了口",
+        "易混词：vocabulary(总量) vs. dictionary(词典)"
+      ]
+    }
+  },
+  {
+    "word": "votive",
+    "translation": "a. 奉献的, 还愿的, 表示愿心的",
+    "etymology": {
+      "breakdown": [
+        "vot",
+        "ive"
+      ],
+      "meaning_connection": "词根vot=立誓（同vow发誓），-ive表性质→与誓愿相关的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "奉献的",
+        "examples": [
+          {
+            "sentence": "The votive candles flickered in the temple like fireflies.",
+            "sentence_zh": "佛堂里的长明灯如萤火虫般闪烁。"
+          },
+          {
+            "sentence": "Her votive offering of mooncakes piled up like mini mountains.",
+            "sentence_zh": "她供奉的月饼堆成了小山。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "还愿的",
+        "examples": [
+          {
+            "sentence": "The grandma hung a votive tablet saying 'Thanks Guanyin for my grandson's gaokao score'.",
+            "sentence_zh": "奶奶挂了块'感谢观音保佑孙子高考'的还愿匾。"
+          },
+          {
+            "sentence": "Votive paper money with CEO portraits is trending in Taoist temples.",
+            "sentence_zh": "印着企业家头像的还愿纸钱正在道观流行。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "表示愿心的",
+        "examples": [
+          {
+            "sentence": "Young couples tie votive red ribbons on Wutong trees.",
+            "sentence_zh": "年轻情侣在梧桐树上系许愿红绳。"
+          },
+          {
+            "sentence": "Her WeChat avatar frame is a votive design for early retirement.",
+            "sentence_zh": "她的微信头像框是'早日退休'的许愿款。"
+          }
+        ]
+      }
+    ],
+    "teach": "votive本质是'电子功德+1'📿！古人用votive candle还愿，现代人用'转发锦鲤'🐟。在雍和宫看到'上岸还愿'的votive tablet，就像考前转杨超越。说'许愿'用make a votive offering比'wish'更虔诚，想还债？先来点votive joss paper（还愿纸钱）💰！记住：votive=立flag+打卡还愿的仪式感✨",
+    "recite": {
+      "tips": [
+        "谐音梗：'我踢舞'→还愿时跳还神舞（votive dance）",
+        "易混词：volitive（意愿的）没有宗教色彩"
+      ]
+    }
+  },
+  {
+    "word": "vouch",
+    "translation": "vi. 担保, 保证, 证明, 确定地说\\nvt. 担保, 证明, 断定, 传唤...出庭作证",
+    "etymology": {
+      "breakdown": [
+        "vouch"
+      ],
+      "meaning_connection": "源自古法语'vocher'，意为'召唤、呼唤'，与拉丁语'vocare'（呼叫）同源，引申出'为某人作证'的含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vi.",
+        "meaning": "担保",
+        "examples": [
+          {
+            "sentence": "I can vouch for his integrity when it comes to splitting the bill.",
+            "sentence_zh": "我可以为他在AA制时的诚信担保。"
+          },
+          {
+            "sentence": "No restaurant owner would vouch for that suspicious food delivery guy.",
+            "sentence_zh": "没有餐馆老板会为那个可疑的外卖小哥担保。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "保证",
+        "examples": [
+          {
+            "sentence": "The professor vouched that this WeChat article contained fake research.",
+            "sentence_zh": "教授保证这篇微信文章包含虚假研究。"
+          },
+          {
+            "sentence": "Can you vouch this douyin influencer really has 10 million fans?",
+            "sentence_zh": "你能保证这个抖音网红真有千万粉丝吗？"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "证明",
+        "examples": [
+          {
+            "sentence": "His Alipay transaction records vouched his alibi.",
+            "sentence_zh": "他的支付宝交易记录证明了不在场证据。"
+          },
+          {
+            "sentence": "The broken surveillance camera couldn't vouch for what happened.",
+            "sentence_zh": "坏掉的监控摄像头无法证明发生了什么。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "传唤出庭作证",
+        "examples": [
+          {
+            "sentence": "The court vouched three delivery drivers as witnesses.",
+            "sentence_zh": "法庭传唤三名外卖骑手出庭作证。"
+          },
+          {
+            "sentence": "They vouched the livestreamer to testify about the product quality.",
+            "sentence_zh": "他们传唤主播为产品质量作证。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vouch for",
+        "meaning": "为...担保",
+        "examples": [
+          {
+            "sentence": "No colleague dared to vouch for his bizarre excuse of 'my dog ate my work report'.",
+            "sentence_zh": "没有同事敢为他'我的狗吃了工作报告'的离谱借口担保。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "vouch safe",
+        "meaning": "确保安全",
+        "examples": [
+          {
+            "sentence": "The health code can't vouch safe your actual health condition.",
+            "sentence_zh": "健康码不能确保你的真实健康状况。"
+          }
+        ]
+      }
+    ],
+    "teach": "vouch就像人肉担保协议🤝！中世纪时要在法庭上'召唤(vocare)'证人作证📜，现在变成了'我用人格担保'（vouch for）。想用高级说法代替'believe me'？试试'I can vouch that...'比发毒誓文明多了🙏。记住：敢vouch的人要么是真兄弟，要么准备背锅！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我吃'→我吃(vouch)了这碗面，担保它没地沟油",
+        "对比记忆：guarantee侧重书面保证，vouch更侧重个人信用背书"
+      ]
+    }
+  },
+  {
+    "word": "vowel",
+    "translation": "n. 元音\\na. 元音的",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自拉丁语vocalis，意为'发声的'，因为元音是语音中最响亮的部分"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "元音",
+        "examples": [
+          {
+            "sentence": "The word 'queue' has four vowels but only one is pronounced.",
+            "sentence_zh": "单词queue有四个元音但只有一个发音。"
+          },
+          {
+            "sentence": "Chinese has fewer vowels than Finnish which boasts 15 vowel sounds.",
+            "sentence_zh": "汉语的元音比拥有15个元音的芬兰语要少。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "元音的",
+        "examples": [
+          {
+            "sentence": "The vowel system in Cantonese includes nasalized endings.",
+            "sentence_zh": "粤语的元音系统包含鼻化韵尾。"
+          },
+          {
+            "sentence": "Vowel harmony is a key feature in Turkish grammar.",
+            "sentence_zh": "元音和谐是土耳其语语法的关键特征。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "vowel shift",
+        "meaning": "元音演变",
+        "examples": [
+          {
+            "sentence": "The Great Vowel Shift changed English pronunciation dramatically.",
+            "sentence_zh": "元音大变位彻底改变了英语发音。"
+          }
+        ]
+      }
+    ],
+    "teach": "vowel是语言界的C位担当🎤！英语里'queue'这种元音刺客就像奶茶里的珍珠🥤（看着多喝着少）。中文的'啊喔鹅'三兄弟是基础款👶，而法语鼻化元音就像螺蛳粉的酸笋味👃（爱恨分明）。搭配学：vowel system(元音体系)比手机系统还复杂，vowel mark(元音符号)像汉语拼音的声调标注。记住：没有vowel的单词就像火锅没汤底🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哇哦'→发现元音时惊呼",
+        "易混词：vowel vs. consonant（元音vs辅音）"
+      ]
+    }
+  },
+  {
+    "word": "vow",
+    "translation": "n. 誓约, 誓言, 许愿\\nvi. 起誓, 发誓, 郑重宣言\\nvt. 立誓, 起誓要, 郑重地宣布",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古法语'vou'，最终源自拉丁语'votum'（许愿、承诺），与宗教仪式中的庄严承诺密切相关"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "誓约",
+        "examples": [
+          {
+            "sentence": "The newlyweds exchanged bamboo-carved vows in Hangzhou.",
+            "sentence_zh": "新婚夫妇在杭州交换了竹雕誓约。"
+          },
+          {
+            "sentence": "Monks' vegetarian vows sometimes get tested by hotpot smells.",
+            "sentence_zh": "僧侣的素食誓约时常被火锅香气考验。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "誓言",
+        "examples": [
+          {
+            "sentence": "His vow to quit spicy food lasted exactly one malatang night.",
+            "sentence_zh": "他戒辣的誓言在遇到麻辣烫当晚就破功了。"
+          },
+          {
+            "sentence": "The politician's anti-corruption vow sounded like a broken erhu string.",
+            "sentence_zh": "政客的反腐誓言听着像断掉的二胡弦。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "起誓",
+        "examples": [
+          {
+            "sentence": "They vowed under the West Lake moon never to argue over sweet vs salty tofu again.",
+            "sentence_zh": "他们在西湖月下起誓不再为甜咸豆腐脑争吵。"
+          },
+          {
+            "sentence": "Every Chinese New Year we vow to exercise, until the dumplings arrive.",
+            "sentence_zh": "每年春节我们都起誓要健身，直到饺子端上桌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "郑重宣布",
+        "examples": [
+          {
+            "sentence": "The CEO vowed to replace all coffee machines with tea sets.",
+            "sentence_zh": "CEO郑重宣布要用茶具替换所有咖啡机。"
+          },
+          {
+            "sentence": "My grandma vowed to teach the neighborhood kids mahjong.",
+            "sentence_zh": "我奶奶郑重宣布要教小区孩子打麻将。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take a vow",
+        "meaning": "立下誓言",
+        "examples": [
+          {
+            "sentence": "Buddhist nuns take vows of silence during morning chanting.",
+            "sentence_zh": "比丘尼晨诵时立下止语誓言。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "wedding vows",
+        "meaning": "结婚誓言",
+        "examples": [
+          {
+            "sentence": "Their wedding vows included promises to share the last xiaolongbao.",
+            "sentence_zh": "他们的结婚誓言包含分享最后一个小笼包的承诺。"
+          }
+        ]
+      }
+    ],
+    "teach": "vow是语言界的'按手印'🤝！古代欧洲人对着剑柄发誓⚔️（就像我们按红手印），'打破誓言'叫break a vow比'放鸽子'严重多了🚫。要说'发毒誓'可以用swear a solemn vow，而'flag立必倒'是Those who vow loudest often fail fastest🗣️💥。记住：vow比promise更庄重，就像结婚证vs微信承诺！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我喔'→认真'我喔'(vow)一声就是发誓",
+        "易混词对比：vow(庄重誓言) vs oath(法律/宗教誓言) vs promise(日常承诺)",
+        "记忆tip：vow开头字母V像发誓时举起的两根手指✌️"
+      ]
+    }
+  },
+  {
+    "word": "volume",
+    "translation": "n. 册, 卷, 体积, 容量, 大量, 许多, 份量, 音量\\nvi. 成团卷起\\nvt. 把...收集成卷\\na. 大量的\\n[计] 卷",
+    "etymology": {
+      "breakdown": [
+        "vol",
+        "ume"
+      ],
+      "meaning_connection": "词根vol=滚动/卷曲，-ume表名词后缀→原指'卷轴'，后衍生出'容量''音量'等含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "册/卷",
+        "examples": [
+          {
+            "sentence": "The library's ancient volumes smell like grandma's bookshelf.",
+            "sentence_zh": "图书馆的古籍散发着奶奶书柜的味道。"
+          },
+          {
+            "sentence": "He donated 50 volumes of manga to the school.",
+            "sentence_zh": "他向学校捐赠了50册漫画书。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "体积",
+        "examples": [
+          {
+            "sentence": "The volume of this durian equals three watermelons.",
+            "sentence_zh": "这个榴莲的体积相当于三个西瓜。"
+          },
+          {
+            "sentence": "Scientists calculated the volume of the Forbidden City.",
+            "sentence_zh": "科学家计算了故宫的建筑体积。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "音量",
+        "examples": [
+          {
+            "sentence": "Turn down the volume when your mom starts yelling.",
+            "sentence_zh": "当你妈妈开始吼叫时记得调低音量。"
+          },
+          {
+            "sentence": "The concert's volume made my phone vibrate.",
+            "sentence_zh": "演唱会的音量让我手机都在震动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "大量",
+        "examples": [
+          {
+            "sentence": "A volume of tourists flooded into the small town.",
+            "sentence_zh": "大量游客涌入这个小镇。"
+          },
+          {
+            "sentence": "She received volumes of fan mail after the show.",
+            "sentence_zh": "演出后她收到海量粉丝来信。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "成团卷起",
+        "examples": [
+          {
+            "sentence": "The snake's body volumes when threatened.",
+            "sentence_zh": "蛇受威胁时会盘卷成团。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "把...收集成卷",
+        "examples": [
+          {
+            "sentence": "The archivist volumes ancient scrolls with silk ribbons.",
+            "sentence_zh": "档案管理员用丝带将古籍卷轴捆扎成卷。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "speak volumes",
+        "meaning": "充分说明",
+        "examples": [
+          {
+            "sentence": "Her eye-roll spoke volumes about the meeting.",
+            "sentence_zh": "她的白眼充分说明了对会议的看法。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "volume discount",
+        "meaning": "批量折扣",
+        "examples": [
+          {
+            "sentence": "We got a volume discount for buying 1000 mooncakes.",
+            "sentence_zh": "因为我们买了1000个月饼获得了批量折扣。"
+          }
+        ]
+      }
+    ],
+    "teach": "volume是史上最忙单词📚💿📦！当书卷用时像竹简哗啦啦展开，当音量用时像广场舞大妈音响🔊，当体积用时像塞满快递的电梯📦。记住：'vol'都是卷曲派——卷书(volume)、转圈(volvo)、甚至伏特加(vodka)都要转瓶喝🍸！说'超大声'别用big sound，要说ear-splitting volume才地道！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我流蜜'→蜂蜜成卷(volume)流淌",
+        "易混词：volumn（错误拼写）vs volume（正确）",
+        "视觉化：把单词里的'vol'想象成漩涡🌀"
+      ]
+    }
   }
 ]
