@@ -32852,5 +32852,166 @@
         "视觉化：把单词里的'vol'想象成漩涡🌀"
       ]
     }
+  },
+  {
+    "word": "voter",
+    "translation": "n. 选民, 投票人\\n[法] 选民, 选举人, 投票人",
+    "etymology": {
+      "breakdown": [
+        "vote",
+        "er"
+      ],
+      "meaning_connection": "词根vote=投票，后缀-er表'执行动作的人'→执行投票的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "选民",
+        "examples": [
+          {
+            "sentence": "The elderly voter brought her own stamp for ballot privacy.",
+            "sentence_zh": "这位老年选民自带印章以保护选票隐私。"
+          },
+          {
+            "sentence": "Liyuan's first-time voters took selfies with their voter registration cards.",
+            "sentence_zh": "梨园区的首投族们拿着选民证自拍留念。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "投票人",
+        "examples": [
+          {
+            "sentence": "Live-streamed debates help voters make informed decisions.",
+            "sentence_zh": "直播辩论帮助投票人做出知情选择。"
+          },
+          {
+            "sentence": "The app reminds voters about upcoming elections with dumpling emojis.",
+            "sentence_zh": "这款应用用饺子emoji提醒投票人即将到来的选举。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "eligible voter",
+        "meaning": "合格选民",
+        "examples": [
+          {
+            "sentence": "College students account for 21% of eligible voters this year.",
+            "sentence_zh": "大学生占今年合格选民的21%。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "voter turnout",
+        "meaning": "投票率",
+        "examples": [
+          {
+            "sentence": "Free spicy crayfish boosted voter turnout in Hunan province.",
+            "sentence_zh": "免费麻辣小龙虾提升了湖南省的投票率。"
+          }
+        ]
+      }
+    ],
+    "teach": "voter本质是'投喂员'🗳️：古代雅典用黑白豆子投票→现代用电子屏'喂'选票🍚。说'摇摆选民'就像火锅选汤底🍲（swing voter），'弃权'叫sit on the fence像在烧烤摊纠结点不点腰子🍢。记住：当voter就像在美团给差评，你的选择真的能改变世界！",
+    "recite": {
+      "tips": [
+        "谐音梗：'投它'→ voter就是决定投给谁的人",
+        "易混词：vote（投票动作）vs voter（投票人）",
+        "记忆tip：把er想成'人'字旁，vote+er=投票的人"
+      ]
+    }
+  },
+  {
+    "word": "volunteer",
+    "translation": "n. 志愿者\\na. 志愿的\\nv. 自愿",
+    "etymology": {
+      "breakdown": [
+        "vol",
+        "un",
+        "teer"
+      ],
+      "meaning_connection": "词根vol=意愿（来自拉丁语voluntas），-un为连接成分，-teer表人→'凭意愿行动的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "志愿者",
+        "examples": [
+          {
+            "sentence": "Panda base volunteers must clean 20kg of bamboo poop daily.",
+            "sentence_zh": "熊猫基地志愿者每天要清理20公斤竹便便。"
+          },
+          {
+            "sentence": "Winter Olympics volunteers became instant celebrities on Douyin.",
+            "sentence_zh": "冬奥会志愿者在抖音上瞬间走红。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "志愿的",
+        "examples": [
+          {
+            "sentence": "The volunteer teaching program changed rural kids' lives.",
+            "sentence_zh": "这项志愿支教项目改变了乡村孩子的命运。"
+          },
+          {
+            "sentence": "His volunteer firefighting saved three cats from a tree.",
+            "sentence_zh": "他志愿消防员的身份救了困在树上的三只猫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "自愿",
+        "examples": [
+          {
+            "sentence": "She volunteered to test the world's spiciest hotpot.",
+            "sentence_zh": "她自愿试吃全球最辣火锅。"
+          },
+          {
+            "sentence": "Tech geeks volunteered to debug the health code system.",
+            "sentence_zh": "程序员们自愿为健康码系统除虫。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "volunteer for",
+        "meaning": "自愿承担",
+        "examples": [
+          {
+            "sentence": "He volunteered for the mission to deliver supplies to Shanghai.",
+            "sentence_zh": "他自愿承担给上海运送物资的任务。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "volunteer army",
+        "meaning": "志愿军",
+        "examples": [
+          {
+            "sentence": "The volunteer army crossed the Yalu River with frozen potatoes as rations.",
+            "sentence_zh": "志愿军带着冻土豆作干粮跨过鸭绿江。"
+          }
+        ]
+      }
+    ],
+    "teach": "volunteer其实是'我乐意'三字浓缩💪！古代法国贵族打仗全凭vol(意愿)，现代志愿者就像活雷锋🧑‍🤝‍🧑。说'义务劳动'叫pro bono（拉丁语），但'被迫自愿'是中国特色口头禅😅。记住：当你说'I volunteer!'时，就像哈利波特举起魔杖般英勇⚡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'我轮替儿'→志愿者轮流值班",
+        "易混词：volunteer（自愿者） vs. pioneer（先锋队员）",
+        "记忆tip：联想Volkswagen（大众汽车）+ pioneer = 志愿先锋"
+      ]
+    }
   }
 ]
