@@ -18093,5 +18093,360 @@
         "易混词：hamster（仓鼠没有长尾巴） vs gerbil（沙鼠尾巴像小扫把）"
       ]
     }
+  },
+  {
+    "word": "glaciation",
+    "translation": "n. 冻结成冰, 冰川作用",
+    "etymology": {
+      "breakdown": [
+        "glaci",
+        "ation"
+      ],
+      "meaning_connection": "词根glaci=冰（源自拉丁语glacies），后缀-ation表行为/过程→结冰的过程"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "冻结成冰",
+        "examples": [
+          {
+            "sentence": "The glaciation of Lake Baikal creates surreal ice caves every winter.",
+            "sentence_zh": "贝加尔湖每年冬季的冻结成冰现象会形成超现实的冰洞。"
+          },
+          {
+            "sentence": "Scientists found evidence of sudden glaciation in the last Ice Age.",
+            "sentence_zh": "科学家发现了上一个冰河时期突然冻结成冰的证据。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "冰川作用",
+        "examples": [
+          {
+            "sentence": "The strange rock shapes in Zhangjiajie were formed by ancient glaciation.",
+            "sentence_zh": "张家界奇特的岩石形状是由远古冰川作用形成的。"
+          },
+          {
+            "sentence": "Modern climate change is reversing natural glaciation cycles.",
+            "sentence_zh": "现代气候变化正在逆转自然的冰川作用周期。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "glaciation period",
+        "meaning": "冰期",
+        "examples": [
+          {
+            "sentence": "Mammoths went extinct during the last glaciation period.",
+            "sentence_zh": "猛犸象在最后一个冰期灭绝。"
+          }
+        ]
+      }
+    ],
+    "teach": "glaciation其实是地球的'冷冻模式'❄️！冰川作用就像天然3D打印机🖨️，用几万年时间雕刻出阿尔卑斯山脉。要说'超级冷'可以用brass monkey weather（冷到铜猴雕像都会冻裂），'冰河时期'叫Ice Age就像《疯狂原始人》🐻的生存挑战！记住：下次吃刨冰时，你正在体验迷你版glaciation！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哥累谁醒'→冰川作用让哥特人累醒",
+        "易混词对比：glacier(冰川)是名词，glaciation(冰川作用)是过程",
+        "记忆tip：想象格力(glaci)空调把地球调成制冷模式"
+      ]
+    }
+  },
+  {
+    "word": "gift",
+    "translation": "n. 礼物, 赠予, 天才\\nvt. 赋予",
+    "etymology": {
+      "breakdown": [
+        "gif",
+        "t"
+      ],
+      "meaning_connection": "古英语gift=给予，与德语Gift(毒药)同源→古人认为收礼如中毒般必须回礼"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "礼物",
+        "examples": [
+          {
+            "sentence": "The red envelope is the ultimate gift during Chinese New Year.",
+            "sentence_zh": "红包是春节期间的终极礼物。"
+          },
+          {
+            "sentence": "She wrapped the gift with panda-printed paper.",
+            "sentence_zh": "她用熊猫图案的包装纸包礼物。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "赠予",
+        "examples": [
+          {
+            "sentence": "The art collection was a gift to the nation.",
+            "sentence_zh": "这批艺术收藏是对国家的赠予。"
+          },
+          {
+            "sentence": "His speech emphasized the gift of knowledge.",
+            "sentence_zh": "他的演讲强调了知识的赠予性质。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "天才",
+        "examples": [
+          {
+            "sentence": "Lang Lang has a gift for making piano keys sing.",
+            "sentence_zh": "郎朗拥有让琴键歌唱的天赋。"
+          },
+          {
+            "sentence": "Her gift for mimicry could fool even native speakers.",
+            "sentence_zh": "她的模仿天赋甚至能骗过母语者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "赋予",
+        "examples": [
+          {
+            "sentence": "Nature has gifted Sichuan with breathtaking landscapes.",
+            "sentence_zh": "大自然赋予四川令人窒息的美景。"
+          },
+          {
+            "sentence": "The tech giant gifted every employee with VR headsets.",
+            "sentence_zh": "这家科技巨头给每位员工配备了VR眼镜。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "gift with",
+        "meaning": "天生具备",
+        "examples": [
+          {
+            "sentence": "The panda is gifted with irresistible cuteness.",
+            "sentence_zh": "熊猫天生具备不可抗拒的萌态。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "gift wrap",
+        "meaning": "礼品包装",
+        "examples": [
+          {
+            "sentence": "Can you gift wrap this mahjong set for Grandma?",
+            "sentence_zh": "能把这副麻将用礼品纸包给奶奶吗？"
+          }
+        ]
+      }
+    ],
+    "teach": "gift是甜蜜的陷阱🍯！德语里Gift=毒药💀（古人觉得收礼必须回礼像中毒）。说'天才'用have a gift like...（像周杰伦的绝对音感🎵），'免费赠品'叫freebie比free gift更地道。搭配gift wrap（包礼物）时记住：中国红纸比蝴蝶结🎀更有仪式感！",
+    "recite": {
+      "tips": [
+        "谐音梗：'给富的'→给富豪的gift都是限量版",
+        "易混词：present(gift同义词但更口语)/talent(后天才能)"
+      ]
+    }
+  },
+  {
+    "word": "glorious",
+    "translation": "a. 光荣的",
+    "etymology": {
+      "breakdown": [
+        "glori",
+        "ous"
+      ],
+      "meaning_connection": "词根glori=荣耀（源自拉丁语gloria），后缀-ous=充满...的→充满荣耀的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "光荣的",
+        "examples": [
+          {
+            "sentence": "The glorious history of Chinese porcelain spans thousands of years.",
+            "sentence_zh": "中国瓷器的光荣历史绵延数千年。"
+          },
+          {
+            "sentence": "Winning the championship was a glorious moment for the underdog team.",
+            "sentence_zh": "夺冠对这支弱旅而言是光荣时刻。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "辉煌的",
+        "examples": [
+          {
+            "sentence": "The Tang Dynasty is considered China's most glorious era of poetry.",
+            "sentence_zh": "唐朝被认为是中国诗歌最辉煌的时期。"
+          },
+          {
+            "sentence": "We witnessed the glorious sunset over the Great Wall.",
+            "sentence_zh": "我们目睹了长城上辉煌的日落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "极好的",
+        "examples": [
+          {
+            "sentence": "What a glorious day for hotpot with triple-spiced broth!",
+            "sentence_zh": "三拼锅底配火锅，多么美好的一天！"
+          },
+          {
+            "sentence": "The street food stall served us a glorious bowl of beef noodles.",
+            "sentence_zh": "街边摊给我们端来一碗极好的牛肉面。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "glorious victory",
+        "meaning": "辉煌胜利",
+        "examples": [
+          {
+            "sentence": "The e-sports team achieved glorious victory after 16-hour battles.",
+            "sentence_zh": "这支电竞战队经过16小时鏖战取得辉煌胜利。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "glorious food",
+        "meaning": "美味佳肴",
+        "examples": [
+          {
+            "sentence": "Auntie Wang's glorious food healed my homesickness.",
+            "sentence_zh": "王阿姨的美味佳肴治愈了我的乡愁。"
+          }
+        ]
+      }
+    ],
+    "teach": "glorious是自带BGM的单词🎵！古罗马胜利者头戴'荣光'(gloria)桂冠🏆，如今我们说'glorious food'就像《舌尖上的中国》滤镜🍜。要夸'超棒'可以用glorious代替awesome，比如'glorious hair day'（头发状态绝了）💇♀️。记住：从奥运金牌到完美煎饼果子，都配得上glorious！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哥老帅死了'→哥哥的glorious时刻",
+        "易混词：gorgeous(华丽的) vs glorious(光荣的)"
+      ]
+    }
+  },
+  {
+    "word": "globe",
+    "translation": "n. 球, 球状物, 地球仪, 天体\\nv. (使)成球状",
+    "etymology": {
+      "breakdown": [
+        "glob",
+        "e"
+      ],
+      "meaning_connection": "词根glob=球体，-e为名词后缀。源自拉丁语globus（团块）。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "球",
+        "examples": [
+          {
+            "sentence": "The glassblower shaped molten glass into a perfect globe.",
+            "sentence_zh": "吹玻璃匠将熔融玻璃塑成完美的球体。"
+          },
+          {
+            "sentence": "We use crystal globes as wedding decorations.",
+            "sentence_zh": "我们用水晶球作为婚礼装饰。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "球状物",
+        "examples": [
+          {
+            "sentence": "The snow globe contains a miniature Eiffel Tower.",
+            "sentence_zh": "雪花球里有微缩的埃菲尔铁塔。"
+          },
+          {
+            "sentence": "She wears a perfume bottle shaped like a tiny globe.",
+            "sentence_zh": "她有个球形小香水瓶。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "地球仪",
+        "examples": [
+          {
+            "sentence": "His antique globe still shows the Qing Dynasty territory.",
+            "sentence_zh": "他的古董地球仪仍标注着清朝疆域。"
+          },
+          {
+            "sentence": "Elementary school classrooms usually have a globe.",
+            "sentence_zh": "小学教室通常会配备地球仪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "天体",
+        "examples": [
+          {
+            "sentence": "Astronomers observed a glowing globe in the night sky.",
+            "sentence_zh": "天文学家观测到夜空中发光的球状天体。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "(使)成球状",
+        "examples": [
+          {
+            "sentence": "The chef globed the ice cream with a special scoop.",
+            "sentence_zh": "厨师用特殊勺子把冰淇淋挖成球状。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "terrestrial globe",
+        "meaning": "地球仪",
+        "examples": [
+          {
+            "sentence": "This 18th-century terrestrial globe costs more than an iPhone.",
+            "sentence_zh": "这个18世纪的地球仪比iPhone还贵。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "globe-trotter",
+        "meaning": "环球旅行者",
+        "examples": [
+          {
+            "sentence": "My uncle is a true globe-trotter with stamps from 193 countries.",
+            "sentence_zh": "我叔叔是真正的环球客，有193国的邮票。"
+          }
+        ]
+      }
+    ],
+    "teach": "globe是地球的'丸子头'🌍！最早的globe其实是香料球（想象宋朝的香丸🧆），后来变成地理课转来转去的地球仪。说'全球变暖'叫globe warming就像火锅煮沸了整个星球🍲，'跨国企业'叫globe-spanning company就像海底捞开遍全世界🥢。记住：你的外卖APP就是现代版的globe-trotter！",
+    "recite": {
+      "tips": [
+        "谐音梗：'哥伦布'→哥伦布(globe)环游地球",
+        "易混词对比：globe（实体球体）vs. earth（行星名称）",
+        "记忆tip：GLOBE=Great Large Orb Ball Earth"
+      ]
+    }
   }
 ]

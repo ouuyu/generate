@@ -19041,5 +19041,442 @@
         "联想法：feeble=废+ble→废伯乐(连伯乐都废了)"
       ]
     }
+  },
+  {
+    "word": "fend",
+    "translation": "vt. 击退, 保护, 供养",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'fendian'（防御），与德语'abfenden'同源，核心概念为'抵挡'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "击退",
+        "examples": [
+          {
+            "sentence": "The panda fended off the drone with bamboo sticks.",
+            "sentence_zh": "熊猫用竹竿击退了无人机。"
+          },
+          {
+            "sentence": "She fended the mosquitoes with electric racket while camping.",
+            "sentence_zh": "露营时她用电动拍击退蚊虫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "保护",
+        "examples": [
+          {
+            "sentence": "Parents fend children from online scams by installing filters.",
+            "sentence_zh": "家长通过安装过滤软件保护孩子免受网络诈骗。"
+          },
+          {
+            "sentence": "The Great Wall was built to fend the empire against nomads.",
+            "sentence_zh": "长城建造是为了保护帝国抵御游牧民族。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "供养",
+        "examples": [
+          {
+            "sentence": "He fends his whole family by livestreaming farm work.",
+            "sentence_zh": "他通过直播农活供养全家。"
+          },
+          {
+            "sentence": "Gig economy helps fresh graduates fend themselves.",
+            "sentence_zh": "零工经济帮助应届生自我供养。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "fend for oneself",
+        "meaning": "自谋生计",
+        "examples": [
+          {
+            "sentence": "Left-behind children learn to fend for themselves early.",
+            "sentence_zh": "留守儿童早早学会自谋生计。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "fend off",
+        "meaning": "挡开",
+        "examples": [
+          {
+            "sentence": "The influencer fended off rumors with legal letters.",
+            "sentence_zh": "网红用律师函挡开谣言。"
+          }
+        ]
+      }
+    ],
+    "teach": "fend就像多功能盾牌🛡️：'击退'像用防狼喷雾赶色狼👊（fend off attackers），'保护'像给手机贴钢化膜📱（fend children from harm），'供养'像外卖骑手养家🛵（fend the family）。冷知识：英语谚语说'God helps those who fend for themselves'（天助自助者）💪，比中文'躺平'正能量多了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'防的'→防的(fend)就是保护",
+        "易混词对比：defend（全面防御） vs fend（应急性抵挡）",
+        "联想记忆：FEND = Fight + END（战斗终结者）"
+      ]
+    }
+  },
+  {
+    "word": "festival",
+    "translation": "a. 节日的, 喜庆的, 快乐的\\nn. 节日, 庆祝, 欢宴",
+    "etymology": {
+      "breakdown": [
+        "fest",
+        "iv",
+        "al"
+      ],
+      "meaning_connection": "拉丁词根fest=节日，-ive表性质，-al表名词/形容词→与欢庆相关的事物或特征"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adj.",
+        "meaning": "节日的",
+        "examples": [
+          {
+            "sentence": "The festival atmosphere filled the streets with red lanterns.",
+            "sentence_zh": "节日的氛围让街道挂满红灯笼。"
+          },
+          {
+            "sentence": "She wore a festival hanfu with phoenix patterns.",
+            "sentence_zh": "她穿着绣有凤凰图案的节日汉服。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "喜庆的",
+        "examples": [
+          {
+            "sentence": "Firecrackers created a festival noise throughout the village.",
+            "sentence_zh": "鞭炮声在村里制造出喜庆的喧闹。"
+          },
+          {
+            "sentence": "The festival mood was enhanced by dragon dance performances.",
+            "sentence_zh": "舞龙表演强化了喜庆的情绪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj.",
+        "meaning": "快乐的",
+        "examples": [
+          {
+            "sentence": "Children's festival laughter echoed in the temple fair.",
+            "sentence_zh": "孩子们快乐的欢笑在庙会上回荡。"
+          },
+          {
+            "sentence": "We exchanged festival greetings with sticky rice cakes.",
+            "sentence_zh": "我们边吃年糕边互道快乐的祝福。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "节日",
+        "examples": [
+          {
+            "sentence": "The Mid-Autumn Festival is when families reunite under the moon.",
+            "sentence_zh": "中秋节是家人在月下团聚的节日。"
+          },
+          {
+            "sentence": "Our company holds a dumpling-making festival before Lunar New Year.",
+            "sentence_zh": "我们公司在农历新年前举办包饺子节日活动。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "庆祝",
+        "examples": [
+          {
+            "sentence": "The harvest festival lasted three days with feasting.",
+            "sentence_zh": "丰收庆祝持续三天并伴有宴席。"
+          },
+          {
+            "sentence": "Lantern riddles are essential to the Lantern Festival celebrations.",
+            "sentence_zh": "灯谜是元宵节庆祝的必要环节。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "欢宴",
+        "examples": [
+          {
+            "sentence": "The emperor hosted a grand festival with 100 dishes.",
+            "sentence_zh": "皇帝用百道菜肴举办了盛大欢宴。"
+          },
+          {
+            "sentence": "Villagers prepared a festival featuring whole roasted lamb.",
+            "sentence_zh": "村民们准备了以烤全羊为特色的欢宴。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "spring festival",
+        "meaning": "春节",
+        "examples": [
+          {
+            "sentence": "Spring Festival travel rush is the largest human migration.",
+            "sentence_zh": "春运是最大规模的人类迁徙活动。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "music festival",
+        "meaning": "音乐节",
+        "examples": [
+          {
+            "sentence": "Strawberry Music Festival attracts hip young crowds.",
+            "sentence_zh": "草莓音乐节吸引着时髦的年轻人群。"
+          }
+        ]
+      }
+    ],
+    "teach": "festival本质是'欢乐浓度超标'时刻🎆！古罗马人用festus（节日）形容狂欢，现代人用music festival释放多巴胺🎵。中文说'过节像打仗'对应festive chaos（节日混乱），但'年味变淡'叫festival fatigue（节日疲劳）。记住：所有festival都逃不过三件套——吃撑/熬夜/钱包空空💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥柿多'→节日吃太多肥柿子",
+        "易混词：festive（adj.）指氛围，festival（n.）指活动"
+      ]
+    }
+  },
+  {
+    "word": "financially",
+    "translation": "adv. 金融上；财政上",
+    "etymology": {
+      "breakdown": [
+        "finance",
+        "ial",
+        "ly"
+      ],
+      "meaning_connection": "词根finance=金融，-ial表形容词后缀，-ly表副词后缀→与金融相关地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "金融上",
+        "examples": [
+          {
+            "sentence": "Bitcoin is financially risky but technologically fascinating.",
+            "sentence_zh": "比特币在金融上风险很高，但在技术上令人着迷。"
+          },
+          {
+            "sentence": "This app helps you analyze stocks financially in 3 seconds.",
+            "sentence_zh": "这个应用能在3秒内帮你金融分析股票。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "财政上",
+        "examples": [
+          {
+            "sentence": "The museum is financially supported by bubble tea sales.",
+            "sentence_zh": "该博物馆财政上靠奶茶销售支撑。"
+          },
+          {
+            "sentence": "Young couples often struggle financially after buying apartments.",
+            "sentence_zh": "年轻夫妇买房后常在财政上捉襟见肘。"
+          }
+        ]
+      }
+    ],
+    "teach": "financial就像你的支付宝年度账单📊！后缀-ly让它变成'钞能力'副词💸。要知道：'财政自由'是financial freedom（不是想买就买，是想不买就不买），'吃土'叫financially challenged（委婉说法）。记住这个公式：finance（钱）+ -ly = 用钱砸出来的状态💳！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭难吸力'→财政困难时吃饭都难吸溜面条",
+        "对比记忆：economically（经济上）vs financially（财政上）→ 前者宏观后者个人"
+      ]
+    }
+  },
+  {
+    "word": "filled",
+    "translation": "a. 加满的；装满的；满的",
+    "etymology": {
+      "breakdown": [
+        "fill",
+        "ed"
+      ],
+      "meaning_connection": "动词fill表示'填充'，后缀-ed构成形容词，表示'已完成的状态'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "加满的",
+        "examples": [
+          {
+            "sentence": "The bubble tea shop gives extra pearls if you ask for a filled cup.",
+            "sentence_zh": "如果你要求加满杯，奶茶店会多给珍珠。"
+          },
+          {
+            "sentence": "Her WeChat wallet is always filled with lucky money during Spring Festival.",
+            "sentence_zh": "春节期间她的微信钱包总是装满红包。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "装满的",
+        "examples": [
+          {
+            "sentence": "The delivery box was filled with steaming hot pot ingredients.",
+            "sentence_zh": "快递箱里装满了冒着热气的火锅食材。"
+          },
+          {
+            "sentence": "His Douyin account is filled with funny panda videos.",
+            "sentence_zh": "他的抖音账号里装满了搞笑熊猫视频。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "满的",
+        "examples": [
+          {
+            "sentence": "The high-speed train was completely filled during National Day holiday.",
+            "sentence_zh": "国庆节期间高铁完全满员。"
+          },
+          {
+            "sentence": "After the exam, my brain feels filled with Confucius quotes.",
+            "sentence_zh": "考完试后，我的大脑感觉装满了孔子语录。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "filled with",
+        "meaning": "充满...的",
+        "examples": [
+          {
+            "sentence": "The night market is filled with the smell of stinky tofu.",
+            "sentence_zh": "夜市里充满了臭豆腐的味道。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "filled to the brim",
+        "meaning": "满到边缘",
+        "examples": [
+          {
+            "sentence": "My mom's rice cooker is always filled to the brim during family gatherings.",
+            "sentence_zh": "家庭聚会时妈妈的饭锅总是满到边缘。"
+          }
+        ]
+      }
+    ],
+    "teach": "filled就像春节返程的行李箱🧳！古人用'满则溢'形容太满（filled to overflowing），现代版是奶茶的'加满杯'🥤。说'充满回忆'是filled with memories，但'吃太饱'可别说stomach filled，要说stuffed like a dumpling🥟。记住：filled是静态结果，filling才是填充动作！",
+    "recite": {
+      "tips": [
+        "谐音梗：'肥了的'→吃太多肚子肥了的(filled)",
+        "易混词对比：filled（已完成） vs filling（进行中）",
+        "联想：微信红包图标显示'金额已满'就是filled状态💴"
+      ]
+    }
+  },
+  {
+    "word": "financing",
+    "translation": "n. 融资, 理财, 筹集的资金\\n[经] 筹措资金, 理财",
+    "etymology": {
+      "breakdown": [
+        "fin",
+        "ance",
+        "ing"
+      ],
+      "meaning_connection": "词根fin=钱/终结，-ance表状态，-ing表动名词→与资金相关的行为状态"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "融资",
+        "examples": [
+          {
+            "sentence": "The startup secured unicorn-level financing within 3 months.",
+            "sentence_zh": "这家初创企业三个月内获得独角兽级别的融资。"
+          },
+          {
+            "sentence": "Crowdfunding is a creative way of film financing nowadays.",
+            "sentence_zh": "众筹是当下电影融资的创新方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "理财",
+        "examples": [
+          {
+            "sentence": "Alipay's financing tools help millennials manage pocket money.",
+            "sentence_zh": "支付宝的理财工具帮助年轻人管理零花钱。"
+          },
+          {
+            "sentence": "Grandma's traditional financing method was hiding cash in quilt layers.",
+            "sentence_zh": "奶奶的传统理财方式是把现金藏进被褥夹层。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "筹集的资金",
+        "examples": [
+          {
+            "sentence": "The bridge construction financing mainly comes from municipal bonds.",
+            "sentence_zh": "这座桥梁的建设资金主要来自市政债券。"
+          },
+          {
+            "sentence": "Livestreaming e-commerce quickly repaid all initial financing.",
+            "sentence_zh": "直播电商迅速偿还了全部启动资金。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "equity financing",
+        "meaning": "股权融资",
+        "examples": [
+          {
+            "sentence": "ByteDance's early equity financing included a hotpot restaurant owner.",
+            "sentence_zh": "字节跳动早期股权融资参与者包括一位火锅店老板。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "financing plan",
+        "meaning": "融资方案",
+        "examples": [
+          {
+            "sentence": "The crazy financing plan involved accepting payment in spicy crayfish.",
+            "sentence_zh": "这个疯狂的融资方案曾考虑接受麻辣小龙虾作为支付方式。"
+          }
+        ]
+      }
+    ],
+    "teach": "financing本质是'钱生钱'魔术💰→古罗马时期fin(钱根)就藏在finance里！想吐槽'融资难'可以说'harder than getting a Beijing hukou'（比拿北京户口还难），'资金链断裂'叫cash flow crisis就像突然没续费的视频会员📉。记住：好的financing应该像火锅——既要有肥牛（本金）也要有辣锅（回报）🌶️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饭难醒'→没钱吃饭才需要融资",
+        "易混词对比：finance（财务总称）vs financing（融资行为）",
+        "联想记忆：fin（鳍）+ancing→鲨鱼鳍状的资金流向图"
+      ]
+    }
   }
 ]

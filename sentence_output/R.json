@@ -18689,5 +18689,293 @@
         "易混词：reading（阅读） vs leading（领导）→领导在阅读"
       ]
     }
+  },
+  {
+    "word": "receding",
+    "translation": "v. 逐渐远离( recede的现在分词 ); 向后倾斜; 自原处后退或避开别人的注视; 尤指问题",
+    "etymology": {
+      "breakdown": [
+        "re",
+        "ced",
+        "ing"
+      ],
+      "meaning_connection": "前缀re-=向后，词根ced=走，-ing为现在分词后缀→字面意思'正在向后走'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "逐渐远离",
+        "examples": [
+          {
+            "sentence": "The ice cream truck's music is receding like my childhood memories.",
+            "sentence_zh": "冰淇淋车的音乐声正逐渐远去，就像我消逝的童年记忆。"
+          },
+          {
+            "sentence": "Her figure kept receding in the fog until it disappeared completely.",
+            "sentence_zh": "她的身影在雾中不断远去，直至完全消失。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "向后倾斜",
+        "examples": [
+          {
+            "sentence": "The Leaning Tower of Pisa looks like it's constantly receding from viewers.",
+            "sentence_zh": "比萨斜塔看起来像在持续向后倾斜避开游客视线。"
+          },
+          {
+            "sentence": "His receding chin made him look perpetually surprised.",
+            "sentence_zh": "他后缩的下巴让他看起来永远处于惊讶状态。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "退缩",
+        "examples": [
+          {
+            "sentence": "The floodwaters are finally receding after three days.",
+            "sentence_zh": "泛滥的洪水在三天后终于开始退去。"
+          },
+          {
+            "sentence": "His hairline is receding faster than the polar ice caps.",
+            "sentence_zh": "他的发际线后退得比极地冰盖融化还要快。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "receding hairline",
+        "meaning": "后退的发际线",
+        "examples": [
+          {
+            "sentence": "He jokes about his receding hairline saying it's just a bigger space for thinking.",
+            "sentence_zh": "他开玩笑说后退的发际线只是给思考腾出更大空间。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "receding gums",
+        "meaning": "萎缩的牙龈",
+        "examples": [
+          {
+            "sentence": "Dentists warn that receding gums make teeth look unnaturally long.",
+            "sentence_zh": "牙医警告说牙龈萎缩会让牙齿看起来长得不正常。"
+          }
+        ]
+      }
+    ],
+    "teach": "receding是社恐人士的专属动词🙈！想象你头发像涨潮退潮🌊（receding hairline），地铁里别人靠近时你自动后仰🚇（recede physically），遇到前任立即战术性撤退🏃。记住：'发际线保卫战'叫fight against receding hairline，'退潮期'用receding tide表示，说'逃避现实'可以戏称mental receding🧠！搭配emoji三件套：🚶‍♂️←🌊←🧑🦲",
+    "recite": {
+      "tips": [
+        "谐音梗：'锐四丁'→头发锐减剩四根（丁）",
+        "对比记忆：recede（主动退） vs. retreat（被迫撤）",
+        "联想：所有带-cede词根的词都在'走'（concede让步, precede先行）"
+      ]
+    }
+  },
+  {
+    "word": "receipt",
+    "translation": "n. 收据, 收入, 收到\\nvt. 开...的收据",
+    "etymology": {
+      "breakdown": [
+        "re",
+        "ceipt"
+      ],
+      "meaning_connection": "前缀re-表'回'，词根ceipt来自拉丁语capere（拿取）→'拿回'演变为'收到'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "收据",
+        "examples": [
+          {
+            "sentence": "The robotaxi automatically emails digital receipts in 0.3 seconds.",
+            "sentence_zh": "自动驾驶出租车0.3秒自动电邮电子收据。"
+          },
+          {
+            "sentence": "Keep your hotpot restaurant receipt for the free parking validation.",
+            "sentence_zh": "保留火锅店收据可享免费停车。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "收入",
+        "examples": [
+          {
+            "sentence": "Lunar New Year red envelope receipts make kids temporary millionaires.",
+            "sentence_zh": "春节红包收入让孩子们暂时成为百万富翁。"
+          },
+          {
+            "sentence": "Street performers count their daily receipts in copper coins.",
+            "sentence_zh": "街头艺人用铜钱清点每日收入。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "收到",
+        "examples": [
+          {
+            "sentence": "Upon receipt of the package, the pandas immediately tore open the bamboo crate.",
+            "sentence_zh": "一收到包裹，熊猫们立刻撕开了竹箱。"
+          },
+          {
+            "sentence": "The system sends confirmation upon receipt of WeChat payment.",
+            "sentence_zh": "系统会在收到微信支付后发送确认。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "开收据",
+        "examples": [
+          {
+            "sentence": "The AI cashier receipted my bubble tea purchase with an NFT voucher.",
+            "sentence_zh": "AI收银员为我的奶茶开具了NFT凭证收据。"
+          },
+          {
+            "sentence": "Ancient merchants receipted transactions on bamboo slips.",
+            "sentence_zh": "古代商人在竹简上开具交易收据。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acknowledge receipt",
+        "meaning": "确认收到",
+        "examples": [
+          {
+            "sentence": "Didi drivers must acknowledge receipt of passenger tips via the app.",
+            "sentence_zh": "滴滴司机需通过APP确认收到乘客小费。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "receipt book",
+        "meaning": "收据簿",
+        "examples": [
+          {
+            "sentence": "The mahjong parlor's receipt book was stained with tea marks.",
+            "sentence_zh": "麻将馆的收据簿上沾满茶渍。"
+          }
+        ]
+      }
+    ],
+    "teach": "receipt是商业界的'已读回执'📝！它的拼写里藏着狡猾的'p'（像收据小票的撕痕✂️）。古代丝绸之路上，商队用骆驼粪饼当收据🐫（因为轻便耐磨）。说'钱到账了'可以幽默地说'The dough has been receipted'🍞。搭配：电子收据→e-receipt就像云火锅券☁️，纸质收据→paper trail是维权的'救命稻草'🧾",
+    "recite": {
+      "tips": [
+        "谐音梗：'热撕破它'→拿到烫手收据马上撕掉",
+        "易混词对比：recipe（食谱）vs receipt（收据）→ 前者是'烹饪指南'🍳，后者是'金钱证据'💸"
+      ]
+    }
+  },
+  {
+    "word": "reckless",
+    "translation": "a. 不介意的, 大意的, 鲁莽的, 不顾后果的\\n[法] 不注意的, 粗心大意的, 鲁莽的",
+    "etymology": {
+      "breakdown": [
+        "reck",
+        "less"
+      ],
+      "meaning_connection": "词根reck=在意/顾虑（古英语），后缀-less=没有→原义为'无所顾忌的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不介意的",
+        "examples": [
+          {
+            "sentence": "He was reckless of the typhoon warning and went surfing.",
+            "sentence_zh": "他对台风警报毫不在意，仍去冲浪。"
+          },
+          {
+            "sentence": "The CEO was reckless of public opinion when launching the controversial product.",
+            "sentence_zh": "这位CEO推出争议产品时完全不在乎公众意见。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "大意的",
+        "examples": [
+          {
+            "sentence": "Reckless handling of fireworks caused the warehouse fire.",
+            "sentence_zh": "大意处理烟花爆竹引发了仓库火灾。"
+          },
+          {
+            "sentence": "Her reckless typing leaked the company's secret recipe online.",
+            "sentence_zh": "她粗心大意的打字把公司秘方泄露到了网上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "鲁莽的",
+        "examples": [
+          {
+            "sentence": "The reckless driver weaved through traffic like in a Fast & Furious movie.",
+            "sentence_zh": "那个鲁莽司机像《速度与激情》般在车流中穿梭。"
+          },
+          {
+            "sentence": "His reckless investment in cryptocurrency wiped out his savings.",
+            "sentence_zh": "他对加密货币的鲁莽投资赔光了积蓄。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "不顾后果的",
+        "examples": [
+          {
+            "sentence": "Reckless deforestation turned the area into a dust bowl.",
+            "sentence_zh": "不顾后果的砍伐使该地区变成尘暴区。"
+          },
+          {
+            "sentence": "The reckless policy change triggered massive customer complaints.",
+            "sentence_zh": "这项不顾后果的政策变动引发海量用户投诉。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "reckless driving",
+        "meaning": "危险驾驶",
+        "examples": [
+          {
+            "sentence": "The livestreamer was fined for reckless driving during his challenge.",
+            "sentence_zh": "该主播因挑战活动中的危险驾驶被罚款。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "reckless abandon",
+        "meaning": "肆意放纵",
+        "examples": [
+          {
+            "sentence": "They danced with reckless abandon at the music festival.",
+            "sentence_zh": "他们在音乐节上肆意放纵地跳舞。"
+          }
+        ]
+      }
+    ],
+    "teach": "reckless是'人菜瘾大'的完美翻译🌪️！词源是reck（在意）+less（没有），就像拆盲盒时不管后果疯狂剁手💸。说人'莽夫行为'叫throw caution to the wind（把谨慎扔进风里），'作死'是play with fire🔥。记住：reckless的人总觉得自己在拍《速度与激情》🚗💨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'热可乐死'→喝热可乐作死行为",
+        "对比记忆：reckless（主动莽撞） vs. careless（被动粗心）"
+      ]
+    }
   }
 ]

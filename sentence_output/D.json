@@ -18222,5 +18222,167 @@
         "记忆tip：拆解decor（得体）+ration（定量）→得体地定量添加装饰"
       ]
     }
+  },
+  {
+    "word": "defame",
+    "translation": "vt. 诽谤, 中伤, 破坏名誉\\n[法] 诽谤, 中伤, 诋毁名誉",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "fame"
+      ],
+      "meaning_connection": "前缀de-表'去除'，词根fame=名声→字面意思是'破坏名声'。"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "诽谤",
+        "examples": [
+          {
+            "sentence": "The influencer was sued for defaming a hotpot restaurant with fake reviews.",
+            "sentence_zh": "该网红因用虚假评价诽谤火锅店被起诉。"
+          },
+          {
+            "sentence": "Spreading defaming memes online can have legal consequences.",
+            "sentence_zh": "在网上传播诽谤性表情包可能面临法律后果。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "中伤",
+        "examples": [
+          {
+            "sentence": "He defamed his rival by claiming the mooncake recipe was stolen.",
+            "sentence_zh": "他中伤竞争对手称其月饼配方是偷来的。"
+          },
+          {
+            "sentence": "Defaming someone with WeChat screenshots is like throwing digital rotten eggs.",
+            "sentence_zh": "用微信截图中伤他人如同扔数字臭鸡蛋。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "defame sb.'s character",
+        "meaning": "诋毁某人品格",
+        "examples": [
+          {
+            "sentence": "The tea shop owner was accused of defaming his neighbor's character with gossip.",
+            "sentence_zh": "茶馆老板被指控用流言诋毁邻居品格。"
+          }
+        ]
+      }
+    ],
+    "teach": "defame就是'掉粉'行为📉！古罗马人用蜡板写诽谤诗(defamatory verses)被称作'蜂蜡攻击'🐝。现代版就是发黑帖'塌房'🏚️。搭配：'造谣一张嘴'叫spread defamation，'辟谣跑断腿'是clear one's name。记住：defame别人就像往自己头上倒臭豆腐汁—损人不利己💢！",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟废名'→弟弟废掉(defame)你的名声",
+        "易混词对比：defame(恶意诽谤) vs criticize(合理批评)"
+      ]
+    }
+  },
+  {
+    "word": "deflate",
+    "translation": "vt. 放气, 抽出空气, 使缩小\\nvi. 缩小",
+    "etymology": {
+      "breakdown": [
+        "de",
+        "flat",
+        "e"
+      ],
+      "meaning_connection": "前缀de-表'去除'，词根flat=吹气（同源词inflate），字面意思'把气放出去'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "放气",
+        "examples": [
+          {
+            "sentence": "The kid cried when his birthday balloon got deflated by a cat.",
+            "sentence_zh": "当生日气球被猫抓破时，小孩放声大哭。"
+          },
+          {
+            "sentence": "NBA players deflate game balls by 1 PSI for better grip.",
+            "sentence_zh": "NBA球员会将比赛用球放气1PSI以获得更好抓握感。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "抽出空气",
+        "examples": [
+          {
+            "sentence": "Vacuum sealers deflate packages to preserve mooncakes longer.",
+            "sentence_zh": "真空封口机抽走空气让月饼保存更久。"
+          },
+          {
+            "sentence": "Ancient Egyptians deflated lungs during mummification.",
+            "sentence_zh": "古埃及人制作木乃伊时会抽出肺部空气。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使缩小",
+        "examples": [
+          {
+            "sentence": "Bad reviews deflated the influencer's ego like a punctured tire.",
+            "sentence_zh": "差评让网红的膨胀ego像漏气的轮胎般瘪了下去。"
+          },
+          {
+            "sentence": "The central bank's policy deflated the real estate bubble.",
+            "sentence_zh": "央行的政策让房地产泡沫缩小了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "缩小",
+        "examples": [
+          {
+            "sentence": "My motivation deflates faster than a soufflé after 996 workdays.",
+            "sentence_zh": "我的工作积极性在996后比舒芙蕾塌陷得还快。"
+          },
+          {
+            "sentence": "The economy deflated by 3% due to the pandemic.",
+            "sentence_zh": "受疫情影响经济规模缩小了3%。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "deflate one's ego",
+        "meaning": "打击某人傲气",
+        "examples": [
+          {
+            "sentence": "Losing to a rookie really deflated his ego.",
+            "sentence_zh": "输给新手让他傲气全无。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "deflate expectations",
+        "meaning": "降低期待值",
+        "examples": [
+          {
+            "sentence": "The director deflated fans' expectations before the movie premiere.",
+            "sentence_zh": "导演在电影首映前主动降低粉丝期待值。"
+          }
+        ]
+      }
+    ],
+    "teach": "deflate是泄气三连击💥：物理放气（给轮胎放气🚗→deflate tires）、经济缩水（泡沫破灭📉→deflate bubble）、精神打击（ego缩水😭→deflate ego）。最惨是被老板'放气'：When your boss deflates your promotion hopes like a whoopee cushion（就像坐破放屁垫般突然泄气）💨。搭配：deflate price like 双十一优惠 | deflate ego like 被女神已读不回👻",
+    "recite": {
+      "tips": [
+        "谐音梗：'弟服了'→弟弟服了(deflate)你的吹牛功力",
+        "易混词：inflate（充气）是deflate的反义词，像气球兄弟俩🎈"
+      ]
+    }
   }
 ]

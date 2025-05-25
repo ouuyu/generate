@@ -18459,5 +18459,417 @@
         "记忆tip：拆解a+colyte→'一个(a)跟着(colyte)走的人'"
       ]
     }
+  },
+  {
+    "word": "acutely",
+    "translation": "adv. 尖锐地, 剧烈地",
+    "etymology": {
+      "breakdown": [
+        "ac",
+        "ute",
+        "ly"
+      ],
+      "meaning_connection": "词根ac=尖锐(同acid)，-ute为形容词后缀，-ly副词后缀→像针尖般强烈地"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "尖锐地",
+        "examples": [
+          {
+            "sentence": "The comedian's satire pierced acutely through social hypocrisy.",
+            "sentence_zh": "这位脱口秀演员的讽刺尖锐地戳穿了社会虚伪。"
+          },
+          {
+            "sentence": "Her criticism was as acutely painful as stepping on LEGO bricks.",
+            "sentence_zh": "她的批评尖锐得像踩到乐高积木般疼痛。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv.",
+        "meaning": "剧烈地",
+        "examples": [
+          {
+            "sentence": "Migrant workers feel homesickness acutely during Mid-Autumn Festival.",
+            "sentence_zh": "中秋期间外来务工人员的思乡之情尤为剧烈。"
+          },
+          {
+            "sentence": "The stock market reacted acutely to the new policy.",
+            "sentence_zh": "股市对该新政反应剧烈。"
+          }
+        ]
+      }
+    ],
+    "teach": "acutely是'痛到灵魂出窍'的程度词💉！古人用ac(尖刺)+ute造词时肯定被仙人掌扎过🌵。说'疼得要命'可以用achingly acute，'极其尴尬'叫acutely awkward🤦。记住：当你被老板点名时，那种感觉就叫acutely embarrassed！",
+    "recite": {
+      "tips": [
+        "谐音梗：'啊Q他'→阿Q被针扎时'啊Q他'地尖叫",
+        "对比记忆：acute(adj.) vs acutely(adv.) 像'快'和'飞快地'"
+      ]
+    }
+  },
+  {
+    "word": "acquit",
+    "translation": "vt. 无罪释放, 表现, 使履行\\n[法] 开释, 释放, 免",
+    "etymology": {
+      "breakdown": [
+        "ad",
+        "quit"
+      ],
+      "meaning_connection": "前缀ad-表示'朝向'，quit来自古法语'quiter'（解除）→ 原指'解除责任'，后衍生法律和表现两层含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "无罪释放",
+        "examples": [
+          {
+            "sentence": "The jury acquitted the suspect due to lack of evidence.",
+            "sentence_zh": "陪审团因证据不足当庭释放嫌疑人。"
+          },
+          {
+            "sentence": "In ancient China, acquitting an innocent person was considered as important as catching the guilty.",
+            "sentence_zh": "中国古代认为释放无辜者与抓捕罪犯同等重要。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "表现",
+        "examples": [
+          {
+            "sentence": "She acquitted herself brilliantly in the live-streaming sales event.",
+            "sentence_zh": "她在直播带货中表现极为出色。"
+          },
+          {
+            "sentence": "The new employee acquitted himself like a veteran during the crisis.",
+            "sentence_zh": "这位新人在危机中表现得像个老手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使履行",
+        "examples": [
+          {
+            "sentence": "He finally acquitted his promise to climb Mount Everest.",
+            "sentence_zh": "他终于履行了攀登珠穆朗玛峰的承诺。"
+          },
+          {
+            "sentence": "The company must acquit its environmental responsibilities.",
+            "sentence_zh": "企业必须履行其环保责任。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "acquit oneself",
+        "meaning": "表现得...",
+        "examples": [
+          {
+            "sentence": "The child acquitted himself bravely during the earthquake.",
+            "sentence_zh": "地震中这个孩子表现得很勇敢。"
+          }
+        ]
+      }
+    ],
+    "teach": "acquit是法律界的'清空购物车'🛒→把罪名全删光！古罗马法庭宣判时会说'ABSOLVO'（我释放）📜，后来演变成acquit。说'表现优异'可以幽默地说acquit oneself like a boss👔，而'洗脱嫌疑'叫clear one's name就像卸掉王者荣耀红名🔴。记住：acquit=ac(加强)+quit(解除)=强力解除！",
+    "recite": {
+      "tips": [
+        "谐音梗：'阿Q他'→阿Q被当庭释放",
+        "易混词对比：acquit（无罪释放）vs. quit（退出）",
+        "记忆口诀：AC米兰球队(AC)退出(quit)审判→无罪释放"
+      ]
+    }
+  },
+  {
+    "word": "addressee",
+    "translation": "n. 收件人, 收信人\\n[经] 台头人, 收信人",
+    "etymology": {
+      "breakdown": [
+        "address",
+        "ee"
+      ],
+      "meaning_connection": "address（地址）+后缀-ee（动作接受者）→接受地址的人"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "收件人",
+        "examples": [
+          {
+            "sentence": "The package was returned because the addressee moved to Mars.",
+            "sentence_zh": "包裹被退回因为收件人搬去了火星。"
+          },
+          {
+            "sentence": "Express delivery apps always blur the addressee's phone number.",
+            "sentence_zh": "快递APP总会模糊处理收件人电话。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "收信人",
+        "examples": [
+          {
+            "sentence": "The handwritten letter moved the addressee to tears.",
+            "sentence_zh": "这封手写信让收信人感动落泪。"
+          },
+          {
+            "sentence": "As the addressee of fan mail, the actor keeps every envelope.",
+            "sentence_zh": "作为粉丝信的收信人，这位演员保存每个信封。"
+          }
+        ]
+      }
+    ],
+    "teach": "addressee是'被地址的人'📮！就像火锅外卖订单上'饿到颤抖的张先生'🍲（the hungry addressee）。要吐槽'查无此人'可以说'return to sender'（退回寄件人），快递员常喊的'尾号1314的收件人'就是'mobile-ending addressee'📱。记住：-ee结尾都像在说'求投喂'的可怜崽！",
+    "recite": {
+      "tips": [
+        "谐音梗：'饿得要死'→饿得要死(addressee)等外卖",
+        "对比记忆：addresser（寄件人）vs addressee（收件人）就像火锅店老板和食客"
+      ]
+    }
+  },
+  {
+    "word": "adjudicator",
+    "translation": "n. 评判员\\n[法] 审判者, 判决者, 裁定者",
+    "etymology": {
+      "breakdown": [
+        "ad",
+        "judic",
+        "ator"
+      ],
+      "meaning_connection": "前缀ad-表示'朝向'，词根judic来自judex（法官），-ator表示'执行者'→直译为'做出判决的人'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "评判员",
+        "examples": [
+          {
+            "sentence": "The TikTok dance competition adjudicator wore light-up sneakers.",
+            "sentence_zh": "抖音舞蹈比赛的评判员穿着发光运动鞋。"
+          },
+          {
+            "sentence": "Our mahjong adjudicator keeps a scoreboard with emoji stickers.",
+            "sentence_zh": "我们的麻将评判员用表情贴纸记分。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "审判者",
+        "examples": [
+          {
+            "sentence": "The adjudicator slammed his gavel shaped like a durian.",
+            "sentence_zh": "审判者敲了下榴莲造型的法槌。"
+          },
+          {
+            "sentence": "This AI adjudicator can process 1000 cases per minute.",
+            "sentence_zh": "这位AI审判者能每分钟处理1000个案件。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "chief adjudicator",
+        "meaning": "首席裁判",
+        "examples": [
+          {
+            "sentence": "The chief adjudicator ate three baozi during the break.",
+            "sentence_zh": "首席裁判休息时吃了三个包子。"
+          }
+        ]
+      }
+    ],
+    "teach": "adjudicator是法官界的表情包达人👨⚖️：词根judic和法官judge同源，就像'决'和'诀'是汉字亲兄弟。古代中国县太爷惊堂木一拍🌰，和西方法官法槌异曲同工。说'不公平判决'叫kangaroo court（袋鼠法庭）🦘，'终审'叫final adjudication就像火锅最后一勺捞底料🥢。记住：当adjudicator得有熊猫般的黑眼圈🐼——毕竟要熬夜看案卷！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺就踢给他'→裁判把争议球判给某人",
+        "易混词对比：judge（法官） vs referee（体育裁判）",
+        "记忆tip：ad+judge+ator=加强判断的人"
+      ]
+    }
+  },
+  {
+    "word": "Admiralty",
+    "translation": "n. 海军上将的地位(或职权), (1963年前)英国海军部, 海事法庭\\n[法] 海军上将的职位, 海军部, 海事法",
+    "etymology": {
+      "breakdown": [
+        "admiral",
+        "ty"
+      ],
+      "meaning_connection": "admiral源自阿拉伯语'amir-al-bahr'（海洋统帅），后缀-ty表示'性质/职权'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "海军上将的职权",
+        "examples": [
+          {
+            "sentence": "The admiralty comes with the power to command entire fleets.",
+            "sentence_zh": "海军上将职权包含指挥整支舰队的权力。"
+          },
+          {
+            "sentence": "He assumed admiralty after winning the naval battle.",
+            "sentence_zh": "赢得海战后他获得了海军上将指挥权。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "英国海军部(1963年前)",
+        "examples": [
+          {
+            "sentence": "The Admiralty building in London now houses a museum.",
+            "sentence_zh": "伦敦的海军部大楼如今改造成了博物馆。"
+          },
+          {
+            "sentence": "Winston Churchill once served as First Lord of the Admiralty.",
+            "sentence_zh": "丘吉尔曾任英国海军大臣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "海事法庭",
+        "examples": [
+          {
+            "sentence": "The Admiralty Court handles cases involving pirate attacks.",
+            "sentence_zh": "海事法庭审理涉及海盗袭击的案件。"
+          },
+          {
+            "sentence": "Modern admiralty law originated from ancient maritime codes.",
+            "sentence_zh": "现代海事法起源于古代海洋法典。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "Admiralty Islands",
+        "meaning": "海军部群岛(太平洋)",
+        "examples": [
+          {
+            "sentence": "The Admiralty Islands were strategically important in WWII.",
+            "sentence_zh": "海军部群岛在二战中具有重要战略地位。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "Admiralty chart",
+        "meaning": "海军水文图",
+        "examples": [
+          {
+            "sentence": "Sailors still consult Admiralty charts for navigation.",
+            "sentence_zh": "水手们仍会参考海军水文图航行。"
+          }
+        ]
+      }
+    ],
+    "teach": "Admiralty是海洋权力的三叉戟🔱：1) 历史梗：英国海军部曾用'海豚邮筒'🐬传递机密文件 2) 视觉化：想象海军大臣的徽章=锚⚓+权杖 3) 搭配：court of admiralty（海事法庭）/ admiralty jurisdiction（海事管辖权） 4) 俚语：'swing the admiral'指滥用职权 5) 记住：掌握admiralty就能指挥海浪🌊！",
+    "recite": {
+      "tips": [
+        "谐音梗：'爱的猫儿踢'→海军上将的猫都踢正步",
+        "易混词：admiral（将军） vs. admiralty（职权/机构）",
+        "记忆tip：-ty结尾总与职权/机构相关（如：royalty）"
+      ]
+    }
+  },
+  {
+    "word": "administered",
+    "translation": "v. 管理( administer的过去式和过去分词 ); 治理（国家）; 给予; 执行",
+    "etymology": {
+      "breakdown": [
+        "ad",
+        "minister"
+      ],
+      "meaning_connection": "前缀ad-表示'朝向'，minister源自拉丁语'仆人'→原指'提供服务'，后引申为'管理'和'给予'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "管理",
+        "examples": [
+          {
+            "sentence": "The community was administered by a retired librarian who kept track of everything with color-coded post-it notes.",
+            "sentence_zh": "这个社区由一位退休图书管理员管理，她用彩色便利贴记录所有事项。"
+          },
+          {
+            "sentence": "When my cat administered our household, the fish supply increased significantly.",
+            "sentence_zh": "当我的猫管理我们家时，鱼罐头库存显著增加。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "治理（国家）",
+        "examples": [
+          {
+            "sentence": "The ancient city was administered like a giant WeChat group, with daily announcements carved on bamboo slips.",
+            "sentence_zh": "这座古城像巨型微信群般被治理，每日公告刻在竹简上。"
+          },
+          {
+            "sentence": "Some emperors administered their kingdoms while lying in bed eating lychees.",
+            "sentence_zh": "有些皇帝躺着吃荔枝治理国家。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "给予",
+        "examples": [
+          {
+            "sentence": "The nurse administered bubblegum-flavored medicine to the crying child.",
+            "sentence_zh": "护士给哭闹的孩子喂了泡泡糖口味的药。"
+          },
+          {
+            "sentence": "In the marathon, volunteers administered banana slices like precious gold ingots.",
+            "sentence_zh": "马拉松比赛中志愿者像发金条般分发香蕉片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "执行",
+        "examples": [
+          {
+            "sentence": "The robot judge administered justice while playing erhu background music.",
+            "sentence_zh": "机器人法官拉着二胡背景音乐执行审判。"
+          },
+          {
+            "sentence": "Our teacher administered the exam with the seriousness of a rocket launch.",
+            "sentence_zh": "老师用发射火箭般的严肃态度执行考试。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "administer to",
+        "meaning": "照料",
+        "examples": [
+          {
+            "sentence": "The AI robot administered to the patient's need for bad jokes.",
+            "sentence_zh": "这个AI机器人通过讲冷笑话照料病人需求。"
+          }
+        ]
+      }
+    ],
+    "teach": "administer就像多功能外卖小哥🛵：当'管理者'像小区物业收快递📦（administer a community），当'统治者'像皇帝批奏折👑（administer a kingdom），当'给予者'像护士发糖果🍬（administer medicine），当'执行者'像体育老师吹哨子🏃（administer rules）。趣知识：中世纪修道院院长(abbot)原意就是'大管理员'！说'胡乱管理'可以用running something like a circus（像经营马戏团）🎪",
+    "recite": {
+      "tips": [
+        "谐音梗：'额的妹你管的'→administered（管理员妹妹管得很宽）",
+        "易混词对比：administer vs. manage → 前者更正式，后者更日常"
+      ]
+    }
   }
 ]

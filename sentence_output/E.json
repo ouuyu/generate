@@ -18808,5 +18808,271 @@
         "易混词对比：delete(数字删除) vs eliminate(物理消除)"
       ]
     }
+  },
+  {
+    "word": "encapsulate",
+    "translation": "vt. 装入胶囊, 封进内部, 压缩\\nvi. 做成胶囊",
+    "etymology": {
+      "breakdown": [
+        "en",
+        "capsul",
+        "ate"
+      ],
+      "meaning_connection": "前缀en-表示'进入'，词根capsul=胶囊，-ate为动词后缀→字面意思是'装进胶囊'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "装入胶囊",
+        "examples": [
+          {
+            "sentence": "Traditional Chinese medicine encapsulates herbs in gelatin capsules.",
+            "sentence_zh": "中药将草药封装在明胶胶囊中。"
+          },
+          {
+            "sentence": "The astronaut food is encapsulated like candy for easy consumption.",
+            "sentence_zh": "航天食品像糖果般封装以方便食用。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "封进内部",
+        "examples": [
+          {
+            "sentence": "Time capsules encapsulate memories of an era in metal boxes.",
+            "sentence_zh": "时间胶囊将时代记忆封存在金属盒中。"
+          },
+          {
+            "sentence": "The amber perfectly encapsulates a 100-million-year-old mosquito.",
+            "sentence_zh": "琥珀完美封存了一只一亿年前的蚊子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "压缩",
+        "examples": [
+          {
+            "sentence": "His TED talk encapsulates 20 years of research into 18 minutes.",
+            "sentence_zh": "他的TED演讲将20年研究压缩成18分钟。"
+          },
+          {
+            "sentence": "The emoji 🤯 encapsulates my reaction to final exams.",
+            "sentence_zh": "这个表情完美压缩了我对期末考的反应。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "做成胶囊",
+        "examples": [
+          {
+            "sentence": "The new vaccine technology encapsulates at room temperature.",
+            "sentence_zh": "这种新疫苗技术可在室温下成囊。"
+          },
+          {
+            "sentence": "Fish oil naturally encapsulates in the manufacturing process.",
+            "sentence_zh": "鱼油在生产过程中会自然形成胶囊。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "encapsulate in",
+        "meaning": "用...封装",
+        "examples": [
+          {
+            "sentence": "The designer encapsulated fairy lights in resin to make galaxy tables.",
+            "sentence_zh": "设计师将串灯封进树脂制作银河桌。"
+          }
+        ]
+      }
+    ],
+    "teach": "encapsulate就像哆啦A梦的缩小灯🔦！它能把故宫装进雪花球❄️（encapsulate history），把论文压成表情包🤓（encapsulate ideas），甚至把你的年终总结变成TikTok视频🎵（encapsulate reports）。搭配'encapsulate the vibe'说'拿捏氛围感'，'encapsulated anger'形容'憋出内伤'💢。记住：这词本质是'空间魔法'✨！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬开铺累了'→强行开店累了就把商品都装胶囊(encapsulate)卖",
+        "易混词对比：capsule(胶囊n.) vs encapsulate(封装v.)",
+        "记忆口诀：en进+cap帽子+su速→速速戴帽封装好"
+      ]
+    }
+  },
+  {
+    "word": "enclose",
+    "translation": "vt. 围绕, 圈起, 放入封套, 附上",
+    "etymology": {
+      "breakdown": [
+        "en",
+        "close"
+      ],
+      "meaning_connection": "前缀en-表示'使进入'，close表示'关闭'→原指把东西关在里面，引申出物理包围和文件附件的双重含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "围绕",
+        "examples": [
+          {
+            "sentence": "The Great Wall encloses the northern frontier like a giant dragon.",
+            "sentence_zh": "长城如巨龙般环绕北方边境。"
+          },
+          {
+            "sentence": "Bamboo fences enclose traditional Sichuan courtyards.",
+            "sentence_zh": "竹篱笆围绕着传统的四川院落。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "圈起",
+        "examples": [
+          {
+            "sentence": "Farmers enclose chickens with recycled QR code fences.",
+            "sentence_zh": "农民用回收的二维码围栏圈起鸡群。"
+          },
+          {
+            "sentence": "The panda base encloses bamboo forests for the cubs.",
+            "sentence_zh": "熊猫基地为幼崽圈起竹林区域。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "放入封套",
+        "examples": [
+          {
+            "sentence": "She enclosed a dried maple leaf in her love letter.",
+            "sentence_zh": "她在情书里封入一片干枫叶。"
+          },
+          {
+            "sentence": "The visa application requires enclosing 2 passport photos.",
+            "sentence_zh": "签证申请需放入两张护照照片。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "附上",
+        "examples": [
+          {
+            "sentence": "Please find enclosed my hotpot recipe spreadsheet.",
+            "sentence_zh": "随信附上我的火锅配方表格。"
+          },
+          {
+            "sentence": "The email enclosed a Douyin viral video analysis.",
+            "sentence_zh": "邮件附带了抖音爆款视频分析报告。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "enclose with",
+        "meaning": "用...围住",
+        "examples": [
+          {
+            "sentence": "The temple is enclosed with 108 Buddha statues.",
+            "sentence_zh": "寺庙用108尊佛像围住。"
+          }
+        ]
+      }
+    ],
+    "teach": "enclose是空间魔术师🎩！物理上它能圈养大熊猫🐼（enclose bamboo forests），抽象上能打包文件📎（enclose documents）。古代长城enclose疆土🏯，现代微信enclose红包🧧。记住：'围住'像火锅九宫格🍲，'附上'像快递塞泡沫📦。说'附件太多'用'warehouse worth of enclosures'（一仓库的附件）！",
+    "recite": {
+      "tips": [
+        "谐音梗：'硬壳锁'→用硬壳(enclose)锁住东西",
+        "对比记忆：include（包含抽象概念）vs enclose（物理包围/具体附件）"
+      ]
+    }
+  },
+  {
+    "word": "endless",
+    "translation": "a. 不停的, 无穷尽的, 无尽的\\n[机] 无端的, 环状的",
+    "etymology": {
+      "breakdown": [
+        "end",
+        "less"
+      ],
+      "meaning_connection": "end表'尽头'，-less表'无...的'→字面意为'无尽头'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "不停的",
+        "examples": [
+          {
+            "sentence": "The endless honking during rush hour drives me crazy.",
+            "sentence_zh": "高峰期永不停歇的喇叭声让我抓狂。"
+          },
+          {
+            "sentence": "My mom's endless nagging is like a broken record player.",
+            "sentence_zh": "我妈不停的唠叨就像卡带的唱片机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无穷尽的",
+        "examples": [
+          {
+            "sentence": "The universe is believed to be endless by many scientists.",
+            "sentence_zh": "许多科学家认为宇宙是无穷尽的。"
+          },
+          {
+            "sentence": "TikTok's endless scroll feature makes time disappear magically.",
+            "sentence_zh": "抖音的无限滑动功能让时间神奇地消失。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "无尽的",
+        "examples": [
+          {
+            "sentence": "We have endless supply of spicy crayfish at this buffet.",
+            "sentence_zh": "这家自助餐厅有无限量供应的小龙虾。"
+          },
+          {
+            "sentence": "The Great Wall snakes through endless mountains.",
+            "sentence_zh": "长城在无尽的山脉中蜿蜒。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "endless loop",
+        "meaning": "无限循环",
+        "examples": [
+          {
+            "sentence": "The elevator music plays in an endless loop.",
+            "sentence_zh": "电梯音乐在无限循环播放。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "endless summer",
+        "meaning": "永夏",
+        "examples": [
+          {
+            "sentence": "Hainan island feels like an endless summer paradise.",
+            "sentence_zh": "海南岛就像永恒的夏日天堂。"
+          }
+        ]
+      }
+    ],
+    "teach": "endless是'没有end'的魔性存在🌀！就像《开端》的无限循环公交车🚌，或《盗梦空间》的无限楼梯🌀。形容'烦人'可以说endless trouble（像甩不掉的前任），形容'量大'用endless supply（像自助餐厅的小龙虾🦞）。记住：所有'停不下来'的事物，都能用这个单词打call！",
+    "recite": {
+      "tips": [
+        "谐音梗：'俺的累死'→工作无尽(俺的累死)",
+        "易混词：endlessly（adv.）vs. endless（adj.）"
+      ]
+    }
   }
 ]

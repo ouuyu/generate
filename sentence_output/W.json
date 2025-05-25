@@ -20127,5 +20127,245 @@
         "易混词：white(白色)/whit(微量)→白纸上小黑点就是那'一whit'"
       ]
     }
+  },
+  {
+    "word": "whet",
+    "translation": "n. 磨, 开胃小吃\\nvt. 磨, 磨快, 刺激, 促进",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'hwettan'，与'what'同源，原指'使锋利'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "磨",
+        "examples": [
+          {
+            "sentence": "The constant whet of the blade gave it a mirror-like finish.",
+            "sentence_zh": "持续的打磨使刀刃呈现出镜面般的光泽。"
+          },
+          {
+            "sentence": "Chefs perform a quick whet before preparing sashimi.",
+            "sentence_zh": "厨师在制作刺身前会快速磨刀。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "开胃小吃",
+        "examples": [
+          {
+            "sentence": "The restaurant serves free whets like spicy peanuts.",
+            "sentence_zh": "这家餐厅提供免费辣花生等开胃小吃。"
+          },
+          {
+            "sentence": "These pickled whets will make you drink more beer.",
+            "sentence_zh": "这些腌制的开胃小菜会让你喝更多啤酒。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "磨快",
+        "examples": [
+          {
+            "sentence": "He whetted his knife on a stone before the camping trip.",
+            "sentence_zh": "露营前他在石头上磨快了小刀。"
+          },
+          {
+            "sentence": "Barbers still whet their straight razors traditionally.",
+            "sentence_zh": "理发师仍传统地用磨刀石修面。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "刺激",
+        "examples": [
+          {
+            "sentence": "The trailer whetted our appetite for the new movie.",
+            "sentence_zh": "预告片刺激了我们对新电影的期待。"
+          },
+          {
+            "sentence": "Spicy hotpot really whets my thirst for iced tea.",
+            "sentence_zh": "麻辣火锅真的刺激了我对冰茶的渴望。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "促进",
+        "examples": [
+          {
+            "sentence": "Tax cuts whet consumer spending during holidays.",
+            "sentence_zh": "减税政策促进了假日消费。"
+          },
+          {
+            "sentence": "The new policy whetted foreign investment in AI.",
+            "sentence_zh": "新政策促进了人工智能领域的外资投入。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "whet sb's appetite",
+        "meaning": "吊胃口",
+        "examples": [
+          {
+            "sentence": "The first chapter whets readers' appetite for the mystery.",
+            "sentence_zh": "第一章就吊足了读者对谜底的胃口。"
+          }
+        ]
+      }
+    ],
+    "teach": "whet是磨刀石与辣椒面的结合体🌶️！古英语里'磨刀'和'开胃'竟是同一个词，就像用砂轮磨刀⚔️（whet a blade）和用酸辣粉开胃🍜（serve whets）都让人精神抖擞！说'勾起兴趣'可以用whet one's appetite，比普通说法更锋利。记住：无论是刀锋还是食欲，都需要定期whet一下才能保持锐利！",
+    "recite": {
+      "tips": [
+        "谐音梗：'喂它'→磨刀石喂它(whet)金属屑",
+        "易混词：wet(湿的) vs whet(磨快的)"
+      ]
+    }
+  },
+  {
+    "word": "whoop",
+    "translation": "n. 大叫, 呐喊, 一点点\\nvi. 叫喊, 鸣叫\\nvt. 高声说, 唤起",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "拟声词，模仿呼喊或鸣叫的声音"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大叫",
+        "examples": [
+          {
+            "sentence": "The whoop of joy from the winning team could be heard across the campus.",
+            "sentence_zh": "获胜队伍的欢呼声响彻整个校园。"
+          },
+          {
+            "sentence": "A sudden whoop in the dark forest made my hair stand on end.",
+            "sentence_zh": "黑暗森林中突然传来的一声大叫让我毛骨悚然。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "呐喊",
+        "examples": [
+          {
+            "sentence": "The protesters let out a collective whoop as the decision was announced.",
+            "sentence_zh": "当决定宣布时，抗议者们齐声呐喊。"
+          },
+          {
+            "sentence": "His war whoop echoed through the valley, terrifying the enemy.",
+            "sentence_zh": "他的战斗呐喊在山谷中回荡，吓坏了敌人。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "一点点",
+        "examples": [
+          {
+            "sentence": "I don't care a whoop about what they think.",
+            "sentence_zh": "我一点也不在乎他们怎么想。"
+          },
+          {
+            "sentence": "It's not worth a whoop of your time.",
+            "sentence_zh": "这不值得你花一点点时间。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "叫喊",
+        "examples": [
+          {
+            "sentence": "The children whooped with delight when they saw the ice cream truck.",
+            "sentence_zh": "孩子们看到冰淇淋车时高兴地叫喊起来。"
+          },
+          {
+            "sentence": "Fans whooped wildly as their team scored the winning goal.",
+            "sentence_zh": "当他们的球队打进制胜一球时，球迷们疯狂地叫喊。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vi.",
+        "meaning": "鸣叫",
+        "examples": [
+          {
+            "sentence": "The crane whooped as it took flight at dawn.",
+            "sentence_zh": "鹤在黎明起飞时发出鸣叫声。"
+          },
+          {
+            "sentence": "We could hear the owls whooping in the woods at night.",
+            "sentence_zh": "晚上我们能听到猫头鹰在树林里鸣叫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "高声说",
+        "examples": [
+          {
+            "sentence": "\"Victory is ours!\" he whooped to the cheering crowd.",
+            "sentence_zh": "\"胜利属于我们！\"他向欢呼的人群高声说道。"
+          },
+          {
+            "sentence": "The auctioneer whooped the final bid number.",
+            "sentence_zh": "拍卖师高声喊出最后的竞价数字。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "唤起",
+        "examples": [
+          {
+            "sentence": "The old song whooped up memories of my childhood.",
+            "sentence_zh": "这首老歌唤起了我对童年的回忆。"
+          },
+          {
+            "sentence": "The politician tried to whoop up support for his campaign.",
+            "sentence_zh": "这位政客试图唤起人们对他竞选活动的支持。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "whoop it up",
+        "meaning": "狂欢",
+        "examples": [
+          {
+            "sentence": "After the exam, we decided to whoop it up at the karaoke bar.",
+            "sentence_zh": "考试结束后，我们决定在KTV狂欢一场。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "not worth a whoop",
+        "meaning": "一文不值",
+        "examples": [
+          {
+            "sentence": "His promises turned out to be not worth a whoop.",
+            "sentence_zh": "他的承诺结果一文不值。"
+          }
+        ]
+      }
+    ],
+    "teach": "whoop就像声音界的表情包🗣️！作为名词时，它可以是从惊喜的'哇哦！'（a whoop of joy）到战斗呐喊（war whoop）🎭；作为动词时，可能是小孩看到冰淇淋车的尖叫（whoop with delight）🍦，或是唤起回忆（whoop up memories）的老歌📻。表达'一文不值'可以说not worth a whoop，比'不值一提'更带劲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'胡扑'→胡扑(whoop)乱叫",
+        "易混词对比：whoop(大喊) vs hoop(呼啦圈)",
+        "记忆法：想象欢呼时挥舞拳头(w)发出'呼-噗'(hoo-p)的声音"
+      ]
+    }
   }
 ]

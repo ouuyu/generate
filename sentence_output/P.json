@@ -18458,5 +18458,427 @@
         "记忆口诀：partial三件套→部分西瓜/偏心裁判/音乐分音"
       ]
     }
+  },
+  {
+    "word": "pathogenic",
+    "translation": "a. 致病的, 成为病原的, 病原的\\n[医] 致病的, 病原的",
+    "etymology": {
+      "breakdown": [
+        "patho",
+        "gen",
+        "ic"
+      ],
+      "meaning_connection": "词根patho=疾病，gen=产生，-ic表性质→产生疾病的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "致病的",
+        "examples": [
+          {
+            "sentence": "The pathogenic bacteria in raw seafood may cause food poisoning.",
+            "sentence_zh": "生海鲜中的致病菌可能导致食物中毒。"
+          },
+          {
+            "sentence": "Researchers identified a new pathogenic fungus in the tropical rainforest.",
+            "sentence_zh": "研究人员在热带雨林中发现了一种新的致病真菌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "成为病原的",
+        "examples": [
+          {
+            "sentence": "When normal gut flora becomes pathogenic, it leads to serious infections.",
+            "sentence_zh": "当肠道正常菌群成为病原体时，会导致严重感染。"
+          },
+          {
+            "sentence": "The mutated virus turned pathogenic after crossing species barriers.",
+            "sentence_zh": "这种变异病毒在跨物种传播后变得具有病原性。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "病原的",
+        "examples": [
+          {
+            "sentence": "Doctors are tracing the pathogenic source of the outbreak.",
+            "sentence_zh": "医生正在追踪此次疫情的病原来源。"
+          },
+          {
+            "sentence": "The lab is studying pathogenic microorganisms under biosafety level 4.",
+            "sentence_zh": "实验室正在生物安全四级条件下研究病原微生物。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pathogenic factor",
+        "meaning": "致病因素",
+        "examples": [
+          {
+            "sentence": "Smoking is a major pathogenic factor for lung cancer.",
+            "sentence_zh": "吸烟是肺癌的主要致病因素。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "pathogenic mutation",
+        "meaning": "致病突变",
+        "examples": [
+          {
+            "sentence": "Genetic testing revealed a pathogenic mutation in BRCA1 gene.",
+            "sentence_zh": "基因检测显示BRCA1基因存在致病突变。"
+          }
+        ]
+      }
+    ],
+    "teach": "pathogenic就像潜伏的间谍🕵️♂️！词根patho-是疾病（如sympathy→同病相怜），-genic是'产生'（如photogenic→上相的）。说'病毒很毒'用地道表达nasty bug🐛，'超级细菌'叫superbug💊。记住：pathogenic microbes就像穿着白大褂的坏蛋👨⚕️⚡！",
+    "recite": {
+      "tips": [
+        "谐音梗：'怕死真'→让人怕死是真的致病",
+        "易混词对比：pathologic（病理学的）vs pathogenic（致病的）",
+        "联想：病原体(pathogen)的形容词形式"
+      ]
+    }
+  },
+  {
+    "word": "patrol",
+    "translation": "n. 巡逻, 巡逻员, 侦察队\\nv. 巡逻, 巡视",
+    "etymology": {
+      "breakdown": [
+        "patr",
+        "ol"
+      ],
+      "meaning_connection": "词根patr=走（同源词如patrol car'巡逻车'），后缀-ol表动作反复→反复走动进行巡视"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "巡逻",
+        "examples": [
+          {
+            "sentence": "The night patrol found a panda stealing bamboo from the canteen.",
+            "sentence_zh": "夜间巡逻发现熊猫在偷食堂的竹子。"
+          },
+          {
+            "sentence": "Douyin's content patrol uses AI to detect silly dances.",
+            "sentence_zh": "抖音的内容巡逻用AI检测魔性舞蹈。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "巡逻员",
+        "examples": [
+          {
+            "sentence": "The campus patrol wears a red armband saying 'No Spicy Hotpot'.",
+            "sentence_zh": "校园巡逻员戴着'禁止麻辣烫'的红袖章。"
+          },
+          {
+            "sentence": "Our neighborhood patrol looks like a moving surveillance camera.",
+            "sentence_zh": "我们社区的巡逻员像会移动的监控摄像头。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "巡逻",
+        "examples": [
+          {
+            "sentence": "Security guards patrol with flashlights that look like lightsabers.",
+            "sentence_zh": "保安们用光剑造型的手电筒巡逻。"
+          },
+          {
+            "sentence": "Drones now patrol the Great Wall to spot graffiti artists.",
+            "sentence_zh": "无人机开始在长城巡逻寻找涂鸦者。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "on patrol",
+        "meaning": "在巡逻中",
+        "examples": [
+          {
+            "sentence": "The robot on patrol can sing 'Jingle Bells' when detecting intruders.",
+            "sentence_zh": "巡逻中的机器人发现入侵者会唱《铃儿响叮当》。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "patrol car",
+        "meaning": "巡逻车",
+        "examples": [
+          {
+            "sentence": "The police patrol car got stuck chasing an electric bike.",
+            "sentence_zh": "警用巡逻车追电动车时被卡住了。"
+          }
+        ]
+      }
+    ],
+    "teach": "patrol就是行走的监控器👮！最早指罗马士兵'啪嗒啪嗒'👞的脚步声（patr=走）。现代版巡逻包括：广场舞大妈👵盯着音响音量（neighborhood patrol）、游戏里的自动巡怪⚔️（auto patrol）。说'正在巡查'用地道表达make the rounds，'巡更'叫clock in巡逻点⏰。记住：所有patrol的本质都是——走啊走啊走~",
+    "recite": {
+      "tips": [
+        "谐音梗：'陪遛'→陪着(patrol)狗狗遛弯",
+        "易混词：petrol（汽油）→ 巡逻车(patrol car)要加油(petrol)"
+      ]
+    }
+  },
+  {
+    "word": "patting",
+    "translation": "v. 轻拍( pat的现在分词 ); 拍成, 拍至; 表扬, 称赞（某人/自己）",
+    "etymology": {
+      "breakdown": [
+        "pat",
+        "ing"
+      ],
+      "meaning_connection": "拟声词pat模拟轻拍声，-ing表进行时"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "v.",
+        "meaning": "轻拍",
+        "examples": [
+          {
+            "sentence": "The grandma is patting the dough like playing with cloud dough.",
+            "sentence_zh": "奶奶正像玩太空沙一样轻拍面团。"
+          },
+          {
+            "sentence": "He kept patting his pockets searching for the lost AirPods.",
+            "sentence_zh": "他不停拍打口袋寻找丢失的无线耳机。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "拍成特定形状",
+        "examples": [
+          {
+            "sentence": "The chef is patting the burger into a heart shape for Valentine's Day.",
+            "sentence_zh": "厨师正把汉堡肉拍成心形迎接情人节。"
+          },
+          {
+            "sentence": "She patted the sandcastle smooth with her tiny shovel.",
+            "sentence_zh": "她用玩具铲把沙堡表面拍得平平整整。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "称赞",
+        "examples": [
+          {
+            "sentence": "The coach is patting himself on the back for discovering the new talent.",
+            "sentence_zh": "教练正为发现新人才而自我陶醉。"
+          },
+          {
+            "sentence": "Stop patting your phone like it's a pet! Just admit you love the new iPhone.",
+            "sentence_zh": "别像撸宠物一样拍手机啦！承认你喜欢新iPhone吧。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "pat on the back",
+        "meaning": "鼓励性轻拍/表扬",
+        "examples": [
+          {
+            "sentence": "The teacher gave Xiao Ming a pat on the back for his creative meme design.",
+            "sentence_zh": "老师因小明的创意表情包设计而表扬了他。"
+          }
+        ]
+      }
+    ],
+    "teach": "patting本质是'啪啪啪'👏！从拍面团到拍马屁都适用：1) 古英语中pat拟声如拍打声📢 2) 想象你同时在拍狗头🐶、拍黄瓜🥒和拍领导彩虹屁🌈 3) 实用搭配：pat dry（拍干）、pat answer（标准答案）4) 地道说'别自嗨'→Stop patting your own back! 5) 三连emoji：👋🍞👍",
+    "recite": {
+      "tips": [
+        "谐音梗：'拍停'→拍拍就会停",
+        "易混词：tap（轻敲）/pet（抚摸）"
+      ]
+    }
+  },
+  {
+    "word": "payout",
+    "translation": "n. 支出, 付出款项\\n[经] 付出款项, 花费, 支出",
+    "etymology": {
+      "breakdown": [
+        "pay",
+        "out"
+      ],
+      "meaning_connection": "由pay（支付）和out（出）组成，字面意思是'把钱支付出去'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "支出",
+        "examples": [
+          {
+            "sentence": "The monthly payout for my bubble tea addiction is terrifying.",
+            "sentence_zh": "我每月为奶茶瘾支出的金额很吓人。"
+          },
+          {
+            "sentence": "The lottery winner opted for a lump-sum payout.",
+            "sentence_zh": "彩票中奖者选择了一次性支出。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "付出款项",
+        "examples": [
+          {
+            "sentence": "The insurance payout helped rebuild the flooded restaurant.",
+            "sentence_zh": "保险的付出款项帮助重建了被洪水淹没的餐厅。"
+          },
+          {
+            "sentence": "Alipay processes millions of payouts to freelancers daily.",
+            "sentence_zh": "支付宝每天处理数百万笔给自由职业者的付出款项。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "payout ratio",
+        "meaning": "派息比率",
+        "examples": [
+          {
+            "sentence": "Tech companies usually have lower payout ratios than traditional industries.",
+            "sentence_zh": "科技公司的派息比率通常低于传统行业。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "payout period",
+        "meaning": "赔付期",
+        "examples": [
+          {
+            "sentence": "The 30-day payout period is standard for most online platforms.",
+            "sentence_zh": "30天的赔付期是大多数在线平台的标准。"
+          }
+        ]
+      }
+    ],
+    "teach": "payout就像ATM吐钱💸时的'哗啦'声！最早指赌场发彩金🎰，现在连红包🧧也算digital payout。要说'大额支出'可以用heavy payout，'迟迟不到账'叫payout limbo（付款地狱）。记住：每个payout都在提醒你钱包在减肥🏃♂️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'赔要逃'→赔钱时都想逃",
+        "易混词对比：payout（支出） vs payoff（还清）"
+      ]
+    }
+  },
+  {
+    "word": "paying",
+    "translation": "a. 支付的, 付款的, 有利的, 赢利的, 合算的\\n[经] 支付",
+    "etymology": {
+      "breakdown": [
+        "pay",
+        "ing"
+      ],
+      "meaning_connection": "动词pay（支付）+后缀-ing构成形容词，表示'与支付相关的'或'有收益的'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "支付的",
+        "examples": [
+          {
+            "sentence": "The paying process via WeChat takes only 3 seconds.",
+            "sentence_zh": "微信支付的过程仅需3秒。"
+          },
+          {
+            "sentence": "AliPay has revolutionized paying habits in China.",
+            "sentence_zh": "支付宝彻底改变了中国的支付习惯。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "付款的",
+        "examples": [
+          {
+            "sentence": "The paying customer angrily demanded a refund.",
+            "sentence_zh": "付款的顾客愤怒地要求退款。"
+          },
+          {
+            "sentence": "All paying members get exclusive discounts.",
+            "sentence_zh": "所有付费会员享有专属折扣。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "有利的",
+        "examples": [
+          {
+            "sentence": "Selling bubble tea proved to be a paying business.",
+            "sentence_zh": "事实证明卖奶茶是个有利可图的生意。"
+          },
+          {
+            "sentence": "Investing in tech startups is not always paying.",
+            "sentence_zh": "投资科技初创企业并不总是有利可图。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "合算的",
+        "examples": [
+          {
+            "sentence": "Buying in bulk is more paying during shopping festivals.",
+            "sentence_zh": "购物节期间批量购买更合算。"
+          },
+          {
+            "sentence": "Is subscribing to this streaming service really paying?",
+            "sentence_zh": "订阅这个流媒体服务真的合算吗？"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "paying guest",
+        "meaning": "付费住宿者",
+        "examples": [
+          {
+            "sentence": "Many students in Beijing become paying guests in local families.",
+            "sentence_zh": "北京许多学生选择在当地家庭付费寄宿。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "paying capacity",
+        "meaning": "支付能力",
+        "examples": [
+          {
+            "sentence": "The new housing policy considers citizens' paying capacity.",
+            "sentence_zh": "新住房政策考虑了市民的支付能力。"
+          }
+        ]
+      }
+    ],
+    "teach": "paying就像电子钱包的提示音💸！当它表示'支付'时，像扫码付款时的'滴'声📱（paying process）；表示'有利'时，像收到红包时的零钱入账声💰（paying investment）。要说'血亏'可以叫money pit（钱坑），'赚翻'叫cash cow（摇钱树）🐮。记住：paying结尾带-ing，说明金钱正在流动中！",
+    "recite": {
+      "tips": [
+        "谐音梗：'配赢'→付款的(paying)才配赢",
+        "易混词对比：paid（已支付） VS paying（正在/有关支付）",
+        "记忆tip：-ing结尾让人联想到'正在进行时'的金钱流动"
+      ]
+    }
   }
 ]

@@ -18164,5 +18164,424 @@
         "易混词对比：invader(侵略者) vs marauder(更强调抢劫行为)"
       ]
     }
+  },
+  {
+    "word": "marketable",
+    "translation": "a. 可销售的, 销路好的, 市场的\\n[经] 有销路的, 可销售的",
+    "etymology": {
+      "breakdown": [
+        "market",
+        "able"
+      ],
+      "meaning_connection": "market=市场，-able=可...的→可在市场上流通的"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "可销售的",
+        "examples": [
+          {
+            "sentence": "These handmade clay teapots are highly marketable in Japan.",
+            "sentence_zh": "这些手工紫砂壶在日本极具销售潜力。"
+          },
+          {
+            "sentence": "The app's unique sticker design makes it easily marketable.",
+            "sentence_zh": "该应用的独特表情包设计使其极易销售。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "销路好的",
+        "examples": [
+          {
+            "sentence": "Spicy crayfish remains the most marketable dish this summer.",
+            "sentence_zh": "麻辣小龙虾仍是今夏销路最好的菜品。"
+          },
+          {
+            "sentence": "Her livestream makes ordinary cabbages surprisingly marketable.",
+            "sentence_zh": "她的直播让普通白菜变得出奇好卖。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "市场的",
+        "examples": [
+          {
+            "sentence": "The marketable value of this antique doubled after expert authentication.",
+            "sentence_zh": "经专家鉴定后这件古董的市场价值翻倍。"
+          },
+          {
+            "sentence": "We need to analyze the marketable trends of electric scooters.",
+            "sentence_zh": "我们需要分析电动滑板车的市场趋势。"
+          }
+        ]
+      }
+    ],
+    "teach": "marketable就像带货主播的黄金三分钟⏳——能卖的叫marketable（可销售的），秒光的叫highly marketable（销路好的）！古代丝绸之路上，骆驼商队最懂啥是marketable goods🐫。'滞销品'英语说white elephant（白象），'爆款'叫hot seller🔥。记住：你的技能也得marketable，不然就像无人问津的过季羽绒服❄️！",
+    "recite": {
+      "tips": [
+        "谐音梗：'马克杯特饱'→马克杯特好卖(marketable)",
+        "易混词对比：marketable（可销售的） vs. marketed（已上市的）"
+      ]
+    }
+  },
+  {
+    "word": "marquis",
+    "translation": "n. 侯爵",
+    "etymology": {
+      "breakdown": [
+        "marqu",
+        "is"
+      ],
+      "meaning_connection": "词根marqu=边境（古法语marche），后缀-is表人→原指守卫边境的贵族"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "侯爵",
+        "examples": [
+          {
+            "sentence": "The Marquis of Catsworth owns 300 Persian cats.",
+            "sentence_zh": "猫斯沃斯侯爵拥有300只波斯猫。"
+          },
+          {
+            "sentence": "This champagne was favored by French marquises in the 18th century.",
+            "sentence_zh": "这款香槟深受18世纪法国侯爵们喜爱。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "marquis potato",
+        "meaning": "公爵夫人土豆（法式奶油土豆泥）",
+        "examples": [
+          {
+            "sentence": "The secret of perfect marquis potatoes lies in freshly ground nutmeg.",
+            "sentence_zh": "完美公爵夫人土豆的秘诀在于现磨肉豆蔻。"
+          }
+        ]
+      }
+    ],
+    "teach": "marquis其实是'边境王'🛡️：词源marche=边境（想想麦当劳的Mc前缀也是这个来源🍟）。中世纪侯爵就像微信边境扫码官，专门管理领地交界处。'摆架子'叫put on marquis airs，形容人像《还珠格格》里的尔康👑。记住：侯爵比伯爵高一级，就像奶茶里的波霸比珍珠大一号！",
+    "recite": {
+      "tips": [
+        "谐音梗：'马可以死'→侯爵的马战死沙场",
+        "易混词对比：marquee（大帐篷）vs marquis",
+        "记忆tip：字母q在marquis里像权杖"
+      ]
+    }
+  },
+  {
+    "word": "mark",
+    "translation": "n. 标志, 分数, 马克, 痕迹, 斑点, 靶子, 刻度, 记号, 符号, 戳记, 标准, 起跑线\\nvt. 做标记于, 留意, 打分数, 表明, 标志, 记录\\nvi. 作记号, 记得分\\n[计] 标志; 标记; 传号",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'mearc'，与德语'Marke'同源，原指边界符号，后衍生出多种标记相关含义"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "标志",
+        "examples": [
+          {
+            "sentence": "The panda logo is the most recognizable mark of WWF.",
+            "sentence_zh": "熊猫标志是世界自然基金会最知名的标识。"
+          },
+          {
+            "sentence": "Ancient merchants used special marks to authenticate their goods.",
+            "sentence_zh": "古代商人用特殊标记来验证商品真伪。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "分数",
+        "examples": [
+          {
+            "sentence": "Her gaokao mark qualified her for Peking University.",
+            "sentence_zh": "她的高考分数够上北京大学。"
+          },
+          {
+            "sentence": "Full marks for your WeChat mini-program design!",
+            "sentence_zh": "你的微信小程序设计该得满分！"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "痕迹",
+        "examples": [
+          {
+            "sentence": "The archaeologist found chopstick marks on the 3000-year-old pottery.",
+            "sentence_zh": "考古学家在3000年前的陶器上发现了筷子痕迹。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "做标记于",
+        "examples": [
+          {
+            "sentence": "Ma Yun marked his calendar for Singles' Day promotion.",
+            "sentence_zh": "马云在日历上标记了双十一促销日。"
+          },
+          {
+            "sentence": "Tourists love marking the Great Wall with '到此一游'.",
+            "sentence_zh": "游客喜欢在长城上标记'到此一游'。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "打分数",
+        "examples": [
+          {
+            "sentence": "Teachers mark exam papers with red pens in China.",
+            "sentence_zh": "中国老师用红笔批改试卷。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "mark my words",
+        "meaning": "记住我的话",
+        "examples": [
+          {
+            "sentence": "Mark my words, this TikTok trend will go viral!",
+            "sentence_zh": "记住我的话，这个抖音潮流会爆火！"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "leave one's mark",
+        "meaning": "留下影响",
+        "examples": [
+          {
+            "sentence": "Lao Gan Ma has left its mark on global cuisine.",
+            "sentence_zh": "老干妈在全球美食界留下了深刻印记。"
+          }
+        ]
+      }
+    ],
+    "teach": "mark就像社会人纹身💉：考试要mark分数📝（get high marks），文物有mark痕迹🏺（historical marks），商品要mark商标™️（trade mark）。'差强人意'叫wide of the mark🎯，'标准动作'说up to the mark📏。记住：从学生分数到奢侈品logo，人生处处是mark！",
+    "recite": {
+      "tips": [
+        "谐音梗：'马刻'→关羽的赤兔马刻(mark)下蹄印",
+        "易混词：sign（抽象符号） vs mark（实体痕迹）",
+        "记忆法：马克笔(marker)就是用来mark的"
+      ]
+    }
+  },
+  {
+    "word": "margin",
+    "translation": "n. 页边的空白, 边缘, 界限, 余裕, 差数, 差额, 保证金\\nvt. 加边于, 加旁注于\\n[计] 页边距",
+    "etymology": {
+      "breakdown": [
+        "marg",
+        "in"
+      ],
+      "meaning_connection": "词根marg=边缘/记号（来自拉丁语margo），-in表属性→原指羊皮卷边缘的注释空间"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "页边的空白",
+        "examples": [
+          {
+            "sentence": "Ancient scholars wrote tiny notes in the margin of bamboo slips.",
+            "sentence_zh": "古代学者在竹简边缘写蝇头小注。"
+          },
+          {
+            "sentence": "Her textbook margins are full of doodles and memes.",
+            "sentence_zh": "她课本的页边空白处画满了涂鸦和梗图。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "边缘",
+        "examples": [
+          {
+            "sentence": "Pandas often chew bamboo at the margin of the forest.",
+            "sentence_zh": "熊猫常在森林边缘啃竹子。"
+          },
+          {
+            "sentence": "The margin of the ancient coin has special anti-fake markings.",
+            "sentence_zh": "这枚古钱币的边缘有特殊防伪刻痕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "余裕",
+        "examples": [
+          {
+            "sentence": "We need a safety margin when booking train tickets during Spring Festival.",
+            "sentence_zh": "春运购票需要留出余裕时间。"
+          },
+          {
+            "sentence": "The project schedule has no margin for delay.",
+            "sentence_zh": "这个项目进度没有拖延的余裕。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "差额",
+        "examples": [
+          {
+            "sentence": "The margin between two candidates is only 3 milk tea cups.",
+            "sentence_zh": "两位候选人的票数差额只差3杯奶茶钱。"
+          },
+          {
+            "sentence": "This milk tea shop's profit margin comes from pearl toppings.",
+            "sentence_zh": "这家奶茶店的利润差额来自珍珠加料。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "加边于",
+        "examples": [
+          {
+            "sentence": "The emperor's robe was margined with golden dragon patterns.",
+            "sentence_zh": "龙袍边缘镶着金丝龙纹。"
+          },
+          {
+            "sentence": "She margined her notebook with cartoon stickers.",
+            "sentence_zh": "她用卡通贴纸装饰笔记本边缘。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "profit margin",
+        "meaning": "利润率",
+        "examples": [
+          {
+            "sentence": "Bubble tea shops have higher profit margins than bookstores.",
+            "sentence_zh": "奶茶店的利润率比书店高得多。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "by a narrow margin",
+        "meaning": "以微弱优势",
+        "examples": [
+          {
+            "sentence": "The spicy hotpot won by a narrow margin over mala tang.",
+            "sentence_zh": "麻辣火锅以微弱优势战胜麻辣烫。"
+          }
+        ]
+      }
+    ],
+    "teach": "margin就像火锅里的格子🍲——'边缘区'放不辣的，'余裕'是还能加菜的空间，'差额'是肥牛vs毛肚的价格差💰。古代欧洲抄写员在羊皮卷margin写吐槽（类似弹幕📜），现在股民盯着profit margin就像看火锅汤底浓度🌶️。说'勉强够用'叫cut it close（像贴边停车🚗）",
+    "recite": {
+      "tips": [
+        "谐音梗：'马金'→汗血宝马的金色马鞍边缘",
+        "易混词：edge指锋利边缘，margin强调留白区域"
+      ]
+    }
+  },
+  {
+    "word": "martyr",
+    "translation": "n. 烈士, 受苦者, 受难者\\nvt. 使成为烈士, 使受苦",
+    "etymology": {
+      "breakdown": [
+        "martyr"
+      ],
+      "meaning_connection": "来自希腊语martyros（见证人），早期基督教指为信仰献身的见证者"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "烈士",
+        "examples": [
+          {
+            "sentence": "The museum displays shoes of martyrs from the Long March.",
+            "sentence_zh": "博物馆陈列着长征烈士们的草鞋。"
+          },
+          {
+            "sentence": "Firefighters who died saving others are honored as modern-day martyrs.",
+            "sentence_zh": "为救人牺牲的消防员被尊为当代烈士。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "受苦者",
+        "examples": [
+          {
+            "sentence": "She played the martyr by working overtime without complaining.",
+            "sentence_zh": "她默默加班扮演受苦者角色。"
+          },
+          {
+            "sentence": "Stop being a keyboard martyr and take breaks from your computer.",
+            "sentence_zh": "别当键盘受难者了，离开电脑休息会儿。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使成为烈士",
+        "examples": [
+          {
+            "sentence": "The revolution martyred countless young intellectuals.",
+            "sentence_zh": "那场革命使无数青年知识分子成为烈士。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "使受苦",
+        "examples": [
+          {
+            "sentence": "He martyred himself by eating his wife's experimental cooking.",
+            "sentence_zh": "他忍受妻子实验性厨艺而自我折磨。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "make a martyr of oneself",
+        "meaning": "故作牺牲状",
+        "examples": [
+          {
+            "sentence": "Don't make a martyr of yourself by refusing all help.",
+            "sentence_zh": "别故作清高拒绝所有帮助。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "martyr complex",
+        "meaning": "受难情结",
+        "examples": [
+          {
+            "sentence": "His martyr complex makes him volunteer for all unpleasant tasks.",
+            "sentence_zh": "他的受难情结促使他主动承担所有苦差事。"
+          }
+        ]
+      }
+    ],
+    "teach": "martyr本是'人肉见证机'📜：早期基督徒用生命为信仰作证（希腊语martyros）。如今'烈士'可指火锅英雄（为朋友涮毛肚烫到手的）🤲，'受难者'可能是996还微笑的程序猿🐒。说'别装烈士'用stop playing the martyr，'烈士情节'叫martyr complex就像总抢着买单的冤种朋友💸",
+    "recite": {
+      "tips": [
+        "谐音梗：'妈疼'→烈士牺牲妈妈疼",
+        "易混词：murder（谋杀）/martyr（牺牲）→一个结束别人生命，一个结束自己生命"
+      ]
+    }
   }
 ]

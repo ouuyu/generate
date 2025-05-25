@@ -19207,5 +19207,127 @@
         "易混词对比：ore（矿石）vs. core（核心）→ 矿石在核心"
       ]
     }
+  },
+  {
+    "word": "optimally",
+    "translation": " 最佳",
+    "etymology": {
+      "breakdown": [
+        "optim",
+        "al",
+        "ly"
+      ],
+      "meaning_connection": "词根optim=最佳（源自拉丁语optimus），-al为形容词后缀，-ly为副词后缀→以最佳方式"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "adv.",
+        "meaning": "最佳地",
+        "examples": [
+          {
+            "sentence": "The AI chatbot is optimally designed to handle 10,000 queries per second.",
+            "sentence_zh": "该AI聊天机器人被优化设计为每秒处理1万次查询。"
+          },
+          {
+            "sentence": "To enjoy stinky tofu optimally, eat it with chili sauce under a summer night.",
+            "sentence_zh": "最佳享用臭豆腐的方式，是夏夜配辣椒酱食用。"
+          }
+        ]
+      }
+    ],
+    "teach": "optimally其实是'奥普提姆'战队💪！词根optim来自拉丁语optimus（最强者），漫威的Optimus Prime（擎天柱）名字就源于此🤖。说'完美运作'用function optimally就像火锅火候调到黄金档位🔥，反义词是suboptimally（就像用筷子吃牛排🍴）。记住：你的手机充电到80%就是optimally charged！",
+    "recite": {
+      "tips": [
+        "谐音梗：'OP提莫'→英雄联盟提莫队长OP(optimally)状态",
+        "易混对比：optimal（adj.）VS optimally（adv.）"
+      ]
+    }
+  },
+  {
+    "word": "option",
+    "translation": "n. 选择权, 挑选, 选项\\n[计] 选项",
+    "etymology": {
+      "breakdown": [
+        "opt",
+        "ion"
+      ],
+      "meaning_connection": "词根opt=选择，-ion表名词→字面意思是'选择的行为'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "选择权",
+        "examples": [
+          {
+            "sentence": "Employees have the option to work remotely on Fridays.",
+            "sentence_zh": "员工有周五远程办公的选择权。"
+          },
+          {
+            "sentence": "The contract gives us the option to renew after one year.",
+            "sentence_zh": "合同赋予我们一年后续约的选择权。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "挑选",
+        "examples": [
+          {
+            "sentence": "The dessert menu offers five tempting options.",
+            "sentence_zh": "甜品菜单提供五种诱人的挑选。"
+          },
+          {
+            "sentence": "Her outfit was the best option among all the candidates.",
+            "sentence_zh": "她的穿搭是所有候选人中最棒的挑选。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "选项",
+        "examples": [
+          {
+            "sentence": "Scroll down to see more filter options on Douyin.",
+            "sentence_zh": "向下滚动查看抖音上更多滤镜选项。"
+          },
+          {
+            "sentence": "The 'dark mode' option reduces eye strain at night.",
+            "sentence_zh": "'深色模式'选项能减轻夜间用眼疲劳。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "keep one's options open",
+        "meaning": "保留选择余地",
+        "examples": [
+          {
+            "sentence": "I'm keeping my options open between KFC and McDonald's.",
+            "sentence_zh": "我在肯德基和麦当劳之间保留选择余地。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "have no option but to",
+        "meaning": "别无选择只能",
+        "examples": [
+          {
+            "sentence": "We had no option but to take the last train.",
+            "sentence_zh": "我们别无选择只能搭乘末班车。"
+          }
+        ]
+      }
+    ],
+    "teach": "option就像自助火锅的菜单🍲！古罗马人用opt(选择)词根创造了'眼馋'的单词👀。说'没得选'可以吐槽'zero options like a vending machine at midnight'（像半夜的自动贩卖机般空空如也）🍜。记住：点鸳鸯锅是keep both options，而'小孩子才做选择'叫FOMO（fear of missing options）🤹♂️",
+    "recite": {
+      "tips": [
+        "谐音梗：'熬不醒'→选择困难症患者熬夜纠结",
+        "易混词：choice（主观选择）vs option（客观存在的选项）",
+        "联想：OPT是美国留学生工作许可，本质是'选择权'"
+      ]
+    }
   }
 ]

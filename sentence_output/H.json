@@ -18198,5 +18198,333 @@
         "记忆口诀：H打头总没好事→hard, harm, hazardous"
       ]
     }
+  },
+  {
+    "word": "headboard",
+    "translation": "n. 床头板",
+    "etymology": {
+      "breakdown": [
+        "head",
+        "board"
+      ],
+      "meaning_connection": "字面组合'头(head)+板(board)'→支撑头部的木板"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "床头板",
+        "examples": [
+          {
+            "sentence": "The IKEA headboard has built-in USB ports for midnight scrolling.",
+            "sentence_zh": "宜家这款床头板自带USB接口方便深夜刷手机。"
+          },
+          {
+            "sentence": "She knocked her head against the velvet headboard while binge-watching dramas.",
+            "sentence_zh": "她追剧时脑袋磕在了天鹅绒床头板上。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "upholstered headboard",
+        "meaning": "软包床头板",
+        "examples": [
+          {
+            "sentence": "The hotel's leather headboard left imprints on my back.",
+            "sentence_zh": "酒店的真皮软包床头板在我背上压出了印子。"
+          }
+        ]
+      }
+    ],
+    "teach": "headboard是床的'表情包'🛏️！中世纪欧洲用雕花床头板展示财富💎，现代人用它藏充电线🔌。说'床头撞出包'用got a bump from headboard，'靠着玩手机'叫lean against the headboard like a sloth🦥。记住：没有headboard的床就像没有相框的自拍！",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑的板'→床头那块黑的板",
+        "易混词对比：headboard（床头板）vs. keyboard（键盘）",
+        "拆解记忆：head（头）+ board（板）= 头部倚靠的板"
+      ]
+    }
+  },
+  {
+    "word": "hearsay",
+    "translation": "n. 传闻, 谣言",
+    "etymology": {
+      "breakdown": [
+        "hear",
+        "say"
+      ],
+      "meaning_connection": "字面是'听来的说法'→未经核实的消息"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "传闻",
+        "examples": [
+          {
+            "sentence": "The news about celebrity breakups is often based on hearsay.",
+            "sentence_zh": "关于明星分手的消息常常基于传闻。"
+          },
+          {
+            "sentence": "Don't trust stock tips from hearsay in barber shops.",
+            "sentence_zh": "别相信理发店里听来的股票建议。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "谣言",
+        "examples": [
+          {
+            "sentence": "The hearsay about campus ghosts scared freshmen.",
+            "sentence_zh": "关于校园鬼怪的谣言吓坏了新生。"
+          },
+          {
+            "sentence": "WeChat groups spread hearsay faster than official news.",
+            "sentence_zh": "微信群传播谣言的速度比官方消息还快。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "hearsay evidence",
+        "meaning": "传闻证据",
+        "examples": [
+          {
+            "sentence": "The court rejected the hearsay evidence from neighbors.",
+            "sentence_zh": "法庭驳回了来自邻居的传闻证据。"
+          }
+        ]
+      }
+    ],
+    "teach": "hearsay就像传话游戏🎮：第一个人说'今晚吃烤鱼'，传到第十个人变成'外星人烤鲸鱼'👽！英语法庭严禁hearsay evidence（传闻证据），就像微信辟谣平台🚫。搭配'debunk hearsay'（破除谣言）比'不信谣不传谣'更地道，记住：Hearsay is like a bicycle - the further it goes, the more ridiculous it becomes🚲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'嗨say'→嗨着随便说(hearsay)的谣言",
+        "易混词对比：rumor（恶意谣言） vs hearsay（中性传闻）"
+      ]
+    }
+  },
+  {
+    "word": "heartbreaking",
+    "translation": "a. 令人悲伤的, 极其累人的, 令人动情的",
+    "etymology": {
+      "breakdown": [
+        "heart",
+        "break",
+        "ing"
+      ],
+      "meaning_connection": "字面'心碎'，heart表心脏/核心，break表破裂，-ing表形容词→情感冲击强烈到仿佛心脏碎裂"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "a.",
+        "meaning": "令人悲伤的",
+        "examples": [
+          {
+            "sentence": "The documentary about left-behind children was truly heartbreaking.",
+            "sentence_zh": "关于留守儿童的纪录片令人心碎。"
+          },
+          {
+            "sentence": "Her heartbreaking performance of the pipa moved the audience to tears.",
+            "sentence_zh": "她催人泪下的琵琶演奏让观众潸然泪下。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "极其累人的",
+        "examples": [
+          {
+            "sentence": "The 996 work schedule is absolutely heartbreaking for young programmers.",
+            "sentence_zh": "996工作制对年轻程序员而言极度摧残身心。"
+          },
+          {
+            "sentence": "Carrying 50kg of takeout up 20 floors is a heartbreaking job.",
+            "sentence_zh": "扛着50公斤外卖爬20楼是种令人崩溃的工作。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "令人动情的",
+        "examples": [
+          {
+            "sentence": "The reunion scene in the movie was so heartbreaking that even grandpa sniffled.",
+            "sentence_zh": "电影里的重逢场景如此动情，连爷爷都抽鼻子了。"
+          },
+          {
+            "sentence": "Her heartbreaking love letter written in ancient style went viral.",
+            "sentence_zh": "她那封文言文写就的动人情书火遍全网。"
+          }
+        ]
+      }
+    ],
+    "teach": "heartbreaking是'扎心啊老铁'💔的学术版：1) 古希腊人认为心脏是情绪中心❤️‍🔥，现代人说'心累'用soul-crushing更狠 2) 视觉联想：就像熊猫啃不动硬竹子🐼🎋 3) 搭配：heartbreaking news(噩耗)/heartbreaking effort(呕心沥血) 4) 地道说法：'虐心'叫gut-wrenching(肠子打结) 5) 记住：从悲伤到累趴再到感动，都能让你捂着胸口喊'我裂开了'🤯💔🥀",
+    "recite": {
+      "tips": [
+        "谐音梗：'哈皮breaking'→快乐(happy)破碎成心碎",
+        "易混对比：heartbroken(形容人)/heartbreaking(形容事)"
+      ]
+    }
+  },
+  {
+    "word": "Hebrew",
+    "translation": "n. 希伯来人, 希伯来语, 犹太人\\na. 希伯来人的, 希伯来语的",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希伯来语'Ivri'（渡河而来的人），指亚伯拉罕从两河流域渡河到迦南的典故"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "希伯来人",
+        "examples": [
+          {
+            "sentence": "The Hebrews developed the first monotheistic religion in history.",
+            "sentence_zh": "希伯来人创建了历史上首个一神教体系。"
+          },
+          {
+            "sentence": "Moses led the Hebrews out of Egypt according to the Bible.",
+            "sentence_zh": "据《圣经》记载，摩西曾带领希伯来人离开埃及。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "希伯来语",
+        "examples": [
+          {
+            "sentence": "Modern Hebrew revived many ancient words for technology like 'internet'.",
+            "sentence_zh": "现代希伯来语为'互联网'等科技词汇复活了大量古语。"
+          },
+          {
+            "sentence": "The Dead Sea Scrolls were written in paleo-Hebrew script.",
+            "sentence_zh": "死海古卷是用古希伯来文字书写的。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "希伯来人的",
+        "examples": [
+          {
+            "sentence": "Hebrew traditions influenced Christmas celebrations.",
+            "sentence_zh": "希伯来传统影响了圣诞节的庆祝方式。"
+          },
+          {
+            "sentence": "The Hebrew calendar is still used for religious events.",
+            "sentence_zh": "希伯来历至今仍用于宗教节日计算。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "a.",
+        "meaning": "希伯来语的",
+        "examples": [
+          {
+            "sentence": "This Hebrew keyboard has both ancient and modern letters.",
+            "sentence_zh": "这款希伯来语键盘同时包含古今字母。"
+          },
+          {
+            "sentence": "Hebrew poetry often uses acrostic techniques.",
+            "sentence_zh": "希伯来语诗歌常使用藏头诗技巧。"
+          }
+        ]
+      }
+    ],
+    "teach": "Hebrew是自带BGM的单词🎼！当犹太人穿越西奈半岛时，希伯来语就像移动WiFi保持文化连接📶（keep Hebrew alive）。说'完全不懂'可以用'It's all Greek to me'的希伯来版'Ivrit lo meduberet'🗣️。记住：从'עברית'（Ivrit）到Hebrew，就像从死海古卷变身现代以色列科技文档💻！",
+    "recite": {
+      "tips": [
+        "谐音梗：'黑玻璃'→透过古老的黑玻璃(hebrew)看犹太文明",
+        "易混词：Jewish（侧重民族身份）/Hebrew（侧重语言文化）"
+      ]
+    }
+  },
+  {
+    "word": "helix",
+    "translation": "n. 螺旋, 螺旋状物, 耳轮\\n[化] 螺旋",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自希腊语helix（螺旋），原指卷曲的形状"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "螺旋",
+        "examples": [
+          {
+            "sentence": "The staircase in the Shanghai Tower forms a perfect helix.",
+            "sentence_zh": "上海中心大厦的楼梯构成了完美的螺旋。"
+          },
+          {
+            "sentence": "DNA's double helix structure looks like a twisted ladder.",
+            "sentence_zh": "DNA的双螺旋结构看起来像扭曲的梯子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "螺旋状物",
+        "examples": [
+          {
+            "sentence": "The baker created a helix-shaped bread that went viral on Xiaohongshu.",
+            "sentence_zh": "面包师制作了一个螺旋形状的面包，在小红书上走红。"
+          },
+          {
+            "sentence": "The dragon in the painting had helix horns.",
+            "sentence_zh": "画中的龙长着螺旋状的角。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "耳轮",
+        "examples": [
+          {
+            "sentence": "The helix piercing is one of the most popular ear piercings.",
+            "sentence_zh": "耳轮穿刺是最流行的耳部穿刺之一。"
+          },
+          {
+            "sentence": "His helix was frostbitten during the winter hike.",
+            "sentence_zh": "他的耳轮在冬季徒步旅行中被冻伤了。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "double helix",
+        "meaning": "双螺旋",
+        "examples": [
+          {
+            "sentence": "The discovery of DNA's double helix revolutionized biology.",
+            "sentence_zh": "DNA双螺旋的发现彻底改变了生物学。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "helix angle",
+        "meaning": "螺旋角",
+        "examples": [
+          {
+            "sentence": "The helix angle of this drill bit affects its cutting efficiency.",
+            "sentence_zh": "这个钻头的螺旋角影响其切割效率。"
+          }
+        ]
+      }
+    ],
+    "teach": "helix是宇宙的VIP会员卡💫：DNA用双螺旋存储生命密码🔑，耳轮(helix)像梵高的星空🌌一样盘旋。搭配'helix bracelet'螺旋手链是ins爆款💍，'helix galaxy'形容最浪漫的星系✨。要说'头都转晕了'可以幽默地说'My brain is doing helix gymnastics!'🤸‍♂️",
+    "recite": {
+      "tips": [
+        "视觉记忆：把h想象成旋转楼梯的扶手",
+        "易混词对比：helix(立体螺旋) vs. spiral(平面螺旋)"
+      ]
+    }
   }
 ]

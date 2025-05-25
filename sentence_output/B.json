@@ -18088,5 +18088,470 @@
         "文化梗：《冰与火之歌》私生子姓氏体系"
       ]
     }
+  },
+  {
+    "word": "batten",
+    "translation": "n. 板条, 木板\\n[机] 夹板, 撑条",
+    "etymology": {
+      "breakdown": [
+        "bat",
+        "en"
+      ],
+      "meaning_connection": "词源可能与古英语'bata'（棍棒）相关，后缀-en表'小'或'材料'"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "板条",
+        "examples": [
+          {
+            "sentence": "The carpenter nailed bamboo battens for the tofu stall roof.",
+            "sentence_zh": "木匠为豆腐摊屋顶钉了竹制板条。"
+          },
+          {
+            "sentence": "These antique window battens still smell of tung oil.",
+            "sentence_zh": "这些老式窗棂板条还散发着桐油味。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "木板",
+        "examples": [
+          {
+            "sentence": "We used recycled battens to build a bookshelf for Peking opera scripts.",
+            "sentence_zh": "我们用回收木板搭建了存放京剧剧本的书架。"
+          },
+          {
+            "sentence": "The hotpot table was made of thick pine battens.",
+            "sentence_zh": "火锅桌由厚重的松木木板制成。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "batten down",
+        "meaning": "用板条固定（应对台风等）",
+        "examples": [
+          {
+            "sentence": "Fujian fishermen were battening down their boats before the typhoon came.",
+            "sentence_zh": "福建渔民在台风来临前用板条加固渔船。"
+          }
+        ]
+      }
+    ],
+    "teach": "batten是建筑界的乐高积木🧩！古人用板条(batten)盖房就像现代人拼宜家家具📦，'用板条固定'叫batten down就像给快递缠胶带📏。要说'临时修补'可以说jury-rig（海盗船式将就），形容'脆弱结构'叫house of cards🃏。记住：看到脚手架上的batten，就像看到排骨火锅的隔板🍲！",
+    "recite": {
+      "tips": [
+        "谐音梗：'掰疼'→掰木板(batten)手会疼",
+        "易混词：baton（指挥棒）vs batten（木板）",
+        "记忆法：bat（蝙蝠）+ten（十）→十只蝙蝠停在木板上"
+      ]
+    }
+  },
+  {
+    "word": "bawl",
+    "translation": "n. 大叫声\\nv. 大叫",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "可能源自拟声词，模仿大声喊叫的声音"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "大叫声",
+        "examples": [
+          {
+            "sentence": "The sudden bawl of the baby startled everyone in the restaurant.",
+            "sentence_zh": "婴儿突然的大叫声吓到了餐厅里的所有人。"
+          },
+          {
+            "sentence": "A loud bawl from the street made me drop my phone.",
+            "sentence_zh": "街上传来的一声大叫让我手机都掉了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v.",
+        "meaning": "大叫",
+        "examples": [
+          {
+            "sentence": "The coach bawled at the players for missing the goal.",
+            "sentence_zh": "教练因为球员射失球门而对他们大叫。"
+          },
+          {
+            "sentence": "Don't bawl at me! I can hear you perfectly well.",
+            "sentence_zh": "别冲我大叫！我听得清清楚楚。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "bawl out",
+        "meaning": "大声责骂",
+        "examples": [
+          {
+            "sentence": "My mom bawled me out for coming home late.",
+            "sentence_zh": "我妈妈因为我晚回家而大声责骂我。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "bawl one's eyes out",
+        "meaning": "嚎啕大哭",
+        "examples": [
+          {
+            "sentence": "She bawled her eyes out after watching the sad movie.",
+            "sentence_zh": "看完那部悲伤的电影后，她嚎啕大哭。"
+          }
+        ]
+      }
+    ],
+    "teach": "bawl这个词就像你邻居家开演唱会的分贝🔊！想象一下：老板在会议上bawl out（咆哮训斥）就像暴龙🦖发威，而小情侣分手时bawl eyes out（哭成泪人）堪比孟姜女哭长城🧂。记住：当你的外卖被送错时，用yell比bawl更文明哦😉",
+    "recite": {
+      "tips": [
+        "谐音梗：'暴哦'→暴躁时发出的声音",
+        "易混词对比：bellow（牛叫般的吼声）vs roar（狮子般的怒吼）"
+      ]
+    }
+  },
+  {
+    "word": "battleship",
+    "translation": "n. 战列舰, 主力舰",
+    "etymology": {
+      "breakdown": [
+        "battle",
+        "ship"
+      ],
+      "meaning_connection": "battle=战斗，ship=船→用于战斗的大型船只"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "战列舰",
+        "examples": [
+          {
+            "sentence": "The museum displays a model of the famous battleship Yamato.",
+            "sentence_zh": "博物馆展出了著名战列舰大和号的模型。"
+          },
+          {
+            "sentence": "Battleships were the kings of the sea during World War II.",
+            "sentence_zh": "二战期间，战列舰是海洋的霸主。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "主力舰",
+        "examples": [
+          {
+            "sentence": "The fleet's battleship led the attack with its massive guns.",
+            "sentence_zh": "舰队的主力舰用其巨大的火炮引领了进攻。"
+          },
+          {
+            "sentence": "Modern navies have replaced battleships with aircraft carriers.",
+            "sentence_zh": "现代海军已经用航空母舰取代了主力舰。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "battleship gray",
+        "meaning": "战舰灰",
+        "examples": [
+          {
+            "sentence": "He painted his car in classic battleship gray.",
+            "sentence_zh": "他把车漆成了经典的战舰灰色。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "battleship game",
+        "meaning": "战舰棋游戏",
+        "examples": [
+          {
+            "sentence": "We used to play battleship game during boring classes.",
+            "sentence_zh": "我们过去常在无聊的课堂上玩战舰棋游戏。"
+          }
+        ]
+      }
+    ],
+    "teach": "battleship就像海上移动城堡🏰！最早的战列舰叫'wooden walls'（木墙），因为真的用木头造🪵。现代战舰灰(battleship gray)是种高级色，比程序员格子衫高级100倍👔。玩战舰棋(battleship game)时喊'B7！'就像在指挥真实海战🌊。记住：真正的battleship比王者荣耀推塔刺激多了！",
+    "recite": {
+      "tips": [
+        "谐音梗：'掰头ship'→掰头(battle)的船",
+        "易混词：warship（泛指军舰）vs battleship（特指大型战舰）",
+        "视觉记忆：把字母b想象成战舰炮管"
+      ]
+    }
+  },
+  {
+    "word": "beating",
+    "translation": "n. 打, 挫败, 搏动\\n[化] 打浆",
+    "etymology": {
+      "breakdown": [
+        "beat",
+        "ing"
+      ],
+      "meaning_connection": "源自动词beat（击打）+名词后缀-ing，表示动作或结果"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "殴打",
+        "examples": [
+          {
+            "sentence": "The hero endured the villain's beating until reinforcements arrived.",
+            "sentence_zh": "主角忍受着反派的殴打直到援军到来。"
+          },
+          {
+            "sentence": "Ancient boxers considered beard-pulling a valid beating technique.",
+            "sentence_zh": "古代拳击手认为扯胡子是合理的殴打技巧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "挫败",
+        "examples": [
+          {
+            "sentence": "Our startup took a serious beating during the pandemic.",
+            "sentence_zh": "我们的初创公司在疫情期间遭受重挫。"
+          },
+          {
+            "sentence": "The chess champion suffered his first beating in 3 years.",
+            "sentence_zh": "棋王三年来首次尝到败绩。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "搏动",
+        "examples": [
+          {
+            "sentence": "The doctor counted 72 beatings per minute on my wrist.",
+            "sentence_zh": "医生在我手腕测到每分钟72次搏动。"
+          },
+          {
+            "sentence": "Ancient physicians believed the heart's beating controlled emotions.",
+            "sentence_zh": "古代医师认为心脏搏动主宰情绪。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "take a beating",
+        "meaning": "遭受打击",
+        "examples": [
+          {
+            "sentence": "Bitcoin took a beating after Elon Musk's tweet.",
+            "sentence_zh": "马斯克发推后比特币惨遭暴击。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "beating heart",
+        "meaning": "跳动的心脏",
+        "examples": [
+          {
+            "sentence": "The transplant team raced against time with the beating heart.",
+            "sentence_zh": "移植团队争分夺秒运送跳动的心脏。"
+          }
+        ]
+      }
+    ],
+    "teach": "beating是'被听'👂还是'毙停'🚫？当表示'殴打'时像叶问打木人桩🥋（take a beating）；'挫败'时像双十一购物车被清空🛒（stock took a beating）；'搏动'时像疯狂星期四的心跳💓（steady beating）。要说'惨败'可以用took a drubbing，形容心跳过速叫pounding💥。记住：这个词既能让你鼻青脸肿，也能让你心跳加速！",
+    "recite": {
+      "tips": [
+        "谐音梗：'逼停'→心跳逼停(beating)要急救",
+        "易混词：beatitude（至福）和beating（殴打）是天堂地狱之别"
+      ]
+    }
+  },
+  {
+    "word": "beck",
+    "translation": "n. 点头示意, 招手, 小河",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自中古英语，既有'点头/招手'的肢体语言含义，也有'小河'的地理含义，两者无直接关联"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "n.",
+        "meaning": "点头示意",
+        "examples": [
+          {
+            "sentence": "With a slight beck of his head, the Peking Opera performer signaled the drummers to begin.",
+            "sentence_zh": "京剧演员轻轻一点头，示意鼓手开始演奏。"
+          },
+          {
+            "sentence": "Her beck was so subtle that only the trained waiter noticed it across the crowded hotpot restaurant.",
+            "sentence_zh": "她的点头示意非常微妙，在拥挤的火锅店里只有训练有素的服务员注意到了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "招手",
+        "examples": [
+          {
+            "sentence": "The street vendor's beck attracted customers to his candied hawthorn sticks.",
+            "sentence_zh": "街头小贩的招手吸引顾客购买他的糖葫芦。"
+          },
+          {
+            "sentence": "Tourists followed the tour guide's beck like ducklings near the West Lake.",
+            "sentence_zh": "游客们像西湖边的小鸭子一样跟着导游的招手前进。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "小河",
+        "examples": [
+          {
+            "sentence": "We caught tiny shrimps in the crystal-clear beck behind the tea plantation.",
+            "sentence_zh": "我们在茶园后清澈的小河里捉到了小虾米。"
+          },
+          {
+            "sentence": "The ancient poem describes a moonlit night where 'the beck sings to the pebbles'.",
+            "sentence_zh": "古诗描绘了'小溪歌唱着流过卵石'的月夜景象。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "at someone's beck and call",
+        "meaning": "唯命是从",
+        "examples": [
+          {
+            "sentence": "The AI assistant is at users' beck and call 24/7.",
+            "sentence_zh": "这款AI助手全天候对用户唯命是从。"
+          },
+          {
+            "sentence": "In ancient times, emperors had hundreds of servants at their beck and call.",
+            "sentence_zh": "古时候皇帝有数百仆从随时听候差遣。"
+          }
+        ]
+      }
+    ],
+    "teach": "beck是个精分单词🤪！当它表示肢体动作时，就像班主任的眼神杀👀让你立刻安静（at teacher's beck）；作为小河时，又变身《小石潭记》里'斗折蛇行'的文艺溪流🌊。记住：'点头哈腰'说dance attendance on someone，而'随叫随到'正是at someone's beck and call！这个单词完美演绎了从威权到温婉的两幅面孔🎭",
+    "recite": {
+      "tips": [
+        "谐音梗：'别咳'→老师一别(beck)头全班不敢咳嗽",
+        "易混词对比：brook(更宽的小溪) vs beck(更窄的小溪)",
+        "记忆口诀：点头beck招手beck，小溪beck三合一"
+      ]
+    }
+  },
+  {
+    "word": "beckon",
+    "translation": "v. 招手示意, 召唤, 吸引\\nn. 表召唤的点头(或手势)",
+    "etymology": {
+      "breakdown": [],
+      "meaning_connection": "源自古英语'bēacnian'，原意为'用信号指示'，与'beacon（灯塔/信号）'同源"
+    },
+    "meanings": [
+      {
+        "part_of_speech": "vt.",
+        "meaning": "招手示意",
+        "examples": [
+          {
+            "sentence": "The traffic police beckoned the driver to pull over with glowing batons.",
+            "sentence_zh": "交警用发光指挥棒示意司机靠边停车。"
+          },
+          {
+            "sentence": "She beckoned the waiter while holding a half-eaten Peking duck pancake.",
+            "sentence_zh": "她拿着吃了一半的北京烤鸭卷饼向服务员招手。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "召唤",
+        "examples": [
+          {
+            "sentence": "The aroma of hotpot beckoned us into the alleyway restaurant.",
+            "sentence_zh": "火锅的香气把我们召唤进了巷子里的餐馆。"
+          },
+          {
+            "sentence": "Ancient temple bells beckon pilgrims from miles away.",
+            "sentence_zh": "古寺钟声召唤着数里外的香客。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "vt.",
+        "meaning": "吸引",
+        "examples": [
+          {
+            "sentence": "The neon lights of Shanghai's Bund beckon tourists like moths to flame.",
+            "sentence_zh": "上海外滩的霓虹灯像吸引飞蛾般吸引着游客。"
+          },
+          {
+            "sentence": "Discount signs beckon shoppers during Double Eleven sales.",
+            "sentence_zh": "双十一期间折扣标志吸引着购物者。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n.",
+        "meaning": "表召唤的点头(或手势)",
+        "examples": [
+          {
+            "sentence": "With a subtle beckon of her jade bracelet-adorned hand, the empress summoned her attendants.",
+            "sentence_zh": "戴着玉镯的手微微示意，皇后便召来了侍女。"
+          },
+          {
+            "sentence": "The tour guide's beckon was drowned in the crowd taking selfies.",
+            "sentence_zh": "导游的召唤手势淹没在拍照的人群中。"
+          }
+        ]
+      }
+    ],
+    "usages": [
+      {
+        "type": "phrase",
+        "form": "beckon to sb",
+        "meaning": "向某人示意",
+        "examples": [
+          {
+            "sentence": "The street vendor beckoned to passersby with a steaming basket of xiaolongbao.",
+            "sentence_zh": "摊主用冒着热气的小笼包向路人示意。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "form": "beckon sb nearer",
+        "meaning": "示意某人靠近",
+        "examples": [
+          {
+            "sentence": "The tea master beckoned the apprentice nearer to observe the precise water temperature.",
+            "sentence_zh": "茶道大师示意学徒靠近观察精确水温。"
+          }
+        ]
+      }
+    ],
+    "teach": "beckon是古代社交通知神器📜！就像诸葛亮挥鹅毛扇召东风🌀（beckon the wind），现代人用美团外卖召唤奶茶🧋（beckon delivery）。说'勾手指'可以叫seductive beckon，但别对老板用🤫！遇到疯狂打折时可以说'The sale beckons like Black Friday!' 💸记住：无论是勾魂小龙虾还是领导召唤，都用这个优雅动词！",
+    "recite": {
+      "tips": [
+        "谐音梗：'白啃'→白啃(beckon)鸡腿时召唤服务员",
+        "易混词：summon（正式召唤）/gesture（泛指手势）",
+        "记忆法：beacon（灯塔）发光就是无声的beckon"
+      ]
+    }
   }
 ]
